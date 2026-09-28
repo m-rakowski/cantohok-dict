@@ -1,0 +1,45 @@
+{
+  "$defs": {
+    "nonEmptyString": {
+      "pattern": "\\S",
+      "type": "string"
+    },
+    "row": {
+      "additionalProperties": false,
+      "properties": {
+        "id": { "pattern": "^[a-z0-9]{8}$", "type": "string" },
+        "partOfSpeech": { "$ref": "#/$defs/nonEmptyString" },
+        "meaning": { "$ref": "#/$defs/nonEmptyString" },
+        "traditional": { "$ref": "#/$defs/nonEmptyString" },
+        "jyutping": { "$ref": "#/$defs/nonEmptyString" },
+        "register": { "$ref": "#/$defs/nonEmptyString" },
+        "note": { "$ref": "#/$defs/nonEmptyString" },
+        "example": {
+          "additionalProperties": false,
+          "properties": {
+            "english": { "$ref": "#/$defs/nonEmptyString" },
+            "traditional": { "$ref": "#/$defs/nonEmptyString" },
+            "jyutping": { "$ref": "#/$defs/nonEmptyString" }
+          },
+          "required": ["english", "traditional", "jyutping"],
+          "type": "object"
+        }
+      },
+      "required": ["id", "partOfSpeech", "meaning", "traditional", "jyutping", "note"],
+      "type": "object"
+    }
+  },
+  "$id": "https://cantohok-dict/schema/word.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "additionalProperties": false,
+  "properties": {
+    "term": { "$ref": "#/$defs/nonEmptyString" },
+    "rows": {
+      "items": { "$ref": "#/$defs/row" },
+      "minItems": 1,
+      "type": "array"
+    }
+  },
+  "required": ["term", "rows"],
+  "type": "object"
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "https://cantohok-dict/schema/aliases.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "additionalProperties": {
+    "items": {
+      "pattern": "\\S",
+      "type": "string"
+    },
+    "minItems": 1,
+    "type": "array"
+  },
+  "type": "object"
+}

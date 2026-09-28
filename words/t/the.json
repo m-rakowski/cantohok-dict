@@ -1,0 +1,57 @@
+{
+  "term": "the",
+  "rows": [
+    {
+      "id": "iej59q48",
+      "partOfSpeech": "article",
+      "meaning": "definite article: known or mentioned",
+      "traditional": "嗰 + CL + N",
+      "jyutping": "go2 CL N",
+      "note": "This is the all-purpose choice when the noun is identifiable, a particular instance is intended, or one option is being singled out, as in 嗰本書.",
+      "example": {
+        "english": "I want to read the book.",
+        "traditional": "我想睇嗰本書。",
+        "jyutping": "ngo5 soeng2 tai2 go2 bun2 syu1"
+      }
+    },
+    {
+      "id": "ys1gu4nm",
+      "partOfSpeech": "article",
+      "meaning": "definite article: body part or kin term",
+      "traditional": "POSS + 個 + N",
+      "jyutping": "POSS go3 N",
+      "note": "Use this possessive construction for body parts, relatives, and pets when English uses “the” instead of an explicit possessive, as in 佢個頭.",
+      "example": {
+        "english": "Look at the dog's head.",
+        "traditional": "你睇吓佢個頭。",
+        "jyutping": "nei5 tai2 haa5 keoi5 go3 tau4"
+      }
+    },
+    {
+      "id": "au4c5kic",
+      "partOfSpeech": "article",
+      "meaning": "substantive superlative/ordinal",
+      "traditional": "最 + ADJ + 嗰 + CL",
+      "jyutping": "zeoi3 ADJ go2 CL",
+      "note": "Use this for the superlative slice of these senses, before an overt noun or alone when the noun is understood, as in 最好嗰個.",
+      "example": {
+        "english": "I want the best one.",
+        "traditional": "我要最好嗰個。",
+        "jyutping": "ngo5 jiu3 zeoi3 hou2 go2 go3"
+      }
+    },
+    {
+      "id": "72ojf8xf",
+      "partOfSpeech": "article",
+      "meaning": "substantive superlative/ordinal",
+      "traditional": "第 + ORD + CL",
+      "jyutping": "dai6 ORD CL",
+      "note": "Use this for the ordinal slice of these senses, before an overt noun or alone when the noun is understood, as in 第一個.",
+      "example": {
+        "english": "I was the first person to arrive.",
+        "traditional": "我係第一個到嘅。",
+        "jyutping": "ngo5 hai6 dai6 jat1 go3 dou3 ge3"
+      }
+    }
+  ]
+}

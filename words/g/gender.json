@@ -1,0 +1,58 @@
+{
+  "term": "gender",
+  "rows": [
+    {
+      "id": "49o8f2h9",
+      "partOfSpeech": "noun",
+      "meaning": "biological sex",
+      "traditional": "性別",
+      "jyutping": "sing3 bit6",
+      "note": "This is the all-purpose noun for gender, including biological, social, and grammatical contexts.",
+      "example": {
+        "english": "Please fill in your gender.",
+        "traditional": "請填返你嘅性別。",
+        "jyutping": "cing2 tin4 faan1 nei5 ge3 sing3 bit6"
+      }
+    },
+    {
+      "id": "xdqj137k",
+      "partOfSpeech": "noun",
+      "meaning": "biological sex",
+      "traditional": "生理性別",
+      "jyutping": "sang1 lei5 sing3 bit6",
+      "note": "Use this when you need to specify biological or anatomical sex in contrast with social gender.",
+      "example": {
+        "english": "This study records biological gender separately.",
+        "traditional": "呢項研究會分開記錄生理性別。",
+        "jyutping": "ni1 hong6 jin4 gau3 wui5 fan1 hoi1 gei3 luk6 sang1 lei5 sing3 bit6"
+      }
+    },
+    {
+      "id": "59omalg1",
+      "partOfSpeech": "noun",
+      "meaning": "social gender identity",
+      "traditional": "性別認同",
+      "jyutping": "sing3 bit6 jing6 tung4",
+      "note": "Use this when you specifically mean a person's social gender identity rather than gender as a general category.",
+      "example": {
+        "english": "Their gender identity deserves respect.",
+        "traditional": "佢嘅性別認同值得尊重。",
+        "jyutping": "keoi5 ge3 sing3 bit6 jing6 tung4 zik6 dak1 zyun1 zung6"
+      }
+    },
+    {
+      "id": "2x57pna1",
+      "partOfSpeech": "noun",
+      "meaning": "grammatical gender",
+      "traditional": "文法性別",
+      "jyutping": "man4 faat3 sing3 bit6",
+      "register": "written",
+      "note": "Use this in linguistics when gender is a grammatical category of nouns or pronouns.",
+      "example": {
+        "english": "This language has no grammatical gender distinction.",
+        "traditional": "呢種語言冇文法性別之分。",
+        "jyutping": "ni1 zung2 jyu5 jin4 mou5 man4 faat3 sing3 bit6 zi1 fan1"
+      }
+    }
+  ]
+}

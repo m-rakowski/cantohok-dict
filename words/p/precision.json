@@ -1,0 +1,46 @@
+{
+  "term": "precision",
+  "rows": [
+    {
+      "id": "ctyadwdo",
+      "partOfSpeech": "noun",
+      "meaning": "exactness; accuracy",
+      "traditional": "準確度",
+      "jyutping": "zeon2 kok3 dou6",
+      "note": "This is the all-purpose choice for the exactness or accuracy of a result.",
+      "example": {
+        "english": "The precision of this instrument’s measurements is very high.",
+        "traditional": "呢部儀器測量嘅準確度好高。",
+        "jyutping": "ni1 bou6 ji4 hei3 cak1 loeng4 ge3 zeon2 kok3 dou6 hou2 gou1"
+      }
+    },
+    {
+      "id": "phs3vw0m",
+      "partOfSpeech": "noun",
+      "meaning": "measurement repeatability",
+      "traditional": "精密度",
+      "jyutping": "zing1 mat6 dou6",
+      "register": "technical",
+      "note": "Use this in measurement contexts when repeated measurements give consistent results, regardless of their closeness to the true value.",
+      "example": {
+        "english": "We took the measurement several times, and the results had high precision.",
+        "traditional": "我哋重複量咗幾次，結果嘅精密度都好高。",
+        "jyutping": "ngo5 dei6 cung4 fuk1 loeng4 zo2 gei2 ci3 git3 gwo2 ge3 zing1 mat6 dou6 dou1 hou2 gou1"
+      }
+    },
+    {
+      "id": "m7hycar8",
+      "partOfSpeech": "noun",
+      "meaning": "number of significant digits",
+      "traditional": "有效數字位數",
+      "jyutping": "jau5 haau6 sou3 zi6 wai2 sou3",
+      "register": "technical",
+      "note": "Use this when precision means how many significant digits a measured value reliably contains.",
+      "example": {
+        "english": "The precision of this reading is limited to three significant digits.",
+        "traditional": "呢個讀數只可以報到三個有效數字位數。",
+        "jyutping": "nei1 go3 duk6 sou3 zi2 ho2 ji5 bou3 dou3 saam1 go3 jau5 haau6 sou3 zi6 wai2 sou3"
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "json.schemas": [
+    {
+      "fileMatch": ["words/**/*.json"],
+      "url": "./schema/word.schema.json"
+    },
+    {
+      "fileMatch": ["frequency.json"],
+      "url": "./schema/frequency.schema.json"
+    },
+    {
+      "fileMatch": ["aliases.json"],
+      "url": "./schema/aliases.schema.json"
+    }
+  ]
+}

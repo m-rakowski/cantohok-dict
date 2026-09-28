@@ -1,0 +1,70 @@
+{
+  "term": "which",
+  "rows": [
+    {
+      "id": "lvgkskpu",
+      "partOfSpeech": "det",
+      "meaning": "interrogative determiner",
+      "traditional": "邊",
+      "jyutping": "bin1",
+      "note": "This is the all-purpose choice for asking which item or person is meant.",
+      "example": {
+        "english": "Tell me which book is yours.",
+        "traditional": "話畀我知邊本書係你嘅。",
+        "jyutping": "waa6 bei2 ngo5 zi1 bin1 bun2 syu1 hai6 nei5 ge3"
+      }
+    },
+    {
+      "id": "oovh6qvt",
+      "partOfSpeech": "pron",
+      "meaning": "interrogative pronoun",
+      "traditional": "邊個",
+      "jyutping": "bin1 go3",
+      "note": "Use this as the default bare question for which person or which one.",
+      "example": {
+        "english": "Which person do you want to invite to dinner?",
+        "traditional": "你想請邊個食飯？",
+        "jyutping": "nei5 soeng2 ceng2 bin1 go3 sik6 faan6"
+      }
+    },
+    {
+      "id": "6mzzer2s",
+      "partOfSpeech": "pron",
+      "meaning": "interrogative pronoun",
+      "traditional": "邊 + CL + N",
+      "jyutping": "bin1 CL N",
+      "note": "Use this when the selected thing is named with its classifier and noun, such as which book.",
+      "example": {
+        "english": "Which book do you think is the most useful?",
+        "traditional": "你覺得邊本書最有用？",
+        "jyutping": "nei5 gok3 dak1 bin1 bun2 syu1 zeoi3 jau5 jung6"
+      }
+    },
+    {
+      "id": "32yarx5r",
+      "partOfSpeech": "pron",
+      "meaning": "interrogative pronoun",
+      "traditional": "邊啲",
+      "jyutping": "bin1 di1",
+      "note": "Use this for a plural selection when several items are being chosen.",
+      "example": {
+        "english": "Which restaurants still have tables tonight?",
+        "traditional": "今晚邊啲餐廳仲有位？",
+        "jyutping": "gam1 maan5 bin1 di1 caan1 teng1 zung6 jau5 wai2"
+      }
+    },
+    {
+      "id": "3kmaxywc",
+      "partOfSpeech": "det",
+      "meaning": "whichever determiner",
+      "traditional": "邊 + CL + N + 都",
+      "jyutping": "bin1 CL N dou1",
+      "note": "Use this free-choice construction when the meaning is whichever or any one that fits, rather than a question.",
+      "example": {
+        "english": "It doesn't matter which one you choose.",
+        "traditional": "你揀邊個都得。",
+        "jyutping": "nei5 gaan2 bin1 go3 dou1 dak1"
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "cantohok-dict",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=25.9.0"
+  },
+  "scripts": {
+    "format": "prettier --write .",
+    "check": "prettier --check . && node scripts/check.ts",
+    "test": "node --test scripts/*.test.ts",
+    "typecheck": "tsc",
+    "lint": "oxlint scripts",
+    "export": "node scripts/export.ts",
+    "new-id": "node scripts/new-id.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.3",
+    "ajv": "^8.20.0",
+    "csv-stringify": "^6.9.0",
+    "oxlint": "^1.85.0",
+    "prettier": "^3.9.9",
+    "prettier-plugin-sort-json": "^4.2.0",
+    "typescript": "^7.0.2"
+  }
+}

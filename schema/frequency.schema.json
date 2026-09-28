@@ -1,0 +1,25 @@
+{
+  "$id": "https://cantohok-dict/schema/frequency.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "additionalProperties": false,
+  "properties": {
+    "rows": {
+      "additionalProperties": {
+        "additionalProperties": false,
+        "properties": {
+          "meaningShare": { "maximum": 100, "minimum": 0, "type": "integer" },
+          "share": { "maximum": 100, "minimum": 0, "type": "integer" }
+        },
+        "required": ["meaningShare", "share"],
+        "type": "object"
+      },
+      "type": "object"
+    },
+    "words": {
+      "additionalProperties": { "minimum": 1, "type": "integer" },
+      "type": "object"
+    }
+  },
+  "required": ["rows", "words"],
+  "type": "object"
+}

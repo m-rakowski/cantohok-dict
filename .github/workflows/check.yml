@@ -1,0 +1,53 @@
+# Runs on every pull request (and on main after a merge): the same commands
+# CONTRIBUTING.md asks a contributor to run before opening one. A pull request
+# whose files break a rule, or whose change breaks a script, shows a red check.
+#
+# `pull_request` rather than `pull_request_target` on purpose: a pull request
+# from a fork runs with a read-only token and no secrets, so an untrusted change
+# can run here safely. This workflow needs no secrets at all.
+#
+# No job-level `if:`: a skipped job still reports a check run, and a skipped
+# check satisfies a required status check, so a merge could go green having run
+# nothing.
+
+name: check
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: pnpm/action-setup@v5
+        with:
+          version: 11
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version-file: .nvmrc
+          cache: pnpm
+
+      - run: pnpm install --frozen-lockfile
+
+      # Type-checks scripts/**/*.ts with tsc (noEmit). Node runs the scripts by
+      # stripping their types without checking them, so this is the only type check.
+      - run: pnpm run typecheck
+
+      # Lints scripts/ with oxlint's default rules.
+      - run: pnpm run lint
+
+      # Prettier's layout check, the JSON Schemas, and the cross-file rules
+      # (scripts/check.ts).
+      - run: pnpm run check
+
+      # The scripts' own tests.
+      - run: pnpm run test

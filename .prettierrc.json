@@ -1,0 +1,12 @@
+{
+  "arrowParens": "avoid",
+  "jsonRecursiveSort": true,
+  "jsonSortOrder": "{\"term\":null,\"rows\":null,\"words\":null,\"id\":null,\"partOfSpeech\":null,\"meaning\":null,\"english\":null,\"traditional\":null,\"jyutping\":null,\"register\":null,\"note\":null,\"example\":null,\"meaningShare\":null,\"share\":null,\"/.*/\":\"lexical\"}",
+  "overrides": [
+    { "files": ["./aliases.json", "./frequency.json"], "options": { "jsonSortOrder": "{\"/.*/\":\"lexical\"}" } }
+  ],
+  "plugins": ["prettier-plugin-sort-json"],
+  "printWidth": 120,
+  "semi": false,
+  "singleQuote": true
+}
