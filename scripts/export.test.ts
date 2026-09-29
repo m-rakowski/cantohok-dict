@@ -14,11 +14,11 @@ test('loadValidRepo refuses an invalid repo', () => {
   assert.throws(() => loadValidRepo(writeTree(files)), /words\/c\/cab\.json: invalid JSON/)
 })
 
-test('toCsv: header, rank order, quoting', () => {
+test('toCsv: BOM, header, rank order, quoting', () => {
   assert.equal(
     toCsv(repo()),
     [
-      'id,term,partOfSpeech,meaning,traditional,jyutping,register,note,exampleEnglish,exampleTraditional,exampleJyutping',
+      '\u{FEFF}id,term,partOfSpeech,meaning,traditional,jyutping,register,note,exampleEnglish,exampleTraditional,exampleJyutping',
       'bbbbbbb1,Thursday,noun,day of the week,星期四,sing1 kei4 sei3,,This is the all-purpose word for Thursday.,,,',
       'aaaaaaa1,cab,noun,taxi,的士,dik1 si2,,This is the all-purpose Cantonese noun for a taxi or cab.,We called a cab to the airport.,我哋叫咗部的士去機場。,ngo5 dei6 giu3 zo2 bou6 dik1 si2 heoi3 gei1 coeng4',
       'aaaaaaa2,cab,noun,taxi,車頭,ce1 tau4,colloquial,Use this colloquial term for the cab or front section of a truck.,,,',
@@ -98,8 +98,8 @@ test('toJsonl: one object per row with term, rank and shares', () => {
   ])
 })
 
-test('toAliasesCsv', () => {
-  assert.equal(toAliasesCsv(repo()), 'alias,term\nthursdays,Thursday\n')
+test('toAliasesCsv: BOM, header, one pair per line', () => {
+  assert.equal(toAliasesCsv(repo()), '\u{FEFF}alias,term\nthursdays,Thursday\n')
 })
 
 test('toPleco: BOM, one entry per row, Pleco line breaks and formatting', () => {

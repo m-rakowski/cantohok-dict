@@ -134,3 +134,16 @@ remember the rule — just let `check` tell you if you got a filename wrong.
 
 You don't need to run this yourself to contribute a fix — it only matters if
 you're preparing a release.
+
+## Releases
+
+A release is a GitHub Release whose tag is the date it was cut, like
+`2026.09.29` (a second release on the same day gets `2026.09.29.2`). To cut
+one from an up-to-date `main`:
+
+1. `pnpm run export`
+2. `gh release create <date> dist/* --target main --title <date>` and write
+   what changed since the previous release in the notes.
+
+The data in every release is CC BY-SA 4.0 (`LICENSE`), with the attribution in
+`CREDITS.md`; the scripts are MIT (`LICENSE-CODE`).
