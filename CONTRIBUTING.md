@@ -23,6 +23,10 @@ files are laid out and the steps to change them.
 - `aliases.json` — other spellings or forms of a word that should lead to it,
   for example `"child": ["children"]`. Only words that have another form
   listed here appear in this file.
+- `candidates/` — lists of English terms we know are missing, waiting to be
+  sent to the generator. They are not part of the dictionary: nothing here is
+  checked or exported. `hk-everyday.json` is everyday Hong Kong vocabulary
+  (dim sum, air conditioner) with the Hong Kong word we expect for each.
 - `schema/` — a set of rules (JSON Schema) that every file above must follow.
   If your editor is set up (see below), it warns you the moment a field is
   missing or misspelled, before you even save.
