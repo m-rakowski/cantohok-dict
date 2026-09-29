@@ -38,21 +38,39 @@ the skills' own default, same as anki-lab.
 
 A rule in this file wins over a skill's default.
 
-- **No git worktrees, ever.** Skip `using-git-worktrees`, and when another
-  skill says to create one, work on a normal branch in the current checkout
-  instead. Mike does not want extra checkouts or duplicate installs. Parallel
-  agents may read and review; the main agent makes every edit, one after
-  another.
+- **Create the feature branch first, before any commit.** That includes the
+  spec `brainstorming` commits and the plan `writing-plans` commits. In the
+  skills, the branch normally comes from `using-git-worktrees` at execution
+  time, which is too late, and this repo has no push hook to catch a commit on
+  `main`. Run `pnpm run format` on specs and plans too: `pnpm run check` runs
+  Prettier over `docs/`.
+- **No git worktrees, ever.** Skip `using-git-worktrees`. When another skill
+  says to create one, work on the feature branch in the current checkout
+  instead. Mike does not want extra checkouts or duplicate installs.
+- **One writer at a time.** Parallel agents may investigate and review
+  read-only. Only one agent edits files at any moment: the main agent, or
+  under `subagent-driven-development` the one implementer subagent working on
+  the current task. Tasks run in order, never side by side.
+- **The plan-running skills still stop for Mike.** `subagent-driven-development`
+  and `executing-plans` say not to pause, and list the only reasons to stop.
+  In this repo, two more are added to that list: any paid model call, and any
+  decision this file leaves to Mike. Those are stops, not rulings the agent
+  makes on his behalf.
 - **`finishing-a-development-branch` always ends in a pull request.** Never
   pick "merge locally". `main` is merge-only.
-- **One outside review, then open.** `requesting-code-review` runs once. Fix
-  what survives verification, open the pull request, and name the fix commits
-  in `## Details` as not re-reviewed. Do not loop the fixes back for a second
-  look.
+- **One outside review before opening.** `requesting-code-review` runs once on
+  the finished branch. Fix what survives verification, open the pull request,
+  and name the fix commits in `## Details` as not re-reviewed. Do not loop the
+  fixes back for a second look. `subagent-driven-development`'s own per-task
+  review rounds are part of executing the plan, and they still run.
 - **Test-driven development is for `scripts/`, not for word edits.** A word fix
-  is a data change: the test is `pnpm run check`, and the review is someone
-  reading the Cantonese. When a mistake could come back in many words, the fix
-  is a new rule in `scripts/check.ts`, written test-first.
+  is a data change: the test is `pnpm run format`, then `pnpm run check`, and
+  the review is someone reading the Cantonese. When a mistake could come back
+  in many words, the fix is a new rule in `scripts/check.ts`, written
+  test-first.
+- **`writing-skills` writes to `.claude/skills/` in this repo**, never to
+  `~/.claude/skills/`. A skill in a personal folder is invisible to every other
+  checkout and to cloud sessions.
 - **`brainstorming` questions stop for Mike's answer, one at a time.** That
   skill already asks one question per message; keep to it.
 
@@ -70,7 +88,9 @@ A rule in this file wins over a skill's default.
   - **"Slow down" means explain it completely, across more messages, in simpler
     words.** Say how many pieces there are, send them one per message with a
     "does that part make sense?" after each, and put the open question in the
-    last one. Never drop a fact or the question that was open.
+    last one. Never drop a fact or the question that was open. It changes
+    how a thing is explained, not whether to wait: anything that stops for his
+    yes still stops.
   - **Never tell him to rest, sleep or take a break**, and never use his
     tiredness as a reason to put off a decision.
 - **Play a bug report back as numbered steps before acting on it, and wait for
@@ -79,6 +99,9 @@ A rule in this file wins over a skill's default.
   separate questions. A yes to one fact is not a yes to a theory built on it.
   When his next message contradicts your summary, the summary is wrong: drop
   it and rebuild from his words.
+  - **Agreement you cannot restate is not understanding.** If you cannot write
+    the expected result in one sentence he would sign, you do not have it yet.
+    Say so and ask.
 
 ## Ground rules
 
@@ -96,7 +119,12 @@ A rule in this file wins over a skill's default.
   pnpm run test
   ```
 
-  A red check is a real failure; open its log and fix it.
+  A red check is a real failure; open its log and fix it. The exception is a
+  failure `main` has too: say which check, show that `main` fails it as well,
+  and carry on with the rest rather than fixing it in this branch.
+
+- **Use the Node version in `.nvmrc`**, which CI reads too. Do not widen it;
+  bump it in its own commit with every check re-run.
 
 - **Never merge on Mike's behalf unless he asks, and never against a red
   check.** A finding that turns up after he said "merge it" goes back to him
@@ -125,7 +153,13 @@ A rule in this file wins over a skill's default.
   and reports the last command's exit status, not the one you care about.
 
 - **Never write a count or a list of words into a doc.** Write the command that
-  produces it. A typed-out count goes stale silently.
+  produces it. A typed-out count goes stale silently. Then run that command and
+  compare its output with the text it replaces before deleting the text. A
+  command that answers a different question looks authoritative and is wrong.
+- **Findings you had to dig for go back into the repo.** When a question takes
+  a real investigation, such as why a check fails or where a field comes from,
+  write the answer into `CONTRIBUTING.md` or a `docs/` page in the same change,
+  with the file pointers that prove it.
 - **A correction is a new claim.** It gets the same checking as new content: a
   wrong fix reads as freshly verified, which makes it worse than the old text.
 - **A bug you trip over that is not the task gets logged, not fixed.** File an
@@ -138,6 +172,23 @@ A rule in this file wins over a skill's default.
 - **Rules live in this repo**, in this file or `.claude/skills/`, never in an
   agent's memory store.
 
+## Writing a check a review cannot hole
+
+This applies to `scripts/check.ts` and anything else that inspects input and
+decides.
+
+- **Say what is allowed, never what is forbidden.** A list of banned shapes is
+  only as good as its author's imagination, and every omission is a hole. A
+  rule that accepts only a known-good shape cannot be incomplete.
+- **Prefer a design whose failure mode is refusal.** Where a rule must be
+  incomplete, make the gap reject rather than pass.
+- **Write the attack list before the fix.** First ask how the rule could be
+  defeated and what input nobody has named yet. Then write the tests from that
+  list, not from the code.
+- **Assert the whole object.** In `scripts/*.test.ts`, compare the whole row or
+  file the code produces with `assert.deepStrictEqual`, not one field of it. A
+  test that reads one property cannot see the field next to it ship empty.
+
 ## Pull requests and issues
 
 - **A pull request description has two parts.** First, for Mike: a real
@@ -147,6 +198,11 @@ A rule in this file wins over a skill's default.
 - **A pull request is done when every finding on it is fixed or answered.**
   Verify a finding before agreeing with it; decline one that would be new
   behavior rather than a fix, and say why.
+- **One round of automated review on the pull request, then triage and
+  decide.** Every push triggers a fresh review, so "fix what it finds" never
+  ends. Read one round in full, fix what is severe, answer and decline the rest
+  in writing on the thread, and bring what is left to Mike rather than pushing
+  again.
 - **Every issue starts with steps to reproduce**: the word to look up and where
   (`words/c/cab.json`, a release file, or the app), what it shows, and what it
   should show. Then say which side is right, and end with what the issue
