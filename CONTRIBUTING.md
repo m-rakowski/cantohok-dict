@@ -146,21 +146,17 @@ git tag 2026-10-15 origin/main
 git push origin 2026-10-15
 ```
 
+A second release on the same day is `2026-10-15.2`. Push one tag at a time:
+GitHub starts nothing for a push of more than three tags, so `git push --tags`
+can silently skip the release.
+
 `.github/workflows/release.yml` then runs the checks, runs `pnpm run export`,
 and publishes the release with the files attached. The notes come from
-`.github/release-notes.md`, with the word and row counts added on top. It
-refuses a tag that is not on `main`, a tag that is not a date, and a date that
-already has a release.
-
-## Releases
-
-A release is a GitHub Release whose tag is the date it was cut, like
-`2026.09.29` (a second release on the same day gets `2026.09.29.2`). To cut
-one from an up-to-date `main`:
-
-1. `pnpm run export`
-2. `gh release create <date> dist/* --target main --title <date>` and write
-   what changed since the previous release in the notes.
+`.github/release-notes.md`, with the word and row counts added on top and
+GitHub's list of pull requests merged since the previous release underneath.
+It refuses a tag on a commit that is not on `main`, and a tag that already has
+a release. Any other tag name (`v1`, `2026.10.15`) starts nothing at all, so
+if no release appears within a few minutes, check the tag's spelling first.
 
 The data in every release is CC BY-SA 4.0 (`LICENSE`), with the attribution in
 `CREDITS.md`; the scripts are MIT (`LICENSE-CODE`).
