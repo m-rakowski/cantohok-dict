@@ -436,3 +436,80 @@ test('reserved Windows device name without the trailing underscore fails', () =>
     'words/a/aux.json: file name does not match term "aux" (expected words/a/aux_.json)',
   ])
 })
+
+test('note that points at a numbered sense', () => {
+  for (const note of ['Use this for the formal side of sense 2.', 'Use this for the second sense of cab.'])
+    assert.deepEqual(
+      checkWith(
+        editCab(cab => {
+          cab.rows[0].note = note
+        }),
+      ),
+      [`${CAB}: row "aaaaaaa1" note points at a numbered sense ("${note.match(/sense 2|second sense/)![0]}")`],
+      note,
+    )
+})
+
+test('note may mention "a sixth sense"', () => {
+  assert.deepEqual(
+    checkWith(
+      editCab(cab => {
+        cab.rows[0].note = 'Use this when a driver seems to have a sixth sense for traffic.'
+      }),
+    ),
+    [],
+  )
+})
+
+test('note that says "slice" on a row not about slices', () => {
+  assert.deepEqual(
+    checkWith(
+      editCab(cab => {
+        cab.rows[0].note = 'Use this for the colloquial slice of cab.'
+      }),
+    ),
+    [`${CAB}: row "aaaaaaa1" note says "slice" on a row that is not about slices`],
+  )
+})
+
+test('note may say "slice" on a row whose meaning is about slices', () => {
+  assert.deepEqual(
+    checkWith(
+      editCab(cab => {
+        cab.rows[0].meaning = 'slice of bread'
+        cab.rows[1].meaning = 'slice of bread'
+        cab.rows[0].note = 'Use this for a thin slice of bread.'
+      }),
+    ),
+    [],
+  )
+})
+
+test('English example with a placeholder letter', () => {
+  assert.deepEqual(
+    checkWith(
+      editCab(cab => {
+        cab.rows[0].example.english = 'We called a cab for A, not for B.'
+      }),
+    ),
+    [`${CAB}: row "aaaaaaa1" example.english has a placeholder letter (A, B)`],
+  )
+})
+
+test('English example letters that are not placeholders', () => {
+  for (const english of [
+    'I called a cab.',
+    'A cab came. A driver waved.',
+    '“A cab is here,” she said.',
+    'The cab driver hosted a Q&A in a T-shirt after an X-ray in the U.S.',
+  ])
+    assert.deepEqual(
+      checkWith(
+        editCab(cab => {
+          cab.rows[0].example.english = english
+        }),
+      ),
+      [],
+      english,
+    )
+})

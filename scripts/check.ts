@@ -20,6 +20,16 @@
 // - Rows in the same word's file that share the same partOfSpeech and
 //   meaning (so, the same sense of the word) must all list the same
 //   meaningShare number in frequency.json.
+// - A note must read on its own. It must not point at the generator's
+//   numbered senses ("sense 2", "the second sense"), which a learner never
+//   sees, and it may say "slice" only on a row whose own term or meaning is
+//   about slices; anywhere else "slice" was generator talk for "part of a
+//   meaning" ("the colloquial slice").
+// - An English example must name real people and things, not a placeholder
+//   letter ("please A"). A capital letter on its own is allowed only as "I",
+//   or as the article "A" starting a sentence ("A dog barked."). A letter
+//   joined to another letter or digit ("Q&A", "T-shirt", "U.S.", "X-ray") is
+//   part of a word, not on its own.
 //
 // The shape of each file on its own — which fields are required, that text
 // fields can't be empty, that an id is 8 lowercase letters/digits, and so on
@@ -182,6 +192,46 @@ function checkMeaningShare(words: CheckedWord[], frequency: FrequencyFile | null
   }
 }
 
+// "sense 2", "senses 1 and 2", "sense #3", "the second sense". "sixth" is
+// left out on purpose: "a sixth sense" is ordinary English.
+const SENSE_NUMBER =
+  /\bsenses?\s*(?:#\s*)?(?:\d+|one|two|three|four|five|six|seven|eight|nine|ten)\b|\b(?:first|second|third|fourth|fifth|seventh|eighth|ninth|tenth|\d+(?:st|nd|rd|th))\s+senses?\b/i
+const SLICE = /\bslices?\b/i
+// A capital letter with no letter or digit touching it, directly or across
+// one joining character (&, ., -, ' or ’).
+const LONE_CAPITAL = /(?<![\p{L}\p{N}]|[\p{L}\p{N}][&.'’-])\p{Lu}(?![\p{L}\p{N}]|[&.'’-][\p{L}\p{N}])/gu
+// Start of the text, or just after a sentence end or an opening quote/bracket.
+const SENTENCE_START = /(?:^|[.!?:]\s+|["“‘(]\s*)$/
+
+/** The capital letters in `english` that stand alone, other than "I" and a sentence-initial article "A". */
+function loneLetters(english: string): string[] {
+  const found: string[] = []
+  for (const match of english.matchAll(LONE_CAPITAL)) {
+    const letter = match[0]
+    if (letter === 'I') continue
+    const before = english.slice(0, match.index)
+    const after = english.slice(match.index + 1)
+    if (letter === 'A' && SENTENCE_START.test(before) && /^ \p{L}/u.test(after)) continue
+    found.push(letter)
+  }
+  return found
+}
+
+function checkShownText(words: CheckedWord[], errors: string[]): void {
+  for (const { path, term, valid, file } of words) {
+    if (!valid || !file) continue
+    for (const row of file.rows) {
+      const sense = row.note.match(SENSE_NUMBER)
+      if (sense) errors.push(`${path}: row "${row.id}" note points at a numbered sense ("${sense[0]}")`)
+      if (SLICE.test(row.note) && !SLICE.test(`${term} ${row.meaning}`))
+        errors.push(`${path}: row "${row.id}" note says "slice" on a row that is not about slices`)
+      const letters = row.example ? loneLetters(row.example.english) : []
+      if (letters.length)
+        errors.push(`${path}: row "${row.id}" example.english has a placeholder letter (${letters.join(', ')})`)
+    }
+  }
+}
+
 /** Runs every check in this file against the repo at `root` and returns the list of error messages (empty means the repo is clean). */
 export function checkRepo(root: string): string[] {
   const errors: string[] = []
@@ -197,6 +247,7 @@ export function checkRepo(root: string): string[] {
   // that resolves to the wrong entry, would report an incidental, misleading
   // mismatch on top of the real problem already reported above.
   checkMeaningShare(words, frequencyClean ? frequency : null, errors)
+  checkShownText(words, errors)
   return errors
 }
 
