@@ -135,15 +135,28 @@ remember the rule — just let `check` tell you if you got a filename wrong.
 You don't need to run this yourself to contribute a fix — it only matters if
 you're preparing a release.
 
-## Releases
+## Publishing a release
 
-A release is a GitHub Release whose tag is the date it was cut, like
-`2026.09.29` (a second release on the same day gets `2026.09.29.2`). To cut
-one from an up-to-date `main`:
+Releases are built by GitHub, not on your machine. Tag a commit on `main` with
+today's date and push the tag:
 
-1. `pnpm run export`
-2. `gh release create <date> dist/* --target main --title <date>` and write
-   what changed since the previous release in the notes.
+```sh
+git fetch origin
+git tag 2026-10-15 origin/main
+git push origin 2026-10-15
+```
+
+A second release on the same day is `2026-10-15.2`. Push one tag at a time:
+GitHub starts nothing for a push of more than three tags, so `git push --tags`
+can silently skip the release.
+
+`.github/workflows/release.yml` then runs the checks, runs `pnpm run export`,
+and publishes the release with the files attached. The notes come from
+`.github/release-notes.md`, with the word and row counts added on top and
+GitHub's list of pull requests merged since the previous release underneath.
+It refuses a tag on a commit that is not on `main`, and a tag that already has
+a release. Any other tag name (`v1`, `2026.10.15`) starts nothing at all, so
+if no release appears within a few minutes, check the tag's spelling first.
 
 The data in every release is CC BY-SA 4.0 (`LICENSE`), with the attribution in
 `CREDITS.md`; the scripts are MIT (`LICENSE-CODE`).

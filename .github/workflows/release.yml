@@ -1,0 +1,101 @@
+# Publishes a release when a date tag is pushed:
+#
+#   git tag 2026-10-15 origin/main && git push origin 2026-10-15
+#
+# It checks out exactly the tagged commit, runs the same checks as check.yml,
+# builds the files with `pnpm run export`, and creates the GitHub release with
+# them attached. Building here rather than on a laptop means the files always
+# match the tag: nothing uncommitted can end up in them.
+#
+# Only tags shaped YYYY-MM-DD, or YYYY-MM-DD.N for a second release that day,
+# start it (the first release was 2026-09-29). The shape is all the filter
+# checks: 2026-13-45 would pass it. What protects the release is that the
+# tagged commit must already be on main, so a tag on an unmerged branch refuses
+# instead of publishing unreviewed words. A tag that already has a release also
+# refuses: `gh release create` will not overwrite one.
+
+name: release
+
+on:
+  push:
+    tags:
+      - '[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]'
+      - '[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9].[0-9]'
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          # Full history, so the "is it on main" check below can see main.
+          fetch-depth: 0
+          # The job's token can publish releases and push tags. Keep it out of
+          # .git/config, so the dependency code run below (pnpm install,
+          # prettier, oxlint, tsc, the tests) never holds it. Only the publish
+          # step gets it, as GH_TOKEN.
+          persist-credentials: false
+
+      - name: Refuse a tag that is not on main
+        run: |
+          git fetch --no-tags origin main
+          if ! git merge-base --is-ancestor "$GITHUB_SHA" origin/main; then
+            echo "::error::Tag $GITHUB_REF_NAME points at $GITHUB_SHA, which is not on main. Merge first, then tag a commit on main."
+            exit 1
+          fi
+
+      - uses: pnpm/action-setup@v5
+        with:
+          version: 11
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version-file: .nvmrc
+          cache: pnpm
+
+      - run: pnpm install --frozen-lockfile
+
+      # The same checks as check.yml: a release is never built from files that
+      # would fail a pull request.
+      - run: pnpm run typecheck
+      - run: pnpm run lint
+      - run: pnpm run check
+      - run: pnpm run test
+
+      # export.ts prints "exported <words> words, <rows> rows to dist/"; the two
+      # numbers go into the first line of the release notes.
+      - name: Build the release files
+        run: |
+          set -o pipefail
+          pnpm run export | tee export.log
+          summary=$(grep -E '^exported [0-9]+ words, [0-9]+ rows to dist/$' export.log)
+          words=$(echo "$summary" | cut -d' ' -f2)
+          rows=$(echo "$summary" | cut -d' ' -f4)
+          {
+            echo "The CantoHok English → Cantonese dictionary: $words English words and $rows Cantonese translations, each with Jyutping, a usage note, and usually an example sentence."
+            echo
+            cat .github/release-notes.md
+          } > notes.md
+
+      # `gh release create` attaches the release to the tag by name. If the tag
+      # was force-moved while this job ran, the release would sit on a commit
+      # other than the one the files were built from, so check again here.
+      - name: Refuse a tag that moved during the run
+        run: |
+          git fetch --no-tags --force origin "refs/tags/$GITHUB_REF_NAME:refs/tags/$GITHUB_REF_NAME"
+          now=$(git rev-parse "refs/tags/$GITHUB_REF_NAME^{commit}")
+          if [ "$now" != "$GITHUB_SHA" ]; then
+            echo "::error::Tag $GITHUB_REF_NAME now points at $now, not $GITHUB_SHA, which these files were built from. Not publishing."
+            exit 1
+          fi
+
+      # --generate-notes appends GitHub's list of pull requests merged since the
+      # previous release under the fixed notes, which is the "what changed".
+      - name: Publish the release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh release create "$GITHUB_REF_NAME" dist/* --verify-tag --title "$GITHUB_REF_NAME" --notes-file notes.md --generate-notes
