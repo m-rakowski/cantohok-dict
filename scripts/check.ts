@@ -24,12 +24,19 @@
 //   numbered senses ("sense 2", "the second sense"), which a learner never
 //   sees, and it may say "slice" only on a row whose own term or meaning is
 //   about slices; anywhere else "slice" was generator talk for "part of a
-//   meaning" ("the colloquial slice").
+//   meaning" ("the colloquial slice"). For the same reason it must not
+//   call itself one part of a meaning ("the formal side of the sense", "the
+//   willingness part of the meaning"), and it must not point at "the
+//   example", which was the generator's own example rather than the one the
+//   learner sees.
 // - An English example must name real people and things, not a placeholder
-//   letter ("please A"). A capital letter on its own is allowed only as "I",
-//   or as the article "A" starting a sentence ("A dog barked."). A letter
-//   joined to another letter or digit ("Q&A", "T-shirt", "U.S.", "X-ray") is
-//   part of a word, not on its own.
+//   letter ("please A", "B's car"). A capital letter on its own is allowed
+//   only as "I", as the article "A" starting a sentence ("A dog barked."), or
+//   after a word that takes a letter ("Plan B", "vitamin C", "grade A"). A
+//   letter joined to another letter or digit ("Q&A", "T-shirt", "U.S.",
+//   "X-ray", "O'Brien") is part of a word, not on its own. One gap is left
+//   open on purpose: "A agreed to help." looks exactly like "A dog barked."
+//   to a rule, so a placeholder "A" at the start of a sentence still passes.
 //
 // The shape of each file on its own — which fields are required, that text
 // fields can't be empty, that an id is 8 lowercase letters/digits, and so on
@@ -197,13 +204,19 @@ function checkMeaningShare(words: CheckedWord[], frequency: FrequencyFile | null
 const SENSE_NUMBER =
   /\bsenses?\s*(?:#\s*)?(?:\d+|one|two|three|four|five|six|seven|eight|nine|ten)\b|\b(?:first|second|third|fourth|fifth|seventh|eighth|ninth|tenth|\d+(?:st|nd|rd|th))\s+senses?\b/i
 const SLICE = /\bslices?\b/i
+const PART_OF_MEANING = /\b(?:aspect|part|side)s? of (?:the|this|that) (?:sense|meaning)s?\b/i
+const THE_EXAMPLE = /\bthe (?:[\w-]+ )?example\b/i
 // A capital letter with no letter or digit touching it, directly or across
-// one joining character (&, ., -, ' or ’).
-const LONE_CAPITAL = /(?<![\p{L}\p{N}]|[\p{L}\p{N}][&.'’-])\p{Lu}(?![\p{L}\p{N}]|[&.'’-][\p{L}\p{N}])/gu
-// Start of the text, or just after a sentence end or an opening quote/bracket.
-const SENTENCE_START = /(?:^|[.!?:]\s+|["“‘(]\s*)$/
+// one joining character (&, ., - or an apostrophe). A possessive "'s" does
+// not join: "B's car" still has a lone B.
+const LONE_CAPITAL = /(?<![\p{L}\p{N}]|[\p{L}\p{N}][&.'’-])\p{Lu}(?![\p{L}\p{N}]|[&.-][\p{L}\p{N}]|['’](?!s\b)\p{L})/gu
+// Start of the text, or just after a sentence end (but not the dot of "Mr."
+// and the like), a colon, a dash, or an opening quote/bracket.
+const SENTENCE_START = /(?:^|(?<!\b(?:Mr|Mrs|Ms|Dr|Prof|St))[.!?]\s+|:\s+|[—–]\s*|["“‘'(]\s*)$/
+// Words that are normally followed by a single letter.
+const TAKES_A_LETTER = /\b(?:plan|vitamin|grade|type|class)\s$/i
 
-/** The capital letters in `english` that stand alone, other than "I" and a sentence-initial article "A". */
+/** The capital letters in `english` that stand alone, other than "I", a sentence-initial article "A", and "Plan B"-style letters. */
 function loneLetters(english: string): string[] {
   const found: string[] = []
   for (const match of english.matchAll(LONE_CAPITAL)) {
@@ -211,7 +224,8 @@ function loneLetters(english: string): string[] {
     if (letter === 'I') continue
     const before = english.slice(0, match.index)
     const after = english.slice(match.index + 1)
-    if (letter === 'A' && SENTENCE_START.test(before) && /^ \p{L}/u.test(after)) continue
+    if (letter === 'A' && SENTENCE_START.test(before) && /^ [\p{L}\p{N}]/u.test(after)) continue
+    if (TAKES_A_LETTER.test(before)) continue
     found.push(letter)
   }
   return found
@@ -225,6 +239,10 @@ function checkShownText(words: CheckedWord[], errors: string[]): void {
       if (sense) errors.push(`${path}: row "${row.id}" note points at a numbered sense ("${sense[0]}")`)
       if (SLICE.test(row.note) && !SLICE.test(`${term} ${row.meaning}`))
         errors.push(`${path}: row "${row.id}" note says "slice" on a row that is not about slices`)
+      const part = row.note.match(PART_OF_MEANING)
+      if (part) errors.push(`${path}: row "${row.id}" note calls itself part of a meaning ("${part[0]}")`)
+      const example = row.note.match(THE_EXAMPLE)
+      if (example) errors.push(`${path}: row "${row.id}" note points at the generator's example ("${example[0]}")`)
       const letters = row.example ? loneLetters(row.example.english) : []
       if (letters.length)
         errors.push(`${path}: row "${row.id}" example.english has a placeholder letter (${letters.join(', ')})`)

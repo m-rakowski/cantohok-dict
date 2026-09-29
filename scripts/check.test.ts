@@ -513,3 +513,86 @@ test('English example letters that are not placeholders', () => {
       english,
     )
 })
+
+test('note may say "slice" when the word itself is about slices', () => {
+  assert.deepEqual(
+    checkWith(files => {
+      files['words/s/slice.json'] = `{
+  "term": "slice",
+  "rows": [
+    {
+      "id": "ccccccc1",
+      "partOfSpeech": "noun",
+      "meaning": "thin piece",
+      "traditional": "片",
+      "jyutping": "pin3",
+      "note": "This is the all-purpose word for a thin slice of something."
+    }
+  ]
+}
+`
+      editFrequency(freq => {
+        freq.rows.ccccccc1 = { meaningShare: 100, share: 100 }
+        freq.words.slice = 3000
+      })(files)
+    }),
+    [],
+  )
+})
+
+test('note that calls itself part of a meaning', () => {
+  assert.deepEqual(
+    checkWith(
+      editCab(cab => {
+        cab.rows[0].note = 'Use this for the formal side of the meaning.'
+      }),
+    ),
+    [`${CAB}: row "aaaaaaa1" note calls itself part of a meaning ("side of the meaning")`],
+  )
+})
+
+test('note that points at the generator’s example', () => {
+  assert.deepEqual(
+    checkWith(
+      editCab(cab => {
+        cab.rows[0].note = 'This is the standard choice for the default example “call a cab”.'
+      }),
+    ),
+    [`${CAB}: row "aaaaaaa1" note points at the generator's example ("the default example")`],
+  )
+})
+
+test('placeholder letters that look like part of a word', () => {
+  for (const [english, letter] of [
+    ["We took B's cab.", 'B'],
+    ['We took B’s cab.', 'B'],
+    ['Mr. A called a cab.', 'A'],
+  ])
+    assert.deepEqual(
+      checkWith(
+        editCab(cab => {
+          cab.rows[0].example.english = english
+        }),
+      ),
+      [`${CAB}: row "aaaaaaa1" example.english has a placeholder letter (${letter})`],
+      english,
+    )
+})
+
+test('more English example letters that are not placeholders', () => {
+  for (const english of [
+    "'A cab is here,' she said.",
+    'We waited — A cab came at last.',
+    'A 10-minute cab ride took us there.',
+    "Plan B was to call O'Brien's cab for a grade A driver with vitamin C.",
+  ])
+    assert.deepEqual(
+      checkWith(
+        editCab(cab => {
+          cab.rows[0].example.english = english
+        }),
+      ),
+      [],
+      english,
+    )
+})
