@@ -54,7 +54,10 @@ const CSV_COLUMNS = [
   'exampleJyutping',
 ]
 
-/** Builds the dictionary.csv contents: one row per Cantonese word, ordered by each word's rank in frequency.json, then alphabetically. */
+/**
+ * Builds the dictionary.csv contents: one row per Cantonese word, ordered by each word's rank in frequency.json, then alphabetically.
+ * Both CSVs start with a UTF-8 BOM (an invisible marker): without it, Excel guesses a legacy encoding and shows the Chinese as garbled text.
+ */
 export function toCsv(repo: Repo): string {
   const records = eachRow(repo).map(({ word, row }) => ({
     id: row.id,
@@ -69,7 +72,7 @@ export function toCsv(repo: Repo): string {
     exampleTraditional: row.example?.traditional ?? '',
     exampleJyutping: row.example?.jyutping ?? '',
   }))
-  return stringify(records, { header: true, columns: CSV_COLUMNS, record_delimiter: '\n' })
+  return stringify(records, { bom: true, header: true, columns: CSV_COLUMNS, record_delimiter: '\n' })
 }
 
 /** Builds the dictionary.jsonl contents: one JSON object per Cantonese word (including its rank and shares), one per line. */
@@ -104,7 +107,7 @@ export function toAliasesCsv(repo: Repo): string {
   pairs.sort((a, b) =>
     a.alias < b.alias ? -1 : a.alias > b.alias ? 1 : a.term < b.term ? -1 : a.term > b.term ? 1 : 0,
   )
-  return stringify(pairs, { header: true, columns: ['alias', 'term'], record_delimiter: '\n' })
+  return stringify(pairs, { bom: true, header: true, columns: ['alias', 'term'], record_delimiter: '\n' })
 }
 
 // Pleco's private-use formatting characters. Only the line break is documented by
