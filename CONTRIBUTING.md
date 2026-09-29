@@ -135,6 +135,23 @@ remember the rule — just let `check` tell you if you got a filename wrong.
 You don't need to run this yourself to contribute a fix — it only matters if
 you're preparing a release.
 
+## Publishing a release
+
+Releases are built by GitHub, not on your machine. Tag a commit on `main` with
+today's date and push the tag:
+
+```sh
+git fetch origin
+git tag 2026-10-15 origin/main
+git push origin 2026-10-15
+```
+
+`.github/workflows/release.yml` then runs the checks, runs `pnpm run export`,
+and publishes the release with the files attached. The notes come from
+`.github/release-notes.md`, with the word and row counts added on top. It
+refuses a tag that is not on `main`, a tag that is not a date, and a date that
+already has a release.
+
 ## Releases
 
 A release is a GitHub Release whose tag is the date it was cut, like
