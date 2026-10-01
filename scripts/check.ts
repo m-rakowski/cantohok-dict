@@ -21,11 +21,12 @@
 //   meaning (so, the same sense of the word) must all list the same
 //   meaningShare number in frequency.json.
 // - A note must read on its own. It must not point at the generator's
-//   numbered senses ("sense 2", "the second sense"), which a learner never
-//   sees, and it may say "slice" only on a row whose own term or meaning is
-//   about slices; anywhere else "slice" was generator talk for "part of a
-//   meaning" ("the colloquial slice"). For the same reason it must not
-//   call itself one part of a meaning ("the formal side of the sense", "the
+//   numbered senses ("sense 2", "the second sense", "a stage work (39)"),
+//   which a learner never sees, and it may say "slice" only on a row whose
+//   own term or meaning is about slices; anywhere else "slice" was generator
+//   talk for "part of a meaning" ("the colloquial slice"). For the same
+//   reason it must not call itself one part of a meaning ("the formal side
+//   of the sense", "the excitement side of the figurative sense", "the
 //   willingness part of the meaning"), and it must not point at "the
 //   example", which was the generator's own example rather than the one the
 //   learner sees.
@@ -203,8 +204,13 @@ function checkMeaningShare(words: CheckedWord[], frequency: FrequencyFile | null
 // left out on purpose: "a sixth sense" is ordinary English.
 const SENSE_NUMBER =
   /\bsenses?\s*(?:#\s*)?(?:\d+|one|two|three|four|five|six|seven|eight|nine|ten)\b|\b(?:first|second|third|fourth|fifth|seventh|eighth|ninth|tenth|\d+(?:st|nd|rd|th))\s+senses?\b/i
+// A sense number on its own in brackets: "a stage work (39)". A number with a
+// comma or words beside it ("(1,000 dollars)") is ordinary English.
+const BRACKETED_NUMBER = /\(\s*\d+\s*\)/
 const SLICE = /\bslices?\b/i
-const PART_OF_MEANING = /\b(?:aspect|part|side)s? of (?:the|this|that) (?:sense|meaning)s?\b/i
+// Up to two describing words may sit before "sense": "side of the figurative
+// sense".
+const PART_OF_MEANING = /\b(?:aspect|part|side)s? of (?:the|this|that)\s+(?:[\w-]+\s+){0,2}(?:sense|meaning)s?\b/i
 const THE_EXAMPLE = /\bthe (?:[\w-]+ )?example\b/i
 // A capital letter with no letter or digit touching it, directly or across
 // one joining character (&, ., - or an apostrophe). A possessive "'s" does
@@ -235,7 +241,7 @@ function checkShownText(words: CheckedWord[], errors: string[]): void {
   for (const { path, term, valid, file } of words) {
     if (!valid || !file) continue
     for (const row of file.rows) {
-      const sense = row.note.match(SENSE_NUMBER)
+      const sense = row.note.match(SENSE_NUMBER) ?? row.note.match(BRACKETED_NUMBER)
       if (sense) errors.push(`${path}: row "${row.id}" note points at a numbered sense ("${sense[0]}")`)
       if (SLICE.test(row.note) && !SLICE.test(`${term} ${row.meaning}`))
         errors.push(`${path}: row "${row.id}" note says "slice" on a row that is not about slices`)

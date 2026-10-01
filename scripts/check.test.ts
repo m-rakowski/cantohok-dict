@@ -438,14 +438,43 @@ test('reserved Windows device name without the trailing underscore fails', () =>
 })
 
 test('note that points at a numbered sense', () => {
-  for (const note of ['Use this for the formal side of sense 2.', 'Use this for the second sense of cab.'])
+  for (const [note, pointer] of [
+    ['Use this for the formal side of sense 2.', 'sense 2'],
+    ['Use this for the second sense of cab.', 'second sense'],
+    ['Use this for senses 1 and 2.', 'senses 1'],
+    ['Use this for sense #3.', 'sense #3'],
+  ])
     assert.deepEqual(
       checkWith(
         editCab(cab => {
           cab.rows[0].note = note
         }),
       ),
-      [`${CAB}: row "aaaaaaa1" note points at a numbered sense ("${note.match(/sense 2|second sense/)![0]}")`],
+      [`${CAB}: row "aaaaaaa1" note points at a numbered sense ("${pointer}")`],
+      note,
+    )
+})
+
+test('note that gives a sense number in brackets', () => {
+  assert.deepEqual(
+    checkWith(
+      editCab(cab => {
+        cab.rows[0].note = 'Use this for a hired car (39) or a taxi ride (40).'
+      }),
+    ),
+    [`${CAB}: row "aaaaaaa1" note points at a numbered sense ("(39)")`],
+  )
+})
+
+test('note may put words or a long number in brackets', () => {
+  for (const note of ['Use this for a cab (a taxi).', 'Use this when the fare is high (1,000 dollars or more).'])
+    assert.deepEqual(
+      checkWith(
+        editCab(cab => {
+          cab.rows[0].note = note
+        }),
+      ),
+      [],
       note,
     )
 })
@@ -551,6 +580,23 @@ test('note that calls itself part of a meaning', () => {
   )
 })
 
+test('note that calls itself part of a meaning, with a describing word in between', () => {
+  for (const [note, part] of [
+    ['Use this for the enthusiasm side of the figurative sense.', 'side of the figurative sense'],
+    ['Use this for the sacred aspect of the religious sense.', 'aspect of the religious sense'],
+    ['Use this for the weak part of the physical sense.', 'part of the physical sense'],
+  ])
+    assert.deepEqual(
+      checkWith(
+        editCab(cab => {
+          cab.rows[0].note = note
+        }),
+      ),
+      [`${CAB}: row "aaaaaaa1" note calls itself part of a meaning ("${part}")`],
+      note,
+    )
+})
+
 test('note that points at the generator’s example', () => {
   assert.deepEqual(
     checkWith(
@@ -567,6 +613,10 @@ test('placeholder letters that look like part of a word', () => {
     ["We took B's cab.", 'B'],
     ['We took B’s cab.', 'B'],
     ['Mr. A called a cab.', 'A'],
+    // Only the article "A" may start a sentence, and only when a word follows it.
+    ['B called a cab.', 'B'],
+    ["A's cab came.", 'A'],
+    ['A, call a cab.', 'A'],
   ])
     assert.deepEqual(
       checkWith(
