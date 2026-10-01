@@ -436,3 +436,213 @@ test('reserved Windows device name without the trailing underscore fails', () =>
     'words/a/aux.json: file name does not match term "aux" (expected words/a/aux_.json)',
   ])
 })
+
+test('note that points at a numbered sense', () => {
+  for (const [note, pointer] of [
+    ['Use this for the formal side of sense 2.', 'sense 2'],
+    ['Use this for the second sense of cab.', 'second sense'],
+    ['Use this for senses 1 and 2.', 'senses 1'],
+    ['Use this for sense #3.', 'sense #3'],
+  ])
+    assert.deepEqual(
+      checkWith(
+        editCab(cab => {
+          cab.rows[0].note = note
+        }),
+      ),
+      [`${CAB}: row "aaaaaaa1" note points at a numbered sense ("${pointer}")`],
+      note,
+    )
+})
+
+test('note that gives a sense number in brackets', () => {
+  assert.deepEqual(
+    checkWith(
+      editCab(cab => {
+        cab.rows[0].note = 'Use this for a hired car (39) or a taxi ride (40).'
+      }),
+    ),
+    [`${CAB}: row "aaaaaaa1" note points at a numbered sense ("(39)")`],
+  )
+})
+
+test('note may put words or a long number in brackets', () => {
+  for (const note of ['Use this for a cab (a taxi).', 'Use this when the fare is high (1,000 dollars or more).'])
+    assert.deepEqual(
+      checkWith(
+        editCab(cab => {
+          cab.rows[0].note = note
+        }),
+      ),
+      [],
+      note,
+    )
+})
+
+test('note may mention "a sixth sense"', () => {
+  assert.deepEqual(
+    checkWith(
+      editCab(cab => {
+        cab.rows[0].note = 'Use this when a driver seems to have a sixth sense for traffic.'
+      }),
+    ),
+    [],
+  )
+})
+
+test('note that says "slice" on a row not about slices', () => {
+  assert.deepEqual(
+    checkWith(
+      editCab(cab => {
+        cab.rows[0].note = 'Use this for the colloquial slice of cab.'
+      }),
+    ),
+    [`${CAB}: row "aaaaaaa1" note says "slice" on a row that is not about slices`],
+  )
+})
+
+test('note may say "slice" on a row whose meaning is about slices', () => {
+  assert.deepEqual(
+    checkWith(
+      editCab(cab => {
+        cab.rows[0].meaning = 'slice of bread'
+        cab.rows[1].meaning = 'slice of bread'
+        cab.rows[0].note = 'Use this for a thin slice of bread.'
+      }),
+    ),
+    [],
+  )
+})
+
+test('English example with a placeholder letter', () => {
+  assert.deepEqual(
+    checkWith(
+      editCab(cab => {
+        cab.rows[0].example.english = 'We called a cab for A, not for B.'
+      }),
+    ),
+    [`${CAB}: row "aaaaaaa1" example.english has a placeholder letter (A, B)`],
+  )
+})
+
+test('English example letters that are not placeholders', () => {
+  for (const english of [
+    'I called a cab.',
+    'A cab came. A driver waved.',
+    '“A cab is here,” she said.',
+    'The cab driver hosted a Q&A in a T-shirt after an X-ray in the U.S.',
+  ])
+    assert.deepEqual(
+      checkWith(
+        editCab(cab => {
+          cab.rows[0].example.english = english
+        }),
+      ),
+      [],
+      english,
+    )
+})
+
+test('note may say "slice" when the word itself is about slices', () => {
+  assert.deepEqual(
+    checkWith(files => {
+      files['words/s/slice.json'] = `{
+  "term": "slice",
+  "rows": [
+    {
+      "id": "ccccccc1",
+      "partOfSpeech": "noun",
+      "meaning": "thin piece",
+      "traditional": "片",
+      "jyutping": "pin3",
+      "note": "This is the all-purpose word for a thin slice of something."
+    }
+  ]
+}
+`
+      editFrequency(freq => {
+        freq.rows.ccccccc1 = { meaningShare: 100, share: 100 }
+        freq.words.slice = 3000
+      })(files)
+    }),
+    [],
+  )
+})
+
+test('note that calls itself part of a meaning', () => {
+  assert.deepEqual(
+    checkWith(
+      editCab(cab => {
+        cab.rows[0].note = 'Use this for the formal side of the meaning.'
+      }),
+    ),
+    [`${CAB}: row "aaaaaaa1" note calls itself part of a meaning ("side of the meaning")`],
+  )
+})
+
+test('note that calls itself part of a meaning, with a describing word in between', () => {
+  for (const [note, part] of [
+    ['Use this for the enthusiasm side of the figurative sense.', 'side of the figurative sense'],
+    ['Use this for the sacred aspect of the religious sense.', 'aspect of the religious sense'],
+    ['Use this for the weak part of the physical sense.', 'part of the physical sense'],
+  ])
+    assert.deepEqual(
+      checkWith(
+        editCab(cab => {
+          cab.rows[0].note = note
+        }),
+      ),
+      [`${CAB}: row "aaaaaaa1" note calls itself part of a meaning ("${part}")`],
+      note,
+    )
+})
+
+test('note that points at the generator’s example', () => {
+  assert.deepEqual(
+    checkWith(
+      editCab(cab => {
+        cab.rows[0].note = 'This is the standard choice for the default example “call a cab”.'
+      }),
+    ),
+    [`${CAB}: row "aaaaaaa1" note points at the generator's example ("the default example")`],
+  )
+})
+
+test('placeholder letters that look like part of a word', () => {
+  for (const [english, letter] of [
+    ["We took B's cab.", 'B'],
+    ['We took B’s cab.', 'B'],
+    ['Mr. A called a cab.', 'A'],
+    // Only the article "A" may start a sentence, and only when a word follows it.
+    ['B called a cab.', 'B'],
+    ["A's cab came.", 'A'],
+    ['A, call a cab.', 'A'],
+  ])
+    assert.deepEqual(
+      checkWith(
+        editCab(cab => {
+          cab.rows[0].example.english = english
+        }),
+      ),
+      [`${CAB}: row "aaaaaaa1" example.english has a placeholder letter (${letter})`],
+      english,
+    )
+})
+
+test('more English example letters that are not placeholders', () => {
+  for (const english of [
+    "'A cab is here,' she said.",
+    'We waited — A cab came at last.',
+    'A 10-minute cab ride took us there.',
+    "Plan B was to call O'Brien's cab for a grade A driver with vitamin C.",
+  ])
+    assert.deepEqual(
+      checkWith(
+        editCab(cab => {
+          cab.rows[0].example.english = english
+        }),
+      ),
+      [],
+      english,
+    )
+})
