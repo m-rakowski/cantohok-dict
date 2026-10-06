@@ -164,13 +164,16 @@ The data in every release is CC BY-SA 4.0 (`LICENSE`), with the attribution in
 ## Applying an accepted suggestion
 
 A suggestion from the app is a JSON list of field edits (`id`, `word`,
-`field`, `from`, `to`). Save it as `edits.json` and run:
+`field`, `from`, `to`). Save it as `edits.json` in this directory (a path is
+read relative to where you run the command, and `pnpm run` from here runs in
+the repository root) and run:
 
 ```sh
 pnpm run apply-suggestion edits.json
 pnpm run format && pnpm run check
 ```
 
-Rows are found by `id`. If any `from` no longer matches the row, or an id is
+Rows are found by `id`. No field may be emptied, the note included: every row
+keeps a non-empty note (`schema/word.schema.json`). If any `from` no longer matches the row, or an id is
 unknown, nothing is written and each problem is printed. If a write fails
 midway, run `git checkout words/` and try again.

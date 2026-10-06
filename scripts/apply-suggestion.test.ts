@@ -114,26 +114,6 @@ test('an id that matches more than one row is refused, naming both files', () =>
   )
 })
 
-test('a note edit with from "" sets a note where the key is absent', () => {
-  const fixture = validFixture()
-  fixture['words/t/Thursday.json'] = JSON.stringify({
-    term: 'Thursday',
-    rows: [{ ...THURSDAY_ROW, note: undefined }],
-  })
-  const root = writeTree(fixture)
-  const result = applyEdits(root, [{ id: 'bbbbbbb1', word: 'Thursday', field: 'note', from: '', to: 'A note.' }])
-  assert.deepStrictEqual(result, { ok: true, files: ['words/t/Thursday.json'] })
-  assert.deepStrictEqual(rowsOf(root, 'words/t/Thursday.json'), [{ ...THURSDAY_ROW, note: 'A note.' }])
-})
-
-test('a note edit with to "" deletes the note key', () => {
-  const root = writeTree(validFixture())
-  const result = applyEdits(root, [{ id: 'aaaaaaa2', word: 'cab', field: 'note', from: CAB_ROW_2.note, to: '' }])
-  assert.deepStrictEqual(result, { ok: true, files: ['words/c/cab.json'] })
-  const { note: _removed, ...withoutNote } = CAB_ROW_2
-  assert.deepStrictEqual(rowsOf(root, 'words/c/cab.json'), [CAB_ROW_1, withoutNote])
-})
-
 test('example.english alone on a row with no example is refused', () => {
   expectRefused(
     [{ id: 'aaaaaaa2', word: 'cab', field: 'example.english', from: '', to: 'A cab.' }],
@@ -188,6 +168,7 @@ for (const field of [
   'traditional',
   'jyutping',
   'meaning',
+  'note',
   'example.traditional',
   'example.jyutping',
   'example.english',

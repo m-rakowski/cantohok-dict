@@ -2,7 +2,8 @@
 // field edits, each naming a row by id, the field, the value it must
 // currently have (`from`) and the new value (`to`). Everything is checked
 // first; if any edit is refused, no file is written. Run it with
-// `pnpm run apply-suggestion edits.json` (or pipe the JSON on stdin), then
+// `pnpm run apply-suggestion edits.json` (or pipe the JSON on stdin; no field,
+// the note included, may be emptied), then
 // `pnpm run format && pnpm run check`.
 import { readFileSync, writeFileSync } from 'node:fs'
 import { join } from 'node:path'
@@ -83,7 +84,7 @@ export function applyEdits(root: string, input: unknown): ApplyResult {
       problems.push(`${label}: id matches ${matches.length} rows (${matches.map(m => m.path).join(', ')})`)
       continue
     }
-    if (edit.field !== 'note' && edit.to.trim() === '') {
+    if (edit.to.trim() === '') {
       problems.push(`${label}: new value must not be empty`)
       continue
     }
@@ -129,7 +130,7 @@ export function applyEdits(root: string, input: unknown): ApplyResult {
   return { ok: true, files: written }
 }
 
-/** The field's current value; an absent note or example part counts as "". */
+/** The field's current value; an absent example part counts as "". */
 function currentValue(row: Row, field: RowEditField): string {
   if (field.startsWith('example.')) {
     return row.example?.[field.slice('example.'.length) as keyof Example] ?? ''
@@ -141,8 +142,6 @@ function setValue(row: Row, field: RowEditField, value: string): void {
   if (field.startsWith('example.')) {
     row.example ??= { english: '', traditional: '', jyutping: '' }
     row.example[field.slice('example.'.length) as keyof Example] = value
-  } else if (field === 'note' && value === '') {
-    delete (row as Partial<Row>).note
   } else {
     row[field as (typeof ROW_FIELDS)[number]] = value
   }
