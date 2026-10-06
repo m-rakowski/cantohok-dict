@@ -12,7 +12,8 @@
     "typecheck": "tsc",
     "lint": "oxlint scripts",
     "export": "node scripts/export.ts",
-    "new-id": "node scripts/new-id.ts"
+    "new-id": "node scripts/new-id.ts",
+    "apply-suggestion": "node scripts/apply-suggestion.ts"
   },
   "devDependencies": {
     "@types/node": "^26.6.3",

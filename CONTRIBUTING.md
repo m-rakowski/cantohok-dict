@@ -160,3 +160,16 @@ if no release appears within a few minutes, check the tag's spelling first.
 
 The data in every release is CC BY-SA 4.0 (`LICENSE`), with the attribution in
 `CREDITS.md`; the scripts are MIT (`LICENSE-CODE`).
+
+## Applying an accepted suggestion
+
+A suggestion from the app is a JSON list of field edits (`id`, `word`,
+`field`, `from`, `to`). Save it as `edits.json` and run:
+
+```sh
+pnpm run apply-suggestion edits.json
+pnpm run format && pnpm run check
+```
+
+Rows are found by `id`. If any `from` no longer matches the row, or an id is
+unknown, nothing is written and each problem is printed.
