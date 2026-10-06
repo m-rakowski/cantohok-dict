@@ -172,4 +172,5 @@ pnpm run format && pnpm run check
 ```
 
 Rows are found by `id`. If any `from` no longer matches the row, or an id is
-unknown, nothing is written and each problem is printed.
+unknown, nothing is written and each problem is printed. If a write fails
+midway, run `git checkout words/` and try again.

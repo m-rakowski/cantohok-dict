@@ -33,14 +33,36 @@ function isAllowedField(field: string): field is RowEditField {
   )
 }
 
+const EDIT_KEYS = ['field', 'from', 'id', 'to', 'word']
+
+/** The edits, if the input is exactly an array of {id, word, field, from, to} strings. */
+function checkShape(input: unknown): RowEdit[] | { problems: string[] } {
+  if (!Array.isArray(input)) return { problems: ['input must be a JSON array of edits'] }
+  const problems: string[] = []
+  input.forEach((item: unknown, i) => {
+    const ok =
+      typeof item === 'object' &&
+      item !== null &&
+      !Array.isArray(item) &&
+      Object.keys(item).sort().join() === EDIT_KEYS.join() &&
+      Object.values(item).every(v => typeof v === 'string')
+    if (!ok) problems.push(`edit ${i}: must be an object with exactly string id, word, field, from, to`)
+  })
+  return problems.length > 0 ? { problems } : (input as RowEdit[])
+}
+
 /** Validates every edit, then writes each touched file. Writes nothing on refusal. */
-export function applyEdits(root: string, edits: RowEdit[]): ApplyResult {
+export function applyEdits(root: string, input: unknown): ApplyResult {
+  const shape = checkShape(input)
+  if (!Array.isArray(shape)) return { ok: false, problems: shape.problems }
+  const edits = shape
+
   const files = new Map<string, WordFile>()
-  const rowsById = new Map<string, { path: string; row: Row }>()
+  const rowsById = new Map<string, { path: string; row: Row }[]>()
   for (const path of listWordFiles(root)) {
     const file = JSON.parse(readFileSync(join(root, path), 'utf8')) as WordFile
     files.set(path, file)
-    for (const row of file.rows) rowsById.set(row.id, { path, row })
+    for (const row of file.rows) rowsById.set(row.id, [...(rowsById.get(row.id) ?? []), { path, row }])
   }
 
   const problems: string[] = []
@@ -56,6 +78,15 @@ export function applyEdits(root: string, edits: RowEdit[]): ApplyResult {
       problems.push(`${label}: no row with this id`)
       continue
     }
+    const matches = rowsById.get(edit.id)!
+    if (matches.length > 1) {
+      problems.push(`${label}: id matches ${matches.length} rows (${matches.map(m => m.path).join(', ')})`)
+      continue
+    }
+    if (edit.field !== 'note' && edit.to.trim() === '') {
+      problems.push(`${label}: new value must not be empty`)
+      continue
+    }
     if (seen.has(`${edit.id}\0${edit.field}`)) {
       problems.push(`${label}: edited more than once`)
       continue
@@ -66,7 +97,7 @@ export function applyEdits(root: string, edits: RowEdit[]): ApplyResult {
 
   const touched = new Set<string>()
   for (const [id, rowEdits] of byRow) {
-    const { path, row } = rowsById.get(id)!
+    const { path, row } = rowsById.get(id)![0]
     const exampleEdits = rowEdits.filter(e => e.field.startsWith('example.'))
     if (!row.example && exampleEdits.length > 0 && exampleEdits.length < EXAMPLE_FIELDS.length) {
       problems.push(`${id} (${rowEdits[0].word}): example needs traditional, jyutping and english`)
@@ -110,6 +141,8 @@ function setValue(row: Row, field: RowEditField, value: string): void {
   if (field.startsWith('example.')) {
     row.example ??= { english: '', traditional: '', jyutping: '' }
     row.example[field.slice('example.'.length) as keyof Example] = value
+  } else if (field === 'note' && value === '') {
+    delete (row as Partial<Row>).note
   } else {
     row[field as (typeof ROW_FIELDS)[number]] = value
   }
@@ -117,7 +150,13 @@ function setValue(row: Row, field: RowEditField, value: string): void {
 
 if (import.meta.main) {
   const arg = process.argv[2]
-  const edits = JSON.parse(readFileSync(arg ?? 0, 'utf8')) as RowEdit[]
+  let edits: unknown
+  try {
+    edits = JSON.parse(readFileSync(arg ?? 0, 'utf8'))
+  } catch (error) {
+    console.error(`Could not read the edits as JSON: ${(error as Error).message}`)
+    process.exit(1)
+  }
   const result = applyEdits(process.cwd(), edits)
   if (!result.ok) {
     console.error('Refused; nothing was changed:')
