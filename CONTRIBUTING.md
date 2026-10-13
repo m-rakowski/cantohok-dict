@@ -7,6 +7,23 @@ files are laid out and the steps to change them.
 
 - `words/<letter>/<word>.json` — one file per English word. This is the
   dictionary itself. This is the file you edit.
+- `cantonese/<characters>_<part of speech>.json` — one file per Cantonese word
+  page, such as `cantonese/揮手_verb.json`. It holds exactly what the site
+  shows for that word, with the boxes in the order they appear on the page.
+  Each box holds one or more English words that mean the same thing, the
+  reading (Jyutping), a short meaning, its examples, and an optional `note`.
+  Add a note only to warn about something the examples cannot show. The
+  page's `id` never changes: if you rename the file (say, to fix the
+  characters), keep the `id` as it is. Every file must be named after the
+  `traditional` and `partOfSpeech` inside it; `pnpm run check` tells you the
+  expected name. Page files sit directly in `cantonese/`, not in subfolders.
+- `pages-by-id.json` — a lookup from every English row `id` and every page
+  `id` to the page it belongs to, so an old link to a row still finds its
+  page. It was first written by a script. When you add a new row, add a line
+  pointing its `id` at the page that shows it; when you add a new page, add
+  a line mapping the page's `id` to itself. The
+  `words/` files and the `cantonese/` files may disagree about how meanings
+  are grouped; that is expected.
 - `frequency.json` — this file decides the order words and meanings are
   learned in. It has two parts:
   - `words.<term>` is a word's place in the learning order. First comes the
@@ -30,8 +47,9 @@ files are laid out and the steps to change them.
 ## Editor setup
 
 If you use VS Code, you don't need to install anything. `.vscode/settings.json`
-already tells VS Code to check `words/**/*.json`, `frequency.json` and
-`aliases.json` against the rules in `schema/`. Open any of those files and
+already tells VS Code to check `words/**/*.json`, `cantonese/*.json`,
+`pages-by-id.json`, `frequency.json` and `aliases.json` against the rules in
+`schema/`. Open any of those files and
 mistakes are underlined as you type.
 
 ## What one row looks like
@@ -73,13 +91,62 @@ What each field means:
 - `register` — only added when it matters, to flag that a word is
   `colloquial`, `written`, `formal`, and so on. Most rows don't need it.
 
+## What one page looks like
+
+A page file holds everything the site shows for one Cantonese word with one
+part of speech. Here is `cantonese/揮手_verb.json`:
+
+```json
+{
+  "id": "i0dcd0tv",
+  "partOfSpeech": "verb",
+  "traditional": "揮手",
+  "boxes": [
+    {
+      "meaning": "wave your hand hello/goodbye",
+      "english": ["wave"],
+      "jyutping": "fai1 sau2",
+      "examples": [
+        {
+          "english": "I wave to him when I leave.",
+          "traditional": "我走嗰陣同佢揮手。",
+          "jyutping": "ngo5 zau2 go2 zan6 tung4 keoi5 fai1 sau2"
+        }
+      ]
+    }
+  ]
+}
+```
+
+- A page has an `id` (8 lowercase letters or digits), the `traditional`
+  characters, a `partOfSpeech`, and at least one box. Boxes have no `id` of
+  their own.
+- A box has the reading in `jyutping`, a list of `english` words (at least
+  one), a short `meaning`, and a list of
+  `examples` (it may be empty). `note` and `register` are optional.
+- Different parts of speech are different pages: 建議 as a verb and 建議 as
+  a noun are two files. A second meaning of the same word is another box on
+  the same page, never a second file.
+- The file name is made from the characters and the part of speech, so they
+  cannot hold `\ : * ? " < > |`, and a part of speech cannot end in a dot or a
+  space. For a `/` in the characters, write `／` (U+FF0F, the fullwidth slash).
+- You can add, remove, merge and reorder boxes, and put several English words
+  or several examples in one box.
+- A `note` is held to the same rules as a note on a row (it must read on its
+  own), and an English example must name real people and things rather than
+  placeholder letters.
+
 ## Rules to follow when you edit a row
 
 - **Never change an `id`.** It's the row's permanent name.
-- **A new row always needs a new `id`.** Run `pnpm run new-id` — it prints a
-  fresh 8-character id that isn't used anywhere else in the repo yet.
+- **A new row or page always needs a new `id`.** Run `pnpm run new-id` — it
+  prints a fresh 8-character id that isn't used anywhere else in the repo yet,
+  counting both row ids and page ids.
 - **Every row's `id` must also appear in `frequency.json`, under `rows`.**
   If you're forgetting this step, `pnpm run check` will catch it.
+- **Every row's `id` must also appear in `pages-by-id.json`**, pointing at the
+  `id` of the page in `cantonese/` that shows it. A new page's own `id` maps
+  to itself. `pnpm run check` catches a missing line.
 - **If your new row is another way to say a meaning that already has rows**
   (same `partOfSpeech` and the same `meaning`), copy that meaning's
   `meaningShare` number into your new row's entry in `frequency.json`. Don't
@@ -94,9 +161,12 @@ What each field means:
 ## Steps to make a change
 
 1. Run `pnpm install` once, if you haven't already.
-2. Edit the word's file under `words/`.
+2. Edit the word's file under `words/`, or the page's file under `cantonese/`.
 3. If you added a new row, mint its `id` with `pnpm run new-id`, and add a
-   matching entry in `frequency.json`'s `rows` (see the rules above).
+   matching entry in `frequency.json`'s `rows` (see the rules above), and a
+   line in `pages-by-id.json` pointing its `id` at the page that shows it. A
+   new page file has an `id` from `new-id` too, and needs a line in
+   `pages-by-id.json` mapping that `id` to itself.
 4. If you added a brand-new word, also add it to `frequency.json`'s `words`.
 5. Run `pnpm run format` to auto-format your changes, then `pnpm run check`
    to validate everything against the schema. If you changed a file in
