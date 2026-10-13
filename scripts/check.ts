@@ -56,6 +56,7 @@ import type { ErrorObject, ValidateFunction } from 'ajv'
 import { listPageFiles, listWordFiles } from './repo.ts'
 import { noteProblems, placeholderLetters } from './shown-text.ts'
 import {
+  ID_PATTERN,
   pageNameProblem,
   pagePath,
   wordPath,
@@ -96,8 +97,6 @@ function runSchema(path: string, json: unknown, validate: ValidateFunction, erro
   for (const error of validate.errors ?? []) errors.push(formatSchemaError(path, error))
   return false
 }
-
-const ROW_ID = /^[a-z0-9]{8}$/
 
 const INVALID = Symbol('invalid JSON')
 
@@ -213,7 +212,7 @@ function checkPages(root: string, errors: string[]): CheckedPage[] {
     names.push({ path, nameOk })
     // An id of the wrong shape is already reported by the schema and cannot
     // be a key in the lookup, so it counts as no usable id.
-    const id = isObject(json) && isFilled(json.id) && ROW_ID.test(json.id) ? json.id : null
+    const id = isObject(json) && isFilled(json.id) && ID_PATTERN.test(json.id) ? json.id : null
     pages.push({ path, id, file: valid ? (json as unknown as PageFile) : null, valid })
   }
   errors.push(...casePathDuplicates(names))
@@ -251,7 +250,7 @@ function checkPageLookup(root: string, pages: CheckedPage[], words: CheckedWord[
   // word schema, and the lookup's own schema could not hold it as a key.
   for (const { path, rowIds } of words)
     for (const id of rowIds)
-      if (ROW_ID.test(id) && !Object.hasOwn(lookup, id))
+      if (ID_PATTERN.test(id) && !Object.hasOwn(lookup, id))
         errors.push(`pages-by-id.json: row "${id}" (${path}) has no page`)
   if (!someIdUnknown)
     for (const [key, value] of Object.entries(lookup))

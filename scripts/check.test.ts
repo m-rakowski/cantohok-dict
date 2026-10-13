@@ -723,10 +723,13 @@ test('page file under the wrong name', () => {
   )
 })
 
+const SLASH_MESSAGE =
+  'characters "a/b" contain "/", which cannot appear in a file name; write "／" (U+FF0F, fullwidth slash) instead'
+
 test('characters that cannot be a file name', () => {
   const path = 'cantonese/x_noun.json'
   const problem = pageNameProblem('a/b', 'noun')
-  assert.equal(problem, 'characters "a/b" contain "/", which cannot appear in a file name')
+  assert.equal(problem, SLASH_MESSAGE)
   assert.deepEqual(
     checkWith(files => {
       files[path] = files[CAB_PAGE]
@@ -747,13 +750,32 @@ test('part of speech that cannot be a file name', () => {
 })
 
 test('a name ending in a dot or a space, or holding a control character', () => {
-  assert.equal(pageNameProblem('的士.', 'noun'), 'characters "的士." end with ".", which cannot end a file name')
-  assert.equal(pageNameProblem('的士 ', 'noun'), 'characters "的士 " end with " ", which cannot end a file name')
+  assert.equal(pageNameProblem('的士', 'noun.'), 'part of speech "noun." ends with ".", which cannot end a file name')
+  assert.equal(pageNameProblem('的士', 'noun '), 'part of speech "noun " ends with " ", which cannot end a file name')
+  // The file name continues with _<partOfSpeech>.json, so characters may end in "." or a space.
+  assert.equal(pageNameProblem('的士.', 'noun'), null)
+  assert.equal(pageNameProblem('的士 ', 'noun'), null)
+  assert.equal(pageNameProblem('啱啱 + V + 就...', 'phrase'), null)
   assert.equal(
     pageNameProblem('的\u0007士', 'noun'),
     'characters "的\u0007士" contain a control character, which cannot appear in a file name',
   )
   assert.equal(pageNameProblem('的士', 'noun'), null)
+})
+
+test('a page whose characters end in "..." is a valid file name', () => {
+  const path = 'cantonese/啱啱 + V + 就..._phrase.json'
+  assert.deepEqual(
+    checkWith(files => {
+      files[path] = files[CAB_PAGE].replace('ppppppp1', 'ppppppp4')
+        .replace('的士', '啱啱 + V + 就...')
+        .replace('"noun"', '"phrase"')
+      editLookup(lookup => {
+        lookup.ppppppp4 = 'ppppppp4'
+      })(files)
+    }),
+    [],
+  )
 })
 
 test('invalid JSON in a page file', () => {

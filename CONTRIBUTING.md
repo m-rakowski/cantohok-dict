@@ -127,6 +127,9 @@ part of speech. Here is `cantonese/揮手_verb.json`:
 - Different parts of speech are different pages: 建議 as a verb and 建議 as
   a noun are two files. A second meaning of the same word is another box on
   the same page, never a second file.
+- The file name is made from the characters and the part of speech, so they
+  cannot hold `\ : * ? " < > |`, and a part of speech cannot end in a dot or a
+  space. For a `/` in the characters, write `／` (U+FF0F, the fullwidth slash).
 - You can add, remove, merge and reorder boxes, and put several English words
   or several examples in one box.
 - A `note` is held to the same rules as a note on a row (it must read on its
