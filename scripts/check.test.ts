@@ -43,6 +43,22 @@ function editPage(path: string, edit: (page: any) => void): (files: Record<strin
   }
 }
 
+/** Parses pages-by-id.json, lets `edit` mutate the object, writes it back. */
+function editLookup(edit: (lookup: any) => void): (files: Record<string, string>) => void {
+  return files => {
+    const lookup = JSON.parse(files['pages-by-id.json'])
+    edit(lookup)
+    files['pages-by-id.json'] = JSON.stringify(lookup, null, 2) + '\n'
+  }
+}
+
+/** Maps the English row `id` to the first page, as a conversion would, so a test that adds a row stays valid. */
+function mapRowToPage(files: Record<string, string>, id: string): void {
+  editLookup(lookup => {
+    lookup[id] = 'ppppppp1'
+  })(files)
+}
+
 /** Parses frequency.json, lets `edit` mutate the object, writes it back. */
 function editFrequency(edit: (freq: any) => void): (files: Record<string, string>) => void {
   return files => {
@@ -232,6 +248,7 @@ test('terms that differ only by case', () => {
       'bbbbbbb1',
       'bbbbbbb2',
     )
+    mapRowToPage(files, 'bbbbbbb2')
     editFrequency(freq => {
       freq.rows.bbbbbbb2 = { meaningShare: 100, share: 100 }
       freq.words.thursday = 901
@@ -405,6 +422,7 @@ test('missing frequency.json rank for a word named after a built-in property', (
   ]
 }
 `
+      mapRowToPage(files, 'ccccccc1')
       editFrequency(freq => {
         freq.rows.ccccccc1 = { meaningShare: 100, share: 100 }
       })(files)
@@ -432,6 +450,7 @@ function withAuxWord(path: string): (files: Record<string, string>) => void {
   ]
 }
 `
+    mapRowToPage(files, 'ccccccc7')
     editFrequency(freq => {
       freq.rows.ccccccc7 = { meaningShare: 100, share: 100 }
       freq.words.aux = 999999
@@ -572,6 +591,7 @@ test('note may say "slice" when the word itself is about slices', () => {
   ]
 }
 `
+      mapRowToPage(files, 'ccccccc1')
       editFrequency(freq => {
         freq.rows.ccccccc1 = { meaningShare: 100, share: 100 }
         freq.words.slice = 3000
@@ -719,7 +739,10 @@ test('characters that cannot be a file name', () => {
 })
 
 test('part of speech that cannot be a file name', () => {
-  assert.equal(pageNameProblem('的士', 'no?un'), 'characters "no?un" contain "?", which cannot appear in a file name')
+  assert.equal(
+    pageNameProblem('的士', 'no?un'),
+    'part of speech "no?un" contains "?", which cannot appear in a file name',
+  )
 })
 
 test('a name ending in a dot or a space, or holding a control character', () => {
@@ -745,7 +768,196 @@ test('two pages for one word, different part of speech', () => {
   assert.deepEqual(
     checkWith(files => {
       files['cantonese/的士_verb.json'] = files[CAB_PAGE].replace('ppppppp1', 'ppppppp4').replace('noun', 'verb')
+      editLookup(lookup => {
+        lookup.ppppppp4 = 'ppppppp4'
+      })(files)
     }),
     [],
+  )
+})
+
+test('a page file inside a subfolder of cantonese/', () => {
+  assert.deepEqual(
+    checkWith(files => {
+      files['cantonese/的/的士_noun.json'] = files[CAB_PAGE]
+    }),
+    ['cantonese/的/的士_noun.json: page files live directly in cantonese/'],
+  )
+})
+
+// The disk may be case-insensitive (macOS), where cantonese/的士_Noun.json
+// and cantonese/的士_noun.json cannot both exist, so the clash is staged under
+// another name; the rule compares the path each page's content calls for.
+test('two page paths that differ only in letter case', () => {
+  assert.deepEqual(
+    checkWith(files => {
+      files['cantonese/的士_other.json'] = files[CAB_PAGE].replace('ppppppp1', 'ppppppp4').replace('"noun"', '"Noun"')
+      editLookup(lookup => {
+        lookup.ppppppp4 = 'ppppppp4'
+      })(files)
+    }),
+    [
+      'cantonese/的士_other.json: file name does not match 的士 Noun (expected cantonese/的士_Noun.json)',
+      'cantonese/的士_other.json: duplicates cantonese/的士_noun.json when letter case is ignored',
+    ],
+  )
+})
+
+test('two pages share an id', () => {
+  assert.deepEqual(
+    checkWith(files => {
+      editPage('cantonese/車頭_noun.json', page => {
+        page.id = 'ppppppp1'
+      })(files)
+      editLookup(lookup => {
+        delete lookup.ppppppp2
+        lookup.aaaaaaa2 = 'ppppppp1'
+      })(files)
+    }),
+    ['duplicate page id "ppppppp1" in cantonese/的士_noun.json and cantonese/車頭_noun.json'],
+  )
+})
+
+test('page id equals an English row id', () => {
+  assert.deepEqual(
+    checkWith(files => {
+      editPage(THURSDAY_PAGE, page => {
+        page.id = 'aaaaaaa1'
+      })(files)
+      editLookup(lookup => {
+        delete lookup.ppppppp3
+        lookup.aaaaaaa1 = 'aaaaaaa1'
+        lookup.bbbbbbb1 = 'aaaaaaa1'
+      })(files)
+    }),
+    ['cantonese/星期四_noun.json: page id "aaaaaaa1" is also an English row id (words/c/cab.json)'],
+  )
+})
+
+test('no lookup while pages exist', () => {
+  assert.deepEqual(
+    checkWith(files => {
+      delete files['pages-by-id.json']
+    }),
+    ['pages-by-id.json: missing'],
+  )
+})
+
+test('no pages and no lookup', () => {
+  assert.deepEqual(
+    checkWith(files => {
+      delete files['pages-by-id.json']
+      for (const path of [CAB_PAGE, 'cantonese/車頭_noun.json', THURSDAY_PAGE]) delete files[path]
+    }),
+    [],
+  )
+})
+
+test('lookup that is not an object of 8-character ids', () => {
+  assert.deepEqual(
+    checkWith(
+      editLookup(lookup => {
+        lookup.aaaaaaa2 = 'nope'
+      }),
+    ),
+    ['pages-by-id.json: /aaaaaaa2 must match pattern "^[a-z0-9]{8}$"'],
+  )
+})
+
+test('row missing from the lookup', () => {
+  assert.deepEqual(
+    checkWith(
+      editLookup(lookup => {
+        delete lookup.bbbbbbb1
+      }),
+    ),
+    ['pages-by-id.json: row "bbbbbbb1" (words/t/Thursday.json) has no page'],
+  )
+})
+
+test('lookup points at something that is not a page', () => {
+  assert.deepEqual(
+    checkWith(
+      editLookup(lookup => {
+        lookup.aaaaaaa2 = 'aaaaaaa1'
+      }),
+    ),
+    ['pages-by-id.json: "aaaaaaa2" points at "aaaaaaa1", which is not a page id'],
+  )
+})
+
+test('page id missing from the lookup', () => {
+  assert.deepEqual(
+    checkWith(
+      editLookup(lookup => {
+        delete lookup.ppppppp3
+      }),
+    ),
+    ['pages-by-id.json: page "ppppppp3" (cantonese/星期四_noun.json) does not map to itself'],
+  )
+})
+
+test('page id mapped elsewhere', () => {
+  assert.deepEqual(
+    checkWith(
+      editLookup(lookup => {
+        lookup.ppppppp3 = 'ppppppp1'
+      }),
+    ),
+    ['pages-by-id.json: page "ppppppp3" (cantonese/星期四_noun.json) does not map to itself'],
+  )
+})
+
+test('a broken page file reports once', () => {
+  assert.deepEqual(
+    checkWith(files => {
+      files['cantonese/車頭_noun.json'] = '{ nope'
+    }),
+    ['cantonese/車頭_noun.json: invalid JSON'],
+  )
+})
+
+test('a page file that fails its schema reports once', () => {
+  assert.deepEqual(
+    checkWith(
+      editPage('cantonese/車頭_noun.json', page => {
+        delete page.id
+      }),
+    ),
+    ["cantonese/車頭_noun.json: (root) must have required property 'id'"],
+  )
+})
+
+test('note rules apply inside boxes', () => {
+  assert.deepEqual(
+    checkWith(
+      editPage(THURSDAY_PAGE, page => {
+        page.boxes[0].note = 'See sense 2.'
+      }),
+    ),
+    ['cantonese/星期四_noun.json: box 1 note points at a numbered sense ("sense 2")'],
+  )
+})
+
+test('note rule sees every English word in the box', () => {
+  assert.deepEqual(
+    checkWith(
+      editPage(CAB_PAGE, page => {
+        page.boxes[0].english = ['cab', 'slice']
+        page.boxes[0].note = 'Say it for a slice of the fare.'
+      }),
+    ),
+    [],
+  )
+})
+
+test('placeholder letter in a box example', () => {
+  assert.deepEqual(
+    checkWith(
+      editPage(CAB_PAGE, page => {
+        page.boxes[0].examples[0].english = 'A met B at the airport.'
+      }),
+    ),
+    ['cantonese/的士_noun.json: box 1 example 1 english has a placeholder letter (B)'],
   )
 })

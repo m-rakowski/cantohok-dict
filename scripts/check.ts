@@ -18,6 +18,17 @@
 //   (cantonese/的士_noun.json), so two pages never share a word and part of
 //   speech; characters that cannot appear in a file name are reported
 //   instead of being turned into a path.
+// - Page files live directly in cantonese/ (a file in a subfolder is
+//   refused), and no two page paths may differ only in letter case, because
+//   macOS and Windows would treat them as one file.
+// - No two pages may share an "id", and no page id may equal an English
+//   row's id.
+// - pages-by-id.json (the link lookup) is required once any page file
+//   exists, and must match schema/pages-by-id.schema.json. Every English row
+//   id must have an entry; every value must be an existing page id; every
+//   page id must map to itself.
+// - The note and example rules below also apply inside a page's boxes (a
+//   note is judged against all of the box's English words).
 // - frequency.json and aliases.json must exist.
 // - Every row's id must have a matching entry in frequency.json's "rows",
 //   and every id listed there must belong to a real row.
@@ -35,7 +46,7 @@
 // The shape of each file on its own — which fields are required, that text
 // fields can't be empty, that an id is 8 lowercase letters/digits, and so on
 // — is checked separately, against the rules in schema/ (word.schema.json,
-// page.schema.json, frequency.schema.json, aliases.schema.json). This file loads those schemas
+// page.schema.json, pages-by-id.schema.json, frequency.schema.json, aliases.schema.json). This file loads those schemas
 // and reports whatever they flag, on top of the checks above that only make
 // sense by comparing files to each other.
 import { existsSync, readFileSync } from 'node:fs'
@@ -51,18 +62,21 @@ import {
   type AliasesFile,
   type FrequencyFile,
   type PageFile,
+  type PageLookup,
   type WordFile,
 } from './types.ts'
 import wordSchema from '../schema/word.schema.json' with { type: 'json' }
 import pageSchema from '../schema/page.schema.json' with { type: 'json' }
 import frequencySchema from '../schema/frequency.schema.json' with { type: 'json' }
 import aliasesSchema from '../schema/aliases.schema.json' with { type: 'json' }
+import pageLookupSchema from '../schema/pages-by-id.schema.json' with { type: 'json' }
 
 const ajv = new Ajv2020({ allErrors: true })
 const validateWord = ajv.compile(wordSchema)
 const validatePage = ajv.compile(pageSchema)
 const validateFrequency = ajv.compile(frequencySchema)
 const validateAliases = ajv.compile(aliasesSchema)
+const validatePageLookup = ajv.compile(pageLookupSchema)
 
 const isObject = (v: unknown): v is Record<string, unknown> => typeof v === 'object' && v !== null && !Array.isArray(v)
 const isFilled = (v: unknown): v is string => typeof v === 'string' && v.trim() !== ''
@@ -82,6 +96,8 @@ function runSchema(path: string, json: unknown, validate: ValidateFunction, erro
   for (const error of validate.errors ?? []) errors.push(formatSchemaError(path, error))
   return false
 }
+
+const ROW_ID = /^[a-z0-9]{8}$/
 
 const INVALID = Symbol('invalid JSON')
 
@@ -139,8 +155,10 @@ function checkWords(root: string, errors: string[]): CheckedWord[] {
 /**
  * A page file that parsed into an object with string `traditional` and
  * `partOfSpeech` joins the file-name check even when it fails the schema, so
- * one bad field is one message. `valid` is true only when the whole file
- * passed the schema.
+ * one bad field is one message. `id` is null unless the file parsed and holds
+ * a non-empty string `id`; `valid` is true only when the whole file passed
+ * the schema. A file that is not JSON is kept (so the lookup knows a page
+ * exists) with `id` null.
  */
 interface CheckedPage {
   path: string
@@ -151,23 +169,79 @@ interface CheckedPage {
 
 function checkPages(root: string, errors: string[]): CheckedPage[] {
   const pages: CheckedPage[] = []
+  const byLowerPath = new Map<string, string>()
   for (const path of listPageFiles(root)) {
+    if (path.split('/').length > 2) {
+      errors.push(`${path}: page files live directly in cantonese/`)
+      continue
+    }
     const json = parseJson(root, path, errors)
-    if (json === INVALID) continue
+    if (json === INVALID) {
+      pages.push({ path, id: null, file: null, valid: false })
+      continue
+    }
     const valid = runSchema(path, json, validatePage, errors)
+    // Pages are compared by the path their content calls for, falling back to
+    // the file's own path, so the case clash is caught even where the disk
+    // cannot hold both spellings.
+    let identity = path
     if (isObject(json) && isFilled(json.traditional) && isFilled(json.partOfSpeech)) {
       const { traditional, partOfSpeech } = json
       const problem = pageNameProblem(traditional, partOfSpeech)
       if (problem) errors.push(`${path}: ${problem}`)
-      else if (pagePath(traditional, partOfSpeech) !== path)
-        errors.push(
-          `${path}: file name does not match ${traditional} ${partOfSpeech} (expected ${pagePath(traditional, partOfSpeech)})`,
-        )
+      else {
+        identity = pagePath(traditional, partOfSpeech)
+        if (identity !== path)
+          errors.push(`${path}: file name does not match ${traditional} ${partOfSpeech} (expected ${identity})`)
+      }
     }
+    const other = byLowerPath.get(identity.toLowerCase())
+    if (other) errors.push(`${path}: duplicates ${other} when letter case is ignored`)
+    else byLowerPath.set(identity.toLowerCase(), path)
     const id = isObject(json) && isFilled(json.id) ? json.id : null
     pages.push({ path, id, file: valid ? (json as unknown as PageFile) : null, valid })
   }
   return pages
+}
+
+/** No two pages share an id, and no page id equals an English row id. Pages without a usable id are skipped. */
+function checkPageIds(pages: CheckedPage[], words: CheckedWord[], errors: string[]): void {
+  const rowPath = new Map<string, string>()
+  for (const { path, rowIds } of words) for (const id of rowIds) rowPath.set(id, path)
+  const idPath = new Map<string, string>()
+  for (const { path, id } of pages) {
+    if (id === null) continue
+    const previous = idPath.get(id)
+    if (previous) errors.push(`duplicate page id "${id}" in ${previous} and ${path}`)
+    else idPath.set(id, path)
+    const row = rowPath.get(id)
+    if (row) errors.push(`${path}: page id "${id}" is also an English row id (${row})`)
+  }
+}
+
+/**
+ * pages-by-id.json is required only once a page file exists. A page without a
+ * usable id (broken JSON, or no id) is already reported, and its id cannot be
+ * known, so while one exists the "points at a non-page" rule stays quiet
+ * rather than echo the same page as a lookup error.
+ */
+function checkPageLookup(root: string, pages: CheckedPage[], words: CheckedWord[], errors: string[]): void {
+  if (pages.length === 0) return
+  const lookup = readTopLevelFile(root, 'pages-by-id.json', validatePageLookup, errors) as PageLookup | null
+  if (!lookup) return
+  const pageIds = new Set(pages.flatMap(({ id }) => (id === null ? [] : [id])))
+  const someIdUnknown = pages.some(({ id }) => id === null)
+  // A row id that is not 8 lowercase letters/digits is already reported by the
+  // word schema, and the lookup's own schema could not hold it as a key.
+  for (const { path, rowIds } of words)
+    for (const id of rowIds)
+      if (ROW_ID.test(id) && !Object.hasOwn(lookup, id))
+        errors.push(`pages-by-id.json: row "${id}" (${path}) has no page`)
+  if (!someIdUnknown)
+    for (const [key, value] of Object.entries(lookup))
+      if (!pageIds.has(value)) errors.push(`pages-by-id.json: "${key}" points at "${value}", which is not a page id`)
+  for (const { path, id } of pages)
+    if (id !== null && lookup[id] !== id) errors.push(`pages-by-id.json: page "${id}" (${path}) does not map to itself`)
 }
 
 function checkDuplicateIds(words: CheckedWord[], errors: string[]): void {
@@ -251,12 +325,31 @@ function checkShownText(words: CheckedWord[], errors: string[]): void {
   }
 }
 
+function checkPageShownText(pages: CheckedPage[], errors: string[]): void {
+  for (const { path, valid, file } of pages) {
+    if (!valid || !file) continue
+    file.boxes.forEach((box, boxIndex) => {
+      const where = `${path}: box ${boxIndex + 1}`
+      if (box.note !== undefined)
+        for (const problem of noteProblems(box.note, box.english.join(' '), box.meaning))
+          errors.push(`${where} ${problem}`)
+      box.examples.forEach((example, exampleIndex) => {
+        const letters = placeholderLetters(example.english)
+        if (letters.length)
+          errors.push(`${where} example ${exampleIndex + 1} english has a placeholder letter (${letters.join(', ')})`)
+      })
+    })
+  }
+}
+
 /** Runs every check in this file against the repo at `root` and returns the list of error messages (empty means the repo is clean). */
 export function checkRepo(root: string): string[] {
   const errors: string[] = []
   const words = checkWords(root, errors)
   checkDuplicateIds(words, errors)
-  checkPages(root, errors)
+  const pages = checkPages(root, errors)
+  checkPageIds(pages, words, errors)
+  checkPageLookup(root, pages, words, errors)
   const beforeFrequency = errors.length
   const frequency = checkFrequency(root, words, errors)
   const frequencyClean = errors.length === beforeFrequency
@@ -268,6 +361,7 @@ export function checkRepo(root: string): string[] {
   // mismatch on top of the real problem already reported above.
   checkMeaningShare(words, frequencyClean ? frequency : null, errors)
   checkShownText(words, errors)
+  checkPageShownText(pages, errors)
   return errors
 }
 
