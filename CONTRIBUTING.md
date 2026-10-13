@@ -19,8 +19,9 @@ files are laid out and the steps to change them.
   expected name. Page files sit directly in `cantonese/`, not in subfolders.
 - `pages-by-id.json` — a lookup from every English row `id` and every page
   `id` to the page it belongs to, so an old link to a row still finds its
-  page. It was written once, by a script. The only edit it needs by hand is
-  one line for a brand-new page, mapping the new page `id` to itself. The
+  page. It was first written by a script. When you add a new row, add a line
+  pointing its `id` at the page that shows it; when you add a new page, add
+  a line mapping the page's `id` to itself. The
   `words/` files and the `cantonese/` files may disagree about how meanings
   are grouped; that is expected.
 - `frequency.json` — this file decides the order words and meanings are
@@ -121,7 +122,7 @@ part of speech. Here is `cantonese/揮手_verb.json`:
   characters, a `partOfSpeech`, and at least one box. Boxes have no `id` of
   their own.
 - A box has the reading in `jyutping`, a list of `english` words (at least
-  one; the site joins them with " · "), a short `meaning`, and a list of
+  one), a short `meaning`, and a list of
   `examples` (it may be empty). `note` and `register` are optional.
 - Different parts of speech are different pages: 建議 as a verb and 建議 as
   a noun are two files. A second meaning of the same word is another box on
@@ -140,6 +141,9 @@ part of speech. Here is `cantonese/揮手_verb.json`:
   counting both row ids and page ids.
 - **Every row's `id` must also appear in `frequency.json`, under `rows`.**
   If you're forgetting this step, `pnpm run check` will catch it.
+- **Every row's `id` must also appear in `pages-by-id.json`**, pointing at the
+  `id` of the page in `cantonese/` that shows it. A new page's own `id` maps
+  to itself. `pnpm run check` catches a missing line.
 - **If your new row is another way to say a meaning that already has rows**
   (same `partOfSpeech` and the same `meaning`), copy that meaning's
   `meaningShare` number into your new row's entry in `frequency.json`. Don't
@@ -156,9 +160,10 @@ part of speech. Here is `cantonese/揮手_verb.json`:
 1. Run `pnpm install` once, if you haven't already.
 2. Edit the word's file under `words/`, or the page's file under `cantonese/`.
 3. If you added a new row, mint its `id` with `pnpm run new-id`, and add a
-   matching entry in `frequency.json`'s `rows` (see the rules above). A new
-   page file has an `id` from `new-id` too, and needs an entry in
-   `pages-by-id.json` pointing to itself.
+   matching entry in `frequency.json`'s `rows` (see the rules above), and a
+   line in `pages-by-id.json` pointing its `id` at the page that shows it. A
+   new page file has an `id` from `new-id` too, and needs a line in
+   `pages-by-id.json` mapping that `id` to itself.
 4. If you added a brand-new word, also add it to `frequency.json`'s `words`.
 5. Run `pnpm run format` to auto-format your changes, then `pnpm run check`
    to validate everything against the schema. If you changed a file in
