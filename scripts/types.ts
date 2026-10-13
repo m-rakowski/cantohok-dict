@@ -25,6 +25,30 @@ export interface WordFile {
   rows: Row[]
 }
 
+/** One Cantonese word page's example sentence; the same shape as a row's `example`. */
+export type PageExample = Example
+
+/** One group of English words that share a meaning and a reading, shown as one box on a page. */
+export interface Box {
+  jyutping: string
+  english: string[]
+  meaning: string
+  examples: PageExample[]
+  note?: string
+  register?: string
+}
+
+/** A Cantonese word page: cantonese/<traditional>_<partOfSpeech>.json. */
+export interface PageFile {
+  id: string
+  traditional: string
+  partOfSpeech: string
+  boxes: Box[]
+}
+
+/** The link lookup (pages-by-id.json): every English row id and every page id, mapped to a page id. */
+export type PageLookup = Record<string, string>
+
 export interface FrequencyFile {
   rows: Record<string, { meaningShare: number; share: number }>
   words: Record<string, number>
@@ -43,4 +67,29 @@ const RESERVED_WINDOWS_NAME = /^(con|prn|aux|nul|com[1-9]|lpt[1-9])$/i
 export function wordPath(term: string): string {
   const suffix = RESERVED_WINDOWS_NAME.test(term) ? '_' : ''
   return `words/${term[0].toLowerCase()}/${term}${suffix}.json`
+}
+
+/** Where a Cantonese page's file lives, relative to the repo root. */
+export function pagePath(traditional: string, partOfSpeech: string): string {
+  return `cantonese/${traditional}_${partOfSpeech}.json`
+}
+
+// Characters no file name may hold on Windows (and "/" on any system).
+const FORBIDDEN_IN_FILE_NAME = new Set('/\\:*?"<>|')
+
+function textProblem(text: string): string | null {
+  for (const char of text) {
+    if (FORBIDDEN_IN_FILE_NAME.has(char))
+      return `characters "${text}" contain "${char}", which cannot appear in a file name`
+    if (/\p{Cc}/u.test(char))
+      return `characters "${text}" contain a control character, which cannot appear in a file name`
+  }
+  const last = text.at(-1)
+  if (last === '.' || last === ' ') return `characters "${text}" end with "${last}", which cannot end a file name`
+  return null
+}
+
+/** Null when a page's characters and part of speech can make a file name; otherwise a message naming what cannot. */
+export function pageNameProblem(traditional: string, partOfSpeech: string): string | null {
+  return textProblem(traditional) ?? textProblem(partOfSpeech)
 }

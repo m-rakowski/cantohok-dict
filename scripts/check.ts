@@ -11,6 +11,13 @@
 //   Windows (like "con" -> con_.json).
 // - No two words may have the same term, even if the capitalization differs.
 // - No two rows, anywhere in the dictionary, may share the same "id".
+// - Every Cantonese page file (cantonese/<traditional>_<partOfSpeech>.json)
+//   must be valid JSON and match schema/page.schema.json: at least one box,
+//   every box with at least one English word, and no id on a box.
+// - A page file's name must match its "traditional" and "partOfSpeech"
+//   (cantonese/的士_noun.json), so two pages never share a word and part of
+//   speech; characters that cannot appear in a file name are reported
+//   instead of being turned into a path.
 // - frequency.json and aliases.json must exist.
 // - Every row's id must have a matching entry in frequency.json's "rows",
 //   and every id listed there must belong to a real row.
@@ -28,22 +35,32 @@
 // The shape of each file on its own — which fields are required, that text
 // fields can't be empty, that an id is 8 lowercase letters/digits, and so on
 // — is checked separately, against the rules in schema/ (word.schema.json,
-// frequency.schema.json, aliases.schema.json). This file loads those schemas
+// page.schema.json, frequency.schema.json, aliases.schema.json). This file loads those schemas
 // and reports whatever they flag, on top of the checks above that only make
 // sense by comparing files to each other.
 import { existsSync, readFileSync } from 'node:fs'
 import { join } from 'node:path'
 import { Ajv2020 } from 'ajv/dist/2020.js'
 import type { ErrorObject, ValidateFunction } from 'ajv'
-import { listWordFiles } from './repo.ts'
+import { listPageFiles, listWordFiles } from './repo.ts'
 import { noteProblems, placeholderLetters } from './shown-text.ts'
-import { wordPath, type AliasesFile, type FrequencyFile, type WordFile } from './types.ts'
+import {
+  pageNameProblem,
+  pagePath,
+  wordPath,
+  type AliasesFile,
+  type FrequencyFile,
+  type PageFile,
+  type WordFile,
+} from './types.ts'
 import wordSchema from '../schema/word.schema.json' with { type: 'json' }
+import pageSchema from '../schema/page.schema.json' with { type: 'json' }
 import frequencySchema from '../schema/frequency.schema.json' with { type: 'json' }
 import aliasesSchema from '../schema/aliases.schema.json' with { type: 'json' }
 
 const ajv = new Ajv2020({ allErrors: true })
 const validateWord = ajv.compile(wordSchema)
+const validatePage = ajv.compile(pageSchema)
 const validateFrequency = ajv.compile(frequencySchema)
 const validateAliases = ajv.compile(aliasesSchema)
 
@@ -117,6 +134,40 @@ function checkWords(root: string, errors: string[]): CheckedWord[] {
     words.push({ path, term, rowIds, file: valid ? (json as unknown as WordFile) : null, valid })
   }
   return words
+}
+
+/**
+ * A page file that parsed into an object with string `traditional` and
+ * `partOfSpeech` joins the file-name check even when it fails the schema, so
+ * one bad field is one message. `valid` is true only when the whole file
+ * passed the schema.
+ */
+interface CheckedPage {
+  path: string
+  id: string | null
+  file: PageFile | null
+  valid: boolean
+}
+
+function checkPages(root: string, errors: string[]): CheckedPage[] {
+  const pages: CheckedPage[] = []
+  for (const path of listPageFiles(root)) {
+    const json = parseJson(root, path, errors)
+    if (json === INVALID) continue
+    const valid = runSchema(path, json, validatePage, errors)
+    if (isObject(json) && isFilled(json.traditional) && isFilled(json.partOfSpeech)) {
+      const { traditional, partOfSpeech } = json
+      const problem = pageNameProblem(traditional, partOfSpeech)
+      if (problem) errors.push(`${path}: ${problem}`)
+      else if (pagePath(traditional, partOfSpeech) !== path)
+        errors.push(
+          `${path}: file name does not match ${traditional} ${partOfSpeech} (expected ${pagePath(traditional, partOfSpeech)})`,
+        )
+    }
+    const id = isObject(json) && isFilled(json.id) ? json.id : null
+    pages.push({ path, id, file: valid ? (json as unknown as PageFile) : null, valid })
+  }
+  return pages
 }
 
 function checkDuplicateIds(words: CheckedWord[], errors: string[]): void {
@@ -205,6 +256,7 @@ export function checkRepo(root: string): string[] {
   const errors: string[] = []
   const words = checkWords(root, errors)
   checkDuplicateIds(words, errors)
+  checkPages(root, errors)
   const beforeFrequency = errors.length
   const frequency = checkFrequency(root, words, errors)
   const frequencyClean = errors.length === beforeFrequency

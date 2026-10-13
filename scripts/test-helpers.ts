@@ -18,7 +18,7 @@ export function writeTree(files: Record<string, string>): string {
   return root
 }
 
-/** A two-word repo that passes every check. Tests change one thing each. */
+/** A two-word repo, with a page file for each of its three rows, that passes every check. Tests change one thing each. */
 export function validFixture(): Record<string, string> {
   return {
     'words/c/cab.json': `{
@@ -61,6 +61,64 @@ export function validFixture(): Record<string, string> {
       "note": "This is the all-purpose word for Thursday."
     }
   ]
+}
+`,
+    'cantonese/的士_noun.json': `{
+  "id": "ppppppp1",
+  "partOfSpeech": "noun",
+  "traditional": "的士",
+  "boxes": [
+    {
+      "meaning": "taxi",
+      "english": ["cab"],
+      "jyutping": "dik1 si2",
+      "examples": [
+        {
+          "english": "We called a cab to the airport.",
+          "traditional": "我哋叫咗部的士去機場。",
+          "jyutping": "ngo5 dei6 giu3 zo2 bou6 dik1 si2 heoi3 gei1 coeng4"
+        }
+      ]
+    }
+  ]
+}
+`,
+    'cantonese/車頭_noun.json': `{
+  "id": "ppppppp2",
+  "partOfSpeech": "noun",
+  "traditional": "車頭",
+  "boxes": [
+    {
+      "meaning": "taxi",
+      "english": ["cab"],
+      "jyutping": "ce1 tau4",
+      "register": "colloquial",
+      "examples": []
+    }
+  ]
+}
+`,
+    'cantonese/星期四_noun.json': `{
+  "id": "ppppppp3",
+  "partOfSpeech": "noun",
+  "traditional": "星期四",
+  "boxes": [
+    {
+      "meaning": "day of the week",
+      "english": ["Thursday"],
+      "jyutping": "sing1 kei4 sei3",
+      "examples": []
+    }
+  ]
+}
+`,
+    'pages-by-id.json': `{
+  "aaaaaaa1": "ppppppp1",
+  "aaaaaaa2": "ppppppp2",
+  "bbbbbbb1": "ppppppp3",
+  "ppppppp1": "ppppppp1",
+  "ppppppp2": "ppppppp2",
+  "ppppppp3": "ppppppp3"
 }
 `,
     'frequency.json': `{

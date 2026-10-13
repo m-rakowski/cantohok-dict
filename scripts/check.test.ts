@@ -7,10 +7,13 @@ import { readFileSync } from 'node:fs'
 import { join } from 'node:path'
 import { format } from 'prettier'
 import { checkRepo } from './check.ts'
+import { pageNameProblem } from './types.ts'
 import { validFixture, writeTree } from './test-helpers.ts'
 
 const CAB = 'words/c/cab.json'
 const THURSDAY = 'words/t/Thursday.json'
+const CAB_PAGE = 'cantonese/的士_noun.json'
+const THURSDAY_PAGE = 'cantonese/星期四_noun.json'
 
 const repoRoot = join(import.meta.dirname, '..')
 const prettierConfig = JSON.parse(readFileSync(join(repoRoot, '.prettierrc.json'), 'utf8'))
@@ -28,6 +31,15 @@ function editCab(edit: (cab: any) => void): (files: Record<string, string>) => v
     const cab = JSON.parse(files[CAB])
     edit(cab)
     files[CAB] = JSON.stringify(cab, null, 2) + '\n'
+  }
+}
+
+/** Parses the page file at `path`, lets `edit` mutate the object, writes it back. */
+function editPage(path: string, edit: (page: any) => void): (files: Record<string, string>) => void {
+  return files => {
+    const page = JSON.parse(files[path])
+    edit(page)
+    files[path] = JSON.stringify(page, null, 2) + '\n'
   }
 }
 
@@ -645,4 +657,95 @@ test('more English example letters that are not placeholders', () => {
       [],
       english,
     )
+})
+
+test('unknown field on a box', () => {
+  assert.deepEqual(
+    checkWith(
+      editPage(CAB_PAGE, page => {
+        page.boxes[0].id = 'ccccccc1'
+      }),
+    ),
+    [`${CAB_PAGE}: /boxes/0 must NOT have additional properties "id"`],
+  )
+})
+
+test('page with no boxes', () => {
+  assert.deepEqual(
+    checkWith(
+      editPage(CAB_PAGE, page => {
+        page.boxes = []
+      }),
+    ),
+    [`${CAB_PAGE}: /boxes must NOT have fewer than 1 items`],
+  )
+})
+
+test('box with no English word', () => {
+  assert.deepEqual(
+    checkWith(
+      editPage(CAB_PAGE, page => {
+        page.boxes[0].english = []
+      }),
+    ),
+    [`${CAB_PAGE}: /boxes/0/english must NOT have fewer than 1 items`],
+  )
+})
+
+test('page file under the wrong name', () => {
+  assert.deepEqual(
+    checkWith(files => {
+      files['cantonese/星期五_noun.json'] = files[THURSDAY_PAGE]
+      delete files[THURSDAY_PAGE]
+    }),
+    ['cantonese/星期五_noun.json: file name does not match 星期四 noun (expected cantonese/星期四_noun.json)'],
+  )
+})
+
+test('characters that cannot be a file name', () => {
+  const path = 'cantonese/x_noun.json'
+  const problem = pageNameProblem('a/b', 'noun')
+  assert.equal(problem, 'characters "a/b" contain "/", which cannot appear in a file name')
+  assert.deepEqual(
+    checkWith(files => {
+      files[path] = files[CAB_PAGE]
+      delete files[CAB_PAGE]
+      editPage(path, page => {
+        page.traditional = 'a/b'
+      })(files)
+    }),
+    [`${path}: ${problem}`],
+  )
+})
+
+test('part of speech that cannot be a file name', () => {
+  assert.equal(pageNameProblem('的士', 'no?un'), 'characters "no?un" contain "?", which cannot appear in a file name')
+})
+
+test('a name ending in a dot or a space, or holding a control character', () => {
+  assert.equal(pageNameProblem('的士.', 'noun'), 'characters "的士." end with ".", which cannot end a file name')
+  assert.equal(pageNameProblem('的士 ', 'noun'), 'characters "的士 " end with " ", which cannot end a file name')
+  assert.equal(
+    pageNameProblem('的\u0007士', 'noun'),
+    'characters "的\u0007士" contain a control character, which cannot appear in a file name',
+  )
+  assert.equal(pageNameProblem('的士', 'noun'), null)
+})
+
+test('invalid JSON in a page file', () => {
+  assert.deepEqual(
+    checkWith(files => {
+      files[CAB_PAGE] = '{ nope'
+    }),
+    [`${CAB_PAGE}: invalid JSON`],
+  )
+})
+
+test('two pages for one word, different part of speech', () => {
+  assert.deepEqual(
+    checkWith(files => {
+      files['cantonese/的士_verb.json'] = files[CAB_PAGE].replace('ppppppp1', 'ppppppp4').replace('noun', 'verb')
+    }),
+    [],
+  )
 })

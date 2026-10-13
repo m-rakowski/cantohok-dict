@@ -1,5 +1,6 @@
-// One small job: list every word file in the dictionary (words/**/*.json),
-// so the other scripts don't each have to know how to walk that folder.
+// One small job: list every word file (words/**/*.json) and every Cantonese
+// page file (cantonese/*.json) in the dictionary, so the other scripts don't
+// each have to know how to walk those folders.
 // Used by check.ts, export.ts and new-id.ts. There's no command to run this
 // file by itself.
 import { existsSync, readdirSync } from 'node:fs'
@@ -12,5 +13,15 @@ export function listWordFiles(root: string): string[] {
   return readdirSync(dir, { recursive: true, encoding: 'utf8' })
     .filter(name => name.endsWith('.json'))
     .map(name => `words/${name.split(sep).join('/')}`)
+    .sort()
+}
+
+/** Every Cantonese page file, repo-relative with `/` separators, sorted; empty when there is no cantonese/ folder. */
+export function listPageFiles(root: string): string[] {
+  const dir = join(root, 'cantonese')
+  if (!existsSync(dir)) return []
+  return readdirSync(dir, { encoding: 'utf8' })
+    .filter(name => name.endsWith('.json'))
+    .map(name => `cantonese/${name}`)
     .sort()
 }
