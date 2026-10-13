@@ -3,7 +3,8 @@
 // `pnpm run test`.
 import { test } from 'node:test'
 import assert from 'node:assert/strict'
-import { newId } from './new-id.ts'
+import { collectTakenIds, newId } from './new-id.ts'
+import { writeTree } from './test-helpers.ts'
 import { ID_PATTERN } from './types.ts'
 
 test('newId returns an 8-character [a-z0-9] id', () => {
@@ -23,4 +24,27 @@ test('newId re-rolls when the injected random source produces a taken id first',
   const id = newId(new Set(['aaaaaaaa']), random)
   assert.equal(id, 'bbbbbbbb')
   assert.equal(i, sequence.length)
+})
+
+test('collectTakenIds includes page ids', () => {
+  const root = writeTree({
+    'words/c/cab.json': JSON.stringify({ term: 'cab', rows: [{ id: 'aaaaaaa1' }] }),
+    'cantonese/的士_noun.json': JSON.stringify({
+      id: 'cccccccc',
+      traditional: '的士',
+      partOfSpeech: 'noun',
+      boxes: [],
+    }),
+  })
+  assert.deepEqual(collectTakenIds(root), new Set(['aaaaaaa1', 'cccccccc']))
+})
+
+test('collectTakenIds skips a page file that is not valid JSON, or has no string id', () => {
+  const root = writeTree({
+    'words/c/cab.json': JSON.stringify({ term: 'cab', rows: [{ id: 'aaaaaaa1' }] }),
+    'cantonese/壞.json': '{ not json',
+    'cantonese/冇.json': JSON.stringify({ traditional: '冇' }),
+    'cantonese/空.json': 'null',
+  })
+  assert.deepEqual(collectTakenIds(root), new Set(['aaaaaaa1']))
 })
