@@ -181,24 +181,27 @@ function checkPages(root: string, errors: string[]): CheckedPage[] {
       continue
     }
     const valid = runSchema(path, json, validatePage, errors)
-    // Pages are compared by the path their content calls for, falling back to
-    // the file's own path, so the case clash is caught even where the disk
-    // cannot hold both spellings.
-    let identity = path
+    let nameOk = true
     if (isObject(json) && isFilled(json.traditional) && isFilled(json.partOfSpeech)) {
       const { traditional, partOfSpeech } = json
       const problem = pageNameProblem(traditional, partOfSpeech)
       if (problem) errors.push(`${path}: ${problem}`)
-      else {
-        identity = pagePath(traditional, partOfSpeech)
-        if (identity !== path)
-          errors.push(`${path}: file name does not match ${traditional} ${partOfSpeech} (expected ${identity})`)
-      }
+      else if (pagePath(traditional, partOfSpeech) !== path)
+        errors.push(
+          `${path}: file name does not match ${traditional} ${partOfSpeech} (expected ${pagePath(traditional, partOfSpeech)})`,
+        )
+      nameOk = !problem && pagePath(traditional, partOfSpeech) === path
     }
-    const other = byLowerPath.get(identity.toLowerCase())
-    if (other) errors.push(`${path}: duplicates ${other} when letter case is ignored`)
-    else byLowerPath.set(identity.toLowerCase(), path)
-    const id = isObject(json) && isFilled(json.id) ? json.id : null
+    // A page that already failed the file-name rule is left out, so one wrong
+    // name is one message.
+    if (nameOk) {
+      const other = byLowerPath.get(path.toLowerCase())
+      if (other) errors.push(`${path}: duplicates ${other} when letter case is ignored`)
+      else byLowerPath.set(path.toLowerCase(), path)
+    }
+    // An id of the wrong shape is already reported by the schema and cannot
+    // be a key in the lookup, so it counts as no usable id.
+    const id = isObject(json) && isFilled(json.id) && ROW_ID.test(json.id) ? json.id : null
     pages.push({ path, id, file: valid ? (json as unknown as PageFile) : null, valid })
   }
   return pages

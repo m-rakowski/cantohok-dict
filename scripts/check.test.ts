@@ -3,7 +3,8 @@
 // `pnpm run test`.
 import { test } from 'node:test'
 import assert from 'node:assert/strict'
-import { readFileSync } from 'node:fs'
+import { mkdtempSync, readdirSync, readFileSync, writeFileSync } from 'node:fs'
+import { tmpdir } from 'node:os'
 import { join } from 'node:path'
 import { format } from 'prettier'
 import { checkRepo } from './check.ts'
@@ -785,20 +786,62 @@ test('a page file inside a subfolder of cantonese/', () => {
   )
 })
 
-// The disk may be case-insensitive (macOS), where cantonese/的士_Noun.json
-// and cantonese/的士_noun.json cannot both exist, so the clash is staged under
-// another name; the rule compares the path each page's content calls for.
-test('two page paths that differ only in letter case', () => {
+/** True when the temp disk holds `a` and `A` as two files (false on default macOS and Windows). */
+function diskIsCaseSensitive(): boolean {
+  const dir = mkdtempSync(join(tmpdir(), 'case-'))
+  writeFileSync(join(dir, 'a'), '')
+  writeFileSync(join(dir, 'A'), '')
+  return readdirSync(dir).length === 2
+}
+
+// Needs a disk that can hold both spellings, so it is skipped on macOS and Windows.
+test('two page paths that differ only in letter case', { skip: !diskIsCaseSensitive() }, () => {
   assert.deepEqual(
     checkWith(files => {
-      files['cantonese/的士_other.json'] = files[CAB_PAGE].replace('ppppppp1', 'ppppppp4').replace('"noun"', '"Noun"')
+      files['cantonese/的士_Noun.json'] = files[CAB_PAGE].replace('ppppppp1', 'ppppppp4').replace('"noun"', '"Noun"')
       editLookup(lookup => {
         lookup.ppppppp4 = 'ppppppp4'
       })(files)
     }),
+    ['cantonese/的士_noun.json: duplicates cantonese/的士_Noun.json when letter case is ignored'],
+  )
+})
+
+test('a page that names another page path reports the file name once', () => {
+  assert.deepEqual(
+    checkWith(
+      editPage('cantonese/車頭_noun.json', page => {
+        page.traditional = '的士'
+      }),
+    ),
+    ['cantonese/車頭_noun.json: file name does not match 的士 noun (expected cantonese/的士_noun.json)'],
+  )
+})
+
+test('a page id of the wrong shape reports once', () => {
+  assert.deepEqual(
+    checkWith(
+      editPage('cantonese/車頭_noun.json', page => {
+        page.id = 'BAD'
+      }),
+    ),
+    ['cantonese/車頭_noun.json: /id must match pattern "^[a-z0-9]{8}$"'],
+  )
+})
+
+test('a schema-invalid page with a changed well-formed id still reports its lookup errors', () => {
+  assert.deepEqual(
+    checkWith(
+      editPage('cantonese/車頭_noun.json', page => {
+        page.id = 'ppppppp9'
+        page.boxes = []
+      }),
+    ),
     [
-      'cantonese/的士_other.json: file name does not match 的士 Noun (expected cantonese/的士_Noun.json)',
-      'cantonese/的士_other.json: duplicates cantonese/的士_noun.json when letter case is ignored',
+      'cantonese/車頭_noun.json: /boxes must NOT have fewer than 1 items',
+      'pages-by-id.json: "aaaaaaa2" points at "ppppppp2", which is not a page id',
+      'pages-by-id.json: "ppppppp2" points at "ppppppp2", which is not a page id',
+      'pages-by-id.json: page "ppppppp9" (cantonese/車頭_noun.json) does not map to itself',
     ],
   )
 })
