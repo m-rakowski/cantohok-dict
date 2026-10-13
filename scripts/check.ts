@@ -167,9 +167,27 @@ interface CheckedPage {
   valid: boolean
 }
 
+/**
+ * One message per page path that differs only in letter case from an earlier
+ * one (macOS and Windows would treat them as one file). A page that already
+ * failed the file-name rule (`nameOk` false) is left out, so one wrong name is
+ * one message.
+ */
+export function casePathDuplicates(pages: { path: string; nameOk: boolean }[]): string[] {
+  const messages: string[] = []
+  const byLowerPath = new Map<string, string>()
+  for (const { path, nameOk } of pages) {
+    if (!nameOk) continue
+    const other = byLowerPath.get(path.toLowerCase())
+    if (other) messages.push(`${path}: duplicates ${other} when letter case is ignored`)
+    else byLowerPath.set(path.toLowerCase(), path)
+  }
+  return messages
+}
+
 function checkPages(root: string, errors: string[]): CheckedPage[] {
   const pages: CheckedPage[] = []
-  const byLowerPath = new Map<string, string>()
+  const names: { path: string; nameOk: boolean }[] = []
   for (const path of listPageFiles(root)) {
     if (path.split('/').length > 2) {
       errors.push(`${path}: page files live directly in cantonese/`)
@@ -192,18 +210,13 @@ function checkPages(root: string, errors: string[]): CheckedPage[] {
         )
       nameOk = !problem && pagePath(traditional, partOfSpeech) === path
     }
-    // A page that already failed the file-name rule is left out, so one wrong
-    // name is one message.
-    if (nameOk) {
-      const other = byLowerPath.get(path.toLowerCase())
-      if (other) errors.push(`${path}: duplicates ${other} when letter case is ignored`)
-      else byLowerPath.set(path.toLowerCase(), path)
-    }
+    names.push({ path, nameOk })
     // An id of the wrong shape is already reported by the schema and cannot
     // be a key in the lookup, so it counts as no usable id.
     const id = isObject(json) && isFilled(json.id) && ROW_ID.test(json.id) ? json.id : null
     pages.push({ path, id, file: valid ? (json as unknown as PageFile) : null, valid })
   }
+  errors.push(...casePathDuplicates(names))
   return pages
 }
 

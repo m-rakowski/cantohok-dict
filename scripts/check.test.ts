@@ -7,7 +7,7 @@ import { mkdtempSync, readdirSync, readFileSync, writeFileSync } from 'node:fs'
 import { tmpdir } from 'node:os'
 import { join } from 'node:path'
 import { format } from 'prettier'
-import { checkRepo } from './check.ts'
+import { casePathDuplicates, checkRepo } from './check.ts'
 import { pageNameProblem } from './types.ts'
 import { validFixture, writeTree } from './test-helpers.ts'
 
@@ -804,6 +804,25 @@ test('two page paths that differ only in letter case', { skip: !diskIsCaseSensit
       })(files)
     }),
     ['cantonese/的士_noun.json: duplicates cantonese/的士_Noun.json when letter case is ignored'],
+  )
+})
+
+test('case-only path clash, on in-memory paths', () => {
+  const upper = 'cantonese/的士_Noun.json'
+  const lower = 'cantonese/的士_noun.json'
+  assert.deepEqual(
+    casePathDuplicates([
+      { path: upper, nameOk: true },
+      { path: lower, nameOk: true },
+    ]),
+    [`${lower}: duplicates ${upper} when letter case is ignored`],
+  )
+  assert.deepEqual(
+    casePathDuplicates([
+      { path: upper, nameOk: true },
+      { path: lower, nameOk: false },
+    ]),
+    [],
   )
 })
 
