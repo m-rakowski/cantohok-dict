@@ -207,8 +207,6 @@ function checkPages(root: string, errors: string[]): CheckedPage[] {
     if (isObject(json) && isFilled(json.traditional) && isFilled(json.partOfSpeech)) {
       const { traditional, partOfSpeech } = json
       const problem = pageNameProblem(traditional, partOfSpeech)
-      // An id of the wrong shape is already reported by the schema, so the
-      // name is not compared when there is no usable id.
       if (problem) errors.push(`${path}: ${problem}`)
       else if (id !== null && pagePath(traditional, partOfSpeech, id) !== path)
         errors.push(
