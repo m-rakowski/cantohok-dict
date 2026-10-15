@@ -13,8 +13,8 @@ import { validFixture, writeTree } from './test-helpers.ts'
 
 const CAB = 'words/c/cab.json'
 const THURSDAY = 'words/t/Thursday.json'
-const CAB_PAGE = 'cantonese/的士_noun.json'
-const THURSDAY_PAGE = 'cantonese/星期四_noun.json'
+const CAB_PAGE = 'cantonese/的士_noun_ppppppp1.json'
+const THURSDAY_PAGE = 'cantonese/星期四_noun_ppppppp3.json'
 
 const repoRoot = join(import.meta.dirname, '..')
 const prettierConfig = JSON.parse(readFileSync(join(repoRoot, '.prettierrc.json'), 'utf8'))
@@ -716,10 +716,125 @@ test('box with no English word', () => {
 test('page file under the wrong name', () => {
   assert.deepEqual(
     checkWith(files => {
-      files['cantonese/星期五_noun.json'] = files[THURSDAY_PAGE]
+      files['cantonese/星期五_noun_ppppppp3.json'] = files[THURSDAY_PAGE]
       delete files[THURSDAY_PAGE]
     }),
-    ['cantonese/星期五_noun.json: file name does not match 星期四 noun (expected cantonese/星期四_noun.json)'],
+    [
+      'cantonese/星期五_noun_ppppppp3.json: file name does not match 星期四 noun ppppppp3 (expected cantonese/星期四_noun_ppppppp3.json)',
+    ],
+  )
+})
+
+test('page file named with another page id', () => {
+  assert.deepEqual(
+    checkWith(files => {
+      files['cantonese/的士_noun_abcd1234.json'] = files[CAB_PAGE]
+      delete files[CAB_PAGE]
+    }),
+    [
+      'cantonese/的士_noun_abcd1234.json: file name does not match 的士 noun ppppppp1 (expected cantonese/的士_noun_ppppppp1.json)',
+    ],
+  )
+})
+
+test('page file with no id in its name', () => {
+  assert.deepEqual(
+    checkWith(files => {
+      files['cantonese/的士_noun.json'] = files[CAB_PAGE]
+      delete files[CAB_PAGE]
+    }),
+    [
+      'cantonese/的士_noun.json: file name does not match 的士 noun ppppppp1 (expected cantonese/的士_noun_ppppppp1.json)',
+    ],
+  )
+})
+
+test('a page whose id is unusable reports the schema error and no file name error', () => {
+  assert.deepEqual(
+    checkWith(
+      editPage(THURSDAY_PAGE, page => {
+        page.id = 'BAD'
+      }),
+    ),
+    [`${THURSDAY_PAGE}: /id must match pattern "^[a-z0-9]{8}$"`],
+  )
+})
+
+/** The 的士 page with a second box that reads `reading`; the box-level fields are valid. */
+function withSecondBox(reading: string): (files: Record<string, string>) => void {
+  return editPage(CAB_PAGE, page => {
+    page.boxes.push({ meaning: 'taxi', english: ['cab'], jyutping: reading, examples: [] })
+  })
+}
+
+test('a page with two readings', () => {
+  assert.deepEqual(checkWith(withSecondBox('dik1 si6')), [
+    `${CAB_PAGE}: boxes read dik1 si2 and dik1 si6; a page has one reading`,
+  ])
+})
+
+test('a page with three readings lists them in first-seen order, once each', () => {
+  assert.deepEqual(
+    checkWith(
+      editPage(CAB_PAGE, page => {
+        const box = (jyutping: string) => ({ meaning: 'taxi', english: ['cab'], jyutping, examples: [] })
+        page.boxes.push(box('dik1 si6'), box('dik1 si2'), box('dik1 si1'))
+      }),
+    ),
+    [`${CAB_PAGE}: boxes read dik1 si2 and dik1 si6 and dik1 si1; a page has one reading`],
+  )
+})
+
+test('boxes whose readings differ only by a trailing space are two readings', () => {
+  assert.deepEqual(checkWith(withSecondBox('dik1 si2 ')), [
+    `${CAB_PAGE}: boxes read dik1 si2 and dik1 si2 ; a page has one reading`,
+  ])
+})
+
+test('two boxes with the same reading are one reading', () => {
+  assert.deepEqual(checkWith(withSecondBox('dik1 si2')), [])
+})
+
+test('two pages with the same word, part of speech and reading', () => {
+  const copy = 'cantonese/的士_noun_wxyz5678.json'
+  assert.deepEqual(
+    checkWith(files => {
+      files[copy] = files[CAB_PAGE].replace('ppppppp1', 'wxyz5678')
+      editLookup(lookup => {
+        lookup.wxyz5678 = 'wxyz5678'
+      })(files)
+    }),
+    [`${copy}: same word, part of speech and reading (的士 noun dik1 si2) as ${CAB_PAGE}`],
+  )
+})
+
+test('same word and part of speech with a different reading is a different page', () => {
+  assert.deepEqual(
+    checkWith(files => {
+      files['cantonese/的士_noun_wxyz5678.json'] = files[CAB_PAGE].replace('ppppppp1', 'wxyz5678').replace(
+        '"dik1 si2"',
+        '"dik1 si6"',
+      )
+      editLookup(lookup => {
+        lookup.wxyz5678 = 'wxyz5678'
+      })(files)
+    }),
+    [],
+  )
+})
+
+test('different words with the same part of speech and reading are different pages', () => {
+  assert.deepEqual(
+    checkWith(files => {
+      files['cantonese/的到_noun_wxyz5678.json'] = files[CAB_PAGE].replace('ppppppp1', 'wxyz5678').replace(
+        '"traditional": "的士"',
+        '"traditional": "的到"',
+      )
+      editLookup(lookup => {
+        lookup.wxyz5678 = 'wxyz5678'
+      })(files)
+    }),
+    [],
   )
 })
 
@@ -749,10 +864,10 @@ test('part of speech that cannot be a file name', () => {
   )
 })
 
-test('a name ending in a dot or a space, or holding a control character', () => {
-  assert.equal(pageNameProblem('的士', 'noun.'), 'part of speech "noun." ends with ".", which cannot end a file name')
-  assert.equal(pageNameProblem('的士', 'noun '), 'part of speech "noun " ends with " ", which cannot end a file name')
-  // The file name continues with _<partOfSpeech>.json, so characters may end in "." or a space.
+test('a name ending in a dot or a space is fine; a control character is not', () => {
+  // The file name continues with _<id>.json after the part of speech, and with _<partOfSpeech>_<id>.json after the characters.
+  assert.equal(pageNameProblem('的士', 'noun.'), null)
+  assert.equal(pageNameProblem('的士', 'noun '), null)
   assert.equal(pageNameProblem('的士.', 'noun'), null)
   assert.equal(pageNameProblem('的士 ', 'noun'), null)
   assert.equal(pageNameProblem('啱啱 + V + 就...', 'phrase'), null)
@@ -764,7 +879,7 @@ test('a name ending in a dot or a space, or holding a control character', () => 
 })
 
 test('a page whose characters end in "..." is a valid file name', () => {
-  const path = 'cantonese/啱啱 + V + 就..._phrase.json'
+  const path = 'cantonese/啱啱 + V + 就..._phrase_ppppppp4.json'
   assert.deepEqual(
     checkWith(files => {
       files[path] = files[CAB_PAGE].replace('ppppppp1', 'ppppppp4')
@@ -790,7 +905,10 @@ test('invalid JSON in a page file', () => {
 test('two pages for one word, different part of speech', () => {
   assert.deepEqual(
     checkWith(files => {
-      files['cantonese/的士_verb.json'] = files[CAB_PAGE].replace('ppppppp1', 'ppppppp4').replace('noun', 'verb')
+      files['cantonese/的士_verb_ppppppp4.json'] = files[CAB_PAGE].replace('ppppppp1', 'ppppppp4').replace(
+        'noun',
+        'verb',
+      )
       editLookup(lookup => {
         lookup.ppppppp4 = 'ppppppp4'
       })(files)
@@ -802,9 +920,9 @@ test('two pages for one word, different part of speech', () => {
 test('a page file inside a subfolder of cantonese/', () => {
   assert.deepEqual(
     checkWith(files => {
-      files['cantonese/的/的士_noun.json'] = files[CAB_PAGE]
+      files['cantonese/的/的士_noun_ppppppp1.json'] = files[CAB_PAGE]
     }),
-    ['cantonese/的/的士_noun.json: page files live directly in cantonese/'],
+    ['cantonese/的/的士_noun_ppppppp1.json: page files live directly in cantonese/'],
   )
 })
 
@@ -820,18 +938,20 @@ function diskIsCaseSensitive(): boolean {
 test('two page paths that differ only in letter case', { skip: !diskIsCaseSensitive() }, () => {
   assert.deepEqual(
     checkWith(files => {
-      files['cantonese/的士_Noun.json'] = files[CAB_PAGE].replace('ppppppp1', 'ppppppp4').replace('"noun"', '"Noun"')
-      editLookup(lookup => {
-        lookup.ppppppp4 = 'ppppppp4'
-      })(files)
+      // Ids are lowercase, so two paths can differ only in case just when the id is the same too.
+      files['cantonese/的士_Noun_ppppppp1.json'] = files[CAB_PAGE].replace('"noun"', '"Noun"')
     }),
-    ['cantonese/的士_noun.json: duplicates cantonese/的士_Noun.json when letter case is ignored'],
+    // Paths are sorted, and "N" sorts before "n". The two files hold one id, so that is reported too.
+    [
+      'cantonese/的士_noun_ppppppp1.json: duplicates cantonese/的士_Noun_ppppppp1.json when letter case is ignored',
+      'duplicate page id "ppppppp1" in cantonese/的士_Noun_ppppppp1.json and cantonese/的士_noun_ppppppp1.json',
+    ],
   )
 })
 
 test('case-only path clash, on in-memory paths', () => {
-  const upper = 'cantonese/的士_Noun.json'
-  const lower = 'cantonese/的士_noun.json'
+  const upper = 'cantonese/的士_Noun_ppppppp1.json'
+  const lower = 'cantonese/的士_noun_ppppppp1.json'
   assert.deepEqual(
     casePathDuplicates([
       { path: upper, nameOk: true },
@@ -851,38 +971,41 @@ test('case-only path clash, on in-memory paths', () => {
 test('a page that names another page path reports the file name once', () => {
   assert.deepEqual(
     checkWith(
-      editPage('cantonese/車頭_noun.json', page => {
+      editPage('cantonese/車頭_noun_ppppppp2.json', page => {
         page.traditional = '的士'
       }),
     ),
-    ['cantonese/車頭_noun.json: file name does not match 的士 noun (expected cantonese/的士_noun.json)'],
+    [
+      'cantonese/車頭_noun_ppppppp2.json: file name does not match 的士 noun ppppppp2 (expected cantonese/的士_noun_ppppppp2.json)',
+    ],
   )
 })
 
 test('a page id of the wrong shape reports once', () => {
   assert.deepEqual(
     checkWith(
-      editPage('cantonese/車頭_noun.json', page => {
+      editPage('cantonese/車頭_noun_ppppppp2.json', page => {
         page.id = 'BAD'
       }),
     ),
-    ['cantonese/車頭_noun.json: /id must match pattern "^[a-z0-9]{8}$"'],
+    ['cantonese/車頭_noun_ppppppp2.json: /id must match pattern "^[a-z0-9]{8}$"'],
   )
 })
 
 test('a schema-invalid page with a changed well-formed id still reports its lookup errors', () => {
   assert.deepEqual(
     checkWith(
-      editPage('cantonese/車頭_noun.json', page => {
+      editPage('cantonese/車頭_noun_ppppppp2.json', page => {
         page.id = 'ppppppp9'
         page.boxes = []
       }),
     ),
     [
-      'cantonese/車頭_noun.json: /boxes must NOT have fewer than 1 items',
+      'cantonese/車頭_noun_ppppppp2.json: /boxes must NOT have fewer than 1 items',
+      'cantonese/車頭_noun_ppppppp2.json: file name does not match 車頭 noun ppppppp9 (expected cantonese/車頭_noun_ppppppp9.json)',
       'pages-by-id.json: "aaaaaaa2" points at "ppppppp2", which is not a page id',
       'pages-by-id.json: "ppppppp2" points at "ppppppp2", which is not a page id',
-      'pages-by-id.json: page "ppppppp9" (cantonese/車頭_noun.json) does not map to itself',
+      'pages-by-id.json: page "ppppppp9" (cantonese/車頭_noun_ppppppp2.json) does not map to itself',
     ],
   )
 })
@@ -890,7 +1013,7 @@ test('a schema-invalid page with a changed well-formed id still reports its look
 test('two pages share an id', () => {
   assert.deepEqual(
     checkWith(files => {
-      editPage('cantonese/車頭_noun.json', page => {
+      editPage('cantonese/車頭_noun_ppppppp2.json', page => {
         page.id = 'ppppppp1'
       })(files)
       editLookup(lookup => {
@@ -898,7 +1021,10 @@ test('two pages share an id', () => {
         lookup.aaaaaaa2 = 'ppppppp1'
       })(files)
     }),
-    ['duplicate page id "ppppppp1" in cantonese/的士_noun.json and cantonese/車頭_noun.json'],
+    [
+      'cantonese/車頭_noun_ppppppp2.json: file name does not match 車頭 noun ppppppp1 (expected cantonese/車頭_noun_ppppppp1.json)',
+      'duplicate page id "ppppppp1" in cantonese/的士_noun_ppppppp1.json and cantonese/車頭_noun_ppppppp2.json',
+    ],
   )
 })
 
@@ -914,7 +1040,10 @@ test('page id equals an English row id', () => {
         lookup.bbbbbbb1 = 'aaaaaaa1'
       })(files)
     }),
-    ['cantonese/星期四_noun.json: page id "aaaaaaa1" is also an English row id (words/c/cab.json)'],
+    [
+      'cantonese/星期四_noun_ppppppp3.json: file name does not match 星期四 noun aaaaaaa1 (expected cantonese/星期四_noun_aaaaaaa1.json)',
+      'cantonese/星期四_noun_ppppppp3.json: page id "aaaaaaa1" is also an English row id (words/c/cab.json)',
+    ],
   )
 })
 
@@ -931,7 +1060,7 @@ test('no pages and no lookup', () => {
   assert.deepEqual(
     checkWith(files => {
       delete files['pages-by-id.json']
-      for (const path of [CAB_PAGE, 'cantonese/車頭_noun.json', THURSDAY_PAGE]) delete files[path]
+      for (const path of [CAB_PAGE, 'cantonese/車頭_noun_ppppppp2.json', THURSDAY_PAGE]) delete files[path]
     }),
     [],
   )
@@ -977,7 +1106,7 @@ test('page id missing from the lookup', () => {
         delete lookup.ppppppp3
       }),
     ),
-    ['pages-by-id.json: page "ppppppp3" (cantonese/星期四_noun.json) does not map to itself'],
+    ['pages-by-id.json: page "ppppppp3" (cantonese/星期四_noun_ppppppp3.json) does not map to itself'],
   )
 })
 
@@ -988,27 +1117,27 @@ test('page id mapped elsewhere', () => {
         lookup.ppppppp3 = 'ppppppp1'
       }),
     ),
-    ['pages-by-id.json: page "ppppppp3" (cantonese/星期四_noun.json) does not map to itself'],
+    ['pages-by-id.json: page "ppppppp3" (cantonese/星期四_noun_ppppppp3.json) does not map to itself'],
   )
 })
 
 test('a broken page file reports once', () => {
   assert.deepEqual(
     checkWith(files => {
-      files['cantonese/車頭_noun.json'] = '{ nope'
+      files['cantonese/車頭_noun_ppppppp2.json'] = '{ nope'
     }),
-    ['cantonese/車頭_noun.json: invalid JSON'],
+    ['cantonese/車頭_noun_ppppppp2.json: invalid JSON'],
   )
 })
 
 test('a page file that fails its schema reports once', () => {
   assert.deepEqual(
     checkWith(
-      editPage('cantonese/車頭_noun.json', page => {
+      editPage('cantonese/車頭_noun_ppppppp2.json', page => {
         delete page.id
       }),
     ),
-    ["cantonese/車頭_noun.json: (root) must have required property 'id'"],
+    ["cantonese/車頭_noun_ppppppp2.json: (root) must have required property 'id'"],
   )
 })
 
@@ -1019,7 +1148,7 @@ test('note rules apply inside boxes', () => {
         page.boxes[0].note = 'See sense 2.'
       }),
     ),
-    ['cantonese/星期四_noun.json: box 1 note points at a numbered sense ("sense 2")'],
+    ['cantonese/星期四_noun_ppppppp3.json: box 1 note points at a numbered sense ("sense 2")'],
   )
 })
 
@@ -1042,6 +1171,6 @@ test('placeholder letter in a box example', () => {
         page.boxes[0].examples[0].english = 'A met B at the airport.'
       }),
     ),
-    ['cantonese/的士_noun.json: box 1 example 1 english has a placeholder letter (B)'],
+    ['cantonese/的士_noun_ppppppp1.json: box 1 example 1 english has a placeholder letter (B)'],
   )
 })

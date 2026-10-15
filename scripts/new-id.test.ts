@@ -29,7 +29,7 @@ test('newId re-rolls when the injected random source produces a taken id first',
 test('collectTakenIds includes page ids', () => {
   const root = writeTree({
     'words/c/cab.json': JSON.stringify({ term: 'cab', rows: [{ id: 'aaaaaaa1' }] }),
-    'cantonese/的士_noun.json': JSON.stringify({
+    'cantonese/的士_noun_cccccccc.json': JSON.stringify({
       id: 'cccccccc',
       traditional: '的士',
       partOfSpeech: 'noun',

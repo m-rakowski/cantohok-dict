@@ -11,18 +11,20 @@
 //   Windows (like "con" -> con_.json).
 // - No two words may have the same term, even if the capitalization differs.
 // - No two rows, anywhere in the dictionary, may share the same "id".
-// - Every Cantonese page file (cantonese/<traditional>_<partOfSpeech>.json)
+// - Every Cantonese page file (cantonese/<traditional>_<partOfSpeech>_<id>.json)
 //   must be valid JSON and match schema/page.schema.json: at least one box,
 //   every box with at least one English word, and no id on a box.
-// - A page file's name must match its "traditional" and "partOfSpeech"
-//   (cantonese/的士_noun.json), so two pages never share a word and part of
-//   speech; characters that cannot appear in a file name are reported
+// - A page file's name must match its "traditional", "partOfSpeech" and "id"
+//   (cantonese/的士_noun_abcd1234.json); characters that cannot appear in a file name are reported
 //   instead of being turned into a path.
 // - Page files live directly in cantonese/ (a file in a subfolder is
 //   refused), and no two page paths may differ only in letter case, because
 //   macOS and Windows would treat them as one file.
 // - No two pages may share an "id", and no page id may equal an English
 //   row's id.
+// - A page has one reading: all its boxes carry the same "jyutping", compared
+//   exactly as stored. Two pages may not have the same characters, part of
+//   speech and reading; they would be the same page twice.
 // - pages-by-id.json (the link lookup) is required once any page file
 //   exists, and must match schema/pages-by-id.schema.json. Every English row
 //   id must have an entry; every value must be an existing page id; every
@@ -199,24 +201,48 @@ function checkPages(root: string, errors: string[]): CheckedPage[] {
     }
     const valid = runSchema(path, json, validatePage, errors)
     let nameOk = true
+    // An id of the wrong shape is already reported by the schema and cannot
+    // be a key in the lookup, so it counts as no usable id.
+    const id = isObject(json) && isFilled(json.id) && ID_PATTERN.test(json.id) ? json.id : null
     if (isObject(json) && isFilled(json.traditional) && isFilled(json.partOfSpeech)) {
       const { traditional, partOfSpeech } = json
       const problem = pageNameProblem(traditional, partOfSpeech)
       if (problem) errors.push(`${path}: ${problem}`)
-      else if (pagePath(traditional, partOfSpeech) !== path)
+      else if (id !== null && pagePath(traditional, partOfSpeech, id) !== path)
         errors.push(
-          `${path}: file name does not match ${traditional} ${partOfSpeech} (expected ${pagePath(traditional, partOfSpeech)})`,
+          `${path}: file name does not match ${traditional} ${partOfSpeech} ${id} (expected ${pagePath(traditional, partOfSpeech, id)})`,
         )
-      nameOk = !problem && pagePath(traditional, partOfSpeech) === path
+      nameOk = !problem && id !== null && pagePath(traditional, partOfSpeech, id) === path
     }
     names.push({ path, nameOk })
-    // An id of the wrong shape is already reported by the schema and cannot
-    // be a key in the lookup, so it counts as no usable id.
-    const id = isObject(json) && isFilled(json.id) && ID_PATTERN.test(json.id) ? json.id : null
     pages.push({ path, id, file: valid ? (json as unknown as PageFile) : null, valid })
   }
   errors.push(...casePathDuplicates(names))
   return pages
+}
+
+/**
+ * A page has one reading, and no two pages are the same word, part of speech
+ * and reading. Only pages that passed the schema are judged. Readings are
+ * compared exactly as stored.
+ */
+function checkPageReadings(pages: CheckedPage[], errors: string[]): void {
+  const firstPath = new Map<string, string>()
+  for (const { path, file } of pages) {
+    if (!file) continue
+    const readings = [...new Set(file.boxes.map(box => box.jyutping))]
+    if (readings.length > 1) {
+      errors.push(`${path}: boxes read ${readings.join(' and ')}; a page has one reading`)
+      continue
+    }
+    const key = JSON.stringify([file.traditional, file.partOfSpeech, readings[0]])
+    const earlier = firstPath.get(key)
+    if (earlier)
+      errors.push(
+        `${path}: same word, part of speech and reading (${file.traditional} ${file.partOfSpeech} ${readings[0]}) as ${earlier}`,
+      )
+    else firstPath.set(key, path)
+  }
 }
 
 /** No two pages share an id, and no page id equals an English row id. Pages without a usable id are skipped. */
@@ -364,6 +390,7 @@ export function checkRepo(root: string): string[] {
   checkDuplicateIds(words, errors)
   const pages = checkPages(root, errors)
   checkPageIds(pages, words, errors)
+  checkPageReadings(pages, errors)
   checkPageLookup(root, pages, words, errors)
   const beforeFrequency = errors.length
   const frequency = checkFrequency(root, words, errors)
