@@ -823,6 +823,21 @@ test('same word and part of speech with a different reading is a different page'
   )
 })
 
+test('different words with the same part of speech and reading are different pages', () => {
+  assert.deepEqual(
+    checkWith(files => {
+      files['cantonese/的到_noun_wxyz5678.json'] = files[CAB_PAGE].replace('ppppppp1', 'wxyz5678').replace(
+        '"traditional": "的士"',
+        '"traditional": "的到"',
+      )
+      editLookup(lookup => {
+        lookup.wxyz5678 = 'wxyz5678'
+      })(files)
+    }),
+    [],
+  )
+})
+
 const SLASH_MESSAGE =
   'characters "a/b" contain "/", which cannot appear in a file name; write "／" (U+FF0F, fullwidth slash) instead'
 
@@ -926,7 +941,11 @@ test('two page paths that differ only in letter case', { skip: !diskIsCaseSensit
       // Ids are lowercase, so two paths can differ only in case just when the id is the same too.
       files['cantonese/的士_Noun_ppppppp1.json'] = files[CAB_PAGE].replace('"noun"', '"Noun"')
     }),
-    ['cantonese/的士_Noun_ppppppp1.json: duplicates cantonese/的士_noun_ppppppp1.json when letter case is ignored'],
+    // Paths are sorted, and "N" sorts before "n". The two files hold one id, so that is reported too.
+    [
+      'cantonese/的士_noun_ppppppp1.json: duplicates cantonese/的士_Noun_ppppppp1.json when letter case is ignored',
+      'duplicate page id "ppppppp1" in cantonese/的士_Noun_ppppppp1.json and cantonese/的士_noun_ppppppp1.json',
+    ],
   )
 })
 

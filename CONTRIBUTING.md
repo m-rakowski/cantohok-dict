@@ -8,7 +8,7 @@ files are laid out and the steps to change them.
 - `words/<letter>/<word>.json` — one file per English word. This is the
   dictionary itself. This is the file you edit.
 - `cantonese/<characters>_<part of speech>_<id>.json` — one file per Cantonese
-  word page, such as `cantonese/揮手_verb_i0dcd0tv.json`. A page has one
+  word page, such as `cantonese/揮手_verb_vonj8c12.json`. A page has one
   reading: every box on it has the same Jyutping. It holds exactly what the site
   shows for that word, with the boxes in the order they appear on the page.
   Each box holds one or more English words that mean the same thing, the
@@ -95,11 +95,11 @@ What each field means:
 ## What one page looks like
 
 A page file holds everything the site shows for one Cantonese word with one
-part of speech and one reading. Here is `cantonese/揮手_verb_i0dcd0tv.json`:
+part of speech and one reading. Here is `cantonese/揮手_verb_vonj8c12.json`:
 
 ```json
 {
-  "id": "i0dcd0tv",
+  "id": "vonj8c12",
   "partOfSpeech": "verb",
   "traditional": "揮手",
   "boxes": [
@@ -130,6 +130,11 @@ part of speech and one reading. Here is `cantonese/揮手_verb_i0dcd0tv.json`:
   `pin2` are two files, each with its own `id`. A second meaning of the same
   word and reading is another box on the same page, never a second file. Two
   pages may not have the same characters, part of speech and reading.
+- To correct a box's reading, move the box to the page with that reading (if
+  there is none, make one with an id from `pnpm run new-id`), and in
+  `pages-by-id.json` point the rows that box shows at that page. If a page is
+  left with no boxes, delete its file but keep its line in `pages-by-id.json`,
+  pointing its `id` at the page that took its boxes, so old links still work.
 - The file name is made from the characters, the part of speech and the `id`,
   so the characters and the part of speech cannot hold `\ : * ? " < > |`. For a `/` in the characters, write `／` (U+FF0F, the fullwidth slash).
 - You can add, remove, merge and reorder boxes, and put several English words
