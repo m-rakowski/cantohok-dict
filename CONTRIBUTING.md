@@ -7,16 +7,17 @@ files are laid out and the steps to change them.
 
 - `words/<letter>/<word>.json` — one file per English word. This is the
   dictionary itself. This is the file you edit.
-- `cantonese/<characters>_<part of speech>.json` — one file per Cantonese word
-  page, such as `cantonese/揮手_verb.json`. It holds exactly what the site
+- `cantonese/<characters>_<part of speech>_<id>.json` — one file per Cantonese
+  word page, such as `cantonese/揮手_verb_i0dcd0tv.json`. A page has one
+  reading: every box on it has the same Jyutping. It holds exactly what the site
   shows for that word, with the boxes in the order they appear on the page.
   Each box holds one or more English words that mean the same thing, the
   reading (Jyutping), a short meaning, its examples, and an optional `note`.
   Add a note only to warn about something the examples cannot show. The
   page's `id` never changes: if you rename the file (say, to fix the
   characters), keep the `id` as it is. Every file must be named after the
-  `traditional` and `partOfSpeech` inside it; `pnpm run check` tells you the
-  expected name. Page files sit directly in `cantonese/`, not in subfolders.
+  `traditional`, `partOfSpeech` and `id` inside it; `pnpm run check` tells you
+  the expected name. Page files sit directly in `cantonese/`, not in subfolders.
 - `pages-by-id.json` — a lookup from every English row `id` and every page
   `id` to the page it belongs to, so an old link to a row still finds its
   page. It was first written by a script. When you add a new row, add a line
@@ -94,7 +95,7 @@ What each field means:
 ## What one page looks like
 
 A page file holds everything the site shows for one Cantonese word with one
-part of speech. Here is `cantonese/揮手_verb.json`:
+part of speech and one reading. Here is `cantonese/揮手_verb_i0dcd0tv.json`:
 
 ```json
 {
@@ -125,11 +126,12 @@ part of speech. Here is `cantonese/揮手_verb.json`:
   one), a short `meaning`, and a list of
   `examples` (it may be empty). `note` and `register` are optional.
 - Different parts of speech are different pages: 建議 as a verb and 建議 as
-  a noun are two files. A second meaning of the same word is another box on
-  the same page, never a second file.
-- The file name is made from the characters and the part of speech, so they
-  cannot hold `\ : * ? " < > |`, and a part of speech cannot end in a dot or a
-  space. For a `/` in the characters, write `／` (U+FF0F, the fullwidth slash).
+  a noun are two files. So are different readings: 片 read `pin3` and 片 read
+  `pin2` are two files, each with its own `id`. A second meaning of the same
+  word and reading is another box on the same page, never a second file. Two
+  pages may not have the same characters, part of speech and reading.
+- The file name is made from the characters, the part of speech and the `id`,
+  so the characters and the part of speech cannot hold `\ : * ? " < > |`. For a `/` in the characters, write `／` (U+FF0F, the fullwidth slash).
 - You can add, remove, merge and reorder boxes, and put several English words
   or several examples in one box.
 - A `note` is held to the same rules as a note on a row (it must read on its

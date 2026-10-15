@@ -38,7 +38,7 @@ export interface Box {
   register?: string
 }
 
-/** A Cantonese word page: cantonese/<traditional>_<partOfSpeech>.json. */
+/** A Cantonese word page: cantonese/<traditional>_<partOfSpeech>_<id>.json. It holds one reading, in one or more boxes. */
 export interface PageFile {
   id: string
   traditional: string
@@ -70,16 +70,17 @@ export function wordPath(term: string): string {
 }
 
 /** Where a Cantonese page's file lives, relative to the repo root. */
-export function pagePath(traditional: string, partOfSpeech: string): string {
-  return `cantonese/${traditional}_${partOfSpeech}.json`
+export function pagePath(traditional: string, partOfSpeech: string, id: string): string {
+  return `cantonese/${traditional}_${partOfSpeech}_${id}.json`
 }
 
 // Characters no file name may hold on Windows (and "/" on any system).
 const FORBIDDEN_IN_FILE_NAME = new Set('/\\:*?"<>|')
 
-// `endsFileName` is true only for the part of speech: the file name always
-// continues with `_<partOfSpeech>.json`, so only the part of speech can end it.
-function textProblem(label: string, text: string, endsFileName: boolean): string | null {
+// Neither part can end the file name: it always continues with
+// `_<partOfSpeech>_<id>.json` after the characters and `_<id>.json` after the
+// part of speech, so a trailing "." or " " is fine in both.
+function textProblem(label: string, text: string): string | null {
   const s = label === 'characters' ? '' : 's'
   for (const char of text) {
     if (char === '/')
@@ -89,13 +90,10 @@ function textProblem(label: string, text: string, endsFileName: boolean): string
     if (/\p{Cc}/u.test(char))
       return `${label} "${text}" contain${s} a control character, which cannot appear in a file name`
   }
-  const last = text.at(-1)
-  if (endsFileName && (last === '.' || last === ' '))
-    return `${label} "${text}" end${s} with "${last}", which cannot end a file name`
   return null
 }
 
 /** Null when a page's characters and part of speech can make a file name; otherwise a message naming what cannot. */
 export function pageNameProblem(traditional: string, partOfSpeech: string): string | null {
-  return textProblem('characters', traditional, false) ?? textProblem('part of speech', partOfSpeech, true)
+  return textProblem('characters', traditional) ?? textProblem('part of speech', partOfSpeech)
 }

@@ -63,7 +63,7 @@ export function validFixture(): Record<string, string> {
   ]
 }
 `,
-    'cantonese/的士_noun.json': `{
+    'cantonese/的士_noun_ppppppp1.json': `{
   "id": "ppppppp1",
   "partOfSpeech": "noun",
   "traditional": "的士",
@@ -83,7 +83,7 @@ export function validFixture(): Record<string, string> {
   ]
 }
 `,
-    'cantonese/車頭_noun.json': `{
+    'cantonese/車頭_noun_ppppppp2.json': `{
   "id": "ppppppp2",
   "partOfSpeech": "noun",
   "traditional": "車頭",
@@ -98,7 +98,7 @@ export function validFixture(): Record<string, string> {
   ]
 }
 `,
-    'cantonese/星期四_noun.json': `{
+    'cantonese/星期四_noun_ppppppp3.json': `{
   "id": "ppppppp3",
   "partOfSpeech": "noun",
   "traditional": "星期四",

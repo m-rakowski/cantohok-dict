@@ -32,7 +32,7 @@ Each release has:
 3. Run `pnpm install`, then `pnpm run format` and `pnpm run check`.
 4. Open a pull request.
 
-The dictionary has two trees: `words/` is organized by English word, and `cantonese/` has one page per Cantonese word, which is what the site shows. They may group meanings differently, and that is expected.
+The dictionary has two trees: `words/` is organized by English word, and `cantonese/` has one page per Cantonese word and reading, which is what the site shows. They may group meanings differently, and that is expected.
 
 Adding a new word or meaning? See [CONTRIBUTING.md](CONTRIBUTING.md).
 
