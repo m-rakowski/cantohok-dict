@@ -806,6 +806,21 @@ test('two pages with the same word, part of speech and reading', () => {
   )
 })
 
+test('readings that differ only by a trailing space are not duplicates', () => {
+  assert.deepEqual(
+    checkWith(files => {
+      files['cantonese/的士_noun_wxyz5678.json'] = files[CAB_PAGE].replace('ppppppp1', 'wxyz5678').replace(
+        '"dik1 si2"',
+        '"dik1 si2 "',
+      )
+      editLookup(lookup => {
+        lookup.wxyz5678 = 'wxyz5678'
+      })(files)
+    }),
+    [],
+  )
+})
+
 test('same word and part of speech with a different reading is a different page', () => {
   assert.deepEqual(
     checkWith(files => {

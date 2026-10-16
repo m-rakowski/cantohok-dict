@@ -120,21 +120,23 @@ part of speech and one reading. Here is `cantonese/揮手_verb_vonj8c12.json`:
 ```
 
 - A page has an `id` (8 lowercase letters or digits), the `traditional`
-  characters, a `partOfSpeech`, the reading in `jyutping`, and at least one box. Boxes have no `id` of
-  their own.
-- A box has a list of `english` words (at least
-  one), a short `meaning`, and a list of
-  `examples` (it may be empty). `note` and `register` are optional.
+  characters, a `partOfSpeech`, the reading in `jyutping`, and at least one
+  box. Boxes have no `id` of their own.
+- A box has a list of `english` words (at least one), a short `meaning`, and a
+  list of `examples` (it may be empty). `note` and `register` are optional.
 - Different parts of speech are different pages: 建議 as a verb and 建議 as
   a noun are two files. So are different readings: 片 read `pin3` and 片 read
   `pin2` are two files, each with its own `id`. A second meaning of the same
   word and reading is another box on the same page, never a second file. Two
   pages may not have the same characters, part of speech and reading.
-- To correct a reading, change the page's `jyutping`, unless the page also holds
-  meanings that are read differently. Then move each such box's meaning to the
-  page with the right reading (if there is none, make one with an id from `pnpm run new-id`), and in
-  `pages-by-id.json` point the rows that box shows at that page. If a page is
-  left with no boxes, delete its file but keep its line in `pages-by-id.json`,
+- To correct a reading, change the page's `jyutping`. If a page with the right
+  reading already exists for the same characters and part of speech, the check
+  refuses the change as a duplicate: move the boxes to that page instead, and
+  in `pages-by-id.json` point the rows those boxes show at it. If the page
+  holds boxes that need different readings, move each such box to the page
+  with its reading (if there is none, make one with an id from
+  `pnpm run new-id`) and point its rows there the same way. If a page is left
+  with no boxes, delete its file but keep its line in `pages-by-id.json`,
   pointing its `id` at the page that took its boxes, so old links still work.
 - The file name is made from the characters, the part of speech and the `id`,
   so the characters and the part of speech cannot hold `\ : * ? " < > |`. For a `/` in the characters, write `／` (U+FF0F, the fullwidth slash).
