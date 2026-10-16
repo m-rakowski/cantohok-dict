@@ -33,6 +33,7 @@ test('collectTakenIds includes page ids', () => {
       id: 'cccccccc',
       traditional: '的士',
       partOfSpeech: 'noun',
+      jyutping: 'dik1 si2',
       boxes: [],
     }),
   })

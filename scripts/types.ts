@@ -28,9 +28,8 @@ export interface WordFile {
 /** One Cantonese word page's example sentence; the same shape as a row's `example`. */
 export type PageExample = Example
 
-/** One group of English words that share a meaning and a reading, shown as one box on a page. */
+/** One group of English words that share a meaning, shown as one box on a page. */
 export interface Box {
-  jyutping: string
   english: string[]
   meaning: string
   examples: PageExample[]
@@ -38,11 +37,12 @@ export interface Box {
   register?: string
 }
 
-/** A Cantonese word page: cantonese/<traditional>_<partOfSpeech>_<id>.json. It holds one reading, in one or more boxes. */
+/** A Cantonese word page: cantonese/<traditional>_<partOfSpeech>_<id>.json. It has one reading, shared by all its boxes. */
 export interface PageFile {
   id: string
   traditional: string
   partOfSpeech: string
+  jyutping: string
   boxes: Box[]
 }
 

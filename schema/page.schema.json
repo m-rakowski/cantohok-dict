@@ -19,7 +19,6 @@
           "minItems": 1,
           "type": "array"
         },
-        "jyutping": { "$ref": "#/$defs/nonEmptyString" },
         "register": { "$ref": "#/$defs/nonEmptyString" },
         "note": { "$ref": "#/$defs/nonEmptyString" },
         "examples": {
@@ -27,7 +26,7 @@
           "type": "array"
         }
       },
-      "required": ["jyutping", "english", "meaning", "examples"],
+      "required": ["english", "meaning", "examples"],
       "type": "object"
     },
     "nonEmptyString": {
@@ -42,12 +41,13 @@
     "id": { "pattern": "^[a-z0-9]{8}$", "type": "string" },
     "partOfSpeech": { "$ref": "#/$defs/nonEmptyString" },
     "traditional": { "$ref": "#/$defs/nonEmptyString" },
+    "jyutping": { "$ref": "#/$defs/nonEmptyString" },
     "boxes": {
       "items": { "$ref": "#/$defs/box" },
       "minItems": 1,
       "type": "array"
     }
   },
-  "required": ["id", "traditional", "partOfSpeech", "boxes"],
+  "required": ["id", "traditional", "partOfSpeech", "jyutping", "boxes"],
   "type": "object"
 }

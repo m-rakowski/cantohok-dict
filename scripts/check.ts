@@ -22,9 +22,9 @@
 //   macOS and Windows would treat them as one file.
 // - No two pages may share an "id", and no page id may equal an English
 //   row's id.
-// - A page has one reading: all its boxes carry the same "jyutping", compared
-//   exactly as stored. Two pages may not have the same characters, part of
-//   speech and reading; they would be the same page twice.
+// - A page has one reading, in its "jyutping", compared exactly as stored.
+//   Two pages may not have the same characters, part of speech and reading;
+//   they would be the same page twice.
 // - pages-by-id.json (the link lookup) is required once any page file
 //   exists, and must match schema/pages-by-id.schema.json. Every English row
 //   id must have an entry; every value must be an existing page id; every
@@ -222,24 +222,18 @@ function checkPages(root: string, errors: string[]): CheckedPage[] {
 }
 
 /**
- * A page has one reading, and no two pages are the same word, part of speech
- * and reading. Only pages that passed the schema are judged. Readings are
+ * No two pages are the same word, part of speech and reading. Only pages that passed the schema are judged. Readings are
  * compared exactly as stored.
  */
 function checkPageReadings(pages: CheckedPage[], errors: string[]): void {
   const firstPath = new Map<string, string>()
   for (const { path, file } of pages) {
     if (!file) continue
-    const readings = [...new Set(file.boxes.map(box => box.jyutping))]
-    if (readings.length > 1) {
-      errors.push(`${path}: boxes read ${readings.join(' and ')}; a page has one reading`)
-      continue
-    }
-    const key = JSON.stringify([file.traditional, file.partOfSpeech, readings[0]])
+    const key = JSON.stringify([file.traditional, file.partOfSpeech, file.jyutping])
     const earlier = firstPath.get(key)
     if (earlier)
       errors.push(
-        `${path}: same word, part of speech and reading (${file.traditional} ${file.partOfSpeech} ${readings[0]}) as ${earlier}`,
+        `${path}: same word, part of speech and reading (${file.traditional} ${file.partOfSpeech} ${file.jyutping}) as ${earlier}`,
       )
     else firstPath.set(key, path)
   }
