@@ -67,11 +67,11 @@ export function validFixture(): Record<string, string> {
   "id": "ppppppp1",
   "partOfSpeech": "noun",
   "traditional": "的士",
+  "jyutping": "dik1 si2",
   "boxes": [
     {
       "meaning": "taxi",
       "english": ["cab"],
-      "jyutping": "dik1 si2",
       "examples": [
         {
           "english": "We called a cab to the airport.",
@@ -87,11 +87,11 @@ export function validFixture(): Record<string, string> {
   "id": "ppppppp2",
   "partOfSpeech": "noun",
   "traditional": "車頭",
+  "jyutping": "ce1 tau4",
   "boxes": [
     {
       "meaning": "taxi",
       "english": ["cab"],
-      "jyutping": "ce1 tau4",
       "register": "colloquial",
       "examples": []
     }
@@ -102,11 +102,11 @@ export function validFixture(): Record<string, string> {
   "id": "ppppppp3",
   "partOfSpeech": "noun",
   "traditional": "星期四",
+  "jyutping": "sing1 kei4 sei3",
   "boxes": [
     {
       "meaning": "day of the week",
       "english": ["Thursday"],
-      "jyutping": "sing1 kei4 sei3",
       "examples": []
     }
   ]

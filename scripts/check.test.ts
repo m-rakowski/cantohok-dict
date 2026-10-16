@@ -760,39 +760,37 @@ test('a page whose id is unusable reports the schema error and no file name erro
   )
 })
 
-/** The 的士 page with a second box that reads `reading`; the box-level fields are valid. */
-function withSecondBox(reading: string): (files: Record<string, string>) => void {
-  return editPage(CAB_PAGE, page => {
-    page.boxes.push({ meaning: 'taxi', english: ['cab'], jyutping: reading, examples: [] })
-  })
-}
-
-test('a page with two readings', () => {
-  assert.deepEqual(checkWith(withSecondBox('dik1 si6')), [
-    `${CAB_PAGE}: boxes read dik1 si2 and dik1 si6; a page has one reading`,
-  ])
-})
-
-test('a page with three readings lists them in first-seen order, once each', () => {
+test('a box with its own jyutping is refused by the schema', () => {
   assert.deepEqual(
     checkWith(
       editPage(CAB_PAGE, page => {
-        const box = (jyutping: string) => ({ meaning: 'taxi', english: ['cab'], jyutping, examples: [] })
-        page.boxes.push(box('dik1 si6'), box('dik1 si2'), box('dik1 si1'))
+        page.boxes[0].jyutping = 'dik1 si6'
       }),
     ),
-    [`${CAB_PAGE}: boxes read dik1 si2 and dik1 si6 and dik1 si1; a page has one reading`],
+    [`${CAB_PAGE}: /boxes/0 must NOT have additional properties "jyutping"`],
   )
 })
 
-test('boxes whose readings differ only by a trailing space are two readings', () => {
-  assert.deepEqual(checkWith(withSecondBox('dik1 si2 ')), [
-    `${CAB_PAGE}: boxes read dik1 si2 and dik1 si2 ; a page has one reading`,
-  ])
+test('a page with no jyutping is refused by the schema', () => {
+  assert.deepEqual(
+    checkWith(
+      editPage(CAB_PAGE, page => {
+        delete page.jyutping
+      }),
+    ),
+    [`${CAB_PAGE}: (root) must have required property 'jyutping'`],
+  )
 })
 
-test('two boxes with the same reading are one reading', () => {
-  assert.deepEqual(checkWith(withSecondBox('dik1 si2')), [])
+test('a page with a blank jyutping is refused by the schema', () => {
+  assert.deepEqual(
+    checkWith(
+      editPage(CAB_PAGE, page => {
+        page.jyutping = ' '
+      }),
+    ),
+    [`${CAB_PAGE}: /jyutping must match pattern "\\S"`],
+  )
 })
 
 test('two pages with the same word, part of speech and reading', () => {

@@ -9,10 +9,10 @@ files are laid out and the steps to change them.
   dictionary itself. This is the file you edit.
 - `cantonese/<characters>_<part of speech>_<id>.json` — one file per Cantonese
   word page, such as `cantonese/揮手_verb_vonj8c12.json`. A page has one
-  reading: every box on it has the same Jyutping. It holds exactly what the site
+  reading, in `jyutping` beside `traditional`. It holds exactly what the site
   shows for that word, with the boxes in the order they appear on the page.
-  Each box holds one or more English words that mean the same thing, the
-  reading (Jyutping), a short meaning, its examples, and an optional `note`.
+  Each box holds one or more English words that mean the same thing, a short
+  meaning, its examples, and an optional `note`.
   Add a note only to warn about something the examples cannot show. The
   page's `id` never changes: if you rename the file (say, to fix the
   characters), keep the `id` as it is. Every file must be named after the
@@ -102,11 +102,11 @@ part of speech and one reading. Here is `cantonese/揮手_verb_vonj8c12.json`:
   "id": "vonj8c12",
   "partOfSpeech": "verb",
   "traditional": "揮手",
+  "jyutping": "fai1 sau2",
   "boxes": [
     {
       "meaning": "wave your hand hello/goodbye",
       "english": ["wave"],
-      "jyutping": "fai1 sau2",
       "examples": [
         {
           "english": "I wave to him when I leave.",
@@ -120,9 +120,9 @@ part of speech and one reading. Here is `cantonese/揮手_verb_vonj8c12.json`:
 ```
 
 - A page has an `id` (8 lowercase letters or digits), the `traditional`
-  characters, a `partOfSpeech`, and at least one box. Boxes have no `id` of
+  characters, a `partOfSpeech`, the reading in `jyutping`, and at least one box. Boxes have no `id` of
   their own.
-- A box has the reading in `jyutping`, a list of `english` words (at least
+- A box has a list of `english` words (at least
   one), a short `meaning`, and a list of
   `examples` (it may be empty). `note` and `register` are optional.
 - Different parts of speech are different pages: 建議 as a verb and 建議 as
@@ -130,8 +130,9 @@ part of speech and one reading. Here is `cantonese/揮手_verb_vonj8c12.json`:
   `pin2` are two files, each with its own `id`. A second meaning of the same
   word and reading is another box on the same page, never a second file. Two
   pages may not have the same characters, part of speech and reading.
-- To correct a box's reading, move the box to the page with that reading (if
-  there is none, make one with an id from `pnpm run new-id`), and in
+- To correct a reading, change the page's `jyutping`, unless the page also holds
+  meanings that are read differently. Then move each such box's meaning to the
+  page with the right reading (if there is none, make one with an id from `pnpm run new-id`), and in
   `pages-by-id.json` point the rows that box shows at that page. If a page is
   left with no boxes, delete its file but keep its line in `pages-by-id.json`,
   pointing its `id` at the page that took its boxes, so old links still work.
