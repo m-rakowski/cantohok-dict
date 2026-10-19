@@ -3,7 +3,7 @@
   "private": true,
   "type": "module",
   "engines": {
-    "node": ">=25.9.0"
+    "node": ">=24.3.0"
   },
   "scripts": {
     "format": "prettier --write .",
@@ -15,7 +15,7 @@
     "new-id": "node scripts/new-id.ts"
   },
   "devDependencies": {
-    "@types/node": "^26.6.3",
+    "@types/node": "^24.19.2",
     "ajv": "^8.20.0",
     "csv-stringify": "^6.9.0",
     "oxlint": "^1.85.0",
