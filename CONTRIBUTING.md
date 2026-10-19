@@ -187,7 +187,7 @@ part of speech and one reading. Here is `cantonese/揮手_verb_vonj8c12.json`:
    (`.github/workflows/check.yml`); a red check means one of them failed, and
    its log says which rule.
 
-You'll need Node.js version 24 or later for any of these commands to work.
+You'll need Node.js version 24.3.0 or later for any of these commands to work. Earlier 24.x releases run the scripts but silently skip their work: `import.meta.main`, which each script checks before doing anything, is not true for a `.ts` file until 24.3.0.
 
 ### A quirk on Windows
 
