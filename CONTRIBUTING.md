@@ -187,7 +187,7 @@ part of speech and one reading. Here is `cantonese/揮手_verb_vonj8c12.json`:
    (`.github/workflows/check.yml`); a red check means one of them failed, and
    its log says which rule.
 
-You'll need Node.js version 25.9.0 or later for any of these commands to work.
+You'll need Node.js version 24 or later for any of these commands to work.
 
 ### A quirk on Windows
 
