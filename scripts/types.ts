@@ -28,9 +28,22 @@ export interface WordFile {
 /** One Cantonese word page's example sentence; the same shape as a row's `example`. */
 export type PageExample = Example
 
+/**
+ * One English word in a box. An entry with an `id` is the page's copy of that
+ * row in words/ (and `meaning`, `note` and `register` repeat the row's); an
+ * entry with only a `word` is one an editor added.
+ */
+export interface EnglishEntry {
+  word: string
+  id?: string
+  meaning?: string
+  note?: string
+  register?: string
+}
+
 /** One group of English words that share a meaning, shown as one box on a page. */
 export interface Box {
-  english: string[]
+  english: EnglishEntry[]
   meaning: string
   examples: PageExample[]
   note?: string
@@ -50,7 +63,7 @@ export interface PageFile {
 export type PageLookup = Record<string, string>
 
 export interface FrequencyFile {
-  rows: Record<string, { meaningShare: number; share: number }>
+  rows: Record<string, { meaningShare: number; share: number; order: number }>
   words: Record<string, number>
 }
 

@@ -8,9 +8,10 @@
         "additionalProperties": false,
         "properties": {
           "meaningShare": { "maximum": 100, "minimum": 0, "type": "integer" },
-          "share": { "maximum": 100, "minimum": 0, "type": "integer" }
+          "share": { "maximum": 100, "minimum": 0, "type": "integer" },
+          "order": { "minimum": 0, "type": "integer" }
         },
-        "required": ["meaningShare", "share"],
+        "required": ["meaningShare", "share", "order"],
         "type": "object"
       },
       "type": "object"

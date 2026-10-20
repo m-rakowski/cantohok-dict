@@ -71,7 +71,14 @@ export function validFixture(): Record<string, string> {
   "boxes": [
     {
       "meaning": "taxi",
-      "english": ["cab"],
+      "english": [
+        {
+          "id": "aaaaaaa1",
+          "word": "cab",
+          "meaning": "taxi",
+          "note": "This is the all-purpose Cantonese noun for a taxi or cab."
+        }
+      ],
       "examples": [
         {
           "english": "We called a cab to the airport.",
@@ -91,7 +98,15 @@ export function validFixture(): Record<string, string> {
   "boxes": [
     {
       "meaning": "taxi",
-      "english": ["cab"],
+      "english": [
+        {
+          "id": "aaaaaaa2",
+          "word": "cab",
+          "meaning": "taxi",
+          "register": "colloquial",
+          "note": "Use this colloquial term for the cab or front section of a truck."
+        }
+      ],
       "register": "colloquial",
       "examples": []
     }
@@ -106,7 +121,14 @@ export function validFixture(): Record<string, string> {
   "boxes": [
     {
       "meaning": "day of the week",
-      "english": ["Thursday"],
+      "english": [
+        {
+          "id": "bbbbbbb1",
+          "word": "Thursday",
+          "meaning": "day of the week",
+          "note": "This is the all-purpose word for Thursday."
+        }
+      ],
       "examples": []
     }
   ]
@@ -123,9 +145,9 @@ export function validFixture(): Record<string, string> {
 `,
     'frequency.json': `{
   "rows": {
-    "aaaaaaa1": { "meaningShare": 80, "share": 70 },
-    "aaaaaaa2": { "meaningShare": 80, "share": 30 },
-    "bbbbbbb1": { "meaningShare": 100, "share": 100 }
+    "aaaaaaa1": { "meaningShare": 80, "share": 70, "order": 0 },
+    "aaaaaaa2": { "meaningShare": 80, "share": 30, "order": 1 },
+    "bbbbbbb1": { "meaningShare": 100, "share": 100, "order": 0 }
   },
   "words": { "Thursday": 900, "cab": 2000 }
 }

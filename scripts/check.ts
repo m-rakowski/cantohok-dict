@@ -30,10 +30,23 @@
 //   id must have an entry; every value must be an existing page id; every
 //   page id must map to itself.
 // - The note and example rules below also apply inside a page's boxes (a
-//   note is judged against all of the box's English words).
+//   note is judged against all of the box's English words; an English
+//   entry's own note is judged against that entry's word and meaning).
+// - A box lists its English words as entries ({ "word": ..., and optionally
+//   "id", "meaning", "note", "register" }). No two entries may share an "id",
+//   no entry id may equal a page id, and every entry id must be a key in
+//   pages-by-id.json that maps to the page holding the entry.
+// - While any word file exists, entries and rows in words/ are kept exact:
+//   every row id must be the id of exactly one entry, every entry id must be
+//   a row id, and an entry's word, meaning, note and register must equal its
+//   row's term, meaning, note and register (both absent counts as equal),
+//   and its page's partOfSpeech, jyutping and traditional must equal the
+//   row's (a "/" in the row is read as "／").
+// - A row's "order" in frequency.json must be its index in its word file.
 // - frequency.json and aliases.json must exist.
 // - Every row's id must have a matching entry in frequency.json's "rows",
-//   and every id listed there must belong to a real row.
+//   and every id listed there must belong to a real row. Each of those
+//   entries carries an "order": the row's position in its word file.
 // - Every word's term must have a rank in frequency.json's "words", and
 //   every term listed there must belong to a real word file.
 // - Every term used as a key in aliases.json must belong to a real word file.
@@ -63,6 +76,7 @@ import {
   pagePath,
   wordPath,
   type AliasesFile,
+  type EnglishEntry,
   type FrequencyFile,
   type PageFile,
   type PageLookup,
@@ -166,6 +180,19 @@ interface CheckedPage {
   id: string | null
   file: PageFile | null
   valid: boolean
+  /** The ids of its English entries, read even when the page fails the schema; null when the file is not JSON. */
+  entryIds: string[] | null
+}
+
+/** Ids of English entries in a parsed page, ignoring anything of the wrong shape (the schema reports those). */
+function rawEntryIds(json: unknown): string[] {
+  if (!isObject(json) || !Array.isArray(json.boxes)) return []
+  const ids: string[] = []
+  for (const box of json.boxes)
+    if (isObject(box) && Array.isArray(box.english))
+      for (const entry of box.english)
+        if (isObject(entry) && typeof entry.id === 'string' && ID_PATTERN.test(entry.id)) ids.push(entry.id)
+  return ids
 }
 
 /**
@@ -196,7 +223,7 @@ function checkPages(root: string, errors: string[]): CheckedPage[] {
     }
     const json = parseJson(root, path, errors)
     if (json === INVALID) {
-      pages.push({ path, id: null, file: null, valid: false })
+      pages.push({ path, id: null, file: null, valid: false, entryIds: null })
       continue
     }
     const valid = runSchema(path, json, validatePage, errors)
@@ -215,7 +242,7 @@ function checkPages(root: string, errors: string[]): CheckedPage[] {
       nameOk = !problem && id !== null && pagePath(traditional, partOfSpeech, id) === path
     }
     names.push({ path, nameOk })
-    pages.push({ path, id, file: valid ? (json as unknown as PageFile) : null, valid })
+    pages.push({ path, id, file: valid ? (json as unknown as PageFile) : null, valid, entryIds: rawEntryIds(json) })
   }
   errors.push(...casePathDuplicates(names))
   return pages
@@ -239,7 +266,7 @@ function checkPageReadings(pages: CheckedPage[], errors: string[]): void {
   }
 }
 
-/** No two pages share an id, and no page id equals an English row id. Pages without a usable id are skipped. */
+/** No two pages share an id, no page id equals an English row id, and English entry ids are unique and are not page ids. Pages without a usable id are skipped. */
 function checkPageIds(pages: CheckedPage[], words: CheckedWord[], errors: string[]): void {
   const rowPath = new Map<string, string>()
   for (const { path, rowIds } of words) for (const id of rowIds) rowPath.set(id, path)
@@ -252,6 +279,14 @@ function checkPageIds(pages: CheckedPage[], words: CheckedWord[], errors: string
     const row = rowPath.get(id)
     if (row) errors.push(`${path}: page id "${id}" is also an English row id (${row})`)
   }
+  const entryPath = new Map<string, string>()
+  for (const { path, entryIds } of pages)
+    for (const id of entryIds ?? []) {
+      const previous = entryPath.get(id)
+      if (previous) errors.push(`duplicate English entry id "${id}" in ${previous} and ${path}`)
+      else entryPath.set(id, path)
+      if (idPath.has(id)) errors.push(`${path}: English entry id "${id}" is also a page id`)
+    }
 }
 
 /**
@@ -277,6 +312,86 @@ function checkPageLookup(root: string, pages: CheckedPage[], words: CheckedWord[
       if (!pageIds.has(value)) errors.push(`pages-by-id.json: "${key}" points at "${value}", which is not a page id`)
   for (const { path, id } of pages)
     if (id !== null && lookup[id] !== id) errors.push(`pages-by-id.json: page "${id}" (${path}) does not map to itself`)
+  for (const { path, id, entryIds } of pages)
+    for (const entryId of entryIds ?? []) {
+      if (!Object.hasOwn(lookup, entryId))
+        errors.push(`pages-by-id.json: English entry "${entryId}" (${path}) has no entry`)
+      else if (id !== null && lookup[entryId] !== id)
+        errors.push(
+          `pages-by-id.json: English entry "${entryId}" (${path}) maps to "${lookup[entryId]}", not to its page "${id}"`,
+        )
+    }
+}
+
+/** The row's text as a page shows it: a page cannot hold "/" in its characters or part of speech, so "／" stands in. */
+const pageForm = (text: string): string => text.replaceAll('/', '／')
+
+interface RowMatch {
+  path: string
+  term: string
+  row: WordFile['rows'][number]
+}
+
+/** One message per field where an entry (or its page) differs from the row with its id; empty when they are exact copies. */
+function entryDifferences(
+  path: string,
+  page: PageFile,
+  entry: EnglishEntry,
+  { path: rowPath, term, row }: RowMatch,
+): string[] {
+  // [field, value on the page side, value as the row shows it, value the page should hold]
+  const fields: [string, string | undefined, string | undefined, string | undefined][] = [
+    ['word', entry.word, term, term],
+    ['meaning', entry.meaning, row.meaning, row.meaning],
+    ['note', entry.note, row.note, row.note],
+    ['register', entry.register, row.register, row.register],
+    ['partOfSpeech', page.partOfSpeech, row.partOfSpeech, pageForm(row.partOfSpeech)],
+    ['jyutping', page.jyutping, row.jyutping, pageForm(row.jyutping)],
+    ['traditional', page.traditional, row.traditional, pageForm(row.traditional)],
+  ]
+  return fields
+    .filter(([, onPage, , expected]) => (onPage ?? '') !== (expected ?? ''))
+    .map(
+      ([field, onPage, shown]) =>
+        `${path}: English entry "${entry.id}" ${field} "${onPage ?? ''}" differs from ${rowPath} ("${shown ?? ''}")`,
+    )
+}
+
+/**
+ * While any word file exists, English entries and rows in words/ are copies of
+ * each other, matched by row id. A row on no entry is reported against its
+ * file, an entry that is no row against its page, and a matched pair once per
+ * differing field. Pages that failed the schema or are not JSON still count
+ * for their entry ids, so one broken page is not a cascade of "on no entry";
+ * likewise a word file that is not JSON hides its row ids, so "is not a row"
+ * waits until every word file has been read.
+ */
+function checkEntriesMatchRows(
+  pages: CheckedPage[],
+  words: CheckedWord[],
+  everyWordFileRead: boolean,
+  errors: string[],
+): void {
+  if (words.length === 0) return
+  const rowIds = new Set(words.flatMap(word => word.rowIds))
+  const entryIds = new Set(pages.flatMap(page => page.entryIds ?? []))
+  const everyPageRead = pages.every(page => page.entryIds !== null)
+  if (everyPageRead)
+    for (const { path, rowIds: ids } of words)
+      for (const id of ids)
+        if (ID_PATTERN.test(id) && !entryIds.has(id)) errors.push(`${path}: row "${id}" is on no page entry`)
+  const rows = new Map<string, RowMatch>()
+  for (const { path, term, file } of words) for (const row of file?.rows ?? []) rows.set(row.id, { path, term, row })
+  for (const { path, file } of pages) {
+    if (!file) continue
+    for (const entry of file.boxes.flatMap(box => box.english)) {
+      if (entry.id === undefined) continue
+      const match = rows.get(entry.id)
+      if (match) errors.push(...entryDifferences(path, file, entry, match))
+      else if (everyWordFileRead && !rowIds.has(entry.id))
+        errors.push(`${path}: English entry "${entry.id}" is not a row in words/`)
+    }
+  }
 }
 
 function checkDuplicateIds(words: CheckedWord[], errors: string[]): void {
@@ -320,6 +435,21 @@ function checkFrequency(root: string, words: CheckedWord[], errors: string[]): F
     if (!termPath.has(term)) errors.push(`frequency.json: "${term}" has no word file`)
 
   return json
+}
+
+/** A row's `order` in frequency.json is its index in its word file. Only word files that passed the schema are judged, and an id used by two rows is left to the duplicate-id message. */
+function checkFrequencyOrder(words: CheckedWord[], frequency: FrequencyFile | null, errors: string[]): void {
+  if (!frequency) return
+  const seen = new Set<string>()
+  const repeated = new Set<string>()
+  for (const { rowIds } of words) for (const id of rowIds) (seen.has(id) ? repeated : seen).add(id)
+  for (const { path, file } of words)
+    file?.rows.forEach((row, index) => {
+      if (repeated.has(row.id)) return
+      const entry = frequency.rows[row.id]
+      if (entry && entry.order !== index)
+        errors.push(`frequency.json: row "${row.id}" order ${entry.order} but it is row ${index} of ${path}`)
+    })
 }
 
 function checkAliases(root: string, words: CheckedWord[], errors: string[]): void {
@@ -366,8 +496,12 @@ function checkPageShownText(pages: CheckedPage[], errors: string[]): void {
     file.boxes.forEach((box, boxIndex) => {
       const where = `${path}: box ${boxIndex + 1}`
       if (box.note !== undefined)
-        for (const problem of noteProblems(box.note, box.english.join(' '), box.meaning))
+        for (const problem of noteProblems(box.note, box.english.map(entry => entry.word).join(' '), box.meaning))
           errors.push(`${where} ${problem}`)
+      for (const entry of box.english)
+        if (entry.note !== undefined)
+          for (const problem of noteProblems(entry.note, entry.word, entry.meaning ?? box.meaning))
+            errors.push(`${where} English entry "${entry.word}" ${problem}`)
       box.examples.forEach((example, exampleIndex) => {
         const letters = placeholderLetters(example.english)
         if (letters.length)
@@ -386,9 +520,11 @@ export function checkRepo(root: string): string[] {
   checkPageIds(pages, words, errors)
   checkPageReadings(pages, errors)
   checkPageLookup(root, pages, words, errors)
+  checkEntriesMatchRows(pages, words, words.length === listWordFiles(root).length, errors)
   const beforeFrequency = errors.length
   const frequency = checkFrequency(root, words, errors)
   const frequencyClean = errors.length === beforeFrequency
+  checkFrequencyOrder(words, frequency, errors)
   checkAliases(root, words, errors)
   // meaningShare compares rows via the ids frequency.json maps them by, so it
   // only runs once that map is known complete (no missing/orphaned entries) —

@@ -31,12 +31,13 @@ files are laid out and the steps to change them.
     word's CEFR level (CEFR-J A1 through B2, then Octanove C1–C2 for harder
     words). Within the same level, words are ordered by how common they are.
     1 means "first". `999999` means "we don't know its rank yet."
-  - `rows.<id>` holds two numbers for one row (one Cantonese word) in
-    `words/`: `meaningShare` says how common that whole meaning is for the
+  - `rows.<id>` holds three numbers for one row (one Cantonese word) in
+    `words/`: `order` is the row's position (counting from 0) in its word
+    file, `meaningShare` says how common that whole meaning is for the
     English word, and `share` says how common this particular Cantonese word
-    is for that meaning. Both numbers come from an AI's estimate, not from
-    counting real text. All of these numbers — the word rank, `meaningShare`,
-    `share` — exist only to decide what order things are shown in. They are
+    is for that meaning. Those two numbers come from an AI's estimate, not
+    from counting real text. The word rank, `meaningShare` and `share`
+    exist only to decide what order things are shown in. They are
     not a claim about how often people actually say the word.
 - `aliases.json` — other spellings or forms of a word that should lead to it,
   for example `"child": ["children"]`. Only words that have another form
@@ -106,7 +107,14 @@ part of speech and one reading. Here is `cantonese/揮手_verb_vonj8c12.json`:
   "boxes": [
     {
       "meaning": "wave your hand hello/goodbye",
-      "english": ["wave"],
+      "english": [
+        {
+          "id": "k3m9x2ab",
+          "word": "wave",
+          "meaning": "wave your hand hello/goodbye",
+          "note": "This is the all-purpose verb for waving at someone."
+        }
+      ],
       "examples": [
         {
           "english": "I wave to him when I leave.",
@@ -122,8 +130,19 @@ part of speech and one reading. Here is `cantonese/揮手_verb_vonj8c12.json`:
 - A page has an `id` (8 lowercase letters or digits), the `traditional`
   characters, a `partOfSpeech`, the reading in `jyutping`, and at least one
   box. Boxes have no `id` of their own.
-- A box has a list of `english` words (at least one), a short `meaning`, and a
-  list of `examples` (it may be empty). `note` and `register` are optional.
+- A box has a list of `english` entries (at least one), a short `meaning`, and
+  a list of `examples` (it may be empty). `note` and `register` are optional.
+- An English entry is an object. Only `word` is required; `id`, `meaning`,
+  `note` and `register` are optional. An entry with an `id` is the page's copy
+  of the English row with that `id` in `words/`: its `word` must be the row's
+  term, its `meaning`, `note` and `register` must be exactly the row's (all
+  absent counts as equal), and the page's `partOfSpeech`, `jyutping` and
+  `traditional` must be the row's too (where the row has a `/`, the page has
+  `／`). An entry with no `id` is a word an editor added, and needs only the
+  fields it uses. An entry's `note` must read on its own, like a row's. Entry
+  ids are unique across all pages, are never a page's `id`, and each maps to
+  its page in `pages-by-id.json`. Every English row's `id` must be on exactly
+  one entry.
 - Different parts of speech are different pages: 建議 as a verb and 建議 as
   a noun are two files. So are different readings: 片 read `pin3` and 片 read
   `pin2` are two files, each with its own `id`. A second meaning of the same
