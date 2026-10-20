@@ -5,9 +5,9 @@ files are laid out and the steps to change them.
 
 ## The files
 
-- `words/<letter>/<word>.json` — one file per English word. This is a
-  historic dataset: the English-keyed rows the pages were built from, kept for
-  reference and no longer edited. Edit the page files in `cantonese/`.
+- `words/<letter>/<word>.json` — **legacy, do not edit.** One file per
+  English word: the English-keyed rows the pages were built from, kept for
+  reference only (`words/README.md`). Edit the page files in `cantonese/`.
 - `cantonese/<characters>_<part of speech>_<id>.json` — one file per Cantonese
   word page, such as `cantonese/揮手_verb_vonj8c12.json`. A page has one
   reading, in `jyutping` beside `traditional`. It holds exactly what the site

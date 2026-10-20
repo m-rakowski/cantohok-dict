@@ -4,7 +4,8 @@
 // it with `pnpm run check` (which also runs Prettier's own formatting check
 // first).
 //
-// Rules enforced here, in plain words:
+// Rules enforced here, in plain words. The word-file rules keep the legacy
+// words/ folder (words/README.md) valid; nobody edits it any more.
 // - Every word file (words/<letter>/<word>.json) must be valid JSON.
 // - A word file's name must match its "term" (words/c/cab.json for "cab"),
 //   including the underscore trick for words that are reserved names on

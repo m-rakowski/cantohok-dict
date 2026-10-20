@@ -7,19 +7,40 @@
     "row": {
       "additionalProperties": false,
       "properties": {
-        "id": { "pattern": "^[a-z0-9]{8}$", "type": "string" },
-        "partOfSpeech": { "$ref": "#/$defs/nonEmptyString" },
-        "meaning": { "$ref": "#/$defs/nonEmptyString" },
-        "traditional": { "$ref": "#/$defs/nonEmptyString" },
-        "jyutping": { "$ref": "#/$defs/nonEmptyString" },
-        "register": { "$ref": "#/$defs/nonEmptyString" },
-        "note": { "$ref": "#/$defs/nonEmptyString" },
+        "id": {
+          "pattern": "^[a-z0-9]{8}$",
+          "type": "string"
+        },
+        "partOfSpeech": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "meaning": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "traditional": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "jyutping": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "register": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "note": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
         "example": {
           "additionalProperties": false,
           "properties": {
-            "english": { "$ref": "#/$defs/nonEmptyString" },
-            "traditional": { "$ref": "#/$defs/nonEmptyString" },
-            "jyutping": { "$ref": "#/$defs/nonEmptyString" }
+            "english": {
+              "$ref": "#/$defs/nonEmptyString"
+            },
+            "traditional": {
+              "$ref": "#/$defs/nonEmptyString"
+            },
+            "jyutping": {
+              "$ref": "#/$defs/nonEmptyString"
+            }
           },
           "required": ["english", "traditional", "jyutping"],
           "type": "object"
@@ -32,10 +53,15 @@
   "$id": "https://cantohok-dict/schema/word.schema.json",
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "additionalProperties": false,
+  "description": "Legacy: words/<letter>/<word>.json files are kept for reference only and no longer edited. Edit the page files in cantonese/ (page.schema.json). See words/README.md.",
   "properties": {
-    "term": { "$ref": "#/$defs/nonEmptyString" },
+    "term": {
+      "$ref": "#/$defs/nonEmptyString"
+    },
     "rows": {
-      "items": { "$ref": "#/$defs/row" },
+      "items": {
+        "$ref": "#/$defs/row"
+      },
       "minItems": 1,
       "type": "array"
     }
