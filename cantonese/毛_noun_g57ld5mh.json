@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "fur, body hair",
-      "english": ["fur", "hair", "coat"],
+      "english": [
+        {
+          "id": "41xwdz8m",
+          "word": "fur",
+          "meaning": "animal fur",
+          "note": "This is the all-purpose everyday word for an animal's hair or fur coat."
+        },
+        {
+          "id": "xwv0m7ll",
+          "word": "hair",
+          "meaning": "body hair",
+          "note": "Use 毛 for body hair or an animal's coat rather than the hair on the human head."
+        },
+        {
+          "id": "94zj7i3c",
+          "word": "coat",
+          "meaning": "animal fur/feathers",
+          "note": "Use this for the fur or feathers covering an animal, rather than for a garment."
+        }
+      ],
       "examples": [
         {
           "english": "The cat has shed so much fur that it’s all over the house.",

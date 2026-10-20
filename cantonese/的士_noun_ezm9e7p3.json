@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "taxi",
-      "english": ["taxi", "cab"],
+      "english": [
+        {
+          "id": "3tlllsxk",
+          "word": "taxi",
+          "meaning": "public hire vehicle",
+          "note": "This is the all-purpose Cantonese word for a taxi."
+        },
+        {
+          "id": "uh3hv1q3",
+          "word": "cab",
+          "meaning": "taxi",
+          "note": "This is the all-purpose Cantonese noun for a taxi or cab."
+        }
+      ],
       "examples": [
         {
           "english": "We called a taxi to the airport.",

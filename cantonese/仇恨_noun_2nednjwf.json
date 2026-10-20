@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "hatred",
-      "english": ["hate", "hatred"],
+      "english": [
+        {
+          "id": "5q7zy3vm",
+          "word": "hate",
+          "meaning": "hatred",
+          "note": "This is the all-purpose noun for strong hatred or hostility, especially when it is lasting or reciprocal."
+        },
+        {
+          "id": "j4c3y78n",
+          "word": "hatred",
+          "meaning": "strong dislike",
+          "note": "Use this for sustained hatred involving hostility or enmity, especially between people or groups."
+        }
+      ],
       "examples": [
         {
           "english": "There is deep hate between me and him.",

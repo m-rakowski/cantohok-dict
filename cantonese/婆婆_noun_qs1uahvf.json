@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "maternal grandmother",
-      "english": ["grandma", "grandmother", "granny"],
+      "english": [
+        {
+          "id": "i961mb5x",
+          "word": "grandma",
+          "meaning": "grandmother",
+          "register": "colloquial",
+          "note": "Use this for a maternal grandmother; it is also a familiar form of address for her."
+        },
+        {
+          "id": "m67vicop",
+          "word": "grandmother",
+          "meaning": "parent's mother",
+          "note": "Use 婆婆 for your mother's mother."
+        },
+        {
+          "id": "u8purjll",
+          "word": "granny",
+          "meaning": "grandmother",
+          "note": "Use this as the all-purpose everyday term for a grandmother, and also respectfully for an elderly woman when the context makes that appropriate."
+        }
+      ],
       "examples": [
         {
           "english": "Grandma, I’ll come visit you later.",

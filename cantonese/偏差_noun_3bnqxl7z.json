@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "deviation, slight error",
-      "english": ["aberration", "departure"],
+      "english": [
+        {
+          "id": "nc59ry9n",
+          "word": "aberration",
+          "meaning": "deviation from normal",
+          "note": "This is the all-purpose choice for a deviation from what is normal, correct, or morally proper."
+        },
+        {
+          "id": "paudrdux",
+          "word": "departure",
+          "meaning": "deviation from plan",
+          "note": "Use this for a deviation from a plan, procedure, standard, or expected course."
+        }
+      ],
       "examples": [
         {
           "english": "The aberration in this exam's results is so large that we really need to find out why.",

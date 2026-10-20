@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "unremarkable, not eye-catching",
-      "english": ["nondescript", "unimportant"],
+      "english": [
+        {
+          "id": "3yqkz0si",
+          "word": "nondescript",
+          "meaning": "plain, unremarkable",
+          "note": "Use this when the thing is visually inconspicuous or does not attract attention, such as an unremarkable car."
+        },
+        {
+          "id": "cd6u9u4l",
+          "word": "unimportant",
+          "meaning": "not important; negligible",
+          "register": "colloquial",
+          "note": "Use this when something is unremarkable or fails to attract attention, rather than simply lacking importance."
+        }
+      ],
       "examples": [
         {
           "english": "That car is nondescript, so it is hard to recognize when parked on the street.",

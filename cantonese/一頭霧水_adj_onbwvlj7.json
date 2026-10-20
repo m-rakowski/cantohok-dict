@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "confused, baffled",
-      "english": ["puzzled", "confused"],
+      "english": [
+        {
+          "id": "wgskjioc",
+          "word": "puzzled",
+          "meaning": "confused, perplexed",
+          "note": "Use this as the all-purpose casual choice when someone is baffled or cannot make sense of something."
+        },
+        {
+          "id": "3xjhl16z",
+          "word": "confused",
+          "meaning": "unable to think clearly",
+          "register": "colloquial",
+          "note": "Use this when someone is confused because they do not understand information or what is happening."
+        }
+      ],
       "examples": [
         {
           "english": "After they finished explaining all that jargon, I was completely puzzled.",

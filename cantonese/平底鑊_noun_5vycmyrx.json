@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "frying pan",
-      "english": ["pan", "frying pan"],
+      "english": [
+        {
+          "id": "ziptcuv0",
+          "word": "pan",
+          "meaning": "cooking pan",
+          "note": "For the ordinary flat cooking-pan sense, this is the all-purpose choice among these cookware terms."
+        },
+        {
+          "id": "prr9c4db",
+          "word": "frying pan",
+          "meaning": "pan for frying",
+          "note": "This is the all-purpose Cantonese term for a shallow, flat-bottomed frying pan."
+        }
+      ],
       "examples": [
         {
           "english": "I use a pan to fry two eggs.",

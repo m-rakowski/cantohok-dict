@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "recently, lately",
-      "english": ["recently", "lately", "newly", "late"],
+      "english": [
+        {
+          "id": "nscr38lm",
+          "word": "recently",
+          "meaning": "in recent times",
+          "note": "Use this as the all-purpose everyday equivalent for a general recent-time reference."
+        },
+        {
+          "id": "a59cgu5g",
+          "word": "lately",
+          "meaning": "recently; of late",
+          "note": "This is the all-purpose choice for saying something happened recently or has been true of late."
+        },
+        {
+          "id": "x4f1mah1",
+          "word": "newly",
+          "meaning": "recently; just now",
+          "note": "Use this as the all-purpose choice for recently or lately when the time span is not restricted to just now."
+        },
+        {
+          "id": "1b2g68fa",
+          "word": "late",
+          "meaning": "recently, not long ago",
+          "note": "Use this for something that happened recently, rather than for being behind schedule."
+        }
+      ],
       "examples": [
         {
           "english": "I have recently been unable to sleep well.",

@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "to insult or humiliate",
-      "english": ["insult", "humiliate"],
+      "english": [
+        {
+          "id": "cu90yf74",
+          "word": "insult",
+          "meaning": "verb: offend/rude to",
+          "note": "Use this when someone deliberately humiliates, degrades, or insults another person."
+        },
+        {
+          "id": "h91yqsiy",
+          "word": "humiliate",
+          "meaning": "shame, embarrass",
+          "register": "formal, written",
+          "note": "Use this for a more serious or explicit attack on someone's dignity, especially in formal or written contexts."
+        }
+      ],
       "examples": [
         {
           "english": "They did insult me in front of everyone, and I must seek justice.",

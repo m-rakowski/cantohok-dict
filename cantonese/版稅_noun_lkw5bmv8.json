@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "creator's payment",
-      "english": ["royalty"],
+      "english": [
+        {
+          "id": "5nkpm11n",
+          "word": "royalty",
+          "meaning": "creator's payment",
+          "note": "Use this for payment to a writer, composer, inventor, or other rights holder when their work or invention is used or sold."
+        }
+      ],
       "examples": [
         {
           "english": "The author earns royalty on every copy sold.",

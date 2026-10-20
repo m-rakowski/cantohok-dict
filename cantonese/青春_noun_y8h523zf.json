@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "youth",
-      "english": ["youth", "bloom"],
+      "english": [
+        {
+          "id": "zhcsfi3e",
+          "word": "youth",
+          "meaning": "early life, youth",
+          "note": "Use this for the abstract quality of youth or the early period of life, rather than for a young person."
+        },
+        {
+          "id": "mu8s4nx6",
+          "word": "bloom",
+          "meaning": "peak beauty; youth",
+          "note": "Use this for the period or state of youth, freshness, and vitality rather than for a literal flower."
+        }
+      ],
       "examples": [
         {
           "english": "Youth only comes once, so don't give up so quickly.",

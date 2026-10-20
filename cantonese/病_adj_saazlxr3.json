@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "sick, ill",
-      "english": ["sick", "ill", "unhealthy", "down"],
+      "english": [
+        {
+          "id": "8di5icyj",
+          "word": "sick",
+          "meaning": "ill, in poor health",
+          "note": "This is the all-purpose choice for being ill or in poor health."
+        },
+        {
+          "id": "vpoxw651",
+          "word": "ill",
+          "meaning": "sick; unwell",
+          "note": "Use this as the straightforward everyday choice for being sick or medically unwell."
+        },
+        {
+          "id": "2wc13ejk",
+          "word": "unhealthy",
+          "meaning": "sick or ill",
+          "note": "Use this when a person or animal is actually sick or ill, rather than merely exposed to unhealthy conditions."
+        },
+        {
+          "id": "koogk5wr",
+          "word": "down",
+          "meaning": "ill with",
+          "note": "Use 病 when someone is ill, including being down with an illness such as flu."
+        }
+      ],
       "examples": [
         {
           "english": "I'm sick today, so I'm not going to work.",

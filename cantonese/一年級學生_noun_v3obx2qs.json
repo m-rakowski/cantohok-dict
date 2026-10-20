@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "first-year student",
-      "english": ["freshman"],
+      "english": [
+        {
+          "id": "aoievu1v",
+          "word": "freshman",
+          "meaning": "first-year student",
+          "note": "Use this when you want to state explicitly that the person is in the institution's first year rather than simply being new."
+        }
+      ],
       "examples": [
         {
           "english": "They are a freshman, not a transfer student.",

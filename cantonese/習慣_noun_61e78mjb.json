@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "habit, usual way of doing things",
-      "english": ["habit", "custom", "idiosyncrasy"],
+      "english": [
+        {
+          "id": "wmkkryyu",
+          "word": "habit",
+          "meaning": "regular action",
+          "note": "This is the all-purpose noun for a regular routine or an action done automatically through repetition, but not specifically an addiction."
+        },
+        {
+          "id": "loiiln22",
+          "word": "custom",
+          "meaning": "habit, usual practice",
+          "note": "This is the all-purpose choice for a repeated personal or everyday way of doing things."
+        },
+        {
+          "id": "g5okaxq0",
+          "word": "idiosyncrasy",
+          "meaning": "distinctive trait or habit",
+          "note": "Use this when the idiosyncrasy is specifically a person's or group's recurring behavior or way of doing things."
+        }
+      ],
       "examples": [
         {
           "english": "I drink a glass of water as soon as I wake up every day; I’ve kept this habit for many years.",

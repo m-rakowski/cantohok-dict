@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "make longer, stretch",
-      "english": ["elongate", "stretch", "prolong"],
+      "english": [
+        {
+          "id": "ev4b9b4u",
+          "word": "elongate",
+          "meaning": "make longer",
+          "note": "This is the all-purpose choice for making a physical object longer by pulling, stretching, or extending it."
+        },
+        {
+          "id": "u5gr9ekh",
+          "word": "stretch",
+          "meaning": "pull lengthen",
+          "note": "Use this when pulling something longer or when a duration becomes longer."
+        },
+        {
+          "id": "oe6bpaff",
+          "word": "prolong",
+          "meaning": "make longer",
+          "note": "Use this mainly when making a physical object or measurable length longer."
+        }
+      ],
       "examples": [
         {
           "english": "Help me elongate the rubber band so I can tie both ends.",

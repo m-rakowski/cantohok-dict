@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "tableware, cutlery",
-      "english": ["silverware", "utensil", "plate"],
+      "english": [
+        {
+          "id": "0i5z80fc",
+          "word": "silverware",
+          "meaning": "cutlery",
+          "note": "Use this as the all-purpose everyday word for eating utensils, including knives, forks and spoons."
+        },
+        {
+          "id": "lrr78kon",
+          "word": "utensil",
+          "meaning": "kitchen implement",
+          "note": "Use this for eating utensils, rather than general kitchen equipment."
+        },
+        {
+          "id": "okio8o73",
+          "word": "plate",
+          "meaning": "silverware",
+          "note": "Use 餐具 for dishes and other tableware considered collectively."
+        }
+      ],
       "examples": [
         {
           "english": "Remember to set out the silverware before eating.",

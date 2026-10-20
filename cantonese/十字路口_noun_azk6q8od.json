@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "crossroads",
-      "english": ["crossroads", "cross"],
+      "english": [
+        {
+          "id": "gnasc3u3",
+          "word": "crossroads",
+          "meaning": "road intersection",
+          "note": "This is the all-purpose choice for a physical crossroads and, metaphorically, a situation where someone must choose a direction."
+        },
+        {
+          "id": "59f8m1xd",
+          "word": "cross",
+          "meaning": "crossroads",
+          "note": "Use this for a crossroads where roads meet and continue in different directions."
+        }
+      ],
       "examples": [
         {
           "english": "This crossroads is always jammed with traffic.",

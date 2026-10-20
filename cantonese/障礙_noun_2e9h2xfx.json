@@ -6,7 +6,57 @@
   "boxes": [
     {
       "meaning": "obstacle, hindrance",
-      "english": ["obstacle", "barrier", "handicap", "impediment", "hindrance", "bar", "fence", "disadvantage"],
+      "english": [
+        {
+          "id": "yh1pdk1m",
+          "word": "obstacle",
+          "meaning": "thing that blocks progress",
+          "register": "formal",
+          "note": "This is the all-purpose noun for a physical or figurative obstacle."
+        },
+        {
+          "id": "uma96f1j",
+          "word": "barrier",
+          "meaning": "obstacle, impediment",
+          "note": "Use 障礙 as the all-purpose noun for an obstacle or impediment, especially an abstract one."
+        },
+        {
+          "id": "wu25kysu",
+          "word": "handicap",
+          "meaning": "hindrance, obstacle",
+          "note": "This is the all-purpose choice for a hindrance or an impairment, with context showing which sense is meant."
+        },
+        {
+          "id": "dnz5bfwq",
+          "word": "impediment",
+          "meaning": "hindrance; obstacle",
+          "note": "This is the all-purpose noun for something that obstructs progress or creates difficulty."
+        },
+        {
+          "id": "qkd426f4",
+          "word": "hindrance",
+          "meaning": "obstacle; something that hinders",
+          "note": "This is the all-purpose noun for something that blocks progress or makes an activity harder."
+        },
+        {
+          "id": "ao6xmvpu",
+          "word": "bar",
+          "meaning": "obstruction or barrier",
+          "note": "Use this for something that obstructs or prevents progress."
+        },
+        {
+          "id": "nqwjkyo3",
+          "word": "fence",
+          "meaning": "figurative barrier",
+          "note": "Use this for a figurative barrier or obstacle, including a psychological or emotional one."
+        },
+        {
+          "id": "xuo57iqc",
+          "word": "disadvantage",
+          "meaning": "handicap; setback",
+          "note": "Use this when the disadvantage is specifically an obstacle or hindrance, rather than merely a weakness or downside."
+        }
+      ],
       "examples": [
         {
           "english": "The biggest obstacle in this project is a lack of funding.",

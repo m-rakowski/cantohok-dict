@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "kindness",
-      "english": ["kindness", "benevolence"],
+      "english": [
+        {
+          "id": "q5qw8y4t",
+          "word": "kindness",
+          "meaning": "kindness, kind nature",
+          "note": "This is the all-purpose noun for a person's kind nature or good heart."
+        },
+        {
+          "id": "gz70p4qn",
+          "word": "benevolence",
+          "meaning": "kind disposition",
+          "note": "This is the all-purpose colloquial choice for someone’s kind intentions or disposition to help."
+        }
+      ],
       "examples": [
         {
           "english": "Their kindness shows in how they are always helping people.",

@@ -6,7 +6,50 @@
   "boxes": [
     {
       "meaning": "hard to understand",
-      "english": ["confusing", "convoluted", "inscrutable", "obscure", "opaque", "dense", "abstract"],
+      "english": [
+        {
+          "id": "amm24lcy",
+          "word": "confusing",
+          "meaning": "hard to understand",
+          "note": "This is the all-purpose choice for something that is difficult to understand."
+        },
+        {
+          "id": "gsxi98n9",
+          "word": "convoluted",
+          "meaning": "complicated, hard to follow",
+          "note": "Use this when the main point is that an explanation or argument is hard to understand, rather than simply complex."
+        },
+        {
+          "id": "ic8jqryb",
+          "word": "inscrutable",
+          "meaning": "hard to understand",
+          "note": "This is the all-purpose choice for something that is difficult to understand or interpret."
+        },
+        {
+          "id": "f5oobu3o",
+          "word": "obscure",
+          "meaning": "hard to understand",
+          "note": "Use this when a passage, idea, reference, or explanation is difficult to understand."
+        },
+        {
+          "id": "6igfpy6s",
+          "word": "opaque",
+          "meaning": "unclear meaning",
+          "note": "Use this for wording, ideas, or explanations whose meaning is difficult to understand."
+        },
+        {
+          "id": "pafi2ys3",
+          "word": "dense",
+          "meaning": "hard to understand",
+          "note": "Use this as the everyday all-purpose choice when writing, speech, or an explanation is hard to understand."
+        },
+        {
+          "id": "3e5n703q",
+          "word": "abstract",
+          "meaning": "hard to understand",
+          "note": "Use this when the emphasis is that something is difficult to understand rather than abstract in nature."
+        }
+      ],
       "examples": [
         {
           "english": "This report is really confusing.",

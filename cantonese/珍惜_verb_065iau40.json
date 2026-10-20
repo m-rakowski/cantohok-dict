@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "treasure, value and not waste",
-      "english": ["cherish", "value", "appreciate"],
+      "english": [
+        {
+          "id": "ezmaumra",
+          "word": "cherish",
+          "meaning": "treasure, hold dear",
+          "note": "This is the all-purpose choice for valuing someone or something deeply and holding it dear."
+        },
+        {
+          "id": "0w2w15w2",
+          "word": "value",
+          "meaning": "cherish",
+          "note": "Use this when you value something because you cherish it and do not want to lose it."
+        },
+        {
+          "id": "bwdzsgx0",
+          "word": "appreciate",
+          "meaning": "value highly",
+          "note": "Use this when valuing something by cherishing it and not taking it for granted, such as time or opportunities."
+        }
+      ],
       "examples": [
         {
           "english": "I really cherish this friendship.",

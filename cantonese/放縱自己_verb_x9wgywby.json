@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "indulge oneself",
-      "english": ["indulge", "abandon"],
+      "english": [
+        {
+          "id": "itrlc7kr",
+          "word": "indulge",
+          "meaning": "give in to temptation",
+          "note": "This is the all-purpose choice when someone gives in to a temptation or desire."
+        },
+        {
+          "id": "wf4vzuux",
+          "word": "abandon",
+          "meaning": "give oneself over",
+          "note": "Use this when someone gives themselves over to a vice, impulse, or strong emotion."
+        }
+      ],
       "examples": [
         {
           "english": "On holidays, I like to indulge myself by eating a big piece of chocolate cake.",

@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "cost, expense, fee",
-      "english": ["cost", "expense", "fee", "damage"],
+      "english": [
+        {
+          "id": "c43lp89l",
+          "word": "cost",
+          "meaning": "price; expense",
+          "note": "This is the all-purpose noun for money paid or required as an expense."
+        },
+        {
+          "id": "1u8cwiyy",
+          "word": "expense",
+          "meaning": "cost; spending",
+          "note": "Use this as the all-purpose noun for money paid or spent as an expense."
+        },
+        {
+          "id": "gjxpo7gu",
+          "word": "fee",
+          "meaning": "professional service charge",
+          "note": "Use this for the amount payable for professional work, especially when describing it as a cost or expense."
+        },
+        {
+          "id": "v0mr4zm9",
+          "word": "damage",
+          "meaning": "cost; bill",
+          "note": "Use this for the cost or expense itself rather than a bill document."
+        }
+      ],
       "examples": [
         {
           "english": "The cost of this trip isn't cheap.",

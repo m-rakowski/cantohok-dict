@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "himself, herself, themselves",
-      "english": ["herself", "himself", "themselves"],
+      "english": [
+        {
+          "id": "25oa7opa",
+          "word": "herself",
+          "meaning": "reflexive object pronoun",
+          "note": "This is the all-purpose spoken choice for a reflexive object or for emphasizing that she, rather than someone else, did or experienced something."
+        },
+        {
+          "id": "y6f33zfg",
+          "word": "himself",
+          "meaning": "reflexive pronoun",
+          "note": "Use this when you need to state explicitly that it was him, or to emphasize the subject himself."
+        },
+        {
+          "id": "s55gif7v",
+          "word": "themselves",
+          "meaning": "singular they reflexive",
+          "note": "Use this when the singular they antecedent needs to be made explicit."
+        }
+      ],
       "examples": [
         {
           "english": "She made the report herself.",

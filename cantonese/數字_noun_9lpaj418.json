@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "number, figure",
-      "english": ["number", "figure"],
+      "english": [
+        {
+          "id": "qvwy5m7r",
+          "word": "number",
+          "meaning": "mathematical number",
+          "note": "This is the all-purpose choice for an abstract mathematical number or numeral."
+        },
+        {
+          "id": "zr6vy83i",
+          "word": "figure",
+          "meaning": "number; amount",
+          "note": "Use this as the all-purpose choice for a numeral, number, or numerical amount."
+        }
+      ],
       "examples": [
         {
           "english": "This number is easy to calculate.",

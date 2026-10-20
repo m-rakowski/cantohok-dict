@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "naked, blunt, undisguised",
-      "english": ["bare", "naked"],
+      "english": [
+        {
+          "id": "5uzi5wf5",
+          "word": "bare",
+          "meaning": "naked; uncovered",
+          "note": "Use this as the all-purpose choice for being naked or exposed, and when bare means stark and unembellished."
+        },
+        {
+          "id": "vwlcir15",
+          "word": "naked",
+          "meaning": "blunt, unadorned",
+          "note": "Use this for an unvarnished or blunt statement such as the naked truth, not for ordinary physical nudity."
+        }
+      ],
       "examples": [
         {
           "english": "They bare their feelings bluntly.",

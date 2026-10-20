@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "manager of a performer",
-      "english": ["impresario", "manager"],
+      "english": [
+        {
+          "id": "un50rm1x",
+          "word": "impresario",
+          "meaning": "entertainment manager/producer",
+          "note": "This is the all-purpose choice for the manager or representative of an entertainer or entertainment act."
+        },
+        {
+          "id": "cfdc49ym",
+          "word": "manager",
+          "meaning": "artist administrator",
+          "note": "Use this for the professional who manages a singer or musical group."
+        }
+      ],
       "examples": [
         {
           "english": "They are my impresario, handling bookings and contracts for me.",

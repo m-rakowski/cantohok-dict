@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "poverty",
-      "english": ["poverty", "want"],
+      "english": [
+        {
+          "id": "r0wpxntb",
+          "word": "poverty",
+          "meaning": "state of being poor",
+          "register": "written",
+          "note": "This is the all-purpose noun for the state of having little or no money."
+        },
+        {
+          "id": "1z9egv53",
+          "word": "want",
+          "meaning": "poverty, destitution",
+          "register": "written",
+          "note": "Use 貧窮 when referring to poverty or a state of having very little money or resources."
+        }
+      ],
       "register": "written",
       "examples": [
         {

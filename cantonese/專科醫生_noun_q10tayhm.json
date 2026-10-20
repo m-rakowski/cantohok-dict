@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "medical specialist",
-      "english": ["specialist"],
+      "english": [
+        {
+          "id": "ws369kim",
+          "word": "specialist",
+          "meaning": "medical specialist",
+          "note": "Use this specifically for a doctor whose practice is limited to a medical or surgical specialty."
+        }
+      ],
       "examples": [
         {
           "english": "I'm seeing a specialist tomorrow.",

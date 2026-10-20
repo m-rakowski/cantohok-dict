@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "guidance, guidelines",
-      "english": ["guidance", "guideline"],
+      "english": [
+        {
+          "id": "2y7o6i5h",
+          "word": "guidance",
+          "meaning": "guiding; direction",
+          "note": "Use this as the all-purpose noun for general guidance, direction, or non-specialized advice."
+        },
+        {
+          "id": "yrvxbl0j",
+          "word": "guideline",
+          "meaning": "general rule / principle",
+          "register": "formal",
+          "note": "This is the all-purpose choice for written or practical guidance, including both general rules and instructions for deciding what to do."
+        }
+      ],
       "examples": [
         {
           "english": "I need some guidance; I don't know how to get there the first time.",

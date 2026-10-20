@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "transfer to another bus or train",
-      "english": ["transfer", "change"],
+      "english": [
+        {
+          "id": "k3nx52mj",
+          "word": "transfer",
+          "meaning": "change transit vehicle",
+          "note": "Use this specifically when changing from one bus, train, or transit line to another."
+        },
+        {
+          "id": "eatidoxq",
+          "word": "change",
+          "meaning": "change transport",
+          "note": "Use this specifically when transferring from one train, bus, or other vehicle to another."
+        }
+      ],
       "examples": [
         {
           "english": "I transfer at Mong Kok Station to get to Tsim Sha Tsui.",

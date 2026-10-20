@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "reason, justification",
-      "english": ["reason", "grounds", "cause", "argument", "occasion"],
+      "english": [
+        {
+          "id": "9oz6voll",
+          "word": "reason",
+          "meaning": "motive",
+          "note": "This is the all-purpose choice for a stated reason, justification, or explanation."
+        },
+        {
+          "id": "r1bl90lk",
+          "word": "grounds",
+          "meaning": "reason; basis",
+          "note": "This is the all-purpose choice for a reason or justification, such as grounds for divorce."
+        },
+        {
+          "id": "3o1gkwl8",
+          "word": "cause",
+          "meaning": "reason for something",
+          "note": "Use 理由 for a justification or sufficient reason, including a reason for taking or avoiding an action."
+        },
+        {
+          "id": "e5n9nbnc",
+          "word": "argument",
+          "meaning": "reason supporting claim",
+          "note": "Use this for a reason or statement offered to support a claim, rather than for a quarrel."
+        },
+        {
+          "id": "dtpwofzs",
+          "word": "occasion",
+          "meaning": "reason or motive",
+          "note": "Use this when occasion means a reason or motive for a reaction or action."
+        }
+      ],
       "examples": [
         {
           "english": "I have a reason not to go.",

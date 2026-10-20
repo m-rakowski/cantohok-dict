@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "tap, faucet",
-      "english": ["tap"],
+      "english": [
+        {
+          "id": "y9fdirey",
+          "word": "tap",
+          "meaning": "faucet, spigot",
+          "note": "This is the all-purpose Cantonese word for a tap or faucet controlling water or another liquid."
+        }
+      ],
       "examples": [
         {
           "english": "The kitchen tap is leaking, so get someone to fix it.",
@@ -17,7 +24,20 @@
     },
     {
       "meaning": "water pipes, plumbing",
-      "english": ["pipe", "plumbing"],
+      "english": [
+        {
+          "id": "nnvjfmfg",
+          "word": "pipe",
+          "meaning": "tube for fluids",
+          "note": "Use 水喉 for the everyday plumbing or water-supply meaning of pipe."
+        },
+        {
+          "id": "wpw7vr5i",
+          "word": "plumbing",
+          "meaning": "household pipes and fixtures",
+          "note": "This is the all-purpose everyday choice for the pipes and fixtures in a building."
+        }
+      ],
       "examples": [
         {
           "english": "The kitchen pipe burst, and the floor is covered in water.",

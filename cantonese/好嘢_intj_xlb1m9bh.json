@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "yes! great!",
-      "english": ["yes", "yeah"],
+      "english": [
+        {
+          "id": "seweg2ta",
+          "word": "yes",
+          "meaning": "exclamation of approval",
+          "note": "This is the all-purpose exclamation of pleasure or approval, especially after something good happens."
+        },
+        {
+          "id": "cs2snl84",
+          "word": "yeah",
+          "meaning": "exclamation of excitement",
+          "note": "This is the all-purpose Cantonese exclamation for celebrating good news or success."
+        }
+      ],
       "examples": [
         {
           "english": "The team scored—yes!",

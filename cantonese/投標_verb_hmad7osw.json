@@ -6,7 +6,15 @@
   "boxes": [
     {
       "meaning": "offer a price",
-      "english": ["bid"],
+      "english": [
+        {
+          "id": "zn4qwoke",
+          "word": "bid",
+          "meaning": "offer a price",
+          "register": "formal",
+          "note": "Use this for submitting a formal tender or bid, especially in a procurement context rather than an auction."
+        }
+      ],
       "register": "formal",
       "examples": [
         {

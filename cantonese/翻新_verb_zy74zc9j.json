@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "renovate so it's like new",
-      "english": ["refurbish", "renew", "salvage"],
+      "english": [
+        {
+          "id": "nm6gbrsn",
+          "word": "refurbish",
+          "meaning": "renovate; restore",
+          "note": "Use this as the all-purpose choice for restoring or upgrading something so it looks and works like new."
+        },
+        {
+          "id": "vy6ex3tv",
+          "word": "renew",
+          "meaning": "make new again",
+          "note": "Use this for making a physical thing new or fresh again; it is the all-purpose choice for this sense."
+        },
+        {
+          "id": "ikyjahbh",
+          "word": "salvage",
+          "meaning": "salvage / recover for use",
+          "note": "Use this when the salvage involves refurbishing or restoring an item so it becomes usable again."
+        }
+      ],
       "examples": [
         {
           "english": "We refurbish the old computer, and it runs much faster now.",

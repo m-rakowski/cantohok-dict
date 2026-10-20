@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "harassment",
-      "english": ["harassment", "annoyance"],
+      "english": [
+        {
+          "id": "trodugkl",
+          "word": "harassment",
+          "meaning": "pestering or intimidation",
+          "note": "This is the all-purpose choice for unwanted persistent pestering, attacks, or criticism."
+        },
+        {
+          "id": "2useuohd",
+          "word": "annoyance",
+          "meaning": "act of annoying",
+          "note": "Use this for an unwanted disturbance or act of harassment, not just an inconvenient nuisance."
+        }
+      ],
       "examples": [
         {
           "english": "The harassment from anonymous calls is really upsetting.",

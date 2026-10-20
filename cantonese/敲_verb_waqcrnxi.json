@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "knock, rap",
-      "english": ["knock", "rap"],
+      "english": [
+        {
+          "id": "wvpoxqdz",
+          "word": "knock",
+          "meaning": "rap on wood",
+          "note": "This is the all-purpose choice for physically rapping or knocking on something, especially a door or wood."
+        },
+        {
+          "id": "i5vttcpu",
+          "word": "rap",
+          "meaning": "knock sharply",
+          "note": "Use this for striking or knocking something sharply, especially with the knuckles."
+        }
+      ],
       "examples": [
         {
           "english": "Please knock on the door before coming in.",

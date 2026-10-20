@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "acceptance, admission",
-      "english": ["acceptance", "admission"],
+      "english": [
+        {
+          "id": "78cihgsv",
+          "word": "acceptance",
+          "meaning": "accepting something",
+          "note": "Pick this for accepting or welcoming a person, thing, idea, or proposal, especially when emphasizing favorable reception."
+        },
+        {
+          "id": "vxjy6k1k",
+          "word": "admission",
+          "meaning": "the act of admitting",
+          "note": "Use this for the act of accepting or admitting someone or something into a group or arrangement."
+        }
+      ],
       "examples": [
         {
           "english": "This new proposal got quick acceptance from the school.",

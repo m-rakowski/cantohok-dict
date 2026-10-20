@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "suspicious",
-      "english": ["suspicious", "doubtful", "marked"],
+      "english": [
+        {
+          "id": "0a30fs4n",
+          "word": "suspicious",
+          "meaning": "arousing suspicion",
+          "note": "This is the all-purpose choice for something that arouses suspicion, such as suspicious behaviour or a suspicious person."
+        },
+        {
+          "id": "2q5likud",
+          "word": "doubtful",
+          "meaning": "causing doubt",
+          "note": "Use this when the thing itself seems suspicious or raises doubts about its character."
+        },
+        {
+          "id": "5f4v79oy",
+          "word": "marked",
+          "meaning": "singled out, targeted",
+          "note": "Use this when marked means suspicious or regarded as suspect."
+        }
+      ],
       "examples": [
         {
           "english": "That person is lurking around the entrance and looks suspicious.",

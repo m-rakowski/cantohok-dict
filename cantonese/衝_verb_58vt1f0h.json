@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "rush, charge forward",
-      "english": ["dash", "rip", "rush", "tumble"],
+      "english": [
+        {
+          "id": "d60vhqmm",
+          "word": "dash",
+          "meaning": "run quickly",
+          "note": "This is the all-purpose choice when someone runs very fast, especially toward or across somewhere."
+        },
+        {
+          "id": "nylzcfwx",
+          "word": "rip",
+          "meaning": "rush through",
+          "note": "Use 衝 as the all-purpose choice when a person, vehicle, or force rushes headlong, including through an area."
+        },
+        {
+          "id": "94nu9aoi",
+          "word": "rush",
+          "meaning": "flow rapidly",
+          "note": "Use this for physical movement rushing forward or downward, including a swift attack; it does not mean ordinary hurrying."
+        },
+        {
+          "id": "cblxu63z",
+          "word": "tumble",
+          "meaning": "rush headlong",
+          "note": "Use this when a person or thing rushes forward in an uncontrolled way."
+        }
+      ],
       "examples": [
         {
           "english": "They dash across the road whenever they see a bus.",

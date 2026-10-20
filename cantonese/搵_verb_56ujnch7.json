@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "contact someone",
-      "english": ["contact", "reach"],
+      "english": [
+        {
+          "id": "egglu4gc",
+          "word": "contact",
+          "meaning": "get in touch",
+          "register": "colloquial",
+          "note": "Use this colloquial choice when the emphasis is on trying to reach or get hold of someone."
+        },
+        {
+          "id": "8sr9vayp",
+          "word": "reach",
+          "meaning": "contact someone",
+          "register": "colloquial",
+          "note": "Use 搵 when “reach” means trying to contact or get hold of someone, especially by phone or message."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {
@@ -23,7 +38,39 @@
     },
     {
       "meaning": "look for, search for",
-      "english": ["search", "seek", "hunt", "fish", "look"],
+      "english": [
+        {
+          "id": "fioymqbg",
+          "word": "search",
+          "meaning": "look in a place for",
+          "note": "Use 搵 as the all-purpose spoken verb for looking for something, including searching around a place."
+        },
+        {
+          "id": "fwgn2poj",
+          "word": "seek",
+          "meaning": "try to find",
+          "note": "This is the all-purpose colloquial choice for trying to find or look for something."
+        },
+        {
+          "id": "t83n2w8b",
+          "word": "hunt",
+          "meaning": "search for something",
+          "note": "This is the all-purpose choice for trying to find something."
+        },
+        {
+          "id": "pxj9hbw8",
+          "word": "fish",
+          "meaning": "fumble/search around",
+          "register": "colloquial",
+          "note": "Use this when searching among other things to find or get hold of something."
+        },
+        {
+          "id": "zj7kxlu9",
+          "word": "look",
+          "meaning": "search for",
+          "note": "Use 搵 when looking means searching for or trying to find something."
+        }
+      ],
       "examples": [
         {
           "english": "I had to search around for an hour before I found the book.",

@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "make sure, ensure",
-      "english": ["ensure", "assure", "secure"],
+      "english": [
+        {
+          "id": "m2vgpz8o",
+          "word": "ensure",
+          "meaning": "make sure; secure",
+          "register": "formal",
+          "note": "Use this as the all-purpose choice when actively securing a future result or condition."
+        },
+        {
+          "id": "19xaairh",
+          "word": "assure",
+          "meaning": "make sure; secure",
+          "note": "Use this when the focus is making sure that a result, condition, or arrangement is secured."
+        },
+        {
+          "id": "kguwr6yb",
+          "word": "secure",
+          "meaning": "make certain; guarantee",
+          "note": "Use this when secure means make an outcome certain or guarantee that something will not be lost."
+        }
+      ],
       "examples": [
         {
           "english": "The company will take measures to ensure the project is completed on time.",

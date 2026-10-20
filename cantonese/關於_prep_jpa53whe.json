@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "about, regarding",
-      "english": ["about", "regarding", "of", "around", "in"],
+      "english": [
+        {
+          "id": "mbj32jm2",
+          "word": "about",
+          "meaning": "concerning; on the subject of",
+          "note": "This is the all-purpose choice for introducing a topic or subject."
+        },
+        {
+          "id": "xafs4vbx",
+          "word": "regarding",
+          "meaning": "concerning; about",
+          "note": "This is the all-purpose equivalent for saying that something concerns or is about A."
+        },
+        {
+          "id": "2xnqh2zw",
+          "word": "of",
+          "meaning": "about; relating to",
+          "note": "Use this for the subject matter or topic that something is about."
+        },
+        {
+          "id": "65m7yjaj",
+          "word": "around",
+          "meaning": "about, concerning",
+          "note": "Use this when “around” introduces the topic or subject being discussed."
+        },
+        {
+          "id": "oqdvyquz",
+          "word": "in",
+          "meaning": "about; regarding",
+          "note": "Use this when “in” means regarding or concerning a topic."
+        }
+      ],
       "examples": [
         {
           "english": "I want to ask a question about the contract.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "chewing gum",
-      "english": ["chewing gum", "gum"],
+      "english": [
+        {
+          "id": "hxvy7n02",
+          "word": "chewing gum",
+          "meaning": "chewy breath-freshener",
+          "note": "This is the all-purpose everyday term for chewing gum in Hong Kong Cantonese."
+        },
+        {
+          "id": "r30agr3h",
+          "word": "gum",
+          "meaning": "chewing gum",
+          "note": "Use this as the all-purpose term for chewing gum in general."
+        }
+      ],
       "examples": [
         {
           "english": "After eating garlic, chew some chewing gum before going back to work.",

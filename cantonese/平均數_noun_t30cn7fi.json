@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "average, mean",
-      "english": ["mean", "average"],
+      "english": [
+        {
+          "id": "23myg3pb",
+          "word": "mean",
+          "meaning": "mean (math average)",
+          "note": "This is the all-purpose Cantonese noun for a mathematical mean or average."
+        },
+        {
+          "id": "vmvtqcev",
+          "word": "average",
+          "meaning": "arithmetic mean",
+          "note": "This is the all-purpose Cantonese noun for an arithmetic mean."
+        }
+      ],
       "examples": [
         {
           "english": "The mean score for this class is eighty.",

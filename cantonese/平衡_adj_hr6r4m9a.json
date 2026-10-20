@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "balanced, steady",
-      "english": ["balanced", "well-balanced"],
+      "english": [
+        {
+          "id": "mzqvie3l",
+          "word": "balanced",
+          "meaning": "well-proportioned; steady",
+          "note": "Use this when the focus is physical stability or an object being unlikely to tip over rather than nutritional or proportional balance."
+        },
+        {
+          "id": "ydhfj3ry",
+          "word": "well-balanced",
+          "meaning": "physically balanced",
+          "note": "This is the all-purpose choice for something that is physically properly balanced or in equilibrium."
+        }
+      ],
       "examples": [
         {
           "english": "The vase has a wide base, so it stays balanced.",

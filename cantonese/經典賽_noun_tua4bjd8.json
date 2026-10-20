@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "major sporting event",
-      "english": ["classic"],
+      "english": [
+        {
+          "id": "i2f34ox7",
+          "word": "classic",
+          "meaning": "major sporting event",
+          "note": "Use this specifically for a major, established sporting event rather than for an artistic work."
+        }
+      ],
       "examples": [
         {
           "english": "We watch the classic every year.",

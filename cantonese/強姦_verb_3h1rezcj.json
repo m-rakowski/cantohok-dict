@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "rape",
-      "english": ["rape", "violate", "force"],
+      "english": [
+        {
+          "id": "n4bykqxs",
+          "word": "rape",
+          "meaning": "rape (verb): sexually assault",
+          "note": "This is the all-purpose Cantonese verb for forcing sexual activity on someone without consent."
+        },
+        {
+          "id": "g7nga7ep",
+          "word": "violate",
+          "meaning": "rape",
+          "register": "formal",
+          "note": "Use this specifically when “violate” means to rape."
+        },
+        {
+          "id": "i8bse3gi",
+          "word": "force",
+          "meaning": "rape",
+          "note": "Use this specifically when force means sexually violating or raping someone."
+        }
+      ],
       "examples": [
         {
           "english": "That man allegedly committed rape against the girl and has been arrested by the police.",

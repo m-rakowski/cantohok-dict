@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "horse meat",
-      "english": ["horse"],
+      "english": [
+        {
+          "id": "reffmnmd",
+          "word": "horse",
+          "meaning": "horse meat",
+          "note": "Use 馬肉 specifically when talking about horse meat as food."
+        }
+      ],
       "examples": [
         {
           "english": "This restaurant serves horse meat.",

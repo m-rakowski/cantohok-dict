@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "mammal",
-      "english": ["elephant"],
+      "english": [
+        {
+          "id": "q6l5sw3r",
+          "word": "elephant",
+          "meaning": "mammal",
+          "note": "This is the all-purpose noun for the animal."
+        }
+      ],
       "examples": [
         {
           "english": "I saw an elephant at the zoo.",

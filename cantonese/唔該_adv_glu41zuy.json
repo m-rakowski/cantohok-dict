@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "please",
-      "english": ["please", "kindly"],
+      "english": [
+        {
+          "id": "hgio9p2h",
+          "word": "please",
+          "meaning": "polite request marker",
+          "note": "Use 唔該 as the all-purpose colloquial polite request marker."
+        },
+        {
+          "id": "25n20q1z",
+          "word": "kindly",
+          "meaning": "please, politely",
+          "register": "colloquial",
+          "note": "Use this casual request marker before an action when kindly means please."
+        }
+      ],
       "examples": [
         {
           "english": "Please help me open the door.",

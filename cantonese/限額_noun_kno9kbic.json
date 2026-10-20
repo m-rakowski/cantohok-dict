@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "financial cap",
-      "english": ["ceiling"],
+      "english": [
+        {
+          "id": "91s0ptqk",
+          "word": "ceiling",
+          "meaning": "financial cap",
+          "note": "Use this for a maximum permitted financial amount, such as a credit or transaction limit."
+        }
+      ],
       "examples": [
         {
           "english": "I’ve already hit my credit-card ceiling.",

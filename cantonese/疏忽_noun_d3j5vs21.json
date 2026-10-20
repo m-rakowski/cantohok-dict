@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "carelessness, negligence",
-      "english": ["carelessness", "neglect"],
+      "english": [
+        {
+          "id": "3de5z7mn",
+          "word": "carelessness",
+          "meaning": "lack of care; negligence",
+          "register": "formal",
+          "note": "This is the all-purpose noun for lack of care or negligence, especially when describing what caused a mistake or accident."
+        },
+        {
+          "id": "o1x2roh7",
+          "word": "neglect",
+          "meaning": "neglecting; failure to attend",
+          "note": "This is the all-purpose choice for an act or habitual pattern of failing to give proper care or attention."
+        }
+      ],
       "examples": [
         {
           "english": "This accident was caused by the staff's carelessness.",

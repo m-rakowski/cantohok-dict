@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "scary, frightening",
-      "english": ["frightening", "terrifying"],
+      "english": [
+        {
+          "id": "5bp66ang",
+          "word": "frightening",
+          "meaning": "scary",
+          "note": "This is the all-purpose colloquial choice for something that causes fear."
+        },
+        {
+          "id": "tmenss7r",
+          "word": "terrifying",
+          "meaning": "frightening; very scary",
+          "register": "colloquial",
+          "note": "Use this colloquial phrase when emphasizing that something is really alarming or scary."
+        }
+      ],
       "examples": [
         {
           "english": "That horror movie is really frightening.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "broil",
-      "english": ["grill"],
+      "english": [
+        {
+          "id": "dbutninv",
+          "word": "grill",
+          "meaning": "broil",
+          "note": "Use this specifically for cooking food with the upper heating element of an oven or stove."
+        }
+      ],
       "examples": [
         {
           "english": "I grill a chicken steak with the upper heating element, so I don't need to turn it over.",

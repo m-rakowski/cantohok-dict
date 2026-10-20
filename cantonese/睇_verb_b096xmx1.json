@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "look, see, watch",
-      "english": ["see", "look", "watch", "view", "scan"],
+      "english": [
+        {
+          "id": "42qpng3f",
+          "word": "see",
+          "meaning": "perceive with eyes",
+          "note": "This is the all-purpose colloquial choice for visually looking at or seeing something, and for examining something briefly."
+        },
+        {
+          "id": "20r73qis",
+          "word": "look",
+          "meaning": "try to see",
+          "note": "This is the all-purpose verb for trying to see or looking at someone or something."
+        },
+        {
+          "id": "iyydckhg",
+          "word": "watch",
+          "meaning": "look at for a time",
+          "note": "This is the all-purpose colloquial choice for looking at or paying attention to something."
+        },
+        {
+          "id": "8n2lkonc",
+          "word": "view",
+          "meaning": "look at",
+          "note": "Use 睇 as the all-purpose spoken verb for looking at or watching something."
+        },
+        {
+          "id": "qp6mhq7u",
+          "word": "scan",
+          "meaning": "examine closely",
+          "note": "Use this as the all-purpose visual verb when context or an adverb such as 仔細 makes clear whether the looking is close or quick."
+        }
+      ],
       "examples": [
         {
           "english": "I can see you at the door.",

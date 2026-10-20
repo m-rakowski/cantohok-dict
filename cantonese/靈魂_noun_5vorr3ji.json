@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "soul",
-      "english": ["soul", "psyche", "spirit"],
+      "english": [
+        {
+          "id": "fhncq668",
+          "word": "soul",
+          "meaning": "human spirit after death",
+          "note": "This is the all-purpose choice for a person's spiritual essence, including one believed to survive death."
+        },
+        {
+          "id": "gt181w9m",
+          "word": "psyche",
+          "meaning": "soul / spirit",
+          "note": "Use 靈魂 for the soul or spirit in a literal, religious, or strongly figurative sense."
+        },
+        {
+          "id": "v0gbkh4q",
+          "word": "spirit",
+          "meaning": "soul",
+          "note": "Use this for the soul of a person or other creature, rather than a ghost or a person's mood."
+        }
+      ],
       "examples": [
         {
           "english": "Where does the soul go after a person dies?",

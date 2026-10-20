@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "mineral rock",
-      "english": ["ore"],
+      "english": [
+        {
+          "id": "vgvdvb1s",
+          "word": "ore",
+          "meaning": "mineral rock",
+          "note": "This is the all-purpose Cantonese noun for rock containing valuable metals or other materials that is mined and processed."
+        }
+      ],
       "examples": [
         {
           "english": "This ore has to be sent to a smelter for processing.",

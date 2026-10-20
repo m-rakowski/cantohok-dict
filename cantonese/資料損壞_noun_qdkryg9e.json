@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "data corruption",
-      "english": ["corruption"],
+      "english": [
+        {
+          "id": "9d8aar2e",
+          "word": "corruption",
+          "meaning": "data corruption",
+          "note": "Use this specifically for data being damaged or corrupted through storage, transmission, or manipulation."
+        }
+      ],
       "examples": [
         {
           "english": "Data corruption occurred during transmission, and the file won’t open.",

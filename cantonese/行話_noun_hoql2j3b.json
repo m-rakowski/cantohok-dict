@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "trade jargon",
-      "english": ["slang", "jargon"],
+      "english": [
+        {
+          "id": "85q7no5l",
+          "word": "slang",
+          "meaning": "jargon of a field",
+          "note": "Use this specifically for jargon used within a profession, trade, or specialist field."
+        },
+        {
+          "id": "6vkg94p0",
+          "word": "jargon",
+          "meaning": "group language/register",
+          "note": "Use this when the language marks membership in a particular group, rather than merely belonging to a technical field."
+        }
+      ],
       "examples": [
         {
           "english": "After working on construction sites for a while, you naturally understand a lot of trade slang.",

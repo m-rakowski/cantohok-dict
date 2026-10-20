@@ -6,7 +6,44 @@
   "boxes": [
     {
       "meaning": "unhappy, sad",
-      "english": ["sad", "unhappy", "glum", "dissatisfied", "blue", "down"],
+      "english": [
+        {
+          "id": "0x1adi8x",
+          "word": "sad",
+          "meaning": "feeling sorrow",
+          "note": "This is the all-purpose everyday choice for feeling sad, and with 個樣 it describes someone or something that looks sad."
+        },
+        {
+          "id": "ut07g4d7",
+          "word": "unhappy",
+          "meaning": "sad",
+          "note": "This is the all-purpose choice for feeling sad or generally unhappy."
+        },
+        {
+          "id": "lkjcpimv",
+          "word": "glum",
+          "meaning": "sad, moody",
+          "note": "This is the all-purpose choice for someone who is generally sad or low in spirits."
+        },
+        {
+          "id": "bd3lvxmg",
+          "word": "dissatisfied",
+          "meaning": "unhappy; not content",
+          "note": "Use this when dissatisfaction is mainly expressed as personal unhappiness rather than criticism of a particular thing."
+        },
+        {
+          "id": "xn2qr898",
+          "word": "blue",
+          "meaning": "feeling sad",
+          "note": "Use 唔開心 when blue means feeling sad or depressed."
+        },
+        {
+          "id": "3ei4sq2a",
+          "word": "down",
+          "meaning": "feeling sad",
+          "note": "Use 唔開心 for the everyday meaning of feeling sad or emotionally low."
+        }
+      ],
       "examples": [
         {
           "english": "I've been sad a lot lately.",

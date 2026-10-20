@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "with all-out effort, desperately",
-      "english": ["feverishly", "frantically"],
+      "english": [
+        {
+          "id": "60rg641v",
+          "word": "feverishly",
+          "meaning": "rapidly; frantically",
+          "note": "Use this as the all-purpose choice for doing something with intense effort, energy, or urgency."
+        },
+        {
+          "id": "t28u2k6h",
+          "word": "frantically",
+          "meaning": "in a frantic manner",
+          "register": "colloquial",
+          "note": "Use this when the frantic action involves desperate, all-out effort rather than mainly panic."
+        }
+      ],
       "examples": [
         {
           "english": "They studied feverishly and finally came first in the exam.",

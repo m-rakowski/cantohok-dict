@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "bartender",
-      "english": ["bartender", "barman"],
+      "english": [
+        {
+          "id": "m9kcqngk",
+          "word": "bartender",
+          "meaning": "bar worker",
+          "note": "Use this when emphasizing a bartender's professional skill in mixing cocktails and other drinks."
+        },
+        {
+          "id": "f1gr76sy",
+          "word": "barman",
+          "meaning": "bar worker",
+          "note": "Use this for a trained bartender whose job focuses on mixing drinks or cocktails."
+        }
+      ],
       "examples": [
         {
           "english": "This bartender really knows how to mix cocktails.",

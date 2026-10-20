@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "hamburger",
-      "english": ["burger", "hamburger"],
+      "english": [
+        {
+          "id": "9jk1vqvd",
+          "word": "burger",
+          "meaning": "hamburger",
+          "register": "colloquial",
+          "note": "Use this shortened form when the context already makes clear that you mean the burger food rather than the full 漢堡包."
+        },
+        {
+          "id": "kkce7n16",
+          "word": "hamburger",
+          "meaning": "hamburger sandwich",
+          "note": "Use this shorter form for the sandwich when the context is clear."
+        }
+      ],
       "examples": [
         {
           "english": "The burger at this restaurant is pretty good.",

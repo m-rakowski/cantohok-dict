@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "workshop (training session)",
-      "english": ["workshop", "clinic"],
+      "english": [
+        {
+          "id": "ciftabjo",
+          "word": "workshop",
+          "meaning": "training workshop",
+          "note": "This is the all-purpose choice for a short, interactive training course."
+        },
+        {
+          "id": "n72zdol1",
+          "word": "clinic",
+          "meaning": "specialist advice clinic",
+          "note": "Use this for a subject-specific clinic that gives training or practical instruction."
+        }
+      ],
       "examples": [
         {
           "english": "This workshop will teach everyone how to make natural skincare products.",

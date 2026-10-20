@@ -6,7 +6,15 @@
   "boxes": [
     {
       "meaning": "myocardial infarction",
-      "english": ["heart attack"],
+      "english": [
+        {
+          "id": "ntmfbipd",
+          "word": "heart attack",
+          "meaning": "myocardial infarction",
+          "register": "formal",
+          "note": "A speaker uses this formal medical term in diagnoses, hospital documents, and medical discussion."
+        }
+      ],
       "register": "formal",
       "examples": [
         {

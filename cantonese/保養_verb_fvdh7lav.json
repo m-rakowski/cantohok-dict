@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "to maintain or service",
-      "english": ["maintain", "service"],
+      "english": [
+        {
+          "id": "qxfxpps9",
+          "word": "maintain",
+          "meaning": "keep in good repair",
+          "note": "Use this for keeping equipment, vehicles, or property in good working order."
+        },
+        {
+          "id": "s7rrptyn",
+          "word": "service",
+          "meaning": "to service a machine",
+          "note": "Use this for routine servicing and preventative maintenance, especially of a car or appliance."
+        }
+      ],
       "examples": [
         {
           "english": "We need to maintain the car regularly so it will last.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "outside, outdoors",
-      "english": ["outdoors", "out"],
+      "english": [
+        {
+          "id": "iubhfsex",
+          "word": "outdoors",
+          "meaning": "in the open air",
+          "note": "This is the all-purpose colloquial choice for being outside rather than inside."
+        },
+        {
+          "id": "4puk9b7n",
+          "word": "out",
+          "meaning": "outside; outdoors",
+          "note": "Use this for being or doing something outside, including eating away from home rather than at home."
+        }
+      ],
       "examples": [
         {
           "english": "I’m outdoors waiting for you.",

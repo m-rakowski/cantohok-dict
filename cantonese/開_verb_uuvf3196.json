@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "open",
-      "english": ["open", "crack"],
+      "english": [
+        {
+          "id": "4qy6ywzf",
+          "word": "open",
+          "meaning": "make open",
+          "note": "Use this as the all-purpose verb for opening or making something operative, including doors, eyes, valves, shops, accounts, and files."
+        },
+        {
+          "id": "y0izdlua",
+          "word": "crack",
+          "meaning": "open slightly",
+          "note": "Use the all-purpose verb 開 for opening something, adding 少少 for opening it slightly and often naming the container for a packaged drink."
+        }
+      ],
       "examples": [
         {
           "english": "I open the file to take a look.",
@@ -22,7 +35,15 @@
     },
     {
       "meaning": "start (an event or meeting)",
-      "english": ["begin"],
+      "english": [
+        {
+          "id": "x8v6sy7b",
+          "word": "begin",
+          "meaning": "start, initiate",
+          "register": "colloquial",
+          "note": "Use this colloquial form especially when beginning an event, game, meeting, work session, or other scheduled activity."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {
@@ -34,7 +55,26 @@
     },
     {
       "meaning": "turn on, launch",
-      "english": ["launch", "switch", "enable"],
+      "english": [
+        {
+          "id": "wqb8fghb",
+          "word": "launch",
+          "meaning": "start software",
+          "note": "This is the all-purpose spoken choice for starting an app or program."
+        },
+        {
+          "id": "ux65s5ef",
+          "word": "switch",
+          "meaning": "turn on/off",
+          "note": "Use this for switching something on, especially lights, appliances, and devices."
+        },
+        {
+          "id": "m1b6nvpa",
+          "word": "enable",
+          "meaning": "turn on function",
+          "note": "Use this for turning on a device function, feature, or setting, rather than for giving a person the ability to act."
+        }
+      ],
       "examples": [
         {
           "english": "I can launch the program with one tap.",

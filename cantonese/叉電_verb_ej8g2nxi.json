@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "charge a battery",
-      "english": ["recharge", "charge"],
+      "english": [
+        {
+          "id": "z38gmguf",
+          "word": "recharge",
+          "meaning": "battery power",
+          "register": "colloquial",
+          "note": "This is the all-purpose colloquial choice for restoring battery power, and it is also used figuratively for taking time to rest and regain energy."
+        },
+        {
+          "id": "qhjyfgj0",
+          "word": "charge",
+          "meaning": "recharge a battery",
+          "register": "colloquial",
+          "note": "Use this colloquial Hong Kong verb when replenishing a battery or a device's battery."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

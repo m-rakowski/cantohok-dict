@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "looking down on others",
-      "english": ["scornful", "contemptuous", "disdainful"],
+      "english": [
+        {
+          "id": "qoxs9hcm",
+          "word": "scornful",
+          "meaning": "showing contempt",
+          "note": "This is the all-purpose colloquial choice for someone who shows contempt or looks down on others."
+        },
+        {
+          "id": "368omd94",
+          "word": "contemptuous",
+          "meaning": "showing disdain",
+          "note": "This is the all-purpose spoken choice for describing a person or expression that shows disdain for others."
+        },
+        {
+          "id": "kslissmq",
+          "word": "disdainful",
+          "meaning": "showing contempt",
+          "note": "This is the all-purpose colloquial choice for someone who treats other people as beneath them."
+        }
+      ],
       "examples": [
         {
           "english": "They are always scornful of others, so their colleagues do not want to work with them.",

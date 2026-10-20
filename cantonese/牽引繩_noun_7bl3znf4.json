@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "dog lead",
-      "english": ["leash"],
+      "english": [
+        {
+          "id": "6z1aputy",
+          "word": "leash",
+          "meaning": "dog lead",
+          "note": "Use this more precise term when the leash is described as a lead for controlling an animal, including one that is not a dog."
+        }
+      ],
       "examples": [
         {
           "english": "We need to keep this horse on a leash, or it’ll get lost.",

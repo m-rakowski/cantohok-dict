@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "so-called",
-      "english": ["so-called", "ostensible"],
+      "english": [
+        {
+          "id": "7xatww84",
+          "word": "so-called",
+          "meaning": "‘so-called’ = alleged but false",
+          "note": "This is the all-purpose spoken equivalent, especially when the name is presented with doubt, criticism, or distance."
+        },
+        {
+          "id": "ojzpl3bm",
+          "word": "ostensible",
+          "meaning": "apparent, supposed",
+          "note": "Use this when highlighting that something is merely claimed, professed, or supposedly so, often with a skeptical tone."
+        }
+      ],
       "examples": [
         {
           "english": "The so-called expert is always talking nonsense on TV; you'd be in trouble if you believed him.",

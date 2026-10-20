@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "organized effort",
-      "english": ["campaign"],
+      "english": [
+        {
+          "id": "ozilibsx",
+          "word": "campaign",
+          "meaning": "organized effort",
+          "note": "Use this for an election campaign rather than a general campaign."
+        }
+      ],
       "examples": [
         {
           "english": "Their election campaign has now fully begun.",

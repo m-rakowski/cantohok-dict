@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "facts / information",
-      "english": ["data"],
+      "english": [
+        {
+          "id": "26dqk94r",
+          "word": "data",
+          "meaning": "facts / information",
+          "note": "This is the all-purpose choice, especially for computer-stored or numerical data."
+        }
+      ],
       "examples": [
         {
           "english": "This data hasn’t been updated yet.",

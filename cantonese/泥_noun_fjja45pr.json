@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "soil, earth, mud",
-      "english": ["dirt", "mud", "earth"],
+      "english": [
+        {
+          "id": "2n8msjkr",
+          "word": "dirt",
+          "meaning": "soil, earth",
+          "note": "This is the all-purpose choice for soil or loose earth."
+        },
+        {
+          "id": "9gvnuq9z",
+          "word": "mud",
+          "meaning": "wet earth",
+          "note": "This is the all-purpose choice for wet earth, and in construction contexts it can also mean wet concrete mix."
+        },
+        {
+          "id": "lc7u4p6d",
+          "word": "earth",
+          "meaning": "soil",
+          "register": "colloquial",
+          "note": "Use 泥 for soil or earth used for growing plants, especially when it is loose or muddy."
+        }
+      ],
       "examples": [
         {
           "english": "The dirt in the garden is all wet.",

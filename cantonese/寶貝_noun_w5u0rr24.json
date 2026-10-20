@@ -6,7 +6,39 @@
   "boxes": [
     {
       "meaning": "darling (term of endearment)",
-      "english": ["sweetheart", "darling", "honey", "sweet", "sugar"],
+      "english": [
+        {
+          "id": "1zytam2w",
+          "word": "sweetheart",
+          "meaning": "term of endearment",
+          "register": "colloquial",
+          "note": "Use this as the usual all-purpose term of endearment for a lover or child."
+        },
+        {
+          "id": "6cocd6gy",
+          "word": "darling",
+          "meaning": "sweetheart / dear person",
+          "note": "This is the all-purpose affectionate noun, used for a loved person and sometimes a cherished animal or thing."
+        },
+        {
+          "id": "czse04sz",
+          "word": "honey",
+          "meaning": "term of affection",
+          "note": "Use 寶貝 as a familiar term of affection for a loved one."
+        },
+        {
+          "id": "1jw0pv29",
+          "word": "sweet",
+          "meaning": "sweetheart; term of affection",
+          "note": "Use this as a familiar term of affection for a sweetheart."
+        },
+        {
+          "id": "odlxrw2s",
+          "word": "sugar",
+          "meaning": "term of endearment",
+          "note": "Use 寶貝 as an affectionate form of address for a loved one, rather than for actual sugar."
+        }
+      ],
       "examples": [
         {
           "english": "Sweetheart, what do you want to eat today?",
@@ -37,7 +69,28 @@
     },
     {
       "meaning": "treasured person or thing",
-      "english": ["pearl", "treasure", "jewel"],
+      "english": [
+        {
+          "id": "tryw0381",
+          "word": "pearl",
+          "meaning": "something precious",
+          "register": "colloquial",
+          "note": "Use this for a person or thing cherished as precious, rather than for the gemstone or a useful tip."
+        },
+        {
+          "id": "a3cof0ka",
+          "word": "treasure",
+          "meaning": "something valued",
+          "register": "colloquial",
+          "note": "Use this for a person or thing that is especially cherished or precious to someone."
+        },
+        {
+          "id": "opumqvap",
+          "word": "jewel",
+          "meaning": "valuable thing",
+          "note": "Use this for a person or thing regarded as especially precious or valued."
+        }
+      ],
       "examples": [
         {
           "english": "The old watch Mum left me is my pearl.",

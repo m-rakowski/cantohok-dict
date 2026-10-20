@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "scholar, academic",
-      "english": ["scholar", "intellectual"],
+      "english": [
+        {
+          "id": "yfi66ifh",
+          "word": "scholar",
+          "meaning": "academic specialist",
+          "note": "Use this for a specialist or academic researcher rather than an enrolled student."
+        },
+        {
+          "id": "atgfddim",
+          "word": "intellectual",
+          "meaning": "learned person",
+          "note": "Use this when the intellectual is specifically an academic or scholar rather than simply an educated thinker."
+        }
+      ],
       "examples": [
         {
           "english": "They are a scholar who researches Chinese history.",

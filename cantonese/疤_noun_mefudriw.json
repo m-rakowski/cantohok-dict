@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "scar",
-      "english": ["scar", "incision"],
+      "english": [
+        {
+          "id": "hfrw2tri",
+          "word": "scar",
+          "meaning": "skin mark",
+          "note": "This is the all-purpose everyday word for a permanent mark left on the skin."
+        },
+        {
+          "id": "uvb7nr4g",
+          "word": "incision",
+          "meaning": "surgical cut",
+          "register": "colloquial",
+          "note": "Use this for the scar left after the incision has healed, rather than for the fresh cut itself."
+        }
+      ],
       "examples": [
         {
           "english": "They still have a scar on their arm.",

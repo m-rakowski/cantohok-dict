@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "diverse, varied",
-      "english": ["eclectic", "diverse"],
+      "english": [
+        {
+          "id": "ghibjqqn",
+          "word": "eclectic",
+          "meaning": "selective mix of styles",
+          "note": "This is the all-purpose choice for something combining or offering a range of different styles, ideas, or types."
+        },
+        {
+          "id": "0q5bucac",
+          "word": "diverse",
+          "meaning": "diverse community",
+          "note": "Use this for a community or organization whose membership includes people from varied demographic backgrounds."
+        }
+      ],
       "examples": [
         {
           "english": "This restaurant has a very eclectic menu, with both Chinese and Western dishes.",

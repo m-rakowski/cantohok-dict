@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "wood grain",
-      "english": ["grain"],
+      "english": [
+        {
+          "id": "mhpwwmmh",
+          "word": "grain",
+          "meaning": "wood grain",
+          "note": "Use this specifically for the visible linear pattern or direction in wood."
+        }
+      ],
       "examples": [
         {
           "english": "The wood grain of this table is beautiful.",

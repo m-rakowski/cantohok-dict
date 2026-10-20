@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "math multiplication result",
-      "english": ["product"],
+      "english": [
+        {
+          "id": "sbxcjv0w",
+          "word": "product",
+          "meaning": "math multiplication result",
+          "note": "Use 積 specifically for the result of multiplying numbers in mathematics."
+        }
+      ],
       "examples": [
         {
           "english": "The product of three times four is twelve.",

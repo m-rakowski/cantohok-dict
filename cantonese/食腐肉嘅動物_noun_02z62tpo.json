@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "animal that eats carrion",
-      "english": ["scavenger"],
+      "english": [
+        {
+          "id": "66e08koe",
+          "word": "scavenger",
+          "meaning": "animal that eats carrion",
+          "note": "Use this for an animal that feeds on carrion or other decaying matter, rather than for a person who searches rubbish."
+        }
+      ],
       "examples": [
         {
           "english": "A vulture is a scavenger that mainly eats dead animals.",

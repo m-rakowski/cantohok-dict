@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "root cause of trouble",
-      "english": ["ruin", "curse"],
+      "english": [
+        {
+          "id": "2g69utw0",
+          "word": "ruin",
+          "meaning": "cause of destruction",
+          "note": "Use this for something regarded as the underlying cause of serious trouble or destruction."
+        },
+        {
+          "id": "df8a6aoo",
+          "word": "curse",
+          "meaning": "source of misery",
+          "note": "Use this when “curse” means the underlying source or root of serious trouble and misery."
+        }
+      ],
       "examples": [
         {
           "english": "The root of this company's ruin is the management's greed.",

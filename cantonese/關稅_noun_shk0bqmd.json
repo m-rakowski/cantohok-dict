@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "customs duty",
-      "english": ["customs", "duty"],
+      "english": [
+        {
+          "id": "t51a3s5w",
+          "word": "customs",
+          "meaning": "import taxes",
+          "note": "Use this specifically for the taxes charged on imported or exported goods, rather than for the officials or checkpoint."
+        },
+        {
+          "id": "pr7wyk9a",
+          "word": "duty",
+          "meaning": "tax on goods",
+          "note": "Use 關稅 specifically for duty charged on imported or exported goods."
+        }
+      ],
       "examples": [
         {
           "english": "How much customs do we have to pay on this shipment?",

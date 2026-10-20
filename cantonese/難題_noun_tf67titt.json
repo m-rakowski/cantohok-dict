@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "difficult problem",
-      "english": ["dilemma", "problem"],
+      "english": [
+        {
+          "id": "e14rz203",
+          "word": "dilemma",
+          "meaning": "difficult problem",
+          "note": "Use this when the dilemma is being presented mainly as a difficult problem to solve rather than as a choice between alternatives."
+        },
+        {
+          "id": "aepez9i8",
+          "word": "problem",
+          "meaning": "difficulty to solve",
+          "note": "Use this for a particularly difficult or challenging problem."
+        }
+      ],
       "examples": [
         {
           "english": "Meeting this client’s demand for both low cost and speed is a real dilemma.",

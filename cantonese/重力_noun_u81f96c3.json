@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "gravity",
-      "english": ["gravitation", "weight"],
+      "english": [
+        {
+          "id": "mvpv4rrc",
+          "word": "gravitation",
+          "meaning": "force of gravity",
+          "note": "Use this as the all-purpose Cantonese term for gravitational force."
+        },
+        {
+          "id": "h3oou2xv",
+          "word": "weight",
+          "meaning": "force of gravity",
+          "note": "Use this scientific noun for the downward force caused by gravity."
+        }
+      ],
       "examples": [
         {
           "english": "Astronauts feel that gravitation is much weaker when walking on the moon.",

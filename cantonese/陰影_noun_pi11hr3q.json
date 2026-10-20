@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "shade, shadow",
-      "english": ["shade"],
+      "english": [
+        {
+          "id": "6xz11pck",
+          "word": "shade",
+          "meaning": "cool shadow",
+          "note": "This is the all-purpose noun for the dark area created when light is blocked."
+        }
+      ],
       "examples": [
         {
           "english": "There’s a large patch of shade under the tree.",
@@ -17,7 +24,26 @@
     },
     {
       "meaning": "lasting emotional scar",
-      "english": ["trauma", "shadow", "scar"],
+      "english": [
+        {
+          "id": "2exxysji",
+          "word": "trauma",
+          "meaning": "emotional wound",
+          "note": "Use this for the lasting emotional wound or psychological effect of something distressing."
+        },
+        {
+          "id": "qltd3g9e",
+          "word": "shadow",
+          "meaning": "dark cast image",
+          "note": "Use this for a dark projected area, gloom, or an abstract and faint negative remnant rather than the everyday physical 影子."
+        },
+        {
+          "id": "oql2u5z4",
+          "word": "scar",
+          "meaning": "emotional scar",
+          "note": "Use this for a lasting psychological effect or trauma rather than a physical mark."
+        }
+      ],
       "examples": [
         {
           "english": "That fire still leaves a lasting trauma in him.",

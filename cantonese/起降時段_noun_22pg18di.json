@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "airport slot",
-      "english": ["slot"],
+      "english": [
+        {
+          "id": "osk2ijne",
+          "word": "slot",
+          "meaning": "airport slot",
+          "note": "Use this specifically for an airport-allocated aircraft arrival or departure period."
+        }
+      ],
       "examples": [
         {
           "english": "This airport's takeoff-and-landing slot is tight, so even a slight delay won't do.",

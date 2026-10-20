@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "computer freezes",
-      "english": ["freeze", "hang"],
+      "english": [
+        {
+          "id": "rj1gyh2o",
+          "word": "freeze",
+          "meaning": "computer program stops",
+          "register": "colloquial",
+          "note": "Use this when a computer or program suddenly stops responding or working."
+        },
+        {
+          "id": "dy92wjpz",
+          "word": "hang",
+          "meaning": "computer freeze",
+          "register": "colloquial",
+          "note": "Use this for a computer or program that stops responding, or for causing it to freeze."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

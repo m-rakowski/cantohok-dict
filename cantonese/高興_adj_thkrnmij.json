@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "happy, pleased",
-      "english": ["glad", "pleased", "happy"],
+      "english": [
+        {
+          "id": "qgeryqq3",
+          "word": "glad",
+          "meaning": "pleased, happy",
+          "register": "formal",
+          "note": "Use this for a somewhat more formal or emphatic expression of being pleased or happy."
+        },
+        {
+          "id": "x7qtstby",
+          "word": "pleased",
+          "meaning": "happy, content",
+          "note": "Use this for the same happy or pleased feeling, especially in slightly more polished expressions."
+        },
+        {
+          "id": "ks9nroih",
+          "word": "happy",
+          "meaning": "feeling joy/contentment",
+          "note": "Use this for being pleased or glad, especially in response to a particular event, rather than as the general colloquial choice."
+        }
+      ],
       "examples": [
         {
           "english": "I was glad to learn that you succeeded.",

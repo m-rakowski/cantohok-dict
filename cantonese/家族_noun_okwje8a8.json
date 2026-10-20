@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "clan, extended family",
-      "english": ["clan", "family"],
+      "english": [
+        {
+          "id": "xtywzcn3",
+          "word": "clan",
+          "meaning": "family descent group",
+          "note": "This is the all-purpose everyday choice for a group linked by family descent, rather than an ordinary household family."
+        },
+        {
+          "id": "fuuo8hzi",
+          "word": "family",
+          "meaning": "extended relatives",
+          "note": "Use 家族 for an extended, lineage-based, or organized family group such as a crime family."
+        }
+      ],
       "examples": [
         {
           "english": "Our clan has claimed for generations that we are descendants of that general.",

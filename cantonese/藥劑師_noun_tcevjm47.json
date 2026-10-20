@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "pharmacist",
-      "english": ["pharmacist", "chemist"],
+      "english": [
+        {
+          "id": "jwoawh78",
+          "word": "pharmacist",
+          "meaning": "medicines professional",
+          "note": "This is the all-purpose term for a pharmacist as a qualified medicines professional."
+        },
+        {
+          "id": "p1t3p6rv",
+          "word": "chemist",
+          "meaning": "pharmacist",
+          "register": "formal",
+          "note": "Use this for the qualified professional who prepares or dispenses medicines."
+        }
+      ],
       "examples": [
         {
           "english": "I’ll ask the pharmacist whether this medicine can be taken with cold medicine.",

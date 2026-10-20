@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "explanation",
-      "english": ["explanation", "interpretation", "construction"],
+      "english": [
+        {
+          "id": "xa0e1lyl",
+          "word": "explanation",
+          "meaning": "act of explaining",
+          "note": "This is the all-purpose noun for both the act of explaining and an account that makes something understandable."
+        },
+        {
+          "id": "br171rgy",
+          "word": "interpretation",
+          "meaning": "explanation; translation",
+          "note": "This is the all-purpose noun for an explanation or the meaning someone gives to something unclear."
+        },
+        {
+          "id": "sg882nq7",
+          "word": "construction",
+          "meaning": "legal interpretation",
+          "note": "Use this for the interpretation of the meaning of a legal or other authoritative text."
+        }
+      ],
       "examples": [
         {
           "english": "I don't understand this report; can you give me an explanation?",

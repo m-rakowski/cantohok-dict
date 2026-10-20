@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "salary, pay",
-      "english": ["salary", "wage"],
+      "english": [
+        {
+          "id": "v86iets7",
+          "word": "salary",
+          "meaning": "fixed pay",
+          "note": "A speaker uses this as a more neutral or formal alternative when referring to salary as fixed employment income."
+        },
+        {
+          "id": "ycy8dn4l",
+          "word": "wage",
+          "meaning": "worker pay",
+          "note": "Use this when talking about someone’s regular pay in a salary-like context rather than specifically an hourly rate."
+        }
+      ],
       "examples": [
         {
           "english": "The company deposits my salary directly into my bank account on the fifth of every month.",

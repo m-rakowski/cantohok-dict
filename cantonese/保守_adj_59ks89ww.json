@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "conservative, resisting change",
-      "english": ["conservative"],
+      "english": [
+        {
+          "id": "ney1kxd7",
+          "word": "conservative",
+          "meaning": "resisting change",
+          "note": "This is the all-purpose choice for resisting change, political or stylistic conservatism, conservative estimates, and conservative medical treatment; it also describes a cautious amount or a linguistically traditional variety."
+        }
+      ],
       "examples": [
         {
           "english": "I’m always very conservative in the way I do things.",
@@ -17,7 +24,20 @@
     },
     {
       "meaning": "prudish, modest in dress or behaviour",
-      "english": ["puritanical", "modest"],
+      "english": [
+        {
+          "id": "9c68bbk7",
+          "word": "puritanical",
+          "meaning": "very strict, purist",
+          "note": "This is the all-purpose choice for puritanical attitudes about morality, sex, or social behaviour."
+        },
+        {
+          "id": "0vbi2tjp",
+          "word": "modest",
+          "meaning": "sexually modest; conservative",
+          "note": "Use this for conservative clothing, behaviour, or attitudes that avoid encouraging sexual attraction."
+        }
+      ],
       "examples": [
         {
           "english": "His views on relationships are too puritanical, and he is always saying couples should not be intimate.",
@@ -33,7 +53,20 @@
     },
     {
       "meaning": "cautious, playing safe",
-      "english": ["cautious", "pessimistic"],
+      "english": [
+        {
+          "id": "k6mfntwm",
+          "word": "cautious",
+          "meaning": "careful, tentative",
+          "note": "Use this when cautious means avoiding risk or making a tentative, non-committal choice."
+        },
+        {
+          "id": "tb226n7y",
+          "word": "pessimistic",
+          "meaning": "worst-case estimate",
+          "note": "Use this for an estimate or forecast that deliberately allows for the worst case, as in 保守估計."
+        }
+      ],
       "examples": [
         {
           "english": "I want to be cautious with this investment.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "medical profession",
-      "english": ["medicine"],
+      "english": [
+        {
+          "id": "a58h9oo8",
+          "word": "medicine",
+          "meaning": "medical profession",
+          "note": "Use this when medicine means the medical profession or its professional community."
+        }
+      ],
       "examples": [
         {
           "english": "People in medicine have been paying close attention to this new virus recently.",

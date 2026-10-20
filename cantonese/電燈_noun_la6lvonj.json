@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "electric light device",
-      "english": ["lamp"],
+      "english": [
+        {
+          "id": "km2sshlr",
+          "word": "lamp",
+          "meaning": "electric light device",
+          "note": "Use this when you specifically mean an electric lamp or electric light rather than an oil lamp."
+        }
+      ],
       "examples": [
         {
           "english": "After the power came back, the electric lamp lit up and the whole room became bright.",

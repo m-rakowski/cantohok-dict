@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "delivery fee",
-      "english": ["shipping"],
+      "english": [
+        {
+          "id": "9viab9d8",
+          "word": "shipping",
+          "meaning": "delivery fee",
+          "note": "Use this when “shipping” means the amount charged to send an item or package."
+        }
+      ],
       "examples": [
         {
           "english": "How much is the shipping for this shirt I bought online?",

@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "pass away (polite)",
-      "english": ["die", "exit", "pass", "depart"],
+      "english": [
+        {
+          "id": "5xpkro0e",
+          "word": "die",
+          "meaning": "stop living",
+          "note": "Use this respectful euphemism when saying that a person has passed away."
+        },
+        {
+          "id": "093z02q5",
+          "word": "exit",
+          "meaning": "die, euphemistic",
+          "note": "Use this euphemistic expression specifically when saying that someone has died."
+        },
+        {
+          "id": "0w72sjx8",
+          "word": "pass",
+          "meaning": "die",
+          "note": "Use 過身 as the ordinary Cantonese euphemism for someone dying."
+        },
+        {
+          "id": "gigv15fu",
+          "word": "depart",
+          "meaning": "die (euphemistic)",
+          "note": "Use this polite euphemism specifically for a person who has died."
+        }
+      ],
       "examples": [
         {
           "english": "The doctor said he might die soon.",

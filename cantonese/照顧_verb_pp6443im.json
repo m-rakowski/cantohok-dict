@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "look after, take care of",
-      "english": ["nurse", "tend", "care", "attend"],
+      "english": [
+        {
+          "id": "00snfqr5",
+          "word": "nurse",
+          "meaning": "care for medically",
+          "note": "This is the all-purpose verb for caring for someone who is ill or tending something carefully, including a plant."
+        },
+        {
+          "id": "8jqui48h",
+          "word": "tend",
+          "meaning": "look after, care for",
+          "note": "Pick this when tending means looking after a person, especially someone who is ill."
+        },
+        {
+          "id": "l40iwfda",
+          "word": "care",
+          "meaning": "look after",
+          "note": "Use this when care means looking after a person, animal, or thing and meeting its needs."
+        },
+        {
+          "id": "wae6hx4b",
+          "word": "attend",
+          "meaning": "care for, treat",
+          "note": "Use this for caring for someone or attending to and serving a person's needs; it is not the specialized choice for royal escorting or obeying instructions."
+        }
+      ],
       "examples": [
         {
           "english": "I nurse my potted plants every day and don't dare slack off.",

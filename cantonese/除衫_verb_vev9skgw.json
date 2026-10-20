@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "take off clothes",
-      "english": ["undress", "peel"],
+      "english": [
+        {
+          "id": "948ojszu",
+          "word": "undress",
+          "meaning": "remove one's clothes",
+          "note": "This is the all-purpose spoken choice for removing your own clothes."
+        },
+        {
+          "id": "qt6qfefk",
+          "word": "peel",
+          "meaning": "take off clothes",
+          "register": "colloquial",
+          "note": "Use this specifically for taking off clothes, rather than removing a physical outer layer."
+        }
+      ],
       "examples": [
         {
           "english": "I undress and take a shower as soon as I get home.",

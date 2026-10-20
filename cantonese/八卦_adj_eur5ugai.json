@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "gossip-style (news)",
-      "english": ["tabloid"],
+      "english": [
+        {
+          "id": "c2968c0s",
+          "word": "tabloid",
+          "meaning": "sensational journalism style",
+          "note": "This is the all-purpose colloquial choice for gossip-oriented, attention-seeking journalism."
+        }
+      ],
       "examples": [
         {
           "english": "This tabloid news only knows how to sensationalize celebrities' private lives.",
@@ -17,7 +24,21 @@
     },
     {
       "meaning": "nosy, gossipy",
-      "english": ["curious", "messy"],
+      "english": [
+        {
+          "id": "7v0pv6r4",
+          "word": "curious",
+          "meaning": "inquisitive, nosy",
+          "register": "colloquial",
+          "note": "Use this for the negative, nosy sense of being curious about other people’s business."
+        },
+        {
+          "id": "o35cnfa1",
+          "word": "messy",
+          "meaning": "gossipy; drama-causing",
+          "note": "Use this for someone who gossips or fuels interpersonal drama rather than for physical untidiness."
+        }
+      ],
       "examples": [
         {
           "english": "Don't be so curious, always asking how much other people earn.",

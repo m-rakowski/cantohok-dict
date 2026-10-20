@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "to assume, suppose",
-      "english": ["posit", "presuppose", "hypothesize", "say", "suppose"],
+      "english": [
+        {
+          "id": "ukx1hvc5",
+          "word": "posit",
+          "meaning": "assume, postulate",
+          "note": "This is the all-purpose choice for assuming or postulating that something exists or is true."
+        },
+        {
+          "id": "8cpo2frj",
+          "word": "presuppose",
+          "meaning": "assume without proof",
+          "note": "This is the all-purpose choice for assuming something is true in order to reason from it."
+        },
+        {
+          "id": "acec7v97",
+          "word": "hypothesize",
+          "meaning": "make a tentative theory",
+          "note": "Use this when explicitly positing a tentative theory or condition, especially in an academic or analytical context."
+        },
+        {
+          "id": "e7yhhan9",
+          "word": "say",
+          "meaning": "suppose; say",
+          "note": "Use 假設 to introduce an assumption or hypothetical case, rather than to report an actual utterance."
+        },
+        {
+          "id": "qb854il0",
+          "word": "suppose",
+          "meaning": "suppose that; hypothesize",
+          "note": "Use this for a deliberate hypothesis or premise, especially in explanations, mathematics, and formal reasoning."
+        }
+      ],
       "examples": [
         {
           "english": "We can posit that everyone has already received the notice.",

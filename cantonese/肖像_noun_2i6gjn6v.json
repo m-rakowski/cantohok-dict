@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "portrait of a person",
-      "english": ["likeness", "portrayal"],
+      "english": [
+        {
+          "id": "lm62nk7y",
+          "word": "likeness",
+          "meaning": "portrait, image",
+          "register": "written",
+          "note": "Use this for a portrait or depicted image rather than abstract resemblance."
+        },
+        {
+          "id": "zrf3gdb2",
+          "word": "portrayal",
+          "meaning": "representation; description",
+          "register": "formal",
+          "note": "Use this when a portrayal is a visual portrait, especially an image of a person."
+        }
+      ],
       "examples": [
         {
           "english": "A likeness of a famous person is hanging in the museum.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "ill will, malice",
-      "english": ["spite", "malice"],
+      "english": [
+        {
+          "id": "n0xqzx50",
+          "word": "spite",
+          "meaning": "malice, ill will",
+          "note": "This is the all-purpose choice for ill will or a deliberate wish to annoy or thwart someone."
+        },
+        {
+          "id": "a2crlogm",
+          "word": "malice",
+          "meaning": "ill will; harmful intent",
+          "note": "Use this as the all-purpose noun for deliberate harmful intent or ill will."
+        }
+      ],
       "examples": [
         {
           "english": "They deliberately put wrong information in my report out of spite.",

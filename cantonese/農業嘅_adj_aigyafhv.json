@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "relating to agriculture",
-      "english": ["agricultural"],
+      "english": [
+        {
+          "id": "mwr77ger",
+          "word": "agricultural",
+          "meaning": "relating to agriculture",
+          "note": "Use this as the all-purpose attributive way to mean related to agriculture."
+        }
+      ],
       "examples": [
         {
           "english": "This agricultural plan is quite practical.",

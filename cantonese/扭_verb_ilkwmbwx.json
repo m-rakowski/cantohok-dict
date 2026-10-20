@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "twist",
-      "english": ["twist", "wrench"],
+      "english": [
+        {
+          "id": "btetofyk",
+          "word": "twist",
+          "meaning": "turn by twisting",
+          "note": "This is the all-purpose colloquial verb for physically twisting something, including rope, a knob, or material into a shape."
+        },
+        {
+          "id": "ekpewfow",
+          "word": "wrench",
+          "meaning": "pull or twist violently",
+          "note": "Use this when the forceful action is specifically a twisting movement rather than a hard pull."
+        }
+      ],
       "examples": [
         {
           "english": "I twist the bottle cap tight first.",

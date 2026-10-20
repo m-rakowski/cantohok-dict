@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "money in use",
-      "english": ["circulation"],
+      "english": [
+        {
+          "id": "vulbsrlu",
+          "word": "circulation",
+          "meaning": "money in use",
+          "note": "Use this when money or notes are in use or enter general use."
+        }
+      ],
       "examples": [
         {
           "english": "Can this old banknote still be in circulation?",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "light colour",
-      "english": ["white", "light"],
+      "english": [
+        {
+          "id": "4mjz5g2y",
+          "word": "white",
+          "meaning": "pale/light-colored",
+          "note": "Use this for something that is relatively light or pale in colour rather than pure white."
+        },
+        {
+          "id": "gzfz26pr",
+          "word": "light",
+          "meaning": "pale-colored",
+          "note": "Use 淺色 for a pale or light-coloured shade, such as light clothing or light skin colour."
+        }
+      ],
       "examples": [
         {
           "english": "I want to buy the pale white trousers.",

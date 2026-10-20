@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "useless person, wreck",
-      "english": ["cripple", "wreck"],
+      "english": [
+        {
+          "id": "b2ywz8qg",
+          "word": "cripple",
+          "meaning": "mentally or morally impaired person",
+          "register": "colloquial",
+          "note": "Use this derogatory noun for someone regarded as mentally deficient or incapable in a non-physical way."
+        },
+        {
+          "id": "54x6jg7d",
+          "word": "wreck",
+          "meaning": "ruined person or thing",
+          "register": "colloquial",
+          "note": "Use this for a person reduced to being useless or incapable, rather than simply someone who is temporarily distressed."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

@@ -6,7 +6,35 @@
   "boxes": [
     {
       "meaning": "not let, refuse to allow",
-      "english": ["deny", "deprive", "restrict", "ban"],
+      "english": [
+        {
+          "id": "gtdyjfr8",
+          "word": "deny",
+          "meaning": "refuse / reject",
+          "note": "This is the all-purpose spoken choice for denying permission or refusing to give someone something."
+        },
+        {
+          "id": "geenvixs",
+          "word": "deprive",
+          "meaning": "take away from; deny",
+          "register": "colloquial",
+          "note": "Use 唔畀 for the colloquial sense of denying someone access to or use of something."
+        },
+        {
+          "id": "ttxnhjha",
+          "word": "restrict",
+          "meaning": "limit; confine",
+          "register": "colloquial",
+          "note": "Use this when the restriction is expressed as not allowing someone to do something or have something."
+        },
+        {
+          "id": "am9uo4gm",
+          "word": "ban",
+          "meaning": "forbid; prohibit",
+          "register": "colloquial",
+          "note": "Use this colloquially when a person or authority actively refuses to let someone do something or take part."
+        }
+      ],
       "examples": [
         {
           "english": "My boss will deny my request for leave.",

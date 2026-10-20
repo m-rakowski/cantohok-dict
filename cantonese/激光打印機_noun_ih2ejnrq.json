@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "laser printer",
-      "english": ["laser"],
+      "english": [
+        {
+          "id": "zh3huqij",
+          "word": "laser",
+          "meaning": "laser printer",
+          "note": "Use this specifically for a laser printer rather than the laser technology or beam by itself."
+        }
+      ],
       "examples": [
         {
           "english": "My laser printer is out of ink, so it cannot print the document.",

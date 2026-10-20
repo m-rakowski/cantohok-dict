@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "kind, category",
-      "english": ["kind", "class"],
+      "english": [
+        {
+          "id": "jy57gd28",
+          "word": "kind",
+          "meaning": "type; category",
+          "note": "Use this for a more explicitly categorical or grouping-focused type, especially with expressions such as 呢類人."
+        },
+        {
+          "id": "prviz7u6",
+          "word": "class",
+          "meaning": "category, type",
+          "note": "Use 類 as the all-purpose noun for a category or type."
+        }
+      ],
       "examples": [
         {
           "english": "This kind of person is always late.",

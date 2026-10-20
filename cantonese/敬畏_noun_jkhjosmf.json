@@ -6,7 +6,28 @@
   "boxes": [
     {
       "meaning": "awe and respect",
-      "english": ["awe", "reverence", "veneration"],
+      "english": [
+        {
+          "id": "l69qusn2",
+          "word": "awe",
+          "meaning": "fear and reverence",
+          "register": "formal",
+          "note": "Use this for the all-purpose sense of fear mixed with deep respect or reverence."
+        },
+        {
+          "id": "jd9dhhnc",
+          "word": "reverence",
+          "meaning": "deep respect",
+          "note": "Use this when the reverence stresses awe or fear before a deity, sacred power, or something greater than oneself."
+        },
+        {
+          "id": "o4h9sft4",
+          "word": "veneration",
+          "meaning": "deep respect; reverence",
+          "register": "formal",
+          "note": "Use this when the reverence specifically includes awe or fear in the face of someone or something powerful."
+        }
+      ],
       "examples": [
         {
           "english": "We should always approach nature with awe and reverence.",

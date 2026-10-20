@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "legal-scientific investigation",
-      "english": ["forensic"],
+      "english": [
+        {
+          "id": "jzxkedw0",
+          "word": "forensic",
+          "meaning": "legal-scientific investigation",
+          "note": "Use this only for medical or pathology-related work, such as a forensic pathologist, not for forensic work generally."
+        }
+      ],
       "examples": [
         {
           "english": "The forensic pathologist said after examining the body that the victim died of a heart attack.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "something romantic going on between two people",
-      "english": ["thing"],
+      "english": [
+        {
+          "id": "y5bda2o0",
+          "word": "thing",
+          "meaning": "object or concept",
+          "note": "This is the all-purpose colloquial choice for an object, stuff, a creature, an actual phenomenon, a dismissively mentioned situation, or a romantic involvement in 有嘢."
+        }
+      ],
       "note": "Only has this sense in the set phrase 有嘢.",
       "examples": [
         {
@@ -18,7 +25,33 @@
     },
     {
       "meaning": "thing, stuff",
-      "english": ["stuff", "object", "affair", "guy"],
+      "english": [
+        {
+          "id": "adk3lf8q",
+          "word": "stuff",
+          "meaning": "things; matters",
+          "note": "Use 嘢 as the all-purpose casual noun for miscellaneous things, personal effects, unspecified matters, or unnamed material."
+        },
+        {
+          "id": "69221ei6",
+          "word": "object",
+          "meaning": "physical thing",
+          "note": "Use 嘢 as the all-purpose spoken word for a physical, inanimate thing."
+        },
+        {
+          "id": "pb3mu1z2",
+          "word": "affair",
+          "meaning": "thing; object",
+          "register": "colloquial",
+          "note": "Use this for a vaguely named physical object when its exact name is unknown."
+        },
+        {
+          "id": "rfrys4lj",
+          "word": "guy",
+          "meaning": "thing; object",
+          "note": "Use this when guy refers loosely to a thing or object rather than a person."
+        }
+      ],
       "examples": [
         {
           "english": "I left my stuff here.",

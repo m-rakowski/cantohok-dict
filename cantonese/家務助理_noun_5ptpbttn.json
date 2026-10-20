@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "domestic manager / housekeeper",
-      "english": ["housekeeper"],
+      "english": [
+        {
+          "id": "q533mese",
+          "word": "housekeeper",
+          "meaning": "domestic manager / housekeeper",
+          "note": "Use this for a paid household worker who mainly does domestic tasks rather than manages other servants."
+        }
+      ],
       "examples": [
         {
           "english": "I hired a housekeeper to come twice a week to clean and cook for us.",

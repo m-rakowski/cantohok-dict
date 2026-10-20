@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "mourn the dead",
-      "english": ["mourn", "lament"],
+      "english": [
+        {
+          "id": "m50bdk8q",
+          "word": "mourn",
+          "meaning": "grieve over",
+          "register": "formal",
+          "note": "Use this formal verb for mourning or publicly commemorating a deceased person."
+        },
+        {
+          "id": "hgomyjyd",
+          "word": "lament",
+          "meaning": "mourn; wail",
+          "register": "written",
+          "note": "Use this specifically for mourning someone who has died, especially in formal or public contexts."
+        }
+      ],
       "examples": [
         {
           "english": "Citizens gathered at the square to mourn the late singer.",

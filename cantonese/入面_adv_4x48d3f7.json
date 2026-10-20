@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "inside",
-      "english": ["inside", "underneath"],
+      "english": [
+        {
+          "id": "0xagt7sk",
+          "word": "inside",
+          "meaning": "inside, indoors",
+          "note": "Use this as the all-purpose expression for being within a place or object."
+        },
+        {
+          "id": "nb2cf19f",
+          "word": "underneath",
+          "meaning": "below; in a place beneath",
+          "note": "Use this for something worn underneath another item of clothing."
+        }
+      ],
       "examples": [
         {
           "english": "There are lots of photos inside this book.",

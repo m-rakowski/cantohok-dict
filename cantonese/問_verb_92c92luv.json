@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "to ask",
-      "english": ["ask", "question", "query"],
+      "english": [
+        {
+          "id": "bnkmesjk",
+          "word": "ask",
+          "meaning": "request information / answer",
+          "note": "Use 問 as the all-purpose verb for requesting information, putting a question to someone, or checking whether permission is given."
+        },
+        {
+          "id": "g6e54b6y",
+          "word": "question",
+          "meaning": "to ask questions",
+          "note": "This is the all-purpose choice for asking someone questions or seeking information."
+        },
+        {
+          "id": "pfspzwqn",
+          "word": "query",
+          "meaning": "ask a question",
+          "note": "This is the all-purpose choice for asking someone a question."
+        }
+      ],
       "examples": [
         {
           "english": "I want to ask whether you’re free tomorrow.",

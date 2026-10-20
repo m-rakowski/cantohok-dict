@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "abuse, misuse",
-      "english": ["abuse", "exploitation"],
+      "english": [
+        {
+          "id": "b24ha5i0",
+          "word": "abuse",
+          "meaning": "wrongful treatment",
+          "note": "Use this as the all-purpose noun for improper or harmful use of power, rights, or something else."
+        },
+        {
+          "id": "7vtfk3vw",
+          "word": "exploitation",
+          "meaning": "abusive use for gain",
+          "register": "written",
+          "note": "Use this for the improper or selfish use of something, especially in compounds such as 權力濫用."
+        }
+      ],
       "examples": [
         {
           "english": "The abuse of public power can harm citizens' rights.",

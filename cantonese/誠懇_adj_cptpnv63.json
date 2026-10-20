@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "sincere",
-      "english": ["earnest", "sincere"],
+      "english": [
+        {
+          "id": "mon3b9vb",
+          "word": "earnest",
+          "meaning": "serious, sincere",
+          "note": "Use this when earnest emphasizes warm, honest sincerity rather than diligence or a serious manner."
+        },
+        {
+          "id": "ozan2ksh",
+          "word": "sincere",
+          "meaning": "genuine, heartfelt",
+          "note": "Use this for a person's manner, request, apology, or communication that is openly honest and earnest."
+        }
+      ],
       "examples": [
         {
           "english": "They apologized to me with an earnest tone, and I accepted it.",

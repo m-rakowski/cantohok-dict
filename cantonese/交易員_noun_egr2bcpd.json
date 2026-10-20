@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "merchant; one who trades",
-      "english": ["trader"],
+      "english": [
+        {
+          "id": "b5ii9b6j",
+          "word": "trader",
+          "meaning": "merchant; one who trades",
+          "note": "Use this specifically for a professional who trades securities or other financial instruments."
+        }
+      ],
       "examples": [
         {
           "english": "My friend works as a trader at a bank, buying and selling stocks every day.",

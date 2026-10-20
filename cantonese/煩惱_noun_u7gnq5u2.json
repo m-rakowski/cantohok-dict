@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "worry, troubles",
-      "english": ["worry", "unease", "stew", "trouble"],
+      "english": [
+        {
+          "id": "2m535l8z",
+          "word": "worry",
+          "meaning": "anxiety; worry",
+          "note": "This is the all-purpose noun for a troubling feeling or the thing causing it."
+        },
+        {
+          "id": "e02y06xt",
+          "word": "unease",
+          "meaning": "feeling of worry",
+          "note": "Choose this when the unease is experienced as ongoing worry or personal troubles rather than mild disquiet."
+        },
+        {
+          "id": "utnd00fn",
+          "word": "stew",
+          "meaning": "worry or agitation",
+          "note": "Use this when stew means worry or a troubled state, rather than a food dish."
+        },
+        {
+          "id": "ec8fxljb",
+          "word": "trouble",
+          "meaning": "mental distress",
+          "note": "Use this for mental distress, worry, or a troubled state of mind rather than an external problem."
+        }
+      ],
       "examples": [
         {
           "english": "Unemployment is my biggest worry lately.",

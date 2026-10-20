@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "awkward, embarrassing",
-      "english": ["embarrassing", "awkward", "embarrassed"],
+      "english": [
+        {
+          "id": "ikytrhi4",
+          "word": "embarrassing",
+          "meaning": "causing embarrassment",
+          "note": "This is the all-purpose choice for something that makes people feel awkward or self-conscious."
+        },
+        {
+          "id": "gjd9xirw",
+          "word": "awkward",
+          "meaning": "embarrassing or difficult situation",
+          "note": "Use this as the all-purpose choice for an embarrassing or socially uncomfortable situation."
+        },
+        {
+          "id": "40js68qg",
+          "word": "embarrassed",
+          "meaning": "feeling ashamed",
+          "note": "This is the all-purpose choice for feeling ashamed or socially uncomfortable."
+        }
+      ],
       "examples": [
         {
           "english": "It was really embarrassing when he called my name wrong in front of so many people.",

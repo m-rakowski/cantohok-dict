@@ -6,7 +6,50 @@
   "boxes": [
     {
       "meaning": "person, people",
-      "english": ["people", "person", "human", "folk", "guy", "fellow", "soul"],
+      "english": [
+        {
+          "id": "gmbp11ns",
+          "word": "people",
+          "meaning": "humans in general",
+          "note": "This is the all-purpose choice for people or humans in general."
+        },
+        {
+          "id": "sl5iayot",
+          "word": "person",
+          "meaning": "individual human",
+          "note": "This is the all-purpose noun for an individual human, including a person whose gender is unspecified."
+        },
+        {
+          "id": "fdttai27",
+          "word": "human",
+          "meaning": "a human being",
+          "note": "This is the all-purpose choice for an individual human being."
+        },
+        {
+          "id": "ejrhhn9k",
+          "word": "folk",
+          "meaning": "people, folks",
+          "note": "This is the all-purpose choice for people or folks in general."
+        },
+        {
+          "id": "2mz11f6l",
+          "word": "guy",
+          "meaning": "people; you guys",
+          "note": "Use this for the general sense of a person or people rather than specifically a male fellow."
+        },
+        {
+          "id": "vqzbux5r",
+          "word": "fellow",
+          "meaning": "person; individual",
+          "note": "Use this for the generic individual meaning when gender is irrelevant."
+        },
+        {
+          "id": "qi5tp5cn",
+          "word": "soul",
+          "meaning": "a person; a life",
+          "note": "Use this everyday word when “souls” simply means individual people, especially in a count."
+        }
+      ],
       "examples": [
         {
           "english": "People have feelings, and animals do too.",

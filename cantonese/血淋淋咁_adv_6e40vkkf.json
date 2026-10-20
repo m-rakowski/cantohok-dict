@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "in a bloody, gruesome way",
-      "english": ["gruesomely", "luridly"],
+      "english": [
+        {
+          "id": "qg82f9ik",
+          "word": "gruesomely",
+          "meaning": "in a gruesome manner",
+          "note": "This is the all-purpose choice when the manner is graphically bloody or gruesome."
+        },
+        {
+          "id": "jfcthb56",
+          "word": "luridly",
+          "meaning": "sensationally, in shocking detail",
+          "note": "Use this for a gruesomely graphic description, especially of crime, violence, or injury."
+        }
+      ],
       "examples": [
         {
           "english": "The film portrays the battlefield gruesomely, and it makes me very uncomfortable.",

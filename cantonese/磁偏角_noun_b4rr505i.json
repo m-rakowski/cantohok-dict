@@ -6,7 +6,15 @@
   "boxes": [
     {
       "meaning": "magnetic declination",
-      "english": ["declination"],
+      "english": [
+        {
+          "id": "2iaqyjeo",
+          "word": "declination",
+          "meaning": "magnetic declination",
+          "register": "written",
+          "note": "Use this specifically for the angle between magnetic north and true north."
+        }
+      ],
       "register": "written",
       "examples": [
         {

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "to do business",
-      "english": ["trade", "deal"],
+      "english": [
+        {
+          "id": "bl6cx3n4",
+          "word": "trade",
+          "meaning": "do business / trade",
+          "note": "This is the all-purpose colloquial choice for engaging in business or trading goods."
+        },
+        {
+          "id": "aedk99au",
+          "word": "deal",
+          "meaning": "trade in",
+          "note": "Use this when the dealings are commercial, including being in the business of trading a particular product."
+        }
+      ],
       "examples": [
         {
           "english": "We’ve been in the trade for many years.",

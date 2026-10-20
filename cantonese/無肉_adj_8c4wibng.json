@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "meat-free",
-      "english": ["vegetarian"],
+      "english": [
+        {
+          "id": "kt9ftn4q",
+          "word": "vegetarian",
+          "meaning": "meat-free",
+          "note": "Use this when you want to state literally that a food contains no meat, without necessarily calling it vegetarian."
+        }
+      ],
       "examples": [
         {
           "english": "This soup is vegetarian.",

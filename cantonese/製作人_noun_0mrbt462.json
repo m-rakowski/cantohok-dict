@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "producer",
-      "english": ["impresario", "producer"],
+      "english": [
+        {
+          "id": "7waey5go",
+          "word": "impresario",
+          "meaning": "entertainment manager/producer",
+          "note": "Use this for the person responsible for producing a music, theatre, or other entertainment project rather than managing an individual performer."
+        },
+        {
+          "id": "gd0zwo57",
+          "word": "producer",
+          "meaning": "film or music producer",
+          "note": "Use this broad entertainment term for the person behind a film, show, album, game, or other artistic production."
+        }
+      ],
       "examples": [
         {
           "english": "They are the impresario producing this musical and are responsible for the whole show.",

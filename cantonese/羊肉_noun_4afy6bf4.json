@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "lamb or mutton meat",
-      "english": ["lamb", "mutton"],
+      "english": [
+        {
+          "id": "j734yumt",
+          "word": "lamb",
+          "meaning": "lamb meat",
+          "note": "This is the all-purpose Cantonese term when lamb means meat used as food."
+        },
+        {
+          "id": "r9d2hu7w",
+          "word": "mutton",
+          "meaning": "sheep meat",
+          "note": "This is the all-purpose Cantonese term for sheep meat used as food, including the meat of adult sheep."
+        }
+      ],
       "examples": [
         {
           "english": "We’re having lamb in our hot pot tonight.",

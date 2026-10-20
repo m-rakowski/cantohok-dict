@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "railway",
-      "english": ["rail", "railroad", "railway"],
+      "english": [
+        {
+          "id": "g8gu4ez2",
+          "word": "rail",
+          "meaning": "railway/train service",
+          "note": "Use 鐵路 as the all-purpose noun for the railway system or rail transport."
+        },
+        {
+          "id": "te6i0g2s",
+          "word": "railroad",
+          "meaning": "railway system",
+          "note": "This is the all-purpose term for the railway as a transport system; use 路軌 when you mean the physical tracks."
+        },
+        {
+          "id": "nr5kf5ya",
+          "word": "railway",
+          "meaning": "rail transport system",
+          "note": "This is the all-purpose choice for the railway system and, when context is clear, the railway in general."
+        }
+      ],
       "examples": [
         {
           "english": "This rail line goes downtown.",

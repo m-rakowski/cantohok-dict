@@ -6,7 +6,35 @@
   "boxes": [
     {
       "meaning": "infer, conclude from evidence",
-      "english": ["deduce", "infer", "conclude", "derive"],
+      "english": [
+        {
+          "id": "uoxe3yeg",
+          "word": "deduce",
+          "meaning": "infer a conclusion",
+          "register": "formal",
+          "note": "This is the all-purpose verb for reaching a conclusion from facts or reasoning."
+        },
+        {
+          "id": "cuob05wv",
+          "word": "infer",
+          "meaning": "deduce from evidence",
+          "register": "formal",
+          "note": "This is the all-purpose direct equivalent for an explicit, reasoned deduction, especially in careful or written language."
+        },
+        {
+          "id": "uvoiaj5g",
+          "word": "conclude",
+          "meaning": "infer, decide",
+          "note": "Use this when concluding something by reasoning from evidence rather than merely guessing."
+        },
+        {
+          "id": "dkfx4rnt",
+          "word": "derive",
+          "meaning": "deduce",
+          "register": "formal",
+          "note": "Use 推斷 when a conclusion is reached through reasoning rather than simply guessed or received."
+        }
+      ],
       "examples": [
         {
           "english": "Based on the available evidence, we can deduce that he wasn't lying.",

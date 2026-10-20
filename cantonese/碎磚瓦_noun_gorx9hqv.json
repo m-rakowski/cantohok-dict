@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "broken stone debris",
-      "english": ["rubble"],
+      "english": [
+        {
+          "id": "mn8kn8km",
+          "word": "rubble",
+          "meaning": "broken stone debris",
+          "note": "Use this when the rubble specifically consists of broken bricks and roof tiles."
+        }
+      ],
       "examples": [
         {
           "english": "After the demolition, the doorway was piled high with rubble, so nobody could get through.",

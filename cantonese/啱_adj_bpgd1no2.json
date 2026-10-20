@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "correct, right",
-      "english": ["right", "true", "correct"],
+      "english": [
+        {
+          "id": "f6wnx2vt",
+          "word": "right",
+          "meaning": "correct; morally right",
+          "note": "This is the all-purpose colloquial choice for something being correct, morally acceptable, or suitable."
+        },
+        {
+          "id": "jq0dttxa",
+          "word": "true",
+          "meaning": "factually correct",
+          "note": "Use 啱 as the all-purpose choice when something is factually correct, accurate, or the right match."
+        },
+        {
+          "id": "kvn5751n",
+          "word": "correct",
+          "meaning": "free from error",
+          "note": "This is the all-purpose colloquial choice when something is free from error or gives the right answer."
+        }
+      ],
       "examples": [
         {
           "english": "This answer is absolutely right.",
@@ -27,7 +46,47 @@
     },
     {
       "meaning": "suitable, fitting",
-      "english": ["proper", "appropriate", "suitable", "apt", "acceptable", "fit"],
+      "english": [
+        {
+          "id": "mizdjpwc",
+          "word": "proper",
+          "meaning": "suitable; appropriate",
+          "note": "Use this as the all-purpose colloquial choice when something is suitable or appropriate for a purpose or situation."
+        },
+        {
+          "id": "nbk4anwv",
+          "word": "appropriate",
+          "meaning": "suitable, proper",
+          "note": "This is the all-purpose colloquial choice for saying that something is suitable or fits the situation."
+        },
+        {
+          "id": "bdtu7j7s",
+          "word": "suitable",
+          "meaning": "appropriate / fit for purpose",
+          "register": "colloquial",
+          "note": "This is the all-purpose colloquial choice for saying that something is suitable or right for a purpose or occasion."
+        },
+        {
+          "id": "vijvptpb",
+          "word": "apt",
+          "meaning": "suitable; appropriate",
+          "note": "This is the all-purpose colloquial choice for something suitable, appropriate, or fitting."
+        },
+        {
+          "id": "1rcwjk5r",
+          "word": "acceptable",
+          "meaning": "good enough / suitable",
+          "register": "colloquial",
+          "note": "Use this when acceptable means suitable, appropriate, or right for a person or purpose."
+        },
+        {
+          "id": "v2j00jzb",
+          "word": "fit",
+          "meaning": "suitable; proper",
+          "register": "colloquial",
+          "note": "Use 啱 as the everyday adjective for something suitable, proper, or appropriate."
+        }
+      ],
       "examples": [
         {
           "english": "This outfit is proper for meeting clients.",

@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "relative",
-      "english": ["relative", "relation", "folk"],
+      "english": [
+        {
+          "id": "tre18iia",
+          "word": "relative",
+          "meaning": "family member; relation",
+          "note": "This is the all-purpose word for a relative connected by blood, marriage, or adoption."
+        },
+        {
+          "id": "0rlaak3u",
+          "word": "relation",
+          "meaning": "family member",
+          "register": "colloquial",
+          "note": "Use this specifically for a family member or relative, rather than for a general relationship."
+        },
+        {
+          "id": "6godob27",
+          "word": "folk",
+          "meaning": "one’s parents/relatives",
+          "note": "Use this for the non-parent relatives when “folks” means one's extended family."
+        }
+      ],
       "examples": [
         {
           "english": "We visit a relative during Chinese New Year.",

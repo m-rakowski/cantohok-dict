@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "thought or feeling",
-      "english": ["sentiment"],
+      "english": [
+        {
+          "id": "f6hxz58k",
+          "word": "sentiment",
+          "meaning": "thought or feeling",
+          "note": "Use this when sentiment means the feeling or impression someone has, rather than their stated view."
+        }
+      ],
       "examples": [
         {
           "english": "That song left me with a very special sentiment about this memory.",

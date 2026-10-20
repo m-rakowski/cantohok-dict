@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "durable, long-lasting",
-      "english": ["lasting", "enduring"],
+      "english": [
+        {
+          "id": "lwrczdl2",
+          "word": "lasting",
+          "meaning": "long-lasting; enduring",
+          "note": "Use this specifically for products or materials that remain usable after prolonged use."
+        },
+        {
+          "id": "50x48nvw",
+          "word": "enduring",
+          "meaning": "long-lasting",
+          "note": "Use this for physical objects that remain usable for a long time without wearing out."
+        }
+      ],
       "examples": [
         {
           "english": "This phone case is lasting enough to survive years of use.",

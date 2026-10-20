@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "gift/contribution for a cause",
-      "english": ["donation"],
+      "english": [
+        {
+          "id": "hrpp2ccz",
+          "word": "donation",
+          "meaning": "gift/contribution for a cause",
+          "note": "Use 善款 specifically for money donated to a charitable or public-welfare cause."
+        }
+      ],
       "examples": [
         {
           "english": "This donation will be used to help families in need.",

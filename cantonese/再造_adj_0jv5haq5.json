@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "made from recycled material",
-      "english": ["recycled"],
+      "english": [
+        {
+          "id": "kpoj1frg",
+          "word": "recycled",
+          "meaning": "made from recycled material",
+          "note": "This is the all-purpose choice for materials that have been processed and made into new products, such as 再造紙."
+        }
+      ],
       "examples": [
         {
           "english": "This recycled paper feels almost like ordinary paper.",

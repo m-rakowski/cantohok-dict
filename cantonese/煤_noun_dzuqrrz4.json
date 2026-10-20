@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "coal (fuel rock)",
-      "english": ["coal"],
+      "english": [
+        {
+          "id": "ngdhucet",
+          "word": "coal",
+          "meaning": "coal (fuel rock)",
+          "note": "This is the all-purpose noun for coal as a fuel rock."
+        }
+      ],
       "examples": [
         {
           "english": "Trains used to burn coal.",

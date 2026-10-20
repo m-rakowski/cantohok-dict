@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "foolish act",
-      "english": ["buffoonery", "madness"],
+      "english": [
+        {
+          "id": "yp1ab867",
+          "word": "buffoonery",
+          "meaning": "foolish, silly behavior",
+          "note": "Use this as the all-purpose noun for foolish or silly acts and behavior."
+        },
+        {
+          "id": "mitb0ord",
+          "word": "madness",
+          "meaning": "foolishness",
+          "note": "Use this when “madness” means a foolish or rash thing someone does, rather than a mental illness."
+        }
+      ],
       "examples": [
         {
           "english": "Your constant buffoonery is really giving me a headache.",

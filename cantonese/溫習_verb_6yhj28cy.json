@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "revise for exams",
-      "english": ["revise", "review"],
+      "english": [
+        {
+          "id": "v4qz7n8v",
+          "word": "revise",
+          "meaning": "study again for an exam",
+          "note": "Use this for studying material again, especially when preparing for an exam."
+        },
+        {
+          "id": "6g09nvnr",
+          "word": "review",
+          "meaning": "study; revise for exam",
+          "note": "Use this for looking over previously learned material in preparation for an exam."
+        }
+      ],
       "examples": [
         {
           "english": "I have an exam tomorrow, so I need to revise now.",

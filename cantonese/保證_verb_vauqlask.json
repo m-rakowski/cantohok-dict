@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "to guarantee, promise",
-      "english": ["guarantee", "assure", "promise"],
+      "english": [
+        {
+          "id": "7aoua0m6",
+          "word": "guarantee",
+          "meaning": "promise or assure",
+          "note": "This is the all-purpose choice for promising or assuring something and for saying that an outcome is certain."
+        },
+        {
+          "id": "rkomjadx",
+          "word": "assure",
+          "meaning": "make sure; secure",
+          "note": "Use this as the all-purpose choice for guaranteeing an outcome or explicitly assuring someone that something is true."
+        },
+        {
+          "id": "19v8x22b",
+          "word": "promise",
+          "meaning": "promise, commit",
+          "note": "Use this when the promise is emphatic and carries the force of a guarantee."
+        }
+      ],
       "examples": [
         {
           "english": "I guarantee I can hand in the report tomorrow.",

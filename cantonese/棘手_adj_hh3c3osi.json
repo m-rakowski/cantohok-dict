@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "tricky, hard to deal with",
-      "english": ["hairy", "bothersome"],
+      "english": [
+        {
+          "id": "lgyoszv1",
+          "word": "hairy",
+          "meaning": "difficult, tricky",
+          "note": "Use this for a difficult, complicated problem or situation rather than one that is primarily frightening."
+        },
+        {
+          "id": "q3p3dgfv",
+          "word": "bothersome",
+          "meaning": "annoying; troublesome",
+          "note": "Use this for a bothersome matter because it is difficult or awkward to deal with."
+        }
+      ],
       "examples": [
         {
           "english": "This customer complaint is pretty hairy.",

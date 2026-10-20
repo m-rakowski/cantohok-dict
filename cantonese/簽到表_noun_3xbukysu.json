@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "record of who is present",
-      "english": ["attendance"],
+      "english": [
+        {
+          "id": "3y9dil10",
+          "word": "attendance",
+          "meaning": "record of who is present",
+          "note": "Use this for a physical or digital sign-in sheet used to record attendance."
+        }
+      ],
       "examples": [
         {
           "english": "Remember to sign your name on the attendance sheet at the entrance.",

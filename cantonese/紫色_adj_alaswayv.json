@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "purple",
-      "english": ["purple", "violet"],
+      "english": [
+        {
+          "id": "iukugjjq",
+          "word": "purple",
+          "meaning": "purple-coloured",
+          "note": "This is the all-purpose term for something that is purple-coloured."
+        },
+        {
+          "id": "tetyijri",
+          "word": "violet",
+          "meaning": "violet-coloured",
+          "note": "This is the all-purpose everyday choice for describing something as violet-coloured."
+        }
+      ],
       "examples": [
         {
           "english": "This shirt is purple.",

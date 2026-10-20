@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "to investigate",
-      "english": ["investigate", "research"],
+      "english": [
+        {
+          "id": "jzbpu523",
+          "word": "investigate",
+          "meaning": "look into, inquire into",
+          "note": "Use this for a deliberate or systematic inquiry into facts, causes, or a case."
+        },
+        {
+          "id": "6fhaqd6g",
+          "word": "research",
+          "meaning": "do research",
+          "note": "Use this for a systematic investigation or fact-finding exercise rather than general study of a subject."
+        }
+      ],
       "examples": [
         {
           "english": "The police will thoroughly investigate what happened.",

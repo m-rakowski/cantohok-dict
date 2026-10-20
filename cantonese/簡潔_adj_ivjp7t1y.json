@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "concise, clean and simple",
-      "english": ["taut", "elegant"],
+      "english": [
+        {
+          "id": "17nc1t6w",
+          "word": "taut",
+          "meaning": "tight, concise style",
+          "note": "Use this for writing, music, or methods that are concise and contain no unnecessary parts."
+        },
+        {
+          "id": "hxtcpbni",
+          "word": "elegant",
+          "meaning": "clever, elegant solution",
+          "note": "Use this for an elegant solution when the emphasis is minimalism and lack of unnecessary complexity."
+        }
+      ],
       "examples": [
         {
           "english": "This article is taut, with not a single unnecessary sentence.",

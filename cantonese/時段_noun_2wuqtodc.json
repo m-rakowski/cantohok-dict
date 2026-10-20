@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "time slot, period",
-      "english": ["session", "slot"],
+      "english": [
+        {
+          "id": "gpaxm2h4",
+          "word": "session",
+          "meaning": "period for activity",
+          "note": "Use 時段 as the all-purpose noun for a period set aside for an activity such as counseling."
+        },
+        {
+          "id": "zh0es7w9",
+          "word": "slot",
+          "meaning": "time slot",
+          "note": "This is the all-purpose choice for a scheduled period of time."
+        }
+      ],
       "examples": [
         {
           "english": "We have a counseling session this afternoon.",

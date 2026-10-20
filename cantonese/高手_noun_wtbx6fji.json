@@ -6,7 +6,47 @@
   "boxes": [
     {
       "meaning": "expert, highly skilled person",
-      "english": ["expert", "master", "virtuoso", "pro", "wizard", "elite"],
+      "english": [
+        {
+          "id": "qae9ke3j",
+          "word": "expert",
+          "meaning": "expert person",
+          "register": "colloquial",
+          "note": "Use this for someone exceptionally skilled, especially in a practical activity, game, or specialized ability."
+        },
+        {
+          "id": "diiutd7b",
+          "word": "master",
+          "meaning": "expert / highly skilled person",
+          "note": "Use this as the everyday all-purpose noun for someone highly skilled at a subject or activity."
+        },
+        {
+          "id": "2bb07uga",
+          "word": "virtuoso",
+          "meaning": "virtuoso performer",
+          "note": "This is the all-purpose colloquial choice for someone exceptionally skilled, including a virtuoso performer."
+        },
+        {
+          "id": "60a0b24c",
+          "word": "pro",
+          "meaning": "professional",
+          "register": "colloquial",
+          "note": "Use this for someone exceptionally skilled at an activity, especially in an informal evaluation, rather than simply someone whose job is professional."
+        },
+        {
+          "id": "ed3k5ptx",
+          "word": "wizard",
+          "meaning": "expert at something",
+          "note": "Use this when “wizard” means someone exceptionally skilled in a particular field."
+        },
+        {
+          "id": "7uj2q049",
+          "word": "elite",
+          "meaning": "top performer",
+          "register": "colloquial",
+          "note": "Use this colloquial noun for someone highly skilled at a particular task or activity."
+        }
+      ],
       "examples": [
         {
           "english": "Ming is a real expert at gaming.",

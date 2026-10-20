@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "next door, beside",
-      "english": ["next-door", "adjoining"],
+      "english": [
+        {
+          "id": "7wzbtxhq",
+          "word": "next-door",
+          "meaning": "adjacent, immediately beside",
+          "note": "This is the all-purpose spoken Cantonese choice for a building or place immediately beside another."
+        },
+        {
+          "id": "31gbftde",
+          "word": "adjoining",
+          "meaning": "next to; touching",
+          "note": "Use this as the all-purpose colloquial choice for something next to something else, without necessarily saying that the two things touch."
+        }
+      ],
       "examples": [
         {
           "english": "I live in the next-door building.",

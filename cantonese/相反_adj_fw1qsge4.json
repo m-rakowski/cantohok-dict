@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "opposite, contrary",
-      "english": ["contrary", "antithetical", "opposite", "contradictory"],
+      "english": [
+        {
+          "id": "dfs61ef5",
+          "word": "contrary",
+          "meaning": "opposite; in opposition",
+          "note": "This is the all-purpose choice for things that are opposite or opposed, including directions."
+        },
+        {
+          "id": "mj1eqmk4",
+          "word": "antithetical",
+          "meaning": "contrary; opposed",
+          "note": "This is the all-purpose choice for ideas, beliefs, or positions that are contrary or opposite."
+        },
+        {
+          "id": "odqgwz9p",
+          "word": "opposite",
+          "meaning": "contrary, very different",
+          "note": "This is the all-purpose choice for things that are contrary or extremely different."
+        },
+        {
+          "id": "tsytsr27",
+          "word": "contradictory",
+          "meaning": "opposed to",
+          "note": "Use this when one thing is directly opposite to another, such as an idea being contrary to common sense."
+        }
+      ],
       "examples": [
         {
           "english": "Their opinions are completely contrary.",

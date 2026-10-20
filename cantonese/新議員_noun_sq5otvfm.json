@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "first-year student",
-      "english": ["freshman"],
+      "english": [
+        {
+          "id": "lcmk1wen",
+          "word": "freshman",
+          "meaning": "first-year student",
+          "note": "Use this only for a legislator serving their first term in a legislative body."
+        }
+      ],
       "examples": [
         {
           "english": "That freshman legislator spoke in the legislature for the first time.",

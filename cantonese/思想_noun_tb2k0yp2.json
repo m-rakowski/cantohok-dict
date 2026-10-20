@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "thinking, set of ideas and beliefs",
-      "english": ["ideology", "thought"],
+      "english": [
+        {
+          "id": "6mtlze1a",
+          "word": "ideology",
+          "meaning": "belief system",
+          "note": "Use this as the everyday, broad choice for a person or group’s guiding beliefs and ideas."
+        },
+        {
+          "id": "wxh0t1v0",
+          "word": "thought",
+          "meaning": "school of thought",
+          "register": "formal",
+          "note": "Use this for an organized or characteristic system of thought associated with a group, culture, or region."
+        }
+      ],
       "examples": [
         {
           "english": "Our family's ideology has always emphasized taking responsibility.",

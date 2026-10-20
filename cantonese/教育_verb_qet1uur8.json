@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "educate",
-      "english": ["edify", "educate"],
+      "english": [
+        {
+          "id": "oieqc14q",
+          "word": "edify",
+          "meaning": "instruct morally or intellectually",
+          "note": "Use this as the all-purpose verb for educating or improving someone morally or intellectually."
+        },
+        {
+          "id": "jsum2eyb",
+          "word": "educate",
+          "meaning": "instruct or train",
+          "register": "formal",
+          "note": "Use this for the broader or more formal process of educating people, especially about social or academic topics."
+        }
+      ],
       "examples": [
         {
           "english": "Parents shouldn't just scold their children; they should also edify them about how to behave.",

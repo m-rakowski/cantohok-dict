@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "game piece",
-      "english": ["piece"],
+      "english": [
+        {
+          "id": "4mhdh8gr",
+          "word": "piece",
+          "meaning": "chess piece",
+          "note": "Use 棋子 for a piece used in chess or another board game."
+        }
+      ],
       "examples": [
         {
           "english": "This piece can capture the opponent's rook.",
@@ -17,7 +24,14 @@
     },
     {
       "meaning": "person used as a pawn",
-      "english": ["tool"],
+      "english": [
+        {
+          "id": "zkdk7416",
+          "word": "tool",
+          "meaning": "instrument of control",
+          "note": "Use this figuratively for a person or group manipulated by someone else, equivalent to a pawn."
+        }
+      ],
       "examples": [
         {
           "english": "Each of them is just a tool in someone else’s hands.",

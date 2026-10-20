@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "sense of hearing",
-      "english": ["hearing", "ear"],
+      "english": [
+        {
+          "id": "477z0jkd",
+          "word": "hearing",
+          "meaning": "sense of sound",
+          "note": "Use this as the all-purpose noun for the sensory faculty of hearing."
+        },
+        {
+          "id": "shopee87",
+          "word": "ear",
+          "meaning": "sense of hearing",
+          "note": "Use 聽覺 for the hearing faculty or perception of sound, rather than the body part."
+        }
+      ],
       "examples": [
         {
           "english": "My hearing isn't as good as before.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "sentence in court",
-      "english": ["sentence", "condemn"],
+      "english": [
+        {
+          "id": "18infn0j",
+          "word": "sentence",
+          "meaning": "to sentence someone",
+          "note": "This is the all-purpose Cantonese verb for a court sentencing someone to punishment."
+        },
+        {
+          "id": "8m6btq0n",
+          "word": "condemn",
+          "meaning": "sentence to punishment",
+          "note": "Use this specifically when a court sentences someone to a punishment."
+        }
+      ],
       "examples": [
         {
           "english": "The judge will sentence him only after hearing both sides.",

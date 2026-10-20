@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "bound printed pages",
-      "english": ["book"],
+      "english": [
+        {
+          "id": "ogm2uawy",
+          "word": "book",
+          "meaning": "bound printed pages",
+          "note": "This is the all-purpose rendering for a physical book or a published work such as a novel or textbook."
+        }
+      ],
       "examples": [
         {
           "english": "This book is really good.",

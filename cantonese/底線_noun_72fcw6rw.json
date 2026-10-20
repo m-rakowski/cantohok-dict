@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "underline",
-      "english": ["underline"],
+      "english": [
+        {
+          "id": "ahzk6p7e",
+          "word": "underline",
+          "meaning": "line under text",
+          "note": "This is the all-purpose noun for a line placed under text for emphasis, italics, or a hyperlink."
+        }
+      ],
       "examples": [
         {
           "english": "Adding an underline to this text makes it easier to see that it is a key point.",
@@ -17,7 +24,15 @@
     },
     {
       "meaning": "bottom line, lowest limit",
-      "english": ["minimum"],
+      "english": [
+        {
+          "id": "tmuf7qjd",
+          "word": "minimum",
+          "meaning": "lowest limit",
+          "register": "colloquial",
+          "note": "Use this for the lowest acceptable boundary, especially a personal, practical, or negotiable limit."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

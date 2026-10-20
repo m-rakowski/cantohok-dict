@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "unwise",
-      "english": ["unwise", "foolish"],
+      "english": [
+        {
+          "id": "sust4ly8",
+          "word": "unwise",
+          "meaning": "lacking wisdom",
+          "note": "This is the all-purpose everyday choice for an unwise decision, action, or person."
+        },
+        {
+          "id": "d5qfqtxj",
+          "word": "foolish",
+          "meaning": "foolish action",
+          "register": "formal",
+          "note": "Use 唔明智 especially for a decision, plan, or action that is unwise rather than for a person's general stupidity."
+        }
+      ],
       "examples": [
         {
           "english": "Quitting your job to travel now is really unwise.",

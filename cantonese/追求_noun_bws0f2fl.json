@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "pursuit of a goal or ideal",
-      "english": ["pursuit", "quest"],
+      "english": [
+        {
+          "id": "9n963b0d",
+          "word": "pursuit",
+          "meaning": "the act of pursuing",
+          "note": "Use this as the all-purpose noun for pursuing an aim, especially an abstract goal such as wealth or happiness."
+        },
+        {
+          "id": "6j5i31dp",
+          "word": "quest",
+          "meaning": "long goal-seeking mission",
+          "note": "Use this for sustained pursuit of an ideal, goal, or desired result, including a quest aimed at a goal rather than a concrete search."
+        }
+      ],
       "examples": [
         {
           "english": "The pursuit of happiness is my lifelong goal.",
@@ -22,7 +35,14 @@
     },
     {
       "meaning": "romantic attention, courtship",
-      "english": ["attention"],
+      "english": [
+        {
+          "id": "vqaj5vgr",
+          "word": "attention",
+          "meaning": "courtesy or romantic attentions",
+          "note": "Use this for someone's romantic attentions, meaning courtship or pursuit."
+        }
+      ],
       "examples": [
         {
           "english": "They pursued me for a month, and I quite enjoyed the attention.",

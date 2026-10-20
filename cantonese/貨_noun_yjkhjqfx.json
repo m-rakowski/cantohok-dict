@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "goods, merchandise",
-      "english": ["goods", "wares"],
+      "english": [
+        {
+          "id": "imd2tz2m",
+          "word": "goods",
+          "meaning": "merchandise",
+          "register": "colloquial",
+          "note": "This is the all-purpose colloquial word for goods or merchandise."
+        },
+        {
+          "id": "es4zxymw",
+          "word": "wares",
+          "meaning": "goods for sale",
+          "register": "colloquial",
+          "note": "This is the all-purpose colloquial choice for goods being sold, especially a vendor’s stock."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

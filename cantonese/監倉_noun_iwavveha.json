@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "jail, prison",
-      "english": ["prison", "joint"],
+      "english": [
+        {
+          "id": "qbtixxln",
+          "word": "prison",
+          "meaning": "jail, prison",
+          "register": "colloquial",
+          "note": "A Hong Kong speaker uses this colloquial word for the jail itself, especially in casual speech."
+        },
+        {
+          "id": "507cgxof",
+          "word": "joint",
+          "meaning": "jail, prison",
+          "register": "colloquial",
+          "note": "Use this for the prison or jail sense, especially in colloquial speech."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "will, would",
-      "english": ["will", "would", "shall"],
+      "english": [
+        {
+          "id": "p0pxuztp",
+          "word": "will",
+          "meaning": "future auxiliary",
+          "note": "Use 會 as the all-purpose future auxiliary for future events or intentions."
+        },
+        {
+          "id": "f0vcihpc",
+          "word": "would",
+          "meaning": "conditional would",
+          "note": "Use 會 as the all-purpose choice for a future result viewed from the past, a conditional result, repeated past actions with a past-time context, advice in the pattern 如果我係你我會, and likely or expected outcomes."
+        },
+        {
+          "id": "spaaim50",
+          "word": "shall",
+          "meaning": "future auxiliary (I/we)",
+          "note": "Use 會 as the all-purpose way to express a future action in the first person."
+        }
+      ],
       "examples": [
         {
           "english": "I will go to work earlier tomorrow.",

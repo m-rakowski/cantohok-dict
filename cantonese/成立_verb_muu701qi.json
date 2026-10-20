@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "set up, found",
-      "english": ["establish", "found", "institute", "constitute"],
+      "english": [
+        {
+          "id": "1mr0kr7u",
+          "word": "establish",
+          "meaning": "found; set up",
+          "note": "Use this as the all-purpose choice for founding or setting up an organization, institution, or business."
+        },
+        {
+          "id": "f991ho19",
+          "word": "found",
+          "meaning": "establish, start institution",
+          "note": "Use this as the all-purpose verb for establishing an institution or organization."
+        },
+        {
+          "id": "07ka05pd",
+          "word": "institute",
+          "meaning": "found; start",
+          "note": "Use this when institute means to establish or found an organization, institution, or company."
+        },
+        {
+          "id": "gpxrdif7",
+          "word": "constitute",
+          "meaning": "establish; enact",
+          "note": "Use this for setting up an organization, company, committee, or similar body."
+        }
+      ],
       "examples": [
         {
           "english": "We plan to establish this company.",

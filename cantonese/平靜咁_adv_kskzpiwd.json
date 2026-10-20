@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "calmly, peacefully",
-      "english": ["peacefully", "placidly"],
+      "english": [
+        {
+          "id": "xtscciro",
+          "word": "peacefully",
+          "meaning": "in a peaceful manner",
+          "note": "This is the all-purpose choice for doing something in a calm, peaceful way."
+        },
+        {
+          "id": "ma48m7hk",
+          "word": "placidly",
+          "meaning": "calmly; quietly",
+          "note": "This is the all-purpose choice for doing something calmly and without agitation."
+        }
+      ],
       "examples": [
         {
           "english": "I talked things through with him peacefully.",

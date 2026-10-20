@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "sales promotion",
-      "english": ["promotion"],
+      "english": [
+        {
+          "id": "vf8p6sw2",
+          "word": "promotion",
+          "meaning": "sales promotion",
+          "note": "Use this when the promotion mainly means a discount or special offer to customers."
+        }
+      ],
       "examples": [
         {
           "english": "This shop is running a promotion: buy two items and get one free.",

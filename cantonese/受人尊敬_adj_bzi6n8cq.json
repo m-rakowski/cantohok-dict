@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "respected by others",
-      "english": ["respected", "exalted"],
+      "english": [
+        {
+          "id": "m3qwk8se",
+          "word": "respected",
+          "meaning": "worthy of respect",
+          "note": "This is the all-purpose choice for a person who is widely respected by others."
+        },
+        {
+          "id": "io8xms58",
+          "word": "exalted",
+          "meaning": "praised, honored",
+          "note": "Use this when the emphasis is specifically on being honored or respected by other people."
+        }
+      ],
       "examples": [
         {
           "english": "They have always been respected by the neighbors.",

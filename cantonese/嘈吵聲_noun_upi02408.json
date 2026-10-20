@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "loud, annoying noise",
-      "english": ["racket", "cry", "row"],
+      "english": [
+        {
+          "id": "seoqxrr8",
+          "word": "racket",
+          "meaning": "loud noise",
+          "note": "This is the everyday noun for a loud, bothersome noise."
+        },
+        {
+          "id": "moqvfwdw",
+          "word": "cry",
+          "meaning": "outcry; uproar",
+          "note": "Use this for the noise or clamour of a general uproar, not for one person’s shout."
+        },
+        {
+          "id": "ewomub4g",
+          "word": "row",
+          "meaning": "loud noise",
+          "register": "colloquial",
+          "note": "Use 嘈吵聲 for an ongoing loud or annoying noise when there is no argument involved."
+        }
+      ],
       "examples": [
         {
           "english": "The racket here is so loud I can't read.",

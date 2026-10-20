@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "extreme",
-      "english": ["extreme", "desperate", "far"],
+      "english": [
+        {
+          "id": "uwdtrbum",
+          "word": "extreme",
+          "meaning": "very intense",
+          "note": "Use 極端 as the all-purpose choice for abstract reactions, policies, or situations that go far beyond normal."
+        },
+        {
+          "id": "5686qrvf",
+          "word": "desperate",
+          "meaning": "reckless, extreme measures",
+          "note": "Use this before a noun when desperate refers to extreme measures or an extreme attempt."
+        },
+        {
+          "id": "0otfruj5",
+          "word": "far",
+          "meaning": "extreme side",
+          "note": "Use this for a position or viewpoint at the extreme rather than near the middle, such as the far right politically."
+        }
+      ],
       "examples": [
         {
           "english": "This policy is really extreme and has left many people unable to accept it.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "snack",
-      "english": ["snack", "treat"],
+      "english": [
+        {
+          "id": "5m5y6fn8",
+          "word": "snack",
+          "meaning": "food between meals",
+          "note": "This is the all-purpose choice for food eaten between meals, especially packaged or small snack foods."
+        },
+        {
+          "id": "pl88j70k",
+          "word": "treat",
+          "meaning": "snack / sweet treat",
+          "note": "Use this as the all-purpose word for a snack or sweet treat, but not specifically one made for pets."
+        }
+      ],
       "examples": [
         {
           "english": "I usually have a snack in the afternoon.",

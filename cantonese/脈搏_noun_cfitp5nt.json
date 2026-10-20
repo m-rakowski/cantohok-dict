@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "heartbeat in arteries",
-      "english": ["pulse"],
+      "english": [
+        {
+          "id": "q5exdcfi",
+          "word": "pulse",
+          "meaning": "heartbeat in arteries",
+          "note": "This is the all-purpose choice for the physical pulse and its measured rate."
+        }
+      ],
       "examples": [
         {
           "english": "The nurse checked my pulse and said it was quite normal.",

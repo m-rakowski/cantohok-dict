@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "to crack open, to split",
-      "english": ["splinter", "gape", "split", "crack"],
+      "english": [
+        {
+          "id": "xyk090dr",
+          "word": "splinter",
+          "meaning": "split into shards",
+          "note": "This is the all-purpose choice for a solid object coming apart into sharp fragments, especially wood."
+        },
+        {
+          "id": "30yehlth",
+          "word": "gape",
+          "meaning": "open wide; gape open",
+          "note": "Use this when something such as a wound or crack has split open and leaves a visible gap."
+        },
+        {
+          "id": "pfavpoky",
+          "word": "split",
+          "meaning": "break apart",
+          "note": "Use this when something physically splits or cracks open, including wood splitting along its grain."
+        },
+        {
+          "id": "9k37nd4z",
+          "word": "crack",
+          "meaning": "form cracks",
+          "note": "Use 裂開 when something develops a crack or splits apart under stress."
+        }
+      ],
       "examples": [
         {
           "english": "The wooden board began to splinter under the weight of the heavy object.",

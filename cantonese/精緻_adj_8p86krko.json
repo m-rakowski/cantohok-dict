@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "exquisite, delicately made",
-      "english": ["exquisite", "gourmet"],
+      "english": [
+        {
+          "id": "8z2ohdqo",
+          "word": "exquisite",
+          "meaning": "exceptionally fine or beautiful",
+          "note": "This is the all-purpose choice for exceptionally fine food, objects, or delicate workmanship, and for something delicate or exact."
+        },
+        {
+          "id": "su49jqxo",
+          "word": "gourmet",
+          "meaning": "high-quality; gourmet",
+          "note": "Use this for gourmet food or cooking when stressing refinement and careful preparation rather than price or status."
+        }
+      ],
       "examples": [
         {
           "english": "This handmade ceramic piece is exquisite.",

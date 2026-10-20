@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "pedestrian",
-      "english": ["pedestrian", "walker"],
+      "english": [
+        {
+          "id": "j884wxng",
+          "word": "pedestrian",
+          "meaning": "pedestrian; walker",
+          "note": "This is the all-purpose choice for a person walking on foot, especially in contrast with someone using a vehicle."
+        },
+        {
+          "id": "ivz85qkt",
+          "word": "walker",
+          "meaning": "person who walks",
+          "note": "This is the all-purpose choice for a pedestrian or person walking in a public place."
+        }
+      ],
       "examples": [
         {
           "english": "That pedestrian was almost hit by a car while crossing the road.",

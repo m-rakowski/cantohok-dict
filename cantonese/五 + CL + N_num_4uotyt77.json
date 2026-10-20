@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "five of something",
-      "english": ["five"],
+      "english": [
+        {
+          "id": "p1q8i4j1",
+          "word": "five",
+          "meaning": "five of something",
+          "note": "Use this when counting five items, choosing the appropriate classifier for CL."
+        }
+      ],
       "examples": [
         {
           "english": "I bought five books.",

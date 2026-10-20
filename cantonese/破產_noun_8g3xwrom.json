@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "bankruptcy",
-      "english": ["bankruptcy", "failure"],
+      "english": [
+        {
+          "id": "tch4g3pq",
+          "word": "bankruptcy",
+          "meaning": "legal insolvency",
+          "note": "This is the all-purpose term for a person or company being legally insolvent or filing for bankruptcy."
+        },
+        {
+          "id": "1p90zieo",
+          "word": "failure",
+          "meaning": "bankruptcy",
+          "note": "Use this when failure specifically means bankruptcy or becoming unable to pay debts."
+        }
+      ],
       "examples": [
         {
           "english": "His company finally filed for bankruptcy.",

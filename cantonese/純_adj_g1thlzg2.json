@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "pure, not mixed with anything",
-      "english": ["pure", "unadulterated", "net", "absolute"],
+      "english": [
+        {
+          "id": "mrl0rxj4",
+          "word": "pure",
+          "meaning": "flawless; unsullied",
+          "note": "This is the all-purpose choice for something genuinely pure, unadulterated, or unsullied."
+        },
+        {
+          "id": "6lucut7a",
+          "word": "unadulterated",
+          "meaning": "pure; not mixed",
+          "note": "This is the all-purpose choice for something pure and not mixed with anything else."
+        },
+        {
+          "id": "0fch4il9",
+          "word": "net",
+          "meaning": "net, pure",
+          "note": "This is the all-purpose choice for a substance that is pure or unadulterated, such as wine."
+        },
+        {
+          "id": "5m1wtrnv",
+          "word": "absolute",
+          "meaning": "pure; unmixed",
+          "note": "Use this for a substance that is pure and unmixed, especially in everyday descriptions."
+        }
+      ],
       "examples": [
         {
           "english": "This is pure honey.",
@@ -32,7 +57,15 @@
     },
     {
       "meaning": "perfect (musical interval)",
-      "english": ["perfect"],
+      "english": [
+        {
+          "id": "giwrt7j5",
+          "word": "perfect",
+          "meaning": "perfect interval",
+          "register": "written",
+          "note": "Use this in the technical musical names of perfect intervals, such as 純五度."
+        }
+      ],
       "register": "written",
       "examples": [
         {

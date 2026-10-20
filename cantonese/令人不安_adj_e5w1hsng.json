@@ -6,7 +6,28 @@
   "boxes": [
     {
       "meaning": "unsettling, uneasy",
-      "english": ["disquieting", "unsettling", "unnerving"],
+      "english": [
+        {
+          "id": "zq1a7z8u",
+          "word": "disquieting",
+          "meaning": "upsetting; causing unease",
+          "register": "written",
+          "note": "This is the all-purpose choice for something that upsets people or makes them feel uneasy."
+        },
+        {
+          "id": "l8cytoae",
+          "word": "unsettling",
+          "meaning": "causing unease",
+          "register": "formal",
+          "note": "Use this for the same general meaning in more formal or written contexts."
+        },
+        {
+          "id": "a9nh1h8m",
+          "word": "unnerving",
+          "meaning": "causing fear or loss of confidence",
+          "note": "Use this when the situation creates a persistent feeling of unease rather than immediate fear."
+        }
+      ],
       "examples": [
         {
           "english": "This news is disquieting and kept everyone awake all night.",

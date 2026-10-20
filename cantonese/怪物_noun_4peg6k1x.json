@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "monster",
-      "english": ["monster", "creature"],
+      "english": [
+        {
+          "id": "7vog014f",
+          "word": "monster",
+          "meaning": "terrifying creature",
+          "note": "This is the all-purpose choice for a terrifying imaginary or fictional creature."
+        },
+        {
+          "id": "2xligaos",
+          "word": "creature",
+          "meaning": "mysterious animal",
+          "note": "Use this for a mysterious or monstrous creature rather than an ordinary animal."
+        }
+      ],
       "examples": [
         {
           "english": "The monster in that movie is really scary.",

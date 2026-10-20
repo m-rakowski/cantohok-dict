@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "engine compression stroke",
-      "english": ["compression"],
+      "english": [
+        {
+          "id": "vhmao5zn",
+          "word": "compression",
+          "meaning": "engine compression stroke",
+          "note": "Use this specifically for the compression stroke in an internal-combustion engine."
+        }
+      ],
       "examples": [
         {
           "english": "This engine is currently in the compression stroke.",

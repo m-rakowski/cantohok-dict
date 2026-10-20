@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "shopper who only looks",
-      "english": ["browser"],
+      "english": [
+        {
+          "id": "83ohv0tc",
+          "word": "browser",
+          "meaning": "shopper who only looks",
+          "note": "Use this for a shopper who looks at goods but does not buy anything."
+        }
+      ],
       "examples": [
         {
           "english": "He's a browser who never buys; even after asking the price, he won't place an order.",

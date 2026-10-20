@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "to perform outstandingly",
-      "english": ["impress", "shine"],
+      "english": [
+        {
+          "id": "023v3ypk",
+          "word": "impress",
+          "meaning": "seem impressive",
+          "note": "Use this when someone impresses by performing exceptionally well, especially in a game or public performance."
+        },
+        {
+          "id": "z7xh18xl",
+          "word": "shine",
+          "meaning": "excel; stand out",
+          "note": "Use this when a person shines by performing exceptionally well."
+        }
+      ],
       "examples": [
         {
           "english": "They did impress everyone by performing excellently in the game.",

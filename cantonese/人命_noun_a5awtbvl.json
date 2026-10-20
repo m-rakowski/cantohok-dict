@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "human life",
-      "english": ["life", "soul"],
+      "english": [
+        {
+          "id": "hvh1ngej",
+          "word": "life",
+          "meaning": "a person's life",
+          "note": "Use this when counting, losing, or saving individual human or animal lives."
+        },
+        {
+          "id": "9ha9w3vt",
+          "word": "soul",
+          "meaning": "a person; a life",
+          "note": "Use this when the sense focuses on individual human lives, especially lives lost or at risk."
+        }
+      ],
       "examples": [
         {
           "english": "When fighting the fire, the priority is to save human life.",

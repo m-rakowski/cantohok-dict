@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "cancer treatment with drugs",
-      "english": ["chemotherapy"],
+      "english": [
+        {
+          "id": "b4vxrgn4",
+          "word": "chemotherapy",
+          "meaning": "cancer treatment with drugs",
+          "note": "This is the all-purpose Cantonese term for cancer treatment with drugs."
+        }
+      ],
       "examples": [
         {
           "english": "The doctor said I have to start chemotherapy next month.",

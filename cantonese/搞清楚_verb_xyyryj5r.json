@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "figure out, make clear",
-      "english": ["determine", "clear"],
+      "english": [
+        {
+          "id": "l7no5n56",
+          "word": "determine",
+          "meaning": "find out; ascertain",
+          "note": "This is the all-purpose choice when you figure something out or establish the facts."
+        },
+        {
+          "id": "45lpk0n0",
+          "word": "clear",
+          "meaning": "clarify / resolve",
+          "register": "colloquial",
+          "note": "Use this when you clarify a matter or resolve uncertainty, rather than physically removing something."
+        }
+      ],
       "examples": [
         {
           "english": "I still haven't been able to determine why this happened.",

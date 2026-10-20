@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "leakage; outflow",
-      "english": ["escape"],
+      "english": [
+        {
+          "id": "au2exunx",
+          "word": "escape",
+          "meaning": "leakage; outflow",
+          "note": "Use this specifically for leakage of electric current through faulty insulation."
+        }
+      ],
       "examples": [
         {
           "english": "There is an electrical escape from the air conditioner; touching it could shock you, so be careful.",

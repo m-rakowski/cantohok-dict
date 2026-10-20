@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "patient's health status",
-      "english": ["condition"],
+      "english": [
+        {
+          "id": "t1lgur64",
+          "word": "condition",
+          "meaning": "patient's health status",
+          "note": "Use 病情 for a patient's medical condition when focusing on the illness, its severity, or its course."
+        }
+      ],
       "examples": [
         {
           "english": "The doctor says your condition is stable now.",

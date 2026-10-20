@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "time at the hour",
-      "english": ["o'clock"],
+      "english": [
+        {
+          "id": "pd9k1zud",
+          "word": "o'clock",
+          "meaning": "time at the hour",
+          "note": "This is the all-purpose way to say a numeral followed by “o’clock,” such as 六點鐘."
+        }
+      ],
       "examples": [
         {
           "english": "We’ll meet at the MTR station at six o'clock.",

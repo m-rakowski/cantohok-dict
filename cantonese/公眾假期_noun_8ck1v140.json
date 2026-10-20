@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "official public holiday",
-      "english": ["holiday"],
+      "english": [
+        {
+          "id": "pkz9h10q",
+          "word": "holiday",
+          "meaning": "official public holiday",
+          "note": "Use 公眾假期 specifically for an official day off declared for the general public."
+        }
+      ],
       "examples": [
         {
           "english": "Tomorrow is a public holiday, so we don't have to work.",

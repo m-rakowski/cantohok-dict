@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "formal speech",
-      "english": ["address", "speech"],
+      "english": [
+        {
+          "id": "wwkzb5uf",
+          "word": "address",
+          "meaning": "speech to audience",
+          "register": "formal",
+          "note": "Use 演說 for a formal speech or address delivered to an audience."
+        },
+        {
+          "id": "eyvqhck9",
+          "word": "speech",
+          "meaning": "formal talk; speech",
+          "register": "formal",
+          "note": "Use this for a formal public speech or extended oral address, unlike ordinary 講話."
+        }
+      ],
       "register": "formal",
       "examples": [
         {

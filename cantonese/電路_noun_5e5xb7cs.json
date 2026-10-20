@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "electric circuit",
-      "english": ["circuit", "circuitry"],
+      "english": [
+        {
+          "id": "5hpvrwc5",
+          "word": "circuit",
+          "meaning": "electric circuit",
+          "note": "This is the all-purpose term for an enclosed path carrying electric current."
+        },
+        {
+          "id": "mrybnrvm",
+          "word": "circuitry",
+          "meaning": "device electrical circuits",
+          "note": "Use this as the all-purpose term for the circuits or circuitry in an electrical device."
+        }
+      ],
       "examples": [
         {
           "english": "This circuit is broken, so the machine won't turn on.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "gathering, assembly, rally",
-      "english": ["assembly", "rally"],
+      "english": [
+        {
+          "id": "m80dhtzb",
+          "word": "assembly",
+          "meaning": "gathering",
+          "note": "Use this as the all-purpose noun for a purposeful gathering of people, including a school assembly."
+        },
+        {
+          "id": "1exxbxnf",
+          "word": "rally",
+          "meaning": "protest rally",
+          "note": "This is the all-purpose choice for a public campaign or protest gathering."
+        }
+      ],
       "examples": [
         {
           "english": "There’s a school assembly tomorrow, so remember to come back early.",

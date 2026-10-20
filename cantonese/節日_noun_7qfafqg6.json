@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "festival, holiday",
-      "english": ["festival", "feast", "holiday", "day"],
+      "english": [
+        {
+          "id": "snedh5ce",
+          "word": "festival",
+          "meaning": "feast day",
+          "note": "This is the all-purpose choice for a feast day or ordinary holiday, rather than a named arts event."
+        },
+        {
+          "id": "07fnm7nu",
+          "word": "feast",
+          "meaning": "religious holiday/festival",
+          "note": "Use this when “feast” means a holiday or festival, especially a religious one, rather than a meal."
+        },
+        {
+          "id": "ydk2raug",
+          "word": "holiday",
+          "meaning": "religious or festival day",
+          "note": "Use 節日 for a religious or traditional festival day rather than a period of time off work."
+        },
+        {
+          "id": "iwvk001e",
+          "word": "day",
+          "meaning": "holiday day",
+          "note": "Use 節日 for a holiday or festival observed on a particular day."
+        }
+      ],
       "examples": [
         {
           "english": "Lunar New Year is one of the most important festival days for people in Hong Kong.",

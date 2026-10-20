@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "to express, to convey",
-      "english": ["express", "convey", "articulate", "voice", "speak"],
+      "english": [
+        {
+          "id": "1928wg6q",
+          "word": "express",
+          "meaning": "say / communicate clearly",
+          "note": "Use this as the all-purpose verb for conveying feelings, ideas, or messages."
+        },
+        {
+          "id": "j8po3790",
+          "word": "convey",
+          "meaning": "communicate, express",
+          "note": "Use 表達 as the all-purpose choice for conveying an impression, feeling, or idea."
+        },
+        {
+          "id": "1towyn68",
+          "word": "articulate",
+          "meaning": "explain/put into words",
+          "note": "Use this as the all-purpose choice for expressing an idea clearly or putting a thought into words."
+        },
+        {
+          "id": "ltn8isyz",
+          "word": "voice",
+          "meaning": "express in words",
+          "note": "Choose this when the emphasis is on expressing a sentiment, view, or position rather than simply saying it aloud."
+        },
+        {
+          "id": "r7j0h6ms",
+          "word": "speak",
+          "meaning": "communicate nonverbally",
+          "note": "Use this when something communicates or expresses a fact or feeling through writing, behaviour, facial expression, or another non-oral means."
+        }
+      ],
       "examples": [
         {
           "english": "I don't know how to express my feelings.",

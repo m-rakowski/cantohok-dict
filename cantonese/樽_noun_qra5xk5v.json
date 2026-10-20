@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "bottle, jar",
-      "english": ["bottle", "jar", "flask"],
+      "english": [
+        {
+          "id": "roceohsk",
+          "word": "bottle",
+          "meaning": "drinking container",
+          "note": "This is the all-purpose spoken word for a bottle and can also mean a bottleful in phrases such as 一樽啤酒."
+        },
+        {
+          "id": "02wi1si2",
+          "word": "jar",
+          "meaning": "small storage jar",
+          "note": "This is the all-purpose Cantonese noun for a jar or similar container."
+        },
+        {
+          "id": "shku93gl",
+          "word": "flask",
+          "meaning": "general narrow-necked container",
+          "note": "This is the all-purpose colloquial word for a general narrow-necked container, rather than a laboratory or drinking-specific flask."
+        }
+      ],
       "examples": [
         {
           "english": "There’s a bottle of iced lemon tea on the table.",

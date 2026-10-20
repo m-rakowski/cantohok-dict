@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "in person",
-      "english": ["personally"],
+      "english": [
+        {
+          "id": "afvmyw0h",
+          "word": "personally",
+          "meaning": "in person",
+          "note": "Use this when someone does something in person rather than sending somebody else."
+        }
+      ],
       "examples": [
         {
           "english": "This time, you need to personally explain it to the client.",

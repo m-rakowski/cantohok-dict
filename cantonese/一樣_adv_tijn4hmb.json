@@ -6,7 +6,33 @@
   "boxes": [
     {
       "meaning": "in the same way",
-      "english": ["same", "alike", "similarly", "likewise"],
+      "english": [
+        {
+          "id": "rvfqizp9",
+          "word": "same",
+          "meaning": "equally; unchanged",
+          "note": "This is the all-purpose choice for doing something in the same way or to the same extent, including “love them all the same.”"
+        },
+        {
+          "id": "do2y4kgh",
+          "word": "alike",
+          "meaning": "equally, alike",
+          "note": "This is the all-purpose spoken choice when people or things act, feel, or are affected in the same way or to the same degree."
+        },
+        {
+          "id": "q4mesyrg",
+          "word": "similarly",
+          "meaning": "in a similar way",
+          "register": "colloquial",
+          "note": "This is the all-purpose colloquial choice for saying that someone does something in a similar way."
+        },
+        {
+          "id": "p5m0dk81",
+          "word": "likewise",
+          "meaning": "similarly / in the same way",
+          "note": "Use 一樣 for doing something in the same way as someone or something previously mentioned."
+        }
+      ],
       "examples": [
         {
           "english": "I love my two sons the same.",

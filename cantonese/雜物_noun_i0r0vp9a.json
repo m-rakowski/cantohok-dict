@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "miscellaneous odds and ends, clutter",
-      "english": ["junk", "ephemera", "clutter"],
+      "english": [
+        {
+          "id": "vxj5v99m",
+          "word": "junk",
+          "meaning": "miscellaneous worthless things",
+          "note": "This is the all-purpose noun for miscellaneous unwanted physical things, especially household clutter."
+        },
+        {
+          "id": "j6bbsfxx",
+          "word": "ephemera",
+          "meaning": "collectible throwaway items",
+          "note": "Use this as the all-purpose choice for miscellaneous collectible throwaway objects, including packaging and cheap publications."
+        },
+        {
+          "id": "hh9bsdm4",
+          "word": "clutter",
+          "meaning": "mess; disordered pile",
+          "note": "Use this for miscellaneous objects cluttering a room or space, especially when the objects rather than the disorder are the focus."
+        }
+      ],
       "examples": [
         {
           "english": "The room at home is piled up with junk.",

@@ -6,7 +6,28 @@
   "boxes": [
     {
       "meaning": "generally, widely",
-      "english": ["widely", "commonly", "generally"],
+      "english": [
+        {
+          "id": "yex9kicc",
+          "word": "widely",
+          "meaning": "generally; to a large extent",
+          "note": "Use this when something is common or generally true across people or cases, rather than as a discourse opener."
+        },
+        {
+          "id": "n6xrt14l",
+          "word": "commonly",
+          "meaning": "usually; as a rule",
+          "register": "written",
+          "note": "Use this mainly when ‘commonly’ means generally or widely shared, rather than habitually usually."
+        },
+        {
+          "id": "uz7axpml",
+          "word": "generally",
+          "meaning": "widely known",
+          "register": "written",
+          "note": "Use 普遍 mainly before verbs such as 認為 to say that a view or fact is widely held or known."
+        }
+      ],
       "examples": [
         {
           "english": "This illness is widely found among older people.",

@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "useless, lame",
-      "english": ["gay", "useless"],
+      "english": [
+        {
+          "id": "oqcqv1d4",
+          "word": "gay",
+          "meaning": "bad, lame",
+          "register": "colloquial",
+          "note": "Use this for something considered lame, useless, uncool, or generally bad."
+        },
+        {
+          "id": "tlo702ck",
+          "word": "useless",
+          "meaning": "bad at a task",
+          "register": "colloquial",
+          "note": "Use this colloquial adjective for a person who is good-for-nothing or bad at a particular activity."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

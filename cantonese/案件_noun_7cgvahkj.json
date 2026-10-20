@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "legal/police case",
-      "english": ["case"],
+      "english": [
+        {
+          "id": "vx2bzic3",
+          "word": "case",
+          "meaning": "legal/police case",
+          "note": "Use this for a defined police, professional, or legal matter, including a lawsuit or prosecution."
+        }
+      ],
       "examples": [
         {
           "english": "This case is still being investigated.",

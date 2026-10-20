@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "structure of a system or organization",
-      "english": ["structure", "architecture"],
+      "english": [
+        {
+          "id": "5i1nr4mu",
+          "word": "structure",
+          "meaning": "organization / arrangement",
+          "note": "Use 架構 for an abstract, organizational, or system framework rather than a physical object."
+        },
+        {
+          "id": "rdpj7ijp",
+          "word": "architecture",
+          "meaning": "system design",
+          "note": "Use this for the structure or design of a system, product, or software system."
+        }
+      ],
       "examples": [
         {
           "english": "The structure of this system still needs changing.",

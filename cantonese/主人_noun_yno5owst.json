@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "host of guests",
-      "english": ["host"],
+      "english": [
+        {
+          "id": "0r7d5jlg",
+          "word": "host",
+          "meaning": "person who receives guests",
+          "note": "This is the all-purpose noun for a person who receives or entertains guests."
+        }
+      ],
       "examples": [
         {
           "english": "I’m the host tonight—please join me for dinner.",
@@ -17,7 +24,20 @@
     },
     {
       "meaning": "owner of a pet",
-      "english": ["owner", "master"],
+      "english": [
+        {
+          "id": "2b9fr2jz",
+          "word": "owner",
+          "meaning": "person who owns something",
+          "note": "Use this mainly for the owner of a pet or animal, rather than for an ordinary object."
+        },
+        {
+          "id": "p1ezywyj",
+          "word": "master",
+          "meaning": "owner of animal or slave",
+          "note": "Use this for the owner of an animal, or historically for a person who owns or controls a slave."
+        }
+      ],
       "examples": [
         {
           "english": "The dog rushes over as soon as it sees its owner.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "focused, paying attention",
-      "english": ["attentive", "intent"],
+      "english": [
+        {
+          "id": "fsmglmbe",
+          "word": "attentive",
+          "meaning": "paying attention",
+          "note": "Use this as the all-purpose choice when someone is focused on listening, watching, or doing something."
+        },
+        {
+          "id": "u8sxd3n3",
+          "word": "intent",
+          "meaning": "focused on",
+          "note": "This is the all-purpose choice when someone is focused on something or engrossed in it."
+        }
+      ],
       "examples": [
         {
           "english": "You need to be attentive and listen carefully in class.",

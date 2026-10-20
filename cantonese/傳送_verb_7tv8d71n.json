@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "to send or transmit",
-      "english": ["transmit", "convey"],
+      "english": [
+        {
+          "id": "bxvp0gol",
+          "word": "transmit",
+          "meaning": "send or convey",
+          "note": "Use this as the all-purpose choice for sending something such as data, a message, or an object from one place or person to another."
+        },
+        {
+          "id": "vizsstcd",
+          "word": "convey",
+          "meaning": "carry/transport",
+          "note": "Use 傳送 when something such as sound, data, or a signal is transmitted from one place to another."
+        }
+      ],
       "examples": [
         {
           "english": "I’ll transmit the photo to you by phone.",

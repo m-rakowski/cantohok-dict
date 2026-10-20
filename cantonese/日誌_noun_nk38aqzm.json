@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "log, daily record",
-      "english": ["log", "journal"],
+      "english": [
+        {
+          "id": "8mxf1x5n",
+          "word": "log",
+          "meaning": "record or log file",
+          "register": "written",
+          "note": "Use this for a vessel's logbook or a chronological computer and activity log."
+        },
+        {
+          "id": "jnevvl64",
+          "word": "journal",
+          "meaning": "diary / daily record",
+          "register": "written",
+          "note": "Use this for an organizational, work, vessel, or other log rather than a personal diary."
+        }
+      ],
       "register": "written",
       "examples": [
         {

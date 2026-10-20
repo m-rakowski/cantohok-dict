@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "faint, pass out",
-      "english": ["faint", "collapse"],
+      "english": [
+        {
+          "id": "mtbv9y0e",
+          "word": "faint",
+          "meaning": "pass out",
+          "register": "colloquial",
+          "note": "Use this as the all-purpose colloquial verb for someone actually fainting or passing out."
+        },
+        {
+          "id": "gsqskk0z",
+          "word": "collapse",
+          "meaning": "collapse/faint",
+          "register": "colloquial",
+          "note": "Use 暈低 when someone passes out and falls because of exhaustion, illness, or a similar cause."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

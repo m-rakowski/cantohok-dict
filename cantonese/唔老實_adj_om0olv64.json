@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "dishonest",
-      "english": ["dishonest", "false"],
+      "english": [
+        {
+          "id": "vabyivrp",
+          "word": "dishonest",
+          "meaning": "not honest; fraudulent",
+          "note": "This is the all-purpose choice for a person who is not honest or for dishonest conduct."
+        },
+        {
+          "id": "foyeh9jx",
+          "word": "false",
+          "meaning": "lying; dishonest",
+          "note": "Use this of a person who lies or behaves dishonestly, rather than of a merely incorrect statement."
+        }
+      ],
       "examples": [
         {
           "english": "They lie all the time; they’re really dishonest.",

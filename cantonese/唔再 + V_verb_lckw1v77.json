@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "no longer do, stop doing",
-      "english": ["cease", "quit"],
+      "english": [
+        {
+          "id": "nf444yj0",
+          "word": "cease",
+          "meaning": "stop doing something",
+          "register": "colloquial",
+          "note": "Use this when someone no longer does an activity, especially in everyday speech."
+        },
+        {
+          "id": "wvjmxm9m",
+          "word": "quit",
+          "meaning": "stop doing",
+          "note": "Use this as the all-purpose spoken way to say that someone will no longer do an activity."
+        }
+      ],
       "examples": [
         {
           "english": "They cease smoking after the doctor warns them.",

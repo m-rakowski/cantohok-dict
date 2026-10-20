@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "moody, ruled by emotions",
-      "english": ["moody", "emotional"],
+      "english": [
+        {
+          "id": "djo7s1zp",
+          "word": "moody",
+          "meaning": "changeable temper",
+          "note": "For the changeable-temper sense, 情緒化 is the all-purpose choice for someone whose mood or reactions change easily."
+        },
+        {
+          "id": "hkh91o07",
+          "word": "emotional",
+          "meaning": "sensitive to emotions",
+          "note": "Choose this when someone is being ruled by feelings or is easily affected and may react irrationally."
+        }
+      ],
       "examples": [
         {
           "english": "They are very moody; the slightest thing can suddenly make them angry or happy.",

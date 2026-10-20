@@ -6,7 +6,33 @@
   "boxes": [
     {
       "meaning": "mess up, throw into disorder",
-      "english": ["disrupt", "unsettle", "mess", "tumble"],
+      "english": [
+        {
+          "id": "fnz9j5vb",
+          "word": "disrupt",
+          "meaning": "throw into disorder",
+          "note": "This is the all-purpose choice when someone or something throws a situation into confusion or disorder."
+        },
+        {
+          "id": "4swbgbjz",
+          "word": "unsettle",
+          "meaning": "disorder or disturb",
+          "note": "Use this when something is physically or organizationally put into disorder rather than when someone is made uneasy."
+        },
+        {
+          "id": "n8q9i5rt",
+          "word": "mess",
+          "meaning": "ruin; mess up",
+          "note": "Use this when the emphasis is on putting something into disorder rather than completely ruining it."
+        },
+        {
+          "id": "ggq0v53c",
+          "word": "tumble",
+          "meaning": "muss or rumple",
+          "register": "colloquial",
+          "note": "Use this when something is made messy or disordered, such as a bed or someone's hair."
+        }
+      ],
       "examples": [
         {
           "english": "This heavy rain can disrupt our whole itinerary.",
@@ -32,7 +58,15 @@
     },
     {
       "meaning": "mix up, mistake one for another",
-      "english": ["confuse"],
+      "english": [
+        {
+          "id": "n6mui4fo",
+          "word": "confuse",
+          "meaning": "mix up, mistake for",
+          "register": "colloquial",
+          "note": "Use this when someone mixes up or mistakes one person or thing for another."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

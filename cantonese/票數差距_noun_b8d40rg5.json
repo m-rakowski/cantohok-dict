@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "vote or seat majority",
-      "english": ["majority"],
+      "english": [
+        {
+          "id": "u7qadeaf",
+          "word": "majority",
+          "meaning": "vote or seat majority",
+          "note": "Use this for an election majority expressed as the difference in votes between candidates or sides."
+        }
+      ],
       "examples": [
         {
           "english": "The majority in this election was only 300 votes.",

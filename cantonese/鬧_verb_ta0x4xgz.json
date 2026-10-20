@@ -6,7 +6,47 @@
   "boxes": [
     {
       "meaning": "scold",
-      "english": ["scold", "rebuke", "revile", "reproach", "snap", "roast"],
+      "english": [
+        {
+          "id": "jq6ossud",
+          "word": "scold",
+          "meaning": "rebuke angrily",
+          "note": "This is the all-purpose colloquial verb for angrily scolding someone."
+        },
+        {
+          "id": "b304e65m",
+          "word": "rebuke",
+          "meaning": "criticise harshly; reprove",
+          "register": "colloquial",
+          "note": "This is the all-purpose colloquial choice for angrily scolding or sharply criticising someone."
+        },
+        {
+          "id": "qfvz7be0",
+          "word": "revile",
+          "meaning": "attack with abuse",
+          "note": "This is the all-purpose colloquial choice for attacking someone with abusive language."
+        },
+        {
+          "id": "qkz6kweh",
+          "word": "reproach",
+          "meaning": "criticize; rebuke",
+          "register": "colloquial",
+          "note": "Use this for a sharp or angry rebuke, especially when someone is being scolded."
+        },
+        {
+          "id": "mh9nk1t8",
+          "word": "snap",
+          "meaning": "speak sharply",
+          "note": "Use this when the sharp speech is directed at someone as a scolding."
+        },
+        {
+          "id": "dfov1a6u",
+          "word": "roast",
+          "meaning": "scold harshly",
+          "register": "colloquial",
+          "note": "Use this when someone is being vigorously scolded rather than mocked."
+        }
+      ],
       "examples": [
         {
           "english": "Don't scold me again.",

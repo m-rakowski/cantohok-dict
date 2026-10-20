@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "factory",
-      "english": ["factory", "plant"],
+      "english": [
+        {
+          "id": "ad1zet6m",
+          "word": "factory",
+          "meaning": "manufacturing place",
+          "note": "This is the all-purpose noun for a building or place where manufacturing takes place."
+        },
+        {
+          "id": "51p4sb0m",
+          "word": "plant",
+          "meaning": "factory",
+          "note": "Use this for a factory or production facility, especially one described as being in a particular country or location."
+        }
+      ],
       "examples": [
         {
           "english": "This factory mainly manufactures electronic components.",

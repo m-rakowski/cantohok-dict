@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "have no money, broke",
-      "english": ["penniless", "broken"],
+      "english": [
+        {
+          "id": "au1eheum",
+          "word": "penniless",
+          "meaning": "completely without money",
+          "note": "This is the all-purpose colloquial choice when someone has no money available, with the context supplying the absolute sense."
+        },
+        {
+          "id": "42vatfjd",
+          "word": "broken",
+          "meaning": "broke; no money",
+          "note": "Use this when “broken” means having no money or being broke."
+        }
+      ],
       "examples": [
         {
           "english": "I'm penniless today, so I can't afford the bus.",

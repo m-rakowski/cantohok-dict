@@ -6,7 +6,15 @@
   "boxes": [
     {
       "meaning": "inject liquid",
-      "english": ["inject"],
+      "english": [
+        {
+          "id": "prkjfok1",
+          "word": "inject",
+          "meaning": "put liquid in",
+          "register": "colloquial",
+          "note": "Use this when physically forcing or pumping a liquid into a vessel, cavity, or passage."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {
@@ -18,7 +26,14 @@
     },
     {
       "meaning": "drive in, hammer in",
-      "english": ["sink"],
+      "english": [
+        {
+          "id": "3ljl597s",
+          "word": "sink",
+          "meaning": "push in; sink in",
+          "note": "Use this when something is driven or pushed into another thing, such as a nail into wood."
+        }
+      ],
       "examples": [
         {
           "english": "They used a hammer to sink the nail into the board.",

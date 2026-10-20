@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "make or become smaller",
-      "english": ["shrink", "diminish", "downsize"],
+      "english": [
+        {
+          "id": "svf10r0m",
+          "word": "shrink",
+          "meaning": "make smaller",
+          "note": "Use 縮細 as the all-purpose verb for making something smaller or becoming smaller."
+        },
+        {
+          "id": "vpvasq2o",
+          "word": "diminish",
+          "meaning": "make smaller",
+          "note": "This is the all-purpose choice when something physically becomes smaller or is made smaller."
+        },
+        {
+          "id": "nh1wpzlo",
+          "word": "downsize",
+          "meaning": "reduce size or amount",
+          "note": "Use this specifically when what is being reduced is physical size, such as moving to a smaller home."
+        }
+      ],
       "examples": [
         {
           "english": "Shrink the picture a little so it fits in the frame.",

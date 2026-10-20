@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "era, period of time",
-      "english": ["era", "day"],
+      "english": [
+        {
+          "id": "t9yrbnea",
+          "word": "era",
+          "meaning": "time period",
+          "note": "Use this for an era viewed through its years or as a named historical period, such as the 1960s."
+        },
+        {
+          "id": "vswumetk",
+          "word": "day",
+          "meaning": "time; era",
+          "note": "Use 年代 for an era or period associated with a person, thing, or historical time."
+        }
+      ],
       "examples": [
         {
           "english": "The 1980s era saw many new trends take off.",

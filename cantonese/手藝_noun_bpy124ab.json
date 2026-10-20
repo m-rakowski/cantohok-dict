@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "craft skill",
-      "english": ["artistry", "skill"],
+      "english": [
+        {
+          "id": "ohpa900g",
+          "word": "artistry",
+          "meaning": "artistic skill",
+          "note": "Use this when the artistry is specifically practical or craft-based skill, such as making or decorating things."
+        },
+        {
+          "id": "7cwdnsab",
+          "word": "skill",
+          "meaning": "ability; technique",
+          "note": "Use this for a learned craft or manual skill, such as cooking, sewing, or carpentry."
+        }
+      ],
       "examples": [
         {
           "english": "This craftsman's artistry in making wooden furniture is top-notch.",

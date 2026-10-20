@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "release energy or substances",
-      "english": ["liberate"],
+      "english": [
+        {
+          "id": "stnyp5c5",
+          "word": "liberate",
+          "meaning": "set free; release",
+          "note": "Use this for a more formal or general release, especially when a substance or energy is released."
+        }
+      ],
       "examples": [
         {
           "english": "This reaction will liberate a lot of heat.",
@@ -17,7 +24,15 @@
     },
     {
       "meaning": "release someone from custody",
-      "english": ["free"],
+      "english": [
+        {
+          "id": "huupsyq8",
+          "word": "free",
+          "meaning": "release; set free",
+          "register": "formal",
+          "note": "Use this formal term in legal, official, or written contexts for releasing someone from custody or captivity."
+        }
+      ],
       "register": "formal",
       "examples": [
         {

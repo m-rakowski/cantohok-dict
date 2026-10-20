@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "a series of things",
-      "english": ["series", "succession", "cascade", "chain"],
+      "english": [
+        {
+          "id": "g06kbcki",
+          "word": "series",
+          "meaning": "sequence of things",
+          "note": "Use this as the all-purpose choice for a connected sequence or succession of things, especially events."
+        },
+        {
+          "id": "abass1gx",
+          "word": "succession",
+          "meaning": "sequence of things",
+          "note": "Use this as the all-purpose noun for a series of things or events."
+        },
+        {
+          "id": "90xumfbw",
+          "word": "cascade",
+          "meaning": "flowing mass of items",
+          "note": "Use this for a sequence or stream of things, especially when the falling or cascading image is not the main point."
+        },
+        {
+          "id": "t2m64ofo",
+          "word": "chain",
+          "meaning": "chain of things",
+          "note": "Use this for a connected series of events or things, rather than a literal metal chain."
+        }
+      ],
       "examples": [
         {
           "english": "A series of strange things happened recently.",

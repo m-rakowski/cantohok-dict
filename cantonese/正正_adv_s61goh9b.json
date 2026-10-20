@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "exactly, precisely",
-      "english": ["exactly", "precisely"],
+      "english": [
+        {
+          "id": "zqbah9x9",
+          "word": "exactly",
+          "meaning": "precisely",
+          "note": "This is the all-purpose choice for precise identification or for stressing that something is exactly so."
+        },
+        {
+          "id": "06fftmza",
+          "word": "precisely",
+          "meaning": "exactly; accurately",
+          "note": "This is the all-purpose spoken choice for exactness and emphatic focus, especially before the thing being highlighted."
+        }
+      ],
       "examples": [
         {
           "english": "This is exactly the answer I wanted.",

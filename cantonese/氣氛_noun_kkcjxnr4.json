@@ -6,7 +6,56 @@
   "boxes": [
     {
       "meaning": "atmosphere, mood",
-      "english": ["atmosphere", "tone", "mood", "climate", "milieu", "energy", "air", "vibration"],
+      "english": [
+        {
+          "id": "xe9m2zqm",
+          "word": "atmosphere",
+          "meaning": "mood of a place",
+          "note": "Use this for the mood created by the surroundings, such as music, lighting, or decoration."
+        },
+        {
+          "id": "007fzy4j",
+          "word": "tone",
+          "meaning": "mood or atmosphere",
+          "note": "Use this for the general mood or vibe of a place, event, or situation rather than someone's wording."
+        },
+        {
+          "id": "15kkn0zy",
+          "word": "mood",
+          "meaning": "general atmosphere",
+          "note": "Use this for the prevailing atmosphere or feeling among a group of people."
+        },
+        {
+          "id": "oxfjhdli",
+          "word": "climate",
+          "meaning": "political/moral climate",
+          "note": "Use this for the general political or moral atmosphere surrounding a situation."
+        },
+        {
+          "id": "d7aag370",
+          "word": "milieu",
+          "meaning": "social environment",
+          "note": "Use this when the social milieu means the atmosphere or feel of the setting rather than the people in it."
+        },
+        {
+          "id": "0ppb8dva",
+          "word": "energy",
+          "meaning": "vibe / aura",
+          "note": "Use this when the energy means the mood or atmosphere of a place or group rather than a person's aura."
+        },
+        {
+          "id": "pgkri96p",
+          "word": "air",
+          "meaning": "atmosphere, mood",
+          "note": "Use this for the mood or ambience surrounding an event or place."
+        },
+        {
+          "id": "sfakwz9x",
+          "word": "vibration",
+          "meaning": "feeling or atmosphere",
+          "note": "Use this when the vibration means the emotional atmosphere of a place or situation rather than an individual feeling."
+        }
+      ],
       "examples": [
         {
           "english": "The atmosphere at the venue is very relaxed tonight.",

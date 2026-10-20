@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "essential element",
-      "english": ["element", "ingredient"],
+      "english": [
+        {
+          "id": "9cn1ha06",
+          "word": "element",
+          "meaning": "essential part or principle",
+          "register": "formal",
+          "note": "Use 要素 for an essential constituent or underlying principle, especially in an analytical description."
+        },
+        {
+          "id": "0ob9lar8",
+          "word": "ingredient",
+          "meaning": "necessary factor",
+          "register": "written",
+          "note": "Use this for a necessary element or component of achieving a goal, rather than a physical cooking ingredient."
+        }
+      ],
       "examples": [
         {
           "english": "This report points out that trust is an important element of teamwork.",

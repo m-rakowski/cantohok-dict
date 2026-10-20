@@ -6,7 +6,42 @@
   "boxes": [
     {
       "meaning": "pretty girl or woman",
-      "english": ["beauty", "bird", "honey", "doll", "angel"],
+      "english": [
+        {
+          "id": "plmkbsin",
+          "word": "beauty",
+          "meaning": "beautiful person",
+          "note": "Use this as the everyday Hong Kong Cantonese noun for a beautiful woman or girl."
+        },
+        {
+          "id": "5yjc1fcm",
+          "word": "bird",
+          "meaning": "girl/woman",
+          "register": "colloquial",
+          "note": "Use this when “bird” refers specifically to an attractive girl or woman."
+        },
+        {
+          "id": "08wgpdvd",
+          "word": "honey",
+          "meaning": "attractive woman",
+          "register": "colloquial",
+          "note": "Use 靚女 when referring casually to an attractive woman rather than addressing someone affectionately."
+        },
+        {
+          "id": "lh4v9wc6",
+          "word": "doll",
+          "meaning": "attractive young woman",
+          "register": "colloquial",
+          "note": "Use this for the slang sense of an attractive young woman, rather than for a literal toy."
+        },
+        {
+          "id": "qboojbir",
+          "word": "angel",
+          "meaning": "beautiful person",
+          "register": "colloquial",
+          "note": "Use this when angel means a beautiful girl, woman, or young person, especially in casual Hong Kong speech."
+        }
+      ],
       "examples": [
         {
           "english": "That beauty drinks coffee at the café downstairs every day.",
@@ -37,7 +72,15 @@
     },
     {
       "meaning": "friendly way to address a young woman",
-      "english": ["girl"],
+      "english": [
+        {
+          "id": "o1hwsdnz",
+          "word": "girl",
+          "meaning": "female address",
+          "register": "colloquial",
+          "note": "Use this as a friendly or service-style address to a young woman, with an implication that she is attractive."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

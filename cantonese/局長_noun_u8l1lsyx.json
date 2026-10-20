@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "head of a government bureau",
-      "english": ["minister", "secretary"],
+      "english": [
+        {
+          "id": "l30neczn",
+          "word": "minister",
+          "meaning": "government minister",
+          "note": "Use this for the usual Hong Kong title of a government minister who heads a bureau."
+        },
+        {
+          "id": "ojn9dkcx",
+          "word": "secretary",
+          "meaning": "government department head",
+          "note": "Use this for the head of a government bureau or department, rather than for a clerical secretary."
+        }
+      ],
       "examples": [
         {
           "english": "The minister will explain the new policy to the Legislative Council tomorrow.",

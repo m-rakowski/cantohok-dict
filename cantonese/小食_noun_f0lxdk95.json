@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "snack, light bite",
-      "english": ["snack", "bite"],
+      "english": [
+        {
+          "id": "wkaeuveg",
+          "word": "snack",
+          "meaning": "food between meals",
+          "note": "Use this for a light meal or a savory snack, especially when it is more substantial than ordinary 零食."
+        },
+        {
+          "id": "qli9g5hi",
+          "word": "bite",
+          "meaning": "small snack",
+          "note": "Use 小食 when “a bite” means a snack or light food rather than one mouthful."
+        }
+      ],
       "examples": [
         {
           "english": "We can just have a snack for lunch.",

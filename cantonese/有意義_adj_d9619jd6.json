@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "meaningful, worthwhile",
-      "english": ["meaningful", "purposeful", "worthwhile"],
+      "english": [
+        {
+          "id": "kwhbbx3c",
+          "word": "meaningful",
+          "meaning": "significant; having meaning",
+          "note": "This is the all-purpose choice for something worthwhile, significant, or genuinely meaningful."
+        },
+        {
+          "id": "ayt8vwcp",
+          "word": "purposeful",
+          "meaning": "intentional, with purpose",
+          "note": "Use this for something purposeful in the sense of being meaningful, worthwhile, or giving life meaning."
+        },
+        {
+          "id": "xcokxq3s",
+          "word": "worthwhile",
+          "meaning": "worth spending time/effort on",
+          "note": "Use this for worthwhile activities because they are meaningful or socially valuable, such as volunteering."
+        }
+      ],
       "examples": [
         {
           "english": "Volunteering your time to help people is really meaningful.",

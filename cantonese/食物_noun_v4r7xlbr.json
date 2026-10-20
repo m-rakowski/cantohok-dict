@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "food",
-      "english": ["food", "diet", "nourishment"],
+      "english": [
+        {
+          "id": "ye5g1dk8",
+          "word": "food",
+          "meaning": "food to eat",
+          "register": "formal",
+          "note": "Use this formal or written term when referring generally to food or a foodstuff, especially as a category."
+        },
+        {
+          "id": "tnsurbuj",
+          "word": "diet",
+          "meaning": "food and drink eaten",
+          "note": "Use this especially when describing the actual food eaten by an animal, rather than its dietary pattern."
+        },
+        {
+          "id": "hunvmjgq",
+          "word": "nourishment",
+          "meaning": "food; sustenance",
+          "note": "Use this only when nourishment means actual food or sustenance, rather than nutritional value or figurative nourishment."
+        }
+      ],
       "examples": [
         {
           "english": "Food safety is very important to everyone.",

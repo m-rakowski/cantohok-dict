@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "the animal",
-      "english": ["rabbit"],
+      "english": [
+        {
+          "id": "wg19rg4o",
+          "word": "rabbit",
+          "meaning": "the animal",
+          "note": "Use this only when the rabbit is specifically white, rather than as the general animal term."
+        }
+      ],
       "examples": [
         {
           "english": "There is a white rabbit at the zoo.",

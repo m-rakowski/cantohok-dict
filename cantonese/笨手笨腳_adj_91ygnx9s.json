@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "clumsy",
-      "english": ["clumsy", "awkward"],
+      "english": [
+        {
+          "id": "d0dbkn6f",
+          "word": "clumsy",
+          "meaning": "physically awkward",
+          "note": "This is the all-purpose choice for someone who lacks physical coordination or dexterity."
+        },
+        {
+          "id": "uuq5ztlm",
+          "word": "awkward",
+          "meaning": "clumsy with hands",
+          "note": "Use this specifically for someone who is clumsy with their hands or movements."
+        }
+      ],
       "examples": [
         {
           "english": "I'm really clumsy and always break things.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "usual, generally",
-      "english": ["usual"],
+      "english": [
+        {
+          "id": "wew2iwgb",
+          "word": "usual",
+          "meaning": "typical; most common",
+          "note": "This is the all-purpose choice for something typical or ordinary."
+        }
+      ],
       "examples": [
         {
           "english": "My usual breakfast on weekdays is usually bread and coffee.",
@@ -17,7 +24,32 @@
     },
     {
       "meaning": "so-so, mediocre",
-      "english": ["typical", "average", "fair", "mean"],
+      "english": [
+        {
+          "id": "lkre7yye",
+          "word": "typical",
+          "meaning": "normal, expected",
+          "note": "Use this for something average or ordinary rather than especially good or unusual."
+        },
+        {
+          "id": "onfij7pf",
+          "word": "average",
+          "meaning": "mediocre",
+          "note": "Use this for performance or quality that is middling rather than especially good or bad."
+        },
+        {
+          "id": "7i2ck012",
+          "word": "fair",
+          "meaning": "adequate; acceptable",
+          "note": "Use 一般 when something is adequate or average but not especially good."
+        },
+        {
+          "id": "kjlz6wk1",
+          "word": "mean",
+          "meaning": "average",
+          "note": "Use this when “mean” means average or typical, as in an average family or ordinary result."
+        }
+      ],
       "examples": [
         {
           "english": "I think this movie is typical, nothing special.",

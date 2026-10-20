@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "stab, jab someone",
-      "english": ["stab"],
+      "english": [
+        {
+          "id": "4bnt1r19",
+          "word": "stab",
+          "meaning": "pierce or wound with knife",
+          "note": "This is the all-purpose choice for physically stabbing or jabbing someone or something with a pointed object."
+        }
+      ],
       "examples": [
         {
           "english": "I accidentally stab him in the hand with a pen.",
@@ -17,7 +24,21 @@
     },
     {
       "meaning": "stick or push something into something",
-      "english": ["stick", "plant"],
+      "english": [
+        {
+          "id": "q1jdu1vw",
+          "word": "stick",
+          "meaning": "poke or thrust in",
+          "note": "Use 插 when pushing a pointed object into something."
+        },
+        {
+          "id": "m4p3pnyf",
+          "word": "plant",
+          "meaning": "set firmly",
+          "register": "colloquial",
+          "note": "Use 插 when something such as a flag or stake is pushed firmly into the ground or another surface."
+        }
+      ],
       "examples": [
         {
           "english": "Just stick the key into the lock.",

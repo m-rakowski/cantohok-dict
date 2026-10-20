@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "attention, focus",
-      "english": ["attention", "mind"],
+      "english": [
+        {
+          "id": "z0d49xlc",
+          "word": "attention",
+          "meaning": "mental focus",
+          "note": "This is the all-purpose noun for mental focus or concentration."
+        },
+        {
+          "id": "kych24ew",
+          "word": "mind",
+          "meaning": "focus",
+          "note": "Use this when the mind means the ability to keep thoughts directed at something or to give something attention."
+        }
+      ],
       "examples": [
         {
           "english": "My attention is very focused when I read.",

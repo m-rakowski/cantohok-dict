@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "to belittle, put down",
-      "english": ["degrade", "disparage"],
+      "english": [
+        {
+          "id": "rdusedyk",
+          "word": "degrade",
+          "meaning": "lower in status",
+          "note": "Use this when someone deliberately lowers another person's—or their own—value, status, or dignity."
+        },
+        {
+          "id": "n2jsa9f5",
+          "word": "disparage",
+          "meaning": "speak slightingly of",
+          "register": "formal",
+          "note": "Use this when deliberately lowering someone's status, value, or estimation, especially in more formal discussion."
+        }
+      ],
       "examples": [
         {
           "english": "You shouldn't degrade yourself just to please others.",

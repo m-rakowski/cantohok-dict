@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "take a risk",
-      "english": ["risk", "hazard"],
+      "english": [
+        {
+          "id": "8i7mvu23",
+          "word": "risk",
+          "meaning": "do something despite risk",
+          "note": "This is the all-purpose verb for doing something despite a known danger."
+        },
+        {
+          "id": "2mw9gw28",
+          "word": "hazard",
+          "meaning": "venture; risk",
+          "note": "This is the all-purpose choice for risking something or venturing to do something."
+        }
+      ],
       "examples": [
         {
           "english": "Going swimming in such heavy rain is really a risk.",

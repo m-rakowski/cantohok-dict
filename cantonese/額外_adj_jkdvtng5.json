@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "extra, additional",
-      "english": ["additional", "extra", "further"],
+      "english": [
+        {
+          "id": "4rbrvucu",
+          "word": "additional",
+          "meaning": "added; extra",
+          "note": "This is the all-purpose choice for something added beyond what was originally included, such as an additional charge."
+        },
+        {
+          "id": "69pxsa03",
+          "word": "extra",
+          "meaning": "additional; more than needed",
+          "note": "For ordinary additional work, pay, time, or items, 額外 is the all-purpose choice; it does not imply that they are unnecessary."
+        },
+        {
+          "id": "vpd8s8i4",
+          "word": "further",
+          "meaning": "additional",
+          "note": "Use this for something additional or beyond what has already been mentioned."
+        }
+      ],
       "examples": [
         {
           "english": "This card has an additional five-dollar charge.",

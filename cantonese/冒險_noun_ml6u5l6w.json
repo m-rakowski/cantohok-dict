@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "risky adventure",
-      "english": ["adventure", "venture"],
+      "english": [
+        {
+          "id": "hf4i870f",
+          "word": "adventure",
+          "meaning": "risky undertaking",
+          "note": "This is the all-purpose noun for a risky or daring undertaking."
+        },
+        {
+          "id": "pigfqo61",
+          "word": "venture",
+          "meaning": "risky undertaking",
+          "note": "This is the all-purpose choice for a risky or daring undertaking."
+        }
+      ],
       "examples": [
         {
           "english": "I want to travel to Tibet alone and have an adventure.",

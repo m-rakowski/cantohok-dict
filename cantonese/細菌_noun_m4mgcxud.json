@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "germ, bacteria",
-      "english": ["germ", "microbe"],
+      "english": [
+        {
+          "id": "ezvqfgaj",
+          "word": "germ",
+          "meaning": "microbe; pathogen",
+          "note": "This is the all-purpose everyday choice for a harmful microbe or germs in general."
+        },
+        {
+          "id": "ca0axegf",
+          "word": "microbe",
+          "meaning": "microorganism; harmful bacterium",
+          "note": "Use 細菌 as the everyday all-purpose term, especially when talking about microbes as germs or harmful bacteria."
+        }
+      ],
       "examples": [
         {
           "english": "Wash your hands—there could be a germ on the doorknob.",

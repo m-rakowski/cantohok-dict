@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "help, benefit",
-      "english": ["boost", "assistance"],
+      "english": [
+        {
+          "id": "aere5qpj",
+          "word": "boost",
+          "meaning": "help or improve",
+          "note": "Use this as the all-purpose noun for help or assistance that makes something more effective."
+        },
+        {
+          "id": "irtjdppx",
+          "word": "assistance",
+          "meaning": "help; aid",
+          "note": "Use this for the general notion of help, especially in more formal or abstract phrasing."
+        }
+      ],
       "examples": [
         {
           "english": "This new feature is a big boost to efficiency.",

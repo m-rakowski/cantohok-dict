@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "farmer",
-      "english": ["peasant", "farmer"],
+      "english": [
+        {
+          "id": "eprwaj8f",
+          "word": "peasant",
+          "meaning": "farm worker; rural poor",
+          "note": "For the agricultural sense, this is the all-purpose Cantonese term for people who work the land or belong to the peasant class."
+        },
+        {
+          "id": "mwqx9eas",
+          "word": "farmer",
+          "meaning": "person who works land / keeps livestock",
+          "register": "formal",
+          "note": "Use this for an agricultural worker or farmer viewed as part of the farming population, especially in more formal contexts."
+        }
+      ],
       "examples": [
         {
           "english": "Their family has been peasant farmers for generations, making a living by growing vegetables.",

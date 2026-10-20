@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "hostile",
-      "english": ["hostile", "confrontational"],
+      "english": [
+        {
+          "id": "wtk5xlcs",
+          "word": "hostile",
+          "meaning": "enemy-like, unfriendly",
+          "note": "This is the all-purpose choice for a person, group, or force showing ill will or an enemy-like attitude."
+        },
+        {
+          "id": "eztbv55p",
+          "word": "confrontational",
+          "meaning": "hostile, in-your-face",
+          "note": "Use this when the confrontational quality is mainly a hostile attitude rather than active provocation."
+        }
+      ],
       "examples": [
         {
           "english": "Those people are very hostile toward new immigrants.",

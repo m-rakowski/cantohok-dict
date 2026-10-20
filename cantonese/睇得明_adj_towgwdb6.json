@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "legible; can be read",
-      "english": ["readable"],
+      "english": [
+        {
+          "id": "bhhpg008",
+          "word": "readable",
+          "meaning": "legible; can be read",
+          "note": "Use this as the all-purpose choice when text can be understood or deciphered, including functional instructions."
+        }
+      ],
       "examples": [
         {
           "english": "This instruction manual is clear and readable; I understand it at a glance.",

@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "brave",
-      "english": ["brave", "courageous", "undaunted", "gutsy", "spartan"],
+      "english": [
+        {
+          "id": "gryt16o7",
+          "word": "brave",
+          "meaning": "courageous",
+          "note": "This is the all-purpose choice for describing someone who faces fear courageously."
+        },
+        {
+          "id": "r6848ay4",
+          "word": "courageous",
+          "meaning": "brave; having courage",
+          "note": "This is the all-purpose choice for a brave person or a courageous action."
+        },
+        {
+          "id": "uynsetq8",
+          "word": "undaunted",
+          "meaning": "courageous; resolute",
+          "note": "This is the all-purpose choice when describing someone who shows courage and determination."
+        },
+        {
+          "id": "x309pu91",
+          "word": "gutsy",
+          "meaning": "courageous, bold",
+          "note": "Use this when the emphasis is courage in danger or hardship rather than audacity."
+        },
+        {
+          "id": "xy18oxkk",
+          "word": "spartan",
+          "meaning": "brave, stoic",
+          "note": "Use this for the brave side of “spartan,” especially someone who faces danger without backing down."
+        }
+      ],
       "examples": [
         {
           "english": "They are very brave and dare to hike alone at night.",

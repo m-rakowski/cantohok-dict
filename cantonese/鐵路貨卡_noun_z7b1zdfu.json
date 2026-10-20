@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "railway van",
-      "english": ["van"],
+      "english": [
+        {
+          "id": "vfepll4y",
+          "word": "van",
+          "meaning": "railway van",
+          "note": "Use this specifically for an enclosed freight vehicle running on a railway."
+        }
+      ],
       "examples": [
         {
           "english": "This railway van is full of freight.",

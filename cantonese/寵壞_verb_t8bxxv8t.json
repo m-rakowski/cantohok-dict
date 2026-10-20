@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "to spoil (a child)",
-      "english": ["cosset", "spoil"],
+      "english": [
+        {
+          "id": "hmumrvxl",
+          "word": "cosset",
+          "meaning": "pamper, overindulge",
+          "note": "Use this when cosseting means indulging someone so much that they become spoiled."
+        },
+        {
+          "id": "bc8l4377",
+          "word": "spoil",
+          "meaning": "pamper too much",
+          "note": "Use this when excessive indulgence or pampering ruins someone's character or habits."
+        }
+      ],
       "examples": [
         {
           "english": "If you cosset your son like this, he'll end up refusing to do anything for himself.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "pronounce",
-      "english": ["pronounce", "sound"],
+      "english": [
+        {
+          "id": "5r5lw5h6",
+          "word": "pronounce",
+          "meaning": "say aloud",
+          "note": "For saying how a word or phrase is articulated, this is the all-purpose choice."
+        },
+        {
+          "id": "urpagunw",
+          "word": "sound",
+          "meaning": "pronounce",
+          "note": "Use 發音 when talking about how a letter, word, or syllable is pronounced."
+        }
+      ],
       "examples": [
         {
           "english": "I still don't know how to pronounce this English word.",

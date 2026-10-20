@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "role, character",
-      "english": ["character", "role", "part"],
+      "english": [
+        {
+          "id": "wxwjfvcw",
+          "word": "character",
+          "meaning": "story character",
+          "note": "This is the all-purpose choice for a person or being in a story, film, or play."
+        },
+        {
+          "id": "1mavaamz",
+          "word": "role",
+          "meaning": "actor’s part",
+          "note": "This is the all-purpose choice for an actor’s part or a person’s social role."
+        },
+        {
+          "id": "sy3u7spl",
+          "word": "part",
+          "meaning": "role in play",
+          "note": "Use this for a person’s role or character in a play or other activity."
+        }
+      ],
       "examples": [
         {
           "english": "Their character in this movie is very likable.",

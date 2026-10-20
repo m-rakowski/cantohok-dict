@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "get on a vehicle",
-      "english": ["board"],
+      "english": [
+        {
+          "id": "sa889isx",
+          "word": "board",
+          "meaning": "get on transport",
+          "note": "This is the all-purpose verb used before the name of the transport, as in 上車, 上船, or 上機."
+        }
+      ],
       "examples": [
         {
           "english": "We can board the boat now.",
@@ -17,7 +24,20 @@
     },
     {
       "meaning": "go up, climb",
-      "english": ["mount", "climb"],
+      "english": [
+        {
+          "id": "3wui7v2n",
+          "word": "mount",
+          "meaning": "climb, ascend",
+          "note": "Use 上 as the all-purpose verb for moving up or getting onto something, including stairs, a horse, or a vehicle."
+        },
+        {
+          "id": "stl0yu3n",
+          "word": "climb",
+          "meaning": "go up, ascend",
+          "note": "Use this as the all-purpose verb for going up or reaching a higher place or position when hands-and-feet climbing is not meant."
+        }
+      ],
       "examples": [
         {
           "english": "We'll mount the horses first.",

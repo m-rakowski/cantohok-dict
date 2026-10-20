@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "pastor, minister",
-      "english": ["minister", "pastor", "preacher"],
+      "english": [
+        {
+          "id": "st5pd9hi",
+          "word": "minister",
+          "meaning": "Protestant pastor",
+          "note": "This is the all-purpose Cantonese noun for a Protestant pastor."
+        },
+        {
+          "id": "cjbld2k1",
+          "word": "pastor",
+          "meaning": "minister or priest",
+          "note": "This is the all-purpose choice for a Protestant church minister or pastor."
+        },
+        {
+          "id": "6mf87pq3",
+          "word": "preacher",
+          "meaning": "person who preaches",
+          "note": "Use this as the usual term for a Protestant Christian preacher or clergy member."
+        }
+      ],
       "examples": [
         {
           "english": "The minister will officiate our wedding today.",

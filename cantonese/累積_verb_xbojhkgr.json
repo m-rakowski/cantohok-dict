@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "build up, accumulate",
-      "english": ["accrue", "build"],
+      "english": [
+        {
+          "id": "58bbnewz",
+          "word": "accrue",
+          "meaning": "accumulate",
+          "note": "This is the all-purpose choice when amounts, expenses, or entitlements build up over time."
+        },
+        {
+          "id": "t4uh33yc",
+          "word": "build",
+          "meaning": "build up gradually",
+          "note": "Use this when something is built up gradually by accumulating more of it over time."
+        }
+      ],
       "examples": [
         {
           "english": "These expenses accrue so quickly lately that I really can't cope.",

@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "bad or wicked deed",
-      "english": ["outrage", "evil"],
+      "english": [
+        {
+          "id": "ghf9zkk1",
+          "word": "outrage",
+          "meaning": "offensive or immoral act",
+          "register": "colloquial",
+          "note": "Use this colloquially for an offensive, immoral, or otherwise bad act."
+        },
+        {
+          "id": "vz85ogtq",
+          "word": "evil",
+          "meaning": "evil, wickedness",
+          "register": "colloquial",
+          "note": "Use this colloquial noun for a particular wicked act, bad thing, or piece of wrongdoing rather than abstract moral evil."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

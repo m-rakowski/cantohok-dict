@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "move slightly",
-      "english": ["shift", "stir"],
+      "english": [
+        {
+          "id": "i88m1a89",
+          "word": "shift",
+          "meaning": "move slightly, change position",
+          "note": "Use this for shifting your body or position slightly, often with 一下 in speech."
+        },
+        {
+          "id": "4h5rut9d",
+          "word": "stir",
+          "meaning": "move slightly",
+          "register": "colloquial",
+          "note": "Use this when something or someone begins to move slightly from being still."
+        }
+      ],
       "examples": [
         {
           "english": "Shift your position a little first.",

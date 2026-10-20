@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "wreckage, remains",
-      "english": ["wreck", "debris"],
+      "english": [
+        {
+          "id": "1hg6kix6",
+          "word": "wreck",
+          "meaning": "wreckage; remains",
+          "note": "This is the all-purpose choice for the physical remains of something badly damaged."
+        },
+        {
+          "id": "6bf8fabl",
+          "word": "debris",
+          "meaning": "wreckage, rubble",
+          "register": "written",
+          "note": "Use this for the wreckage or remaining parts of a destroyed vehicle, structure, or object."
+        }
+      ],
       "examples": [
         {
           "english": "The wreck of the boat is still on the beach.",

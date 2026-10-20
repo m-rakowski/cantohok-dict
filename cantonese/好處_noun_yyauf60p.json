@@ -6,7 +6,44 @@
   "boxes": [
     {
       "meaning": "benefit, advantage",
-      "english": ["pro", "advantage", "benefit", "behalf", "sake", "good"],
+      "english": [
+        {
+          "id": "2u45dhpu",
+          "word": "pro",
+          "meaning": "advantage; pro",
+          "note": "This is the all-purpose noun for an advantage, including one side of “pros and cons.”"
+        },
+        {
+          "id": "klhk9abs",
+          "word": "advantage",
+          "meaning": "benefit; profit",
+          "note": "This is the all-purpose choice for a benefit or positive consequence, especially when asking what benefit something gives."
+        },
+        {
+          "id": "t1qimrqe",
+          "word": "benefit",
+          "meaning": "advantage, help",
+          "note": "This is the all-purpose noun for an advantage or positive effect."
+        },
+        {
+          "id": "7vsmiha7",
+          "word": "behalf",
+          "meaning": "for someone’s benefit",
+          "note": "Use this for a concrete advantage or benefit that someone receives."
+        },
+        {
+          "id": "x88dbutr",
+          "word": "sake",
+          "meaning": "someone's benefit",
+          "note": "Use 好處 when the sake involved is a concrete benefit someone receives rather than personal consideration."
+        },
+        {
+          "id": "t1at33lu",
+          "word": "good",
+          "meaning": "goodness; moral good",
+          "note": "Use this when the good means a benefit or advantage that promotes welfare or success."
+        }
+      ],
       "examples": [
         {
           "english": "The pro of this plan is that it saves money.",

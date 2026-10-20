@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "independent contractor",
-      "english": ["contractor"],
+      "english": [
+        {
+          "id": "epbo3wgb",
+          "word": "contractor",
+          "meaning": "independent contractor",
+          "note": "Use this in an employment context for someone working independently rather than as a permanent employee."
+        }
+      ],
       "examples": [
         {
           "english": "I'm a contractor, so I only work when I get a job.",

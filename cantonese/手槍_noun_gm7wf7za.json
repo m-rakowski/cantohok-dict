@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "handgun",
-      "english": ["gun"],
+      "english": [
+        {
+          "id": "bccme4iv",
+          "word": "gun",
+          "meaning": "handgun",
+          "note": "Use this instead of 槍 when you specifically mean a handgun or pistol."
+        }
+      ],
       "examples": [
         {
           "english": "They keep a gun tucked in their waistband.",

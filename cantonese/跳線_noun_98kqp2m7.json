@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "wire link / jumper lead",
-      "english": ["jumper"],
+      "english": [
+        {
+          "id": "1z3fzx90",
+          "word": "jumper",
+          "meaning": "wire link / jumper lead",
+          "note": "Use this for a short temporary wire or conductor used to link parts of an electrical circuit."
+        }
+      ],
       "examples": [
         {
           "english": "This jumper is loose; should we replace it with a new one?",

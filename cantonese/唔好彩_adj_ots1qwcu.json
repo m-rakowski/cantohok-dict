@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "unlucky",
-      "english": ["unfortunate", "unlucky", "hapless"],
+      "english": [
+        {
+          "id": "k0ki2z9o",
+          "word": "unfortunate",
+          "meaning": "not favored by fortune",
+          "register": "colloquial",
+          "note": "This is the all-purpose colloquial choice when someone or something is unlucky or not favored by fortune."
+        },
+        {
+          "id": "g97i6w0u",
+          "word": "unlucky",
+          "meaning": "unfortunate",
+          "note": "This is the all-purpose casual choice for a person or situation marked by bad luck."
+        },
+        {
+          "id": "n3uwq78a",
+          "word": "hapless",
+          "meaning": "very unlucky, ill-fated",
+          "note": "Use this when the misfortune is specifically understood as bad luck, especially for events or circumstances."
+        }
+      ],
       "examples": [
         {
           "english": "I didn't win the draw this time either; that's unfortunate.",

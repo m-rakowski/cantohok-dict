@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "chaotic, messy",
-      "english": ["untidy", "chaotic"],
+      "english": [
+        {
+          "id": "4c7gms3u",
+          "word": "untidy",
+          "meaning": "disorganized, in a mess",
+          "note": "Use this for disorganized affairs, systems, or finances rather than a physically messy room."
+        },
+        {
+          "id": "uzvvzqbo",
+          "word": "chaotic",
+          "meaning": "full of chaos",
+          "note": "Use this when describing a broadly chaotic situation, system, or state rather than ordinary untidiness."
+        }
+      ],
       "examples": [
         {
           "english": "The company accounts are so untidy that checking them gives me a headache.",

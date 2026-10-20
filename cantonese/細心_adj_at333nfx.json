@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "careful, attentive to details",
-      "english": ["meticulous", "conscientious", "thoughtful", "attentive"],
+      "english": [
+        {
+          "id": "ydxn0w8k",
+          "word": "meticulous",
+          "meaning": "very careful and precise",
+          "note": "Use this especially for a person who is attentive and careful about details."
+        },
+        {
+          "id": "7ruhfmqo",
+          "word": "conscientious",
+          "meaning": "careful, thorough worker",
+          "note": "Use this when the emphasis is on being careful, thorough, and attentive to details."
+        },
+        {
+          "id": "vn5o3758",
+          "word": "thoughtful",
+          "meaning": "careful, considerate",
+          "note": "Use this when thoughtful means careful and attentive rather than kind to someone."
+        },
+        {
+          "id": "8b652cez",
+          "word": "attentive",
+          "meaning": "paying attention",
+          "note": "Use this when attentiveness shows itself as careful attention to details or to other people."
+        }
+      ],
       "examples": [
         {
           "english": "Ming is meticulous at work and remembers even the customers' little requests.",

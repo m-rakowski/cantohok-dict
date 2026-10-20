@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "indigenous, native",
-      "english": ["aboriginal", "native"],
+      "english": [
+        {
+          "id": "9sdcf96x",
+          "word": "aboriginal",
+          "meaning": "indigenous people",
+          "register": "formal",
+          "note": "Use this formal term for indigenous people, communities, cultures, or other things belonging to a population that lived there before colonization."
+        },
+        {
+          "id": "w2xbu2hl",
+          "word": "native",
+          "meaning": "indigenous people",
+          "register": "formal",
+          "note": "Use 土著 for indigenous peoples or things specifically associated with a region's original inhabitants, not just ordinary local residents."
+        }
+      ],
       "register": "formal",
       "examples": [
         {

@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "to decorate",
-      "english": ["adorn", "decorate", "beautify"],
+      "english": [
+        {
+          "id": "6wvvloex",
+          "word": "adorn",
+          "meaning": "decorate; make beautiful",
+          "register": "formal",
+          "note": "Use this as the all-purpose verb for decorating or making something more attractive, especially in somewhat formal contexts."
+        },
+        {
+          "id": "gcijxro0",
+          "word": "decorate",
+          "meaning": "put decorations on",
+          "note": "Use this when emphasizing the act of putting ornamental items on an object rather than arranging a space."
+        },
+        {
+          "id": "542spow1",
+          "word": "beautify",
+          "meaning": "make beautiful",
+          "note": "Use 裝飾 when beautifying a room, object, or setting by adding decorative features."
+        }
+      ],
       "examples": [
         {
           "english": "They adorn this statue with gold leaf, making it look more magnificent.",

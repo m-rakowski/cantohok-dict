@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "peak traffic time",
-      "english": ["rush hour"],
+      "english": [
+        {
+          "id": "1lircilu",
+          "word": "rush hour",
+          "meaning": "peak traffic time",
+          "note": "This is the all-purpose Cantonese term for the times when commuting traffic is heaviest."
+        }
+      ],
       "examples": [
         {
           "english": "During the morning rush hour, the tunnel is completely jammed.",

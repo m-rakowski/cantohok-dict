@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "family by birth",
-      "english": ["blood"],
+      "english": [
+        {
+          "id": "3f6703gy",
+          "word": "blood",
+          "meaning": "family by birth",
+          "note": "Use this for family connection by birth rather than marriage or adoption."
+        }
+      ],
       "examples": [
         {
           "english": "They are blood relatives.",

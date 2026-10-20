@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "swinging motion",
-      "english": ["flutter", "swing"],
+      "english": [
+        {
+          "id": "d6jinppt",
+          "word": "flutter",
+          "meaning": "fluttering motion",
+          "note": "Use this as the all-purpose choice for a physical back-and-forth flutter, including a lure or moving limb, rather than a fine trembling motion."
+        },
+        {
+          "id": "3dc4qx30",
+          "word": "swing",
+          "meaning": "an act of swinging",
+          "note": "This is the all-purpose choice for an act or instance of something moving back and forth."
+        }
+      ],
       "examples": [
         {
           "english": "The constant flutter of the cloth flag by the window made my eyes go funny.",

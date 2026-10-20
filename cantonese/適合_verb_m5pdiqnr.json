@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "suit, be right for",
-      "english": ["fit", "suit", "lend"],
+      "english": [
+        {
+          "id": "yen1xa9m",
+          "word": "fit",
+          "meaning": "suit, be appropriate for",
+          "note": "Use this as the all-purpose verb when something is suitable for a purpose, person, or situation."
+        },
+        {
+          "id": "9w7mrk69",
+          "word": "suit",
+          "meaning": "be right for someone",
+          "note": "Use this as the all-purpose verb for being suitable or appropriate for someone or something."
+        },
+        {
+          "id": "w7tehb80",
+          "word": "lend",
+          "meaning": "lend itself to",
+          "note": "Use this when something is suitable or applicable for a particular use, such as translation."
+        }
+      ],
       "examples": [
         {
           "english": "This job is a fit for you.",

@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "to match, be comparable to",
-      "english": ["equal", "compare"],
+      "english": [
+        {
+          "id": "w5m6rppn",
+          "word": "equal",
+          "meaning": "match in ability",
+          "register": "colloquial",
+          "note": "Use 比得上 when someone or something matches another in ability, quality, or performance."
+        },
+        {
+          "id": "231mv7ch",
+          "word": "compare",
+          "meaning": "be comparable",
+          "note": "Use this for the positive sense that one thing measures up to or is comparable with another."
+        }
+      ],
       "examples": [
         {
           "english": "This new phone can equal a flagship model.",

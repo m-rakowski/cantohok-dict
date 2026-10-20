@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "plain, flat, unexciting",
-      "english": ["uneventful", "ordinary", "dry"],
+      "english": [
+        {
+          "id": "d91t8xvz",
+          "word": "uneventful",
+          "meaning": "lacking notable events",
+          "note": "Use this for a period of life, story, or routine that is uneventful in a monotonous or unexciting way."
+        },
+        {
+          "id": "3eef55ta",
+          "word": "ordinary",
+          "meaning": "common, unremarkable",
+          "note": "Use this when an ordinary life or experience is uneventful or somewhat dull."
+        },
+        {
+          "id": "ebn1pfh4",
+          "word": "dry",
+          "meaning": "boring, uninteresting",
+          "note": "Use this for writing or subjects that are plain and unembellished, and by extension for something uninteresting."
+        }
+      ],
       "examples": [
         {
           "english": "That period of my life was very uneventful.",

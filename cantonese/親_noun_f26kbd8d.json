@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "dear (term of address)",
-      "english": ["dear"],
+      "english": [
+        {
+          "id": "6o4v872o",
+          "word": "dear",
+          "meaning": "term of address",
+          "note": "Use this affectionate term of address between people in a close relationship, rather than the general noun 好人."
+        }
+      ],
       "examples": [
         {
           "english": "Dear, what do you want to eat today?",
@@ -17,7 +24,15 @@
     },
     {
       "meaning": "parent",
-      "english": ["parent"],
+      "english": [
+        {
+          "id": "mliye4z4",
+          "word": "parent",
+          "meaning": "mother or father",
+          "register": "written",
+          "note": "Use this mainly in formal or written contexts as a synonym for a child's parent."
+        }
+      ],
       "register": "written",
       "examples": [
         {
@@ -29,7 +44,14 @@
     },
     {
       "meaning": "relatives, family",
-      "english": ["family"],
+      "english": [
+        {
+          "id": "075ju6rp",
+          "word": "family",
+          "meaning": "one's relatives",
+          "note": "Use 親 for one's relatives collectively, especially when contrasting them with friends or outsiders."
+        }
+      ],
       "examples": [
         {
           "english": "Family is family, and friends are friends.",

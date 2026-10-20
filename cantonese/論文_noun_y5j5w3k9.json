@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "thesis, academic paper",
-      "english": ["thesis", "paper"],
+      "english": [
+        {
+          "id": "o0cfe2eg",
+          "word": "thesis",
+          "meaning": "university dissertation",
+          "note": "This is the all-purpose academic term for a university thesis or dissertation."
+        },
+        {
+          "id": "qzwjpk5h",
+          "word": "paper",
+          "meaning": "academic paper",
+          "note": "Use this for a scientific or academic research paper submitted for publication or review."
+        }
+      ],
       "examples": [
         {
           "english": "After writing for years, I finally submitted my master's thesis.",

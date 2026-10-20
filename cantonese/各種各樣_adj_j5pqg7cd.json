@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "all kinds of, various",
-      "english": ["various", "varied"],
+      "english": [
+        {
+          "id": "gxi91yyr",
+          "word": "various",
+          "meaning": "many different; of several kinds",
+          "note": "This is the all-purpose choice for emphasizing a broad range of different kinds."
+        },
+        {
+          "id": "efzliamj",
+          "word": "varied",
+          "meaning": "diverse; assorted",
+          "note": "This is the all-purpose choice for things that come in many different kinds or forms."
+        }
+      ],
       "examples": [
         {
           "english": "There are various activities, so let’s take our time choosing.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "upward",
-      "english": ["skyward", "up"],
+      "english": [
+        {
+          "id": "rgd7n2tw",
+          "word": "skyward",
+          "meaning": "toward the sky",
+          "note": "This is the all-purpose everyday choice for movement upward, including toward the sky."
+        },
+        {
+          "id": "xpplmqlg",
+          "word": "up",
+          "meaning": "to a higher position",
+          "note": "This is the all-purpose choice for movement upward or towards the top."
+        }
+      ],
       "examples": [
         {
           "english": "The kite slowly flew skyward.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "harmless",
-      "english": ["harmless", "innocent"],
+      "english": [
+        {
+          "id": "lhvwp0fm",
+          "word": "harmless",
+          "meaning": "safe; not dangerous",
+          "note": "This is the all-purpose everyday choice for something that causes no harm or danger."
+        },
+        {
+          "id": "h6fiw1ny",
+          "word": "innocent",
+          "meaning": "harmless",
+          "note": "Use this for something that causes no harm and is harmless or innocuous."
+        }
+      ],
       "examples": [
         {
           "english": "This cleaning product is harmless even for children.",

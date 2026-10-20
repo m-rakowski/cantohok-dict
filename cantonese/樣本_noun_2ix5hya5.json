@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "sample, specimen",
-      "english": ["sample", "specimen", "snippet"],
+      "english": [
+        {
+          "id": "170dn0ud",
+          "word": "sample",
+          "meaning": "specimen, example piece",
+          "note": "This is the all-purpose noun for a specimen or a statistically selected subset."
+        },
+        {
+          "id": "q0b9icqd",
+          "word": "specimen",
+          "meaning": "sample for testing",
+          "note": "Use 樣本 for a physical sample collected for examination or testing, especially a medical sample."
+        },
+        {
+          "id": "cmhza7ft",
+          "word": "snippet",
+          "meaning": "small piece; sample",
+          "note": "Use this when the snippet is a sample collected or shown for inspection."
+        }
+      ],
       "examples": [
         {
           "english": "We need to send this sample for testing.",

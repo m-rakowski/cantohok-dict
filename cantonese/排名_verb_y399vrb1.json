@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "rank, place in a ranking",
-      "english": ["place", "rate"],
+      "english": [
+        {
+          "id": "5s1ynfro",
+          "word": "place",
+          "meaning": "place in a competition",
+          "note": "Use this specifically for saying that a person or team ranks in a particular position in a competition."
+        },
+        {
+          "id": "eumqoaes",
+          "word": "rate",
+          "meaning": "rank; assess",
+          "note": "Use this for placing someone or something in an ordinal or competitive ranking."
+        }
+      ],
       "examples": [
         {
           "english": "We place third in this competition.",

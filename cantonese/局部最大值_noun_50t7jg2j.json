@@ -6,7 +6,15 @@
   "boxes": [
     {
       "meaning": "math maximum",
-      "english": ["maximum"],
+      "english": [
+        {
+          "id": "7y18zid1",
+          "word": "maximum",
+          "meaning": "math maximum",
+          "register": "formal",
+          "note": "Use this specifically for a local maximum of a function rather than its greatest value overall."
+        }
+      ],
       "register": "formal",
       "examples": [
         {

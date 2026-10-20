@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "secret; confidential",
-      "english": ["private"],
+      "english": [
+        {
+          "id": "15u1bjzm",
+          "word": "private",
+          "meaning": "secret; confidential",
+          "note": "Use this when information is confidential and must not be disclosed publicly."
+        }
+      ],
       "examples": [
         {
           "english": "This document is private and cannot be made public.",

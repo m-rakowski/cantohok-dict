@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "thigh, lap",
-      "english": ["lap", "thigh"],
+      "english": [
+        {
+          "id": "7dwf35l6",
+          "word": "lap",
+          "meaning": "upper legs when seated",
+          "note": "This is the all-purpose colloquial word for a person's lap or upper thighs when seated."
+        },
+        {
+          "id": "ldb9xs74",
+          "word": "thigh",
+          "meaning": "human upper leg",
+          "register": "colloquial",
+          "note": "This is the all-purpose spoken choice for a human thigh or the corresponding part of an animal."
+        }
+      ],
       "examples": [
         {
           "english": "When you sit down, the dog always hides on your lap.",

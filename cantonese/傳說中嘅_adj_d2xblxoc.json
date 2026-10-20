@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "legendary, fabled",
-      "english": ["legendary", "fabled"],
+      "english": [
+        {
+          "id": "xdwiw401",
+          "word": "legendary",
+          "meaning": "mythical; fabled",
+          "note": "Use this for something belonging to or described in legends, especially a mythical or fabled creature, place, or event."
+        },
+        {
+          "id": "aewz540f",
+          "word": "fabled",
+          "meaning": "fictitious, legendary",
+          "note": "This is the all-purpose choice for something legendary or known only from stories."
+        }
+      ],
       "examples": [
         {
           "english": "The legendary dragon finally appeared in the cave.",

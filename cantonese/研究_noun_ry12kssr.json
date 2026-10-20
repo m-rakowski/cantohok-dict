@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "research, study",
-      "english": ["study", "investigation"],
+      "english": [
+        {
+          "id": "rfatlrjh",
+          "word": "study",
+          "meaning": "careful examination",
+          "note": "Use this for a careful examination or investigation of a person, topic, or problem."
+        },
+        {
+          "id": "gm7wiax8",
+          "word": "investigation",
+          "meaning": "inquiry; inquiry process",
+          "note": "Use this when the investigation means patient or systematic research, especially in an academic or technical context."
+        }
+      ],
       "examples": [
         {
           "english": "We need to do a study first before drawing a conclusion.",

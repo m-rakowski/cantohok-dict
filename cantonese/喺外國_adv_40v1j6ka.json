@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "abroad, in a foreign country",
-      "english": ["abroad", "overseas"],
+      "english": [
+        {
+          "id": "kfqa9mne",
+          "word": "abroad",
+          "meaning": "in foreign countries",
+          "note": "This is the all-purpose choice for being in a foreign country or countries."
+        },
+        {
+          "id": "swwhw1o9",
+          "word": "overseas",
+          "meaning": "abroad",
+          "note": "This is the all-purpose colloquial way to say that someone is abroad or lives abroad."
+        }
+      ],
       "examples": [
         {
           "english": "I’m studying abroad right now.",

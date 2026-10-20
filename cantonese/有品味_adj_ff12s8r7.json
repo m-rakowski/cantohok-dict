@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "tasteful, classy",
-      "english": ["classy", "stylish", "sophisticated"],
+      "english": [
+        {
+          "id": "lfiesr7e",
+          "word": "classy",
+          "meaning": "elegant, stylish",
+          "note": "This is the all-purpose choice for tasteful, elegant clothing, style, or presentation."
+        },
+        {
+          "id": "hlfq29m0",
+          "word": "stylish",
+          "meaning": "fashionable, tasteful",
+          "note": "Choose this when the emphasis is on having good taste rather than merely following trends."
+        },
+        {
+          "id": "jedqze8s",
+          "word": "sophisticated",
+          "meaning": "cultured, refined",
+          "note": "Use this for art, objects, or people that show cultured, refined taste rather than worldly experience or technical complexity."
+        }
+      ],
       "examples": [
         {
           "english": "This suit has a simple cut and looks classy.",

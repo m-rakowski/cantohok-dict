@@ -6,7 +6,45 @@
   "boxes": [
     {
       "meaning": "to explain clearly",
-      "english": ["clarify", "formulate", "demystify", "explain", "illuminate", "articulate"],
+      "english": [
+        {
+          "id": "c9wik45y",
+          "word": "clarify",
+          "meaning": "explain clearly",
+          "note": "This is the all-purpose colloquial choice for explaining what someone means clearly."
+        },
+        {
+          "id": "xhnxd69z",
+          "word": "formulate",
+          "meaning": "state clearly",
+          "register": "colloquial",
+          "note": "This is the all-purpose spoken choice for putting an idea into a clear statement or expression."
+        },
+        {
+          "id": "pxvtdsi6",
+          "word": "demystify",
+          "meaning": "explain clearly",
+          "note": "This is the all-purpose spoken choice for making something clear and understandable."
+        },
+        {
+          "id": "1gq90zec",
+          "word": "explain",
+          "meaning": "make clear / intelligible",
+          "note": "Use this when stressing that the matter is made fully clear or understandable."
+        },
+        {
+          "id": "wfh669fw",
+          "word": "illuminate",
+          "meaning": "explain clearly",
+          "note": "Use this when explaining a point or making its meaning clear."
+        },
+        {
+          "id": "7z6svqgj",
+          "word": "articulate",
+          "meaning": "speak clearly",
+          "note": "Use this when the emphasis is on making a message or explanation clear, including speaking clearly in general rather than precise enunciation."
+        }
+      ],
       "examples": [
         {
           "english": "Let me clarify the whole thing first, so nobody misunderstands.",

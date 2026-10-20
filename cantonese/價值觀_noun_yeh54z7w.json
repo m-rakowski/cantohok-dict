@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "values, beliefs",
-      "english": ["ethos", "value"],
+      "english": [
+        {
+          "id": "db5lvdgb",
+          "word": "ethos",
+          "meaning": "character, values",
+          "note": "This is the all-purpose choice for the fundamental values guiding a person, group, or movement."
+        },
+        {
+          "id": "oi59colw",
+          "word": "value",
+          "meaning": "values, beliefs",
+          "note": "Use this for a person's or group's moral principles, beliefs, and ideals."
+        }
+      ],
       "examples": [
         {
           "english": "This group's ethos is clear: it always puts members' interests first.",

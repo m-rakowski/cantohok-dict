@@ -6,7 +6,41 @@
   "boxes": [
     {
       "meaning": "fame, being well known",
-      "english": ["fame", "prominence", "renown", "repute", "celebrity"],
+      "english": [
+        {
+          "id": "8w0881fn",
+          "word": "fame",
+          "meaning": "being famous",
+          "register": "colloquial",
+          "note": "This is the all-purpose everyday choice for someone's fame or reputation."
+        },
+        {
+          "id": "u1aval5t",
+          "word": "prominence",
+          "meaning": "fame; being well known",
+          "register": "colloquial",
+          "note": "This is the all-purpose choice for being famous or widely known."
+        },
+        {
+          "id": "wdtb90nh",
+          "word": "renown",
+          "meaning": "fame; wide recognition",
+          "note": "This is the all-purpose everyday noun for fame or wide recognition."
+        },
+        {
+          "id": "ldbong1i",
+          "word": "repute",
+          "meaning": "reputation; good name",
+          "register": "colloquial",
+          "note": "Use this when the reputation mainly means how famous or well-known someone is."
+        },
+        {
+          "id": "1hnttmgo",
+          "word": "celebrity",
+          "meaning": "fame; being famous",
+          "note": "Use this when referring to fame or how well-known someone is rather than to the person."
+        }
+      ],
       "examples": [
         {
           "english": "He gained fame in Hong Kong through singing.",

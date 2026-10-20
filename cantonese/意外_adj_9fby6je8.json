@@ -6,7 +6,50 @@
   "boxes": [
     {
       "meaning": "unexpected, surprising",
-      "english": ["surprised", "surprising", "accidental", "amazed", "unexpected", "astonished", "startling"],
+      "english": [
+        {
+          "id": "uyvefwrj",
+          "word": "surprised",
+          "meaning": "feeling surprise",
+          "note": "Use this when stressing that something was unexpected or that the outcome was not what you anticipated."
+        },
+        {
+          "id": "ppj3yvrb",
+          "word": "surprising",
+          "meaning": "causing surprise",
+          "note": "This is the all-purpose choice for an unexpected result, event, or development."
+        },
+        {
+          "id": "jql795sk",
+          "word": "accidental",
+          "meaning": "by chance; unintentional",
+          "note": "Use this as the all-purpose choice for an accidental event or result that is unexpected, especially when no intention is specified."
+        },
+        {
+          "id": "am33enqf",
+          "word": "amazed",
+          "meaning": "astonished; greatly surprised",
+          "note": "Use this when the amazement mainly comes from something being unexpected."
+        },
+        {
+          "id": "ovrud2o7",
+          "word": "unexpected",
+          "meaning": "not expected; unforeseen",
+          "note": "Use this when describing an unexpected or surprising result, event, or situation, especially predicatively."
+        },
+        {
+          "id": "8t2j7ac5",
+          "word": "astonished",
+          "meaning": "amazed; surprised",
+          "note": "Use this when the astonishment mainly comes from something being unexpected or unforeseen."
+        },
+        {
+          "id": "31r8v12c",
+          "word": "startling",
+          "meaning": "surprising; shocking",
+          "note": "Use this for the less forceful sense of being unexpected or surprising."
+        }
+      ],
       "examples": [
         {
           "english": "This result really surprised me.",

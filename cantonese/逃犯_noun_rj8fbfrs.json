@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "fugitive",
-      "english": ["outlaw", "runaway"],
+      "english": [
+        {
+          "id": "9gwcj2e1",
+          "word": "outlaw",
+          "meaning": "fugitive from law",
+          "note": "This is the all-purpose noun for a person fleeing from the law."
+        },
+        {
+          "id": "38yqvsm8",
+          "word": "runaway",
+          "meaning": "person or animal that escapes",
+          "note": "Use this all-purpose term for a person who has escaped custody or is fleeing from the law."
+        }
+      ],
       "examples": [
         {
           "english": "That outlaw hid in the mountains, and the police searched for him for ages but could not find him.",

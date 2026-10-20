@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "security breach",
-      "english": ["compromise"],
+      "english": [
+        {
+          "id": "ikb9kbn5",
+          "word": "compromise",
+          "meaning": "security breach",
+          "note": "Use 資料外洩 for the unauthorized disclosure or loss of data in a computer-security breach."
+        }
+      ],
       "examples": [
         {
           "english": "This compromise may have been caused by hackers breaking in.",

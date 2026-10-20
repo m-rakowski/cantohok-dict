@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "flash past",
-      "english": ["flick", "flash"],
+      "english": [
+        {
+          "id": "ssynstyc",
+          "word": "flick",
+          "meaning": "pass by quickly",
+          "note": "Use this when someone or something passes so quickly that it is only briefly or unclearly perceived."
+        },
+        {
+          "id": "buha8k2z",
+          "word": "flash",
+          "meaning": "pass by briefly",
+          "note": "Use this when scenery or another visible thing passes by so quickly that it is seen only briefly."
+        }
+      ],
       "examples": [
         {
           "english": "I only saw the bus flick past in front of me.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "job, freelance work",
-      "english": ["gig"],
+      "english": [
+        {
+          "id": "wo9p1bsn",
+          "word": "gig",
+          "meaning": "job, freelance work",
+          "note": "Use this specifically for temporary, casual, or piecework employment rather than a regular job."
+        }
+      ],
       "examples": [
         {
           "english": "I found a gig today helping someone move house.",

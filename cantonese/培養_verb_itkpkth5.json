@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "develop an interest or quality",
-      "english": ["cultivate", "nourish"],
+      "english": [
+        {
+          "id": "oejepg9k",
+          "word": "cultivate",
+          "meaning": "foster an interest",
+          "note": "Use 培養 for deliberately fostering an interest, ability, or other personal quality."
+        },
+        {
+          "id": "9p9qjnhh",
+          "word": "nourish",
+          "meaning": "foster; encourage",
+          "note": "Use this for deliberately developing a quality, habit, skill, or social attitude rather than feeding or financially supporting someone."
+        }
+      ],
       "examples": [
         {
           "english": "I cultivate my interest in reading in my spare time.",

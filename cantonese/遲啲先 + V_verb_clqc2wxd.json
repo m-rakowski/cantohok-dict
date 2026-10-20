@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "do it later, put off",
-      "english": ["postpone", "delay"],
+      "english": [
+        {
+          "id": "1e8kyrmj",
+          "word": "postpone",
+          "meaning": "delay; put off",
+          "register": "colloquial",
+          "note": "Use this casual construction when putting off doing an action until later rather than rescheduling a fixed event."
+        },
+        {
+          "id": "gln0avf8",
+          "word": "delay",
+          "meaning": "verb: postpone",
+          "register": "colloquial",
+          "note": "Use this very natural spoken construction when putting off doing an action until later."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

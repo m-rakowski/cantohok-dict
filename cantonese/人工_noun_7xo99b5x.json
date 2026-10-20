@@ -6,7 +6,39 @@
   "boxes": [
     {
       "meaning": "pay, wages",
-      "english": ["pay", "salary", "wage", "emolument", "earnings"],
+      "english": [
+        {
+          "id": "7r5g38q4",
+          "word": "pay",
+          "meaning": "wages; salary",
+          "note": "This is the all-purpose everyday term for money earned from work, covering both wages and salary."
+        },
+        {
+          "id": "nsor0kg5",
+          "word": "salary",
+          "meaning": "fixed pay",
+          "note": "This is the all-purpose everyday Cantonese word for a worker’s salary or pay."
+        },
+        {
+          "id": "b88f9olf",
+          "word": "wage",
+          "meaning": "worker pay",
+          "note": "This is the all-purpose spoken term for a worker’s pay."
+        },
+        {
+          "id": "tx9bgxwb",
+          "word": "emolument",
+          "meaning": "payment for work",
+          "register": "colloquial",
+          "note": "Use this as the all-purpose everyday word for payment received from a job or position."
+        },
+        {
+          "id": "ssflbs0b",
+          "word": "earnings",
+          "meaning": "money earned; income",
+          "note": "Use 人工 specifically for wages or pay from a job, rather than for income in general."
+        }
+      ],
       "examples": [
         {
           "english": "When will I get my pay?",

@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "height, altitude",
-      "english": ["altitude", "elevation", "height"],
+      "english": [
+        {
+          "id": "669qjup7",
+          "word": "altitude",
+          "meaning": "height above sea level",
+          "note": "Use 高度 as the all-purpose noun for a location's height or a vertical distance."
+        },
+        {
+          "id": "pcqudcrf",
+          "word": "elevation",
+          "meaning": "raised place, height",
+          "note": "Use this for the measured elevation or height of a place or object, rather than the act of raising it."
+        },
+        {
+          "id": "cxauwpw2",
+          "word": "height",
+          "meaning": "vertical measurement",
+          "note": "Use this as the all-purpose noun for the vertical measurement of an object or its distance above a chosen level."
+        }
+      ],
       "examples": [
         {
           "english": "The altitude of this mountain is three thousand metres.",

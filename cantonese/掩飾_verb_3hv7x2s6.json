@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "cover up, conceal",
-      "english": ["dissemble", "disguise"],
+      "english": [
+        {
+          "id": "2qmeu2li",
+          "word": "dissemble",
+          "meaning": "disguise or conceal",
+          "note": "This is the all-purpose choice for disguising or concealing something, especially feelings or opinions."
+        },
+        {
+          "id": "f4l9r5ba",
+          "word": "disguise",
+          "meaning": "to conceal by false appearance",
+          "note": "Use 掩飾 when concealing true intentions, feelings, or another fact behind a misleading appearance."
+        }
+      ],
       "examples": [
         {
           "english": "They often dissemble their true feelings in front of other people.",

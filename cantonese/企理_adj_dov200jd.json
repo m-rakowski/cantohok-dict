@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "neat and tidy",
-      "english": ["tidy", "orderly", "neat"],
+      "english": [
+        {
+          "id": "s3jpr2wd",
+          "word": "tidy",
+          "meaning": "neat and orderly",
+          "note": "This is the all-purpose colloquial choice for something that is neat, orderly, and not messy."
+        },
+        {
+          "id": "erpl2kid",
+          "word": "orderly",
+          "meaning": "neat and tidy",
+          "note": "This is the all-purpose colloquial choice for things that are neat and tidy."
+        },
+        {
+          "id": "j2gup7gw",
+          "word": "neat",
+          "meaning": "clean, tidy",
+          "note": "This is the all-purpose everyday choice for a room, appearance, or hair that is clean, tidy, and well-groomed."
+        }
+      ],
       "examples": [
         {
           "english": "My room is all tidy now.",

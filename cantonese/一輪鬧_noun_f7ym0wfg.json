@@ -6,7 +6,28 @@
   "boxes": [
     {
       "meaning": "a bout of scolding",
-      "english": ["rebuke", "lecture", "blast"],
+      "english": [
+        {
+          "id": "j76x2h52",
+          "word": "rebuke",
+          "meaning": "harsh criticism",
+          "note": "Use this for a concrete bout of angry verbal scolding, especially in casual speech."
+        },
+        {
+          "id": "h16f8iax",
+          "word": "lecture",
+          "meaning": "scolding / telling-off",
+          "register": "colloquial",
+          "note": "Use 一輪鬧 for the colloquial noun phrase meaning a bout of scolding or telling-off."
+        },
+        {
+          "id": "072s7bvq",
+          "word": "blast",
+          "meaning": "severe criticism",
+          "register": "colloquial",
+          "note": "Use this for a bout of severe scolding or verbal attack directed at someone."
+        }
+      ],
       "examples": [
         {
           "english": "The customer gave the boss a rebuke just because he was a little late.",

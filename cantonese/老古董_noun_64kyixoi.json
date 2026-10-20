@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "old outdated thing",
-      "english": ["relic", "fossil"],
+      "english": [
+        {
+          "id": "yap7ykzj",
+          "word": "relic",
+          "meaning": "old leftover thing",
+          "register": "colloquial",
+          "note": "Use this as the all-purpose choice for an old-fashioned object, especially when it is viewed with mild fondness or dismissal."
+        },
+        {
+          "id": "fe5y2vn5",
+          "word": "fossil",
+          "meaning": "old/outdated thing",
+          "note": "Use 老古董 for an outdated or extremely old thing, especially one regarded as old-fashioned."
+        }
+      ],
       "examples": [
         {
           "english": "That old radio is a real relic, and I can't bear to throw it away.",
@@ -22,7 +36,14 @@
     },
     {
       "meaning": "old-fashioned person",
-      "english": ["dinosaur"],
+      "english": [
+        {
+          "id": "x4zsj8tn",
+          "word": "dinosaur",
+          "meaning": "old-fashioned person",
+          "note": "Use this for a person or thing that seems old-fashioned, rather than for a merely obsolete object."
+        }
+      ],
       "examples": [
         {
           "english": "My grandpa is such a dinosaur and still refuses to use a mobile phone.",

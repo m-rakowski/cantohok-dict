@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "backyard",
-      "english": ["backyard", "yard"],
+      "english": [
+        {
+          "id": "grautu7q",
+          "word": "backyard",
+          "meaning": "rear yard of house",
+          "note": "This is the all-purpose term for a physical yard behind a house."
+        },
+        {
+          "id": "11d383sj",
+          "word": "yard",
+          "meaning": "house yard",
+          "note": "Use 後院 when the house yard is specifically at the back of the house."
+        }
+      ],
       "examples": [
         {
           "english": "We’re grilling in the backyard at home.",

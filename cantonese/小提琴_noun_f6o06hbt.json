@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "violin",
-      "english": ["violin", "fiddle"],
+      "english": [
+        {
+          "id": "fgoev1jr",
+          "word": "violin",
+          "meaning": "string instrument",
+          "note": "This is the all-purpose Cantonese noun for the violin."
+        },
+        {
+          "id": "pbox7d2k",
+          "word": "fiddle",
+          "meaning": "violin",
+          "note": "This is the all-purpose Cantonese noun for the stringed instrument."
+        }
+      ],
       "examples": [
         {
           "english": "I learned to play the violin when I was little, and I can still play it now.",

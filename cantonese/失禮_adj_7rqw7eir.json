@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "rude, improper, embarrassing behaviour",
-      "english": ["shameful", "impolite", "gauche", "embarrassing"],
+      "english": [
+        {
+          "id": "airyj8yw",
+          "word": "shameful",
+          "meaning": "disgraceful, deserving shame",
+          "note": "This is the all-purpose spoken choice for conduct or things regarded as disgraceful or socially embarrassing."
+        },
+        {
+          "id": "w6emzurk",
+          "word": "impolite",
+          "meaning": "not polite; rude",
+          "note": "Use this when the behaviour is especially socially embarrassing or reflects badly on the person, rather than simply lacking manners."
+        },
+        {
+          "id": "c1o9cijh",
+          "word": "gauche",
+          "meaning": "socially awkward",
+          "note": "Use this when the person's behavior is specifically embarrassing, improper, or likely to offend others."
+        },
+        {
+          "id": "d6x8b2b8",
+          "word": "embarrassing",
+          "meaning": "causing embarrassment",
+          "note": "Choose this when the embarrassment comes from behavior that is rude, improper, or disrespectful."
+        }
+      ],
       "examples": [
         {
           "english": "Yelling at people that loudly at someone else’s wedding is really shameful.",

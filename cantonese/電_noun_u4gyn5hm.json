@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "electricity",
-      "english": ["electricity"],
+      "english": [
+        {
+          "id": "ryqh3m1d",
+          "word": "electricity",
+          "meaning": "electricity / electric force",
+          "note": "This is the all-purpose everyday word for electricity as a physical phenomenon."
+        }
+      ],
       "examples": [
         {
           "english": "We learn that electricity is a natural phenomenon.",
@@ -17,7 +24,15 @@
     },
     {
       "meaning": "battery charge left in a device",
-      "english": ["battery"],
+      "english": [
+        {
+          "id": "kg2s5wiq",
+          "word": "battery",
+          "meaning": "charge left",
+          "register": "colloquial",
+          "note": "Use 電 for the charge or power remaining in a device, especially in everyday speech."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "convincing",
-      "english": ["cogent", "eloquent", "potent"],
+      "english": [
+        {
+          "id": "16uxmvz8",
+          "word": "cogent",
+          "meaning": "convincing; well-reasoned",
+          "note": "This is the all-purpose choice for an argument or explanation that is convincing."
+        },
+        {
+          "id": "6boc7w42",
+          "word": "eloquent",
+          "meaning": "fluent and persuasive",
+          "note": "Use this when the speaker's eloquence is especially persuasive or convincing."
+        },
+        {
+          "id": "ygh7046p",
+          "word": "potent",
+          "meaning": "persuasive, influential",
+          "note": "Use this specifically for an argument, explanation, or person that is persuasive or convincing."
+        }
+      ],
       "examples": [
         {
           "english": "This explanation is cogent, so everyone accepted it.",

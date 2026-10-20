@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "a kick",
-      "english": ["kick", "boot"],
+      "english": [
+        {
+          "id": "b4m60xxf",
+          "word": "kick",
+          "meaning": "kick as noun",
+          "note": "This is the all-purpose noun for one kick as a physical blow or strike."
+        },
+        {
+          "id": "hgbguoq3",
+          "word": "boot",
+          "meaning": "kick",
+          "note": "Use this noun phrase for one kick or blow delivered with the foot."
+        }
+      ],
       "examples": [
         {
           "english": "They gave me a kick.鏡頭要影晒成個舞台。",

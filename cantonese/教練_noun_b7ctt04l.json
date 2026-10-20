@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "coach, trainer",
-      "english": ["coach", "trainer"],
+      "english": [
+        {
+          "id": "au54vlsr",
+          "word": "coach",
+          "meaning": "trainer; instructor",
+          "note": "This is the all-purpose Cantonese noun for a sports or skills trainer."
+        },
+        {
+          "id": "03k3prvq",
+          "word": "trainer",
+          "meaning": "coach / instructor",
+          "note": "This is the all-purpose choice for a person who trains or coaches others."
+        }
+      ],
       "examples": [
         {
           "english": "My coach often does fitness training with me.",

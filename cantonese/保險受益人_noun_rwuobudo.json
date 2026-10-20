@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "insurance policy beneficiary",
-      "english": ["beneficiary"],
+      "english": [
+        {
+          "id": "6dzxasjc",
+          "word": "beneficiary",
+          "meaning": "insurance policy beneficiary",
+          "note": "Use this when you specifically mean the person entitled to an insurance payout rather than a beneficiary generally."
+        }
+      ],
       "examples": [
         {
           "english": "The policy states that I am the sole beneficiary of the insurance.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "not satisfied",
-      "english": ["dissatisfied", "unhappy"],
+      "english": [
+        {
+          "id": "r9bb935m",
+          "word": "dissatisfied",
+          "meaning": "unhappy; not content",
+          "note": "Use this as the all-purpose everyday way to say that you are dissatisfied, whether with a situation or with something specific."
+        },
+        {
+          "id": "29cj7gew",
+          "word": "unhappy",
+          "meaning": "not satisfied",
+          "note": "Use this when someone is dissatisfied with a product, service, result, or situation."
+        }
+      ],
       "examples": [
         {
           "english": "I am dissatisfied with this service.",

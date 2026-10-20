@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "push",
-      "english": ["push", "force", "move"],
+      "english": [
+        {
+          "id": "wuey869c",
+          "word": "push",
+          "meaning": "apply force away",
+          "note": "Use 推 as the all-purpose verb for physically moving something away, and colloquially for actively promoting an idea or product."
+        },
+        {
+          "id": "c4i2c5yq",
+          "word": "force",
+          "meaning": "force away / drive by force",
+          "note": "Use this for physically pushing or propelling something, especially when it is moved away or in a particular direction."
+        },
+        {
+          "id": "sldqnqcn",
+          "word": "move",
+          "meaning": "cause to move",
+          "note": "Use 推 when you cause something to move by pushing it, including when a force pushes it."
+        }
+      ],
       "examples": [
         {
           "english": "Don't push the table.",

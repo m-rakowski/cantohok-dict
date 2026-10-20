@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "to take a shower or bath",
-      "english": ["shower", "bathe", "wash"],
+      "english": [
+        {
+          "id": "co010yn5",
+          "word": "shower",
+          "meaning": "bathe in a shower",
+          "note": "This is the all-purpose colloquial choice for bathing using a shower."
+        },
+        {
+          "id": "jaqpubwp",
+          "word": "bathe",
+          "meaning": "wash oneself",
+          "note": "This is the all-purpose colloquial choice for washing yourself or taking a bath."
+        },
+        {
+          "id": "b4llliew",
+          "word": "wash",
+          "meaning": "wash oneself",
+          "register": "colloquial",
+          "note": "Use 沖涼 specifically for the everyday act of washing oneself by showering or bathing."
+        }
+      ],
       "examples": [
         {
           "english": "I shower as soon as I get home.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "to drive away, chase off",
-      "english": ["dislodge", "rid"],
+      "english": [
+        {
+          "id": "13wjw80i",
+          "word": "dislodge",
+          "meaning": "force out of place",
+          "note": "Use this as the all-purpose choice when forcing a person, animal, or occupant out of a place or position."
+        },
+        {
+          "id": "q7odfmdy",
+          "word": "rid",
+          "meaning": "remove/drive away",
+          "note": "Use this specifically when getting rid of someone or something by driving it away."
+        }
+      ],
       "examples": [
         {
           "english": "That stray dog kept hiding in the back staircase, so we eventually had to dislodge it.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "brand",
-      "english": ["make", "brand"],
+      "english": [
+        {
+          "id": "n5hqzjdd",
+          "word": "make",
+          "meaning": "brand; make",
+          "note": "Use 牌子 as the all-purpose choice when “make” means a product brand or make."
+        },
+        {
+          "id": "tj4zr9xq",
+          "word": "brand",
+          "meaning": "product brand",
+          "note": "Choose 牌子 in casual speech when asking or talking about which product brand something is."
+        }
+      ],
       "examples": [
         {
           "english": "Do you know what make this phone is?",

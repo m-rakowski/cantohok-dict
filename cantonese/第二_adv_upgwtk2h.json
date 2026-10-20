@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "second in rank or order",
-      "english": ["second"],
+      "english": [
+        {
+          "id": "ygyevmmo",
+          "word": "second",
+          "meaning": "batting second",
+          "note": "This is the all-purpose ordinal form for being second in rank or sequence, including a batting order when the context is clear."
+        }
+      ],
       "examples": [
         {
           "english": "I’m second in line to buy tickets.",
@@ -17,7 +24,14 @@
     },
     {
       "meaning": "secondly, second point",
-      "english": ["secondly"],
+      "english": [
+        {
+          "id": "zk01ohe2",
+          "word": "secondly",
+          "meaning": "second point in list",
+          "note": "This is the all-purpose everyday way to introduce the second point in a list or argument."
+        }
+      ],
       "examples": [
         {
           "english": "We’ll discuss the price first and, secondly, the delivery date.",

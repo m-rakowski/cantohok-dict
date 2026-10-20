@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "medical unconsciousness",
-      "english": ["coma"],
+      "english": [
+        {
+          "id": "ln66b8rf",
+          "word": "coma",
+          "meaning": "medical unconsciousness",
+          "note": "This is the all-purpose Cantonese noun for a medically induced or trauma-related coma."
+        }
+      ],
       "examples": [
         {
           "english": "They were in a coma for several days after a traffic accident.",

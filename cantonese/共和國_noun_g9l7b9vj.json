@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "republic",
-      "english": ["republic", "commonwealth"],
+      "english": [
+        {
+          "id": "fwaj1xtg",
+          "word": "republic",
+          "meaning": "state without monarch",
+          "register": "formal",
+          "note": "This is the all-purpose term for a republic as a state without a monarch."
+        },
+        {
+          "id": "52oqpvw8",
+          "word": "commonwealth",
+          "meaning": "Commonwealth (state name)",
+          "register": "formal",
+          "note": "This is the standard term for a republic, including a state officially named “Commonwealth.”"
+        }
+      ],
       "register": "formal",
       "examples": [
         {

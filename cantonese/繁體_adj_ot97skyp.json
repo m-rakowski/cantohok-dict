@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "traditional Chinese",
-      "english": ["traditional"],
+      "english": [
+        {
+          "id": "67iba209",
+          "word": "traditional",
+          "meaning": "traditional Chinese",
+          "note": "Use this specifically for traditional Chinese characters or the traditional Chinese writing system, contrasted with simplified Chinese."
+        }
+      ],
       "examples": [
         {
           "english": "I’m used to traditional Chinese characters, so simplified ones actually feel strange to me.",

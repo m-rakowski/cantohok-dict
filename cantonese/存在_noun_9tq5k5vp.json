@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "existence",
-      "english": ["existence", "being"],
+      "english": [
+        {
+          "id": "jjr66tcr",
+          "word": "existence",
+          "meaning": "state of being",
+          "register": "formal, written",
+          "note": "This is the all-purpose noun for the state of existing, especially in formal or written contexts."
+        },
+        {
+          "id": "o8po9c65",
+          "word": "being",
+          "meaning": "existence; life",
+          "register": "formal",
+          "note": "Use this for existence as an abstract fact, especially in philosophical or formal discussion rather than for life itself."
+        }
+      ],
       "examples": [
         {
           "english": "The existence of this system is important to society.",

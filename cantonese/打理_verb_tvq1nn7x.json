@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "look after, manage",
-      "english": ["tend", "run"],
+      "english": [
+        {
+          "id": "6xpcgbmy",
+          "word": "tend",
+          "meaning": "look after, care for",
+          "note": "Use this instead of 照顧 when tending means maintaining or putting a place, garden, or things in order."
+        },
+        {
+          "id": "96rogqx2",
+          "word": "run",
+          "meaning": "manage; be in charge",
+          "note": "Use this when someone manages or is in charge of a shop, business, or other responsibility."
+        }
+      ],
       "examples": [
         {
           "english": "I tend the little garden at home every day.",

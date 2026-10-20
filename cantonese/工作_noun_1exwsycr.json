@@ -6,7 +6,50 @@
   "boxes": [
     {
       "meaning": "job, work",
-      "english": ["work", "job", "task", "occupation", "employment", "profession", "gig"],
+      "english": [
+        {
+          "id": "6xjwejtx",
+          "word": "work",
+          "meaning": "job; employment",
+          "note": "Use 工作 as the all-purpose noun for a job or for tasks that need doing."
+        },
+        {
+          "id": "ep06tqny",
+          "word": "job",
+          "meaning": "paid employment",
+          "note": "This is the all-purpose everyday noun for paid employment and an ordinary task or piece of work."
+        },
+        {
+          "id": "78fj3j2z",
+          "word": "task",
+          "meaning": "work assignment",
+          "note": "This is the all-purpose choice for an ordinary piece of work or work assignment."
+        },
+        {
+          "id": "rbx0kkva",
+          "word": "occupation",
+          "meaning": "job; profession",
+          "note": "This is the all-purpose noun for a job or regular work."
+        },
+        {
+          "id": "jpcitbbe",
+          "word": "employment",
+          "meaning": "job; work",
+          "note": "This is the all-purpose everyday choice when employment means a person's job or work."
+        },
+        {
+          "id": "5ph92cpw",
+          "word": "profession",
+          "meaning": "occupation; job",
+          "note": "Use this as the everyday all-purpose word for someone's job or occupation."
+        },
+        {
+          "id": "bt7hlp3t",
+          "word": "gig",
+          "meaning": "job, freelance work",
+          "note": "Use this as the all-purpose word for a job or piece of work."
+        }
+      ],
       "examples": [
         {
           "english": "I have a lot of work to do today.",

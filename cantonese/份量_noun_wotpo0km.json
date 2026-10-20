@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "amount, serving size",
-      "english": ["amount", "quantity", "measure"],
+      "english": [
+        {
+          "id": "693fchk5",
+          "word": "amount",
+          "meaning": "quantity; volume",
+          "note": "Use this for the amount or portion of a substance, especially when discussing how much to add, use, or serve."
+        },
+        {
+          "id": "24xpgw2q",
+          "word": "quantity",
+          "meaning": "an amount",
+          "note": "Use this for the amount or portion of something such as food, liquid, ingredients, or work."
+        },
+        {
+          "id": "23bybhkc",
+          "word": "measure",
+          "meaning": "serving amount; quantity of something",
+          "note": "Use this when “measure” means the amount or portion of something dealt out, rather than the vessel itself."
+        }
+      ],
       "examples": [
         {
           "english": "The amount of salt you add should be a little less.",
@@ -27,7 +46,14 @@
     },
     {
       "meaning": "weight, importance",
-      "english": ["moment"],
+      "english": [
+        {
+          "id": "6f68x49j",
+          "word": "moment",
+          "meaning": "importance",
+          "note": "Use 份量 for importance expressed as influence, standing, or figurative weight rather than abstract importance."
+        }
+      ],
       "examples": [
         {
           "english": "Their opinion carries a lot of moment in the company.",

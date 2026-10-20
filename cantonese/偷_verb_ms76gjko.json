@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "to steal",
-      "english": ["steal", "lift"],
+      "english": [
+        {
+          "id": "1mbgkxkc",
+          "word": "steal",
+          "meaning": "take illegally",
+          "note": "This is the all-purpose colloquial verb for taking someone else’s property without permission."
+        },
+        {
+          "id": "k7s47yec",
+          "word": "lift",
+          "meaning": "steal",
+          "note": "Use this everyday verb when lift means steal."
+        }
+      ],
       "examples": [
         {
           "english": "I would never steal other people's things.",

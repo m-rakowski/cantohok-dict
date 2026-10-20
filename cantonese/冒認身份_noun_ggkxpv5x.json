@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "identity deception",
-      "english": ["fraud"],
+      "english": [
+        {
+          "id": "5zk4sjha",
+          "word": "fraud",
+          "meaning": "identity deception",
+          "note": "Use this specifically when the fraud involves pretending to be another person or using a false identity."
+        }
+      ],
       "examples": [
         {
           "english": "Someone committed fraud by assuming my identity and opened an online account in my name.",

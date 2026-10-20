@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "water jug for pouring",
-      "english": ["kettle"],
+      "english": [
+        {
+          "id": "wif4gufk",
+          "word": "kettle",
+          "meaning": "boiling vessel",
+          "note": "Use this when presenting the kettle as a general water vessel rather than specifically as a household boiling appliance."
+        }
+      ],
       "examples": [
         {
           "english": "The kettle on the table is for pouring water.",
@@ -17,7 +24,20 @@
     },
     {
       "meaning": "water bottle you carry",
-      "english": ["jug", "canteen"],
+      "english": [
+        {
+          "id": "iy7bexg8",
+          "word": "jug",
+          "meaning": "pitcher/container",
+          "note": "Use this when the jug is specifically for holding or serving water."
+        },
+        {
+          "id": "4ntbl32c",
+          "word": "canteen",
+          "meaning": "water bottle",
+          "note": "Use this for the portable flask or water container carried by a soldier or camper."
+        }
+      ],
       "examples": [
         {
           "english": "Remember to bring the water jug hiking; there is no water to buy on the mountain.",

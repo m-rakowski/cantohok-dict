@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "email inbox",
-      "english": ["mailbox"],
+      "english": [
+        {
+          "id": "h1w1kmcr",
+          "word": "mailbox",
+          "meaning": "email inbox",
+          "note": "Use this for an electronic inbox where email is received and stored."
+        }
+      ],
       "examples": [
         {
           "english": "Check your mailbox to see if there are any new emails.",

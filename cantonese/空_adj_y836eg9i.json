@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "empty",
-      "english": ["empty", "vacant"],
+      "english": [
+        {
+          "id": "k1w0fkkq",
+          "word": "empty",
+          "meaning": "contains nothing",
+          "note": "Use 空 as the all-purpose adjective for something with nothing or nobody inside it."
+        },
+        {
+          "id": "cxm86n38",
+          "word": "vacant",
+          "meaning": "empty / unoccupied",
+          "note": "This is the all-purpose choice for a room, seat, or other place that is unoccupied."
+        }
+      ],
       "examples": [
         {
           "english": "The fridge is empty.",

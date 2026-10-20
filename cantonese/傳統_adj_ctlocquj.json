@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "traditional",
-      "english": ["traditional", "classic"],
+      "english": [
+        {
+          "id": "vh69131z",
+          "word": "traditional",
+          "meaning": "based on tradition",
+          "note": "This is the all-purpose choice for things based on tradition and for neutral traditional values or practices."
+        },
+        {
+          "id": "jfi0lovl",
+          "word": "classic",
+          "meaning": "original, standard version",
+          "note": "Use 傳統 for the original or conventional version, especially in labels such as 傳統模式."
+        }
+      ],
       "examples": [
         {
           "english": "This festival still preserves many traditional customs.",

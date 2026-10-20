@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "compromise",
-      "english": ["compromise", "accommodation"],
+      "english": [
+        {
+          "id": "zw4o8ybo",
+          "word": "compromise",
+          "meaning": "settlement by mutual concessions",
+          "note": "This is the all-purpose noun for a settlement reached through mutual concessions."
+        },
+        {
+          "id": "4hih00g8",
+          "word": "accommodation",
+          "meaning": "compromise, settlement",
+          "note": "Use this when accommodation means a compromise or agreement reached by adjusting conflicting positions."
+        }
+      ],
       "examples": [
         {
           "english": "After a long discussion, both sides finally found a compromise.",

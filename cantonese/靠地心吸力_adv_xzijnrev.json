@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "by gravity",
-      "english": ["gravitationally"],
+      "english": [
+        {
+          "id": "oadluxuw",
+          "word": "gravitationally",
+          "meaning": "by gravity",
+          "note": "This is the all-purpose spoken rendering for something happening as a result of gravity."
+        }
+      ],
       "examples": [
         {
           "english": "The apple falls to the ground gravitationally.",

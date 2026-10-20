@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "video, film",
-      "english": ["video"],
+      "english": [
+        {
+          "id": "750drfy0",
+          "word": "video",
+          "meaning": "video / movie / film",
+          "note": "This is the all-purpose casual noun for a video, film, or clip."
+        }
+      ],
       "examples": [
         {
           "english": "I just finished watching that video.",
@@ -17,7 +24,15 @@
     },
     {
       "meaning": "diaper",
-      "english": ["diaper"],
+      "english": [
+        {
+          "id": "dclvbibo",
+          "word": "diaper",
+          "meaning": "baby/incontinence garment",
+          "register": "colloquial",
+          "note": "This is a casual shorthand used when the childcare context already makes “diaper” clear."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

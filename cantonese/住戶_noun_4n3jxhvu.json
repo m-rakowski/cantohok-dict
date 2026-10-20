@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "resident household in a building",
-      "english": ["occupant", "inhabitant", "household"],
+      "english": [
+        {
+          "id": "zuc6kooo",
+          "word": "occupant",
+          "meaning": "person in a place",
+          "note": "Use this for a person or household occupying a residential unit, especially in housing or property contexts."
+        },
+        {
+          "id": "y6g5y6ci",
+          "word": "inhabitant",
+          "meaning": "person/thing living in a place",
+          "note": "Use this when referring to residents as households or occupants of a building or housing estate rather than as individual people."
+        },
+        {
+          "id": "7k22w05s",
+          "word": "household",
+          "meaning": "household as living unit",
+          "register": "formal",
+          "note": "Use this for an official or demographic household unit, especially when referring to its occupants."
+        }
+      ],
       "examples": [
         {
           "english": "Each occupant of the estate can apply to the management office for a parking space.",

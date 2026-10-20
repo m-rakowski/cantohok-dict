@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "price quote",
-      "english": ["quotation", "quote", "estimate"],
+      "english": [
+        {
+          "id": "2nf4hhq0",
+          "word": "quotation",
+          "meaning": "price estimate",
+          "note": "This is the all-purpose Cantonese noun for a quoted price or estimate."
+        },
+        {
+          "id": "0ywhpwns",
+          "word": "quote",
+          "meaning": "price estimate",
+          "note": "Use 報價 for a set-price estimate for work or goods; the other renderings refer to different senses."
+        },
+        {
+          "id": "xi6a5v18",
+          "word": "estimate",
+          "meaning": "cost estimate / quotation",
+          "note": "Use this for the amount a business or contractor tells you a job is likely to cost, rather than for a general estimate."
+        }
+      ],
       "examples": [
         {
           "english": "The renovation company still hasn’t given me a quotation.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "specific, concrete",
-      "english": ["specific", "concrete"],
+      "english": [
+        {
+          "id": "i33zkphd",
+          "word": "specific",
+          "meaning": "definite; explicit",
+          "note": "Use this as the all-purpose everyday choice when “specific” contrasts with vague or general, especially for details or requirements."
+        },
+        {
+          "id": "30af22sm",
+          "word": "concrete",
+          "meaning": "specific, definite",
+          "note": "This is the all-purpose choice for something specific or tangible rather than abstract."
+        }
+      ],
       "examples": [
         {
           "english": "The requirements for this job need to be very specific; don't just say “as soon as possible.”",

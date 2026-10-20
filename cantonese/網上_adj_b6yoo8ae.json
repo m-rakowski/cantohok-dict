@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "online",
-      "english": ["online", "virtual"],
+      "english": [
+        {
+          "id": "odbc1uqt",
+          "word": "online",
+          "meaning": "available on the Internet",
+          "note": "Use this as the everyday choice for something available through the Internet, such as 網上購物 or 網上服務."
+        },
+        {
+          "id": "655lscbz",
+          "word": "virtual",
+          "meaning": "online, not in person",
+          "note": "Use this when “virtual” means online or remote, contrasting internet-based activity with meeting in person; it does not specifically imply computer simulation."
+        }
+      ],
       "examples": [
         {
           "english": "I often buy daily necessities online.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "network",
-      "english": ["net", "tissue"],
+      "english": [
+        {
+          "id": "t0gs02ns",
+          "word": "net",
+          "meaning": "computer network",
+          "note": "Use 網絡 for a computer or communications network rather than a physical mesh."
+        },
+        {
+          "id": "r43kvda4",
+          "word": "tissue",
+          "meaning": "network, web, tissue of",
+          "note": "Use this for the connected web or network sense, rather than for physical tissue or paper tissue."
+        }
+      ],
       "examples": [
         {
           "english": "The company's network keeps going down, so I can't get on the net.",

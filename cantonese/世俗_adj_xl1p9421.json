@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "worldly, not religious",
-      "english": ["secular", "worldly"],
+      "english": [
+        {
+          "id": "x8knktgk",
+          "word": "secular",
+          "meaning": "not religious; lay",
+          "note": "This is the all-purpose choice for something nonreligious, lay, or worldly rather than clerical or timeless."
+        },
+        {
+          "id": "r9hutpfw",
+          "word": "worldly",
+          "meaning": "earthly, physical",
+          "note": "Use this for earthly or worldly matters in contrast with spiritual matters."
+        }
+      ],
       "examples": [
         {
           "english": "This is a problem commonly faced by secular society.",

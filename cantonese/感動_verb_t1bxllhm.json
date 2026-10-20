@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "move emotionally",
-      "english": ["transport", "stir", "touch", "move"],
+      "english": [
+        {
+          "id": "457ec48g",
+          "word": "transport",
+          "meaning": "move emotionally",
+          "note": "Use this when something moves a person deeply or stirs strong emotion, rather than physically carrying them."
+        },
+        {
+          "id": "l5k2kkvf",
+          "word": "stir",
+          "meaning": "move emotionally",
+          "note": "Use this when a person is emotionally touched or moved by something."
+        },
+        {
+          "id": "bnzyh4rl",
+          "word": "touch",
+          "meaning": "move emotionally",
+          "note": "Use this when touch means moving someone emotionally rather than making physical contact."
+        },
+        {
+          "id": "fegtb8hq",
+          "word": "move",
+          "meaning": "emotionally affect",
+          "note": "Use 感動 when something arouses tenderness, compassion, or another strong feeling in someone."
+        }
+      ],
       "examples": [
         {
           "english": "This film really did transport me emotionally—I cried.",

@@ -6,7 +6,28 @@
   "boxes": [
     {
       "meaning": "stingy",
-      "english": ["stingy", "mean", "cheap"],
+      "english": [
+        {
+          "id": "w4lxaku2",
+          "word": "stingy",
+          "meaning": "unwilling to spend/share",
+          "register": "colloquial",
+          "note": "This is the all-purpose choice for a person who is generally unwilling to spend, give, or share."
+        },
+        {
+          "id": "9aqy0hol",
+          "word": "mean",
+          "meaning": "stingy",
+          "note": "Use this specifically for someone who is ungenerous with money or gifts."
+        },
+        {
+          "id": "72w49lp2",
+          "word": "cheap",
+          "meaning": "stingy",
+          "register": "colloquial",
+          "note": "Use this for a person who is stingy or excessively unwilling to spend money."
+        }
+      ],
       "examples": [
         {
           "english": "He is really stingy and never agrees to chip in for a meal.",

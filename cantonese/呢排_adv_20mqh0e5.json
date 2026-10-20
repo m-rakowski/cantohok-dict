@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "lately, these days",
-      "english": ["recently", "lately"],
+      "english": [
+        {
+          "id": "fg59d2mz",
+          "word": "recently",
+          "meaning": "in recent times",
+          "register": "colloquial",
+          "note": "Use this for an ongoing recent stretch around now, especially in the sense of “these days” or “lately.”"
+        },
+        {
+          "id": "4celpwh8",
+          "word": "lately",
+          "meaning": "recently; of late",
+          "register": "colloquial",
+          "note": "Use this for “these days” when the recent period is understood as the speaker's current situation."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

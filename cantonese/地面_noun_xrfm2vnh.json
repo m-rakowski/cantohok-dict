@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "ground surface",
-      "english": ["terrain", "pavement"],
+      "english": [
+        {
+          "id": "64093nc1",
+          "word": "terrain",
+          "meaning": "ground; earth surface",
+          "note": "Use this when terrain means the ground or the earth's surface itself, rather than its shape or features."
+        },
+        {
+          "id": "28z06km9",
+          "word": "pavement",
+          "meaning": "hard ground surface",
+          "note": "Use this as the general ground-surface term when the area is not specifically a road or sidewalk."
+        }
+      ],
       "examples": [
         {
           "english": "The terrain is very slippery after the rain, so walk slowly.",

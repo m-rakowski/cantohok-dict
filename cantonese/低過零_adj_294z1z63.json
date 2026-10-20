@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "below zero",
-      "english": ["negative"],
+      "english": [
+        {
+          "id": "vldxa8yt",
+          "word": "negative",
+          "meaning": "below zero",
+          "note": "Use this for a number or measurement that is below zero."
+        }
+      ],
       "examples": [
         {
           "english": "Tonight's temperature will be negative, below zero.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "volume, size of an object",
-      "english": ["bulk", "volume"],
+      "english": [
+        {
+          "id": "6tqoiefj",
+          "word": "bulk",
+          "meaning": "large body",
+          "note": "Use this for the physical volume or bulk of an object or structure, rather than a person's body."
+        },
+        {
+          "id": "6nnhemfj",
+          "word": "volume",
+          "meaning": "space measurement",
+          "note": "Use this specifically for three-dimensional space measured in cubic units."
+        }
+      ],
       "examples": [
         {
           "english": "The bulk of this piece of furniture is too large to fit in the lift.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "import data into software",
-      "english": ["import"],
+      "english": [
+        {
+          "id": "xexy4n4d",
+          "word": "import",
+          "meaning": "load data into software",
+          "note": "Use this as the usual software term for loading a file or data from another system or version."
+        }
+      ],
       "examples": [
         {
           "english": "You should import the data from the old version into the new system first.",
@@ -17,7 +24,14 @@
     },
     {
       "meaning": "flow or merge into",
-      "english": ["merge"],
+      "english": [
+        {
+          "id": "8y37nso0",
+          "word": "merge",
+          "meaning": "blend gradually",
+          "note": "Use this for a stream, road, or traffic lane flowing into another route or stream."
+        }
+      ],
       "examples": [
         {
           "english": "This lane will merge into the main road a little further ahead, so don't get into the wrong lane.",

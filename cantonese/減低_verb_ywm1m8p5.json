@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "lower, reduce",
-      "english": ["detract", "reduce"],
+      "english": [
+        {
+          "id": "m4vn3xnc",
+          "word": "detract",
+          "meaning": "take away, diminish",
+          "note": "Use this as the all-purpose choice when something diminishes the effect, value, or importance of something else."
+        },
+        {
+          "id": "tql9vb3a",
+          "word": "reduce",
+          "meaning": "make smaller / less",
+          "note": "Use this for lowering a level, intensity, risk, cost, or similar measurable property rather than simply reducing a quantity."
+        }
+      ],
       "examples": [
         {
           "english": "This small flaw does detract from the appeal of the work.",

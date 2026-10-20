@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "Catholic priest",
-      "english": ["priest", "pastor", "father"],
+      "english": [
+        {
+          "id": "xcdzk01m",
+          "word": "priest",
+          "meaning": "religious clergyperson",
+          "note": "This is the all-purpose choice for a Catholic priest or parish clergyperson."
+        },
+        {
+          "id": "4dayak43",
+          "word": "pastor",
+          "meaning": "minister or priest",
+          "note": "Use this specifically for a Catholic priest rather than a Protestant 牧師."
+        },
+        {
+          "id": "ux0vskfy",
+          "word": "father",
+          "meaning": "priest",
+          "note": "Use 神父 for a priest, especially when addressing or referring to a Catholic priest."
+        }
+      ],
       "examples": [
         {
           "english": "This priest leads Mass in our parish every Sunday.",

@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "suddenly",
-      "english": ["suddenly", "abruptly", "sharply"],
+      "english": [
+        {
+          "id": "ccuyu89t",
+          "word": "suddenly",
+          "meaning": "happening with no warning",
+          "note": "This is the all-purpose choice for something happening quickly and with little or no warning."
+        },
+        {
+          "id": "0lxlhelx",
+          "word": "abruptly",
+          "meaning": "suddenly, without warning",
+          "note": "This is the all-purpose choice for something happening suddenly and without warning."
+        },
+        {
+          "id": "cbuq5jix",
+          "word": "sharply",
+          "meaning": "suddenly, abruptly",
+          "note": "This is the all-purpose Cantonese choice for an abrupt or sudden reaction."
+        }
+      ],
       "examples": [
         {
           "english": "I suddenly forgot to bring my keys.",

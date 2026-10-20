@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "serious, sincere, not joking",
-      "english": ["serious"],
+      "english": [
+        {
+          "id": "w72btfe3",
+          "word": "serious",
+          "meaning": "in earnest, not joking",
+          "note": "This is the all-purpose spoken choice for being serious or earnest rather than joking."
+        }
+      ],
       "examples": [
         {
           "english": "I'm being serious when I tell you this.",
@@ -17,7 +24,26 @@
     },
     {
       "meaning": "conscientious, diligent",
-      "english": ["earnest", "conscientious", "painstaking"],
+      "english": [
+        {
+          "id": "s92qgo35",
+          "word": "earnest",
+          "meaning": "serious, sincere",
+          "note": "This is the all-purpose choice for a serious, sincere attitude or earnest effort and intent."
+        },
+        {
+          "id": "5d7cug02",
+          "word": "conscientious",
+          "meaning": "careful, thorough worker",
+          "note": "Use this as the all-purpose choice for someone who carries out work conscientiously and diligently."
+        },
+        {
+          "id": "g17wexip",
+          "word": "painstaking",
+          "meaning": "careful and diligent",
+          "note": "Use 認真 when the emphasis is on conscientious, diligent performance rather than minute detail."
+        }
+      ],
       "examples": [
         {
           "english": "They are always earnest about their work, so I feel comfortable leaving it to them.",

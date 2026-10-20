@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "to skip, omit",
-      "english": ["skip"],
+      "english": [
+        {
+          "id": "qzoq7oxt",
+          "word": "skip",
+          "meaning": "omit or miss",
+          "note": "This is the all-purpose choice for deliberately omitting an item, step, or section."
+        }
+      ],
       "examples": [
         {
           "english": "This page is too long, so I decided to skip it.",
@@ -17,7 +24,14 @@
     },
     {
       "meaning": "to jump over",
-      "english": ["leap"],
+      "english": [
+        {
+          "id": "czvilcxo",
+          "word": "leap",
+          "meaning": "jump over",
+          "note": "Use this when the leap carries someone over an obstacle or gap."
+        }
+      ],
       "examples": [
         {
           "english": "I leap over the ditch.",

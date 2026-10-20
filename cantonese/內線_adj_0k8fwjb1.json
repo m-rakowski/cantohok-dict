@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "inside lane / road side",
-      "english": ["inside"],
+      "english": [
+        {
+          "id": "k18eu84i",
+          "word": "inside",
+          "meaning": "inside lane / road side",
+          "note": "Use this specifically for the inside lane or road-side lane in a traffic context."
+        }
+      ],
       "examples": [
         {
           "english": "There’s a traffic jam ahead, so let’s move into the inside lane.",

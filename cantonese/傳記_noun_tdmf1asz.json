@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "person's life story",
-      "english": ["biography"],
+      "english": [
+        {
+          "id": "b6cgubx8",
+          "word": "biography",
+          "meaning": "person's life story",
+          "note": "This is the all-purpose choice for a published account of a person's life."
+        }
+      ],
       "examples": [
         {
           "english": "This biography is very detailed.",

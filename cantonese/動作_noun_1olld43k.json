@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "physical movement, action, move",
-      "english": ["action", "gesture", "motion", "move", "activity"],
+      "english": [
+        {
+          "id": "wvnqv38v",
+          "word": "action",
+          "meaning": "exciting activity",
+          "note": "Use 動作 for a physical movement or for fast-moving physical activity, especially in a film."
+        },
+        {
+          "id": "75ng83we",
+          "word": "gesture",
+          "meaning": "body motion",
+          "note": "Use this for a general body movement when it is not specifically a hand signal or communicative gesture."
+        },
+        {
+          "id": "5d8cohfc",
+          "word": "motion",
+          "meaning": "movement",
+          "note": "Use this for a particular physical movement or gesture rather than motion as a general state."
+        },
+        {
+          "id": "jxd4ez38",
+          "word": "move",
+          "meaning": "dance or fight move",
+          "note": "Use this for a practiced dance, sports, exercise, or fighting move."
+        },
+        {
+          "id": "5xkx0z16",
+          "word": "activity",
+          "meaning": "action or movement",
+          "note": "Use 動作 when the activity specifically means a discrete physical movement or action rather than a general or planned activity."
+        }
+      ],
       "examples": [
         {
           "english": "The action scenes in the film are really exciting.",

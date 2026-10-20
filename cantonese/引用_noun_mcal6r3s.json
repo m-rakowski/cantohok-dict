@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "quoting, citing",
-      "english": ["citation", "quotation"],
+      "english": [
+        {
+          "id": "0ibgg5vt",
+          "word": "citation",
+          "meaning": "quoting a source",
+          "note": "This is the all-purpose choice for the act of quoting or citing someone else's exact words and source."
+        },
+        {
+          "id": "92hqt1yi",
+          "word": "quotation",
+          "meaning": "quoting someone",
+          "register": "formal",
+          "note": "Use this formal noun for the act or process of quoting someone or something."
+        }
+      ],
       "examples": [
         {
           "english": "We included a citation of that scholar’s exact words in the report.",
@@ -22,7 +36,15 @@
     },
     {
       "meaning": "a quotation",
-      "english": ["quote"],
+      "english": [
+        {
+          "id": "p4nsro2w",
+          "word": "quote",
+          "meaning": "quotation, attributed statement",
+          "register": "written",
+          "note": "For an attributed quotation, 引用 is the all-purpose choice in formal or written contexts; it does not mean quotation marks or a price estimate."
+        }
+      ],
       "register": "written",
       "examples": [
         {

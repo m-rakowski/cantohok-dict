@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "to cooperate, work together",
-      "english": ["cooperate", "collaborate"],
+      "english": [
+        {
+          "id": "rfrx002e",
+          "word": "cooperate",
+          "meaning": "work together",
+          "note": "This is the all-purpose choice for working together toward a shared purpose or benefit."
+        },
+        {
+          "id": "wsjoct5f",
+          "word": "collaborate",
+          "meaning": "work together",
+          "note": "This is the all-purpose choice for working with others toward a shared goal."
+        }
+      ],
       "examples": [
         {
           "english": "We need to cooperate to complete this plan.",

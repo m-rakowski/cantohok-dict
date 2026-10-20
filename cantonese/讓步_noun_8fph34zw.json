@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "concession, giving way",
-      "english": ["concession", "compromise"],
+      "english": [
+        {
+          "id": "waoz3vvl",
+          "word": "concession",
+          "meaning": "compromise",
+          "note": "This is the all-purpose noun for yielding partway to someone’s demands or requests."
+        },
+        {
+          "id": "w18v36j8",
+          "word": "compromise",
+          "meaning": "damaging concession",
+          "note": "Use 讓步 when the compromise means giving up something or making a one-sided concession."
+        }
+      ],
       "examples": [
         {
           "english": "This time we both need to make a concession before we can reach a deal.",

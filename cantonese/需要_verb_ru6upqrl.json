@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "need, require",
-      "english": ["need", "require", "demand", "beg"],
+      "english": [
+        {
+          "id": "ppghakde",
+          "word": "need",
+          "meaning": "need; require",
+          "note": "Use this when explicitly stating that a thing, resource, or condition is required."
+        },
+        {
+          "id": "7iz708rr",
+          "word": "require",
+          "meaning": "need, need as necessary",
+          "note": "Use this when emphasizing that something is necessary, especially for a process, treatment, or condition rather than ordering a person."
+        },
+        {
+          "id": "ncqjbnny",
+          "word": "demand",
+          "meaning": "require",
+          "note": "Use this when a job, situation, or task requires a quality, resource, or amount rather than when someone is being ordered to provide it."
+        },
+        {
+          "id": "4u9jo5lf",
+          "word": "beg",
+          "meaning": "demand attention",
+          "note": "Use this when something clearly needs or calls for another thing, including a figurative need for an adaptation or response."
+        }
+      ],
       "examples": [
         {
           "english": "We need more data to do this report.",

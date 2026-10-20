@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "skill, ability",
-      "english": ["repertoire", "knack"],
+      "english": [
+        {
+          "id": "egh7b6h9",
+          "word": "repertoire",
+          "meaning": "range of skills or abilities",
+          "note": "Use this as the all-purpose choice for a person's range of skills and abilities."
+        },
+        {
+          "id": "u7jkvu9u",
+          "word": "knack",
+          "meaning": "skill; aptitude",
+          "note": "Use 本領 as the all-purpose noun for a person's practical skill or aptitude."
+        }
+      ],
       "examples": [
         {
           "english": "Cooking and fixing things are all part of his repertoire.",

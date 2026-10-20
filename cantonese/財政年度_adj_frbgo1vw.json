@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "fiscal year",
-      "english": ["fiscal"],
+      "english": [
+        {
+          "id": "tchvdih3",
+          "word": "fiscal",
+          "meaning": "fiscal year",
+          "note": "Use this specifically for a fiscal year rather than for fiscal matters in general."
+        }
+      ],
       "examples": [
         {
           "english": "The company did not give raises this fiscal year.",

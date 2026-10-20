@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "diplomat",
-      "english": ["ambassador"],
+      "english": [
+        {
+          "id": "ki4n2gyf",
+          "word": "ambassador",
+          "meaning": "diplomat",
+          "note": "Use 大使 as the default term for a government diplomat or official representative, not for a company spokesperson."
+        }
+      ],
       "examples": [
         {
           "english": "The British ambassador will come to Hong Kong next month to attend a meeting.",

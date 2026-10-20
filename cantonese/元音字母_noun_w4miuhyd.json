@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "vowel letter",
-      "english": ["vowel"],
+      "english": [
+        {
+          "id": "pul0sl75",
+          "word": "vowel",
+          "meaning": "vowel letter",
+          "note": "Use this specifically for a written vowel letter such as a, e, i, o, or u."
+        }
+      ],
       "examples": [
         {
           "english": "Does English only have five vowel letters?",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "schedule of times",
-      "english": ["timetable"],
+      "english": [
+        {
+          "id": "hoi9oyrr",
+          "word": "timetable",
+          "meaning": "schedule of times",
+          "note": "Use this specifically for a table of scheduled bus, train, flight, or other service departures and arrivals."
+        }
+      ],
       "examples": [
         {
           "english": "The bus stop has posted the latest timetable, so we can just follow it to catch the bus.",

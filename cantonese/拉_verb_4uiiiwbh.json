@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "pull",
-      "english": ["pull", "draw"],
+      "english": [
+        {
+          "id": "ar3n95or",
+          "word": "pull",
+          "meaning": "pull toward oneself",
+          "note": "This is the all-purpose verb for pulling something toward oneself."
+        },
+        {
+          "id": "xqjw3mdt",
+          "word": "draw",
+          "meaning": "pull out / pull along",
+          "note": "This is the all-purpose choice for physically pulling something, including a body part or curtain."
+        }
+      ],
       "examples": [
         {
           "english": "Pull the chair over here first.",
@@ -22,7 +35,29 @@
     },
     {
       "meaning": "arrest (police)",
-      "english": ["arrest", "apprehend", "bust"],
+      "english": [
+        {
+          "id": "ypqsebvi",
+          "word": "arrest",
+          "meaning": "arrest; take into custody",
+          "register": "colloquial",
+          "note": "This is the all-purpose casual choice for taking someone into police custody."
+        },
+        {
+          "id": "6dairyqv",
+          "word": "apprehend",
+          "meaning": "arrest, seize",
+          "register": "colloquial",
+          "note": "Use this colloquial word when police arrest or take someone into custody."
+        },
+        {
+          "id": "a52r2vus",
+          "word": "bust",
+          "meaning": "arrest",
+          "register": "colloquial",
+          "note": "Use 拉 as the all-purpose colloquial verb when the police arrest someone."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

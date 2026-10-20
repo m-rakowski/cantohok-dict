@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "to copy",
-      "english": ["copy", "clone", "reproduce"],
+      "english": [
+        {
+          "id": "tucuiq8v",
+          "word": "copy",
+          "meaning": "duplicate / make a copy",
+          "note": "Use this as the all-purpose verb for making an identical copy, including copying computer files."
+        },
+        {
+          "id": "pkp6luh6",
+          "word": "clone",
+          "meaning": "make an exact copy",
+          "note": "This is the all-purpose choice for making an exact copy, including cloning an animal or organism."
+        },
+        {
+          "id": "h5mjngtq",
+          "word": "reproduce",
+          "meaning": "make a copy/image",
+          "note": "This is the all-purpose choice for making a copy or image of something."
+        }
+      ],
       "examples": [
         {
           "english": "I need to copy this document.",

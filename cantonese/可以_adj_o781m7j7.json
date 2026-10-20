@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "okay, acceptable",
-      "english": ["acceptable", "all right"],
+      "english": [
+        {
+          "id": "eenbx5kt",
+          "word": "acceptable",
+          "meaning": "good enough / suitable",
+          "note": "This is the all-purpose spoken choice for something that is acceptable or okay, whether suitable or merely passable."
+        },
+        {
+          "id": "djyiwf2n",
+          "word": "all right",
+          "meaning": "acceptable; okay",
+          "note": "Use 可以 as the all-purpose casual choice when something is acceptable or okay, especially in an evaluation."
+        }
+      ],
       "examples": [
         {
           "english": "This plan is acceptable.",
@@ -22,7 +35,14 @@
     },
     {
       "meaning": "able to, can",
-      "english": ["able"],
+      "english": [
+        {
+          "id": "zgrk0ry6",
+          "word": "able",
+          "meaning": "can do; has the ability",
+          "note": "This is the all-purpose choice for being able to do something or being permitted to do it."
+        }
+      ],
       "examples": [
         {
           "english": "I am able to finish work early today.",

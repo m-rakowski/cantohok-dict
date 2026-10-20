@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "basic human freedoms",
-      "english": ["human rights"],
+      "english": [
+        {
+          "id": "o1s15rom",
+          "word": "human rights",
+          "meaning": "basic human freedoms",
+          "note": "Use 人權 as the all-purpose term for the basic rights and freedoms guaranteed to all people."
+        }
+      ],
       "examples": [
         {
           "english": "Protecting human rights is a responsibility every government should take on.",

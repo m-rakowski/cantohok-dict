@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "but unexpectedly, only to find",
-      "english": ["unexpectedly", "only"],
+      "english": [
+        {
+          "id": "zidt6541",
+          "word": "unexpectedly",
+          "meaning": "in an unexpected manner",
+          "register": "colloquial",
+          "note": "Use this in a narrative turn meaning that events unexpectedly turned out differently from what was just expected."
+        },
+        {
+          "id": "i8mdf8tw",
+          "word": "only",
+          "meaning": "only to: but then",
+          "note": "Use this before an unexpected or disappointing result corresponding to English “only to.”"
+        }
+      ],
       "examples": [
         {
           "english": "I thought the bus still had seats, but unexpectedly it was full as soon as I got on.",

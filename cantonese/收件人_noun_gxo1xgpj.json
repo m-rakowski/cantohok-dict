@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "intended recipient",
-      "english": ["addressee"],
+      "english": [
+        {
+          "id": "u3uko3kq",
+          "word": "addressee",
+          "meaning": "intended recipient",
+          "note": "This is the all-purpose choice for the person or organization meant to receive a letter, message, parcel, or other item."
+        }
+      ],
       "examples": [
         {
           "english": "The addressee for this parcel is you.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "tropical rainforest",
-      "english": ["jungle", "rainforest"],
+      "english": [
+        {
+          "id": "hzd39zs1",
+          "word": "jungle",
+          "meaning": "tropical forest",
+          "note": "This is the all-purpose term for a tropical rainforest or jungle."
+        },
+        {
+          "id": "28zn8rt7",
+          "word": "rainforest",
+          "meaning": "tropical forest",
+          "note": "This is the precise, all-purpose term for a tropical rainforest."
+        }
+      ],
       "examples": [
         {
           "english": "There are many rare animals in this jungle.",

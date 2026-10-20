@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "pass through porous material",
-      "english": ["permeate"],
+      "english": [
+        {
+          "id": "f90da2ee",
+          "word": "permeate",
+          "meaning": "pass through porous material",
+          "note": "Use this as the usual choice when a liquid or gas penetrates and passes through porous material."
+        }
+      ],
       "examples": [
         {
           "english": "Rainwater can permeate the soil slowly.",

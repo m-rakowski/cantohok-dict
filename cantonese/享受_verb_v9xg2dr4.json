@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "enjoy",
-      "english": ["enjoy", "delight"],
+      "english": [
+        {
+          "id": "cgqa65gz",
+          "word": "enjoy",
+          "meaning": "take pleasure in",
+          "note": "This is the all-purpose choice when someone consciously takes pleasure or satisfaction in something."
+        },
+        {
+          "id": "icpxj1c7",
+          "word": "delight",
+          "meaning": "take great pleasure",
+          "note": "Use this when someone takes pleasure in an experience, activity, or another person's company."
+        }
+      ],
       "examples": [
         {
           "english": "I enjoy having coffee alone.",

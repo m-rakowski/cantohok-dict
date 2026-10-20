@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "a large swarm or group",
-      "english": ["swarm", "army"],
+      "english": [
+        {
+          "id": "j85zollq",
+          "word": "swarm",
+          "meaning": "insects in a mass",
+          "note": "This is the all-purpose noun pattern for a large group of insects, animals, people, or moving things."
+        },
+        {
+          "id": "6n95ob0a",
+          "word": "army",
+          "meaning": "swarm of animals",
+          "note": "Use this construction for a swarm or large group of animals, especially insects."
+        }
+      ],
       "examples": [
         {
           "english": "A swarm of bees suddenly flew past the doorway.",

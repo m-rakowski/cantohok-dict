@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "possible",
-      "english": ["possible", "potential", "plausible"],
+      "english": [
+        {
+          "id": "nwm0ntcp",
+          "word": "possible",
+          "meaning": "may happen",
+          "note": "Use this as the all-purpose spoken adjective when something may happen but is not certain."
+        },
+        {
+          "id": "t3gimj5c",
+          "word": "potential",
+          "meaning": "possible, not actual",
+          "note": "This is the all-purpose choice for something that may become or happen but is not actual yet."
+        },
+        {
+          "id": "m1dsxqlk",
+          "word": "plausible",
+          "meaning": "seemingly valid or likely",
+          "note": "Use 有可能 when plausible means possible or likely, especially about an event or proposition rather than an acceptable explanation."
+        }
+      ],
       "examples": [
         {
           "english": "It is possible that this will happen.",

@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "bid, price offered",
-      "english": ["bidding", "offer", "proposal"],
+      "english": [
+        {
+          "id": "uqp9eec3",
+          "word": "bidding",
+          "meaning": "placing a bid",
+          "note": "Use this as the all-purpose noun for the act of making or submitting a bid."
+        },
+        {
+          "id": "171k0vhc",
+          "word": "offer",
+          "meaning": "proposal / offer",
+          "note": "Use this when the offer is specifically a price or amount proposed in a sale or negotiation."
+        },
+        {
+          "id": "b2spz9gy",
+          "word": "proposal",
+          "meaning": "business offer",
+          "note": "Use this for a business offer or bid, especially an amount offered in a transaction."
+        }
+      ],
       "examples": [
         {
           "english": "The buyers' bidding on the painting was very aggressive.",

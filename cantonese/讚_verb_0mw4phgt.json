@@ -6,7 +6,33 @@
   "boxes": [
     {
       "meaning": "to praise",
-      "english": ["praise", "commend", "laud", "applaud"],
+      "english": [
+        {
+          "id": "aqsrslmt",
+          "word": "praise",
+          "meaning": "praise; commend",
+          "register": "colloquial",
+          "note": "This is the colloquial all-purpose choice for praising someone or something."
+        },
+        {
+          "id": "aqs389ag",
+          "word": "commend",
+          "meaning": "praise, commend",
+          "note": "This is the all-purpose colloquial choice for praising someone or something."
+        },
+        {
+          "id": "9j2eczvv",
+          "word": "laud",
+          "meaning": "praise, glorify",
+          "note": "Use 讚 as the everyday all-purpose way to praise someone or something."
+        },
+        {
+          "id": "owr2ywmq",
+          "word": "applaud",
+          "meaning": "praise or approve of",
+          "note": "Choose this for openly praising or approving of a person, action, or idea."
+        }
+      ],
       "examples": [
         {
           "english": "I really praise you for doing a great job.",

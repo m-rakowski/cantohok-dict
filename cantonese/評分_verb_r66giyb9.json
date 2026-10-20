@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "to grade, give a score",
-      "english": ["grade", "score"],
+      "english": [
+        {
+          "id": "rtqi0sbj",
+          "word": "grade",
+          "meaning": "score a test",
+          "note": "This is the all-purpose choice for assigning marks to a test or assessing academic performance."
+        },
+        {
+          "id": "pmnnf8j7",
+          "word": "score",
+          "meaning": "rate; evaluate",
+          "note": "Use this when assigning a numerical rating or judging the quality of something."
+        }
+      ],
       "examples": [
         {
           "english": "The teacher will grade according to the answers.",

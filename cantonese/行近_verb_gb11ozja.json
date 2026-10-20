@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "walk closer, approach",
-      "english": ["approach", "advance"],
+      "english": [
+        {
+          "id": "d2prms2e",
+          "word": "approach",
+          "meaning": "come near",
+          "note": "This is the everyday choice for physically walking or moving closer to a person or thing."
+        },
+        {
+          "id": "pnizhfrq",
+          "word": "advance",
+          "meaning": "advance; approach",
+          "note": "Use this when a person moves forward toward someone or somewhere, meaning ‘approach’."
+        }
+      ],
       "examples": [
         {
           "english": "Don't approach the stove, or you'll get burned.",

@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "about, concerning A",
-      "english": ["concerning", "on"],
+      "english": [
+        {
+          "id": "4oj3jzit",
+          "word": "concerning",
+          "meaning": "regarding; about",
+          "register": "formal",
+          "note": "Use this straightforward equivalent when A is the subject being discussed, especially in more careful speech or writing."
+        },
+        {
+          "id": "mihachd2",
+          "word": "on",
+          "meaning": "about, concerning",
+          "note": "Use this specifically when “on” introduces the subject or topic of discussion, writing, or study."
+        }
+      ],
       "examples": [
         {
           "english": "Concerning this project, the report isn’t finished yet.",

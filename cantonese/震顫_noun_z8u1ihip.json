@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "body tremor",
-      "english": ["tremor", "shake"],
+      "english": [
+        {
+          "id": "ph6xo4sq",
+          "word": "tremor",
+          "meaning": "medical shaking",
+          "register": "formal",
+          "note": "Use this for a medical tremor affecting the body, especially in formal or clinical contexts."
+        },
+        {
+          "id": "ieykqyq3",
+          "word": "shake",
+          "meaning": "tremor; spasm",
+          "register": "formal",
+          "note": "Use this for an involuntary tremor or spasm, especially in medical or descriptive contexts."
+        }
+      ],
       "register": "formal",
       "examples": [
         {

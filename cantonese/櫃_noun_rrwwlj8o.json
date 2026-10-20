@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "cupboard, cabinet",
-      "english": ["cupboard", "cabinet"],
+      "english": [
+        {
+          "id": "nhcgzyxo",
+          "word": "cupboard",
+          "meaning": "storage cabinet",
+          "note": "This is the all-purpose word for a cupboard or storage cabinet."
+        },
+        {
+          "id": "01pzm91q",
+          "word": "cabinet",
+          "meaning": "storage closet",
+          "note": "This is the all-purpose choice for an ordinary household storage cabinet or cupboard."
+        }
+      ],
       "examples": [
         {
           "english": "There are lots of books in that cupboard.",

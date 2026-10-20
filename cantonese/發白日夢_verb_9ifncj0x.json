@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "daydream",
-      "english": ["muse", "daydream", "dream"],
+      "english": [
+        {
+          "id": "13wdvb79",
+          "word": "muse",
+          "meaning": "ponder, daydream",
+          "note": "Use this specifically when “muse” means to daydream or drift into imagined scenarios."
+        },
+        {
+          "id": "jd49et2l",
+          "word": "daydream",
+          "meaning": "to daydream, woolgather",
+          "register": "colloquial",
+          "note": "Use this when you want to make clear that the person is daydreaming rather than dreaming while asleep."
+        },
+        {
+          "id": "9pch0hsp",
+          "word": "dream",
+          "meaning": "daydream",
+          "note": "Use 發白日夢 specifically for consciously daydreaming while awake, rather than ordinary sleep dreams."
+        }
+      ],
       "examples": [
         {
           "english": "I often muse in class, imagining myself travelling around the world.",

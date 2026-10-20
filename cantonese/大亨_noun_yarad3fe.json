@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "business tycoon",
-      "english": ["mogul", "tycoon", "magnate"],
+      "english": [
+        {
+          "id": "xsxoe1xz",
+          "word": "mogul",
+          "meaning": "rich or powerful person",
+          "note": "Use 大亨 as the all-purpose term for a wealthy and influential business person."
+        },
+        {
+          "id": "xgep9toe",
+          "word": "tycoon",
+          "meaning": "wealthy business person",
+          "note": "This is the all-purpose choice for a wealthy and powerful business person."
+        },
+        {
+          "id": "doocaw2h",
+          "word": "magnate",
+          "meaning": "industrialist, business tycoon",
+          "note": "This is the all-purpose choice for a powerful, wealthy businessperson or tycoon."
+        }
+      ],
       "examples": [
         {
           "english": "That property mogul donated a lot of money to schools.",

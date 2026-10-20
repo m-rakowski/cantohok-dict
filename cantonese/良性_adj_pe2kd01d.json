@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "non-cancerous",
-      "english": ["benign"],
+      "english": [
+        {
+          "id": "ext0a9pg",
+          "word": "benign",
+          "meaning": "non-cancerous; harmless",
+          "note": "This is the all-purpose medical choice for a non-cancerous or non-aggressive condition, such as a tumor."
+        }
+      ],
       "examples": [
         {
           "english": "The doctor said the tumor is benign, so there’s no need to worry too much.",
@@ -17,7 +24,14 @@
     },
     {
       "meaning": "healthy, constructive (e.g. competition)",
-      "english": ["friendly"],
+      "english": [
+        {
+          "id": "lommxzsv",
+          "word": "friendly",
+          "meaning": "not hostile",
+          "note": "Use this mainly with competition or interaction that remains constructive rather than hostile."
+        }
+      ],
       "examples": [
         {
           "english": "Let’s keep the competition friendly and not fall out.",

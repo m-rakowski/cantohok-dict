@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "grateful",
-      "english": ["grateful", "thankful", "appreciative"],
+      "english": [
+        {
+          "id": "mzmzlx1y",
+          "word": "grateful",
+          "meaning": "thankful; appreciative",
+          "note": "This is the all-purpose choice for saying that you feel thankful or appreciative toward someone."
+        },
+        {
+          "id": "kcefetx5",
+          "word": "thankful",
+          "meaning": "grateful",
+          "note": "This is the all-purpose choice for feeling grateful to someone for their help."
+        },
+        {
+          "id": "6rvjd0hx",
+          "word": "appreciative",
+          "meaning": "grateful",
+          "note": "This is the all-purpose choice for saying that you are grateful to someone or for something."
+        }
+      ],
       "examples": [
         {
           "english": "I'm really grateful that you helped me so much.",

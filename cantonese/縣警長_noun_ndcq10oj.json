@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "US county law officer",
-      "english": ["sheriff"],
+      "english": [
+        {
+          "id": "715dofuy",
+          "word": "sheriff",
+          "meaning": "US county law officer",
+          "note": "Use this for the elected law-enforcement head of a US county, including responsibility for the county jail."
+        }
+      ],
       "examples": [
         {
           "english": "In the US, the sheriff is also responsible for running the county jail.",

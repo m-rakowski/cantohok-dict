@@ -6,7 +6,28 @@
   "boxes": [
     {
       "meaning": "turning point",
-      "english": ["climax", "crisis", "crossroads"],
+      "english": [
+        {
+          "id": "mh4hu3uc",
+          "word": "climax",
+          "meaning": "story peak, turning point",
+          "note": "Use 轉捩點 for the turning point of a story, when the plot changes direction rather than simply reaches its most exciting moment."
+        },
+        {
+          "id": "8smnmrzq",
+          "word": "crisis",
+          "meaning": "turning point",
+          "register": "written",
+          "note": "Use this for a decisive change or turning point rather than an unstable situation itself."
+        },
+        {
+          "id": "e7nz7qha",
+          "word": "crossroads",
+          "meaning": "turning point",
+          "register": "formal",
+          "note": "Use this for a genuine turning point or change in the course of events rather than merely a choice between options."
+        }
+      ],
       "examples": [
         {
           "english": "The hero’s sudden betrayal was the turning point in the story’s climax.",

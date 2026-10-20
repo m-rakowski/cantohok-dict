@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "cough (expel air)",
-      "english": ["cough"],
+      "english": [
+        {
+          "id": "fhozd9in",
+          "word": "cough",
+          "meaning": "cough (expel air)",
+          "note": "Use this when specifying that something is coughed out of the lungs or throat, such as blood or phlegm."
+        }
+      ],
       "examples": [
         {
           "english": "When I cough up phlegm, I spit it out.",

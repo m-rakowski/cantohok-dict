@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "possibility, chance",
-      "english": ["way", "possibility"],
+      "english": [
+        {
+          "id": "hmep2kaw",
+          "word": "way",
+          "meaning": "possibility / no chance",
+          "note": "Use this for possibility, especially in expressions such as 冇可能 meaning “no way” or “impossible.”"
+        },
+        {
+          "id": "a548kde4",
+          "word": "possibility",
+          "meaning": "possible thing or event",
+          "note": "Use this for one possible outcome or scenario among several, especially when saying 有幾個可能."
+        }
+      ],
       "examples": [
         {
           "english": "No way, I’m not doing that.",

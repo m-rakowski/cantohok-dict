@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "enthusiastic, fervent, lively",
-      "english": ["rapturous", "burning", "animated", "intense"],
+      "english": [
+        {
+          "id": "6trjlv8o",
+          "word": "rapturous",
+          "meaning": "ecstatic, full of rapture",
+          "note": "Use this especially for rapturous applause, cheers, support, or other intensely enthusiastic responses."
+        },
+        {
+          "id": "fw979arm",
+          "word": "burning",
+          "meaning": "intensely passionate",
+          "note": "Use this for strong passion or fervour, such as a passionate heart or feeling."
+        },
+        {
+          "id": "hh8bmi3f",
+          "word": "animated",
+          "meaning": "lively; full of spirit",
+          "note": "Use this especially for an animated discussion, debate, response, or exchange that is enthusiastic and energetic."
+        },
+        {
+          "id": "alfbm3rd",
+          "word": "intense",
+          "meaning": "intense feelings/thoughts",
+          "note": "Use this for the ardent, passionate side of intense feelings, support, or responses."
+        }
+      ],
       "examples": [
         {
           "english": "The audience gave the singer rapturous applause for the performance.",

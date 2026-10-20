@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "convenient",
-      "english": ["convenient", "handy"],
+      "english": [
+        {
+          "id": "olx3czg9",
+          "word": "convenient",
+          "meaning": "easy, handy",
+          "note": "This is the all-purpose choice for something that makes things easy or accessible."
+        },
+        {
+          "id": "fcwsain4",
+          "word": "handy",
+          "meaning": "useful, convenient",
+          "note": "This is the all-purpose choice when “handy” means convenient or useful in practice."
+        }
+      ],
       "examples": [
         {
           "english": "This convenience store is really convenient.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "page",
-      "english": ["page", "side"],
+      "english": [
+        {
+          "id": "82wmwt8u",
+          "word": "page",
+          "meaning": "book page",
+          "note": "Use 頁 for a physical page or one side of a leaf in a book or document."
+        },
+        {
+          "id": "10nswgo1",
+          "word": "side",
+          "meaning": "page / sheet side",
+          "note": "Use this for a numbered page or sheet side, especially when counting how many pages an essay has."
+        }
+      ],
       "examples": [
         {
           "english": "Please look at page ten.",

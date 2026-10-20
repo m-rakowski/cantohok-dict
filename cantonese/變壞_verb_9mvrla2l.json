@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "to go bad, get worse",
-      "english": ["decay", "spoil", "fall"],
+      "english": [
+        {
+          "id": "qyuo8iyi",
+          "word": "decay",
+          "meaning": "deteriorate; decline",
+          "note": "This is the all-purpose choice for something becoming worse or going bad without emphasizing a specific type of decay."
+        },
+        {
+          "id": "fozyyh6z",
+          "word": "spoil",
+          "meaning": "go bad, rot",
+          "note": "Use this specifically when food or another substance goes bad by itself."
+        },
+        {
+          "id": "mlxhtykf",
+          "word": "fall",
+          "meaning": "become ill or bad",
+          "note": "Use this when “fall” means becoming bad or entering a negative condition."
+        }
+      ],
       "examples": [
         {
           "english": "This fish has been left for two days and is starting to decay.",

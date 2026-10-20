@@ -6,7 +6,15 @@
   "boxes": [
     {
       "meaning": "not sustainable",
-      "english": ["unsustainable"],
+      "english": [
+        {
+          "id": "ransleba",
+          "word": "unsustainable",
+          "meaning": "not sustainable",
+          "register": "written",
+          "note": "This is the all-purpose choice for something that cannot continue or be maintained in the long term."
+        }
+      ],
       "register": "written",
       "examples": [
         {

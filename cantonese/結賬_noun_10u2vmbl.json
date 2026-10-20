@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "payment at store",
-      "english": ["checkout"],
+      "english": [
+        {
+          "id": "7esaa3cd",
+          "word": "checkout",
+          "meaning": "payment at store",
+          "note": "This is the all-purpose choice for completing and paying for a supermarket purchase; library lending is usually described as 借還書手續."
+        }
+      ],
       "examples": [
         {
           "english": "Let's go to checkout after buying everything.",

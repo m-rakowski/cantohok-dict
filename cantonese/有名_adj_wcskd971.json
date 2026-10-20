@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "famous",
-      "english": ["famous", "distinguished"],
+      "english": [
+        {
+          "id": "vjn3psml",
+          "word": "famous",
+          "meaning": "well known",
+          "note": "Use this common alternative when describing something as notably or widely known, often with 好有名."
+        },
+        {
+          "id": "fh84re4l",
+          "word": "distinguished",
+          "meaning": "famous, eminent",
+          "note": "This is the all-purpose choice for someone who is famous or well-known for their achievements."
+        }
+      ],
       "examples": [
         {
           "english": "This tourist spot is very famous among visitors.",

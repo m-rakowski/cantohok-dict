@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "in a superior, looking-down way",
-      "english": ["exaltedly", "haughtily"],
+      "english": [
+        {
+          "id": "1ke2zodl",
+          "word": "exaltedly",
+          "meaning": "in an exalted way",
+          "register": "colloquial",
+          "note": "Use this when the exalted manner specifically suggests acting superior or looking down on others."
+        },
+        {
+          "id": "59fyikaw",
+          "word": "haughtily",
+          "meaning": "in a haughty way",
+          "note": "Use this when the person acts as though they are socially or intellectually above everyone else."
+        }
+      ],
       "examples": [
         {
           "english": "That manager always talks to us exaltedly, as if we were beneath him.",

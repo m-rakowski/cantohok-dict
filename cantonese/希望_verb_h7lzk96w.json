@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "to hope, wish",
-      "english": ["hope", "pray", "wish"],
+      "english": [
+        {
+          "id": "9jp86wwj",
+          "word": "hope",
+          "meaning": "want something to happen",
+          "note": "This is the all-purpose verb for optimistically wanting or expecting something to happen or to obtain something."
+        },
+        {
+          "id": "p65q6l7c",
+          "word": "pray",
+          "meaning": "wish strongly",
+          "note": "Use this for strongly hoping that an outcome will happen, rather than addressing a deity or pleading with a person."
+        },
+        {
+          "id": "diq96qy0",
+          "word": "wish",
+          "meaning": "wish for impossible",
+          "note": "Use this when expressing hope for a particular outcome, especially one that may be unlikely."
+        }
+      ],
       "examples": [
         {
           "english": "I hope it won't rain tomorrow.",

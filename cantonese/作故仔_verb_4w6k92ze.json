@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "make up a story",
-      "english": ["fabulate", "fabricate"],
+      "english": [
+        {
+          "id": "bvol0q3a",
+          "word": "fabulate",
+          "meaning": "tell invented stories",
+          "register": "colloquial",
+          "note": "Use this when stressing that the speaker is making up the story, especially as an excuse or fabrication."
+        },
+        {
+          "id": "js5abisx",
+          "word": "fabricate",
+          "meaning": "make up falsely",
+          "register": "colloquial",
+          "note": "Use this specifically when someone invents or makes up a story, rather than for every kind of false fabrication."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

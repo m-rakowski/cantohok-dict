@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "reach, achieve",
-      "english": ["attain", "achieve"],
+      "english": [
+        {
+          "id": "6zx2pk51",
+          "word": "attain",
+          "meaning": "achieve; obtain by effort",
+          "note": "This is the all-purpose choice for attaining a level, standard, result, or objective."
+        },
+        {
+          "id": "8gvpdmse",
+          "word": "achieve",
+          "meaning": "attain or obtain",
+          "note": "Use this when the objective is a level, target, result, or standard that is reached."
+        }
+      ],
       "examples": [
         {
           "english": "We put in a lot of effort and finally attain our goal.",

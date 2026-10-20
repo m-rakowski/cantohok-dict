@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "commission, cut of earnings",
-      "english": ["cut", "percentage"],
+      "english": [
+        {
+          "id": "v3jyo18i",
+          "word": "cut",
+          "meaning": "share of profits",
+          "register": "colloquial",
+          "note": "Use this for a share of profits or revenue that someone takes."
+        },
+        {
+          "id": "f0a94blw",
+          "word": "percentage",
+          "meaning": "sales commission share",
+          "register": "colloquial",
+          "note": "Use this for a percentage cut taken from sales, profits, or other business revenue, especially when describing the arrangement rather than the payment."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

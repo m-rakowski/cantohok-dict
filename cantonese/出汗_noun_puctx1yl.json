@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "sweating",
-      "english": ["perspiration"],
+      "english": [
+        {
+          "id": "zgfahiqu",
+          "word": "perspiration",
+          "meaning": "sweating",
+          "note": "Use this for the action or process of sweating rather than the liquid produced."
+        }
+      ],
       "examples": [
         {
           "english": "After running, perspiration is perfectly normal.",

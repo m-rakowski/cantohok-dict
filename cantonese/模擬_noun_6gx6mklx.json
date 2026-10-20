@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "software running another system",
-      "english": ["emulation"],
+      "english": [
+        {
+          "id": "0kb6p539",
+          "word": "emulation",
+          "meaning": "software running another system",
+          "note": "Use this specifically for software that reproduces the operation of another system."
+        }
+      ],
       "examples": [
         {
           "english": "This program uses emulation to reproduce the operation of an old computer.",

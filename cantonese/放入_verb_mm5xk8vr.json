@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "put into something",
-      "english": ["enclose", "enter"],
+      "english": [
+        {
+          "id": "ee4uaw77",
+          "word": "enclose",
+          "meaning": "put inside a letter/package",
+          "note": "Use this for the casual, physical act of putting something inside an envelope, package, or other container."
+        },
+        {
+          "id": "gorypmpj",
+          "word": "enter",
+          "meaning": "put into / insert",
+          "note": "Use this when putting or placing something inside another thing or space."
+        }
+      ],
       "examples": [
         {
           "english": "Please enclose the photo in the envelope.",

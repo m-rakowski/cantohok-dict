@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "city mayor",
-      "english": ["mayor"],
+      "english": [
+        {
+          "id": "sc10zlaz",
+          "word": "mayor",
+          "meaning": "city mayor",
+          "note": "This is the all-purpose term for a city mayor, including a largely ceremonial mayor; the mayor's actual powers depend on the context."
+        }
+      ],
       "examples": [
         {
           "english": "The mayor is chairing the city council today.",

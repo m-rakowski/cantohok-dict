@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "public square, plaza",
-      "english": ["square", "place"],
+      "english": [
+        {
+          "id": "0i3t3aj5",
+          "word": "square",
+          "meaning": "town square",
+          "note": "Use this for an open public space or plaza in a town, rather than for a geometric square."
+        },
+        {
+          "id": "792d9ifo",
+          "word": "place",
+          "meaning": "public square / open space",
+          "note": "Use 廣場 specifically for an open public square or similar urban space."
+        }
+      ],
       "examples": [
         {
           "english": "We’ll wait for you in the square.",

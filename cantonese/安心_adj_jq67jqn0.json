@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "at ease, free from worry",
-      "english": ["serene", "easy"],
+      "english": [
+        {
+          "id": "464izaa0",
+          "word": "serene",
+          "meaning": "unworried, undisturbed",
+          "note": "Use this when the emphasis is on feeling free from worry or anxiety rather than on outward calm."
+        },
+        {
+          "id": "o2jcx4es",
+          "word": "easy",
+          "meaning": "comfortable, at ease",
+          "note": "Use this for being mentally at ease or free from worry, rather than for a task being effortless."
+        }
+      ],
       "examples": [
         {
           "english": "I feel serene with you by my side.",

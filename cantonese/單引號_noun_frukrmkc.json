@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "quotation mark",
-      "english": ["inverted comma"],
+      "english": [
+        {
+          "id": "q51ajbqm",
+          "word": "inverted comma",
+          "meaning": "quotation mark",
+          "note": "Use this when the quotation marks are specifically single marks such as ‘ ’."
+        }
+      ],
       "examples": [
         {
           "english": "This quotation should use single quotation marks, not double ones; each mark is an inverted comma.",

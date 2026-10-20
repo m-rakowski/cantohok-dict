@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "compass direction",
-      "english": ["north"],
+      "english": [
+        {
+          "id": "iaw3f0kv",
+          "word": "north",
+          "meaning": "compass direction",
+          "note": "This is the all-purpose noun for the compass direction north."
+        }
+      ],
       "examples": [
         {
           "english": "The compass points north.",

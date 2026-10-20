@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "government minister",
-      "english": ["minister", "chancellor"],
+      "english": [
+        {
+          "id": "rl70k2n5",
+          "word": "minister",
+          "meaning": "government minister",
+          "register": "formal",
+          "note": "Use this mainly for a foreign or historical cabinet minister in formal or written contexts."
+        },
+        {
+          "id": "padgvp72",
+          "word": "chancellor",
+          "meaning": "government minister/official",
+          "register": "formal",
+          "note": "Use this as the formal title for a senior government minister or official with a particular administrative portfolio."
+        }
+      ],
       "register": "formal",
       "examples": [
         {

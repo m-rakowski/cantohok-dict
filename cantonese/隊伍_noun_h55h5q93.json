@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "organized group or unit of people",
-      "english": ["outfit", "rank"],
+      "english": [
+        {
+          "id": "4vmoh44b",
+          "word": "outfit",
+          "meaning": "group/unit",
+          "note": "Use this for a cohesive organized group or unit of people, including a military formation."
+        },
+        {
+          "id": "hselgwbw",
+          "word": "rank",
+          "meaning": "the ranks; members",
+          "note": "Use 隊伍 for the body or ranks of members belonging to an organization, occupation, or group rather than for an individual's status."
+        }
+      ],
       "examples": [
         {
           "english": "This outfit is very well trained.",

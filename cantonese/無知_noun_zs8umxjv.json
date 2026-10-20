@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "ignorance",
-      "english": ["ignorance", "blindness"],
+      "english": [
+        {
+          "id": "kswz91fe",
+          "word": "ignorance",
+          "meaning": "lack of knowledge",
+          "note": "This is the all-purpose noun for ignorance or a lack of knowledge, often with a mildly negative tone."
+        },
+        {
+          "id": "e5ftg7vf",
+          "word": "blindness",
+          "meaning": "lack of judgment",
+          "note": "Use this for metaphorical blindness meaning ignorance or lack of intellectual judgment, not loss of eyesight."
+        }
+      ],
       "examples": [
         {
           "english": "Their ignorance of social manners often offends people.",

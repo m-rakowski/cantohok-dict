@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "audio/video recording",
-      "english": ["recording"],
+      "english": [
+        {
+          "id": "9b8vem92",
+          "word": "recording",
+          "meaning": "audio/video recording",
+          "note": "Use this instead of 錄音 when the recording is visual, such as a TV programme or video."
+        }
+      ],
       "examples": [
         {
           "english": "I made a recording on my phone of the moment the bird flew away.",

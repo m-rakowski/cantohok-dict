@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "training",
-      "english": ["training", "coaching"],
+      "english": [
+        {
+          "id": "5tvzl8ve",
+          "word": "training",
+          "meaning": "skill training; instruction",
+          "note": "This is the all-purpose noun for training, including the act of practising or developing skills."
+        },
+        {
+          "id": "wm37x9ug",
+          "word": "coaching",
+          "meaning": "instruction; tutoring",
+          "note": "Use this when coaching develops practical skills, performance, or athletic ability."
+        }
+      ],
       "examples": [
         {
           "english": "I have to do training after work every day.",

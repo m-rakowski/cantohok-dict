@@ -6,7 +6,44 @@
   "boxes": [
     {
       "meaning": "annoying, disliked",
-      "english": ["detestable", "abhorrent", "irritating", "annoying", "unpleasant", "bothersome"],
+      "english": [
+        {
+          "id": "3dpgmdw3",
+          "word": "detestable",
+          "meaning": "causing disgust; offensive",
+          "note": "Use this as the all-purpose everyday word for someone or something strongly disliked."
+        },
+        {
+          "id": "42zm9gja",
+          "word": "abhorrent",
+          "meaning": "detestable; repugnant",
+          "note": "This is the all-purpose choice for something detestable or deeply disliked."
+        },
+        {
+          "id": "2031qjot",
+          "word": "irritating",
+          "meaning": "causing annoyance or pain",
+          "note": "Use this when the irritating thing is especially disliked or objectionable, rather than merely bothersome."
+        },
+        {
+          "id": "rlvydfkm",
+          "word": "annoying",
+          "meaning": "causing annoyance",
+          "note": "Use this when the person or thing is annoying in an obnoxious or strongly dislikeable way."
+        },
+        {
+          "id": "qlswxq1c",
+          "word": "unpleasant",
+          "meaning": "not pleasant",
+          "note": "Use this for an unpleasant person, behaviour, or thing that you dislike or find annoying."
+        },
+        {
+          "id": "nso1hr4j",
+          "word": "bothersome",
+          "meaning": "annoying; troublesome",
+          "note": "Use this when the bothersome quality is chiefly irritating or unpleasant, especially for a person or behaviour."
+        }
+      ],
       "examples": [
         {
           "english": "I find this arrangement really detestable.",

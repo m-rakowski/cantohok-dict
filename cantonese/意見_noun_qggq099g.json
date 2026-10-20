@@ -6,7 +6,44 @@
   "boxes": [
     {
       "meaning": "opinion, view",
-      "english": ["opinion", "feedback", "input", "advice", "comment", "notion"],
+      "english": [
+        {
+          "id": "o2zk4gj2",
+          "word": "opinion",
+          "meaning": "personal view",
+          "note": "This is the all-purpose noun for a person's view and for a doctor's or other expert's formal opinion."
+        },
+        {
+          "id": "s7xme3p5",
+          "word": "feedback",
+          "meaning": "comments / evaluation",
+          "note": "This is the all-purpose choice for comments or evaluation about a process, activity, or result."
+        },
+        {
+          "id": "1vao0vrs",
+          "word": "input",
+          "meaning": "contribution; opinion",
+          "note": "Use this when “input” means someone’s opinion, advice, or feedback rather than technical data."
+        },
+        {
+          "id": "uokf5awe",
+          "word": "advice",
+          "meaning": "guidance, recommendations",
+          "note": "Use this when the advice is presented as someone’s view or opinion, especially in phrases such as 畀意見."
+        },
+        {
+          "id": "hk7fq40a",
+          "word": "comment",
+          "meaning": "remark",
+          "note": "Use this as the all-purpose everyday rendering for a person's comment or view, including in 「冇意見」."
+        },
+        {
+          "id": "dqbjfjd1",
+          "word": "notion",
+          "meaning": "opinion; belief",
+          "note": "Use this when the notion is specifically someone’s expressed opinion or view."
+        }
+      ],
       "examples": [
         {
           "english": "I want to hear your opinion on this matter.",
@@ -42,7 +79,21 @@
     },
     {
       "meaning": "objection, complaint",
-      "english": ["objection", "quarrel"],
+      "english": [
+        {
+          "id": "fo0u244x",
+          "word": "objection",
+          "meaning": "expression of opposition",
+          "register": "colloquial",
+          "note": "Use this in contexts such as 對某事有意見 or 冇意見, where it means an objection rather than a neutral opinion."
+        },
+        {
+          "id": "hufq4vsx",
+          "word": "quarrel",
+          "meaning": "have a quarrel with",
+          "note": "Use this for a complaint, objection, or disagreement with someone rather than an actual argument."
+        }
+      ],
       "examples": [
         {
           "english": "I have an objection to this arrangement.",

@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "draw, paint",
-      "english": ["picture", "draw", "paint"],
+      "english": [
+        {
+          "id": "6ihyiafy",
+          "word": "picture",
+          "meaning": "draw/depict in a picture",
+          "note": "Use this for representing someone or something visually by drawing it."
+        },
+        {
+          "id": "tzg880n4",
+          "word": "draw",
+          "meaning": "make a picture",
+          "note": "Use this for producing a picture, line, or other representation with a drawing instrument."
+        },
+        {
+          "id": "starrzqo",
+          "word": "paint",
+          "meaning": "create a picture",
+          "note": "Use 畫 as the all-purpose verb for creating a picture or image."
+        }
+      ],
       "examples": [
         {
           "english": "I’ll draw a picture of your whole family.",

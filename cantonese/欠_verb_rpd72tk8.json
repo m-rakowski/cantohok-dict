@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "be obliged to give",
-      "english": ["owe"],
+      "english": [
+        {
+          "id": "kpenficp",
+          "word": "owe",
+          "meaning": "be obliged to give",
+          "note": "Use this first for money or something concrete that is owed back, and sometimes for an owed favor or return."
+        }
+      ],
       "examples": [
         {
           "english": "I owe the bank three thousand dollars.",

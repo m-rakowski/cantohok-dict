@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "hamburger patty",
-      "english": ["hamburger"],
+      "english": [
+        {
+          "id": "luger5qq",
+          "word": "hamburger",
+          "meaning": "hamburger patty",
+          "note": "Use this generic term for the meat patty when the hamburger context is already clear."
+        }
+      ],
       "examples": [
         {
           "english": "I’ll save the hamburger patty for tomorrow.",

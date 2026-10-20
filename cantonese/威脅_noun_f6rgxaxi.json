@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "threat, danger",
-      "english": ["threat", "menace", "risk"],
+      "english": [
+        {
+          "id": "fiwkeudr",
+          "word": "threat",
+          "meaning": "warning of harm",
+          "note": "This is the all-purpose noun for a warning of harm, a danger indicator, or a person or object regarded as a menace."
+        },
+        {
+          "id": "1d06oz7h",
+          "word": "menace",
+          "meaning": "threat, danger",
+          "note": "This is the all-purpose choice for a perceived threat posed by a person, event, or situation."
+        },
+        {
+          "id": "vz0uzwkc",
+          "word": "risk",
+          "meaning": "person or thing posing danger",
+          "note": "Use this when the person or thing is viewed as an active threat to someone or something."
+        }
+      ],
       "examples": [
         {
           "english": "This person is a threat to society.",

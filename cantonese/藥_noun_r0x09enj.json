@@ -6,7 +6,44 @@
   "boxes": [
     {
       "meaning": "medicine",
-      "english": ["medicine", "drug", "remedy", "medication", "cure", "prescription"],
+      "english": [
+        {
+          "id": "6i8l92in",
+          "word": "medicine",
+          "meaning": "medicinal drug",
+          "note": "This is the all-purpose everyday noun for a medicinal drug."
+        },
+        {
+          "id": "4pbsxygr",
+          "word": "drug",
+          "meaning": "medicine, medication",
+          "note": "Use 藥 as the all-purpose word for medicine or medication, not for an illegal recreational drug."
+        },
+        {
+          "id": "hoyemwmf",
+          "word": "remedy",
+          "meaning": "medicine; treatment",
+          "note": "Use this as the all-purpose choice for a medicine or medicinal application that treats an illness."
+        },
+        {
+          "id": "uf79ysx4",
+          "word": "medication",
+          "meaning": "medicine; prescribed drugs",
+          "note": "This is the all-purpose everyday word for medicine or the medicines a patient regularly takes."
+        },
+        {
+          "id": "xaym771x",
+          "word": "cure",
+          "meaning": "medical cure",
+          "note": "Use this when the cure specifically means a medicine or drug rather than a treatment in general."
+        },
+        {
+          "id": "nse2n99y",
+          "word": "prescription",
+          "meaning": "prescribed medicine",
+          "note": "Use this when the context makes it clear that the medicine being collected or taken is the prescribed medicine."
+        }
+      ],
       "examples": [
         {
           "english": "I took medicine, and my headache isn't as bad now.",

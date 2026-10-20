@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "disturbed or shocked",
-      "english": ["shaken"],
+      "english": [
+        {
+          "id": "su9wkj25",
+          "word": "shaken",
+          "meaning": "disturbed or shocked",
+          "note": "This is the broad default for a person, organization, or structure disrupted or weakened by an event."
+        }
+      ],
       "examples": [
         {
           "english": "The accident left the whole company shaken, and it took months to recover.",

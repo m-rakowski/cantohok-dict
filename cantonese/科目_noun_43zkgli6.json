@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "school subject",
-      "english": ["subject", "study"],
+      "english": [
+        {
+          "id": "26zuuf9b",
+          "word": "subject",
+          "meaning": "school subject",
+          "note": "Use 科目 for a subject studied at school or university, especially when naming a class such as physics."
+        },
+        {
+          "id": "4gdyrme1",
+          "word": "study",
+          "meaning": "subject of study",
+          "note": "Use this for a branch or school subject being studied, rather than for an object under examination."
+        }
+      ],
       "examples": [
         {
           "english": "Physics is the subject I like most.",

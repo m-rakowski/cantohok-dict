@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "they, them",
-      "english": ["they", "them"],
+      "english": [
+        {
+          "id": "hzviutgp",
+          "word": "they",
+          "meaning": "third-person plural pronoun",
+          "note": "This is the all-purpose spoken Cantonese equivalent for a previously mentioned group."
+        },
+        {
+          "id": "mfeigwym",
+          "word": "them",
+          "meaning": "plural standalone pronoun",
+          "note": "Use this as the all-purpose standalone pronoun when “them” refers to more than one person."
+        }
+      ],
       "examples": [
         {
           "english": "They just left.",

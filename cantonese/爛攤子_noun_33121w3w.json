@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "a mess left to clean up",
-      "english": ["wreck", "shambles"],
+      "english": [
+        {
+          "id": "g2xzgo6f",
+          "word": "wreck",
+          "meaning": "ruined person or thing",
+          "register": "colloquial",
+          "note": "Use this for a ruined thing, failed situation, or mess that someone has to deal with, not for a person."
+        },
+        {
+          "id": "pmu6i50s",
+          "word": "shambles",
+          "meaning": "great disorder",
+          "register": "colloquial",
+          "note": "Use this for a ruined or badly disorganized situation, especially one that someone has to take over or sort out."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

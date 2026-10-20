@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "running, jogging",
-      "english": ["run", "running"],
+      "english": [
+        {
+          "id": "8j52tlpp",
+          "word": "run",
+          "meaning": "a run; jogging",
+          "note": "This is the all-purpose noun for the act of running or going jogging."
+        },
+        {
+          "id": "p4yf0ffp",
+          "word": "running",
+          "meaning": "running exercise/sport",
+          "note": "This is the all-purpose noun for physical running, including running as exercise."
+        }
+      ],
       "examples": [
         {
           "english": "I went for a run this morning for half an hour.",

@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "politician, statesman",
-      "english": ["statesman", "politician"],
+      "english": [
+        {
+          "id": "5xm6z2az",
+          "word": "statesman",
+          "meaning": "national/international leader",
+          "note": "This is the all-purpose rendering for a respected political figure involved in national or international affairs."
+        },
+        {
+          "id": "mgc7jhwb",
+          "word": "politician",
+          "meaning": "political office holder",
+          "register": "formal",
+          "note": "Use this formal term for a recognized politician or political figure, especially in writing rather than casual speech."
+        }
+      ],
       "examples": [
         {
           "english": "This statesman has always put people's livelihoods first.",

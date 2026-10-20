@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "experiment",
-      "english": ["experiment", "lab"],
+      "english": [
+        {
+          "id": "ufn1c8o5",
+          "word": "experiment",
+          "meaning": "test under controlled conditions",
+          "note": "This is the all-purpose noun for a controlled scientific or practical test."
+        },
+        {
+          "id": "4z6olyo8",
+          "word": "lab",
+          "meaning": "lab experiment / assignment",
+          "note": "Use this for the experiment, test, or lab assignment itself rather than the room."
+        }
+      ],
       "examples": [
         {
           "english": "This experiment has to be conducted under controlled conditions.",

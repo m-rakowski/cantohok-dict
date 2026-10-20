@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "automatic",
-      "english": ["automatic", "mechanical"],
+      "english": [
+        {
+          "id": "nmmvyy9q",
+          "word": "automatic",
+          "meaning": "self-operating",
+          "note": "This is the all-purpose choice for machines that operate by themselves and, in rule-based contexts, consequences that happen automatically."
+        },
+        {
+          "id": "u0sdqw7o",
+          "word": "mechanical",
+          "meaning": "automatic, mindless",
+          "note": "Use this when mechanical means automatic, that is, when something operates or responds without human control rather than merely seeming formulaic."
+        }
+      ],
       "examples": [
         {
           "english": "This washing machine has an automatic shut-off function.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "object arm",
-      "english": ["arm"],
+      "english": [
+        {
+          "id": "maroaz83",
+          "word": "arm",
+          "meaning": "object arm",
+          "note": "Use 機械臂 specifically for a mechanical or robotic arm."
+        }
+      ],
       "examples": [
         {
           "english": "The factory's robotic arm keeps moving goods.",

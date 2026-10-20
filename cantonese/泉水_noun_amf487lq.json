@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "spring water",
-      "english": ["fountain", "spring"],
+      "english": [
+        {
+          "id": "clwm817t",
+          "word": "fountain",
+          "meaning": "natural spring",
+          "note": "Use this for naturally flowing spring water rather than an artificial ornamental fountain."
+        },
+        {
+          "id": "drguxwdx",
+          "word": "spring",
+          "meaning": "natural water source",
+          "note": "Use this for water that naturally flows or sprays from the ground."
+        }
+      ],
       "examples": [
         {
           "english": "The fountain here is natural spring water flowing out of the mountain.",

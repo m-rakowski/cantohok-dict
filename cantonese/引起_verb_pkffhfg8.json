@@ -6,7 +6,44 @@
   "boxes": [
     {
       "meaning": "cause, bring about, arouse",
-      "english": ["generate", "arouse", "engender", "breed", "cause", "bring"],
+      "english": [
+        {
+          "id": "p0auwex4",
+          "word": "generate",
+          "meaning": "bring about, cause",
+          "note": "Use this as the all-purpose choice when an action or event causes a reaction, result, or disturbance."
+        },
+        {
+          "id": "fzk61zt4",
+          "word": "arouse",
+          "meaning": "stir feelings",
+          "note": "This is the all-purpose choice for causing a feeling such as compassion, jealousy, or anger."
+        },
+        {
+          "id": "6l44zwk7",
+          "word": "engender",
+          "meaning": "cause, bring about",
+          "note": "Use this as the all-purpose choice when something causes an effect, reaction, or situation."
+        },
+        {
+          "id": "7grq7g5c",
+          "word": "breed",
+          "meaning": "cause, result in",
+          "note": "Use 引起 as the all-purpose verb when one thing causes or results in another."
+        },
+        {
+          "id": "svrmnpf4",
+          "word": "cause",
+          "meaning": "cause; make happen",
+          "note": "Use this when something triggers an event, reaction, or other occurrence rather than making a person do something."
+        },
+        {
+          "id": "iknblif9",
+          "word": "bring",
+          "meaning": "cause, bring about",
+          "note": "Use this for bringing about an effect such as a problem, reaction, debate, or controversy."
+        }
+      ],
       "examples": [
         {
           "english": "This news can generate a lot of discussion.",

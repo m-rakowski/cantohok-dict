@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "written text",
-      "english": ["text"],
+      "english": [
+        {
+          "id": "zjudpx6n",
+          "word": "text",
+          "meaning": "written passage",
+          "note": "This is the all-purpose choice for written text or wording in general."
+        }
+      ],
       "examples": [
         {
           "english": "I’ve read this text three times and still don’t understand it.",
@@ -17,7 +24,20 @@
     },
     {
       "meaning": "writing system, script",
-      "english": ["writing", "script"],
+      "english": [
+        {
+          "id": "tzk45znq",
+          "word": "writing",
+          "meaning": "writing system",
+          "note": "Use this for the script or written-language system itself, rather than for a particular written work."
+        },
+        {
+          "id": "8axxpdi8",
+          "word": "script",
+          "meaning": "writing system",
+          "note": "Use this for a writing system when the language or people using it makes that meaning clear."
+        }
+      ],
       "examples": [
         {
           "english": "This writing system is hard to learn.",

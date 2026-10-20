@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "blow, setback",
-      "english": ["setback", "blow", "shock", "hit", "knock"],
+      "english": [
+        {
+          "id": "bjyvtn8k",
+          "word": "setback",
+          "meaning": "delay or reverse",
+          "note": "Use this when the setback is felt as a serious blow to a person, plan, or effort."
+        },
+        {
+          "id": "nashy01i",
+          "word": "blow",
+          "meaning": "setback, bad blow",
+          "note": "For a damaging setback or adverse event, 打擊 is the all-purpose Cantonese choice."
+        },
+        {
+          "id": "mdbkd0s8",
+          "word": "shock",
+          "meaning": "surprise or upset",
+          "note": "Use this for the all-purpose emotional sense when bad news or an event feels like a heavy blow."
+        },
+        {
+          "id": "5d26oid4",
+          "word": "hit",
+          "meaning": "damaging blow",
+          "note": "Use 打擊 for a damaging setback or an attack, especially in formal or public contexts."
+        },
+        {
+          "id": "fsjn1pax",
+          "word": "knock",
+          "meaning": "blow or setback",
+          "note": "Use this for a blow or, especially, a setback or figurative blow."
+        }
+      ],
       "examples": [
         {
           "english": "The company's sudden closure was a serious setback for all the employees.",

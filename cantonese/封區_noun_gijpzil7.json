@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "lockdown",
-      "english": ["confinement"],
+      "english": [
+        {
+          "id": "e56mymyp",
+          "word": "confinement",
+          "meaning": "lockdown",
+          "note": "Use this when the lockdown applies only to a particular district, building, or local area."
+        }
+      ],
       "examples": [
         {
           "english": "The building is under local confinement, so residents cannot leave tonight.",

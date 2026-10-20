@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "from now on, later",
-      "english": ["hence", "forward"],
+      "english": [
+        {
+          "id": "xbiy43ez",
+          "word": "hence",
+          "meaning": "from now; later",
+          "note": "Use this for a time later than now, including expressions such as 一年以後."
+        },
+        {
+          "id": "rjmy56f7",
+          "word": "forward",
+          "meaning": "into the future",
+          "note": "Use this for movement or continuation into the future, as in “from now on” or “later on.”"
+        }
+      ],
       "examples": [
         {
           "english": "A year hence, we may have moved house.",

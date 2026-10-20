@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "enquiry for information",
-      "english": ["query", "investigation", "interrogation"],
+      "english": [
+        {
+          "id": "ypg517pg",
+          "word": "query",
+          "meaning": "question; inquiry",
+          "register": "formal",
+          "note": "Use this for an information request, especially in a service or official context, rather than a general question."
+        },
+        {
+          "id": "945z023v",
+          "word": "investigation",
+          "meaning": "inquiry; inquiry process",
+          "note": "Use this for an inquiry seeking information or clarification, not for a full-scale investigation."
+        },
+        {
+          "id": "ijpd3xex",
+          "word": "interrogation",
+          "meaning": "question; inquiry",
+          "note": "Use this for an inquiry or request for information rather than a single question."
+        }
+      ],
       "examples": [
         {
           "english": "For any query, please call customer service.",

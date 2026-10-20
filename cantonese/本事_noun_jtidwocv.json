@@ -6,7 +6,28 @@
   "boxes": [
     {
       "meaning": "ability, skill",
-      "english": ["skill", "capability", "ability"],
+      "english": [
+        {
+          "id": "2urdolsp",
+          "word": "skill",
+          "meaning": "ability; technique",
+          "note": "Use this colloquial all-purpose choice for someone's ability or general competence."
+        },
+        {
+          "id": "0qejskqd",
+          "word": "capability",
+          "meaning": "ability to do something",
+          "register": "colloquial",
+          "note": "Use this when the capability is being described as someone's practical competence or personal skill."
+        },
+        {
+          "id": "rjc3dalg",
+          "word": "ability",
+          "meaning": "capacity, capability",
+          "register": "colloquial",
+          "note": "Choose this for someone's practical competence or knack, especially in casual speech."
+        }
+      ],
       "examples": [
         {
           "english": "You really have skill—you can even fix such a difficult computer.",

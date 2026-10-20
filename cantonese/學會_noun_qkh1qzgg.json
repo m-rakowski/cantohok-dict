@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "professional body",
-      "english": ["college"],
+      "english": [
+        {
+          "id": "dfyrfx7d",
+          "word": "college",
+          "meaning": "professional body",
+          "note": "Use this when “college” means an association or professional body rather than an educational institution."
+        }
+      ],
       "examples": [
         {
           "english": "I’m a member of this professional college.",

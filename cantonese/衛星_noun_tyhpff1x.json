@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "satellite, moon of a planet",
-      "english": ["satellite", "moon"],
+      "english": [
+        {
+          "id": "up0q4ipz",
+          "word": "satellite",
+          "meaning": "orbiting moon/body",
+          "note": "This is the all-purpose choice for an orbiting body, including a man-made one when the context is clear."
+        },
+        {
+          "id": "ehifvm4h",
+          "word": "moon",
+          "meaning": "natural satellite",
+          "note": "Use this when discussing a natural satellite of another planet, such as one of Jupiter's moons, usually with the planet named in context."
+        }
+      ],
       "examples": [
         {
           "english": "The satellite will pass over Hong Kong tonight.",

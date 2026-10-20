@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "careful thought before deciding",
-      "english": ["consideration", "thought"],
+      "english": [
+        {
+          "id": "bgec2mt6",
+          "word": "consideration",
+          "meaning": "careful thought",
+          "note": "This is the all-purpose noun for the process of carefully thinking something through."
+        },
+        {
+          "id": "ecuzluon",
+          "word": "thought",
+          "meaning": "thought; consideration",
+          "note": "Use this for weighing several factors before making a decision, as in 經過考慮."
+        }
+      ],
       "examples": [
         {
           "english": "We need to give this matter careful consideration; we can't decide so quickly.",

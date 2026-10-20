@@ -6,7 +6,44 @@
   "boxes": [
     {
       "meaning": "basic, fundamental",
-      "english": ["elementary", "basic", "elemental", "fundamental", "rudimentary", "primary"],
+      "english": [
+        {
+          "id": "b89a5d36",
+          "word": "elementary",
+          "meaning": "basic, fundamental",
+          "note": "Choose this when “elementary” means fundamental or relating to the essential basis of something, rather than merely easy."
+        },
+        {
+          "id": "1duqg2g9",
+          "word": "basic",
+          "meaning": "essential; necessary",
+          "note": "Use this as the all-purpose choice for something foundational or standard, including a basic ingredient or basic level."
+        },
+        {
+          "id": "xiulja9w",
+          "word": "elemental",
+          "meaning": "basic; fundamental",
+          "note": "Use this as the all-purpose rendering for something basic or fundamental."
+        },
+        {
+          "id": "24jav2wm",
+          "word": "fundamental",
+          "meaning": "essential; very important",
+          "note": "Use this as the all-purpose choice for something foundational, basic, or essential, especially in phrases such as 基本原則."
+        },
+        {
+          "id": "l00p9vih",
+          "word": "rudimentary",
+          "meaning": "basic, minimal",
+          "note": "This is the all-purpose choice for something basic or limited to the minimum necessary."
+        },
+        {
+          "id": "iyhf5cyt",
+          "word": "primary",
+          "meaning": "fundamental; basic",
+          "note": "Use this for something fundamental or basic, rather than merely first or most important."
+        }
+      ],
       "examples": [
         {
           "english": "A good grasp of grammar is elementary to learning English.",

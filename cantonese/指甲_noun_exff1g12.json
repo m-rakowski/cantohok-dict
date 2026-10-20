@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "fingernail",
-      "english": ["fingernail", "nail"],
+      "english": [
+        {
+          "id": "7sqvij08",
+          "word": "fingernail",
+          "meaning": "human fingernail",
+          "note": "This is the all-purpose everyday word for a human fingernail."
+        },
+        {
+          "id": "a2d5rl9o",
+          "word": "nail",
+          "meaning": "animal claw/hoof nail",
+          "note": "Use 指甲 for a human fingernail or toenail rather than an animal claw."
+        }
+      ],
       "examples": [
         {
           "english": "I just trimmed a fingernail that had grown too long.",

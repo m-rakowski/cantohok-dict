@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "rarely",
-      "english": ["hardly", "rarely", "seldom"],
+      "english": [
+        {
+          "id": "3frz21jd",
+          "word": "hardly",
+          "meaning": "barely; almost not",
+          "note": "This is the all-purpose choice for frequency, especially “hardly ever.”"
+        },
+        {
+          "id": "y9i700bx",
+          "word": "rarely",
+          "meaning": "seldom; not often",
+          "note": "This is the all-purpose spoken choice for saying that something happens rarely or not often."
+        },
+        {
+          "id": "cv8vffwy",
+          "word": "seldom",
+          "meaning": "infrequently; rarely",
+          "note": "This is the all-purpose colloquial choice for saying that someone rarely does something."
+        }
+      ],
       "examples": [
         {
           "english": "I hardly ever take taxis.",

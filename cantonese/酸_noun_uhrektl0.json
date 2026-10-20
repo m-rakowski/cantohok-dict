@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "chemistry acid (Arrhenius)",
-      "english": ["acid"],
+      "english": [
+        {
+          "id": "v30pylym",
+          "word": "acid",
+          "meaning": "chemistry acid (Arrhenius)",
+          "note": "Use 酸 as the all-purpose noun for a chemical acid."
+        }
+      ],
       "examples": [
         {
           "english": "This acid releases hydrogen ions when dissolved in water.",

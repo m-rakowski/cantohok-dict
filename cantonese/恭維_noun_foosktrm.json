@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "compliment, flattery",
-      "english": ["compliment", "flattery"],
+      "english": [
+        {
+          "id": "zk5z2vw2",
+          "word": "compliment",
+          "meaning": "praise or praise remark",
+          "note": "Use this when the compliment sounds flattering or ingratiating rather than straightforward praise."
+        },
+        {
+          "id": "e3xzmz6f",
+          "word": "flattery",
+          "meaning": "insincere praise",
+          "note": "Use this when the flattery is phrased as polite praise, though it can also be sincere rather than insincere."
+        }
+      ],
       "examples": [
         {
           "english": "Their compliment to the client was clearly meant to get something in return.",

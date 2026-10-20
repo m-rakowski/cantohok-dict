@@ -6,7 +6,15 @@
   "boxes": [
     {
       "meaning": "new resident / colonist",
-      "english": ["settler"],
+      "english": [
+        {
+          "id": "368drygp",
+          "word": "settler",
+          "meaning": "new resident / colonist",
+          "register": "formal",
+          "note": "Use this specifically for a colonist settling in a territory under colonial expansion."
+        }
+      ],
       "register": "formal",
       "examples": [
         {

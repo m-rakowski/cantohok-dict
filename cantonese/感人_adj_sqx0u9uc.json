@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "touching, moving",
-      "english": ["moving", "emotional"],
+      "english": [
+        {
+          "id": "kyio70f7",
+          "word": "moving",
+          "meaning": "emotionally touching",
+          "note": "This is the all-purpose choice for something that deeply touches people emotionally, such as a letter or film."
+        },
+        {
+          "id": "32zhim1b",
+          "word": "emotional",
+          "meaning": "emotion-arousing",
+          "note": "Use this for a speech, story, film, or event that arouses strong feelings in people."
+        }
+      ],
       "examples": [
         {
           "english": "That letter is really moving.",

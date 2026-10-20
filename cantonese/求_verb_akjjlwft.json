@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "beg, plead",
-      "english": ["beg", "plead", "pray", "seek"],
+      "english": [
+        {
+          "id": "lv4w8vy9",
+          "word": "beg",
+          "meaning": "plead with",
+          "note": "This is the all-purpose colloquial choice for pleading with someone or asking them for help."
+        },
+        {
+          "id": "6qkblm00",
+          "word": "plead",
+          "meaning": "beg or implore",
+          "note": "This is the all-purpose colloquial choice when emotionally begging someone to do or not do something."
+        },
+        {
+          "id": "qljj552a",
+          "word": "pray",
+          "meaning": "beg politely",
+          "note": "Use this as the all-purpose verb for humbly pleading with a person, often in 求你 or 求下你啦."
+        },
+        {
+          "id": "nk2lku06",
+          "word": "seek",
+          "meaning": "ask for; request",
+          "note": "Use this when asking for something such as forgiveness, help, or a favor."
+        }
+      ],
       "examples": [
         {
           "english": "I beg you to help me.",

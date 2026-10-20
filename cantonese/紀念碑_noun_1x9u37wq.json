@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "monument, memorial",
-      "english": ["monument", "memorial"],
+      "english": [
+        {
+          "id": "r8txc4dh",
+          "word": "monument",
+          "meaning": "memorial structure",
+          "note": "This is the all-purpose choice for a physical structure commemorating people or events."
+        },
+        {
+          "id": "4szxzzra",
+          "word": "memorial",
+          "meaning": "remembrance monument",
+          "note": "This is the all-purpose choice for a physical memorial monument or marker."
+        }
+      ],
       "examples": [
         {
           "english": "This monument was built to commemorate the people who died in the war.",

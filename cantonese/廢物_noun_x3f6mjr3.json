@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "useless thing or person, junk",
-      "english": ["trash", "garbage"],
+      "english": [
+        {
+          "id": "er5vuoie",
+          "word": "trash",
+          "meaning": "worthless thing",
+          "note": "Use 廢物 when stressing that an object or material is useless or has no value, rather than simply calling it rubbish."
+        },
+        {
+          "id": "p8lzuh8e",
+          "word": "garbage",
+          "meaning": "worthless thing/person",
+          "note": "Use this specifically for a person or thing regarded as useless or worthless, rather than for physical rubbish."
+        }
+      ],
       "examples": [
         {
           "english": "This old phone is complete trash; it won't even turn on.",

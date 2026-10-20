@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "bird roost",
-      "english": ["perch"],
+      "english": [
+        {
+          "id": "afqt8r5c",
+          "word": "perch",
+          "meaning": "bird roost",
+          "note": "Use this when the bird is visibly standing on the support, rather than merely stopping there."
+        }
+      ],
       "examples": [
         {
           "english": "The parrot continues to perch on the stand.",

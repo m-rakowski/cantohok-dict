@@ -6,7 +6,34 @@
   "boxes": [
     {
       "meaning": "awful, very poor",
-      "english": ["appalling", "dismal", "gruesome", "frightening"],
+      "english": [
+        {
+          "id": "f51iwywg",
+          "word": "appalling",
+          "meaning": "terrible, awful",
+          "note": "Use this as the all-purpose choice for something extremely bad or awful."
+        },
+        {
+          "id": "jzuflx5g",
+          "word": "dismal",
+          "meaning": "poor, inadequate",
+          "note": "Use this as the everyday choice for something that is disappointingly poor or inadequate."
+        },
+        {
+          "id": "9kwiih7c",
+          "word": "gruesome",
+          "meaning": "awful, terrible (informal)",
+          "register": "colloquial",
+          "note": "Use this for an awful or terrible result, performance, or situation when the sense is simply that it is very bad."
+        },
+        {
+          "id": "1nuzn621",
+          "word": "frightening",
+          "meaning": "awful, very bad",
+          "register": "colloquial",
+          "note": "Use this for something awful, lousy, or very bad rather than fear-inducing."
+        }
+      ],
       "examples": [
         {
           "english": "The food at this restaurant is really appalling.",

@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "restore, go back to normal",
-      "english": ["revive", "resume", "restore"],
+      "english": [
+        {
+          "id": "g81ms614",
+          "word": "revive",
+          "meaning": "make active again",
+          "note": "Use 恢復 as the all-purpose choice for returning health, strength, activity, or a feeling, rather than consciousness after fainting."
+        },
+        {
+          "id": "7ypdhsmp",
+          "word": "resume",
+          "meaning": "restart after pause",
+          "register": "formal",
+          "note": "Use this especially when a service, operation, or normal activity resumes after being suspended."
+        },
+        {
+          "id": "c4totyte",
+          "word": "restore",
+          "meaning": "bring back / reestablish",
+          "note": "This is the all-purpose choice for bringing back a condition, situation, relationship, or state of affairs."
+        }
+      ],
       "examples": [
         {
           "english": "After the venue reopened, the area's popularity slowly began to revive.",
@@ -27,7 +47,20 @@
     },
     {
       "meaning": "regain health, strength or energy",
-      "english": ["rally", "recover"],
+      "english": [
+        {
+          "id": "z1s954oe",
+          "word": "rally",
+          "meaning": "rally after illness",
+          "note": "Use this as the general choice for regaining health, strength, or consciousness."
+        },
+        {
+          "id": "4b4yndwc",
+          "word": "recover",
+          "meaning": "recover strength, energy",
+          "note": "Use this for regaining strength, energy, or a previously good physical or mental state rather than simply saying someone is well again."
+        }
+      ],
       "examples": [
         {
           "english": "After surgery, Mom slowly began to rally and regain her strength.",

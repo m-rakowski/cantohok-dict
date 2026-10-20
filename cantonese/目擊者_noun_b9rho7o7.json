@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "eyewitness; person who saw it",
-      "english": ["witness"],
+      "english": [
+        {
+          "id": "6b5jt1py",
+          "word": "witness",
+          "meaning": "eyewitness; person who saw it",
+          "note": "Use this specifically when the witness personally saw the event, rather than merely having other relevant knowledge."
+        }
+      ],
       "examples": [
         {
           "english": "We found a witness who saw the whole thing happen.",

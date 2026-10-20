@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "light up, illuminate",
-      "english": ["light", "lighten"],
+      "english": [
+        {
+          "id": "vb6tw8ue",
+          "word": "light",
+          "meaning": "illuminate",
+          "note": "This is the all-purpose verb for illuminating something or making a place visible."
+        },
+        {
+          "id": "1kzwr30b",
+          "word": "lighten",
+          "meaning": "make brighter",
+          "note": "Use this when something actively makes a place or object brighter with light."
+        }
+      ],
       "examples": [
         {
           "english": "A streetlamp can light up the whole street at night.",

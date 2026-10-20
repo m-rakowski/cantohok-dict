@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "world",
-      "english": ["world", "universe"],
+      "english": [
+        {
+          "id": "zm9vdntt",
+          "word": "world",
+          "meaning": "the Earth",
+          "note": "This is the all-purpose noun for the human or global world, a person's personal world, and a social world; 地球 is clearer for the physical planet."
+        },
+        {
+          "id": "3p1yjgog",
+          "word": "universe",
+          "meaning": "one’s world / perspective",
+          "note": "Use this for someone’s social world, personal sphere, or lived setting rather than the physical cosmos."
+        }
+      ],
       "examples": [
         {
           "english": "This world is really big, and everyone has their own place.",

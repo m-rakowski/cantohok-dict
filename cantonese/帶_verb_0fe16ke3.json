@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "to bring, carry",
-      "english": ["carry", "bear"],
+      "english": [
+        {
+          "id": "93lx2ek4",
+          "word": "carry",
+          "meaning": "have on one's person",
+          "note": "Use 帶 as the all-purpose verb for taking something with you or having it on your person."
+        },
+        {
+          "id": "hvsiesmu",
+          "word": "bear",
+          "meaning": "carry",
+          "note": "Use this as the all-purpose verb for carrying or bringing something, including carrying weapons or symbols."
+        }
+      ],
       "examples": [
         {
           "english": "I always carry an umbrella when I go out.",
@@ -22,7 +35,20 @@
     },
     {
       "meaning": "to lead, take someone",
-      "english": ["conduct", "lead"],
+      "english": [
+        {
+          "id": "iuwbqp0t",
+          "word": "conduct",
+          "meaning": "lead, direct",
+          "note": "Use this as the all-purpose verb for leading or directing people or tasks."
+        },
+        {
+          "id": "05fh31i8",
+          "word": "lead",
+          "meaning": "guide by hand",
+          "note": "This is the all-purpose spoken choice for taking or guiding someone somewhere, guiding them toward an answer, leading a group, or describing a route that takes you somewhere."
+        }
+      ],
       "examples": [
         {
           "english": "I conduct the whole team as we complete this task.",

@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "income",
-      "english": ["income", "revenue", "earnings"],
+      "english": [
+        {
+          "id": "czsn0rah",
+          "word": "income",
+          "meaning": "earnings",
+          "note": "This is the all-purpose noun for money earned and money received by a fund, account, or policy."
+        },
+        {
+          "id": "esbtgv1j",
+          "word": "revenue",
+          "meaning": "income from source",
+          "note": "This is the all-purpose choice for income received from a source."
+        },
+        {
+          "id": "8wd3h9w2",
+          "word": "earnings",
+          "meaning": "money earned; income",
+          "note": "Use 收入 as the all-purpose term for money earned or income, rather than a specific wage, profit, or investment-return term."
+        }
+      ],
       "examples": [
         {
           "english": "My income is enough to cover rent and food every month.",

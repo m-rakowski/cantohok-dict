@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "in a convincing way",
-      "english": ["persuasively", "cogently"],
+      "english": [
+        {
+          "id": "mlrm1aq4",
+          "word": "persuasively",
+          "meaning": "in a convincing way",
+          "note": "This is the all-purpose spoken pattern for presenting an argument or explanation in a convincing way."
+        },
+        {
+          "id": "fpfw9eeo",
+          "word": "cogently",
+          "meaning": "in a convincing way",
+          "note": "Use this when the emphasis is on the argument convincing or persuading other people, rather than specifically on its evidence."
+        }
+      ],
       "examples": [
         {
           "english": "If you argue persuasively, everyone will naturally support you.",

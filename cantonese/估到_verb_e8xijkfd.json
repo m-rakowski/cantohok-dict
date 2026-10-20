@@ -6,7 +6,35 @@
   "boxes": [
     {
       "meaning": "figure out, guess correctly",
-      "english": ["foresee", "infer", "intuit", "gather"],
+      "english": [
+        {
+          "id": "q4ktjxin",
+          "word": "foresee",
+          "meaning": "predict, see in advance",
+          "register": "colloquial",
+          "note": "Use this colloquially when stressing that someone managed to guess or anticipate what would happen."
+        },
+        {
+          "id": "kikapnv5",
+          "word": "infer",
+          "meaning": "deduce from evidence",
+          "register": "colloquial",
+          "note": "Use this when the conclusion is tentative or is framed more like a guess."
+        },
+        {
+          "id": "qbi5nlco",
+          "word": "intuit",
+          "meaning": "sense directly / by intuition",
+          "note": "Use this when the intuition amounts to informally figuring out or guessing something correctly."
+        },
+        {
+          "id": "i2r7ei5s",
+          "word": "gather",
+          "meaning": "infer; deduce",
+          "register": "colloquial",
+          "note": "Use this colloquial form when you work out a likely conclusion from clues."
+        }
+      ],
       "examples": [
         {
           "english": "You really did foresee that he would stand us up.",

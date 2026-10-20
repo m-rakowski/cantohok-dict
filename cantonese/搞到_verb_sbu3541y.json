@@ -6,7 +6,49 @@
   "boxes": [
     {
       "meaning": "cause, make something end up a certain way",
-      "english": ["cause", "cost", "make", "create", "drive", "put"],
+      "english": [
+        {
+          "id": "z9g7d2g8",
+          "word": "cause",
+          "meaning": "cause; make happen",
+          "register": "colloquial",
+          "note": "Use this colloquial choice when emphasizing the resulting situation, especially an unwanted one."
+        },
+        {
+          "id": "wptrf5g8",
+          "word": "cost",
+          "meaning": "result in loss",
+          "register": "colloquial",
+          "note": "Use 搞到 when cost means causing someone to lose something, suffer, or end up in trouble rather than simply naming a price."
+        },
+        {
+          "id": "tv8eroft",
+          "word": "make",
+          "meaning": "cause to be",
+          "register": "colloquial",
+          "note": "Use this when an action or situation causes someone or something to end up in a state or causes a result, including making someone cry."
+        },
+        {
+          "id": "3rt7y8g5",
+          "word": "create",
+          "meaning": "cause, bring about",
+          "note": "Use this colloquial phrase when an action or event causes a situation or consequence, especially an undesirable one."
+        },
+        {
+          "id": "nu6y5ryw",
+          "word": "drive",
+          "meaning": "make someone become",
+          "register": "colloquial",
+          "note": "Use this colloquial causative when something makes a person end up in a changed or usually bad state, such as going mad."
+        },
+        {
+          "id": "dlxigcrv",
+          "word": "put",
+          "meaning": "set into a state",
+          "register": "colloquial",
+          "note": "Use 搞到 when putting someone or something into a resulting state or condition, especially in casual speech."
+        }
+      ],
       "examples": [
         {
           "english": "That mistake can cause me to lose sleep all night.",

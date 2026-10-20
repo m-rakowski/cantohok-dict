@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "low economy rate",
-      "english": ["economical"],
+      "english": [
+        {
+          "id": "oagptv43",
+          "word": "economical",
+          "meaning": "low economy rate",
+          "note": "Use this for a vehicle or engine that consumes little fuel."
+        }
+      ],
       "examples": [
         {
           "english": "This car is quite economical on fuel; one tank lasts a long time.",

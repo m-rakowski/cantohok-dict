@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "repetition, duplication",
-      "english": ["duplication", "repetition"],
+      "english": [
+        {
+          "id": "mfwdcup6",
+          "word": "duplication",
+          "meaning": "making a copy",
+          "note": "This is the all-purpose choice for the act or occurrence of duplication."
+        },
+        {
+          "id": "kwug08hf",
+          "word": "repetition",
+          "meaning": "repeating; repeat instance",
+          "note": "This is the all-purpose noun for repetition or a repeated instance in general."
+        }
+      ],
       "examples": [
         {
           "english": "There is some duplication in this document, so we need to delete a section.",

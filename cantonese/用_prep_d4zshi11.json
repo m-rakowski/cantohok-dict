@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "using, by means of",
-      "english": ["with", "via"],
+      "english": [
+        {
+          "id": "ai3ybwny",
+          "word": "with",
+          "meaning": "using; by means of",
+          "note": "Use 用 as the all-purpose equivalent when something is used as an instrument or means."
+        },
+        {
+          "id": "4y0hprqv",
+          "word": "via",
+          "meaning": "by means of, using",
+          "note": "This is the all-purpose colloquial choice when via means using a tool, service, or channel."
+        }
+      ],
       "examples": [
         {
           "english": "I eat rice with chopsticks.",

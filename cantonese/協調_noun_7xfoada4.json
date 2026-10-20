@@ -6,7 +6,15 @@
   "boxes": [
     {
       "meaning": "harmony, things matching well",
-      "english": ["harmony"],
+      "english": [
+        {
+          "id": "zx41rs7i",
+          "word": "harmony",
+          "meaning": "pleasant combination",
+          "register": "formal",
+          "note": "Use this for the balanced matching of colours, design features, or other non-musical elements."
+        }
+      ],
       "register": "formal",
       "examples": [
         {
@@ -18,7 +26,14 @@
     },
     {
       "meaning": "coordination between people or teams",
-      "english": ["choreography"],
+      "english": [
+        {
+          "id": "n7ikjbrk",
+          "word": "choreography",
+          "meaning": "orchestrated coordination",
+          "note": "Use this when the emphasis is on getting several people, teams, or work areas to function together."
+        }
+      ],
       "examples": [
         {
           "english": "The choreography behind getting several teams to work together isn’t easy.",

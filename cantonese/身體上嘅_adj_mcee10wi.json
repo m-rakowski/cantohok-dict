@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "physical, bodily",
-      "english": ["physical", "corporal"],
+      "english": [
+        {
+          "id": "8h3no9lq",
+          "word": "physical",
+          "meaning": "bodily, not mental",
+          "note": "Use this for bodily matters or injuries, as opposed to mental ones."
+        },
+        {
+          "id": "fk2tuboa",
+          "word": "corporal",
+          "meaning": "bodily; physical",
+          "note": "Use this as the all-purpose everyday way to describe something relating to the human body."
+        }
+      ],
       "examples": [
         {
           "english": "You need to keep physical wounds clean.",

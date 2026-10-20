@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "certainty",
-      "english": ["certainty", "solidity"],
+      "english": [
+        {
+          "id": "6vhh30nk",
+          "word": "certainty",
+          "meaning": "state of being certain",
+          "register": "formal",
+          "note": "Use this for the abstract state or degree of being certain, especially in formal or analytical contexts."
+        },
+        {
+          "id": "otb1vh4z",
+          "word": "solidity",
+          "meaning": "certainty; soundness",
+          "register": "written",
+          "note": "Use this when the emphasis is on certainty or definiteness rather than on whether something is sound or trustworthy."
+        }
+      ],
       "examples": [
         {
           "english": "The certainty of this model's predictions is still not high enough.",

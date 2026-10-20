@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "a soak in a bath",
-      "english": ["soak", "bath"],
+      "english": [
+        {
+          "id": "fdrh4asp",
+          "word": "soak",
+          "meaning": "a soak, bath",
+          "note": "Use 浸浴 as the all-purpose noun for an immersion or relaxing bath in water."
+        },
+        {
+          "id": "9nvo9j2a",
+          "word": "bath",
+          "meaning": "bath in water",
+          "note": "Use this specifically for bathing by soaking or immersing yourself in water rather than taking a shower."
+        }
+      ],
       "examples": [
         {
           "english": "What I want most when I get home is a soak.",

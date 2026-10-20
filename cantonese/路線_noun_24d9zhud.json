@@ -6,7 +6,50 @@
   "boxes": [
     {
       "meaning": "route",
-      "english": ["circuit", "itinerary", "route", "trail", "run", "path", "course"],
+      "english": [
+        {
+          "id": "rck84bwh",
+          "word": "circuit",
+          "meaning": "rounds, regular trip",
+          "note": "Use this for a regular work route or appointed trip from place to place."
+        },
+        {
+          "id": "d70hkc1f",
+          "word": "itinerary",
+          "meaning": "route of a journey",
+          "note": "Use this when you mean the route or proposed route rather than the activities schedule."
+        },
+        {
+          "id": "ttuwgd19",
+          "word": "route",
+          "meaning": "transport route",
+          "note": "Use this for a regular bus, delivery, or passenger route with a defined itinerary or sequence of stops."
+        },
+        {
+          "id": "02bkd8xr",
+          "word": "trail",
+          "meaning": "campaign circuit",
+          "note": "Use this for a route or circuit in general, including the route followed during a political campaign."
+        },
+        {
+          "id": "c16wylqf",
+          "word": "run",
+          "meaning": "running route",
+          "note": "Use this for the route itself, including a transport route or a route taken while running."
+        },
+        {
+          "id": "hyjo0rv2",
+          "word": "path",
+          "meaning": "course taken",
+          "note": "Use this for the route or course followed by a vehicle, caravan, storm, or other moving thing."
+        },
+        {
+          "id": "2vxqb3im",
+          "word": "course",
+          "meaning": "path of movement",
+          "note": "Use this for the route or path followed by a person or moving thing."
+        }
+      ],
       "examples": [
         {
           "english": "I follow this circuit every day to deliver goods.",

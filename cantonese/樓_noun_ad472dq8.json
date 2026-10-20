@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "building",
-      "english": ["building"],
+      "english": [
+        {
+          "id": "0blyd2l3",
+          "word": "building",
+          "meaning": "building, structure",
+          "note": "This is the all-purpose everyday choice for a building, especially a residential or commercial one."
+        }
+      ],
       "examples": [
         {
           "english": "There are lots of shops in that building.",
@@ -17,7 +24,20 @@
     },
     {
       "meaning": "floor of a building",
-      "english": ["floor", "level"],
+      "english": [
+        {
+          "id": "sm7rbodx",
+          "word": "floor",
+          "meaning": "storey, level",
+          "note": "Use this for a storey or level of a building, as in the third floor."
+        },
+        {
+          "id": "06ouydvw",
+          "word": "level",
+          "meaning": "floor of a building",
+          "note": "Use 樓 as the everyday spoken noun for a floor or storey of a building."
+        }
+      ],
       "examples": [
         {
           "english": "Our company is on the tenth floor.",

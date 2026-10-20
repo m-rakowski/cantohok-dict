@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "building corner",
-      "english": ["angle"],
+      "english": [
+        {
+          "id": "mc9rxgjn",
+          "word": "angle",
+          "meaning": "building corner",
+          "note": "Use this for the physical corner where two walls of a building meet, rather than for a mathematical angle."
+        }
+      ],
       "examples": [
         {
           "english": "The cat hid in the angle between the walls.",

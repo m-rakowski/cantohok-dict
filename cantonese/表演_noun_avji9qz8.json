@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "show, performance",
-      "english": ["performance", "display", "entertainment"],
+      "english": [
+        {
+          "id": "uc2oib9x",
+          "word": "performance",
+          "meaning": "show, concert",
+          "note": "Use 表演 as the all-purpose noun for a live show or concert."
+        },
+        {
+          "id": "ph0lwszp",
+          "word": "display",
+          "meaning": "show, spectacle",
+          "note": "Use this for a show or spectacle put on for an audience."
+        },
+        {
+          "id": "ekqw7hkh",
+          "word": "entertainment",
+          "meaning": "show or performance",
+          "note": "Use this for the performance itself, especially when performers are presenting something to an audience rather than referring to the whole program."
+        }
+      ],
       "examples": [
         {
           "english": "Tonight's performance was really spectacular.",

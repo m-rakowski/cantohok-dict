@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "personally, in person",
-      "english": ["themselves", "himself", "myself", "ourselves"],
+      "english": [
+        {
+          "id": "qoxi3zaa",
+          "word": "themselves",
+          "meaning": "plural reflexive pronoun",
+          "note": "Use this only for the emphatic sense meaning that the person or group did something personally, not for an object reflexive."
+        },
+        {
+          "id": "i75bj7tw",
+          "word": "himself",
+          "meaning": "emphatic pronoun",
+          "note": "Use this when the emphasis is that he personally carried out the action rather than someone else."
+        },
+        {
+          "id": "ayi5uvki",
+          "word": "myself",
+          "meaning": "emphatic apposition",
+          "note": "Use this for emphatic myself when the emphasis is on personally carrying out or witnessing the action."
+        },
+        {
+          "id": "2ua1evc5",
+          "word": "ourselves",
+          "meaning": "emphatic form of us",
+          "note": "Use this with 我哋 as the subject when stressing that the group personally carried out the action rather than someone else."
+        }
+      ],
       "examples": [
         {
           "english": "The board members themselves came down to help.",

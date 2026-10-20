@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "battle, combat",
-      "english": ["battle", "fighting"],
+      "english": [
+        {
+          "id": "293bqn9a",
+          "word": "battle",
+          "meaning": "armed battle",
+          "note": "Use 戰鬥 for an armed battle or combat between opposing forces."
+        },
+        {
+          "id": "e8r85jr8",
+          "word": "fighting",
+          "meaning": "a fight; battle",
+          "register": "written",
+          "note": "Use this for organized combat or battle rather than an everyday fight."
+        }
+      ],
       "examples": [
         {
           "english": "An intense battle broke out at the border between the two countries.",

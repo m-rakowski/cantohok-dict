@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "upper limit",
-      "english": ["maximum", "limit", "ceiling", "cap"],
+      "english": [
+        {
+          "id": "snnit3q4",
+          "word": "maximum",
+          "meaning": "highest limit",
+          "note": "This is the all-purpose choice for the highest permitted or possible limit."
+        },
+        {
+          "id": "hdyiqq3e",
+          "word": "limit",
+          "meaning": "restriction, maximum",
+          "note": "Use this specifically for the highest permitted amount, level, or number."
+        },
+        {
+          "id": "4eaya4x7",
+          "word": "ceiling",
+          "meaning": "upper limit",
+          "note": "Use this for the general upper limit of an object, quantity, or action rather than a physical ceiling."
+        },
+        {
+          "id": "c7gn238s",
+          "word": "cap",
+          "meaning": "upper limit",
+          "note": "Use this for an imposed upper limit such as a salary or spending ceiling."
+        }
+      ],
       "examples": [
         {
           "english": "The daily withdrawal maximum on this credit card is twenty thousand dollars.",

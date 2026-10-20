@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "legal-scientific investigation",
-      "english": ["forensic"],
+      "english": [
+        {
+          "id": "fvmbwnmv",
+          "word": "forensic",
+          "meaning": "legal-scientific investigation",
+          "note": "This is the all-purpose choice for the legal-scientific sense, as in 法證分析 or 法證證據."
+        }
+      ],
       "examples": [
         {
           "english": "This forensic evidence is enough to convince the court.",

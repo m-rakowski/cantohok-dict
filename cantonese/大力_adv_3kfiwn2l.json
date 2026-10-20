@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "strongly, forcefully, vigorously",
-      "english": ["strongly", "forcefully", "vigorously", "highly"],
+      "english": [
+        {
+          "id": "dqpsfu01",
+          "word": "strongly",
+          "meaning": "with force; powerfully",
+          "note": "Use this for the all-purpose expression of forceful, vigorous, or powerful action."
+        },
+        {
+          "id": "snxmjq3u",
+          "word": "forcefully",
+          "meaning": "vigorously / powerfully",
+          "note": "This is the all-purpose choice for doing something forcefully, vigorously, or powerfully."
+        },
+        {
+          "id": "o91rq093",
+          "word": "vigorously",
+          "meaning": "with great energy",
+          "note": "This is the all-purpose choice for doing something with strong force or energy."
+        },
+        {
+          "id": "xajc66be",
+          "word": "highly",
+          "meaning": "favorably; with praise",
+          "note": "Use this when “highly” describes strongly praising, supporting, or recommending someone or something in everyday speech."
+        }
+      ],
       "examples": [
         {
           "english": "We strongly support this plan.",

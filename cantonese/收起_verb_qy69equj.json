@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "put away",
-      "english": ["store", "pull"],
+      "english": [
+        {
+          "id": "dfckl22a",
+          "word": "store",
+          "meaning": "keep in storage",
+          "note": "This is the all-purpose choice for putting something away while it is not in use."
+        },
+        {
+          "id": "fimdy6ve",
+          "word": "pull",
+          "meaning": "remove / withdraw",
+          "note": "Use this when removing items from display, circulation, or availability by putting them away."
+        }
+      ],
       "examples": [
         {
           "english": "I store the camera when I’m not using it.",

@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "from outside",
-      "english": ["outside", "external", "foreign"],
+      "english": [
+        {
+          "id": "406zb3hy",
+          "word": "outside",
+          "meaning": "external; from outside",
+          "note": "Use this for something originating beyond the boundary, especially an external influence, object, or condition."
+        },
+        {
+          "id": "aecwgi45",
+          "word": "external",
+          "meaning": "from outside",
+          "note": "Use this when the external thing is understood as coming from outside, including outside forces or foreign connections, rather than simply being on the exterior."
+        },
+        {
+          "id": "m5gvitsy",
+          "word": "foreign",
+          "meaning": "not part of body or system",
+          "note": "Use this for something introduced from outside an organism or system, such as a foreign body, substance, or gene."
+        }
+      ],
       "examples": [
         {
           "english": "This illness may be caused by an outside infection.",

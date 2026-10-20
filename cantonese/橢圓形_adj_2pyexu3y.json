@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "oval",
-      "english": ["oval", "eccentric"],
+      "english": [
+        {
+          "id": "2acrwoof",
+          "word": "oval",
+          "meaning": "oval-shaped",
+          "note": "This is the all-purpose rendering for something having an oval shape."
+        },
+        {
+          "id": "o45upyoo",
+          "word": "eccentric",
+          "meaning": "non-circular",
+          "note": "Use this for a shape that is elliptical rather than a perfect circle."
+        }
+      ],
       "examples": [
         {
           "english": "This table is oval, so it won't feel cramped even with a few more people.",

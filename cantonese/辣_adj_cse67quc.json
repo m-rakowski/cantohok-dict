@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "spicy",
-      "english": ["spicy", "hot"],
+      "english": [
+        {
+          "id": "fgqhxa3r",
+          "word": "spicy",
+          "meaning": "hot and burning",
+          "note": "This is the all-purpose spoken choice for food that gives a hot, burning sensation."
+        },
+        {
+          "id": "4n37xrha",
+          "word": "hot",
+          "meaning": "spicy",
+          "note": "Use this instead of 熱 when the heat is the spicy pungency of food or chilies."
+        }
+      ],
       "examples": [
         {
           "english": "This dish is so spicy that it makes me sweat.",

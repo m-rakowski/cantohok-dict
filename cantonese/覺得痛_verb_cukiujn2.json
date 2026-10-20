@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "to feel pain",
-      "english": ["ache", "suffer"],
+      "english": [
+        {
+          "id": "qy30ozh1",
+          "word": "ache",
+          "meaning": "feel pain; hurt",
+          "note": "This is the all-purpose verb phrase for saying that someone feels or suffers pain."
+        },
+        {
+          "id": "nv582cis",
+          "word": "suffer",
+          "meaning": "feel pain",
+          "note": "Use this when “suffer” specifically means experiencing physical pain."
+        }
+      ],
       "examples": [
         {
           "english": "I have a bit of an ache in my head.",

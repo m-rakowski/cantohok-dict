@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "use up energy or resources",
-      "english": ["drain", "wear"],
+      "english": [
+        {
+          "id": "3ftn5k95",
+          "word": "drain",
+          "meaning": "drain energy",
+          "note": "Use this for using up energy, time, money, or other resources."
+        },
+        {
+          "id": "vqhrjwx5",
+          "word": "wear",
+          "meaning": "wear out, fatigue",
+          "note": "Use this when something gradually drains or exhausts a person, their energy, or their patience."
+        }
+      ],
       "examples": [
         {
           "english": "This job can really drain your energy.",

@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "not well known",
-      "english": ["unknown", "obscure"],
+      "english": [
+        {
+          "id": "15ung3uv",
+          "word": "unknown",
+          "meaning": "not known, unidentified",
+          "register": "colloquial",
+          "note": "Use this specifically when a person, place, or thing is not well known or famous."
+        },
+        {
+          "id": "kqg4emxc",
+          "word": "obscure",
+          "meaning": "not well-known",
+          "note": "Use this when a person, place, work, or thing is not well-known."
+        }
+      ],
       "examples": [
         {
           "english": "That restaurant was still unknown back then.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "cooking stove",
-      "english": ["cooker", "stove"],
+      "english": [
+        {
+          "id": "cbjqhbw5",
+          "word": "cooker",
+          "meaning": "cookstove",
+          "note": "Use 煮食爐 as the all-purpose term for a stove-style cooker."
+        },
+        {
+          "id": "dfq8t7js",
+          "word": "stove",
+          "meaning": "cooker",
+          "note": "This is the all-purpose choice for a cooker used to heat food."
+        }
+      ],
       "examples": [
         {
           "english": "This cooker is broken, so I can't cook rice.",

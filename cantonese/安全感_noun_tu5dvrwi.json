@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "sense of security",
-      "english": ["safety", "peace", "reassurance"],
+      "english": [
+        {
+          "id": "6pi8hr95",
+          "word": "safety",
+          "meaning": "being safe; security",
+          "note": "Use this specifically for the feeling of safety or emotional security."
+        },
+        {
+          "id": "5q6n5oke",
+          "word": "peace",
+          "meaning": "peace of mind",
+          "note": "Use this for the sense of security or peace of mind that something gives you."
+        },
+        {
+          "id": "m2xd2kgv",
+          "word": "reassurance",
+          "meaning": "feeling of being reassured",
+          "note": "Use this for the resulting feeling of security or restored confidence rather than for the reassuring words themselves."
+        }
+      ],
       "examples": [
         {
           "english": "After moving to the new place, I finally felt a sense of safety.",

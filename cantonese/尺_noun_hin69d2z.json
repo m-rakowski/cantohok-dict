@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "ruler",
-      "english": ["ruler"],
+      "english": [
+        {
+          "id": "x3z0xp3v",
+          "word": "ruler",
+          "meaning": "measuring device",
+          "note": "Use this shortened form when the context already makes clear that the object is a ruler."
+        }
+      ],
       "examples": [
         {
           "english": "Bring me the ruler; I need to draw a straight line.",
@@ -17,7 +24,14 @@
     },
     {
       "meaning": "foot, length measurement",
-      "english": ["measurement"],
+      "english": [
+        {
+          "id": "8mgfno7n",
+          "word": "measurement",
+          "meaning": "measured value",
+          "note": "Use 尺 for a physical length measurement expressed in feet or in a ruler-based context."
+        }
+      ],
       "examples": [
         {
           "english": "The measurement of this board is six feet.",

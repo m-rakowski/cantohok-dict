@@ -6,7 +6,56 @@
   "boxes": [
     {
       "meaning": "part, section",
-      "english": ["section", "element", "segment", "fraction", "portion", "part", "division", "aspect"],
+      "english": [
+        {
+          "id": "xanl9djc",
+          "word": "section",
+          "meaning": "document section",
+          "note": "This is the all-purpose choice for a part or subdivision, including a general part of a document."
+        },
+        {
+          "id": "8i5bls6c",
+          "word": "element",
+          "meaning": "small part",
+          "note": "Use 部分 for a smaller piece or component of a whole, rather than an essential principle or a contributing cause."
+        },
+        {
+          "id": "i3s5loll",
+          "word": "segment",
+          "meaning": "part, section",
+          "note": "Use this as the all-purpose choice for a part or section of something."
+        },
+        {
+          "id": "85trmnve",
+          "word": "fraction",
+          "meaning": "part of a whole",
+          "note": "Use 部分 as the all-purpose noun for a part of a whole, including a relatively small part."
+        },
+        {
+          "id": "0ywe8wh1",
+          "word": "portion",
+          "meaning": "part of a whole",
+          "note": "Use this for a general or abstract part of a whole rather than an individually allotted share."
+        },
+        {
+          "id": "8ulsauaj",
+          "word": "part",
+          "meaning": "fraction of a whole",
+          "note": "This is the all-purpose choice for a fraction of a whole or a section of a document."
+        },
+        {
+          "id": "evfyfs6r",
+          "word": "division",
+          "meaning": "separate part; section",
+          "note": "Use this for a separate part or section resulting from something being divided."
+        },
+        {
+          "id": "416u3o2m",
+          "word": "aspect",
+          "meaning": "feature; part",
+          "note": "Use this when the aspect is a distinct part or component rather than a perspective."
+        }
+      ],
       "examples": [
         {
           "english": "This section is about safety.",

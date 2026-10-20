@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "drink alcohol",
-      "english": ["drink", "use"],
+      "english": [
+        {
+          "id": "ctwe4vme",
+          "word": "drink",
+          "meaning": "drink alcohol",
+          "note": "Use this specifically when the liquid being consumed is alcoholic or when saying that someone has been drinking alcohol."
+        },
+        {
+          "id": "lzpqzu3x",
+          "word": "use",
+          "meaning": "take drugs or alcohol",
+          "note": "Use 飲酒 when “use” means consuming alcohol, rather than for drug use."
+        }
+      ],
       "examples": [
         {
           "english": "We are meeting to drink alcohol together tonight.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "measuring device",
-      "english": ["instrument"],
+      "english": [
+        {
+          "id": "0hy66fno",
+          "word": "instrument",
+          "meaning": "measuring device",
+          "note": "Use this for a technical device that measures, detects, or displays readings."
+        }
+      ],
       "examples": [
         {
           "english": "This instrument can measure blood pressure.",

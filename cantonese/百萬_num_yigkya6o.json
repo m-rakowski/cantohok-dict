@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "one million",
-      "english": ["million"],
+      "english": [
+        {
+          "id": "oth6gut7",
+          "word": "million",
+          "meaning": "one million",
+          "note": "This is the all-purpose rendering for the exact number 1,000,000 and can also be used loosely for an unspecified huge number."
+        }
+      ],
       "examples": [
         {
           "english": "This painting is worth a million dollars.",

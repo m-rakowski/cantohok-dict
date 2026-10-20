@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "payment card linked to credit",
-      "english": ["credit card"],
+      "english": [
+        {
+          "id": "e003g16i",
+          "word": "credit card",
+          "meaning": "payment card linked to credit",
+          "note": "This is the all-purpose Cantonese term for a card connected to a credit account and used for purchases."
+        }
+      ],
       "examples": [
         {
           "english": "I usually use my credit card when I go shopping.",

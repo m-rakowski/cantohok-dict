@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "need of repair",
-      "english": ["repair"],
+      "english": [
+        {
+          "id": "brf3oruj",
+          "word": "repair",
+          "meaning": "need of repair",
+          "note": "Use this for an item's need for repair or the amount of repair it requires."
+        }
+      ],
       "examples": [
         {
           "english": "The repair this car needs will cost quite a bit.",

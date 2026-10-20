@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "tremble, shiver",
-      "english": ["shiver", "tremble", "quiver", "dither"],
+      "english": [
+        {
+          "id": "7g911g9m",
+          "word": "shiver",
+          "meaning": "tremble from cold or fear",
+          "note": "This is the all-purpose choice for trembling from cold, fear, or nervousness."
+        },
+        {
+          "id": "9uh2b75f",
+          "word": "tremble",
+          "meaning": "shake; quiver",
+          "note": "This is the all-purpose choice for a person or body part physically trembling or quivering."
+        },
+        {
+          "id": "0bh4rikf",
+          "word": "quiver",
+          "meaning": "tremble, shake",
+          "note": "Use this especially when a person or their body is trembling from cold, fear, or weakness."
+        },
+        {
+          "id": "3gmngemk",
+          "word": "dither",
+          "meaning": "shiver; tremble",
+          "note": "Use this instead of 猶豫 when dither means physically trembling or shivering, especially from cold or fear."
+        }
+      ],
       "examples": [
         {
           "english": "I get so nervous about going on stage that I shiver.",

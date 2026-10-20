@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "cooperation, working together",
-      "english": ["teamwork", "cooperation", "partnership", "collaboration", "liaison"],
+      "english": [
+        {
+          "id": "9ts6ou1a",
+          "word": "teamwork",
+          "meaning": "cooperative effort",
+          "note": "This is the all-purpose noun for people cooperating to achieve a shared goal."
+        },
+        {
+          "id": "lls42pay",
+          "word": "cooperation",
+          "meaning": "working together",
+          "note": "This is the all-purpose noun for people or groups working together."
+        },
+        {
+          "id": "jfplnqj1",
+          "word": "partnership",
+          "meaning": "working partnership",
+          "note": "This is the all-purpose choice for a partnership or collaborative association between people or organizations."
+        },
+        {
+          "id": "snviv81d",
+          "word": "collaboration",
+          "meaning": "working together",
+          "note": "This is the all-purpose choice for the act of working together."
+        },
+        {
+          "id": "e6xgkctj",
+          "word": "liaison",
+          "meaning": "working partnership",
+          "note": "Use this when the liaison means the two sides are working together rather than merely exchanging messages."
+        }
+      ],
       "examples": [
         {
           "english": "To finish this plan, we really need teamwork from everyone.",

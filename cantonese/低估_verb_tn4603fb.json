@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "judge too low",
-      "english": ["underestimate"],
+      "english": [
+        {
+          "id": "d5hc6rue",
+          "word": "underestimate",
+          "meaning": "judge too low",
+          "note": "This is the all-purpose choice for judging a value, amount, ability, importance, or difficulty too low."
+        }
+      ],
       "examples": [
         {
           "english": "If we rely only on this report, we underestimate the repair costs.",

@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "imitation",
-      "english": ["mimic", "emulation", "imitation"],
+      "english": [
+        {
+          "id": "q59tg3tm",
+          "word": "mimic",
+          "meaning": "imitation / copy",
+          "note": "Use this as the all-purpose noun for an imitation or an imitated performance, such as a voice imitation."
+        },
+        {
+          "id": "do718f5g",
+          "word": "emulation",
+          "meaning": "trying to match or surpass",
+          "note": "This is the all-purpose choice for copying someone’s qualities or actions in order to match or surpass them."
+        },
+        {
+          "id": "rezc42bq",
+          "word": "imitation",
+          "meaning": "act of imitating",
+          "note": "Use this for the act or practice of imitating someone or something."
+        }
+      ],
       "examples": [
         {
           "english": "This mimic is so accurate that it even copies the voice exactly.",

@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "considerate, caring",
-      "english": ["thoughtful", "caring", "kind", "sensitive"],
+      "english": [
+        {
+          "id": "f6vjyabq",
+          "word": "thoughtful",
+          "meaning": "kind, considerate",
+          "note": "Use this as the all-purpose choice when someone thoughtfully considers other people's needs."
+        },
+        {
+          "id": "b21lclkb",
+          "word": "caring",
+          "meaning": "kind, empathetic",
+          "note": "Choose 體貼 when the person shows care by noticing and responding to other people's needs."
+        },
+        {
+          "id": "dkg82y3u",
+          "word": "kind",
+          "meaning": "kind; kind-hearted",
+          "note": "Use this when the person's kindness specifically involves being considerate of other people's needs and feelings."
+        },
+        {
+          "id": "04id3s63",
+          "word": "sensitive",
+          "meaning": "considerate and tactful",
+          "note": "Use this when sensitive means considerate of other people's feelings rather than easily offended."
+        }
+      ],
       "examples": [
         {
           "english": "It was really thoughtful of you to wait with me for the bus so late.",

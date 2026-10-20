@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "when it comes to A, speaking of A",
-      "english": ["regarding", "concerning"],
+      "english": [
+        {
+          "id": "t7mjjgyn",
+          "word": "regarding",
+          "meaning": "concerning; about",
+          "register": "colloquial",
+          "note": "Use this conversational pattern when introducing a topic as “when it comes to A.”"
+        },
+        {
+          "id": "8eo83a2u",
+          "word": "concerning",
+          "meaning": "regarding; about",
+          "note": "This is the all-purpose spoken choice when introducing or shifting to a topic, such as your mental state."
+        }
+      ],
       "examples": [
         {
           "english": "Regarding travel, I like going to Japan most.",

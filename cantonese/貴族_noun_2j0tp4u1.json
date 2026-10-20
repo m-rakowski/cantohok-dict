@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "noble, aristocrat",
-      "english": ["aristocracy", "nobility", "nobleman", "peer"],
+      "english": [
+        {
+          "id": "elmtnuma",
+          "word": "aristocracy",
+          "meaning": "nobility; ruling class",
+          "note": "This is the all-purpose choice for hereditary nobles or the noble class."
+        },
+        {
+          "id": "wr6kddyi",
+          "word": "nobility",
+          "meaning": "noble class, aristocracy",
+          "note": "This is the all-purpose choice for the hereditary or privileged noble class."
+        },
+        {
+          "id": "mh6n6o5l",
+          "word": "nobleman",
+          "meaning": "aristocrat, peer",
+          "note": "This is the all-purpose Cantonese noun for an aristocrat or member of the nobility, including a male nobleman."
+        },
+        {
+          "id": "r9nbde7o",
+          "word": "peer",
+          "meaning": "noble peer",
+          "note": "Use this for a titled noble in a peerage or a comparable historical noble context, rather than for an ordinary equal or contemporary."
+        }
+      ],
       "examples": [
         {
           "english": "That painting shows a group from the aristocracy.",

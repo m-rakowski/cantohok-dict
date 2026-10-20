@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "landslide win",
-      "english": ["landslide", "runaway"],
+      "english": [
+        {
+          "id": "gxqqih3q",
+          "word": "landslide",
+          "meaning": "overwhelming election win",
+          "note": "Use this for an election won by a very wide margin, especially in phrases such as 一場大勝."
+        },
+        {
+          "id": "rsucz2a0",
+          "word": "runaway",
+          "meaning": "easy victory",
+          "note": "Use this for an overwhelming victory rather than merely an ordinary win."
+        }
+      ],
       "examples": [
         {
           "english": "They won a landslide victory in this election, leaving their opponents completely defeated.",

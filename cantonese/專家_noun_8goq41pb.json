@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "expert",
-      "english": ["expert", "specialist", "professional", "virtuoso"],
+      "english": [
+        {
+          "id": "wb8l7zmk",
+          "word": "expert",
+          "meaning": "expert person",
+          "note": "This is the all-purpose choice for a person with authoritative knowledge or ability in a subject."
+        },
+        {
+          "id": "h9yb016w",
+          "word": "specialist",
+          "meaning": "expert in a field",
+          "note": "This is the all-purpose noun for an expert in a particular academic or professional field."
+        },
+        {
+          "id": "kwgwwpnh",
+          "word": "professional",
+          "meaning": "expert",
+          "note": "Use this when the main point is that the person is an expert, not merely a professional by occupation."
+        },
+        {
+          "id": "pg0du6dg",
+          "word": "virtuoso",
+          "meaning": "expert, highly skilled person",
+          "note": "Use this when the emphasis is on expert knowledge or professional expertise rather than performance skill."
+        }
+      ],
       "examples": [
         {
           "english": "They are an expert in this area.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "weather/day with lots of sunshine",
-      "english": ["sunny"],
+      "english": [
+        {
+          "id": "mxs35f3m",
+          "word": "sunny",
+          "meaning": "weather/day with lots of sunshine",
+          "note": "Use this when emphasizing that there is plenty of sunlight, especially in a place or on a day."
+        }
+      ],
       "examples": [
         {
           "english": "It's sunny today, so let's go to the beach!",

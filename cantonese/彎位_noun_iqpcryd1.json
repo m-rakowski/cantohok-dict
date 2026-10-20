@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "bend, curve (in a road)",
-      "english": ["bend", "twist", "elbow"],
+      "english": [
+        {
+          "id": "6vujmqvz",
+          "word": "bend",
+          "meaning": "curve in road",
+          "note": "This is the all-purpose everyday noun for a bend or curve in a road."
+        },
+        {
+          "id": "ch378yup",
+          "word": "twist",
+          "meaning": "bend in road",
+          "note": "Use this for a bend in a road, path, or stream; it is the all-purpose Cantonese noun for this sense."
+        },
+        {
+          "id": "tuxs9w21",
+          "word": "elbow",
+          "meaning": "bend/angle",
+          "note": "Use this for a bend or angular section in a wall, building, coastline, or similar structure."
+        }
+      ],
       "examples": [
         {
           "english": "The bend ahead is very sharp, so drive carefully.",

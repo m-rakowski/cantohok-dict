@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "sheriff's deputy",
-      "english": ["deputy"],
+      "english": [
+        {
+          "id": "f5bdigll",
+          "word": "deputy",
+          "meaning": "sheriff's deputy",
+          "note": "Use this specifically for a US-style sheriff's deputy or the equivalent subordinate law-enforcement officer."
+        }
+      ],
       "examples": [
         {
           "english": "The deputy led the team to secure the scene.",

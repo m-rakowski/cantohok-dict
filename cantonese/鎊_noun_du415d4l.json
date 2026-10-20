@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "other countries' pound currencies",
-      "english": ["pound"],
+      "english": [
+        {
+          "id": "491s1izw",
+          "word": "pound",
+          "meaning": "other countries' pound currencies",
+          "note": "Use this after a country name for a non-British pound currency, such as 埃及鎊 or 黎巴嫩鎊."
+        }
+      ],
       "examples": [
         {
           "english": "One Egyptian pound can't currently be exchanged for one Hong Kong dollar.",

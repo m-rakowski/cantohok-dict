@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "carefree, no worries or ties",
-      "english": ["unencumbered", "carefree"],
+      "english": [
+        {
+          "id": "f0msez8q",
+          "word": "unencumbered",
+          "meaning": "free of worries or duties",
+          "note": "Use this when the emphasis is on being free from worries, cares, or personal attachments rather than practical duties."
+        },
+        {
+          "id": "q540bcjm",
+          "word": "carefree",
+          "meaning": "without worries",
+          "register": "written",
+          "note": "Use this when a person is carefree because no responsibilities, attachments, or personal concerns are weighing on them."
+        }
+      ],
       "examples": [
         {
           "english": "Now that my children are grown, I’m unencumbered and can travel wherever I want.",

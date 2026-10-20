@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "cooking recipe",
-      "english": ["recipe"],
+      "english": [
+        {
+          "id": "hl7511pf",
+          "word": "recipe",
+          "meaning": "cooking recipe",
+          "note": "This is the all-purpose Cantonese noun for a recipe, including both mixture instructions and cooking instructions."
+        }
+      ],
       "examples": [
         {
           "english": "This recipe is written clearly enough that even beginners can follow it.",

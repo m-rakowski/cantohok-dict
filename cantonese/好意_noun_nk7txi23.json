@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "kind intention, kind gesture",
-      "english": ["goodwill", "kindness", "courtesy"],
+      "english": [
+        {
+          "id": "6numj2ns",
+          "word": "goodwill",
+          "meaning": "friendly attitude",
+          "register": "colloquial",
+          "note": "Use this colloquial term when the goodwill means someone's kind intention or friendly gesture, especially in phrases like accepting or appreciating it."
+        },
+        {
+          "id": "tfe8svds",
+          "word": "kindness",
+          "meaning": "kind act, favor",
+          "note": "Use this for a kind gesture or goodwill shown to someone, especially in 多謝你嘅好意."
+        },
+        {
+          "id": "9zbb9zlc",
+          "word": "courtesy",
+          "meaning": "polite act or remark",
+          "note": "Use this for a courteous favor or gesture offered out of goodwill rather than obligation."
+        }
+      ],
       "examples": [
         {
           "english": "Thanks for your goodwill, but I can carry these documents myself.",

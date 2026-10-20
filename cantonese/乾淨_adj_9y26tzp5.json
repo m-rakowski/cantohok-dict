@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "clean",
-      "english": ["clean", "sanitary"],
+      "english": [
+        {
+          "id": "iloaj7lb",
+          "word": "clean",
+          "meaning": "not dirty",
+          "note": "This is the all-purpose choice for something free of dirt, and it also describes a neat, precise result such as a clean cut."
+        },
+        {
+          "id": "dt5pc4xp",
+          "word": "sanitary",
+          "meaning": "hygienic, clean",
+          "note": "Use this when the emphasis is on being visibly or physically clean rather than specifically free from germs."
+        }
+      ],
       "examples": [
         {
           "english": "This knife makes a clean cut.",

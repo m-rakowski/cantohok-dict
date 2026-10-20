@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "appoint to a post",
-      "english": ["appoint", "assign"],
+      "english": [
+        {
+          "id": "47imeocy",
+          "word": "appoint",
+          "meaning": "name to a job",
+          "register": "formal",
+          "note": "Use this when someone is officially named to a post or role."
+        },
+        {
+          "id": "mdoqj87w",
+          "word": "assign",
+          "meaning": "appoint to office",
+          "register": "formal",
+          "note": "Use this for formally appointing someone to an office or official position."
+        }
+      ],
       "register": "formal",
       "examples": [
         {

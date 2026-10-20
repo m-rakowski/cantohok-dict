@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "wages, salary",
-      "english": ["pay", "salary"],
+      "english": [
+        {
+          "id": "upmo0dda",
+          "word": "pay",
+          "meaning": "wages; salary",
+          "register": "colloquial",
+          "note": "Use this colloquial term when referring to someone’s regular pay, especially wages or a monthly salary."
+        },
+        {
+          "id": "a8w0702d",
+          "word": "salary",
+          "meaning": "fixed pay",
+          "register": "colloquial",
+          "note": "A speaker uses this casual word when focusing on the pay received from a job, especially around payday."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

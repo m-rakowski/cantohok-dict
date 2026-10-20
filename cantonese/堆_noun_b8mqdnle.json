@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "pile",
-      "english": ["heap", "stack"],
+      "english": [
+        {
+          "id": "k9pt4n83",
+          "word": "heap",
+          "meaning": "pile of things",
+          "note": "Use this for a physical pile or mass of things such as earth or stones."
+        },
+        {
+          "id": "lmvqu4tq",
+          "word": "stack",
+          "meaning": "pile of objects",
+          "note": "Use this as the all-purpose noun for a physical pile of similar objects."
+        }
+      ],
       "examples": [
         {
           "english": "There’s a heap of sand and stones by the entrance, so be careful walking past.",

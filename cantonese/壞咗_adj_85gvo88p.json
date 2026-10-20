@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "broken, not working",
-      "english": ["broken", "off"],
+      "english": [
+        {
+          "id": "16cs87wn",
+          "word": "broken",
+          "meaning": "not working",
+          "note": "This is the all-purpose choice for something that is damaged or no longer working."
+        },
+        {
+          "id": "mknofamk",
+          "word": "off",
+          "meaning": "not working",
+          "note": "Use this as the all-purpose choice when a device is inoperative or food has gone bad, rather than when something is deliberately switched off."
+        }
+      ],
       "examples": [
         {
           "english": "My phone is broken.",

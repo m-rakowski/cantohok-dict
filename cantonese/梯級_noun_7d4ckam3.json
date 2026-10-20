@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "stair step",
-      "english": ["stair", "step"],
+      "english": [
+        {
+          "id": "5g8gswwk",
+          "word": "stair",
+          "meaning": "single step",
+          "note": "Use this for one individual step or tread within a staircase, rather than the whole staircase."
+        },
+        {
+          "id": "3xwqkh5w",
+          "word": "step",
+          "meaning": "stair or rung",
+          "note": "Use this specifically for a step on a staircase, rather than a pace or a process stage."
+        }
+      ],
       "examples": [
         {
           "english": "Careful, this stair is slippery.",

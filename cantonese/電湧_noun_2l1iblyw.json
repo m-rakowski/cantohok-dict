@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "power surge",
-      "english": ["surge"],
+      "english": [
+        {
+          "id": "v8o9plg9",
+          "word": "surge",
+          "meaning": "power surge",
+          "note": "Use this specifically for a sudden electrical spike, especially in technical or safety contexts."
+        }
+      ],
       "examples": [
         {
           "english": "There was a sudden surge in voltage, and the computer shut down immediately.",

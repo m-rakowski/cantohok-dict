@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "carefully, in detail",
-      "english": ["meticulously", "attentively", "conscientiously"],
+      "english": [
+        {
+          "id": "yk4guv1k",
+          "word": "meticulously",
+          "meaning": "in a meticulous manner",
+          "note": "This is the all-purpose choice for doing something with close attention to detail."
+        },
+        {
+          "id": "ww00v2zs",
+          "word": "attentively",
+          "meaning": "in an attentive manner",
+          "note": "Use this when attentiveness involves examining or inspecting something closely and carefully."
+        },
+        {
+          "id": "qukoeq29",
+          "word": "conscientiously",
+          "meaning": "attentively; carefully",
+          "note": "Use this when the emphasis is on doing or checking something carefully and in detail."
+        }
+      ],
       "examples": [
         {
           "english": "I meticulously checked the report before handing it to my boss.",

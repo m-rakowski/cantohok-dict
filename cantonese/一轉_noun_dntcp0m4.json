@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "a quick trip",
-      "english": ["run"],
+      "english": [
+        {
+          "id": "1ha4ndx7",
+          "word": "run",
+          "meaning": "a quick trip",
+          "note": "Use this for one quick errand or one scheduled journey, rather than the route itself."
+        }
+      ],
       "examples": [
         {
           "english": "I’m going to run to the convenience store now.",
@@ -17,7 +24,20 @@
     },
     {
       "meaning": "one full turn",
-      "english": ["revolution", "cycle"],
+      "english": [
+        {
+          "id": "cbww3ev0",
+          "word": "revolution",
+          "meaning": "rotation, one turn",
+          "note": "Use 一轉 for one complete turn of a rotating object, especially in mechanical or astronomical contexts."
+        },
+        {
+          "id": "a0l6ctgn",
+          "word": "cycle",
+          "meaning": "one rotation",
+          "note": "Use this for one complete turn or rotation, rather than for a recurring process."
+        }
+      ],
       "examples": [
         {
           "english": "With one revolution of the flywheel, the belt moves along.",

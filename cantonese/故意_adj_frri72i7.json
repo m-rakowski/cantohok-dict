@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "on purpose",
-      "english": ["deliberate", "voluntary", "conscious"],
+      "english": [
+        {
+          "id": "h7jc2z5e",
+          "word": "deliberate",
+          "meaning": "intentional, on purpose",
+          "note": "Use 故意 as the all-purpose adjective for something done intentionally or on purpose."
+        },
+        {
+          "id": "dbdgvzb4",
+          "word": "voluntary",
+          "meaning": "intentional, deliberate",
+          "note": "Use this when the action was intentional rather than accidental, not when it merely reflects free choice."
+        },
+        {
+          "id": "srci5jji",
+          "word": "conscious",
+          "meaning": "intentional, deliberate",
+          "note": "Use 故意 when an action is intentional or deliberate, not when someone is merely awake or aware."
+        }
+      ],
       "examples": [
         {
           "english": "Their refusal to let me in was deliberate.",

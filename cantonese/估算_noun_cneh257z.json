@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "estimated amount or value",
-      "english": ["estimation"],
+      "english": [
+        {
+          "id": "7jyj7i0d",
+          "word": "estimation",
+          "meaning": "estimated amount or value",
+          "note": "Use this when the estimation involves a deliberate numerical or systematic calculation rather than a general guess."
+        }
+      ],
       "examples": [
         {
           "english": "The engineer used a computer to make an estimation of how much the project would cost.",

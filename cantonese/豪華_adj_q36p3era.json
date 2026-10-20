@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "luxurious, lavish",
-      "english": ["luxury", "luxurious", "posh", "rich"],
+      "english": [
+        {
+          "id": "780yblub",
+          "word": "luxury",
+          "meaning": "luxurious; indulgent",
+          "note": "Use this as the all-purpose adjective for something lavish or luxurious, especially its appearance, facilities, or style."
+        },
+        {
+          "id": "oq1wku6j",
+          "word": "luxurious",
+          "meaning": "very fine, comfortable",
+          "note": "This is the all-purpose choice for something luxurious, especially a hotel, room, or vehicle."
+        },
+        {
+          "id": "u21w0uul",
+          "word": "posh",
+          "meaning": "stylish, luxurious",
+          "note": "Use this when the emphasis is on conspicuous luxury or lavishness rather than general style."
+        },
+        {
+          "id": "j6qmj5tl",
+          "word": "rich",
+          "meaning": "luxurious",
+          "note": "Choose this when rich means luxurious, sumptuous, or made with costly materials."
+        }
+      ],
       "examples": [
         {
           "english": "This hotel's lobby has a real sense of luxury.",

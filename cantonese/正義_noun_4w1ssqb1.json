@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "justice, righteousness",
-      "english": ["righteousness", "justice"],
+      "english": [
+        {
+          "id": "jz6w97yu",
+          "word": "righteousness",
+          "meaning": "moral righteousness",
+          "note": "This is the all-purpose choice for moral righteousness and acting according to what is right."
+        },
+        {
+          "id": "wd0uumbx",
+          "word": "justice",
+          "meaning": "fairness; impartiality",
+          "register": "formal",
+          "note": "Use this for the moral or ideal notion of justice, especially in contrast with wrongdoing, rather than ordinary fair treatment."
+        }
+      ],
       "examples": [
         {
           "english": "We cannot turn a blind eye to injustice for the sake of righteousness.",

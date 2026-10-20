@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "hemp plant",
-      "english": ["hemp"],
+      "english": [
+        {
+          "id": "fc8g2wz0",
+          "word": "hemp",
+          "meaning": "hemp plant",
+          "note": "This is the all-purpose term for the hemp plant and its cannabis products."
+        }
+      ],
       "examples": [
         {
           "english": "This hemp can be used to make rope, and some people smoke it.",
@@ -17,7 +24,38 @@
     },
     {
       "meaning": "cannabis, marijuana as a drug",
-      "english": ["herb", "weed", "hay", "pot", "green"],
+      "english": [
+        {
+          "id": "ooigieam",
+          "word": "herb",
+          "meaning": "cannabis",
+          "note": "Use this specifically for cannabis as a drug or plant."
+        },
+        {
+          "id": "mbipqfbf",
+          "word": "weed",
+          "meaning": "marijuana, cannabis",
+          "note": "Use this neutral term for cannabis, especially in general, legal, or informational contexts."
+        },
+        {
+          "id": "8k852yqc",
+          "word": "hay",
+          "meaning": "marijuana, slang",
+          "note": "Use this for the cannabis or marijuana sense, rather than for animal fodder."
+        },
+        {
+          "id": "op5gte44",
+          "word": "pot",
+          "meaning": "marijuana",
+          "note": "Use this for pot as marijuana, rather than for a physical container."
+        },
+        {
+          "id": "o0rkkxxg",
+          "word": "green",
+          "meaning": "marijuana",
+          "note": "Use this when English green refers to marijuana."
+        }
+      ],
       "examples": [
         {
           "english": "Someone was secretly smoking herb in the back alley.",

@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "give off light, glow",
-      "english": ["shine", "shed", "blaze", "illuminate"],
+      "english": [
+        {
+          "id": "yei9o5aq",
+          "word": "shine",
+          "meaning": "give off light",
+          "note": "This is the all-purpose choice when something gives off its own light."
+        },
+        {
+          "id": "kei4txo9",
+          "word": "shed",
+          "meaning": "give off light",
+          "note": "Use this when a source emits or gives off light, rather than when “shed light on” means explain something."
+        },
+        {
+          "id": "a9wd6q8g",
+          "word": "blaze",
+          "meaning": "shine brightly",
+          "note": "Use this for something emitting or reflecting bright light rather than actually burning."
+        },
+        {
+          "id": "07nf64ya",
+          "word": "illuminate",
+          "meaning": "glow; light up",
+          "note": "Use this when something emits light or visibly glows."
+        }
+      ],
       "examples": [
         {
           "english": "The light bulb can shine.",

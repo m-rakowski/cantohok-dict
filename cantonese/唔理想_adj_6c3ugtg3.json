@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "not ideal, unsatisfactory",
-      "english": ["unsatisfactory", "unfortunate"],
+      "english": [
+        {
+          "id": "u5p61q4g",
+          "word": "unsatisfactory",
+          "meaning": "not satisfactory",
+          "note": "This is the all-purpose choice for something that is inadequate or below expectations."
+        },
+        {
+          "id": "r5vywpvo",
+          "word": "unfortunate",
+          "meaning": "regrettable or unsuitable",
+          "note": "Use this when unfortunate means unsuitable, unsatisfactory, or not ideal."
+        }
+      ],
       "examples": [
         {
           "english": "The result of this renovation is unsatisfactory.",

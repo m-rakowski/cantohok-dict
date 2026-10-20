@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "daily necessities",
-      "english": ["subsistence", "necessity"],
+      "english": [
+        {
+          "id": "i354gb4r",
+          "word": "subsistence",
+          "meaning": "means of living",
+          "note": "Use this for concrete necessities such as food, water, and other basic goods rather than income itself."
+        },
+        {
+          "id": "5u36ptvx",
+          "word": "necessity",
+          "meaning": "basic necessities",
+          "note": "Use this specifically for the indispensable goods needed for everyday life."
+        }
+      ],
       "examples": [
         {
           "english": "Food and water are essential for subsistence.",

@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "next to A",
-      "english": ["beside", "alongside", "by"],
+      "english": [
+        {
+          "id": "cbjem250",
+          "word": "beside",
+          "meaning": "next to; at the side of",
+          "note": "This is the all-purpose choice for a physical location next to something."
+        },
+        {
+          "id": "cpukuaze",
+          "word": "alongside",
+          "meaning": "side by side with",
+          "note": "Use this for physical proximity when something is beside A."
+        },
+        {
+          "id": "0mocj6ix",
+          "word": "by",
+          "meaning": "next to, beside",
+          "note": "Use this for something located next to or beside A."
+        }
+      ],
       "examples": [
         {
           "english": "We ate breakfast beside the convenience store.",

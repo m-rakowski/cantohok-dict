@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "small gadget or trinket",
-      "english": ["gadget", "novelty", "ephemera"],
+      "english": [
+        {
+          "id": "8e0fq0ww",
+          "word": "gadget",
+          "meaning": "small device or contraption",
+          "note": "This is the all-purpose choice for a small, clever, complicated, or unnamed device or contraption."
+        },
+        {
+          "id": "m4nucjnp",
+          "word": "novelty",
+          "meaning": "small trinket",
+          "note": "Use this for a small, usually mass-produced trinket or novelty item."
+        },
+        {
+          "id": "vxr4zapx",
+          "word": "ephemera",
+          "meaning": "collectible throwaway items",
+          "note": "Use this specifically for the small giveaway or throwaway trinkets within the broader sense."
+        }
+      ],
       "examples": [
         {
           "english": "This gadget is pretty neat, but I still don't know how to use it.",

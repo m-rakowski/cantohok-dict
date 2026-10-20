@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "cheap",
-      "english": ["cheap", "inexpensive"],
+      "english": [
+        {
+          "id": "6i0v03b2",
+          "word": "cheap",
+          "meaning": "low price",
+          "note": "This is the all-purpose choice for something that has a low price."
+        },
+        {
+          "id": "rpj5yd20",
+          "word": "inexpensive",
+          "meaning": "cheap / low cost",
+          "note": "This is the all-purpose choice for something that costs little or is reasonably priced."
+        }
+      ],
       "examples": [
         {
           "english": "The clothes in this shop are really cheap.",

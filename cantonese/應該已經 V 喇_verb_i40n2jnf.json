@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "expected by now",
-      "english": ["should"],
+      "english": [
+        {
+          "id": "e8icjgnt",
+          "word": "should",
+          "meaning": "expected by now",
+          "note": "Use this pattern when something is expected to have happened by now."
+        }
+      ],
       "examples": [
         {
           "english": "They should have eaten already.",

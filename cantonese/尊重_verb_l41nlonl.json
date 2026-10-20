@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "to respect, honour",
-      "english": ["respect", "dignify"],
+      "english": [
+        {
+          "id": "ek5orhkp",
+          "word": "respect",
+          "meaning": "respect someone",
+          "note": "Use this as the all-purpose verb for respecting a person and for respecting someone’s rights or choices."
+        },
+        {
+          "id": "oti81afm",
+          "word": "dignify",
+          "meaning": "honour; give dignity to",
+          "note": "Use this as the all-purpose choice for honouring or showing regard for a person or thing."
+        }
+      ],
       "examples": [
         {
           "english": "We need to respect everyone's choices.",

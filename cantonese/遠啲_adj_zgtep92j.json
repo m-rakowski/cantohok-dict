@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "farther",
-      "english": ["further", "far"],
+      "english": [
+        {
+          "id": "az8h31w1",
+          "word": "further",
+          "meaning": "more distant",
+          "note": "This is the all-purpose spoken choice for something that is more distant."
+        },
+        {
+          "id": "32yqpc4h",
+          "word": "far",
+          "meaning": "the farther one",
+          "register": "colloquial",
+          "note": "Use this spoken comparative when you need to make clear which of two objects or places is farther away."
+        }
+      ],
       "examples": [
         {
           "english": "Can you sit further over there?",

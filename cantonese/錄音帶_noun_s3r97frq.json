@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "audio/video tape",
-      "english": ["tape"],
+      "english": [
+        {
+          "id": "fergfrrz",
+          "word": "tape",
+          "meaning": "audio/video tape",
+          "note": "Use this for tape containing an audio recording rather than video."
+        }
+      ],
       "examples": [
         {
           "english": "This tape is a recording my dad made when he was young.",

@@ -6,7 +6,44 @@
   "boxes": [
     {
       "meaning": "situation",
-      "english": ["case", "situation", "circumstance", "scenario", "status", "context"],
+      "english": [
+        {
+          "id": "33gbczpr",
+          "word": "case",
+          "meaning": "situation; instance",
+          "note": "Use this as the all-purpose noun for a situation or the facts of what happened."
+        },
+        {
+          "id": "cptg2u02",
+          "word": "situation",
+          "meaning": "state of affairs",
+          "note": "This is the all-purpose choice for the general state of affairs at a particular time."
+        },
+        {
+          "id": "8ykhih8y",
+          "word": "circumstance",
+          "meaning": "circumstances; situation",
+          "note": "Use 情況 as the all-purpose noun for a situation or circumstances affecting an event."
+        },
+        {
+          "id": "h56sx0zt",
+          "word": "scenario",
+          "meaning": "possible sequence of events",
+          "note": "This is the all-purpose choice for a possible or expected course of events."
+        },
+        {
+          "id": "5jb1d2ky",
+          "word": "status",
+          "meaning": "current state; situation",
+          "note": "Use this for the general situation or state of affairs, especially when circumstances are the focus."
+        },
+        {
+          "id": "bsepyb3k",
+          "word": "context",
+          "meaning": "circumstances/background",
+          "note": "Use this when context means the particular circumstances or situation rather than general background."
+        }
+      ],
       "examples": [
         {
           "english": "The case is a bit complicated right now.",

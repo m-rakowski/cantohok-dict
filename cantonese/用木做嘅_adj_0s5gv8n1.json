@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "made of wood",
-      "english": ["wooden"],
+      "english": [
+        {
+          "id": "hegccrkw",
+          "word": "wooden",
+          "meaning": "made of wood",
+          "note": "Use this for an object that is physically made of wood."
+        }
+      ],
       "examples": [
         {
           "english": "This table is wooden.",

@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "put, place, set",
-      "english": ["set", "pop", "balance"],
+      "english": [
+        {
+          "id": "yncakcdr",
+          "word": "set",
+          "meaning": "set the table",
+          "note": "This is the all-purpose choice for putting something somewhere or arranging things, including setting the table."
+        },
+        {
+          "id": "8u7vwy1y",
+          "word": "pop",
+          "meaning": "put quickly",
+          "note": "Use 擺 as the all-purpose verb for putting something somewhere, with the quickness supplied by context."
+        },
+        {
+          "id": "54hrptoa",
+          "word": "balance",
+          "meaning": "support precariously",
+          "note": "Use this when placing or keeping an object on a narrow or unstable support, with the context supplying the idea of balancing."
+        }
+      ],
       "examples": [
         {
           "english": "We set the table before eating.",

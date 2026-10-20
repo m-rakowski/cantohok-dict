@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "stance, position on an issue",
-      "english": ["stand", "position"],
+      "english": [
+        {
+          "id": "ove4z1zt",
+          "word": "stand",
+          "meaning": "take a stand",
+          "note": "Use 立場 for someone's firm position or stance in a dispute, rather than a physical support."
+        },
+        {
+          "id": "0c4zrca3",
+          "word": "position",
+          "meaning": "opinion; stance",
+          "note": "Use this for someone's stated opinion or stance on an issue, rather than their rank or physical position."
+        }
+      ],
       "examples": [
         {
           "english": "Even if everyone objects, I won't change my stand.",

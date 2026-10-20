@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "mostly, usually",
-      "english": ["mostly", "largely"],
+      "english": [
+        {
+          "id": "bm8epni5",
+          "word": "mostly",
+          "meaning": "mainly; for the most part",
+          "note": "This is the all-purpose spoken choice for saying that something is true most of the time or in most cases."
+        },
+        {
+          "id": "f4ajnpey",
+          "word": "largely",
+          "meaning": "mostly; mainly",
+          "note": "Use this when largely means that most people, cases, or occasions fall into the stated category."
+        }
+      ],
       "examples": [
         {
           "english": "I mostly stay home on Saturdays.",
@@ -22,7 +35,14 @@
     },
     {
       "meaning": "probably",
-      "english": ["probably"],
+      "english": [
+        {
+          "id": "1hqwox5z",
+          "word": "probably",
+          "meaning": "in all likelihood",
+          "note": "Use this when the likelihood is based on what usually happens or is the expected outcome."
+        }
+      ],
       "examples": [
         {
           "english": "With rain this heavy, there will probably be a traffic jam.",

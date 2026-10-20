@@ -6,7 +6,34 @@
   "boxes": [
     {
       "meaning": "passable, acceptable",
-      "english": ["satisfactory", "acceptable", "reasonable", "palatable"],
+      "english": [
+        {
+          "id": "q0ij6ds3",
+          "word": "satisfactory",
+          "meaning": "adequate; acceptable",
+          "note": "Use this as the everyday choice when something is adequate, acceptable, or passable rather than especially good."
+        },
+        {
+          "id": "h51cxiyt",
+          "word": "acceptable",
+          "meaning": "passable / not great but okay",
+          "register": "colloquial",
+          "note": "Use this when something is only passable or good enough but not impressive."
+        },
+        {
+          "id": "l9z3gc0f",
+          "word": "reasonable",
+          "meaning": "satisfactory",
+          "register": "colloquial",
+          "note": "Use this for work or results that are satisfactory or acceptable but not outstanding."
+        },
+        {
+          "id": "spqn6tu6",
+          "word": "palatable",
+          "meaning": "acceptable; easy to accept",
+          "note": "Use this for something that is merely passable or tolerable rather than clearly good."
+        }
+      ],
       "examples": [
         {
           "english": "The report is satisfactory enough to hand in.",

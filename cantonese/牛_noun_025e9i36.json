@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "cow, cattle",
-      "english": ["cow", "cattle", "ox"],
+      "english": [
+        {
+          "id": "tt7ry5c5",
+          "word": "cow",
+          "meaning": "cattle; farm cow",
+          "note": "This is the all-purpose spoken choice for cattle or a farm cow in general."
+        },
+        {
+          "id": "z6vna7sr",
+          "word": "cattle",
+          "meaning": "cows and other bovines",
+          "note": "This is the all-purpose everyday noun for cattle, including cows, bulls, oxen, and other bovines."
+        },
+        {
+          "id": "qnt17kvs",
+          "word": "ox",
+          "meaning": "castrated male cattle",
+          "note": "This is the all-purpose Cantonese word for an ox or other cattle in ordinary speech."
+        }
+      ],
       "examples": [
         {
           "english": "There’s a cow on the farm.",

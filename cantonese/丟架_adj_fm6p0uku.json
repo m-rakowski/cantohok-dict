@@ -6,7 +6,35 @@
   "boxes": [
     {
       "meaning": "embarrassing, losing face",
-      "english": ["degrading", "ignominious", "shameful", "humiliating"],
+      "english": [
+        {
+          "id": "db110tuq",
+          "word": "degrading",
+          "meaning": "humiliating, degrading",
+          "note": "This is the all-purpose colloquial choice for something that makes someone lose face or feel humiliated."
+        },
+        {
+          "id": "oafu369f",
+          "word": "ignominious",
+          "meaning": "disgraceful, shameful",
+          "register": "colloquial",
+          "note": "Use this colloquially when something disgraceful is humiliating or makes someone lose face."
+        },
+        {
+          "id": "bl7588hr",
+          "word": "shameful",
+          "meaning": "disgraceful, deserving shame",
+          "register": "colloquial",
+          "note": "Use this when the shameful thing specifically makes someone lose face or look bad."
+        },
+        {
+          "id": "se14zu9w",
+          "word": "humiliating",
+          "meaning": "causing shame/embarrassment",
+          "register": "colloquial",
+          "note": "Use this when the emphasis is on losing face or dignity, especially in front of other people."
+        }
+      ],
       "examples": [
         {
           "english": "Being scolded in front of so many people is really degrading.",

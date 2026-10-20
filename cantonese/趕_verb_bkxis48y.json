@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "to hurry, rush",
-      "english": ["hurry", "rush"],
+      "english": [
+        {
+          "id": "as7nxyvj",
+          "word": "hurry",
+          "meaning": "do things quickly",
+          "note": "This is the all-purpose everyday choice for hurrying or trying to get something done quickly."
+        },
+        {
+          "id": "j7fdntq1",
+          "word": "rush",
+          "meaning": "hurry; do in haste",
+          "note": "This is the all-purpose choice for hurrying yourself or doing a task hastily."
+        }
+      ],
       "examples": [
         {
           "english": "We need to hurry and finish this homework.",
@@ -22,7 +35,14 @@
     },
     {
       "meaning": "to drive away (animals)",
-      "english": ["drive"],
+      "english": [
+        {
+          "id": "ansy9ysl",
+          "word": "drive",
+          "meaning": "drive animals onward",
+          "note": "Use this for urging animals onward, including making them flee or go out of a place."
+        }
+      ],
       "examples": [
         {
           "english": "Hurry and drive the chickens out the doorway; don't let them into the house.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "rag",
-      "english": ["tatter", "rag"],
+      "english": [
+        {
+          "id": "iyeql9ym",
+          "word": "tatter",
+          "meaning": "torn shred; ragged cloth",
+          "note": "This is the all-purpose choice for a torn shred or ragged piece of cloth."
+        },
+        {
+          "id": "mhaqal8w",
+          "word": "rag",
+          "meaning": "piece of cloth",
+          "note": "Use this for a piece of old or torn cloth when its cleaning use is not the focus."
+        }
+      ],
       "examples": [
         {
           "english": "I used a tatter to wipe the window, then threw it away.",

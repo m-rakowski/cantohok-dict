@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "medical care",
-      "english": ["health care"],
+      "english": [
+        {
+          "id": "yka0ecor",
+          "word": "health care",
+          "meaning": "medical care",
+          "note": "Use 醫療服務 when you want to stress the healthcare services or system provided by professionals and institutions."
+        }
+      ],
       "examples": [
         {
           "english": "The government should improve health care services in public hospitals and reduce patients’ waiting time.",

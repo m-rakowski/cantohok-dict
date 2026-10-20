@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "college teacher",
-      "english": ["professor"],
+      "english": [
+        {
+          "id": "cod9l4te",
+          "word": "professor",
+          "meaning": "college teacher",
+          "note": "Use this broader term for a university teacher or faculty member who may not hold the formal professor rank."
+        }
+      ],
       "examples": [
         {
           "english": "My older brother is a university professor who specializes in teaching history.",

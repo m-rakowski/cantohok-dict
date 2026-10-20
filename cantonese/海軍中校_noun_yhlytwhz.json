@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "naval rank",
-      "english": ["commander"],
+      "english": [
+        {
+          "id": "78l7brwv",
+          "word": "commander",
+          "meaning": "naval rank",
+          "note": "Use this specifically for the naval rank between lieutenant commander and captain."
+        }
+      ],
       "examples": [
         {
           "english": "The commander met reporters at the base today.",

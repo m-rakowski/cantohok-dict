@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "restore to previous state",
-      "english": ["undo", "restore"],
+      "english": [
+        {
+          "id": "i0h6n2qh",
+          "word": "undo",
+          "meaning": "reverse effects",
+          "note": "Use 還原 as the all-purpose choice when undo means restoring something to its previous state or reversing an effect."
+        },
+        {
+          "id": "wg36n2cz",
+          "word": "restore",
+          "meaning": "recover from backup",
+          "note": "Use this mainly for restoring data, files, or a system from a backup or to an earlier state."
+        }
+      ],
       "examples": [
         {
           "english": "I accidentally deleted the document; can I still undo it?",

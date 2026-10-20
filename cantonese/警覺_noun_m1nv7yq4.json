@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "alertness to danger",
-      "english": ["caution", "awareness"],
+      "english": [
+        {
+          "id": "l89ctyqz",
+          "word": "caution",
+          "meaning": "care to avoid danger",
+          "note": "Use 警覺 when the caution specifically means alertness to an immediate or expected danger."
+        },
+        {
+          "id": "q1ba7pk2",
+          "word": "awareness",
+          "meaning": "being aware; awareness",
+          "note": "Use this for awareness and alertness to danger, risks, or possible problems."
+        }
+      ],
       "examples": [
         {
           "english": "When I heard a noise outside, I immediately went on high alert and exercised caution.",

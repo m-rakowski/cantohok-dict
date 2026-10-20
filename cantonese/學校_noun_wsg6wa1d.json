@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "educational institution",
-      "english": ["school"],
+      "english": [
+        {
+          "id": "w1k82d5x",
+          "word": "school",
+          "meaning": "educational institution",
+          "note": "This is the all-purpose noun for an educational institution, including primary and secondary schools and specialized schools when the type is specified."
+        }
+      ],
       "examples": [
         {
           "english": "This school has lots of extracurricular activities.",

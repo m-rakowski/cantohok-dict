@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "although A, but B",
-      "english": ["though", "although"],
+      "english": [
+        {
+          "id": "7mlw7jsr",
+          "word": "though",
+          "meaning": "although; despite the fact that",
+          "register": "colloquial",
+          "note": "Use this everyday pattern when you want to link an explicit although-clause to its contrasting main clause."
+        },
+        {
+          "id": "gkxtntlq",
+          "word": "although",
+          "meaning": "concessive conjunction",
+          "register": "colloquial",
+          "note": "Use this common spoken pattern when you want to link both the concessive clause and the contrasting main clause explicitly."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

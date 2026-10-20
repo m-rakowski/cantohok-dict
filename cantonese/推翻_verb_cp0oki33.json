@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "overthrow a government",
-      "english": ["overthrow"],
+      "english": [
+        {
+          "id": "55yhcxan",
+          "word": "overthrow",
+          "meaning": "bring down government",
+          "note": "This is the all-purpose choice for bringing down a government or other ruling power, especially by force."
+        }
+      ],
       "examples": [
         {
           "english": "The people finally managed to overthrow the dictatorship.",
@@ -17,7 +24,20 @@
     },
     {
       "meaning": "overturn a decision",
-      "english": ["overturn", "reverse"],
+      "english": [
+        {
+          "id": "v54kxb45",
+          "word": "overturn",
+          "meaning": "reverse a decision",
+          "note": "Use this for reversing or overruling a decision, ruling, or settlement rather than physically turning something over."
+        },
+        {
+          "id": "tp1kk22c",
+          "word": "reverse",
+          "meaning": "overturn a decision",
+          "note": "Use this for overturning an official decision, judgment, law, sentence, or decree."
+        }
+      ],
       "examples": [
         {
           "english": "The court decided to overturn the original verdict.",

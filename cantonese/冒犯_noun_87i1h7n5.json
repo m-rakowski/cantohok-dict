@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "an offence, insult",
-      "english": ["insult", "slight"],
+      "english": [
+        {
+          "id": "cjq89mwn",
+          "word": "insult",
+          "meaning": "offensive thing",
+          "note": "Use this when the insult is framed as something offensive or unacceptable, such as a performance that offends the listener."
+        },
+        {
+          "id": "r8nph860",
+          "word": "slight",
+          "meaning": "insult; snub",
+          "register": "formal",
+          "note": "Use this when the slight is an affront that causes offence, especially in a more formal context."
+        }
+      ],
       "examples": [
         {
           "english": "This film’s caricaturing of elderly people is an insult to the audience.",

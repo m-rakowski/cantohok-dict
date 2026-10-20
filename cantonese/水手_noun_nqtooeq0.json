@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "sailor",
-      "english": ["sailor", "mariner"],
+      "english": [
+        {
+          "id": "efz4d0zx",
+          "word": "sailor",
+          "meaning": "ship crew member",
+          "note": "This is the all-purpose Cantonese noun for a person who works on or sails a boat."
+        },
+        {
+          "id": "1wvvyk3v",
+          "word": "mariner",
+          "meaning": "sailor",
+          "note": "This is the all-purpose Cantonese noun for a sailor working on a ship."
+        }
+      ],
       "examples": [
         {
           "english": "Ming is a sailor who goes out to sea every day.",

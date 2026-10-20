@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "consultant, adviser",
-      "english": ["consultant", "consultancy"],
+      "english": [
+        {
+          "id": "nboh5op6",
+          "word": "consultant",
+          "meaning": "professional adviser",
+          "note": "This is the all-purpose choice for a person or organization consulted for advice or expertise."
+        },
+        {
+          "id": "1ei4pvx9",
+          "word": "consultancy",
+          "meaning": "consulting firm",
+          "note": "Use this for the consultant as a person rather than for the company."
+        }
+      ],
       "examples": [
         {
           "english": "Our company hired a marketing consultant to help us.",

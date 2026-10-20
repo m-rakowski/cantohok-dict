@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "happen, occur",
-      "english": ["happen", "occur", "arise"],
+      "english": [
+        {
+          "id": "xu8fjvkk",
+          "word": "happen",
+          "meaning": "occur; take place",
+          "note": "Use 發生 as the all-purpose choice for something occurring or taking place."
+        },
+        {
+          "id": "nkfjygsn",
+          "word": "occur",
+          "meaning": "happen; take place",
+          "note": "This is the all-purpose choice for an event happening or taking place."
+        },
+        {
+          "id": "puou09en",
+          "word": "arise",
+          "meaning": "come up; occur",
+          "note": "Use 發生 when the thing that arises is an event, situation, or problem that takes place."
+        }
+      ],
       "examples": [
         {
           "english": "How did this thing happen?",

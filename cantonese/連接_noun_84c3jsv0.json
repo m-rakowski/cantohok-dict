@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "connection, link",
-      "english": ["conjunction", "attachment"],
+      "english": [
+        {
+          "id": "hf6psvwk",
+          "word": "conjunction",
+          "meaning": "joining; being joined",
+          "note": "Use this for a connection or linkage between separate things, rather than their combining into one."
+        },
+        {
+          "id": "h3fu0yf8",
+          "word": "attachment",
+          "meaning": "physical attachment",
+          "note": "Use this for the physical connection or attachment relationship itself, rather than an accessory or an emotional bond."
+        }
+      ],
       "examples": [
         {
           "english": "The map clearly shows the conjunction between the two routes.",

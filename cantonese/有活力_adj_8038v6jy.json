@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "energetic, lively",
-      "english": ["dynamic", "exuberant", "energetic", "vital"],
+      "english": [
+        {
+          "id": "dqqbfv1v",
+          "word": "dynamic",
+          "meaning": "energetic, powerful",
+          "note": "Use this as the all-purpose choice for a person, performance, or speaker that is energetic and forceful."
+        },
+        {
+          "id": "nelrh84b",
+          "word": "exuberant",
+          "meaning": "cheerful, energetic",
+          "note": "Choose this when the energetic or vigorous side is more important than cheerfulness."
+        },
+        {
+          "id": "pdgiwbie",
+          "word": "energetic",
+          "meaning": "lively; full of energy",
+          "note": "Use this for someone or something that shows vitality, with a slightly more neutral tone than 生猛."
+        },
+        {
+          "id": "pc2cxclk",
+          "word": "vital",
+          "meaning": "full of vitality",
+          "note": "Use this for a person, animal, or thing that is lively and full of energy rather than merely important."
+        }
+      ],
       "examples": [
         {
           "english": "This team plays with such dynamic energy that they keep the whole crowd engaged.",

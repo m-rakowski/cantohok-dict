@@ -6,7 +6,44 @@
   "boxes": [
     {
       "meaning": "imagine",
-      "english": ["imagine", "envisage", "picture", "conceive", "suppose", "fancy"],
+      "english": [
+        {
+          "id": "d2ihpvdi",
+          "word": "imagine",
+          "meaning": "form a mental image",
+          "note": "This is the all-purpose verb for forming a mental image or envisioning something."
+        },
+        {
+          "id": "oyr8ok9b",
+          "word": "envisage",
+          "meaning": "imagine, visualize",
+          "note": "Use this as the all-purpose verb for forming a picture or idea in your mind."
+        },
+        {
+          "id": "5ao3jwf7",
+          "word": "picture",
+          "meaning": "imagine; picture in mind",
+          "note": "Use this as the all-purpose verb for imagining or envisioning something."
+        },
+        {
+          "id": "lbluwpit",
+          "word": "conceive",
+          "meaning": "form an idea",
+          "note": "Use this specifically for conceiving or imagining something in the mind rather than developing a concrete idea."
+        },
+        {
+          "id": "az724tqo",
+          "word": "suppose",
+          "meaning": "suppose; imagine",
+          "note": "Use this for the mental-imagining part of “suppose,” when asking someone to picture or imagine something."
+        },
+        {
+          "id": "pkw65hjo",
+          "word": "fancy",
+          "meaning": "imagine",
+          "note": "Use 想像 when fancy means forming a mental picture or imagining something."
+        }
+      ],
       "examples": [
         {
           "english": "You can't imagine how scared I was then.",

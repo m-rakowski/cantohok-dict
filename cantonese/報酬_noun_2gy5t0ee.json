@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "pay, reward",
-      "english": ["compensation", "payment"],
+      "english": [
+        {
+          "id": "hc7m1ual",
+          "word": "compensation",
+          "meaning": "pay or reward",
+          "register": "formal",
+          "note": "Use this for payment or reward received in return for work or a service rather than for repairing a loss."
+        },
+        {
+          "id": "4ue7y1b2",
+          "word": "payment",
+          "meaning": "payment as compensation",
+          "register": "formal",
+          "note": "Use this when the payment is compensation or a reward given in return for work, help, or another act."
+        }
+      ],
       "register": "formal",
       "examples": [
         {

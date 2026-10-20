@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "finally, at last",
-      "english": ["finally", "eventually"],
+      "english": [
+        {
+          "id": "chd5m0rt",
+          "word": "finally",
+          "meaning": "at last; in the end",
+          "note": "This is the all-purpose choice when something happens at last, especially after a delay or difficulty."
+        },
+        {
+          "id": "854njpl9",
+          "word": "eventually",
+          "meaning": "in the end, after delay",
+          "note": "Use this when the result finally happens after waiting, trouble, or delay."
+        }
+      ],
       "examples": [
         {
           "english": "I finally found a job.",

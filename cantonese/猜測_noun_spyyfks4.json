@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "guess, speculation",
-      "english": ["speculation", "conjecture"],
+      "english": [
+        {
+          "id": "lauslrgd",
+          "word": "speculation",
+          "meaning": "guess, theory, conjecture",
+          "note": "This is the all-purpose choice for a conjecture or unproven idea."
+        },
+        {
+          "id": "uhhdasd1",
+          "word": "conjecture",
+          "meaning": "hypothesis, supposition",
+          "note": "Use this as the all-purpose noun for an unproven guess or tentative idea."
+        }
+      ],
       "examples": [
         {
           "english": "For now, it is only speculation; there is no evidence to prove it.",

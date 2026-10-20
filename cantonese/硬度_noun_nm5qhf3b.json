@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "hardness, firmness",
-      "english": ["solidity", "firmness"],
+      "english": [
+        {
+          "id": "z1e1x3tp",
+          "word": "solidity",
+          "meaning": "physical firmness",
+          "note": "This is the all-purpose rendering for the physical firmness of a material or object."
+        },
+        {
+          "id": "ybldpx2o",
+          "word": "firmness",
+          "meaning": "physical firmness of material",
+          "note": "Use this for the measurable hardness or rigidity of a material."
+        }
+      ],
       "examples": [
         {
           "english": "The solidity of this piece of wood is good enough for a tabletop.",

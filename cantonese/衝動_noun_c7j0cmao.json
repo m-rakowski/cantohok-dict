@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "sudden urge, impulse",
-      "english": ["urge", "compulsion"],
+      "english": [
+        {
+          "id": "2dvehhbi",
+          "word": "urge",
+          "meaning": "strong desire",
+          "note": "This is the all-purpose choice for a sudden strong impulse to do something."
+        },
+        {
+          "id": "utbso0wz",
+          "word": "compulsion",
+          "meaning": "irresistible urge",
+          "note": "Use 衝動 as the all-purpose noun for an irresistible inner urge to do something."
+        }
+      ],
       "examples": [
         {
           "english": "I suddenly had an urge to quit immediately.",

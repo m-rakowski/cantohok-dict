@@ -6,7 +6,34 @@
   "boxes": [
     {
       "meaning": "not good enough, not up to standard",
-      "english": ["inadequate", "ineffective", "unsatisfactory", "unacceptable"],
+      "english": [
+        {
+          "id": "2t1js72a",
+          "word": "inadequate",
+          "meaning": "insufficient; not enough",
+          "register": "colloquial",
+          "note": "Use this when something is judged not up to the required standard, especially someone's work, performance, or ability."
+        },
+        {
+          "id": "eu7wnzw8",
+          "word": "ineffective",
+          "meaning": "not producing desired effect",
+          "note": "This is the all-purpose choice for a method, plan, or person that is not up to the job."
+        },
+        {
+          "id": "ahirea41",
+          "word": "unsatisfactory",
+          "meaning": "not satisfactory",
+          "register": "colloquial",
+          "note": "Use this casual choice when saying that something simply is not good enough or does not work."
+        },
+        {
+          "id": "0y9ixtri",
+          "word": "unacceptable",
+          "meaning": "not acceptable",
+          "note": "Use this when “unacceptable” means unsatisfactory or below standard, rather than a firm rejection."
+        }
+      ],
       "examples": [
         {
           "english": "Your report is inadequate and not good enough to send to the client.",

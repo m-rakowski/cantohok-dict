@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "big fuss, over-the-top production",
-      "english": ["production", "circus"],
+      "english": [
+        {
+          "id": "95u8bea5",
+          "word": "production",
+          "meaning": "big fuss",
+          "register": "colloquial",
+          "note": "Use 大龍鳳 when someone turns a simple matter into an elaborate fuss or spectacle."
+        },
+        {
+          "id": "empes7ml",
+          "word": "circus",
+          "meaning": "noisy chaos",
+          "register": "colloquial",
+          "note": "Use this for a noisy or elaborate spectacle or fuss rather than a literal circus."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

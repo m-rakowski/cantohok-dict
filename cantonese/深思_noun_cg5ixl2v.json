@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "deep thought",
-      "english": ["meditation", "rumination"],
+      "english": [
+        {
+          "id": "bn7i6ws0",
+          "word": "meditation",
+          "meaning": "careful thought",
+          "register": "formal",
+          "note": "Use this for careful, sustained thought rather than a relaxation or spiritual practice."
+        },
+        {
+          "id": "k5ljgdzx",
+          "word": "rumination",
+          "meaning": "deep thought",
+          "register": "written",
+          "note": "Use this written term for especially deep, deliberate reflection rather than ordinary thinking."
+        }
+      ],
       "examples": [
         {
           "english": "This decision deserves careful meditation.",

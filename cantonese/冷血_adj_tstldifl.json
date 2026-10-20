@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "cold-blooded, heartless",
-      "english": ["callous", "cold"],
+      "english": [
+        {
+          "id": "bp9lkwuy",
+          "word": "callous",
+          "meaning": "unfeeling, cruel",
+          "note": "This is the all-purpose choice for someone who is emotionally unfeeling and indifferent to others' suffering."
+        },
+        {
+          "id": "8hqqsxwj",
+          "word": "cold",
+          "meaning": "heartless, ruthless",
+          "note": "Use this when someone seems heartless, ruthless, or lacking compassion."
+        }
+      ],
       "examples": [
         {
           "english": "He was callous enough to make sarcastic remarks to the injured person.",

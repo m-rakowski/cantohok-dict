@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "a pile or stack of flat things",
-      "english": ["sheaf", "pile"],
+      "english": [
+        {
+          "id": "49la6d00",
+          "word": "sheaf",
+          "meaning": "bundle, bunch",
+          "note": "Use this for a sheaf or stack of papers and similar flat items."
+        },
+        {
+          "id": "4efa64ph",
+          "word": "pile",
+          "meaning": "layered pile",
+          "note": "Use this for a pile made by placing relatively flat items or layers on top of one another."
+        }
+      ],
       "examples": [
         {
           "english": "I put a sheaf of papers on your desk.",

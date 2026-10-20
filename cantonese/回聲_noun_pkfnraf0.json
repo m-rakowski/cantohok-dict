@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "echo",
-      "english": ["echo", "reverberation"],
+      "english": [
+        {
+          "id": "gqqaqls7",
+          "word": "echo",
+          "meaning": "reflected sound",
+          "note": "This is the all-purpose noun for a reflected sound and, figuratively, an utterance that repeats what was just said."
+        },
+        {
+          "id": "f0w95bzt",
+          "word": "reverberation",
+          "meaning": "echo",
+          "note": "Use 回聲 as the everyday default for a literal echo or overlapping echoes."
+        }
+      ],
       "examples": [
         {
           "english": "When we shouted in the valley, we heard an echo a moment later.",

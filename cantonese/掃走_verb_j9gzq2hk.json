@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "sweep away",
-      "english": ["brush", "sweep"],
+      "english": [
+        {
+          "id": "mdfdn14o",
+          "word": "brush",
+          "meaning": "brush off / remove",
+          "note": "Use this for sweeping or brushing loose material away from a surface or person."
+        },
+        {
+          "id": "zow5pc9m",
+          "word": "sweep",
+          "meaning": "remove abruptly",
+          "note": "Use this when something is swept away or removed completely and abruptly, rather than merely cleaned."
+        }
+      ],
       "examples": [
         {
           "english": "Please brush the crumbs off the table.",

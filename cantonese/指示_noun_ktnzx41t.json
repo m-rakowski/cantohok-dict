@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "instructions, directions",
-      "english": ["instruction", "direction"],
+      "english": [
+        {
+          "id": "foyhzk4s",
+          "word": "instruction",
+          "meaning": "instruction(s); directions",
+          "note": "Use this for information or directions given to guide someone, rather than for a product manual or an authoritative command."
+        },
+        {
+          "id": "46m2yrp1",
+          "word": "direction",
+          "meaning": "guidance/instructions",
+          "note": "Use this for the instruction or directions someone gives, rather than the broader guidance expressed by 指導."
+        }
+      ],
       "examples": [
         {
           "english": "Just follow the instruction and you will be fine.",

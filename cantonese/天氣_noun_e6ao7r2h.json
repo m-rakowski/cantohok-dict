@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "weather",
-      "english": ["weather", "sky"],
+      "english": [
+        {
+          "id": "s5scma0w",
+          "word": "weather",
+          "meaning": "atmospheric conditions",
+          "note": "This is the all-purpose Cantonese word for atmospheric conditions, including in questions about today's weather."
+        },
+        {
+          "id": "6kwwm9w6",
+          "word": "sky",
+          "meaning": "sky conditions",
+          "note": "Use this when the descriptive sky sense is really about the weather or atmospheric conditions."
+        }
+      ],
       "examples": [
         {
           "english": "The weather is pretty nice today.",

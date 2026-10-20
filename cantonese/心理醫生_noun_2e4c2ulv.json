@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "psychologist, therapist",
-      "english": ["psychologist", "shrink"],
+      "english": [
+        {
+          "id": "1gl6ug6p",
+          "word": "psychologist",
+          "meaning": "psychology expert",
+          "register": "colloquial",
+          "note": "Speakers use this colloquial term especially for a psychologist who counsels or treats clients, rather than a psychology researcher."
+        },
+        {
+          "id": "f8b4tu42",
+          "word": "shrink",
+          "meaning": "psychiatrist; therapist",
+          "note": "This is the everyday all-purpose term for a mental-health professional in the casual sense of English “shrink”."
+        }
+      ],
       "examples": [
         {
           "english": "I want to see a psychologist and talk things through; I've been under a lot of stress lately.",

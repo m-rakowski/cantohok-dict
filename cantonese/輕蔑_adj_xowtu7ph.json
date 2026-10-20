@@ -6,7 +6,29 @@
   "boxes": [
     {
       "meaning": "contemptuous, scornful",
-      "english": ["scornful", "disdainful", "contemptuous"],
+      "english": [
+        {
+          "id": "z9rkekuo",
+          "word": "scornful",
+          "meaning": "showing contempt",
+          "register": "formal",
+          "note": "Use this mainly for a scornful expression, tone, or attitude, especially in more careful or formal language."
+        },
+        {
+          "id": "fiy6ec4r",
+          "word": "disdainful",
+          "meaning": "showing contempt",
+          "register": "formal",
+          "note": "Use this mainly in written or formal descriptions of a contemptuous attitude, look, or manner."
+        },
+        {
+          "id": "cknudgx0",
+          "word": "contemptuous",
+          "meaning": "showing disdain",
+          "register": "formal",
+          "note": "Use this more formal adjective for an explicitly disdainful attitude, expression, or look."
+        }
+      ],
       "register": "formal",
       "examples": [
         {

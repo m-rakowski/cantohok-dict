@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "improvement",
-      "english": ["elaboration", "improvement"],
+      "english": [
+        {
+          "id": "53y1lhwq",
+          "word": "elaboration",
+          "meaning": "improvement by refining",
+          "note": "Use this as the all-purpose noun for improvement through refining or successive work."
+        },
+        {
+          "id": "r5zgs5uo",
+          "word": "improvement",
+          "meaning": "an improvement",
+          "register": "formal",
+          "note": "Use this for a concrete improvement made to a product, design, system, or edition."
+        }
+      ],
       "examples": [
         {
           "english": "This textbook became much easier to understand after several rounds of elaboration.",

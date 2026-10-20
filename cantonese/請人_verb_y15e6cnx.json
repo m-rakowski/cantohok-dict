@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "to hire staff",
-      "english": ["hire", "recruit"],
+      "english": [
+        {
+          "id": "o75xx1gu",
+          "word": "hire",
+          "meaning": "employ a person",
+          "note": "Use this as the all-purpose colloquial expression for hiring someone to work for you."
+        },
+        {
+          "id": "bol7tlw8",
+          "word": "recruit",
+          "meaning": "hire or enlist people",
+          "register": "colloquial",
+          "note": "Use this as the everyday choice when an employer is hiring staff or workers."
+        }
+      ],
       "examples": [
         {
           "english": "We need to hire someone for our shop.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "kitten",
-      "english": ["kitten", "kit"],
+      "english": [
+        {
+          "id": "l04lk72r",
+          "word": "kitten",
+          "meaning": "young cat",
+          "note": "This is the all-purpose everyday noun for a young cat and can also be used affectionately as a nickname for a woman."
+        },
+        {
+          "id": "nuenjiqb",
+          "word": "kit",
+          "meaning": "kitten",
+          "note": "Use this for a young cat rather than for equipment or clothing."
+        }
+      ],
       "examples": [
         {
           "english": "This kitten is really cute.",

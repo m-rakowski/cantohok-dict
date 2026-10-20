@@ -6,7 +6,28 @@
   "boxes": [
     {
       "meaning": "sex, sexual act",
-      "english": ["sex", "action", "job"],
+      "english": [
+        {
+          "id": "jq8r9ad8",
+          "word": "sex",
+          "meaning": "sexual intercourse",
+          "register": "formal",
+          "note": "Use this as the all-purpose noun for sexual activity or intercourse, especially in neutral or serious contexts."
+        },
+        {
+          "id": "lqaf3kx4",
+          "word": "action",
+          "meaning": "sex; intercourse",
+          "register": "formal",
+          "note": "Use 性行為 when action means sexual intercourse in a neutral or explicit noun phrase."
+        },
+        {
+          "id": "4fz72shh",
+          "word": "job",
+          "meaning": "sexual act",
+          "note": "Use this neutral noun for a sexual act, including when the specific act is not named."
+        }
+      ],
       "examples": [
         {
           "english": "The doctor reminded us to practise safe sex.",

@@ -6,7 +6,28 @@
   "boxes": [
     {
       "meaning": "summary, abstract",
-      "english": ["summary", "synopsis", "outline"],
+      "english": [
+        {
+          "id": "qzeze5me",
+          "word": "summary",
+          "meaning": "abstract; condensed presentation",
+          "register": "formal written",
+          "note": "Use this formal written noun for an abstract or condensed account, especially in a document."
+        },
+        {
+          "id": "0zufkh9y",
+          "word": "synopsis",
+          "meaning": "brief summary",
+          "register": "written",
+          "note": "This is the all-purpose term for a concise summary of a written work’s main points."
+        },
+        {
+          "id": "03oxxymn",
+          "word": "outline",
+          "meaning": "summary of main points",
+          "note": "Use 摘要 when the outline is a condensed statement of a text's important points."
+        }
+      ],
       "examples": [
         {
           "english": "The report summary is only three pages, making it easy for everyone to grasp the content quickly.",

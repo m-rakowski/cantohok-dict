@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "travel, trip",
-      "english": ["travel", "trip", "vacation", "tourism"],
+      "english": [
+        {
+          "id": "cvhvq2ut",
+          "word": "travel",
+          "meaning": "the act of traveling",
+          "note": "This is the all-purpose noun for traveling or going on one’s travels."
+        },
+        {
+          "id": "ltwsak5v",
+          "word": "trip",
+          "meaning": "journey, outing",
+          "note": "This is the all-purpose noun for a journey, excursion, or holiday outing."
+        },
+        {
+          "id": "ww84hged",
+          "word": "vacation",
+          "meaning": "holiday trip",
+          "note": "Use this when the vacation means the trip or journey itself rather than the time off."
+        },
+        {
+          "id": "1ou6j35k",
+          "word": "tourism",
+          "meaning": "travelling / sightseeing",
+          "note": "Use this for travelling or taking a trip, rather than sightseeing as an activity."
+        }
+      ],
       "examples": [
         {
           "english": "I enjoy travel and seeing different places.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "hospital ward",
-      "english": ["ward"],
+      "english": [
+        {
+          "id": "9byz0ppo",
+          "word": "ward",
+          "meaning": "hospital ward",
+          "note": "Use this in a hospital context for the all-purpose Cantonese equivalent of a ward."
+        }
+      ],
       "examples": [
         {
           "english": "This ward has six beds.",

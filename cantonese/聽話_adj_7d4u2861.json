@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "obedient, does as told",
-      "english": ["obedient", "compliant", "dutiful"],
+      "english": [
+        {
+          "id": "fnd7kz8a",
+          "word": "obedient",
+          "meaning": "compliant, follows orders",
+          "note": "This is the all-purpose everyday choice for someone who willingly follows orders or instructions."
+        },
+        {
+          "id": "rw9wz1g3",
+          "word": "compliant",
+          "meaning": "willing to obey",
+          "note": "This is the all-purpose choice for a person who willingly does what they are told."
+        },
+        {
+          "id": "y86d32u3",
+          "word": "dutiful",
+          "meaning": "obediently responsible",
+          "note": "Use this especially for a child who obeys instructions and does what they are expected to do."
+        }
+      ],
       "examples": [
         {
           "english": "The boss tells me to follow the procedure, and I am always obedient.",

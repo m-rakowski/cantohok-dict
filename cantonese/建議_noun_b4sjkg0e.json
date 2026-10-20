@@ -6,7 +6,44 @@
   "boxes": [
     {
       "meaning": "suggestion, advice",
-      "english": ["suggestion", "advice", "proposal", "recommendation", "counsel", "proposition"],
+      "english": [
+        {
+          "id": "mi0l7nl5",
+          "word": "suggestion",
+          "meaning": "proposal; idea",
+          "note": "This is the all-purpose noun for a suggestion or the act of putting one forward."
+        },
+        {
+          "id": "th5zk443",
+          "word": "advice",
+          "meaning": "guidance, recommendations",
+          "note": "This is the all-purpose noun for a helpful recommendation about what someone should do."
+        },
+        {
+          "id": "0cej54k6",
+          "word": "proposal",
+          "meaning": "plan or scheme",
+          "note": "Use this as the all-purpose noun for a general plan, recommendation, or set of proposed terms."
+        },
+        {
+          "id": "76751fa2",
+          "word": "recommendation",
+          "meaning": "advice, suggestion",
+          "note": "This is the all-purpose choice for advice or a suggestion about what to do."
+        },
+        {
+          "id": "umy9628w",
+          "word": "counsel",
+          "meaning": "advice, guidance",
+          "note": "Use 建議 as the all-purpose everyday word for advice or guidance."
+        },
+        {
+          "id": "a6a2vf3i",
+          "word": "proposition",
+          "meaning": "proposal, suggestion",
+          "note": "This is the all-purpose choice for an idea or plan put forward for consideration."
+        }
+      ],
       "examples": [
         {
           "english": "I have a suggestion for you.",

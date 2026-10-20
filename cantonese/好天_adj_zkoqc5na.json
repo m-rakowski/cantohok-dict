@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "fine weather",
-      "english": ["fair", "beautiful"],
+      "english": [
+        {
+          "id": "w5phehvv",
+          "word": "fair",
+          "meaning": "pleasant weather",
+          "note": "Use 好天 specifically when the weather is fine or pleasant."
+        },
+        {
+          "id": "zpbwznia",
+          "word": "beautiful",
+          "meaning": "pleasant; lovely",
+          "note": "Use this specifically for lovely or fine weather."
+        }
+      ],
       "examples": [
         {
           "english": "It's fair today, so let's go hiking.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "title, headline",
-      "english": ["headline", "caption"],
+      "english": [
+        {
+          "id": "tlz30vr1",
+          "word": "headline",
+          "meaning": "article title",
+          "note": "This is the all-purpose Cantonese noun for the heading or title of a newspaper or magazine article."
+        },
+        {
+          "id": "3e6rcz7e",
+          "word": "caption",
+          "meaning": "document heading/title",
+          "note": "Use this for a document heading or the title of one of its sections."
+        }
+      ],
       "examples": [
         {
           "english": "The headline of this news story is pretty sensational.",

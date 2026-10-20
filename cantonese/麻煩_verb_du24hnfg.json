@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "to trouble someone, impose on them",
-      "english": ["trouble", "impose"],
+      "english": [
+        {
+          "id": "wwe4uupd",
+          "word": "trouble",
+          "meaning": "bother or inconvenience",
+          "note": "Use this for bothering or inconveniencing someone, especially in polite requests such as 唔好麻煩你."
+        },
+        {
+          "id": "kuqk55zt",
+          "word": "impose",
+          "meaning": "intrude or burden",
+          "register": "colloquial",
+          "note": "Use 麻煩 when imposing on or inconveniencing a person, as in saying you do not want to trouble someone."
+        }
+      ],
       "examples": [
         {
           "english": "Please don't trouble yourself; I can carry it myself.",

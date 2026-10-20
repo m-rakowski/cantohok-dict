@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "his, its",
-      "english": ["his", "its"],
+      "english": [
+        {
+          "id": "d5a3w4a4",
+          "word": "his",
+          "meaning": "possessive determiner",
+          "note": "This is the all-purpose possessive used before a noun to mean belonging to him."
+        },
+        {
+          "id": "58c4yoqq",
+          "word": "its",
+          "meaning": "possessive determiner",
+          "note": "This is the all-purpose spoken Cantonese equivalent for something belonging to it."
+        }
+      ],
       "examples": [
         {
           "english": "I found his wallet.",

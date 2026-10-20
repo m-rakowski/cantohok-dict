@@ -6,7 +6,15 @@
   "boxes": [
     {
       "meaning": "news organization",
-      "english": ["newspaper"],
+      "english": [
+        {
+          "id": "o4igwefc",
+          "word": "newspaper",
+          "meaning": "news organization",
+          "register": "colloquial",
+          "note": "Use this when you specifically mean the newspaper office or organization rather than the publication itself."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "harmful substance",
-      "english": ["poison"],
+      "english": [
+        {
+          "id": "7nbg09vt",
+          "word": "poison",
+          "meaning": "harmful substance",
+          "note": "Use this when the poison is conceived as a drug, dose, or deliberately administered substance rather than poison in general."
+        }
+      ],
       "examples": [
         {
           "english": "Someone put poison in the tea.",

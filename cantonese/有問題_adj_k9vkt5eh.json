@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "faulty, has a problem",
-      "english": ["faulty", "incorrect"],
+      "english": [
+        {
+          "id": "e8s37rxk",
+          "word": "faulty",
+          "meaning": "defective; not working properly",
+          "note": "This is the all-purpose choice for something defective, unreliable, or not acceptable."
+        },
+        {
+          "id": "dnbywnt6",
+          "word": "incorrect",
+          "meaning": "faulty; defective",
+          "note": "Use this for something faulty, defective, or malfunctioning, especially equipment, software, or a procedure."
+        }
+      ],
       "examples": [
         {
           "english": "This report is faulty and cannot be sent to the client.",

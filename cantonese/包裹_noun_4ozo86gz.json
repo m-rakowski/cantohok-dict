@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "parcel, package",
-      "english": ["package", "parcel"],
+      "english": [
+        {
+          "id": "sq7bdmzn",
+          "word": "package",
+          "meaning": "parcel, box, envelope",
+          "note": "This is the all-purpose everyday noun for a parcel, box, or envelope that has been sent or received."
+        },
+        {
+          "id": "xm1l9bwq",
+          "word": "parcel",
+          "meaning": "package",
+          "note": "This is the all-purpose choice for a wrapped package being sent or transported."
+        }
+      ],
       "examples": [
         {
           "english": "I just received the package you sent.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "be caused by A",
-      "english": ["stem", "result"],
+      "english": [
+        {
+          "id": "dn8jveyl",
+          "word": "stem",
+          "meaning": "originate, come from",
+          "note": "Use this as the all-purpose spoken way to say that something is caused by A."
+        },
+        {
+          "id": "c2532s7k",
+          "word": "result",
+          "meaning": "follow as a consequence",
+          "note": "Use this when stating that an outcome arises from a particular fact, circumstance, or action."
+        }
+      ],
       "examples": [
         {
           "english": "This fire may stem from a short circuit.",

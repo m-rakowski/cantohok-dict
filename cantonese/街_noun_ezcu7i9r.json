@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "street",
-      "english": ["street", "lane"],
+      "english": [
+        {
+          "id": "6xe4wck6",
+          "word": "street",
+          "meaning": "road in town",
+          "note": "This is the all-purpose Cantonese noun for a street in a town or city."
+        },
+        {
+          "id": "3ezclcqw",
+          "word": "lane",
+          "meaning": "street name road",
+          "note": "Use this for an ordinary street or road, including a street used in a name, rather than a narrow alley."
+        }
+      ],
       "examples": [
         {
           "english": "This street is lively even at night.",

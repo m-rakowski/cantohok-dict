@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "lift, elevator",
-      "english": ["elevator", "lift"],
+      "english": [
+        {
+          "id": "t6mhy13x",
+          "word": "elevator",
+          "meaning": "lift for people/goods",
+          "register": "colloquial",
+          "note": "This is the all-purpose colloquial Hong Kong Cantonese word for a lift carrying people or goods."
+        },
+        {
+          "id": "w4fn9dpp",
+          "word": "lift",
+          "meaning": "elevator",
+          "note": "This is the all-purpose spoken Hong Kong noun for an elevator."
+        }
+      ],
       "examples": [
         {
           "english": "We took the elevator to the tenth floor.",

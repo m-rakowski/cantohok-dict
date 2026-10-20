@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "can't do without, essential",
-      "english": ["indispensable", "vital"],
+      "english": [
+        {
+          "id": "fnek3f0m",
+          "word": "indispensable",
+          "meaning": "absolutely necessary",
+          "note": "This is the all-purpose colloquial choice for something that cannot be done without or left out."
+        },
+        {
+          "id": "f2ukzkaq",
+          "word": "vital",
+          "meaning": "very important",
+          "register": "colloquial",
+          "note": "Use this when the thing is indispensable or cannot be done without, especially when “vital” means necessary for staying alive."
+        }
+      ],
       "examples": [
         {
           "english": "A phone is truly indispensable for work.",

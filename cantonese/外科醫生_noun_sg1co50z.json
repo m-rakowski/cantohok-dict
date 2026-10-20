@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "medical doctor",
-      "english": ["surgeon"],
+      "english": [
+        {
+          "id": "vozo0g50",
+          "word": "surgeon",
+          "meaning": "medical doctor",
+          "note": "This is the all-purpose Cantonese term for a doctor who performs surgery."
+        }
+      ],
       "examples": [
         {
           "english": "I’m seeing the surgeon next week to ask about the risks of the operation.",

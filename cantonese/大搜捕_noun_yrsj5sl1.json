@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "police roundup",
-      "english": ["roundup"],
+      "english": [
+        {
+          "id": "wfhirxr1",
+          "word": "roundup",
+          "meaning": "police roundup",
+          "note": "Use this for a police operation to find and arrest a group of suspects."
+        }
+      ],
       "examples": [
         {
           "english": "The police carried out a roundup last night and arrested several suspects.",

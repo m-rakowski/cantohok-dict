@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "cover the cost, include in the price",
-      "english": ["cover", "absorb"],
+      "english": [
+        {
+          "id": "qbgzuftj",
+          "word": "cover",
+          "meaning": "be enough for",
+          "register": "colloquial",
+          "note": "Use 包 when coverage means that money, a payment, or an insurance policy includes or pays for something."
+        },
+        {
+          "id": "ne4scdfk",
+          "word": "absorb",
+          "meaning": "pay or cover costs",
+          "register": "colloquial",
+          "note": "Use this in commercial contexts when a seller or company agrees to cover a particular cost."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "crowd",
-      "english": ["crowd", "herd", "swarm", "press", "humanity"],
+      "english": [
+        {
+          "id": "rzoxab04",
+          "word": "crowd",
+          "meaning": "group of people",
+          "note": "This is the all-purpose choice for a physically gathered crowd of people."
+        },
+        {
+          "id": "10kd2j56",
+          "word": "herd",
+          "meaning": "mass of people; crowd",
+          "note": "Use this specifically for a crowd or mass of people rather than a neutral group of animals."
+        },
+        {
+          "id": "1fisgp1s",
+          "word": "swarm",
+          "meaning": "large moving mass",
+          "note": "Use this specifically for a large mass or crowd of people, especially when the people are moving together."
+        },
+        {
+          "id": "nl4u6d4o",
+          "word": "press",
+          "meaning": "crowd, throng",
+          "note": "Use this for a crowd or group of people blocking or surrounding someone."
+        },
+        {
+          "id": "neg5ekfq",
+          "word": "humanity",
+          "meaning": "humankind",
+          "note": "Use this instead of 人類 when humanity means a crowd or gathering of people in a particular place."
+        }
+      ],
       "examples": [
         {
           "english": "The crowd outside the station is so packed that the road is completely blocked.",

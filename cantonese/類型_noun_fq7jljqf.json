@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "type, genre",
-      "english": ["genre", "category"],
+      "english": [
+        {
+          "id": "d2bvnte6",
+          "word": "genre",
+          "meaning": "artistic category / style",
+          "note": "This is the all-purpose choice for an artistic or media genre, especially when classifying films, books, or music."
+        },
+        {
+          "id": "0ljle6wn",
+          "word": "category",
+          "meaning": "type; class",
+          "note": "Use this for a recognizable type or category defined by shared features, especially when discussing products, people, or situations."
+        }
+      ],
       "examples": [
         {
           "english": "What genre is this movie?",
@@ -22,7 +35,14 @@
     },
     {
       "meaning": "someone's romantic type",
-      "english": ["type"],
+      "english": [
+        {
+          "id": "qju7aq31",
+          "word": "type",
+          "meaning": "romantic preference",
+          "note": "Use this for the sort of person someone is romantically attracted to, as in 「我鍾意嘅類型」."
+        }
+      ],
       "examples": [
         {
           "english": "The type I like is someone cheerful and talkative.",

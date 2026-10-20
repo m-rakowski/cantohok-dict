@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "operation grinding to a halt",
-      "english": ["standstill", "paralysis"],
+      "english": [
+        {
+          "id": "19vvx15j",
+          "word": "standstill",
+          "meaning": "complete halt",
+          "register": "colloquial",
+          "note": "Use this when an operation, service, machine, or organization has stopped functioning."
+        },
+        {
+          "id": "n10ilpns",
+          "word": "paralysis",
+          "meaning": "inability to act",
+          "note": "Use this for an organization, system, or activity that has stopped functioning rather than for physical paralysis."
+        }
+      ],
       "examples": [
         {
           "english": "The factory came to a standstill because of a power failure.",

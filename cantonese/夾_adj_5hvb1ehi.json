@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "going well together, getting along",
-      "english": ["compatible", "attuned"],
+      "english": [
+        {
+          "id": "l9140cer",
+          "word": "compatible",
+          "meaning": "works with / can be used together",
+          "note": "This is the all-purpose colloquial choice for things working together and people getting along."
+        },
+        {
+          "id": "g5p6kx75",
+          "word": "attuned",
+          "meaning": "adapted or in sync",
+          "note": "Use this as the everyday all-purpose choice when people, things, or arrangements harmonize or fit together."
+        }
+      ],
       "examples": [
         {
           "english": "I'm quite compatible with my new colleague.",

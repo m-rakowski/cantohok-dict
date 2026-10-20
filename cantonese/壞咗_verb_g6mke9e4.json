@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "break down",
-      "english": ["malfunction", "fail"],
+      "english": [
+        {
+          "id": "b3eod4ix",
+          "word": "malfunction",
+          "meaning": "function improperly",
+          "note": "Use 壞咗 as the all-purpose casual choice when a device is not working or has broken down."
+        },
+        {
+          "id": "q2grv4kq",
+          "word": "fail",
+          "meaning": "stop working",
+          "note": "Use this for a machine or device that has stopped working properly."
+        }
+      ],
       "examples": [
         {
           "english": "The air conditioner has a malfunction, so the whole room is hot.",

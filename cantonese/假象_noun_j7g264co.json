@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "false appearance that hides what is real",
-      "english": ["artifact", "disguise"],
+      "english": [
+        {
+          "id": "3xo0q3kl",
+          "word": "artifact",
+          "meaning": "experimental error",
+          "note": "Use this for an apparent feature produced by an experiment or test rather than by the thing itself."
+        },
+        {
+          "id": "lqtwhrhf",
+          "word": "disguise",
+          "meaning": "outer appearance that masks",
+          "note": "Use 假象 for a deceptive outward appearance that hides the reality underneath."
+        }
+      ],
       "examples": [
         {
           "english": "This result is only an artifact of the experiment, not a feature of the sample itself.",

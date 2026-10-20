@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "hobby",
-      "english": ["hobby"],
+      "english": [
+        {
+          "id": "f9qz44ab",
+          "word": "hobby",
+          "meaning": "spare-time activity",
+          "note": "This is the all-purpose everyday noun for a hobby or leisure interest."
+        }
+      ],
       "examples": [
         {
           "english": "Hiking is my hobby.",
@@ -17,7 +24,26 @@
     },
     {
       "meaning": "interest in something",
-      "english": ["interest", "fancy", "enthusiasm"],
+      "english": [
+        {
+          "id": "4apo0b7k",
+          "word": "interest",
+          "meaning": "interest; curiosity",
+          "note": "For personal curiosity or hobbies, 興趣 is the all-purpose choice."
+        },
+        {
+          "id": "ur6jrneo",
+          "word": "fancy",
+          "meaning": "liking",
+          "note": "Use this as the all-purpose noun for liking or interest, especially in an activity, subject, or thing."
+        },
+        {
+          "id": "6a5lq3dc",
+          "word": "enthusiasm",
+          "meaning": "interest or hobby",
+          "note": "Use this for a subject or activity someone is keenly interested in, such as a hobby or personal interest."
+        }
+      ],
       "examples": [
         {
           "english": "I have a lot of interest in photography.",

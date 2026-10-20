@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "break line of text",
-      "english": ["wrap"],
+      "english": [
+        {
+          "id": "iyc4x3jy",
+          "word": "wrap",
+          "meaning": "break line of text",
+          "note": "Use this in computing or typography when text is moved onto the next line."
+        }
+      ],
       "examples": [
         {
           "english": "This bit of text is too long, so wrap it onto the next line to make it easier to read.",

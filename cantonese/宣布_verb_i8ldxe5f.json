@@ -6,7 +6,44 @@
   "boxes": [
     {
       "meaning": "to announce publicly",
-      "english": ["announce", "declare", "proclaim", "voice", "advertise", "pronounce"],
+      "english": [
+        {
+          "id": "ef0cl56j",
+          "word": "announce",
+          "meaning": "make public known",
+          "note": "This is the all-purpose choice for making information publicly known, especially an official decision or event."
+        },
+        {
+          "id": "b9ax96uz",
+          "word": "declare",
+          "meaning": "officially state",
+          "note": "This is the all-purpose choice for formally or officially stating something."
+        },
+        {
+          "id": "p41rml9i",
+          "word": "proclaim",
+          "meaning": "announce publicly",
+          "note": "This is the all-purpose choice for announcing or declaring something publicly."
+        },
+        {
+          "id": "241yh27g",
+          "word": "voice",
+          "meaning": "express in words",
+          "note": "Use this when voicing something means making an official public announcement."
+        },
+        {
+          "id": "lqozde2m",
+          "word": "advertise",
+          "meaning": "announce publicly",
+          "note": "Use this for publicly announcing information, decisions, or events rather than trying to sell something."
+        },
+        {
+          "id": "iwgdq6uf",
+          "word": "pronounce",
+          "meaning": "declare officially",
+          "note": "Use this for an official, authoritative, or ceremonial declaration rather than for saying a word aloud."
+        }
+      ],
       "examples": [
         {
           "english": "The government will announce a price increase next week.",

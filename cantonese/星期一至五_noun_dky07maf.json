@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "weekdays Mon–Fri",
-      "english": ["weekday"],
+      "english": [
+        {
+          "id": "ubd9qbx2",
+          "word": "weekday",
+          "meaning": "weekdays Mon–Fri",
+          "note": "Use this when you want to state explicitly that you mean Monday through Friday."
+        }
+      ],
       "examples": [
         {
           "english": "I have to work every weekday, Monday through Friday.",

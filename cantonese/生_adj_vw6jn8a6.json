@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "alive",
-      "english": ["living"],
+      "english": [
+        {
+          "id": "aiqeiu25",
+          "word": "living",
+          "meaning": "alive; having life",
+          "note": "This is the all-purpose choice for a person or animal that is alive rather than dead."
+        }
+      ],
       "examples": [
         {
           "english": "He's still living, so don't worry.",
@@ -17,7 +24,20 @@
     },
     {
       "meaning": "raw, not cooked through",
-      "english": ["raw", "rare"],
+      "english": [
+        {
+          "id": "60j8de8r",
+          "word": "raw",
+          "meaning": "uncooked food",
+          "note": "This is the all-purpose everyday choice for food that has not been cooked."
+        },
+        {
+          "id": "a1y6uo8p",
+          "word": "rare",
+          "meaning": "meat cooked lightly",
+          "note": "Use this specifically for meat cooked very lightly and still red inside."
+        }
+      ],
       "examples": [
         {
           "english": "This fish is still raw, so don’t eat it yet.",

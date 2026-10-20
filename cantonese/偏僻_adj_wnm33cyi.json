@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "remote, out of the way",
-      "english": ["back", "solitary"],
+      "english": [
+        {
+          "id": "b5o5vrks",
+          "word": "back",
+          "meaning": "back road; remote",
+          "note": "Use this when “back” means remote or away from the main areas, especially of a road or place."
+        },
+        {
+          "id": "2f0dict7",
+          "word": "solitary",
+          "meaning": "remote; isolated",
+          "note": "Use this for a remote place that people do not often visit, rather than for a place that is specifically empty or deserted."
+        }
+      ],
       "examples": [
         {
           "english": "That place is too far back from the main areas, so don't go there alone at night.",

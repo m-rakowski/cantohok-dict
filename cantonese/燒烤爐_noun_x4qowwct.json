@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "barbecue grill",
-      "english": ["grill", "barbecue"],
+      "english": [
+        {
+          "id": "fqcevwgj",
+          "word": "grill",
+          "meaning": "barbecue grill",
+          "note": "This is the all-purpose noun for a cooking appliance, covering both a barbecue grill and a broiler."
+        },
+        {
+          "id": "q50fahvy",
+          "word": "barbecue",
+          "meaning": "grilling apparatus",
+          "note": "Use this specifically for the grill or barbecue apparatus."
+        }
+      ],
       "examples": [
         {
           "english": "I'm using the grill to cook chicken wings.",

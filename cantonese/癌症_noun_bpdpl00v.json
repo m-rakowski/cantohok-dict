@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "cancer disease",
-      "english": ["cancer"],
+      "english": [
+        {
+          "id": "ui0oj9sg",
+          "word": "cancer",
+          "meaning": "cancer disease",
+          "note": "This is the all-purpose term for the cancer disease."
+        }
+      ],
       "examples": [
         {
           "english": "They were recently diagnosed with cancer, and their family is very worried.",

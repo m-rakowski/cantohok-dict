@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "happiness, well-being",
-      "english": ["happiness", "welfare", "bliss"],
+      "english": [
+        {
+          "id": "okd7d67c",
+          "word": "happiness",
+          "meaning": "emotion of being happy",
+          "note": "Use this for happiness understood as lasting well-being or a fortunate life situation rather than a moment of joy."
+        },
+        {
+          "id": "djutkgj2",
+          "word": "welfare",
+          "meaning": "well-being",
+          "note": "Use this when welfare is specifically about personal happiness and contentment rather than services or financial assistance."
+        },
+        {
+          "id": "idwzm6in",
+          "word": "bliss",
+          "meaning": "perfect happiness",
+          "note": "This is the all-purpose noun for perfect happiness, especially in phrases such as 「享受呢份幸福」."
+        }
+      ],
       "examples": [
         {
           "english": "Having my family around and a stable job gives me a lasting sense of happiness.",

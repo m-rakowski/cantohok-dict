@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "boy, young guy",
-      "english": ["boy", "male"],
+      "english": [
+        {
+          "id": "ol6u9m16",
+          "word": "boy",
+          "meaning": "male child",
+          "note": "Use this as the all-purpose casual term for a male child or young male."
+        },
+        {
+          "id": "0yv7l7xy",
+          "word": "male",
+          "meaning": "male person",
+          "register": "colloquial",
+          "note": "Use this as the all-purpose casual term for a male person, especially a boy or young man."
+        }
+      ],
       "examples": [
         {
           "english": "That boy is playing football.",

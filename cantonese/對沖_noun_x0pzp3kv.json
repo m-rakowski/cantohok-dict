@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "financial risk protection",
-      "english": ["hedge"],
+      "english": [
+        {
+          "id": "7bomms7h",
+          "word": "hedge",
+          "meaning": "financial risk protection",
+          "note": "Use this in finance for an arrangement that reduces exposure to price, interest-rate, or similar risks."
+        }
+      ],
       "examples": [
         {
           "english": "The company uses futures to hedge against the risk of oil-price fluctuations.",

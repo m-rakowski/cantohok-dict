@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "adjustment amount",
-      "english": ["correction"],
+      "english": [
+        {
+          "id": "kx08v7dv",
+          "word": "correction",
+          "meaning": "adjustment amount",
+          "note": "Use this for the numerical or physical amount added or subtracted to make an adjustment."
+        }
+      ],
       "examples": [
         {
           "english": "The correction amount we need to add this time is three kilograms.",

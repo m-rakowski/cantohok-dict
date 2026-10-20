@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "draw, show in a picture",
-      "english": ["depict", "portray", "describe"],
+      "english": [
+        {
+          "id": "8xqhywik",
+          "word": "depict",
+          "meaning": "represent in words/images",
+          "note": "Use this when the representation is visual and is literally drawn or shown in an image."
+        },
+        {
+          "id": "plfz6s7o",
+          "word": "portray",
+          "meaning": "represent visually",
+          "note": "Use this for portraying a person, object, or scene visually in a drawing or other image."
+        },
+        {
+          "id": "wn3elttl",
+          "word": "describe",
+          "meaning": "trace a shape",
+          "note": "Use 畫出 when representing a shape, plan, or boundary by drawing rather than by words."
+        }
+      ],
       "examples": [
         {
           "english": "This mural is meant to depict the lively New Year celebration among the neighbours.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "house gate",
-      "english": ["gate"],
+      "english": [
+        {
+          "id": "uilooluj",
+          "word": "gate",
+          "meaning": "house gate",
+          "note": "Use this for a metal or barred house gate and for a movable barrier such as one at a railway crossing."
+        }
+      ],
       "examples": [
         {
           "english": "The gate at home always needs to be locked securely.",

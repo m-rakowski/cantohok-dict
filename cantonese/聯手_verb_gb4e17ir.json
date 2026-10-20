@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "join forces",
-      "english": ["ally", "associate"],
+      "english": [
+        {
+          "id": "eizzzta7",
+          "word": "ally",
+          "meaning": "unite by marriage/treaty",
+          "register": "colloquial",
+          "note": "Use this colloquial choice when the parties join forces to achieve something together."
+        },
+        {
+          "id": "jwxcbftl",
+          "word": "associate",
+          "meaning": "associate with; ally oneself",
+          "note": "Use this when people actively join forces as partners or allies, rather than merely socializing."
+        }
+      ],
       "examples": [
         {
           "english": "We plan to ally and open a new shop.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "bloom",
-      "english": ["bloom", "burst"],
+      "english": [
+        {
+          "id": "jkv6ryoo",
+          "word": "bloom",
+          "meaning": "flower; open",
+          "note": "This is the all-purpose choice for a plant producing or opening its flowers."
+        },
+        {
+          "id": "8lcy3g3k",
+          "word": "burst",
+          "meaning": "suddenly come into bloom",
+          "note": "Use this for a flower suddenly coming into bloom rather than for something physically bursting."
+        }
+      ],
       "examples": [
         {
           "english": "This orchid has finally begun to bloom.",

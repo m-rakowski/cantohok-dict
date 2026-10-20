@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "by contract",
-      "english": ["contractual"],
+      "english": [
+        {
+          "id": "w1cd8k97",
+          "word": "contractual",
+          "meaning": "by contract",
+          "note": "Use this when the contract specifically stipulates, imposes, or enforces the thing being described."
+        }
+      ],
       "examples": [
         {
           "english": "This is a contractual obligation; if you do not do it, you have to pay compensation.",

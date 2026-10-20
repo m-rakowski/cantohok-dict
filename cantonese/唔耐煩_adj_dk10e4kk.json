@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "impatient",
-      "english": ["impatient", "annoyed"],
+      "english": [
+        {
+          "id": "xs73yc8m",
+          "word": "impatient",
+          "meaning": "restless; short-tempered",
+          "note": "Use this as the all-purpose choice when someone cannot tolerate waiting or delays."
+        },
+        {
+          "id": "dkdusuur",
+          "word": "annoyed",
+          "meaning": "troubled; irritated",
+          "note": "Use this when the annoyance specifically shows impatience with delay, repetition, or having to deal with something."
+        }
+      ],
       "examples": [
         {
           "english": "I've been waiting half an hour; I'm really impatient.",

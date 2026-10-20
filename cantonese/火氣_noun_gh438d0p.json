@@ -6,7 +6,33 @@
   "boxes": [
     {
       "meaning": "anger, hot temper",
-      "english": ["fume", "anger", "temper", "fire"],
+      "english": [
+        {
+          "id": "wxe5zo7a",
+          "word": "fume",
+          "meaning": "rage or fury",
+          "register": "colloquial",
+          "note": "Use this colloquial noun for someone’s anger or hot temper when it affects their self-control."
+        },
+        {
+          "id": "ddi77tmf",
+          "word": "anger",
+          "meaning": "feeling of anger",
+          "note": "Use this for a person's irritable temper or pent-up anger, especially when describing someone who is easily provoked."
+        },
+        {
+          "id": "8b53bsin",
+          "word": "temper",
+          "meaning": "fit of anger",
+          "note": "Use this for the anger or irritability behind an angry outburst, especially in casual speech."
+        },
+        {
+          "id": "k6svuo4k",
+          "word": "fire",
+          "meaning": "passion, spirit",
+          "note": "Use 火氣 when “fire” means anger or a hot temper, rather than passion in general."
+        }
+      ],
       "examples": [
         {
           "english": "When they fume, they lose control and start yelling at people.",

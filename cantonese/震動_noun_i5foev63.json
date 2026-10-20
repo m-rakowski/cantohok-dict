@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "vibration, shaking",
-      "english": ["vibration", "shake", "tremor", "jar", "quake"],
+      "english": [
+        {
+          "id": "3rkvypra",
+          "word": "vibration",
+          "meaning": "periodic motion",
+          "note": "This is the all-purpose choice for physical vibration or repeated movement."
+        },
+        {
+          "id": "1w1hn0iu",
+          "word": "shake",
+          "meaning": "a shake; shaking",
+          "note": "This is the all-purpose noun for physical shaking, vibration, or a back-and-forth movement."
+        },
+        {
+          "id": "dgai8rop",
+          "word": "tremor",
+          "meaning": "shake, quiver",
+          "note": "Use this for a general physical shaking or vibration, including an internal tremor."
+        },
+        {
+          "id": "6olng9ae",
+          "word": "jar",
+          "meaning": "jolt; shaking impact",
+          "note": "Use this for the shaking or jolting movement or sensation itself."
+        },
+        {
+          "id": "1rvp93wh",
+          "word": "quake",
+          "meaning": "trembling, shaking",
+          "note": "Use this for a physical trembling or vibration, rather than an earthquake."
+        }
+      ],
       "examples": [
         {
           "english": "The machine's vibration is so strong that the whole table is moving.",

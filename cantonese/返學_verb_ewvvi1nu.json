@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "travel to work or school",
-      "english": ["commute"],
+      "english": [
+        {
+          "id": "jv3eekxn",
+          "word": "commute",
+          "meaning": "travel to work or school",
+          "note": "Use this instead of 返工 when the regular destination is school."
+        }
+      ],
       "examples": [
         {
           "english": "They commute to school together every morning.",

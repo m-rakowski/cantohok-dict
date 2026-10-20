@@ -6,7 +6,44 @@
   "boxes": [
     {
       "meaning": "worried",
-      "english": ["worried", "anxious", "concerned", "apprehensive", "uneasy", "afraid"],
+      "english": [
+        {
+          "id": "hz0dpimo",
+          "word": "worried",
+          "meaning": "anxious, concerned",
+          "note": "This is the all-purpose choice for feeling anxious or concerned about someone or something."
+        },
+        {
+          "id": "95l4uhzl",
+          "word": "anxious",
+          "meaning": "anxious, eager, worried about",
+          "note": "Use this as the all-purpose choice when you are worried or concerned about something."
+        },
+        {
+          "id": "s90jaqi0",
+          "word": "concerned",
+          "meaning": "worried, troubled",
+          "note": "This is the all-purpose choice for someone who is worried or troubled."
+        },
+        {
+          "id": "r2qvo20e",
+          "word": "apprehensive",
+          "meaning": "anxious; fearful",
+          "note": "This is the all-purpose choice for feeling anxious about what may happen."
+        },
+        {
+          "id": "ur009o19",
+          "word": "uneasy",
+          "meaning": "anxious, worried",
+          "note": "Choose this when the uneasiness is specifically worry about a person, situation, or outcome."
+        },
+        {
+          "id": "acot87gm",
+          "word": "afraid",
+          "meaning": "worried for someone",
+          "note": "Use this when you are worried about someone or something rather than personally frightened."
+        }
+      ],
       "examples": [
         {
           "english": "I'm really worried about tomorrow's exam.",

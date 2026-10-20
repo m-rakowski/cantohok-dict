@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "humble, modest",
-      "english": ["humble", "modest"],
+      "english": [
+        {
+          "id": "nhx94uo4",
+          "word": "humble",
+          "meaning": "modest, not proud",
+          "note": "This is the all-purpose choice for a person who is modest and not proud."
+        },
+        {
+          "id": "4yib8phd",
+          "word": "modest",
+          "meaning": "humble; unpretentious",
+          "note": "This is the all-purpose choice for someone who does not boast about themselves or their achievements."
+        }
+      ],
       "examples": [
         {
           "english": "They won an award, but they are still humble.",

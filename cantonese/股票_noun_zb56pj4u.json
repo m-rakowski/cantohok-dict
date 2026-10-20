@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "company stock, shares",
-      "english": ["share", "stock"],
+      "english": [
+        {
+          "id": "m1rlxp9v",
+          "word": "share",
+          "meaning": "company stock",
+          "note": "Use this as the all-purpose term for company stock that people buy, sell, or hold."
+        },
+        {
+          "id": "3fxnage3",
+          "word": "stock",
+          "meaning": "company shares",
+          "note": "Use 股票 for company shares or an investment in a company."
+        }
+      ],
       "examples": [
         {
           "english": "I bought a share in that company.",

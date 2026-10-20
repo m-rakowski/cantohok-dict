@@ -6,7 +6,54 @@
   "boxes": [
     {
       "meaning": "to leave, go away",
-      "english": ["leave", "exit", "bounce", "run", "shoot", "roll", "split"],
+      "english": [
+        {
+          "id": "5sbn3k3r",
+          "word": "leave",
+          "meaning": "go away; depart",
+          "note": "For ordinary physical departure or telling someone to go away, 走 is the all-purpose choice; in context it can also mean quitting a group or organization."
+        },
+        {
+          "id": "vp3m9tn7",
+          "word": "exit",
+          "meaning": "leave, depart",
+          "note": "This is the all-purpose colloquial choice for leaving or departing from a place or situation."
+        },
+        {
+          "id": "5jlic2uz",
+          "word": "bounce",
+          "meaning": "leave, go",
+          "register": "colloquial",
+          "note": "Use 走 as the all-purpose casual verb when someone is leaving or going away."
+        },
+        {
+          "id": "3ye3cwe4",
+          "word": "run",
+          "meaning": "move quickly; hurry",
+          "note": "Use this for going or hurrying away, especially fleeing from trouble rather than literally running on foot."
+        },
+        {
+          "id": "9mo63cvz",
+          "word": "shoot",
+          "meaning": "leave quickly",
+          "register": "colloquial",
+          "note": "Use this colloquial verb when “shoot” means leave quickly."
+        },
+        {
+          "id": "4m9br8fk",
+          "word": "roll",
+          "meaning": "leave, set off",
+          "register": "colloquial",
+          "note": "Use this colloquial departure sense when “roll” means to leave or get going, as in 走啦."
+        },
+        {
+          "id": "xwgqv9vq",
+          "word": "split",
+          "meaning": "leave, go away",
+          "register": "colloquial",
+          "note": "Use this colloquially when “split” means to leave or go away."
+        }
+      ],
       "examples": [
         {
           "english": "We have to leave now.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "short break",
-      "english": ["break", "recess"],
+      "english": [
+        {
+          "id": "v21s9olq",
+          "word": "break",
+          "meaning": "rest or pause",
+          "note": "For a period of rest, 小休 is the all-purpose noun among these choices."
+        },
+        {
+          "id": "r9g7nqth",
+          "word": "recess",
+          "meaning": "break, pause",
+          "note": "Use this for a brief pause, especially in a work, meeting, or event schedule."
+        }
+      ],
       "examples": [
         {
           "english": "We took a fifteen-minute break after eating.",

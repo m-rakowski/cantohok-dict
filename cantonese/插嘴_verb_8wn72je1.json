@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "interrupt someone speaking",
-      "english": ["interrupt", "interject"],
+      "english": [
+        {
+          "id": "3nwqae39",
+          "word": "interrupt",
+          "meaning": "break in / speak over",
+          "note": "Use this specifically when someone cuts into another person's speech or conversation."
+        },
+        {
+          "id": "hlybw4bt",
+          "word": "interject",
+          "meaning": "interrupt with a remark",
+          "note": "Use this when stressing that someone interrupts another speaker, often with an unwelcome or impolite nuance."
+        }
+      ],
       "examples": [
         {
           "english": "Don't interrupt while other people are talking.",

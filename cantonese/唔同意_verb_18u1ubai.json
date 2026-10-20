@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "disagree",
-      "english": ["disagree", "differ"],
+      "english": [
+        {
+          "id": "mht4wy3x",
+          "word": "disagree",
+          "meaning": "have different opinion",
+          "note": "This is the all-purpose choice for expressing a different opinion or belief."
+        },
+        {
+          "id": "x6vrc5l6",
+          "word": "differ",
+          "meaning": "disagree",
+          "note": "Use this when a person disagrees with an opinion, suggestion, or statement."
+        }
+      ],
       "examples": [
         {
           "english": "I disagree with what you’re saying.",

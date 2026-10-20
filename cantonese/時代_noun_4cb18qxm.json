@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "era, historical period",
-      "english": ["era", "age"],
+      "english": [
+        {
+          "id": "hn1cl84q",
+          "word": "era",
+          "meaning": "time period",
+          "note": "This is the all-purpose choice for an era or broad historical time period."
+        },
+        {
+          "id": "1ez3fz4h",
+          "word": "age",
+          "meaning": "historical period",
+          "note": "Use 時代 for a distinct historical era or period."
+        }
+      ],
       "examples": [
         {
           "english": "People in that era lived very tough lives.",

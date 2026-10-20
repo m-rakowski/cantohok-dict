@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "field, area of knowledge",
-      "english": ["field", "kingdom"],
+      "english": [
+        {
+          "id": "j6xgwc08",
+          "word": "field",
+          "meaning": "area of study",
+          "note": "Use 領域 for an academic, professional, or knowledge domain, rather than a physical piece of land."
+        },
+        {
+          "id": "7x3s2ft9",
+          "word": "kingdom",
+          "meaning": "realm or sphere",
+          "note": "Use 領域 for a figurative or conceptual sphere where something is dominant rather than a monarch's realm."
+        }
+      ],
       "examples": [
         {
           "english": "This is an important field in psychology.",

@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "letter",
-      "english": ["letter", "correspondence", "note"],
+      "english": [
+        {
+          "id": "xdifx3f7",
+          "word": "letter",
+          "meaning": "written message",
+          "note": "This is the all-purpose Cantonese word for a written letter sent to someone."
+        },
+        {
+          "id": "vx1zixfk",
+          "word": "correspondence",
+          "meaning": "letters sent",
+          "note": "Use 信 as the all-purpose noun for letters or written messages sent to someone."
+        },
+        {
+          "id": "izd4tb69",
+          "word": "note",
+          "meaning": "short informal letter",
+          "note": "Use this when the note is a short personal letter sent to someone."
+        }
+      ],
       "examples": [
         {
           "english": "I mailed a letter to Grandma yesterday.",

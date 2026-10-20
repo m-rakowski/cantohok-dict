@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "public disturbance, riot",
-      "english": ["unrest", "disorder"],
+      "english": [
+        {
+          "id": "o8at82k6",
+          "word": "unrest",
+          "meaning": "social or political turmoil",
+          "note": "Use this when the unrest specifically involves public disturbances, riots, or clashes."
+        },
+        {
+          "id": "7a2mcqav",
+          "word": "disorder",
+          "meaning": "public disturbance",
+          "register": "formal",
+          "note": "Use this for public unrest or a disturbance of civic peace, especially in news or formal descriptions."
+        }
+      ],
       "examples": [
         {
           "english": "The protest turned into unrest when demonstrators clashed with the police.",

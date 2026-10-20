@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "space probe",
-      "english": ["probe"],
+      "english": [
+        {
+          "id": "cp6rb7kc",
+          "word": "probe",
+          "meaning": "space probe",
+          "note": "Use 太空探測器 specifically for an uncrewed spacecraft sent to collect information or measurements in space."
+        }
+      ],
       "examples": [
         {
           "english": "The space probe has already flown near Mars.",

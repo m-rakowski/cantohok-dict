@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "sweater",
-      "english": ["sweater", "jumper", "jersey"],
+      "english": [
+        {
+          "id": "wrzhjwnu",
+          "word": "sweater",
+          "meaning": "knitted warm top",
+          "register": "colloquial",
+          "note": "This is the all-purpose Cantonese word for a knitted warm top, including one worn by athletes before or after exercise."
+        },
+        {
+          "id": "kk0hp44a",
+          "word": "jumper",
+          "meaning": "sweater / pullover",
+          "note": "This is the all-purpose spoken Hong Kong Cantonese word for a sweater or pullover."
+        },
+        {
+          "id": "eewglm8b",
+          "word": "jersey",
+          "meaning": "knitted wool garment",
+          "note": "This is the all-purpose everyday Hong Kong term for the knitted upper-body garment."
+        }
+      ],
       "examples": [
         {
           "english": "After exercising, even if you are sweaty, put your sweater back on before you leave.",

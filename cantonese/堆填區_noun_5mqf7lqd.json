@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "landfill",
-      "english": ["dump", "tip"],
+      "english": [
+        {
+          "id": "9s5zkizp",
+          "word": "dump",
+          "meaning": "garbage site",
+          "note": "Use this for a landfill or designated place where refuse is disposed of."
+        },
+        {
+          "id": "4jwhur3o",
+          "word": "tip",
+          "meaning": "rubbish dump",
+          "note": "Use this specifically for a rubbish dump or landfill site."
+        }
+      ],
       "examples": [
         {
           "english": "This rubbish needs to be taken to the dump.",

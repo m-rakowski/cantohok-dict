@@ -6,7 +6,28 @@
   "boxes": [
     {
       "meaning": "official ruling, verdict",
-      "english": ["verdict", "determination", "finding"],
+      "english": [
+        {
+          "id": "gyo8fmix",
+          "word": "verdict",
+          "meaning": "jury decision",
+          "note": "Use this as the all-purpose term for an official decision, including a jury's or umpire's ruling."
+        },
+        {
+          "id": "ftf2p30u",
+          "word": "determination",
+          "meaning": "decision, conclusion",
+          "register": "formal",
+          "note": "Use this specifically for a formal ruling or determination by a tribunal or other authority."
+        },
+        {
+          "id": "je6kmpnk",
+          "word": "finding",
+          "meaning": "official ruling",
+          "register": "formal",
+          "note": "Use this for a formal ruling by a court, jury, or regulatory body."
+        }
+      ],
       "examples": [
         {
           "english": "After deliberating for a long time, the jury finally reached a verdict.",

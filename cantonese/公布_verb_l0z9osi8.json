@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "to announce publicly",
-      "english": ["proclaim", "post", "publish"],
+      "english": [
+        {
+          "id": "2nksqahk",
+          "word": "proclaim",
+          "meaning": "announce publicly",
+          "note": "Use this when an official person or organization makes information public, especially a decision, result, or policy."
+        },
+        {
+          "id": "lk1djvpo",
+          "word": "post",
+          "meaning": "publish publicly",
+          "note": "Use this when an organization or person announces information or results publicly."
+        },
+        {
+          "id": "utrb7ixq",
+          "word": "publish",
+          "meaning": "announce publicly",
+          "note": "Use 公布 for officially making information, decisions, or notices public rather than issuing a publication."
+        }
+      ],
       "examples": [
         {
           "english": "The committee will proclaim the results of this year's competition.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "promise",
-      "english": ["promise", "give"],
+      "english": [
+        {
+          "id": "yxf710v5",
+          "word": "promise",
+          "meaning": "promise, commit",
+          "note": "This is the all-purpose choice for committing to do something or assuring someone that you will do it."
+        },
+        {
+          "id": "8q8fhfjh",
+          "word": "give",
+          "meaning": "pledge, promise",
+          "note": "Use this when give means to promise or commit yourself to doing something for someone."
+        }
+      ],
       "examples": [
         {
           "english": "I promise you I’ll definitely help you move tomorrow.",

@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "courage",
-      "english": ["courage", "bravery", "pluck"],
+      "english": [
+        {
+          "id": "5tx4rarh",
+          "word": "courage",
+          "meaning": "bravery to face fear",
+          "note": "This is the all-purpose noun for courage, especially the resolve to face fear or keep going despite difficulty."
+        },
+        {
+          "id": "y46w12ho",
+          "word": "bravery",
+          "meaning": "courage",
+          "note": "This is the all-purpose noun for courage or bravery."
+        },
+        {
+          "id": "ulytj8lk",
+          "word": "pluck",
+          "meaning": "nerve; courage",
+          "note": "This is the all-purpose choice for courage or fortitude."
+        }
+      ],
       "examples": [
         {
           "english": "Despite such a big setback, they still had the courage to start over.",

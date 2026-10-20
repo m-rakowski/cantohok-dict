@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "hair salon",
-      "english": ["salon", "shop"],
+      "english": [
+        {
+          "id": "mag5amrq",
+          "word": "salon",
+          "meaning": "beauty salon",
+          "register": "colloquial",
+          "note": "Use this when the salon mainly cuts, styles, or treats hair rather than providing general beauty services."
+        },
+        {
+          "id": "l751zvp4",
+          "word": "shop",
+          "meaning": "barber shop; beauty shop",
+          "note": "Use this for a hair salon or the usual barber-and-hairdressing shop."
+        }
+      ],
       "examples": [
         {
           "english": "I’m going to the salon for a haircut after work.",

@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "wallet, one's money",
-      "english": ["pocket", "wallet"],
+      "english": [
+        {
+          "id": "9qg6uw0w",
+          "word": "pocket",
+          "meaning": "money available",
+          "note": "Use this for a person's available money or financial resources, especially in expressions about paying from one's own pocket."
+        },
+        {
+          "id": "uw6agmta",
+          "word": "wallet",
+          "meaning": "money case",
+          "register": "colloquial",
+          "note": "Use this for a physical wallet with a casual purse or pocket flavor, and for someone's finances in cost-related contexts."
+        }
+      ],
       "examples": [
         {
           "english": "We have to pay for this meal out of our own pocket, not expense it to the company.",

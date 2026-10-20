@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "cavalry unit",
-      "english": ["troop"],
+      "english": [
+        {
+          "id": "g1iwmv8c",
+          "word": "troop",
+          "meaning": "cavalry unit",
+          "note": "Choose this when the troop is explicitly a cavalry unit; an armoured troop is normally called 部隊 instead."
+        }
+      ],
       "examples": [
         {
           "english": "The cavalry troop charged into the battlefield.",

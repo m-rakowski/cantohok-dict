@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "must, have to",
-      "english": ["compulsory", "bound", "imperative"],
+      "english": [
+        {
+          "id": "dn3t8zo6",
+          "word": "compulsory",
+          "meaning": "required; mandatory",
+          "note": "This is the all-purpose everyday way to say that an action or payment is required."
+        },
+        {
+          "id": "bvnzwm2h",
+          "word": "bound",
+          "meaning": "obliged to",
+          "note": "Use this when someone is obliged or required to do something."
+        },
+        {
+          "id": "auxpqtm1",
+          "word": "imperative",
+          "meaning": "essential; crucial",
+          "note": "Use this when imperative expresses an urgent obligation rather than importance in the abstract."
+        }
+      ],
       "examples": [
         {
           "english": "It is compulsory to pay.",

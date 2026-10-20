@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "worry",
-      "english": ["worry", "fear", "dread", "sweat"],
+      "english": [
+        {
+          "id": "9xvphzua",
+          "word": "worry",
+          "meaning": "be anxious",
+          "note": "This is the all-purpose choice for being anxious or worrying about someone or something."
+        },
+        {
+          "id": "b64a9tt2",
+          "word": "fear",
+          "meaning": "fear for someone",
+          "note": "Use this when the fear is concern about someone's safety or welfare rather than fear of the person or thing itself."
+        },
+        {
+          "id": "xduz1dvb",
+          "word": "dread",
+          "meaning": "look forward to with fear",
+          "note": "Use this for anticipatory dread about an upcoming result or event, where the emphasis is on worry."
+        },
+        {
+          "id": "qjg9jhpr",
+          "word": "sweat",
+          "meaning": "worry",
+          "note": "Use this for worrying rather than physically sweating or working hard."
+        }
+      ],
       "examples": [
         {
           "english": "I really worry about them going home alone at night.",

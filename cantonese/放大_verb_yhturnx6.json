@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "enlarge, magnify",
-      "english": ["amplify", "magnify"],
+      "english": [
+        {
+          "id": "fjl7mua6",
+          "word": "amplify",
+          "meaning": "increase signal strength",
+          "note": "This is the all-purpose choice for making something physically larger or more intense, and for amplifying a signal."
+        },
+        {
+          "id": "hf10ec3h",
+          "word": "magnify",
+          "meaning": "make appear larger with lens",
+          "note": "This is the all-purpose choice for making something physically larger, including making an image look larger through a lens, and it can also give something greater importance."
+        }
+      ],
       "examples": [
         {
           "english": "My phone can amplify the photo.",

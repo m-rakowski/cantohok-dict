@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "standard, benchmark",
-      "english": ["standard", "measure", "bar"],
+      "english": [
+        {
+          "id": "7gmv6qxi",
+          "word": "standard",
+          "meaning": "quality standard",
+          "note": "This is the all-purpose noun for a quality standard, benchmark, or agreed requirement."
+        },
+        {
+          "id": "jwuydqw4",
+          "word": "measure",
+          "meaning": "standard; criterion",
+          "note": "This is the all-purpose choice when “measure” means a standard or criterion for judging something."
+        },
+        {
+          "id": "9pc1u7i7",
+          "word": "bar",
+          "meaning": "standard or benchmark",
+          "note": "Use this for a target or level of achievement, as in “raise the bar.”"
+        }
+      ],
       "examples": [
         {
           "english": "The service standard at this restaurant is very high.",

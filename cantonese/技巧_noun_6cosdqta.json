@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "skill, technique",
-      "english": ["technique", "virtuosity", "craft", "skill", "art"],
+      "english": [
+        {
+          "id": "hk9op1pn",
+          "word": "technique",
+          "meaning": "method or way of doing",
+          "note": "This is the usual choice for a technique that depends on skill or know-how."
+        },
+        {
+          "id": "cy1nhofh",
+          "word": "virtuosity",
+          "meaning": "technical skill",
+          "note": "This is the all-purpose choice for a virtuoso's technical skill and fluent technique."
+        },
+        {
+          "id": "jtucxnpq",
+          "word": "craft",
+          "meaning": "skill; ability",
+          "note": "This is the all-purpose noun for skill or technique, including skill in a particular art or trade."
+        },
+        {
+          "id": "l1ac18on",
+          "word": "skill",
+          "meaning": "ability; technique",
+          "note": "Use this for a particular technique or method of doing something well."
+        },
+        {
+          "id": "9346glqg",
+          "word": "art",
+          "meaning": "the art of doing",
+          "note": "Use this for the skill or technique involved in doing something rather than for art as a field."
+        }
+      ],
       "examples": [
         {
           "english": "This magician's technique is really impressive.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "a little, slightly",
-      "english": ["somewhat", "marginally"],
+      "english": [
+        {
+          "id": "hp991nf6",
+          "word": "somewhat",
+          "meaning": "to some extent",
+          "note": "Use this when you want to emphasize that the degree is small, similar to “a little.”"
+        },
+        {
+          "id": "zpycc1r2",
+          "word": "marginally",
+          "meaning": "slightly; by a small amount",
+          "note": "This is the all-purpose colloquial choice for saying that something is slightly or by a small amount."
+        }
+      ],
       "examples": [
         {
           "english": "It’s somewhat cold today, so put on another layer.",

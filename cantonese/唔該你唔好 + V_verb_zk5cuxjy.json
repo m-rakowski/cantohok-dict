@@ -6,7 +6,15 @@
   "boxes": [
     {
       "meaning": "request/command politely",
-      "english": ["thank"],
+      "english": [
+        {
+          "id": "inenhm25",
+          "word": "thank",
+          "meaning": "request/command politely",
+          "register": "colloquial",
+          "note": "Use this fixed polite-but-firm command for the special pattern “I’ll thank you not to do V.”"
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

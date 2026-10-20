@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "complicated, intricate",
-      "english": ["baroque", "complex"],
+      "english": [
+        {
+          "id": "knvdyfio",
+          "word": "baroque",
+          "meaning": "ornate, highly decorated",
+          "register": "written",
+          "note": "Use this as the all-purpose choice for richly detailed or intricately complex decoration and design."
+        },
+        {
+          "id": "a7fq4v3b",
+          "word": "complex",
+          "meaning": "made of many parts",
+          "register": "written",
+          "note": "Use this for something made up of many detailed or interlocking parts, especially when it feels elaborate or cumbersome."
+        }
+      ],
       "register": "written",
       "examples": [
         {

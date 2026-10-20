@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "known by few; secret",
-      "english": ["arcane"],
+      "english": [
+        {
+          "id": "eao739ej",
+          "word": "arcane",
+          "meaning": "known by few; secret",
+          "note": "Use this when the material is difficult to understand and only specialists can follow it."
+        }
+      ],
       "examples": [
         {
           "english": "This book on quantum physics is so arcane that I can't make head or tail of it.",

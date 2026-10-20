@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "machine support / bearing",
-      "english": ["bearing"],
+      "english": [
+        {
+          "id": "0fgdwd5s",
+          "word": "bearing",
+          "meaning": "machine support / bearing",
+          "note": "Use this specifically for the mechanical part that supports a rotating shaft and reduces friction."
+        }
+      ],
       "examples": [
         {
           "english": "The machine's bearing is broken and needs replacing.",

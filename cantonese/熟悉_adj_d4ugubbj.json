@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "familiar, well known to you",
-      "english": ["familiar", "known"],
+      "english": [
+        {
+          "id": "nkx37izt",
+          "word": "familiar",
+          "meaning": "known / well-known",
+          "note": "This is the all-purpose choice for something known to you or for being acquainted with a person, subject, or system."
+        },
+        {
+          "id": "cbu89t09",
+          "word": "known",
+          "meaning": "known/familiar/established",
+          "note": "Use this when a person, place, subject, or thing is familiar rather than simply publicly known."
+        }
+      ],
       "examples": [
         {
           "english": "I’m very familiar with this system.",

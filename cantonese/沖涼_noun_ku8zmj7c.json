@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "a shower or bath",
-      "english": ["shower", "bath"],
+      "english": [
+        {
+          "id": "ov8rv1w7",
+          "word": "shower",
+          "meaning": "take a shower",
+          "note": "This is the all-purpose everyday rendering for the act of taking a shower."
+        },
+        {
+          "id": "ox8tvu1r",
+          "word": "bath",
+          "meaning": "the act of bathing",
+          "register": "colloquial",
+          "note": "Use this for the act or occasion of bathing in everyday speech."
+        }
+      ],
       "examples": [
         {
           "english": "I'll take a shower first and reply to you later.",

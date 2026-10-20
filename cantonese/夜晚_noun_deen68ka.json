@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "night",
-      "english": ["night", "evening"],
+      "english": [
+        {
+          "id": "sxcej2bv",
+          "word": "night",
+          "meaning": "nighttime",
+          "note": "This is the all-purpose noun for nighttime and the general period after nightfall."
+        },
+        {
+          "id": "ddwzpji6",
+          "word": "evening",
+          "meaning": "late day / evening",
+          "register": "colloquial",
+          "note": "Use 夜晚 for the later, darker part of the evening, shading into nighttime."
+        }
+      ],
       "examples": [
         {
           "english": "At night, don't walk down this road alone.",

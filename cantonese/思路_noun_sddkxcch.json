@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "line of thought",
-      "english": ["thread", "vein", "train"],
+      "english": [
+        {
+          "id": "qzyc95gf",
+          "word": "thread",
+          "meaning": "line of thought",
+          "note": "Use this for the sequence or direction of someone’s reasoning or ideas."
+        },
+        {
+          "id": "n1le216m",
+          "word": "vein",
+          "meaning": "topic; line of thought",
+          "note": "Use this for the train or direction of someone’s thoughts, not simply the discussion topic."
+        },
+        {
+          "id": "4vns2s65",
+          "word": "train",
+          "meaning": "train of thought / events",
+          "note": "Use this for the ideas or reasoning in a train of thought."
+        }
+      ],
       "examples": [
         {
           "english": "Your explanation is so clear that I can finally follow your thread of thought.",

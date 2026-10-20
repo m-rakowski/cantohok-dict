@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "eating disorder",
-      "english": ["bulimia"],
+      "english": [
+        {
+          "id": "mdrr7uc6",
+          "word": "bulimia",
+          "meaning": "eating disorder",
+          "note": "This is the all-purpose noun for the eating disorder itself."
+        }
+      ],
       "examples": [
         {
           "english": "They have bulimia and need treatment.",

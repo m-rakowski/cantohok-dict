@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "a certain person, someone",
-      "english": ["somebody", "someone"],
+      "english": [
+        {
+          "id": "yckrrw6x",
+          "word": "somebody",
+          "meaning": "unspecified person",
+          "note": "Use this when introducing or pointing to an unspecified individual, especially someone present or involved in a particular event."
+        },
+        {
+          "id": "sldvzdaq",
+          "word": "someone",
+          "meaning": "indefinite person",
+          "note": "Use this when introducing or describing someone as one particular person in a situation or story."
+        }
+      ],
       "examples": [
         {
           "english": "Somebody is waiting for you at the door.",

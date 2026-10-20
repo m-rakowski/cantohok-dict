@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "urgent, pressing",
-      "english": ["burning", "sore"],
+      "english": [
+        {
+          "id": "tmdgs5y8",
+          "word": "burning",
+          "meaning": "urgent, much-discussed",
+          "note": "Choose this for the urgency of a burning question or issue, rather than merely a widely discussed topic."
+        },
+        {
+          "id": "bx67vzyp",
+          "word": "sore",
+          "meaning": "severe; pressing need",
+          "register": "formal",
+          "note": "Use this specifically when the need is pressing or urgent."
+        }
+      ],
       "examples": [
         {
           "english": "How to improve housing is the most burning issue right now.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "phone number prefix",
-      "english": ["prefix"],
+      "english": [
+        {
+          "id": "h5pdywm2",
+          "word": "prefix",
+          "meaning": "phone number prefix",
+          "note": "Use this only for the geographic area code portion of a telephone number, not for prefixes indicating phone type or service."
+        }
+      ],
       "examples": [
         {
           "english": "The prefix for this area is 2810.",

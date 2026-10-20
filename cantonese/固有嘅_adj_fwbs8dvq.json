@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "inherent, built-in",
-      "english": ["inherent", "intrinsic"],
+      "english": [
+        {
+          "id": "aweo34q3",
+          "word": "inherent",
+          "meaning": "naturally part of",
+          "register": "formal",
+          "note": "Use this more formal term when describing an intrinsic or built-in quality, especially in careful or written language."
+        },
+        {
+          "id": "fri5cbdp",
+          "word": "intrinsic",
+          "meaning": "inherent; essential",
+          "register": "written",
+          "note": "Use this for an inherent property that belongs to something by its nature, especially in formal or technical wording."
+        }
+      ],
       "examples": [
         {
           "english": "This system has inherent limitations, so it cannot be applied indiscriminately.",

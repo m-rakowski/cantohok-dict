@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "go travelling, go on a trip",
-      "english": ["travel", "tour"],
+      "english": [
+        {
+          "id": "u4azfqy6",
+          "word": "travel",
+          "meaning": "be on a journey",
+          "note": "This is the all-purpose phrase for being on a journey for pleasure or business."
+        },
+        {
+          "id": "ilwto3wr",
+          "word": "tour",
+          "meaning": "go on tour",
+          "note": "This is the all-purpose choice for making a journey or going on a trip."
+        }
+      ],
       "examples": [
         {
           "english": "We’re going to travel next month, so remember to bring your passport.",

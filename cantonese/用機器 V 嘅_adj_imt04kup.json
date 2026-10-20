@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "done by machine",
-      "english": ["mechanical"],
+      "english": [
+        {
+          "id": "ql9j1o84",
+          "word": "mechanical",
+          "meaning": "done by machine",
+          "note": "Use this specifically to say that an action or task was done by a machine, replacing V with the relevant verb."
+        }
+      ],
       "examples": [
         {
           "english": "This batch of letters was printed by machine, using a mechanical process.",

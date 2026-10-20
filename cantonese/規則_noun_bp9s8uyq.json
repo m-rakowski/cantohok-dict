@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "rule",
-      "english": ["rule", "regulation", "code"],
+      "english": [
+        {
+          "id": "21ykhczf",
+          "word": "rule",
+          "meaning": "law; guideline",
+          "note": "This is the all-purpose choice for an explicit rule, regulation, or guideline."
+        },
+        {
+          "id": "3gaxrps1",
+          "word": "regulation",
+          "meaning": "organization rule",
+          "note": "Use this as the all-purpose choice for an organization’s rules governing members’ conduct."
+        },
+        {
+          "id": "idm6rq2t",
+          "word": "code",
+          "meaning": "rules/code of conduct",
+          "note": "Use this as the all-purpose noun for a system of rules, including rules governing professional conduct or a social group."
+        }
+      ],
       "examples": [
         {
           "english": "The rule here is that smoking indoors isn't allowed.",

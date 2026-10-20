@@ -6,7 +6,15 @@
   "boxes": [
     {
       "meaning": "test result positive",
-      "english": ["positive"],
+      "english": [
+        {
+          "id": "4fl1e8wg",
+          "word": "positive",
+          "meaning": "test result positive",
+          "register": "formal",
+          "note": "Use this technical term for a test result or reaction showing the feature being tested for is present, not for general favorable results."
+        }
+      ],
       "register": "formal",
       "examples": [
         {

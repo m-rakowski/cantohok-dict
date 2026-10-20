@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "spokesperson, brand ambassador",
-      "english": ["spokesman", "ambassador"],
+      "english": [
+        {
+          "id": "cvsopxen",
+          "word": "spokesman",
+          "meaning": "person speaking for group",
+          "note": "Use this when the person publicly represents an individual, organization, or brand, especially in a promotional or public-facing role."
+        },
+        {
+          "id": "ptushclp",
+          "word": "ambassador",
+          "meaning": "brand/company representative",
+          "note": "Use 代言人 for a corporate or brand representative who publicly promotes or embodies the company."
+        }
+      ],
       "examples": [
         {
           "english": "This athlete became the brand's spokesman and even filmed a television commercial.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "price index",
-      "english": ["index"],
+      "english": [
+        {
+          "id": "4gt6ci5e",
+          "word": "index",
+          "meaning": "price index",
+          "note": "Use this for a calculated numerical index such as a price index or a scientific coefficient."
+        }
+      ],
       "examples": [
         {
           "english": "The price index went up again this month.",

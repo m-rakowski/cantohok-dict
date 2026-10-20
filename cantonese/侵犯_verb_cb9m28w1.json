@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "to violate rights or privacy",
-      "english": ["infringe", "invade"],
+      "english": [
+        {
+          "id": "tx1sr980",
+          "word": "infringe",
+          "meaning": "violate law or rights",
+          "note": "Use this for infringing someone's rights or encroaching on their interests, space, or territory."
+        },
+        {
+          "id": "42npxox8",
+          "word": "invade",
+          "meaning": "enter into / intrude on",
+          "register": "formal",
+          "note": "Use this for invading or violating someone's privacy, rights, or personal space rather than physically entering a place."
+        }
+      ],
       "examples": [
         {
           "english": "To publish someone's private information like this is to infringe their rights.",

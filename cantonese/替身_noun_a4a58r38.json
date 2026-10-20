@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "stand-in, stunt double",
-      "english": ["substitute", "replacement", "double"],
+      "english": [
+        {
+          "id": "9c88rotm",
+          "word": "substitute",
+          "meaning": "replacement, stand-in",
+          "note": "Use this for a person standing in for another person, such as a body double or stand-in."
+        },
+        {
+          "id": "hsvg5wan",
+          "word": "replacement",
+          "meaning": "substitute person or thing",
+          "note": "Use this for a person who stands in for another person, especially in a performance, job, or dangerous situation."
+        },
+        {
+          "id": "qmw3uqnh",
+          "word": "double",
+          "meaning": "stand-in person",
+          "note": "Use 替身 for a person who resembles another person and stands in for them."
+        }
+      ],
       "examples": [
         {
           "english": "During filming, the substitute performs the dangerous stunts.",

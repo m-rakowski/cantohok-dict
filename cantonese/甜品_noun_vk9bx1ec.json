@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "dessert",
-      "english": ["dessert", "pudding", "confection", "sweet"],
+      "english": [
+        {
+          "id": "mrug5mdt",
+          "word": "dessert",
+          "meaning": "sweet course after meal",
+          "note": "This is the all-purpose Cantonese noun for the sweet course served after a meal."
+        },
+        {
+          "id": "iyh5yez6",
+          "word": "pudding",
+          "meaning": "dessert course",
+          "note": "Use this as the all-purpose word for the dessert course or dessert in general."
+        },
+        {
+          "id": "fru5ilea",
+          "word": "confection",
+          "meaning": "sweet food; candy",
+          "note": "Use this when the confection is served as a dessert, such as a pastry, cake, or other sweet dish."
+        },
+        {
+          "id": "70wkn9in",
+          "word": "sweet",
+          "meaning": "dessert",
+          "note": "Use this for a dessert or the dessert course, especially on a menu."
+        }
+      ],
       "examples": [
         {
           "english": "Let's order dessert after the meal too.",

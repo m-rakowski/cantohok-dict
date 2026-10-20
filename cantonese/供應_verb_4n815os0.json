@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "to supply",
-      "english": ["stock", "supply", "feed"],
+      "english": [
+        {
+          "id": "x1mp63x8",
+          "word": "stock",
+          "meaning": "supply; stock with",
+          "note": "Use this when “stock” means to supply or provide someone or somewhere with the required goods or materials."
+        },
+        {
+          "id": "1zitgtno",
+          "word": "supply",
+          "meaning": "provide; make available",
+          "note": "Use 供應 for an ongoing or organized supply of goods, fuel, or ammunition."
+        },
+        {
+          "id": "c3wqq8bh",
+          "word": "feed",
+          "meaning": "supply with",
+          "note": "Use this when a source supplies something such as water to a place or system."
+        }
+      ],
       "examples": [
         {
           "english": "We stock schools across Hong Kong with stationery.",

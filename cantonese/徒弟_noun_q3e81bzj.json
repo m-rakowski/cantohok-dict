@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "apprentice, disciple",
-      "english": ["disciple", "pupil"],
+      "english": [
+        {
+          "id": "5kr53u3s",
+          "word": "disciple",
+          "meaning": "student, pupil",
+          "register": "colloquial",
+          "note": "This is the all-purpose everyday choice for someone learning directly from a master, especially a practical skill or craft."
+        },
+        {
+          "id": "zt5c647n",
+          "word": "pupil",
+          "meaning": "disciple; apprentice",
+          "note": "Use this for a disciple or apprentice learning directly from a recognised master, especially in a craft or martial-arts context."
+        }
+      ],
       "examples": [
         {
           "english": "My disciple can already teach others on his own.",

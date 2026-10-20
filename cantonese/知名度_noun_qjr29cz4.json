@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "how well known someone is",
-      "english": ["fame", "profile"],
+      "english": [
+        {
+          "id": "qwt9xuih",
+          "word": "fame",
+          "meaning": "being famous",
+          "note": "Use this for the degree to which a person, brand, or organization is well known, rather than for its moral reputation."
+        },
+        {
+          "id": "vfwoplk0",
+          "word": "profile",
+          "meaning": "public visibility",
+          "note": "Use this when profile means how well-known or prominent a person or organization is in public life."
+        }
+      ],
       "examples": [
         {
           "english": "This new brand still doesn't have much fame, so it needs more advertising.",

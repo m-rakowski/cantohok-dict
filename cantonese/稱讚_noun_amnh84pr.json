@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "praise, compliment",
-      "english": ["compliment", "praise"],
+      "english": [
+        {
+          "id": "ppou6awf",
+          "word": "compliment",
+          "meaning": "praise or praise remark",
+          "note": "This is the all-purpose noun for an expression of praise or approval."
+        },
+        {
+          "id": "fw7hdsj8",
+          "word": "praise",
+          "meaning": "commendation; approval in words",
+          "note": "This is the all-purpose noun for commendation or favourable words."
+        }
+      ],
       "examples": [
         {
           "english": "I received a lot of compliment, and it really made me happy.",

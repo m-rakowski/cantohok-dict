@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "combination, union",
-      "english": ["conjunction", "marriage"],
+      "english": [
+        {
+          "id": "ae3ddiyo",
+          "word": "conjunction",
+          "meaning": "joining; being joined",
+          "register": "written",
+          "note": "Use this for the joining or combination of things, especially in an abstract or formal description."
+        },
+        {
+          "id": "rrswlm82",
+          "word": "marriage",
+          "meaning": "close union",
+          "register": "formal",
+          "note": "Use this for an abstract close union of things or ideas, especially in formal discussion, not for a human marriage."
+        }
+      ],
       "examples": [
         {
           "english": "The report examines the conjunction of technology and education.",

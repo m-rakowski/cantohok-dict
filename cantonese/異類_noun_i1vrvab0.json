@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "misfit, outsider",
-      "english": ["deviant", "outlaw"],
+      "english": [
+        {
+          "id": "wim3dklf",
+          "word": "deviant",
+          "meaning": "person who deviates",
+          "note": "Use 異類 as the broad, relatively neutral noun for a person who does not conform to social norms."
+        },
+        {
+          "id": "fwuo2i0e",
+          "word": "outlaw",
+          "meaning": "rule-breaker, rebel",
+          "note": "Use this for the more social sense of a person who stands apart from conventional norms rather than literally breaking the law."
+        }
+      ],
       "examples": [
         {
           "english": "They never follow the mainstream, so people see them as a deviant.",

@@ -6,7 +6,28 @@
   "boxes": [
     {
       "meaning": "destroy",
-      "english": ["devastate", "waste", "eliminate"],
+      "english": [
+        {
+          "id": "9b9l9z1b",
+          "word": "devastate",
+          "meaning": "ruin on a large scale",
+          "note": "Use this as the all-purpose verb for physically destroying buildings, places, or large areas."
+        },
+        {
+          "id": "t5eyb3pk",
+          "word": "waste",
+          "meaning": "destroy, devastate",
+          "register": "formal",
+          "note": "Use 摧毀 for destroying or devastating something completely, especially in serious or formal contexts."
+        },
+        {
+          "id": "vrucuxdk",
+          "word": "eliminate",
+          "meaning": "disable or destroy",
+          "register": "formal",
+          "note": "Use this when a facility or system is destroyed or rendered unusable; disabling a person specifically is usually phrased differently."
+        }
+      ],
       "examples": [
         {
           "english": "A huge fire can devastate an entire industrial area.",

@@ -6,7 +6,44 @@
   "boxes": [
     {
       "meaning": "personality, character",
-      "english": ["personality", "disposition", "temperament", "being", "character", "self"],
+      "english": [
+        {
+          "id": "8goc4kse",
+          "word": "personality",
+          "meaning": "person's character",
+          "note": "This is the all-purpose choice for a person's characteristic psychological and social traits."
+        },
+        {
+          "id": "52tveqhs",
+          "word": "disposition",
+          "meaning": "temperament; mood",
+          "note": "For a person's general temperament or habitual mood, this is the all-purpose everyday choice."
+        },
+        {
+          "id": "1wv9i9et",
+          "word": "temperament",
+          "meaning": "usual disposition",
+          "note": "This is the all-purpose choice for a person's usual way of thinking, behaving, and reacting."
+        },
+        {
+          "id": "aovt712u",
+          "word": "being",
+          "meaning": "nature; personality",
+          "note": "Use this for a person's basic character or personality."
+        },
+        {
+          "id": "hwgo58qh",
+          "word": "character",
+          "meaning": "personality",
+          "note": "Use this for the pattern of personality traits that distinguishes a person, group, breed, or type."
+        },
+        {
+          "id": "pasn8oac",
+          "word": "self",
+          "meaning": "usual personality / manner",
+          "note": "Use this for someone's personality, character, or usual manner rather than for the person as a reflexive self."
+        }
+      ],
       "examples": [
         {
           "english": "Their personality is easygoing.",

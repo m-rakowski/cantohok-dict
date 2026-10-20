@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "draw up a law or policy",
-      "english": ["constitute", "establish"],
+      "english": [
+        {
+          "id": "cou9rkr4",
+          "word": "constitute",
+          "meaning": "establish; enact",
+          "register": "formal",
+          "note": "Use this specifically when an authority enacts or formulates a law, rule, or policy."
+        },
+        {
+          "id": "0e7ekgcm",
+          "word": "establish",
+          "meaning": "enact; appoint",
+          "note": "Use this for enacting or formulating laws, regulations, policies, or guidelines rather than appointing people."
+        }
+      ],
       "examples": [
         {
           "english": "The government's decision to constitute this policy is meant to protect the public.",

@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "section of a poem, text or music",
-      "english": ["stanza", "passage"],
+      "english": [
+        {
+          "id": "01xy43vz",
+          "word": "stanza",
+          "meaning": "poem stanza",
+          "register": "colloquial",
+          "note": "Use this colloquial general term when the context clearly shows that the section is a stanza of a poem."
+        },
+        {
+          "id": "bmzcwj6w",
+          "word": "passage",
+          "meaning": "text or music section",
+          "note": "Use this for a meaningful section of written text or music, such as a passage of scripture."
+        }
+      ],
       "examples": [
         {
           "english": "I like the last stanza of this poem best.",
@@ -22,7 +36,14 @@
     },
     {
       "meaning": "length or piece cut from something",
-      "english": ["segment"],
+      "english": [
+        {
+          "id": "1qh1samu",
+          "word": "segment",
+          "meaning": "part, section",
+          "note": "Use this for a length or section cut from a continuous object, and sometimes for a linear section of a larger whole."
+        }
+      ],
       "examples": [
         {
           "english": "This segment of wire is too short to connect.",

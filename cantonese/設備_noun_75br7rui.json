@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "equipment, facilities",
-      "english": ["facility", "equipment", "plant", "hardware"],
+      "english": [
+        {
+          "id": "63nz03n5",
+          "word": "facility",
+          "meaning": "amenities / equipment",
+          "note": "Use this when the facility specifically means the equipment or apparatus needed to provide a service."
+        },
+        {
+          "id": "eq2wtpiv",
+          "word": "equipment",
+          "meaning": "tools, gear, equipment",
+          "note": "Use this for installed or organizational equipment such as office, factory, or venue equipment rather than portable gear."
+        },
+        {
+          "id": "34u1mhll",
+          "word": "plant",
+          "meaning": "industrial equipment",
+          "note": "Use this in an industrial context for the machinery and other equipment used in production or construction."
+        },
+        {
+          "id": "v8kwbyos",
+          "word": "hardware",
+          "meaning": "equipment",
+          "note": "Use this for equipment in general, including equipment used by the military."
+        }
+      ],
       "examples": [
         {
           "english": "The facility—the gym equipment—is brand new.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "naive, innocent, simple-minded",
-      "english": ["naive", "simple"],
+      "english": [
+        {
+          "id": "u7u13ncm",
+          "word": "naive",
+          "meaning": "lacking experience or judgment",
+          "note": "Choose this when the person is guileless or too simple and trusting rather than merely inexperienced."
+        },
+        {
+          "id": "3rsmketk",
+          "word": "simple",
+          "meaning": "innocent, guileless",
+          "note": "Use this for a person who is guileless, innocent, or not complicated in motives."
+        }
+      ],
       "examples": [
         {
           "english": "They’re so naive that they believe everything people tell them.",

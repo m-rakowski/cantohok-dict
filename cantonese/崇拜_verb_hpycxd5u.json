@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "worship, idolise",
-      "english": ["revere", "glorify", "adore"],
+      "english": [
+        {
+          "id": "sdkclpse",
+          "word": "revere",
+          "meaning": "regard with awe",
+          "note": "Use this when reverence is expressed as intense admiration or idolization rather than solemn awe."
+        },
+        {
+          "id": "r80kw8f8",
+          "word": "glorify",
+          "meaning": "worship, extol",
+          "note": "Use this for worship or hero-worship, not for ordinary verbal praise."
+        },
+        {
+          "id": "2u3jz6cr",
+          "word": "adore",
+          "meaning": "worship",
+          "note": "Use this for religious worship, or for adoring someone as an idol or hero rather than expressing intimate affection."
+        }
+      ],
       "examples": [
         {
           "english": "When I was young, I used to revere that singer.",

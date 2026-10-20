@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "university",
-      "english": ["university", "school"],
+      "english": [
+        {
+          "id": "4i8jzsf5",
+          "word": "university",
+          "meaning": "higher education institution",
+          "note": "This is the all-purpose Cantonese noun for a higher education institution or university."
+        },
+        {
+          "id": "onjuw8ro",
+          "word": "school",
+          "meaning": "educational institution",
+          "note": "Use this only when the educational institution is a university or other place of tertiary education."
+        }
+      ],
       "examples": [
         {
           "english": "I have to go to university for class tomorrow.",

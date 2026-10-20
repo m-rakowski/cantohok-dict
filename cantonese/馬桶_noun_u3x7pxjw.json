@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "toilet bowl",
-      "english": ["lavatory", "toilet"],
+      "english": [
+        {
+          "id": "rp2uivni",
+          "word": "lavatory",
+          "meaning": "toilet",
+          "note": "Use 馬桶 when you specifically mean the physical toilet fixture rather than the room."
+        },
+        {
+          "id": "yn4e0y1u",
+          "word": "toilet",
+          "meaning": "toilet fixture",
+          "note": "Use this specifically for the toilet fixture or bowl, especially when it is blocked or broken."
+        }
+      ],
       "examples": [
         {
           "english": "The lavatory is blocked, and the water won't flush.",

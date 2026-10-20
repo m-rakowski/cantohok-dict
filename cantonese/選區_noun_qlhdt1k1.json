@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "election district",
-      "english": ["seat"],
+      "english": [
+        {
+          "id": "1e9c8vzh",
+          "word": "seat",
+          "meaning": "election district",
+          "note": "Use this specifically for the electoral district represented by a legislator."
+        }
+      ],
       "examples": [
         {
           "english": "The seat in this electoral district is being hotly contested this time.",

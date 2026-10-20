@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "worldly-wise",
-      "english": ["worldly", "sophisticated"],
+      "english": [
+        {
+          "id": "gdw6sox2",
+          "word": "worldly",
+          "meaning": "experienced, sophisticated",
+          "note": "Use this for a person who is worldly-wise or sophisticated, often with a slightly calculating or jaded shade."
+        },
+        {
+          "id": "c8j8jmso",
+          "word": "sophisticated",
+          "meaning": "worldly-wise person",
+          "note": "Use this for a person who is worldly-wise and no longer naive, sometimes with a slightly negative tone."
+        }
+      ],
       "examples": [
         {
           "english": "They have seen it all and are very worldly.",

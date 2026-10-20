@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "planner, appointment book",
-      "english": ["diary", "agenda"],
+      "english": [
+        {
+          "id": "dqf0fvsa",
+          "word": "diary",
+          "meaning": "appointment diary",
+          "note": "Use this for a personal planner or organizer used to track appointments, rather than a journal."
+        },
+        {
+          "id": "dks4k86l",
+          "word": "agenda",
+          "meaning": "agenda book/planner",
+          "note": "Use this for a physical planner or agenda book used to record plans and appointments."
+        }
+      ],
       "examples": [
         {
           "english": "I use my diary to note next week's appointments.",

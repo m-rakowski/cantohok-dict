@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "park a vehicle",
-      "english": ["park"],
+      "english": [
+        {
+          "id": "tj73uxco",
+          "word": "park",
+          "meaning": "park a vehicle",
+          "note": "Use this when the emphasis is on stopping the vehicle or leaving it stopped in a place rather than on the parking action itself."
+        }
+      ],
       "examples": [
         {
           "english": "We park the car to wait for someone, rather than park in a space.",

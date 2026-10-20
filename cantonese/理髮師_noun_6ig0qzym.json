@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "barber, hairdresser",
-      "english": ["barber", "hairdresser"],
+      "english": [
+        {
+          "id": "kp1fmm9l",
+          "word": "barber",
+          "meaning": "hairdresser for men",
+          "note": "This is the all-purpose term for a professional barber, especially in neutral or careful speech."
+        },
+        {
+          "id": "xywl9vn1",
+          "word": "hairdresser",
+          "meaning": "person who cuts/styles hair",
+          "register": "formal",
+          "note": "Use this more formal term when emphasizing someone whose occupation is cutting hair, especially in a barbering context."
+        }
+      ],
       "examples": [
         {
           "english": "I booked a barber to trim my beard.",

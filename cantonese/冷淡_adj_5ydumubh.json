@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "cold, distant, unfriendly",
-      "english": ["undemonstrative", "distant", "chilly", "insensitive", "cold"],
+      "english": [
+        {
+          "id": "xvlklujd",
+          "word": "undemonstrative",
+          "meaning": "reserved, unemotional",
+          "note": "Use this when the reservedness comes across as distant or lacking warmth, rather than merely quiet."
+        },
+        {
+          "id": "sm3cgc8u",
+          "word": "distant",
+          "meaning": "emotionally detached",
+          "note": "Use this when someone is emotionally unresponsive or shows little warmth toward another person."
+        },
+        {
+          "id": "rcg5x2kp",
+          "word": "chilly",
+          "meaning": "unfriendly, cool",
+          "note": "Use this for a person, manner, or look that feels distant and unfriendly rather than physically cold."
+        },
+        {
+          "id": "1vfvdok8",
+          "word": "insensitive",
+          "meaning": "tactless or emotionally cold",
+          "note": "Use this when the emphasis is emotional coldness, indifference, or a lack of responsiveness rather than outright cruelty."
+        },
+        {
+          "id": "und6lgmt",
+          "word": "cold",
+          "meaning": "unfriendly, emotionally distant",
+          "note": "Use this for someone who is unfriendly, distant, or showing little warmth toward others."
+        }
+      ],
       "examples": [
         {
           "english": "They are so undemonstrative toward us that I thought we had offended them.",

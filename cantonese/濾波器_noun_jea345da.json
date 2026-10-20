@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "signal filter",
-      "english": ["filter"],
+      "english": [
+        {
+          "id": "1pd5lnr5",
+          "word": "filter",
+          "meaning": "signal filter",
+          "note": "Use this specifically for an electronic or software filter that removes noise or selected frequencies from a signal."
+        }
+      ],
       "examples": [
         {
           "english": "This filter can remove the noise from the recording.",

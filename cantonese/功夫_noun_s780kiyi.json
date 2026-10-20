@@ -6,7 +6,15 @@
   "boxes": [
     {
       "meaning": "kung fu, martial arts",
-      "english": ["martial art"],
+      "english": [
+        {
+          "id": "pougxhba",
+          "word": "martial art",
+          "meaning": "fighting style",
+          "register": "colloquial",
+          "note": "Use 功夫 when you specifically mean Chinese kung fu or martial-arts skill, rather than a named non-Chinese discipline."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {
@@ -18,7 +26,26 @@
     },
     {
       "meaning": "effort put into a task",
-      "english": ["graft", "push", "work"],
+      "english": [
+        {
+          "id": "3835arkw",
+          "word": "graft",
+          "meaning": "hard work; labor",
+          "note": "Use this everyday noun for the effort or work put into getting something done."
+        },
+        {
+          "id": "192u5kiv",
+          "word": "push",
+          "meaning": "big effort",
+          "note": "Use this for effort invested in getting something done, rather than physical force."
+        },
+        {
+          "id": "zxmar204",
+          "word": "work",
+          "meaning": "effort; labor",
+          "note": "Use 功夫 for the effort or labour put into accomplishing a particular task."
+        }
+      ],
       "examples": [
         {
           "english": "We put a lot of graft into making this model.",

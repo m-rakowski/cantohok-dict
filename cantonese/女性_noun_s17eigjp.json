@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "female, woman (formal)",
-      "english": ["female", "woman"],
+      "english": [
+        {
+          "id": "6kcy7n8p",
+          "word": "female",
+          "meaning": "female person",
+          "register": "formal",
+          "note": "Use this formal, neutral noun for a female person in general statements or more official contexts, not specifically a girl or an adult woman."
+        },
+        {
+          "id": "r4ngsjtz",
+          "word": "woman",
+          "meaning": "adult female person",
+          "register": "written",
+          "note": "Use this formal term for a woman as a member of the female population or in formal descriptions."
+        }
+      ],
       "examples": [
         {
           "english": "A female employee should have equal opportunities in the workplace.",

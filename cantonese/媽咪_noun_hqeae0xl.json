@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "mum (affectionate)",
-      "english": ["mum", "mom"],
+      "english": [
+        {
+          "id": "ss0rolgp",
+          "word": "mum",
+          "meaning": "mother",
+          "register": "colloquial",
+          "note": "Use this child-directed or affectionate term when addressing or referring to one’s mum."
+        },
+        {
+          "id": "u5gdw1v0",
+          "word": "mom",
+          "meaning": "mother",
+          "register": "colloquial",
+          "note": "Use this family nickname for a mother, or when a father addresses his wife as the children's mom."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

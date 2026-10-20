@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "illegal payment",
-      "english": ["bribe"],
+      "english": [
+        {
+          "id": "f4fh3me5",
+          "word": "bribe",
+          "meaning": "illegal payment",
+          "note": "This is the all-purpose noun for money or another payment offered to influence someone or induce wrongdoing."
+        }
+      ],
       "examples": [
         {
           "english": "That official took a bribe and was arrested by the ICAC.",

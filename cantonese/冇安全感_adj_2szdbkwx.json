@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "insecure",
-      "english": ["needy", "naked"],
+      "english": [
+        {
+          "id": "84evgk2i",
+          "word": "needy",
+          "meaning": "emotionally demanding",
+          "register": "colloquial",
+          "note": "Use this for the insecure, reassurance-seeking side of emotional neediness rather than its outwardly clingy behaviour."
+        },
+        {
+          "id": "k3u0ry66",
+          "word": "naked",
+          "meaning": "feeling vulnerable",
+          "note": "Use this when someone feels insecure or vulnerable because something normally reassuring is missing."
+        }
+      ],
       "examples": [
         {
           "english": "They keep asking whether I still love them; they’re really needy.",

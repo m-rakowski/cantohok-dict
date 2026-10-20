@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "made-up, fictional",
-      "english": ["make-up", "fabled"],
+      "english": [
+        {
+          "id": "em5uxbzf",
+          "word": "make-up",
+          "meaning": "false; fabricated",
+          "note": "Choose this when the made-up thing is an invented story, character, or imaginary situation rather than simply a fake object."
+        },
+        {
+          "id": "wdf56mk9",
+          "word": "fabled",
+          "meaning": "fictitious, legendary",
+          "note": "Use this when “fabled” stresses that the person, place, or event is invented rather than merely legendary."
+        }
+      ],
       "examples": [
         {
           "english": "This character is a make-up character from the novel.",

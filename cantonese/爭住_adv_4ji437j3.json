@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "eagerly competing to do something first",
-      "english": ["enthusiastically", "eagerly"],
+      "english": [
+        {
+          "id": "crbytdbh",
+          "word": "enthusiastically",
+          "meaning": "in an enthusiastic way",
+          "register": "colloquial",
+          "note": "Use this when people eagerly volunteer or vie with one another to do something."
+        },
+        {
+          "id": "yxle6zz9",
+          "word": "eagerly",
+          "meaning": "in an eager manner",
+          "note": "Use this when people eagerly compete or volunteer to be the one who does something first."
+        }
+      ],
       "examples": [
         {
           "english": "The students enthusiastically vied to perform on stage.",

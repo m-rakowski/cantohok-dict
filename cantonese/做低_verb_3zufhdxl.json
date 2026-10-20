@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "to kill (slang)",
-      "english": ["bump", "delete"],
+      "english": [
+        {
+          "id": "8domx9wb",
+          "word": "bump",
+          "meaning": "kill, assassinate",
+          "register": "colloquial",
+          "note": "Use 做低 for the colloquial crime-talk sense of killing someone, especially as a euphemism for an assassination."
+        },
+        {
+          "id": "ykcz6xmc",
+          "word": "delete",
+          "meaning": "kill in slang",
+          "register": "colloquial",
+          "note": "Use this slangy euphemism for taking someone out or killing them when the context clearly means death."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

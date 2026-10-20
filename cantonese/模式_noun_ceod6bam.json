@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "pattern, mode of doing things",
-      "english": ["pattern", "model"],
+      "english": [
+        {
+          "id": "d4ha1amo",
+          "word": "pattern",
+          "meaning": "recurring pattern; trend",
+          "note": "Use this as the all-purpose choice for a recurring pattern in events, behaviour, data, or systems."
+        },
+        {
+          "id": "cf2idld0",
+          "word": "model",
+          "meaning": "business model",
+          "note": "Use 模式 for the structural approach or setup of a business or other complex system."
+        }
+      ],
       "examples": [
         {
           "english": "This spending pattern has changed a lot in recent years.",

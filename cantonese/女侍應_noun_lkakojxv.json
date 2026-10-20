@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "female server in restaurant",
-      "english": ["waitress"],
+      "english": [
+        {
+          "id": "78bh3cyl",
+          "word": "waitress",
+          "meaning": "female server in restaurant",
+          "note": "Use this when you specifically need to make clear that the restaurant server is female."
+        }
+      ],
       "examples": [
         {
           "english": "That waitress had a very sweet smile.",

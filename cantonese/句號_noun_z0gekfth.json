@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "full stop, period",
-      "english": ["full stop", "dot", "period"],
+      "english": [
+        {
+          "id": "tk1zn8dt",
+          "word": "full stop",
+          "meaning": "punctuation mark",
+          "note": "This is the all-purpose Cantonese term for the punctuation mark used at the end of a sentence."
+        },
+        {
+          "id": "jyt6zik5",
+          "word": "dot",
+          "meaning": "punctuation mark / full stop",
+          "note": "Use this specifically for a sentence-ending full stop or period, not for a dot in an address."
+        },
+        {
+          "id": "0pxlg27y",
+          "word": "period",
+          "meaning": "full stop punctuation",
+          "note": "Use this for the full-stop punctuation mark at the end of a sentence or in an abbreviation."
+        }
+      ],
       "examples": [
         {
           "english": "Add a full stop at the end of this sentence, otherwise it won't be complete.",

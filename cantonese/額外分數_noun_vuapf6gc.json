@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "score bonus",
-      "english": ["bonus"],
+      "english": [
+        {
+          "id": "r7js17wp",
+          "word": "bonus",
+          "meaning": "score bonus",
+          "note": "Use this specifically for bonus points added to a player's score."
+        }
+      ],
       "examples": [
         {
           "english": "Finishing this level earns you bonus points.",

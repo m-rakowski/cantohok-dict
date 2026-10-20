@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "human warmth, kindness",
-      "english": ["friendliness", "humanity", "warmth"],
+      "english": [
+        {
+          "id": "tuivo8vq",
+          "word": "friendliness",
+          "meaning": "friendly manner; warmth",
+          "note": "Use this when the friendliness emphasizes human warmth and a personal touch rather than simple politeness."
+        },
+        {
+          "id": "jd1sqjrf",
+          "word": "humanity",
+          "meaning": "kindness, compassion",
+          "register": "colloquial",
+          "note": "Use this when humanity means human warmth, kindness, or consideration shown to others."
+        },
+        {
+          "id": "bvuc6tlu",
+          "word": "warmth",
+          "meaning": "friendliness, affection",
+          "note": "Use 人情味 for warmth shown through kindness, friendliness, or humane feeling toward others."
+        }
+      ],
       "examples": [
         {
           "english": "This little shop has a real sense of friendliness.",

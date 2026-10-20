@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "virus",
-      "english": ["virus", "bug"],
+      "english": [
+        {
+          "id": "p72nscvy",
+          "word": "virus",
+          "meaning": "infectious agent",
+          "note": "This is the all-purpose Cantonese noun for the infectious agent itself."
+        },
+        {
+          "id": "lwvyfu3c",
+          "word": "bug",
+          "meaning": "illness bug",
+          "note": "Use this when the illness bug means a virus or the viral cause of an illness."
+        }
+      ],
       "examples": [
         {
           "english": "This virus spread very quickly.",

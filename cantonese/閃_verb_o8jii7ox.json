@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "flash (of light)",
-      "english": ["glint", "flash"],
+      "english": [
+        {
+          "id": "74v0x68i",
+          "word": "glint",
+          "meaning": "flash or gleam briefly",
+          "note": "This is the all-purpose choice for a brief flash or gleam of light."
+        },
+        {
+          "id": "nouq1c1a",
+          "word": "flash",
+          "meaning": "flash on and off",
+          "note": "For a light that blinks or flashes on and off, 閃 is the all-purpose choice."
+        }
+      ],
       "examples": [
         {
           "english": "The ring can glint briefly in the sunlight.",
@@ -22,7 +35,15 @@
     },
     {
       "meaning": "dash off, leave quickly",
-      "english": ["dash"],
+      "english": [
+        {
+          "id": "r5xa1guz",
+          "word": "dash",
+          "meaning": "leave quickly",
+          "register": "colloquial",
+          "note": "Use this colloquial verb when someone is leaving abruptly or says they have to dash."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

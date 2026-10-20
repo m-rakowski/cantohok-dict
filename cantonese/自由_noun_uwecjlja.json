@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "freedom",
-      "english": ["freedom", "liberty", "liberation"],
+      "english": [
+        {
+          "id": "l92pojfr",
+          "word": "freedom",
+          "meaning": "state of being free",
+          "note": "Use 自由 as the all-purpose noun for being free or lacking constraints."
+        },
+        {
+          "id": "srhaw0jw",
+          "word": "liberty",
+          "meaning": "being free",
+          "note": "This is the all-purpose noun for liberty, including general freedom and freedom from imprisonment or government control."
+        },
+        {
+          "id": "4x0tkt96",
+          "word": "liberation",
+          "meaning": "freeing; being freed",
+          "note": "Use this for the resulting state of being free rather than the act of freeing someone."
+        }
+      ],
       "examples": [
         {
           "english": "During my days off, I have the freedom to arrange my own time.",

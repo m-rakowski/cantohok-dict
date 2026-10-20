@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "person arranging travel",
-      "english": ["travel agent"],
+      "english": [
+        {
+          "id": "eirsqj7z",
+          "word": "travel agent",
+          "meaning": "person arranging travel",
+          "note": "Use this when you mean the individual working at a travel agency who arranges a customer's trip."
+        }
+      ],
       "examples": [
         {
           "english": "The travel agent helped me change my ticket to Osaka for next week.",

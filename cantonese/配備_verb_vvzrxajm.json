@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "equip with needed items",
-      "english": ["equip", "supply", "furnish"],
+      "english": [
+        {
+          "id": "vneaczjw",
+          "word": "equip",
+          "meaning": "supply with needed items",
+          "note": "This is the all-purpose choice when supplying a person, group, vehicle, or operation with necessary equipment or resources."
+        },
+        {
+          "id": "kwxwlwb8",
+          "word": "supply",
+          "meaning": "furnish with",
+          "note": "Use 配備 specifically when equipping a person, vehicle, or place with equipment."
+        },
+        {
+          "id": "j77d80n5",
+          "word": "furnish",
+          "meaning": "provide with furniture/equipment",
+          "note": "Use this when furnishing or equipping a place with equipment or built-in facilities rather than merely arranging furniture."
+        }
+      ],
       "examples": [
         {
           "english": "We equip the rescue team with enough first-aid supplies.",

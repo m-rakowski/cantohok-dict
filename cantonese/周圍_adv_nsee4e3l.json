@@ -6,7 +6,39 @@
   "boxes": [
     {
       "meaning": "all around, here and there",
-      "english": ["everywhere", "widely", "extensively", "wide", "around"],
+      "english": [
+        {
+          "id": "3iw2qedg",
+          "word": "everywhere",
+          "meaning": "at all places",
+          "note": "This is the colloquial all-purpose choice for being in or going to various places."
+        },
+        {
+          "id": "8hprdg9f",
+          "word": "widely",
+          "meaning": "across a wide area",
+          "note": "This is the all-purpose spoken choice for covering a broad physical area or many places."
+        },
+        {
+          "id": "mg3chr59",
+          "word": "extensively",
+          "meaning": "widely; over a large area",
+          "note": "Use this for moving, travelling, or spreading around a large area, rather than for abstract scope."
+        },
+        {
+          "id": "ewre86tk",
+          "word": "wide",
+          "meaning": "extensively, far and wide",
+          "register": "colloquial",
+          "note": "Use this for going or spreading all over a place, as in travelling 周圍."
+        },
+        {
+          "id": "2wfhramx",
+          "word": "around",
+          "meaning": "around with verbs",
+          "note": "This is the all-purpose choice for moving from place to place or doing something in various places or with various people."
+        }
+      ],
       "examples": [
         {
           "english": "Walk around and you'll see convenience stores everywhere.",

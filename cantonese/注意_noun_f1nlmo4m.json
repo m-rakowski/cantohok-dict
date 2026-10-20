@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "attention, care",
-      "english": ["caution", "notice", "interest", "eye"],
+      "english": [
+        {
+          "id": "oihoxqth",
+          "word": "caution",
+          "meaning": "care to avoid danger",
+          "note": "Use 注意 as the all-purpose noun for general care, attention, or caution about possible harm."
+        },
+        {
+          "id": "woz6hble",
+          "word": "notice",
+          "meaning": "perception, taking notice",
+          "note": "Use 注意 as the all-purpose noun for attention or taking notice of something."
+        },
+        {
+          "id": "7xr79zph",
+          "word": "interest",
+          "meaning": "attention",
+          "note": "Use 注意 for attention that someone gives to or receives from a person or thing."
+        },
+        {
+          "id": "e4uw92jg",
+          "word": "eye",
+          "meaning": "attention, notice",
+          "note": "Use this for the attention or notice someone receives, as in something catching someone's eye."
+        }
+      ],
       "examples": [
         {
           "english": "You need to exercise more caution when crossing the road; don’t look at your phone.",

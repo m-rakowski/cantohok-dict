@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "pest animals",
-      "english": ["vermin"],
+      "english": [
+        {
+          "id": "u5dlm7r9",
+          "word": "vermin",
+          "meaning": "pest animals",
+          "note": "Use this when the vermin are specifically harmful insects rather than pests in general."
+        }
+      ],
       "examples": [
         {
           "english": "The vegetables easily attract vermin in spring, so farmers have to deal with them early.",

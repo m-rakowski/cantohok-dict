@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "to praise",
-      "english": ["praise", "glorify"],
+      "english": [
+        {
+          "id": "nj1kemet",
+          "word": "praise",
+          "meaning": "praise; commend",
+          "note": "Use this when you want to make the act of commending someone explicit rather than using the shorter 讚."
+        },
+        {
+          "id": "4gyofbjt",
+          "word": "glorify",
+          "meaning": "praise, exalt",
+          "note": "Use this as the all-purpose choice for openly praising or exalting someone or something, including when glorify means extol."
+        }
+      ],
       "examples": [
         {
           "english": "The boss used the meeting to praise me for handling it well.",

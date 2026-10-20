@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "shrimp, prawn",
-      "english": ["shrimp", "prawn"],
+      "english": [
+        {
+          "id": "ioic6y0r",
+          "word": "shrimp",
+          "meaning": "shrimp (seafood crustacean)",
+          "note": "This is the all-purpose noun for the edible crustacean itself."
+        },
+        {
+          "id": "n1bu5v2k",
+          "word": "prawn",
+          "meaning": "seafood crustacean",
+          "note": "This is the all-purpose Cantonese word for a prawn or shrimp in everyday speech."
+        }
+      ],
       "examples": [
         {
           "english": "I’m cooking shrimp for everyone tonight.",

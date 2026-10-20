@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "hostile, opposed",
-      "english": ["adverse", "bitter"],
+      "english": [
+        {
+          "id": "laij88kz",
+          "word": "adverse",
+          "meaning": "unfavourable; harmful",
+          "note": "Use this only when the adverse force or attitude is actively hostile or opposing."
+        },
+        {
+          "id": "jt98urq0",
+          "word": "bitter",
+          "meaning": "hostile, bitter",
+          "note": "Use this for people, groups, or sides that are hostile to each other."
+        }
+      ],
       "examples": [
         {
           "english": "The other side maintained an adverse, hostile attitude during negotiations.",

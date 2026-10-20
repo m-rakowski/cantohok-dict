@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "radio transmission technology",
-      "english": ["radio"],
+      "english": [
+        {
+          "id": "gnp0edct",
+          "word": "radio",
+          "meaning": "radio transmission technology",
+          "note": "Use 無線電 for radio transmission technology rather than the receiving device."
+        }
+      ],
       "examples": [
         {
           "english": "The ambulance uses radio to contact headquarters.",

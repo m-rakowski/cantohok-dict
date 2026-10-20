@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "in a flustered rush",
-      "english": ["frantically", "chaotically"],
+      "english": [
+        {
+          "id": "1jz09swv",
+          "word": "frantically",
+          "meaning": "in a frantic manner",
+          "note": "Use this when someone is frantic because they are flustered and struggling to manage their actions."
+        },
+        {
+          "id": "j6o3psz2",
+          "word": "chaotically",
+          "meaning": "in a chaotic way",
+          "note": "Use this when people are carrying something out chaotically because they are flustered or under pressure."
+        }
+      ],
       "examples": [
         {
           "english": "I frantically fumbled around looking for tools when I made a cake for the first time.",

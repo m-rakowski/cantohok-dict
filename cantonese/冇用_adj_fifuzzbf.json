@@ -6,7 +6,40 @@
   "boxes": [
     {
       "meaning": "useless, no use",
-      "english": ["useless", "worthless", "ineffective", "unhelpful", "meaningless"],
+      "english": [
+        {
+          "id": "zozrnn5e",
+          "word": "useless",
+          "meaning": "not usable",
+          "note": "This is the all-purpose choice for something unusable or an action that is pointless or unhelpful."
+        },
+        {
+          "id": "6097xf3m",
+          "word": "worthless",
+          "meaning": "of no value/use",
+          "note": "This is the all-purpose choice for a person or thing that is of no use or value."
+        },
+        {
+          "id": "8sccljfa",
+          "word": "ineffective",
+          "meaning": "not producing desired effect",
+          "note": "Use this when you want to stress that something is useless or gives no practical benefit."
+        },
+        {
+          "id": "fjs2qx0p",
+          "word": "unhelpful",
+          "meaning": "not helpful",
+          "register": "colloquial",
+          "note": "Use this when something is useless or gives no practical benefit, stronger than merely being unhelpful."
+        },
+        {
+          "id": "yrvkdbep",
+          "word": "meaningless",
+          "meaning": "insignificant; pointless",
+          "register": "colloquial",
+          "note": "Use this for efforts or actions that are pointless because they will not help or achieve anything."
+        }
+      ],
       "examples": [
         {
           "english": "This knife is useless; it can't cut anything.",

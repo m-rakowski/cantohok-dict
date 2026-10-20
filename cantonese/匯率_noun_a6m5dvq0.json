@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "currency exchange rate",
-      "english": ["exchange rate"],
+      "english": [
+        {
+          "id": "455fhuss",
+          "word": "exchange rate",
+          "meaning": "currency exchange rate",
+          "note": "This is the all-purpose term for the rate at which one currency is exchanged for another."
+        }
+      ],
       "examples": [
         {
           "english": "The bank's exchange rate is pretty good today, so I want to exchange a little money into US dollars.",

@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "reliable, dependable",
-      "english": ["reliable", "trustworthy", "consistent", "faithful"],
+      "english": [
+        {
+          "id": "pu9zvn2t",
+          "word": "reliable",
+          "meaning": "trustworthy, dependable",
+          "note": "This is the all-purpose choice for a person, source, or thing that can be trusted or depended on."
+        },
+        {
+          "id": "ea75czsb",
+          "word": "trustworthy",
+          "meaning": "reliable; deserving of trust",
+          "note": "Use this as the all-purpose choice, especially for systems, methods, information, or results that are dependable."
+        },
+        {
+          "id": "93ar2tz5",
+          "word": "consistent",
+          "meaning": "reliable, steady",
+          "note": "Use this when the emphasis is on being dependable or able to be trusted, rather than merely regular."
+        },
+        {
+          "id": "b0t11hqe",
+          "word": "faithful",
+          "meaning": "reliable",
+          "note": "Use this when someone or something can be depended on or trusted to do what is expected."
+        }
+      ],
       "examples": [
         {
           "english": "This car is very reliable.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "nutrition",
-      "english": ["nutrition", "nourishment"],
+      "english": [
+        {
+          "id": "x1tedb3d",
+          "word": "nutrition",
+          "meaning": "body nourishment",
+          "note": "This is the all-purpose noun for the nourishment an organism gets from food."
+        },
+        {
+          "id": "gzlwrhdr",
+          "word": "nourishment",
+          "meaning": "being nourished",
+          "note": "This is the all-purpose noun for nourishment, especially physical nutrition or what the body receives from food."
+        }
+      ],
       "examples": [
         {
           "english": "These fruits are rich in nutrition.",

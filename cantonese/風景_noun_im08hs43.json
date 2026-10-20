@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "scenery, view",
-      "english": ["landscape", "scenery", "scene"],
+      "english": [
+        {
+          "id": "e4x579db",
+          "word": "landscape",
+          "meaning": "scenery, view",
+          "note": "This is the all-purpose choice for scenery or a view."
+        },
+        {
+          "id": "dwz22y5p",
+          "word": "scenery",
+          "meaning": "natural landscape",
+          "note": "Use this as the all-purpose noun for natural scenery, views, and landscapes."
+        },
+        {
+          "id": "ez3ytxem",
+          "word": "scene",
+          "meaning": "scenery / landscape",
+          "note": "Use 風景 for a landscape or scenery viewed as a whole."
+        }
+      ],
       "examples": [
         {
           "english": "The landscape in this painting is beautiful.",

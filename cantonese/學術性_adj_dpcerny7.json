@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "academic, scholarly",
-      "english": ["academic", "scholarly"],
+      "english": [
+        {
+          "id": "uqeb2tbr",
+          "word": "academic",
+          "meaning": "of a school/university",
+          "note": "This is the all-purpose choice for something belonging to scholarly or higher-education contexts."
+        },
+        {
+          "id": "96jhxwzg",
+          "word": "scholarly",
+          "meaning": "scholar-like; academic",
+          "register": "formal",
+          "note": "Use this mainly for writing, discussion, or other work that has an academic character."
+        }
+      ],
       "examples": [
         {
           "english": "This paper is highly academic.",

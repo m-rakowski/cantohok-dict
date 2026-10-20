@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "block, shield from something",
-      "english": ["protect", "block"],
+      "english": [
+        {
+          "id": "3vewa4gl",
+          "word": "protect",
+          "meaning": "keep safe; defend",
+          "register": "colloquial",
+          "note": "Use this when protection means physically blocking an incoming danger, object, or attack."
+        },
+        {
+          "id": "ieyik93u",
+          "word": "block",
+          "meaning": "sports block",
+          "note": "Use this in sports when a player physically gets in the way of an opponent or shot."
+        }
+      ],
       "examples": [
         {
           "english": "They used a backpack to block the flying stones and protect me.",

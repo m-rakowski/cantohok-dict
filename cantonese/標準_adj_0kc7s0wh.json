@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "within accepted range",
-      "english": ["standard"],
+      "english": [
+        {
+          "id": "epg473ec",
+          "word": "standard",
+          "meaning": "within accepted range",
+          "note": "This is the all-purpose choice for something within the accepted norm or supplied in the default form."
+        }
+      ],
       "examples": [
         {
           "english": "This is the standard version, so there’s no need to pay extra.",

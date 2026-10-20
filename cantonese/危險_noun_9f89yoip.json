@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "danger",
-      "english": ["danger", "hazard", "menace", "risk"],
+      "english": [
+        {
+          "id": "87xwduir",
+          "word": "danger",
+          "meaning": "risk of harm",
+          "note": "This is the all-purpose noun for danger, including both risk of harm and a hazardous source or situation."
+        },
+        {
+          "id": "5jcmz5lb",
+          "word": "hazard",
+          "meaning": "danger; risk",
+          "note": "Use this as the all-purpose noun for danger or a situation in which someone may be harmed."
+        },
+        {
+          "id": "ga26euex",
+          "word": "menace",
+          "meaning": "threat, danger",
+          "note": "Use this when “menace” emphasizes the danger or hazardous nature of the situation rather than a threatening force."
+        },
+        {
+          "id": "oumgls01",
+          "word": "risk",
+          "meaning": "possible bad event",
+          "note": "Use this for an imminent or concrete danger rather than an abstract assessment of probability."
+        }
+      ],
       "examples": [
         {
           "english": "That area still hasn't been closed off; there's danger in going in.",

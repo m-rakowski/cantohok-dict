@@ -6,7 +6,33 @@
   "boxes": [
     {
       "meaning": "surprised",
-      "english": ["surprised", "amazed", "shocked", "astonished"],
+      "english": [
+        {
+          "id": "rhqxm99p",
+          "word": "surprised",
+          "meaning": "feeling surprise",
+          "register": "formal",
+          "note": "This is the all-purpose choice for feeling or showing surprise."
+        },
+        {
+          "id": "6lqw9g3l",
+          "word": "amazed",
+          "meaning": "astonished; greatly surprised",
+          "note": "This is the all-purpose choice for saying someone is amazed or greatly surprised."
+        },
+        {
+          "id": "xrb762re",
+          "word": "shocked",
+          "meaning": "surprised, stunned",
+          "note": "This is the all-purpose choice for being surprised or taken aback without necessarily implying extreme distress."
+        },
+        {
+          "id": "68x4x3km",
+          "word": "astonished",
+          "meaning": "amazed; surprised",
+          "note": "This is the all-purpose choice for saying that someone is astonished or surprised."
+        }
+      ],
       "examples": [
         {
           "english": "I’m really surprised that you finished the report so quickly.",

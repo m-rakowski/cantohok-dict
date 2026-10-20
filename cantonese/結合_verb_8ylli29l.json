@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "combine, join together",
-      "english": ["associate", "combine"],
+      "english": [
+        {
+          "id": "ikxtkg4v",
+          "word": "associate",
+          "meaning": "connect; combine",
+          "note": "Use this for physically or conceptually joining or combining things."
+        },
+        {
+          "id": "ajtgioes",
+          "word": "combine",
+          "meaning": "bring things together",
+          "register": "formal",
+          "note": "Use this more formal verb for combining ideas, features, or qualities, especially in writing or presentations."
+        }
+      ],
       "examples": [
         {
           "english": "We need to associate the two plans with each other to get the best result.",

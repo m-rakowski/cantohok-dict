@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "government minister",
-      "english": ["minister"],
+      "english": [
+        {
+          "id": "tfkh5nuu",
+          "word": "minister",
+          "meaning": "government minister",
+          "note": "Use this when translating a government title that is specifically called 部長, rather than the usual Hong Kong title 局長."
+        }
+      ],
       "examples": [
         {
           "english": "The South Korean foreign minister visited Hong Kong today.",

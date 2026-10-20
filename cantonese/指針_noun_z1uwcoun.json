@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "pointer, needle or hand on a dial",
-      "english": ["needle", "cursor", "hand"],
+      "english": [
+        {
+          "id": "7m8wp827",
+          "word": "needle",
+          "meaning": "dial needle",
+          "note": "Use 指針 for the pointer or indicator on a dial, meter, graph, or similar display."
+        },
+        {
+          "id": "amgyitfy",
+          "word": "cursor",
+          "meaning": "instrument pointer",
+          "note": "Use this for the physical pointer on a scientific or measuring instrument rather than a computer cursor."
+        },
+        {
+          "id": "mfk5a8ev",
+          "word": "hand",
+          "meaning": "clock hand",
+          "note": "Use this for a pointer or hand on a clock, watch, or other dial."
+        }
+      ],
       "examples": [
         {
           "english": "The needle on the thermometer is pointing at thirty degrees.",

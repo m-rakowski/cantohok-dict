@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "hand or pass to someone",
-      "english": ["ship", "reach"],
+      "english": [
+        {
+          "id": "l28twpje",
+          "word": "ship",
+          "meaning": "send over",
+          "note": "Use this when physically passing or handing an item to another person, as with ketchup."
+        },
+        {
+          "id": "8pivxvzg",
+          "word": "reach",
+          "meaning": "hand something to someone",
+          "register": "colloquial",
+          "note": "Use 遞畀 when reaching someone something means handing or passing it to them."
+        }
+      ],
       "examples": [
         {
           "english": "Please ship the ketchup over to me.",

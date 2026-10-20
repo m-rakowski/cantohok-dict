@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "election candidate",
-      "english": ["candidate", "nominee"],
+      "english": [
+        {
+          "id": "peak3fcd",
+          "word": "candidate",
+          "meaning": "election candidate",
+          "note": "This is the all-purpose choice for a person seeking election or appointment."
+        },
+        {
+          "id": "mku5i5rq",
+          "word": "nominee",
+          "meaning": "person nominated for office",
+          "note": "This is the all-purpose choice for someone nominated to stand for election or selection for a position."
+        }
+      ],
       "examples": [
         {
           "english": "Each candidate has their own election platform.",

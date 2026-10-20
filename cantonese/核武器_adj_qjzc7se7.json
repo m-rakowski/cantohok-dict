@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "nuclear weapon",
-      "english": ["nuclear"],
+      "english": [
+        {
+          "id": "gvua2aeu",
+          "word": "nuclear",
+          "meaning": "nuclear weapon",
+          "note": "Use this in compounds referring specifically to nuclear weapons or their effects."
+        }
+      ],
       "examples": [
         {
           "english": "If a nuclear weapon falls into terrorists' hands, the consequences would be unimaginable.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "setting",
-      "english": ["setting", "attribute"],
+      "english": [
+        {
+          "id": "xqxg4f22",
+          "word": "setting",
+          "meaning": "act of setting",
+          "note": "Use this for a control's chosen level or configuration, and more generally for the result of setting something."
+        },
+        {
+          "id": "8rmgm3a5",
+          "word": "attribute",
+          "meaning": "setting; option",
+          "note": "Use this for an attribute understood specifically as a configurable setting."
+        }
+      ],
       "examples": [
         {
           "english": "The air conditioner’s setting is too low.",

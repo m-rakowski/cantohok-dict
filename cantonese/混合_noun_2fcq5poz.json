@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "a blend of things",
-      "english": ["blend"],
+      "english": [
+        {
+          "id": "bs9t192p",
+          "word": "blend",
+          "meaning": "mixture of things",
+          "note": "This is the all-purpose noun for a mixture, especially a blend of styles, sounds, or other abstract things."
+        }
+      ],
       "examples": [
         {
           "english": "This song is a blend of Chinese and Western music.",
@@ -17,7 +24,15 @@
     },
     {
       "meaning": "the act of mixing",
-      "english": ["mixture"],
+      "english": [
+        {
+          "id": "moewldii",
+          "word": "mixture",
+          "meaning": "mixing, act of mixing",
+          "register": "formal",
+          "note": "Use this for the act or process of combining things, especially in technical or formal contexts."
+        }
+      ],
       "register": "formal",
       "examples": [
         {

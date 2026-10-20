@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "let someone off",
-      "english": ["spare", "overlook", "pardon", "excuse"],
+      "english": [
+        {
+          "id": "msk7e62x",
+          "word": "spare",
+          "meaning": "spare someone; show mercy",
+          "note": "This is the all-purpose everyday choice for letting someone escape harm or punishment."
+        },
+        {
+          "id": "rfsh175s",
+          "word": "overlook",
+          "meaning": "ignore a fault",
+          "note": "Use 放過 when the speaker knowingly lets a person or fault go without blame or punishment."
+        },
+        {
+          "id": "sco4yp5e",
+          "word": "pardon",
+          "meaning": "forgive someone",
+          "note": "Use this when forgiving means letting someone off or choosing not to pursue the matter."
+        },
+        {
+          "id": "wqullyvq",
+          "word": "excuse",
+          "meaning": "forgive; pardon",
+          "note": "Use this colloquial choice when forgiving someone means letting the person off or overlooking the offence."
+        }
+      ],
       "examples": [
         {
           "english": "Please spare me this time; I definitely won't dare do it again next time.",

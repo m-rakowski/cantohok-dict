@@ -6,7 +6,34 @@
   "boxes": [
     {
       "meaning": "miscellaneous, a jumble of mixed things",
-      "english": ["motley", "varied", "eclectic", "general"],
+      "english": [
+        {
+          "id": "n1yn5iq9",
+          "word": "motley",
+          "meaning": "mixed, incongruous",
+          "note": "This is the all-purpose choice for a jumble of disparate things, especially when the mixture feels untidy or incongruous."
+        },
+        {
+          "id": "j2jy273v",
+          "word": "varied",
+          "meaning": "diverse; assorted",
+          "note": "Use this for a miscellaneous assortment of unrelated or somewhat haphazard things, rather than a neutral range of types."
+        },
+        {
+          "id": "38pup3is",
+          "word": "eclectic",
+          "meaning": "varied, mixed",
+          "register": "colloquial",
+          "note": "Use this for a casual, often slightly negative description of unrelated or miscellaneous things rather than a deliberately well-chosen mix."
+        },
+        {
+          "id": "snmvw281",
+          "word": "general",
+          "meaning": "miscellaneous",
+          "register": "colloquial",
+          "note": "Use this for a mixed assortment that does not belong to one specific class."
+        }
+      ],
       "examples": [
         {
           "english": "Their drawer is stuffed with motley things, and even finding a pen is hard.",

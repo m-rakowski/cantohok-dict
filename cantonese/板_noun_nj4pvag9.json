@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "flat board or slab",
-      "english": ["slab", "plate"],
+      "english": [
+        {
+          "id": "biprh67z",
+          "word": "slab",
+          "meaning": "large flat piece",
+          "note": "Use this as the all-purpose choice for a large, flat solid piece."
+        },
+        {
+          "id": "tpl85m59",
+          "word": "plate",
+          "meaning": "flat sheet",
+          "note": "Use 板 for a flat, solid sheet or plate, especially in a material or technical context."
+        }
+      ],
       "examples": [
         {
           "english": "This slab is so heavy that I can’t move it by myself.",

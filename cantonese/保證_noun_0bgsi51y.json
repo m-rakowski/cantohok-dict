@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "guarantee, assurance",
-      "english": ["guarantee", "assurance", "warranty", "reassurance", "security"],
+      "english": [
+        {
+          "id": "2zeuld9n",
+          "word": "guarantee",
+          "meaning": "assurance of outcome",
+          "note": "This is the all-purpose noun for an assurance that something will happen or be true."
+        },
+        {
+          "id": "q1l557w5",
+          "word": "assurance",
+          "meaning": "confidence-giving statement",
+          "note": "This is the all-purpose noun for an outward assurance, promise, or guarantee intended to reassure someone."
+        },
+        {
+          "id": "w1wkk40u",
+          "word": "warranty",
+          "meaning": "legal warranty",
+          "note": "Use this for a legal or contractual warranty that guarantees the condition or quality of goods or property."
+        },
+        {
+          "id": "91f9u8de",
+          "word": "reassurance",
+          "meaning": "act of reassuring someone",
+          "note": "Use this when the reassurance is an explicit assurance, promise, or confirmation from someone."
+        },
+        {
+          "id": "u2ykz07p",
+          "word": "security",
+          "meaning": "guarantee, collateral",
+          "note": "Use this when security means a guarantee securing an obligation, rather than physical collateral."
+        }
+      ],
       "examples": [
         {
           "english": "There’s no guarantee this offer won’t be cancelled at any time.",

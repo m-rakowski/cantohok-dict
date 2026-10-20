@@ -6,7 +6,34 @@
   "boxes": [
     {
       "meaning": "duty, obligation",
-      "english": ["obligation", "duty", "bond", "responsibility"],
+      "english": [
+        {
+          "id": "2zkrjnfq",
+          "word": "obligation",
+          "meaning": "duty / requirement",
+          "register": "formal",
+          "note": "Use 義務 for an explicit legal, contractual, or institutional duty, especially in formal contexts."
+        },
+        {
+          "id": "6qepca72",
+          "word": "duty",
+          "meaning": "moral obligation",
+          "note": "Use 義務 for a clearly moral or legal obligation, rather than an ordinary assigned responsibility."
+        },
+        {
+          "id": "rdbvejyx",
+          "word": "bond",
+          "meaning": "duty / obligation",
+          "note": "Use this for a moral or political duty that a person is bound to fulfil."
+        },
+        {
+          "id": "1p5l3e7f",
+          "word": "responsibility",
+          "meaning": "duty or obligation",
+          "register": "formal",
+          "note": "Use this for a specific duty or obligation, especially in official, legal, or moral contexts, rather than general accountability."
+        }
+      ],
       "examples": [
         {
           "english": "Under the contract, tenants have an obligation to pay rent on time.",

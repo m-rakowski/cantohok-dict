@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "immediate, instant",
-      "english": ["instant", "immediate", "instantaneous"],
+      "english": [
+        {
+          "id": "106300in",
+          "word": "instant",
+          "meaning": "immediate; happening at once",
+          "note": "Use 即時 as the all-purpose adjective for something that happens right away or is available in real time."
+        },
+        {
+          "id": "xamv5z97",
+          "word": "immediate",
+          "meaning": "without delay",
+          "note": "This is the all-purpose adjective for something available or happening without delay, especially results or responses."
+        },
+        {
+          "id": "h1noisc0",
+          "word": "instantaneous",
+          "meaning": "happening at once",
+          "note": "Use 即時 as the all-purpose choice for something happening with no delay."
+        }
+      ],
       "examples": [
         {
           "english": "This system sends instant notifications.",

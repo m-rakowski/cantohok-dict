@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "useful",
-      "english": ["useful", "helpful", "profitable"],
+      "english": [
+        {
+          "id": "flc4caa2",
+          "word": "useful",
+          "meaning": "practically beneficial",
+          "note": "This is the all-purpose rendering for something that has a practical or beneficial use."
+        },
+        {
+          "id": "u9vsdy4r",
+          "word": "helpful",
+          "meaning": "giving help; useful",
+          "note": "This is the all-purpose choice for something that is useful or helps you achieve a result."
+        },
+        {
+          "id": "8uqnksvn",
+          "word": "profitable",
+          "meaning": "useful; beneficial",
+          "note": "Use this for something beneficial, serviceable, or of practical use rather than something that earns money."
+        }
+      ],
       "examples": [
         {
           "english": "This website is very useful for learning Cantonese.",

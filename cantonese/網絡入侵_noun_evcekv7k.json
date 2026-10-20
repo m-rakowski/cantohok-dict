@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "security breach",
-      "english": ["compromise"],
+      "english": [
+        {
+          "id": "wqlhmkag",
+          "word": "compromise",
+          "meaning": "security breach",
+          "note": "Use 網絡入侵 for the unauthorized intrusion side of a computer or network security breach."
+        }
+      ],
       "examples": [
         {
           "english": "The company's firewall is too weak, so a network intrusion could compromise its data.",

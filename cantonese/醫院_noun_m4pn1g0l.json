@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "medical hospital",
-      "english": ["hospital"],
+      "english": [
+        {
+          "id": "zgshpkm9",
+          "word": "hospital",
+          "meaning": "medical hospital",
+          "note": "This is the all-purpose Cantonese noun for a hospital or medical facility."
+        }
+      ],
       "examples": [
         {
           "english": "We went to the hospital emergency department.",

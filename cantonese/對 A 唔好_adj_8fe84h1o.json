@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "bad for, harmful to A",
-      "english": ["harmful", "detrimental"],
+      "english": [
+        {
+          "id": "6pksejyv",
+          "word": "harmful",
+          "meaning": "causing harm",
+          "note": "Use this as the most natural conversational way to say that something is bad for a particular person, body part, or purpose."
+        },
+        {
+          "id": "vydsqcwe",
+          "word": "detrimental",
+          "meaning": "causing harm",
+          "note": "Use this casual construction when you name what the harmful thing is bad for, such as health or the environment."
+        }
+      ],
       "examples": [
         {
           "english": "Eating so much spicy food is harmful to your stomach.",

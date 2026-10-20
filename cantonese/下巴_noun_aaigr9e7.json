@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "chin, jaw",
-      "english": ["chin", "jaw"],
+      "english": [
+        {
+          "id": "c2z99bs8",
+          "word": "chin",
+          "meaning": "bottom of face",
+          "note": "This is the all-purpose Cantonese noun for the bottom of the face or chin."
+        },
+        {
+          "id": "od746gl6",
+          "word": "jaw",
+          "meaning": "lower face / jawline",
+          "note": "This is the all-purpose choice for the lower part of the face, especially in expressions like a dropped jaw."
+        }
+      ],
       "examples": [
         {
           "english": "My chin got hit by the door, and it still hurts.",

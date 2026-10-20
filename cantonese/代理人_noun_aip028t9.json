@@ -6,7 +6,28 @@
   "boxes": [
     {
       "meaning": "agent acting on someone's behalf",
-      "english": ["agent", "delegate", "deputy"],
+      "english": [
+        {
+          "id": "djfpkjf0",
+          "word": "agent",
+          "meaning": "representative / acting on behalf of",
+          "register": "formal",
+          "note": "Use 代理人 as the all-purpose term for someone authorized to act on another person's behalf."
+        },
+        {
+          "id": "kk7h3ehj",
+          "word": "delegate",
+          "meaning": "authorized representative",
+          "note": "Use this for an authorized agent or deputy acting on someone else’s behalf, rather than a delegate sent to an event."
+        },
+        {
+          "id": "yd2arwkk",
+          "word": "deputy",
+          "meaning": "substitute / official representative",
+          "register": "formal",
+          "note": "Use this when stressing that the deputy is an appointed agent acting in another person's place, especially in a formal delegation."
+        }
+      ],
       "examples": [
         {
           "english": "The agent has to sign this contract.",

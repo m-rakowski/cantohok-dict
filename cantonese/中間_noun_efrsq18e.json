@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "the middle",
-      "english": ["middle", "midst", "medium"],
+      "english": [
+        {
+          "id": "vmrdefgw",
+          "word": "middle",
+          "meaning": "middle part, midpoint in time",
+          "note": "This is the all-purpose choice for the part or point between two ends, including a middle point in time."
+        },
+        {
+          "id": "mz8a649q",
+          "word": "midst",
+          "meaning": "middle; central place",
+          "note": "This is the all-purpose choice for a literal or metaphorical place in the middle."
+        },
+        {
+          "id": "h8smew2t",
+          "word": "medium",
+          "meaning": "middle point; balance",
+          "note": "Use 中間 as the all-purpose noun for a literal middle point or degree, including a compromise."
+        }
+      ],
       "examples": [
         {
           "english": "I'm in the middle of the movie, and I need to go to the toilet.",

@@ -6,7 +6,15 @@
   "boxes": [
     {
       "meaning": "grape alcoholic drink",
-      "english": ["wine"],
+      "english": [
+        {
+          "id": "bu5b6bon",
+          "word": "wine",
+          "meaning": "grape alcoholic drink",
+          "register": "written",
+          "note": "Use this precise term for grape wine, including when you do not want to specify its colour."
+        }
+      ],
       "register": "written",
       "examples": [
         {

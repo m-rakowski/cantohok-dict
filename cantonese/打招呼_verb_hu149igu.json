@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "greet",
-      "english": ["greet", "hail"],
+      "english": [
+        {
+          "id": "6uz6gzf9",
+          "word": "greet",
+          "meaning": "welcome someone",
+          "note": "Use this as the all-purpose choice for casually greeting or addressing someone."
+        },
+        {
+          "id": "x9l772ke",
+          "word": "hail",
+          "meaning": "greet / salute",
+          "note": "Use this for the ordinary greeting or salutation sense rather than merely calling out to get someone's attention."
+        }
+      ],
       "examples": [
         {
           "english": "I greet Ming.",

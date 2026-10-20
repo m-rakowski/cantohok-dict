@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "noon; 12 o'clock",
-      "english": ["midday"],
+      "english": [
+        {
+          "id": "5hkzm34i",
+          "word": "midday",
+          "meaning": "noon; 12 o'clock",
+          "note": "Use this when referring specifically to twelve o'clock and the daytime context makes clear that you mean noon rather than midnight."
+        }
+      ],
       "examples": [
         {
           "english": "We start the meeting promptly at midday.",

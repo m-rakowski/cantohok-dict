@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "rain heavily",
-      "english": ["teem", "pour"],
+      "english": [
+        {
+          "id": "7nwxlzj1",
+          "word": "teem",
+          "meaning": "rain heavily",
+          "note": "Use this specifically when rain is falling heavily, rather than for general abundance."
+        },
+        {
+          "id": "c4b9mfcg",
+          "word": "pour",
+          "meaning": "flow down heavily",
+          "note": "Use this specifically when rain is falling heavily and continuously."
+        }
+      ],
       "examples": [
         {
           "english": "It started to teem with rain last night, and the whole street flooded.",

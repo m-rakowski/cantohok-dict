@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "worsening",
-      "english": ["decline", "corruption"],
+      "english": [
+        {
+          "id": "of6cc16s",
+          "word": "decline",
+          "meaning": "worsening, deterioration",
+          "note": "Use this when a condition, such as someone’s health, becomes worse rather than merely smaller in amount."
+        },
+        {
+          "id": "r96zf0re",
+          "word": "corruption",
+          "meaning": "becoming worse",
+          "register": "written",
+          "note": "Use this as a more formal noun for a condition or quality deteriorating or becoming worse."
+        }
+      ],
       "examples": [
         {
           "english": "Their condition has gone into decline.",

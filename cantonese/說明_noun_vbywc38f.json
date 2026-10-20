@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "explanation, instructions",
-      "english": ["explanation", "help"],
+      "english": [
+        {
+          "id": "4krhl2q3",
+          "word": "explanation",
+          "meaning": "act of explaining",
+          "register": "formal",
+          "note": "Use this for a more formal explanatory statement or clarification, rather than the everyday default 解釋."
+        },
+        {
+          "id": "ds35ow6x",
+          "word": "help",
+          "meaning": "software help",
+          "register": "written",
+          "note": "Use this for the documentation or help section supplied with software."
+        }
+      ],
       "examples": [
         {
           "english": "Please refer to the explanation in the contract.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "underwater",
-      "english": ["undersea", "marine"],
+      "english": [
+        {
+          "id": "e19f46ph",
+          "word": "undersea",
+          "meaning": "beneath the sea",
+          "note": "This is the all-purpose choice for something beneath the water surface or underwater."
+        },
+        {
+          "id": "t6vdh4qp",
+          "word": "marine",
+          "meaning": "for underwater use",
+          "note": "Use this specifically for underwater conditions or equipment, whether in seawater or freshwater."
+        }
+      ],
       "examples": [
         {
           "english": "We took a glass-bottom boat to see the undersea world.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "seem, look",
-      "english": ["seem", "appear"],
+      "english": [
+        {
+          "id": "hemvjvqh",
+          "word": "seem",
+          "meaning": "appear; look like",
+          "note": "Use this when the impression comes specifically from how something looks."
+        },
+        {
+          "id": "vp0i0re7",
+          "word": "appear",
+          "meaning": "seem; look",
+          "note": "Use this when someone or something looks a certain way from visible evidence."
+        }
+      ],
       "examples": [
         {
           "english": "You seem really tired.",

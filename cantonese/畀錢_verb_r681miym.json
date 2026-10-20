@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "pay, hand over money",
-      "english": ["pay", "fund", "compensate"],
+      "english": [
+        {
+          "id": "hcoztt4s",
+          "word": "pay",
+          "meaning": "give money for goods/services",
+          "note": "This is the all-purpose spoken choice for handing over money, settling an obligation, or paying for a cost."
+        },
+        {
+          "id": "e9p29dc2",
+          "word": "fund",
+          "meaning": "finance, pay for",
+          "note": "Use this as the all-purpose colloquial way to say that someone pays or provides money for something."
+        },
+        {
+          "id": "kviv1hv8",
+          "word": "compensate",
+          "meaning": "pay for work",
+          "note": "This is the all-purpose choice when paying or rewarding someone for work."
+        }
+      ],
       "examples": [
         {
           "english": "We pay after we finish eating.",

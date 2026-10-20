@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "time, length of time",
-      "english": ["duration", "time", "length"],
+      "english": [
+        {
+          "id": "rlrl2zph",
+          "word": "duration",
+          "meaning": "length of time",
+          "note": "Use this as the all-purpose choice for an amount of time or the time span of a situation."
+        },
+        {
+          "id": "v4w205ni",
+          "word": "time",
+          "meaning": "inevitable passing of events",
+          "note": "This is the all-purpose noun for time as an abstract flow, available duration, or measured length."
+        },
+        {
+          "id": "u0xkoj10",
+          "word": "length",
+          "meaning": "duration",
+          "note": "Use this for how long something lasts, rather than for its physical size."
+        }
+      ],
       "examples": [
         {
           "english": "The duration of this film is not very long.",

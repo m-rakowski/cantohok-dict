@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "hotel departure",
-      "english": ["checkout"],
+      "english": [
+        {
+          "id": "uhchii6f",
+          "word": "checkout",
+          "meaning": "hotel departure",
+          "note": "Use this for hotel checkout, including the act of leaving the room and, in context, the checkout deadline."
+        }
+      ],
       "examples": [
         {
           "english": "The hotel checkout time is eleven in the morning.",

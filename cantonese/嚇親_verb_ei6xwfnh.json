@@ -6,7 +6,69 @@
   "boxes": [
     {
       "meaning": "frighten, startle",
-      "english": ["alarm", "frighten", "shock", "scare", "horrify", "startle", "dismay", "unnerve", "panic", "jump"],
+      "english": [
+        {
+          "id": "mtyarln2",
+          "word": "alarm",
+          "meaning": "alarm, frighten",
+          "note": "Use 嚇親 as the everyday all-purpose verb when something suddenly frightens or alarms someone."
+        },
+        {
+          "id": "mgnu45h3",
+          "word": "frighten",
+          "meaning": "cause fear",
+          "note": "This is the all-purpose everyday choice for making someone suddenly feel scared or startled."
+        },
+        {
+          "id": "38socxug",
+          "word": "shock",
+          "meaning": "shock, upset",
+          "note": "Use 嚇親 as the all-purpose spoken choice when something frightens or emotionally shocks someone."
+        },
+        {
+          "id": "jl0k14so",
+          "word": "scare",
+          "meaning": "frighten, startle",
+          "note": "This is the all-purpose choice when an action or event frightens or startles someone."
+        },
+        {
+          "id": "y599hmnf",
+          "word": "horrify",
+          "meaning": "cause horror, terrify",
+          "register": "colloquial",
+          "note": "This is the all-purpose colloquial choice for causing someone to feel frightened or horrified."
+        },
+        {
+          "id": "l0ap99s5",
+          "word": "startle",
+          "meaning": "frighten or surprise suddenly",
+          "note": "Use 嚇親 as the all-purpose verb for suddenly frightening someone or being startled."
+        },
+        {
+          "id": "9uopalip",
+          "word": "dismay",
+          "meaning": "cause dismay/fear",
+          "note": "Use 嚇親 as the all-purpose colloquial choice when dismay means causing fear or alarm."
+        },
+        {
+          "id": "bwstpzne",
+          "word": "unnerve",
+          "meaning": "make nervous, upset",
+          "note": "Use this as the all-purpose everyday choice when something alarms or upsets someone."
+        },
+        {
+          "id": "apiwa30c",
+          "word": "panic",
+          "meaning": "cause panic",
+          "note": "Use this for frightening or startling someone, especially when the result is not necessarily prolonged panic."
+        },
+        {
+          "id": "3rhnwo6o",
+          "word": "jump",
+          "meaning": "startle; jerk",
+          "note": "Use this when a sudden event makes someone involuntarily flinch or become startled."
+        }
+      ],
       "examples": [
         {
           "english": "That loud bang did alarm me.",

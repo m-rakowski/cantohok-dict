@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "cheerful, outgoing",
-      "english": ["sociable", "exuberant", "cheerful", "sunny", "bubbly"],
+      "english": [
+        {
+          "id": "k579xuza",
+          "word": "sociable",
+          "meaning": "friendly, outgoing person",
+          "note": "Use this when stressing a cheerful, outgoing personality rather than simply fitting in socially."
+        },
+        {
+          "id": "i9t8qg18",
+          "word": "exuberant",
+          "meaning": "cheerful, energetic",
+          "note": "Use this for the cheerful, upbeat personality side, especially when physical energy is not the focus."
+        },
+        {
+          "id": "7apfrjzq",
+          "word": "cheerful",
+          "meaning": "happy, optimistic",
+          "note": "Choose this for a person's sunny, outgoing, and cheerful disposition rather than a momentary feeling."
+        },
+        {
+          "id": "ghgxxc29",
+          "word": "sunny",
+          "meaning": "cheerful, bright in mood",
+          "note": "Use this for a cheerful, positive person or disposition rather than for weather."
+        },
+        {
+          "id": "2az0bcj3",
+          "word": "bubbly",
+          "meaning": "cheerful, lively",
+          "note": "Use this when bubbly emphasizes a cheerful, open disposition rather than energetic liveliness."
+        }
+      ],
       "examples": [
         {
           "english": "They are sociable and often start conversations with new colleagues.",

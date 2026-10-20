@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "sad, lamentable",
-      "english": ["tragic", "sad"],
+      "english": [
+        {
+          "id": "5wd6rdd1",
+          "word": "tragic",
+          "meaning": "causing great sadness",
+          "note": "Use this when stressing that the situation is sad or lamentable rather than simply terrible."
+        },
+        {
+          "id": "1hwnvfs8",
+          "word": "sad",
+          "meaning": "causing sorrow",
+          "register": "formal",
+          "note": "Use this for a fact or situation that is lamentable and causes sorrow."
+        }
+      ],
       "examples": [
         {
           "english": "They turned against each other over money; it’s truly tragic.",

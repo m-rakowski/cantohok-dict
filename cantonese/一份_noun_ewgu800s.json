@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "a copy of a document",
-      "english": ["copy"],
+      "english": [
+        {
+          "id": "5kyj6h50",
+          "word": "copy",
+          "meaning": "duplicate / reproduction",
+          "note": "Use 一份 for one copy of a report, document, or other distributed material."
+        }
+      ],
       "examples": [
         {
           "english": "I want a copy of this report.",
@@ -17,7 +24,26 @@
     },
     {
       "meaning": "a portion or share",
-      "english": ["proportion", "bit", "parcel"],
+      "english": [
+        {
+          "id": "carnf6qr",
+          "word": "proportion",
+          "meaning": "part of a whole",
+          "note": "Use 一份 for a distinct portion or an allocated share, especially when each person receives one."
+        },
+        {
+          "id": "c2blr71x",
+          "word": "bit",
+          "meaning": "piece or portion",
+          "note": "Use 一份 for a defined portion or serving of something."
+        },
+        {
+          "id": "zxs3j10i",
+          "word": "parcel",
+          "meaning": "part; portion",
+          "note": "Use this when the portion is separately allocated, served, presented, or treated as one share."
+        }
+      ],
       "examples": [
         {
           "english": "Everyone gets a proportion of the bonus.",

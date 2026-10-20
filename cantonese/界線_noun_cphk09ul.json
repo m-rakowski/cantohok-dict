@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "boundary line",
-      "english": ["fence", "crease"],
+      "english": [
+        {
+          "id": "kf9ixdr3",
+          "word": "fence",
+          "meaning": "boundary",
+          "note": "Use this when “fence” means an abstract or actual boundary rather than the physical structure itself."
+        },
+        {
+          "id": "zkwl9htn",
+          "word": "crease",
+          "meaning": "cricket crease line",
+          "note": "Use this in cricket when referring to one of the marked lines on the pitch."
+        }
+      ],
       "examples": [
         {
           "english": "You can't cross this fence.",

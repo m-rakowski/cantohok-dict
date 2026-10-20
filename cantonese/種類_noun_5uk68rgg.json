@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "kind, type, variety",
-      "english": ["variety", "category", "description", "nature"],
+      "english": [
+        {
+          "id": "2jlhnscs",
+          "word": "variety",
+          "meaning": "many different things",
+          "note": "Use this as the all-purpose noun for different kinds or a range of things."
+        },
+        {
+          "id": "81pf2aur",
+          "word": "category",
+          "meaning": "type; class",
+          "note": "Use this as the all-purpose choice when talking about a kind or type of thing in ordinary speech."
+        },
+        {
+          "id": "qmdkl636",
+          "word": "description",
+          "meaning": "kind; sort; description",
+          "note": "Use this when “description” means a type or category rather than a verbal account."
+        },
+        {
+          "id": "yow6m40n",
+          "word": "nature",
+          "meaning": "sort; kind",
+          "note": "Use this when “nature” means a sort, type, or general class of thing."
+        }
+      ],
       "examples": [
         {
           "english": "This shop has a wide variety of tea.",

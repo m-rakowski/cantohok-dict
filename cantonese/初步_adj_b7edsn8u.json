@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "preliminary, initial",
-      "english": ["preliminary", "rudimentary"],
+      "english": [
+        {
+          "id": "nke9bw3i",
+          "word": "preliminary",
+          "meaning": "preparatory; introductory",
+          "note": "This is the all-purpose choice for initial or preparatory work, findings, and arrangements."
+        },
+        {
+          "id": "wz12hj18",
+          "word": "rudimentary",
+          "meaning": "basic, minimal",
+          "note": "Use this for something at an early or preliminary stage, including only a preliminary understanding."
+        }
+      ],
       "examples": [
         {
           "english": "We'll look at the preliminary results first and discuss them at tomorrow's meeting.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "clever, ingenious",
-      "english": ["ingenious", "elegant"],
+      "english": [
+        {
+          "id": "bfxkimjo",
+          "word": "ingenious",
+          "meaning": "cleverly made/contrived",
+          "note": "Use this for a cleverly designed thing, solution, or deft witty reply rather than for a person's general inventiveness."
+        },
+        {
+          "id": "it3gh66j",
+          "word": "elegant",
+          "meaning": "clever, elegant solution",
+          "note": "Use this for an elegant solution when the emphasis is cleverness, ingenuity, and intuitive precision."
+        }
+      ],
       "examples": [
         {
           "english": "They fixed the rack with just a piece of rope; the method was ingenious.",

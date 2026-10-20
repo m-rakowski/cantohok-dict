@@ -6,7 +6,44 @@
   "boxes": [
     {
       "meaning": "illness, disease",
-      "english": ["disease", "illness", "sickness", "malady", "disorder", "condition"],
+      "english": [
+        {
+          "id": "pa8cfq3p",
+          "word": "disease",
+          "meaning": "physical illness",
+          "note": "Use 病 as the all-purpose noun for a physical disease or illness in people, animals, or plants."
+        },
+        {
+          "id": "p5au2vhk",
+          "word": "illness",
+          "meaning": "episode of disease",
+          "note": "This is the all-purpose Cantonese noun for an illness, disease, or generally being in bad health."
+        },
+        {
+          "id": "82w5vkph",
+          "word": "sickness",
+          "meaning": "illness; being sick",
+          "note": "This is the all-purpose rendering for illness or the state of being sick."
+        },
+        {
+          "id": "q2mvmm0i",
+          "word": "malady",
+          "meaning": "illness, disease",
+          "note": "This is the all-purpose choice for a physical illness or disease."
+        },
+        {
+          "id": "tux5sj9j",
+          "word": "disorder",
+          "meaning": "medical condition",
+          "note": "Use this everyday broad medical noun for a physical or mental condition rather than a technical diagnosis."
+        },
+        {
+          "id": "tt7g0kwc",
+          "word": "condition",
+          "meaning": "illness; medical condition",
+          "note": "Use 病 when condition means an illness or abnormal health problem itself, rather than the patient's current status."
+        }
+      ],
       "examples": [
         {
           "english": "This disease spreads easily.",

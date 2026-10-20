@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "corruption",
-      "english": ["corruption", "graft"],
+      "english": [
+        {
+          "id": "mlpzt49q",
+          "word": "corruption",
+          "meaning": "bribery and abuse of power",
+          "note": "This is the all-purpose term for bribery and abuse of power in government or business."
+        },
+        {
+          "id": "zpoj0t7z",
+          "word": "graft",
+          "meaning": "corruption; bribery",
+          "note": "Use this for corruption in public or official life."
+        }
+      ],
       "examples": [
         {
           "english": "This corruption case ruined the whole company’s reputation.",

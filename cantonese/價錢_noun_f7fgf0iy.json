@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "price",
-      "english": ["price", "cost"],
+      "english": [
+        {
+          "id": "nqba42ni",
+          "word": "price",
+          "meaning": "cost of something",
+          "note": "This is the all-purpose everyday word for the cost of something or an action."
+        },
+        {
+          "id": "rwophbkf",
+          "word": "cost",
+          "meaning": "price; expense",
+          "note": "Use this for the price of an item or service, rather than its wider expense or resource cost."
+        }
+      ],
       "examples": [
         {
           "english": "The price of this shirt is a bit high.",

@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "red wine",
-      "english": ["wine", "red"],
+      "english": [
+        {
+          "id": "lnwticml",
+          "word": "wine",
+          "meaning": "grape alcoholic drink",
+          "register": "colloquial",
+          "note": "This is the all-purpose everyday choice in Hong Kong when the wine is understood to be red wine or the context makes that clear."
+        },
+        {
+          "id": "6navjanu",
+          "word": "red",
+          "meaning": "red wine",
+          "note": "Use this specifically for red wine rather than the colour in general."
+        }
+      ],
       "examples": [
         {
           "english": "This red wine goes down smoothly.",

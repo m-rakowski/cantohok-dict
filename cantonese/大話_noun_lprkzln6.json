@@ -6,7 +6,50 @@
   "boxes": [
     {
       "meaning": "lie",
-      "english": ["lie", "fabrication", "fabulation", "fiction", "nonsense", "story", "tale"],
+      "english": [
+        {
+          "id": "bq9qpic1",
+          "word": "lie",
+          "meaning": "a lie",
+          "note": "This is the all-purpose Cantonese noun for an intentionally false statement."
+        },
+        {
+          "id": "6qavmrdz",
+          "word": "fabrication",
+          "meaning": "made-up story; falsehood",
+          "note": "This is the all-purpose colloquial noun for a falsehood or made-up claim."
+        },
+        {
+          "id": "vlfs8cdx",
+          "word": "fabulation",
+          "meaning": "fabrication; made-up story",
+          "note": "Use this as the everyday all-purpose noun for an invented falsehood, especially one told to deceive."
+        },
+        {
+          "id": "oulczr6y",
+          "word": "fiction",
+          "meaning": "made-up story; false account",
+          "note": "Use this for a made-up or deliberately untrue account, rather than for the literary genre."
+        },
+        {
+          "id": "s2m3ihw9",
+          "word": "nonsense",
+          "meaning": "untrue statement",
+          "note": "Pick 大話 when “nonsense” means a lie or a deliberately untrue statement."
+        },
+        {
+          "id": "s66b1ce5",
+          "word": "story",
+          "meaning": "lie, made-up story",
+          "note": "Use 大話 when the “story” is a lie or made-up claim rather than a narrative."
+        },
+        {
+          "id": "sbkfy8z2",
+          "word": "tale",
+          "meaning": "rumour, gossip",
+          "note": "Use this when the tale is specifically a lie or false account."
+        }
+      ],
       "examples": [
         {
           "english": "Don't lie again.",

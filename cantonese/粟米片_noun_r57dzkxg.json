@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "breakfast cereal",
-      "english": ["cereal"],
+      "english": [
+        {
+          "id": "8kddcce1",
+          "word": "cereal",
+          "meaning": "breakfast cereal",
+          "note": "Use this when the cereal is specifically cornflakes rather than another kind of breakfast cereal."
+        }
+      ],
       "examples": [
         {
           "english": "This box of cereal is best with milk.",

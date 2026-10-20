@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "broadly, in general",
-      "english": ["broadly", "overall"],
+      "english": [
+        {
+          "id": "g9vuk0va",
+          "word": "broadly",
+          "meaning": "broadly speaking; in general",
+          "note": "This is the all-purpose choice for saying “broadly speaking” or “in general.”"
+        },
+        {
+          "id": "q6zoih7j",
+          "word": "overall",
+          "meaning": "in general",
+          "note": "Use this for the broad “generally” or “by and large” sense, without stressing that every factor was considered."
+        }
+      ],
       "examples": [
         {
           "english": "Broadly, this plan is workable.",

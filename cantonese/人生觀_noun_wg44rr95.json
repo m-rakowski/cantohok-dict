@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "philosophy of life",
-      "english": ["worldview"],
+      "english": [
+        {
+          "id": "sssdotpp",
+          "word": "worldview",
+          "meaning": "philosophy of life",
+          "note": "Use this specifically when the worldview means a general philosophy or outlook on life rather than a broader view of reality."
+        }
+      ],
       "examples": [
         {
           "english": "My worldview is simple: being happy and having meals with my family is enough.",

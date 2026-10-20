@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "revision, amendment",
-      "english": ["modification", "revision"],
+      "english": [
+        {
+          "id": "ij305y25",
+          "word": "modification",
+          "meaning": "change / adjustment",
+          "register": "formal",
+          "note": "Use this when the modification involves editing or correcting text, rules, plans, or other content."
+        },
+        {
+          "id": "kury6e3h",
+          "word": "revision",
+          "meaning": "editing/amending process",
+          "note": "This is the all-purpose choice for the process of editing or amending something, and for a general modification rather than a new edition."
+        }
+      ],
       "examples": [
         {
           "english": "The contract has undergone a modification based on the lawyer's advice.",

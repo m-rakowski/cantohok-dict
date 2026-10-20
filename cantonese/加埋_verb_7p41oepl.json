@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "add up to a total",
-      "english": ["add"],
+      "english": [
+        {
+          "id": "uvo1xg2i",
+          "word": "add",
+          "meaning": "calculate a sum",
+          "note": "Use this to add numbers up or total several amounts together."
+        }
+      ],
       "examples": [
         {
           "english": "The amounts add up to three hundred dollars this time.",
@@ -17,7 +24,15 @@
     },
     {
       "meaning": "include as well",
-      "english": ["include"],
+      "english": [
+        {
+          "id": "whq6l2au",
+          "word": "include",
+          "meaning": "add as part of",
+          "register": "colloquial",
+          "note": "Use this when adding another item into a group, list, package, or total."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "hostility",
-      "english": ["hostility", "belligerence", "spite", "malice"],
+      "english": [
+        {
+          "id": "szl9kryv",
+          "word": "hostility",
+          "meaning": "hostile attitude",
+          "note": "This is the all-purpose noun for a hostile attitude or feeling towards someone."
+        },
+        {
+          "id": "6lvmyh1t",
+          "word": "belligerence",
+          "meaning": "aggressive hostility",
+          "note": "This is the all-purpose choice for an openly hostile or aggressive attitude toward someone or a group."
+        },
+        {
+          "id": "9jxovkoe",
+          "word": "spite",
+          "meaning": "malice, ill will",
+          "note": "Use this when the spite is expressed as an openly hostile attitude toward someone."
+        },
+        {
+          "id": "cr84iyrb",
+          "word": "malice",
+          "meaning": "ill will; harmful intent",
+          "note": "Use this when the malice is expressed as open hostility toward a person or group, rather than merely a hidden harmful intention."
+        }
+      ],
       "examples": [
         {
           "english": "They are full of hostility toward the new neighbors and are always scowling.",

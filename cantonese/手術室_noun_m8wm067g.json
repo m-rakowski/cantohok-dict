@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "operating room",
-      "english": ["surgery"],
+      "english": [
+        {
+          "id": "kagtlue2",
+          "word": "surgery",
+          "meaning": "operating room",
+          "note": "Use this specifically for the operating room where an operation is performed."
+        }
+      ],
       "examples": [
         {
           "english": "No photos are allowed in the room where surgery is performed.",

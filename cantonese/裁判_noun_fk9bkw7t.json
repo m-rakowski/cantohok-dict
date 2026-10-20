@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "referee",
-      "english": ["referee", "official", "judge"],
+      "english": [
+        {
+          "id": "9oq15i6h",
+          "word": "referee",
+          "meaning": "sports official",
+          "note": "This is the all-purpose choice for a sports official who enforces the rules."
+        },
+        {
+          "id": "0seq1h9z",
+          "word": "official",
+          "meaning": "official; authority figure",
+          "note": "Use this for a sports official who referees or judges a match."
+        },
+        {
+          "id": "kvsi4v2h",
+          "word": "judge",
+          "meaning": "sports official",
+          "note": "Use this for the official who enforces the rules during a sports match or contest."
+        }
+      ],
       "examples": [
         {
           "english": "The referee is being very strict in this match.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "persuasiveness",
-      "english": ["eloquence", "persuasion"],
+      "english": [
+        {
+          "id": "m9frwmkj",
+          "word": "eloquence",
+          "meaning": "persuasive speech/writing",
+          "note": "Use this when the emphasis is on how convincing the speech or writing is, rather than on its artistry."
+        },
+        {
+          "id": "3pi895jc",
+          "word": "persuasion",
+          "meaning": "persuasiveness",
+          "note": "Use this specifically for someone’s ability or power to influence another person’s opinions or feelings."
+        }
+      ],
       "examples": [
         {
           "english": "The eloquence of their speech got everyone to support the plan.",

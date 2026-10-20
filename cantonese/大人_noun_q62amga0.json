@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "adult",
-      "english": ["adult", "grown-up"],
+      "english": [
+        {
+          "id": "rstthm7l",
+          "word": "adult",
+          "meaning": "legal-grown person",
+          "note": "This is the all-purpose everyday word for an adult person, especially in contrast with a child."
+        },
+        {
+          "id": "8j649jph",
+          "word": "grown-up",
+          "meaning": "an adult",
+          "note": "This is the all-purpose spoken choice for an adult or adults."
+        }
+      ],
       "examples": [
         {
           "english": "An adult can come in here, but children should go next door.",

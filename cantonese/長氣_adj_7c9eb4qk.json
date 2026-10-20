@@ -6,7 +6,34 @@
   "boxes": [
     {
       "meaning": "long-winded, wordy",
-      "english": ["tedious", "talkative", "redundant", "windy"],
+      "english": [
+        {
+          "id": "x2sqevuj",
+          "word": "tedious",
+          "meaning": "boring, wearisome",
+          "register": "colloquial",
+          "note": "Use 長氣 for something drawn-out and wearisome, especially speech, explanations, or procedures."
+        },
+        {
+          "id": "b7tsvven",
+          "word": "talkative",
+          "meaning": "chatty, loquacious",
+          "note": "Use this when the person is talkative in a tiresome, repetitive, or long-winded way."
+        },
+        {
+          "id": "761046nv",
+          "word": "redundant",
+          "meaning": "wordy; repetitive",
+          "register": "colloquial",
+          "note": "Use this for speech or writing that is excessively long, repetitive, or needlessly detailed rather than simply unnecessary."
+        },
+        {
+          "id": "7xnf3769",
+          "word": "windy",
+          "meaning": "long-winded",
+          "note": "Use 長氣 for someone who talks for too long or goes on and on."
+        }
+      ],
       "examples": [
         {
           "english": "Your explanation is so tedious that even I get tired listening to it.",

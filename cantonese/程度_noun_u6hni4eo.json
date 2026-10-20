@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "degree, level, extent",
-      "english": ["extent", "level", "depth", "degree"],
+      "english": [
+        {
+          "id": "oy5cj887",
+          "word": "extent",
+          "meaning": "degree; amount; scope",
+          "note": "Use this as the all-purpose rendering for the degree or amount to which something extends, especially in abstract contexts."
+        },
+        {
+          "id": "bk4xs886",
+          "word": "level",
+          "meaning": "amount, degree",
+          "note": "Use 程度 as the all-purpose noun for an amount, degree, or degree of attainment; for a formal qualification, use 級 instead."
+        },
+        {
+          "id": "hux8x467",
+          "word": "depth",
+          "meaning": "intensity or seriousness",
+          "note": "Use this for the degree or extent of an emotion, problem, or other serious situation."
+        },
+        {
+          "id": "v097epa7",
+          "word": "degree",
+          "meaning": "extent; amount",
+          "note": "Use 程度 for the relative extent or intensity of a property, especially when asking or describing to what degree something is true."
+        }
+      ],
       "examples": [
         {
           "english": "We hadn't realized the extent of how serious this problem was.",

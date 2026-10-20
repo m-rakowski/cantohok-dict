@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "appreciate, think highly of",
-      "english": ["admire", "approve"],
+      "english": [
+        {
+          "id": "k04xhesl",
+          "word": "admire",
+          "meaning": "respect / look up to",
+          "note": "Use this as the all-purpose choice for appreciating someone’s qualities, work, or beauty."
+        },
+        {
+          "id": "8wkqr8rf",
+          "word": "approve",
+          "meaning": "think well of; like",
+          "note": "Use this when approving of something because you appreciate its quality or think well of it, rather than merely giving formal permission."
+        }
+      ],
       "examples": [
         {
           "english": "I really admire the way you painted this picture",

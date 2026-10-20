@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "tax deduction",
-      "english": ["deduction"],
+      "english": [
+        {
+          "id": "hxti4lf1",
+          "word": "deduction",
+          "meaning": "tax deduction",
+          "note": "This is the usual tax-specific noun for an amount deducted in calculating taxable income."
+        }
+      ],
       "examples": [
         {
           "english": "This expense can be included as a tax deduction.",

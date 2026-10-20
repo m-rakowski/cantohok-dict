@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "loudspeaker, amplifier",
-      "english": ["loudspeaker", "amplifier"],
+      "english": [
+        {
+          "id": "nqf661ix",
+          "word": "loudspeaker",
+          "meaning": "speaker device",
+          "note": "Use 擴音機 especially for a public-address or amplification unit rather than a small audio speaker."
+        },
+        {
+          "id": "n0bcoera",
+          "word": "amplifier",
+          "meaning": "electronic signal amplifier",
+          "note": "Use this specifically for an audio amplifier or sound-system appliance rather than an amplifier in the general technical sense."
+        }
+      ],
       "examples": [
         {
           "english": "We need a loudspeaker during the meeting, or the people in the back won't be able to hear.",

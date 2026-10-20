@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "an outfit, set of clothes",
-      "english": ["outfit", "fit"],
+      "english": [
+        {
+          "id": "389ekx1n",
+          "word": "outfit",
+          "meaning": "set of clothes",
+          "note": "For the clothing sense, this is the all-purpose everyday choice for a complete set of clothes worn together."
+        },
+        {
+          "id": "yp3t395p",
+          "word": "fit",
+          "meaning": "outfit; clothes",
+          "note": "Use 一套衫 for a complete outfit or matching set of clothes, not for how well it fits."
+        }
+      ],
       "examples": [
         {
           "english": "I’m wearing an outfit to have dim sum today.",

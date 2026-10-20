@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "religious devotion",
-      "english": ["piety", "devotion"],
+      "english": [
+        {
+          "id": "zp5ajjx8",
+          "word": "piety",
+          "meaning": "reverence toward God",
+          "note": "Use this as the all-purpose noun for devotion or reverence toward God."
+        },
+        {
+          "id": "p8mfm9ks",
+          "word": "devotion",
+          "meaning": "religious piety",
+          "register": "formal",
+          "note": "Use this specifically for sincere religious piety or veneration."
+        }
+      ],
       "examples": [
         {
           "english": "I have always had piety toward God.",

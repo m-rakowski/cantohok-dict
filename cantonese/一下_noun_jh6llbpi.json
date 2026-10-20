@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "a single blow",
-      "english": ["hit", "beat", "strike"],
+      "english": [
+        {
+          "id": "28hj27ux",
+          "word": "hit",
+          "meaning": "a blow",
+          "note": "Use 一下 as the all-purpose noun for a single physical blow, impact, or projectile strike."
+        },
+        {
+          "id": "w9qv128u",
+          "word": "beat",
+          "meaning": "blow, strike",
+          "register": "colloquial",
+          "note": "Use this colloquial noun for one physical blow or strike, especially in expressions such as 畀人打咗一下."
+        },
+        {
+          "id": "we9pkvhr",
+          "word": "strike",
+          "meaning": "blow; hit",
+          "note": "Use 一下 for one physical blow or hit in casual speech, rather than the broader 攻擊."
+        }
+      ],
       "examples": [
         {
           "english": "They threw a punch, and the other person took a hit.",

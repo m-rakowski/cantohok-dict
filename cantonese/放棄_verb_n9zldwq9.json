@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "give up",
-      "english": ["abandon", "relinquish", "discard", "surrender"],
+      "english": [
+        {
+          "id": "xdqu31xv",
+          "word": "abandon",
+          "meaning": "relinquish a right",
+          "note": "This is the all-purpose choice for giving up an activity, plan, practice, right, or position."
+        },
+        {
+          "id": "djyy0u03",
+          "word": "relinquish",
+          "meaning": "give up; abandon",
+          "note": "Use this as the all-purpose choice for giving up, abandoning, or retiring from something such as a title or position."
+        },
+        {
+          "id": "tjq5ivyd",
+          "word": "discard",
+          "meaning": "throw away, reject",
+          "note": "Use this for the abstract sense of discarding or giving up an idea, plan, or belief."
+        },
+        {
+          "id": "nd782xem",
+          "word": "surrender",
+          "meaning": "relinquish a right",
+          "note": "Use this for giving up a right, privilege, possession, or advantage rather than handing it to someone immediately."
+        }
+      ],
       "examples": [
         {
           "english": "We decided to abandon this plan.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "light",
-      "english": ["glow", "light"],
+      "english": [
+        {
+          "id": "b7ii5f03",
+          "word": "glow",
+          "meaning": "hot object emits light/heat",
+          "note": "This is the all-purpose noun for visible glow or emitted light, including light from a hot object; the heat is usually understood from context."
+        },
+        {
+          "id": "g069503l",
+          "word": "light",
+          "meaning": "visible light",
+          "note": "This is the all-purpose noun for visible light and brightness."
+        }
+      ],
       "examples": [
         {
           "english": "The firefly gives off a faint glow in the grass.",

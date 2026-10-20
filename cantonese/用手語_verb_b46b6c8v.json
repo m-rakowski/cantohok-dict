@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "use sign language",
-      "english": ["sign"],
+      "english": [
+        {
+          "id": "d003060d",
+          "word": "sign",
+          "meaning": "use sign language",
+          "note": "Use this when you mean communicating by means of sign language."
+        }
+      ],
       "examples": [
         {
           "english": "They usually use sign language to communicate.",

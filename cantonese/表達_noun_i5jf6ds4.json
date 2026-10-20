@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "way of expressing yourself",
-      "english": ["expression", "presentation"],
+      "english": [
+        {
+          "id": "kiphtgrm",
+          "word": "expression",
+          "meaning": "expressing thoughts or feelings",
+          "note": "Use this for the act or process of putting thoughts and feelings into words."
+        },
+        {
+          "id": "1i7lk74p",
+          "word": "presentation",
+          "meaning": "act of presenting",
+          "note": "Use this for the expression or communication aspect of a presentation, rather than for a talk or slideshow."
+        }
+      ],
       "examples": [
         {
           "english": "Using words to express your feelings is an important form of expression.",

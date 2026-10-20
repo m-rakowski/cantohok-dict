@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "put at a place",
-      "english": ["house", "locate"],
+      "english": [
+        {
+          "id": "slquxf82",
+          "word": "house",
+          "meaning": "house inside",
+          "note": "Use this for physically keeping an object at or inside a particular place, such as a car in a garage."
+        },
+        {
+          "id": "oy5xuc2d",
+          "word": "locate",
+          "meaning": "place somewhere",
+          "note": "Use this when you put or position something in a particular place."
+        }
+      ],
       "examples": [
         {
           "english": "We house the car in the garage.",

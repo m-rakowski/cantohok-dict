@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "not workable, not feasible",
-      "english": ["unfeasible", "impractical"],
+      "english": [
+        {
+          "id": "9g0vsfhj",
+          "word": "unfeasible",
+          "meaning": "not feasible; impractical",
+          "note": "Use this as the all-purpose way to say that a plan, proposal, or idea is not feasible."
+        },
+        {
+          "id": "igwwvqd6",
+          "word": "impractical",
+          "meaning": "not practical; not workable",
+          "note": "Use this especially for a plan, proposal, or method that cannot realistically be carried out."
+        }
+      ],
       "examples": [
         {
           "english": "This plan is too rushed, so it is completely unfeasible.",

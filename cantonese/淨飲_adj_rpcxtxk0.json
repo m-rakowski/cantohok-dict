@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "undiluted liquor",
-      "english": ["neat"],
+      "english": [
+        {
+          "id": "brdlf4aj",
+          "word": "neat",
+          "meaning": "undiluted liquor",
+          "note": "Use this specifically for liquor or a cocktail taken without water, ice, or a mixer."
+        }
+      ],
       "examples": [
         {
           "english": "I want to drink this whisky neat, please.",

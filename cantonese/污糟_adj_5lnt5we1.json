@@ -6,7 +6,39 @@
   "boxes": [
     {
       "meaning": "dirty",
-      "english": ["dirty", "foul", "muddy", "lousy", "nasty"],
+      "english": [
+        {
+          "id": "4mqrtim9",
+          "word": "dirty",
+          "meaning": "physically unclean",
+          "note": "This is the all-purpose choice for physically dirty or contaminating things, and it also appears in expressions such as 污糟錢 for corrupt money."
+        },
+        {
+          "id": "vdfc4uop",
+          "word": "foul",
+          "meaning": "dirty, unclean",
+          "note": "Use this for physically dirty things, and also for obscene or dirty language; it is the all-purpose choice for both."
+        },
+        {
+          "id": "lp96b05x",
+          "word": "muddy",
+          "meaning": "covered with mud",
+          "note": "This is the all-purpose choice for something dirty or splashed with mud; it does not specifically describe turbid water."
+        },
+        {
+          "id": "u7cfv73b",
+          "word": "lousy",
+          "meaning": "dirty, untidy",
+          "note": "Use this when “lousy” describes a place or thing as dirty or untidy rather than generally poor in quality."
+        },
+        {
+          "id": "y1hhnqcf",
+          "word": "nasty",
+          "meaning": "dirty, filthy",
+          "register": "colloquial",
+          "note": "Use this specifically when “nasty” means physically dirty or filthy."
+        }
+      ],
       "examples": [
         {
           "english": "The table is so dirty that it feels sticky.",

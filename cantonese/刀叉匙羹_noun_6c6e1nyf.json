@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "cutlery",
-      "english": ["silverware"],
+      "english": [
+        {
+          "id": "ae9tp5d6",
+          "word": "silverware",
+          "meaning": "cutlery",
+          "note": "Use this when you specifically mean the knives, forks and spoons rather than tableware in general."
+        }
+      ],
       "examples": [
         {
           "english": "There isn't any silverware on the table, so how are we supposed to eat steak?",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "investigation",
-      "english": ["investigation", "probe"],
+      "english": [
+        {
+          "id": "irq20kwd",
+          "word": "investigation",
+          "meaning": "inquiry; inquiry process",
+          "note": "This is the all-purpose noun for an investigation or inquiry process."
+        },
+        {
+          "id": "vlbq0c1b",
+          "word": "probe",
+          "meaning": "investigation, inquiry",
+          "note": "Use 調查 as the all-purpose noun for a general or official investigation or inquiry."
+        }
+      ],
       "examples": [
         {
           "english": "We’re still carrying out an investigation, and there are no results yet.",

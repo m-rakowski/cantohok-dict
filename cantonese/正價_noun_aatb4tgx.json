@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "full retail price",
-      "english": ["retail"],
+      "english": [
+        {
+          "id": "1usqawl8",
+          "word": "retail",
+          "meaning": "full retail price",
+          "note": "Use this when contrasting the full regular price with a sale price or discount."
+        }
+      ],
       "examples": [
         {
           "english": "The retail price of this shirt is five hundred dollars, but it's only three hundred on sale.",

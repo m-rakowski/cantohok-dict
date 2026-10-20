@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "harsh and cutting in speech",
-      "english": ["scathing", "cynical"],
+      "english": [
+        {
+          "id": "hh8llerv",
+          "word": "scathing",
+          "meaning": "harshly critical",
+          "note": "This is the all-purpose choice for criticism that is harsh, bitter, and cutting."
+        },
+        {
+          "id": "405h0b6g",
+          "word": "cynical",
+          "meaning": "bitterly distrustful, mocking",
+          "note": "Choose this when cynical emphasizes a bitter, contemptuous, or mocking way of speaking rather than distrust alone."
+        }
+      ],
       "examples": [
         {
           "english": "His review of that new film was so scathing that it made people uncomfortable.",

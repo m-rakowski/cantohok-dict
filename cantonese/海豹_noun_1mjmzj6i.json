@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "marine mammal",
-      "english": ["seal"],
+      "english": [
+        {
+          "id": "kcgnn16b",
+          "word": "seal",
+          "meaning": "marine mammal",
+          "note": "Use this for the marine mammal; it is the all-purpose everyday term rather than the terms for a physical seal or stamp."
+        }
+      ],
       "examples": [
         {
           "english": "The seal at the aquarium is very good at performing tricks.",

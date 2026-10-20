@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "to type in, enter data",
-      "english": ["import", "enter"],
+      "english": [
+        {
+          "id": "jxgz2zp3",
+          "word": "import",
+          "meaning": "bring in goods",
+          "note": "Use this broad verb for bringing goods into a country or entering data into a system when a more specific term is not needed."
+        },
+        {
+          "id": "xwo0inme",
+          "word": "enter",
+          "meaning": "type in on a computer",
+          "note": "Use this for entering text, numbers, usernames, or other data into a computer or device."
+        }
+      ],
       "examples": [
         {
           "english": "You need to import the information on the registration form into the system item by item.",

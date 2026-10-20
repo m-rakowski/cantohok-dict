@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "innovative, new and original",
-      "english": ["innovative", "creative"],
+      "english": [
+        {
+          "id": "asg6obrc",
+          "word": "innovative",
+          "meaning": "new ideas or inventions",
+          "note": "This is the all-purpose choice for something that creates new ideas, methods, or inventions."
+        },
+        {
+          "id": "t48j9yz2",
+          "word": "creative",
+          "meaning": "original, imaginative",
+          "note": "Use this for a creative idea or solution when its novelty or innovation is the main point."
+        }
+      ],
       "examples": [
         {
           "english": "This design is innovative and can save a lot of electricity.",

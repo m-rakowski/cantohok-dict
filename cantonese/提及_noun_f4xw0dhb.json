@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "mention",
-      "english": ["mention", "remark"],
+      "english": [
+        {
+          "id": "xr6m9cdk",
+          "word": "mention",
+          "meaning": "brief reference",
+          "register": "written",
+          "note": "Use this as the formal noun for a brief reference; everyday speech usually recasts the idea as a verb."
+        },
+        {
+          "id": "8s7ynti4",
+          "word": "remark",
+          "meaning": "remark; mention",
+          "register": "formal",
+          "note": "Use this for the fact or act of mentioning something, especially in formal or written contexts rather than for a conversational comment."
+        }
+      ],
       "examples": [
         {
           "english": "This report makes only a brief mention of the incident.",

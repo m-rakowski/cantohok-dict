@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "dislike, aversion",
-      "english": ["dislike", "revulsion", "hatred"],
+      "english": [
+        {
+          "id": "q2qou1g5",
+          "word": "dislike",
+          "meaning": "feeling of aversion",
+          "note": "Use this as the all-purpose noun for a feeling of aversion or distaste."
+        },
+        {
+          "id": "n325n5mu",
+          "word": "revulsion",
+          "meaning": "intense disgust/aversion",
+          "note": "This is the all-purpose noun for strong dislike or aversion, though it can be milder than English “revulsion.”"
+        },
+        {
+          "id": "zp3o9sma",
+          "word": "hatred",
+          "meaning": "strong dislike",
+          "note": "Use this for a strong aversion or dislike, especially toward a person, behavior, or idea, without necessarily implying hatred."
+        }
+      ],
       "examples": [
         {
           "english": "I really dislike this kind of approach.",

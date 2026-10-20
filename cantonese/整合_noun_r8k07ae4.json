@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "combining into a whole",
-      "english": ["integration", "synthesis"],
+      "english": [
+        {
+          "id": "85g9psq4",
+          "word": "integration",
+          "meaning": "making whole",
+          "note": "This is the all-purpose choice for making parts into a coherent whole, including combining components and integrating computer systems."
+        },
+        {
+          "id": "epypcnsn",
+          "word": "synthesis",
+          "meaning": "combining into a whole",
+          "note": "Use this as the all-purpose choice for bringing separate ideas, parts, or pieces together into a coherent whole."
+        }
+      ],
       "examples": [
         {
           "english": "The company finally completed the integration of the two computer systems, making them much easier for staff to use.",

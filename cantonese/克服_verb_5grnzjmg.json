@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "to overcome",
-      "english": ["conquer", "overcome"],
+      "english": [
+        {
+          "id": "vpv5pppa",
+          "word": "conquer",
+          "meaning": "overcome difficulty or fear",
+          "note": "Use this as the standard choice for overcoming a difficulty, obstacle, or fear."
+        },
+        {
+          "id": "xv1vhedd",
+          "word": "overcome",
+          "meaning": "surmount obstacle",
+          "note": "This is the all-purpose choice for surmounting an obstacle or getting through a difficulty."
+        }
+      ],
       "examples": [
         {
           "english": "I slowly conquer my fear of the dark.",

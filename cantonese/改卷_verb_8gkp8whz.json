@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "mark exam papers",
-      "english": ["grade", "mark"],
+      "english": [
+        {
+          "id": "nf3he0ef",
+          "word": "grade",
+          "meaning": "score a test",
+          "note": "Use this specifically when marking or grading students’ test papers."
+        },
+        {
+          "id": "l8sacayu",
+          "word": "mark",
+          "meaning": "grade or correct",
+          "note": "Use this specifically when marking or grading tests and school assignments."
+        }
+      ],
       "examples": [
         {
           "english": "I have to stay at school tonight to grade papers.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "stair landing",
-      "english": ["landing"],
+      "english": [
+        {
+          "id": "techb09b",
+          "word": "landing",
+          "meaning": "stair landing",
+          "note": "Use this for the level area at the top of a staircase or between flights."
+        }
+      ],
       "examples": [
         {
           "english": "I'll wait for you on the landing.",

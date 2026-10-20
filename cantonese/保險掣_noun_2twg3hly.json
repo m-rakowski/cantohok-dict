@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "gun/equipment safety switch",
-      "english": ["safety"],
+      "english": [
+        {
+          "id": "i0vkam2t",
+          "word": "safety",
+          "meaning": "gun/equipment safety switch",
+          "note": "Use this for a firearm's safety catch or a similar mechanism that prevents accidental operation."
+        }
+      ],
       "examples": [
         {
           "english": "Before firing, remember to switch off the safety.",

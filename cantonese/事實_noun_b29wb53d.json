@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "fact, the truth",
-      "english": ["fact", "truth", "reality", "certainty"],
+      "english": [
+        {
+          "id": "v4ugoi3g",
+          "word": "fact",
+          "meaning": "something actual",
+          "note": "Use this as the all-purpose noun for a true, established fact or the facts underlying a case."
+        },
+        {
+          "id": "4mme6ffd",
+          "word": "truth",
+          "meaning": "facts; reality",
+          "note": "This is the all-purpose choice for factual truth, facts, or a true statement."
+        },
+        {
+          "id": "pdqx2zz7",
+          "word": "reality",
+          "meaning": "real fact or thing",
+          "note": "Choose 事實 for a concrete verified fact or real event rather than reality in the broad sense."
+        },
+        {
+          "id": "21g2xf5j",
+          "word": "certainty",
+          "meaning": "established fact",
+          "note": "Use this when the certainty is expressed as an established fact or truth rather than a feeling of confidence."
+        }
+      ],
       "examples": [
         {
           "english": "This fact is completely different from what he said.",

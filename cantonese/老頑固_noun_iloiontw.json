@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "stubborn old person",
-      "english": ["buzzard", "dinosaur"],
+      "english": [
+        {
+          "id": "110fx23l",
+          "word": "buzzard",
+          "meaning": "cantankerous old man",
+          "note": "Use this only for the North American insulting sense of a cantankerous, stubborn old man, not for either bird."
+        },
+        {
+          "id": "tpc0f1a7",
+          "word": "dinosaur",
+          "meaning": "old-fashioned person",
+          "note": "Use this specifically for an old-fashioned person who stubbornly refuses to change, rather than a general old-fashioned person or thing."
+        }
+      ],
       "examples": [
         {
           "english": "That old buzzard is being stubborn again.",

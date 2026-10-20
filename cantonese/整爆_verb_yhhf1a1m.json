@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "make something burst",
-      "english": ["burst", "pop"],
+      "english": [
+        {
+          "id": "vho6rluk",
+          "word": "burst",
+          "meaning": "cause to burst",
+          "register": "colloquial",
+          "note": "Use this when someone causes an object such as a balloon to burst."
+        },
+        {
+          "id": "khx3jenn",
+          "word": "pop",
+          "meaning": "burst; explode",
+          "register": "colloquial",
+          "note": "Use 整爆 when deliberately causing something such as a balloon to burst."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

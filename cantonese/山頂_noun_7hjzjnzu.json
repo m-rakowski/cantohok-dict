@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "mountain top",
-      "english": ["mountaintop", "summit", "peak", "crown"],
+      "english": [
+        {
+          "id": "tdugb1dm",
+          "word": "mountaintop",
+          "meaning": "mountain summit",
+          "note": "This is the all-purpose Cantonese noun for the summit or top of a mountain."
+        },
+        {
+          "id": "c7w9unef",
+          "word": "summit",
+          "meaning": "mountain top",
+          "note": "This is the all-purpose choice for the highest point of a mountain or hill."
+        },
+        {
+          "id": "cbnfdf8y",
+          "word": "peak",
+          "meaning": "mountain summit",
+          "note": "Use this for the top of a mountain or hill, rather than for an abstract maximum."
+        },
+        {
+          "id": "f4f1e3qa",
+          "word": "crown",
+          "meaning": "top of hill",
+          "note": "Use this for the highest part of a hill or mountain."
+        }
+      ],
       "examples": [
         {
           "english": "After hiking for two hours, we finally reached the mountaintop.",

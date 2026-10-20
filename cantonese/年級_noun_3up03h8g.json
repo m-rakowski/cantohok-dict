@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "school grade, year",
-      "english": ["grade", "year"],
+      "english": [
+        {
+          "id": "gxewp9q2",
+          "word": "grade",
+          "meaning": "school year level",
+          "note": "Use this for a primary or secondary school year level, such as fifth grade."
+        },
+        {
+          "id": "7d40drgx",
+          "word": "year",
+          "meaning": "grade level",
+          "note": "Use this for a student's grade or year level rather than the period of the school year."
+        }
+      ],
       "examples": [
         {
           "english": "What grade is your son in?",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "pressure-measuring instrument",
-      "english": ["barometer"],
+      "english": [
+        {
+          "id": "66uy73sq",
+          "word": "barometer",
+          "meaning": "pressure-measuring instrument",
+          "note": "Use this for the actual instrument that measures atmospheric pressure."
+        }
+      ],
       "examples": [
         {
           "english": "This barometer measures atmospheric pressure.",

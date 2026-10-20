@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "lid",
-      "english": ["cover", "lid"],
+      "english": [
+        {
+          "id": "qlu4z0on",
+          "word": "cover",
+          "meaning": "lid",
+          "note": "Use 蓋 as the all-purpose noun for a lid on a container or similar object."
+        },
+        {
+          "id": "iuh4kr6t",
+          "word": "lid",
+          "meaning": "container cover",
+          "note": "This is the all-purpose noun for the top or cover of a container."
+        }
+      ],
       "examples": [
         {
           "english": "The pot cover is missing.",

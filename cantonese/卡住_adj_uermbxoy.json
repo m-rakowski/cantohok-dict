@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "cannot move",
-      "english": ["stuck"],
+      "english": [
+        {
+          "id": "veb0h9r2",
+          "word": "stuck",
+          "meaning": "cannot move",
+          "note": "This is the all-purpose choice for something jammed, a task that will not progress, or a program that has frozen."
+        }
+      ],
       "examples": [
         {
           "english": "I'm stuck on this report and don't know how to continue.",

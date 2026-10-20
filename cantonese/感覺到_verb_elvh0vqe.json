@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "sense, feel that",
-      "english": ["intuit", "perceive"],
+      "english": [
+        {
+          "id": "8lcn7tmd",
+          "word": "intuit",
+          "meaning": "sense directly / by intuition",
+          "note": "Use this when the intuition is closer to immediately sensing or perceiving something."
+        },
+        {
+          "id": "ho2o253h",
+          "word": "perceive",
+          "meaning": "notice, become aware",
+          "note": "Use this when the awareness comes specifically through a physical sensation or sense."
+        }
+      ],
       "examples": [
         {
           "english": "As soon as I walk in, I intuit that something is wrong with the atmosphere at home.",

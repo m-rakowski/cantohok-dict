@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "public image, impression",
-      "english": ["image", "brand"],
+      "english": [
+        {
+          "id": "61415lzk",
+          "word": "image",
+          "meaning": "mental picture",
+          "note": "Use this for an abstract image in the mind or for how a person, group, or company is perceived."
+        },
+        {
+          "id": "7wmhha40",
+          "word": "brand",
+          "meaning": "public image",
+          "note": "Use 形象 for the public image or recognizable style associated with a person or group, rather than a commercial product brand."
+        }
+      ],
       "examples": [
         {
           "english": "Their image in the company is very professional.",
@@ -22,7 +35,14 @@
     },
     {
       "meaning": "mental picture of something",
-      "english": ["idea"],
+      "english": [
+        {
+          "id": "53wetyau",
+          "word": "idea",
+          "meaning": "mental image",
+          "note": "Use this for a mental picture or image of a person or thing, rather than a thought or plan."
+        }
+      ],
       "examples": [
         {
           "english": "I still have an idea of what the house I lived in as a child looked like.",

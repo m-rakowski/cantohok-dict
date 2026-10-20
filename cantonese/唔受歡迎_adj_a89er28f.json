@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "unwelcome, unpopular",
-      "english": ["unwanted", "unpopular"],
+      "english": [
+        {
+          "id": "wcerk9bo",
+          "word": "unwanted",
+          "meaning": "not wanted; unwelcome",
+          "note": "Use this as the all-purpose choice when a person, action, or thing is unwelcome."
+        },
+        {
+          "id": "dq1r54o3",
+          "word": "unpopular",
+          "meaning": "not liked; disliked",
+          "note": "This is the all-purpose choice for something that is not liked or lacks popularity."
+        }
+      ],
       "examples": [
         {
           "english": "This salesperson is unwanted in front of the family.",

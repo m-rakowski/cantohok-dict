@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "suppress, oppress",
-      "english": ["humble", "persecute"],
+      "english": [
+        {
+          "id": "cyvu0iiv",
+          "word": "humble",
+          "meaning": "defeat, put down",
+          "note": "Use this when someone’s power, independence, or influence is being suppressed rather than simply defeated."
+        },
+        {
+          "id": "x2j5kml2",
+          "word": "persecute",
+          "meaning": "harm or oppress",
+          "note": "Use this when an authority or powerful group is suppressing people, their rights, or their beliefs."
+        }
+      ],
       "examples": [
         {
           "english": "The company keeps suppressing the staff’s independence, which is meant to humble them.",

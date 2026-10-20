@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "sports ground, stadium",
-      "english": ["stadium", "arena", "field"],
+      "english": [
+        {
+          "id": "dsadly5a",
+          "word": "stadium",
+          "meaning": "sports venue",
+          "note": "This is the all-purpose everyday term for a venue where sporting events are held."
+        },
+        {
+          "id": "d8wbq3c2",
+          "word": "arena",
+          "meaning": "sports / event arena",
+          "note": "Use this for an outdoor sports ground or field, especially when the arena is not an enclosed building."
+        },
+        {
+          "id": "fxhbky53",
+          "word": "field",
+          "meaning": "sports field",
+          "note": "Use 運動場 for a general sports or athletics field, while a specific sport may use a more specific compound such as 足球場."
+        }
+      ],
       "examples": [
         {
           "english": "We’re watching a football match at the stadium tomorrow.",

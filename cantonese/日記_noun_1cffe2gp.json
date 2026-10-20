@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "diary",
-      "english": ["diary", "journal"],
+      "english": [
+        {
+          "id": "gua1gtlr",
+          "word": "diary",
+          "meaning": "personal journal",
+          "note": "This is the all-purpose word for a personal journal or diary of daily experiences."
+        },
+        {
+          "id": "1kz5l2f2",
+          "word": "journal",
+          "meaning": "diary / daily record",
+          "note": "This is the all-purpose Cantonese choice for a personal diary or daily record."
+        }
+      ],
       "examples": [
         {
           "english": "I write in my diary every day, recording what happened that day.",

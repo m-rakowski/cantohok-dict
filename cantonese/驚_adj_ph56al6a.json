@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "scared",
-      "english": ["scared", "apprehensive"],
+      "english": [
+        {
+          "id": "dbtl5i3z",
+          "word": "scared",
+          "meaning": "afraid; frightened",
+          "note": "This is the all-purpose choice for feeling afraid or frightened."
+        },
+        {
+          "id": "e28c976j",
+          "word": "apprehensive",
+          "meaning": "anxious; fearful",
+          "note": "Use this when the apprehension is chiefly fear of a person, event, or possible outcome."
+        }
+      ],
       "examples": [
         {
           "english": "I feel a bit scared walking home alone at night.",

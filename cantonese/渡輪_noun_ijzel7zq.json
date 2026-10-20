@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "ferry",
-      "english": ["ferry", "ferryboat"],
+      "english": [
+        {
+          "id": "1lcwnv83",
+          "word": "ferry",
+          "meaning": "boat for crossing",
+          "note": "Use 渡輪 as the ordinary all-purpose word for the boat or ship itself."
+        },
+        {
+          "id": "2lj2vxb0",
+          "word": "ferryboat",
+          "meaning": "passenger ferry boat",
+          "note": "This is the all-purpose Hong Kong Cantonese word for a ferry carrying passengers, vehicles, or goods, especially on a regular route."
+        }
+      ],
       "examples": [
         {
           "english": "We take the ferry across the harbour.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "give off light, heat or waves",
-      "english": ["radiate"],
+      "english": [
+        {
+          "id": "plcux40x",
+          "word": "radiate",
+          "meaning": "give off rays or heat",
+          "note": "This is the all-purpose choice for saying that something emits heat, light, rays, or waves."
+        }
+      ],
       "examples": [
         {
           "english": "This lamp can radiate a soft light.",
@@ -17,7 +24,14 @@
     },
     {
       "meaning": "send out a notice or order",
-      "english": ["issue"],
+      "english": [
+        {
+          "id": "5pny3hv9",
+          "word": "issue",
+          "meaning": "issue; release",
+          "note": "Use this for sending something out, especially a notice, order, or other official document, rather than circulating money or publications."
+        }
+      ],
       "examples": [
         {
           "english": "The school is preparing to issue a school-closure notice.",

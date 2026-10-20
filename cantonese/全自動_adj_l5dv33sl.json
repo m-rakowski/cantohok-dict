@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "automatic firearm",
-      "english": ["automatic"],
+      "english": [
+        {
+          "id": "imgtx4f0",
+          "word": "automatic",
+          "meaning": "automatic firearm",
+          "note": "Use this specifically for a firearm that continues firing while the trigger is held down."
+        }
+      ],
       "examples": [
         {
           "english": "This gun has an automatic mode and keeps firing while you hold the trigger down.",

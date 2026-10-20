@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "alimony",
-      "english": ["maintenance"],
+      "english": [
+        {
+          "id": "5gyz91fb",
+          "word": "maintenance",
+          "meaning": "alimony",
+          "note": "Use this for alimony paid or ordered for a former spouse after divorce."
+        }
+      ],
       "examples": [
         {
           "english": "After the divorce, they have to pay their ex-wife monthly maintenance.",

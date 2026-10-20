@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "person who votes",
-      "english": ["voter"],
+      "english": [
+        {
+          "id": "erk2pmfv",
+          "word": "voter",
+          "meaning": "person who votes",
+          "note": "Use this when referring specifically to a person who casts a vote rather than to the electorate generally."
+        }
+      ],
       "examples": [
         {
           "english": "A voter does not always support the candidate they like most。",

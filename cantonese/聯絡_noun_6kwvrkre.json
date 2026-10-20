@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "contact, communication",
-      "english": ["contact", "liaison"],
+      "english": [
+        {
+          "id": "5olpaqxq",
+          "word": "contact",
+          "meaning": "communication",
+          "note": "This is the all-purpose noun for having or maintaining communication with someone."
+        },
+        {
+          "id": "e04be2rz",
+          "word": "liaison",
+          "meaning": "communication link",
+          "note": "Use this as the general choice for communication or maintaining contact between two parties."
+        }
+      ],
       "examples": [
         {
           "english": "We keep in contact.",

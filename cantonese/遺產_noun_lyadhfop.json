@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "inheritance, legacy",
-      "english": ["heritage", "inheritance", "legacy"],
+      "english": [
+        {
+          "id": "yp8vuqwe",
+          "word": "heritage",
+          "meaning": "inherited property",
+          "note": "Use this for property or money inherited from someone who has died."
+        },
+        {
+          "id": "qo0bf8k2",
+          "word": "inheritance",
+          "meaning": "something inherited",
+          "note": "Use 遺產 as the default choice for the money, property, or estate that someone inherits."
+        },
+        {
+          "id": "9xz1bhli",
+          "word": "legacy",
+          "meaning": "bequest; inheritance",
+          "note": "This is the all-purpose choice for property inherited through a will and for a lasting cultural or historical legacy."
+        }
+      ],
       "examples": [
         {
           "english": "They received an inheritance as heritage after their father died.",

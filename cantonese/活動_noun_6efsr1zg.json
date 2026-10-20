@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "activity, event",
-      "english": ["activity", "function", "event"],
+      "english": [
+        {
+          "id": "fmw7b4iv",
+          "word": "activity",
+          "meaning": "state of being active",
+          "note": "Use 活動 as the all-purpose noun for active goings-on, a general activity, or a leisure activity."
+        },
+        {
+          "id": "yq8mik35",
+          "word": "function",
+          "meaning": "social event, formal gathering",
+          "note": "Use 活動 for an organised official, work-related, or public event."
+        },
+        {
+          "id": "aaoy1v1z",
+          "word": "event",
+          "meaning": "social event",
+          "note": "Use 活動 for a prearranged social activity or function."
+        }
+      ],
       "examples": [
         {
           "english": "This activity is suitable for the whole family.",

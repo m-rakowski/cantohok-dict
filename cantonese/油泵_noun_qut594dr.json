@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "fuel pump / dispenser",
-      "english": ["pump"],
+      "english": [
+        {
+          "id": "lmnezmo5",
+          "word": "pump",
+          "meaning": "fuel pump / dispenser",
+          "note": "Use this specifically for a fuel pump or petrol-station dispenser rather than a general-purpose pump."
+        }
+      ],
       "examples": [
         {
           "english": "Before getting fuel, check whether the fuel pump is working.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "very scared",
-      "english": ["terrified", "petrified"],
+      "english": [
+        {
+          "id": "rsrzmfcl",
+          "word": "terrified",
+          "meaning": "extremely frightened",
+          "note": "This is the all-purpose everyday choice for being extremely frightened, including being terrified of something."
+        },
+        {
+          "id": "aybxtb7e",
+          "word": "petrified",
+          "meaning": "very scared",
+          "note": "Use this as the all-purpose everyday way to say someone is extremely afraid."
+        }
+      ],
       "examples": [
         {
           "english": "I’m really terrified walking home alone at night.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "can, tin",
-      "english": ["can", "tin"],
+      "english": [
+        {
+          "id": "w67xnx5a",
+          "word": "can",
+          "meaning": "metal container",
+          "note": "This is the all-purpose noun for a can or metal container, especially when naming its contents."
+        },
+        {
+          "id": "u8rp17jy",
+          "word": "tin",
+          "meaning": "food can / tin",
+          "note": "This is the all-purpose everyday word for a metal can or tin used as a container."
+        }
+      ],
       "examples": [
         {
           "english": "This can of soda is mine.",

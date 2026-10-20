@@ -6,7 +6,15 @@
   "boxes": [
     {
       "meaning": "status as citizen",
-      "english": ["citizenship"],
+      "english": [
+        {
+          "id": "mh3chmah",
+          "word": "citizenship",
+          "meaning": "status as citizen",
+          "register": "formal",
+          "note": "Use this when you want to state explicitly that citizenship is a person's legal status as a citizen."
+        }
+      ],
       "register": "formal",
       "examples": [
         {

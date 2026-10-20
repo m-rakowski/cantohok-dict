@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "dear, beloved",
-      "english": ["darling", "dear"],
+      "english": [
+        {
+          "id": "f86vhexg",
+          "word": "darling",
+          "meaning": "beloved; cherished",
+          "note": "Choose this for a person who is dearly loved or cherished, especially in affectionate descriptions such as 親愛嘅老婆."
+        },
+        {
+          "id": "qboex839",
+          "word": "dear",
+          "meaning": "dear, beloved",
+          "register": "formal",
+          "note": "Use 親愛 for someone who is loved or addressed affectionately, especially in a formal or written greeting."
+        }
+      ],
       "examples": [
         {
           "english": "My darling wife, you've worked hard.",

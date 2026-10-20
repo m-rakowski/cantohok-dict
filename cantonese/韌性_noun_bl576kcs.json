@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "toughness of a material",
-      "english": ["toughness", "tenacity"],
+      "english": [
+        {
+          "id": "21j27s55",
+          "word": "toughness",
+          "meaning": "resistance to breaking",
+          "register": "written",
+          "note": "Use this for a material's resistance to breaking or fracturing; it is the all-purpose noun for this physical sense."
+        },
+        {
+          "id": "cbo3el8c",
+          "word": "tenacity",
+          "meaning": "material toughness",
+          "note": "Use this for a material's resistance to breaking or separating under force."
+        }
+      ],
       "examples": [
         {
           "english": "This steel has good toughness, so it does not crack easily under stress.",

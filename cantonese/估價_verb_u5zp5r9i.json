@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "estimate the value or price",
-      "english": ["value", "estimate"],
+      "english": [
+        {
+          "id": "rysso60e",
+          "word": "value",
+          "meaning": "estimate value",
+          "note": "Use this when determining or estimating the monetary value of an object, especially in an appraisal."
+        },
+        {
+          "id": "1oz92urt",
+          "word": "estimate",
+          "meaning": "judge / assess roughly",
+          "note": "Use this specifically when judging or determining the approximate value or price of something."
+        }
+      ],
       "examples": [
         {
           "english": "We need an expert to value this antique.",

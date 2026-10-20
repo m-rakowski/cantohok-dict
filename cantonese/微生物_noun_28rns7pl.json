@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "microorganism",
-      "english": ["microorganism", "microbe"],
+      "english": [
+        {
+          "id": "f3gx4lue",
+          "word": "microorganism",
+          "meaning": "tiny living organism",
+          "note": "This is the all-purpose term for a microorganism, especially in scientific or explanatory contexts."
+        },
+        {
+          "id": "lljrpt9z",
+          "word": "microbe",
+          "meaning": "microorganism; harmful bacterium",
+          "register": "formal",
+          "note": "Use 微生物 for the scientifically precise sense of any microorganism, including harmless ones."
+        }
+      ],
       "examples": [
         {
           "english": "You can only see the microorganism under a microscope.",

@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "to mail, send by post",
-      "english": ["mail", "ship", "send", "post"],
+      "english": [
+        {
+          "id": "yv0csnfp",
+          "word": "mail",
+          "meaning": "send by post",
+          "note": "This is the all-purpose verb for sending a letter or parcel through the post."
+        },
+        {
+          "id": "i54vkbg5",
+          "word": "ship",
+          "meaning": "send by post",
+          "note": "This is the all-purpose everyday verb for sending a parcel to someone, usually by post or courier."
+        },
+        {
+          "id": "0peu2xpa",
+          "word": "send",
+          "meaning": "send something somewhere",
+          "note": "Use 寄 when sending a letter, parcel, or other item through the post or a delivery service."
+        },
+        {
+          "id": "volv5ytg",
+          "word": "post",
+          "meaning": "send by mail",
+          "note": "Use this for sending a letter or parcel through the postal service."
+        }
+      ],
       "examples": [
         {
           "english": "I’ll mail a document to you tomorrow.",

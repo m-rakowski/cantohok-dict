@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "children, sons and daughters",
-      "english": ["offspring", "kid"],
+      "english": [
+        {
+          "id": "y4fqca0x",
+          "word": "offspring",
+          "meaning": "child; son or daughter",
+          "register": "colloquial",
+          "note": "This is the all-purpose everyday term for a person's son or daughter."
+        },
+        {
+          "id": "qw35rkmf",
+          "word": "kid",
+          "meaning": "one's child",
+          "register": "colloquial",
+          "note": "Use this for someone's son or daughter, especially when referring to their children as a family relationship."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "medical/image scan",
-      "english": ["scan"],
+      "english": [
+        {
+          "id": "yhfmfvo8",
+          "word": "scan",
+          "meaning": "medical/image scan",
+          "note": "This is the all-purpose noun for a medical or imaging scan as a procedure."
+        }
+      ],
       "examples": [
         {
           "english": "I need to get a scan at the hospital tomorrow.",

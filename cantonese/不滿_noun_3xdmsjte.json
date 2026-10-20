@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "dissatisfaction, discontent",
-      "english": ["disapproval", "displeasure", "dissatisfaction", "remonstrance", "beef"],
+      "english": [
+        {
+          "id": "vdrf5f5w",
+          "word": "disapproval",
+          "meaning": "condemnation, disapproving reaction",
+          "note": "This is the all-purpose noun for a person's disapproval or dissatisfied reaction."
+        },
+        {
+          "id": "vc75sdxp",
+          "word": "displeasure",
+          "meaning": "feeling of displeasure",
+          "note": "This is the all-purpose noun for a feeling of dissatisfaction or disapproval."
+        },
+        {
+          "id": "ag9aeg9i",
+          "word": "dissatisfaction",
+          "meaning": "unhappiness; discontent",
+          "note": "Use this as the all-purpose noun for a person's unhappiness or discontent."
+        },
+        {
+          "id": "dvan2mxd",
+          "word": "remonstrance",
+          "meaning": "formal objection; protest",
+          "note": "Use this when the remonstrance mainly expresses dissatisfaction or grumbling rather than an explicit protest."
+        },
+        {
+          "id": "6jzd8wol",
+          "word": "beef",
+          "meaning": "argument, grievance",
+          "note": "Use this for dissatisfaction or a grievance toward a person or thing."
+        }
+      ],
       "examples": [
         {
           "english": "I have some disapproval of this arrangement.",

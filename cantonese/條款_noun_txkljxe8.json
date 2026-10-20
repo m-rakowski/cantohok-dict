@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "clause or term in a contract",
-      "english": ["clause", "stipulation", "term"],
+      "english": [
+        {
+          "id": "6h2ov937",
+          "word": "clause",
+          "meaning": "legal clause",
+          "note": "Use this for a distinct provision in a contract, will, or other legal document."
+        },
+        {
+          "id": "884arf6w",
+          "word": "stipulation",
+          "meaning": "condition of an agreement",
+          "note": "This is the all-purpose choice for a condition or provision stated in a contract or other agreement."
+        },
+        {
+          "id": "wzct51xl",
+          "word": "term",
+          "meaning": "contract terms",
+          "note": "Use this for the binding conditions of a contract, including its payment conditions."
+        }
+      ],
       "examples": [
         {
           "english": "This contract has a clause stating that tenants cannot keep pets.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "lifelike, realistic",
-      "english": ["credible", "realistic"],
+      "english": [
+        {
+          "id": "7fguh2i5",
+          "word": "credible",
+          "meaning": "convincing, authentic",
+          "note": "Use this for acting, performances, or portrayals that seem authentic and realistic rather than merely believable as a claim."
+        },
+        {
+          "id": "iwcd8mut",
+          "word": "realistic",
+          "meaning": "lifelike, true to reality",
+          "note": "Use this for a depiction, image, performance, or description that looks or feels lifelike."
+        }
+      ],
       "examples": [
         {
           "english": "Their portrayal of a sick person in the film is very credible.",

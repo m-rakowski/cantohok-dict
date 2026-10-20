@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "road traffic congestion",
-      "english": ["traffic jam"],
+      "english": [
+        {
+          "id": "jzlviqbm",
+          "word": "traffic jam",
+          "meaning": "road traffic congestion",
+          "note": "Use 車龍 when you want to emphasize the long line of vehicles formed by the jam."
+        }
+      ],
       "examples": [
         {
           "english": "Before the tunnel, there was already a traffic jam of cars stretching as far as I could see.",

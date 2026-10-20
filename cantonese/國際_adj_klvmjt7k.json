@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "international",
-      "english": ["international", "foreign"],
+      "english": [
+        {
+          "id": "14d39xku",
+          "word": "international",
+          "meaning": "between nations",
+          "note": "This is the all-purpose choice for things involving or extending across nations, including international organizations and cooperation."
+        },
+        {
+          "id": "1afozpie",
+          "word": "foreign",
+          "meaning": "relating to other countries",
+          "note": "Use this for matters involving or relating to different countries, especially institutions, relations, and policy."
+        }
+      ],
       "examples": [
         {
           "english": "This international organization has members in many countries.",

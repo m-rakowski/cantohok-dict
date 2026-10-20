@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "compete",
-      "english": ["compete", "strive"],
+      "english": [
+        {
+          "id": "8tcngb3q",
+          "word": "compete",
+          "meaning": "rival for same thing",
+          "note": "Use 競爭 as the all-purpose verb when people rival one another for the same position, prize, or outcome."
+        },
+        {
+          "id": "9hzcp0hu",
+          "word": "strive",
+          "meaning": "struggle against",
+          "note": "Use this when striving means competing or contending with another person or group."
+        }
+      ],
       "examples": [
         {
           "english": "Both companies want to compete for this government contract.",

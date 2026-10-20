@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "old junky car",
-      "english": ["shed", "heap"],
+      "english": [
+        {
+          "id": "mjhzqses",
+          "word": "shed",
+          "meaning": "old car / junker",
+          "note": "Use this for an old, worn-out, or generally poor-quality car rather than a merely vintage one."
+        },
+        {
+          "id": "sn8wvexm",
+          "word": "heap",
+          "meaning": "old junky car",
+          "register": "colloquial",
+          "note": "Use this specifically for a dilapidated, junky car rather than an ordinary pile or large quantity."
+        }
+      ],
       "examples": [
         {
           "english": "You're still driving this shed to work—aren't you afraid it'll break down halfway?",

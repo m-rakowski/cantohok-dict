@@ -6,7 +6,42 @@
   "boxes": [
     {
       "meaning": "troublesome thing or chore",
-      "english": ["bear", "plague", "beast", "pain", "displeasure"],
+      "english": [
+        {
+          "id": "8rq35xc5",
+          "word": "bear",
+          "meaning": "nuisance",
+          "note": "Use this for a thing, task, or chore that is a hassle, rather than for an animal, person, or investor."
+        },
+        {
+          "id": "qc7qih8u",
+          "word": "plague",
+          "meaning": "nuisance, annoyance",
+          "register": "colloquial",
+          "note": "Use this as the all-purpose noun for a serious nuisance or irritating thing."
+        },
+        {
+          "id": "1yreaa65",
+          "word": "beast",
+          "meaning": "nasty hard thing",
+          "register": "colloquial",
+          "note": "Use this for an unpleasant, difficult, or unruly thing or matter rather than for a neutral object."
+        },
+        {
+          "id": "1ug1yniu",
+          "word": "pain",
+          "meaning": "annoying person or thing",
+          "register": "colloquial",
+          "note": "Use this when the annoying pain is a thing or situation rather than a person."
+        },
+        {
+          "id": "20fkr303",
+          "word": "displeasure",
+          "meaning": "cause of annoyance",
+          "register": "colloquial",
+          "note": "Use this colloquial noun phrase for an annoying or troublesome thing, especially a concrete cause of displeasure."
+        }
+      ],
       "examples": [
         {
           "english": "Doing this report is a real bear.",

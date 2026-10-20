@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "large amount of",
-      "english": ["extensive", "major"],
+      "english": [
+        {
+          "id": "lrby1d1t",
+          "word": "extensive",
+          "meaning": "large in amount/scope",
+          "note": "Use this when extensive means a considerable quantity or amount, as in extensive research, data, or work."
+        },
+        {
+          "id": "y3uh149z",
+          "word": "major",
+          "meaning": "larger amount",
+          "note": "Use this before a noun when major refers to a large amount, number, or extent."
+        }
+      ],
       "examples": [
         {
           "english": "We did extensive research to write this report.",

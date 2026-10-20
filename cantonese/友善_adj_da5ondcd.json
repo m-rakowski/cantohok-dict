@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "friendly, kind",
-      "english": ["friendly", "kind", "nice"],
+      "english": [
+        {
+          "id": "9kwlnkyb",
+          "word": "friendly",
+          "meaning": "warm and approachable",
+          "note": "This is the all-purpose choice for a person’s warm character or a friendly manner, such as a smile."
+        },
+        {
+          "id": "tvxf867c",
+          "word": "kind",
+          "meaning": "kind; kind-hearted",
+          "note": "Use this for the friendly, approachable side of being kind."
+        },
+        {
+          "id": "9wjofvn5",
+          "word": "nice",
+          "meaning": "friendly, kind person",
+          "note": "Choose this when “nice” specifically describes someone as friendly and well-disposed toward others."
+        }
+      ],
       "examples": [
         {
           "english": "Their smile is very friendly.",

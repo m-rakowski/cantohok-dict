@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "with force, hard",
-      "english": ["hard", "forcefully"],
+      "english": [
+        {
+          "id": "rxiy4znz",
+          "word": "hard",
+          "meaning": "with much force or effort",
+          "note": "This is the all-purpose choice when an action is done with much force or effort."
+        },
+        {
+          "id": "r4h4s3uf",
+          "word": "forcefully",
+          "meaning": "vigorously / powerfully",
+          "note": "Use this specifically when someone applies physical force, such as pushing, pulling, or hitting."
+        }
+      ],
       "examples": [
         {
           "english": "You need to push hard when you open the door.",

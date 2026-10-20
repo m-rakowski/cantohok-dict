@@ -6,7 +6,29 @@
   "boxes": [
     {
       "meaning": "lazy person",
-      "english": ["slob", "layabout", "bum"],
+      "english": [
+        {
+          "id": "w2rw9io6",
+          "word": "slob",
+          "meaning": "lazy, slovenly person",
+          "register": "colloquial",
+          "note": "This is the all-purpose casual choice when you mainly mean a lazy, uncaring person."
+        },
+        {
+          "id": "t1is9w0i",
+          "word": "layabout",
+          "meaning": "lazy person",
+          "register": "colloquial",
+          "note": "Use this colloquial, mildly teasing term when calling someone lazy."
+        },
+        {
+          "id": "6i6q405d",
+          "word": "bum",
+          "meaning": "lazy person",
+          "register": "colloquial",
+          "note": "Use this for a person, usually a man, who is habitually lazy or useless."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

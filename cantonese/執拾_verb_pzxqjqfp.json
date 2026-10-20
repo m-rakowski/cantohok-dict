@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "tidy up",
-      "english": ["clean"],
+      "english": [
+        {
+          "id": "e47xnknp",
+          "word": "clean",
+          "meaning": "tidy up",
+          "note": "Use this when the main idea is putting a room or area in order rather than removing dirt."
+        }
+      ],
       "examples": [
         {
           "english": "Remember to clean up the table after dinner.",
@@ -17,7 +24,14 @@
     },
     {
       "meaning": "gather leftover crops",
-      "english": ["glean"],
+      "english": [
+        {
+          "id": "wv7t5rsi",
+          "word": "glean",
+          "meaning": "collect leftover crops",
+          "note": "Use this for picking up leftover crops or produce after the main harvest."
+        }
+      ],
       "examples": [
         {
           "english": "After the harvest, the villagers still glean the vegetables left in the fields.",

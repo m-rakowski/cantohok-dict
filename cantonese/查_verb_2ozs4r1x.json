@@ -6,7 +6,33 @@
   "boxes": [
     {
       "meaning": "check, look into",
-      "english": ["check", "exam", "investigate", "dig"],
+      "english": [
+        {
+          "id": "mk9x58n3",
+          "word": "check",
+          "meaning": "inspect, examine",
+          "note": "This is the all-purpose choice for inspecting or looking into something, such as checking your car oil."
+        },
+        {
+          "id": "xndxd2kf",
+          "word": "exam",
+          "meaning": "examine (short form)",
+          "note": "This is the all-purpose verb for examining or checking something."
+        },
+        {
+          "id": "33t8ir7n",
+          "word": "investigate",
+          "meaning": "look into, inquire into",
+          "register": "colloquial",
+          "note": "This is the casual all-purpose choice for looking into or checking something."
+        },
+        {
+          "id": "kqu64pv8",
+          "word": "dig",
+          "meaning": "investigate",
+          "note": "Use 查 when “dig” means to investigate or research, including looking for evidence or information."
+        }
+      ],
       "examples": [
         {
           "english": "I want to check the car's oil.",

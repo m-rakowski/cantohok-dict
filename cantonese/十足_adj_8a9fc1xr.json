@@ -6,7 +6,45 @@
   "boxes": [
     {
       "meaning": "utter, complete",
-      "english": ["total", "pure", "sheer", "complete", "proper", "thorough"],
+      "english": [
+        {
+          "id": "ccn0q3xl",
+          "word": "total",
+          "meaning": "complete; absolute",
+          "note": "Use this for “total” meaning absolute or utter, as in a total failure."
+        },
+        {
+          "id": "otc1lldz",
+          "word": "pure",
+          "meaning": "complete; utter",
+          "note": "Use this for the sense of sheer or utter, as in “pure madness” or “a pure fool.”"
+        },
+        {
+          "id": "nhbky6u1",
+          "word": "sheer",
+          "meaning": "complete, utter",
+          "note": "Use this for something that is complete, utter, or pure in the relevant quality."
+        },
+        {
+          "id": "u4i78l9u",
+          "word": "complete",
+          "meaning": "used for emphasis",
+          "note": "Use this before a noun or adjective when complete is an emphatic intensifier, as in “a complete bastard.”"
+        },
+        {
+          "id": "ck7nyy93",
+          "word": "proper",
+          "meaning": "complete; utter",
+          "note": "Use this before a description when proper means complete, utter, or downright, as in an utter fool."
+        },
+        {
+          "id": "xq94n3nd",
+          "word": "thorough",
+          "meaning": "complete; absolute",
+          "register": "colloquial",
+          "note": "Use this for the colloquial emphatic sense of “utter” or “absolute,” especially before a noun such as 十足嘅傻仔."
+        }
+      ],
       "examples": [
         {
           "english": "This was a total failure.",

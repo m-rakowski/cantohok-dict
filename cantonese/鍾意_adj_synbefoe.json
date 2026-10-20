@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "fond of, liking",
-      "english": ["fond", "partial"],
+      "english": [
+        {
+          "id": "mhmmxgkb",
+          "word": "fond",
+          "meaning": "be fond of; like",
+          "note": "This is the all-purpose rendering when you mean that you like or are fond of someone or something."
+        },
+        {
+          "id": "0ucdkz62",
+          "word": "partial",
+          "meaning": "fond of",
+          "register": "colloquial",
+          "note": "Use this everyday word when partial means fond of or liking something."
+        }
+      ],
       "examples": [
         {
           "english": "I am fond of this movie.",

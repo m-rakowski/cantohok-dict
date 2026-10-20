@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "in the expression 'square feet'",
-      "english": ["square"],
+      "english": [
+        {
+          "id": "fn615kk6",
+          "word": "square",
+          "meaning": "in the expression 'square feet'",
+          "note": "Use this before a unit of area, as in 平方呎 for “square feet.”"
+        }
+      ],
       "examples": [
         {
           "english": "This flat is eight hundred square feet.",

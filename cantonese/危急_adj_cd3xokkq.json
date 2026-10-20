@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "critical, urgent",
-      "english": ["acute", "critical"],
+      "english": [
+        {
+          "id": "ndrrnkf1",
+          "word": "acute",
+          "meaning": "urgent, severe",
+          "note": "Use this for an urgent and critical situation, especially when immediate medical attention is needed."
+        },
+        {
+          "id": "t7ixq2eu",
+          "word": "critical",
+          "meaning": "in serious condition",
+          "note": "Use this for a patient in a critical condition or a situation that is dangerously close to going out of control."
+        }
+      ],
       "examples": [
         {
           "english": "The patient's condition is acute and they need to be taken to hospital immediately.",

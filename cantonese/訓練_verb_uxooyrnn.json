@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "to train",
-      "english": ["coach", "train", "equip"],
+      "english": [
+        {
+          "id": "qzf1g8qj",
+          "word": "coach",
+          "meaning": "train; instruct",
+          "note": "Use this when the coaching emphasizes systematic practice or conditioning rather than teaching a subject."
+        },
+        {
+          "id": "wy33b1a9",
+          "word": "train",
+          "meaning": "teach / train someone",
+          "note": "Use 訓練 for deliberately developing someone’s ability through practice or conditioning."
+        },
+        {
+          "id": "20nv9dus",
+          "word": "equip",
+          "meaning": "prepare with a skill",
+          "note": "Use this when equipping someone with a skill means teaching and practising that skill."
+        }
+      ],
       "examples": [
         {
           "english": "The coach trains us for two hours every morning.",

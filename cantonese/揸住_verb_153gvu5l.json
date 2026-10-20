@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "hold on to, grip",
-      "english": ["hold", "grip", "clutch"],
+      "english": [
+        {
+          "id": "mke2uw9u",
+          "word": "hold",
+          "meaning": "grasp or grip",
+          "note": "Use this for gripping something or holding onto an item in your hand temporarily, rather than reserving or containing it."
+        },
+        {
+          "id": "d4z811d1",
+          "word": "grip",
+          "meaning": "hold with hand",
+          "note": "This is the all-purpose choice for physically taking hold of something with your hand."
+        },
+        {
+          "id": "rc12obkh",
+          "word": "clutch",
+          "meaning": "seize like claws",
+          "note": "Use this when seizing or holding something firmly, especially an abstract thing such as power."
+        }
+      ],
       "examples": [
         {
           "english": "Can you hold my bag for me for a moment?",

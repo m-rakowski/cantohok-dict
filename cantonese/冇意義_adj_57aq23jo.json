@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "meaningless, pointless",
-      "english": ["meaningless", "vain", "absurd"],
+      "english": [
+        {
+          "id": "xsv3xdaf",
+          "word": "meaningless",
+          "meaning": "lacking meaning",
+          "note": "This is the all-purpose choice for something lacking meaning, significance, or a worthwhile point."
+        },
+        {
+          "id": "d0bwbn3w",
+          "word": "vain",
+          "meaning": "empty, worthless",
+          "note": "Use this when something is empty, meaningless, or of no real value or importance."
+        },
+        {
+          "id": "0548yoer",
+          "word": "absurd",
+          "meaning": "meaningless universe; absurd reality",
+          "register": "colloquial",
+          "note": "Use this when the emphasis is that a situation or existence is meaningless or has no value, not simply ridiculous."
+        }
+      ],
       "examples": [
         {
           "english": "Those politicians’ slogans are meaningless for improving people’s lives.",

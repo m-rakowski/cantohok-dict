@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "hot, humid climate",
-      "english": ["tropical"],
+      "english": [
+        {
+          "id": "keokedbj",
+          "word": "tropical",
+          "meaning": "hot, humid climate",
+          "note": "Use this for the hot-and-humid climate sense, especially when describing weather or a place rather than its geographic location."
+        }
+      ],
       "examples": [
         {
           "english": "The summers here are tropical.",

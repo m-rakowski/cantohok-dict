@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "family, people at home",
-      "english": ["household", "folk"],
+      "english": [
+        {
+          "id": "ynva52kb",
+          "word": "household",
+          "meaning": "family/people in a home",
+          "register": "colloquial",
+          "note": "Use this colloquial form when you mean the people who live in the home, rather than the unit itself."
+        },
+        {
+          "id": "2ryn8ong",
+          "word": "folk",
+          "meaning": "one’s parents/relatives",
+          "register": "colloquial",
+          "note": "Use this for one's family or the people from one's household, including one's folks back home."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

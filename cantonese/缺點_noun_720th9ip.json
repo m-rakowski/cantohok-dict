@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "shortcoming, weakness",
-      "english": ["disadvantage", "drawback", "limitation", "fault", "weakness"],
+      "english": [
+        {
+          "id": "3c0li9xv",
+          "word": "disadvantage",
+          "meaning": "drawback; con",
+          "note": "This is the all-purpose noun for an inherent weakness or disadvantage."
+        },
+        {
+          "id": "o4r0xevh",
+          "word": "drawback",
+          "meaning": "disadvantage",
+          "note": "Use this when the drawback is an inherent flaw or shortcoming of a person or thing."
+        },
+        {
+          "id": "a3k5vnw9",
+          "word": "limitation",
+          "meaning": "shortcoming or flaw",
+          "note": "Use this when the limitation is a defect or shortcoming that reduces usefulness or value."
+        },
+        {
+          "id": "0m6nhrbo",
+          "word": "fault",
+          "meaning": "personal failing",
+          "note": "Use this for a personal character failing or shortcoming rather than responsibility for an event."
+        },
+        {
+          "id": "1cg8dcr6",
+          "word": "weakness",
+          "meaning": "fault, weak point",
+          "note": "Use 缺點 specifically when the weakness is an inadequacy or personal fault rather than a vulnerable point."
+        }
+      ],
       "examples": [
         {
           "english": "The biggest disadvantage of this plan is that it’s too expensive.",

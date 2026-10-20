@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "chaotic, a total mess",
-      "english": ["haphazard", "inchoate"],
+      "english": [
+        {
+          "id": "97zrvoaf",
+          "word": "haphazard",
+          "meaning": "random, chaotic, unplanned",
+          "note": "This is the all-purpose choice for things that are chaotic, disorganized, or inconsistent."
+        },
+        {
+          "id": "xdl20zdr",
+          "word": "inchoate",
+          "meaning": "chaotic, disordered",
+          "note": "Use this for something generally chaotic, disordered, or confused rather than merely unfinished."
+        }
+      ],
       "examples": [
         {
           "english": "Your room is really haphazard, with clothes scattered everywhere.",

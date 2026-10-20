@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "written character, writing",
-      "english": ["print", "character"],
+      "english": [
+        {
+          "id": "bsp4yf7i",
+          "word": "print",
+          "meaning": "small text",
+          "note": "Use this all-purpose noun when referring to the letters or text of a document, especially its readability or size."
+        },
+        {
+          "id": "osglrem9",
+          "word": "character",
+          "meaning": "written symbol",
+          "note": "Use this everyday word for a written or printed character, especially a Chinese character or letter."
+        }
+      ],
       "examples": [
         {
           "english": "The print on the paper is too small for me to read.",

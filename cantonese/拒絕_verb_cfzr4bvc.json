@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "refuse, turn down",
-      "english": ["decline", "reject", "repel", "refuse", "deny"],
+      "english": [
+        {
+          "id": "rp4jwhqf",
+          "word": "decline",
+          "meaning": "refuse politely",
+          "note": "Use 拒絕 as the all-purpose verb for refusing or declining something; add a softening phrase to make the refusal polite."
+        },
+        {
+          "id": "29t19aef",
+          "word": "reject",
+          "meaning": "refuse / turn down",
+          "note": "This is the all-purpose choice for refusing an offer, acceptance, or romantic advance."
+        },
+        {
+          "id": "5s17jtdt",
+          "word": "repel",
+          "meaning": "reject a request",
+          "note": "This is the all-purpose choice for rejecting a request or demand."
+        },
+        {
+          "id": "mtcywyhx",
+          "word": "refuse",
+          "meaning": "decline a request",
+          "note": "This is the straightforward general verb for refusing a request or refusing to do something, especially in more formal wording."
+        },
+        {
+          "id": "hdgsqg45",
+          "word": "deny",
+          "meaning": "refuse / reject",
+          "note": "Choose this when the emphasis is on explicitly refusing or rejecting a request, application, or proposal rather than merely withholding permission."
+        }
+      ],
       "examples": [
         {
           "english": "I’m sorry, but I have to decline your invitation.",

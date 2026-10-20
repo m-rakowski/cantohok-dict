@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "fan, enthusiast",
-      "english": ["fiend", "fan"],
+      "english": [
+        {
+          "id": "nm3tqhxq",
+          "word": "fiend",
+          "meaning": "addict, fanatic",
+          "note": "Use this for a fanatic or obsessive fan, usually after the thing the person is devoted to."
+        },
+        {
+          "id": "1pzfw07l",
+          "word": "fan",
+          "meaning": "admirer; supporter",
+          "note": "Use this for an enthusiast of a particular interest, usually in compounds such as 車迷 or 球迷."
+        }
+      ],
       "examples": [
         {
           "english": "He is a football fiend who watches every match.",

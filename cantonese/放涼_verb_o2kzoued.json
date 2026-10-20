@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "let food or drink cool down",
-      "english": ["cool", "chill"],
+      "english": [
+        {
+          "id": "y5s0i0vh",
+          "word": "cool",
+          "meaning": "lose heat, get colder",
+          "note": "This is the all-purpose choice for letting food or drinks lose heat before using them."
+        },
+        {
+          "id": "72opp4zw",
+          "word": "chill",
+          "meaning": "cool down",
+          "note": "Use this for letting food or drink cool down before serving or using it."
+        }
+      ],
       "examples": [
         {
           "english": "The soup is so hot—let it cool before drinking.",

@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "tie up, fasten",
-      "english": ["tie", "bind", "strap", "hitch"],
+      "english": [
+        {
+          "id": "4jyxj9fw",
+          "word": "tie",
+          "meaning": "tie; fasten with string",
+          "note": "Use this as the all-purpose verb for fastening something with string or rope."
+        },
+        {
+          "id": "ophpyg5c",
+          "word": "bind",
+          "meaning": "tie or fasten",
+          "note": "This is the all-purpose choice for tying or fastening something tightly."
+        },
+        {
+          "id": "mrxtomwk",
+          "word": "strap",
+          "meaning": "fasten with a strap",
+          "note": "Use this as the all-purpose choice for fastening or securing someone or something with a strap or similar tie."
+        },
+        {
+          "id": "6h8g4tpi",
+          "word": "hitch",
+          "meaning": "attach or fasten",
+          "note": "Use this as the all-purpose everyday verb for attaching, tying, or fastening one thing to another."
+        }
+      ],
       "examples": [
         {
           "english": "I use a rope to tie the cardboard box shut.",

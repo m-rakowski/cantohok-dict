@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "steal by force",
-      "english": ["rob", "mug"],
+      "english": [
+        {
+          "id": "dii01i6x",
+          "word": "rob",
+          "meaning": "steal by force",
+          "note": "Use this as the all-purpose colloquial verb for forcibly taking money or property from a person or place."
+        },
+        {
+          "id": "nhr488jh",
+          "word": "mug",
+          "meaning": "attack and rob someone",
+          "register": "colloquial",
+          "note": "打劫 is what people say in daily speech for robbing someone, including a street mugging."
+        }
+      ],
       "examples": [
         {
           "english": "They did rob a convenience store yesterday and even injured a clerk.",

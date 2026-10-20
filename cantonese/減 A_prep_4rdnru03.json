@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "discounted; subtracted",
-      "english": ["off"],
+      "english": [
+        {
+          "id": "ee9bbe4f",
+          "word": "off",
+          "meaning": "discounted; subtracted",
+          "note": "Use this when an amount or percentage is deducted from a stated price."
+        }
+      ],
       "examples": [
         {
           "english": "This shirt is one hundred dollars off on the spot.",

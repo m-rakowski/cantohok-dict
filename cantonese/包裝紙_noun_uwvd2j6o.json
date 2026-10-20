@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "wrapping paper",
-      "english": ["wrapping", "wrap"],
+      "english": [
+        {
+          "id": "xnssjdb4",
+          "word": "wrapping",
+          "meaning": "wrapping material",
+          "note": "Use this for paper used to wrap gifts or other items."
+        },
+        {
+          "id": "vkb6wkqo",
+          "word": "wrap",
+          "meaning": "wrapping paper",
+          "note": "Use this for paper used to wrap, protect, contain, or conceal something."
+        }
+      ],
       "examples": [
         {
           "english": "This wrapping paper is pretty; it’s just right for wrapping a gift.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "aggressive",
-      "english": ["aggressive", "hostile"],
+      "english": [
+        {
+          "id": "mhdg1q65",
+          "word": "aggressive",
+          "meaning": "combative, hostile",
+          "note": "This is the all-purpose choice for a person or behaviour that is hostile or liable to attack."
+        },
+        {
+          "id": "jz24irru",
+          "word": "hostile",
+          "meaning": "aggressive, antagonistic",
+          "note": "Use this when hostile specifically means aggressive or likely to attack."
+        }
+      ],
       "examples": [
         {
           "english": "They become very aggressive when they get drunk.",

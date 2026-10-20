@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "fierce",
-      "english": ["fierce", "ferocious"],
+      "english": [
+        {
+          "id": "34wa3ci2",
+          "word": "fierce",
+          "meaning": "violent, savage",
+          "note": "This is the all-purpose choice for physical ferocity or violence, especially with animals, attacks, storms, and other powerful forces; it emphasizes genuinely ferocious behavior rather than merely a threatening appearance."
+        },
+        {
+          "id": "mwk5hvsq",
+          "word": "ferocious",
+          "meaning": "violent energy",
+          "note": "Use this when an animal, person, attack, or other force is specifically fierce and threatening rather than merely very intense."
+        }
+      ],
       "examples": [
         {
           "english": "That wolfdog is so fierce that even people who walk by every day do not dare approach it.",

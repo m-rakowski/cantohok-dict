@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "rigorous, careful and precise",
-      "english": ["strict", "exact"],
+      "english": [
+        {
+          "id": "h6ymdnxy",
+          "word": "strict",
+          "meaning": "severe, rule-enforcing",
+          "note": "Use this for a careful, rigorous method or standard rather than mainly a severe person."
+        },
+        {
+          "id": "hdvud2jx",
+          "word": "exact",
+          "meaning": "careful, precise",
+          "note": "Use this for a person or method that is habitually careful, accurate, and methodical."
+        }
+      ],
       "examples": [
         {
           "english": "You need to use a strict method when conducting an experiment.",

@@ -6,7 +6,45 @@
   "boxes": [
     {
       "meaning": "almost (but didn't happen)",
-      "english": ["narrowly", "nigh", "nearly", "almost", "just", "half"],
+      "english": [
+        {
+          "id": "ngw98npq",
+          "word": "narrowly",
+          "meaning": "by a small margin",
+          "note": "Use this for a near miss, especially when something almost happened, as in narrowly escaping a collision."
+        },
+        {
+          "id": "aobwext4",
+          "word": "nigh",
+          "meaning": "almost; nearly",
+          "register": "colloquial",
+          "note": "Use this when something nearly happened but did not, especially in expressions like “差啲跌倒” (“almost fell”)."
+        },
+        {
+          "id": "33ngyr0h",
+          "word": "nearly",
+          "meaning": "almost, virtually",
+          "note": "Use this when something almost happened, especially when the outcome was narrowly avoided."
+        },
+        {
+          "id": "p3vmhl8b",
+          "word": "almost",
+          "meaning": "nearly; not quite",
+          "note": "Use this for a near miss, especially when an event almost happened or an unwanted result was narrowly avoided."
+        },
+        {
+          "id": "g3qa6uzq",
+          "word": "just",
+          "meaning": "just; narrowly",
+          "note": "Use 差啲 for a narrowly missed or almost-not outcome."
+        },
+        {
+          "id": "x71b5uhr",
+          "word": "half",
+          "meaning": "almost; nearly",
+          "note": "Use 差啲 for a near miss, where something almost happened but usually did not."
+        }
+      ],
       "examples": [
         {
           "english": "I narrowly avoided being hit by a car when I crossed the road just now.",

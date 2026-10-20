@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "shortfall, gap in amount",
-      "english": ["deficit", "gap"],
+      "english": [
+        {
+          "id": "m4rq6dlp",
+          "word": "deficit",
+          "meaning": "shortfall; lack",
+          "note": "For a concrete shortfall or gap in an amount, this is the all-purpose noun rather than the budget-specific 赤字."
+        },
+        {
+          "id": "ktifmspj",
+          "word": "gap",
+          "meaning": "missing part; lack",
+          "note": "Use this for a shortfall or missing amount, such as a staffing or funding gap."
+        }
+      ],
       "examples": [
         {
           "english": "There is still a three-thousand-dollar deficit in this month’s income.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "unique to, characteristic of",
-      "english": ["peculiar", "particular"],
+      "english": [
+        {
+          "id": "pi4q9qz0",
+          "word": "peculiar",
+          "meaning": "specific to; characteristic of",
+          "note": "Use this for something characteristic of or exclusive to a particular place or circumstance, not for something strange."
+        },
+        {
+          "id": "tlkwv0q1",
+          "word": "particular",
+          "meaning": "special to one person/thing",
+          "note": "Use this when a quality or style is characteristic or exclusive to a particular person or thing."
+        }
+      ],
       "examples": [
         {
           "english": "This aroma is peculiar to this place.",

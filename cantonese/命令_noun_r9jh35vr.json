@@ -6,7 +6,47 @@
   "boxes": [
     {
       "meaning": "order, command",
-      "english": ["command", "behest", "order", "word", "bidding", "instruction"],
+      "english": [
+        {
+          "id": "grjplpaq",
+          "word": "command",
+          "meaning": "order, directive",
+          "note": "This is the all-purpose noun for an order telling someone to do something."
+        },
+        {
+          "id": "n4p4zbfj",
+          "word": "behest",
+          "meaning": "command; authoritative request",
+          "register": "formal",
+          "note": "Use this when the behest is an explicit, forceful command rather than a softer instruction or request."
+        },
+        {
+          "id": "xbhj3q5a",
+          "word": "order",
+          "meaning": "command, instruction",
+          "register": "formal",
+          "note": "Use 命令 for an authoritative command given by a person or organization."
+        },
+        {
+          "id": "ppbbf9pg",
+          "word": "word",
+          "meaning": "instruction or command",
+          "register": "formal",
+          "note": "Use this for an actual order or command, especially one issued by someone in authority."
+        },
+        {
+          "id": "oahlofzd",
+          "word": "bidding",
+          "meaning": "command; orders",
+          "note": "Use this when the bidding means a firm command rather than an ordinary instruction or request."
+        },
+        {
+          "id": "hxf1k8wz",
+          "word": "instruction",
+          "meaning": "order; command",
+          "note": "Use this when the instruction is an authoritative order or command."
+        }
+      ],
       "examples": [
         {
           "english": "The boss gave us a command to stop work immediately.",

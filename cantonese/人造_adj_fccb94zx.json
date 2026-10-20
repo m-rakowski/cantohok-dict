@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "man-made, artificial",
-      "english": ["artificial", "synthetic", "chemical", "unnatural"],
+      "english": [
+        {
+          "id": "idvx2g1z",
+          "word": "artificial",
+          "meaning": "man-made, not natural",
+          "note": "This is the all-purpose choice for man-made objects rather than naturally occurring ones."
+        },
+        {
+          "id": "49rnzexn",
+          "word": "synthetic",
+          "meaning": "man-made chemical",
+          "note": "This is the all-purpose choice for manufactured or artificial things, including synthetic materials and products rather than natural ones."
+        },
+        {
+          "id": "uqlvrdmi",
+          "word": "chemical",
+          "meaning": "chemical, synthetic",
+          "note": "Use this when the intended contrast is with something natural, meaning artificial or synthetic rather than naturally occurring."
+        },
+        {
+          "id": "vjouxcba",
+          "word": "unnatural",
+          "meaning": "not found in nature",
+          "note": "Use this for things or substances made by people rather than occurring naturally."
+        }
+      ],
       "examples": [
         {
           "english": "The artificial flowers are on the table.",

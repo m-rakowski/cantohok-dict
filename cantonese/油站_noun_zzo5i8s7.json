@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "petrol station",
-      "english": ["petrol station", "garage", "station"],
+      "english": [
+        {
+          "id": "yhfxqtiq",
+          "word": "petrol station",
+          "meaning": "fuel station",
+          "note": "This is the all-purpose Cantonese noun for a petrol station."
+        },
+        {
+          "id": "nhlsue1j",
+          "word": "garage",
+          "meaning": "petrol station",
+          "note": "Use this for a petrol filling station, not a building for storing a private car."
+        },
+        {
+          "id": "d751k71w",
+          "word": "station",
+          "meaning": "gas station",
+          "note": "Use this specifically for a gas or service station."
+        }
+      ],
       "examples": [
         {
           "english": "We’ll fill up at the petrol station before getting on the motorway.",

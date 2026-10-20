@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "keep pestering someone",
-      "english": ["harass", "plague"],
+      "english": [
+        {
+          "id": "j278zr5g",
+          "word": "harass",
+          "meaning": "pester, annoy",
+          "note": "This is the all-purpose colloquial choice for repeatedly pestering a person."
+        },
+        {
+          "id": "8ygdkjzj",
+          "word": "plague",
+          "meaning": "pester, annoy",
+          "note": "Use 煩住 for a person who keeps bothering or pestering someone."
+        }
+      ],
       "examples": [
         {
           "english": "Please don't harass me while I'm doing my homework.",

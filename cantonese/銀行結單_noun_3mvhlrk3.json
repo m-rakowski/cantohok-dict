@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "bank statement",
-      "english": ["statement"],
+      "english": [
+        {
+          "id": "2eaydxiu",
+          "word": "statement",
+          "meaning": "bank statement",
+          "note": "Use this specifically for a document showing activity in a bank account."
+        }
+      ],
       "examples": [
         {
           "english": "I got my bank statement this morning and only then realized I spent too much last month.",

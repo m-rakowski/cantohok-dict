@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "life, being alive",
-      "english": ["life", "being", "living"],
+      "english": [
+        {
+          "id": "9b1ifww3",
+          "word": "life",
+          "meaning": "being alive",
+          "note": "Use this as the all-purpose noun for biological life, existence, lifespan in general, or a loved one described as someone’s life."
+        },
+        {
+          "id": "je7nalb8",
+          "word": "being",
+          "meaning": "existence; life",
+          "note": "Use this as the all-purpose choice for life or the fact of being alive, rather than for abstract existence alone."
+        },
+        {
+          "id": "nfpug6r6",
+          "word": "living",
+          "meaning": "state of being alive",
+          "note": "Use 生命 for the state or fact of being alive, rather than for living people or a lifestyle."
+        }
+      ],
       "examples": [
         {
           "english": "This discovery made me appreciate the value of life again.",

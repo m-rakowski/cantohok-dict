@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "spray, fine mist",
-      "english": ["spray", "mist"],
+      "english": [
+        {
+          "id": "pz59n5kg",
+          "word": "spray",
+          "meaning": "fine liquid mist",
+          "note": "This is the all-purpose choice for a fine, dispersed liquid mist."
+        },
+        {
+          "id": "2a3v0iwd",
+          "word": "mist",
+          "meaning": "fine spray or coating",
+          "note": "Use this for a fine spray or aerosol-like layer of droplets or particles, rather than atmospheric mist."
+        }
+      ],
       "examples": [
         {
           "english": "I spray a little mist on my face in the morning, so my skin is less dry.",

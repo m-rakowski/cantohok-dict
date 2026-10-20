@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "cut off from the world",
-      "english": ["cloistered", "insular"],
+      "english": [
+        {
+          "id": "xd6qre32",
+          "word": "cloistered",
+          "meaning": "monastic, secluded",
+          "note": "Use this as the all-purpose choice for someone or something cut off from the outside world."
+        },
+        {
+          "id": "ejfiklx6",
+          "word": "insular",
+          "meaning": "narrow-minded, isolated",
+          "note": "Use this when the emphasis is on being cut off or isolated from the outside world, rather than specifically on narrow-mindedness."
+        }
+      ],
       "examples": [
         {
           "english": "The hut on that mountain is cloistered and cannot even get a phone signal.",

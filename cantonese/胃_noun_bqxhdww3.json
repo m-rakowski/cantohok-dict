@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "stomach as an organ",
-      "english": ["stomach", "belly"],
+      "english": [
+        {
+          "id": "m02z5rv9",
+          "word": "stomach",
+          "meaning": "digestive organ",
+          "note": "Use this specifically for the digestive organ rather than the whole belly area."
+        },
+        {
+          "id": "mf6l3g6r",
+          "word": "belly",
+          "meaning": "stomach (organ)",
+          "note": "Use 胃 when you mean the stomach specifically as a digestive organ rather than the general belly area."
+        }
+      ],
       "examples": [
         {
           "english": "My stomach feels uncomfortable.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "leave",
-      "english": ["depart", "withdraw"],
+      "english": [
+        {
+          "id": "3bkuo125",
+          "word": "depart",
+          "meaning": "leave",
+          "note": "Use this as the all-purpose everyday verb for leaving a place or person."
+        },
+        {
+          "id": "n3fa2znk",
+          "word": "withdraw",
+          "meaning": "leave; go away",
+          "note": "Use this when withdrawing means leaving a place or someone's presence."
+        }
+      ],
       "examples": [
         {
           "english": "We depart after dinner.",

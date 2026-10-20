@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "northward",
-      "english": ["north", "northward"],
+      "english": [
+        {
+          "id": "a615ko1z",
+          "word": "north",
+          "meaning": "northward",
+          "note": "This is the all-purpose spoken expression for moving or facing northward."
+        },
+        {
+          "id": "nxms1sml",
+          "word": "northward",
+          "meaning": "towards the north",
+          "note": "This is the all-purpose way to express movement or direction towards the north."
+        }
+      ],
       "examples": [
         {
           "english": "We’re walking north; the beach is that way.",

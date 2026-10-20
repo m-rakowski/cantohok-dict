@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "everything, all things",
-      "english": ["everything", "all"],
+      "english": [
+        {
+          "id": "6de6zji7",
+          "word": "everything",
+          "meaning": "all things under discussion",
+          "note": "This is the all-purpose choice for all the things under discussion."
+        },
+        {
+          "id": "63lwvq6t",
+          "word": "all",
+          "meaning": "everything",
+          "note": "Use this as the all-purpose choice for everything or all the things involved."
+        }
+      ],
       "examples": [
         {
           "english": "I've got everything ready.",

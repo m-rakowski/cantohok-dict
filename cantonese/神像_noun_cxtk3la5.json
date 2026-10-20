@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "statue of a god",
-      "english": ["idol", "god"],
+      "english": [
+        {
+          "id": "2nptzt29",
+          "word": "idol",
+          "meaning": "revered image",
+          "note": "Use this more specific word for a statue or image of a deity or other sacred figure rather than for a celebrity."
+        },
+        {
+          "id": "5qj1ihj0",
+          "word": "god",
+          "meaning": "idol, statue of a deity",
+          "note": "Use this specifically for a statue or image representing a deity."
+        }
+      ],
       "examples": [
         {
           "english": "That idol in the temple is hundreds of years old.",

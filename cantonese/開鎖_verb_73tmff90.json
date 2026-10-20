@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "open a lock",
-      "english": ["unlock"],
+      "english": [
+        {
+          "id": "ei2o7u9r",
+          "word": "unlock",
+          "meaning": "open a lock",
+          "note": "This is the all-purpose choice for physically opening a lock, such as a door lock, with a key or combination."
+        }
+      ],
       "examples": [
         {
           "english": "I need to find the key before I can unlock the door.",

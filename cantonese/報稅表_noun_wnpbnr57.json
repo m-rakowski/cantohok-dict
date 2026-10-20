@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "tax return",
-      "english": ["return"],
+      "english": [
+        {
+          "id": "fsqst9g6",
+          "word": "return",
+          "meaning": "tax return",
+          "note": "Use this for the form or report submitted to the government declaring income for tax purposes."
+        }
+      ],
       "examples": [
         {
           "english": "I've filled out the tax return and will submit it to the tax office tomorrow.",

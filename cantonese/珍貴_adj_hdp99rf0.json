@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "precious, valuable",
-      "english": ["cherished", "valuable"],
+      "english": [
+        {
+          "id": "7y9hfsoq",
+          "word": "cherished",
+          "meaning": "highly valued; dear",
+          "note": "This is the all-purpose choice for something highly valued or personally dear."
+        },
+        {
+          "id": "ragt9p2i",
+          "word": "valuable",
+          "meaning": "worth a lot",
+          "note": "Use this when something is valuable because it is rare, precious, or greatly treasured."
+        }
+      ],
       "examples": [
         {
           "english": "This old photo is a cherished keepsake for me.",

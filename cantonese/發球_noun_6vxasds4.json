@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "sports serve",
-      "english": ["service"],
+      "english": [
+        {
+          "id": "secie01z",
+          "word": "service",
+          "meaning": "sports serve",
+          "note": "Use 發球 specifically for a serve that starts play in tennis, volleyball, and similar sports."
+        }
+      ],
       "examples": [
         {
           "english": "Their service hit the net, so the opponent scored right away.",

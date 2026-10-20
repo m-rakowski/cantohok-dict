@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "complaint",
-      "english": ["complaint", "grievance", "fuss"],
+      "english": [
+        {
+          "id": "eybh10eb",
+          "word": "complaint",
+          "meaning": "act of complaining",
+          "note": "Use this as the all-purpose noun for a complaint lodged about a person, service, or situation."
+        },
+        {
+          "id": "n4fc0u9p",
+          "word": "grievance",
+          "meaning": "formal workplace complaint",
+          "note": "Use this for making a complaint to an organization or authority about a problem."
+        },
+        {
+          "id": "vtk76nw3",
+          "word": "fuss",
+          "meaning": "complaint or scene",
+          "note": "Use this when a “fuss” is a complaint, especially when someone keeps complaining to get a problem fixed."
+        }
+      ],
       "examples": [
         {
           "english": "I want to make a complaint about this restaurant's service.",

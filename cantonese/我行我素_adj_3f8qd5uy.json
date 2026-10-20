@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "going one's own way",
-      "english": ["headstrong", "wayward"],
+      "english": [
+        {
+          "id": "faz6jmld",
+          "word": "headstrong",
+          "meaning": "stubborn, willful",
+          "note": "Use this when stressing that someone goes their own way and disregards what other people expect."
+        },
+        {
+          "id": "o1w24htb",
+          "word": "wayward",
+          "meaning": "wilful, straying",
+          "note": "Use this when someone deliberately follows their own way and ignores the expected norm."
+        }
+      ],
       "examples": [
         {
           "english": "They have always been headstrong and never care what other people think.",

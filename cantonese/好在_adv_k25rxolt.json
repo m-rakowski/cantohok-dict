@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "luckily",
-      "english": ["luckily", "fortunately"],
+      "english": [
+        {
+          "id": "9ruxz5r9",
+          "word": "luckily",
+          "meaning": "fortunately",
+          "note": "Use this when emphasizing relief that a bad outcome was avoided or a helpful circumstance came to the rescue."
+        },
+        {
+          "id": "vmoqgxs8",
+          "word": "fortunately",
+          "meaning": "fortunately, luckily",
+          "note": "Use this when emphasizing that a bad outcome was avoided or that a favorable fact came to the rescue."
+        }
+      ],
       "examples": [
         {
           "english": "Luckily, the bus hadn't left yet, so we made it in time.",

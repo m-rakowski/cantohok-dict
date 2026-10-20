@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "offensive, forceful push",
-      "english": ["blitz", "run"],
+      "english": [
+        {
+          "id": "3jof0i1q",
+          "word": "blitz",
+          "meaning": "sudden intense campaign",
+          "note": "Use this as the all-purpose choice for a swift, forceful campaign or offensive, including a publicity campaign."
+        },
+        {
+          "id": "sf70kthz",
+          "word": "run",
+          "meaning": "scoring run in sports",
+          "note": "Use this in sports for a sustained scoring surge by one team, not for an ordinary running play or general streak."
+        }
+      ],
       "examples": [
         {
           "english": "The company launched a major blitz to promote its new phone.",

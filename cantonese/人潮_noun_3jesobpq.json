@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "surge of crowds",
-      "english": ["tide", "wave"],
+      "english": [
+        {
+          "id": "hs1evs3z",
+          "word": "tide",
+          "meaning": "tide of people / flood",
+          "note": "Use this specifically for a large flow or flood of people."
+        },
+        {
+          "id": "0fi3j1on",
+          "word": "wave",
+          "meaning": "sudden surge",
+          "note": "Use 人潮 when the sudden surge consists of a crowd of people, especially shoppers or passengers."
+        }
+      ],
       "examples": [
         {
           "english": "At rush hour, a tide of people floods into the MTR station.",

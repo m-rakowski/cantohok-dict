@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "body posture, pose",
-      "english": ["pose", "posture", "position", "attitude"],
+      "english": [
+        {
+          "id": "u536m0w4",
+          "word": "pose",
+          "meaning": "posture",
+          "note": "This is the all-purpose choice for a person’s body position or pose, including for a photograph."
+        },
+        {
+          "id": "yj1boazo",
+          "word": "posture",
+          "meaning": "body position",
+          "note": "For physical body position, this is the all-purpose choice."
+        },
+        {
+          "id": "17moo3fl",
+          "word": "position",
+          "meaning": "posture",
+          "note": "Use this for the way someone holds or arranges their body, rather than their place or status."
+        },
+        {
+          "id": "hems30d3",
+          "word": "attitude",
+          "meaning": "body posture",
+          "note": "Use this for the physical position or way someone carries their body, not their state of mind."
+        }
+      ],
       "examples": [
         {
           "english": "When taking the photo, don't move; hold this pose.",

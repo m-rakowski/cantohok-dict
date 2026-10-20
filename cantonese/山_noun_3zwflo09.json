@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "hill, mountain",
-      "english": ["hill", "mountain", "mount"],
+      "english": [
+        {
+          "id": "56cphmbd",
+          "word": "hill",
+          "meaning": "elevated landform",
+          "note": "This is the all-purpose everyday choice for an elevated landform, even though it can also mean a mountain."
+        },
+        {
+          "id": "66iifbxr",
+          "word": "mountain",
+          "meaning": "large hill / mountain",
+          "note": "This is the all-purpose noun for a physical mountain or large hill."
+        },
+        {
+          "id": "6zzlwov0",
+          "word": "mount",
+          "meaning": "hill, mountain",
+          "note": "This is the all-purpose choice for a hill or mountain."
+        }
+      ],
       "examples": [
         {
           "english": "There’s a small hill near my home, and it isn’t too hard to walk up.",

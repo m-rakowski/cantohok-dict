@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "find out by investigating",
-      "english": ["detect", "uncover"],
+      "english": [
+        {
+          "id": "m1djb4ph",
+          "word": "detect",
+          "meaning": "discover by search",
+          "note": "Use this when investigation or checking establishes a hidden fact, cause, or problem."
+        },
+        {
+          "id": "9yi7xu66",
+          "word": "uncover",
+          "meaning": "reveal identity",
+          "note": "Use this when an investigation finds out someone’s previously unknown identity."
+        }
+      ],
       "examples": [
         {
           "english": "The test helped us detect why the phone broke.",

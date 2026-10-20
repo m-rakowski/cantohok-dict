@@ -6,7 +6,29 @@
   "boxes": [
     {
       "meaning": "traitor, snitch",
-      "english": ["rat", "grass", "snake"],
+      "english": [
+        {
+          "id": "nge99inv",
+          "word": "rat",
+          "meaning": "informant, snitch",
+          "register": "colloquial",
+          "note": "Pick 二五仔 for someone who betrays others or informs on them, with a strongly derogatory tone."
+        },
+        {
+          "id": "gh5pas94",
+          "word": "grass",
+          "meaning": "informer, snitch",
+          "register": "colloquial",
+          "note": "Use 二五仔 for a betrayer or snitch within a group, especially in colloquial speech about criminals or rivals."
+        },
+        {
+          "id": "j8yw5l05",
+          "word": "snake",
+          "meaning": "informer, rat",
+          "register": "colloquial",
+          "note": "Use this Hong Kong term for an informer, snitch, or traitor rather than for a generally deceitful person."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

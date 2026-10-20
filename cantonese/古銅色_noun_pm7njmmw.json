@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "bronze-brown colour, as of tanned skin",
-      "english": ["tan", "bronze"],
+      "english": [
+        {
+          "id": "f2n5ik23",
+          "word": "tan",
+          "meaning": "sun tan",
+          "note": "Use this for the bronze-brown colour a person's skin gets from sun exposure."
+        },
+        {
+          "id": "xdn4yamo",
+          "word": "bronze",
+          "meaning": "bronze colour",
+          "note": "Use this for the reddish-brown colour associated with bronze."
+        }
+      ],
       "examples": [
         {
           "english": "I came back from Thailand with a tan.",

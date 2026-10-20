@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "peaceful calm",
-      "english": ["tranquility", "calmness"],
+      "english": [
+        {
+          "id": "lmdluu6a",
+          "word": "tranquility",
+          "meaning": "peaceful calm",
+          "note": "Use this for tranquility in a quiet, peaceful environment or surroundings rather than mainly an inner state."
+        },
+        {
+          "id": "21w0s171",
+          "word": "calmness",
+          "meaning": "state of calm",
+          "register": "formal",
+          "note": "Use this for a peaceful, tranquil atmosphere or surroundings rather than mainly a person's composure."
+        }
+      ],
       "examples": [
         {
           "english": "The tranquility of this little village is especially striking at night.",

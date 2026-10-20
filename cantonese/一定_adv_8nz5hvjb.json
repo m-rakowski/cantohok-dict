@@ -6,7 +6,44 @@
   "boxes": [
     {
       "meaning": "definitely, for sure",
-      "english": ["certainly", "definitely", "surely", "necessarily", "undoubtedly", "positively"],
+      "english": [
+        {
+          "id": "rf89rh6p",
+          "word": "certainly",
+          "meaning": "with certainty",
+          "note": "Use this as the all-purpose choice for expressing certainty or a definite prediction."
+        },
+        {
+          "id": "k15qd65z",
+          "word": "definitely",
+          "meaning": "without doubt",
+          "note": "This is the all-purpose choice for stating that something is definitely true or will definitely happen."
+        },
+        {
+          "id": "6s4c59uk",
+          "word": "surely",
+          "meaning": "certainly; surely",
+          "note": "This is the all-purpose choice for saying something is certain or will happen without fail."
+        },
+        {
+          "id": "00f9xtij",
+          "word": "necessarily",
+          "meaning": "inevitably; as a necessary result",
+          "note": "Use this as the all-purpose spoken equivalent for an inevitable or necessary result."
+        },
+        {
+          "id": "7nuv9kiw",
+          "word": "undoubtedly",
+          "meaning": "without doubt; definitely",
+          "note": "This is the all-purpose choice for stating that something is definitely true or will definitely happen."
+        },
+        {
+          "id": "vcna0avp",
+          "word": "positively",
+          "meaning": "certainly",
+          "note": "For certainty, 一定 is the all-purpose spoken choice."
+        }
+      ],
       "examples": [
         {
           "english": "It will certainly rain tomorrow.",

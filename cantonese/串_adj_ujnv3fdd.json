@@ -6,7 +6,62 @@
   "boxes": [
     {
       "meaning": "sarcastic, cheeky, cocky, rude",
-      "english": ["sarcastic", "contemptuous", "arrogant", "cheeky", "haughty", "derisive", "ironic", "smart"],
+      "english": [
+        {
+          "id": "t28ydqaa",
+          "word": "sarcastic",
+          "meaning": "containing sarcasm",
+          "note": "This is the all-purpose colloquial choice for a person, remark, or tone that comes across as sarcastic or snarky."
+        },
+        {
+          "id": "xertdbh4",
+          "word": "contemptuous",
+          "meaning": "showing disdain",
+          "register": "colloquial",
+          "note": "Use this colloquial choice when the contempt also comes across as cocky, insolent, or deliberately rude."
+        },
+        {
+          "id": "20g6x0po",
+          "word": "arrogant",
+          "meaning": "excessively proud, disdainful",
+          "register": "colloquial",
+          "note": "Use this when the arrogance comes across as rude, cheeky, or dismissive in interaction."
+        },
+        {
+          "id": "jpg0dsef",
+          "word": "cheeky",
+          "meaning": "impudent, boldly playful",
+          "register": "colloquial",
+          "note": "Use this when the cheekiness is cocky, impertinent, or involves talking back, rather than merely playful."
+        },
+        {
+          "id": "n2yrw6it",
+          "word": "haughty",
+          "meaning": "supercilious, disdainful",
+          "register": "colloquial",
+          "note": "Use this colloquial choice when the haughty attitude comes across as cocky, rude, or insolent."
+        },
+        {
+          "id": "0lzgqafr",
+          "word": "derisive",
+          "meaning": "mocking, ridiculing",
+          "register": "colloquial",
+          "note": "Use this when the derisive quality comes across as a cheeky or sarcastic attitude or tone."
+        },
+        {
+          "id": "ds8miiuf",
+          "word": "ironic",
+          "meaning": "ironic, sarcastic",
+          "register": "colloquial",
+          "note": "Use this for a person's snide or teasing tone in casual speech, rather than for an ironic situation itself."
+        },
+        {
+          "id": "nok6jphn",
+          "word": "smart",
+          "meaning": "cheeky, disrespectful",
+          "note": "Use 串 when a person or remark is cheeky, cocky, or disrespectfully smart-alecky."
+        }
+      ],
       "examples": [
         {
           "english": "You’re so sarcastic—I only asked you one question.",

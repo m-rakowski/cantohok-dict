@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "fee, charge",
-      "english": ["fee", "charge", "rate"],
+      "english": [
+        {
+          "id": "coxkxfph",
+          "word": "fee",
+          "meaning": "professional service charge",
+          "note": "This is the all-purpose choice for an amount charged or a fee, when no more specific type is intended."
+        },
+        {
+          "id": "lram5n4i",
+          "word": "charge",
+          "meaning": "fee for a service",
+          "note": "This is the all-purpose choice for the money charged for a service."
+        },
+        {
+          "id": "bxlsucvh",
+          "word": "rate",
+          "meaning": "fixed charge",
+          "note": "Use this when rate means the amount charged for a thing or service, especially a set service charge."
+        }
+      ],
       "examples": [
         {
           "english": "How much is the entrance fee?",

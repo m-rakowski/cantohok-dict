@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "committee",
-      "english": ["committee", "board"],
+      "english": [
+        {
+          "id": "dkvog2jf",
+          "word": "committee",
+          "meaning": "group for a specific purpose",
+          "register": "formal",
+          "note": "This is the all-purpose rendering for a formal group formed to handle a specific purpose."
+        },
+        {
+          "id": "rc9unp11",
+          "word": "board",
+          "meaning": "directors' committee",
+          "note": "Use this for a committee that governs or manages an organization; a specifically directors’ board is more often 董事會."
+        }
+      ],
       "examples": [
         {
           "english": "This committee specifically handles building maintenance matters.",

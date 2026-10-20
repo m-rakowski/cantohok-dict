@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "reload a webpage",
-      "english": ["refresh"],
+      "english": [
+        {
+          "id": "xs6a67cy",
+          "word": "refresh",
+          "meaning": "reload a webpage",
+          "note": "Use this for reloading a webpage or document so that new changes appear."
+        }
+      ],
       "examples": [
         {
           "english": "After editing the webpage, click refresh to see the latest version.",

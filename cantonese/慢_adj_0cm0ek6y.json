@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "slow",
-      "english": ["slow", "lazy"],
+      "english": [
+        {
+          "id": "czsowmsn",
+          "word": "slow",
+          "meaning": "not quick in motion",
+          "note": "Use 慢 as the all-purpose choice for physical speed, slow progress, and a clock that runs behind."
+        },
+        {
+          "id": "zydpusy6",
+          "word": "lazy",
+          "meaning": "slow-moving",
+          "note": "Use this for something that moves slowly, rather than for a person who avoids work."
+        }
+      ],
       "examples": [
         {
           "english": "This bus is very slow.",

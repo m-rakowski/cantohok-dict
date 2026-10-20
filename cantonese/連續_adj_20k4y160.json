@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "continuous, in a row",
-      "english": ["continuous", "successive", "straight", "direct"],
+      "english": [
+        {
+          "id": "wtvytkdf",
+          "word": "continuous",
+          "meaning": "unbroken line/sequence",
+          "note": "Use this for an unbroken line, run, or sequence with no intervening space or gap."
+        },
+        {
+          "id": "8xfxyvrt",
+          "word": "successive",
+          "meaning": "one after another",
+          "note": "This is the all-purpose choice for things occurring in consecutive order, especially consecutive periods such as years or days."
+        },
+        {
+          "id": "2uszc8p0",
+          "word": "straight",
+          "meaning": "straight in a row",
+          "note": "Use 連續 before a number or event when straight means occurring consecutively without a break."
+        },
+        {
+          "id": "0ysqjoma",
+          "word": "direct",
+          "meaning": "continuous, uninterrupted",
+          "note": "Use this when something proceeds continuously without a break or interruption."
+        }
+      ],
       "examples": [
         {
           "english": "It rained for three continuous days, so I didn't even want to go out.",

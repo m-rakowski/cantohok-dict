@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "not afraid",
-      "english": ["unafraid", "undaunted"],
+      "english": [
+        {
+          "id": "12ved607",
+          "word": "unafraid",
+          "meaning": "not afraid",
+          "note": "Use this when stressing that someone does not fear a person or thing and is willing to face it."
+        },
+        {
+          "id": "z1bope7q",
+          "word": "undaunted",
+          "meaning": "courageous; resolute",
+          "register": "colloquial",
+          "note": "Use this colloquial choice when the emphasis is that someone is not frightened by a difficulty or danger."
+        }
+      ],
       "examples": [
         {
           "english": "They are unafraid of how strong the opponent is and compete anyway.",

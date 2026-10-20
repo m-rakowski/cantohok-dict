@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "tattered old clothes",
-      "english": ["tatter", "rag"],
+      "english": [
+        {
+          "id": "tdr9dczb",
+          "word": "tatter",
+          "meaning": "torn shred; ragged cloth",
+          "note": "Use this specifically when the tatter is an individual item of torn or ragged clothing rather than a piece of cloth."
+        },
+        {
+          "id": "axcmcnon",
+          "word": "rag",
+          "meaning": "old clothes",
+          "note": "Use this for tattered old clothing rather than for a separate piece of cloth."
+        }
+      ],
       "examples": [
         {
           "english": "They still wear that tatter everywhere and are not embarrassed at all.",

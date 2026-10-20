@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "walnut tree",
-      "english": ["walnut"],
+      "english": [
+        {
+          "id": "mmd74109",
+          "word": "walnut",
+          "meaning": "walnut tree",
+          "note": "Use this specifically when referring to the walnut tree rather than its nuts."
+        }
+      ],
       "examples": [
         {
           "english": "That walnut tree produces lots of walnuts every year.",

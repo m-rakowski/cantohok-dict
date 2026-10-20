@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "to adjust or fine-tune a machine",
-      "english": ["tune", "regulate"],
+      "english": [
+        {
+          "id": "gkkk5x2x",
+          "word": "tune",
+          "meaning": "adjust or optimize",
+          "note": "This is the all-purpose choice for adjusting a machine or device so that it works better."
+        },
+        {
+          "id": "eh2jtarx",
+          "word": "regulate",
+          "meaning": "adjust; set correctly",
+          "register": "colloquial",
+          "note": "Use this for adjusting a machine or mechanism so that it works accurately."
+        }
+      ],
       "examples": [
         {
           "english": "Tune the air conditioner better and it’ll save electricity.",

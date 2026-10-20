@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "author; person who writes",
-      "english": ["writer"],
+      "english": [
+        {
+          "id": "tcpcerec",
+          "word": "writer",
+          "meaning": "author; person who writes",
+          "note": "Use this productive noun phrase with V set to 寫嘢 when you simply mean the person who writes, rather than an established author."
+        }
+      ],
       "examples": [
         {
           "english": "Someone who writes isn't necessarily a writer.",

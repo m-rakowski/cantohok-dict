@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "miserable, awful",
-      "english": ["miserable", "tragic", "shocking"],
+      "english": [
+        {
+          "id": "omnnr76j",
+          "word": "miserable",
+          "meaning": "in a state of misery",
+          "note": "Use 慘 as the all-purpose casual choice for being in a miserable state."
+        },
+        {
+          "id": "151lenw2",
+          "word": "tragic",
+          "meaning": "causing great sadness",
+          "note": "This is the all-purpose colloquial choice for something that causes great sadness or suffering."
+        },
+        {
+          "id": "9jgejvwq",
+          "word": "shocking",
+          "meaning": "extremely bad",
+          "register": "colloquial",
+          "note": "Use this when “shocking” means extremely bad or disastrous, especially in casual speech."
+        }
+      ],
       "examples": [
         {
           "english": "I’ve been miserable from being sick lately.",

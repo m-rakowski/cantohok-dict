@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "sexual assault",
-      "english": ["rape"],
+      "english": [
+        {
+          "id": "fwht7rde",
+          "word": "rape",
+          "meaning": "sexual assault",
+          "note": "This is the all-purpose Cantonese noun for rape, including the act described in legal and everyday contexts."
+        }
+      ],
       "examples": [
         {
           "english": "The police are already following up on this rape case.",

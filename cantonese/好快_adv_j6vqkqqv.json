@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "quickly, very soon",
-      "english": ["quickly", "soon"],
+      "english": [
+        {
+          "id": "tkhnb4xb",
+          "word": "quickly",
+          "meaning": "rapidly; fast",
+          "note": "This is the all-purpose choice for saying that an action happens rapidly or that something will happen very soon."
+        },
+        {
+          "id": "5cpruwiu",
+          "word": "soon",
+          "meaning": "in a short time",
+          "register": "colloquial",
+          "note": "Use this when emphasizing that something will happen quickly rather than merely at an early time."
+        }
+      ],
       "examples": [
         {
           "english": "We’ll arrive quickly.",

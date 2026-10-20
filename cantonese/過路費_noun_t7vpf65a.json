@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "road or bridge fee",
-      "english": ["toll"],
+      "english": [
+        {
+          "id": "7pq1e7ez",
+          "word": "toll",
+          "meaning": "road or bridge fee",
+          "note": "This is the all-purpose choice for a fee paid to use a road or bridge."
+        }
+      ],
       "examples": [
         {
           "english": "The toll for this new bridge is really quite expensive.",

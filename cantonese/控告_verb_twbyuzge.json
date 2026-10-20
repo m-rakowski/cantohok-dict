@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "formally accuse, charge",
-      "english": ["accuse", "charge"],
+      "english": [
+        {
+          "id": "1ef9f715",
+          "word": "accuse",
+          "meaning": "charge with a crime",
+          "register": "formal",
+          "note": "Use this when formally accusing or bringing a legal charge against someone."
+        },
+        {
+          "id": "bx1dhhvk",
+          "word": "charge",
+          "meaning": "formally accuse",
+          "register": "formal",
+          "note": "Use this in the formal legal context of accusing someone of a crime."
+        }
+      ],
       "register": "formal",
       "examples": [
         {

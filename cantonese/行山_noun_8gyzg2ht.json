@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "hiking",
-      "english": ["hike", "hiking"],
+      "english": [
+        {
+          "id": "ckzwhxr0",
+          "word": "hike",
+          "meaning": "long walk",
+          "note": "This is the all-purpose choice for a recreational hike, especially one on hills or trails."
+        },
+        {
+          "id": "ks0p95iy",
+          "word": "hiking",
+          "meaning": "walking for pleasure",
+          "note": "This is the all-purpose casual term for walking in the countryside for pleasure or sport."
+        }
+      ],
       "examples": [
         {
           "english": "We are going on a hike on Sunday.",

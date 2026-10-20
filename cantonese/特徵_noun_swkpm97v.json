@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "characteristic, distinguishing feature",
-      "english": ["trait", "characteristic"],
+      "english": [
+        {
+          "id": "s3pmokhg",
+          "word": "trait",
+          "meaning": "characteristic; personality trait",
+          "note": "This is the all-purpose choice for an identifying characteristic, including an inherited or acquired feature."
+        },
+        {
+          "id": "f54ujbcl",
+          "word": "characteristic",
+          "meaning": "distinguishing feature",
+          "note": "Use this for a distinguishing feature, especially one that identifies a person or thing."
+        }
+      ],
       "examples": [
         {
           "english": "The most obvious trait of this butterfly is the red spots on its wings.",

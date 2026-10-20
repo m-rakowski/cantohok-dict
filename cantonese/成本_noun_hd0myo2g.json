@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "price; expense",
-      "english": ["cost"],
+      "english": [
+        {
+          "id": "pbpnuc4t",
+          "word": "cost",
+          "meaning": "price; expense",
+          "note": "Use this for the resources or money needed to produce, operate, or achieve something, not its selling price."
+        }
+      ],
       "examples": [
         {
           "english": "The cost of making this cake isn't high.",

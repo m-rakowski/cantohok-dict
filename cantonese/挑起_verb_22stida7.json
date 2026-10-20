@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "stir up, provoke feelings or disputes",
-      "english": ["stoke", "fire"],
+      "english": [
+        {
+          "id": "pn4w9rtq",
+          "word": "stoke",
+          "meaning": "encourage emotion",
+          "note": "Use this when the focus is arousing a specific feeling, dispute, or reaction rather than urging people to act."
+        },
+        {
+          "id": "dr4a3qt9",
+          "word": "fire",
+          "meaning": "fire up, inflame",
+          "note": "Use 挑起 when inflaming or provoking anger, passion, or another strong feeling."
+        }
+      ],
       "examples": [
         {
           "english": "These words can easily stoke an argument between the two families.",

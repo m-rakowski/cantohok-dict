@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "entertainer, performer",
-      "english": ["entertainer", "performer"],
+      "english": [
+        {
+          "id": "cs5es7ld",
+          "word": "entertainer",
+          "meaning": "performer",
+          "note": "This is the all-purpose choice for a professional singer, actor, presenter, dancer, musician, magician, or comedian."
+        },
+        {
+          "id": "z9c4tddh",
+          "word": "performer",
+          "meaning": "entertainer; stage performer",
+          "note": "Use this for a professional entertainer or performer in the entertainment industry."
+        }
+      ],
       "examples": [
         {
           "english": "They are a very popular entertainer.",

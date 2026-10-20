@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "railway wagon",
-      "english": ["wagon"],
+      "english": [
+        {
+          "id": "x1ft0s0a",
+          "word": "wagon",
+          "meaning": "railway wagon",
+          "note": "Use this specifically for one carriage or wagon of a train rather than a road vehicle."
+        }
+      ],
       "examples": [
         {
           "english": "I got on the wagon at the back of the train.",

@@ -6,7 +6,36 @@
   "boxes": [
     {
       "meaning": "of course",
-      "english": ["naturally", "surely", "certainly", "definitely"],
+      "english": [
+        {
+          "id": "8elox15s",
+          "word": "naturally",
+          "meaning": "of course; certainly",
+          "register": "colloquial",
+          "note": "Use this as the default casual way to mean “of course” or “certainly,” rather than for natural manner or inherent qualities."
+        },
+        {
+          "id": "e4p8mswj",
+          "word": "surely",
+          "meaning": "certainly; surely",
+          "register": "colloquial",
+          "note": "Use this for an emphatic, often responsive “of course” or “surely,” rather than a neutral statement of certainty."
+        },
+        {
+          "id": "eq7cxfcc",
+          "word": "certainly",
+          "meaning": "surely, without doubt",
+          "register": "colloquial",
+          "note": "Use this for a casual, emphatic “of course” or “surely,” especially in an affirmative reply."
+        },
+        {
+          "id": "fcvojdz0",
+          "word": "definitely",
+          "meaning": "without doubt",
+          "register": "colloquial",
+          "note": "Use this conversationally when ‘definitely’ means ‘of course’ in response to an obvious or expected point."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

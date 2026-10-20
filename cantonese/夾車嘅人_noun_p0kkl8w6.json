@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "carpool group",
-      "english": ["carpool"],
+      "english": [
+        {
+          "id": "cfhhut86",
+          "word": "carpool",
+          "meaning": "carpool group",
+          "note": "Use this when you mean the participating people as a group rather than the carpool arrangement itself."
+        }
+      ],
       "examples": [
         {
           "english": "Everyone in the carpool agreed to meet at the MTR station today.",

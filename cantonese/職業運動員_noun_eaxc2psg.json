@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "professional sports player",
-      "english": ["pro"],
+      "english": [
+        {
+          "id": "e1qpfs1w",
+          "word": "pro",
+          "meaning": "professional sports player",
+          "note": "Use this specifically for an athlete who plays sports professionally."
+        }
+      ],
       "examples": [
         {
           "english": "They are a pro athlete.",

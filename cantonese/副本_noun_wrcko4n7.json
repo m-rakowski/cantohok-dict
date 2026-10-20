@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "copy of a document",
-      "english": ["duplication", "facsimile"],
+      "english": [
+        {
+          "id": "dab6qpje",
+          "word": "duplication",
+          "meaning": "a duplicate copy",
+          "note": "Use this when “duplication” means an extra copy or duplicate document."
+        },
+        {
+          "id": "0wkqpcaa",
+          "word": "facsimile",
+          "meaning": "copy, reproduction",
+          "note": "Use this for a duplicate copy of a document or file rather than a reproduced object."
+        }
+      ],
       "examples": [
         {
           "english": "I need a duplication of this document for the meeting.",

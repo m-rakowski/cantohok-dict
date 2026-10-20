@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "guess based on clues",
-      "english": ["hypothesize", "conjecture"],
+      "english": [
+        {
+          "id": "rxkr7a2o",
+          "word": "hypothesize",
+          "meaning": "make a tentative theory",
+          "register": "formal",
+          "note": "Use this when the tentative idea is an inference based on incomplete evidence rather than a theory being deliberately posited."
+        },
+        {
+          "id": "j7055zgi",
+          "word": "conjecture",
+          "meaning": "to conjecture; guess",
+          "register": "formal",
+          "note": "Use 推測 for a more reasoned or formal conjecture based on available clues."
+        }
+      ],
       "register": "formal",
       "examples": [
         {

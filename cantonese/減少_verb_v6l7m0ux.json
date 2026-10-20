@@ -6,7 +6,50 @@
   "boxes": [
     {
       "meaning": "reduce, decrease",
-      "english": ["reduce", "lessen", "downsize", "decrease", "diminish", "drop", "decline"],
+      "english": [
+        {
+          "id": "mspwckua",
+          "word": "reduce",
+          "meaning": "make smaller / less",
+          "note": "This is the all-purpose choice for making an amount or quantity smaller."
+        },
+        {
+          "id": "e342rn3a",
+          "word": "lessen",
+          "meaning": "make less; reduce",
+          "note": "This is the all-purpose choice for reducing an amount or making something less."
+        },
+        {
+          "id": "bty5fjzk",
+          "word": "downsize",
+          "meaning": "reduce size or amount",
+          "note": "Use this as the all-purpose choice for reducing an amount or number, rather than specifically reducing physical size or staff."
+        },
+        {
+          "id": "ccd4fuu8",
+          "word": "decrease",
+          "meaning": "become smaller",
+          "note": "Use this neutral verb for a quantity decreasing or for deliberately reducing a quantity."
+        },
+        {
+          "id": "tqs9tzuy",
+          "word": "diminish",
+          "meaning": "become smaller",
+          "note": "Use this especially for amounts, numbers, frequency, or intensity becoming or being made less."
+        },
+        {
+          "id": "3ub6zgxq",
+          "word": "drop",
+          "meaning": "decrease; go down",
+          "note": "Use 減少 when an amount, degree, or size is reduced rather than simply falling by itself."
+        },
+        {
+          "id": "xzdmxs05",
+          "word": "decline",
+          "meaning": "cause to decrease",
+          "note": "Use transitive 減少 when you make an amount, number, or degree smaller."
+        }
+      ],
       "examples": [
         {
           "english": "The company needs to reduce the plastic used in packaging.",

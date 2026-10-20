@@ -6,7 +6,33 @@
   "boxes": [
     {
       "meaning": "trick, ploy",
-      "english": ["deceit", "artifice", "gambit", "ploy"],
+      "english": [
+        {
+          "id": "3or0fus8",
+          "word": "deceit",
+          "meaning": "deception; trick",
+          "note": "Use this as the all-purpose colloquial noun for a deceitful trick or ploy."
+        },
+        {
+          "id": "2sgk5w6i",
+          "word": "artifice",
+          "meaning": "deception, cunning trick",
+          "register": "colloquial",
+          "note": "This is the all-purpose everyday choice for a crafty trick or deceptive ploy."
+        },
+        {
+          "id": "0pqwqohf",
+          "word": "gambit",
+          "meaning": "ploy, stratagem",
+          "note": "Use 花招 when the ploy is intended to sound sneaky or deceptive."
+        },
+        {
+          "id": "dulsj3g1",
+          "word": "ploy",
+          "meaning": "tactic; scheme",
+          "note": "Use this when the ploy is specifically a trick or deceptive maneuver."
+        }
+      ],
       "examples": [
         {
           "english": "I saw through his deceit at once.",

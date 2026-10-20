@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "need to drink",
-      "english": ["thirst"],
+      "english": [
+        {
+          "id": "rtq5iden",
+          "word": "thirst",
+          "meaning": "need to drink",
+          "note": "This is the all-purpose noun for the physical sensation of needing a drink."
+        }
+      ],
       "examples": [
         {
           "english": "After running, my thirst is so bad that I need water.",

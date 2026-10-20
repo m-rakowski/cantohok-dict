@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "movie script",
-      "english": ["screenplay"],
+      "english": [
+        {
+          "id": "lhsozeff",
+          "word": "screenplay",
+          "meaning": "movie script",
+          "note": "Use this specifically for a script written for a television show."
+        }
+      ],
       "examples": [
         {
           "english": "The screenwriter is still revising the screenplay and has not finished it yet.",

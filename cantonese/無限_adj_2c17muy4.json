@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "unlimited, without limit",
-      "english": ["unlimited", "limitless"],
+      "english": [
+        {
+          "id": "4jlnrgzi",
+          "word": "unlimited",
+          "meaning": "without limits",
+          "note": "Use this especially for an actually limitless or boundless amount, range, or extent rather than merely something with relaxed rules."
+        },
+        {
+          "id": "glz8iqh8",
+          "word": "limitless",
+          "meaning": "without limits; unbounded",
+          "note": "This is the all-purpose choice for something with no upper bound in extent, size, or quantity."
+        }
+      ],
       "examples": [
         {
           "english": "The universe is so vast that there may be unlimited possibilities.",

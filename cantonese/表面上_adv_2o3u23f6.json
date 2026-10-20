@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "on the surface, outwardly",
-      "english": ["outwardly", "superficially", "ostensibly"],
+      "english": [
+        {
+          "id": "muk8xzob",
+          "word": "outwardly",
+          "meaning": "externally; on the surface",
+          "note": "This is the all-purpose choice for describing how something appears externally rather than its inner reality."
+        },
+        {
+          "id": "h46512oy",
+          "word": "superficially",
+          "meaning": "in a shallow way",
+          "note": "This is the all-purpose choice for doing or considering something only at the surface level."
+        },
+        {
+          "id": "kw95otua",
+          "word": "ostensibly",
+          "meaning": "apparently; on the surface",
+          "note": "This is the all-purpose choice for saying that something is true only on the surface or appears so publicly."
+        }
+      ],
       "examples": [
         {
           "english": "Outwardly, they seem calm, but they are actually very nervous.",

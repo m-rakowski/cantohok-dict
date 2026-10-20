@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "currently in force",
-      "english": ["active", "current"],
+      "english": [
+        {
+          "id": "mkf4jcuh",
+          "word": "active",
+          "meaning": "in operation",
+          "register": "written",
+          "note": "Use this mainly for a law, rule, or system that is currently in force rather than merely proposed or obsolete."
+        },
+        {
+          "id": "0g0m1tnw",
+          "word": "current",
+          "meaning": "current; in circulation",
+          "register": "written",
+          "note": "Pick this for a rule, policy, or system that is currently in force."
+        }
+      ],
       "register": "written",
       "examples": [
         {

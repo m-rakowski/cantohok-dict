@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "factor",
-      "english": ["factor", "element", "consideration"],
+      "english": [
+        {
+          "id": "1bukj0dw",
+          "word": "factor",
+          "meaning": "contributing element",
+          "note": "This is the all-purpose choice for a circumstance or influence that helps produce a result."
+        },
+        {
+          "id": "gesckzod",
+          "word": "element",
+          "meaning": "contributing factor",
+          "note": "Use 因素 when the element is one condition or consideration contributing to an outcome."
+        },
+        {
+          "id": "lsil1lf6",
+          "word": "consideration",
+          "meaning": "factor to consider",
+          "note": "Use this when a consideration means a factor that affects a decision."
+        }
+      ],
       "examples": [
         {
           "english": "This is an important factor affecting the result.",

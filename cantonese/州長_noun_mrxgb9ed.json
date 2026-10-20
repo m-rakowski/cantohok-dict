@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "state governor",
-      "english": ["governor", "premier"],
+      "english": [
+        {
+          "id": "85m0oacb",
+          "word": "governor",
+          "meaning": "provincial leader",
+          "note": "Use this for the chief executive of a state or other first-level division called a state, especially in the United States."
+        },
+        {
+          "id": "wfchcdt1",
+          "word": "premier",
+          "meaning": "state or provincial premier",
+          "note": "Use this instead of 省長 when the territory is a state, such as an Australian or US state."
+        }
+      ],
       "examples": [
         {
           "english": "The new governor increased funding for public transportation.",

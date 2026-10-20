@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "throw away",
-      "english": ["toss", "dump"],
+      "english": [
+        {
+          "id": "jz4lev8q",
+          "word": "toss",
+          "meaning": "throw away",
+          "note": "Use this as the all-purpose verb for discarding or throwing something away."
+        },
+        {
+          "id": "q2dlixfs",
+          "word": "dump",
+          "meaning": "throw away",
+          "note": "Use this as the all-purpose verb for discarding something you no longer want."
+        }
+      ],
       "examples": [
         {
           "english": "I'll toss these scraps of paper.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "computer sleep mode",
-      "english": ["hibernate"],
+      "english": [
+        {
+          "id": "3ufubn8t",
+          "word": "hibernate",
+          "meaning": "computer sleep mode",
+          "note": "Use this for a computer entering its power-saving hibernation state, rather than for an animal's winter dormancy."
+        }
+      ],
       "examples": [
         {
           "english": "The computer will automatically hibernate when it is idle for a while, saving power.",

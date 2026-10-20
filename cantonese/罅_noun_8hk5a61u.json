@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "crack, gap",
-      "english": ["gap", "rift"],
+      "english": [
+        {
+          "id": "pcmcata4",
+          "word": "gap",
+          "meaning": "break/opening in something",
+          "note": "This is the all-purpose noun for a physical crack or opening, especially one made by breaking or parting."
+        },
+        {
+          "id": "y0ez2gn2",
+          "word": "rift",
+          "meaning": "chasm; fissure",
+          "note": "Use this for a physical gap, fissure, or opening, especially in a wall or the ground."
+        }
+      ],
       "examples": [
         {
           "english": "The cup broke, and there's a gap on the edge.",

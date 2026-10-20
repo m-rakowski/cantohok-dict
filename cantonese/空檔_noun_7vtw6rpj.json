@@ -6,7 +6,28 @@
   "boxes": [
     {
       "meaning": "free time slot",
-      "english": ["availability", "gap", "opening"],
+      "english": [
+        {
+          "id": "l2te483b",
+          "word": "availability",
+          "meaning": "being free/available",
+          "register": "colloquial",
+          "note": "Use this for a specific free slot in someone’s schedule."
+        },
+        {
+          "id": "92sb4tls",
+          "word": "gap",
+          "meaning": "empty time slot",
+          "register": "colloquial",
+          "note": "Use this for a free period or open slot in a schedule rather than a physical opening."
+        },
+        {
+          "id": "kfv3njk2",
+          "word": "opening",
+          "meaning": "available time slot",
+          "note": "Use 空檔 for an available opening in a schedule or a period when someone is free."
+        }
+      ],
       "examples": [
         {
           "english": "Do you have any availability tomorrow?",

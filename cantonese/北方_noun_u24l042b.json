@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "compass direction",
-      "english": ["north"],
+      "english": [
+        {
+          "id": "c0cm1izp",
+          "word": "north",
+          "meaning": "compass direction",
+          "note": "Use this for north understood as a broad northern region or direction rather than an exact bearing."
+        }
+      ],
       "examples": [
         {
           "english": "Winters in the north are usually colder.",

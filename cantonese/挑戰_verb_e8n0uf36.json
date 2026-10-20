@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "challenge",
-      "english": ["challenge", "defy", "contest"],
+      "english": [
+        {
+          "id": "9napp9cx",
+          "word": "challenge",
+          "meaning": "invite to compete",
+          "note": "This is the all-purpose choice for challenging someone to compete or daring them to do something."
+        },
+        {
+          "id": "u59bqczi",
+          "word": "defy",
+          "meaning": "challenge; brave",
+          "note": "Use this as the all-purpose choice for challenging a person, authority, opponent, or danger."
+        },
+        {
+          "id": "ryiwmshi",
+          "word": "contest",
+          "meaning": "challenge; dispute",
+          "note": "Use this when contesting someone’s authority, position, decision, or claim in a confrontational sense."
+        }
+      ],
       "examples": [
         {
           "english": "I challenge you to race me.",

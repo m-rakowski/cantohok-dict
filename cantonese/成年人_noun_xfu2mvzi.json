@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "adult",
-      "english": ["adult", "grown-up"],
+      "english": [
+        {
+          "id": "rhvemi4g",
+          "word": "adult",
+          "meaning": "legal-grown person",
+          "note": "Use this when explicitly referring to a person who has reached adulthood or legal majority."
+        },
+        {
+          "id": "pzasedrv",
+          "word": "grown-up",
+          "meaning": "an adult",
+          "note": "Use this when emphasizing legal age, adulthood, or an official age category."
+        }
+      ],
       "examples": [
         {
           "english": "A person who is eighteen or over counts as an adult.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "life-sciences engineering",
-      "english": ["biotechnology"],
+      "english": [
+        {
+          "id": "vrs1wxd5",
+          "word": "biotechnology",
+          "meaning": "life-sciences engineering",
+          "note": "Use this when the focus is specifically on engineering methods applied to the life sciences rather than biotechnology in general."
+        }
+      ],
       "examples": [
         {
           "english": "This biotechnology engineering project mainly studies how to improve cells with engineering techniques.",

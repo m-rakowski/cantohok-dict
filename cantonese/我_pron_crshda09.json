@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "I, me",
-      "english": ["I", "me"],
+      "english": [
+        {
+          "id": "lcfl0xu5",
+          "word": "I",
+          "meaning": "personal pronoun",
+          "note": "This is the all-purpose first-person pronoun for the speaker or writer as the subject."
+        },
+        {
+          "id": "79bduvyx",
+          "word": "me",
+          "meaning": "object pronoun",
+          "note": "This is the all-purpose choice for object pronouns, objects of prepositions, and standalone or appositional “me.”"
+        }
+      ],
       "examples": [
         {
           "english": "I don't eat spicy food.",

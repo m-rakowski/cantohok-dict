@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "earthquake-related",
-      "english": ["seismic"],
+      "english": [
+        {
+          "id": "krgti9kr",
+          "word": "seismic",
+          "meaning": "earthquake-related",
+          "note": "This is the all-purpose choice for things related to or caused by earthquakes."
+        }
+      ],
       "examples": [
         {
           "english": "The seismic waves made the windows rattle.",

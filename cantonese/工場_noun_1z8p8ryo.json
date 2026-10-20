@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "small workshop for making things",
-      "english": ["workshop", "shop"],
+      "english": [
+        {
+          "id": "1qy7nvl1",
+          "word": "workshop",
+          "meaning": "small industrial room",
+          "note": "Use this for a room or site where manufacturing or light industrial work is done, rather than a training course."
+        },
+        {
+          "id": "l80touac",
+          "word": "shop",
+          "meaning": "workshop; place of craft",
+          "note": "Use this for a place where goods are made or crafted, rather than an ordinary retail shop."
+        }
+      ],
       "examples": [
         {
           "english": "They are making wooden furniture at the workshop.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "direct, without go-between",
-      "english": ["direct", "unmediated"],
+      "english": [
+        {
+          "id": "9geg72yb",
+          "word": "direct",
+          "meaning": "shortest route; straight",
+          "note": "This is the all-purpose choice for a route that goes straight to a destination or wording that states something explicitly."
+        },
+        {
+          "id": "33zszc2g",
+          "word": "unmediated",
+          "meaning": "direct, not mediated",
+          "note": "This is the all-purpose choice for something experienced, communicated, or obtained without an intermediary."
+        }
+      ],
       "examples": [
         {
           "english": "You can go direct from here to the MTR station.",
@@ -22,7 +35,20 @@
     },
     {
       "meaning": "frank, straightforward in speech",
-      "english": ["straightforward", "straight"],
+      "english": [
+        {
+          "id": "kvmp0fet",
+          "word": "straightforward",
+          "meaning": "direct; frank",
+          "note": "Use this for someone or something that communicates in a direct, forthright way rather than indirectly."
+        },
+        {
+          "id": "9t8xuius",
+          "word": "straight",
+          "meaning": "direct, straightforward",
+          "note": "Use 直接 when communication or an answer is direct and unent evasive rather than physically straight."
+        }
+      ],
       "examples": [
         {
           "english": "They are very straightforward and do not beat around the bush.",

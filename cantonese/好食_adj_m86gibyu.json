@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "tasty, delicious",
-      "english": ["delicious", "tasty", "yummy", "palatable", "good"],
+      "english": [
+        {
+          "id": "e3o1fyzw",
+          "word": "delicious",
+          "meaning": "pleasing to taste",
+          "note": "This is the all-purpose colloquial choice for saying that food tastes delicious."
+        },
+        {
+          "id": "jisragur",
+          "word": "tasty",
+          "meaning": "pleasant flavor",
+          "note": "This is the all-purpose everyday choice for food that has a pleasant or satisfying flavor."
+        },
+        {
+          "id": "p6ptd55b",
+          "word": "yummy",
+          "meaning": "delicious",
+          "note": "This is the all-purpose everyday choice for saying that food is delicious."
+        },
+        {
+          "id": "ki259niw",
+          "word": "palatable",
+          "meaning": "tasty; pleasant to eat",
+          "note": "Use this as the everyday choice for food that tastes good."
+        },
+        {
+          "id": "dztujb8u",
+          "word": "good",
+          "meaning": "tasty; delicious",
+          "note": "Use this specifically when food tastes good or is delicious."
+        }
+      ],
       "examples": [
         {
           "english": "The char siu rice at this café is really delicious.",

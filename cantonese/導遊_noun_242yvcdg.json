@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "tour guide",
-      "english": ["guide", "tour guide"],
+      "english": [
+        {
+          "id": "mh0h83eg",
+          "word": "guide",
+          "meaning": "person who shows around",
+          "note": "This is the all-purpose noun for a person hired to show visitors around and explain a place."
+        },
+        {
+          "id": "v8mhrlhy",
+          "word": "tour guide",
+          "meaning": "person who leads tours",
+          "note": "This is the all-purpose Cantonese noun for a person who guides and provides information on an organised tour."
+        }
+      ],
       "examples": [
         {
           "english": "This guide explains everything very clearly.",

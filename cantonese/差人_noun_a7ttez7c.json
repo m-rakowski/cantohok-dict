@@ -6,7 +6,36 @@
   "boxes": [
     {
       "meaning": "police officer",
-      "english": ["policeman", "cop", "copper", "police"],
+      "english": [
+        {
+          "id": "09fqarzt",
+          "word": "policeman",
+          "meaning": "police officer",
+          "register": "colloquial",
+          "note": "This is the all-purpose colloquial spoken term for a police officer."
+        },
+        {
+          "id": "m8jcqjn6",
+          "word": "cop",
+          "meaning": "police officer",
+          "register": "colloquial",
+          "note": "Use this colloquial Hong Kong term when referring casually to a police officer."
+        },
+        {
+          "id": "b0hiupq0",
+          "word": "copper",
+          "meaning": "police officer",
+          "register": "colloquial",
+          "note": "Use this colloquial Hong Kong term for a police officer, matching the slang sense of “copper.”"
+        },
+        {
+          "id": "txpb7qo3",
+          "word": "police",
+          "meaning": "police officer",
+          "register": "colloquial",
+          "note": "Use this colloquial word when referring specifically to an individual police officer."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

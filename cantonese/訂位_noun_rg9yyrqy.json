@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "seat or table reservation",
-      "english": ["reservation", "booking"],
+      "english": [
+        {
+          "id": "k207tpjx",
+          "word": "reservation",
+          "meaning": "booking",
+          "register": "colloquial",
+          "note": "Use this for a reserved seat or place, especially on transport and in restaurants, rather than for a hotel room."
+        },
+        {
+          "id": "bnjwivqm",
+          "word": "booking",
+          "meaning": "reservation",
+          "note": "Use 訂位 when the reservation is specifically for a seat, table, or other place."
+        }
+      ],
       "examples": [
         {
           "english": "We need a reservation before we go for dinner.",

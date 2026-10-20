@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "pleasure, treat",
-      "english": ["indulgence", "luxury", "enjoyment"],
+      "english": [
+        {
+          "id": "lo66s3un",
+          "word": "indulgence",
+          "meaning": "favor granted",
+          "note": "This is the all-purpose choice for a pleasurable special treat, or for gratification."
+        },
+        {
+          "id": "nqlz4cc1",
+          "word": "luxury",
+          "meaning": "pleasant nonessential thing",
+          "register": "colloquial",
+          "note": "Use this as the everyday noun for a pleasant nonessential comfort or indulgence."
+        },
+        {
+          "id": "bhvef07g",
+          "word": "enjoyment",
+          "meaning": "pleasure, delight",
+          "note": "Use this when enjoyment is framed as a pleasurable experience or indulgence."
+        }
+      ],
       "examples": [
         {
           "english": "This cup of good coffee is my little indulgence after work.",

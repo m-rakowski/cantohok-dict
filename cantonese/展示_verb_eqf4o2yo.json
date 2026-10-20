@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "to show, display",
-      "english": ["display", "present", "demonstrate"],
+      "english": [
+        {
+          "id": "9f27rc4c",
+          "word": "display",
+          "meaning": "show, exhibit",
+          "register": "formal",
+          "note": "Use this for publicly presenting or exhibiting an object, work, or information."
+        },
+        {
+          "id": "19a360ah",
+          "word": "present",
+          "meaning": "present; show",
+          "note": "Use this as the all-purpose choice for putting something forward so that people can see it."
+        },
+        {
+          "id": "kxic4dyh",
+          "word": "demonstrate",
+          "meaning": "show; prove",
+          "note": "Use this when deliberately displaying or presenting something rather than proving a claim."
+        }
+      ],
       "examples": [
         {
           "english": "The museum will display a collection of precious artifacts.",

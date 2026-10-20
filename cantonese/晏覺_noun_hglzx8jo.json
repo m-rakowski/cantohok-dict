@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "afternoon nap",
-      "english": ["nap", "sleep"],
+      "english": [
+        {
+          "id": "ai0dr6j5",
+          "word": "nap",
+          "meaning": "short sleep",
+          "register": "colloquial",
+          "note": "Use this colloquial noun for the usual daytime or afternoon nap."
+        },
+        {
+          "id": "3fubo69r",
+          "word": "sleep",
+          "meaning": "a sleep, nap",
+          "note": "Use this specifically for an afternoon nap."
+        }
+      ],
       "examples": [
         {
           "english": "I want to take a nap after eating.",

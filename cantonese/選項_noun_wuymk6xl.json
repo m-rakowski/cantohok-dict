@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "option in a list or settings",
-      "english": ["alternative", "attribute"],
+      "english": [
+        {
+          "id": "ashqg0n4",
+          "word": "alternative",
+          "meaning": "one of the options",
+          "note": "Use this for one selectable option in a list, menu, form, or set of choices."
+        },
+        {
+          "id": "buuyg19j",
+          "word": "attribute",
+          "meaning": "setting; option",
+          "note": "Use this when the attribute is presented as an available option belonging to an object or system."
+        }
+      ],
       "examples": [
         {
           "english": "The form has three choices; which alternative should I choose?",

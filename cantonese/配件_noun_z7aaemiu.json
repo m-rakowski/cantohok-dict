@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "accessory, attachment",
-      "english": ["accessory", "attachment"],
+      "english": [
+        {
+          "id": "uenum4g4",
+          "word": "accessory",
+          "meaning": "additional part; attachment",
+          "note": "Use this as the all-purpose word for an extra component or attachment of a device or object."
+        },
+        {
+          "id": "o80us9gw",
+          "word": "attachment",
+          "meaning": "tool attachment",
+          "note": "Use this for an accessory or device fitted onto a tool or piece of equipment."
+        }
+      ],
       "examples": [
         {
           "english": "This phone accessory can be used for charging.",

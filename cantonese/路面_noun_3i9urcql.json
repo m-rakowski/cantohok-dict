@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "road surface",
-      "english": ["pavement"],
+      "english": [
+        {
+          "id": "n857303p",
+          "word": "pavement",
+          "meaning": "road surface",
+          "note": "Use this when referring specifically to the paved surface of a road or other thoroughfare."
+        }
+      ],
       "examples": [
         {
           "english": "The pavement is slippery, so drive carefully.",

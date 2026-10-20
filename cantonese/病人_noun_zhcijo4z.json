@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "patient",
-      "english": ["patient", "examinee"],
+      "english": [
+        {
+          "id": "zeoytywl",
+          "word": "patient",
+          "meaning": "medical patient",
+          "note": "This is the all-purpose Cantonese noun for someone receiving medical care, including a new patient at a clinic."
+        },
+        {
+          "id": "pwhuuua9",
+          "word": "examinee",
+          "meaning": "patient being examined",
+          "note": "Use this for an examinee who is a patient being examined for medical reasons."
+        }
+      ],
       "examples": [
         {
           "english": "This patient is seeing a doctor for the first time.",

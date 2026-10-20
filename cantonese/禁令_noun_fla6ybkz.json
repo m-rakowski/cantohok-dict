@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "ban",
-      "english": ["prohibition", "proscription"],
+      "english": [
+        {
+          "id": "yii6r08m",
+          "word": "prohibition",
+          "meaning": "act of prohibiting",
+          "register": "formal",
+          "note": "Use this as the all-purpose noun for a ban or prohibition."
+        },
+        {
+          "id": "36elyy7p",
+          "word": "proscription",
+          "meaning": "prohibition",
+          "register": "formal",
+          "note": "This is the all-purpose noun for a prohibition or official ban."
+        }
+      ],
       "register": "formal",
       "examples": [
         {

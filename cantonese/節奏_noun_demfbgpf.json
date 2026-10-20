@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "rhythm, beat",
-      "english": ["rhythm", "beat"],
+      "english": [
+        {
+          "id": "xzw2ht67",
+          "word": "rhythm",
+          "meaning": "beat in music/speech",
+          "note": "This is the all-purpose choice for a beat, a defined rhythm pattern, or the regular flow of an activity."
+        },
+        {
+          "id": "cd5e8zmj",
+          "word": "beat",
+          "meaning": "rhythm, beat",
+          "note": "Use this for the rhythm or beat of music, dancing, or a song."
+        }
+      ],
       "examples": [
         {
           "english": "This song's rhythm is strong and sounds really energetic.",
@@ -22,7 +35,14 @@
     },
     {
       "meaning": "pacing, timing",
-      "english": ["timing"],
+      "english": [
+        {
+          "id": "n0sew8dw",
+          "word": "timing",
+          "meaning": "pace and coordination",
+          "note": "Choose 節奏 when “timing” means controlling pace and coordination, especially in a performance, race, or sequence of events."
+        }
+      ],
       "examples": [
         {
           "english": "Good timing is essential when telling jokes.",

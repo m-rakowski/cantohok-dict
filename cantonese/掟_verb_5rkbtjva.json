@@ -6,7 +6,28 @@
   "boxes": [
     {
       "meaning": "throw",
-      "english": ["cast", "pitch", "toss"],
+      "english": [
+        {
+          "id": "jjwfrzi1",
+          "word": "cast",
+          "meaning": "throw",
+          "note": "This is the all-purpose colloquial choice for throwing something."
+        },
+        {
+          "id": "iggk80e7",
+          "word": "pitch",
+          "meaning": "throw",
+          "register": "colloquial",
+          "note": "This is the all-purpose colloquial choice for physically throwing something, including throwing something away."
+        },
+        {
+          "id": "gvd5wlh7",
+          "word": "toss",
+          "meaning": "throw lightly",
+          "register": "colloquial",
+          "note": "Use this for a light throw, including flipping a coin to decide something."
+        }
+      ],
       "examples": [
         {
           "english": "When I got angry, I cast the pillow onto the floor.",

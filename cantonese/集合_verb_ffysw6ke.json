@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "gather at a place",
-      "english": ["assemble", "congregate"],
+      "english": [
+        {
+          "id": "99kut7ux",
+          "word": "assemble",
+          "meaning": "gather together",
+          "note": "Use this when people gather together as a group at a place."
+        },
+        {
+          "id": "qidh20v4",
+          "word": "congregate",
+          "meaning": "come together, assemble",
+          "note": "Use this for an organized or instructed assembly rather than an informal gathering."
+        }
+      ],
       "examples": [
         {
           "english": "Everyone, assemble at the playground at eight in the morning.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "rise, go up",
-      "english": ["rise", "climb"],
+      "english": [
+        {
+          "id": "lncofd3h",
+          "word": "rise",
+          "meaning": "move upward",
+          "note": "Use 升 as the all-purpose choice when something physically moves upward or a price or level goes up."
+        },
+        {
+          "id": "rog8c4g5",
+          "word": "climb",
+          "meaning": "rise in rank or place",
+          "note": "Use this specifically when a rank, level, price, or position rises, rather than for physical climbing."
+        }
+      ],
       "examples": [
         {
           "english": "I watched the water level rise by two marks.",

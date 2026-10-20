@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "online checkout",
-      "english": ["checkout"],
+      "english": [
+        {
+          "id": "q63tvupx",
+          "word": "checkout",
+          "meaning": "online checkout",
+          "note": "Use this for the online stage where a purchase is confirmed and paid for."
+        }
+      ],
       "examples": [
         {
           "english": "After online checkout, the order is confirmed.",

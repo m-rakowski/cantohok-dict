@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "get, obtain",
-      "english": ["derive", "gain"],
+      "english": [
+        {
+          "id": "a43vqgcq",
+          "word": "derive",
+          "meaning": "obtain from",
+          "note": "Use 得到 as the all-purpose choice when someone obtains or receives something from a source."
+        },
+        {
+          "id": "ylklpxwn",
+          "word": "gain",
+          "meaning": "acquire possession",
+          "note": "Use this as the all-purpose verb for acquiring or receiving something."
+        }
+      ],
       "examples": [
         {
           "english": "I derive a lot of information from this book.",

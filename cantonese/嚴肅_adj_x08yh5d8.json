@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "serious, stern in manner",
-      "english": ["austere", "stern", "earnest", "serious"],
+      "english": [
+        {
+          "id": "v8xtnull",
+          "word": "austere",
+          "meaning": "severe, stern",
+          "note": "This is the all-purpose choice for a grim or severe manner or appearance."
+        },
+        {
+          "id": "714oyzt8",
+          "word": "stern",
+          "meaning": "grim, forbidding",
+          "note": "Use this for a grim, serious, or forbidding appearance rather than for strict treatment."
+        },
+        {
+          "id": "kcmgwryw",
+          "word": "earnest",
+          "meaning": "serious in character",
+          "note": "Use this for a serious or solemn character, manner, or disposition rather than simply sincere effort."
+        },
+        {
+          "id": "pll7jy5e",
+          "word": "serious",
+          "meaning": "grave, solemn manner",
+          "note": "Use this for a grave, solemn manner or expression, especially when someone is not light-hearted."
+        }
+      ],
       "examples": [
         {
           "english": "They always look grim and austere.",

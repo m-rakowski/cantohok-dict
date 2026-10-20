@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "grammatical sentence",
-      "english": ["sentence"],
+      "english": [
+        {
+          "id": "mxgmyid2",
+          "word": "sentence",
+          "meaning": "grammatical sentence",
+          "note": "This is the all-purpose noun for a grammatically complete sentence."
+        }
+      ],
       "examples": [
         {
           "english": "This sentence has a subject and a predicate.",

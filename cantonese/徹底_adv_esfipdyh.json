@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "thoroughly, completely",
-      "english": ["completely", "thoroughly", "finally"],
+      "english": [
+        {
+          "id": "l4xeldbb",
+          "word": "completely",
+          "meaning": "thoroughly / fully",
+          "note": "Use this for carrying something through thoroughly or leaving nothing undone, especially with actions or changes."
+        },
+        {
+          "id": "b1f9u1ac",
+          "word": "thoroughly",
+          "meaning": "completely; all the way",
+          "register": "written",
+          "note": "Use this especially for carrying out an investigation, cleaning, or change in a thorough and exhaustive way."
+        },
+        {
+          "id": "q88l4uni",
+          "word": "finally",
+          "meaning": "definitively; once and for all",
+          "note": "Use this when “finally” means thoroughly or definitively, as in settling an issue once and for all, not merely at the end of a sequence."
+        }
+      ],
       "examples": [
         {
           "english": "We need to completely reform this system.",

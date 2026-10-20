@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "anyway, in any case",
-      "english": ["anyhow", "regardless"],
+      "english": [
+        {
+          "id": "y741goj5",
+          "word": "anyhow",
+          "meaning": "anyway; in any case",
+          "note": "Use this to wrap up or reinforce a preceding point with “anyway” or “in short.”"
+        },
+        {
+          "id": "rtj2hbc2",
+          "word": "regardless",
+          "meaning": "anyway; still",
+          "register": "colloquial",
+          "note": "Use this discourse marker for “anyway” when moving on to the decision or conclusion, rather than stressing a specific warning."
+        }
+      ],
       "examples": [
         {
           "english": "Anyhow, the matter is settled, so there's no need to think about it anymore.",

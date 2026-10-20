@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "property owner, landlord",
-      "english": ["landlord", "landlady", "owner"],
+      "english": [
+        {
+          "id": "tt7mkf95",
+          "word": "landlord",
+          "meaning": "property owner/renter",
+          "note": "This is the all-purpose Cantonese word for a landlord who leases out a flat, shop, or other property."
+        },
+        {
+          "id": "51ka6tde",
+          "word": "landlady",
+          "meaning": "female landlord",
+          "note": "Use this when referring to the female landlord in her capacity as the property owner; it does not specify that the owner is a woman."
+        },
+        {
+          "id": "mkms2x4e",
+          "word": "owner",
+          "meaning": "person who owns something",
+          "note": "Use this for the owner of a property or business, especially in Hong Kong property contexts."
+        }
+      ],
       "examples": [
         {
           "english": "I’ve already paid the rent to the landlord.",

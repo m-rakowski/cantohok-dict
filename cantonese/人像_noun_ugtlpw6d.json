@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "portrait of a person",
-      "english": ["portrait", "portraiture"],
+      "english": [
+        {
+          "id": "iqq2kpao",
+          "word": "portrait",
+          "meaning": "person picture",
+          "note": "This is the all-purpose choice for a visual picture of a person, especially a head-and-shoulders image."
+        },
+        {
+          "id": "tbxu2ed8",
+          "word": "portraiture",
+          "meaning": "portrait; likeness",
+          "note": "This is the all-purpose choice for a portrait, likeness, or portraits considered as a group."
+        }
+      ],
       "examples": [
         {
           "english": "This portrait looks a lot like you.",

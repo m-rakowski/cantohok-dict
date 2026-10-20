@@ -6,7 +6,33 @@
   "boxes": [
     {
       "meaning": "stupid, foolish",
-      "english": ["stupid", "dense", "dull", "simple"],
+      "english": [
+        {
+          "id": "zbwn2i39",
+          "word": "stupid",
+          "meaning": "lacking intelligence",
+          "note": "This is the all-purpose choice for a person, thing, decision, or rule that is stupid or foolish."
+        },
+        {
+          "id": "cj0vmm6z",
+          "word": "dense",
+          "meaning": "stupid; slow to understand",
+          "register": "colloquial",
+          "note": "Use this about a person judged stupid or slow to understand."
+        },
+        {
+          "id": "n13bp3ip",
+          "word": "dull",
+          "meaning": "stupid; slow to learn",
+          "note": "Use this when dull means unintelligent or slow to understand, rather than boring."
+        },
+        {
+          "id": "nmnki82c",
+          "word": "simple",
+          "meaning": "foolish, dim-witted",
+          "note": "Use this when “simple” is disparaging and means foolish or dim-witted."
+        }
+      ],
       "examples": [
         {
           "english": "This decision is really stupid.",

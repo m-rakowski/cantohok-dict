@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "nobody",
-      "english": ["nobody", "no one", "none"],
+      "english": [
+        {
+          "id": "b9tpuudr",
+          "word": "nobody",
+          "meaning": "no person; no one",
+          "note": "This is the all-purpose spoken choice for “nobody” or “no one.”"
+        },
+        {
+          "id": "d8je9tyh",
+          "word": "no one",
+          "meaning": "nobody",
+          "note": "This is the all-purpose colloquial way to say that nobody is present or does something."
+        },
+        {
+          "id": "j602ura4",
+          "word": "none",
+          "meaning": "no one, nobody",
+          "note": "Use this specifically when none of the people are involved, meaning nobody."
+        }
+      ],
       "examples": [
         {
           "english": "nobody is at home",

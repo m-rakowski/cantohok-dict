@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "flow out",
-      "english": ["stream", "issue"],
+      "english": [
+        {
+          "id": "xysn0u7l",
+          "word": "stream",
+          "meaning": "pour out in a stream",
+          "note": "Use 流出 when blood or another liquid is specifically coming out of a wound, container, or other opening."
+        },
+        {
+          "id": "3zzp3y1q",
+          "word": "issue",
+          "meaning": "flow out",
+          "note": "Use this when liquid or another substance flows out from a source."
+        }
+      ],
       "examples": [
         {
           "english": "Blood continued to stream out of their wound.",

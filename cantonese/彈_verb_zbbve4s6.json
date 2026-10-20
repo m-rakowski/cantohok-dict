@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "flick, tap",
-      "english": ["flick"],
+      "english": [
+        {
+          "id": "homzr6jt",
+          "word": "flick",
+          "meaning": "quick tap or motion",
+          "note": "This is the all-purpose choice for flicking or tapping something with a quick finger motion."
+        }
+      ],
       "examples": [
         {
           "english": "Flick the switch once, and the TV will come on.",
@@ -17,7 +24,14 @@
     },
     {
       "meaning": "pluck a string, play an instrument",
-      "english": ["pluck"],
+      "english": [
+        {
+          "id": "sscloo5l",
+          "word": "pluck",
+          "meaning": "pluck a string",
+          "note": "Use this specifically for producing a note by pulling and releasing a string on an instrument."
+        }
+      ],
       "examples": [
         {
           "english": "I pluck one of the guitar strings with my finger, and it makes a clear note.",

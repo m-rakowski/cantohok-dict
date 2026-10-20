@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "amount of CO2 produced",
-      "english": ["carbon footprint"],
+      "english": [
+        {
+          "id": "oewxq7ks",
+          "word": "carbon footprint",
+          "meaning": "amount of CO2 produced",
+          "note": "This is the all-purpose Cantonese term for a person, organization, or place’s carbon footprint."
+        }
+      ],
       "examples": [
         {
           "english": "I take fewer flights now to reduce my carbon footprint.",

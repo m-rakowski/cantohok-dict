@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "drive, stimulate",
-      "english": ["animate", "boost"],
+      "english": [
+        {
+          "id": "fs0xpjhu",
+          "word": "animate",
+          "meaning": "inspire, enliven",
+          "register": "colloquial",
+          "note": "Use this for enlivening or energizing a group, activity, or atmosphere rather than inspiring someone deeply."
+        },
+        {
+          "id": "brrzdqgy",
+          "word": "boost",
+          "meaning": "increase or improve",
+          "note": "Use this when something boosts the growth or activity of a wider process, sector, or situation by stimulating it."
+        }
+      ],
       "examples": [
         {
           "english": "The lively atmosphere helps animate the crowd, and everyone dances together.",

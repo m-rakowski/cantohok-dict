@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "far",
-      "english": ["far", "remote", "distant"],
+      "english": [
+        {
+          "id": "jokjupzr",
+          "word": "far",
+          "meaning": "distant in space",
+          "note": "This is the all-purpose choice for spatial or temporal distance, and it can mean “the farther one” when the comparison is clear."
+        },
+        {
+          "id": "a5p7wsb0",
+          "word": "remote",
+          "meaning": "at a distance",
+          "note": "This is the all-purpose choice for something at a physical or general distance."
+        },
+        {
+          "id": "dhuhh8d4",
+          "word": "distant",
+          "meaning": "far off",
+          "note": "This is the all-purpose choice for physical, logical, or mental distance."
+        }
+      ],
       "examples": [
         {
           "english": "This place is very far from downtown.",

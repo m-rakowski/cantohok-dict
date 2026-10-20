@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "reply, response",
-      "english": ["response", "reply"],
+      "english": [
+        {
+          "id": "5uwxm8k6",
+          "word": "response",
+          "meaning": "answer or reply",
+          "note": "This is the all-purpose everyday noun for a reply or response to someone."
+        },
+        {
+          "id": "v2vq3het",
+          "word": "reply",
+          "meaning": "response; answer",
+          "note": "Use this for a reply to a message, email, or online comment."
+        }
+      ],
       "examples": [
         {
           "english": "I still haven't received your response.",

@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "cope with, deal with",
-      "english": ["cope", "live", "negotiate"],
+      "english": [
+        {
+          "id": "gn2c5ftc",
+          "word": "cope",
+          "meaning": "deal effectively with",
+          "note": "This is the all-purpose choice for dealing effectively with a difficult situation, task, or demand."
+        },
+        {
+          "id": "sl04w4f1",
+          "word": "live",
+          "meaning": "cope with, endure",
+          "note": "Use this for coping with or managing a difficult situation that one has to live with."
+        },
+        {
+          "id": "7i3wnome",
+          "word": "negotiate",
+          "meaning": "get through",
+          "note": "Use this for coping with or dealing with a difficulty, rather than for negotiating an agreement."
+        }
+      ],
       "examples": [
         {
           "english": "This report is so difficult, but I can cope with it.",

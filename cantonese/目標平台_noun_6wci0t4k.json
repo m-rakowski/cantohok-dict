@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "software target platform",
-      "english": ["target"],
+      "english": [
+        {
+          "id": "oxis05zs",
+          "word": "target",
+          "meaning": "software target platform",
+          "note": "Use this specifically for the platform or system that software is intended to run on."
+        }
+      ],
       "examples": [
         {
           "english": "When we developed this program, we had already decided that the target platform was mobile phones.",

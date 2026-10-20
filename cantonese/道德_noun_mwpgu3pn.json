@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "morality, ethics",
-      "english": ["ethic", "morality", "moral"],
+      "english": [
+        {
+          "id": "agxqf106",
+          "word": "ethic",
+          "meaning": "code of conduct",
+          "note": "Use this as the all-purpose noun for morality, moral standards, or the moral quality of an action."
+        },
+        {
+          "id": "gor7m7rt",
+          "word": "morality",
+          "meaning": "right and wrong",
+          "note": "This is the all-purpose choice for morality as right and wrong or morally good conduct."
+        },
+        {
+          "id": "xx6q510b",
+          "word": "moral",
+          "meaning": "morals, ethics",
+          "note": "Use this as the all-purpose noun for moral standards, ethics, or conduct."
+        }
+      ],
       "examples": [
         {
           "english": "Respecting other people's privacy is an important ethic.",

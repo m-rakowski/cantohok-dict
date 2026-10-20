@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "plant-eating animal",
-      "english": ["vegetarian"],
+      "english": [
+        {
+          "id": "qkqdhlac",
+          "word": "vegetarian",
+          "meaning": "plant-eating animal",
+          "note": "Use this for an animal that eats plants rather than for a human vegetarian."
+        }
+      ],
       "examples": [
         {
           "english": "A cow is a vegetarian animal that only eats grass.",

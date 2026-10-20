@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "to respect, look up to",
-      "english": ["revere", "venerate", "respect"],
+      "english": [
+        {
+          "id": "jn39odrp",
+          "word": "revere",
+          "meaning": "regard with awe",
+          "note": "Use this as the all-purpose spoken verb for showing strong respect or reverence."
+        },
+        {
+          "id": "t1rl7pb9",
+          "word": "venerate",
+          "meaning": "treat with great respect",
+          "note": "This is the all-purpose verb for treating someone with great respect and deference."
+        },
+        {
+          "id": "8xgva0mg",
+          "word": "respect",
+          "meaning": "respect someone",
+          "note": "Use this for holding a person in especially high regard, such as an admired elder or authority figure."
+        }
+      ],
       "examples": [
         {
           "english": "I continue to revere my grandmother.",

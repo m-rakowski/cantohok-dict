@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "manufacturing",
-      "english": ["manufacture", "manufacturing"],
+      "english": [
+        {
+          "id": "uldiia3x",
+          "word": "manufacture",
+          "meaning": "make goods commercially",
+          "note": "This is the all-purpose noun for the industrial making of goods, especially in phrases about a manufacturing process or industry."
+        },
+        {
+          "id": "4hz8w02k",
+          "word": "manufacturing",
+          "meaning": "making goods from raw materials",
+          "note": "Choose 製造 when emphasizing the actual fabrication or making of finished products rather than the broader production activity."
+        }
+      ],
       "examples": [
         {
           "english": "The manufacture of these parts is completed entirely at this factory.",

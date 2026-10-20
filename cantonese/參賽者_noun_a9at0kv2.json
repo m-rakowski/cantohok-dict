@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "contestant",
-      "english": ["runner", "competitor"],
+      "english": [
+        {
+          "id": "w1uvzlbo",
+          "word": "runner",
+          "meaning": "race entrant",
+          "note": "Use this for a human entrant in a race or other competition, but not for an election candidate."
+        },
+        {
+          "id": "gk6oxo1c",
+          "word": "competitor",
+          "meaning": "competitor in a contest",
+          "note": "Use this for anyone who takes part in a competition, without emphasizing that they are your opponent."
+        }
+      ],
       "examples": [
         {
           "english": "Every runner in this marathon gets a medal.",

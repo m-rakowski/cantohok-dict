@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "calm, unruffled",
-      "english": ["nonchalant", "philosophical", "sedate"],
+      "english": [
+        {
+          "id": "5cgjt2ir",
+          "word": "nonchalant",
+          "meaning": "indifferent; unconcerned",
+          "note": "Use this as the all-purpose choice for a calm, unruffled manner, including apparent indifference that is really composure."
+        },
+        {
+          "id": "dkr5lx1z",
+          "word": "philosophical",
+          "meaning": "calm, stoic",
+          "note": "Use this when the emphasis is on staying calm and composed rather than on accepting things philosophically."
+        },
+        {
+          "id": "4slcwe29",
+          "word": "sedate",
+          "meaning": "calm, composed",
+          "register": "colloquial",
+          "note": "Use this colloquial choice for someone who remains unruffled and unconcerned despite activity or excitement."
+        }
+      ],
       "examples": [
         {
           "english": "Even when the child cried on stage, I stayed nonchalant.",

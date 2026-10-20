@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "footstep",
-      "english": ["tread", "pace"],
+      "english": [
+        {
+          "id": "22dvhe5d",
+          "word": "tread",
+          "meaning": "footstep",
+          "note": "This is the all-purpose choice for a physical footstep or someone's manner of walking."
+        },
+        {
+          "id": "tn07btpa",
+          "word": "pace",
+          "meaning": "step",
+          "note": "Use 腳步 for an actual footstep or step taken while walking."
+        }
+      ],
       "examples": [
         {
           "english": "Your tread is so heavy that the whole floor can hear you.",

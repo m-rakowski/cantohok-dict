@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "brick",
-      "english": ["brick"],
+      "english": [
+        {
+          "id": "zn04oar3",
+          "word": "brick",
+          "meaning": "building brick",
+          "note": "Use this for brick as a building material, or more generally when the individual-versus-material distinction is not important."
+        }
+      ],
       "examples": [
         {
           "english": "This wall is made of brick.",
@@ -17,7 +24,14 @@
     },
     {
       "meaning": "floor or wall tile",
-      "english": ["tile"],
+      "english": [
+        {
+          "id": "5rz0wd8o",
+          "word": "tile",
+          "meaning": "building tile",
+          "note": "This is the all-purpose spoken choice for an ordinary construction tile, especially on floors or walls."
+        }
+      ],
       "examples": [
         {
           "english": "We need to replace the kitchen tile.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "invasion, intrusion",
-      "english": ["invasion", "intrusion"],
+      "english": [
+        {
+          "id": "dqolkag9",
+          "word": "invasion",
+          "meaning": "military invasion",
+          "note": "This is the all-purpose noun for a military invasion into another territory."
+        },
+        {
+          "id": "12uludou",
+          "word": "intrusion",
+          "meaning": "unwanted entry",
+          "note": "Use this as the all-purpose choice for hostile or unauthorized entry, including physical invasion and cyberattacks."
+        }
+      ],
       "examples": [
         {
           "english": "This invasion left many civilians homeless.",

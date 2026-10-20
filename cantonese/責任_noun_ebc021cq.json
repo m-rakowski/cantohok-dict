@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "blame, fault",
-      "english": ["blame", "fault", "guilt", "rap"],
+      "english": [
+        {
+          "id": "1937dtv4",
+          "word": "blame",
+          "meaning": "fault, culpability",
+          "note": "For culpability or responsibility for a bad outcome, this is the all-purpose noun."
+        },
+        {
+          "id": "qiisimw8",
+          "word": "fault",
+          "meaning": "blame / responsibility",
+          "note": "Use this when emphasizing who bears responsibility, rather than simply saying whose fault it is."
+        },
+        {
+          "id": "e3mh6wcl",
+          "word": "guilt",
+          "meaning": "responsibility for wrongdoing",
+          "note": "Use this when guilt means being responsible or liable for wrongdoing, rather than feeling remorse."
+        },
+        {
+          "id": "jbj7bbzr",
+          "word": "rap",
+          "meaning": "take the blame",
+          "note": "Use this for the blame or responsibility someone is expected to take."
+        }
+      ],
       "examples": [
         {
           "english": "We can't shift the blame for this matter onto other people.",
@@ -32,7 +57,32 @@
     },
     {
       "meaning": "duty, responsibility",
-      "english": ["responsibility", "duty", "obligation", "burden"],
+      "english": [
+        {
+          "id": "uffl2oxe",
+          "word": "responsibility",
+          "meaning": "state of being responsible",
+          "note": "This is the all-purpose noun for being accountable and for a duty someone is expected to handle."
+        },
+        {
+          "id": "94720cez",
+          "word": "duty",
+          "meaning": "moral obligation",
+          "note": "Use 責任 as the all-purpose everyday noun for an obligation or responsibility."
+        },
+        {
+          "id": "j05vayib",
+          "word": "obligation",
+          "meaning": "duty / requirement",
+          "note": "Use 責任 as the all-purpose choice for a personal, social, or moral obligation."
+        },
+        {
+          "id": "hpg88cj1",
+          "word": "burden",
+          "meaning": "responsibility",
+          "note": "Pick this for the responsibility or onus aspect of the burden, rather than its weight or stress."
+        }
+      ],
       "examples": [
         {
           "english": "I’ll take responsibility for this matter.",

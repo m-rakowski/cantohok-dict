@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "pause, halt",
-      "english": ["pause", "standstill", "cessation", "arrest", "interruption"],
+      "english": [
+        {
+          "id": "zefkrqs4",
+          "word": "pause",
+          "meaning": "a break",
+          "note": "This is the all-purpose noun for a temporary stop or interruption, especially in speech or an activity."
+        },
+        {
+          "id": "ukiwobr6",
+          "word": "standstill",
+          "meaning": "complete halt",
+          "note": "This is the all-purpose choice for a complete halt or lack of movement."
+        },
+        {
+          "id": "kpthojei",
+          "word": "cessation",
+          "meaning": "stopping; discontinuance",
+          "note": "Use this for a temporary pause or interruption in an activity or process, rather than a final ending."
+        },
+        {
+          "id": "eiyzvs8b",
+          "word": "arrest",
+          "meaning": "standstill; cessation",
+          "note": "Use this for an ordinary standstill or cessation rather than a legal arrest or a specific medical condition."
+        },
+        {
+          "id": "i9tsyd3r",
+          "word": "interruption",
+          "meaning": "pause or gap in activity",
+          "note": "Use this when the interruption is a pause or temporary gap rather than a disruption or someone cutting in."
+        }
+      ],
       "examples": [
         {
           "english": "I took a pause here before continuing.",

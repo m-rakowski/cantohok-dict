@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "sport",
-      "english": ["sport", "sports"],
+      "english": [
+        {
+          "id": "4ucez9th",
+          "word": "sport",
+          "meaning": "physical competitive activity",
+          "note": "This is the all-purpose choice for a physical competitive sport."
+        },
+        {
+          "id": "o6dbf4fa",
+          "word": "sports",
+          "meaning": "physical activities",
+          "note": "This is the all-purpose Cantonese noun for sports and physical activities."
+        }
+      ],
       "examples": [
         {
           "english": "Soccer is my favourite sport.",
@@ -22,7 +35,20 @@
     },
     {
       "meaning": "exercise, workout",
-      "english": ["exercise", "workout"],
+      "english": [
+        {
+          "id": "ledwjnza",
+          "word": "exercise",
+          "meaning": "physical exercise",
+          "note": "Use 運動 as the all-purpose noun for activity aimed at physical fitness, rather than skill practice."
+        },
+        {
+          "id": "2uvtawmu",
+          "word": "workout",
+          "meaning": "exercise session",
+          "note": "Use this as the all-purpose everyday term for a period of physical exercise."
+        }
+      ],
       "examples": [
         {
           "english": "I get some exercise every day to stay healthy.",
@@ -38,7 +64,20 @@
     },
     {
       "meaning": "social or political movement",
-      "english": ["movement", "campaign"],
+      "english": [
+        {
+          "id": "119j3hb2",
+          "word": "movement",
+          "meaning": "physical motion",
+          "note": "Use this for a social movement, and for physical motion in a scientific or more formal context."
+        },
+        {
+          "id": "lw9d0o77",
+          "word": "campaign",
+          "meaning": "organized effort",
+          "note": "Use this for a sustained public, political, or social campaign such as an environmental campaign."
+        }
+      ],
       "examples": [
         {
           "english": "This social movement is fighting for equal rights.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "full from eating",
-      "english": ["stuffed", "full"],
+      "english": [
+        {
+          "id": "8040qu79",
+          "word": "stuffed",
+          "meaning": "full after eating",
+          "note": "Use this when someone is full because they have eaten."
+        },
+        {
+          "id": "m7viehlc",
+          "word": "full",
+          "meaning": "having eaten enough",
+          "note": "Use this specifically when someone has eaten enough and feels full."
+        }
+      ],
       "examples": [
         {
           "english": "I’m stuffed after eating the burger.",

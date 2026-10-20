@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "oily, greasy",
-      "english": ["oily", "fat"],
+      "english": [
+        {
+          "id": "olg7ds2x",
+          "word": "oily",
+          "meaning": "covered in oil",
+          "register": "colloquial",
+          "note": "Use this especially for food or cooking that is greasy or contains a lot of oil, rather than for an object visibly smeared with oil."
+        },
+        {
+          "id": "n0up1bhk",
+          "word": "fat",
+          "meaning": "greasy; rich food",
+          "note": "Use this for food that is greasy or has too much oil."
+        }
+      ],
       "examples": [
         {
           "english": "This fried rice is too oily for me to eat.",

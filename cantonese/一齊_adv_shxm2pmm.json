@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "together",
-      "english": ["together", "along", "simultaneously"],
+      "english": [
+        {
+          "id": "b777jom8",
+          "word": "together",
+          "meaning": "at the same time / place",
+          "note": "This is the all-purpose choice for people doing something together and can also mean being in a relationship in the right context."
+        },
+        {
+          "id": "oovqg1u7",
+          "word": "along",
+          "meaning": "in company; together",
+          "note": "This is the all-purpose choice when people do something together, as in singing along."
+        },
+        {
+          "id": "kp74t7xa",
+          "word": "simultaneously",
+          "meaning": "at the same time",
+          "register": "colloquial",
+          "note": "Use this when people or things do something together at the same time, especially in casual speech."
+        }
+      ],
       "examples": [
         {
           "english": "Let’s eat together.",

@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "restrict, limit",
-      "english": ["limit", "restrict", "confine", "modify", "qualify"],
+      "english": [
+        {
+          "id": "xznnm164",
+          "word": "limit",
+          "meaning": "restrict, make smaller",
+          "note": "This is the all-purpose verb for restricting something or keeping it within set boundaries."
+        },
+        {
+          "id": "mpcjonry",
+          "word": "restrict",
+          "meaning": "limit; confine",
+          "note": "This is the all-purpose choice for limiting or confining people, activities, quantities, or choices."
+        },
+        {
+          "id": "84cc77mz",
+          "word": "confine",
+          "meaning": "restrict to a place/bounds",
+          "note": "Use this as the all-purpose choice for restricting a person, thing, activity, or scope to defined limits."
+        },
+        {
+          "id": "qcddxh9y",
+          "word": "modify",
+          "meaning": "moderate, limit",
+          "note": "Use 限制 when modifying something means setting bounds on it or keeping it within limits."
+        },
+        {
+          "id": "wnb4x45j",
+          "word": "qualify",
+          "meaning": "limit or modify",
+          "note": "Use this when qualifying means limiting, restricting, or placing conditions on something, including an assertion."
+        }
+      ],
       "examples": [
         {
           "english": "We use this rule to limit employees' overtime.",

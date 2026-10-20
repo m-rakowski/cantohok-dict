@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "care, concern",
-      "english": ["care", "attention", "concern"],
+      "english": [
+        {
+          "id": "9k3y1ged",
+          "word": "care",
+          "meaning": "attention; concern",
+          "note": "Use this for personal concern or interest rather than the practical act of looking after someone."
+        },
+        {
+          "id": "bxkx3mz4",
+          "word": "attention",
+          "meaning": "courtesy or romantic attentions",
+          "note": "Use this for attention shown as concern or care for someone, rather than romantic pursuit."
+        },
+        {
+          "id": "19gdipp2",
+          "word": "concern",
+          "meaning": "showing concern",
+          "note": "Use this for the care or solicitude someone shows toward a person or matter."
+        }
+      ],
       "examples": [
         {
           "english": "I care a lot about your feelings.",

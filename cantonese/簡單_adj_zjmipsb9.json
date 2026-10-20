@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "simple, easy",
-      "english": ["elementary", "simple", "straightforward", "basic"],
+      "english": [
+        {
+          "id": "zqoscod7",
+          "word": "elementary",
+          "meaning": "very simple",
+          "note": "This is the all-purpose everyday choice when “elementary” means very simple or straightforward."
+        },
+        {
+          "id": "1hxalv8o",
+          "word": "simple",
+          "meaning": "not complex",
+          "note": "This is the all-purpose choice for something uncomplicated, and also for a plain or unadorned appearance."
+        },
+        {
+          "id": "3mjazqgb",
+          "word": "straightforward",
+          "meaning": "easy; simple",
+          "note": "This is the all-purpose choice when something is easy, uncomplicated, or has no difficulty."
+        },
+        {
+          "id": "kjskpw1v",
+          "word": "basic",
+          "meaning": "simple; minimal",
+          "note": "Choose this when “basic” means simple, elementary, or not elaborate rather than fundamental."
+        }
+      ],
       "examples": [
         {
           "english": "This maths problem is elementary; even children can do it.",
@@ -32,7 +57,14 @@
     },
     {
       "meaning": "plain, unadorned",
-      "english": ["plain"],
+      "english": [
+        {
+          "id": "17uhd9hd",
+          "word": "plain",
+          "meaning": "plain; unadorned",
+          "note": "Use this for an unembellished style or for a person whose habits or qualities are simple and unsophisticated."
+        }
+      ],
       "examples": [
         {
           "english": "They like plain clothes and don't chase fashion.",

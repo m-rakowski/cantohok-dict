@@ -6,7 +6,15 @@
   "boxes": [
     {
       "meaning": "hospital patient not admitted",
-      "english": ["outpatient"],
+      "english": [
+        {
+          "id": "79fjppez",
+          "word": "outpatient",
+          "meaning": "hospital patient not admitted",
+          "register": "formal",
+          "note": "This is the all-purpose term for a patient treated at a hospital or clinic without being admitted overnight."
+        }
+      ],
       "register": "formal",
       "examples": [
         {

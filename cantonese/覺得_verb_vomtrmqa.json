@@ -6,7 +6,45 @@
   "boxes": [
     {
       "meaning": "to think, to feel that",
-      "english": ["deem", "feel", "think", "find", "believe", "strike"],
+      "english": [
+        {
+          "id": "kywuic3h",
+          "word": "deem",
+          "meaning": "judge/consider to be",
+          "note": "Use this as the all-purpose colloquial way to express a personal judgment or assessment."
+        },
+        {
+          "id": "e2ua812y",
+          "word": "feel",
+          "meaning": "think / believe",
+          "note": "Use this as the all-purpose verb for thinking, having an impression, or finding that something seems a certain way."
+        },
+        {
+          "id": "cwa2ixna",
+          "word": "think",
+          "meaning": "be of the opinion",
+          "note": "Use this for expressing an opinion or judging that someone or something is a certain way."
+        },
+        {
+          "id": "7irsxgia",
+          "word": "find",
+          "meaning": "think/consider",
+          "register": "colloquial",
+          "note": "Use 覺得 when “find” means forming an opinion or judging something to be a certain way."
+        },
+        {
+          "id": "6jloyjij",
+          "word": "believe",
+          "meaning": "think, suppose",
+          "note": "Use this instead of 相信 when “believe” means giving your opinion or saying what you think."
+        },
+        {
+          "id": "v72tln34",
+          "word": "strike",
+          "meaning": "strike me as; affect suddenly",
+          "note": "Use this when something gives a person a particular impression or seems a certain way to them."
+        }
+      ],
       "examples": [
         {
           "english": "I deem this restaurant pretty good.",

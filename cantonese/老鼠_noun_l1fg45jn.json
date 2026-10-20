@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "rat or mouse",
-      "english": ["rat", "mouse"],
+      "english": [
+        {
+          "id": "xjsn8n7w",
+          "word": "rat",
+          "meaning": "rodent",
+          "note": "This is the all-purpose Cantonese noun for the animal."
+        },
+        {
+          "id": "3iggbeol",
+          "word": "mouse",
+          "meaning": "mouse animal",
+          "note": "This is the all-purpose Cantonese noun for the animal."
+        }
+      ],
       "examples": [
         {
           "english": "There’s a rat in the kitchen—quick, call someone to catch it.",

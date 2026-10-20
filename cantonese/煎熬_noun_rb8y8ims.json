@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "torment, painful suffering",
-      "english": ["anguish", "agony"],
+      "english": [
+        {
+          "id": "fkc0fkhj",
+          "word": "anguish",
+          "meaning": "intense pain or distress",
+          "note": "Use this for severe suffering that someone has to endure, especially over a prolonged period."
+        },
+        {
+          "id": "2poywadl",
+          "word": "agony",
+          "meaning": "extreme pain",
+          "note": "Use this for prolonged mental or emotional suffering rather than a sharp physical pain."
+        }
+      ],
       "examples": [
         {
           "english": "Those few days of waiting for the surgery results were pure anguish.",

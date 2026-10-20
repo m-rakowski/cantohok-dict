@@ -7,23 +7,115 @@
     {
       "meaning": "really, truly",
       "english": [
-        "really",
-        "real",
-        "seriously",
-        "truly",
-        "indeed",
-        "absolutely",
-        "literally",
-        "genuinely",
-        "all right",
-        "bloody",
-        "actually",
-        "right",
-        "properly",
-        "altogether",
-        "though",
-        "emphatically",
-        "ever"
+        {
+          "id": "l7ha7p08",
+          "word": "really",
+          "meaning": "actually; in fact",
+          "note": "Use this as the all-purpose colloquial choice for asserting that something is true or strongly emphasizing an adjective or verb."
+        },
+        {
+          "id": "1zu5vbp6",
+          "word": "real",
+          "meaning": "really; very",
+          "note": "This is the all-purpose choice for saying that something is really or genuinely so."
+        },
+        {
+          "id": "zr1wq63j",
+          "word": "seriously",
+          "meaning": "very, to a great degree",
+          "note": "Use this as the all-purpose colloquial intensifier or disbelief marker."
+        },
+        {
+          "id": "hpyu4vqv",
+          "word": "truly",
+          "meaning": "really; genuinely",
+          "note": "This is the all-purpose everyday choice for saying that something is really or genuinely the case."
+        },
+        {
+          "id": "hch78gj1",
+          "word": "indeed",
+          "meaning": "actually; truly",
+          "register": "colloquial",
+          "note": "Use this when indeed means “truly,” and for emphatic “indeed,” especially before an adjective or verb."
+        },
+        {
+          "id": "2gmc5b9m",
+          "word": "absolutely",
+          "meaning": "very; extremely",
+          "note": "Use this as the all-purpose colloquial intensifier for emphatic evaluations such as “absolutely brilliant.”"
+        },
+        {
+          "id": "l32r6i7f",
+          "word": "literally",
+          "meaning": "informal intensifier",
+          "note": "This is the all-purpose spoken choice when “literally” is loose, informal emphasis or filler."
+        },
+        {
+          "id": "0te3hd3i",
+          "word": "genuinely",
+          "meaning": "truly; sincerely",
+          "note": "This is the all-purpose colloquial choice for saying that something is genuinely or truly the case."
+        },
+        {
+          "id": "54xi3b36",
+          "word": "all right",
+          "meaning": "definitely; certainly",
+          "note": "Use 真係 when “all right” emphatically confirms that something really happened or is certainly true."
+        },
+        {
+          "id": "zmza0xzv",
+          "word": "bloody",
+          "meaning": "expletive adverb",
+          "note": "Use this for emphatic or incredulous force when the English expletive does not need to sound vulgar."
+        },
+        {
+          "id": "b6tyaqfr",
+          "word": "actually",
+          "meaning": "really; in fact",
+          "register": "colloquial",
+          "note": "Use this when “actually” means “really” and adds emphasis rather than simply correcting the listener."
+        },
+        {
+          "id": "n9l9mybx",
+          "word": "right",
+          "meaning": "actually; really",
+          "register": "colloquial",
+          "note": "For the actually or really sense, 真係 is the all-purpose spoken choice."
+        },
+        {
+          "id": "fbcr8o36",
+          "word": "properly",
+          "meaning": "really; thoroughly",
+          "note": "Use this when “properly” intensifies an adjective or reaction, as in being really tired."
+        },
+        {
+          "id": "utvh80m0",
+          "word": "altogether",
+          "meaning": "intensifier: quite; really",
+          "register": "colloquial",
+          "note": "Use 真係 before an adjective or evaluation when altogether means really or clearly, rather than completely."
+        },
+        {
+          "id": "e9izdium",
+          "word": "though",
+          "meaning": "emphatic tag question",
+          "register": "colloquial",
+          "note": "Use this when the emphatic sense is “indeed” or “really,” rather than a rhetorical tag such as “係咪先.”"
+        },
+        {
+          "id": "wdlx9t2r",
+          "word": "emphatically",
+          "meaning": "most definitely; truly",
+          "register": "colloquial",
+          "note": "Use this when emphatically means ‘truly’ or ‘indeed’, especially in an informal assertion."
+        },
+        {
+          "id": "tzypgw80",
+          "word": "ever",
+          "meaning": "emphatic intensifier",
+          "register": "colloquial",
+          "note": "Use this as an emphatic intensifier in an exclamation where English uses “ever” for extra emphasis."
+        }
       ],
       "examples": [
         {
@@ -115,7 +207,14 @@
     },
     {
       "meaning": "honestly, said on its own at the start of a sentence",
-      "english": ["honestly"],
+      "english": [
+        {
+          "id": "olpofq2r",
+          "word": "honestly",
+          "meaning": "disbelief or exasperation",
+          "note": "Use this exclamatorily for mild disbelief, surprise, or exasperation, rather than for ordinary truthfulness."
+        }
+      ],
       "examples": [
         {
           "english": "Honestly, thinking it over, I might be wrong.",

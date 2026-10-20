@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "directly, straight",
-      "english": ["directly", "straight"],
+      "english": [
+        {
+          "id": "e9muvcx2",
+          "word": "directly",
+          "meaning": "in a straight line",
+          "note": "Use this as the all-purpose choice for doing something directly, including going somewhere without an intermediary or speaking plainly."
+        },
+        {
+          "id": "igjffy0y",
+          "word": "straight",
+          "meaning": "directly, without delay",
+          "note": "This is the all-purpose choice for going directly somewhere without a detour or stop."
+        }
+      ],
       "examples": [
         {
           "english": "I directly called him, so there was no need to pass it on through someone else.",
@@ -22,7 +35,14 @@
     },
     {
       "meaning": "bluntly, outright",
-      "english": ["flat out"],
+      "english": [
+        {
+          "id": "n32m0msi",
+          "word": "flat out",
+          "meaning": "bluntly; outright",
+          "note": "Use this as the all-purpose choice when someone says something bluntly or without holding back."
+        }
+      ],
       "examples": [
         {
           "english": "Tell me flat out; there’s no need to beat around the bush.",

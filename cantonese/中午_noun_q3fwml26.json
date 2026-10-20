@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "noon",
-      "english": ["midday", "noon"],
+      "english": [
+        {
+          "id": "myf16fx4",
+          "word": "midday",
+          "meaning": "noon; 12 o'clock",
+          "note": "This is the all-purpose Cantonese noun for noon or the middle of the day."
+        },
+        {
+          "id": "d1nv3kbz",
+          "word": "noon",
+          "meaning": "midday",
+          "note": "This is the all-purpose everyday word for noon or the middle of the day."
+        }
+      ],
       "examples": [
         {
           "english": "We go for dim sum at midday.",

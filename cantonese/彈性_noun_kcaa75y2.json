@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "flexibility, room to adjust",
-      "english": ["flexibility"],
+      "english": [
+        {
+          "id": "by7x9k91",
+          "word": "flexibility",
+          "meaning": "ability to bend",
+          "note": "This is the all-purpose choice for metaphorical adaptability and for having room to adjust plans or arrangements."
+        }
+      ],
       "examples": [
         {
           "english": "This contract has flexibility, so the timing can still be adjusted.",
@@ -17,7 +24,20 @@
     },
     {
       "meaning": "springiness, elasticity",
-      "english": ["elasticity", "resilience"],
+      "english": [
+        {
+          "id": "okxa7oau",
+          "word": "elasticity",
+          "meaning": "spring-back property",
+          "note": "This is the all-purpose choice for the spring-back property and for flexibility in handling situations."
+        },
+        {
+          "id": "f1wxup4q",
+          "word": "resilience",
+          "meaning": "elasticity",
+          "note": "Use this specifically for a material’s ability to return to its original shape after being stretched or deformed."
+        }
+      ],
       "examples": [
         {
           "english": "This rubber band has a lot of elasticity; even after being stretched, it shrinks back.",

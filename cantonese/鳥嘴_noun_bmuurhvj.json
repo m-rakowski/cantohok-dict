@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "bird's beak",
-      "english": ["beak", "bill"],
+      "english": [
+        {
+          "id": "o3gbfo7f",
+          "word": "beak",
+          "meaning": "bird bill",
+          "note": "Use 鳥嘴 specifically when you mean a bird's bill rather than a person's mouth or an animal's snout."
+        },
+        {
+          "id": "sx7426n4",
+          "word": "bill",
+          "meaning": "bird beak",
+          "note": "Use this for a bird's beak, especially when you need to distinguish it from an animal's mouth."
+        }
+      ],
       "examples": [
         {
           "english": "This bird's beak is very sharp.",

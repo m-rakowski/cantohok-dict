@@ -6,7 +6,68 @@
   "boxes": [
     {
       "meaning": "bad, poor quality",
-      "english": ["terrible", "lousy", "dreadful", "miserable", "poor", "rotten", "bad", "shabby", "sad", "painful"],
+      "english": [
+        {
+          "id": "8gmqzi04",
+          "word": "terrible",
+          "meaning": "very bad; poor quality",
+          "note": "This is the all-purpose choice for something very bad or unpleasant, especially something of poor quality."
+        },
+        {
+          "id": "5nihpj20",
+          "word": "lousy",
+          "meaning": "bad quality",
+          "note": "This is the all-purpose choice for something of poor quality or disappointing standard, including something that is inadequate."
+        },
+        {
+          "id": "fas9vc25",
+          "word": "dreadful",
+          "meaning": "very bad; awful",
+          "note": "This is the all-purpose choice for saying that something is very bad or awful, often intensified as 好差."
+        },
+        {
+          "id": "gqhg6q0n",
+          "word": "miserable",
+          "meaning": "very bad at something",
+          "note": "Use 差 when something is very bad, especially a performance or the weather, rather than a person's general misery."
+        },
+        {
+          "id": "mmh7afii",
+          "word": "poor",
+          "meaning": "bad quality",
+          "note": "This is the all-purpose choice for describing low quality or a bad result."
+        },
+        {
+          "id": "t48vyjry",
+          "word": "rotten",
+          "meaning": "bad / terrible",
+          "note": "Use 差 for something generally bad or terrible, such as weather or conditions, rather than physically decayed."
+        },
+        {
+          "id": "w3w7vi3o",
+          "word": "bad",
+          "meaning": "low quality",
+          "note": "Use 差 when quality, ability, health, condition, appearance, or an experience is poor."
+        },
+        {
+          "id": "v651y2jp",
+          "word": "shabby",
+          "meaning": "poor quality",
+          "note": "Use this for something of poor quality or work that shows little ability or effort."
+        },
+        {
+          "id": "r5lfuchg",
+          "word": "sad",
+          "meaning": "bad or disappointing",
+          "note": "Use this for something poor in quality, bad, disappointing, or generally deplorable rather than emotionally sad."
+        },
+        {
+          "id": "nehqp7ko",
+          "word": "painful",
+          "meaning": "very bad; awful",
+          "note": "Choose this for something very poor or bad, such as a terrible performance."
+        }
+      ],
       "examples": [
         {
           "english": "The food at this restaurant is terrible.",

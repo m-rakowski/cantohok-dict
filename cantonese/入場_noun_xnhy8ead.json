@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "entering a venue, admission",
-      "english": ["admission", "entry", "entrance"],
+      "english": [
+        {
+          "id": "qs6y3k7n",
+          "word": "admission",
+          "meaning": "entry or entrance permission",
+          "note": "Use this as the all-purpose choice for entering an event or place, rather than for the fee itself."
+        },
+        {
+          "id": "gc5710rp",
+          "word": "entry",
+          "meaning": "permission to enter",
+          "note": "Use 入場 for entering a venue and, in admission contexts such as free admission, for being allowed in."
+        },
+        {
+          "id": "zi7epula",
+          "word": "entrance",
+          "meaning": "act of entering",
+          "note": "Use 入場 for the act of entering a venue or event, especially when discussing admission or when someone makes an entrance there."
+        }
+      ],
       "examples": [
         {
           "english": "You need to show a ticket for admission.",

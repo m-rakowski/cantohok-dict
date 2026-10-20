@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "interruption",
-      "english": ["interruption", "lapse"],
+      "english": [
+        {
+          "id": "18uajfm0",
+          "word": "interruption",
+          "meaning": "act or state of being interrupted",
+          "register": "formal",
+          "note": "Use this for a process, service, or activity being interrupted or stopped, especially in more formal or written contexts."
+        },
+        {
+          "id": "3i7a630g",
+          "word": "lapse",
+          "meaning": "gap in continuity",
+          "note": "Use this when continuity or an ongoing process is interrupted."
+        }
+      ],
       "examples": [
         {
           "english": "The rainstorm caused an interruption to the power supply for several hours.",

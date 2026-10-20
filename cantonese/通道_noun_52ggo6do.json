@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "passage, aisle",
-      "english": ["aisle", "passage", "approach", "corridor"],
+      "english": [
+        {
+          "id": "0q24cynf",
+          "word": "aisle",
+          "meaning": "row passage",
+          "note": "This is the all-purpose noun for a passage between rows of seats or shelves."
+        },
+        {
+          "id": "uyqn6ohj",
+          "word": "passage",
+          "meaning": "corridor; passageway",
+          "note": "Use this as the all-purpose noun for a passageway or corridor."
+        },
+        {
+          "id": "w6qqtio4",
+          "word": "approach",
+          "meaning": "access way",
+          "note": "Use 通道 for a passage or access way leading to a building or place."
+        },
+        {
+          "id": "3nf8dsnc",
+          "word": "corridor",
+          "meaning": "passageway between places",
+          "note": "Use this for a route or strip of land whose main function is to connect two places, rather than for an indoor hallway."
+        }
+      ],
       "examples": [
         {
           "english": "There are shelves with goods on both sides of this aisle.",

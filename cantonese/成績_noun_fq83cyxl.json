@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "grades, results",
-      "english": ["grade", "mark", "score"],
+      "english": [
+        {
+          "id": "ze5nhanc",
+          "word": "grade",
+          "meaning": "school marks",
+          "note": "This is the all-purpose choice for marks or scores received in school tests and other evaluations."
+        },
+        {
+          "id": "4jzpaqxt",
+          "word": "mark",
+          "meaning": "test score",
+          "note": "Use this for a school or test mark, rather than a physical or written mark."
+        },
+        {
+          "id": "s0ondlxl",
+          "word": "score",
+          "meaning": "test grade",
+          "note": "Use this for a person's or group's overall test performance or results rather than just the mark."
+        }
+      ],
       "examples": [
         {
           "english": "My grade on this test wasn't bad.",

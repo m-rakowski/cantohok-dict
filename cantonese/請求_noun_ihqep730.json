@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "formal request",
-      "english": ["request", "prayer"],
+      "english": [
+        {
+          "id": "bxe8xina",
+          "word": "request",
+          "meaning": "act of requesting",
+          "register": "formal written",
+          "note": "Use this for a polite or official request, especially in formal or written contexts."
+        },
+        {
+          "id": "7r3m8c4v",
+          "word": "prayer",
+          "meaning": "request, petition",
+          "note": "Use this for a request or petition, especially in formal or legal contexts."
+        }
+      ],
       "examples": [
         {
           "english": "I have submitted a formal request to the management office.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "plan to, intend",
-      "english": ["intend", "aim"],
+      "english": [
+        {
+          "id": "c9ua3f98",
+          "word": "intend",
+          "meaning": "plan, mean to",
+          "note": "Use this when presenting the intention as a more deliberate or definite plan."
+        },
+        {
+          "id": "9skeix5o",
+          "word": "aim",
+          "meaning": "to intend / try to",
+          "note": "Use this as the all-purpose choice for intending or planning to do something."
+        }
+      ],
       "examples": [
         {
           "english": "I intend to start learning Japanese next month.",

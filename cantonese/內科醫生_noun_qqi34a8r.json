@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "medical doctor",
-      "english": ["physician"],
+      "english": [
+        {
+          "id": "fhjajlt6",
+          "word": "physician",
+          "meaning": "medical doctor",
+          "note": "Use this when you specifically mean a physician who treats medical conditions with medication rather than a surgeon."
+        }
+      ],
       "examples": [
         {
           "english": "This illness needs to be controlled with medication; you should see a physician in internal medicine, not a surgeon.",

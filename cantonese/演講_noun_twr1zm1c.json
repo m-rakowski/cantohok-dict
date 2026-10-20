@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "talk, lecture",
-      "english": ["discourse", "presentation", "talk"],
+      "english": [
+        {
+          "id": "bjhxl3vd",
+          "word": "discourse",
+          "meaning": "formal talk or writing",
+          "note": "Use this for the spoken version, especially a formal talk given to an audience."
+        },
+        {
+          "id": "80dxnzq9",
+          "word": "presentation",
+          "meaning": "lecture or speech",
+          "note": "Use this for the all-purpose spoken-talk sense when the presentation is a lecture or speech."
+        },
+        {
+          "id": "5davldns",
+          "word": "talk",
+          "meaning": "lecture; talk",
+          "register": "formal",
+          "note": "Use this for an organised lecture or public talk, especially at an event."
+        }
+      ],
       "examples": [
         {
           "english": "The principal gave a discourse on education reform in the auditorium today, speaking for two hours.",

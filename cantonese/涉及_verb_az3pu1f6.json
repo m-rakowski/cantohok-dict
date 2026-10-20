@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "involve, concern",
-      "english": ["implicate", "relate"],
+      "english": [
+        {
+          "id": "tcd8cof2",
+          "word": "implicate",
+          "meaning": "connect with wrongdoing",
+          "note": "This is the all-purpose choice for saying that a person is connected with a crime or wrongdoing."
+        },
+        {
+          "id": "clx1xo8m",
+          "word": "relate",
+          "meaning": "apply to; concern",
+          "register": "written",
+          "note": "Use this when a rule, issue, or matter concerns or applies specifically to a particular subject."
+        }
+      ],
       "examples": [
         {
           "english": "That theft case does implicate several bank employees.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "somewhere",
-      "english": ["someplace"],
+      "english": [
+        {
+          "id": "y0i4im7z",
+          "word": "someplace",
+          "meaning": "somewhere",
+          "note": "Use this when asserting that something is in a particular but unspecified place, rather than using the more question-like 邊度."
+        }
+      ],
       "examples": [
         {
           "english": "That document should still be someplace.",

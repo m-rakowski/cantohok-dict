@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "to jump",
-      "english": ["jump", "leap"],
+      "english": [
+        {
+          "id": "db0fdgkg",
+          "word": "jump",
+          "meaning": "leap upward",
+          "note": "This is the all-purpose verb for becoming airborne, and it can also mean jumping off something when the downward direction is clear from context."
+        },
+        {
+          "id": "8fbutf0n",
+          "word": "leap",
+          "meaning": "jump",
+          "note": "This is the all-purpose spoken Cantonese verb for jumping or leaping."
+        }
+      ],
       "examples": [
         {
           "english": "Let's jump into the water together.",

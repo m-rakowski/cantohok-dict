@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "to agree with, identify with",
-      "english": ["concur", "align", "identify"],
+      "english": [
+        {
+          "id": "vybfcyqv",
+          "word": "concur",
+          "meaning": "agree, be of the same opinion",
+          "note": "Use this when you want to stress accepting or identifying with a viewpoint or argument."
+        },
+        {
+          "id": "40g2xy06",
+          "word": "align",
+          "meaning": "identify with / support",
+          "note": "Use this for identifying with or supporting another person’s, group’s, or country’s views and behaviour."
+        },
+        {
+          "id": "j5ryg2zo",
+          "word": "identify",
+          "meaning": "identify with a group",
+          "note": "Use this for feeling an affinity or solidarity with a person or group, rather than recognizing their identity."
+        }
+      ],
       "examples": [
         {
           "english": "I really concur with your view that we should listen to everyone's opinions first.",

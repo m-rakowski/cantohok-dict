@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "soft drink",
-      "english": ["soda", "soft drink", "juice"],
+      "english": [
+        {
+          "id": "3zmx65pm",
+          "word": "soda",
+          "meaning": "soft drink",
+          "note": "This is the all-purpose choice for an ordinary carbonated soft drink."
+        },
+        {
+          "id": "8dsz4gzw",
+          "word": "soft drink",
+          "meaning": "carbonated non-alcoholic beverage",
+          "note": "This is the all-purpose everyday word for a carbonated soft drink such as cola or lemonade."
+        },
+        {
+          "id": "2s24yllu",
+          "word": "juice",
+          "meaning": "soft drink (Scotland)",
+          "note": "Use this for the Scottish sense where “juice” means a carbonated soft drink rather than fruit juice."
+        }
+      ],
       "examples": [
         {
           "english": "I want a soda.",

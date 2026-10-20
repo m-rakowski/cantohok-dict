@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "trip over, make someone stumble",
-      "english": ["trip", "stumble"],
+      "english": [
+        {
+          "id": "hj809iko",
+          "word": "trip",
+          "meaning": "stumble, trip over",
+          "register": "written",
+          "note": "Use this when someone catches a foot on something and stumbles, or when someone causes another person to fall."
+        },
+        {
+          "id": "qfj4rqm2",
+          "word": "stumble",
+          "meaning": "cause to trip",
+          "register": "formal",
+          "note": "Use this when something causes a person to trip, especially in formal or written phrasing."
+        }
+      ],
       "examples": [
         {
           "english": "They managed to trip over a wire while walking.",

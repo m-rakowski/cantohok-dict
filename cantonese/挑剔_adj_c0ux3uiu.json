@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "picky, fault-finding",
-      "english": ["picky", "critical"],
+      "english": [
+        {
+          "id": "3c4r356o",
+          "word": "picky",
+          "meaning": "fussy; hard to please",
+          "note": "Use this when stressing that someone notices and rejects small imperfections."
+        },
+        {
+          "id": "sg2uvxk6",
+          "word": "critical",
+          "meaning": "fault-finding",
+          "note": "Use this when someone is inclined to find faults or criticize rather than being even-handed."
+        }
+      ],
       "examples": [
         {
           "english": "You do not have to be so picky; this dish is already cooked very well.",

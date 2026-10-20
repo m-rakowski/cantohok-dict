@@ -6,7 +6,44 @@
   "boxes": [
     {
       "meaning": "so, therefore",
-      "english": ["therefore", "consequently", "accordingly", "hence", "thus", "why"],
+      "english": [
+        {
+          "id": "uy03jmx4",
+          "word": "therefore",
+          "meaning": "consequently; as a result",
+          "note": "This is the all-purpose spoken choice for stating a consequence or conclusion."
+        },
+        {
+          "id": "klnk4gof",
+          "word": "consequently",
+          "meaning": "as a result; therefore",
+          "note": "This is the all-purpose spoken choice for stating that something happened as a result."
+        },
+        {
+          "id": "58gs0tha",
+          "word": "accordingly",
+          "meaning": "therefore; as a result",
+          "note": "This is the all-purpose choice for stating that something happened as a result."
+        },
+        {
+          "id": "tz7nlh7e",
+          "word": "hence",
+          "meaning": "therefore; as a result",
+          "note": "This is the all-purpose spoken choice for stating a result or conclusion."
+        },
+        {
+          "id": "nl88ro7z",
+          "word": "thus",
+          "meaning": "therefore, as a result",
+          "note": "Use this to introduce a result or conclusion, meaning “therefore” or “so.”"
+        },
+        {
+          "id": "e7bv5n1y",
+          "word": "why",
+          "meaning": "the reason that",
+          "note": "Use this for the causal-linking sense of “that is why” or “therefore,” rather than for a direct question."
+        }
+      ],
       "examples": [
         {
           "english": "It was raining, therefore I brought an umbrella.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "cheque",
-      "english": ["cheque", "check"],
+      "english": [
+        {
+          "id": "o6migdow",
+          "word": "cheque",
+          "meaning": "bank payment order",
+          "note": "This is the all-purpose Cantonese noun for a bank payment order."
+        },
+        {
+          "id": "7xxyr5pl",
+          "word": "check",
+          "meaning": "bank cheque",
+          "note": "Use this specifically for a bank cheque used to make a payment."
+        }
+      ],
       "examples": [
         {
           "english": "I need to deposit a cheque at the bank today.",

@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "guidance, coaching",
-      "english": ["coaching", "guidance", "direction"],
+      "english": [
+        {
+          "id": "atyj7k3m",
+          "word": "coaching",
+          "meaning": "instruction; tutoring",
+          "note": "Use this as the all-purpose noun for coaching or guidance by a person."
+        },
+        {
+          "id": "8pge9stx",
+          "word": "guidance",
+          "meaning": "advice; counselling",
+          "register": "formal",
+          "note": "Use this for guidance or instruction given by a teacher, expert, or authority rather than simple advice."
+        },
+        {
+          "id": "om7fttp0",
+          "word": "direction",
+          "meaning": "guidance/instructions",
+          "note": "Use this when direction means guidance or mentoring, especially when someone is being guided rather than simply told what to do."
+        }
+      ],
       "examples": [
         {
           "english": "The coach gave me a lot of coaching to help improve my serve.",

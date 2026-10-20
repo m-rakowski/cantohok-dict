@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "few, little in amount",
-      "english": ["slight", "small", "low"],
+      "english": [
+        {
+          "id": "5qs86b8o",
+          "word": "slight",
+          "meaning": "small amount",
+          "note": "Use this as the default adjective for a small amount or quantity."
+        },
+        {
+          "id": "315bww32",
+          "word": "small",
+          "meaning": "not large",
+          "note": "Use this when “small” means few or not much in quantity, rather than physically little."
+        },
+        {
+          "id": "jlt64b7a",
+          "word": "low",
+          "meaning": "small amount",
+          "note": "Use this for a small amount or quantity, rather than 低, which normally describes height or a measured level."
+        }
+      ],
       "examples": [
         {
           "english": "I want only a slight amount of sugar in my coffee.",

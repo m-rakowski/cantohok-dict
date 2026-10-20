@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "less important, secondary",
-      "english": ["minor", "secondary", "second"],
+      "english": [
+        {
+          "id": "i87c8hz8",
+          "word": "minor",
+          "meaning": "less important; smaller",
+          "note": "This is the all-purpose choice when something is less important or significant than another."
+        },
+        {
+          "id": "516cqypx",
+          "word": "secondary",
+          "meaning": "second in rank/order",
+          "note": "This is the all-purpose choice for something subordinate to a primary matter or of lower importance."
+        },
+        {
+          "id": "q12rufz3",
+          "word": "second",
+          "meaning": "second in rank",
+          "note": "Use this when “second” means less important or subordinate rather than numerically ranked second."
+        }
+      ],
       "examples": [
         {
           "english": "This is a minor issue; safety is what matters most.",

@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "kind, type",
-      "english": ["kind", "type", "sort", "manner", "brand"],
+      "english": [
+        {
+          "id": "8o3gt44j",
+          "word": "kind",
+          "meaning": "type; category",
+          "note": "This is the all-purpose noun for a type or category, including 一種 + N for “a kind of N.”"
+        },
+        {
+          "id": "feo17s0n",
+          "word": "type",
+          "meaning": "kind; sort",
+          "note": "This is the all-purpose choice for a kind, sort, or category."
+        },
+        {
+          "id": "ko59ijo6",
+          "word": "sort",
+          "meaning": "type; sort",
+          "note": "Use 種 as the everyday all-purpose noun for a type or kind."
+        },
+        {
+          "id": "wc4x7ve3",
+          "word": "manner",
+          "meaning": "sort, kind",
+          "note": "Use this for a sort or kind, especially in expressions such as 「呢種人」."
+        },
+        {
+          "id": "wpw6wn91",
+          "word": "brand",
+          "meaning": "type, kind",
+          "note": "Use 種 when brand means a particular type, variety, or manner, as in a particular kind of flattery."
+        }
+      ],
       "examples": [
         {
           "english": "I’ve never tried this kind of tea.",
@@ -37,7 +68,15 @@
     },
     {
       "meaning": "species (biology)",
-      "english": ["species"],
+      "english": [
+        {
+          "id": "gxbvhwhg",
+          "word": "species",
+          "meaning": "taxonomic rank",
+          "register": "written",
+          "note": "Use 種 as the shorter taxonomic label when discussing species as a rank in biological classification."
+        }
+      ],
       "register": "written",
       "examples": [
         {

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "respectful term for an elderly man",
-      "english": ["grandpa", "father"],
+      "english": [
+        {
+          "id": "sdgqphbs",
+          "word": "grandpa",
+          "meaning": "elderly man",
+          "note": "Use this when addressing or referring respectfully to an elderly man who is not necessarily a relative."
+        },
+        {
+          "id": "t3hw4sgl",
+          "word": "father",
+          "meaning": "elderly man, respectful address",
+          "note": "Use 老伯 when respectfully addressing or referring to an elderly man, not a biological father."
+        }
+      ],
       "examples": [
         {
           "english": "Grandpa, you can't park here.",

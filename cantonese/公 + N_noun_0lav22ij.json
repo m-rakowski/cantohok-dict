@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "male animal",
-      "english": ["boy"],
+      "english": [
+        {
+          "id": "6d1ujxmd",
+          "word": "boy",
+          "meaning": "male animal",
+          "note": "Use this pattern for a male animal in a neutral description, such as 公狗 for a male dog."
+        }
+      ],
       "examples": [
         {
           "english": "That boy is a male dog, not a female one.",

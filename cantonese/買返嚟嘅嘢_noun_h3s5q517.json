@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "things you bought",
-      "english": ["purchase", "shopping"],
+      "english": [
+        {
+          "id": "y6iwxcd2",
+          "word": "purchase",
+          "meaning": "thing bought",
+          "note": "Use this for the actual thing or things that someone has bought."
+        },
+        {
+          "id": "j984rwjr",
+          "word": "shopping",
+          "meaning": "purchases bought",
+          "note": "Use this for the goods that someone has bought, as in bags of shopping."
+        }
+      ],
       "examples": [
         {
           "english": "These are the things from my purchase yesterday.",

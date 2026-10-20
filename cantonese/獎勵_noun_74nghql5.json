@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "reward",
-      "english": ["reward", "incentive"],
+      "english": [
+        {
+          "id": "jfkgnf14",
+          "word": "reward",
+          "meaning": "payment for an act",
+          "note": "This is the all-purpose noun for something given to reward someone for doing something well, whether or not it is money."
+        },
+        {
+          "id": "dmogd2p5",
+          "word": "incentive",
+          "meaning": "bonus; reward",
+          "note": "Use this for a general reward offered to encourage better performance, especially when it is not specifically a cash payment."
+        }
+      ],
       "examples": [
         {
           "english": "Employees who do well will receive a reward.",

@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "parking space",
-      "english": ["parking", "park", "stall"],
+      "english": [
+        {
+          "id": "4rlxfluo",
+          "word": "parking",
+          "meaning": "parking space",
+          "note": "Use 車位 as the everyday all-purpose noun for a parking space."
+        },
+        {
+          "id": "uhf6pufv",
+          "word": "park",
+          "meaning": "parking space",
+          "note": "Use 車位 specifically for a parking space where a car is left, not for the park itself."
+        },
+        {
+          "id": "kuqivhg9",
+          "word": "stall",
+          "meaning": "parking stall",
+          "note": "Use this for the marked space where one vehicle can be parked."
+        }
+      ],
       "examples": [
         {
           "english": "Is there still a parking space here?",

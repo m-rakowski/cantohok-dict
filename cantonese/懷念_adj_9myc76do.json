@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "nostalgic, missing the past",
-      "english": ["nostalgic", "wistful"],
+      "english": [
+        {
+          "id": "jogl0isq",
+          "word": "nostalgic",
+          "meaning": "feeling nostalgia",
+          "note": "Use this when the nostalgic feeling is directed toward a particular past time, place, person, or experience."
+        },
+        {
+          "id": "nedfwjpj",
+          "word": "wistful",
+          "meaning": "longing; yearning",
+          "note": "Use this when the wistfulness is specifically nostalgic longing for the past or for someone absent."
+        }
+      ],
       "examples": [
         {
           "english": "Whenever I return to this beach, I feel nostalgic for the days when I used to fish with my dad.",

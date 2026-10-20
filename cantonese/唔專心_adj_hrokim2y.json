@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "not paying attention",
-      "english": ["negligent", "asleep"],
+      "english": [
+        {
+          "id": "pdudcygw",
+          "word": "negligent",
+          "meaning": "careless; inattentive",
+          "register": "colloquial",
+          "note": "Use this specifically when the negligence comes from being inattentive or not concentrating."
+        },
+        {
+          "id": "925dnuv1",
+          "word": "asleep",
+          "meaning": "not paying attention",
+          "note": "Use this when “asleep” means inattentive rather than literally sleeping."
+        }
+      ],
       "examples": [
         {
           "english": "You were negligent in class because you were not concentrating, so you missed the teacher’s explanation.",

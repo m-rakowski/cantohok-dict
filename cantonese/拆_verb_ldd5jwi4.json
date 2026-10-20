@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "tear down a building",
-      "english": ["demolish", "tear"],
+      "english": [
+        {
+          "id": "p82tda7x",
+          "word": "demolish",
+          "meaning": "destroy buildings",
+          "register": "colloquial",
+          "note": "This is the all-purpose spoken choice for intentionally taking down a building or other structure."
+        },
+        {
+          "id": "whd6cmqg",
+          "word": "tear",
+          "meaning": "tear down",
+          "note": "Use this for taking down or demolishing a building or structure."
+        }
+      ],
       "examples": [
         {
           "english": "We will demolish this old building tomorrow.",

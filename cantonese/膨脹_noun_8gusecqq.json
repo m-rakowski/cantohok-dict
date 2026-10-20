@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "expansion, swelling",
-      "english": ["expansion", "inflation"],
+      "english": [
+        {
+          "id": "72j6hgzo",
+          "word": "expansion",
+          "meaning": "general expansion",
+          "note": "Use this for physical expansion, especially when materials expand because of heat."
+        },
+        {
+          "id": "rkr5uzfk",
+          "word": "inflation",
+          "meaning": "expansion, swelling",
+          "note": "Use this for the resulting physical expansion or swelling, rather than the act of filling something with air."
+        }
+      ],
       "examples": [
         {
           "english": "The rails undergo expansion when it gets hot, so space must be left between them.",

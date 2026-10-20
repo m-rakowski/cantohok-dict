@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "shelter, refuge",
-      "english": ["refuge", "haven", "shelter", "resort"],
+      "english": [
+        {
+          "id": "24wj42wr",
+          "word": "refuge",
+          "meaning": "place of safety",
+          "note": "Use this for a physical place of safety, especially during danger or disaster."
+        },
+        {
+          "id": "y64m3b5j",
+          "word": "haven",
+          "meaning": "safe place, refuge",
+          "note": "Use this specifically for a shelter or refuge where people escape danger or a disaster."
+        },
+        {
+          "id": "d1lkm7s7",
+          "word": "shelter",
+          "meaning": "storm/bomb shelter",
+          "note": "Use this for a designated place protecting people from storms, attacks, or other deadly dangers."
+        },
+        {
+          "id": "dcze9mtb",
+          "word": "resort",
+          "meaning": "last resort / recourse",
+          "note": "Use this for a physical refuge or shelter where someone can seek safety."
+        }
+      ],
       "examples": [
         {
           "english": "During the earthquake, the school hall immediately became a temporary refuge.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "modern",
-      "english": ["modern", "contemporary"],
+      "english": [
+        {
+          "id": "nhzbcsh8",
+          "word": "modern",
+          "meaning": "current, up-to-date",
+          "note": "This is the all-purpose choice for things belonging to the present age rather than ancient times."
+        },
+        {
+          "id": "spqdoujd",
+          "word": "contemporary",
+          "meaning": "modern, current",
+          "note": "This is the all-purpose choice for something modern or belonging to the present age."
+        }
+      ],
       "examples": [
         {
           "english": "This film is about modern people's lives.",

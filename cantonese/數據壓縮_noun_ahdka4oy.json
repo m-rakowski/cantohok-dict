@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "data compression",
-      "english": ["compression"],
+      "english": [
+        {
+          "id": "6afo2uln",
+          "word": "compression",
+          "meaning": "data compression",
+          "note": "Use this specifically for reducing the size of computer data or files."
+        }
+      ],
       "examples": [
         {
           "english": "This program uses data compression to make the file much smaller.",

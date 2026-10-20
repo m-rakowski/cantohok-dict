@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "firmly and flatly",
-      "english": ["emphatically", "unequivocally"],
+      "english": [
+        {
+          "id": "9ju2wge7",
+          "word": "emphatically",
+          "meaning": "with emphasis",
+          "register": "colloquial",
+          "note": "Use this when the emphasis comes from speaking in a firm, categorical, and decisive manner rather than simply asserting that something is true."
+        },
+        {
+          "id": "v47y55z7",
+          "word": "unequivocally",
+          "meaning": "without doubt",
+          "note": "Use this when describing someone stating or deciding something firmly and categorically."
+        }
+      ],
       "examples": [
         {
           "english": "They emphatically said they would not resign.",

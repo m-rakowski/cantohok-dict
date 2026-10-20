@@ -6,7 +6,29 @@
   "boxes": [
     {
       "meaning": "rule over a country or people",
-      "english": ["rule", "govern", "dominate"],
+      "english": [
+        {
+          "id": "r1nyt76j",
+          "word": "rule",
+          "meaning": "govern; be in charge",
+          "register": "formal",
+          "note": "Use this specifically for a ruler or government ruling a country, territory, or people."
+        },
+        {
+          "id": "ngb3zx18",
+          "word": "govern",
+          "meaning": "rule a country",
+          "register": "formal",
+          "note": "Use this for sovereign rule over a country, especially when emphasizing the ruler's authority rather than administration."
+        },
+        {
+          "id": "7w59pnx8",
+          "word": "dominate",
+          "meaning": "rule or control",
+          "register": "formal",
+          "note": "Use this specifically for ruling a country, people, or territory through political authority or power."
+        }
+      ],
       "register": "formal",
       "examples": [
         {

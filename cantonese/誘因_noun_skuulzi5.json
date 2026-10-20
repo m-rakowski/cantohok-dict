@@ -6,7 +6,29 @@
   "boxes": [
     {
       "meaning": "incentive",
-      "english": ["inducement", "motivation", "carrot"],
+      "english": [
+        {
+          "id": "cz1xhf3c",
+          "word": "inducement",
+          "meaning": "incentive; motivation",
+          "register": "formal",
+          "note": "Use this as the more precise, all-purpose noun for an incentive or factor intended to bring about a result."
+        },
+        {
+          "id": "ytv6hgka",
+          "word": "motivation",
+          "meaning": "reason; incentive",
+          "register": "formal",
+          "note": "Use this specifically for an incentive or factor that induces an action, especially in more formal or analytical contexts."
+        },
+        {
+          "id": "zuahbi0e",
+          "word": "carrot",
+          "meaning": "incentive, reward",
+          "register": "formal",
+          "note": "Use this formal noun for something offered or arranged to motivate someone to act."
+        }
+      ],
       "register": "formal",
       "examples": [
         {

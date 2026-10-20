@@ -6,7 +6,36 @@
   "boxes": [
     {
       "meaning": "fool, silly person",
-      "english": ["fool", "sap", "buffoon", "clown"],
+      "english": [
+        {
+          "id": "sd4hs7dl",
+          "word": "fool",
+          "meaning": "stupid person",
+          "register": "colloquial",
+          "note": "This is the all-purpose colloquial choice for a person with poor judgment or little intelligence."
+        },
+        {
+          "id": "bc7lws6p",
+          "word": "sap",
+          "meaning": "simpleton",
+          "register": "colloquial",
+          "note": "For a naive or foolish person, this is the all-purpose colloquial choice."
+        },
+        {
+          "id": "28i4seiw",
+          "word": "buffoon",
+          "meaning": "ridiculous person",
+          "register": "colloquial",
+          "note": "Use this for an unintentionally ridiculous or foolish person rather than specifically a stage performer."
+        },
+        {
+          "id": "l5j352iw",
+          "word": "clown",
+          "meaning": "silly person",
+          "register": "colloquial",
+          "note": "Use this for a person who behaves foolishly or acts silly, especially in casual speech."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

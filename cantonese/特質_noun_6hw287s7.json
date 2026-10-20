@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "quality, personal trait",
-      "english": ["trait", "characteristic", "quality", "property"],
+      "english": [
+        {
+          "id": "d12gjrjs",
+          "word": "trait",
+          "meaning": "characteristic; personality trait",
+          "note": "Use this for an enduring personal quality or personality trait rather than an observable feature."
+        },
+        {
+          "id": "kssenfc6",
+          "word": "characteristic",
+          "meaning": "distinguishing feature",
+          "note": "Use this for a characteristic quality or trait, especially a person's mental or behavioural quality."
+        },
+        {
+          "id": "816er2lb",
+          "word": "quality",
+          "meaning": "trait or characteristic",
+          "note": "Use 特質 for one identifiable trait of a person or thing rather than its overall excellence."
+        },
+        {
+          "id": "h5lk85ar",
+          "word": "property",
+          "meaning": "quality; attribute",
+          "note": "Use this for a distinctive quality or attribute of a person, object, or concept."
+        }
+      ],
       "examples": [
         {
           "english": "Patience is an important trait for a teacher.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "expand, enlarge",
-      "english": ["extend", "expand"],
+      "english": [
+        {
+          "id": "9scl0nit",
+          "word": "extend",
+          "meaning": "make larger",
+          "note": "This is the all-purpose choice when something increases in size or extent, or when someone makes it larger."
+        },
+        {
+          "id": "udgri3uo",
+          "word": "expand",
+          "meaning": "make larger/open out",
+          "note": "Use this as the all-purpose choice for making a size, area, amount, or scope larger, rather than for physically opening something out."
+        }
+      ],
       "examples": [
         {
           "english": "The company plans to extend the scope of its services.",

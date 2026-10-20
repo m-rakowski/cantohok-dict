@@ -6,7 +6,40 @@
   "boxes": [
     {
       "meaning": "news or rumours spread",
-      "english": ["echo", "disseminate", "spread", "float", "emerge"],
+      "english": [
+        {
+          "id": "yqsiuram",
+          "word": "echo",
+          "meaning": "rumour spreads",
+          "note": "Use this when a rumour, opinion, or similar information spreads among people."
+        },
+        {
+          "id": "g42icxe5",
+          "word": "disseminate",
+          "meaning": "become widespread",
+          "note": "Use this when news, ideas, or values become known and spread among people."
+        },
+        {
+          "id": "o0a3nkls",
+          "word": "spread",
+          "meaning": "spread out; become widespread",
+          "note": "Use this when news, a rumour, or information becomes widely known or passes from person to person."
+        },
+        {
+          "id": "0tbcpcxl",
+          "word": "float",
+          "meaning": "rumor spreads",
+          "register": "colloquial",
+          "note": "Use this when a rumour or piece of information spreads and becomes known."
+        },
+        {
+          "id": "raken1js",
+          "word": "emerge",
+          "meaning": "become known",
+          "register": "colloquial",
+          "note": "Use this when information or a fact becomes known by spreading among people."
+        }
+      ],
       "examples": [
         {
           "english": "This rumour quickly began to echo among the neighbours.",

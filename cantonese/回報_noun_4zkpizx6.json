@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "investment return",
-      "english": ["return", "earnings"],
+      "english": [
+        {
+          "id": "gdru1stg",
+          "word": "return",
+          "meaning": "financial return",
+          "note": "Use this for the gain or loss produced by an investment, as in 投資回報."
+        },
+        {
+          "id": "f8e1fscs",
+          "word": "earnings",
+          "meaning": "investment returns",
+          "note": "Use 回報 for money gained as a return on an investment."
+        }
+      ],
       "examples": [
         {
           "english": "The return on this investment is pretty good.",

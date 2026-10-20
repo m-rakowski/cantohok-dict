@@ -6,7 +6,44 @@
   "boxes": [
     {
       "meaning": "not important",
-      "english": ["unimportant", "trivial", "negligible", "petty", "little", "slight"],
+      "english": [
+        {
+          "id": "m2ku7861",
+          "word": "unimportant",
+          "meaning": "not important; negligible",
+          "note": "Use this as the all-purpose way to say that something is not important or noteworthy."
+        },
+        {
+          "id": "nh8olo6j",
+          "word": "trivial",
+          "meaning": "unimportant; of little value",
+          "note": "This is the all-purpose choice for something unimportant or of little significance."
+        },
+        {
+          "id": "i4wxdy6j",
+          "word": "negligible",
+          "meaning": "too small to matter",
+          "note": "This is the all-purpose choice for something too unimportant to matter."
+        },
+        {
+          "id": "ia1p9rft",
+          "word": "petty",
+          "meaning": "unimportant; trivial",
+          "note": "Use this for a fault, issue, or detail that lacks importance, rather than for a person's character."
+        },
+        {
+          "id": "90srzwb7",
+          "word": "little",
+          "meaning": "insignificant; minor",
+          "note": "Use this when little means unimportant or of little significance rather than physically small."
+        },
+        {
+          "id": "ikb4ztc0",
+          "word": "slight",
+          "meaning": "trifling; unimportant",
+          "note": "Choose this when slight means unimportant or insignificant, such as an error that does not matter."
+        }
+      ],
       "examples": [
         {
           "english": "These little things are unimportant.",

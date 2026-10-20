@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "insect, bug",
-      "english": ["bug", "insect"],
+      "english": [
+        {
+          "id": "4iabhi64",
+          "word": "bug",
+          "meaning": "insect",
+          "note": "This is the all-purpose everyday choice for a small pest or insect, including a true bug when taxonomic precision is not important."
+        },
+        {
+          "id": "9uhx6khb",
+          "word": "insect",
+          "meaning": "arthropod insect",
+          "note": "This is the all-purpose spoken word for an actual insect and can also label a contemptible or powerless person."
+        }
+      ],
       "examples": [
         {
           "english": "There’s a bug in the kitchen—get it out quickly.",
@@ -22,7 +35,14 @@
     },
     {
       "meaning": "despicable person",
-      "english": ["worm"],
+      "english": [
+        {
+          "id": "o94d6u0i",
+          "word": "worm",
+          "meaning": "despicable person",
+          "note": "Use this as a contemptuous noun for a worthless or despicable person, often with a classifier such as 條."
+        }
+      ],
       "examples": [
         {
           "english": "That worm has gone to cheat old people again.",

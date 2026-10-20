@@ -6,7 +6,28 @@
   "boxes": [
     {
       "meaning": "make dirty",
-      "english": ["stain", "contaminate", "spot"],
+      "english": [
+        {
+          "id": "ct7dm79v",
+          "word": "stain",
+          "meaning": "discolor with stain",
+          "register": "colloquial",
+          "note": "Use this as the all-purpose colloquial verb when a substance makes something dirty or stained."
+        },
+        {
+          "id": "yeg27b2v",
+          "word": "contaminate",
+          "meaning": "ruin by mixing in the wrong thing",
+          "register": "colloquial",
+          "note": "Use 整污糟 for the colloquial idea of making something physically dirty or unsuitable through contact or mixing."
+        },
+        {
+          "id": "oqosekvm",
+          "word": "spot",
+          "meaning": "stain",
+          "note": "Use this when something stains or makes a surface visibly dirty."
+        }
+      ],
       "examples": [
         {
           "english": "Spilling soy sauce can stain the table.",

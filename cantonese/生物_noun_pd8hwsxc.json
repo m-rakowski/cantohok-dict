@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "living thing, creature",
-      "english": ["creature", "organism", "being"],
+      "english": [
+        {
+          "id": "jx2gscm4",
+          "word": "creature",
+          "meaning": "living being",
+          "note": "This is the all-purpose choice for a living being, including an animal, alien, or other organism."
+        },
+        {
+          "id": "sq6cdgs8",
+          "word": "organism",
+          "meaning": "living thing",
+          "note": "This is the all-purpose Cantonese noun for a living organism, including animals, plants, fungi, and microorganisms."
+        },
+        {
+          "id": "13wm80d4",
+          "word": "being",
+          "meaning": "living creature",
+          "note": "Use this for a living creature or organism as opposed to an inanimate thing."
+        }
+      ],
       "examples": [
         {
           "english": "There may be an unknown creature on Mars.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "medication pill",
-      "english": ["pill"],
+      "english": [
+        {
+          "id": "f118fyni",
+          "word": "pill",
+          "meaning": "medication pill",
+          "note": "Use this when the medication is a flat tablet rather than a rounded pill."
+        }
+      ],
       "examples": [
         {
           "english": "This pill is too big for me to swallow.",

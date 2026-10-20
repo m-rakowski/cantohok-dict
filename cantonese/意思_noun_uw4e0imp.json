@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "meaning",
-      "english": ["meaning", "definition", "sense", "message"],
+      "english": [
+        {
+          "id": "mgoby90j",
+          "word": "meaning",
+          "meaning": "word definition / denotation",
+          "note": "意思 is the all-purpose spoken choice for what a word, expression, or symbol means, including its implied or connotative sense."
+        },
+        {
+          "id": "lm8qvfr2",
+          "word": "definition",
+          "meaning": "word meaning",
+          "note": "This is the all-purpose colloquial choice for a word's ordinary meaning rather than a formal dictionary definition."
+        },
+        {
+          "id": "ulj42azu",
+          "word": "sense",
+          "meaning": "meaning; make sense",
+          "note": "Use this as the all-purpose noun for the meaning or intended point of something."
+        },
+        {
+          "id": "97axa3fx",
+          "word": "message",
+          "meaning": "main point; theme",
+          "note": "Use this for the meaning or point that someone understands from a book, film, or speech in everyday conversation."
+        }
+      ],
       "examples": [
         {
           "english": "What is the meaning of this word?",
@@ -32,7 +57,20 @@
     },
     {
       "meaning": "one's intention or wishes",
-      "english": ["will", "way"],
+      "english": [
+        {
+          "id": "33updi4t",
+          "word": "will",
+          "meaning": "will, intention",
+          "note": "Use this as the all-purpose spoken choice for a person's intention, decision, or wishes."
+        },
+        {
+          "id": "x3xpixfy",
+          "word": "way",
+          "meaning": "one's own wishes",
+          "note": "Use this for someone’s wishes or what they insist on having their way about."
+        }
+      ],
       "examples": [
         {
           "english": "My will is to stay home tonight.",

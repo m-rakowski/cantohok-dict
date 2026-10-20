@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "emphasize, stress",
-      "english": ["stress", "highlight", "underline"],
+      "english": [
+        {
+          "id": "b34hvkqm",
+          "word": "stress",
+          "meaning": "emphasise",
+          "note": "This is the all-purpose choice for emphasising a point, claim, or piece of information."
+        },
+        {
+          "id": "6nbl7vvm",
+          "word": "highlight",
+          "meaning": "emphasize",
+          "note": "This is the all-purpose choice for emphasizing a point, fact, or feature rather than marking text or dyeing hair."
+        },
+        {
+          "id": "vwc7ee2c",
+          "word": "underline",
+          "meaning": "emphasize, stress",
+          "note": "Use this for stressing an idea or point rather than literally marking text."
+        }
+      ],
       "examples": [
         {
           "english": "I want to stress that this arrangement is fair to everyone.",

@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "person in charge, supervisor",
-      "english": ["superintendent", "supervisor", "director", "boss"],
+      "english": [
+        {
+          "id": "eodrzplh",
+          "word": "superintendent",
+          "meaning": "person in charge",
+          "note": "This is the all-purpose choice for a person in charge, including a school-district administrator when no more specific official title is intended."
+        },
+        {
+          "id": "0wiyq0ac",
+          "word": "supervisor",
+          "meaning": "work manager",
+          "note": "This is the all-purpose everyday choice for someone in charge of a person's or group's work."
+        },
+        {
+          "id": "g6gmqnus",
+          "word": "director",
+          "meaning": "person in charge",
+          "note": "Use this for a person managing a department or organizational area, rather than a film director."
+        },
+        {
+          "id": "vig7rzu3",
+          "word": "boss",
+          "meaning": "supervisor",
+          "note": "Use this for a supervisor or manager in an organizational or workplace context."
+        }
+      ],
       "examples": [
         {
           "english": "The superintendent said that funding would be provided next term to improve facilities at several schools.",

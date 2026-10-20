@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "prop, supporting object",
-      "english": ["prop", "supporter"],
+      "english": [
+        {
+          "id": "g2y07f6s",
+          "word": "prop",
+          "meaning": "supporting object",
+          "note": "Use this for an object put under or against something else to hold it up."
+        },
+        {
+          "id": "vzolzjyj",
+          "word": "supporter",
+          "meaning": "supporting thing",
+          "register": "written",
+          "note": "Use this for a physical object that props up or supports something else."
+        }
+      ],
       "examples": [
         {
           "english": "We need to place a prop under this wooden board to keep it steady.",

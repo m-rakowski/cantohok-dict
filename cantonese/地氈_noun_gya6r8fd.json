@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "carpet, rug",
-      "english": ["carpet", "rug"],
+      "english": [
+        {
+          "id": "is1ot0oc",
+          "word": "carpet",
+          "meaning": "floor covering",
+          "note": "This is the all-purpose everyday Hong Kong Cantonese word for a fabric floor covering."
+        },
+        {
+          "id": "klrpxj3p",
+          "word": "rug",
+          "meaning": "floor covering",
+          "note": "This is the all-purpose word for a partial floor covering."
+        }
+      ],
       "examples": [
         {
           "english": "We put down a new carpet in the living room, and the whole place feels warmer right away.",

@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "captured prisoner of war",
-      "english": ["captive", "prisoner"],
+      "english": [
+        {
+          "id": "0s9orpea",
+          "word": "captive",
+          "meaning": "prisoner",
+          "register": "formal",
+          "note": "Use this for a person captured and held by an enemy, especially in a military context."
+        },
+        {
+          "id": "916fq09v",
+          "word": "prisoner",
+          "meaning": "captured person",
+          "register": "formal",
+          "note": "Use this for a captured person, especially an enemy or prisoner of war, rather than an ordinary jail inmate."
+        }
+      ],
       "register": "formal",
       "examples": [
         {

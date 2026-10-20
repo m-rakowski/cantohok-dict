@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "imperial pint measure",
-      "english": ["pint"],
+      "english": [
+        {
+          "id": "4bs07esu",
+          "word": "pint",
+          "meaning": "imperial pint measure",
+          "note": "This is the all-purpose Cantonese unit word for either an imperial or a US pint; add 英制 or 美制 when the distinction matters."
+        }
+      ],
       "examples": [
         {
           "english": "This bottle contains a pint of juice.",

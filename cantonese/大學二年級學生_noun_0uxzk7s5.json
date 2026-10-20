@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "second-year student",
-      "english": ["sophomore"],
+      "english": [
+        {
+          "id": "hvb4j6c4",
+          "word": "sophomore",
+          "meaning": "second-year student",
+          "note": "Use this when you specifically mean a second-year university undergraduate rather than a secondary-school student."
+        }
+      ],
       "examples": [
         {
           "english": "My cousin is a university sophomore.",

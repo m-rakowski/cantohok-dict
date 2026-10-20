@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "teaching",
-      "english": ["teaching", "coaching", "instruction", "tuition"],
+      "english": [
+        {
+          "id": "qmpwap3s",
+          "word": "teaching",
+          "meaning": "the profession/activity of teaching",
+          "note": "This is the all-purpose choice for the activity or profession of teaching."
+        },
+        {
+          "id": "yskxyf3y",
+          "word": "coaching",
+          "meaning": "instruction; tutoring",
+          "note": "Use this when the coaching is framed as teaching or instruction, especially in an educational setting."
+        },
+        {
+          "id": "bsmuyhwu",
+          "word": "instruction",
+          "meaning": "teaching; education",
+          "note": "Use this as the all-purpose noun for teaching or educational instruction."
+        },
+        {
+          "id": "u4bfsd5a",
+          "word": "tuition",
+          "meaning": "teaching; instruction",
+          "note": "Use this for the teaching or instruction provided by a teacher, not the fee or the private class itself."
+        }
+      ],
       "examples": [
         {
           "english": "The teaching quality at this school is quite high.",

@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "government official",
-      "english": ["officer", "official"],
+      "english": [
+        {
+          "id": "ufom72ee",
+          "word": "officer",
+          "meaning": "authority figure / official",
+          "register": "formal",
+          "note": "This is the all-purpose choice for a government or other public official."
+        },
+        {
+          "id": "w0i1gcyp",
+          "word": "official",
+          "meaning": "official; authority figure",
+          "note": "This is the all-purpose choice for a person holding a government or other official post."
+        }
+      ],
       "examples": [
         {
           "english": "The government officer will meet the media today.",

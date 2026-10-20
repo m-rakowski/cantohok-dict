@@ -6,7 +6,35 @@
   "boxes": [
     {
       "meaning": "on purpose, specially",
-      "english": ["intentionally", "deliberately", "knowingly", "specifically"],
+      "english": [
+        {
+          "id": "z22v2k1q",
+          "word": "intentionally",
+          "meaning": "on purpose",
+          "register": "colloquial",
+          "note": "This is the all-purpose spoken Cantonese choice for saying that someone did something on purpose."
+        },
+        {
+          "id": "vt40htka",
+          "word": "deliberately",
+          "meaning": "intentionally, on purpose",
+          "register": "colloquial",
+          "note": "This is the all-purpose spoken choice for saying that someone did something deliberately."
+        },
+        {
+          "id": "3neuad3m",
+          "word": "knowingly",
+          "meaning": "intentionally; with knowledge",
+          "register": "colloquial",
+          "note": "Use this when the emphasis is that the action was deliberate or intentional, rather than merely accidental."
+        },
+        {
+          "id": "0qg13k0x",
+          "word": "specifically",
+          "meaning": "explicitly; in particular",
+          "note": "Use this when specifically doing something carries the additional sense of doing it deliberately or on purpose."
+        }
+      ],
       "examples": [
         {
           "english": "I intentionally saved a ticket for you.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "driveway",
-      "english": ["drive"],
+      "english": [
+        {
+          "id": "49otgn5l",
+          "word": "drive",
+          "meaning": "driveway",
+          "note": "Use this for a private access road leading from a property to the public road, rather than an ordinary public street."
+        }
+      ],
       "examples": [
         {
           "english": "Don't park on the drive; you're blocking the entrance.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "person who swims",
-      "english": ["swimmer"],
+      "english": [
+        {
+          "id": "ovaelmpn",
+          "word": "swimmer",
+          "meaning": "person who swims",
+          "note": "Use this mainly for a swimmer who competes or trains as an athlete."
+        }
+      ],
       "examples": [
         {
           "english": "That swimmer trains in the pool every day for competitions.",

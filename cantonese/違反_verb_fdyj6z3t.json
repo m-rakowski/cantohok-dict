@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "break a rule or law",
-      "english": ["violate", "infringe", "break", "defy"],
+      "english": [
+        {
+          "id": "xtix5huj",
+          "word": "violate",
+          "meaning": "break a rule",
+          "note": "This is the all-purpose choice for breaking or disregarding a law, rule, or convention."
+        },
+        {
+          "id": "qprt25ma",
+          "word": "infringe",
+          "meaning": "violate law or rights",
+          "note": "Use this for breaking a law, rule, treaty, or other formal requirement rather than for physical encroachment."
+        },
+        {
+          "id": "av1strxd",
+          "word": "break",
+          "meaning": "break a rule",
+          "note": "Use this for breaking a law, rule, promise, or other requirement."
+        },
+        {
+          "id": "3hujpufv",
+          "word": "defy",
+          "meaning": "go against expectations",
+          "note": "Use this when something goes against a rule, requirement, or established pattern."
+        }
+      ],
       "examples": [
         {
           "english": "You shouldn't violate the school rules like that.",

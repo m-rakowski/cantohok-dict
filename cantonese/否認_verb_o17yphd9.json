@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "to deny",
-      "english": ["contradict", "deny"],
+      "english": [
+        {
+          "id": "si53nyw3",
+          "word": "contradict",
+          "meaning": "deny a statement",
+          "note": "Use this as the all-purpose verb for denying that a statement is true or valid."
+        },
+        {
+          "id": "oh7puwyh",
+          "word": "deny",
+          "meaning": "say not true",
+          "register": "formal",
+          "note": "Use this for formally or publicly stating that a rumour, allegation, or claim is untrue."
+        }
+      ],
       "examples": [
         {
           "english": "They contradict the report's claim.",

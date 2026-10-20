@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "firstly, first point",
-      "english": ["firstly", "first"],
+      "english": [
+        {
+          "id": "yu7o7stk",
+          "word": "firstly",
+          "meaning": "first in order",
+          "note": "Use this especially when explicitly numbering points in a list or argument."
+        },
+        {
+          "id": "p1kcwter",
+          "word": "first",
+          "meaning": "before anything else",
+          "note": "Use this for “firstly” when presenting points in an ordered list or argument."
+        }
+      ],
       "examples": [
         {
           "english": "Firstly, you need to submit all the documents; only then can you apply.",

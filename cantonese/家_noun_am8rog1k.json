@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "family, home",
-      "english": ["family", "home"],
+      "english": [
+        {
+          "id": "j67ltdac",
+          "word": "family",
+          "meaning": "immediate relatives",
+          "note": "This is the all-purpose everyday choice for an immediate family or household."
+        },
+        {
+          "id": "6v1p8x96",
+          "word": "home",
+          "meaning": "dwelling; one's house",
+          "register": "written",
+          "note": "Use this more conceptual or written-leaning word for the family home or a home as a place of emotional belonging."
+        }
+      ],
       "examples": [
         {
           "english": "My family consists of my dad, my mom, and me.",

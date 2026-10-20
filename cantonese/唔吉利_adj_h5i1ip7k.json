@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "unlucky, bad omen",
-      "english": ["disastrous", "unlucky"],
+      "english": [
+        {
+          "id": "godxace6",
+          "word": "disastrous",
+          "meaning": "ill-omened; foreboding disaster",
+          "register": "colloquial",
+          "note": "Use this when something is regarded as an ill omen or as foreboding bad luck."
+        },
+        {
+          "id": "i746v880",
+          "word": "unlucky",
+          "meaning": "bringing bad luck",
+          "note": "Use this when an object, event, or action is regarded as bringing bad luck or being an unlucky omen."
+        }
+      ],
       "examples": [
         {
           "english": "Breaking a vase before the wedding is a disastrous omen.",

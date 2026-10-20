@@ -6,7 +6,28 @@
   "boxes": [
     {
       "meaning": "worth it, good value",
-      "english": ["worth", "cost-effective", "worthwhile"],
+      "english": [
+        {
+          "id": "0bx4t677",
+          "word": "worth",
+          "meaning": "worth doing",
+          "register": "colloquial",
+          "note": "Use 抵 as the all-purpose colloquial choice when something is worth doing or gives a fair return for the effort or cost."
+        },
+        {
+          "id": "0s8cyv5o",
+          "word": "cost-effective",
+          "meaning": "economical; worth the cost",
+          "note": "Use 抵 as the everyday all-purpose way to say that something is worth what it costs."
+        },
+        {
+          "id": "v199ag7p",
+          "word": "worthwhile",
+          "meaning": "worth spending time/effort on",
+          "register": "colloquial",
+          "note": "Use this when stressing that the benefit or result is good value for the money or effort."
+        }
+      ],
       "examples": [
         {
           "english": "This movie is so good that it’s worth paying a few dozen dollars for.",

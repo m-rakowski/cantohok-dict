@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "physically hurt",
-      "english": ["injured"],
+      "english": [
+        {
+          "id": "sbpf8bus",
+          "word": "injured",
+          "meaning": "physically hurt",
+          "note": "This is the all-purpose Cantonese rendering for a person or animal suffering a physical injury."
+        }
+      ],
       "examples": [
         {
           "english": "My foot is injured, so I can't go to work today.",

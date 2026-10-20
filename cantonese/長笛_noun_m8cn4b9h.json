@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "woodwind instrument",
-      "english": ["flute"],
+      "english": [
+        {
+          "id": "o0s7p09r",
+          "word": "flute",
+          "meaning": "woodwind instrument",
+          "note": "Use this specifically for the Western concert flute rather than a recorder or other flute."
+        }
+      ],
       "examples": [
         {
           "english": "The orchestra is recruiting people who can play the flute.",

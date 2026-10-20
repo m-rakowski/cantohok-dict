@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "examine and adjust accounts",
-      "english": ["audit"],
+      "english": [
+        {
+          "id": "uowbasrc",
+          "word": "audit",
+          "meaning": "examine and adjust accounts",
+          "note": "Use this as the everyday Hong Kong term for auditing financial accounts."
+        }
+      ],
       "examples": [
         {
           "english": "The company has to audit every year to make sure the accounts are fine.",

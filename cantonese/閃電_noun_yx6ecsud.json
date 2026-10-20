@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "lightning",
-      "english": ["lightning", "bolt"],
+      "english": [
+        {
+          "id": "panfhse9",
+          "word": "lightning",
+          "meaning": "flash of light",
+          "note": "This is the all-purpose spoken Cantonese word for lightning, including both the visible flash and the electrical discharge."
+        },
+        {
+          "id": "7by0u4jj",
+          "word": "bolt",
+          "meaning": "lightning bolt",
+          "note": "Use this for the visible flash or spark produced during a lightning storm."
+        }
+      ],
       "examples": [
         {
           "english": "There will be thunder and lightning tonight, so remember to close the windows properly.",

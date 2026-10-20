@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "money amount",
-      "english": ["sum"],
+      "english": [
+        {
+          "id": "slw6c0u6",
+          "word": "sum",
+          "meaning": "money amount",
+          "note": "Use this when the sum is specifically a quantity of money."
+        }
+      ],
       "examples": [
         {
           "english": "The company paid me a sum of money in one go.",

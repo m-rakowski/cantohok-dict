@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "unpaid, outstanding",
-      "english": ["owing", "outstanding"],
+      "english": [
+        {
+          "id": "r8m4ruxf",
+          "word": "owing",
+          "meaning": "owed; still unpaid",
+          "note": "This is the all-purpose choice for something that remains unpaid or unsettled."
+        },
+        {
+          "id": "1str8qjq",
+          "word": "outstanding",
+          "meaning": "owed, unpaid",
+          "note": "Use this for a debt, bill, balance, or payment that has not been paid or settled."
+        }
+      ],
       "examples": [
         {
           "english": "My credit-card bill is still owing.",

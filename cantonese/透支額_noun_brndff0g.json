@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "amount overdrawn",
-      "english": ["overdraft"],
+      "english": [
+        {
+          "id": "4ylj1au1",
+          "word": "overdraft",
+          "meaning": "amount overdrawn",
+          "note": "Use this for the specific amount that has been overdrawn, especially when stating a figure."
+        }
+      ],
       "examples": [
         {
           "english": "My statement shows that my overdraft amount this month is three thousand dollars.",

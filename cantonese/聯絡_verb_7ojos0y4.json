@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "get in touch with",
-      "english": ["contact", "liaise"],
+      "english": [
+        {
+          "id": "l1axe0su",
+          "word": "contact",
+          "meaning": "get in touch",
+          "note": "This is the all-purpose choice for establishing communication with a person or organization."
+        },
+        {
+          "id": "4fp2qhi1",
+          "word": "liaise",
+          "meaning": "establish liaison",
+          "note": "Use 聯絡 as the all-purpose choice when establishing or maintaining contact between people or organizations."
+        }
+      ],
       "examples": [
         {
           "english": "We will contact the organizer to confirm the registration details.",

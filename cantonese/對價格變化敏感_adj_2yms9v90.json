@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "price-sensitive demand",
-      "english": ["elastic"],
+      "english": [
+        {
+          "id": "pdqa3n6u",
+          "word": "elastic",
+          "meaning": "price-sensitive demand",
+          "note": "Use this in economic contexts when demand reacts strongly to changes in price."
+        }
+      ],
       "examples": [
         {
           "english": "Demand for this kind of product is elastic, so even a small price cut brings in more buyers.",

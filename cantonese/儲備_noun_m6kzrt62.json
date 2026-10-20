@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "supply in storage",
-      "english": ["store"],
+      "english": [
+        {
+          "id": "m00s90wn",
+          "word": "store",
+          "meaning": "supply in storage",
+          "note": "Use this when the stored supply is deliberately kept as a reserve for future use."
+        }
+      ],
       "examples": [
         {
           "english": "The company kept a store of supplies for the winter.",

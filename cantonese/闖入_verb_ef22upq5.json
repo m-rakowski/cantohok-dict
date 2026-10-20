@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "break in, enter without permission",
-      "english": ["intrude", "invade"],
+      "english": [
+        {
+          "id": "av6fi0yb",
+          "word": "intrude",
+          "meaning": "enter uninvited",
+          "note": "This is the all-purpose choice for entering a place without permission or welcome, often forcefully."
+        },
+        {
+          "id": "x13cj91x",
+          "word": "invade",
+          "meaning": "enter into / intrude on",
+          "note": "Use this when someone physically enters a place without permission, especially suddenly or forcibly."
+        }
+      ],
       "examples": [
         {
           "english": "I saw a thief intrude into my home in the middle of the night.",

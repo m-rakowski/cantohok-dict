@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "ceremony, ritual",
-      "english": ["rite", "ritual", "ceremony"],
+      "english": [
+        {
+          "id": "ymhpqzx8",
+          "word": "rite",
+          "meaning": "religious ceremony",
+          "note": "This is the all-purpose choice for a formal religious ceremony or ritual."
+        },
+        {
+          "id": "nnrox773",
+          "word": "ritual",
+          "meaning": "rite; repeated set of actions",
+          "note": "This is the all-purpose choice for a rite or a repeated set of actions, especially in a religious context."
+        },
+        {
+          "id": "fgy3sqw4",
+          "word": "ceremony",
+          "meaning": "formal event",
+          "note": "This is the all-purpose choice for a ritual and for a ceremony in general, especially when the focus is on the actions or ritual itself."
+        }
+      ],
       "examples": [
         {
           "english": "A solemn rite is being held in the church.",

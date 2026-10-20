@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "pickle or cure food",
-      "english": ["preserve", "cure"],
+      "english": [
+        {
+          "id": "swazayfw",
+          "word": "preserve",
+          "meaning": "preserve food",
+          "note": "Use this specifically when preserving food by salting, pickling, or curing it."
+        },
+        {
+          "id": "kihpr77g",
+          "word": "cure",
+          "meaning": "preserve by processing",
+          "note": "Use this for preserving food, especially meat, by salting or processing it."
+        }
+      ],
       "examples": [
         {
           "english": "My grandmother knows how to preserve radishes; they turn sweet and sour and delicious.",

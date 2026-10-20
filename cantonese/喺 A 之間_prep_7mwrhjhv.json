@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "among a group of people",
-      "english": ["amongst", "among"],
+      "english": [
+        {
+          "id": "59jgmzzk",
+          "word": "amongst",
+          "meaning": "among; in the midst of",
+          "note": "Use this especially when the items are distinct members of a group, such as people or objects considered separately."
+        },
+        {
+          "id": "9ievk589",
+          "word": "among",
+          "meaning": "between members of",
+          "note": "Use this for something occurring or being common between members of a group, especially people."
+        }
+      ],
       "examples": [
         {
           "english": "Amongst friends, there is no need to fuss over these little things.",
@@ -22,7 +35,14 @@
     },
     {
       "meaning": "between places or things",
-      "english": ["amid"],
+      "english": [
+        {
+          "id": "991ibmiw",
+          "word": "amid",
+          "meaning": "in the middle of",
+          "note": "Use this especially when A is a group or several surrounding places or objects, such as hills or buildings."
+        }
+      ],
       "examples": [
         {
           "english": "The cottage sits amid two mountains, and the view is beautiful.",

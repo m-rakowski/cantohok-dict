@@ -6,7 +6,44 @@
   "boxes": [
     {
       "meaning": "charm, appeal",
-      "english": ["grace", "charm", "magnetism", "attractiveness", "personality", "magic"],
+      "english": [
+        {
+          "id": "bkyedh66",
+          "word": "grace",
+          "meaning": "charm, elegance",
+          "note": "This is the all-purpose choice for someone’s general charm or pleasing qualities."
+        },
+        {
+          "id": "a4zb72hl",
+          "word": "charm",
+          "meaning": "personal attractiveness",
+          "note": "This is the all-purpose choice for someone's ability to attract, delight, or impress."
+        },
+        {
+          "id": "eulsny97",
+          "word": "magnetism",
+          "meaning": "personal attractiveness",
+          "note": "Use 魅力 for a person’s or thing’s power to attract affection, interest, or admiration."
+        },
+        {
+          "id": "n0uuzi2u",
+          "word": "attractiveness",
+          "meaning": "quality of being attractive",
+          "note": "Use this for personal charm, charisma, or the distinctive appeal of a person, work, or style."
+        },
+        {
+          "id": "eqq4z2ib",
+          "word": "personality",
+          "meaning": "charisma; presence",
+          "note": "Use this for personality understood as charm, charisma, or the power to attract attention."
+        },
+        {
+          "id": "phz29gh1",
+          "word": "magic",
+          "meaning": "special charm",
+          "note": "Use this when “magic” means enchanting personal appeal or charm, rather than literal supernatural power."
+        }
+      ],
       "examples": [
         {
           "english": "They have a lot of grace.",

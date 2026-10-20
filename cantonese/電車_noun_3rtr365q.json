@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "tram",
-      "english": ["tram", "trolley"],
+      "english": [
+        {
+          "id": "sfxmfm28",
+          "word": "tram",
+          "meaning": "streetcar / trolley",
+          "note": "This is the all-purpose everyday word for a tram in Hong Kong."
+        },
+        {
+          "id": "pemugz3v",
+          "word": "trolley",
+          "meaning": "streetcar / light rail",
+          "note": "Pick this for the streetcar or tram reading; Hong Kong speakers use 輕鐵 for specifically light rail."
+        }
+      ],
       "examples": [
         {
           "english": "I take the tram to work in the morning.",

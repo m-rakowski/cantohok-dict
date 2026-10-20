@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "medicated ointment",
-      "english": ["ointment", "salve", "plaster", "cream"],
+      "english": [
+        {
+          "id": "jc7xk3om",
+          "word": "ointment",
+          "meaning": "medicated skin ointment",
+          "note": "This is the all-purpose Cantonese noun for a medicated skin ointment."
+        },
+        {
+          "id": "94yjiej4",
+          "word": "salve",
+          "meaning": "healing ointment",
+          "note": "This is the all-purpose choice for a soothing or healing ointment, cream, or balm."
+        },
+        {
+          "id": "wjga1j38",
+          "word": "plaster",
+          "meaning": "healing/cosmetic paste",
+          "note": "Use this for a medicinal paste applied to the skin, rather than for a bandage or a cast."
+        },
+        {
+          "id": "c4ql2fea",
+          "word": "cream",
+          "meaning": "skin cream",
+          "note": "Use this for a medicated cream or other topical medicine applied to the skin, rather than for a cosmetic moisturizer."
+        }
+      ],
       "examples": [
         {
           "english": "This ointment quickly relieves the itch when you apply it.",

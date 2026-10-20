@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "confirm receipt",
-      "english": ["acknowledge"],
+      "english": [
+        {
+          "id": "9s2c6p1u",
+          "word": "acknowledge",
+          "meaning": "confirm receipt",
+          "note": "Use this when replying to someone to report that you received their message, document, or invitation."
+        }
+      ],
       "examples": [
         {
           "english": "I reply to acknowledge that I received the document.",

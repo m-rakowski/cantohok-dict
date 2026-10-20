@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "to, until, up to a place or time",
-      "english": ["to", "until", "till"],
+      "english": [
+        {
+          "id": "27zdoppc",
+          "word": "to",
+          "meaning": "up to / through",
+          "note": "Use 到 for contact or an endpoint, a resulting state or effect, a degree reached, and the upper end of a range."
+        },
+        {
+          "id": "su9pclai",
+          "word": "until",
+          "meaning": "up to time of",
+          "note": "This is the all-purpose choice for marking the endpoint of a time period or a place in everyday Cantonese."
+        },
+        {
+          "id": "1ga4z0p8",
+          "word": "till",
+          "meaning": "until, up to",
+          "note": "Use this as the all-purpose Cantonese equivalent for reaching an endpoint in time."
+        }
+      ],
       "examples": [
         {
           "english": "I stopped when I got to the doorway.",

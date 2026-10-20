@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "solemn vow",
-      "english": ["oath", "vow"],
+      "english": [
+        {
+          "id": "rh840fss",
+          "word": "oath",
+          "meaning": "solemn pledge",
+          "note": "This is the all-purpose noun for a solemn pledge or promise, especially in formal or emotional contexts."
+        },
+        {
+          "id": "mhcyromt",
+          "word": "vow",
+          "meaning": "solemn promise",
+          "register": "formal",
+          "note": "This is the all-purpose choice for a solemn vow or oath, especially in serious or dramatic contexts."
+        }
+      ],
       "examples": [
         {
           "english": "I made an oath before the priest that I would take good care of my family.",

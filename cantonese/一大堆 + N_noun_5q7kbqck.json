@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "a large heap of things",
-      "english": ["thicket", "abundance"],
+      "english": [
+        {
+          "id": "dp8w0ch6",
+          "word": "thicket",
+          "meaning": "dense mass of things",
+          "note": "Use this for a dense mass or overwhelming quantity of things, such as paperwork, problems, or tasks."
+        },
+        {
+          "id": "fwb844kh",
+          "word": "abundance",
+          "meaning": "large quantity",
+          "register": "colloquial",
+          "note": "Use this casual expression for a conspicuously large heap or pile of items."
+        }
+      ],
       "examples": [
         {
           "english": "There's a thicket of paperwork on the desk waiting for me to deal with.",

@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "on time",
-      "english": ["timely", "prompt", "punctual"],
+      "english": [
+        {
+          "id": "txxtkr76",
+          "word": "timely",
+          "meaning": "prompt; on time",
+          "note": "Use this all-purpose spoken choice for something completed or happening on schedule and not late."
+        },
+        {
+          "id": "aju3u36o",
+          "word": "prompt",
+          "meaning": "punctual; on time",
+          "note": "Use this specifically when someone arrives or does something at the scheduled time."
+        },
+        {
+          "id": "7lksj8oa",
+          "word": "punctual",
+          "meaning": "on time (person)",
+          "note": "This is the all-purpose choice for an event happening on time or a person arriving or acting on time."
+        }
+      ],
       "examples": [
         {
           "english": "We started the meeting at eight, which was timely.",

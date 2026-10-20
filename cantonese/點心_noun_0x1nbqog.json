@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "food between meals",
-      "english": ["snack"],
+      "english": [
+        {
+          "id": "ai4bvdb1",
+          "word": "snack",
+          "meaning": "food between meals",
+          "note": "Use this for a Chinese-style dim-sum meal or small dishes eaten as a snack, not for snack foods in general."
+        }
+      ],
       "examples": [
         {
           "english": "We went for dim sum and had a snack for breakfast.",

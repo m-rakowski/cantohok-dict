@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "party",
-      "english": ["party", "celebration"],
+      "english": [
+        {
+          "id": "7z7vvw1n",
+          "word": "party",
+          "meaning": "social gathering",
+          "note": "This is the all-purpose Cantonese noun for a celebratory or entertainment-focused social party."
+        },
+        {
+          "id": "6p4c05un",
+          "word": "celebration",
+          "meaning": "party or social gathering",
+          "register": "colloquial",
+          "note": "Use this when the celebration is specifically a party for entertainment and fun."
+        }
+      ],
       "examples": [
         {
           "english": "We’re having a party at home tonight.",

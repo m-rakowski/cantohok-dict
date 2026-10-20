@@ -6,7 +6,42 @@
   "boxes": [
     {
       "meaning": "to question, challenge",
-      "english": ["discredit", "contest", "challenge", "question", "query"],
+      "english": [
+        {
+          "id": "1cf9oi93",
+          "word": "discredit",
+          "meaning": "make seem unreliable",
+          "register": "formal",
+          "note": "Use this when evidence or an idea is challenged so that people doubt its truth or reliability."
+        },
+        {
+          "id": "uoirxhbd",
+          "word": "contest",
+          "meaning": "challenge; dispute",
+          "note": "Use this when you call the truth, validity, or legitimacy of something into question rather than simply oppose it."
+        },
+        {
+          "id": "saxluagg",
+          "word": "challenge",
+          "meaning": "dispute; contest",
+          "register": "formal",
+          "note": "Use this when challenging the truth, accuracy, or validity of a claim."
+        },
+        {
+          "id": "gwgob6b3",
+          "word": "question",
+          "meaning": "to doubt / challenge",
+          "register": "formal",
+          "note": "Use this, especially in formal or written contexts, when actively challenging a claim or assertion rather than merely doubting it."
+        },
+        {
+          "id": "zimq1m3y",
+          "word": "query",
+          "meaning": "question; doubt",
+          "register": "formal",
+          "note": "Use this when openly challenging or calling an assertion, decision, or authority into doubt."
+        }
+      ],
       "examples": [
         {
           "english": "Some people discredit this theory by questioning its credibility.",

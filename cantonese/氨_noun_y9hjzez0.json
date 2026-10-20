@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "NH3 compound",
-      "english": ["ammonia"],
+      "english": [
+        {
+          "id": "df1usc01",
+          "word": "ammonia",
+          "meaning": "NH3 compound",
+          "note": "This is the all-purpose chemical name for ammonia itself."
+        }
+      ],
       "examples": [
         {
           "english": "The ammonia in the lab has a very pungent smell.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "armed conflict between groups",
-      "english": ["war"],
+      "english": [
+        {
+          "id": "3bxapikb",
+          "word": "war",
+          "meaning": "armed conflict between groups",
+          "note": "This is the all-purpose noun for organized armed conflict, including a particular war."
+        }
+      ],
       "examples": [
         {
           "english": "This war lasted three years and has finally ended.",

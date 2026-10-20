@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "outside A",
-      "english": ["outside", "off"],
+      "english": [
+        {
+          "id": "77geaegp",
+          "word": "outside",
+          "meaning": "on the outside of",
+          "note": "Use this as the all-purpose locative construction for being physically outside A."
+        },
+        {
+          "id": "b7pqfjkw",
+          "word": "off",
+          "meaning": "outside of",
+          "note": "Use this specifically to say that something is outside the boundary or area of A."
+        }
+      ],
       "examples": [
         {
           "english": "Wait for me outside the house.",

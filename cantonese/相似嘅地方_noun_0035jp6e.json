@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "points of similarity",
-      "english": ["similarity", "correspondence"],
+      "english": [
+        {
+          "id": "zgdg1k8z",
+          "word": "similarity",
+          "meaning": "appearance likeness",
+          "note": "This is the all-purpose conversational choice for pointing out how two things resemble each other."
+        },
+        {
+          "id": "7uz6f12x",
+          "word": "correspondence",
+          "meaning": "similarity; match",
+          "note": "Use this for the similar aspects or points of resemblance between different things."
+        }
+      ],
       "examples": [
         {
           "english": "I think these two films have a lot of similarity.",

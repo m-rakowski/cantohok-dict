@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "odd or strange thing",
-      "english": ["oddity", "curiosity"],
+      "english": [
+        {
+          "id": "wdtklh4j",
+          "word": "oddity",
+          "meaning": "strange thing or idea",
+          "note": "This is the all-purpose choice for an odd or strange thing or idea."
+        },
+        {
+          "id": "jmecmcvy",
+          "word": "curiosity",
+          "meaning": "odd or interesting object",
+          "register": "colloquial",
+          "note": "Use this colloquial noun phrase for an odd or unusual object that attracts interest in everyday contexts."
+        }
+      ],
       "examples": [
         {
           "english": "I really can't figure out this oddity.",

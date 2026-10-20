@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "captured person",
-      "english": ["prisoner"],
+      "english": [
+        {
+          "id": "hfbgusr4",
+          "word": "prisoner",
+          "meaning": "captured person",
+          "note": "Use this when the prisoner is a hostage: someone held to force another person or side to comply."
+        }
+      ],
       "examples": [
         {
           "english": "The kidnappers are holding a prisoner hostage and demanding money from the bank.",

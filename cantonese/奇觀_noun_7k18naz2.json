@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "spectacular sight, wonder",
-      "english": ["wonder", "spectacle"],
+      "english": [
+        {
+          "id": "4usnx1wa",
+          "word": "wonder",
+          "meaning": "marvel; amazing thing",
+          "note": "Use 奇觀 when a wonder is a spectacle or landmark, especially an impressive sight such as a world wonder."
+        },
+        {
+          "id": "dnfcvo5m",
+          "word": "spectacle",
+          "meaning": "impressive show",
+          "register": "written",
+          "note": "Use this for an extraordinary sight or display that is impressive in itself, especially in more formal or written contexts."
+        }
+      ],
       "examples": [
         {
           "english": "The whole harbour turning into a sea of lights at night was a wonder.",

@@ -6,7 +6,28 @@
   "boxes": [
     {
       "meaning": "hard to believe",
-      "english": ["incredible", "unimaginable", "unbelievable"],
+      "english": [
+        {
+          "id": "wol3yeuy",
+          "word": "incredible",
+          "meaning": "too hard to believe",
+          "register": "written",
+          "note": "This is the all-purpose choice for something literally unbelievable or astonishing."
+        },
+        {
+          "id": "5ueexs7x",
+          "word": "unimaginable",
+          "meaning": "beyond belief; inconceivable",
+          "note": "Use this when the emphasis is that an event or claim is so extraordinary that it is hard to believe, rather than literally impossible to imagine."
+        },
+        {
+          "id": "ykxwkugb",
+          "word": "unbelievable",
+          "meaning": "not believable",
+          "register": "formal",
+          "note": "Use this more formal expression for something impossible to believe, especially in emphatic reactions or writing."
+        }
+      ],
       "examples": [
         {
           "english": "This result is truly incredible.",

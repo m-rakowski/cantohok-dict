@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "ice hockey",
-      "english": ["hockey", "ice hockey"],
+      "english": [
+        {
+          "id": "tdix7k6i",
+          "word": "hockey",
+          "meaning": "ice hockey",
+          "note": "Use this specifically for ice hockey, rather than the broader term 曲棍球."
+        },
+        {
+          "id": "hcsl23jc",
+          "word": "ice hockey",
+          "meaning": "sport on ice with puck",
+          "note": "This is the all-purpose Cantonese word for ice hockey."
+        }
+      ],
       "examples": [
         {
           "english": "I loved watching hockey matches when I was little.",

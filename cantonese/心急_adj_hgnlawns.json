@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "impatient, can't wait",
-      "english": ["impatient", "eager", "hasty", "anxious"],
+      "english": [
+        {
+          "id": "4snsdpma",
+          "word": "impatient",
+          "meaning": "anxious to begin or have",
+          "note": "Use this when someone is anxious or eager to start or get something."
+        },
+        {
+          "id": "kckwtsrq",
+          "word": "eager",
+          "meaning": "keen; wanting to do something",
+          "note": "Use this when the eagerness includes impatience or urgency, as in not being able to wait."
+        },
+        {
+          "id": "dx0o5o71",
+          "word": "hasty",
+          "meaning": "eager, impatient",
+          "note": "Use this when the person is impatient or eager to act rather than willing to wait."
+        },
+        {
+          "id": "dply9o8s",
+          "word": "anxious",
+          "meaning": "eager, keen",
+          "note": "Use this when anxious means eager or impatient to do or find out something."
+        }
+      ],
       "examples": [
         {
           "english": "I'm impatient to get started.",

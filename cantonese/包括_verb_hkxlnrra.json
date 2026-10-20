@@ -6,7 +6,44 @@
   "boxes": [
     {
       "meaning": "include",
-      "english": ["include", "involve", "comprise", "encompass", "embody", "contain"],
+      "english": [
+        {
+          "id": "uwc5787m",
+          "word": "include",
+          "meaning": "contain as part of",
+          "note": "This is the all-purpose choice for saying that something is included or forms part of a whole."
+        },
+        {
+          "id": "xx4isvjz",
+          "word": "involve",
+          "meaning": "include; contain",
+          "note": "This is the all-purpose verb for saying that a job, plan, or thing includes something."
+        },
+        {
+          "id": "y7cb0mmz",
+          "word": "comprise",
+          "meaning": "consist of; include",
+          "note": "Use this as the all-purpose verb for saying that something includes particular parts or elements."
+        },
+        {
+          "id": "zphh2ddp",
+          "word": "encompass",
+          "meaning": "include, cover",
+          "note": "This is the all-purpose choice for including things within a scope, including a complete range."
+        },
+        {
+          "id": "m9hlzg76",
+          "word": "embody",
+          "meaning": "include as part of a whole",
+          "note": "Use this when something embodies something else by including it as one part of a larger whole."
+        },
+        {
+          "id": "as03hxel",
+          "word": "contain",
+          "meaning": "include as part",
+          "note": "Use this when explicitly listing something as a component or included part."
+        }
+      ],
       "examples": [
         {
           "english": "This set meal will include a drink and dessert.",

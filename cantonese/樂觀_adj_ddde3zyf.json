@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "optimistic",
-      "english": ["optimistic", "rosy", "cheerful", "positive", "hopeful"],
+      "english": [
+        {
+          "id": "u80mbxcw",
+          "word": "optimistic",
+          "meaning": "hopeful, expecting best",
+          "note": "This is the all-purpose choice for a person, attitude, or mood that expects a positive outcome."
+        },
+        {
+          "id": "5j58emqn",
+          "word": "rosy",
+          "meaning": "optimistic",
+          "note": "This is the all-purpose choice when “rosy” means optimistic about the future."
+        },
+        {
+          "id": "cg5n1qv7",
+          "word": "cheerful",
+          "meaning": "happy, optimistic",
+          "note": "Use this when the cheerful quality specifically comes from an optimistic outlook."
+        },
+        {
+          "id": "914sbzun",
+          "word": "positive",
+          "meaning": "optimistic",
+          "note": "Use this specifically for a person, attitude, or outlook that expects good things to happen."
+        },
+        {
+          "id": "n2ldmsdf",
+          "word": "hopeful",
+          "meaning": "feeling hope",
+          "note": "Use this for someone whose general outlook is optimistic rather than specifically focused on one hoped-for result."
+        }
+      ],
       "examples": [
         {
           "english": "Even when plans do not go as hoped, I’m still optimistic.",

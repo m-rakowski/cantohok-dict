@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "building tile",
-      "english": ["tile"],
+      "english": [
+        {
+          "id": "i74emkvj",
+          "word": "tile",
+          "meaning": "building tile",
+          "note": "Use this specifically for a roof tile rather than an indoor wall or floor tile."
+        }
+      ],
       "examples": [
         {
           "english": "A roof tile has cracked.",

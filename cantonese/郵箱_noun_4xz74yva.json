@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "mailbox",
-      "english": ["mailbox", "box"],
+      "english": [
+        {
+          "id": "dm12wh4b",
+          "word": "mailbox",
+          "meaning": "postal mailbox",
+          "note": "This is the all-purpose term for a postal mailbox or receptacle."
+        },
+        {
+          "id": "m7za6i4f",
+          "word": "box",
+          "meaning": "mailbox; post box",
+          "note": "Use this specifically for a mailbox or post box."
+        }
+      ],
       "examples": [
         {
           "english": "I put the letter in the mailbox.",

@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "position, location",
-      "english": ["position", "location", "site", "situation"],
+      "english": [
+        {
+          "id": "y6vehz4q",
+          "word": "position",
+          "meaning": "place; location",
+          "note": "This is the all-purpose choice for a physical location, and it is also used for a player's place and duties on a field."
+        },
+        {
+          "id": "68p77i9q",
+          "word": "location",
+          "meaning": "place, point in space",
+          "note": "Use this as the all-purpose noun for the physical location or position of something."
+        },
+        {
+          "id": "zs8rt643",
+          "word": "site",
+          "meaning": "place/location",
+          "note": "Use 位置 when you mean the physical position or exact location of something."
+        },
+        {
+          "id": "1y4r1oii",
+          "word": "situation",
+          "meaning": "position in surroundings",
+          "note": "Use this for the physical location or positioning of something relative to its surroundings."
+        }
+      ],
       "examples": [
         {
           "english": "Stand in this position so I can take your photo.",

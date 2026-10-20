@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "small path or lane",
-      "english": ["path", "lane"],
+      "english": [
+        {
+          "id": "pfy7dwi2",
+          "word": "path",
+          "meaning": "pedestrian trail",
+          "note": "Use this instead of 路 for a small pedestrian trail or footpath rather than a major road or route."
+        },
+        {
+          "id": "nw9x8z71",
+          "word": "lane",
+          "meaning": "narrow country road",
+          "note": "Use this for a narrow, usually rural road or path rather than an urban street."
+        }
+      ],
       "examples": [
         {
           "english": "The small path in the park is very quiet.",

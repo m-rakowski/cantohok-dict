@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "motive, reason behind an action",
-      "english": ["motive", "motivation", "reason"],
+      "english": [
+        {
+          "id": "tctdidmz",
+          "word": "motive",
+          "meaning": "reason for action",
+          "note": "Use this for the underlying personal reason or emotion prompting an action, especially in serious or analytical contexts."
+        },
+        {
+          "id": "imcf1a43",
+          "word": "motivation",
+          "meaning": "reason; incentive",
+          "note": "Use this for the reason or motive behind someone doing something."
+        },
+        {
+          "id": "po1ia0op",
+          "word": "reason",
+          "meaning": "motive",
+          "note": "Use this for the underlying motive that drives someone to act, rather than the reason they give."
+        }
+      ],
       "examples": [
         {
           "english": "The police are still investigating his motive for committing the crime.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "present something in a favourable way",
-      "english": ["frame", "spin"],
+      "english": [
+        {
+          "id": "v51246mv",
+          "word": "frame",
+          "meaning": "frame an idea",
+          "note": "Use this when framing an idea means packaging or presenting it in a particular way for people to interpret."
+        },
+        {
+          "id": "9uzo07a8",
+          "word": "spin",
+          "meaning": "present with slant",
+          "note": "Use this for presenting an issue, person, or fact in a more favourable or advantageous way."
+        }
+      ],
       "examples": [
         {
           "english": "This story uses romance to frame a political issue, making it easier to digest.",

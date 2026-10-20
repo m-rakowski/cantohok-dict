@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "interested",
-      "english": ["interested", "keen", "engaged"],
+      "english": [
+        {
+          "id": "883uf297",
+          "word": "interested",
+          "meaning": "curious; interested in",
+          "note": "Use this as the all-purpose spoken equivalent for being interested in an activity, topic, or plan."
+        },
+        {
+          "id": "rxe3ye74",
+          "word": "keen",
+          "meaning": "eager, enthusiastic",
+          "note": "This is the all-purpose everyday choice for being interested in or keen to do something."
+        },
+        {
+          "id": "urcvf4zf",
+          "word": "engaged",
+          "meaning": "interested; absorbed",
+          "note": "Use 有興趣 when someone is engaged because they are interested in something."
+        }
+      ],
       "examples": [
         {
           "english": "I’m very interested in learning Cantonese.",

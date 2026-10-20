@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "job vacancy",
-      "english": ["vacancy", "opening", "gap"],
+      "english": [
+        {
+          "id": "ndpea3d8",
+          "word": "vacancy",
+          "meaning": "open job",
+          "note": "This is the all-purpose term for an unfilled job position."
+        },
+        {
+          "id": "18jpxtui",
+          "word": "opening",
+          "meaning": "vacant position",
+          "note": "Use 空缺 for an unfilled job, post, or position rather than an available appointment time."
+        },
+        {
+          "id": "pmrma197",
+          "word": "gap",
+          "meaning": "missing part; lack",
+          "note": "Use this for an unfilled vacancy or vacant post, rather than a general shortfall."
+        }
+      ],
       "examples": [
         {
           "english": "There is still a vacancy for this job; are you interested?",

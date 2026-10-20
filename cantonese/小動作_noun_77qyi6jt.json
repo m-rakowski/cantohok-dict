@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "small habitual gesture",
-      "english": ["quirk", "affectation"],
+      "english": [
+        {
+          "id": "079ewspr",
+          "word": "quirk",
+          "meaning": "odd habit / eccentricity",
+          "note": "Use this for a person's recurring little gestures or mannerisms rather than a general eccentric trait."
+        },
+        {
+          "id": "cuqfzpnz",
+          "word": "affectation",
+          "meaning": "mannerism",
+          "note": "Use this for a repeated small physical gesture or behavioural mannerism, such as touching the face while speaking."
+        }
+      ],
       "examples": [
         {
           "english": "They have a little quirk when they get nervous: they keep clicking their pen.",

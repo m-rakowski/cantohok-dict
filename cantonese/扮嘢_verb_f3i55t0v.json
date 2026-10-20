@@ -6,7 +6,28 @@
   "boxes": [
     {
       "meaning": "put on an act, show off",
-      "english": ["posture", "pretend", "camp"],
+      "english": [
+        {
+          "id": "awg6zufl",
+          "word": "posture",
+          "meaning": "pretend to take a stance",
+          "register": "colloquial",
+          "note": "This is the all-purpose colloquial choice for putting on an act or pretending to hold a view."
+        },
+        {
+          "id": "mk5gb1jy",
+          "word": "pretend",
+          "meaning": "act falsely; fake",
+          "register": "colloquial",
+          "note": "Use this when someone is putting on a false act or pretending that something is different from reality."
+        },
+        {
+          "id": "kemhv1xv",
+          "word": "camp",
+          "meaning": "act campily",
+          "note": "Use this for deliberately acting affected, showy, or theatrically over-the-top, rather than for the neutral meaning of camping."
+        }
+      ],
       "examples": [
         {
           "english": "I don't really think that, so you don't need to posture here.",

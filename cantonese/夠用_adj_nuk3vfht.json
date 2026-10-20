@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "enough to use",
-      "english": ["adequate", "competent"],
+      "english": [
+        {
+          "id": "uk0pdxup",
+          "word": "adequate",
+          "meaning": "sufficient; meets a requirement",
+          "note": "Use this for resources, equipment, or an amount that is adequate for the intended use."
+        },
+        {
+          "id": "u2izl7up",
+          "word": "competent",
+          "meaning": "adequate; sufficient",
+          "note": "Use this for something that is sufficient for its intended purpose, not for a person's skill."
+        }
+      ],
       "examples": [
         {
           "english": "This computer is adequate for office work.",

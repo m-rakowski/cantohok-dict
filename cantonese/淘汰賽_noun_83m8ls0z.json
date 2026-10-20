@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "sports competition",
-      "english": ["tournament"],
+      "english": [
+        {
+          "id": "n61n13od",
+          "word": "tournament",
+          "meaning": "sports competition",
+          "note": "Use this for a knockout tournament in which losing teams or players are eliminated."
+        }
+      ],
       "examples": [
         {
           "english": "The knockout tournament starts tomorrow; if you lose one game, you are out.",

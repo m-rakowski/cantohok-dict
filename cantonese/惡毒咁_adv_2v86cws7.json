@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "in a spiteful, vicious way",
-      "english": ["venomously", "fiendishly"],
+      "english": [
+        {
+          "id": "sjjsk3iq",
+          "word": "venomously",
+          "meaning": "with venom, bitterly",
+          "note": "This is the all-purpose choice for speaking or acting with malicious venom."
+        },
+        {
+          "id": "7i73o2ub",
+          "word": "fiendishly",
+          "meaning": "wickedly, evilly",
+          "note": "Use this when the manner is malicious, wicked, or deliberately cruel rather than merely intense."
+        }
+      ],
       "examples": [
         {
           "english": "They cursed at people venomously, making everyone on the street stare.",

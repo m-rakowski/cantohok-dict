@@ -6,7 +6,15 @@
   "boxes": [
     {
       "meaning": "person in custody",
-      "english": ["ward"],
+      "english": [
+        {
+          "id": "c40rkio8",
+          "word": "ward",
+          "meaning": "person in custody",
+          "register": "formal",
+          "note": "Use this formal legal term for a minor placed under a guardian's care."
+        }
+      ],
       "register": "formal",
       "examples": [
         {

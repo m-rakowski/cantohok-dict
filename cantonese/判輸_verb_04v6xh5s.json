@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "lose a game by default",
-      "english": ["forfeit"],
+      "english": [
+        {
+          "id": "r199nxvh",
+          "word": "forfeit",
+          "meaning": "lose a game by default",
+          "note": "Use this when an authority or referee declares someone the loser because of a rule violation or failure to show up."
+        }
+      ],
       "examples": [
         {
           "english": "The referee made them forfeit because they failed to show up on time.",

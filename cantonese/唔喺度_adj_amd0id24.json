@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "not here, not present",
-      "english": ["absent", "missing"],
+      "english": [
+        {
+          "id": "i5xwctvx",
+          "word": "absent",
+          "meaning": "away; not present",
+          "note": "This is the all-purpose spoken choice for a person or thing not being present."
+        },
+        {
+          "id": "r8jh6p1l",
+          "word": "missing",
+          "meaning": "not present; absent",
+          "note": "Use this when the emphasis is that something is not present where it should be."
+        }
+      ],
       "examples": [
         {
           "english": "Ming is absent today, so call back tomorrow.",

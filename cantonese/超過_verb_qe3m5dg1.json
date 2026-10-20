@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "to exceed, be more than",
-      "english": ["outweigh", "exceed", "overtake"],
+      "english": [
+        {
+          "id": "w0hszyo4",
+          "word": "outweigh",
+          "meaning": "be more important than",
+          "note": "This is the all-purpose verb for exceeding something in weight, amount, importance, or value."
+        },
+        {
+          "id": "cxh2bx6j",
+          "word": "exceed",
+          "meaning": "go beyond a limit",
+          "note": "Use this as the all-purpose choice when something exceeds an amount, figure, limit, or target."
+        },
+        {
+          "id": "f76npruv",
+          "word": "overtake",
+          "meaning": "surpass in amount",
+          "note": "Use this when one amount, value, or result becomes greater than another."
+        }
+      ],
       "examples": [
         {
           "english": "I think practicality can sometimes outweigh appearance.",

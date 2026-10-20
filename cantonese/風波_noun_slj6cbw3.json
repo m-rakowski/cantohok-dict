@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "public controversy, uproar",
-      "english": ["drama", "brouhaha"],
+      "english": [
+        {
+          "id": "4n74g4sx",
+          "word": "drama",
+          "meaning": "trouble and excitement",
+          "note": "Use this for real-life trouble, controversy, or interpersonal upheaval rather than a theatrical work."
+        },
+        {
+          "id": "kct3d4h8",
+          "word": "brouhaha",
+          "meaning": "fuss; uproar",
+          "note": "Use this when the brouhaha is a public controversy or trouble surrounding an incident rather than immediate noise and disorder."
+        }
+      ],
       "examples": [
         {
           "english": "The drama over this online incident is really getting bigger and bigger.",

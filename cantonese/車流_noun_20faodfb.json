@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "road/air traffic",
-      "english": ["traffic"],
+      "english": [
+        {
+          "id": "jpp00vah",
+          "word": "traffic",
+          "meaning": "road/air traffic",
+          "note": "Use this specifically for the flow or volume of vehicles on a road."
+        }
+      ],
       "examples": [
         {
           "english": "The traffic is heavy, so drive carefully.",

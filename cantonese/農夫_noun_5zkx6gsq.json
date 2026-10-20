@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "person who works land / keeps livestock",
-      "english": ["farmer"],
+      "english": [
+        {
+          "id": "n13obsv2",
+          "word": "farmer",
+          "meaning": "person who works land / keeps livestock",
+          "note": "This is the all-purpose term for a person who farms or keeps livestock."
+        }
+      ],
       "examples": [
         {
           "english": "My dad is a farmer and goes to the fields early every day.",

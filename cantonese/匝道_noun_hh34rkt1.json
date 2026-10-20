@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "road interchange",
-      "english": ["ramp"],
+      "english": [
+        {
+          "id": "crfemp9j",
+          "word": "ramp",
+          "meaning": "road interchange",
+          "note": "Use 匝道 specifically for a road connector between a freeway and a surface street or another freeway."
+        }
+      ],
       "examples": [
         {
           "english": "The ramp is just past the next exit, so don't take the wrong turn.",

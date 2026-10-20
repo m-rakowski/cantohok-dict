@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "moreover, besides",
-      "english": ["furthermore", "moreover"],
+      "english": [
+        {
+          "id": "ryn9s269",
+          "word": "furthermore",
+          "meaning": "in addition; besides",
+          "note": "Use this as the all-purpose way to add another piece of information or supporting point."
+        },
+        {
+          "id": "5kn9n6ml",
+          "word": "moreover",
+          "meaning": "in addition; furthermore",
+          "note": "Use this to link an additional point, especially when it strengthens or extends the preceding statement."
+        }
+      ],
       "examples": [
         {
           "english": "The food at this restaurant is good; furthermore, the prices are not expensive.",

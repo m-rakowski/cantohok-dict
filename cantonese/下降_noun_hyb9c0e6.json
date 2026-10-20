@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "a drop, decrease",
-      "english": ["fall", "decline"],
+      "english": [
+        {
+          "id": "nd5htefw",
+          "word": "fall",
+          "meaning": "a fall, downward movement",
+          "note": "Use this as the all-purpose noun for movement or a measured quantity going downward."
+        },
+        {
+          "id": "zluj48kv",
+          "word": "decline",
+          "meaning": "decrease, reduction",
+          "note": "This is the all-purpose choice for a downward movement or a fall in quantity, activity, or prevalence."
+        }
+      ],
       "examples": [
         {
           "english": "The balloon's fall was slow.",

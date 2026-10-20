@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "bicycle",
-      "english": ["bicycle", "bike", "cycle"],
+      "english": [
+        {
+          "id": "g8hgkszz",
+          "word": "bicycle",
+          "meaning": "two-wheeled vehicle",
+          "note": "This is the all-purpose Cantonese noun for a bicycle in everyday Hong Kong speech."
+        },
+        {
+          "id": "93bs7c5j",
+          "word": "bike",
+          "meaning": "bicycle; motorbike",
+          "note": "This is the all-purpose choice when the bike is pedal-powered, especially a bicycle."
+        },
+        {
+          "id": "ck2l6ydj",
+          "word": "cycle",
+          "meaning": "bicycle",
+          "note": "This is the all-purpose everyday choice for the pedal-powered vehicle sense of “cycle.”"
+        }
+      ],
       "examples": [
         {
           "english": "I often bicycle to the beach on weekends.",

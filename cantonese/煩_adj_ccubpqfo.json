@@ -6,7 +6,50 @@
   "boxes": [
     {
       "meaning": "annoying, irritating, fed up",
-      "english": ["annoying", "irritating", "bothersome", "annoyed", "tiresome", "wearisome", "stupid"],
+      "english": [
+        {
+          "id": "z66s4ebe",
+          "word": "annoying",
+          "meaning": "causing annoyance",
+          "note": "This is the all-purpose everyday choice for something that is annoying or irritating."
+        },
+        {
+          "id": "4da4e1fo",
+          "word": "irritating",
+          "meaning": "causing annoyance or pain",
+          "note": "This is the all-purpose choice for something that annoys or bothers you, such as bureaucracy or a person."
+        },
+        {
+          "id": "dvp9jr9z",
+          "word": "bothersome",
+          "meaning": "annoying; troublesome",
+          "note": "Use this especially when the emphasis is on irritation or something getting on your nerves."
+        },
+        {
+          "id": "rl2jvh6z",
+          "word": "annoyed",
+          "meaning": "troubled; irritated",
+          "note": "Choose this when the annoyance feels like being bothered, troubled, or fed up rather than openly angry."
+        },
+        {
+          "id": "0sixnb38",
+          "word": "tiresome",
+          "meaning": "causing fatigue or boredom",
+          "note": "Use this when the tiresome thing is irritating, troublesome, or repeatedly bothersome."
+        },
+        {
+          "id": "8i8s4wet",
+          "word": "wearisome",
+          "meaning": "tiresome, tedious",
+          "note": "Use this when the wearisome thing is troublesome or irritating, such as repetitive procedures or paperwork."
+        },
+        {
+          "id": "09wwc4s8",
+          "word": "stupid",
+          "meaning": "annoying, exasperating",
+          "note": "Use this when stupid means irritating or troublesome rather than lacking intelligence."
+        }
+      ],
       "examples": [
         {
           "english": "You are so annoying that I can't get anything done.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "propose, suggest",
-      "english": ["propose", "suggest"],
+      "english": [
+        {
+          "id": "nl4ogpqv",
+          "word": "propose",
+          "meaning": "suggest a plan",
+          "note": "This is the all-purpose verb for suggesting a plan or course of action."
+        },
+        {
+          "id": "s7t66ay5",
+          "word": "suggest",
+          "meaning": "propose, recommend",
+          "note": "Use 提議 when “suggest” means propose, especially when putting forward a concrete option for consideration rather than mainly recommending it."
+        }
+      ],
       "examples": [
         {
           "english": "I propose that we meet next week to discuss this matter.",

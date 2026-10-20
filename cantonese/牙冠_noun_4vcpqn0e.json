@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "dental crown",
-      "english": ["crown", "cap"],
+      "english": [
+        {
+          "id": "dnz7r1eb",
+          "word": "crown",
+          "meaning": "tooth cap",
+          "register": "formal",
+          "note": "Use this technical dental term for a prosthetic cap fitted over a tooth."
+        },
+        {
+          "id": "zc05gz5h",
+          "word": "cap",
+          "meaning": "tooth crown",
+          "register": "formal",
+          "note": "Use this specifically for a dental crown covering a tooth."
+        }
+      ],
       "register": "formal",
       "examples": [
         {

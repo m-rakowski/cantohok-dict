@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "industry giant, tycoon",
-      "english": ["mogul", "gorilla"],
+      "english": [
+        {
+          "id": "rtyebwtc",
+          "word": "mogul",
+          "meaning": "rich or powerful person",
+          "note": "Use 巨頭 for a dominant figure in a particular industry, company, or field."
+        },
+        {
+          "id": "uk5xdl1m",
+          "word": "gorilla",
+          "meaning": "powerful person or organization",
+          "note": "Use this for a powerful person or organization treated as a heavyweight."
+        }
+      ],
       "examples": [
         {
           "english": "They are a technology-industry mogul, and the whole industry moves when they speak.",

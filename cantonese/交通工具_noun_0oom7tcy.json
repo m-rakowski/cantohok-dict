@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "means of transport, vehicle",
-      "english": ["transportation", "transit", "transport"],
+      "english": [
+        {
+          "id": "5kzx1ltd",
+          "word": "transportation",
+          "meaning": "transport system; transport",
+          "note": "Use this specifically for a vehicle or other means of conveyance, such as a car, bus, or bicycle."
+        },
+        {
+          "id": "7b7yyvof",
+          "word": "transit",
+          "meaning": "transport of goods or people",
+          "note": "Use this when “transit” refers specifically to the vehicles used to carry people or goods."
+        },
+        {
+          "id": "n5tygu56",
+          "word": "transport",
+          "meaning": "vehicle for carrying",
+          "note": "Use this for a vehicle or means of transport, including the vehicles of the public-transport system."
+        }
+      ],
       "examples": [
         {
           "english": "Before buying a car, I want to compare different means of transportation.",

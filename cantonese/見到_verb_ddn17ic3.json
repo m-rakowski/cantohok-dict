@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "to see, to spot",
-      "english": ["spot", "notice"],
+      "english": [
+        {
+          "id": "qkgg14tc",
+          "word": "spot",
+          "meaning": "notice; see",
+          "note": "This is the all-purpose everyday choice when spot means see or notice something."
+        },
+        {
+          "id": "rjqhjls5",
+          "word": "notice",
+          "meaning": "notice, observe",
+          "note": "Use this when noticing means seeing or spotting something visually."
+        }
+      ],
       "examples": [
         {
           "english": "I can spot you waiting at the door.",

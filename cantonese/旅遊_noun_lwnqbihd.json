@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "travelling for tourism",
-      "english": ["tourism", "travel"],
+      "english": [
+        {
+          "id": "6ishsv7u",
+          "word": "tourism",
+          "meaning": "travelling / sightseeing",
+          "note": "This is the all-purpose noun for the activity of travelling or sightseeing away from home."
+        },
+        {
+          "id": "w8416vb0",
+          "word": "travel",
+          "meaning": "the act of traveling",
+          "note": "Use this for travel viewed as tourism or holiday travel, especially when contrasting it with work or staying at home."
+        }
+      ],
       "examples": [
         {
           "english": "We’re going to Japan for tourism during the summer holidays.",

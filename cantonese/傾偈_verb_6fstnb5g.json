@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "to chat",
-      "english": ["chat", "rap", "confabulate", "buzz"],
+      "english": [
+        {
+          "id": "hfjjdqhl",
+          "word": "chat",
+          "meaning": "have informal conversation",
+          "note": "This is the all-purpose colloquial choice for chatting, including chatting through a messaging app."
+        },
+        {
+          "id": "zzuvu7qe",
+          "word": "rap",
+          "meaning": "chat casually",
+          "note": "This is the all-purpose colloquial choice for chatting casually."
+        },
+        {
+          "id": "sut2aaro",
+          "word": "confabulate",
+          "meaning": "chat casually",
+          "note": "This is the all-purpose colloquial choice for chatting casually with someone."
+        },
+        {
+          "id": "x21l4sli",
+          "word": "buzz",
+          "meaning": "people talking excitedly",
+          "note": "Use this for people chatting about an interesting topic, with the excitedness supplied by the context."
+        }
+      ],
       "examples": [
         {
           "english": "We chat whenever we have time.",

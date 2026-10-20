@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "insightful",
-      "english": ["insightful", "perceptive"],
+      "english": [
+        {
+          "id": "f2bn1h04",
+          "word": "insightful",
+          "meaning": "perceptive, insightful",
+          "note": "Use this when emphasizing the ability to perceive underlying truths or relationships."
+        },
+        {
+          "id": "wnjzlr3e",
+          "word": "perceptive",
+          "meaning": "sharp in understanding",
+          "note": "Use this when emphasizing deep insight into the reasons or meaning beneath what is obvious."
+        }
+      ],
       "examples": [
         {
           "english": "They are very insightful and can spot the root of the problem at a glance.",

@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "haircut",
-      "english": ["haircut", "trim", "cut"],
+      "english": [
+        {
+          "id": "lqhgaoik",
+          "word": "haircut",
+          "meaning": "cutting hair",
+          "note": "Use this as the all-purpose noun for the act or service of cutting hair."
+        },
+        {
+          "id": "yzyow2u6",
+          "word": "trim",
+          "meaning": "haircut touch-up",
+          "note": "This is the everyday noun for a haircut or haircut touch-up."
+        },
+        {
+          "id": "e2rf06p6",
+          "word": "cut",
+          "meaning": "haircut",
+          "note": "Use this for the haircut as an activity or service."
+        }
+      ],
       "examples": [
         {
           "english": "I’m going for a haircut tomorrow.",

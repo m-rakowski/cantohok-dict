@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "superficial, shallow",
-      "english": ["superficial", "shallow"],
+      "english": [
+        {
+          "id": "mzxeisqp",
+          "word": "superficial",
+          "meaning": "not deep or thorough",
+          "note": "Use this when criticizing an analysis, understanding, idea, or person as lacking depth or substance."
+        },
+        {
+          "id": "e1zxaogc",
+          "word": "shallow",
+          "meaning": "superficial, not serious",
+          "register": "formal",
+          "note": "Use this when someone or something is concerned mainly with superficial matters rather than serious or meaningful ones."
+        }
+      ],
       "examples": [
         {
           "english": "Your analysis is too superficial and does not address the causes at all.",

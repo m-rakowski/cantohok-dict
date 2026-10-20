@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "ship's crew member",
-      "english": ["crew", "complement"],
+      "english": [
+        {
+          "id": "haypxnww",
+          "word": "crew",
+          "meaning": "staff on a vessel or machine",
+          "note": "Use this specifically for the crew or an individual crew member of a ship or boat."
+        },
+        {
+          "id": "fg58lfto",
+          "word": "complement",
+          "meaning": "ship's crew",
+          "note": "Use this specifically for the working members of a ship's crew."
+        }
+      ],
       "examples": [
         {
           "english": "The crew told us to stand on the deck.",

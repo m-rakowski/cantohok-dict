@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "questionnaire",
-      "english": ["questionnaire", "survey"],
+      "english": [
+        {
+          "id": "cfcac8oo",
+          "word": "questionnaire",
+          "meaning": "survey form",
+          "note": "This is the all-purpose noun for a questionnaire or survey form."
+        },
+        {
+          "id": "200k764w",
+          "word": "survey",
+          "meaning": "survey form",
+          "note": "Use this when “survey” means the questionnaire or form that people fill in, rather than the research itself."
+        }
+      ],
       "examples": [
         {
           "english": "I filled out a questionnaire to help the school with its research.",

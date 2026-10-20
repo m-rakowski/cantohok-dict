@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "part that sticks out",
-      "english": ["protrusion", "projection"],
+      "english": [
+        {
+          "id": "fpvslbzw",
+          "word": "protrusion",
+          "meaning": "thing sticking out",
+          "note": "Use this as the all-purpose noun phrase for a part that sticks out."
+        },
+        {
+          "id": "znnbhlmg",
+          "word": "projection",
+          "meaning": "protrusion, sticking out",
+          "note": "Use this for a physical part or surface that sticks out, such as a ledge on a cliff."
+        }
+      ],
       "examples": [
         {
           "english": "There’s a protrusion on the edge of the table that I keep bumping my foot against.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "without stopping",
-      "english": ["ceaselessly", "continually"],
+      "english": [
+        {
+          "id": "xcutlu7s",
+          "word": "ceaselessly",
+          "meaning": "without stopping",
+          "note": "This is the all-purpose choice for doing something without stopping."
+        },
+        {
+          "id": "siw64ya6",
+          "word": "continually",
+          "meaning": "continuously, non-stop",
+          "note": "Use this when an action continues without stopping."
+        }
+      ],
       "examples": [
         {
           "english": "They talked ceaselessly until I got a headache.",

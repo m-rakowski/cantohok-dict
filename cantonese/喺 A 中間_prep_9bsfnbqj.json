@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "in the middle of A",
-      "english": ["among", "amid"],
+      "english": [
+        {
+          "id": "k2tca9u6",
+          "word": "among",
+          "meaning": "in the middle of",
+          "note": "Use this as the all-purpose choice when someone or something is physically in the midst of and surrounded by others."
+        },
+        {
+          "id": "s3qko2wn",
+          "word": "amid",
+          "meaning": "in the middle of",
+          "note": "This is the all-purpose spoken choice for something located in the middle of or surrounded by other things."
+        }
+      ],
       "examples": [
         {
           "english": "I was standing among the crowd.",

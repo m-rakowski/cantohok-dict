@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "protection",
-      "english": ["protection", "preservation", "safeguard", "conservation", "security"],
+      "english": [
+        {
+          "id": "oj57cpgy",
+          "word": "protection",
+          "meaning": "keeping safe",
+          "note": "This is the all-purpose noun for the process of keeping someone or something safe."
+        },
+        {
+          "id": "hein4i1m",
+          "word": "preservation",
+          "meaning": "protecting from damage",
+          "note": "This is the all-purpose choice when preservation means shielding something from damage or harm."
+        },
+        {
+          "id": "q7ejbs4x",
+          "word": "safeguard",
+          "meaning": "protection, defense",
+          "note": "Use this as the all-purpose noun for general protection or something that keeps harm away."
+        },
+        {
+          "id": "235m28t7",
+          "word": "conservation",
+          "meaning": "preserving, protecting",
+          "note": "Use this for the general act of safeguarding something, rather than specifically conserving the environment or heritage."
+        },
+        {
+          "id": "gq1wer1a",
+          "word": "security",
+          "meaning": "something that secures",
+          "note": "Use this for protection or a protective measure that secures someone or something."
+        }
+      ],
       "examples": [
         {
           "english": "The government should strengthen protection for the wetlands.",

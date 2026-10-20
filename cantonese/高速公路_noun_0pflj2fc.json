@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "highway",
-      "english": ["motorway"],
+      "english": [
+        {
+          "id": "ysv3i07k",
+          "word": "motorway",
+          "meaning": "highway",
+          "note": "This is the all-purpose Cantonese noun for a motorway or controlled-access highway."
+        }
+      ],
       "examples": [
         {
           "english": "This motorway is always jammed in the mornings.",

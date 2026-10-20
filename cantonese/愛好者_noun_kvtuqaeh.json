@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "enthusiast, fan",
-      "english": ["enthusiast", "lover"],
+      "english": [
+        {
+          "id": "pl8rmtom",
+          "word": "enthusiast",
+          "meaning": "person full of enthusiasm",
+          "register": "written",
+          "note": "Use this broader and more neutral term, especially in descriptions or writing, when the person's strong interest matters more than their intensity."
+        },
+        {
+          "id": "wkwvyzpu",
+          "word": "lover",
+          "meaning": "person who loves something",
+          "register": "written",
+          "note": "Use this for someone enthusiastic about a hobby, product, or subject rather than a romantic partner."
+        }
+      ],
       "register": "written",
       "examples": [
         {

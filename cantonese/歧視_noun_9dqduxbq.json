@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "discrimination",
-      "english": ["discrimination", "prejudice"],
+      "english": [
+        {
+          "id": "u6w8m9v3",
+          "word": "discrimination",
+          "meaning": "unfair treatment, prejudice",
+          "note": "This is the all-purpose noun for unfair or prejudicial treatment based on a group or category."
+        },
+        {
+          "id": "b9u04539",
+          "word": "prejudice",
+          "meaning": "racial or social bias",
+          "note": "Use this for prejudice against a particular group, especially when it involves discriminatory treatment rather than merely a private opinion."
+        }
+      ],
       "examples": [
         {
           "english": "The company shouldn’t allow discrimination against job applicants because of age.",

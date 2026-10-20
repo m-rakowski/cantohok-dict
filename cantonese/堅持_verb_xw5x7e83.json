@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "insist",
-      "english": ["insist", "urge"],
+      "english": [
+        {
+          "id": "ax3fnevz",
+          "word": "insist",
+          "meaning": "maintain firmly",
+          "note": "This is the all-purpose choice for firmly maintaining a claim or refusing to give up a demand."
+        },
+        {
+          "id": "1tnf7jyk",
+          "word": "urge",
+          "meaning": "insist on",
+          "note": "Use this when urging something means insisting on a position, argument, or requirement."
+        }
+      ],
       "examples": [
         {
           "english": "I insist I never said that.",
@@ -22,7 +35,38 @@
     },
     {
       "meaning": "keep at it, stick to",
-      "english": ["persist", "adhere", "stick", "endure", "plug"],
+      "english": [
+        {
+          "id": "hsbmwjyx",
+          "word": "persist",
+          "meaning": "keep going stubbornly",
+          "note": "This is the all-purpose choice for continuing stubbornly or resolutely, especially with an action or goal."
+        },
+        {
+          "id": "sbugz5a0",
+          "word": "adhere",
+          "meaning": "be devoted; stick to beliefs",
+          "note": "This is the all-purpose choice for sticking to a belief, principle, or course of action."
+        },
+        {
+          "id": "6a4oomb7",
+          "word": "stick",
+          "meaning": "stick to, keep to",
+          "note": "Use 堅持 for continuing firmly with a plan, strategy, or position."
+        },
+        {
+          "id": "g3omjfl6",
+          "word": "endure",
+          "meaning": "persist, continue",
+          "note": "Use this when a person deliberately keeps going despite obstacles or opposition."
+        },
+        {
+          "id": "ihpv01f1",
+          "word": "plug",
+          "meaning": "keep at it; persist",
+          "note": "Use this when someone keeps doing something despite difficulty or boredom."
+        }
+      ],
       "examples": [
         {
           "english": "I will persist with my daily practice until I make the team.",

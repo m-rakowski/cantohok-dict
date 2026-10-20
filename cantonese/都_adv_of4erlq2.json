@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "also, too",
-      "english": ["also", "too", "either", "likewise"],
+      "english": [
+        {
+          "id": "6ghmmkds",
+          "word": "also",
+          "meaning": "in addition; too",
+          "note": "This is the everyday all-purpose choice for saying that someone or something also does or has something."
+        },
+        {
+          "id": "mk4r7ily",
+          "word": "too",
+          "meaning": "also, in addition",
+          "note": "This is the all-purpose spoken choice for expressing “likewise” or “also,” including “me too.”"
+        },
+        {
+          "id": "nx2am730",
+          "word": "either",
+          "meaning": "also / as well",
+          "note": "This is the all-purpose choice, especially when “either” means “also” after a negative statement."
+        },
+        {
+          "id": "q75acxnf",
+          "word": "likewise",
+          "meaning": "also; too; moreover",
+          "note": "Use 都 as the everyday choice for “also” or “too” before the verb or predicate."
+        }
+      ],
       "examples": [
         {
           "english": "I also want to go eat.",
@@ -32,7 +57,20 @@
     },
     {
       "meaning": "anyway, still (despite the situation)",
-      "english": ["anyway", "still"],
+      "english": [
+        {
+          "id": "uoa0tm56",
+          "word": "anyway",
+          "meaning": "regardless / anyhow",
+          "note": "Use 都 as the all-purpose casual choice when something happens despite a contrary condition or reluctance."
+        },
+        {
+          "id": "rdtccc6f",
+          "word": "still",
+          "meaning": "nevertheless",
+          "note": "Use 都 after a contrast to say that something happens nevertheless or despite the preceding fact."
+        }
+      ],
       "examples": [
         {
           "english": "Even if it rains, I'll go anyway.",

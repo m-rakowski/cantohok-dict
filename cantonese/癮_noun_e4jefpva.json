@@ -6,7 +6,33 @@
   "boxes": [
     {
       "meaning": "addiction, craving",
-      "english": ["addiction", "obsession", "habit", "drug"],
+      "english": [
+        {
+          "id": "kn87j0rl",
+          "word": "addiction",
+          "meaning": "drug or behavior dependence",
+          "note": "This is the all-purpose noun for a drug or behavior dependence, and for an unusually strong liking expressed as 有……癮."
+        },
+        {
+          "id": "84fwkq8x",
+          "word": "obsession",
+          "meaning": "fixation; all-consuming interest",
+          "note": "Use this when the interest feels addictive, especially for a hobby or activity."
+        },
+        {
+          "id": "vr85k177",
+          "word": "habit",
+          "meaning": "addiction",
+          "register": "colloquial",
+          "note": "Use this for an addictive dependence or compulsive craving, especially when talking about giving it up."
+        },
+        {
+          "id": "hrr65pjn",
+          "word": "drug",
+          "meaning": "thing one is addicted to",
+          "note": "Use 癮 when referring figuratively to the substance, feeling, or activity that someone cannot do without."
+        }
+      ],
       "examples": [
         {
           "english": "Even after trying to quit smoking for so long, my cigarette addiction still hasn't gone away.",

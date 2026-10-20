@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "flexible, adaptable",
-      "english": ["adaptable", "dynamic"],
+      "english": [
+        {
+          "id": "jmiixck3",
+          "word": "adaptable",
+          "meaning": "flexible; able to adapt",
+          "note": "This is the all-purpose choice for an adaptable person, approach, or way of thinking."
+        },
+        {
+          "id": "yntfd3or",
+          "word": "dynamic",
+          "meaning": "adaptable",
+          "note": "Use this when dynamic means able to adjust easily to new conditions or approaches."
+        }
+      ],
       "examples": [
         {
           "english": "This person is adaptable and knows how to adjust when situations change.",
@@ -22,7 +35,14 @@
     },
     {
       "meaning": "nimble in movement",
-      "english": ["agile"],
+      "english": [
+        {
+          "id": "jp7h68mk",
+          "word": "agile",
+          "meaning": "physically nimble",
+          "note": "This is the all-purpose choice for a person or animal that moves easily and quickly."
+        }
+      ],
       "examples": [
         {
           "english": "That elderly person is still quite agile when walking.",

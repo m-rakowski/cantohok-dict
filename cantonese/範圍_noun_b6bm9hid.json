@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "scope, range",
-      "english": ["extent", "scope", "area", "sphere", "region"],
+      "english": [
+        {
+          "id": "x8w3cjz1",
+          "word": "extent",
+          "meaning": "degree; amount; scope",
+          "note": "Use this for the spatial area or scope covered by something rather than its degree or intensity."
+        },
+        {
+          "id": "n3fxjo28",
+          "word": "scope",
+          "meaning": "extent; range of a subject",
+          "note": "This is the all-purpose choice for the breadth, extent, or applicability of a subject."
+        },
+        {
+          "id": "wtbg5uxi",
+          "word": "area",
+          "meaning": "field or scope",
+          "note": "Use this for the scope, extent, or range of a subject, object, or concept rather than a physical place."
+        },
+        {
+          "id": "gpxtuq2w",
+          "word": "sphere",
+          "meaning": "area of activity; field",
+          "note": "Use this for a sphere understood as an area of activity, authority, or influence."
+        },
+        {
+          "id": "ul8ew395",
+          "word": "region",
+          "meaning": "approximate amount",
+          "note": "Use this for an approximate range or span rather than a geographic territory."
+        }
+      ],
       "examples": [
         {
           "english": "The extent of this park is quite large.",

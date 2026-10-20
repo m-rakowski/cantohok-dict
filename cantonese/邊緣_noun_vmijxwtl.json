@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "edge, brink",
-      "english": ["brink", "edge"],
+      "english": [
+        {
+          "id": "sm7ln6tk",
+          "word": "brink",
+          "meaning": "physical edge of a steep place",
+          "note": "This is the all-purpose choice for a literal or figurative edge when the exact setting is not specified."
+        },
+        {
+          "id": "qlnrkep4",
+          "word": "edge",
+          "meaning": "brink; outer edge",
+          "note": "Use this instead of 邊 for an abstract brink or extreme margin, such as being on the edge of collapse."
+        }
+      ],
       "examples": [
         {
           "english": "The brink of the rooftop is dangerous, so don’t go so close.",

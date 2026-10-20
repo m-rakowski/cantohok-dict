@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "call by phone",
-      "english": ["dial"],
+      "english": [
+        {
+          "id": "8cu3a0oq",
+          "word": "dial",
+          "meaning": "call by phone",
+          "note": "Use this when emphasizing entering or selecting the digits rather than the call itself."
+        }
+      ],
       "examples": [
         {
           "english": "When you dial the number, don’t press the wrong digits.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "rule out, exclude",
-      "english": ["exclude", "eliminate"],
+      "english": [
+        {
+          "id": "7wf8q9sg",
+          "word": "exclude",
+          "meaning": "leave out",
+          "note": "Use this for abstract exclusion, including leaving something out of consideration, rejecting evidence, or ruling out a diagnosis."
+        },
+        {
+          "id": "tx2cmp6r",
+          "word": "eliminate",
+          "meaning": "rule out; remove from competition",
+          "note": "Use this for ruling out a suspect, possibility, or candidate; competition-specific elimination is more often expressed with 淘汰."
+        }
+      ],
       "examples": [
         {
           "english": "After the tests, the doctor could exclude appendicitis.",

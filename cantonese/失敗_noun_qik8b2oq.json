@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "failure",
-      "english": ["failure", "defeat"],
+      "english": [
+        {
+          "id": "lcwlfplz",
+          "word": "failure",
+          "meaning": "lack of success",
+          "note": "This is the all-purpose noun for a lack of success or an unsuccessful outcome."
+        },
+        {
+          "id": "m5bljo7r",
+          "word": "defeat",
+          "meaning": "loss in a contest",
+          "note": "Use 失敗 as the all-purpose noun for a defeat or loss when no narrower contest wording is needed."
+        }
+      ],
       "examples": [
         {
           "english": "This exam was another failure for me.",

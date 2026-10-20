@@ -6,7 +6,50 @@
   "boxes": [
     {
       "meaning": "ease, lighten pain or burden",
-      "english": ["ease", "lighten", "alleviate", "deaden", "relieve", "lessen", "lift"],
+      "english": [
+        {
+          "id": "ru2t2bym",
+          "word": "ease",
+          "meaning": "relieve, ease",
+          "note": "Use this as the all-purpose verb for reducing pain, worry, or agitation."
+        },
+        {
+          "id": "1f9weokx",
+          "word": "lighten",
+          "meaning": "reduce burden",
+          "note": "This is the all-purpose choice for reducing a burden, hardship, or weight."
+        },
+        {
+          "id": "alvov7nq",
+          "word": "alleviate",
+          "meaning": "reduce pain or difficulty",
+          "note": "This is the all-purpose choice for making pain, difficulty, or a burden less severe."
+        },
+        {
+          "id": "ql608bmn",
+          "word": "deaden",
+          "meaning": "muffle, dull, numb",
+          "note": "Use this for making pain, discomfort, or another felt effect less severe; it is the all-purpose choice for that meaning."
+        },
+        {
+          "id": "xbjj377n",
+          "word": "relieve",
+          "meaning": "ease physical pain",
+          "note": "Use this for reducing physical pain or discomfort rather than easing worry."
+        },
+        {
+          "id": "8dlovygb",
+          "word": "lessen",
+          "meaning": "make less; reduce",
+          "note": "Use this specifically for lessening a burden, pain, severity, or punishment."
+        },
+        {
+          "id": "3831u5mr",
+          "word": "lift",
+          "meaning": "ease; reduce pressure",
+          "note": "Use this when lifting means reducing pressure, stress, tension, or another burden."
+        }
+      ],
       "examples": [
         {
           "english": "This medicine can ease my headache.",

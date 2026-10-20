@@ -6,7 +6,15 @@
   "boxes": [
     {
       "meaning": "number of significant digits",
-      "english": ["precision"],
+      "english": [
+        {
+          "id": "m7hycar8",
+          "word": "precision",
+          "meaning": "number of significant digits",
+          "register": "technical",
+          "note": "Use this when precision means how many significant digits a measured value reliably contains."
+        }
+      ],
       "register": "technical",
       "examples": [
         {

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "nuclear family",
-      "english": ["nuclear"],
+      "english": [
+        {
+          "id": "9insr6do",
+          "word": "nuclear",
+          "meaning": "nuclear family",
+          "note": "Use this specifically for a nuclear family rather than an extended family."
+        }
+      ],
       "examples": [
         {
           "english": "The four of us are a typical nuclear family and do not live with our elders.",

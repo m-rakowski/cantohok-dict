@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "calm, peace",
-      "english": ["calmness", "tranquility"],
+      "english": [
+        {
+          "id": "zp4s8q65",
+          "word": "calmness",
+          "meaning": "state of calm",
+          "note": "This is the all-purpose noun for a state of calm, especially emotional or general calm."
+        },
+        {
+          "id": "kxvyum1h",
+          "word": "tranquility",
+          "meaning": "peaceful calm",
+          "note": "Use this as the all-purpose choice for a calm state, especially inner or emotional calm."
+        }
+      ],
       "examples": [
         {
           "english": "I finally regained my calmness.",

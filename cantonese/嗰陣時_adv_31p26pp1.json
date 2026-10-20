@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "at that time, back then",
-      "english": ["whilst", "then"],
+      "english": [
+        {
+          "id": "ggigw20t",
+          "word": "whilst",
+          "meaning": "while; during that time",
+          "note": "This is the all-purpose choice for “during that time” in everyday Cantonese."
+        },
+        {
+          "id": "3ynd48dk",
+          "word": "then",
+          "meaning": "at that time",
+          "register": "colloquial",
+          "note": "Use this when “then” refers to a particular time in the past, rather than to what happens next."
+        }
+      ],
       "examples": [
         {
           "english": "I was still living in Mong Kok whilst you were studying abroad.",

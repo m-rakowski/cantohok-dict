@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "popular, in fashion",
-      "english": ["fashionable", "current"],
+      "english": [
+        {
+          "id": "zow1pdgc",
+          "word": "fashionable",
+          "meaning": "in fashion; stylish",
+          "note": "Use 流行 when something is widely popular or current, including a style, idea, or philosophy."
+        },
+        {
+          "id": "s5li43ex",
+          "word": "current",
+          "meaning": "current; in circulation",
+          "note": "Pick this when “current” means popular or prevalent at the moment."
+        }
+      ],
       "examples": [
         {
           "english": "Eating plant-based meat is fashionable now.",

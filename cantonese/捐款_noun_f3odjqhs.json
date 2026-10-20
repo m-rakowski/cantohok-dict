@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "money donation",
-      "english": ["contribution", "donation", "charity"],
+      "english": [
+        {
+          "id": "b7gy2dka",
+          "word": "contribution",
+          "meaning": "money donation",
+          "note": "Use 捐款 specifically for money given to a cause or people in need."
+        },
+        {
+          "id": "sa1wki8y",
+          "word": "donation",
+          "meaning": "gift/contribution for a cause",
+          "note": "Use 捐款 as the all-purpose noun for a monetary donation or contribution."
+        },
+        {
+          "id": "mrpjw4vm",
+          "word": "charity",
+          "meaning": "money or goods for the needy",
+          "note": "Use this for money donated to people in need or raised for charity."
+        }
+      ],
       "examples": [
         {
           "english": "My contribution to this disaster-relief drive was five hundred dollars.",

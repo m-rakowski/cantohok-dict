@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "separate, apart",
-      "english": ["separate", "divided"],
+      "english": [
+        {
+          "id": "l2agok9u",
+          "word": "separate",
+          "meaning": "separate from",
+          "note": "This is the all-purpose choice for things or people being apart rather than together."
+        },
+        {
+          "id": "pzcmqjt7",
+          "word": "divided",
+          "meaning": "split apart",
+          "note": "This is the all-purpose choice when things are physically separated or split apart."
+        }
+      ],
       "examples": [
         {
           "english": "You two sit in separate seats; don’t sit together.",

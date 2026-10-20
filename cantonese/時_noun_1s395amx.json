@@ -6,7 +6,15 @@
   "boxes": [
     {
       "meaning": "military time hour",
-      "english": ["hour"],
+      "english": [
+        {
+          "id": "yrz6aa0a",
+          "word": "hour",
+          "meaning": "military time hour",
+          "register": "formal",
+          "note": "Use 時 after a numeric time in formal or military-style time notation, as in 一千三百時."
+        }
+      ],
       "register": "formal",
       "examples": [
         {

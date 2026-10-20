@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "compared with A",
-      "english": ["versus", "against"],
+      "english": [
+        {
+          "id": "g9c54qal",
+          "word": "versus",
+          "meaning": "compared with",
+          "note": "Use this for an ordinary comparison rather than an adversarial matchup."
+        },
+        {
+          "id": "0wqu6670",
+          "word": "against",
+          "meaning": "versus; competing with",
+          "register": "colloquial",
+          "note": "Use 同 A 比 for comparing something against A and for competing against A; add 比賽 when the competition needs to be explicit."
+        }
+      ],
       "examples": [
         {
           "english": "This new phone has much better battery life versus the old one.",

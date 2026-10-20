@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "mysterious, secret",
-      "english": ["mysterious", "arcane"],
+      "english": [
+        {
+          "id": "j6yakr9p",
+          "word": "mysterious",
+          "meaning": "of unknown origin",
+          "note": "This is the all-purpose choice for something whose nature or qualities are unknown, including a broadly mysterious origin."
+        },
+        {
+          "id": "sz7lyctu",
+          "word": "arcane",
+          "meaning": "known by few; secret",
+          "note": "Use this when “arcane” stresses secrecy or an air of mystery rather than specialist difficulty."
+        }
+      ],
       "examples": [
         {
           "english": "The origin of this story is mysterious.",

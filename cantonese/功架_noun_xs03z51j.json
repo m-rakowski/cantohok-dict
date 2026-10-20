@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "skilled stage presence",
-      "english": ["polish", "virtuosity"],
+      "english": [
+        {
+          "id": "0azeij2a",
+          "word": "polish",
+          "meaning": "smoothness of performance",
+          "note": "Use this for the skill, finesse, and polished manner shown in a performance or presentation."
+        },
+        {
+          "id": "y3oemzaf",
+          "word": "virtuosity",
+          "meaning": "technical skill",
+          "register": "colloquial",
+          "note": "Use this mainly for a performer's impressive technique, style, and command on stage."
+        }
+      ],
       "examples": [
         {
           "english": "They showed real polish as soon as they came onstage.",

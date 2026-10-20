@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "to convey a message",
-      "english": ["convey", "communicate"],
+      "english": [
+        {
+          "id": "gq3qetez",
+          "word": "convey",
+          "meaning": "communicate, express",
+          "note": "Use 傳達 when passing information, a message, or a meaning on to someone."
+        },
+        {
+          "id": "0l4rdlwo",
+          "word": "communicate",
+          "meaning": "talk/exchange information",
+          "register": "formal",
+          "note": "Use this more formal word for transmitting a message, idea, or information rather than for ordinary conversational exchange."
+        }
+      ],
       "examples": [
         {
           "english": "Please convey the message to Ming for me.",

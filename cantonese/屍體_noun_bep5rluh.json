@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "dead body, corpse",
-      "english": ["remains", "corpse", "body"],
+      "english": [
+        {
+          "id": "kf385nbo",
+          "word": "remains",
+          "meaning": "human/animal body after death",
+          "note": "This is the all-purpose noun for the body left after a person or animal dies."
+        },
+        {
+          "id": "kaj8fx8i",
+          "word": "corpse",
+          "meaning": "dead human body",
+          "note": "This is the all-purpose choice for a dead human body."
+        },
+        {
+          "id": "bxrk9u3u",
+          "word": "body",
+          "meaning": "corpse",
+          "note": "Use this specifically when body means a dead person or animal."
+        }
+      ],
       "examples": [
         {
           "english": "The police found the remains at the scene.",

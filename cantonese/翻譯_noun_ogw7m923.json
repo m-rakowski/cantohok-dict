@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "translation",
-      "english": ["translation", "interpretation"],
+      "english": [
+        {
+          "id": "tqv87x9i",
+          "word": "translation",
+          "meaning": "language translation",
+          "note": "This is the all-purpose choice for either the act of translating or the resulting translation."
+        },
+        {
+          "id": "87258kd7",
+          "word": "interpretation",
+          "meaning": "explanation; translation",
+          "note": "Use this for the translation or translated version sense, especially when converting between languages."
+        }
+      ],
       "examples": [
         {
           "english": "I’m still working on the translation of the document.",

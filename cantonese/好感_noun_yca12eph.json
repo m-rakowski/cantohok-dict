@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "good feeling toward someone, liking",
-      "english": ["fondness", "attraction"],
+      "english": [
+        {
+          "id": "ucdr45u7",
+          "word": "fondness",
+          "meaning": "liking; affection",
+          "note": "This is the everyday noun for positive liking or a favorable feeling toward a person or thing."
+        },
+        {
+          "id": "2jqv6mie",
+          "word": "attraction",
+          "meaning": "feeling of being drawn to",
+          "note": "Use this for the personal positive feeling or liking someone develops toward a person or place."
+        }
+      ],
       "examples": [
         {
           "english": "I have quite a fondness for this restaurant.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "moving by turning over",
-      "english": ["rolling"],
+      "english": [
+        {
+          "id": "rabrnyat",
+          "word": "rolling",
+          "meaning": "moving by turning over",
+          "note": "Use this when something moves by turning over and over, especially in descriptive or technical contexts."
+        }
+      ],
       "examples": [
         {
           "english": "The ball kept rolling down the slope and would not stop.",

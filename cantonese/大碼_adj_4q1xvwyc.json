@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "large size",
-      "english": ["oversize", "large"],
+      "english": [
+        {
+          "id": "zd3z4yfg",
+          "word": "oversize",
+          "meaning": "larger than normal",
+          "note": "Use this for clothing, uniforms, and other products described by size categories, especially when they are made in a large or oversized size."
+        },
+        {
+          "id": "51zukzi1",
+          "word": "large",
+          "meaning": "size large (clothing, etc.)",
+          "note": "Use this for a manufactured size such as clothing, shoes, or other standardized products."
+        }
+      ],
       "examples": [
         {
           "english": "I need an oversize uniform for work.",

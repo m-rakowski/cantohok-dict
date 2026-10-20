@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "hospital specialist doctor",
-      "english": ["consultant"],
+      "english": [
+        {
+          "id": "u4uws9xq",
+          "word": "consultant",
+          "meaning": "hospital specialist doctor",
+          "note": "Use this specifically for a senior hospital specialist doctor in the medical hierarchy."
+        }
+      ],
       "examples": [
         {
           "english": "I have to go to the hospital tomorrow to see the consultant for a follow-up appointment.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "the process of doing the verb",
-      "english": ["climb", "attainment"],
+      "english": [
+        {
+          "id": "849ihpds",
+          "word": "climb",
+          "meaning": "an ascent",
+          "note": "Use this pattern for the process of getting to a higher place, such as 上去嘅過程."
+        },
+        {
+          "id": "fs4zf4gk",
+          "word": "attainment",
+          "meaning": "achieving, obtaining",
+          "note": "Use this noun construction when referring to the act or process of attaining something rather than the result."
+        }
+      ],
       "examples": [
         {
           "english": "The climb up the mountain is really quite tough.",

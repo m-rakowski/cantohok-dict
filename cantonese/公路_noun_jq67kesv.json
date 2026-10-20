@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "highway, public road",
-      "english": ["highway", "route"],
+      "english": [
+        {
+          "id": "1bqwpm0y",
+          "word": "highway",
+          "meaning": "main public road",
+          "note": "This is the all-purpose Cantonese noun for a main public road or highway."
+        },
+        {
+          "id": "7ll1hg40",
+          "word": "route",
+          "meaning": "road or highway",
+          "note": "Use this specifically for a public road or highway, including a numbered highway route."
+        }
+      ],
       "examples": [
         {
           "english": "I drive along this highway to work every morning.",

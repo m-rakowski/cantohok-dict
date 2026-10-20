@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "disconnect from power",
-      "english": ["unplug"],
+      "english": [
+        {
+          "id": "iext22yc",
+          "word": "unplug",
+          "meaning": "disconnect from power",
+          "note": "This is the all-purpose choice for disconnecting a device from an electrical socket."
+        }
+      ],
       "examples": [
         {
           "english": "Remember to unplug the appliance before leaving home.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "body",
-      "english": ["body", "flesh"],
+      "english": [
+        {
+          "id": "6ccmufdy",
+          "word": "body",
+          "meaning": "human or animal body",
+          "note": "This is the all-purpose choice for a human or animal body, including the fleshly body contrasted with the soul and the torso in contexts such as boxing."
+        },
+        {
+          "id": "iz4qu6j0",
+          "word": "flesh",
+          "meaning": "human body",
+          "note": "Use 身體 when “flesh” means the human body as a whole rather than its tissue or meat."
+        }
+      ],
       "examples": [
         {
           "english": "Exercise can make the body healthier.",
@@ -22,7 +35,14 @@
     },
     {
       "meaning": "health",
-      "english": ["health"],
+      "english": [
+        {
+          "id": "3grbavbk",
+          "word": "health",
+          "meaning": "wellness, absence of illness",
+          "note": "Use this for physical health understood as the condition of someone’s body, especially in everyday questions about whether someone is well."
+        }
+      ],
       "examples": [
         {
           "english": "Has your health recovered yet?",

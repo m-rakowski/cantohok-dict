@@ -6,7 +6,40 @@
   "boxes": [
     {
       "meaning": "find, locate",
-      "english": ["locate", "detect", "spot", "land", "account"],
+      "english": [
+        {
+          "id": "cgnpuqca",
+          "word": "locate",
+          "meaning": "find the location",
+          "note": "Use this as the all-purpose spoken way to say that you find where something is."
+        },
+        {
+          "id": "1r6o068i",
+          "word": "detect",
+          "meaning": "discover by search",
+          "note": "This is the all-purpose choice when you find something by looking or searching for it."
+        },
+        {
+          "id": "v2pm04rc",
+          "word": "spot",
+          "meaning": "notice; see",
+          "note": "Use this when spot means find or locate something rather than merely see it."
+        },
+        {
+          "id": "krzv23cf",
+          "word": "land",
+          "meaning": "secure / get",
+          "register": "colloquial",
+          "note": "Use this everyday verb when someone successfully gets or secures something such as a job."
+        },
+        {
+          "id": "saod69mu",
+          "word": "account",
+          "meaning": "be found; be present",
+          "register": "colloquial",
+          "note": "Use 搵到 when people or things have been located or found, as in all passengers being accounted for."
+        }
+      ],
       "examples": [
         {
           "english": "I finally managed to locate the restaurant.",

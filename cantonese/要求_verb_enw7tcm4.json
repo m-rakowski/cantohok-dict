@@ -6,7 +6,39 @@
   "boxes": [
     {
       "meaning": "to demand, to ask someone to do something",
-      "english": ["demand", "expect", "desire", "request", "require"],
+      "english": [
+        {
+          "id": "39w2jkrj",
+          "word": "demand",
+          "meaning": "demand forcefully",
+          "note": "Use this as the all-purpose verb for firmly requesting something, claiming something is owed, or imposing a requirement on someone."
+        },
+        {
+          "id": "62xy7673",
+          "word": "expect",
+          "meaning": "demand, require",
+          "note": "Use this when “expect” means imposing a duty or requirement rather than predicting an event."
+        },
+        {
+          "id": "a3yfpl38",
+          "word": "desire",
+          "meaning": "request, ask",
+          "note": "Use this when putting a request to someone or asking them to do something."
+        },
+        {
+          "id": "0hfrll6m",
+          "word": "request",
+          "meaning": "ask for something",
+          "register": "formal",
+          "note": "Use this for a formal or firm request for something or for someone to do something."
+        },
+        {
+          "id": "rwi3p048",
+          "word": "require",
+          "meaning": "make necessary / oblige",
+          "note": "Use this when a person or authority demands something or insists that someone do it, rather than merely stating that it is necessary."
+        }
+      ],
       "examples": [
         {
           "english": "The company's demand is that I submit the report today.",

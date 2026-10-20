@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "spread",
-      "english": ["proliferate", "bloom"],
+      "english": [
+        {
+          "id": "j8vzo32l",
+          "word": "proliferate",
+          "meaning": "increase rapidly; multiply",
+          "note": "Use this when the increase involves spreading across an area, especially for problems, disease, fire, or bad habits."
+        },
+        {
+          "id": "i5otw1gt",
+          "word": "bloom",
+          "meaning": "spread gradually",
+          "note": "Use this when something gradually spreads across an area, such as shadows, fire, or disease."
+        }
+      ],
       "examples": [
         {
           "english": "This bad habit can proliferate quickly from person to person.",

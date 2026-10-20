@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "listener, audience",
-      "english": ["listener", "audience"],
+      "english": [
+        {
+          "id": "w9o0m4vx",
+          "word": "listener",
+          "meaning": "person who listens",
+          "note": "This is the all-purpose noun for someone listening to a speech, programme, or other broadcast."
+        },
+        {
+          "id": "a4yv33ku",
+          "word": "audience",
+          "meaning": "people watching/listening",
+          "note": "Use this when the audience is defined as people listening to a speech, broadcast, or audio performance rather than watching."
+        }
+      ],
       "examples": [
         {
           "english": "The listener called in to share their opinion about this episode.",

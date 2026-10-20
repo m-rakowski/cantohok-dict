@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "care about someone",
-      "english": ["care", "concern"],
+      "english": [
+        {
+          "id": "v7i68adl",
+          "word": "care",
+          "meaning": "not mind; not care",
+          "note": "Use this when caring about someone or something means showing concern for their welfare or feelings."
+        },
+        {
+          "id": "6whmikyc",
+          "word": "concern",
+          "meaning": "be interested in",
+          "note": "Use this all-purpose verb when someone cares about a person or their welfare."
+        }
+      ],
       "examples": [
         {
           "english": "I really care about your feelings.",

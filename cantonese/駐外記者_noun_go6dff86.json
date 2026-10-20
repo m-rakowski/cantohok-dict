@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "news correspondent",
-      "english": ["correspondent"],
+      "english": [
+        {
+          "id": "f2ho536w",
+          "word": "correspondent",
+          "meaning": "news correspondent",
+          "note": "Use this when the news correspondent is stationed overseas or away from the main newsroom."
+        }
+      ],
       "examples": [
         {
           "english": "Our overseas correspondent sends reports back from Tokyo every day.",

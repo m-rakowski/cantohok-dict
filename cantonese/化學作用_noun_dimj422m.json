@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "applied chemistry of a substance",
-      "english": ["chemistry"],
+      "english": [
+        {
+          "id": "dg7212mb",
+          "word": "chemistry",
+          "meaning": "applied chemistry of a substance",
+          "note": "Use this for the chemical action or processes involved in a particular substance or organism rather than for chemistry as an academic subject."
+        }
+      ],
       "examples": [
         {
           "english": "The chemistry of this medicine causes a reaction in the stomach.",

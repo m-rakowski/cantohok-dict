@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "main text",
-      "english": ["body"],
+      "english": [
+        {
+          "id": "hm09a5h4",
+          "word": "body",
+          "meaning": "main text",
+          "note": "Use this for the main text of a letter, message, or document, excluding its heading, greeting, or signature."
+        }
+      ],
       "examples": [
         {
           "english": "The body of this letter is written very clearly.",

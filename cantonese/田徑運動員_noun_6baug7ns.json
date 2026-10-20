@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "track-and-field competitor",
-      "english": ["athlete"],
+      "english": [
+        {
+          "id": "nuby456u",
+          "word": "athlete",
+          "meaning": "track-and-field competitor",
+          "note": "Use this when the athlete specifically competes in track and field or related running events."
+        }
+      ],
       "examples": [
         {
           "english": "The athlete trains running every morning.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "spaghetti, pasta",
-      "english": ["spaghetti", "pasta"],
+      "english": [
+        {
+          "id": "9kqq8j0o",
+          "word": "spaghetti",
+          "meaning": "pasta strings",
+          "note": "A speaker uses this fuller form when naming the pasta or dish more explicitly than 意粉."
+        },
+        {
+          "id": "7xu2ozqi",
+          "word": "pasta",
+          "meaning": "pasta dough/noodles",
+          "note": "Use the full name when you want to specify the pasta itself rather than rely on the shorter everyday form."
+        }
+      ],
       "examples": [
         {
           "english": "I bought a pack of spaghetti to take home.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "sympathy, pity",
-      "english": ["pity", "sympathy"],
+      "english": [
+        {
+          "id": "1klgk487",
+          "word": "pity",
+          "meaning": "sympathy for suffering",
+          "note": "This is the all-purpose noun for sympathy with someone's suffering."
+        },
+        {
+          "id": "yyl5j23p",
+          "word": "sympathy",
+          "meaning": "pity for suffering",
+          "note": "This is the all-purpose noun for feeling pity or sorrow for someone who is suffering."
+        }
+      ],
       "examples": [
         {
           "english": "I really pity him; he has had to suffer so much at such a young age.",

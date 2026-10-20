@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "plaster cast",
-      "english": ["cast", "plaster"],
+      "english": [
+        {
+          "id": "dx8qex9f",
+          "word": "cast",
+          "meaning": "plaster cast",
+          "note": "Use this in a medical context for the plaster cast supporting a broken bone."
+        },
+        {
+          "id": "9kem6hs9",
+          "word": "plaster",
+          "meaning": "plaster cast",
+          "note": "In a medical context, this commonly refers to the plaster cast put on an injured limb."
+        }
+      ],
       "examples": [
         {
           "english": "The doctor said I need a cast.",

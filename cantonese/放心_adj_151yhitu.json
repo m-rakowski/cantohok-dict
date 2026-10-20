@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "at ease, not worried",
-      "english": ["relieved", "comfortable"],
+      "english": [
+        {
+          "id": "zs0kptac",
+          "word": "relieved",
+          "meaning": "feeling relief",
+          "note": "This is the all-purpose choice for feeling reassured once a worry is gone."
+        },
+        {
+          "id": "ywl5zqus",
+          "word": "comfortable",
+          "meaning": "confident, not worried",
+          "note": "Use this when comfortable means reassured or not worried, rather than for physical comfort."
+        }
+      ],
       "examples": [
         {
           "english": "I’m really relieved now that the exam is finally over.",

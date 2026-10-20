@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "A is the embodiment of B",
-      "english": ["personify", "embody"],
+      "english": [
+        {
+          "id": "w0syujg5",
+          "word": "personify",
+          "meaning": "embody; be a perfect example of",
+          "note": "Use this construction when a person or thing embodies a quality and is its perfect example."
+        },
+        {
+          "id": "4i0h4b6a",
+          "word": "embody",
+          "meaning": "personify; take physical form",
+          "note": "Use this when a person or thing literally personifies or seems to be the incarnation of a quality B."
+        }
+      ],
       "examples": [
         {
           "english": "To personify perseverance, look no further than my mum.",

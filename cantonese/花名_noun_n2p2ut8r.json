@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "nickname",
-      "english": ["nickname", "name"],
+      "english": [
+        {
+          "id": "55wf45os",
+          "word": "nickname",
+          "meaning": "invented familiar name",
+          "note": "This is the all-purpose spoken Cantonese word for an invented, familiar, shortened, or diminutive name."
+        },
+        {
+          "id": "t1xezni8",
+          "word": "name",
+          "meaning": "insulting name",
+          "note": "Use this for a nickname used mockingly or as an insult, rather than an official name."
+        }
+      ],
       "examples": [
         {
           "english": "When I was little, my classmates gave me a nickname.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "first choice",
-      "english": ["pick", "preference"],
+      "english": [
+        {
+          "id": "hgmxwqiy",
+          "word": "pick",
+          "meaning": "best one",
+          "note": "Use this for the option or item regarded as the best or chosen first."
+        },
+        {
+          "id": "6jkahuca",
+          "word": "preference",
+          "meaning": "liking / choice",
+          "note": "Use this when the preference means the option someone would choose first."
+        }
+      ],
       "examples": [
         {
           "english": "This hotel is my first pick.",

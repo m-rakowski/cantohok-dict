@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "analysis",
-      "english": ["analysis", "dissection"],
+      "english": [
+        {
+          "id": "txjeq953",
+          "word": "analysis",
+          "meaning": "breakdown for study",
+          "note": "This is the all-purpose choice for breaking a complex subject into parts for study."
+        },
+        {
+          "id": "3x1rv962",
+          "word": "dissection",
+          "meaning": "careful detailed analysis",
+          "note": "Use 分析 for a careful, detailed examination of an issue; it is the all-purpose choice for the figurative sense."
+        }
+      ],
       "examples": [
         {
           "english": "This analysis breaks a complex problem into parts for study.",

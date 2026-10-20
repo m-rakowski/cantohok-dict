@@ -6,7 +6,56 @@
   "boxes": [
     {
       "meaning": "ordinary, average",
-      "english": ["everyday", "ordinary", "conventional", "unexceptional", "regular", "common", "average", "basic"],
+      "english": [
+        {
+          "id": "653lreez",
+          "word": "everyday",
+          "meaning": "ordinary, commonplace",
+          "note": "Use this as the all-purpose choice for something ordinary or suitable for normal use rather than special occasions."
+        },
+        {
+          "id": "s42p60k2",
+          "word": "ordinary",
+          "meaning": "common, unremarkable",
+          "note": "This is the all-purpose choice for something ordinary, common, or unexceptional."
+        },
+        {
+          "id": "j8ypsevm",
+          "word": "conventional",
+          "meaning": "ordinary, commonplace",
+          "note": "This is the all-purpose everyday choice for something ordinary or commonplace."
+        },
+        {
+          "id": "w1gzxyqr",
+          "word": "unexceptional",
+          "meaning": "ordinary; not special",
+          "note": "This is the all-purpose choice for something ordinary and not special."
+        },
+        {
+          "id": "4u4cwndi",
+          "word": "regular",
+          "meaning": "normal, ordinary",
+          "note": "Use this as the all-purpose choice when “regular” means ordinary, normal, or not special."
+        },
+        {
+          "id": "0y7i6fyk",
+          "word": "common",
+          "meaning": "ordinary, low-class",
+          "note": "Use this for something ordinary or unremarkable, not specifically for something vulgar or low-class."
+        },
+        {
+          "id": "kbhx2424",
+          "word": "average",
+          "meaning": "typical",
+          "note": "Use this for an ordinary or representative person, family, or thing rather than a calculated mean."
+        },
+        {
+          "id": "kniykisa",
+          "word": "basic",
+          "meaning": "boring; unoriginal",
+          "note": "Use this for the social or aesthetic sense of “basic” as generic, mainstream, or unimpressive."
+        }
+      ],
       "examples": [
         {
           "english": "This shirt is very ordinary and perfect for everyday wear.",

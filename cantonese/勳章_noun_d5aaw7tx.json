@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "medal of honour",
-      "english": ["medal", "decoration"],
+      "english": [
+        {
+          "id": "rulzrvxr",
+          "word": "medal",
+          "meaning": "award medal",
+          "note": "Use this for a military, state, or other honorific decoration rather than a competition prize."
+        },
+        {
+          "id": "5bzcaedd",
+          "word": "decoration",
+          "meaning": "medal or honor",
+          "note": "Use this specifically for a medal or order worn as an official mark of honour."
+        }
+      ],
       "examples": [
         {
           "english": "He was awarded a medal for his many years of service.",

@@ -6,7 +6,39 @@
   "boxes": [
     {
       "meaning": "meet requirements, match",
-      "english": ["conform", "fit", "adhere", "meet", "reflect"],
+      "english": [
+        {
+          "id": "tm52csdh",
+          "word": "conform",
+          "meaning": "meet specifications",
+          "note": "This is the all-purpose choice when something meets stated requirements, rules, or specifications."
+        },
+        {
+          "id": "7m4nfthz",
+          "word": "fit",
+          "meaning": "agree with",
+          "note": "Use this when something agrees with, conforms to, or matches a standard or usage."
+        },
+        {
+          "id": "8w64lgvs",
+          "word": "adhere",
+          "meaning": "follow; comply with",
+          "note": "Use this when something is in accordance with, consistent with, or agrees with a rule, standard, or requirement."
+        },
+        {
+          "id": "pqkctxp6",
+          "word": "meet",
+          "meaning": "satisfy requirements",
+          "note": "Use this when a proposal, condition, or requirement satisfies a standard or requirement."
+        },
+        {
+          "id": "x5p98mqn",
+          "word": "reflect",
+          "meaning": "match or correspond",
+          "register": "formal",
+          "note": "Use this when something agrees with or matches a standard, pattern, or actual usage rather than merely showing it."
+        }
+      ],
       "examples": [
         {
           "english": "This report needs to conform to the company's safety requirements.",

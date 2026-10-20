@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "poisonous",
-      "english": ["venomous", "poisonous"],
+      "english": [
+        {
+          "id": "imigcfmq",
+          "word": "venomous",
+          "meaning": "poisonous, venom-producing",
+          "register": "colloquial",
+          "note": "Use this shorter colloquial form in compounds such as 毒蛇 or when casually describing something as poisonous or a person as vicious."
+        },
+        {
+          "id": "uqor3x67",
+          "word": "poisonous",
+          "meaning": "venomous animal or bite",
+          "register": "colloquial",
+          "note": "Use this especially for a venomous animal, bite, or sting, often attributively as in 毒蛇."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

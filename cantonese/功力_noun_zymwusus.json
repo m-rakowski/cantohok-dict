@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "skill, level of expertise",
-      "english": ["artistry", "mastery"],
+      "english": [
+        {
+          "id": "4uhpv6ie",
+          "word": "artistry",
+          "meaning": "artistic skill",
+          "note": "This is the all-purpose spoken choice for someone’s artistic skill, especially in performance or visual art."
+        },
+        {
+          "id": "d6zkmjh5",
+          "word": "mastery",
+          "meaning": "skill, expertise",
+          "note": "This is the all-purpose choice for someone’s level of skill or expertise, especially in a practical or artistic field."
+        }
+      ],
       "examples": [
         {
           "english": "Their artistry on the guitar is really impressive.",

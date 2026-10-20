@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "news report",
-      "english": ["bulletin", "journalism"],
+      "english": [
+        {
+          "id": "yttcu5k0",
+          "word": "bulletin",
+          "meaning": "news bulletin",
+          "note": "For a news bulletin or short news report, this is the all-purpose choice."
+        },
+        {
+          "id": "sf6sntas",
+          "word": "journalism",
+          "meaning": "news reporting/writing",
+          "note": "Use this when focusing specifically on reporting and presenting news rather than the wider journalism profession."
+        }
+      ],
       "examples": [
         {
           "english": "TV is broadcasting the latest bulletin right now.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "unhewn mineral mass",
-      "english": ["rock"],
+      "english": [
+        {
+          "id": "ziwudoja",
+          "word": "rock",
+          "meaning": "unhewn mineral mass",
+          "note": "This is the all-purpose noun for natural rock, an outcrop, or a stone thrown at something."
+        }
+      ],
       "examples": [
         {
           "english": "That rock is so big we can't move it.",

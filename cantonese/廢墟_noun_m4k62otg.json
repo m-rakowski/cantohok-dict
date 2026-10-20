@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "ruins",
-      "english": ["ruin", "desolation"],
+      "english": [
+        {
+          "id": "8nz1rlmc",
+          "word": "ruin",
+          "meaning": "destroyed remains",
+          "note": "This is the all-purpose noun for the remains of a destroyed or badly damaged building or site."
+        },
+        {
+          "id": "hl5vjyet",
+          "word": "desolation",
+          "meaning": "waste, deserted place",
+          "note": "Use this when the desolate place is specifically a site of ruins."
+        }
+      ],
       "examples": [
         {
           "english": "That old castle is now nothing but a ruin.",

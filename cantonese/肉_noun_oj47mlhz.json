@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "meat, flesh",
-      "english": ["meat", "flesh"],
+      "english": [
+        {
+          "id": "bages0np",
+          "word": "meat",
+          "meaning": "animal flesh for food",
+          "note": "This is the all-purpose word for animal flesh as food and, with context such as 一種, a particular type of meat."
+        },
+        {
+          "id": "xwus542w",
+          "word": "flesh",
+          "meaning": "body tissue",
+          "note": "Use 肉 as the all-purpose choice for bodily soft tissue or animal meat; the context makes the sense clear."
+        }
+      ],
       "examples": [
         {
           "english": "I don't eat raw meat.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "baby/incontinence garment",
-      "english": ["diaper"],
+      "english": [
+        {
+          "id": "0x381yu8",
+          "word": "diaper",
+          "meaning": "baby/incontinence garment",
+          "note": "Use this when you specifically mean a disposable paper diaper."
+        }
+      ],
       "examples": [
         {
           "english": "When I take my son out, I use a disposable diaper.",

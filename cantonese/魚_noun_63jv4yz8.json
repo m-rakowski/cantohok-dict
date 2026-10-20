@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "aquatic vertebrate",
-      "english": ["fish"],
+      "english": [
+        {
+          "id": "0txqnqvr",
+          "word": "fish",
+          "meaning": "aquatic vertebrate",
+          "note": "This is the all-purpose word for the animal and for fish as food when the context is clear."
+        }
+      ],
       "examples": [
         {
           "english": "The fish is swimming in the fish tank.",

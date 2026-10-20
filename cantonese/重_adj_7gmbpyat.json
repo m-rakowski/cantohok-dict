@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "heavy",
-      "english": ["heavy"],
+      "english": [
+        {
+          "id": "gmd3phub",
+          "word": "heavy",
+          "meaning": "having great weight",
+          "note": "This is the all-purpose choice for literal weight and for things felt as physically or emotionally heavy, including sleepy eyelids and a forceful blow."
+        }
+      ],
       "examples": [
         {
           "english": "This bag of rice is heavy.",
@@ -17,7 +24,20 @@
     },
     {
       "meaning": "strong (accent)",
-      "english": ["broad", "thick"],
+      "english": [
+        {
+          "id": "y551ojxh",
+          "word": "broad",
+          "meaning": "strong regional accent",
+          "note": "Use 重 specifically for a strong regional accent, as in 口音好重."
+        },
+        {
+          "id": "d9c2l0tb",
+          "word": "thick",
+          "meaning": "thick accent; hard to understand",
+          "note": "Use this with 口音 for an accent that is strongly marked or difficult to understand."
+        }
+      ],
       "note": "Used with 口音 for an accent.",
       "examples": [
         {

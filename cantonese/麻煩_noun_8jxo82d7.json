@@ -7,19 +7,86 @@
     {
       "meaning": "trouble, hassle, nuisance",
       "english": [
-        "bother",
-        "annoyance",
-        "nuisance",
-        "imposition",
-        "hindrance",
-        "grief",
-        "irritation",
-        "problem",
-        "discomfort",
-        "headache",
-        "displeasure",
-        "difficulty",
-        "trial"
+        {
+          "id": "py0y7w3r",
+          "word": "bother",
+          "meaning": "trouble, inconvenience",
+          "note": "This is the all-purpose noun for trouble or inconvenience, including saying that something is no bother."
+        },
+        {
+          "id": "59vx2wsb",
+          "word": "annoyance",
+          "meaning": "thing that annoys",
+          "note": "This is the all-purpose choice for an annoying inconvenience or a troublesome incident."
+        },
+        {
+          "id": "83b0wi4q",
+          "word": "nuisance",
+          "meaning": "annoyance; inconvenience",
+          "note": "This is the all-purpose choice for an inconvenience or a troublesome thing; an annoying person is more specifically a 麻煩友."
+        },
+        {
+          "id": "eoqyo2ez",
+          "word": "imposition",
+          "meaning": "unwelcome burden or obligation",
+          "note": "Use this as the all-purpose choice for an unwelcome bother, demand, or presence."
+        },
+        {
+          "id": "ftx8wdf6",
+          "word": "hindrance",
+          "meaning": "obstacle; something that hinders",
+          "note": "Use this when the hindrance is framed as trouble or inconvenience caused to someone, rather than as a physical or abstract obstacle."
+        },
+        {
+          "id": "6jxnw07u",
+          "word": "grief",
+          "meaning": "trouble; annoyance",
+          "note": "Use this when “grief” means trouble or annoyance caused by a person or situation."
+        },
+        {
+          "id": "qo5gciex",
+          "word": "irritation",
+          "meaning": "annoying thing",
+          "note": "This is the all-purpose everyday choice for a nuisance, annoyance, or troublesome act or thing."
+        },
+        {
+          "id": "v1ivf447",
+          "word": "problem",
+          "meaning": "difficulty to solve",
+          "note": "Use this for trouble or inconvenience, especially when the problem is causing practical hassle."
+        },
+        {
+          "id": "jvj7nfmr",
+          "word": "discomfort",
+          "meaning": "annoyance or inconvenience",
+          "register": "colloquial",
+          "note": "Use this colloquial all-purpose choice for something that is a nuisance or causes annoyance."
+        },
+        {
+          "id": "irc9joz7",
+          "word": "headache",
+          "meaning": "nuisance; problem",
+          "note": "Use this for an unpleasant nuisance or problem that causes trouble."
+        },
+        {
+          "id": "kk2oazbe",
+          "word": "displeasure",
+          "meaning": "cause of annoyance",
+          "note": "Use this for a troublesome matter that causes irritation rather than for the feeling itself."
+        },
+        {
+          "id": "rakhjdsn",
+          "word": "difficulty",
+          "meaning": "problem / obstacle",
+          "register": "colloquial",
+          "note": "Use this for a colloquial hassle or trouble that makes achieving something more difficult."
+        },
+        {
+          "id": "r5dnpg5z",
+          "word": "trial",
+          "meaning": "ordeal; nuisance",
+          "note": "Use 麻煩 for the nuisance or troublesome-person sense of “a trial,” rather than for a religious or literary ordeal."
+        }
       ],
       "examples": [
         {
@@ -91,7 +158,33 @@
     },
     {
       "meaning": "being in trouble, a difficult spot",
-      "english": ["pickle", "trouble", "predicament", "jam"],
+      "english": [
+        {
+          "id": "uhowm4h3",
+          "word": "pickle",
+          "meaning": "trouble; difficult situation",
+          "note": "Use 麻煩 for the figurative sense of being in trouble or a difficult situation."
+        },
+        {
+          "id": "ge4r7ec4",
+          "word": "trouble",
+          "meaning": "dangerous situation",
+          "note": "Use this for being in a difficult situation or for extra inconvenience; in a legal context it can mean being in trouble with the authorities without naming the legal issue."
+        },
+        {
+          "id": "yf4y7jqo",
+          "word": "predicament",
+          "meaning": "difficult situation",
+          "register": "colloquial",
+          "note": "Use this colloquially when the predicament is described as trouble or an immediate problem."
+        },
+        {
+          "id": "lda3srmc",
+          "word": "jam",
+          "meaning": "difficult situation",
+          "note": "Use this for being in trouble or having a difficult situation to deal with."
+        }
+      ],
       "examples": [
         {
           "english": "I'm really in a pickle this time—I lost my passport.",

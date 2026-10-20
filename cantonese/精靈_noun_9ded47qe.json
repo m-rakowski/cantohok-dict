@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "fairy, elf",
-      "english": ["fairy"],
+      "english": [
+        {
+          "id": "ljdqvlwj",
+          "word": "fairy",
+          "meaning": "mythical magical being",
+          "note": "Use this as the all-purpose Cantonese noun for a fairy or elf-like magical being."
+        }
+      ],
       "examples": [
         {
           "english": "That book is about a fairy living in the forest.",
@@ -17,7 +24,14 @@
     },
     {
       "meaning": "software setup wizard",
-      "english": ["wizard"],
+      "english": [
+        {
+          "id": "1pluzgx1",
+          "word": "wizard",
+          "meaning": "computer setup wizard",
+          "note": "Use this for a software wizard that guides the user through a complicated setup."
+        }
+      ],
       "examples": [
         {
           "english": "This wizard guides you through installing the software.",

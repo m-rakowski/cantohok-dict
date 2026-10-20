@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "to add a remark",
-      "english": ["add"],
+      "english": [
+        {
+          "id": "jlxhiz26",
+          "word": "add",
+          "meaning": "say additionally",
+          "note": "Use this when adding further information or appending a remark to what was said."
+        }
+      ],
       "examples": [
         {
           "english": "I’ll add one thing: remember to bring an umbrella.",
@@ -17,7 +24,14 @@
     },
     {
       "meaning": "to replenish",
-      "english": ["supply"],
+      "english": [
+        {
+          "id": "jgdlm88j",
+          "word": "supply",
+          "meaning": "fill up",
+          "note": "Use 補充 when replenishing something so that it remains full or adequate."
+        }
+      ],
       "examples": [
         {
           "english": "The water is all gone, so we need to supply more before there is enough.",

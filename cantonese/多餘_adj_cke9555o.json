@@ -6,7 +6,56 @@
   "boxes": [
     {
       "meaning": "unnecessary, extra",
-      "english": ["needless", "redundant", "superfluous", "spare", "unnecessary", "extra", "spurious", "stray"],
+      "english": [
+        {
+          "id": "9yzcjbvl",
+          "word": "needless",
+          "meaning": "unnecessary",
+          "note": "Use this when the thing is superfluous or an unwanted extra, rather than merely not required."
+        },
+        {
+          "id": "gmaurz9k",
+          "word": "redundant",
+          "meaning": "unneeded; extra",
+          "note": "This is the all-purpose choice for something unnecessary or extra, including words that add no useful content."
+        },
+        {
+          "id": "sut8npyi",
+          "word": "superfluous",
+          "meaning": "more than needed",
+          "note": "This is the all-purpose choice for something unnecessary or extra."
+        },
+        {
+          "id": "0k642hug",
+          "word": "spare",
+          "meaning": "extra; not needed",
+          "note": "This is the all-purpose choice for something extra, unnecessary, or not wanted, such as 多餘時間."
+        },
+        {
+          "id": "f1ulcur1",
+          "word": "unnecessary",
+          "meaning": "not needed; not necessary",
+          "note": "Use 多餘 when something is surplus or adds nothing useful, rather than simply not being required."
+        },
+        {
+          "id": "x9j0049t",
+          "word": "extra",
+          "meaning": "additional; more than needed",
+          "note": "Use this when the extra thing is surplus, unnecessary, or not wanted, rather than merely additional."
+        },
+        {
+          "id": "ytqgh8zf",
+          "word": "spurious",
+          "meaning": "unwanted; extraneous",
+          "note": "Use this when the thing is unwanted, extraneous, or getting in the way rather than fake."
+        },
+        {
+          "id": "7nui5gur",
+          "word": "stray",
+          "meaning": "misplaced, accidental",
+          "note": "Use this especially for a stray comma or other mark that should not be there because it is extra."
+        }
+      ],
       "examples": [
         {
           "english": "You don't need to buy another one; the one at home still works, so another one would be needless.",

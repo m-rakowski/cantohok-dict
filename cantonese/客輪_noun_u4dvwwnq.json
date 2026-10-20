@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "passenger ship",
-      "english": ["liner"],
+      "english": [
+        {
+          "id": "t1hb63ik",
+          "word": "liner",
+          "meaning": "passenger ship",
+          "note": "Use this for a large passenger ship, especially one operating on a regular route; use 遠洋客輪 when emphasizing an ocean liner."
+        }
+      ],
       "examples": [
         {
           "english": "This liner travels between Hong Kong and Macao every day.",

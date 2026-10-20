@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "try one's best",
-      "english": ["strain", "try"],
+      "english": [
+        {
+          "id": "p6jhf3ft",
+          "word": "strain",
+          "meaning": "make an effort, stretch oneself",
+          "note": "Use this as the all-purpose choice when someone makes a strong effort or pushes their abilities, such as trying hard to hear."
+        },
+        {
+          "id": "m500l2ex",
+          "word": "try",
+          "meaning": "try hard; make effort",
+          "note": "Use this when stressing that someone is making their maximum effort, rather than merely attempting something."
+        }
+      ],
       "examples": [
         {
           "english": "I can't hear clearly, so I have to strain to hear.",

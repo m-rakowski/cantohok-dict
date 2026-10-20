@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "hobby, liking",
-      "english": ["fondness", "love"],
+      "english": [
+        {
+          "id": "1hyaa2w7",
+          "word": "fondness",
+          "meaning": "liking; affection",
+          "note": "Use this for fondness for a subject, activity, or kind of thing, often with the sense of an interest or preference."
+        },
+        {
+          "id": "ag0up9vm",
+          "word": "love",
+          "meaning": "love of something",
+          "register": "written",
+          "note": "Use this written noun for a particular hobby, liking, or enthusiasm."
+        }
+      ],
       "examples": [
         {
           "english": "My fondness is for cooking.",

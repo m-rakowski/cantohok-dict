@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "public transport",
-      "english": ["transit", "public transport"],
+      "english": [
+        {
+          "id": "9djj6bk6",
+          "word": "transit",
+          "meaning": "public transit",
+          "note": "This is the all-purpose choice for public transit available to ordinary passengers."
+        },
+        {
+          "id": "jkp3ivrw",
+          "word": "public transport",
+          "meaning": "public transport",
+          "note": "This is the all-purpose choice for public transport when referring to the buses, trains, ferries, and other services people use."
+        }
+      ],
       "examples": [
         {
           "english": "On weekdays, I usually take public transit to work, so I don't have to drive.",

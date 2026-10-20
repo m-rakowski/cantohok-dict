@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "military unit, troops",
-      "english": ["troop", "force", "unit"],
+      "english": [
+        {
+          "id": "id1g3ca8",
+          "word": "troop",
+          "meaning": "soldiers, armed forces",
+          "note": "Use this for a specific organized military detachment or unit, including an armoured unit, rather than the armed forces in general."
+        },
+        {
+          "id": "lwbce7s9",
+          "word": "force",
+          "meaning": "military or police force",
+          "note": "Use 部隊 for an organized military force or its personnel and equipment, rather than for the police."
+        },
+        {
+          "id": "5efnedn6",
+          "word": "unit",
+          "meaning": "organized group; police/military unit",
+          "note": "Use 部隊 for an organized operational group, especially a military or police unit."
+        }
+      ],
       "examples": [
         {
           "english": "The armoured troop is in position.",

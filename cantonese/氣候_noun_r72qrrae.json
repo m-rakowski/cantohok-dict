@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "weather conditions",
-      "english": ["climate"],
+      "english": [
+        {
+          "id": "7tapylad",
+          "word": "climate",
+          "meaning": "weather conditions",
+          "note": "This is the all-purpose rendering for long-term weather conditions in a region."
+        }
+      ],
       "examples": [
         {
           "english": "Hong Kong summers are humid and hot; this climate is really hard to take.",

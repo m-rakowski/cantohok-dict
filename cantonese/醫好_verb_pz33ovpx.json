@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "cure, heal",
-      "english": ["cure", "heal"],
+      "english": [
+        {
+          "id": "1psno941",
+          "word": "cure",
+          "meaning": "heal; make better",
+          "note": "This is the all-purpose choice for restoring a person to health or bringing an illness to an end."
+        },
+        {
+          "id": "cutth8ry",
+          "word": "heal",
+          "meaning": "make better; cure",
+          "note": "This is the all-purpose choice when someone or something cures an illness or heals a wound."
+        }
+      ],
       "examples": [
         {
           "english": "This medicine can cure my stomachache quickly.",

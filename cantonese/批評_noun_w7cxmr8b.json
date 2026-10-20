@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "criticism",
-      "english": ["criticism", "stick", "knock"],
+      "english": [
+        {
+          "id": "99wkjkul",
+          "word": "criticism",
+          "meaning": "negative judgment",
+          "note": "This is the all-purpose choice for criticism as a negative judgment or critical remarks."
+        },
+        {
+          "id": "rp7harbj",
+          "word": "stick",
+          "meaning": "criticism, flak",
+          "note": "Use 批評 when “stick” means criticism or flak rather than a physical object."
+        },
+        {
+          "id": "2qv9sikk",
+          "word": "knock",
+          "meaning": "criticism",
+          "note": "Use this for criticism of a person, action, or piece of work."
+        }
+      ],
       "examples": [
         {
           "english": "You don't need to care so much about people's criticism.",

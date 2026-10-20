@@ -6,7 +6,50 @@
   "boxes": [
     {
       "meaning": "strange, odd",
-      "english": ["strange", "weird", "peculiar", "odd", "bizarre", "funny", "curious"],
+      "english": [
+        {
+          "id": "yhybh3rm",
+          "word": "strange",
+          "meaning": "odd, unusual",
+          "note": "Use 奇怪 as the all-purpose choice for something odd, unusual, or not normal."
+        },
+        {
+          "id": "9e412j7t",
+          "word": "weird",
+          "meaning": "strange; bizarre",
+          "note": "Use this as the all-purpose way to say that a person, thing, or situation is strange."
+        },
+        {
+          "id": "06kra70z",
+          "word": "peculiar",
+          "meaning": "strange; odd",
+          "note": "Use this as the all-purpose spoken equivalent of “strange” or “odd.”"
+        },
+        {
+          "id": "1o8pdhbo",
+          "word": "odd",
+          "meaning": "strange, unusual",
+          "note": "This is the all-purpose choice for something strange, unusual, or unexpected."
+        },
+        {
+          "id": "fl9jbbg8",
+          "word": "bizarre",
+          "meaning": "strangely unusual",
+          "note": "Use this for something unusually strange, especially when expressing surprise or puzzlement."
+        },
+        {
+          "id": "bl7lrxi0",
+          "word": "funny",
+          "meaning": "strange, odd",
+          "note": "Use 奇怪 for a general statement that something is strange or unusual."
+        },
+        {
+          "id": "pwic3qgr",
+          "word": "curious",
+          "meaning": "strange, unusual",
+          "note": "Use this when “curious” means strange or unusual rather than inquisitive."
+        }
+      ],
       "examples": [
         {
           "english": "This coffee tastes sour; it’s strange.",

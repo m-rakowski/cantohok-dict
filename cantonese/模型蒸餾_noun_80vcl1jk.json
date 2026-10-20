@@ -6,7 +6,15 @@
   "boxes": [
     {
       "meaning": "model distillation",
-      "english": ["distillation"],
+      "english": [
+        {
+          "id": "odcc2abi",
+          "word": "distillation",
+          "meaning": "model distillation",
+          "register": "written",
+          "note": "Use this specifically for the machine-learning technique that transfers knowledge from a larger model to a smaller one."
+        }
+      ],
       "register": "written",
       "examples": [
         {

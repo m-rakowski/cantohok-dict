@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "hesitate",
-      "english": ["hesitate", "dither", "pause"],
+      "english": [
+        {
+          "id": "29wacupz",
+          "word": "hesitate",
+          "meaning": "pause in uncertainty",
+          "note": "This is the all-purpose choice for pausing because you are unsure about a decision or action."
+        },
+        {
+          "id": "1v9zfnzp",
+          "word": "dither",
+          "meaning": "hesitate; be indecisive",
+          "note": "Use this as the all-purpose choice when someone cannot decide and keeps delaying."
+        },
+        {
+          "id": "d6pkyej0",
+          "word": "pause",
+          "meaning": "hesitate",
+          "note": "Use this when someone hesitates or holds back instead of acting immediately."
+        }
+      ],
       "examples": [
         {
           "english": "I hesitate for a long time whenever I choose a course.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "appetite",
-      "english": ["appetite", "stomach"],
+      "english": [
+        {
+          "id": "vfuqfco4",
+          "word": "appetite",
+          "meaning": "desire to eat",
+          "note": "This is the all-purpose everyday Cantonese noun for a desire to eat or drink."
+        },
+        {
+          "id": "2qkw6md5",
+          "word": "stomach",
+          "meaning": "appetite / inclination",
+          "note": "Use this for appetite or a taste for food and, by extension, other things."
+        }
+      ],
       "examples": [
         {
           "english": "I don't have much appetite today.",

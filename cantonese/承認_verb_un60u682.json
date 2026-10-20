@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "admit, acknowledge as true",
-      "english": ["concede", "acknowledge", "allow"],
+      "english": [
+        {
+          "id": "ipobhuy7",
+          "word": "concede",
+          "meaning": "admit as true",
+          "note": "Use this when admitting that something is true or acknowledging a fact."
+        },
+        {
+          "id": "vswi592r",
+          "word": "acknowledge",
+          "meaning": "admit as true",
+          "note": "Use this as the all-purpose choice for admitting that a fact or belief is true."
+        },
+        {
+          "id": "opmi5fcc",
+          "word": "allow",
+          "meaning": "admit, concede",
+          "note": "Use 承認 when reluctantly acknowledging that something is true or conceding a point."
+        }
+      ],
       "examples": [
         {
           "english": "I concede that this news is true.",

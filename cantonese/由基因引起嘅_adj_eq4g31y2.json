@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "caused by genes",
-      "english": ["genetic"],
+      "english": [
+        {
+          "id": "v2kwygyz",
+          "word": "genetic",
+          "meaning": "caused by genes",
+          "note": "Use this when a condition or trait is specifically caused by genes."
+        }
+      ],
       "examples": [
         {
           "english": "This illness is genetic in origin.",

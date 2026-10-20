@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "petrol, gasoline",
-      "english": ["petrol", "gas"],
+      "english": [
+        {
+          "id": "iyshbj2q",
+          "word": "petrol",
+          "meaning": "gasoline / motor fuel",
+          "register": "formal",
+          "note": "Use this mainly in formal, technical, or written contexts rather than everyday conversation."
+        },
+        {
+          "id": "jlsara2o",
+          "word": "gas",
+          "meaning": "gasoline",
+          "note": "Use this for gasoline or petrol for vehicles."
+        }
+      ],
       "examples": [
         {
           "english": "Petrol prices will be increased next month.",

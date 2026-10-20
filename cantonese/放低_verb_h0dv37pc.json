@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "put or lower something down",
-      "english": ["lay", "lower"],
+      "english": [
+        {
+          "id": "h1xbp1vu",
+          "word": "lay",
+          "meaning": "put down flat",
+          "note": "Use this as the all-purpose verb for putting something down, including laying it flat."
+        },
+        {
+          "id": "cle13pg2",
+          "word": "lower",
+          "meaning": "let down",
+          "note": "Use this for letting a suspended object descend, such as lowering a bucket into a well."
+        }
+      ],
       "examples": [
         {
           "english": "I lay the book down on the table.",
@@ -22,7 +35,14 @@
     },
     {
       "meaning": "let go of a feeling or thought",
-      "english": ["remove"],
+      "english": [
+        {
+          "id": "d5srrmwe",
+          "word": "remove",
+          "meaning": "discard; set aside",
+          "note": "Use this for letting go of or setting aside an abstract thought, feeling, or attachment."
+        }
+      ],
       "examples": [
         {
           "english": "I’ve finally managed to remove my resentment toward him.",

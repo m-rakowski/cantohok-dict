@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "online chat room",
-      "english": ["chat", "room"],
+      "english": [
+        {
+          "id": "sxbbe0d5",
+          "word": "chat",
+          "meaning": "chat room / live chat",
+          "note": "Use this for an online chat room or the chat area of an online meeting."
+        },
+        {
+          "id": "rsq4z8ze",
+          "word": "room",
+          "meaning": "chat room",
+          "note": "Use 聊天室 for an online chat room."
+        }
+      ],
       "examples": [
         {
           "english": "This chat room is really lively.",

@@ -6,7 +6,29 @@
   "boxes": [
     {
       "meaning": "buttocks, bottom",
-      "english": ["bum", "bun", "bottom"],
+      "english": [
+        {
+          "id": "73h9mxb0",
+          "word": "bum",
+          "meaning": "buttocks",
+          "register": "colloquial",
+          "note": "This is the all-purpose Cantonese noun for the buttocks."
+        },
+        {
+          "id": "4f9dlo4d",
+          "word": "bun",
+          "meaning": "buttocks",
+          "register": "colloquial",
+          "note": "Use 屁股 as the ordinary colloquial word for a buttock or the buttocks."
+        },
+        {
+          "id": "rydgkbmn",
+          "word": "bottom",
+          "meaning": "buttocks; anus",
+          "register": "colloquial",
+          "note": "Use this colloquial noun for the buttocks or, depending on context, the anus."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

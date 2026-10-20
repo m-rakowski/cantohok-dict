@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "noisy, loud",
-      "english": ["noisy", "loud"],
+      "english": [
+        {
+          "id": "elierca8",
+          "word": "noisy",
+          "meaning": "loud; making a noise",
+          "note": "This is the all-purpose everyday choice for something making a loud or unpleasant noise, such as a noisy crowd."
+        },
+        {
+          "id": "1x4cpp5i",
+          "word": "loud",
+          "meaning": "noisy, loud person",
+          "note": "Use this when the focus is on disruptive noise from a person, place, or event."
+        }
+      ],
       "examples": [
         {
           "english": "It’s really noisy here.",

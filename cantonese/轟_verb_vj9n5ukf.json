@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "bombard with artillery",
-      "english": ["shell"],
+      "english": [
+        {
+          "id": "k86hwt7t",
+          "word": "shell",
+          "meaning": "bombard",
+          "note": "Use this for bombarding a target with artillery or heavy gunfire."
+        }
+      ],
       "examples": [
         {
           "english": "The enemy troops shell the position all night.",
@@ -17,7 +24,14 @@
     },
     {
       "meaning": "boom loudly (music)",
-      "english": ["thump"],
+      "english": [
+        {
+          "id": "dabf3ua2",
+          "word": "thump",
+          "meaning": "pound loudly",
+          "note": "Use this for a loud, heavy, muffled rhythmic sound such as music booming from a club."
+        }
+      ],
       "examples": [
         {
           "english": "I hear the bar's music thump all night, so I can't sleep.",
@@ -28,7 +42,14 @@
     },
     {
       "meaning": "bombard with complaints or messages",
-      "english": ["flood"],
+      "english": [
+        {
+          "id": "vc0sw1pl",
+          "word": "flood",
+          "meaning": "flood with something",
+          "note": "Use this for bombarding someone with a large volume of calls, complaints, or messages."
+        }
+      ],
       "examples": [
         {
           "english": "The customers flood us with dozens of complaints every day.",

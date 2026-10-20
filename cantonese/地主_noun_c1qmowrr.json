@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "property owner/renter",
-      "english": ["landlord"],
+      "english": [
+        {
+          "id": "rn54pugm",
+          "word": "landlord",
+          "meaning": "property owner/renter",
+          "note": "Use this for a landowner or traditional landlord associated with land or an estate, rather than the usual landlord of a rented flat."
+        }
+      ],
       "examples": [
         {
           "english": "The landlord used to own this whole tract of land.",

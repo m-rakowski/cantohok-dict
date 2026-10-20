@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "duplicate copy",
-      "english": ["duplicate"],
+      "english": [
+        {
+          "id": "zxwgpfzn",
+          "word": "duplicate",
+          "meaning": "identical copy",
+          "note": "This is the all-purpose noun for an identical copy or duplicate."
+        }
+      ],
       "examples": [
         {
           "english": "This is a duplicate of the form; keep it.",
@@ -17,7 +24,14 @@
     },
     {
       "meaning": "deck of cards",
-      "english": ["pack"],
+      "english": [
+        {
+          "id": "f1x6woag",
+          "word": "pack",
+          "meaning": "deck of cards",
+          "note": "Use this for a full deck of playing cards."
+        }
+      ],
       "examples": [
         {
           "english": "This pack of cards is missing one card—how are we supposed to play?",

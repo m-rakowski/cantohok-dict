@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "premise, assumption",
-      "english": ["premise", "assumption"],
+      "english": [
+        {
+          "id": "1q2gdnej",
+          "word": "premise",
+          "meaning": "assumption; proposition",
+          "note": "This is the all-purpose choice for an assumption or proposition forming the basis of an argument."
+        },
+        {
+          "id": "63xxz464",
+          "word": "assumption",
+          "meaning": "thing assumed",
+          "note": "Use this when the assumption is a premise on which an argument, plan, or calculation is based."
+        }
+      ],
       "examples": [
         {
           "english": "You have to accept this premise before we can continue the discussion.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "cube, block",
-      "english": ["cube", "block"],
+      "english": [
+        {
+          "id": "3h2za4oi",
+          "word": "cube",
+          "meaning": "cube-shaped object",
+          "note": "Use this for a roughly cube-shaped solid object or block rather than the exact geometric shape."
+        },
+        {
+          "id": "uuaajgdj",
+          "word": "block",
+          "meaning": "solid piece",
+          "note": "This is the all-purpose noun for a substantial cuboid or block-shaped solid piece."
+        }
+      ],
       "examples": [
         {
           "english": "This cube of chocolate is too big; I can't finish it.",

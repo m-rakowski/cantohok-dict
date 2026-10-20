@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "comparison",
-      "english": ["comparison", "relativity"],
+      "english": [
+        {
+          "id": "37r7z9qb",
+          "word": "comparison",
+          "meaning": "comparing; comparison process",
+          "note": "This is the all-purpose noun for the process or result of comparing things."
+        },
+        {
+          "id": "4o67ck32",
+          "word": "relativity",
+          "meaning": "comparison; disparity",
+          "note": "Use this when relativity is about comparison or evaluation, rather than for a measurable gap between things."
+        }
+      ],
       "examples": [
         {
           "english": "This report contains a comparison of the two companies, and it looks clear.",

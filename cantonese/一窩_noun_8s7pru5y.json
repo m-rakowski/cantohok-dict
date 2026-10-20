@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "a brood or litter of young",
-      "english": ["hatching", "hatch", "litter"],
+      "english": [
+        {
+          "id": "0b6y9mb2",
+          "word": "hatching",
+          "meaning": "brood of hatchlings",
+          "note": "Use this for the brood as one group, especially when it is understood as a nest or clutch of hatchlings."
+        },
+        {
+          "id": "h6a0gvg9",
+          "word": "hatch",
+          "meaning": "brood from one hatch",
+          "note": "Use this for the brood or group of young birds from the same hatching, rather than for the hatching event itself."
+        },
+        {
+          "id": "j0nsuv0i",
+          "word": "litter",
+          "meaning": "animal's young / brood",
+          "note": "Use 一窩 for one animal's group of young born at the same time, rather than for the material in a litter tray."
+        }
+      ],
       "examples": [
         {
           "english": "That brood of chicks in the tree all finished hatching on the same day.",

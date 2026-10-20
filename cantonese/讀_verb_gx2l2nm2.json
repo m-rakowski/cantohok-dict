@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "to read",
-      "english": ["read"],
+      "english": [
+        {
+          "id": "u5y8srzu",
+          "word": "read",
+          "meaning": "read text",
+          "note": "This is the all-purpose choice for reading text, including text read in a particular direction and technical signals when the context is clear."
+        }
+      ],
       "examples": [
         {
           "english": "I read the newspaper every day.",
@@ -17,7 +24,15 @@
     },
     {
       "meaning": "to study a subject",
-      "english": ["study"],
+      "english": [
+        {
+          "id": "zfijjopi",
+          "word": "study",
+          "meaning": "learn a subject",
+          "register": "colloquial",
+          "note": "Use 讀 for taking or being enrolled in an academic subject, including studying a subject as an academic course."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

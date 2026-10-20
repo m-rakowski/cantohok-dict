@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "software accessibility features",
-      "english": ["accessibility"],
+      "english": [
+        {
+          "id": "2gfuvad1",
+          "word": "accessibility",
+          "meaning": "software accessibility features",
+          "note": "Use this specifically for software features designed to help users with impairments."
+        }
+      ],
       "examples": [
         {
           "english": "This program's accessibility features are well designed, so people with visual impairments can use it too.",

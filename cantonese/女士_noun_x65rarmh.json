@@ -6,7 +6,28 @@
   "boxes": [
     {
       "meaning": "polite word for a woman, madam",
-      "english": ["madam", "woman", "lady"],
+      "english": [
+        {
+          "id": "rn8ty7l2",
+          "word": "madam",
+          "meaning": "polite address to woman",
+          "note": "This is the all-purpose polite term for addressing or referring to an adult woman, especially in public or service contexts."
+        },
+        {
+          "id": "atd9zkey",
+          "word": "woman",
+          "meaning": "adult female person",
+          "register": "formal",
+          "note": "Use this polite form when referring to a woman respectfully, especially in public or service contexts."
+        },
+        {
+          "id": "485bq6tz",
+          "word": "lady",
+          "meaning": "polite plural address",
+          "register": "formal",
+          "note": "Use this for a polite or formal reference to women, especially in public announcements or address."
+        }
+      ],
       "examples": [
         {
           "english": "madam, please come this way.",

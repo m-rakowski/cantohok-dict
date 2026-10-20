@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "amount of substance",
-      "english": ["concentration"],
+      "english": [
+        {
+          "id": "nai7rtlp",
+          "word": "concentration",
+          "meaning": "amount of substance",
+          "note": "Use this for the proportion or strength of a substance in a mixture."
+        }
+      ],
       "examples": [
         {
           "english": "The concentration of alcohol in this disinfectant is too high.",

@@ -6,7 +6,15 @@
   "boxes": [
     {
       "meaning": "up to time that",
-      "english": ["until"],
+      "english": [
+        {
+          "id": "591gow20",
+          "word": "until",
+          "meaning": "up to time that",
+          "register": "written",
+          "note": "Use this for an explicit endpoint when something continues up to the time A becomes true."
+        }
+      ],
       "register": "written",
       "examples": [
         {

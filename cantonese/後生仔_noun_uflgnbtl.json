@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "young man, youth",
-      "english": ["youth", "dude"],
+      "english": [
+        {
+          "id": "23c7g89b",
+          "word": "youth",
+          "meaning": "young person",
+          "register": "colloquial",
+          "note": "This is the all-purpose colloquial term for a young person, including a young man."
+        },
+        {
+          "id": "m4jbljzy",
+          "word": "dude",
+          "meaning": "young man",
+          "register": "colloquial",
+          "note": "Use this when “dude” means a young man being described rather than addressed."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

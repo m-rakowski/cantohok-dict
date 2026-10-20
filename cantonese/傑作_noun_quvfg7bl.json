@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "masterpiece",
-      "english": ["masterpiece", "triumph"],
+      "english": [
+        {
+          "id": "53w8ltvw",
+          "word": "masterpiece",
+          "meaning": "outstanding work",
+          "note": "This is the all-purpose choice for a work widely regarded as exceptionally good or artistically accomplished."
+        },
+        {
+          "id": "dm6wue73",
+          "word": "triumph",
+          "meaning": "great success, masterpiece",
+          "note": "Use this for a work such as a film, artwork, or dish that is exceptionally successful or accomplished."
+        }
+      ],
       "examples": [
         {
           "english": "This painting is truly a masterpiece; no wonder so many people praise it.",

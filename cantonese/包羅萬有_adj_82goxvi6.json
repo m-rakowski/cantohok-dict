@@ -6,7 +6,28 @@
   "boxes": [
     {
       "meaning": "all-embracing, covering everything",
-      "english": ["inclusive", "all-encompassing", "comprehensive"],
+      "english": [
+        {
+          "id": "qns2zpz5",
+          "word": "inclusive",
+          "meaning": "including almost everything",
+          "note": "This is the all-purpose choice for a list, collection, or description that covers nearly everything."
+        },
+        {
+          "id": "r03yvqme",
+          "word": "all-encompassing",
+          "meaning": "including everything; universal",
+          "register": "written",
+          "note": "Use this when stressing that something contains or covers virtually everything."
+        },
+        {
+          "id": "pj2nlijs",
+          "word": "comprehensive",
+          "meaning": "broadly covering; all-inclusive",
+          "register": "written",
+          "note": "Use this emphatic expression for something that includes an extremely wide range of things, especially in more formal or literary wording."
+        }
+      ],
       "examples": [
         {
           "english": "This guide is inclusive, with information on food, accommodation, and entertainment.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "separately, apart",
-      "english": ["apart", "separately"],
+      "english": [
+        {
+          "id": "6rg6jn9a",
+          "word": "apart",
+          "meaning": "separately in space/time",
+          "note": "This is the all-purpose choice for people or things being separate in space or for considering them separately."
+        },
+        {
+          "id": "ffpfxugg",
+          "word": "separately",
+          "meaning": "apart; not together",
+          "note": "Use this as the all-purpose choice when people or things are apart rather than together."
+        }
+      ],
       "examples": [
         {
           "english": "The two tables need to be kept apart.",

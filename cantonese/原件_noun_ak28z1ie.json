@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "original recording or document",
-      "english": ["master"],
+      "english": [
+        {
+          "id": "73db38rl",
+          "word": "master",
+          "meaning": "original recording or document",
+          "note": "Use this for the physical original of a document; a recording usually needs a more specialized term."
+        }
+      ],
       "examples": [
         {
           "english": "This is the master copy of the contract, so keep it safe.",

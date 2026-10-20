@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "difficult, hard",
-      "english": ["difficult", "challenging", "tough", "hard", "mean"],
+      "english": [
+        {
+          "id": "chfilkx8",
+          "word": "difficult",
+          "meaning": "hard, not easy",
+          "note": "This is the all-purpose choice for something that is hard or not easy."
+        },
+        {
+          "id": "y5zjuuf5",
+          "word": "challenging",
+          "meaning": "difficult; hard to do",
+          "note": "This is the all-purpose choice for something that is difficult or hard to do."
+        },
+        {
+          "id": "3as7h6w6",
+          "word": "tough",
+          "meaning": "difficult; demanding",
+          "note": "Use 難 as the all-purpose choice for something that is difficult or demanding."
+        },
+        {
+          "id": "67dnmz37",
+          "word": "hard",
+          "meaning": "difficult",
+          "note": "This is the all-purpose choice for something difficult to do, understand, or deal with."
+        },
+        {
+          "id": "3al7zv83",
+          "word": "mean",
+          "meaning": "difficult, tricky",
+          "note": "Use this when “mean” describes a problem or task as difficult or tricky."
+        }
+      ],
       "examples": [
         {
           "english": "This math problem is very difficult.",

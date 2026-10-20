@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "on the other hand",
-      "english": ["conversely", "meanwhile"],
+      "english": [
+        {
+          "id": "8z9ttbye",
+          "word": "conversely",
+          "meaning": "from the other point of view",
+          "note": "Use this when presenting the other point of view or the other side of an argument."
+        },
+        {
+          "id": "obhm1kcr",
+          "word": "meanwhile",
+          "meaning": "in contrast",
+          "note": "Use this when meanwhile introduces a contrasting aspect or group, like “on the other hand.”"
+        }
+      ],
       "examples": [
         {
           "english": "Conversely, this plan has its advantages too.",

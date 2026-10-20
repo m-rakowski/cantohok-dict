@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "council, parliament",
-      "english": ["council", "parliament", "assembly"],
+      "english": [
+        {
+          "id": "p8azle3f",
+          "word": "council",
+          "meaning": "governing committee",
+          "note": "Use this as the all-purpose choice for a public or elected governing council, such as a city council."
+        },
+        {
+          "id": "uut2zml1",
+          "word": "parliament",
+          "meaning": "legislature",
+          "note": "This is the all-purpose choice for a legislature or a particular parliament such as a numbered term."
+        },
+        {
+          "id": "8amr4wre",
+          "word": "assembly",
+          "meaning": "legislative body",
+          "note": "Use this for a legislative assembly or other body that debates and makes laws."
+        }
+      ],
       "examples": [
         {
           "english": "The council voted to approve the new proposal today.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "arrogant, looking down on others",
-      "english": ["haughty", "arrogant"],
+      "english": [
+        {
+          "id": "aa7gmc13",
+          "word": "haughty",
+          "meaning": "supercilious, disdainful",
+          "note": "Use this when the person's haughtiness specifically shows disregard or contempt for other people."
+        },
+        {
+          "id": "nu9s439v",
+          "word": "arrogant",
+          "meaning": "excessively proud, disdainful",
+          "note": "Use this to stress that the person treats other people as beneath notice."
+        }
+      ],
       "examples": [
         {
           "english": "They are so haughty that they even ignore the manager when he speaks to them.",

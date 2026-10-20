@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "reservation, doubt",
-      "english": ["reservation", "reserve"],
+      "english": [
+        {
+          "id": "vonqjm0h",
+          "word": "reservation",
+          "meaning": "doubt; misgiving",
+          "note": "This is the all-purpose choice for expressing doubts or misgivings about a person, plan, or claim."
+        },
+        {
+          "id": "rhugz9i0",
+          "word": "reserve",
+          "meaning": "reservation, exception",
+          "note": "Use this for a reservation or qualification, as in having reservations about a statement."
+        }
+      ],
       "examples": [
         {
           "english": "I still have a reservation about this plan.",
@@ -22,7 +35,14 @@
     },
     {
       "meaning": "keeping, retention",
-      "english": ["retention"],
+      "english": [
+        {
+          "id": "8e7o54sg",
+          "word": "retention",
+          "meaning": "keeping; retention",
+          "note": "This is the all-purpose choice for the act of keeping something or something kept."
+        }
+      ],
       "examples": [
         {
           "english": "This document is for retention, so don't throw it away.",

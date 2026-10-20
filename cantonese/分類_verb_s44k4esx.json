@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "sort into categories",
-      "english": ["sort", "classify"],
+      "english": [
+        {
+          "id": "4145jco5",
+          "word": "sort",
+          "meaning": "separate into groups",
+          "note": "Use this specifically when separating items into groups according to their type or other criteria."
+        },
+        {
+          "id": "iajy3vno",
+          "word": "classify",
+          "meaning": "categorize; sort into classes",
+          "note": "This is the all-purpose choice for putting things into categories or classes."
+        }
+      ],
       "examples": [
         {
           "english": "We sort the rubbish into categories to make recycling easier.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "greeting",
-      "english": ["greeting"],
+      "english": [
+        {
+          "id": "8m9nu868",
+          "word": "greeting",
+          "meaning": "salutation; greeting phrase",
+          "note": "This is the all-purpose everyday noun for a casual greeting or the act of acknowledging someone."
+        }
+      ],
       "examples": [
         {
           "english": "When I see an old friend, I always give them a greeting.",
@@ -17,7 +24,15 @@
     },
     {
       "meaning": "hospitality, looking after guests",
-      "english": ["hospitality"],
+      "english": [
+        {
+          "id": "v98666ns",
+          "word": "hospitality",
+          "meaning": "welcoming guests",
+          "register": "colloquial",
+          "note": "Use this casual rendering for the welcoming and looking-after-guests aspect of hospitality, especially in phrases such as thanking someone for their care."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

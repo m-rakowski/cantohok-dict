@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "letters and parcels",
-      "english": ["mail"],
+      "english": [
+        {
+          "id": "d98nvixl",
+          "word": "mail",
+          "meaning": "letters and parcels",
+          "note": "Use this for physical mail such as letters and parcels handled by the postal service."
+        }
+      ],
       "examples": [
         {
           "english": "This piece of mail needs to be sent to Canada.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "exhibition",
-      "english": ["exhibition", "show"],
+      "english": [
+        {
+          "id": "ykw4sl46",
+          "word": "exhibition",
+          "meaning": "public display event",
+          "note": "This is the all-purpose Cantonese noun for an exhibition or public display."
+        },
+        {
+          "id": "hsh4m0yo",
+          "word": "show",
+          "meaning": "exhibition, display",
+          "note": "Use 展覽 for an organized exhibition of art, animals, or other items."
+        }
+      ],
       "examples": [
         {
           "english": "This exhibition features many works by local artists.",

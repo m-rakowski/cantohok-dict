@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "complain, report someone",
-      "english": ["complain", "report"],
+      "english": [
+        {
+          "id": "c7sd5ei6",
+          "word": "complain",
+          "meaning": "make a complaint",
+          "note": "Use this when making a complaint to an authority, organization, or the police."
+        },
+        {
+          "id": "5h2vgpo2",
+          "word": "report",
+          "meaning": "report someone",
+          "note": "Use this when reporting someone as a formal complaint, especially to a boss, company, or organization."
+        }
+      ],
       "examples": [
         {
           "english": "I will complain to the Consumer Council that the shop is overcharging.",

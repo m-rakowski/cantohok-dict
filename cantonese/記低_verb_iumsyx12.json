@@ -6,7 +6,28 @@
   "boxes": [
     {
       "meaning": "to write down",
-      "english": ["note", "record", "register"],
+      "english": [
+        {
+          "id": "dy5ey0sy",
+          "word": "note",
+          "meaning": "write down / record",
+          "note": "Use this as the all-purpose colloquial verb for writing something down so you will remember it."
+        },
+        {
+          "id": "kb6no1rd",
+          "word": "record",
+          "meaning": "write down / note",
+          "register": "colloquial",
+          "note": "Use this when recording information means writing it down or making a note for later reference."
+        },
+        {
+          "id": "x7ba7q7y",
+          "word": "register",
+          "meaning": "record in writing",
+          "register": "colloquial",
+          "note": "Use 記低 for recording something in writing or jotting it down."
+        }
+      ],
       "examples": [
         {
           "english": "Please note down the phone number for me.",

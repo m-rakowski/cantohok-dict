@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "pleasant to hear",
-      "english": ["melodious", "musical", "sweet", "beautiful"],
+      "english": [
+        {
+          "id": "vu72jrix",
+          "word": "melodious",
+          "meaning": "pleasant-sounding; tuneful",
+          "note": "This is the all-purpose everyday choice for music, voices, and other pleasant sounds."
+        },
+        {
+          "id": "8j7fu21o",
+          "word": "musical",
+          "meaning": "pleasantly melodic",
+          "note": "Use this for a voice, sound, or melody that is pleasing to hear."
+        },
+        {
+          "id": "pigbvu37",
+          "word": "sweet",
+          "meaning": "pleasant sound",
+          "note": "Use this for music, a voice, or another sound that is pleasant to hear."
+        },
+        {
+          "id": "16dvb2cp",
+          "word": "beautiful",
+          "meaning": "pleasant; lovely",
+          "note": "Use this specifically for something pleasant to hear, such as music, a song, or a voice."
+        }
+      ],
       "examples": [
         {
           "english": "This song is really melodious.",

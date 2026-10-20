@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "intellectual",
-      "english": ["intellectual", "intellect"],
+      "english": [
+        {
+          "id": "tbqqqprn",
+          "word": "intellectual",
+          "meaning": "learned person",
+          "note": "This is the all-purpose term for an intellectual as an educated person who thinks and discusses ideas."
+        },
+        {
+          "id": "k7lr5bwv",
+          "word": "intellect",
+          "meaning": "intellectual person",
+          "register": "formal",
+          "note": "Use this for an intellectual person, especially as a member of the educated or intellectual class."
+        }
+      ],
       "examples": [
         {
           "english": "They are an intellectual who often discusses social issues with others。",

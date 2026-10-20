@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "polite",
-      "english": ["polite", "civil"],
+      "english": [
+        {
+          "id": "2l9tqcf7",
+          "word": "polite",
+          "meaning": "well-mannered",
+          "note": "This is the all-purpose choice for describing someone who behaves with good manners."
+        },
+        {
+          "id": "ksuodjmu",
+          "word": "civil",
+          "meaning": "polite, courteous",
+          "note": "Use this as the all-purpose choice for ordinary polite or non-hostile behaviour."
+        }
+      ],
       "examples": [
         {
           "english": "They are very polite to everyone.",

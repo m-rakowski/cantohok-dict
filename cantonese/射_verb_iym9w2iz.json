@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "to shoot, fire",
-      "english": ["shoot", "launch"],
+      "english": [
+        {
+          "id": "dvnbpbe0",
+          "word": "shoot",
+          "meaning": "fire a gun",
+          "note": "This is the all-purpose verb for firing a gun or launching a projectile, including shooting at a target."
+        },
+        {
+          "id": "alh3kf0r",
+          "word": "launch",
+          "meaning": "launch rocket",
+          "note": "Use this for sending a rocket or other projectile upward into flight."
+        }
+      ],
       "examples": [
         {
           "english": "I shoot at targets with an air rifle.",

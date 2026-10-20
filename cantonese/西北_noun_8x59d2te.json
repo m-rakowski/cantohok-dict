@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "compass direction",
-      "english": ["northwest"],
+      "english": [
+        {
+          "id": "fmi63g11",
+          "word": "northwest",
+          "meaning": "compass direction",
+          "note": "This is the all-purpose noun for the northwest compass direction."
+        }
+      ],
       "examples": [
         {
           "english": "Our flat faces northwest, so it gets less sun in the afternoon.",

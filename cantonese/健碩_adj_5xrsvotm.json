@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "strong, well-built",
-      "english": ["athletic", "strapping", "well-built"],
+      "english": [
+        {
+          "id": "sg4lo6t5",
+          "word": "athletic",
+          "meaning": "muscular, in shape",
+          "note": "Use this for someone with a muscular, well-built physique rather than for general physical activity."
+        },
+        {
+          "id": "4a93uwuz",
+          "word": "strapping",
+          "meaning": "sturdy, muscular",
+          "note": "Use this when you want to describe a sturdily built physique in a more polished or descriptive way."
+        },
+        {
+          "id": "fg1pvnqm",
+          "word": "well-built",
+          "meaning": "muscular, athletic build",
+          "register": "formal",
+          "note": "Choose this when you specifically mean a muscular, athletic physique, especially in a descriptive or slightly formal context."
+        }
+      ],
       "examples": [
         {
           "english": "He has an athletic, muscular build.",

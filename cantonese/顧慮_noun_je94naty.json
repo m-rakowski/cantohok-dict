@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "concern, worry, reservation",
-      "english": ["qualm", "consideration"],
+      "english": [
+        {
+          "id": "xe7ace4v",
+          "word": "qualm",
+          "meaning": "moral scruple; misgivings",
+          "note": "This is the all-purpose choice for an uneasy reservation or doubt, including general moral reservations."
+        },
+        {
+          "id": "hx79xqfr",
+          "word": "consideration",
+          "meaning": "thoughtfulness",
+          "note": "Use this when consideration means concern for other people’s needs or feelings."
+        }
+      ],
       "examples": [
         {
           "english": "I have some qualm about whether to accept this job.",

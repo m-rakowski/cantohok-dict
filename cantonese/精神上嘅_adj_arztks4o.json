@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "mental, of the mind",
-      "english": ["mental", "moral"],
+      "english": [
+        {
+          "id": "93l4asqw",
+          "word": "mental",
+          "meaning": "of the mind",
+          "note": "This is the all-purpose choice for something occurring in or experienced by the mind rather than the body."
+        },
+        {
+          "id": "n0lrsa4u",
+          "word": "moral",
+          "meaning": "moral support",
+          "note": "Use this for support or a victory that boosts confidence or morale, not physical or material support."
+        }
+      ],
       "examples": [
         {
           "english": "Not getting enough sleep for a long time puts a lot of mental pressure on you.",

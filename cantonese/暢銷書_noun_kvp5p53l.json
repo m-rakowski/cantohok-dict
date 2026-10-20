@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "top-selling product",
-      "english": ["bestseller"],
+      "english": [
+        {
+          "id": "r6ukpd1v",
+          "word": "bestseller",
+          "meaning": "top-selling product",
+          "note": "Use this as the standard everyday choice when the bestseller is a book."
+        }
+      ],
       "examples": [
         {
           "english": "This bestseller sold out very quickly.",

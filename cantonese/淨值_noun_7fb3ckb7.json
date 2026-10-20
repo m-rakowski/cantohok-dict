@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "home equity",
-      "english": ["equity"],
+      "english": [
+        {
+          "id": "dcoewntz",
+          "word": "equity",
+          "meaning": "home equity",
+          "note": "Use this in property or mortgage contexts for the value left after subtracting the loan and other claims from the property's value."
+        }
+      ],
       "examples": [
         {
           "english": "The equity in this flat after deducting the mortgage is still eight hundred thousand dollars.",

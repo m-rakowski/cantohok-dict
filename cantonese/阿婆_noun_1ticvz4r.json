@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "elderly woman",
-      "english": ["granny"],
+      "english": [
+        {
+          "id": "xx2b52yl",
+          "word": "granny",
+          "meaning": "elderly woman",
+          "note": "Use this instead of family-specific terms for an elderly woman when you are not asserting that she is your grandmother."
+        }
+      ],
       "examples": [
         {
           "english": "That granny exercises in the park every day.",

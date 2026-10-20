@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "vulture",
-      "english": ["buzzard"],
+      "english": [
+        {
+          "id": "ldklfdrn",
+          "word": "buzzard",
+          "meaning": "vulture",
+          "note": "Use this for a vulture or other large scavenging bird rather than the Buteo bird called 鵟."
+        }
+      ],
       "examples": [
         {
           "english": "That buzzard is circling over the wasteland, waiting to find carrion.",

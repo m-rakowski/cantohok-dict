@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "hour",
-      "english": ["hour"],
+      "english": [
+        {
+          "id": "9aevdkzd",
+          "word": "hour",
+          "meaning": "sixty minutes",
+          "note": "This is the all-purpose casual choice for a duration such as 一個鐘."
+        }
+      ],
       "examples": [
         {
           "english": "I waited for you for a whole hour.",
@@ -17,7 +24,14 @@
     },
     {
       "meaning": "bell",
-      "english": ["bell"],
+      "english": [
+        {
+          "id": "74s7av56",
+          "word": "bell",
+          "meaning": "ringing instrument",
+          "note": "This is the all-purpose noun for a physical ringing bell."
+        }
+      ],
       "examples": [
         {
           "english": "This bell rings as soon as you strike it.",
@@ -28,7 +42,14 @@
     },
     {
       "meaning": "clock",
-      "english": ["clock"],
+      "english": [
+        {
+          "id": "mao56pci",
+          "word": "clock",
+          "meaning": "timekeeping device",
+          "note": "This is the all-purpose colloquial word for a clock when the context makes the meaning clear."
+        }
+      ],
       "examples": [
         {
           "english": "The clock in the living room is five minutes slow.",

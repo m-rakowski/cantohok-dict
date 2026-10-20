@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "assemble, build from parts",
-      "english": ["construct", "assemble"],
+      "english": [
+        {
+          "id": "13pam13l",
+          "word": "construct",
+          "meaning": "build from parts",
+          "note": "This is the all-purpose colloquial choice for physically assembling something from separate parts."
+        },
+        {
+          "id": "y5y0q06n",
+          "word": "assemble",
+          "meaning": "put together",
+          "register": "colloquial",
+          "note": "This is the everyday choice for putting pieces together, especially when assembling a model or object."
+        }
+      ],
       "examples": [
         {
           "english": "Let's construct the desk together.",

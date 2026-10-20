@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "blood test",
-      "english": ["blood"],
+      "english": [
+        {
+          "id": "1x127z7h",
+          "word": "blood",
+          "meaning": "blood test",
+          "note": "Use this for a blood test, not for the blood sample itself."
+        }
+      ],
       "examples": [
         {
           "english": "The doctor told me to go back tomorrow for a blood test.",

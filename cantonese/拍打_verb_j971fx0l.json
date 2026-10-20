@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "beat or slap against something",
-      "english": ["slap", "thump"],
+      "english": [
+        {
+          "id": "zbd83w6b",
+          "word": "slap",
+          "meaning": "slap against",
+          "note": "Use this when an object or natural force repeatedly strikes against another surface, such as rain hitting a window."
+        },
+        {
+          "id": "clthh5j7",
+          "word": "thump",
+          "meaning": "make thumping sound",
+          "note": "Use this when an animal or object repeatedly hits a surface and thereby makes a thumping sound."
+        }
+      ],
       "examples": [
         {
           "english": "The heavy rain continued to slap against the window.",

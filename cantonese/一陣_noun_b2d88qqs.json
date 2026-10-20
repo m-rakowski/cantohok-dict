@@ -6,7 +6,39 @@
   "boxes": [
     {
       "meaning": "a short while",
-      "english": ["moment", "while", "second", "minute", "shake"],
+      "english": [
+        {
+          "id": "13jx580i",
+          "word": "moment",
+          "meaning": "short time",
+          "note": "This is the all-purpose colloquial choice for a brief, unspecified period, as in waiting a moment."
+        },
+        {
+          "id": "b01eza58",
+          "word": "while",
+          "meaning": "a period of time",
+          "register": "colloquial",
+          "note": "This is the all-purpose colloquial choice for an unspecified, usually short period of time."
+        },
+        {
+          "id": "176cw9xw",
+          "word": "second",
+          "meaning": "a moment",
+          "note": "This is the all-purpose choice for an unspecified short wait or moment, rather than the precise unit 秒."
+        },
+        {
+          "id": "a1tvppq0",
+          "word": "minute",
+          "meaning": "a moment",
+          "note": "Use this for an unspecified short while, as in asking someone to give you a minute."
+        },
+        {
+          "id": "ctrytego",
+          "word": "shake",
+          "meaning": "a moment",
+          "note": "Use this for a short while or moment, especially when English means something will happen very soon."
+        }
+      ],
       "examples": [
         {
           "english": "Wait a moment for me first.",

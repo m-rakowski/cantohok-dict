@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "meeting the rules",
-      "english": ["valid", "compliant"],
+      "english": [
+        {
+          "id": "ufpezaqv",
+          "word": "valid",
+          "meaning": "officially acceptable",
+          "note": "Use this for something officially acceptable or allowed under the rules, such as a date format."
+        },
+        {
+          "id": "y9qumlhf",
+          "word": "compliant",
+          "meaning": "meeting rules/standards",
+          "note": "Use this when something follows the applicable rules, requirements, or laws."
+        }
+      ],
       "examples": [
         {
           "english": "This date format is valid, so you can use it directly when filling out the form.",

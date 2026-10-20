@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "button, switch",
-      "english": ["button", "trigger"],
+      "english": [
+        {
+          "id": "yjus54na",
+          "word": "button",
+          "meaning": "press button",
+          "register": "colloquial",
+          "note": "Use this for a physical electrical button or switch in everyday Hong Kong speech."
+        },
+        {
+          "id": "iepmvydn",
+          "word": "trigger",
+          "meaning": "activating lever or switch",
+          "register": "colloquial",
+          "note": "Use this for a physical switch or control that activates a machine, not for an abstract cause."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

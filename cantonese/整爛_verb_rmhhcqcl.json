@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "wreck, smash up",
-      "english": ["mangle", "wrack"],
+      "english": [
+        {
+          "id": "73s9a663",
+          "word": "mangle",
+          "meaning": "mutilate, disfigure",
+          "note": "Use this as the all-purpose colloquial choice for badly damaging or mangling something."
+        },
+        {
+          "id": "nrwbmbya",
+          "word": "wrack",
+          "meaning": "wreck a ship",
+          "note": "This is the all-purpose colloquial choice for wrecking or badly damaging a ship."
+        }
+      ],
       "examples": [
         {
           "english": "Be careful, don't mangle the model.",

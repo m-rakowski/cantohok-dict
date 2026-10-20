@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "convenience",
-      "english": ["convenience", "facilitation"],
+      "english": [
+        {
+          "id": "iirlw0eu",
+          "word": "convenience",
+          "meaning": "being convenient",
+          "note": "This is the all-purpose noun for the abstract convenience or ease something provides."
+        },
+        {
+          "id": "deghrzkx",
+          "word": "facilitation",
+          "meaning": "making something easier",
+          "note": "This is the all-purpose choice for the provision of convenience or the making of something easier."
+        }
+      ],
       "examples": [
         {
           "english": "This phone feature provides real convenience.",

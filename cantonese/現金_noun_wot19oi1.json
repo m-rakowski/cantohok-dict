@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "cash",
-      "english": ["cash", "money"],
+      "english": [
+        {
+          "id": "rzn3ommy",
+          "word": "cash",
+          "meaning": "physical money",
+          "note": "Use this when contrasting physical cash or liquid funds with cheques, credit, investments, or electronic payment."
+        },
+        {
+          "id": "gn44qo2e",
+          "word": "money",
+          "meaning": "cash",
+          "note": "Use this when you specifically mean banknotes and coins rather than cards, credit, or cheques."
+        }
+      ],
       "examples": [
         {
           "english": "This shop only accepts cash.",

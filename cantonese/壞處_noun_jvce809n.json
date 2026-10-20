@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "disadvantage",
-      "english": ["con", "drawback", "disadvantage"],
+      "english": [
+        {
+          "id": "b0025bc4",
+          "word": "con",
+          "meaning": "disadvantage",
+          "note": "This is the all-purpose spoken choice for a disadvantage, including in discussions of pros and cons."
+        },
+        {
+          "id": "y0mlembv",
+          "word": "drawback",
+          "meaning": "disadvantage",
+          "note": "This is the all-purpose choice for a practical disadvantage or negative consequence."
+        },
+        {
+          "id": "f7p4xoh9",
+          "word": "disadvantage",
+          "meaning": "drawback; con",
+          "note": "Use this for the practical downside or harmful effect of something, especially when “disadvantage” means detriment."
+        }
+      ],
       "examples": [
         {
           "english": "The biggest con of this phone is that its battery runs out quickly.",

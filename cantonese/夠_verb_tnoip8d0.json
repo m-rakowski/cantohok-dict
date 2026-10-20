@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "be enough",
-      "english": ["satisfy", "suffice"],
+      "english": [
+        {
+          "id": "f3j0sx9p",
+          "word": "satisfy",
+          "meaning": "be enough for",
+          "note": "Use 夠 as the everyday way to say that something is enough to meet a requirement."
+        },
+        {
+          "id": "5ljmi6xj",
+          "word": "suffice",
+          "meaning": "be enough",
+          "note": "Use this as the all-purpose everyday equivalent of “be enough” or “suffice.”"
+        }
+      ],
       "examples": [
         {
           "english": "This money is enough to satisfy the rent requirement.",

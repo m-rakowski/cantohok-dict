@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "unit of measurement",
-      "english": ["unit", "measure"],
+      "english": [
+        {
+          "id": "70o7nkii",
+          "word": "unit",
+          "meaning": "standard measure",
+          "note": "Use 單位 for a standard measurement or for one apartment in a housing development; it is the all-purpose choice in these contexts."
+        },
+        {
+          "id": "y3nwdh6g",
+          "word": "measure",
+          "meaning": "unit of measurement",
+          "note": "Use this for a unit such as a gram, metre, or other measurement unit."
+        }
+      ],
       "examples": [
         {
           "english": "This unit has three bedrooms.",
@@ -22,7 +35,14 @@
     },
     {
       "meaning": "apartment, flat",
-      "english": ["apartment"],
+      "english": [
+        {
+          "id": "tz9y59dp",
+          "word": "apartment",
+          "meaning": "flat / apartment",
+          "note": "This is the all-purpose Hong Kong Cantonese choice for a self-contained flat, especially when discussing renting or buying one."
+        }
+      ],
       "examples": [
         {
           "english": "This apartment has two bedrooms, just right for our family.",

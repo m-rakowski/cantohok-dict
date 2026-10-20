@@ -6,7 +6,28 @@
   "boxes": [
     {
       "meaning": "be located at a place",
-      "english": ["be", "sit", "lie"],
+      "english": [
+        {
+          "id": "4tta7u40",
+          "word": "be",
+          "meaning": "be located",
+          "register": "colloquial",
+          "note": "Use 喺 instead of 係 when the subject is located at a place."
+        },
+        {
+          "id": "477pocub",
+          "word": "sit",
+          "meaning": "be located",
+          "note": "Use this for an object or person being located in a particular place, rather than for physical sitting."
+        },
+        {
+          "id": "m6dgpaul",
+          "word": "lie",
+          "meaning": "be situated",
+          "register": "colloquial",
+          "note": "Use 喺 when saying where a place or object is situated."
+        }
+      ],
       "examples": [
         {
           "english": "I happen to be at home right now.",

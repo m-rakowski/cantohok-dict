@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "subtract",
-      "english": ["subtract"],
+      "english": [
+        {
+          "id": "zpm7wjr8",
+          "word": "subtract",
+          "meaning": "remove or reduce by calculation",
+          "note": "This is the all-purpose everyday choice for subtracting one number or amount from another."
+        }
+      ],
       "examples": [
         {
           "english": "Three subtract one equals two.",
@@ -17,7 +24,14 @@
     },
     {
       "meaning": "cut, reduce",
-      "english": ["cut"],
+      "english": [
+        {
+          "id": "c1acb2a4",
+          "word": "cut",
+          "meaning": "reduce intentionally",
+          "note": "Use this when intentionally reducing an amount such as salaries, spending, or prices."
+        }
+      ],
       "examples": [
         {
           "english": "The company decided to cut wages.",

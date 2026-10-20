@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "academic record",
-      "english": ["transcript"],
+      "english": [
+        {
+          "id": "nv7hn4sb",
+          "word": "transcript",
+          "meaning": "academic record",
+          "note": "This is the all-purpose choice for an official record of a student's courses and grades."
+        }
+      ],
       "examples": [
         {
           "english": "When I applied to be an exchange student, I also had to submit my university transcript.",

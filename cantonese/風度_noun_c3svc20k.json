@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "graceful manner, poise",
-      "english": ["gracefulness", "elegance"],
+      "english": [
+        {
+          "id": "y1ef54uc",
+          "word": "gracefulness",
+          "meaning": "graceful movement or manner",
+          "note": "Use this specifically for gracefulness shown in a person's conduct, manners, or bearing rather than the beauty of movement itself."
+        },
+        {
+          "id": "s7kdgcts",
+          "word": "elegance",
+          "meaning": "graceful beauty",
+          "note": "Choose this when the elegance specifically comes from someone's poise, manners, or graceful conduct."
+        }
+      ],
       "examples": [
         {
           "english": "Even after losing the match, they still showed great gracefulness.",

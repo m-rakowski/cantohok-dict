@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "to stop",
-      "english": ["stop", "cease"],
+      "english": [
+        {
+          "id": "qjsqu9b2",
+          "word": "stop",
+          "meaning": "cease moving",
+          "note": "This is the all-purpose choice when movement, progress, or an activity ceases or is made to cease, including stopping a car or a fight."
+        },
+        {
+          "id": "n6hypmia",
+          "word": "cease",
+          "meaning": "stop, come to an end",
+          "note": "This is the all-purpose colloquial choice when an action, movement, or process stops."
+        }
+      ],
       "examples": [
         {
           "english": "Stop the car right away.",

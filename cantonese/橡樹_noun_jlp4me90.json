@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "oak tree",
-      "english": ["oak"],
+      "english": [
+        {
+          "id": "pfioo90i",
+          "word": "oak",
+          "meaning": "oak tree",
+          "note": "This is the all-purpose rendering for the oak tree itself."
+        }
+      ],
       "examples": [
         {
           "english": "The oak in the park has grown very tall.",

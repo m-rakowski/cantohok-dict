@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "extend a loan",
-      "english": ["renew"],
+      "english": [
+        {
+          "id": "q5y3umaw",
+          "word": "renew",
+          "meaning": "extend a loan",
+          "note": "Use this specifically when extending a loan, especially for library books."
+        }
+      ],
       "examples": [
         {
           "english": "This book is due tomorrow, and I want to renew it.",

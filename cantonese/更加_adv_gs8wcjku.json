@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "even more",
-      "english": ["further", "even"],
+      "english": [
+        {
+          "id": "czvzei77",
+          "word": "further",
+          "meaning": "more; to a greater extent",
+          "note": "Use this for a greater degree or extent, especially before an adjective such as 先進."
+        },
+        {
+          "id": "nyv1y8u6",
+          "word": "even",
+          "meaning": "even more",
+          "note": "Use 更加 for an explicit or slightly more formal-sounding emphasis of a comparative, especially in careful speech or writing."
+        }
+      ],
       "examples": [
         {
           "english": "This new phone is further ahead technologically.",

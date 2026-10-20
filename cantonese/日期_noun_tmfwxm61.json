@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "time/event date",
-      "english": ["date"],
+      "english": [
+        {
+          "id": "ranl5v3n",
+          "word": "date",
+          "meaning": "time/event date",
+          "note": "This is the all-purpose choice for a calendar date or the date written on a document."
+        }
+      ],
       "examples": [
         {
           "english": "You need to fill in the date on this form.",

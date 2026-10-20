@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "romantic",
-      "english": ["romantic", "dreamy"],
+      "english": [
+        {
+          "id": "06ep3z5c",
+          "word": "romantic",
+          "meaning": "love-related",
+          "note": "This is the all-purpose choice for love-related or idealised romantic qualities, including romantic atmosphere and romantic ideals."
+        },
+        {
+          "id": "lbauncy7",
+          "word": "dreamy",
+          "meaning": "pleasantly romantic",
+          "note": "Use this for a place, occasion, or atmosphere that feels pleasantly romantic."
+        }
+      ],
       "examples": [
         {
           "english": "The love story in this film is romantic.",

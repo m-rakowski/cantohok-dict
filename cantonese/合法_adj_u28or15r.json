@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "legal, lawful",
-      "english": ["legal", "lawful", "legitimate"],
+      "english": [
+        {
+          "id": "57m9izm2",
+          "word": "legal",
+          "meaning": "allowed by law",
+          "note": "This is the all-purpose choice for something permitted by law, and it also commonly describes a move or syntax that is accepted as valid."
+        },
+        {
+          "id": "kw4uiols",
+          "word": "lawful",
+          "meaning": "legal; allowed by law",
+          "note": "Use this as the all-purpose choice when something is permitted or recognised by law."
+        },
+        {
+          "id": "r8wlxrj3",
+          "word": "legitimate",
+          "meaning": "lawful; legal",
+          "note": "Use 合法 as the all-purpose choice when something complies with the law or legal requirements."
+        }
+      ],
       "examples": [
         {
           "english": "This practice is legal.",

@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "attack",
-      "english": ["assault", "attack", "attempt"],
+      "english": [
+        {
+          "id": "yyfholcn",
+          "word": "assault",
+          "meaning": "physical attack",
+          "note": "Choose this for a sudden physical attack, including an attempted or failed blow, rather than a general or verbal attack."
+        },
+        {
+          "id": "bm1hjmcx",
+          "word": "attack",
+          "meaning": "violent assault",
+          "note": "Use this for a sudden or surprise physical assault on someone or something."
+        },
+        {
+          "id": "2xyb939c",
+          "word": "attempt",
+          "meaning": "attack, assault",
+          "note": "Use this when the attempt means the assault or attack itself, especially a physical attack."
+        }
+      ],
       "examples": [
         {
           "english": "Last night, two people carried out an assault on me at the street corner.",

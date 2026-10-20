@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "gloomy, unhappy",
-      "english": ["gloomy", "melancholy", "moody"],
+      "english": [
+        {
+          "id": "56feghgk",
+          "word": "gloomy",
+          "meaning": "sad, depressed",
+          "note": "Use this as the all-purpose choice for a person who is sad, low-spirited, or visibly gloomy."
+        },
+        {
+          "id": "lqw4gydr",
+          "word": "melancholy",
+          "meaning": "feeling melancholy",
+          "note": "Use this for a person who is visibly downcast and not cheerful, rather than for an artistic mood."
+        },
+        {
+          "id": "o7kv4jfd",
+          "word": "moody",
+          "meaning": "sulky, depressed",
+          "note": "Use 悶悶不樂 for the depressed, gloomy, or inwardly brooding side of moody, especially when no visible sulking is implied."
+        }
+      ],
       "examples": [
         {
           "english": "They have been gloomy lately, and they refuse to say what is wrong.",

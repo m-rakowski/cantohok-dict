@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "progress of a task",
-      "english": ["progress", "advancement"],
+      "english": [
+        {
+          "id": "p4ubugld",
+          "word": "progress",
+          "meaning": "advance, movement forward",
+          "note": "Use this for the amount or stage of progress made on a task, project, or journey."
+        },
+        {
+          "id": "p4n214iv",
+          "word": "advancement",
+          "meaning": "degree of advancement",
+          "note": "Use 進度 for how far a project, process, or piece of work has advanced."
+        }
+      ],
       "examples": [
         {
           "english": "How far along is this project in terms of progress?",

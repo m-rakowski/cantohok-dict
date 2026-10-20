@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "animal feed",
-      "english": ["feed"],
+      "english": [
+        {
+          "id": "gk9s23bd",
+          "word": "feed",
+          "meaning": "animal feed",
+          "note": "This is the all-purpose noun for food given to animals."
+        }
+      ],
       "examples": [
         {
           "english": "This feed for the cows needs some corn added to it to be nutritious.",

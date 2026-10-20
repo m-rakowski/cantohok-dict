@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "bite and hold on",
-      "english": ["gnaw", "bite"],
+      "english": [
+        {
+          "id": "ag23lpu8",
+          "word": "gnaw",
+          "meaning": "bite persistently",
+          "note": "This is the all-purpose choice for biting and holding onto something tough repeatedly."
+        },
+        {
+          "id": "i4mrtp7r",
+          "word": "bite",
+          "meaning": "hold in teeth",
+          "note": "Use this for holding something in the teeth or, in mechanical contexts, for a hook, tyre, or anchor gripping firmly."
+        }
+      ],
       "examples": [
         {
           "english": "The dog refuses to let go as it continues to gnaw on the bone.",

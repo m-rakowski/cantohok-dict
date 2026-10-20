@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "purpose, what something is used for",
-      "english": ["function", "use", "purpose"],
+      "english": [
+        {
+          "id": "bfs0n6ji",
+          "word": "function",
+          "meaning": "purpose, use",
+          "note": "Use 用途 as the all-purpose noun for what something is used for or intended to do."
+        },
+        {
+          "id": "f5fxwhgk",
+          "word": "use",
+          "meaning": "a use; purpose/function",
+          "note": "Use 用途 as the default noun for the intended purpose or function of something."
+        },
+        {
+          "id": "01sewwbh",
+          "word": "purpose",
+          "meaning": "function; role",
+          "note": "Use 用途 for the intended use or practical function of an object."
+        }
+      ],
       "examples": [
         {
           "english": "The function of this camera is taking photos.",

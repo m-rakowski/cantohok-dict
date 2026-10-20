@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "to state clearly, spell out",
-      "english": ["specify", "express", "stipulate"],
+      "english": [
+        {
+          "id": "th9qex9e",
+          "word": "specify",
+          "meaning": "state clearly",
+          "note": "This is the all-purpose colloquial choice for stating something clearly or spelling out a condition."
+        },
+        {
+          "id": "pt21gw1o",
+          "word": "express",
+          "meaning": "say / communicate clearly",
+          "note": "Use this when the emphasis is on stating something clearly or making it explicit."
+        },
+        {
+          "id": "0w7f0ds4",
+          "word": "stipulate",
+          "meaning": "require as condition",
+          "register": "colloquial",
+          "note": "Use this in casual speech when stressing that the condition has been clearly stated to the other party."
+        }
+      ],
       "examples": [
         {
           "english": "You need to specify the deadline first.",

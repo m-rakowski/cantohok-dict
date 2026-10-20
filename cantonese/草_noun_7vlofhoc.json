@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "grass",
-      "english": ["grass"],
+      "english": [
+        {
+          "id": "onm886hj",
+          "word": "grass",
+          "meaning": "grass, ground cover",
+          "note": "Use 草 as the all-purpose noun for grass, including plants that merely look like grass; in drug slang it also means marijuana."
+        }
+      ],
       "examples": [
         {
           "english": "I can smell grass in this room.",
@@ -17,7 +24,15 @@
     },
     {
       "meaning": "marijuana (slang)",
-      "english": ["weed"],
+      "english": [
+        {
+          "id": "tt2rujks",
+          "word": "weed",
+          "meaning": "marijuana, cannabis",
+          "register": "colloquial",
+          "note": "Use this colloquial slang term for cannabis in casual drug-related conversation rather than for an unwanted plant."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

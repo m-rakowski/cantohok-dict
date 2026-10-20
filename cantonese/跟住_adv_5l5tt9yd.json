@@ -6,7 +6,34 @@
   "boxes": [
     {
       "meaning": "then, next, afterwards",
-      "english": ["then", "next", "after", "afterwards"],
+      "english": [
+        {
+          "id": "qvuxrmud",
+          "word": "then",
+          "meaning": "after that",
+          "note": "Use this as the all-purpose spoken choice for the next event or item, whether temporal or sequential."
+        },
+        {
+          "id": "h09qqhcj",
+          "word": "next",
+          "meaning": "nearest following",
+          "note": "This is the all-purpose casual choice for what follows next in a sequence or on a subsequent occasion."
+        },
+        {
+          "id": "gz1nmvbh",
+          "word": "after",
+          "meaning": "later; following",
+          "register": "colloquial",
+          "note": "Use this when the following action happens next or when someone or something follows another."
+        },
+        {
+          "id": "qi3w9ua6",
+          "word": "afterwards",
+          "meaning": "at a later time",
+          "register": "colloquial",
+          "note": "Use this colloquial form when describing the next step in an ongoing sequence."
+        }
+      ],
       "examples": [
         {
           "english": "Then we'll go eat.",

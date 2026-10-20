@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "vivid, lively (description)",
-      "english": ["vivid", "graphic", "lively"],
+      "english": [
+        {
+          "id": "lpb07509",
+          "word": "vivid",
+          "meaning": "clear, detailed perception",
+          "note": "Use this for a vivid description, image, account, or impression that feels lively and detailed rather than merely clear."
+        },
+        {
+          "id": "2b9ik7nl",
+          "word": "graphic",
+          "meaning": "explicit, vivid",
+          "note": "Use this when graphic means vivid or richly descriptive rather than explicit or gory."
+        },
+        {
+          "id": "g9rfn1za",
+          "word": "lively",
+          "meaning": "bright, vivid",
+          "note": "Use this for a vivid or lively description, presentation, or portrayal rather than for a colour."
+        }
+      ],
       "examples": [
         {
           "english": "They gave a vivid account of that trip.",

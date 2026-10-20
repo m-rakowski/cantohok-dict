@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "make a bid in auction",
-      "english": ["bid"],
+      "english": [
+        {
+          "id": "z7k7iapp",
+          "word": "bid",
+          "meaning": "make a bid in auction",
+          "note": "Use this when an auction participant is calling out a bid, rather than simply stating an offered price."
+        }
+      ],
       "examples": [
         {
           "english": "I bid fifty thousand for this item.",

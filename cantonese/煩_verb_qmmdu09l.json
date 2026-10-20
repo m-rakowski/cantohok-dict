@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "annoy, bother someone",
-      "english": ["annoy", "bother", "tease"],
+      "english": [
+        {
+          "id": "0xuwe7i4",
+          "word": "annoy",
+          "meaning": "irritate, bother",
+          "note": "This is the all-purpose choice for bothering or irritating someone, especially repeatedly."
+        },
+        {
+          "id": "928wxt2f",
+          "word": "bother",
+          "meaning": "annoy, irritate",
+          "note": "Use this as the all-purpose verb when bother means annoy or disturb someone."
+        },
+        {
+          "id": "egepg6a6",
+          "word": "tease",
+          "meaning": "annoy, irritate",
+          "note": "Use this when teasing means repeatedly bothering, disturbing, or annoying someone."
+        }
+      ],
       "examples": [
         {
           "english": "You keep calling me, and it does annoy me.",

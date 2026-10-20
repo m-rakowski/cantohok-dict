@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "disobedient",
-      "english": ["balky", "insubordinate", "rebellious"],
+      "english": [
+        {
+          "id": "5jjsfmr4",
+          "word": "balky",
+          "meaning": "hard to handle, uncooperative",
+          "note": "This is the all-purpose choice for a person or animal that refuses to obey or cooperate."
+        },
+        {
+          "id": "oe923gh0",
+          "word": "insubordinate",
+          "meaning": "rebellious toward authority",
+          "note": "This is the all-purpose colloquial choice for someone who refuses to obey authority."
+        },
+        {
+          "id": "azfdxei7",
+          "word": "rebellious",
+          "meaning": "showing rebellion",
+          "register": "colloquial",
+          "note": "Use this especially for a child or subordinate who is rebellious in the sense of disobeying."
+        }
+      ],
       "examples": [
         {
           "english": "This dog is really balky.",

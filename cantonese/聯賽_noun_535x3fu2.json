@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "sports league competition",
-      "english": ["league", "tournament"],
+      "english": [
+        {
+          "id": "528fxuwp",
+          "word": "league",
+          "meaning": "sports league",
+          "note": "Use 聯賽 for an organized competition in which sports teams play for a championship."
+        },
+        {
+          "id": "zt7oc124",
+          "word": "tournament",
+          "meaning": "sports competition",
+          "note": "Use this for a league-style tournament in which teams or players meet over a series of fixtures."
+        }
+      ],
       "examples": [
         {
           "english": "The league is really intense this season.",

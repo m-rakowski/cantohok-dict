@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "metaphor, analogy",
-      "english": ["analogy", "metaphor"],
+      "english": [
+        {
+          "id": "gx5vu9z3",
+          "word": "analogy",
+          "meaning": "comparison; similarity",
+          "note": "Use this when the analogy is an illustrative comparison used to explain an idea."
+        },
+        {
+          "id": "zdcensrx",
+          "word": "metaphor",
+          "meaning": "figure of speech",
+          "note": "This is the all-purpose everyday choice for a figure of speech or a particular figurative expression."
+        }
+      ],
       "examples": [
         {
           "english": "This analogy makes it easy to understand, explaining the complicated concept as if it were building blocks.",
@@ -22,7 +35,14 @@
     },
     {
       "meaning": "parable, moral story",
-      "english": ["parable"],
+      "english": [
+        {
+          "id": "2xrae6c1",
+          "word": "parable",
+          "meaning": "moral or religious story",
+          "note": "Use 比喻 as the all-purpose term, especially for a religious or moral story such as one told by Jesus."
+        }
+      ],
       "examples": [
         {
           "english": "Jesus told this parable to teach people to forgive others.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "pleasant surprise",
-      "english": ["surprise", "treat"],
+      "english": [
+        {
+          "id": "tfb35b39",
+          "word": "surprise",
+          "meaning": "unexpected thing",
+          "note": "Use this for a pleasant surprise or the accompanying feeling of delighted surprise."
+        },
+        {
+          "id": "5u4a6mrj",
+          "word": "treat",
+          "meaning": "a pleasant surprise",
+          "note": "Use this when the treat is an unexpected gift, event, or experience that gives great pleasure."
+        }
+      ],
       "examples": [
         {
           "english": "Getting a cake from my friends on my birthday was a real surprise.",

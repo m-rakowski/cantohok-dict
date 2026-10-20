@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "cookie",
-      "english": ["cookie", "biscuit"],
+      "english": [
+        {
+          "id": "hu9pus79",
+          "word": "cookie",
+          "meaning": "baked cookie",
+          "note": "This is the all-purpose Cantonese noun for a baked cookie in Hong Kong."
+        },
+        {
+          "id": "nefcdrs2",
+          "word": "biscuit",
+          "meaning": "cookie / biscuit",
+          "note": "Use this specifically for sweet Western-style cookies, especially when distinguishing them from crackers."
+        }
+      ],
       "examples": [
         {
           "english": "This cookie smells delicious.",

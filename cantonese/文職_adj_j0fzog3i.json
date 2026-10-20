@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "office or clerical (job), not front-line",
-      "english": ["clerical", "civil"],
+      "english": [
+        {
+          "id": "k8mbju9w",
+          "word": "clerical",
+          "meaning": "office/clerical work",
+          "note": "This is the all-purpose choice for work or jobs involving office clerical duties."
+        },
+        {
+          "id": "ujpv69zk",
+          "word": "civil",
+          "meaning": "civil / public-service",
+          "note": "Use this for the civilian or administrative side of public service, especially in contrast with the military."
+        }
+      ],
       "examples": [
         {
           "english": "This clerical job mainly involves helping to handle documents.",

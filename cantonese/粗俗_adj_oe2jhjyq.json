@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "vulgar, crude",
-      "english": ["coarse", "salty"],
+      "english": [
+        {
+          "id": "qz3hfhpm",
+          "word": "coarse",
+          "meaning": "vulgar or unrefined",
+          "note": "Use this for behavior, language, or taste that is vulgar or lacking refinement."
+        },
+        {
+          "id": "wn5zn938",
+          "word": "salty",
+          "meaning": "coarse, provocative language",
+          "note": "Use this for coarse or vulgar language and behaviour, rather than for someone who is merely annoyed."
+        }
+      ],
       "examples": [
         {
           "english": "The way they talk is so coarse; it’s really embarrassing.",

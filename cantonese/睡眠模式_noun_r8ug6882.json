@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "sleep mode",
-      "english": ["standby"],
+      "english": [
+        {
+          "id": "tfw2owkx",
+          "word": "standby",
+          "meaning": "sleep mode",
+          "note": "Use this specifically for a computer or device's low-power sleep setting, not for a person waiting."
+        }
+      ],
       "examples": [
         {
           "english": "The computer automatically goes into standby after being idle for a while to save power.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "around, about a place",
-      "english": ["around", "about"],
+      "english": [
+        {
+          "id": "3srizivb",
+          "word": "around",
+          "meaning": "near; about",
+          "note": "Use this as the all-purpose choice for being in the vicinity or spread throughout an area."
+        },
+        {
+          "id": "zmsx02dx",
+          "word": "about",
+          "meaning": "somewhere near",
+          "note": "Use this for things located or scattered around a place, including movement here and there or somewhere in the nearby area."
+        }
+      ],
       "examples": [
         {
           "english": "I'll walk around a bit first.",

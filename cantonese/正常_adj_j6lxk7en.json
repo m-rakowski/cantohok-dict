@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "normal, as expected, working properly",
-      "english": ["normal", "working", "typical", "ordinary", "regular"],
+      "english": [
+        {
+          "id": "e5ci5fvh",
+          "word": "normal",
+          "meaning": "according to rules",
+          "note": "This is the all-purpose choice for something following the rules or pattern, or for someone feeling usual and well again."
+        },
+        {
+          "id": "71twngad",
+          "word": "working",
+          "meaning": "functioning",
+          "note": "This is the all-purpose choice for something that is functioning properly."
+        },
+        {
+          "id": "i9g1spxk",
+          "word": "typical",
+          "meaning": "normal, expected",
+          "note": "Use this as the all-purpose choice for something normal or expected."
+        },
+        {
+          "id": "b9q5cnom",
+          "word": "ordinary",
+          "meaning": "normal, customary",
+          "note": "Use this when ordinary means normal or as expected rather than merely unremarkable."
+        },
+        {
+          "id": "ue3tfcsi",
+          "word": "regular",
+          "meaning": "bowel movements",
+          "note": "Use this when “regular” means that bowel movements or menstrual periods are normal and occur as expected."
+        }
+      ],
       "examples": [
         {
           "english": "I’m feeling normal again today.",

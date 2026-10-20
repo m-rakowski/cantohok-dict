@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "peak, highest point",
-      "english": ["peak", "pinnacle", "climax", "summit", "height"],
+      "english": [
+        {
+          "id": "6qrccb67",
+          "word": "peak",
+          "meaning": "highest level",
+          "note": "This is the all-purpose choice for an abstract maximum in a value, activity, or period."
+        },
+        {
+          "id": "zxw7x2qc",
+          "word": "pinnacle",
+          "meaning": "peak of success",
+          "note": "Use this for the peak of someone's success, career, achievement, or another period of exceptional performance."
+        },
+        {
+          "id": "qs8vsqce",
+          "word": "climax",
+          "meaning": "peak, highest point",
+          "note": "Use 高峰 for a general highest point or peak rather than a story's dramatic high point or a sexual orgasm."
+        },
+        {
+          "id": "q05l8jbo",
+          "word": "summit",
+          "meaning": "peak of achievement",
+          "note": "Use this for the highest point of achievement, development, or success."
+        },
+        {
+          "id": "enjychpr",
+          "word": "height",
+          "meaning": "peak, highest point",
+          "note": "Use this for a highest point or figurative peak, such as the high point of someone's career."
+        }
+      ],
       "examples": [
         {
           "english": "During the summer holidays, hotel occupancy reached a peak.",

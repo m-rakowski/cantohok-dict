@@ -6,7 +6,45 @@
   "boxes": [
     {
       "meaning": "fairly, quite",
-      "english": ["pretty", "quite", "fairly", "reasonably", "relatively", "rather"],
+      "english": [
+        {
+          "id": "qr2zqkt1",
+          "word": "pretty",
+          "meaning": "somewhat; fairly",
+          "note": "This is the all-purpose spoken choice before an adjective for “fairly,” “quite,” or “pretty,” sometimes with deliberate understatement."
+        },
+        {
+          "id": "5l05xlrr",
+          "word": "quite",
+          "meaning": "somewhat; rather",
+          "note": "Use this as the all-purpose everyday adverb for a moderate degree, as in “quite wet.”"
+        },
+        {
+          "id": "za398b7g",
+          "word": "fairly",
+          "meaning": "quite, somewhat",
+          "note": "This is the all-purpose choice for saying that something is quite or somewhat so, as in 幾乾."
+        },
+        {
+          "id": "gu87zfb5",
+          "word": "reasonably",
+          "meaning": "fairly; moderately",
+          "note": "This is the all-purpose colloquial choice for saying something is fairly or quite so, without suggesting an extreme."
+        },
+        {
+          "id": "uzrrulnt",
+          "word": "relatively",
+          "meaning": "somewhat; fairly",
+          "register": "colloquial",
+          "note": "Use this for the ‘fairly’ or ‘quite’ sense when no specific comparison is being made."
+        },
+        {
+          "id": "xkikmy8q",
+          "word": "rather",
+          "meaning": "quite; fairly",
+          "note": "Use this before an adjective when “rather” means fairly or quite, as in “rather good.”"
+        }
+      ],
       "examples": [
         {
           "english": "This restaurant is pretty good.",
@@ -42,7 +80,14 @@
     },
     {
       "meaning": "how (asking degree)",
-      "english": ["how"],
+      "english": [
+        {
+          "id": "rclfzkuh",
+          "word": "how",
+          "meaning": "to what degree",
+          "note": "Use 幾 to ask to what degree or extent, often before a measure or adjective."
+        }
+      ],
       "examples": [
         {
           "english": "How far is this road?",

@@ -6,7 +6,15 @@
   "boxes": [
     {
       "meaning": "convicted criminal",
-      "english": ["convict"],
+      "english": [
+        {
+          "id": "mivguos7",
+          "word": "convict",
+          "meaning": "convicted criminal",
+          "register": "formal",
+          "note": "Use this specifically for a convicted person serving a prison sentence."
+        }
+      ],
       "register": "formal",
       "examples": [
         {

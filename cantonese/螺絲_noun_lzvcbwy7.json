@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "screw, bolt",
-      "english": ["screw", "bolt"],
+      "english": [
+        {
+          "id": "3whuvjz6",
+          "word": "screw",
+          "meaning": "fastener",
+          "note": "This is the all-purpose Cantonese noun for a screw fastener."
+        },
+        {
+          "id": "eroz46kx",
+          "word": "bolt",
+          "meaning": "metal fastening bolt",
+          "note": "This is the all-purpose everyday Hong Kong term for a threaded metal fastener, including one used with a nut."
+        }
+      ],
       "examples": [
         {
           "english": "This screw is too short to secure the wooden board.",

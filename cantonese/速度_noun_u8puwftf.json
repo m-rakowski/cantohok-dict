@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "speed",
-      "english": ["speed", "pace", "rate"],
+      "english": [
+        {
+          "id": "6tm55vrb",
+          "word": "speed",
+          "meaning": "rate of motion",
+          "note": "Use 速度 as the all-purpose noun for a general or measurable rate of motion, including the broad idea of moving quickly."
+        },
+        {
+          "id": "ga9ytcgj",
+          "word": "pace",
+          "meaning": "speed",
+          "note": "Use 速度 as the all-purpose noun for general speed or velocity."
+        },
+        {
+          "id": "nbizlbfj",
+          "word": "rate",
+          "meaning": "rate of change",
+          "note": "This is the all-purpose choice for physical speed or the speed at which something changes or progresses."
+        }
+      ],
       "examples": [
         {
           "english": "This car's speed is really high.",

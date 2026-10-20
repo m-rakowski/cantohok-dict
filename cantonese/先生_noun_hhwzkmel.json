@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "Mr, sir, polite word for a man",
-      "english": ["sir", "gentleman"],
+      "english": [
+        {
+          "id": "43n7q902",
+          "word": "sir",
+          "meaning": "polite address to adult man",
+          "note": "This is the all-purpose polite address for an adult man, especially in service or formal situations."
+        },
+        {
+          "id": "87pa9esg",
+          "word": "gentleman",
+          "meaning": "man / polite address",
+          "note": "Use this for a polite form of address or when referring respectfully to a particular man."
+        }
+      ],
       "examples": [
         {
           "english": "Sir, please sign for this document.",
@@ -22,7 +35,15 @@
     },
     {
       "meaning": "husband",
-      "english": ["husband"],
+      "english": [
+        {
+          "id": "tftnh9sz",
+          "word": "husband",
+          "meaning": "married man",
+          "register": "formal",
+          "note": "A speaker picks this polite form especially when referring to their own husband."
+        }
+      ],
       "register": "formal",
       "examples": [
         {
@@ -34,7 +55,14 @@
     },
     {
       "meaning": "teacher",
-      "english": ["teacher"],
+      "english": [
+        {
+          "id": "b64qshos",
+          "word": "teacher",
+          "meaning": "person who teaches",
+          "note": "Use this mainly as a respectful or traditional form of address for a male teacher, rather than the default word."
+        }
+      ],
       "examples": [
         {
           "english": "Teacher, could I ask one more time?",

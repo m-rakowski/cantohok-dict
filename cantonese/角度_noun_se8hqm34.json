@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "angle in geometry",
-      "english": ["angle"],
+      "english": [
+        {
+          "id": "g08ymi85",
+          "word": "angle",
+          "meaning": "geometry angle",
+          "note": "This is the all-purpose choice for a geometric angle and for a viewpoint or perspective."
+        }
+      ],
       "examples": [
         {
           "english": "This angle is ninety degrees.",
@@ -17,7 +24,32 @@
     },
     {
       "meaning": "viewpoint, way of looking at something",
-      "english": ["perspective", "point of view", "viewpoint", "aspect"],
+      "english": [
+        {
+          "id": "w4lwl46o",
+          "word": "perspective",
+          "meaning": "point of view",
+          "note": "This is the all-purpose choice for expressing a point of view or angle of approach."
+        },
+        {
+          "id": "6dl5p0z6",
+          "word": "point of view",
+          "meaning": "viewpoint; position of seeing",
+          "note": "This is the all-purpose choice for describing a person's perspective or how something looks from a particular position."
+        },
+        {
+          "id": "om8ije7n",
+          "word": "viewpoint",
+          "meaning": "point of view",
+          "note": "Use this when viewpoint means a particular angle or perspective rather than someone's stated opinion."
+        },
+        {
+          "id": "79m18nm0",
+          "word": "aspect",
+          "meaning": "respect; viewpoint",
+          "note": "Use this for an aspect considered specifically as a viewpoint or angle of analysis."
+        }
+      ],
       "examples": [
         {
           "english": "Let's look at this from a different perspective.",

@@ -6,7 +6,41 @@
   "boxes": [
     {
       "meaning": "smart, clever",
-      "english": ["wise", "intelligent", "sharp", "bright", "clever"],
+      "english": [
+        {
+          "id": "aurox1qm",
+          "word": "wise",
+          "meaning": "showing good judgement",
+          "note": "This is the all-purpose spoken choice for a person who is clever and shows good judgement."
+        },
+        {
+          "id": "j8onmf4d",
+          "word": "intelligent",
+          "meaning": "smart, clever",
+          "register": "colloquial",
+          "note": "Use this for someone who is quick-witted, sharp, or good at handling practical situations rather than simply academically intelligent."
+        },
+        {
+          "id": "1zh62617",
+          "word": "sharp",
+          "meaning": "smart, clever",
+          "register": "colloquial",
+          "note": "Use this for someone who is clever, quick to notice things, or alert rather than physically sharp."
+        },
+        {
+          "id": "am44317e",
+          "word": "bright",
+          "meaning": "intelligent, smart",
+          "register": "colloquial",
+          "note": "Use this for a person who is intelligent, quick to understand, and capable."
+        },
+        {
+          "id": "hr7big5q",
+          "word": "clever",
+          "meaning": "resourceful, shrewd",
+          "note": "Use this when someone is shrewd or when an idea, method, or trick is smart and effective."
+        }
+      ],
       "examples": [
         {
           "english": "They’re really wise and always think things through.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "heartfelt wish",
-      "english": ["aspiration", "wish"],
+      "english": [
+        {
+          "id": "i5jzztip",
+          "word": "aspiration",
+          "meaning": "ambition, strong desire",
+          "note": "Choose this when the aspiration is mainly a heartfelt wish or something the speaker strongly hopes to fulfil."
+        },
+        {
+          "id": "2zop7cj1",
+          "word": "wish",
+          "meaning": "desire; hope",
+          "note": "Use this for a deeply personal or cherished wish, rather than an ordinary preference."
+        }
+      ],
       "examples": [
         {
           "english": "My greatest aspiration is to take my mum on a trip.",

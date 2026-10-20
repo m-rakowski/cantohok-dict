@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "intended recipient",
-      "english": ["addressee"],
+      "english": [
+        {
+          "id": "n6h0figk",
+          "word": "addressee",
+          "meaning": "intended recipient",
+          "note": "Use this specifically for the person or organization to whom a letter is addressed."
+        }
+      ],
       "examples": [
         {
           "english": "The addressee of this letter is my mother.",

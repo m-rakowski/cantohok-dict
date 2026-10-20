@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "computer virus",
-      "english": ["virus"],
+      "english": [
+        {
+          "id": "rh4688ut",
+          "word": "virus",
+          "meaning": "computer virus",
+          "note": "Use this when the virus infects computers or spreads through digital files and networks."
+        }
+      ],
       "examples": [
         {
           "english": "My computer got a virus, and none of the files will open.",

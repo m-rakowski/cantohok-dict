@@ -6,7 +6,28 @@
   "boxes": [
     {
       "meaning": "sullen, with a long face",
-      "english": ["glum", "sour", "black"],
+      "english": [
+        {
+          "id": "dke11jcs",
+          "word": "glum",
+          "meaning": "sad, moody",
+          "register": "colloquial",
+          "note": "Use this when the person is visibly sullen, grumpy, or showing a glum expression rather than simply feeling sad."
+        },
+        {
+          "id": "y6xl9v4j",
+          "word": "sour",
+          "meaning": "unfriendly, hostile",
+          "note": "Use this for a sour, sullen, or unfriendly facial expression or demeanor, especially a sour look."
+        },
+        {
+          "id": "8x3ac9eo",
+          "word": "black",
+          "meaning": "dark, sullen look",
+          "register": "colloquial",
+          "note": "Use 黑面 when someone looks sullen, displeased, or menacing rather than merely dark-coloured."
+        }
+      ],
       "examples": [
         {
           "english": "You don't have to look glum; everyone was only joking.",

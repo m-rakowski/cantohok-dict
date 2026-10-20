@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "tradition, custom",
-      "english": ["tradition", "heritage", "custom"],
+      "english": [
+        {
+          "id": "8lh01ha6",
+          "word": "tradition",
+          "meaning": "cultural custom",
+          "note": "This is the all-purpose choice for an inherited cultural tradition."
+        },
+        {
+          "id": "gju95t56",
+          "word": "heritage",
+          "meaning": "tradition passed down",
+          "note": "This is the all-purpose choice for customs, practices, or values handed down through generations."
+        },
+        {
+          "id": "d5ti481a",
+          "word": "custom",
+          "meaning": "tradition, established practice",
+          "note": "Use this for the tradition or inherited practice of a community, rather than an ordinary personal habit."
+        }
+      ],
       "examples": [
         {
           "english": "Celebrating Lunar New Year this way is a tradition passed down in our family.",

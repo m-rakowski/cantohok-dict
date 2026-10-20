@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "foot digit",
-      "english": ["toe"],
+      "english": [
+        {
+          "id": "tssipeva",
+          "word": "toe",
+          "meaning": "foot digit",
+          "note": "This is the all-purpose noun for a human toe."
+        }
+      ],
       "examples": [
         {
           "english": "I stubbed my toe on the table leg—it hurts like hell.",

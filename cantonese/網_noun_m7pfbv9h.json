@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "net, mesh",
-      "english": ["net", "web"],
+      "english": [
+        {
+          "id": "ch9hamiu",
+          "word": "net",
+          "meaning": "mesh net",
+          "note": "This is the all-purpose Cantonese noun for a physical net, including catching and sports nets."
+        },
+        {
+          "id": "1z0dypd5",
+          "word": "web",
+          "meaning": "woven lattice",
+          "note": "Use this bare noun for a mesh or lattice structure, rather than the spider-specific 蜘蛛網."
+        }
+      ],
       "examples": [
         {
           "english": "The holes in this net are too big, so all the fish got away.",

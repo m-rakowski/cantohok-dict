@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "master artist or musician",
-      "english": ["maestro", "virtuoso"],
+      "english": [
+        {
+          "id": "73ic9qjo",
+          "word": "maestro",
+          "meaning": "master musician",
+          "note": "Use this as the all-purpose choice for a highly accomplished artist or musician."
+        },
+        {
+          "id": "8ctjbuga",
+          "word": "virtuoso",
+          "meaning": "virtuoso performer",
+          "note": "Use this for a highly accomplished artistic or musical performer, with a more grand or honorific tone than 高手."
+        }
+      ],
       "examples": [
         {
           "english": "This painter is truly a maestro; a few strokes are enough to capture the spirit.",

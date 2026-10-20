@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "success",
-      "english": ["success", "triumph", "win"],
+      "english": [
+        {
+          "id": "1nb2hr9j",
+          "word": "success",
+          "meaning": "achievement of aim",
+          "note": "This is the all-purpose noun for achieving an aim or goal."
+        },
+        {
+          "id": "9vtkkb7m",
+          "word": "triumph",
+          "meaning": "victory, success",
+          "note": "This is the all-purpose choice for an achieved success; use 勝利 when victory in a conflict is explicit."
+        },
+        {
+          "id": "32zt109s",
+          "word": "win",
+          "meaning": "success",
+          "note": "Use this for a successful outcome or accomplishment rather than a victory itself."
+        }
+      ],
       "examples": [
         {
           "english": "I finally achieved success in this exam.",

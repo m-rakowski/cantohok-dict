@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "in actual fact",
-      "english": ["de facto"],
+      "english": [
+        {
+          "id": "maftyp16",
+          "word": "de facto",
+          "meaning": "in actual fact",
+          "note": "This is the all-purpose spoken modifier for something that operates or exists in practice regardless of its official status."
+        }
+      ],
       "examples": [
         {
           "english": "This shop’s de facto opening hours are longer than those stated on the notice at the entrance.",

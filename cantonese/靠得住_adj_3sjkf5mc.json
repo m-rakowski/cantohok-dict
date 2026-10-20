@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "reliable",
-      "english": ["dependable", "trusty"],
+      "english": [
+        {
+          "id": "0xv8sqhh",
+          "word": "dependable",
+          "meaning": "reliable; can be depended on",
+          "note": "This is the all-purpose spoken choice for a person, service, or thing that can be depended on."
+        },
+        {
+          "id": "nvtg78ht",
+          "word": "trusty",
+          "meaning": "reliable, dependable",
+          "note": "This is the all-purpose everyday choice for a person, machine, or service that is reliable."
+        }
+      ],
       "examples": [
         {
           "english": "That repair shop is pretty dependable; I feel at ease leaving my phone with them.",

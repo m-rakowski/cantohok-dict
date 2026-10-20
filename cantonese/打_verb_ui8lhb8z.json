@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "hit, strike",
-      "english": ["bat", "hit", "strike", "beat", "punch"],
+      "english": [
+        {
+          "id": "ggsppy20",
+          "word": "bat",
+          "meaning": "hit with bat",
+          "note": "This is the all-purpose verb for hitting an object with a bat or as if with one."
+        },
+        {
+          "id": "rcke4i0k",
+          "word": "hit",
+          "meaning": "strike a person or thing",
+          "note": "This is the all-purpose everyday choice for hitting a person or thing with a blow."
+        },
+        {
+          "id": "ffw1cyq6",
+          "word": "strike",
+          "meaning": "hit; hit against",
+          "note": "This is the all-purpose choice for hitting someone or something with a blow, rather than the specialized senses below."
+        },
+        {
+          "id": "rzwyw5wl",
+          "word": "beat",
+          "meaning": "hit, strike",
+          "note": "This is the all-purpose choice for physically striking something, including repeated blows."
+        },
+        {
+          "id": "49tgi15s",
+          "word": "punch",
+          "meaning": "hit with fist",
+          "note": "This is the all-purpose choice for striking someone with a fist."
+        }
+      ],
       "examples": [
         {
           "english": "I use a bat to hit the ball.",
@@ -37,7 +68,15 @@
     },
     {
       "meaning": "type",
-      "english": ["type"],
+      "english": [
+        {
+          "id": "gmjbhpuh",
+          "word": "type",
+          "meaning": "type on keyboard",
+          "register": "colloquial",
+          "note": "Use this shortened form when the context clearly means typing, often with an object such as 幾隻字."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {
@@ -49,7 +88,14 @@
     },
     {
       "meaning": "play a sport or game",
-      "english": ["play"],
+      "english": [
+        {
+          "id": "n00vay80",
+          "word": "play",
+          "meaning": "play a game/sport",
+          "note": "Use 打 for taking part in a sport or game, including competing against another team."
+        }
+      ],
       "examples": [
         {
           "english": "We play basketball tonight, so don't be late.",

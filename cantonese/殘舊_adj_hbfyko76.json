@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "worn, old and shabby",
-      "english": ["worn", "battered", "elderly"],
+      "english": [
+        {
+          "id": "fu26kiqd",
+          "word": "worn",
+          "meaning": "damaged and shabby from use",
+          "note": "Use this all-purpose adjective for things that are damaged and shabby from long use."
+        },
+        {
+          "id": "dp2i1tjj",
+          "word": "battered",
+          "meaning": "worn out, weathered",
+          "note": "This is the all-purpose choice for an object that is worn out, weathered, or in rough condition."
+        },
+        {
+          "id": "u4ckikpc",
+          "word": "elderly",
+          "meaning": "old object, dated",
+          "register": "colloquial",
+          "note": "Use this for an old object that is worn, frail, or dated rather than for an elderly person."
+        }
+      ],
       "examples": [
         {
           "english": "This table is really worn; even the paint has peeled off.",

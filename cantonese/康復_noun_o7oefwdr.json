@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "recovery of health",
-      "english": ["recovery", "recuperation", "cure"],
+      "english": [
+        {
+          "id": "nej86ry1",
+          "word": "recovery",
+          "meaning": "return to health",
+          "note": "This is the all-purpose noun for returning to normal health, as in a full recovery."
+        },
+        {
+          "id": "9lgspbdx",
+          "word": "recuperation",
+          "meaning": "recovery of health",
+          "note": "This is the all-purpose noun for the gradual restoration of health."
+        },
+        {
+          "id": "wnetktgw",
+          "word": "cure",
+          "meaning": "healing; recovery",
+          "note": "Use this for recovery to health after an illness, rather than for the treatment that causes it."
+        }
+      ],
       "examples": [
         {
           "english": "I made a pretty good recovery after my surgery.",

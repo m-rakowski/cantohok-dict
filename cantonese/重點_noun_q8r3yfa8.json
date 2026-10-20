@@ -6,7 +6,56 @@
   "boxes": [
     {
       "meaning": "main point, focus",
-      "english": ["emphasis", "focus", "importance", "point", "accent", "takeaway", "stress", "beef"],
+      "english": [
+        {
+          "id": "q9oujgi9",
+          "word": "emphasis",
+          "meaning": "special attention or focus",
+          "note": "This is the all-purpose noun for the main point or focus receiving special attention."
+        },
+        {
+          "id": "vj4fc97y",
+          "word": "focus",
+          "meaning": "main subject",
+          "note": "This is the everyday all-purpose noun for the main thing receiving attention or effort."
+        },
+        {
+          "id": "gmfsprzf",
+          "word": "importance",
+          "meaning": "important thing",
+          "note": "Use this for an important point, item, or thing singled out from others."
+        },
+        {
+          "id": "ofklqatq",
+          "word": "point",
+          "meaning": "main point / idea",
+          "note": "Use 重點 for the central idea or the particularly important detail rather than a merely mentioned point."
+        },
+        {
+          "id": "wc891c0q",
+          "word": "accent",
+          "meaning": "emphasis, focus",
+          "note": "Use this for the main emphasis, priority, or focus, as in putting the emphasis on luxury."
+        },
+        {
+          "id": "pbgwear3",
+          "word": "takeaway",
+          "meaning": "main point",
+          "note": "Use this for the main idea or point that someone should remember from a talk or presentation."
+        },
+        {
+          "id": "ftqb0nwd",
+          "word": "stress",
+          "meaning": "emphasis",
+          "note": "Use this for the point or aspect that someone deliberately emphasizes in an argument or discussion."
+        },
+        {
+          "id": "gtw23uyb",
+          "word": "beef",
+          "meaning": "main substance",
+          "note": "Use this for the important substance or key point of a document, discussion, or project."
+        }
+      ],
       "examples": [
         {
           "english": "The emphasis of this report is environmental protection.",

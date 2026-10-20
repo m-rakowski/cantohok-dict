@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "send, deliver, take somewhere",
-      "english": ["send"],
+      "english": [
+        {
+          "id": "eaq3hasu",
+          "word": "send",
+          "meaning": "send something somewhere",
+          "note": "Use 送 as the all-purpose choice for taking or delivering a person or physical thing somewhere."
+        }
+      ],
       "examples": [
         {
           "english": "I’ll send the document to you.",
@@ -17,7 +24,14 @@
     },
     {
       "meaning": "give as a gift",
-      "english": ["give"],
+      "english": [
+        {
+          "id": "fs4kczwo",
+          "word": "give",
+          "meaning": "give as a gift",
+          "note": "Use this when the thing is being given specifically as a present or gift, rather than simply transferred."
+        }
+      ],
       "examples": [
         {
           "english": "I give you this gift.",

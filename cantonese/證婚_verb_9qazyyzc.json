@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "to officiate a wedding",
-      "english": ["wed", "marry"],
+      "english": [
+        {
+          "id": "quby0bf1",
+          "word": "wed",
+          "meaning": "marry someone",
+          "note": "Use this when a priest, celebrant, or other official performs the marriage ceremony for the couple."
+        },
+        {
+          "id": "gl2i8kr5",
+          "word": "marry",
+          "meaning": "perform a wedding",
+          "note": "Use 證婚 when an officiant performs or solemnizes the wedding ceremony."
+        }
+      ],
       "examples": [
         {
           "english": "The pastor will wed the couple tomorrow.",

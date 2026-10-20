@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "right to use something",
-      "english": ["disposal", "freedom"],
+      "english": [
+        {
+          "id": "m6p1ggem",
+          "word": "disposal",
+          "meaning": "use or control of",
+          "note": "Use this for the power or right to use a person or thing."
+        },
+        {
+          "id": "1okymam6",
+          "word": "freedom",
+          "meaning": "right of access or use",
+          "note": "Use 使用權 for a right or privilege to use or access a resource."
+        }
+      ],
       "examples": [
         {
           "english": "The software is at our disposal, but we can’t transfer it to anyone else.",

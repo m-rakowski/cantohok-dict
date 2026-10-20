@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "check mark",
-      "english": ["tick", "check"],
+      "english": [
+        {
+          "id": "0kcmyk92",
+          "word": "tick",
+          "meaning": "check mark",
+          "note": "Use 剔號 for the check mark placed in a box or beside an item."
+        },
+        {
+          "id": "ghaiuwnm",
+          "word": "check",
+          "meaning": "check mark",
+          "note": "Use this for a tick or check mark used to indicate a selection or completion."
+        }
+      ],
       "examples": [
         {
           "english": "There's a tick after every item on the form.",

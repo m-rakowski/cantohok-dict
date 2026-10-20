@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "to bend",
-      "english": ["round", "bend"],
+      "english": [
+        {
+          "id": "szavpum0",
+          "word": "round",
+          "meaning": "make round, curve",
+          "note": "Use 屈 as the all-purpose verb for making something curved or for an object becoming bent."
+        },
+        {
+          "id": "lj3gy7sj",
+          "word": "bend",
+          "meaning": "curve something",
+          "note": "Use 屈 as the all-purpose verb when someone actively bends a physical object."
+        }
+      ],
       "examples": [
         {
           "english": "I used my hands to round the wire into a loop.",

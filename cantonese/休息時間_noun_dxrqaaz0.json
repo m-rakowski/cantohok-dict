@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "break time",
-      "english": ["intermission", "recess"],
+      "english": [
+        {
+          "id": "oq6rp4fg",
+          "word": "intermission",
+          "meaning": "break between performances",
+          "note": "This is the all-purpose choice for a break in a seminar, session, meeting, or assembly."
+        },
+        {
+          "id": "uial02q4",
+          "word": "recess",
+          "meaning": "break, pause",
+          "note": "This is the all-purpose choice for a temporary break or pause in an activity."
+        }
+      ],
       "examples": [
         {
           "english": "There is an intermission halfway through the seminar, so everyone can go out for a drink of water.",

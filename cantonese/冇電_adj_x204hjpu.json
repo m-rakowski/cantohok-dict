@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "out of battery or power",
-      "english": ["dead", "flat"],
+      "english": [
+        {
+          "id": "22u6qg14",
+          "word": "dead",
+          "meaning": "not working; no power",
+          "note": "Use 冇電 when a device or circuit is dead specifically because it has no power, not merely because it has no signal."
+        },
+        {
+          "id": "24l7ab13",
+          "word": "flat",
+          "meaning": "dead battery",
+          "note": "Use it when a battery or device has no power left."
+        }
+      ],
       "examples": [
         {
           "english": "My phone is dead and won't turn on.",

@@ -6,7 +6,33 @@
   "boxes": [
     {
       "meaning": "core, central part",
-      "english": ["innermost", "core", "nucleus", "heart"],
+      "english": [
+        {
+          "id": "xfpln7qb",
+          "word": "innermost",
+          "meaning": "core, deepest part",
+          "note": "This is the all-purpose noun for the core or deepest central part of something."
+        },
+        {
+          "id": "9dqnzjzp",
+          "word": "core",
+          "meaning": "main essence",
+          "note": "Use 核心 as the all-purpose choice for the key or central part, including a CPU core in technical contexts."
+        },
+        {
+          "id": "ik91tt0n",
+          "word": "nucleus",
+          "meaning": "central core",
+          "note": "This is the all-purpose choice for a central core or the initial core of a larger project or collection."
+        },
+        {
+          "id": "1t2c6byc",
+          "word": "heart",
+          "meaning": "centre or core",
+          "register": "formal",
+          "note": "Use this for the essential core or central point of a matter, especially in more formal or analytical contexts."
+        }
+      ],
       "examples": [
         {
           "english": "The innermost part of this plan is helping local residents.",

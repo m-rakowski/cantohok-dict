@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "breathe with a wheeze",
-      "english": ["wheeze"],
+      "english": [
+        {
+          "id": "ifi06utc",
+          "word": "wheeze",
+          "meaning": "breathe with a wheeze",
+          "note": "Use this as the all-purpose casual way to describe laboured breathing; it does not by itself imply a whistling sound."
+        }
+      ],
       "examples": [
         {
           "english": "I wheeze badly after climbing the stairs.",

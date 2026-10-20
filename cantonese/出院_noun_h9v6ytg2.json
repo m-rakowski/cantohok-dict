@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "hospital release",
-      "english": ["discharge"],
+      "english": [
+        {
+          "id": "hnhpjg8g",
+          "word": "discharge",
+          "meaning": "hospital release",
+          "note": "This is the all-purpose choice for a patient's release from hospital."
+        }
+      ],
       "examples": [
         {
           "english": "If everything is fine tomorrow, the hospital can discharge me.",

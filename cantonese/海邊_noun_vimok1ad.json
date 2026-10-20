@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "beside the sea, seaside",
-      "english": ["seaside", "coast", "shore"],
+      "english": [
+        {
+          "id": "kpo9hlnx",
+          "word": "seaside",
+          "meaning": "coast, seaside area",
+          "note": "This is the all-purpose everyday choice for the area by the sea."
+        },
+        {
+          "id": "sm1a8fux",
+          "word": "coast",
+          "meaning": "shoreline",
+          "note": "This is the all-purpose spoken choice for a coastal area or the land beside the sea."
+        },
+        {
+          "id": "04q9a7ug",
+          "word": "shore",
+          "meaning": "seashore, lake shore",
+          "note": "Use this specifically for a seaside or seashore setting rather than a lake or pond."
+        }
+      ],
       "examples": [
         {
           "english": "The weather is so nice today; let’s go swimming by the seaside.",

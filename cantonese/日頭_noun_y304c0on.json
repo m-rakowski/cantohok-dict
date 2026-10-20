@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "daytime",
-      "english": ["daytime", "daylight"],
+      "english": [
+        {
+          "id": "ntt506lr",
+          "word": "daytime",
+          "meaning": "daylight hours",
+          "note": "This is the all-purpose colloquial noun for the time between sunrise and sunset."
+        },
+        {
+          "id": "xz79evn3",
+          "word": "daylight",
+          "meaning": "daytime",
+          "register": "colloquial",
+          "note": "Use this colloquial noun for the daytime period rather than for the light itself."
+        }
+      ],
       "examples": [
         {
           "english": "It’s so hot in the daytime, so remember to drink more water.",
@@ -22,7 +36,22 @@
     },
     {
       "meaning": "the sun, sunshine",
-      "english": ["sun", "day"],
+      "english": [
+        {
+          "id": "hbw0vdkn",
+          "word": "sun",
+          "meaning": "a star, solar-system centre",
+          "register": "colloquial",
+          "note": "Use 日頭 in casual speech when referring to the sun overhead, especially in weather or daylight contexts."
+        },
+        {
+          "id": "90gw5i00",
+          "word": "day",
+          "meaning": "daylight",
+          "register": "colloquial",
+          "note": "Use 日頭 for the daylight portion of a day, especially when contrasting it with nighttime."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

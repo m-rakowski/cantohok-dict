@@ -6,7 +6,28 @@
   "boxes": [
     {
       "meaning": "advantage, good deal",
-      "english": ["advantage", "edge", "start"],
+      "english": [
+        {
+          "id": "m35vy0pd",
+          "word": "advantage",
+          "meaning": "benefit; profit",
+          "register": "colloquial",
+          "note": "Use this colloquial word for a practical or personal advantage, such as getting a better deal or having circumstances in your favor."
+        },
+        {
+          "id": "8d4572w5",
+          "word": "edge",
+          "meaning": "advantage",
+          "register": "colloquial",
+          "note": "Use this colloquial noun for having an advantage over someone."
+        },
+        {
+          "id": "j0pl61r8",
+          "word": "start",
+          "meaning": "head start",
+          "note": "Use 著數 when the advantage comes from being allowed to begin earlier."
+        }
+      ],
       "examples": [
         {
           "english": "Buying two items now gives you an advantage.",

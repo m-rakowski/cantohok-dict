@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "booking confirmation",
-      "english": ["confirmation"],
+      "english": [
+        {
+          "id": "bwc18vkv",
+          "word": "confirmation",
+          "meaning": "booking confirmation",
+          "note": "Use this as the all-purpose term for a written or emailed booking confirmation."
+        }
+      ],
       "examples": [
         {
           "english": "I received the hotel's booking confirmation, so I can relax.",

@@ -6,7 +6,45 @@
   "boxes": [
     {
       "meaning": "tendency, inclination",
-      "english": ["tendency", "trend", "predilection", "trait", "disposition", "sympathy"],
+      "english": [
+        {
+          "id": "bwaw8bnf",
+          "word": "tendency",
+          "meaning": "likelihood / inclination",
+          "register": "written",
+          "note": "This is the all-purpose noun for a likelihood or inclination to behave or develop in a particular way."
+        },
+        {
+          "id": "ro7u1bxc",
+          "word": "trend",
+          "meaning": "tendency",
+          "note": "This is the all-purpose choice for a person’s or group’s inclination or tendency."
+        },
+        {
+          "id": "7vszcfg7",
+          "word": "predilection",
+          "meaning": "preference, liking",
+          "note": "Use this when the predilection is expressed as a tendency or proclivity toward something rather than a simple liking."
+        },
+        {
+          "id": "o0k27mks",
+          "word": "trait",
+          "meaning": "characteristic; personality trait",
+          "note": "Use this when the trait is specifically a recurring tendency or behavioral trend."
+        },
+        {
+          "id": "vkyg2ll5",
+          "word": "disposition",
+          "meaning": "tendency; inclination",
+          "note": "Use this for a tendency or inclination to act in a certain way, rather than for personality."
+        },
+        {
+          "id": "q9gio1jt",
+          "word": "sympathy",
+          "meaning": "support for a view",
+          "note": "Use this for the tendency or political leaning associated with a person or group, as in someone's Communist sympathies."
+        }
+      ],
       "examples": [
         {
           "english": "This industry has a tendency to develop online.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "postal mailbox",
-      "english": ["mailbox"],
+      "english": [
+        {
+          "id": "0doi01e9",
+          "word": "mailbox",
+          "meaning": "postal mailbox",
+          "note": "Use this specifically for a public street postbox where people drop off mail."
+        }
+      ],
       "examples": [
         {
           "english": "I went to the mailbox at the street corner to mail a postcard.",

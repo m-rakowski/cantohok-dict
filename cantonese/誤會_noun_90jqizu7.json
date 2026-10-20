@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "misunderstanding",
-      "english": ["confusion", "misunderstanding"],
+      "english": [
+        {
+          "id": "rdpl2wbo",
+          "word": "confusion",
+          "meaning": "state of being confused",
+          "note": "Use this when the confusion is a particular misunderstanding or an individual mistaking one thing for another, rather than general disorder."
+        },
+        {
+          "id": "nrdbmp0v",
+          "word": "misunderstanding",
+          "meaning": "mistaken interpretation",
+          "note": "This is the all-purpose choice for a mistaken interpretation or misconception."
+        }
+      ],
       "examples": [
         {
           "english": "The confusion is that you thought I meant you; I wasn’t talking about you.",

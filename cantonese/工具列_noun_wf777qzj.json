@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "computer dock",
-      "english": ["dock"],
+      "english": [
+        {
+          "id": "p1wmh3px",
+          "word": "dock",
+          "meaning": "computer dock",
+          "note": "Use this in computer contexts for a dock-like bar used to launch and switch applications, rather than for a physical dock."
+        }
+      ],
       "examples": [
         {
           "english": "I usually use the dock to launch programs.",

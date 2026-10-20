@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "drunk",
-      "english": ["drunk", "lush"],
+      "english": [
+        {
+          "id": "1glecs2t",
+          "word": "drunk",
+          "meaning": "intoxicated by alcohol",
+          "note": "This is the all-purpose choice for being intoxicated by alcohol, with 成日 understood or added when the sense is habitual."
+        },
+        {
+          "id": "hcj6zf9c",
+          "word": "lush",
+          "meaning": "drunk, tipsy",
+          "note": "Use this for someone who is drunk or tipsy rather than for general approval."
+        }
+      ],
       "examples": [
         {
           "english": "I drank too much last night and got completely drunk.",

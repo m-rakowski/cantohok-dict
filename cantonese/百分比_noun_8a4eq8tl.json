@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "percentage",
-      "english": ["percentage", "percent"],
+      "english": [
+        {
+          "id": "wsa26p44",
+          "word": "percentage",
+          "meaning": "part of 100",
+          "note": "This is the all-purpose choice for a part or rate expressed out of 100."
+        },
+        {
+          "id": "ipd1v2f3",
+          "word": "percent",
+          "meaning": "percentage; per hundred",
+          "note": "Use 百分比 when referring to a percentage as a ratio or measured figure rather than stating the number itself."
+        }
+      ],
       "examples": [
         {
           "english": "The percentage of students who passed the exam has gone up.",

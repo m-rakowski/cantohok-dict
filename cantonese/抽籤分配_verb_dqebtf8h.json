@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "distribute by lot / apportion",
-      "english": ["allot"],
+      "english": [
+        {
+          "id": "nlnp4dkt",
+          "word": "allot",
+          "meaning": "distribute by lot / apportion",
+          "note": "Use this when the distribution is explicitly decided by drawing lots."
+        }
+      ],
       "examples": [
         {
           "english": "This time, we allot the stalls by drawing lots.",

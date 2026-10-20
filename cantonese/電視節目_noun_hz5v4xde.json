@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "TV programs",
-      "english": ["television"],
+      "english": [
+        {
+          "id": "166v4ssm",
+          "word": "television",
+          "meaning": "TV programs",
+          "note": "Use this when you mean the programs themselves rather than television as a medium in general."
+        }
+      ],
       "examples": [
         {
           "english": "This television program is great for children to watch.",

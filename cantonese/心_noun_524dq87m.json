@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "heart, mind, inner feelings",
-      "english": ["heart", "psyche"],
+      "english": [
+        {
+          "id": "n4fosl39",
+          "word": "heart",
+          "meaning": "feelings and emotions",
+          "note": "This is the all-purpose noun for emotional feelings and inner character, including kindness, affection, and spirit in context."
+        },
+        {
+          "id": "o90s0z2b",
+          "word": "psyche",
+          "meaning": "mind / inner self",
+          "note": "Use 心 as the all-purpose everyday rendering for a person's inner mind and feelings, rather than for a literal religious soul."
+        }
+      ],
       "examples": [
         {
           "english": "They have a good heart and always help people without being asked.",

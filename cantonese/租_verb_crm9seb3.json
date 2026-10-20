@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "rent, hire",
-      "english": ["rent", "hire"],
+      "english": [
+        {
+          "id": "mdpkbxcd",
+          "word": "rent",
+          "meaning": "lease (a property)",
+          "note": "This is the all-purpose verb for taking a property or item temporarily, and in a pricing context it also means that a property is let for a stated amount."
+        },
+        {
+          "id": "xxybpxa2",
+          "word": "hire",
+          "meaning": "rent a vehicle/item",
+          "note": "Use this for paying to use a vehicle, item, or premises for a period of time."
+        }
+      ],
       "examples": [
         {
           "english": "We want to rent a venue for a birthday party.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "happening at night",
-      "english": ["overnight", "nocturnal"],
+      "english": [
+        {
+          "id": "vjwkvp20",
+          "word": "overnight",
+          "meaning": "night-time; overnight",
+          "note": "This is the all-purpose choice for something occurring during the night."
+        },
+        {
+          "id": "rvfqdx98",
+          "word": "nocturnal",
+          "meaning": "happening at night",
+          "note": "Use this everyday attributive construction when an event or activity takes place at night."
+        }
+      ],
       "examples": [
         {
           "english": "Overnight flights are usually cheaper.",

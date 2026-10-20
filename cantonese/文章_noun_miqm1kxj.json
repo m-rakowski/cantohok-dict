@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "article, piece of writing",
-      "english": ["article", "writing", "text"],
+      "english": [
+        {
+          "id": "yoprugy3",
+          "word": "article",
+          "meaning": "news or magazine piece",
+          "note": "For a news, magazine, or other nonfiction piece, 文章 is the all-purpose choice."
+        },
+        {
+          "id": "8z3uomf2",
+          "word": "writing",
+          "meaning": "written work",
+          "note": "This is the all-purpose noun for an identifiable written text, especially an article or passage."
+        },
+        {
+          "id": "56g3m4py",
+          "word": "text",
+          "meaning": "written passage",
+          "note": "Use this when the text is an article, composition, or other substantial written work."
+        }
+      ],
       "examples": [
         {
           "english": "This article is quite interesting.",

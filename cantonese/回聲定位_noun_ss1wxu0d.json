@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "echo-based object detection",
-      "english": ["echolocation"],
+      "english": [
+        {
+          "id": "yqtd5kdc",
+          "word": "echolocation",
+          "meaning": "echo-based object detection",
+          "note": "This is the all-purpose term for detecting objects by interpreting echoes, including the way bats do it."
+        }
+      ],
       "examples": [
         {
           "english": "Bats use echolocation to find prey in the dark.",

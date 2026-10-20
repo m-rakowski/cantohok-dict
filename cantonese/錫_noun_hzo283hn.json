@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "metal element",
-      "english": ["tin"],
+      "english": [
+        {
+          "id": "ld3a1tcn",
+          "word": "tin",
+          "meaning": "metal element",
+          "note": "Use this for the chemical element itself, rather than for an object made from tin."
+        }
+      ],
       "examples": [
         {
           "english": "Tin is a silvery-white metal.",

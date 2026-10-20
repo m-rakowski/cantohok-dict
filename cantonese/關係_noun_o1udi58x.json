@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "relationship between people",
-      "english": ["relationship", "relation", "rapport", "tie"],
+      "english": [
+        {
+          "id": "fl38bm0j",
+          "word": "relationship",
+          "meaning": "personal relationship",
+          "note": "This is the all-purpose choice for a connection, an interpersonal relationship, or a romantic relationship when the context makes the meaning clear."
+        },
+        {
+          "id": "e7jevg6m",
+          "word": "relation",
+          "meaning": "connection between things",
+          "note": "This is the all-purpose choice for a connection between things or a relationship between people, groups, or countries."
+        },
+        {
+          "id": "vtktpwud",
+          "word": "rapport",
+          "meaning": "close harmonious relationship",
+          "note": "This is the all-purpose choice for a close, positive relationship, especially in phrases such as 維持良好關係."
+        },
+        {
+          "id": "2g0t22a3",
+          "word": "tie",
+          "meaning": "bond; connection",
+          "note": "Use this for a connection or bond between people or groups."
+        }
+      ],
       "examples": [
         {
           "english": "My relationship with my new colleague is pretty good.",
@@ -32,7 +57,26 @@
     },
     {
       "meaning": "connection, relevance",
-      "english": ["bearing", "association", "link"],
+      "english": [
+        {
+          "id": "mq830859",
+          "word": "bearing",
+          "meaning": "relevance / connection",
+          "note": "This is the all-purpose noun for relevance or a connection between things."
+        },
+        {
+          "id": "xvhe1mpi",
+          "word": "association",
+          "meaning": "connection; affiliation",
+          "note": "Use this as the all-purpose word for a connection or affiliation with someone or something."
+        },
+        {
+          "id": "6wq232bs",
+          "word": "link",
+          "meaning": "connection, relation",
+          "note": "This is the all-purpose choice for a connection or relationship between people, things, events, or ideas."
+        }
+      ],
       "examples": [
         {
           "english": "This matter has no bearing on us.",

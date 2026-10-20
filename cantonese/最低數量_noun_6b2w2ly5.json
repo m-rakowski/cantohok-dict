@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "smallest amount",
-      "english": ["minimum"],
+      "english": [
+        {
+          "id": "hmh9ukvg",
+          "word": "minimum",
+          "meaning": "smallest amount",
+          "note": "Use this when the minimum specifically concerns a quantity, count, order size, or required amount."
+        }
+      ],
       "examples": [
         {
           "english": "The minimum quantity for this item is one hundred pieces.",

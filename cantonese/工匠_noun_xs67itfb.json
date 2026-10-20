@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "craftsman",
-      "english": ["craftsman", "workman"],
+      "english": [
+        {
+          "id": "29hokvl1",
+          "word": "craftsman",
+          "meaning": "skilled artisan",
+          "register": "formal, written",
+          "note": "Use this for an artisan or artificer in a more formal or written context, especially when emphasizing skilled manual craft."
+        },
+        {
+          "id": "zme54foe",
+          "word": "workman",
+          "meaning": "craftsman",
+          "register": "written",
+          "note": "Use this for an artisan or craftsman when the emphasis is on skilled handwork rather than ordinary wage labour."
+        }
+      ],
       "examples": [
         {
           "english": "This craftsman has truly unmatched skills.",

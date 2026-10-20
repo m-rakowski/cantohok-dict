@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "attentive, putting in care",
-      "english": ["painstaking", "diligent"],
+      "english": [
+        {
+          "id": "dcay9fiv",
+          "word": "painstaking",
+          "meaning": "careful and diligent",
+          "note": "Use 用心 when emphasizing the care and effort someone has invested in doing something."
+        },
+        {
+          "id": "42lr4x6q",
+          "word": "diligent",
+          "meaning": "hard-working, industrious",
+          "note": "Use this when the emphasis is on taking care and applying attention rather than sheer work rate."
+        }
+      ],
       "examples": [
         {
           "english": "They put a lot of painstaking care into this birthday cake, even getting the details right.",

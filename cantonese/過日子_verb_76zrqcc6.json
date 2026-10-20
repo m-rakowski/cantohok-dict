@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "live one's life",
-      "english": ["live", "lead"],
+      "english": [
+        {
+          "id": "35i0rmh7",
+          "word": "live",
+          "meaning": "live a life in a way",
+          "note": "Use this for passing one's life in a particular manner, such as living happily or in poverty."
+        },
+        {
+          "id": "wg0e7sfq",
+          "word": "lead",
+          "meaning": "live a life",
+          "note": "Use this when lead means to live through or maintain a particular kind of life."
+        }
+      ],
       "examples": [
         {
           "english": "We live happily as a family.",

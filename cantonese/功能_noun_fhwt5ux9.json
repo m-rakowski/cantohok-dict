@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "function, feature of a device or software",
-      "english": ["functionality", "ability", "function", "feature"],
+      "english": [
+        {
+          "id": "2qu4vqs7",
+          "word": "functionality",
+          "meaning": "ability to function",
+          "note": "This is the all-purpose choice for a thing's functions or the tasks it is equipped to perform."
+        },
+        {
+          "id": "jn5m3wq7",
+          "word": "ability",
+          "meaning": "capacity, capability",
+          "note": "Use this for a device, system, or product's built-in capability or function."
+        },
+        {
+          "id": "0mcpwkwi",
+          "word": "function",
+          "meaning": "purpose, use",
+          "note": "Use 功能 when focusing on a thing's built-in role, capability, or operating function rather than its practical use."
+        },
+        {
+          "id": "gobyjm7z",
+          "word": "feature",
+          "meaning": "software feature",
+          "note": "Use this for a capability or function built into software, an app, or a device."
+        }
+      ],
       "examples": [
         {
           "english": "This app has plenty of functionality and can even scan documents.",

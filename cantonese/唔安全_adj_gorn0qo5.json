@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "not safe",
-      "english": ["unsafe", "insecure"],
+      "english": [
+        {
+          "id": "nzhbh1di",
+          "word": "unsafe",
+          "meaning": "dangerous; not safe",
+          "note": "This is the all-purpose choice for saying that a person, place, activity, or situation is not safe."
+        },
+        {
+          "id": "23rdlyk4",
+          "word": "insecure",
+          "meaning": "not secure",
+          "note": "Use this when something is physically, technically, or otherwise not secure or safe."
+        }
+      ],
       "examples": [
         {
           "english": "Walking through this alley alone at night is really unsafe.",

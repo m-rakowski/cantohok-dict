@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "do division",
-      "english": ["divide"],
+      "english": [
+        {
+          "id": "90gg5gt3",
+          "word": "divide",
+          "meaning": "do division",
+          "note": "Use this specifically for mathematical division, as in six divided by three."
+        }
+      ],
       "examples": [
         {
           "english": "Divide six by three and you get two.",

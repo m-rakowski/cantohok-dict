@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "acquaintance, someone you know",
-      "english": ["acquaintance", "friend"],
+      "english": [
+        {
+          "id": "n7juf1ej",
+          "word": "acquaintance",
+          "meaning": "an acquaintance",
+          "note": "For a person or group one knows without necessarily being close to, this is the all-purpose noun."
+        },
+        {
+          "id": "al2r5t07",
+          "word": "friend",
+          "meaning": "acquaintance",
+          "note": "Use this for an acquaintance, when the person is known but not really a friend."
+        }
+      ],
       "examples": [
         {
           "english": "That person is an acquaintance from my previous company.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "sway, swing back and forth",
-      "english": ["swing", "nod"],
+      "english": [
+        {
+          "id": "fcwkpioq",
+          "word": "swing",
+          "meaning": "move back and forth",
+          "note": "This is the all-purpose choice for something swaying back and forth, and for a mood or opinion that fluctuates."
+        },
+        {
+          "id": "txs36zzh",
+          "word": "nod",
+          "meaning": "sway up and down",
+          "note": "Use 搖擺 for something swaying or moving up and down rather than a person nodding."
+        }
+      ],
       "examples": [
         {
           "english": "The chandelier on the stage continued to swing.",

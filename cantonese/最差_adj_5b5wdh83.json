@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "most bad",
-      "english": ["worst"],
+      "english": [
+        {
+          "id": "gtpfspan",
+          "word": "worst",
+          "meaning": "most bad",
+          "note": "This is the all-purpose choice for the least good option or result, including a generally unfavorable one."
+        }
+      ],
       "examples": [
         {
           "english": "The service at this restaurant is the worst.",

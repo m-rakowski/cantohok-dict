@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "sound, noise",
-      "english": ["sound", "noise"],
+      "english": [
+        {
+          "id": "13nvaac4",
+          "word": "sound",
+          "meaning": "noise heard by ear",
+          "note": "This is the all-purpose choice for a sound or noise heard by the ear."
+        },
+        {
+          "id": "12ul4jk5",
+          "word": "noise",
+          "meaning": "any sound",
+          "note": "Use this for the neutral sense of any sound, without implying that it is unpleasant."
+        }
+      ],
       "examples": [
         {
           "english": "I heard the sound coming from the kitchen.",
@@ -22,7 +35,14 @@
     },
     {
       "meaning": "a person's voice",
-      "english": ["voice"],
+      "english": [
+        {
+          "id": "r5pi9oi4",
+          "word": "voice",
+          "meaning": "human speech sound",
+          "note": "This is the all-purpose choice for a human voice as a sound and, in context, the usable power of speaking."
+        }
+      ],
       "examples": [
         {
           "english": "Your voice sounds really nice.",

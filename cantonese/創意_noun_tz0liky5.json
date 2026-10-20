@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "creativity, original ideas",
-      "english": ["creativity", "ingenuity", "originality", "invention", "imagination"],
+      "english": [
+        {
+          "id": "4moaq41g",
+          "word": "creativity",
+          "meaning": "imaginative ability",
+          "note": "This is the all-purpose everyday choice for creativity, especially when discussing fresh ideas or designs."
+        },
+        {
+          "id": "39mkhk7q",
+          "word": "ingenuity",
+          "meaning": "clever inventiveness",
+          "note": "This is the all-purpose noun for inventive ideas and clever solutions."
+        },
+        {
+          "id": "gwmwez3r",
+          "word": "originality",
+          "meaning": "inventiveness",
+          "note": "Use this specifically for a person's or work's inventiveness and ability to develop new ideas."
+        },
+        {
+          "id": "q32ck4br",
+          "word": "invention",
+          "meaning": "inventiveness",
+          "note": "Use this for the creative capacity or ingenuity behind an invention rather than the invented thing itself."
+        },
+        {
+          "id": "t403ftk4",
+          "word": "imagination",
+          "meaning": "creativity; resourcefulness",
+          "note": "Use this when imagination means practical creativity or resourcefulness in producing ideas."
+        }
+      ],
       "examples": [
         {
           "english": "This ad design shows a lot of creativity.",

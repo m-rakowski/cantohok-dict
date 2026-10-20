@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "all over the world",
-      "english": ["worldwide", "globally"],
+      "english": [
+        {
+          "id": "4678rx8n",
+          "word": "worldwide",
+          "meaning": "throughout the world",
+          "note": "Use this as the all-purpose spoken equivalent, often before 都 to say that something is true worldwide."
+        },
+        {
+          "id": "atlfiqmt",
+          "word": "globally",
+          "meaning": "worldwide",
+          "note": "Use this when something applies across the entire world rather than merely in every local place."
+        }
+      ],
       "examples": [
         {
           "english": "People worldwide are watching this match.",

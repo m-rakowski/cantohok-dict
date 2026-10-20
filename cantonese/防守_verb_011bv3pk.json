@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "defend",
-      "english": ["defend", "guard"],
+      "english": [
+        {
+          "id": "fy4v5q4y",
+          "word": "defend",
+          "meaning": "protect, guard",
+          "note": "Use this for defending against an opponent in sports, games, or a tactical situation rather than general protection."
+        },
+        {
+          "id": "vt24i64y",
+          "word": "guard",
+          "meaning": "protect; defend",
+          "note": "Use this for actively defending a territory, position, or goal against attack rather than for general protection."
+        }
+      ],
       "examples": [
         {
           "english": "We need to defend well and not let the opponents score.",

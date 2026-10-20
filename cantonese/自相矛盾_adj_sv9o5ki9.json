@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "self-contradictory",
-      "english": ["paradoxical", "contradictory"],
+      "english": [
+        {
+          "id": "8f20dxoe",
+          "word": "paradoxical",
+          "meaning": "self-contradictory",
+          "note": "This is the all-purpose choice for something whose own properties or claims contradict each other."
+        },
+        {
+          "id": "15yfdb4w",
+          "word": "contradictory",
+          "meaning": "self-contradictory",
+          "note": "Use this when something contradicts itself, especially when it contains two opposing attitudes or claims."
+        }
+      ],
       "examples": [
         {
           "english": "They say they do not believe in ghosts, but they are too scared to sleep at night—it is truly paradoxical.",

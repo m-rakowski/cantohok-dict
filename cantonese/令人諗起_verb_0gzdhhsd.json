@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "remind one of",
-      "english": ["evoke", "recall"],
+      "english": [
+        {
+          "id": "k53t2llq",
+          "word": "evoke",
+          "meaning": "bring to mind",
+          "note": "This is the all-purpose choice when something reminds someone of a memory, person, or image."
+        },
+        {
+          "id": "dofe8wv7",
+          "word": "recall",
+          "meaning": "evoke, suggest",
+          "note": "Use this when something evokes a memory or reminds someone of something."
+        }
+      ],
       "examples": [
         {
           "english": "This old song can evoke memories of our childhood.",

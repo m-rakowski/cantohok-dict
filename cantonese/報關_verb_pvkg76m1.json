@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "declare goods or income",
-      "english": ["declare"],
+      "english": [
+        {
+          "id": "i49etz7t",
+          "word": "declare",
+          "meaning": "declare goods or income",
+          "note": "Use this specifically when declaring imported or exported goods to customs."
+        }
+      ],
       "examples": [
         {
           "english": "This shipment has arrived in Hong Kong, so we need to declare it to customs first.",

@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "fake, not genuine",
-      "english": ["make-up", "pretend", "mock"],
+      "english": [
+        {
+          "id": "1m8210yc",
+          "word": "make-up",
+          "meaning": "false; fabricated",
+          "note": "Use this as the all-purpose spoken choice for something false, fake, or made up."
+        },
+        {
+          "id": "2e10bg2w",
+          "word": "pretend",
+          "meaning": "pretend; make-believe",
+          "note": "This is the all-purpose colloquial choice for something that is not real or is only make-believe."
+        },
+        {
+          "id": "umvxwjvb",
+          "word": "mock",
+          "meaning": "fake, imitation",
+          "note": "This is the all-purpose everyday choice for something that is fake or not genuine, such as mock leather."
+        }
+      ],
       "examples": [
         {
           "english": "This is a make-up story, not a real one.",

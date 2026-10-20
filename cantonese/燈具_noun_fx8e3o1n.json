@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "lighting fixture",
-      "english": ["lighting", "fixture"],
+      "english": [
+        {
+          "id": "cexjkmb0",
+          "word": "lighting",
+          "meaning": "illumination / lighting equipment",
+          "note": "Use this specifically for the physical lighting fixtures or equipment rather than the light they produce."
+        },
+        {
+          "id": "htjxhes7",
+          "word": "fixture",
+          "meaning": "light fixture",
+          "register": "formal",
+          "note": "Use this specifically for a lighting fixture rather than a general fixed house fitting."
+        }
+      ],
       "examples": [
         {
           "english": "We need to choose the right lighting for the bathroom during renovation.",

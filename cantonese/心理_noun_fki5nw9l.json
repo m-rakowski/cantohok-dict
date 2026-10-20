@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "state of mind, psychology",
-      "english": ["psyche", "psychology"],
+      "english": [
+        {
+          "id": "wksyzu35",
+          "word": "psyche",
+          "meaning": "mind / inner self",
+          "note": "Use 心理 when psyche means a person's psychological makeup or mental state, especially in a psychological context."
+        },
+        {
+          "id": "9139iy40",
+          "word": "psychology",
+          "meaning": "person's psychology",
+          "note": "Use this for the mental and emotional makeup of a particular person, group, or activity rather than for the academic discipline."
+        }
+      ],
       "examples": [
         {
           "english": "This film portrays the psyche of a lonely patient very accurately.",

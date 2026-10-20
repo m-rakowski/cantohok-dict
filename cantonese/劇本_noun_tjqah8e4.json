@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "script of a play or film",
-      "english": ["script", "screenplay", "drama"],
+      "english": [
+        {
+          "id": "mv5jzpsj",
+          "word": "script",
+          "meaning": "play or film script",
+          "note": "This is the all-purpose choice for the written text of a play, film, or other performance."
+        },
+        {
+          "id": "5v269y6g",
+          "word": "screenplay",
+          "meaning": "movie script",
+          "note": "This is the all-purpose choice for a screenplay when the medium is clear from context."
+        },
+        {
+          "id": "cnyz6f9a",
+          "word": "drama",
+          "meaning": "story play",
+          "note": "Use this when referring to the written script or play text itself rather than the dramatic genre."
+        }
+      ],
       "examples": [
         {
           "english": "I still haven't read the script for this movie.",
@@ -27,7 +46,14 @@
     },
     {
       "meaning": "planned course of events",
-      "english": ["scenario"],
+      "english": [
+        {
+          "id": "9ls8d9g4",
+          "word": "scenario",
+          "meaning": "possible sequence of events",
+          "note": "Use this metaphorically when the scenario is presented as a planned or unfolding script of events."
+        }
+      ],
       "examples": [
         {
           "english": "If they really follow this scenario, the whole thing will blow up.",

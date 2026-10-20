@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "match up, add up",
-      "english": ["agree", "track"],
+      "english": [
+        {
+          "id": "utwbdvnw",
+          "word": "agree",
+          "meaning": "match or correspond",
+          "register": "colloquial",
+          "note": "Use this when two things correspond, match, or tally, often negated as 對唔上."
+        },
+        {
+          "id": "ss20370f",
+          "word": "track",
+          "meaning": "make sense, add up",
+          "note": "Use this when facts or information are consistent and make sense together."
+        }
+      ],
       "examples": [
         {
           "english": "These two sets of figures agree.",

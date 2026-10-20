@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "top-selling product",
-      "english": ["bestseller"],
+      "english": [
+        {
+          "id": "mas0o2w0",
+          "word": "bestseller",
+          "meaning": "top-selling product",
+          "note": "Use this for a top-selling product other than a book."
+        }
+      ],
       "examples": [
         {
           "english": "This phone is a bestseller this season.",

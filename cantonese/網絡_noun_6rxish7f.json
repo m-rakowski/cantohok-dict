@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "network, interconnected system",
-      "english": ["network", "web"],
+      "english": [
+        {
+          "id": "lnunp5cv",
+          "word": "network",
+          "meaning": "interconnected system",
+          "note": "This is the all-purpose Cantonese noun for an interconnected system, including road, social, and computer networks."
+        },
+        {
+          "id": "dug8mcqe",
+          "word": "web",
+          "meaning": "network, web",
+          "note": "Use this for an interconnected system of people, places, or things."
+        }
+      ],
       "examples": [
         {
           "english": "I built a pretty good network through volunteering.",

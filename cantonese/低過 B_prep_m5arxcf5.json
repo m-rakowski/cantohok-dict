@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "lower in amount",
-      "english": ["below"],
+      "english": [
+        {
+          "id": "u180csa0",
+          "word": "below",
+          "meaning": "lower in amount",
+          "note": "Use this for a value, price, rank, temperature, or concentration that is lower than B."
+        }
+      ],
       "examples": [
         {
           "english": "This price is below the market rate.",

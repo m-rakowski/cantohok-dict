@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "comic, cartoon",
-      "english": ["comic", "cartoon", "strip"],
+      "english": [
+        {
+          "id": "6v0e0m9l",
+          "word": "comic",
+          "meaning": "comic book / comic",
+          "note": "This is the all-purpose choice for a comic book or comics as a medium."
+        },
+        {
+          "id": "7sh2yot9",
+          "word": "cartoon",
+          "meaning": "comic drawing",
+          "note": "Use 漫畫 for a humorous comic drawing or comic strip rather than an animated film."
+        },
+        {
+          "id": "ononpmzm",
+          "word": "strip",
+          "meaning": "comic strip",
+          "note": "Use this for a comic strip when the exact strip or panel format does not need emphasis."
+        }
+      ],
       "examples": [
         {
           "english": "This comic is about a kid who becomes a superhero.",

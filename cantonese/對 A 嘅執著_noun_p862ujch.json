@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "obsession with A",
-      "english": ["obsession", "preoccupation"],
+      "english": [
+        {
+          "id": "o61pke1w",
+          "word": "obsession",
+          "meaning": "fixation; all-consuming interest",
+          "note": "This is the all-purpose choice for a strong, persistent attachment to a subject, activity, or idea."
+        },
+        {
+          "id": "1jumz729",
+          "word": "preoccupation",
+          "meaning": "obsession; absorbed state",
+          "note": "Use this when the preoccupation is an obsessive or fixated attachment to A."
+        }
+      ],
       "examples": [
         {
           "english": "My obsession with tea has left teaware all over the house.",

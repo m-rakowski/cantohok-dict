@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "lawn, grassy area",
-      "english": ["lawn", "grass"],
+      "english": [
+        {
+          "id": "8oe85t8p",
+          "word": "lawn",
+          "meaning": "grass area by house",
+          "note": "This is the all-purpose Cantonese word for a grassy area kept short around a house."
+        },
+        {
+          "id": "ioijk57f",
+          "word": "grass",
+          "meaning": "lawn",
+          "note": "Use 草地 specifically for a lawn or an area covered with grass, rather than just individual grass plants."
+        }
+      ],
       "examples": [
         {
           "english": "The lawn in front of the house needs to be kept short.",

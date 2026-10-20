@@ -6,7 +6,39 @@
   "boxes": [
     {
       "meaning": "beginner",
-      "english": ["beginner", "neophyte", "newcomer", "amateur", "baby"],
+      "english": [
+        {
+          "id": "bfg8jsu9",
+          "word": "beginner",
+          "meaning": "new learner",
+          "note": "This is the all-purpose choice for someone who is new to an activity or subject."
+        },
+        {
+          "id": "t5our6u6",
+          "word": "neophyte",
+          "meaning": "beginner; novice",
+          "note": "This is the all-purpose choice for someone new to a subject, skill, or activity."
+        },
+        {
+          "id": "ifukrpv7",
+          "word": "newcomer",
+          "meaning": "beginner, novice",
+          "register": "colloquial",
+          "note": "Use this for a beginner or inexperienced new participant in an activity."
+        },
+        {
+          "id": "4pkr4k5o",
+          "word": "amateur",
+          "meaning": "inexperienced person",
+          "note": "Use this when the emphasis is that the amateur is inexperienced or new to the activity."
+        },
+        {
+          "id": "cn9cix31",
+          "word": "baby",
+          "meaning": "new to something",
+          "note": "Use 新手 for someone who is new to or inexperienced in an activity or profession."
+        }
+      ],
       "examples": [
         {
           "english": "I'm a beginner at cooking.",

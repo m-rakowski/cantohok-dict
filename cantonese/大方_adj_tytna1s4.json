@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "generous",
-      "english": ["generous", "magnanimous", "unselfish", "liberal", "kind"],
+      "english": [
+        {
+          "id": "jgd2pxbw",
+          "word": "generous",
+          "meaning": "giving, willing to share",
+          "note": "This is the all-purpose choice for a person who is unpetty, magnanimous, or willing to give and share."
+        },
+        {
+          "id": "jue5yf93",
+          "word": "magnanimous",
+          "meaning": "noble and generous",
+          "note": "This is the all-purpose everyday choice when the person is generous and gracious rather than petty."
+        },
+        {
+          "id": "hwqxej31",
+          "word": "unselfish",
+          "meaning": "not selfish; generous",
+          "note": "Use this when unselfishness is shown by being generous with money, possessions, or help."
+        },
+        {
+          "id": "ps7rrvf2",
+          "word": "liberal",
+          "meaning": "generous; unsparing",
+          "note": "Use this for a person who is generous or unstinting, especially with money, praise, or hospitality."
+        },
+        {
+          "id": "nfnhlgyl",
+          "word": "kind",
+          "meaning": "kind; kind-hearted",
+          "note": "Use this when the kindness specifically means being generous or unselfish with money, gifts, or help."
+        }
+      ],
       "examples": [
         {
           "english": "They are generous and never petty with others.",
@@ -37,7 +68,14 @@
     },
     {
       "meaning": "gracious about losing",
-      "english": ["graceful"],
+      "english": [
+        {
+          "id": "cxc5brbp",
+          "word": "graceful",
+          "meaning": "graciously accepting",
+          "note": "Use this for accepting a setback without bitterness or arrogance, rather than for physical elegance."
+        }
+      ],
       "examples": [
         {
           "english": "You are still so graceful about losing the game; that is really admirable.",

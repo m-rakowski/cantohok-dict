@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "electronic, digital",
-      "english": ["electronic", "digital", "electric"],
+      "english": [
+        {
+          "id": "qooee9cw",
+          "word": "electronic",
+          "meaning": "made by electronic devices",
+          "note": "This is the all-purpose choice for things using, produced by, or related to electronic and digital technology."
+        },
+        {
+          "id": "vkgoscen",
+          "word": "digital",
+          "meaning": "computer-age; digital",
+          "note": "Use this for digital technology when the context focuses on electronic devices, services, or media rather than the numeric encoding itself."
+        },
+        {
+          "id": "pol7pm45",
+          "word": "electric",
+          "meaning": "electronic instrument",
+          "note": "Use this for an electronic version of an instrument such as an electronic keyboard."
+        }
+      ],
       "examples": [
         {
           "english": "I use electronic payment, so I don't need to bring a wallet.",

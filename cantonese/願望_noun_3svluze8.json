@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "wish, desire",
-      "english": ["wish", "want", "desire"],
+      "english": [
+        {
+          "id": "8kxrgli9",
+          "word": "wish",
+          "meaning": "desire; hope",
+          "note": "This is the all-purpose noun for a desired outcome or personal wish, especially in neutral contexts."
+        },
+        {
+          "id": "h2pyn7p5",
+          "word": "want",
+          "meaning": "a desire, wish",
+          "note": "Use 願望 when naming a personal wish or desire rather than a practical need."
+        },
+        {
+          "id": "xywmujai",
+          "word": "desire",
+          "meaning": "thing wished for",
+          "note": "Use this for a wished-for aim or personal wish, as in wanting to speak with someone."
+        }
+      ],
       "examples": [
         {
           "english": "My wish is to have a home of my own.",

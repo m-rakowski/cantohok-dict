@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "disappointment",
-      "english": ["disappointment", "disillusionment"],
+      "english": [
+        {
+          "id": "rmd7tu7y",
+          "word": "disappointment",
+          "meaning": "feeling of disappointment",
+          "note": "This is the all-purpose choice for the feeling of disappointment or a disappointing outcome."
+        },
+        {
+          "id": "q7gqlvun",
+          "word": "disillusionment",
+          "meaning": "loss of illusion, disappointment",
+          "note": "This is the all-purpose choice for the feeling of disappointment when reality falls short of expectations."
+        }
+      ],
       "examples": [
         {
           "english": "Getting the rejection letter was a real disappointment.",

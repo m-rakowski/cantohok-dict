@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "icy cold",
-      "english": ["freezing", "icy", "clammy"],
+      "english": [
+        {
+          "id": "flj37yon",
+          "word": "freezing",
+          "meaning": "very cold",
+          "note": "Use this as the all-purpose spoken way to describe something very cold."
+        },
+        {
+          "id": "10futx7j",
+          "word": "icy",
+          "meaning": "cold, frosty",
+          "note": "This is the all-purpose spoken choice for something intensely cold or frosty, without specifically saying that it is coated in ice."
+        },
+        {
+          "id": "yndj6xl0",
+          "word": "clammy",
+          "meaning": "cold and damp",
+          "register": "colloquial",
+          "note": "Use this when the coldness of the hands is more noticeable and the dampness is understood from context."
+        }
+      ],
       "examples": [
         {
           "english": "It’s freezing today, so remember to wear an extra layer when you go out.",

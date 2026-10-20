@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "to approve, agree with",
-      "english": ["approve", "concur", "believe"],
+      "english": [
+        {
+          "id": "ybnm60v5",
+          "word": "approve",
+          "meaning": "think well of; like",
+          "note": "This is the all-purpose choice for approving or supporting a proposal, decision, or course of action."
+        },
+        {
+          "id": "8gdkrze2",
+          "word": "concur",
+          "meaning": "agree, be of the same opinion",
+          "note": "Use this mainly when agreeing with and supporting a proposal, decision, or course of action."
+        },
+        {
+          "id": "29ui6dp9",
+          "word": "believe",
+          "meaning": "believe in (approve of)",
+          "note": "Use this when “believe in” means approving of something or considering it right or desirable."
+        }
+      ],
       "examples": [
         {
           "english": "I approve of you doing it this way.",

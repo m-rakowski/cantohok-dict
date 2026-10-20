@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "portrayal, reflection of a situation",
-      "english": ["portrait", "mirror"],
+      "english": [
+        {
+          "id": "gw7uh4tr",
+          "word": "portrait",
+          "meaning": "depiction of a person or scene",
+          "note": "Use this for a portrayal or revealing depiction of a person, mood, or society, especially in writing or figurative contexts."
+        },
+        {
+          "id": "w43atv90",
+          "word": "mirror",
+          "meaning": "thing that reflects another",
+          "register": "written",
+          "note": "Use this formal noun for a person, story, or event that portrays or reflects another situation."
+        }
+      ],
       "examples": [
         {
           "english": "This film is a portrait of Hong Kong people's lives.",

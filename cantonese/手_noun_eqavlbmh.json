@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "hand",
-      "english": ["hand", "paw"],
+      "english": [
+        {
+          "id": "x25d2178",
+          "word": "hand",
+          "meaning": "human hand",
+          "note": "This is the all-purpose Cantonese noun for the human hand."
+        },
+        {
+          "id": "9068agmp",
+          "word": "paw",
+          "meaning": "hand (humorous)",
+          "note": "Use this for the humorous or mildly contemptuous human-hand sense, as in telling someone to take their dirty hands off something."
+        }
+      ],
       "examples": [
         {
           "english": "I got my hand caught in the door.",

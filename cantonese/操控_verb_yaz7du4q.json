@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "control, manipulate",
-      "english": ["manipulate", "control"],
+      "english": [
+        {
+          "id": "9xa8sn07",
+          "word": "manipulate",
+          "meaning": "manipulate people",
+          "note": "Use this as the all-purpose choice for controlling or directing data, systems, or people, including covert control of a person."
+        },
+        {
+          "id": "6aknqeqm",
+          "word": "control",
+          "meaning": "influence or direct",
+          "note": "Use this mainly when deliberately operating or manipulating a machine, system, or situation rather than merely influencing it."
+        }
+      ],
       "examples": [
         {
           "english": "They constantly manipulate other people's thoughts.",

@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "fate, destiny",
-      "english": ["destiny", "fate", "fortune", "future"],
+      "english": [
+        {
+          "id": "9xi3kb92",
+          "word": "destiny",
+          "meaning": "predetermined fate",
+          "note": "This is the all-purpose noun for a person's or thing's predetermined destiny."
+        },
+        {
+          "id": "wgvo5eqh",
+          "word": "fate",
+          "meaning": "destiny / predetermining force",
+          "note": "This is the all-purpose choice for a person's or situation's predetermined fate."
+        },
+        {
+          "id": "um9sm44j",
+          "word": "fortune",
+          "meaning": "destiny; fate",
+          "note": "Use this for fate or the course of someone's life, rather than simply a lucky outcome."
+        },
+        {
+          "id": "pstozpoz",
+          "word": "future",
+          "meaning": "prospects; fate",
+          "note": "Use this for the fate or destiny awaiting someone or something."
+        }
+      ],
       "examples": [
         {
           "english": "Some people think destiny was decided long ago.",

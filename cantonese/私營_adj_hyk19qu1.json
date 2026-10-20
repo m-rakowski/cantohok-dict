@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "not public; non-government",
-      "english": ["private"],
+      "english": [
+        {
+          "id": "fn62v74o",
+          "word": "private",
+          "meaning": "not public; non-government",
+          "note": "Use this as the all-purpose choice for businesses or services that are privately run rather than government-run."
+        }
+      ],
       "examples": [
         {
           "english": "This private hospital charges less.",

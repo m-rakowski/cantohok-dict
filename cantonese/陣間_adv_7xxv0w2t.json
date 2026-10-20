@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "in a little while, later",
-      "english": ["soon", "later"],
+      "english": [
+        {
+          "id": "3naj01cy",
+          "word": "soon",
+          "meaning": "in a short time",
+          "register": "colloquial",
+          "note": "Use this for something happening in a little while, especially later in the same day."
+        },
+        {
+          "id": "xmrcqern",
+          "word": "later",
+          "meaning": "at a later time",
+          "register": "colloquial",
+          "note": "Use 陣間 when “later” means in a little while or later today, rather than at an unspecified future time."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "dark colour",
-      "english": ["dark", "deep"],
+      "english": [
+        {
+          "id": "je2r2b0z",
+          "word": "dark",
+          "meaning": "deep in colour",
+          "note": "Use this for a colour or shade that is deeper rather than bright or pale."
+        },
+        {
+          "id": "oi84500e",
+          "word": "deep",
+          "meaning": "richly saturated",
+          "note": "Use this for a strongly saturated or dark colour, especially when describing a shade."
+        }
+      ],
       "examples": [
         {
           "english": "I like wearing dark clothes to match my bag.",

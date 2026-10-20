@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "to agree",
-      "english": ["agree", "concur"],
+      "english": [
+        {
+          "id": "03s4otto",
+          "word": "agree",
+          "meaning": "be in agreement",
+          "note": "Use this as the all-purpose choice for agreeing with an opinion or approving a proposal."
+        },
+        {
+          "id": "5myskxyi",
+          "word": "concur",
+          "meaning": "agree, be of the same opinion",
+          "note": "This is the all-purpose choice for agreeing with someone's opinion or statement."
+        }
+      ],
       "examples": [
         {
           "english": "I agree with what you said.",

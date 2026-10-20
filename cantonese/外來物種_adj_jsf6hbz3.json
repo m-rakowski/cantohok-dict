@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "foreign species, non-native",
-      "english": ["exotic"],
+      "english": [
+        {
+          "id": "effrfghg",
+          "word": "exotic",
+          "meaning": "foreign species, non-native",
+          "note": "Use this specifically for a species introduced from elsewhere rather than native to the local ecosystem."
+        }
+      ],
       "examples": [
         {
           "english": "There are more and more exotic species in this river, leaving the native fish with nowhere to live.",

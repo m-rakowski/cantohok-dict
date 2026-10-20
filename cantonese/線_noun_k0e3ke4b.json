@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "thread, string",
-      "english": ["thread", "string"],
+      "english": [
+        {
+          "id": "x3vjyjgu",
+          "word": "thread",
+          "meaning": "sewing thread",
+          "note": "This is the all-purpose choice for sewing thread and for a thin filament or strand."
+        },
+        {
+          "id": "17dx03wi",
+          "word": "string",
+          "meaning": "cord, threadlike material",
+          "note": "Use 線 for a finer thread-like string and for the vibrating strings or string instruments of music."
+        }
+      ],
       "examples": [
         {
           "english": "This thread is very fine and just right for sewing clothes.",
@@ -22,7 +35,14 @@
     },
     {
       "meaning": "line, route, cable",
-      "english": ["line"],
+      "english": [
+        {
+          "id": "3oicaw1x",
+          "word": "line",
+          "meaning": "curved or straight mark/path",
+          "note": "This is the all-purpose choice for a drawn line and, by context or in compounds, a cable, connection, route, transit line, outline, or conceptual boundary."
+        }
+      ],
       "examples": [
         {
           "english": "This line is drawn very straight.",

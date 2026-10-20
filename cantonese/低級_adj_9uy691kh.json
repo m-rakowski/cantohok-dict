@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "low-skilled, low-status",
-      "english": ["menial"],
+      "english": [
+        {
+          "id": "k470tolm",
+          "word": "menial",
+          "meaning": "low-skilled work",
+          "note": "Use this as the all-purpose choice for work seen as low-status or requiring little skill."
+        }
+      ],
       "examples": [
         {
           "english": "Although this is menial work, at least it is stable and does not require working nights.",
@@ -17,7 +24,14 @@
     },
     {
       "meaning": "lower-ranking, junior",
-      "english": ["junior"],
+      "english": [
+        {
+          "id": "gu7bfj3w",
+          "word": "junior",
+          "meaning": "lower rank, subordinate",
+          "note": "Use this for a lower-ranking or subordinate role, especially at work."
+        }
+      ],
       "examples": [
         {
           "english": "I’m only a junior employee in the company right now.",

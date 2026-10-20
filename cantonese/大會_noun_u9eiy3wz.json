@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "large formal meeting",
-      "english": ["assembly", "conference"],
+      "english": [
+        {
+          "id": "90yfb0ka",
+          "word": "assembly",
+          "meaning": "gathering",
+          "note": "Use this for a large formal assembly or a named body such as the United Nations General Assembly, rather than for an ordinary gathering or a generic legislature."
+        },
+        {
+          "id": "pbl05jh5",
+          "word": "conference",
+          "meaning": "conference / convention",
+          "note": "Use this for a large organization- or industry-wide convention focused on a public or business issue."
+        }
+      ],
       "examples": [
         {
           "english": "The United Nations General Assembly will meet next week.",

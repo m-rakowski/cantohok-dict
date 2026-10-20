@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "order, sequence",
-      "english": ["sequence", "order"],
+      "english": [
+        {
+          "id": "9wx3shkn",
+          "word": "sequence",
+          "meaning": "in order; succession",
+          "note": "This is the all-purpose choice for the order in which things follow one another."
+        },
+        {
+          "id": "3gttvoo6",
+          "word": "order",
+          "meaning": "arrangement, sequence",
+          "note": "Use 次序 for the sequence of things or for a tidy, well-arranged state."
+        }
+      ],
       "examples": [
         {
           "english": "The sequence for appearing on stage has already been arranged.",

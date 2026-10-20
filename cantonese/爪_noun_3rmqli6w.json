@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "animal claw",
-      "english": ["clutch", "nail"],
+      "english": [
+        {
+          "id": "ayj8yr7u",
+          "word": "clutch",
+          "meaning": "predator’s claw",
+          "note": "Use this for an animal or bird's claw, including a predator's claw."
+        },
+        {
+          "id": "y1l6wgtw",
+          "word": "nail",
+          "meaning": "animal claw/hoof nail",
+          "note": "Use 爪 for an animal's claw or talon rather than a human nail."
+        }
+      ],
       "examples": [
         {
           "english": "The eagle used its sharp clutch to grab a rabbit.",

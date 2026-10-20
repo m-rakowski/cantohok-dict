@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "mineral spring resort",
-      "english": ["spa"],
+      "english": [
+        {
+          "id": "1v6rxyxq",
+          "word": "spa",
+          "meaning": "mineral spring resort",
+          "note": "Use this specifically for a resort built around a mineral or hot spring, rather than an urban treatment centre."
+        }
+      ],
       "examples": [
         {
           "english": "We went to a Japanese spa resort this weekend to soak in the hot springs.",

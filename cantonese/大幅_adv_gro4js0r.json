@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "by a large margin",
-      "english": ["significantly", "substantially", "considerably"],
+      "english": [
+        {
+          "id": "9v9szkww",
+          "word": "significantly",
+          "meaning": "to a significant extent",
+          "note": "Use this mainly before verbs describing measurable changes, such as improving, increasing, or decreasing significantly."
+        },
+        {
+          "id": "9cxmakrh",
+          "word": "substantially",
+          "meaning": "considerably",
+          "note": "Use this especially with measurable changes such as prices, figures, rates, increases, and decreases."
+        },
+        {
+          "id": "lj1u2lyj",
+          "word": "considerably",
+          "meaning": "significantly; a lot",
+          "register": "written",
+          "note": "Use this mainly for a substantial measurable change, such as a large rise, fall, reduction, or improvement."
+        }
+      ],
       "examples": [
         {
           "english": "The company announced that prices would be reduced significantly next month.",

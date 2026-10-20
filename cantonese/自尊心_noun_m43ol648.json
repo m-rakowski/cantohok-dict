@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "self-esteem, pride",
-      "english": ["self-worth", "ego"],
+      "english": [
+        {
+          "id": "7vhqo9a4",
+          "word": "self-worth",
+          "meaning": "sense of one's own value",
+          "note": "Use this when the context emphasizes a person's sense of dignity or self-respect rather than an assessment of their abilities."
+        },
+        {
+          "id": "aol53ak4",
+          "word": "ego",
+          "meaning": "self-esteem",
+          "note": "Use this when “ego” means a person's self-esteem, especially when it can be hurt or boosted."
+        }
+      ],
       "examples": [
         {
           "english": "After being humiliated in public, they still had to pretend nothing happened; it really hurt their self-worth.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "surface, outside",
-      "english": ["surface", "exterior"],
+      "english": [
+        {
+          "id": "fj4kadrj",
+          "word": "surface",
+          "meaning": "top side; water surface",
+          "note": "This is the all-purpose noun for an object's external surface or a general flat surface."
+        },
+        {
+          "id": "3onmg6nb",
+          "word": "exterior",
+          "meaning": "outside; outer surface",
+          "note": "Use this when you mean the object's visible or physical outer surface specifically."
+        }
+      ],
       "examples": [
         {
           "english": "There is some water on the surface of the table.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "resist, rebel against",
-      "english": ["rebel", "oppose"],
+      "english": [
+        {
+          "id": "6fxlak8l",
+          "word": "rebel",
+          "meaning": "resist authority",
+          "note": "This is the all-purpose choice for resisting or defying an authority."
+        },
+        {
+          "id": "yv9bgvyf",
+          "word": "oppose",
+          "meaning": "resist; fight against",
+          "note": "Use this for actively resisting authority, control, or oppression."
+        }
+      ],
       "examples": [
         {
           "english": "They often rebel against their boss's unreasonable demands.",

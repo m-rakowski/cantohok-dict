@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "acres of space",
-      "english": ["acre"],
+      "english": [
+        {
+          "id": "81mfhirp",
+          "word": "acre",
+          "meaning": "acres of space",
+          "note": "Use this for a broad physical area or expanse, rather than for a measured unit or a general quantity."
+        }
+      ],
       "examples": [
         {
           "english": "Below the hill is a whole acre of open ground, perfect for camping.",

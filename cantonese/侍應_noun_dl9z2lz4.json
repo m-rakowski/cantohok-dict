@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "waiter or waitress",
-      "english": ["waiter", "waitress", "server"],
+      "english": [
+        {
+          "id": "bkm5854j",
+          "word": "waiter",
+          "meaning": "restaurant server",
+          "note": "Use 侍應 as the all-purpose term for a restaurant server."
+        },
+        {
+          "id": "54wp2ez8",
+          "word": "waitress",
+          "meaning": "female server in restaurant",
+          "note": "This is the all-purpose term for a restaurant server when the female gender is understood from context or is not important."
+        },
+        {
+          "id": "jflmwf8x",
+          "word": "server",
+          "meaning": "waiter or waitress",
+          "note": "Use this everyday Hong Kong noun for a restaurant waiter or waitress."
+        }
+      ],
       "examples": [
         {
           "english": "Waiter, could you bring me a glass of water?",

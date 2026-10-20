@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "result, outcome",
-      "english": ["result", "effect", "culmination", "outcome", "end"],
+      "english": [
+        {
+          "id": "krbgour2",
+          "word": "result",
+          "meaning": "outcome; consequence",
+          "note": "Use 結果 as the all-purpose noun for an outcome or consequence."
+        },
+        {
+          "id": "gck180kd",
+          "word": "effect",
+          "meaning": "result, outcome",
+          "note": "This is the all-purpose choice for the result or outcome caused by something."
+        },
+        {
+          "id": "d36zzddc",
+          "word": "culmination",
+          "meaning": "end result; culmination",
+          "note": "This is the all-purpose choice for the final result of a series of events or actions."
+        },
+        {
+          "id": "atdkprym",
+          "word": "outcome",
+          "meaning": "result; consequence",
+          "note": "This is the all-purpose choice for the result or outcome of an event or process."
+        },
+        {
+          "id": "llayanpo",
+          "word": "end",
+          "meaning": "result; outcome",
+          "note": "Use 結果 when end means the result or outcome of events or actions."
+        }
+      ],
       "examples": [
         {
           "english": "The result of this exam is pretty good.",
@@ -37,7 +68,32 @@
     },
     {
       "meaning": "in the end, so (what happened next)",
-      "english": ["conclusion", "consequence", "product", "fruit"],
+      "english": [
+        {
+          "id": "gya3err0",
+          "word": "conclusion",
+          "meaning": "result; outcome",
+          "note": "Use this for the result or outcome produced by a process or action."
+        },
+        {
+          "id": "0wpmpkif",
+          "word": "consequence",
+          "meaning": "result; effect",
+          "note": "Use this as the all-purpose choice for a result or outcome that follows from a cause."
+        },
+        {
+          "id": "z4e333e1",
+          "word": "product",
+          "meaning": "result of something",
+          "note": "Use 結果 for a consequence produced by actions or circumstances, such as hunger and fatigue."
+        },
+        {
+          "id": "jbcgdzr6",
+          "word": "fruit",
+          "meaning": "result of effort",
+          "note": "Use 結果 for a general result, effect, or consequence rather than specifically an achievement."
+        }
+      ],
       "note": "Here it starts the second part of a sentence to say how things turned out.",
       "examples": [
         {

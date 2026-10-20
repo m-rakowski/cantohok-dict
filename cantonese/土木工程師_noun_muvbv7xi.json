@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "civil engineer",
-      "english": ["engineer"],
+      "english": [
+        {
+          "id": "sm9k7s13",
+          "word": "engineer",
+          "meaning": "civil engineer",
+          "note": "Use this specifically for a civil engineer working on buildings, roads, bridges, and other infrastructure."
+        }
+      ],
       "examples": [
         {
           "english": "This civil engineer is in charge of building this bridge.",

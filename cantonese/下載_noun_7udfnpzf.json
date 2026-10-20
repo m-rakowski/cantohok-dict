@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "file transfer to device",
-      "english": ["download"],
+      "english": [
+        {
+          "id": "6zbyly51",
+          "word": "download",
+          "meaning": "file transfer to device",
+          "note": "This is the all-purpose choice for the download or file-transfer process."
+        }
+      ],
       "examples": [
         {
           "english": "The download is still running.",

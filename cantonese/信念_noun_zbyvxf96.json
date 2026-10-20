@@ -6,7 +6,33 @@
   "boxes": [
     {
       "meaning": "firm belief, conviction",
-      "english": ["belief", "conviction", "persuasion", "faith"],
+      "english": [
+        {
+          "id": "3q549zxw",
+          "word": "belief",
+          "meaning": "acceptance as true",
+          "note": "This is the all-purpose choice for a firmly held personal belief or conviction, including a faith that sustains someone."
+        },
+        {
+          "id": "hvw3glwc",
+          "word": "conviction",
+          "meaning": "firm belief",
+          "note": "Use this for a firmly held belief or principle, rather than legal guilt or certainty about a specific outcome."
+        },
+        {
+          "id": "7q9wtzjz",
+          "word": "persuasion",
+          "meaning": "belief or conviction",
+          "note": "Use this for a strongly held conviction or belief, rather than for the act or effectiveness of persuading someone."
+        },
+        {
+          "id": "nzk6o89c",
+          "word": "faith",
+          "meaning": "belief without evidence",
+          "register": "formal",
+          "note": "Use 信念 for a firmly held conviction or belief without needing evidence, especially when it is an abstract principle."
+        }
+      ],
       "examples": [
         {
           "english": "This belief keeps me going even when I face major setbacks.",

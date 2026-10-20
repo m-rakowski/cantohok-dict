@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "TV pilot episode",
-      "english": ["pilot"],
+      "english": [
+        {
+          "id": "vfrfoa44",
+          "word": "pilot",
+          "meaning": "TV pilot episode",
+          "note": "Use this specifically for a sample episode made to test a proposed television series."
+        }
+      ],
       "examples": [
         {
           "english": "The TV station will decide whether to make the series after watching the pilot.",

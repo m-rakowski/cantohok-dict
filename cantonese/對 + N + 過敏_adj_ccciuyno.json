@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "having an allergy",
-      "english": ["allergic"],
+      "english": [
+        {
+          "id": "nlapehkb",
+          "word": "allergic",
+          "meaning": "having an allergy",
+          "note": "This is the all-purpose pattern for having an allergy to a substance or animal."
+        }
+      ],
       "examples": [
         {
           "english": "I’m allergic to peanuts.",

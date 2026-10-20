@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "pocket money, allowance",
-      "english": ["pocket money", "allowance"],
+      "english": [
+        {
+          "id": "qds8me8f",
+          "word": "pocket money",
+          "meaning": "child's allowance",
+          "note": "This is the all-purpose term for a child's allowance or a small amount of money for everyday spending."
+        },
+        {
+          "id": "9987l3rp",
+          "word": "allowance",
+          "meaning": "allocated amount",
+          "register": "colloquial",
+          "note": "Use this for regular personal spending money, especially money given to a child."
+        }
+      ],
       "examples": [
         {
           "english": "My mum gives me pocket money every week so I can buy stationery and snacks.",

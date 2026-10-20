@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "mum, mother",
-      "english": ["mum", "mother"],
+      "english": [
+        {
+          "id": "2pk5m5t1",
+          "word": "mum",
+          "meaning": "mother",
+          "note": "This is the all-purpose spoken term for one’s mother, especially when referring to her."
+        },
+        {
+          "id": "2p9uw6lb",
+          "word": "mother",
+          "meaning": "female parent",
+          "register": "colloquial",
+          "note": "Use this colloquial form especially when referring to your own or someone else's mother in family speech."
+        }
+      ],
       "examples": [
         {
           "english": "My mum's cooking is delicious.",

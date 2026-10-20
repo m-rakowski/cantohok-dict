@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "imitate, copy",
-      "english": ["imitate", "emulate", "copy"],
+      "english": [
+        {
+          "id": "5m9dhfe7",
+          "word": "imitate",
+          "meaning": "copy; follow as a model",
+          "note": "This is the all-purpose choice for copying a model, pattern, appearance, or behavior."
+        },
+        {
+          "id": "wv4cc0k3",
+          "word": "emulate",
+          "meaning": "copy or imitate a person",
+          "note": "Use this as the all-purpose choice when copying a person's speech, behaviour, or style."
+        },
+        {
+          "id": "a79bqxtq",
+          "word": "copy",
+          "meaning": "imitate",
+          "note": "Use this for copying a person's actions, behaviour, style, or movements rather than reproducing an object."
+        }
+      ],
       "examples": [
         {
           "english": "I imitate my teacher's handwriting all the time.",

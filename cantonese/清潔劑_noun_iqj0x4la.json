@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "cleaning product",
-      "english": ["cleaner"],
+      "english": [
+        {
+          "id": "omhan2rd",
+          "word": "cleaner",
+          "meaning": "cleaning product",
+          "note": "Use this for a chemical cleaning product used on objects or surfaces rather than the body."
+        }
+      ],
       "examples": [
         {
           "english": "This cleaner is great for removing grease.",

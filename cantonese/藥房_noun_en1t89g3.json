@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "pharmacy",
-      "english": ["drugstore", "chemist", "pharmacy", "dispensary"],
+      "english": [
+        {
+          "id": "3sw0kzkr",
+          "word": "drugstore",
+          "meaning": "pharmacy / drugstore",
+          "note": "This is the all-purpose Cantonese noun for a pharmacy or small drugstore."
+        },
+        {
+          "id": "6ebxgn68",
+          "word": "chemist",
+          "meaning": "pharmacy shop",
+          "note": "This is the all-purpose Cantonese noun for a pharmacy shop or chemist's shop."
+        },
+        {
+          "id": "1ioiop16",
+          "word": "pharmacy",
+          "meaning": "drugstore",
+          "note": "This is the all-purpose Hong Kong Cantonese word for a place where medicines are sold or dispensed."
+        },
+        {
+          "id": "rw8w7dk3",
+          "word": "dispensary",
+          "meaning": "medical dispensary",
+          "note": "Use this when the dispensary is primarily a place that supplies or sells medicines rather than a clinic providing treatment."
+        }
+      ],
       "examples": [
         {
           "english": "There’s a drugstore downstairs from my home, so it’s convenient to buy cold medicine.",

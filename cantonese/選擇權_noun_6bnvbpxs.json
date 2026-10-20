@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "right to choose",
-      "english": ["option", "choice"],
+      "english": [
+        {
+          "id": "1dljhjp4",
+          "word": "option",
+          "meaning": "right to choose",
+          "register": "formal",
+          "note": "Use this for the freedom or right to decide rather than one individual alternative."
+        },
+        {
+          "id": "7elsrces",
+          "word": "choice",
+          "meaning": "freedom to choose",
+          "note": "Use this specifically for the power or right to make a choice."
+        }
+      ],
       "examples": [
         {
           "english": "The contract states that the client retains the option to decide.",

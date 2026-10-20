@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "broken fragment",
-      "english": ["fragment", "chip", "split"],
+      "english": [
+        {
+          "id": "ukpem7u2",
+          "word": "fragment",
+          "meaning": "broken-off piece",
+          "note": "This is the all-purpose choice for a small piece broken off from something."
+        },
+        {
+          "id": "xc9pm7rd",
+          "word": "chip",
+          "meaning": "small broken piece",
+          "note": "Use this as the all-purpose noun for a small fragment broken off a solid object."
+        },
+        {
+          "id": "kbyq5ssf",
+          "word": "split",
+          "meaning": "fragment, splinter",
+          "note": "Use this for a fragment or small piece broken off from something."
+        }
+      ],
       "examples": [
         {
           "english": "There’s a glass fragment on the ground, so be careful when walking.",

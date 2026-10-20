@@ -6,7 +6,44 @@
   "boxes": [
     {
       "meaning": "feelings, affection",
-      "english": ["affection", "feeling", "emotion", "fondness", "attachment", "sentiment"],
+      "english": [
+        {
+          "id": "wgrirvvx",
+          "word": "affection",
+          "meaning": "fondness; love",
+          "note": "This is the all-purpose noun for affection, fondness, or emotional attachment toward someone."
+        },
+        {
+          "id": "w0rv46qk",
+          "word": "feeling",
+          "meaning": "emotion, impression",
+          "note": "Use 感情 for emotions, for hurt feelings, and for romantic attachment."
+        },
+        {
+          "id": "gja7zfwz",
+          "word": "emotion",
+          "meaning": "feeling; emotional state",
+          "note": "Use this when the emotion is framed as personal feelings or emotional attachment toward someone or something."
+        },
+        {
+          "id": "7hqpyj8g",
+          "word": "fondness",
+          "meaning": "liking; affection",
+          "note": "Use this when fondness means an emotional attachment or affection that has developed between people."
+        },
+        {
+          "id": "txqyst00",
+          "word": "attachment",
+          "meaning": "physical attachment",
+          "note": "Use this for an emotional or interpersonal attachment, including fondness for someone."
+        },
+        {
+          "id": "qpcjj2nj",
+          "word": "sentiment",
+          "meaning": "sentimental feeling",
+          "note": "Use this for tender or emotional feelings, especially when they are contrasted with reason or judgment."
+        }
+      ],
       "examples": [
         {
           "english": "I have a lot of affection for that dog.",
@@ -42,7 +79,20 @@
     },
     {
       "meaning": "relationship, bond between people",
-      "english": ["bond", "relationship"],
+      "english": [
+        {
+          "id": "dwkntsr0",
+          "word": "bond",
+          "meaning": "emotional tie",
+          "note": "Use this for the emotional tie holding people together, especially in a friendship or family relationship."
+        },
+        {
+          "id": "5fwwpgri",
+          "word": "relationship",
+          "meaning": "romantic relationship",
+          "note": "Use this for the romantic or sexual side of a relationship, especially when talking about whether two people are romantically involved."
+        }
+      ],
       "examples": [
         {
           "english": "We grew up playing together, so our bond is very strong.",

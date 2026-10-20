@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "source, origin",
-      "english": ["source", "origin"],
+      "english": [
+        {
+          "id": "8hs8y7jq",
+          "word": "source",
+          "meaning": "origin; information source",
+          "note": "This is the all-purpose choice for the origin or provider of information, goods, or anything else."
+        },
+        {
+          "id": "4mph9i8r",
+          "word": "origin",
+          "meaning": "source, source of something",
+          "note": "Use this for the source of information, goods, or other non-physical things."
+        }
+      ],
       "examples": [
         {
           "english": "The source of the information in this report is a government document.",

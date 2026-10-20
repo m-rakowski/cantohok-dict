@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "curved line",
-      "english": ["curve", "curl"],
+      "english": [
+        {
+          "id": "l3c05xaz",
+          "word": "curve",
+          "meaning": "curved line",
+          "note": "Use 曲線 for a geometric or drawn curved line rather than a road bend."
+        },
+        {
+          "id": "ileplb0j",
+          "word": "curl",
+          "meaning": "curved stroke/shape",
+          "note": "Use this for a curved line, stroke, or shape rather than hair or a ball in flight."
+        }
+      ],
       "examples": [
         {
           "english": "The teacher asked us to draw a curve on the diagram.",

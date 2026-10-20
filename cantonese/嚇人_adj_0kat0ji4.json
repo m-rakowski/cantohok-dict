@@ -6,7 +6,58 @@
   "boxes": [
     {
       "meaning": "scary, frightening",
-      "english": ["scary", "shocking", "fearsome", "terrifying", "menacing", "unnerving", "startling", "daunting"],
+      "english": [
+        {
+          "id": "ii6y9pfz",
+          "word": "scary",
+          "meaning": "causing fear",
+          "note": "This is the all-purpose casual choice for something that causes fear."
+        },
+        {
+          "id": "elfvrq8j",
+          "word": "shocking",
+          "meaning": "startling, causing shock",
+          "register": "colloquial",
+          "note": "Use this as the everyday choice when something is startling or frightening."
+        },
+        {
+          "id": "kix93j4s",
+          "word": "fearsome",
+          "meaning": "frightening, intimidating",
+          "register": "colloquial",
+          "note": "This is the all-purpose colloquial choice for something frightening or intimidating, especially in appearance."
+        },
+        {
+          "id": "t3t0jjz4",
+          "word": "terrifying",
+          "meaning": "frightening; very scary",
+          "note": "This is the all-purpose casual choice for something frightening or intimidating."
+        },
+        {
+          "id": "nnhfrdk9",
+          "word": "menacing",
+          "meaning": "threatening, ominous",
+          "note": "This is the all-purpose choice for something frightening or threatening."
+        },
+        {
+          "id": "fjup61nc",
+          "word": "unnerving",
+          "meaning": "causing fear or loss of confidence",
+          "note": "This is the all-purpose choice for something that causes fear or makes people lose their nerve."
+        },
+        {
+          "id": "eobrj2ib",
+          "word": "startling",
+          "meaning": "surprising; shocking",
+          "note": "Choose this when the startling thing is alarming or frightening rather than merely surprising."
+        },
+        {
+          "id": "5spvtpxo",
+          "word": "daunting",
+          "meaning": "discouraging, fear-inspiring",
+          "note": "Use this when something is frightening or gives an intimidating impression, rather than merely difficult."
+        }
+      ],
       "examples": [
         {
           "english": "This movie is really scary.",

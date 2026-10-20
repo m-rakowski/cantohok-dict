@@ -6,7 +6,44 @@
   "boxes": [
     {
       "meaning": "feeling unwell",
-      "english": ["uncomfortable", "unwell", "seedy", "upset", "lousy", "uneasy"],
+      "english": [
+        {
+          "id": "jcwfmgyp",
+          "word": "uncomfortable",
+          "meaning": "causing physical discomfort",
+          "note": "This is the all-purpose choice for physical discomfort, whether a thing causes it or a person feels it."
+        },
+        {
+          "id": "15gwkfcl",
+          "word": "unwell",
+          "meaning": "not feeling well; ill",
+          "note": "This is the all-purpose choice for saying that you are not feeling well."
+        },
+        {
+          "id": "ikkjtveb",
+          "word": "seedy",
+          "meaning": "hungover",
+          "note": "Use this for generally feeling unwell, including feeling rough after drinking, though it does not specifically state that the cause is a hangover."
+        },
+        {
+          "id": "ovcvrkhk",
+          "word": "upset",
+          "meaning": "stomach upset",
+          "note": "Use 唔舒服 when upset means feeling physically unwell, nauseated, or ready to vomit."
+        },
+        {
+          "id": "h730uxm6",
+          "word": "lousy",
+          "meaning": "feeling unwell",
+          "note": "Use this when “lousy” means that someone feels physically unwell or under the weather."
+        },
+        {
+          "id": "rykqf9q1",
+          "word": "uneasy",
+          "meaning": "causing discomfort",
+          "note": "Use this when something causes physical or emotional discomfort."
+        }
+      ],
       "examples": [
         {
           "english": "My stomach feels uncomfortable today.",
@@ -42,7 +79,14 @@
     },
     {
       "meaning": "uncomfortable, unpleasant",
-      "english": ["unpleasant"],
+      "english": [
+        {
+          "id": "m3vkxwoa",
+          "word": "unpleasant",
+          "meaning": "not pleasant",
+          "note": "This is the all-purpose choice for something that feels unpleasant or uncomfortable, especially a situation, sensation, or experience."
+        }
+      ],
       "examples": [
         {
           "english": "The smell of this perfume is unpleasant.",

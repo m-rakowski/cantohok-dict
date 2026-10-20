@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "capable, good at it",
-      "english": ["competent", "capable"],
+      "english": [
+        {
+          "id": "jt6zc6jt",
+          "word": "competent",
+          "meaning": "skilled; capable",
+          "note": "This is the all-purpose colloquial choice for someone who is capable and gets the job done."
+        },
+        {
+          "id": "o3icq997",
+          "word": "capable",
+          "meaning": "able, competent",
+          "register": "colloquial",
+          "note": "Use this when capable means proven to be good enough or able to handle the job."
+        }
+      ],
       "examples": [
         {
           "english": "This contractor is very competent.",
@@ -22,7 +36,15 @@
     },
     {
       "meaning": "all sorted, settled",
-      "english": ["golden"],
+      "english": [
+        {
+          "id": "3jnurvdr",
+          "word": "golden",
+          "meaning": "slang: all set",
+          "register": "colloquial",
+          "note": "Use 掂 as the colloquial all-purpose choice when “golden” means everything is fine or under control."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

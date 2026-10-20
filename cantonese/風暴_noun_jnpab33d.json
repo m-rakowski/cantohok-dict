@@ -6,7 +6,15 @@
   "boxes": [
     {
       "meaning": "violent weather",
-      "english": ["storm"],
+      "english": [
+        {
+          "id": "cibhrsdv",
+          "word": "storm",
+          "meaning": "violent weather",
+          "register": "written",
+          "note": "This is the all-purpose noun for severe or destructive weather, especially in news and weather contexts."
+        }
+      ],
       "register": "written",
       "examples": [
         {

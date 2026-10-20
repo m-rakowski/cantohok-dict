@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "clue, lead",
-      "english": ["giveaway", "clue", "lead"],
+      "english": [
+        {
+          "id": "svcy9yp6",
+          "word": "giveaway",
+          "meaning": "telltale clue",
+          "note": "Use this as the all-purpose noun for a telltale clue that makes something apparent."
+        },
+        {
+          "id": "37zbqbn5",
+          "word": "clue",
+          "meaning": "evidence; trace",
+          "note": "Use this for a lead or trace that points toward a conclusion, especially as evidence in an investigation."
+        },
+        {
+          "id": "f7x9mgvp",
+          "word": "lead",
+          "meaning": "clue or tip",
+          "note": "Use this for a possible clue or information that may help an investigation move forward."
+        }
+      ],
       "examples": [
         {
           "english": "His constant looks at the door were a giveaway that he was nervous.",

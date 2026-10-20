@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "shoreline",
-      "english": ["coast"],
+      "english": [
+        {
+          "id": "5t138avu",
+          "word": "coast",
+          "meaning": "shoreline",
+          "note": "Use this shorter form when the context clearly identifies the shore as a sea coast rather than a riverbank or lakeshore."
+        }
+      ],
       "examples": [
         {
           "english": "The coast of this island is beautiful.",

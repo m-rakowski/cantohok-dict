@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "take medicine",
-      "english": ["take"],
+      "english": [
+        {
+          "id": "hrv2a01g",
+          "word": "take",
+          "meaning": "take medicine",
+          "note": "Use 食藥 specifically when take means ingest medicine."
+        }
+      ],
       "examples": [
         {
           "english": "Remember to take your medicine, and do not slack off.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "enchanted; under a spell",
-      "english": ["spellbound"],
+      "english": [
+        {
+          "id": "b9131zol",
+          "word": "spellbound",
+          "meaning": "enchanted; under a spell",
+          "note": "Use this for literal supernatural enchantment or magical constraint, not ordinary fascination."
+        }
+      ],
       "examples": [
         {
           "english": "The wizard cast a spell on the dragon, and it was spellbound and unable to move.",

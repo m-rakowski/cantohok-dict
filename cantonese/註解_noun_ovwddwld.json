@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "code comment",
-      "english": ["comment"],
+      "english": [
+        {
+          "id": "u9rmuamn",
+          "word": "comment",
+          "meaning": "code comment",
+          "note": "Use this specifically for a remark embedded in source code to explain it to human readers."
+        }
+      ],
       "examples": [
         {
           "english": "The compiler will not execute the comment in this code.",

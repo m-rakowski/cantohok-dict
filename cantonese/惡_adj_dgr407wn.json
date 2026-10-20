@@ -6,7 +6,28 @@
   "boxes": [
     {
       "meaning": "fierce, nasty-tempered",
-      "english": ["unfriendly", "vicious", "fierce"],
+      "english": [
+        {
+          "id": "k2pul7qd",
+          "word": "unfriendly",
+          "meaning": "not friendly; hostile",
+          "register": "colloquial",
+          "note": "Use this stronger word when “unfriendly” means hostile, fierce, or mean rather than merely unwelcoming."
+        },
+        {
+          "id": "kvo1vpn9",
+          "word": "vicious",
+          "meaning": "savage, aggressive",
+          "register": "colloquial",
+          "note": "Use this colloquial choice especially for an aggressive, ill-tempered person or animal, rather than stressing destructive cruelty."
+        },
+        {
+          "id": "aedn6gb9",
+          "word": "fierce",
+          "meaning": "threatening, fierce-looking",
+          "note": "Use this for a person or animal that looks or acts threatening and intimidating, especially when describing its demeanor rather than its physical force."
+        }
+      ],
       "examples": [
         {
           "english": "That dog is unfriendly, so don’t get so close.",
@@ -27,7 +48,14 @@
     },
     {
       "meaning": "morally wicked",
-      "english": ["abandoned"],
+      "english": [
+        {
+          "id": "j82r1rfh",
+          "word": "abandoned",
+          "meaning": "morally wicked",
+          "note": "Use this for someone who is morally bad, vicious, or habitually wicked rather than merely unpleasant."
+        }
+      ],
       "examples": [
         {
           "english": "That abandoned villain preys on the weak.",

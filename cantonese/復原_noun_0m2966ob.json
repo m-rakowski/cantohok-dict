@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "recovery, getting back to normal",
-      "english": ["rebound", "cure"],
+      "english": [
+        {
+          "id": "dx3w8d36",
+          "word": "rebound",
+          "meaning": "recover after illness/setback",
+          "note": "Use this for a return to health or well-being after illness or another setback."
+        },
+        {
+          "id": "0d4yswpd",
+          "word": "cure",
+          "meaning": "healing; recovery",
+          "note": "Use this for restoration to soundness, especially after an injury or physical damage, rather than ordinary recovery from illness."
+        }
+      ],
       "examples": [
         {
           "english": "They made a quick rebound after their illness.",

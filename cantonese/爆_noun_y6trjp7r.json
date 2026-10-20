@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "bang, blast",
-      "english": ["bang", "blast"],
+      "english": [
+        {
+          "id": "6qb9gl9v",
+          "word": "bang",
+          "meaning": "loud bang",
+          "note": "Use this colloquial noun for a sudden loud bang or blast."
+        },
+        {
+          "id": "pfildq7n",
+          "word": "blast",
+          "meaning": "explosion",
+          "register": "colloquial",
+          "note": "Use this colloquial shorthand for an explosion, especially in casual references to blasting or demolition."
+        }
+      ],
       "examples": [
         {
           "english": "There was a sudden bang next door just now, and it scared me.",

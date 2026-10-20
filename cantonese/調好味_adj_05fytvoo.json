@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "prepared food",
-      "english": ["dressed"],
+      "english": [
+        {
+          "id": "yuailee7",
+          "word": "dressed",
+          "meaning": "prepared food",
+          "note": "Use this specifically for food whose seasoning or dressing has been prepared."
+        }
+      ],
       "examples": [
         {
           "english": "The salad is dressed, so there’s no need to add more sauce.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "toilet/shower stall",
-      "english": ["stall"],
+      "english": [
+        {
+          "id": "55tsoh1j",
+          "word": "stall",
+          "meaning": "toilet/shower stall",
+          "note": "Use this for the partitioned toilet cubicle rather than a shower space."
+        }
+      ],
       "examples": [
         {
           "english": "There's someone in the toilet stall, wait a moment.",

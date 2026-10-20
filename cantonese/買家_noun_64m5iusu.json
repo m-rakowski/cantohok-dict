@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "buyer",
-      "english": ["buyer", "consumer"],
+      "english": [
+        {
+          "id": "m7993d3d",
+          "word": "buyer",
+          "meaning": "person who buys",
+          "note": "This is the all-purpose noun for a person who buys something, including a prospective customer."
+        },
+        {
+          "id": "0magjs9b",
+          "word": "consumer",
+          "meaning": "buyer, customer",
+          "note": "Use this when the emphasis is on the person who buys the goods, especially in a sale or marketplace."
+        }
+      ],
       "examples": [
         {
           "english": "This buyer still has not decided whether to buy.",

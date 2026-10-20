@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "form to fill in",
-      "english": ["form"],
+      "english": [
+        {
+          "id": "l03jnbjr",
+          "word": "form",
+          "meaning": "application form",
+          "note": "This is the all-purpose choice for a paper application form or an online form with fields to fill in."
+        }
+      ],
       "examples": [
         {
           "english": "Have you filled in the form yet?",
@@ -17,7 +24,20 @@
     },
     {
       "meaning": "table of data",
-      "english": ["table", "chart"],
+      "english": [
+        {
+          "id": "hmoov8r9",
+          "word": "table",
+          "meaning": "data table",
+          "note": "Use 表格 for a data table arranged as rows and columns."
+        },
+        {
+          "id": "suamswlu",
+          "word": "chart",
+          "meaning": "table of data",
+          "note": "Use 表格 when the chart is a grid of rows and columns containing data."
+        }
+      ],
       "examples": [
         {
           "english": "This table lists this month's sales figures.",

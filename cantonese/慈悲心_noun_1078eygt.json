@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "compassion",
-      "english": ["mercy", "compassion"],
+      "english": [
+        {
+          "id": "qg5z9rnf",
+          "word": "mercy",
+          "meaning": "compassion; forgiveness",
+          "note": "This is the all-purpose choice when mercy means compassion or a merciful character."
+        },
+        {
+          "id": "k3li0dy0",
+          "word": "compassion",
+          "meaning": "pity; sympathetic concern",
+          "note": "Use this for compassion framed as kindness or mercy, especially in ethical or religious contexts."
+        }
+      ],
       "examples": [
         {
           "english": "They have a lot of mercy in their hearts and always help neighbours in need.",

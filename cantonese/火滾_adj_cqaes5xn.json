@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "furious, angry",
-      "english": ["boiled", "wild"],
+      "english": [
+        {
+          "id": "syrgrzio",
+          "word": "boiled",
+          "meaning": "angry",
+          "register": "colloquial",
+          "note": "Use 火滾 for someone who is angrily worked up, with a stronger flavour than the neutral word for angry."
+        },
+        {
+          "id": "sydcztbi",
+          "word": "wild",
+          "meaning": "furious, very angry",
+          "register": "colloquial",
+          "note": "Use 火滾 when someone is furious or extremely angry, rather than merely behaving wildly."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

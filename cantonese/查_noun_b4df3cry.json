@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "check, inspection",
-      "english": ["check", "survey", "examination", "scan"],
+      "english": [
+        {
+          "id": "q0so8miw",
+          "word": "check",
+          "meaning": "inspection, examination",
+          "note": "This is the all-purpose everyday choice for checking or examining something."
+        },
+        {
+          "id": "0y436d17",
+          "word": "survey",
+          "meaning": "examination/check",
+          "note": "Use this for an official or systematic check of the condition, quantity, or quality of things."
+        },
+        {
+          "id": "8y3qedoo",
+          "word": "examination",
+          "meaning": "inspection, checking",
+          "note": "Use this for a general inspection or checking process rather than a medical check-up or formal test."
+        },
+        {
+          "id": "816ep5vs",
+          "word": "scan",
+          "meaning": "careful examination",
+          "note": "Use this for a careful examination of written material, especially in a formal or work-related context."
+        }
+      ],
       "examples": [
         {
           "english": "The security team does a daily check of the back door to make sure nobody sneaks in.",

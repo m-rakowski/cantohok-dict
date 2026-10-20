@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "plant, grow",
-      "english": ["plant", "cultivate", "grow"],
+      "english": [
+        {
+          "id": "dsvykuvd",
+          "word": "plant",
+          "meaning": "put in the ground",
+          "note": "This is the all-purpose choice for putting seeds or plants into soil so they can grow."
+        },
+        {
+          "id": "26j3nxtq",
+          "word": "cultivate",
+          "meaning": "grow crops",
+          "note": "Use 種 as the all-purpose verb for growing or planting crops and other plants."
+        },
+        {
+          "id": "1fvzcpsu",
+          "word": "grow",
+          "meaning": "cultivate, raise",
+          "note": "Use this when someone cultivates or grows plants, crops, or vegetables."
+        }
+      ],
       "examples": [
         {
           "english": "We plant herbs on the balcony today.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "rebellious",
-      "english": ["rebellious", "insubordinate"],
+      "english": [
+        {
+          "id": "6gqky3zq",
+          "word": "rebellious",
+          "meaning": "showing rebellion",
+          "note": "This is the all-purpose choice for someone showing rebellion or refusing to conform."
+        },
+        {
+          "id": "r8w22ha4",
+          "word": "insubordinate",
+          "meaning": "rebellious toward authority",
+          "note": "Use this when the person is actively rebellious or defiant rather than merely disobedient."
+        }
+      ],
       "examples": [
         {
           "english": "My son is rebellious and always goes against his family.",

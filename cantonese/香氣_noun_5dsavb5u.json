@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "pleasant aroma",
-      "english": ["fragrance", "perfume"],
+      "english": [
+        {
+          "id": "wsq2mfzk",
+          "word": "fragrance",
+          "meaning": "pleasant smell",
+          "register": "formal",
+          "note": "Use this more formal term for the pleasant aroma given off by something, rather than the everyday 香味."
+        },
+        {
+          "id": "v40j7acr",
+          "word": "perfume",
+          "meaning": "pleasant smell",
+          "note": "Choose 香氣 for a more elevated description of a pleasant aroma rather than the everyday 香味."
+        }
+      ],
       "examples": [
         {
           "english": "The soil gives off a gentle fragrance after the rain.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "medal",
-      "english": ["medal", "award"],
+      "english": [
+        {
+          "id": "57cmgjqf",
+          "word": "medal",
+          "meaning": "award medal",
+          "note": "This is the all-purpose choice, especially for a medal won in a competition or awarded as a prize."
+        },
+        {
+          "id": "ibdxg13x",
+          "word": "award",
+          "meaning": "prize, medal, honor",
+          "note": "Use this when the award is specifically a medal."
+        }
+      ],
       "examples": [
         {
           "english": "We won the competition and got a medal.",

@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "organized, clear and orderly",
-      "english": ["coherent", "methodical", "orderly", "systematic", "articulate"],
+      "english": [
+        {
+          "id": "8e7dtpqj",
+          "word": "coherent",
+          "meaning": "logical, consistent",
+          "note": "Use this as the all-purpose choice for a plan, explanation, or argument that is orderly and makes sense."
+        },
+        {
+          "id": "a1roxg7f",
+          "word": "methodical",
+          "meaning": "systematic; organized",
+          "note": "This is the all-purpose choice for a person or their work when it is organized and methodical."
+        },
+        {
+          "id": "b0ygkkit",
+          "word": "orderly",
+          "meaning": "methodical, systematic",
+          "note": "Use this for a person, plan, or process that is methodical and well organized."
+        },
+        {
+          "id": "xeg1vcdq",
+          "word": "systematic",
+          "meaning": "methodical; regular",
+          "note": "Use this when the emphasis is on being orderly, coherent, and easy to follow rather than on a formal procedure."
+        },
+        {
+          "id": "lokjcvvs",
+          "word": "articulate",
+          "meaning": "clear; effective",
+          "note": "Use this when the effectiveness comes from presenting ideas in a clear, well-organized way."
+        }
+      ],
       "examples": [
         {
           "english": "This explanation is very coherent.",

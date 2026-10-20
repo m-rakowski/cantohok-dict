@@ -6,7 +6,39 @@
   "boxes": [
     {
       "meaning": "a mess, chaos",
-      "english": ["mess", "shambles", "tangle", "chaos", "circus"],
+      "english": [
+        {
+          "id": "7z93h839",
+          "word": "mess",
+          "meaning": "disorder; a mess",
+          "note": "Use this as the all-purpose noun for a disorderly mess or a bad situation."
+        },
+        {
+          "id": "ll41usqh",
+          "word": "shambles",
+          "meaning": "messy room or clutter",
+          "note": "This is the all-purpose everyday choice for a situation, room, or life that is a complete mess."
+        },
+        {
+          "id": "t7jf3c2q",
+          "word": "tangle",
+          "meaning": "confused mess",
+          "note": "This is the all-purpose choice for a general messy or confused situation."
+        },
+        {
+          "id": "6mk8s0ry",
+          "word": "chaos",
+          "meaning": "disorder, confusion",
+          "note": "Use this when stressing that a situation or place is a complete mess."
+        },
+        {
+          "id": "r4tmqgp7",
+          "word": "circus",
+          "meaning": "noisy chaos",
+          "register": "colloquial",
+          "note": "Use this when circus means a chaotic or disorderly place."
+        }
+      ],
       "examples": [
         {
           "english": "This room is a mess.",

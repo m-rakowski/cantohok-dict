@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "wave or swing something",
-      "english": ["swing", "flourish"],
+      "english": [
+        {
+          "id": "ieztvc30",
+          "word": "swing",
+          "meaning": "swing an object",
+          "note": "Use this when someone deliberately moves or waves an object, especially a weapon or hand."
+        },
+        {
+          "id": "gatlqvge",
+          "word": "flourish",
+          "meaning": "wave or brandish",
+          "note": "Use this for making broad, forceful movements with an object such as a flag or weapon."
+        }
+      ],
       "examples": [
         {
           "english": "They had to swing the flag to get their teammates’ attention.",

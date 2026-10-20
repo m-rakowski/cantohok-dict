@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "amusing incident",
-      "english": ["giggle", "comedy"],
+      "english": [
+        {
+          "id": "90u6mqjq",
+          "word": "giggle",
+          "meaning": "fun, amusement",
+          "note": "Use this for an amusing episode or funny incident."
+        },
+        {
+          "id": "fyz3uvs2",
+          "word": "comedy",
+          "meaning": "funny incident",
+          "note": "Use 趣事 for an amusing incident or anecdote, not for a comedy work."
+        }
+      ],
       "examples": [
         {
           "english": "At dinner, Ming told us a few funny stories and we had a giggle.",

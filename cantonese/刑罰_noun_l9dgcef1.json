@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "punishment, penalty",
-      "english": ["punishment", "sentence"],
+      "english": [
+        {
+          "id": "capcl1yw",
+          "word": "punishment",
+          "meaning": "penalty for wrongdoing",
+          "register": "formal",
+          "note": "Use this for a formal or legal penalty, especially one imposed for a crime, rather than ordinary discipline."
+        },
+        {
+          "id": "pxp0bn04",
+          "word": "sentence",
+          "meaning": "punishment term",
+          "note": "Use this for the punishment imposed by a criminal court, rather than the length of time served."
+        }
+      ],
       "examples": [
         {
           "english": "If you break the law, you have to face punishment.",

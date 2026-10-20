@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "accusation",
-      "english": ["accusation", "allegation"],
+      "english": [
+        {
+          "id": "twpeaozf",
+          "word": "accusation",
+          "meaning": "act of accusing",
+          "note": "Use this as the all-purpose noun for an accusation or allegation, including the act of making one."
+        },
+        {
+          "id": "qjqi1fwb",
+          "word": "allegation",
+          "meaning": "accusation; claim",
+          "note": "This is the all-purpose choice when the allegation is an accusation made against someone."
+        }
+      ],
       "examples": [
         {
           "english": "They made a serious accusation against the company.",

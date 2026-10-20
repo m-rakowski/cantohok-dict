@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "breath",
-      "english": ["wind"],
+      "english": [
+        {
+          "id": "1li7uhtl",
+          "word": "wind",
+          "meaning": "breath; breathlessness",
+          "note": "Use this for the breath or breathing capacity someone lacks when they are out of wind."
+        }
+      ],
       "examples": [
         {
           "english": "I was out of wind after walking just two steps.",
@@ -17,7 +24,15 @@
     },
     {
       "meaning": "fizz in a drink",
-      "english": ["sparkle"],
+      "english": [
+        {
+          "id": "gjc1zugx",
+          "word": "sparkle",
+          "meaning": "fizz, effervescence",
+          "register": "colloquial",
+          "note": "Use this for the fizz or carbonation in a drink, as in a drink having or losing its 氣."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "low (height, level, price or chance)",
-      "english": ["low", "down", "remote"],
+      "english": [
+        {
+          "id": "45w3vkkk",
+          "word": "low",
+          "meaning": "close to ground",
+          "note": "This is the all-purpose choice for physical height, status or quality, measured levels such as a pulse, and pitch; when “low” describes a poor opinion of someone, it means a low evaluation rather than actively looking down on them."
+        },
+        {
+          "id": "3h0no7qi",
+          "word": "down",
+          "meaning": "at a lower level",
+          "note": "Use 低 when a value, level, or market is lower than before, often with 咗 in conversation."
+        },
+        {
+          "id": "m2wptff6",
+          "word": "remote",
+          "meaning": "unlikely, slight",
+          "note": "Use this when remote means that a possibility or chance is slight or unlikely."
+        }
+      ],
       "examples": [
         {
           "english": "This table is too low, so it’s inconvenient to eat at.",

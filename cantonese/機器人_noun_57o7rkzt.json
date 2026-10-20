@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "humanoid mechanical being",
-      "english": ["robot"],
+      "english": [
+        {
+          "id": "2n0icsgt",
+          "word": "robot",
+          "meaning": "humanoid mechanical being",
+          "note": "This is the all-purpose choice for a physical robot, especially a programmable machine that carries out tasks."
+        }
+      ],
       "examples": [
         {
           "english": "This robot can pick orders by itself.",

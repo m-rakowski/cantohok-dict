@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "border line",
-      "english": ["border", "limit"],
+      "english": [
+        {
+          "id": "8mioksrc",
+          "word": "border",
+          "meaning": "country frontier",
+          "note": "Use 邊界 as the all-purpose noun for the separating line between countries or regions."
+        },
+        {
+          "id": "8u6vcm6b",
+          "word": "limit",
+          "meaning": "border, edge",
+          "note": "Use this for a physical, territorial, or conceptual border or edge."
+        }
+      ],
       "examples": [
         {
           "english": "This river is the border between two countries.",

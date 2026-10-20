@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "menstrual blood",
-      "english": ["blood"],
+      "english": [
+        {
+          "id": "yvepmutz",
+          "word": "blood",
+          "meaning": "menstrual blood",
+          "note": "Use this specifically for menstrual blood or period fluid."
+        }
+      ],
       "examples": [
         {
           "english": "The period blood is too heavy, so I need to see a doctor.",

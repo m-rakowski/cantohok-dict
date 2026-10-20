@@ -6,7 +6,39 @@
   "boxes": [
     {
       "meaning": "make, cook, prepare",
-      "english": ["make", "create", "fix", "prepare", "do"],
+      "english": [
+        {
+          "id": "6bonzjn7",
+          "word": "make",
+          "meaning": "create; build",
+          "note": "This is the all-purpose colloquial choice for making, creating, cooking, or putting together something such as a plan."
+        },
+        {
+          "id": "3gacfupi",
+          "word": "create",
+          "meaning": "bring into existence",
+          "note": "This is the all-purpose colloquial choice for making or producing a practical thing, including creating a result from materials or ingredients."
+        },
+        {
+          "id": "94691y5d",
+          "word": "fix",
+          "meaning": "repair",
+          "note": "This is the colloquial all-purpose verb for repairing things or preparing food and drink."
+        },
+        {
+          "id": "kq0ztf1u",
+          "word": "prepare",
+          "meaning": "cook or make food",
+          "note": "Use 整 for casually making or getting food ready, especially when the emphasis is preparation rather than a specific cooking method."
+        },
+        {
+          "id": "08kyy5ej",
+          "word": "do",
+          "meaning": "make or provide",
+          "register": "colloquial",
+          "note": "Use 整 for casually making, preparing, or cooking something for someone."
+        }
+      ],
       "examples": [
         {
           "english": "I make cakes every day.",
@@ -37,7 +69,27 @@
     },
     {
       "meaning": "repair, fix",
-      "english": ["repair", "mend", "tinker"],
+      "english": [
+        {
+          "id": "27nzdfjv",
+          "word": "repair",
+          "meaning": "fix, mend",
+          "note": "This is the all-purpose colloquial choice for fixing or mending something in everyday speech."
+        },
+        {
+          "id": "g5gcpfv5",
+          "word": "mend",
+          "meaning": "repair, fix",
+          "register": "colloquial",
+          "note": "This is the all-purpose spoken choice for physically repairing a broken or damaged object."
+        },
+        {
+          "id": "23ap3s0d",
+          "word": "tinker",
+          "meaning": "fiddle with, mess with",
+          "note": "Use this when the tinkering specifically involves physically repairing or adjusting an object, machine, or device."
+        }
+      ],
       "examples": [
         {
           "english": "My phone broke, so I took it in for repair.",

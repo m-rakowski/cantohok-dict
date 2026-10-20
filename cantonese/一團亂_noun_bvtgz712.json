@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "a tangled mess",
-      "english": ["clutter", "tangle", "jungle"],
+      "english": [
+        {
+          "id": "zeqmqau0",
+          "word": "clutter",
+          "meaning": "mess; disordered pile",
+          "note": "This is the all-purpose choice for a confused, disordered mess of things."
+        },
+        {
+          "id": "nc1kch1y",
+          "word": "tangle",
+          "meaning": "tangled mass",
+          "note": "Use this for a visibly tangled or disordered mass of things rather than an abstract dispute."
+        },
+        {
+          "id": "mvuc0vgr",
+          "word": "jungle",
+          "meaning": "tangled mess",
+          "note": "Use this for a situation or place that is a tangled mess, not for thick vegetation."
+        }
+      ],
       "examples": [
         {
           "english": "As soon as I walked in, I saw clutter all over the room.",

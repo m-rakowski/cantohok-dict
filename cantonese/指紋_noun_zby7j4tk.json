@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "fingerprint",
-      "english": ["print"],
+      "english": [
+        {
+          "id": "6qizw4i4",
+          "word": "print",
+          "meaning": "fingerprint",
+          "note": "Use this specifically for a fingerprint, including a police-found print."
+        }
+      ],
       "examples": [
         {
           "english": "The police found your print on the door handle.",

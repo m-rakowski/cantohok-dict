@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "physical obstacle blocking the way",
-      "english": ["barrier", "hazard"],
+      "english": [
+        {
+          "id": "c78l25j9",
+          "word": "barrier",
+          "meaning": "blocking structure",
+          "note": "Use 障礙物 for a tangible object or structure that blocks passage."
+        },
+        {
+          "id": "ecbtsz9z",
+          "word": "hazard",
+          "meaning": "dangerous obstacle",
+          "note": "Use this for a physical obstacle that creates danger, such as one in a game, on a course, or in the road."
+        }
+      ],
       "examples": [
         {
           "english": "There's a barrier at the entrance, so the cart can't get through.",

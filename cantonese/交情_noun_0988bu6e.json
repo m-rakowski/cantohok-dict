@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "personal friendship, closeness between people",
-      "english": ["friendship", "rapport", "acquaintance"],
+      "english": [
+        {
+          "id": "tfyku24q",
+          "word": "friendship",
+          "meaning": "friendly relationship",
+          "note": "Use this for the personal closeness or depth of the relationship between particular people."
+        },
+        {
+          "id": "sofrt3zc",
+          "word": "rapport",
+          "meaning": "close harmonious relationship",
+          "note": "Choose this for personal rapport based on familiarity, trust, or an established friendship rather than mainly professional cooperation."
+        },
+        {
+          "id": "20le0zkc",
+          "word": "acquaintance",
+          "meaning": "knowing someone",
+          "note": "Use this when the focus is on the degree of personal relationship, especially when saying it is not very deep."
+        }
+      ],
       "examples": [
         {
           "english": "I have a deep friendship with Ming.",

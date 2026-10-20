@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "parents",
-      "english": ["parent", "folk"],
+      "english": [
+        {
+          "id": "6g31ere1",
+          "word": "parent",
+          "meaning": "mother or father",
+          "note": "This is the all-purpose choice for a child's mother or father, or for parents collectively."
+        },
+        {
+          "id": "dtqaj8qb",
+          "word": "folk",
+          "meaning": "one’s parents/relatives",
+          "note": "Use this specifically when one's folks means one's parents rather than relatives generally."
+        }
+      ],
       "examples": [
         {
           "english": "My parent figures have always been very supportive of me.",

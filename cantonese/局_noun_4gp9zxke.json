@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "government bureau",
-      "english": ["department", "bureau"],
+      "english": [
+        {
+          "id": "bdsv5cgs",
+          "word": "department",
+          "meaning": "government office; organization unit",
+          "note": "Use 局 for a Hong Kong-style government bureau or department when it has that official institutional status."
+        },
+        {
+          "id": "agdaqdms",
+          "word": "bureau",
+          "meaning": "information office",
+          "register": "formal",
+          "note": "Use this for a government bureau or an institutional information bureau, especially when it is an official department."
+        }
+      ],
       "examples": [
         {
           "english": "The Transport Department announced that fares will increase next week.",
@@ -22,7 +36,14 @@
     },
     {
       "meaning": "game, round",
-      "english": ["game"],
+      "english": [
+        {
+          "id": "kcihy9cl",
+          "word": "game",
+          "meaning": "a match",
+          "note": "Use 局 for a particular round or game, especially the technical game segment in racket sports."
+        }
+      ],
       "examples": [
         {
           "english": "You served really well in this game.",

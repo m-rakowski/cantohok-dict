@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "near, close",
-      "english": ["near", "nearby", "close", "immediate"],
+      "english": [
+        {
+          "id": "6yu8kfd2",
+          "word": "near",
+          "meaning": "physically close",
+          "note": "Use 近 as the all-purpose choice for physical closeness, and in established expressions such as 近義詞 for approximate lexical similarity."
+        },
+        {
+          "id": "ithmyfnf",
+          "word": "nearby",
+          "meaning": "adjacent / close by",
+          "note": "This is the all-purpose spoken choice for something adjacent or close by."
+        },
+        {
+          "id": "95heeu6b",
+          "word": "close",
+          "meaning": "near",
+          "note": "Use 近 as the all-purpose adjective for small physical or time distance."
+        },
+        {
+          "id": "nj010jxd",
+          "word": "immediate",
+          "meaning": "next to; very close",
+          "note": "Use this for the very-close or adjacent sense, including something in the immediate vicinity."
+        }
+      ],
       "examples": [
         {
           "english": "This convenience store is very near my home.",
@@ -32,7 +57,14 @@
     },
     {
       "meaning": "getting close to the right answer",
-      "english": ["warm"],
+      "english": [
+        {
+          "id": "fefiyoob",
+          "word": "warm",
+          "meaning": "closer to correct",
+          "note": "Use this when a guess or answer is getting closer to the goal or correct answer."
+        }
+      ],
       "examples": [
         {
           "english": "You guessed thirty? You’re getting warm—the answer is thirty-two.",

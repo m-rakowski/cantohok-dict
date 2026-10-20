@@ -6,7 +6,28 @@
   "boxes": [
     {
       "meaning": "to give it a try",
-      "english": ["attempt", "taste", "experiment"],
+      "english": [
+        {
+          "id": "k6wpmdko",
+          "word": "attempt",
+          "meaning": "try, make an effort",
+          "register": "colloquial",
+          "note": "This is the all-purpose colloquial way to say that you will try or make an effort."
+        },
+        {
+          "id": "gnkp3reh",
+          "word": "taste",
+          "meaning": "taste (try food)",
+          "note": "Use this everyday choice when asking someone to sample food or drink."
+        },
+        {
+          "id": "w3ouyibq",
+          "word": "experiment",
+          "meaning": "try something out",
+          "register": "colloquial",
+          "note": "Use this for casually trying something out to see what happens, rather than carrying out a formal study."
+        }
+      ],
       "examples": [
         {
           "english": "Let's attempt to fix the old computer.",

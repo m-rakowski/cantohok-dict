@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "blank space",
-      "english": ["blankness", "space"],
+      "english": [
+        {
+          "id": "exdmsgqk",
+          "word": "blankness",
+          "meaning": "being blank; emptiness",
+          "note": "This is the all-purpose noun for a blank or empty area, state, or stretch of thought."
+        },
+        {
+          "id": "q2xrx9x6",
+          "word": "space",
+          "meaning": "blank gap in text",
+          "note": "Use this for a blank gap in written or digital text."
+        }
+      ],
       "examples": [
         {
           "english": "I stared at the blank paper, and the blankness left me unsure what to write.",

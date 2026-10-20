@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "still existing today",
-      "english": ["extant", "living"],
+      "english": [
+        {
+          "id": "jee67p7t",
+          "word": "extant",
+          "meaning": "still in existence",
+          "register": "formal",
+          "note": "Use this mainly in formal or written contexts for records, objects, or species that still exist today."
+        },
+        {
+          "id": "mijdt4ai",
+          "word": "living",
+          "meaning": "alive / current / in use",
+          "register": "written",
+          "note": "Use this written term when “living” means still existing or extant rather than actively used."
+        }
+      ],
       "examples": [
         {
           "english": "This is the earliest extant copy of the map.",

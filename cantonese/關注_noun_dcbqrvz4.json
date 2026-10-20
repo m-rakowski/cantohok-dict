@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "concern, public attention",
-      "english": ["concern", "publicity"],
+      "english": [
+        {
+          "id": "csgbk3kd",
+          "word": "concern",
+          "meaning": "matter of importance",
+          "note": "This is the all-purpose choice for a matter that affects someone or a subject that attracts their interest."
+        },
+        {
+          "id": "aqeqbr4l",
+          "word": "publicity",
+          "meaning": "public attention",
+          "note": "Use this when publicity means the public attention or interest that has been attracted."
+        }
+      ],
       "examples": [
         {
           "english": "The government has started showing concern for elderly people's lives.",

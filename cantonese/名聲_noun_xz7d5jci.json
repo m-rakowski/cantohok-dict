@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "reputation",
-      "english": ["reputation", "repute", "fame", "name"],
+      "english": [
+        {
+          "id": "9zkmlryy",
+          "word": "reputation",
+          "meaning": "what someone is known for",
+          "note": "Use 名聲 as the all-purpose noun for what a person or thing is known for, including a reputation for a particular trait."
+        },
+        {
+          "id": "r5kpcj8s",
+          "word": "repute",
+          "meaning": "reputation; good name",
+          "note": "This is the all-purpose choice for someone’s general reputation, especially whether it is good or bad."
+        },
+        {
+          "id": "ek0v7nh7",
+          "word": "fame",
+          "meaning": "reputation",
+          "note": "Use this especially when talking about whether someone's reputation is good or bad, or has been damaged."
+        },
+        {
+          "id": "vejtbvmy",
+          "word": "name",
+          "meaning": "reputation",
+          "note": "Use this when “name” means a person's or organisation's reputation."
+        }
+      ],
       "examples": [
         {
           "english": "They have a strong reputation in the industry.",

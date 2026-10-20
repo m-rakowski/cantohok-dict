@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "good judgment",
-      "english": ["wisdom", "common sense"],
+      "english": [
+        {
+          "id": "nd8t00gk",
+          "word": "wisdom",
+          "meaning": "good judgment",
+          "note": "Use this when emphasizing the ability to judge situations and make sound decisions."
+        },
+        {
+          "id": "g9uqx8dy",
+          "word": "common sense",
+          "meaning": "basic good judgment",
+          "note": "Use this when focusing on someone’s ability to make sensible decisions rather than on common sense as a general principle."
+        }
+      ],
       "examples": [
         {
           "english": "Buying a home is such a big matter—you need wisdom and can't just listen to what people say.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "cinema",
-      "english": ["cinema", "movie"],
+      "english": [
+        {
+          "id": "uttfmc7m",
+          "word": "cinema",
+          "meaning": "movie theatre",
+          "note": "This is the all-purpose noun for a movie theatre or movie house."
+        },
+        {
+          "id": "e4jyj2yk",
+          "word": "movie",
+          "meaning": "movie theatre",
+          "note": "Use 戲院 when referring to the cinema or movie theatre as a place."
+        }
+      ],
       "examples": [
         {
           "english": "We’re going to the cinema tonight to watch a movie.",

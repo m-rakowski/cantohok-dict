@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "anything, everything",
-      "english": ["anything", "everything"],
+      "english": [
+        {
+          "id": "8dyd1rl8",
+          "word": "anything",
+          "meaning": "indefinite thing",
+          "note": "Use this before a predicate when stressing that no thing is excluded, especially with 都 or a negative."
+        },
+        {
+          "id": "43ohh1az",
+          "word": "everything",
+          "meaning": "all or most things",
+          "register": "colloquial",
+          "note": "Use this when the meaning is anything and everything, without choosing particular items."
+        }
+      ],
       "examples": [
         {
           "english": "I don't want to eat anything.",

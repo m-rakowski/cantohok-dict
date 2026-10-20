@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "individual, one by one",
-      "english": ["individual"],
+      "english": [
+        {
+          "id": "jy8zelm9",
+          "word": "individual",
+          "meaning": "single; one-by-one",
+          "note": "This is the all-purpose choice when each person or thing is considered separately rather than as a group."
+        }
+      ],
       "examples": [
         {
           "english": "This time, please answer the questions individual.",
@@ -17,7 +24,14 @@
     },
     {
       "meaning": "isolated, a few cases only",
-      "english": ["isolated"],
+      "english": [
+        {
+          "id": "t7qrib5d",
+          "word": "isolated",
+          "meaning": "single occurrence",
+          "note": "Use this with cases, incidents, or examples to mean a specific isolated occurrence rather than a general pattern."
+        }
+      ],
       "examples": [
         {
           "english": "This power outage was just an isolated incident; it doesn't mean the whole district has a problem.",

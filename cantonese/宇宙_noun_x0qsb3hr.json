@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "universe",
-      "english": ["universe", "world"],
+      "english": [
+        {
+          "id": "xlh6du3e",
+          "word": "universe",
+          "meaning": "the cosmos",
+          "note": "This is the all-purpose choice for the physical cosmos and everything that exists."
+        },
+        {
+          "id": "y0k6kbd2",
+          "word": "world",
+          "meaning": "the universe",
+          "note": "Use this specifically for the universe or cosmos, not the human world or the Earth."
+        }
+      ],
       "examples": [
         {
           "english": "The universe is so vast; it’s fascinating.",

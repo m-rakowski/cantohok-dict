@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "to be worth, deserve",
-      "english": ["deserve", "merit", "rate"],
+      "english": [
+        {
+          "id": "srsdadu6",
+          "word": "deserve",
+          "meaning": "be worthy of",
+          "note": "This is the all-purpose choice for saying someone merits a result, reward, or outcome."
+        },
+        {
+          "id": "64aazfjd",
+          "word": "merit",
+          "meaning": "deserve",
+          "note": "This is the all-purpose choice for saying that someone or something deserves praise, attention, or a good result."
+        },
+        {
+          "id": "nq8pnnbt",
+          "word": "rate",
+          "meaning": "be worth",
+          "note": "Use this when saying that something deserves attention or is worth doing or mentioning."
+        }
+      ],
       "examples": [
         {
           "english": "You deserve this award for doing so well this time.",

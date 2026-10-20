@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "not believable",
-      "english": ["unbelievable", "unconvincing", "bogus"],
+      "english": [
+        {
+          "id": "cyqrjckq",
+          "word": "unbelievable",
+          "meaning": "not believable",
+          "note": "This is the all-purpose colloquial choice when a claim, explanation, or story is not credible."
+        },
+        {
+          "id": "t9xzh5uv",
+          "word": "unconvincing",
+          "meaning": "not believable",
+          "note": "Use this when the claim, story, or evidence itself seems not believable or credible."
+        },
+        {
+          "id": "ap0uol31",
+          "word": "bogus",
+          "meaning": "based on false assumptions",
+          "note": "Use this when information, a claim, or reasoning is bogus because it is misleading or based on unjustified assumptions."
+        }
+      ],
       "examples": [
         {
           "english": "This explanation is unbelievable.",

@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "natural, unforced",
-      "english": ["natural", "spontaneous", "organic"],
+      "english": [
+        {
+          "id": "85ab8vii",
+          "word": "natural",
+          "meaning": "expected, normal",
+          "note": "Use this as the all-purpose choice for what is normal or expected, and in phrases about death from age or illness rather than violence."
+        },
+        {
+          "id": "vrvqlqv4",
+          "word": "spontaneous",
+          "meaning": "unplanned, natural",
+          "note": "Use 自然 when a feeling or action comes out naturally and without being forced or arranged."
+        },
+        {
+          "id": "rcr488eu",
+          "word": "organic",
+          "meaning": "natural gradual development",
+          "note": "Use this for a process that develops naturally rather than being forced or artificially designed."
+        }
+      ],
       "examples": [
         {
           "english": "Handling it this way is natural.",
@@ -27,7 +46,14 @@
     },
     {
       "meaning": "of nature",
-      "english": ["elemental"],
+      "english": [
+        {
+          "id": "inb02jip",
+          "word": "elemental",
+          "meaning": "of nature; severe weather",
+          "note": "Use this for something belonging to nature or natural forces, especially in weather contexts."
+        }
+      ],
       "examples": [
         {
           "english": "This storm was caused by elemental forces.",

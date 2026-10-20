@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "replica, copy",
-      "english": ["replica", "facsimile"],
+      "english": [
+        {
+          "id": "rf33swmh",
+          "word": "replica",
+          "meaning": "exact copy",
+          "note": "This is the all-purpose choice for an exact copy or reproduction."
+        },
+        {
+          "id": "ei88y36b",
+          "word": "facsimile",
+          "meaning": "copy, reproduction",
+          "note": "This is the all-purpose choice for a reproduced item or exact copy."
+        }
+      ],
       "examples": [
         {
           "english": "This replica is exactly the same as the original.",

@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "put in prison",
-      "english": ["imprison", "commit"],
+      "english": [
+        {
+          "id": "qoh68i0l",
+          "word": "imprison",
+          "meaning": "put in prison",
+          "register": "formal",
+          "note": "Use this for formally putting someone in prison, especially in legal or news contexts."
+        },
+        {
+          "id": "fcvco87o",
+          "word": "commit",
+          "meaning": "imprison",
+          "register": "formal",
+          "note": "Use 收監 when authorities place someone in prison, especially in legal or official contexts."
+        }
+      ],
       "register": "formal",
       "examples": [
         {

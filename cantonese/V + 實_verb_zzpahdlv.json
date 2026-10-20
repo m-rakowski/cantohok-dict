@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "fasten firmly",
-      "english": ["secure"],
+      "english": [
+        {
+          "id": "wirepuur",
+          "word": "secure",
+          "meaning": "fasten firmly",
+          "note": "Use this with a fastening or locking verb, such as 綁、閂 or 鎖, when something must be held firmly or prevented from escaping."
+        }
+      ],
       "examples": [
         {
           "english": "I need to secure the door by bolting it shut.",

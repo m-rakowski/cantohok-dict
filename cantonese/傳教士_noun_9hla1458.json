@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "missionary",
-      "english": ["preacher", "apostle"],
+      "english": [
+        {
+          "id": "p1waxldb",
+          "word": "preacher",
+          "meaning": "person who preaches",
+          "note": "Use this for someone preaching or spreading a religion, especially as a missionary."
+        },
+        {
+          "id": "0j4j5ejv",
+          "word": "apostle",
+          "meaning": "religious missionary",
+          "note": "Use this for a missionary in general, rather than the specific title of an early Christian apostle."
+        }
+      ],
       "examples": [
         {
           "english": "That preacher came to the village to spread his religion.",

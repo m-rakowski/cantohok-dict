@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "settlement of a dispute",
-      "english": ["settlement"],
+      "english": [
+        {
+          "id": "jm3735m0",
+          "word": "settlement",
+          "meaning": "out-of-court settlement",
+          "note": "Use this for a negotiated agreement ending a dispute, especially an out-of-court settlement, rather than any decision imposed by a court."
+        }
+      ],
       "examples": [
         {
           "english": "Both sides finally agreed to an out-of-court settlement, so they did not need to go to court again.",
@@ -17,7 +24,21 @@
     },
     {
       "meaning": "reconciliation, making peace",
-      "english": ["conciliation", "reconciliation"],
+      "english": [
+        {
+          "id": "m5nz6guz",
+          "word": "conciliation",
+          "meaning": "peace-making, ending strife",
+          "note": "This is the all-purpose choice for the process or result of ending hostility and restoring friendly relations."
+        },
+        {
+          "id": "s7cc7hem",
+          "word": "reconciliation",
+          "meaning": "make up; friendly relations",
+          "register": "formal",
+          "note": "Use this for a formal or serious reconciliation, especially between disputing parties or organizations."
+        }
+      ],
       "examples": [
         {
           "english": "The two old friends finally reached conciliation after years of quarrelling.",

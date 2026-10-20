@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "credit rating",
-      "english": ["rating"],
+      "english": [
+        {
+          "id": "q7lgk8hn",
+          "word": "rating",
+          "meaning": "credit rating",
+          "note": "Use this specifically for a financial credit rating, such as a person’s or company’s creditworthiness."
+        }
+      ],
       "examples": [
         {
           "english": "This company’s credit rating was recently downgraded.",

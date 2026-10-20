@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "goods shipment",
-      "english": ["consignment"],
+      "english": [
+        {
+          "id": "fexfz0vc",
+          "word": "consignment",
+          "meaning": "goods shipment",
+          "note": "This is the all-purpose logistics term for a consignment of goods being sent or in transit."
+        }
+      ],
       "examples": [
         {
           "english": "This consignment has already been sent and should arrive tomorrow.",

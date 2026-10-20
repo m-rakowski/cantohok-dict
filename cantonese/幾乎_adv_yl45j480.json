@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "almost, nearly",
-      "english": ["virtually", "barely", "almost"],
+      "english": [
+        {
+          "id": "07kneek9",
+          "word": "virtually",
+          "meaning": "almost; nearly",
+          "note": "This is the all-purpose choice for saying that something is almost, but not quite, the case."
+        },
+        {
+          "id": "eu400oxr",
+          "word": "barely",
+          "meaning": "almost not at all",
+          "note": "Use this before a negative expression when something is almost not happening at all, as in barely seeing something."
+        },
+        {
+          "id": "u4iwk4ni",
+          "word": "almost",
+          "meaning": "nearly; not quite",
+          "note": "Use this especially for emphatic nearly-all, nearly-none, or nearly-but-not-quite statements."
+        }
+      ],
       "examples": [
         {
           "english": "I virtually missed the train.",

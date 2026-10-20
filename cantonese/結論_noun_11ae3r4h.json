@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "conclusion reached",
-      "english": ["conclusion", "deduction"],
+      "english": [
+        {
+          "id": "siqe2m6m",
+          "word": "conclusion",
+          "meaning": "decision; judgment",
+          "note": "Use this for a judgment or decision reached after considering the evidence or arguments."
+        },
+        {
+          "id": "rosa3kgk",
+          "word": "deduction",
+          "meaning": "logical conclusion",
+          "note": "Use this when focusing on the final conclusion rather than the reasoning used to reach it."
+        }
+      ],
       "examples": [
         {
           "english": "After hearing everyone's opinions, we finally reached a conclusion.",

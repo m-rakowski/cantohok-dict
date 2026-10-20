@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "mild, gentle, moderate",
-      "english": ["mild", "moderate"],
+      "english": [
+        {
+          "id": "14peeunm",
+          "word": "mild",
+          "meaning": "gentle, not easily angered",
+          "note": "Use 溫和 as the all-purpose choice for a gentle person, a conciliatory tone, or something non-harsh."
+        },
+        {
+          "id": "d3l83en2",
+          "word": "moderate",
+          "meaning": "politically moderate",
+          "note": "Use this for mild weather or behavior, and for a political position that is not extreme."
+        }
+      ],
       "examples": [
         {
           "english": "He is mild and doesn't lose his temper easily.",
@@ -22,7 +35,20 @@
     },
     {
       "meaning": "mild (weather)",
-      "english": ["temperate", "equable"],
+      "english": [
+        {
+          "id": "z5t3c9h2",
+          "word": "temperate",
+          "meaning": "moderate, not excessive",
+          "note": "Use this for moderate heat or mild weather and climate, rather than for moderation in conduct or appetite."
+        },
+        {
+          "id": "z5hnqjti",
+          "word": "equable",
+          "meaning": "even temperature",
+          "note": "Use this for mild weather or a temperature without uncomfortable extremes."
+        }
+      ],
       "examples": [
         {
           "english": "This winter's climate is temperate, so we do not need to wear so many clothes.",

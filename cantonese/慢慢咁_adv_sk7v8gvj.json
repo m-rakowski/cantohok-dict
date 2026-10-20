@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "slowly, taking one's time",
-      "english": ["leisurely", "painstakingly"],
+      "english": [
+        {
+          "id": "lq618aq7",
+          "word": "leisurely",
+          "meaning": "in a leisurely manner",
+          "note": "Use 慢慢咁 as the all-purpose spoken choice for doing something at an unhurried pace."
+        },
+        {
+          "id": "ls9zqpq3",
+          "word": "painstakingly",
+          "meaning": "slowly and carefully",
+          "note": "Use this when the sentence foregrounds the deliberately slow pace of carrying out the work."
+        }
+      ],
       "examples": [
         {
           "english": "We ate leisurely, with no need to hurry.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "a layer of something",
-      "english": ["blanket", "sheet"],
+      "english": [
+        {
+          "id": "4i1odwnr",
+          "word": "blanket",
+          "meaning": "covering layer",
+          "note": "Use this construction for a covering layer such as a layer of fog, snow, or dust."
+        },
+        {
+          "id": "4wq2s1wv",
+          "word": "sheet",
+          "meaning": "flat sheet, layer",
+          "note": "Use this construction when a sheet is a layer of something, and for a material spread across a surface, such as ice or mud."
+        }
+      ],
       "examples": [
         {
           "english": "A blanket of fog covered the whole road.",

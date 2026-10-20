@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "court evidence",
-      "english": ["evidence"],
+      "english": [
+        {
+          "id": "x0lhz2db",
+          "word": "evidence",
+          "meaning": "court evidence",
+          "note": "Use this specifically for a physical object or exhibit submitted as evidence in court."
+        }
+      ],
       "examples": [
         {
           "english": "The court listed this knife as evidence.",

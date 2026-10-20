@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "blood vessel",
-      "english": ["vessel"],
+      "english": [
+        {
+          "id": "62es1arl",
+          "word": "vessel",
+          "meaning": "blood vessel",
+          "note": "Use this specifically for a lymph vessel, not a blood vessel."
+        }
+      ],
       "examples": [
         {
           "english": "This lymph vessel is used to transport lymph fluid.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "alcohol proof",
-      "english": ["proof"],
+      "english": [
+        {
+          "id": "vq3d6ig7",
+          "word": "proof",
+          "meaning": "alcohol proof",
+          "note": "Use this for the alcohol-strength measure shown for liquor rather than for evidence."
+        }
+      ],
       "examples": [
         {
           "english": "This red wine has a proof of thirteen percent.",

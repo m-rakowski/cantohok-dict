@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "living room",
-      "english": ["living room", "sitting room", "salon"],
+      "english": [
+        {
+          "id": "mvuh6ixn",
+          "word": "living room",
+          "meaning": "family sitting room",
+          "note": "This is the all-purpose Cantonese word for the main room where people relax and socialise at home."
+        },
+        {
+          "id": "jzoiwq51",
+          "word": "sitting room",
+          "meaning": "living room",
+          "note": "This is the all-purpose Cantonese word for the room where residents or guests relax and spend time."
+        },
+        {
+          "id": "g8qli2fo",
+          "word": "salon",
+          "meaning": "large reception room",
+          "note": "Use this for the reception or living room in a home where guests are received and entertained."
+        }
+      ],
       "examples": [
         {
           "english": "We’re watching the match in the living room tonight, so there’s no need to go to the bedroom.",

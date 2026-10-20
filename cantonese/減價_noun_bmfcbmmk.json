@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "price discount",
-      "english": ["reduction"],
+      "english": [
+        {
+          "id": "hkmn1xfe",
+          "word": "reduction",
+          "meaning": "price discount",
+          "note": "Use this for a marked-down price or a general price reduction, especially in a shop or sale context rather than a stated discount rate."
+        }
+      ],
       "examples": [
         {
           "english": "The shop is having a price reduction, so the clothes are much cheaper now.",

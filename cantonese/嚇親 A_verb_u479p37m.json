@@ -6,7 +6,29 @@
   "boxes": [
     {
       "meaning": "startle or frighten A",
-      "english": ["amaze", "astonish", "surprise"],
+      "english": [
+        {
+          "id": "i33ib199",
+          "word": "amaze",
+          "meaning": "astonish, surprise",
+          "register": "colloquial",
+          "note": "Use this when the amazement is sudden or shocking, with a sense of startling the person."
+        },
+        {
+          "id": "sxh35z64",
+          "word": "astonish",
+          "meaning": "surprise greatly",
+          "register": "colloquial",
+          "note": "Use this colloquial form when the astonishment is sudden or shocking and may suggest being startled or frightened."
+        },
+        {
+          "id": "kbnchyip",
+          "word": "surprise",
+          "meaning": "cause surprise",
+          "register": "colloquial",
+          "note": "Use this when the surprise startles or frightens A, rather than pleasantly surprising them."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

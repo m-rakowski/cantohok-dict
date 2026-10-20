@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "idol, admired person",
-      "english": ["idol", "icon"],
+      "english": [
+        {
+          "id": "otw71cyd",
+          "word": "idol",
+          "meaning": "admired person",
+          "note": "This is the all-purpose choice, especially for an admired entertainer and also for a revered idol in religious contexts."
+        },
+        {
+          "id": "cl9238nb",
+          "word": "icon",
+          "meaning": "exemplar, role model",
+          "note": "Use 偶像 as the all-purpose choice for a highly admired person who serves as a model or outstanding example."
+        }
+      ],
       "examples": [
         {
           "english": "I really admired that idol when I was young.",

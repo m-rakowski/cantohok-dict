@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "queue, line of people or cars",
-      "english": ["queue", "line"],
+      "english": [
+        {
+          "id": "r599yqt0",
+          "word": "queue",
+          "meaning": "line of people/vehicles",
+          "note": "This is the all-purpose Cantonese noun for a queue of people, vehicles, or other things."
+        },
+        {
+          "id": "0yikjts9",
+          "word": "line",
+          "meaning": "queue or row of people",
+          "note": "Use this for a queue of people waiting, rather than a row arranged for display or formation."
+        }
+      ],
       "examples": [
         {
           "english": "The cars formed a queue at the tunnel entrance.",
@@ -22,7 +35,14 @@
     },
     {
       "meaning": "team",
-      "english": ["team"],
+      "english": [
+        {
+          "id": "dxqqti5x",
+          "word": "team",
+          "meaning": "group of people",
+          "note": "Use this shorter everyday word especially for a sports team or a team someone plays on."
+        }
+      ],
       "examples": [
         {
           "english": "Which team do you support?",

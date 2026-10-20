@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "land area unit",
-      "english": ["acre"],
+      "english": [
+        {
+          "id": "rsergp8y",
+          "word": "acre",
+          "meaning": "land area unit",
+          "note": "This is the all-purpose term for the measured land unit."
+        }
+      ],
       "examples": [
         {
           "english": "This plot of farmland is an acre in size.",

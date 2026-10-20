@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "consensus, shared agreement",
-      "english": ["consensus", "agreement", "understanding"],
+      "english": [
+        {
+          "id": "rqz1tbhj",
+          "word": "consensus",
+          "meaning": "general agreement",
+          "note": "Use this as the all-purpose noun for group agreement or a decision-making process built around reaching it."
+        },
+        {
+          "id": "dle238nx",
+          "word": "agreement",
+          "meaning": "concurrence / consistency",
+          "note": "Use 共識 when several people or parties share the same view or opinion."
+        },
+        {
+          "id": "6b1p9vfm",
+          "word": "understanding",
+          "meaning": "informal agreement",
+          "note": "Use this for a mutual agreement, including an agreement reached by resolving differences."
+        }
+      ],
       "examples": [
         {
           "english": "We discussed it for a long time at the meeting and finally reached a consensus.",

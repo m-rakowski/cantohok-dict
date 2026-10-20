@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "natural talent",
-      "english": ["knack", "ability"],
+      "english": [
+        {
+          "id": "8qhq4muv",
+          "word": "knack",
+          "meaning": "skill; aptitude",
+          "note": "Use 天分 when the knack means an innate or natural aptitude rather than a learned technique."
+        },
+        {
+          "id": "szj7ayar",
+          "word": "ability",
+          "meaning": "skill, talent",
+          "note": "Choose this when the ability means natural talent or aptitude rather than a learned skill."
+        }
+      ],
       "examples": [
         {
           "english": "They have a natural knack for drawing and have had it since childhood.",

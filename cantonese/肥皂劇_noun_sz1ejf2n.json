@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "soap opera",
-      "english": ["soap opera", "story"],
+      "english": [
+        {
+          "id": "tlgyawiz",
+          "word": "soap opera",
+          "meaning": "TV/radio serial drama",
+          "note": "This is the all-purpose Cantonese term for a melodramatic serialized radio or television drama."
+        },
+        {
+          "id": "6ds4r6f8",
+          "word": "story",
+          "meaning": "soap opera",
+          "note": "Use 肥皂劇 specifically for a serialized melodramatic television drama."
+        }
+      ],
       "examples": [
         {
           "english": "My mum watches that soap opera every day.",

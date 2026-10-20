@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "to say, speak, talk, tell",
-      "english": ["say", "talk", "relate", "tell"],
+      "english": [
+        {
+          "id": "g5b2zeig",
+          "word": "say",
+          "meaning": "say; speak",
+          "note": "Use 講 as the all-purpose spoken verb for saying something, speaking or expressing an opinion, and in 我敢講 for expressing strong belief."
+        },
+        {
+          "id": "90naapo1",
+          "word": "talk",
+          "meaning": "speak; communicate by speech",
+          "note": "This is the all-purpose choice for speaking or communicating by speech, and it also commonly introduces what is being discussed."
+        },
+        {
+          "id": "s89hgwor",
+          "word": "relate",
+          "meaning": "tell descriptively",
+          "note": "Use this everyday verb for telling or recounting something, such as a story or anecdote."
+        },
+        {
+          "id": "w61yoczb",
+          "word": "tell",
+          "meaning": "tell a story; recount",
+          "note": "Use 講 when telling or recounting a story or other sustained account rather than simply passing on information."
+        }
+      ],
       "examples": [
         {
           "english": "I dare say they'll definitely win tomorrow.",

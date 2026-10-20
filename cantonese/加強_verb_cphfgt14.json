@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "strengthen, make stronger",
-      "english": ["strengthen", "enhance", "firm", "heighten", "amplify"],
+      "english": [
+        {
+          "id": "fq68m38v",
+          "word": "strengthen",
+          "meaning": "make stronger",
+          "note": "Use this as the all-purpose verb for making something stronger or reinforcing it, including an army or other organization."
+        },
+        {
+          "id": "s4ks3taf",
+          "word": "enhance",
+          "meaning": "make greater / improve",
+          "note": "Use this when making an existing effect, capability, or feature stronger, especially by adding functionality."
+        },
+        {
+          "id": "e5z98fzm",
+          "word": "firm",
+          "meaning": "make firm",
+          "note": "Use this when making a thing, system, effect, or situation stronger rather than simply holding it in place."
+        },
+        {
+          "id": "o02x003t",
+          "word": "heighten",
+          "meaning": "increase intensity/degree",
+          "note": "Use this when heightening means making an effect, force, feeling, or intensity stronger."
+        },
+        {
+          "id": "w5wefwmw",
+          "word": "amplify",
+          "meaning": "increase signal strength",
+          "note": "Use this with a signal when the focus is on strengthening it rather than describing the technical amplification process."
+        }
+      ],
       "examples": [
         {
           "english": "We need to strengthen security so no one can take advantage.",

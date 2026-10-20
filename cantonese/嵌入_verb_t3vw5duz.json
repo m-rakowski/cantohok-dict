@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "insert into file",
-      "english": ["embed"],
+      "english": [
+        {
+          "id": "6fk9gpf0",
+          "word": "embed",
+          "meaning": "insert into file",
+          "note": "Use this technical term when placing a chart, video, or other content inside a document or data file."
+        }
+      ],
       "examples": [
         {
           "english": "You can embed the video in the report without opening a separate link.",

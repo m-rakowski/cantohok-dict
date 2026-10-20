@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "famous person",
-      "english": ["legend"],
+      "english": [
+        {
+          "id": "fumzoca3",
+          "word": "legend",
+          "meaning": "famous person",
+          "note": "Use this for a famous or heroic person regarded as a legendary figure rather than for the story itself."
+        }
+      ],
       "examples": [
         {
           "english": "They are a legend in local football.",

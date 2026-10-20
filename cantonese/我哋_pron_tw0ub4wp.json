@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "we, us",
-      "english": ["we", "us"],
+      "english": [
+        {
+          "id": "hjd940cu",
+          "word": "we",
+          "meaning": "exclusive we",
+          "register": "colloquial",
+          "note": "This is the all-purpose spoken choice for ordinary, inclusive, institutional, generic, caregiver, modesty, and procedural uses of “we.”"
+        },
+        {
+          "id": "rze69gio",
+          "word": "us",
+          "meaning": "exclusive we (object)",
+          "note": "This is the all-purpose spoken pronoun for “us,” whether the group includes the listener or refers to an associated group; it also stands alone as an answer."
+        }
+      ],
       "examples": [
         {
           "english": "We’ll have lunch together today, then go back to the office.",

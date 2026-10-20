@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "expensive",
-      "english": ["expensive", "costly", "dear", "steep", "stiff"],
+      "english": [
+        {
+          "id": "i2ap0ije",
+          "word": "expensive",
+          "meaning": "high price",
+          "note": "This is the all-purpose choice for saying that something has a high price or cost."
+        },
+        {
+          "id": "h5u52r51",
+          "word": "costly",
+          "meaning": "expensive",
+          "note": "This is the all-purpose everyday choice for something that costs a lot."
+        },
+        {
+          "id": "jztqsy3n",
+          "word": "dear",
+          "meaning": "expensive",
+          "note": "Use 貴 as the all-purpose adjective when something has a high price."
+        },
+        {
+          "id": "dvk1jbdm",
+          "word": "steep",
+          "meaning": "expensive, pricey",
+          "note": "Use 貴 when steep means that a price is expensive or excessive."
+        },
+        {
+          "id": "abasynks",
+          "word": "stiff",
+          "meaning": "expensive, pricey",
+          "note": "Use this when “stiff” means unusually expensive or pricey."
+        }
+      ],
       "examples": [
         {
           "english": "This phone is really expensive.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "disease isolation",
-      "english": ["quarantine"],
+      "english": [
+        {
+          "id": "b69kca0o",
+          "word": "quarantine",
+          "meaning": "disease isolation",
+          "note": "Use this specifically when quarantine means the period of isolation rather than the measure or state generally."
+        }
+      ],
       "examples": [
         {
           "english": "My quarantine period is over, so I can finally return to work.",

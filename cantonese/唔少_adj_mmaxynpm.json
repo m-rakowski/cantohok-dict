@@ -6,7 +6,34 @@
   "boxes": [
     {
       "meaning": "quite a lot",
-      "english": ["considerable", "substantial", "significant", "decent"],
+      "english": [
+        {
+          "id": "qsov44ul",
+          "word": "considerable",
+          "meaning": "large in amount",
+          "note": "Use 唔少 for an amount that is clearly substantial, rather than for a person's importance or prominence."
+        },
+        {
+          "id": "jnms4phr",
+          "word": "substantial",
+          "meaning": "large, considerable",
+          "register": "colloquial",
+          "note": "Use this for a substantial quantity or amount, especially when saying that there is quite a lot of something."
+        },
+        {
+          "id": "64uvrjtg",
+          "word": "significant",
+          "meaning": "fairly large amount",
+          "register": "colloquial",
+          "note": "Use this for a fairly large number or amount, especially in everyday speech."
+        },
+        {
+          "id": "dyvinufe",
+          "word": "decent",
+          "meaning": "a good amount",
+          "note": "Use this before a noun when ‘decent’ means a substantial or more-than-small amount."
+        }
+      ],
       "examples": [
         {
           "english": "This restaurant gets a considerable number of customers every day.",

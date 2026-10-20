@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "revelation, enlightening insight",
-      "english": ["revelation", "light"],
+      "english": [
+        {
+          "id": "s0adn6m7",
+          "word": "revelation",
+          "meaning": "divine revelation",
+          "register": "formal",
+          "note": "Use this specifically for a revealed divine truth or message."
+        },
+        {
+          "id": "4n6f3uxf",
+          "word": "light",
+          "meaning": "information, insight",
+          "register": "formal",
+          "note": "Use this for an insight or enlightening revelation rather than ordinary physical light."
+        }
+      ],
       "register": "formal",
       "examples": [
         {

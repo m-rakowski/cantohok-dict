@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "to let someone know",
-      "english": ["inform", "communicate"],
+      "english": [
+        {
+          "id": "cm60dnrn",
+          "word": "inform",
+          "meaning": "tell, notify",
+          "note": "This is the all-purpose spoken way to tell someone information."
+        },
+        {
+          "id": "dboktbcl",
+          "word": "communicate",
+          "meaning": "tell; pass on information",
+          "register": "colloquial",
+          "note": "Use this casual construction when you mean telling a particular person some information directly."
+        }
+      ],
       "examples": [
         {
           "english": "I’ll inform you that you don’t have to come to work tomorrow.",

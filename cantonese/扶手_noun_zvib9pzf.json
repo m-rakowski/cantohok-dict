@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "handrail",
-      "english": ["handrail", "rail"],
+      "english": [
+        {
+          "id": "4g56ge40",
+          "word": "handrail",
+          "meaning": "staircase support rail",
+          "note": "This is the all-purpose choice for a rail you hold while using stairs, ramps, or walkways."
+        },
+        {
+          "id": "0x7e5eap",
+          "word": "rail",
+          "meaning": "railing/bar",
+          "note": "Use 扶手 for the part of a rail that people hold for support, such as on stairs."
+        }
+      ],
       "examples": [
         {
           "english": "Remember to hold the handrail when going downstairs.",

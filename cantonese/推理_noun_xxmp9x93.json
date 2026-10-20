@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "reasoning",
-      "english": ["inference"],
+      "english": [
+        {
+          "id": "5p95xvq4",
+          "word": "inference",
+          "meaning": "reasoning process",
+          "note": "Use this as the all-purpose noun for the reasoning process of drawing an inference."
+        }
+      ],
       "examples": [
         {
           "english": "Solving math problems requires inference; you can't just guess.",
@@ -17,7 +24,14 @@
     },
     {
       "meaning": "mystery or detective genre",
-      "english": ["mystery"],
+      "english": [
+        {
+          "id": "640zel9q",
+          "word": "mystery",
+          "meaning": "mystery story",
+          "note": "Use this as the genre label for a mystery or detective story when the medium is clear from context."
+        }
+      ],
       "examples": [
         {
           "english": "This film is a mystery, and you can't guess the ending.",

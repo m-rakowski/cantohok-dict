@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "blame, criticism",
-      "english": ["denunciation", "blame", "accusation"],
+      "english": [
+        {
+          "id": "50mheumf",
+          "word": "denunciation",
+          "meaning": "public accusation",
+          "note": "This is the all-purpose choice for a public accusation or criticism, including criticism of wrongdoing."
+        },
+        {
+          "id": "urlnnd2t",
+          "word": "blame",
+          "meaning": "censure, criticism",
+          "note": "Use this for censure or criticism directed at someone, especially in phrases such as 受到指責."
+        },
+        {
+          "id": "5o6lorhe",
+          "word": "accusation",
+          "meaning": "act of accusing",
+          "note": "Use this when the accusation is framed as blaming or reproaching someone rather than making a formal allegation."
+        }
+      ],
       "examples": [
         {
           "english": "Their public denunciation accused the other side of hiding the truth.",

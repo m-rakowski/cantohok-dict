@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "each on their own, separately",
-      "english": ["separately", "independently", "apart"],
+      "english": [
+        {
+          "id": "joivzpki",
+          "word": "separately",
+          "meaning": "apart; not together",
+          "note": "Use this when each person or group does something on their own, emphasizing separate individual action."
+        },
+        {
+          "id": "l7c41pkq",
+          "word": "independently",
+          "meaning": "without help",
+          "note": "Use this when separate people or groups do the same thing independently of one another."
+        },
+        {
+          "id": "myezyyxj",
+          "word": "apart",
+          "meaning": "separately; not together",
+          "note": "Use this when each person or thing does something separately rather than together."
+        }
+      ],
       "examples": [
         {
           "english": "We went home separately after dinner.",

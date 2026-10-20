@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "afraid",
-      "english": ["afraid", "frightened"],
+      "english": [
+        {
+          "id": "2o0mt179",
+          "word": "afraid",
+          "meaning": "feeling fear",
+          "note": "This is the all-purpose choice for being frightened or feeling fear."
+        },
+        {
+          "id": "j6291mfz",
+          "word": "frightened",
+          "meaning": "afraid; scared",
+          "note": "This is the all-purpose spoken choice for being afraid or scared."
+        }
+      ],
       "examples": [
         {
           "english": "I was very afraid of the dark when I was little.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "physical resistance",
-      "english": ["resistance"],
+      "english": [
+        {
+          "id": "90ww1zoi",
+          "word": "resistance",
+          "meaning": "force opposing motion",
+          "note": "Use 阻力 for a physical force that slows or opposes movement."
+        }
+      ],
       "examples": [
         {
           "english": "When cycling against the wind, the resistance is really strong.",
@@ -17,7 +24,14 @@
     },
     {
       "meaning": "opposition, obstacle",
-      "english": ["obstacle"],
+      "english": [
+        {
+          "id": "lpfbkecc",
+          "word": "obstacle",
+          "meaning": "thing that blocks progress",
+          "note": "Use this when the obstacle is resistance or opposition, especially in a figurative context."
+        }
+      ],
       "examples": [
         {
           "english": "The reform faced a major obstacle because many people in the company opposed it.",

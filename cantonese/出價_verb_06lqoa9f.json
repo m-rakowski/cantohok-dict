@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "bid, offer a price",
-      "english": ["bid", "offer"],
+      "english": [
+        {
+          "id": "og9gj8ax",
+          "word": "bid",
+          "meaning": "make a bid in auction",
+          "note": "This is the all-purpose choice for offering a price or bidding in an auction."
+        },
+        {
+          "id": "u4ckwi00",
+          "word": "offer",
+          "meaning": "offer a price",
+          "note": "Use this specifically when offering a price, reward, or amount of money in a bid."
+        }
+      ],
       "examples": [
         {
           "english": "I bid three thousand dollars at this auction.",

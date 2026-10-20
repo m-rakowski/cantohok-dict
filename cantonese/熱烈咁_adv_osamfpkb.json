@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "enthusiastically, warmly",
-      "english": ["passionately", "enthusiastically"],
+      "english": [
+        {
+          "id": "tlosado0",
+          "word": "passionately",
+          "meaning": "with strong feeling",
+          "note": "Use this for passionate support, approval, discussion, or other outwardly enthusiastic action."
+        },
+        {
+          "id": "4iaczcra",
+          "word": "enthusiastically",
+          "meaning": "in an enthusiastic way",
+          "note": "Use this especially for enthusiastic welcoming, support, applause, or other public reactions."
+        }
+      ],
       "examples": [
         {
           "english": "The fans passionately supported the home team.",

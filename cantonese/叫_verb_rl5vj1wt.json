@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "to shout, cry out, call out",
-      "english": ["shout", "hail", "scream", "honk"],
+      "english": [
+        {
+          "id": "4wjw9shx",
+          "word": "shout",
+          "meaning": "cry out",
+          "note": "This is the all-purpose spoken Cantonese verb for crying out loudly or calling out to get someone's attention."
+        },
+        {
+          "id": "jzdomsa8",
+          "word": "hail",
+          "meaning": "hail a taxi",
+          "note": "This is the all-purpose choice for calling out to attract attention, including calling or hailing a taxi; for a simple greeting, use 打招呼."
+        },
+        {
+          "id": "jfuw88et",
+          "word": "scream",
+          "meaning": "to scream",
+          "note": "Use this as the all-purpose spoken verb for crying out or screaming when the exact cause is not important."
+        },
+        {
+          "id": "6hl5f8o5",
+          "word": "honk",
+          "meaning": "goose sound",
+          "note": "With a goose as the subject, this means making its characteristic honking sound rather than calling out to someone."
+        }
+      ],
       "examples": [
         {
           "english": "Why do you shout so loudly?",
@@ -32,7 +57,14 @@
     },
     {
       "meaning": "to be called, named",
-      "english": ["call"],
+      "english": [
+        {
+          "id": "0hoas7ma",
+          "word": "call",
+          "meaning": "name someone something",
+          "note": "Use 叫 when giving someone a name or saying what a person or thing is called, including the casual pattern 叫我 Al."
+        }
+      ],
       "examples": [
         {
           "english": "People call me Ming.",
@@ -43,7 +75,39 @@
     },
     {
       "meaning": "to tell or ask someone to do something",
-      "english": ["order", "direct", "request", "tell", "ask"],
+      "english": [
+        {
+          "id": "3hybeg4q",
+          "word": "order",
+          "meaning": "command, instruct",
+          "register": "colloquial",
+          "note": "For an everyday spoken instruction or command, this is the all-purpose choice."
+        },
+        {
+          "id": "6q2y8dhv",
+          "word": "direct",
+          "meaning": "instruct; order",
+          "note": "Use this colloquial verb when telling or ordering someone to do something."
+        },
+        {
+          "id": "yhnz4i7j",
+          "word": "request",
+          "meaning": "ask someone to do something",
+          "note": "Use this casual verb when asking or telling someone to do something."
+        },
+        {
+          "id": "o9dc391y",
+          "word": "tell",
+          "meaning": "tell to do",
+          "note": "Use 叫 when telling or ordering someone to do something, as in 叫佢走."
+        },
+        {
+          "id": "a2hwc4s8",
+          "word": "ask",
+          "meaning": "ask someone to do something",
+          "note": "Use 叫 when asking or telling someone to do something, especially in casual speech."
+        }
+      ],
       "examples": [
         {
           "english": "I order you to stop.",

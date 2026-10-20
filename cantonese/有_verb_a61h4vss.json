@@ -6,7 +6,51 @@
   "boxes": [
     {
       "meaning": "have, own",
-      "english": ["have", "own", "contain", "possess", "comprise", "bear", "carry"],
+      "english": [
+        {
+          "id": "mgmdhmf5",
+          "word": "have",
+          "meaning": "possess, own",
+          "note": "This is the all-purpose choice for possession, availability, family relationships, contents, scheduled classes, illnesses, and having children."
+        },
+        {
+          "id": "a829xr3e",
+          "word": "own",
+          "meaning": "possess; be owner of",
+          "note": "Use this as the all-purpose everyday way to say that someone owns or possesses something."
+        },
+        {
+          "id": "om9gfd5j",
+          "word": "contain",
+          "meaning": "hold inside",
+          "note": "Use this as the all-purpose spoken way to say that a container or item has something in it."
+        },
+        {
+          "id": "jr204b3x",
+          "word": "possess",
+          "meaning": "own; have",
+          "note": "This is the all-purpose colloquial verb for having or owning something."
+        },
+        {
+          "id": "40j48gh9",
+          "word": "comprise",
+          "meaning": "consist of; include",
+          "register": "colloquial",
+          "note": "Use this casual choice when simply listing what a group, set, or invention has in it."
+        },
+        {
+          "id": "zo6yjfyo",
+          "word": "bear",
+          "meaning": "have a mark",
+          "note": "Use this all-purpose verb when something has or displays a mark, appearance, name, reputation, or bodily feature."
+        },
+        {
+          "id": "7d146dog",
+          "word": "carry",
+          "meaning": "stock or sell",
+          "note": "Use 有 for possessing something or for a shop having an item available, rather than for physically carrying it."
+        }
+      ],
       "examples": [
         {
           "english": "I have two novels.",
@@ -42,7 +86,26 @@
     },
     {
       "meaning": "there is, exist",
-      "english": ["exist", "get", "be"],
+      "english": [
+        {
+          "id": "nfy2iwqh",
+          "word": "exist",
+          "meaning": "be real; have existence",
+          "note": "Use this everyday verb for saying that something exists or is present in a place, situation, or set of possibilities."
+        },
+        {
+          "id": "bfzs1y50",
+          "word": "get",
+          "meaning": "have (got)",
+          "note": "Use this when get means possess something or indicate that something exists in a place or situation."
+        },
+        {
+          "id": "edom96ez",
+          "word": "be",
+          "meaning": "existence",
+          "note": "Use 有 for existence and for measurements expressed as an amount possessed, especially age or duration such as having three hundred years of history."
+        }
+      ],
       "examples": [
         {
           "english": "A seat does exist here.",

@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "warrior, fighter",
-      "english": ["warrior", "soldier", "fighter"],
+      "english": [
+        {
+          "id": "q6sbeoxp",
+          "word": "warrior",
+          "meaning": "fighter; soldier",
+          "note": "This is the all-purpose choice for a literal warrior, soldier, or combatant."
+        },
+        {
+          "id": "0vrtaquy",
+          "word": "soldier",
+          "meaning": "army member",
+          "note": "Use 戰士 for a fighting soldier or warrior, not for every enlisted service member."
+        },
+        {
+          "id": "qy7c1es0",
+          "word": "fighter",
+          "meaning": "person who fights",
+          "note": "This is the all-purpose noun for a person engaged in fighting, especially in combat or for a cause."
+        }
+      ],
       "examples": [
         {
           "english": "A warrior guarded the front line all night.",

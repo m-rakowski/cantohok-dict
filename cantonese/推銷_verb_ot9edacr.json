@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "promote, sell",
-      "english": ["pitch", "sell"],
+      "english": [
+        {
+          "id": "zl9isddd",
+          "word": "pitch",
+          "meaning": "promote, sell",
+          "note": "Use this for presenting an idea, product, or proposal persuasively in an attempt to gain support or make a sale."
+        },
+        {
+          "id": "654p3lnw",
+          "word": "sell",
+          "meaning": "promote product",
+          "note": "Use this when promoting a product or service rather than describing the completed exchange of money for it."
+        }
+      ],
       "examples": [
         {
           "english": "We need to pitch this new proposal to clients today.",

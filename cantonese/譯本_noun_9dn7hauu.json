@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "translated version",
-      "english": ["rendering", "version"],
+      "english": [
+        {
+          "id": "o9lryhle",
+          "word": "rendering",
+          "meaning": "translation; version",
+          "note": "Use this for a translated version of a text, book, or work."
+        },
+        {
+          "id": "16lgwlgm",
+          "word": "version",
+          "meaning": "translation edition",
+          "note": "Use this when specifying that the version is a translation into another language."
+        }
+      ],
       "examples": [
         {
           "english": "I think this rendering is easier to understand than the original.",

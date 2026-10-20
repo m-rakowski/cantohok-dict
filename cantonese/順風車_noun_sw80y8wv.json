@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "free lift in someone's car",
-      "english": ["ride", "lift"],
+      "english": [
+        {
+          "id": "l3hfyjn6",
+          "word": "ride",
+          "meaning": "lift; ride home",
+          "register": "colloquial",
+          "note": "Use 順風車 for a lift from someone who is travelling in the same direction, especially a free ride."
+        },
+        {
+          "id": "ysrehmkn",
+          "word": "lift",
+          "meaning": "ride; free ride",
+          "note": "Use this specifically for a free or offered ride rather than an ordinary trip."
+        }
+      ],
       "examples": [
         {
           "english": "Thanks for giving me a ride home.",

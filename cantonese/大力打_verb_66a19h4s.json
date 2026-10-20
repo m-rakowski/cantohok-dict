@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "hit hard",
-      "english": ["bang", "hammer", "smash"],
+      "english": [
+        {
+          "id": "h9j487rw",
+          "word": "bang",
+          "meaning": "hit hard",
+          "note": "Use this as the all-purpose choice for hitting something hard."
+        },
+        {
+          "id": "yehvkmjw",
+          "word": "hammer",
+          "meaning": "hit hard",
+          "note": "Use this when the main point is that someone hits something particularly hard rather than repeatedly."
+        },
+        {
+          "id": "ptl2zhib",
+          "word": "smash",
+          "meaning": "hit very hard",
+          "note": "Use this when the focus is on hitting with great force rather than on the object breaking."
+        }
+      ],
       "examples": [
         {
           "english": "I bang the table hard when I get angry.",

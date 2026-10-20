@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "mark, trace",
-      "english": ["trail", "trace", "mark", "track"],
+      "english": [
+        {
+          "id": "76fe9g63",
+          "word": "trail",
+          "meaning": "track; trace",
+          "note": "This is the all-purpose choice for a visible track or trace left by something that passed, including footprints or blood."
+        },
+        {
+          "id": "kb6qhh4o",
+          "word": "trace",
+          "meaning": "mark or sign left behind",
+          "note": "Use this for a visible sign or mark left behind by a person, animal, or event."
+        },
+        {
+          "id": "w0m6d0zj",
+          "word": "mark",
+          "meaning": "blemish or stain",
+          "note": "This is the all-purpose everyday word for a visible physical mark, trace, scratch, or stain."
+        },
+        {
+          "id": "9o2nqeud",
+          "word": "track",
+          "meaning": "footprint, animal track",
+          "note": "Use this for a visible trace left behind, including a footprint or animal track when the specific footprint is not being emphasised."
+        }
+      ],
       "examples": [
         {
           "english": "There is still a trail left by the dog on the ground.",

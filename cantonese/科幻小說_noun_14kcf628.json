@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "science-fiction genre",
-      "english": ["science fiction"],
+      "english": [
+        {
+          "id": "lfa3rpil",
+          "word": "science fiction",
+          "meaning": "science-fiction genre",
+          "note": "Use this when you specifically mean science-fiction novels or literary fiction rather than the genre more broadly."
+        }
+      ],
       "examples": [
         {
           "english": "This science fiction novel is very imaginative.",

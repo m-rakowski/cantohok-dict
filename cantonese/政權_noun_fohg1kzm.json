@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "ruling regime",
-      "english": ["regime", "government", "polity"],
+      "english": [
+        {
+          "id": "ntb07ldv",
+          "word": "regime",
+          "meaning": "government in power",
+          "note": "Use this for the government in power, especially an authoritarian one."
+        },
+        {
+          "id": "ifb5cwzb",
+          "word": "government",
+          "meaning": "country's ruling authority",
+          "note": "Use 政權 when emphasizing the ruling political power or regime rather than its administrative departments."
+        },
+        {
+          "id": "v1s5h3w8",
+          "word": "polity",
+          "meaning": "political unit; state",
+          "note": "Use this when the focus is on the ruling power or regime that governs the political unit."
+        }
+      ],
       "examples": [
         {
           "english": "This regime controls the people through force.",

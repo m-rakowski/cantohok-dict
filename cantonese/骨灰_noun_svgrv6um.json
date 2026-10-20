@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "cremated remains",
-      "english": ["ash"],
+      "english": [
+        {
+          "id": "27k3ke88",
+          "word": "ash",
+          "meaning": "cremated remains",
+          "note": "Use this specifically for human or animal remains after cremation."
+        }
+      ],
       "examples": [
         {
           "english": "Grandma's ash was laid to rest here.",

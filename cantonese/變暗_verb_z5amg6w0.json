@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "light grows dim",
-      "english": ["wane"],
+      "english": [
+        {
+          "id": "0yxblydc",
+          "word": "wane",
+          "meaning": "light grows dim",
+          "note": "Use this specifically when a light source or the sky becomes less bright."
+        }
+      ],
       "examples": [
         {
           "english": "The glow from the streetlights is beginning to wane.",

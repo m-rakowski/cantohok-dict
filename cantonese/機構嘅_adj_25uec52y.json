@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "business/institutional",
-      "english": ["corporate"],
+      "english": [
+        {
+          "id": "tl539lho",
+          "word": "corporate",
+          "meaning": "business/institutional",
+          "note": "Use this instead when corporate means related to an institution or organization rather than specifically a company."
+        }
+      ],
       "examples": [
         {
           "english": "This organization's corporate structure is quite complicated.",

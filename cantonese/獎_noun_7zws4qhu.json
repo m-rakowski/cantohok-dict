@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "prize, award",
-      "english": ["award", "prize"],
+      "english": [
+        {
+          "id": "ehkpqsud",
+          "word": "award",
+          "meaning": "prize, medal, honor",
+          "note": "This is the all-purpose spoken noun for a prize or award when the exact form is not important."
+        },
+        {
+          "id": "fks7r0yr",
+          "word": "prize",
+          "meaning": "award / competition prize",
+          "note": "Use this shorter generic noun when the type of award or prize is clear from context."
+        }
+      ],
       "examples": [
         {
           "english": "I got an award in this competition.",

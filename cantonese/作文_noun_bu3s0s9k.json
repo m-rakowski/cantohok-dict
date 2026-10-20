@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "school essay",
-      "english": ["essay", "composition"],
+      "english": [
+        {
+          "id": "exfevjdj",
+          "word": "essay",
+          "meaning": "written composition",
+          "note": "This is the all-purpose Cantonese word for a written composition or essay."
+        },
+        {
+          "id": "uw8g49af",
+          "word": "composition",
+          "meaning": "essay",
+          "note": "Use this for an essay, especially a school or exam essay."
+        }
+      ],
       "examples": [
         {
           "english": "The teacher asked me to write an essay about environmental protection.",

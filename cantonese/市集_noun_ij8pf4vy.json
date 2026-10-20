@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "market fair",
-      "english": ["fair", "market"],
+      "english": [
+        {
+          "id": "uoybmhkh",
+          "word": "fair",
+          "meaning": "fair; market",
+          "note": "Use 市集 as the all-purpose choice for a public fair centred on stalls, shopping, and entertainment."
+        },
+        {
+          "id": "0cxtqdsr",
+          "word": "market",
+          "meaning": "periodic trading event",
+          "note": "Use this for a planned or periodic market event where vendors gather to sell goods."
+        }
+      ],
       "examples": [
         {
           "english": "There’s a fair by the waterfront this weekend, and lots of people go there to browse.",

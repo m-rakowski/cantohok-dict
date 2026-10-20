@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "thorough, detailed",
-      "english": ["detailed", "comprehensive"],
+      "english": [
+        {
+          "id": "lr8vxwjv",
+          "word": "detailed",
+          "meaning": "thorough; full of detail",
+          "register": "formal",
+          "note": "Use this when stressing that the treatment is comprehensive and leaves little out."
+        },
+        {
+          "id": "4girm0ly",
+          "word": "comprehensive",
+          "meaning": "broadly covering; all-inclusive",
+          "note": "Use this for a report, explanation, or treatment that is comprehensive because it gives extensive detail."
+        }
+      ],
       "examples": [
         {
           "english": "The document is very detailed.",

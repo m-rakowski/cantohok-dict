@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "speed up",
-      "english": ["expedite", "speed", "hurry"],
+      "english": [
+        {
+          "id": "9fyfnzrv",
+          "word": "expedite",
+          "meaning": "speed up progress",
+          "note": "This is the all-purpose choice for making a process or its progress happen faster."
+        },
+        {
+          "id": "dqj6hpdq",
+          "word": "speed",
+          "meaning": "make something faster",
+          "note": "Use this when something is made to happen at a higher rate, rather than describing how fast it is already going."
+        },
+        {
+          "id": "q8oui3d2",
+          "word": "hurry",
+          "meaning": "speed up",
+          "note": "Use this specifically when speeding up the rate or progress of an activity or process rather than simply rushing."
+        }
+      ],
       "examples": [
         {
           "english": "Can you expedite the approval process for this document?",

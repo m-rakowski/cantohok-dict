@@ -6,7 +6,50 @@
   "boxes": [
     {
       "meaning": "vague, unclear",
-      "english": ["ambiguous", "vague", "indefinite", "unclear", "dark", "cloudy", "loose"],
+      "english": [
+        {
+          "id": "s9rjv2sd",
+          "word": "ambiguous",
+          "meaning": "open to multiple interpretations",
+          "note": "This is the all-purpose choice for statements or wording that is vague and open to multiple interpretations."
+        },
+        {
+          "id": "p2avkth4",
+          "word": "vague",
+          "meaning": "indefinite statement",
+          "note": "Use this when a statement, term, or meaning is unclear because it is expressed ambiguously."
+        },
+        {
+          "id": "46097fay",
+          "word": "indefinite",
+          "meaning": "vague, unclear",
+          "note": "Use this when an answer, statement, or explanation is vague rather than clearly expressed."
+        },
+        {
+          "id": "apf2c9y0",
+          "word": "unclear",
+          "meaning": "ambiguous",
+          "note": "Use this when a statement or wording is ambiguous and allows more than one interpretation."
+        },
+        {
+          "id": "r45nmfsi",
+          "word": "dark",
+          "meaning": "unclear meaning",
+          "note": "Use this when the meaning or wording is vague, ambiguous, or unclearly expressed."
+        },
+        {
+          "id": "tqoalwkp",
+          "word": "cloudy",
+          "meaning": "uncertain, unclear",
+          "note": "Use this when information or a situation is unclear or uncertain."
+        },
+        {
+          "id": "q4fbva3r",
+          "word": "loose",
+          "meaning": "not exact; vague",
+          "note": "Use this when loose means vague, imprecise, or lacking a clearly defined meaning."
+        }
+      ],
       "examples": [
         {
           "english": "This statement is too ambiguous, and I don’t know what you mean.",

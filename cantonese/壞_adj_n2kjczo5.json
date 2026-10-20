@@ -6,7 +6,39 @@
   "boxes": [
     {
       "meaning": "broken, not working",
-      "english": ["faulty", "damaged", "down", "corrupt", "wrong"],
+      "english": [
+        {
+          "id": "7phtv8mx",
+          "word": "faulty",
+          "meaning": "defective; not working properly",
+          "note": "Use this especially for a physical object, machine, or system that is broken or not working."
+        },
+        {
+          "id": "i0111cw9",
+          "word": "damaged",
+          "meaning": "suffered damage",
+          "note": "Use this especially when the damaged object is faulty or no longer working, such as a machine."
+        },
+        {
+          "id": "6877l44r",
+          "word": "down",
+          "meaning": "out of order",
+          "note": "Use 壞 as the all-purpose choice when a system or machine is not functioning; for an aircraft, it covers mechanical failure only."
+        },
+        {
+          "id": "2pfbby1c",
+          "word": "corrupt",
+          "meaning": "damaged; invalid data",
+          "register": "colloquial",
+          "note": "Use this for a damaged or invalid file, text, or other digital or technical item, often said as 壞咗."
+        },
+        {
+          "id": "oeuxalov",
+          "word": "wrong",
+          "meaning": "not working; faulty",
+          "note": "Use 壞 when something is not working or is out of order."
+        }
+      ],
       "examples": [
         {
           "english": "The photocopier is faulty and cannot print documents.",
@@ -37,7 +69,14 @@
     },
     {
       "meaning": "bad, harmful",
-      "english": ["bad"],
+      "english": [
+        {
+          "id": "blto0c4d",
+          "word": "bad",
+          "meaning": "harmful; unhealthy",
+          "note": "Use 壞 for something intrinsically harmful, evil, broken, spoiled, fake, or for a child who is being naughty."
+        }
+      ],
       "examples": [
         {
           "english": "Smoking has a bad effect on your health.",

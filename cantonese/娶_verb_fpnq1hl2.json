@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "marry (a man taking a wife)",
-      "english": ["wed", "marry"],
+      "english": [
+        {
+          "id": "rl7m305x",
+          "word": "wed",
+          "meaning": "marry someone",
+          "note": "A man uses this when he takes a wife, rather than the gender-neutral construction."
+        },
+        {
+          "id": "k3kptndo",
+          "word": "marry",
+          "meaning": "take as spouse",
+          "note": "Use 娶 when the subject is a man taking a woman as his wife."
+        }
+      ],
       "examples": [
         {
           "english": "He finally wed his girlfriend.",

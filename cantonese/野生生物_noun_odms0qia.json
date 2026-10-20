@@ -6,7 +6,15 @@
   "boxes": [
     {
       "meaning": "wild organisms",
-      "english": ["wildlife"],
+      "english": [
+        {
+          "id": "dehsxter",
+          "word": "wildlife",
+          "meaning": "wild organisms",
+          "register": "written",
+          "note": "Use this broader term when referring to all kinds of undomesticated living organisms, not just animals."
+        }
+      ],
       "register": "written",
       "examples": [
         {

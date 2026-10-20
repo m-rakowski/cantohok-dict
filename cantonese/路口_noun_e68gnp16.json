@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "road junction",
-      "english": ["turning", "crossing", "intersection", "crossroads"],
+      "english": [
+        {
+          "id": "en77m97w",
+          "word": "turning",
+          "meaning": "road bend / junction",
+          "note": "Use this all-purpose choice for a turning understood as a junction or place where a road branches, especially in directions."
+        },
+        {
+          "id": "kkjoq8kl",
+          "word": "crossing",
+          "meaning": "road intersection",
+          "note": "This is the all-purpose everyday choice for a road junction or a road-based crossing point, but not a river or railway crossing."
+        },
+        {
+          "id": "0kzuimjt",
+          "word": "intersection",
+          "meaning": "road junction",
+          "note": "This is the all-purpose everyday choice for a road or street junction."
+        },
+        {
+          "id": "pgxpdc3f",
+          "word": "crossroads",
+          "meaning": "road intersection",
+          "note": "Use this for an ordinary road junction when its exact cross shape is not important."
+        }
+      ],
       "examples": [
         {
           "english": "At the turning ahead, turn right.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "descendants",
-      "english": ["posterity", "offspring"],
+      "english": [
+        {
+          "id": "exrs80eu",
+          "word": "posterity",
+          "meaning": "future generations; descendants",
+          "note": "Use this when you mean the descendants of a particular person or family rather than future generations generally."
+        },
+        {
+          "id": "rbvqja0g",
+          "word": "offspring",
+          "meaning": "descendants",
+          "note": "Use this for a person's descendants across multiple generations, especially when discussing a family line."
+        }
+      ],
       "examples": [
         {
           "english": "I hope the Lam family's posterity will always remember this family history.",

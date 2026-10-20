@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "goods for sale",
-      "english": ["merchandise", "wares", "commodity"],
+      "english": [
+        {
+          "id": "gcp4zow7",
+          "word": "merchandise",
+          "meaning": "goods for sale",
+          "note": "Use this as the all-purpose term for goods offered for sale."
+        },
+        {
+          "id": "4yruwcze",
+          "word": "wares",
+          "meaning": "goods for sale",
+          "note": "Use this for a more neutral or formal reference to goods offered for sale."
+        },
+        {
+          "id": "xx009lqo",
+          "word": "commodity",
+          "meaning": "goods for sale",
+          "note": "This is the all-purpose choice for movable goods offered for sale."
+        }
+      ],
       "examples": [
         {
           "english": "This shop has a wide range of merchandise.",

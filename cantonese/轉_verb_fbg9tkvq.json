@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "to spin, rotate",
-      "english": ["spin", "rotate"],
+      "english": [
+        {
+          "id": "25lgrpwj",
+          "word": "spin",
+          "meaning": "rotate, turn around",
+          "note": "This is the all-purpose choice for physically turning or rotating, including turning oneself around; for a car, it highlights the actual rotation rather than the loss of traction."
+        },
+        {
+          "id": "xblfezsb",
+          "word": "rotate",
+          "meaning": "spin; turn around",
+          "note": "This is the all-purpose choice for something spinning or for turning something such as a dial."
+        }
+      ],
       "examples": [
         {
           "english": "I saw the car spin around once on the wet road.",

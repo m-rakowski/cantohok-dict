@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "rental contract",
-      "english": ["lease"],
+      "english": [
+        {
+          "id": "5r8wduot",
+          "word": "lease",
+          "meaning": "rental contract",
+          "note": "Use this as the all-purpose term for the rental contract or document."
+        }
+      ],
       "examples": [
         {
           "english": "I've signed the lease.",

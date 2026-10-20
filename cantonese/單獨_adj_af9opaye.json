@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "alone, on one's own",
-      "english": ["solo", "single"],
+      "english": [
+        {
+          "id": "u980czwa",
+          "word": "solo",
+          "meaning": "alone, unaccompanied",
+          "note": "Use this as the all-purpose adjective for being alone or unaccompanied, especially when no companion or instructor is present."
+        },
+        {
+          "id": "m2yhzh49",
+          "word": "single",
+          "meaning": "alone; one only",
+          "note": "Use this when the emphasis is on being alone or not accompanied by anything else, rather than merely being one in number."
+        }
+      ],
       "examples": [
         {
           "english": "I went solo on the trip.",

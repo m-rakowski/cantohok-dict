@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "give as a gift",
-      "english": ["bestow", "present"],
+      "english": [
+        {
+          "id": "sfdylsz8",
+          "word": "bestow",
+          "meaning": "give, confer",
+          "register": "colloquial",
+          "note": "Choose this when bestowing something specifically as a gift."
+        },
+        {
+          "id": "vqzz012z",
+          "word": "present",
+          "meaning": "give as a gift",
+          "note": "Use this as the everyday choice when presenting an ordinary gift to someone, rather than an award or official honour."
+        }
+      ],
       "examples": [
         {
           "english": "This gift is something I bestow on you.",

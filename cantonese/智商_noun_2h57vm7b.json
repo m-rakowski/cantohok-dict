@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "IQ / test score",
-      "english": ["intelligence"],
+      "english": [
+        {
+          "id": "ipe2x5qm",
+          "word": "intelligence",
+          "meaning": "IQ / test score",
+          "note": "Use this specifically for an intelligence-test score or IQ."
+        }
+      ],
       "examples": [
         {
           "english": "Their intelligence test score was one hundred and twenty.",

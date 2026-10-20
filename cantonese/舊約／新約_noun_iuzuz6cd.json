@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "Old/New Testament",
-      "english": ["testament"],
+      "english": [
+        {
+          "id": "culjh0eq",
+          "word": "testament",
+          "meaning": "Old/New Testament",
+          "note": "Use 舊約 for the Hebrew scriptures and 新約 for the Christian continuation, rather than the will-related terms."
+        }
+      ],
       "examples": [
         {
           "english": "The Bible is divided into the Old Testament and the New Testament, each with its own focus.",

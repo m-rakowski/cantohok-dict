@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "panic",
-      "english": ["panic", "alarm"],
+      "english": [
+        {
+          "id": "0qqa642m",
+          "word": "panic",
+          "meaning": "overwhelming fear",
+          "register": "formal",
+          "note": "Use this especially for widespread public, social, or financial panic rather than one person's fright."
+        },
+        {
+          "id": "sivsw6d8",
+          "word": "alarm",
+          "meaning": "fear or anxiety",
+          "register": "formal",
+          "note": "Use this for the fear or anxiety caused by a perceived danger, especially when it spreads among people."
+        }
+      ],
       "register": "formal",
       "examples": [
         {

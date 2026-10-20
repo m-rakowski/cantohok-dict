@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "brother",
-      "english": ["brother"],
+      "english": [
+        {
+          "id": "v0txvc0i",
+          "word": "brother",
+          "meaning": "male sibling",
+          "note": "Use 兄弟 as the all-purpose term when the sibling's age is unspecified, and also for a male comrade or fellow member of a cause; context can include a half-brother or stepbrother."
+        }
+      ],
       "examples": [
         {
           "english": "He is my brother.",
@@ -17,7 +24,41 @@
     },
     {
       "meaning": "bro, buddy (friendly address to a man)",
-      "english": ["dude", "pal", "mate", "boy", "buddy"],
+      "english": [
+        {
+          "id": "ovden7o4",
+          "word": "dude",
+          "meaning": "vocative address",
+          "note": "Use this as the all-purpose casual address for a male friend or acquaintance, especially when saying “dude” or “bro.”"
+        },
+        {
+          "id": "xwbfs6pa",
+          "word": "pal",
+          "meaning": "friend; buddy",
+          "register": "colloquial",
+          "note": "Use this male-oriented “bro” style term for a close buddy or an informal, sometimes confrontational address."
+        },
+        {
+          "id": "rhnx5z2c",
+          "word": "mate",
+          "meaning": "friend",
+          "register": "colloquial",
+          "note": "Use this for a male buddy or as a friendly address to a male peer, especially a stranger of similar age."
+        },
+        {
+          "id": "wlafcdjo",
+          "word": "boy",
+          "meaning": "male friends",
+          "note": "Use this for a male friend or group of male friends in the sense of “bro” or “the boys.”"
+        },
+        {
+          "id": "r9rf06mg",
+          "word": "buddy",
+          "meaning": "informal address to stranger",
+          "register": "colloquial",
+          "note": "Use 兄弟 when informally addressing an unfamiliar man in a friendly or confrontational way."
+        }
+      ],
       "examples": [
         {
           "english": "Dude, wait for me!",

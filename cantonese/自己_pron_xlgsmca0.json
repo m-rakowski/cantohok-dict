@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "oneself (myself, yourself, etc.)",
-      "english": ["yourself", "myself", "himself", "themselves", "itself"],
+      "english": [
+        {
+          "id": "5b5z7m1x",
+          "word": "yourself",
+          "meaning": "reflexive singular",
+          "note": "This is the all-purpose reflexive for an action affecting the addressee."
+        },
+        {
+          "id": "1p9uzwqe",
+          "word": "myself",
+          "meaning": "reflexive object",
+          "note": "This is the all-purpose reflexive choice when the speaker is also the subject, as in “I taught myself.”"
+        },
+        {
+          "id": "7t00oygu",
+          "word": "himself",
+          "meaning": "reflexive pronoun",
+          "note": "Use this as the all-purpose reflexive when the male antecedent is already clear."
+        },
+        {
+          "id": "vpbopf0k",
+          "word": "themselves",
+          "meaning": "plural reflexive pronoun",
+          "note": "This is the all-purpose reflexive choice when the antecedent is clear from context."
+        },
+        {
+          "id": "ddloz70p",
+          "word": "itself",
+          "meaning": "reflexive pronoun",
+          "note": "Use this as the reflexive object when the thing doing the action is also affected by it."
+        }
+      ],
       "examples": [
         {
           "english": "You have to handle these things yourself.",

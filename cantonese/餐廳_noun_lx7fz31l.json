@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "restaurant",
-      "english": ["restaurant", "canteen", "cafeteria"],
+      "english": [
+        {
+          "id": "ku54gqzg",
+          "word": "restaurant",
+          "meaning": "eating place",
+          "note": "This is the all-purpose everyday word for a restaurant."
+        },
+        {
+          "id": "s8w581mn",
+          "word": "canteen",
+          "meaning": "cafeteria, snack bar",
+          "note": "Use this when the canteen is being viewed as a cafeteria or dining room rather than specifically as an institutional facility."
+        },
+        {
+          "id": "qe6z9ost",
+          "word": "cafeteria",
+          "meaning": "self-service restaurant",
+          "note": "Use this broad restaurant term only when the surrounding context already makes the self-service setup clear."
+        }
+      ],
       "examples": [
         {
           "english": "We're going to that restaurant for dinner tonight.",

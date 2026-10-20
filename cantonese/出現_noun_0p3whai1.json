@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "appearance, coming into view",
-      "english": ["emergence", "appearance"],
+      "english": [
+        {
+          "id": "xydtlyjh",
+          "word": "emergence",
+          "meaning": "coming into view",
+          "note": "This is the all-purpose choice for something becoming visible or arising, including a new pattern or structure."
+        },
+        {
+          "id": "gq1njst3",
+          "word": "appearance",
+          "meaning": "coming into sight",
+          "note": "Use this for the event of someone or something coming into sight or becoming visible."
+        }
+      ],
       "examples": [
         {
           "english": "The gradual emergence of a new cooperation pattern is changing the team.",

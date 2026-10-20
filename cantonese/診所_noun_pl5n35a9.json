@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "clinic, doctor's office",
-      "english": ["clinic", "dispensary", "surgery", "practice"],
+      "english": [
+        {
+          "id": "912ycig5",
+          "word": "clinic",
+          "meaning": "medical clinic",
+          "note": "This is the all-purpose word for a clinic as a medical facility."
+        },
+        {
+          "id": "pvawssu3",
+          "word": "dispensary",
+          "meaning": "medical dispensary",
+          "note": "Use this as the all-purpose Cantonese term for a local medical facility where people receive medical advice and treatment."
+        },
+        {
+          "id": "kd09uda1",
+          "word": "surgery",
+          "meaning": "doctor's office",
+          "note": "Use this for the place where a doctor sees patients, rather than for the operation itself."
+        },
+        {
+          "id": "yk60cvex",
+          "word": "practice",
+          "meaning": "medical office; practice",
+          "note": "Use this specifically for the premises where a doctor or other professional provides services."
+        }
+      ],
       "examples": [
         {
           "english": "I went to the clinic to see a doctor.",

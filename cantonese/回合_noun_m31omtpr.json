@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "a round in a match or game",
-      "english": ["rally", "round", "turn"],
+      "english": [
+        {
+          "id": "tdaa0i6q",
+          "word": "rally",
+          "meaning": "sports rally",
+          "note": "Use this for one sequence of play between a serve and the winning shot."
+        },
+        {
+          "id": "e79g7m74",
+          "word": "round",
+          "meaning": "match round",
+          "note": "Use 回合 for a timed segment of a match, especially in boxing or wrestling."
+        },
+        {
+          "id": "c8m1lvo3",
+          "word": "turn",
+          "meaning": "player's turn",
+          "note": "Use 回合 specifically for a player's turn or move in a game."
+        }
+      ],
       "examples": [
         {
           "english": "This rally lasted a long time, and I won in the end.",

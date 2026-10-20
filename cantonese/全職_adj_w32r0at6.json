@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "full-time",
-      "english": ["full-time", "professional"],
+      "english": [
+        {
+          "id": "qr9wnm8w",
+          "word": "full-time",
+          "meaning": "full-time job/activity",
+          "note": "This is the all-purpose choice for a job or activity that occupies the person’s full working time."
+        },
+        {
+          "id": "43g4rta1",
+          "word": "professional",
+          "meaning": "paid employment",
+          "note": "Use this when the point is that the occupation is someone’s full-time paid livelihood, rather than their professional standard or mock-expert behavior."
+        }
+      ],
       "examples": [
         {
           "english": "I'm working as a full-time nurse now.",

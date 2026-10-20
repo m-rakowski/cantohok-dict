@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "graduation prom",
-      "english": ["prom", "promenade"],
+      "english": [
+        {
+          "id": "8b5esopp",
+          "word": "prom",
+          "meaning": "school formal dance",
+          "note": "This is the all-purpose term for a formal school prom, especially one held near graduation."
+        },
+        {
+          "id": "qzjxtlob",
+          "word": "promenade",
+          "meaning": "prom dance",
+          "note": "Use this for a school-leaving formal dance, not for a walk or walkway."
+        }
+      ],
       "examples": [
         {
           "english": "The school arranged dancing and photos at this year's prom.",

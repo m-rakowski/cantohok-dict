@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "wrap up in something",
-      "english": ["wrap", "cocoon"],
+      "english": [
+        {
+          "id": "9nf4yfo5",
+          "word": "wrap",
+          "meaning": "enclose in paper/cloth",
+          "note": "This is the all-purpose choice for enclosing an object in paper, cloth, or similar material."
+        },
+        {
+          "id": "0vo32q9n",
+          "word": "cocoon",
+          "meaning": "envelop in a protective case",
+          "note": "This is the all-purpose colloquial choice for enveloping someone or something in a protective covering."
+        }
+      ],
       "examples": [
         {
           "english": "I wrap the present in paper.",
@@ -22,7 +35,14 @@
     },
     {
       "meaning": "enclose, surround",
-      "english": ["encompass"],
+      "english": [
+        {
+          "id": "urpluwq3",
+          "word": "encompass",
+          "meaning": "include, cover",
+          "note": "Use this when something physically encloses or contains something, especially by wrapping around it."
+        }
+      ],
       "examples": [
         {
           "english": "The walls encompass the whole garden.",

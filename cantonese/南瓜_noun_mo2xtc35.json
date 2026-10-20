@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "pumpkin",
-      "english": ["pumpkin", "squash"],
+      "english": [
+        {
+          "id": "odupamsl",
+          "word": "pumpkin",
+          "meaning": "pumpkin fruit",
+          "note": "This is the all-purpose Cantonese word for both the pumpkin plant and its fruit."
+        },
+        {
+          "id": "x6qype1x",
+          "word": "squash",
+          "meaning": "squash vegetable",
+          "note": "Use this for the squash vegetable itself or for squash served as a dish; Cantonese does not usually mark that distinction in the noun."
+        }
+      ],
       "examples": [
         {
           "english": "This pumpkin makes very sweet soup.",

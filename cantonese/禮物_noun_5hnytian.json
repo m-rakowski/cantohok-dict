@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "gift",
-      "english": ["present", "gift"],
+      "english": [
+        {
+          "id": "6wme6kcw",
+          "word": "present",
+          "meaning": "gift; present",
+          "note": "This is the all-purpose noun for a gift or present, including one given at a wedding."
+        },
+        {
+          "id": "1szt0pn7",
+          "word": "gift",
+          "meaning": "present",
+          "note": "This is the all-purpose word for something voluntarily given to another person without charge."
+        }
+      ],
       "examples": [
         {
           "english": "This present is for you.",

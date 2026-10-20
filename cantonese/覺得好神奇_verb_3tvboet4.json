@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "to find amazing",
-      "english": ["marvel", "wonder"],
+      "english": [
+        {
+          "id": "cc7yt29b",
+          "word": "marvel",
+          "meaning": "be amazed at",
+          "note": "Use this as the all-purpose spoken choice for wondering at or being amazed by something."
+        },
+        {
+          "id": "qif57gb6",
+          "word": "wonder",
+          "meaning": "be amazed; marvel",
+          "note": "Use this for the everyday spoken sense of being amazed or marveling at something extraordinary."
+        }
+      ],
       "examples": [
         {
           "english": "I marvel at how such a small machine can make food this good.",

@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "lawsuit",
-      "english": ["lawsuit", "suit"],
+      "english": [
+        {
+          "id": "sbm6hyah",
+          "word": "lawsuit",
+          "meaning": "court case",
+          "register": "colloquial",
+          "note": "This is the all-purpose colloquial choice for a lawsuit or court case."
+        },
+        {
+          "id": "z448ng24",
+          "word": "suit",
+          "meaning": "lawsuit",
+          "register": "colloquial",
+          "note": "Use this for a lawsuit or legal case in ordinary spoken Cantonese."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

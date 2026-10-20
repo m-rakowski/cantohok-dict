@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "split, share out",
-      "english": ["split", "divide"],
+      "english": [
+        {
+          "id": "q54e9u23",
+          "word": "split",
+          "meaning": "divide, share",
+          "note": "This is the all-purpose choice for dividing or sharing something among people."
+        },
+        {
+          "id": "ryzqriwq",
+          "word": "divide",
+          "meaning": "share out",
+          "note": "Use this when dividing food, money, or another share among people."
+        }
+      ],
       "examples": [
         {
           "english": "We split this sum of money into three shares.",

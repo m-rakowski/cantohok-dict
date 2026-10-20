@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "noble, honored",
-      "english": ["exalted", "sacred"],
+      "english": [
+        {
+          "id": "lspens4z",
+          "word": "exalted",
+          "meaning": "praised, honored",
+          "register": "formal",
+          "note": "This is the all-purpose choice for someone or something of high status, honor, or nobility."
+        },
+        {
+          "id": "o1o74xk5",
+          "word": "sacred",
+          "meaning": "revered, highly respected",
+          "note": "Use this for a sacred person, status, or lineage that is treated as highly exalted and worthy of respect."
+        }
+      ],
       "examples": [
         {
           "english": "This exalted guest will present the awards to us tonight.",

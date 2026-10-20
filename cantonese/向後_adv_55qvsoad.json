@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "backward",
-      "english": ["back", "behind"],
+      "english": [
+        {
+          "id": "z3bltw07",
+          "word": "back",
+          "meaning": "back; reverse direction",
+          "note": "Use 向後 for movement or orientation in the reverse direction, including moving farther toward the back or receding."
+        },
+        {
+          "id": "s3unyppg",
+          "word": "behind",
+          "meaning": "backward",
+          "note": "Use this for movement or orientation in a rearward direction, rather than for trailing behind."
+        }
+      ],
       "examples": [
         {
           "english": "The car suddenly rolled back.",

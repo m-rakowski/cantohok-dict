@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "cargo hold",
-      "english": ["hold", "bay"],
+      "english": [
+        {
+          "id": "o2ewdic0",
+          "word": "hold",
+          "meaning": "ship or plane cargo area",
+          "note": "Use this for the cargo compartment of a ship or aircraft."
+        },
+        {
+          "id": "fcpuf005",
+          "word": "bay",
+          "meaning": "recess / compartment",
+          "note": "Use this for the cargo bay of a ship or aircraft, not for a general architectural recess."
+        }
+      ],
       "examples": [
         {
           "english": "The plane's cargo hold is not full yet.",

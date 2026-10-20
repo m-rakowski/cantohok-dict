@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "one box or square in a grid, comic panel",
-      "english": ["panel", "square"],
+      "english": [
+        {
+          "id": "3wmadsqr",
+          "word": "panel",
+          "meaning": "comic panel",
+          "note": "Use 格 for one framed drawing or unit in a comic, rather than the whole comic strip."
+        },
+        {
+          "id": "91wr3h0h",
+          "word": "square",
+          "meaning": "board-game square / cell",
+          "note": "Use this for one cell or position on a board or grid."
+        }
+      ],
       "examples": [
         {
           "english": "This panel is the funniest.",

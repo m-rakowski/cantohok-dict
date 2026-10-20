@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "price discount",
-      "english": ["discount", "reduction"],
+      "english": [
+        {
+          "id": "rfoahbk6",
+          "word": "discount",
+          "meaning": "reduction in price",
+          "note": "Use 折扣 as the all-purpose noun for a reduction in the selling price."
+        },
+        {
+          "id": "8emknq74",
+          "word": "reduction",
+          "meaning": "price discount",
+          "note": "Use this for a discount expressed as a fraction, percentage, or decimal of the original price."
+        }
+      ],
       "examples": [
         {
           "english": "This shirt is on discount now, so it’s much cheaper.",

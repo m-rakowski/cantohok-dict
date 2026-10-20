@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "farm animal",
-      "english": ["sheep"],
+      "english": [
+        {
+          "id": "cdez1v8f",
+          "word": "sheep",
+          "meaning": "farm animal",
+          "note": "Use 綿羊 when you want to make clear that you mean a sheep rather than a goat or another kind of 羊."
+        }
+      ],
       "examples": [
         {
           "english": "This is a sheep, not a goat.",

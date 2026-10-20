@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "enough",
-      "english": ["sufficient", "adequate"],
+      "english": [
+        {
+          "id": "9sac1vko",
+          "word": "sufficient",
+          "meaning": "enough; adequate",
+          "note": "This is the all-purpose choice for saying that something is enough or adequate."
+        },
+        {
+          "id": "7ur7wmpk",
+          "word": "adequate",
+          "meaning": "sufficient; meets a requirement",
+          "note": "This is the all-purpose colloquial choice for something being sufficient or meeting a requirement."
+        }
+      ],
       "examples": [
         {
           "english": "Is this money sufficient to buy a ticket?",

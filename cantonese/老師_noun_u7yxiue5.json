@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "teacher",
-      "english": ["teacher", "instructor", "schoolteacher", "educator"],
+      "english": [
+        {
+          "id": "qo1wi67u",
+          "word": "teacher",
+          "meaning": "person who teaches",
+          "note": "This is the all-purpose everyday word for a person who teaches."
+        },
+        {
+          "id": "99zaf3j9",
+          "word": "instructor",
+          "meaning": "teacher; tutor",
+          "note": "Use this as the all-purpose word for a teacher or instructor."
+        },
+        {
+          "id": "qh1uzp1q",
+          "word": "schoolteacher",
+          "meaning": "teacher at a school",
+          "note": "This is the all-purpose Cantonese noun for a teacher at a school."
+        },
+        {
+          "id": "erm7wg0f",
+          "word": "educator",
+          "meaning": "teacher; education professional",
+          "note": "Use this as the all-purpose spoken term for a teacher or educator."
+        }
+      ],
       "examples": [
         {
           "english": "That was my favorite teacher when I was little.",

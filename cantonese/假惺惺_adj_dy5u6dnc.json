@@ -6,7 +6,28 @@
   "boxes": [
     {
       "meaning": "insincere, putting on an act",
-      "english": ["fake", "oily", "plastic"],
+      "english": [
+        {
+          "id": "e1jbwous",
+          "word": "fake",
+          "meaning": "insincere",
+          "register": "colloquial",
+          "note": "Use this for behavior, words, or emotions that are obviously insincere or hypocritical rather than counterfeit."
+        },
+        {
+          "id": "ywiku6cm",
+          "word": "oily",
+          "meaning": "smarmy, insincere",
+          "register": "colloquial",
+          "note": "Use this for someone who acts overly nice or polite in a clearly insincere way."
+        },
+        {
+          "id": "k63ndpmn",
+          "word": "plastic",
+          "meaning": "fake; insincere person",
+          "note": "Use this for a person who is conspicuously insincere and putting on a polished act."
+        }
+      ],
       "examples": [
         {
           "english": "You don't have to act fake here; I know you don't care.",

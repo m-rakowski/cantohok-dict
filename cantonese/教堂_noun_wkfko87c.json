@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "Christian house of worship",
-      "english": ["church"],
+      "english": [
+        {
+          "id": "85s82xmg",
+          "word": "church",
+          "meaning": "Christian house of worship",
+          "note": "Use this for the physical building where Christian services are held."
+        }
+      ],
       "examples": [
         {
           "english": "This church is beautiful, and tourists come to take photos all the time.",

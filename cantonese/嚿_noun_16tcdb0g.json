@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "lump, chunk",
-      "english": ["piece", "chunk"],
+      "english": [
+        {
+          "id": "u1yt00o8",
+          "word": "piece",
+          "meaning": "part of a whole",
+          "register": "colloquial",
+          "note": "Use 嚿 as the colloquial choice for an irregular lump or chunk, including a tangible piece of something."
+        },
+        {
+          "id": "ek2zc9oc",
+          "word": "chunk",
+          "meaning": "piece; lump",
+          "note": "This is the all-purpose choice for a squat, thick, irregular piece of solid material."
+        }
+      ],
       "examples": [
         {
           "english": "I can't finish this piece of chocolate.",

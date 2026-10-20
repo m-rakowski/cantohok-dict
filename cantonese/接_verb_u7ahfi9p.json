@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "pick someone up",
-      "english": ["collect"],
+      "english": [
+        {
+          "id": "jej3no0q",
+          "word": "collect",
+          "meaning": "pick up; fetch",
+          "note": "Use this when picking up or collecting a person, especially from a station, airport, or other place."
+        }
+      ],
       "examples": [
         {
           "english": "I’ll collect you from the station tomorrow.",
@@ -17,7 +24,14 @@
     },
     {
       "meaning": "catch something thrown",
-      "english": ["catch"],
+      "english": [
+        {
+          "id": "e5z08ggm",
+          "word": "catch",
+          "meaning": "catch an object",
+          "note": "Use 接 when intercepting an object thrown or moving through the air."
+        }
+      ],
       "examples": [
         {
           "english": "I catch the ball in one go.",

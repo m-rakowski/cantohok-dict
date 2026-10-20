@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "new",
-      "english": ["new", "young"],
+      "english": [
+        {
+          "id": "t1hf9yvs",
+          "word": "new",
+          "meaning": "recently made/created",
+          "note": "Use 新 as the all-purpose adjective for things recently made, unused, newly discovered, newly born, newly introduced or not previously known, and newly begun."
+        },
+        {
+          "id": "xzbxqaqg",
+          "word": "young",
+          "meaning": "newly started",
+          "note": "Use this when an era, field, project, or development is still at an early stage of existence."
+        }
+      ],
       "examples": [
         {
           "english": "This phone is new.",

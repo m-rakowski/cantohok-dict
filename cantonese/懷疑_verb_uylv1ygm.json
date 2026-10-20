@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "doubt whether something is true",
-      "english": ["doubt", "query"],
+      "english": [
+        {
+          "id": "1sd2rh39",
+          "word": "doubt",
+          "meaning": "be unsure / disbelieve",
+          "note": "This is the all-purpose choice for doubting whether something is true or intended."
+        },
+        {
+          "id": "tek81vex",
+          "word": "query",
+          "meaning": "question; doubt",
+          "note": "Use this when questioning something means doubting whether it is true or reliable."
+        }
+      ],
       "examples": [
         {
           "english": "I doubt whether he is really ill.",
@@ -22,7 +35,20 @@
     },
     {
       "meaning": "suspect",
-      "english": ["suspect", "question"],
+      "english": [
+        {
+          "id": "c2stnfzs",
+          "word": "suspect",
+          "meaning": "think guilty; suspect",
+          "note": "This is the all-purpose choice for suspecting that something is true, doubting someone or something, or believing someone is guilty."
+        },
+        {
+          "id": "k9a46d38",
+          "word": "question",
+          "meaning": "to doubt / challenge",
+          "note": "Use this when questioning something means doubting whether it is true or reliable."
+        }
+      ],
       "examples": [
         {
           "english": "I suspect he is lying.",

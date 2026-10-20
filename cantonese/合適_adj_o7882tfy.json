@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "suitable, appropriate",
-      "english": ["appropriate", "suitable", "decent"],
+      "english": [
+        {
+          "id": "2bbq1gl0",
+          "word": "appropriate",
+          "meaning": "suitable, proper",
+          "note": "Use this for a neutral, explicit judgment that something is suitable, especially when 啱 sounds too casual."
+        },
+        {
+          "id": "29hs0pgs",
+          "word": "suitable",
+          "meaning": "appropriate / fit for purpose",
+          "note": "Use this when judging whether a choice, time, place, or arrangement is appropriate."
+        },
+        {
+          "id": "08butgbb",
+          "word": "decent",
+          "meaning": "appropriate; suitable",
+          "note": "Use this when something is suitable or appropriate for the circumstances."
+        }
+      ],
       "examples": [
         {
           "english": "I think this arrangement is quite appropriate.",

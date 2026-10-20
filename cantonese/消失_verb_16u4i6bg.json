@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "disappear, vanish",
-      "english": ["disappear", "melt", "depart"],
+      "english": [
+        {
+          "id": "sw9r16zr",
+          "word": "disappear",
+          "meaning": "vanish",
+          "note": "Choose this for a more formal or abstract statement that something has vanished; for an ordinary missing person, 唔見 or 失蹤 is more natural."
+        },
+        {
+          "id": "bofpvzn3",
+          "word": "melt",
+          "meaning": "dissolve, disappear",
+          "note": "Use this for the sense of troubles or other things vanishing, rather than physically becoming liquid."
+        },
+        {
+          "id": "nhsccwaw",
+          "word": "depart",
+          "meaning": "disappear, vanish",
+          "note": "Use this when a person, thing, or phenomenon vanishes or ceases to be seen or present."
+        }
+      ],
       "examples": [
         {
           "english": "I watched the rumours slowly disappear.",

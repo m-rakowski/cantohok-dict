@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "journey interruption / layover",
-      "english": ["stopover"],
+      "english": [
+        {
+          "id": "43a7ybyh",
+          "word": "stopover",
+          "meaning": "journey interruption / layover",
+          "note": "Use this for a flight stopover that involves changing planes, not for every kind of stopover."
+        }
+      ],
       "examples": [
         {
           "english": "Our stopover in Singapore involves changing planes before we fly to Sydney.",

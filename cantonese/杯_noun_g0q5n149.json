@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "cup, glass for drinking",
-      "english": ["cup", "glass"],
+      "english": [
+        {
+          "id": "71p88eyx",
+          "word": "cup",
+          "meaning": "drinking cup",
+          "note": "This is the all-purpose choice for a drinking cup or the amount it contains."
+        },
+        {
+          "id": "nxjcgqv5",
+          "word": "glass",
+          "meaning": "drinking glass",
+          "note": "Use this for the drinking vessel itself, whether it is made of glass, plastic, or another material."
+        }
+      ],
       "examples": [
         {
           "english": "I want a cup of hot tea.",

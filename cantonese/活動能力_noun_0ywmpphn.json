@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "ability to move around",
-      "english": ["mobility", "locomotion"],
+      "english": [
+        {
+          "id": "0hcxnc77",
+          "word": "mobility",
+          "meaning": "ability to move",
+          "note": "This is the all-purpose term for a person's physical ability to move."
+        },
+        {
+          "id": "dgb7eze7",
+          "word": "locomotion",
+          "meaning": "movement / getting around",
+          "note": "Use this specifically for the ability or capacity to move around rather than the act of moving."
+        }
+      ],
       "examples": [
         {
           "english": "After the operation, their mobility has not fully recovered yet.",

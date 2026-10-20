@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "thanks, gratitude",
-      "english": ["appreciation", "gratitude"],
+      "english": [
+        {
+          "id": "b2xvosh0",
+          "word": "appreciation",
+          "meaning": "gratitude, appreciation",
+          "register": "formal",
+          "note": "Use this as the noun for gratitude or thanks, especially when expressing appreciation for someone's help or service."
+        },
+        {
+          "id": "qb2fzyle",
+          "word": "gratitude",
+          "meaning": "thankfulness",
+          "register": "written",
+          "note": "Use this for a formal or written expression of thanks, such as conveying or expressing gratitude to someone."
+        }
+      ],
       "examples": [
         {
           "english": "I would like to express my appreciation to you for your help.",

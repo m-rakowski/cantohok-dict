@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "travellers' convoy",
-      "english": ["caravan"],
+      "english": [
+        {
+          "id": "sek8qr40",
+          "word": "caravan",
+          "meaning": "travellers' convoy",
+          "note": "Use this specifically when the caravan is a group of camels crossing a desert."
+        }
+      ],
       "examples": [
         {
           "english": "The camel caravan crossed the desert and travelled for three days.",

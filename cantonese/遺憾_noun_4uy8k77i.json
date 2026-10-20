@@ -6,7 +6,33 @@
   "boxes": [
     {
       "meaning": "regret, pity",
-      "english": ["regret", "pity", "disappointment", "shame"],
+      "english": [
+        {
+          "id": "2857o4t3",
+          "word": "regret",
+          "meaning": "feeling of regret",
+          "note": "Use this as the all-purpose noun for regret about an unfortunate outcome, missed opportunity, or unfulfilled wish."
+        },
+        {
+          "id": "wmisumej",
+          "word": "pity",
+          "meaning": "regrettable thing",
+          "register": "formal",
+          "note": "Use this as a noun for a regrettable situation or outcome, as in 一個遺憾."
+        },
+        {
+          "id": "94ujycip",
+          "word": "disappointment",
+          "meaning": "feeling of disappointment",
+          "note": "Use this when the disappointment has a sense of regret or something regrettably falling short."
+        },
+        {
+          "id": "ziceugp6",
+          "word": "shame",
+          "meaning": "pity / regret",
+          "note": "Use 遺憾 when “a shame” means something regrettable or disappointing rather than moral shame."
+        }
+      ],
       "examples": [
         {
           "english": "It’s such a regret that we lost the match this time.",

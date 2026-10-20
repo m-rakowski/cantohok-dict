@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "plan, intention",
-      "english": ["intention", "notion", "counsel"],
+      "english": [
+        {
+          "id": "wc8djkve",
+          "word": "intention",
+          "meaning": "planned course of action",
+          "note": "This is the everyday all-purpose noun for a person's planned course of action."
+        },
+        {
+          "id": "qnmqq9qi",
+          "word": "notion",
+          "meaning": "inclination; intention",
+          "note": "Use this when the notion is an intention or plan to do something."
+        },
+        {
+          "id": "o96qgead",
+          "word": "counsel",
+          "meaning": "purpose, plan",
+          "note": "Use this when counsel means someone's intended plan, purpose, or design rather than advice."
+        }
+      ],
       "examples": [
         {
           "english": "My intention is to move house next month.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "packaging",
-      "english": ["packing"],
+      "english": [
+        {
+          "id": "mkkncl2g",
+          "word": "packing",
+          "meaning": "wrapping / packaging material",
+          "note": "Use this for the packaging or wrapping around a product as a whole, rather than specifying the material."
+        }
+      ],
       "examples": [
         {
           "english": "The packing for this product looks great.",
@@ -17,7 +24,14 @@
     },
     {
       "meaning": "the act of wrapping",
-      "english": ["wrap"],
+      "english": [
+        {
+          "id": "os622ewg",
+          "word": "wrap",
+          "meaning": "the act of wrapping",
+          "note": "Use this for the wrapping or packaging process itself rather than the material used."
+        }
+      ],
       "examples": [
         {
           "english": "I’ll wrap the gift myself; you don’t need to help.",

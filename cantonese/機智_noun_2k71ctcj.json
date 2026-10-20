@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "quick wit",
-      "english": ["cleverness", "wit", "intelligence"],
+      "english": [
+        {
+          "id": "c85efl7z",
+          "word": "cleverness",
+          "meaning": "being clever",
+          "note": "Use this for cleverness shown through quick thinking or a witty response rather than general intelligence."
+        },
+        {
+          "id": "jeo2a31d",
+          "word": "wit",
+          "meaning": "quick intelligence",
+          "note": "Use this for quick-thinking cleverness or clever, quick humour rather than general intelligence."
+        },
+        {
+          "id": "o6jld510",
+          "word": "intelligence",
+          "meaning": "quickness of mind",
+          "note": "Use this for quick, clever thinking or wit shown in handling situations."
+        }
+      ],
       "examples": [
         {
           "english": "They immediately used a joke to defuse the awkwardness; that was real cleverness.",

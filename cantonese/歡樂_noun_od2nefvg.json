@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "joy, festive happiness",
-      "english": ["cheerfulness", "joy"],
+      "english": [
+        {
+          "id": "3hi130j9",
+          "word": "cheerfulness",
+          "meaning": "being cheerful; joy",
+          "register": "formal",
+          "note": "Choose this for a more festive or shared atmosphere of joy rather than an individual’s general happiness."
+        },
+        {
+          "id": "1ynachvz",
+          "word": "joy",
+          "meaning": "feeling of happiness",
+          "register": "written",
+          "note": "Use this for joyful cheerfulness with a festive or collective atmosphere rather than a private feeling."
+        }
+      ],
       "examples": [
         {
           "english": "The whole venue was full of cheerfulness.",

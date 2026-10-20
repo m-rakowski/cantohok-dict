@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "obstacle, setback",
-      "english": ["obstacle", "setback"],
+      "english": [
+        {
+          "id": "90511kzt",
+          "word": "obstacle",
+          "meaning": "thing that blocks progress",
+          "note": "Use this for an obstacle that causes delay, interruption, or a setback in progress."
+        },
+        {
+          "id": "t5wukt8b",
+          "word": "setback",
+          "meaning": "delay or reverse",
+          "register": "written",
+          "note": "Use this for a setback specifically involving obstruction, delay, or slowed progress."
+        }
+      ],
       "examples": [
         {
           "english": "The system keeps crashing, becoming an obstacle to the whole plan.",

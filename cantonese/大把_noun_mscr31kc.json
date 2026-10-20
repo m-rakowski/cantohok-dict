@@ -6,7 +6,29 @@
   "boxes": [
     {
       "meaning": "plenty, loads",
-      "english": ["plenty", "bucket", "acre"],
+      "english": [
+        {
+          "id": "vi0g639k",
+          "word": "plenty",
+          "meaning": "a great deal; plenty",
+          "register": "colloquial",
+          "note": "Use this colloquial expression for emphatic plenty, especially with resources such as time, money, or opportunities."
+        },
+        {
+          "id": "jqmw7qpn",
+          "word": "bucket",
+          "meaning": "buckets (lots)",
+          "register": "colloquial",
+          "note": "Use this for a large amount of liquid or other things rather than for the container itself."
+        },
+        {
+          "id": "6ai7rhte",
+          "word": "acre",
+          "meaning": "large quantity",
+          "register": "colloquial",
+          "note": "Use this colloquial quantity expression for plenty of things, time, or money, not for a measured area."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

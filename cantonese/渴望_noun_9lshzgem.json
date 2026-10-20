@@ -6,7 +6,43 @@
   "boxes": [
     {
       "meaning": "strong longing",
-      "english": ["eagerness", "thirst", "urge", "craving", "passion"],
+      "english": [
+        {
+          "id": "47naiffp",
+          "word": "eagerness",
+          "meaning": "strong desire",
+          "register": "written",
+          "note": "This is the all-purpose noun for a strong desire or longing for something."
+        },
+        {
+          "id": "u1kol6a0",
+          "word": "thirst",
+          "meaning": "strong desire",
+          "register": "formal",
+          "note": "Use this noun for an intense desire or longing for something, especially in more formal or written contexts."
+        },
+        {
+          "id": "w26we5gf",
+          "word": "urge",
+          "meaning": "strong desire",
+          "register": "written",
+          "note": "Use this for a deep longing or strong desire, especially for an object, experience, or outcome rather than a sudden impulse."
+        },
+        {
+          "id": "syjcixjo",
+          "word": "craving",
+          "meaning": "strong desire; yearning",
+          "register": "formal",
+          "note": "Use this for broad, intense yearning rather than a bodily or addictive urge."
+        },
+        {
+          "id": "cyqyfy3g",
+          "word": "passion",
+          "meaning": "strong desire",
+          "register": "formal",
+          "note": "Use this for a sustained, powerful longing or desire, especially in a phrase such as 對自由嘅渴望."
+        }
+      ],
       "examples": [
         {
           "english": "I am filled with eagerness for success.",

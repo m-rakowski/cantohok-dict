@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "quotation mark",
-      "english": ["inverted comma"],
+      "english": [
+        {
+          "id": "ukkt2n3f",
+          "word": "inverted comma",
+          "meaning": "quotation mark",
+          "note": "Use this when the quotation marks are specifically double marks such as “ ”."
+        }
+      ],
       "examples": [
         {
           "english": "The editor told me to put the book title between double quotation marks; each one is an inverted comma.",

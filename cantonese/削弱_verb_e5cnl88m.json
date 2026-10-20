@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "weaken",
-      "english": ["impair", "weaken"],
+      "english": [
+        {
+          "id": "kvyndytk",
+          "word": "impair",
+          "meaning": "weaken; damage",
+          "register": "written",
+          "note": "Use this specifically when something’s strength, ability, or effect is weakened."
+        },
+        {
+          "id": "gaepjqb8",
+          "word": "weaken",
+          "meaning": "make weaker",
+          "register": "written",
+          "note": "Use this for deliberately reducing power, influence, or a connection, especially in formal contexts."
+        }
+      ],
       "register": "written",
       "examples": [
         {

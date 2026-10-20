@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "the same",
-      "english": ["same", "uniform", "equal", "alike"],
+      "english": [
+        {
+          "id": "lulj5l5j",
+          "word": "same",
+          "meaning": "identical, not different",
+          "note": "This is the all-purpose spoken choice for things that are identical or alike."
+        },
+        {
+          "id": "mj7usuih",
+          "word": "uniform",
+          "meaning": "all the same",
+          "note": "This is the all-purpose colloquial choice when things are simply all the same."
+        },
+        {
+          "id": "dw9gnnp7",
+          "word": "equal",
+          "meaning": "same in a respect",
+          "note": "This is the all-purpose spoken choice for things that are the same, practically interchangeable, or ordinarily exactly the same."
+        },
+        {
+          "id": "tldmeswq",
+          "word": "alike",
+          "meaning": "similar, alike",
+          "note": "This is the all-purpose everyday choice for saying that two or more people or things are alike."
+        }
+      ],
       "examples": [
         {
           "english": "These two cups of coffee taste the same.",

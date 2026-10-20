@@ -6,7 +6,15 @@
   "boxes": [
     {
       "meaning": "public hire vehicle",
-      "english": ["taxi"],
+      "english": [
+        {
+          "id": "amq1mspk",
+          "word": "taxi",
+          "meaning": "public hire vehicle",
+          "register": "colloquial",
+          "note": "This is a colloquial nickname for a taxi, but 的士 is much more usual."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

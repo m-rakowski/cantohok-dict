@@ -6,7 +6,66 @@
   "boxes": [
     {
       "meaning": "clever, skilled, capable",
-      "english": ["smart", "clever", "skilled", "capable", "competent", "brilliant", "apt", "good", "able"],
+      "english": [
+        {
+          "id": "0o7e25ol",
+          "word": "smart",
+          "meaning": "clever, socially able",
+          "note": "Use 叻 as the all-purpose casual adjective for someone who is clever, socially capable, or generally book-smart."
+        },
+        {
+          "id": "n8suezhc",
+          "word": "clever",
+          "meaning": "intelligent, quick to learn",
+          "note": "This is the all-purpose colloquial choice for being capable, skillful, or generally clever."
+        },
+        {
+          "id": "owtpu7tu",
+          "word": "skilled",
+          "meaning": "skillful; having ability",
+          "note": "This is the all-purpose colloquial choice for a person who is generally capable or skillful."
+        },
+        {
+          "id": "y1mk4gmf",
+          "word": "capable",
+          "meaning": "able, competent",
+          "register": "colloquial",
+          "note": "Use this when capable emphasizes being clever or skilled at something."
+        },
+        {
+          "id": "gzs9j61n",
+          "word": "competent",
+          "meaning": "skilled; capable",
+          "note": "Use this when emphasizing that someone is skilful or clever rather than merely adequate."
+        },
+        {
+          "id": "0msdchje",
+          "word": "brilliant",
+          "meaning": "very intelligent",
+          "register": "colloquial",
+          "note": "Choose 叻 when brilliant means especially intelligent, capable, or talented."
+        },
+        {
+          "id": "5avmbqnm",
+          "word": "apt",
+          "meaning": "quick to learn; capable",
+          "note": "Use this when apt means capable or quick to learn, especially when describing a person."
+        },
+        {
+          "id": "nl2cbpx5",
+          "word": "good",
+          "meaning": "competent; skilled",
+          "register": "colloquial",
+          "note": "Use this mainly for a person who is skilled, capable, or effective at a task."
+        },
+        {
+          "id": "wkfdfrv3",
+          "word": "able",
+          "meaning": "competent; talented",
+          "register": "colloquial",
+          "note": "Use this for someone who is clever, skilled, or generally capable rather than merely permitted to act."
+        }
+      ],
       "examples": [
         {
           "english": "You’re so smart, you finished your homework so quickly.",

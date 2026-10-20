@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "comprehensive, all-round",
-      "english": ["overall", "comprehensive", "all-encompassing", "global"],
+      "english": [
+        {
+          "id": "ds37l712",
+          "word": "overall",
+          "meaning": "all-encompassing",
+          "note": "This is the all-purpose choice for something that is all-encompassing or covers all aspects."
+        },
+        {
+          "id": "i4iy0zhl",
+          "word": "comprehensive",
+          "meaning": "broadly covering; all-inclusive",
+          "note": "This is the all-purpose choice for something that covers all or most aspects."
+        },
+        {
+          "id": "yfz2uhbc",
+          "word": "all-encompassing",
+          "meaning": "including everything; universal",
+          "note": "Use this as the all-purpose choice for something broad and comprehensive."
+        },
+        {
+          "id": "87wncrr3",
+          "word": "global",
+          "meaning": "whole; overall",
+          "note": "Use this for the overall or comprehensive aspect of something rather than its worldwide reach."
+        }
+      ],
       "examples": [
         {
           "english": "This report gives an overall analysis of the plan's pros and cons.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "unwilling, reluctant",
-      "english": ["unwilling", "hostile"],
+      "english": [
+        {
+          "id": "i4us9y16",
+          "word": "unwilling",
+          "meaning": "not willing; reluctant",
+          "note": "Use this when someone does something reluctantly or against their wishes, rather than simply refusing."
+        },
+        {
+          "id": "wz2irzsc",
+          "word": "hostile",
+          "meaning": "unwilling",
+          "note": "Use this when someone is hostile in the narrower sense of being unwilling or uncooperative."
+        }
+      ],
       "examples": [
         {
           "english": "I am unwilling to do this, but I have no choice.",

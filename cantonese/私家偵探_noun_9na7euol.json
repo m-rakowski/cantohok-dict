@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "private investigator",
-      "english": ["detective"],
+      "english": [
+        {
+          "id": "n98xx7f2",
+          "word": "detective",
+          "meaning": "private investigator",
+          "note": "Use this specifically for a private investigator hired to uncover information."
+        }
+      ],
       "examples": [
         {
           "english": "I hired a private detective to find out whether my husband was cheating.",

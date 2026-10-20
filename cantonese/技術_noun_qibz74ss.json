@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "technology",
-      "english": ["technology"],
+      "english": [
+        {
+          "id": "5y520dx7",
+          "word": "technology",
+          "meaning": "applied science in practice",
+          "note": "Use this for the specific practical methods, techniques, or know-how involved in applying science in industry."
+        }
+      ],
       "examples": [
         {
           "english": "This project uses a lot of advanced technology.",
@@ -17,7 +24,14 @@
     },
     {
       "meaning": "technical skill",
-      "english": ["technique"],
+      "english": [
+        {
+          "id": "1h3w1kvn",
+          "word": "technique",
+          "meaning": "practical aspects of an art",
+          "note": "Use this for the practical or technical requirements of an art, occupation, or other field."
+        }
+      ],
       "examples": [
         {
           "english": "Performing this operation requires professional technique.",

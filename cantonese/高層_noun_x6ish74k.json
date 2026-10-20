@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "senior management",
-      "english": ["executive", "brass"],
+      "english": [
+        {
+          "id": "i32bx35i",
+          "word": "executive",
+          "meaning": "executive; manager",
+          "note": "Use 高層 as the all-purpose choice for a senior company executive or manager."
+        },
+        {
+          "id": "b0rsjff4",
+          "word": "brass",
+          "meaning": "the brass, bosses",
+          "note": "Use this for senior people in an organization or institution, especially when referring to the higher-ups collectively."
+        }
+      ],
       "examples": [
         {
           "english": "Only an executive can approve this decision.",

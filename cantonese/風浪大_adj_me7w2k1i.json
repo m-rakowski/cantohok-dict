@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "rough waters",
-      "english": ["turbulent", "rough"],
+      "english": [
+        {
+          "id": "b4lmizvu",
+          "word": "turbulent",
+          "meaning": "stormy, rough water",
+          "note": "This is the all-purpose spoken choice for physically rough or stormy water."
+        },
+        {
+          "id": "v2784252",
+          "word": "rough",
+          "meaning": "turbulent water",
+          "note": "Use this specifically when the sea or another body of water is turbulent."
+        }
+      ],
       "examples": [
         {
           "english": "The waves are turbulent today, so don't go out to sea yet.",

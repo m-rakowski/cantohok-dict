@@ -6,7 +6,28 @@
   "boxes": [
     {
       "meaning": "pent-up anger",
-      "english": ["gall", "irritation", "steam"],
+      "english": [
+        {
+          "id": "91nz7b5r",
+          "word": "gall",
+          "meaning": "resentment, annoyance",
+          "note": "Use this for resentment or exasperation that someone is carrying around; it is the all-purpose noun rendering for this sense."
+        },
+        {
+          "id": "eg6ucpl4",
+          "word": "irritation",
+          "meaning": "annoyed state",
+          "register": "colloquial",
+          "note": "Use this when the irritation is felt as pent-up anger or resentment rather than mild annoyance."
+        },
+        {
+          "id": "zamf94za",
+          "word": "steam",
+          "meaning": "pent-up anger",
+          "register": "colloquial",
+          "note": "Use 一肚氣 for anger or resentment that someone is holding in."
+        }
+      ],
       "examples": [
         {
           "english": "They left me full of gall, and I couldn't sleep all night.",

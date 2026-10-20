@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "reason, cause",
-      "english": ["cause", "motive", "reason"],
+      "english": [
+        {
+          "id": "8bb1clcx",
+          "word": "cause",
+          "meaning": "reason; source",
+          "note": "Use 原因 as the all-purpose noun for what produces an event or result."
+        },
+        {
+          "id": "vmvij3tx",
+          "word": "motive",
+          "meaning": "reason for action",
+          "note": "Use this as the all-purpose choice when the motive is simply the reason someone acted."
+        },
+        {
+          "id": "gtf7wmqu",
+          "word": "reason",
+          "meaning": "cause",
+          "note": "Use this for the cause that produces an event or situation, rather than someone's justification."
+        }
+      ],
       "examples": [
         {
           "english": "The cause of this accident still hasn't been found.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "someone",
-      "english": ["someone", "somebody"],
+      "english": [
+        {
+          "id": "udmwwvv8",
+          "word": "someone",
+          "meaning": "indefinite person",
+          "note": "This is the all-purpose spoken choice for an unspecified person, including requests such as asking whether someone can help."
+        },
+        {
+          "id": "u7ni7imk",
+          "word": "somebody",
+          "meaning": "unspecified person",
+          "note": "This is the all-purpose choice for an unspecified person, including in sentences like “Somebody has to clean this mess up.”"
+        }
+      ],
       "examples": [
         {
           "english": "Can someone help me move this table?",

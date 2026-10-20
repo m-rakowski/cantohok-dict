@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "spread of infection",
-      "english": ["contagion", "infection"],
+      "english": [
+        {
+          "id": "c2nf5ych",
+          "word": "contagion",
+          "meaning": "spread of disease",
+          "note": "Use this for the transmission of a disease, and figuratively for habits or behaviour spreading through a household or community."
+        },
+        {
+          "id": "35uyupdf",
+          "word": "infection",
+          "meaning": "infecting process",
+          "note": "Use this for the process or act of passing an infection from one host to another."
+        }
+      ],
       "examples": [
         {
           "english": "The contagion of flu spreads quickly among family members, so everyone needs to be careful.",

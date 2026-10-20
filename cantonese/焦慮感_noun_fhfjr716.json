@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "feeling of anxiety",
-      "english": ["angst", "fever"],
+      "english": [
+        {
+          "id": "tut5tgvv",
+          "word": "angst",
+          "meaning": "anxiety, dread",
+          "note": "Use this when the angst is mainly anxious apprehension, dread, or vague worry."
+        },
+        {
+          "id": "66bxotll",
+          "word": "fever",
+          "meaning": "state of excitement",
+          "note": "Use this when fever means a state of anxiety or unease, not excitement or a medical fever."
+        }
+      ],
       "examples": [
         {
           "english": "Whenever I think about tomorrow’s interview, I get a persistent sense of angst.",

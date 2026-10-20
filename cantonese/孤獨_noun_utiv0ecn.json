@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "loneliness",
-      "english": ["solitude", "loneliness", "isolation"],
+      "english": [
+        {
+          "id": "nqj7tdp6",
+          "word": "solitude",
+          "meaning": "being alone",
+          "note": "Use this when the solitude emphasizes emotional loneliness rather than simply being alone."
+        },
+        {
+          "id": "uxkwgfd8",
+          "word": "loneliness",
+          "meaning": "state of being alone",
+          "note": "Use this for the condition of living or being without companions, rather than specifically the feeling it causes."
+        },
+        {
+          "id": "pn44f1hh",
+          "word": "isolation",
+          "meaning": "being alone / separated",
+          "note": "Choose this when the isolation emphasizes loneliness or emotional suffering rather than simply being alone."
+        }
+      ],
       "examples": [
         {
           "english": "Since moving here, I often feel a deep sense of solitude.",

@@ -6,7 +6,33 @@
   "boxes": [
     {
       "meaning": "messy, untidy",
-      "english": ["messy", "untidy", "disorderly", "wild"],
+      "english": [
+        {
+          "id": "4bb38zsl",
+          "word": "messy",
+          "meaning": "disorderly; untidy",
+          "note": "This is the all-purpose choice for a visibly disordered place, arrangement, or situation."
+        },
+        {
+          "id": "qfp4ix3u",
+          "word": "untidy",
+          "meaning": "messy, sloppy",
+          "note": "Use this as the all-purpose choice for a visibly messy room or general disorder."
+        },
+        {
+          "id": "b9eghpop",
+          "word": "disorderly",
+          "meaning": "messy; in disarray",
+          "note": "This is the all-purpose colloquial choice for things being messy or in disarray."
+        },
+        {
+          "id": "nsimd8a1",
+          "word": "wild",
+          "meaning": "messy, untidy",
+          "register": "colloquial",
+          "note": "Use 亂糟糟 for wild-looking hair, clothing, or surroundings that are messy, tangled, or untidy."
+        }
+      ],
       "examples": [
         {
           "english": "This room is messy.",

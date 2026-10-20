@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "poison remedy",
-      "english": ["antidote"],
+      "english": [
+        {
+          "id": "sx5fcefo",
+          "word": "antidote",
+          "meaning": "poison remedy",
+          "note": "Use this when you specifically mean medicine that neutralizes poison, rather than a figurative countermeasure."
+        }
+      ],
       "examples": [
         {
           "english": "The doctor said this pill was an antidote to snake venom.",

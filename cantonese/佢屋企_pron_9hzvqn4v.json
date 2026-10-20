@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "his or her home",
-      "english": ["hers", "his"],
+      "english": [
+        {
+          "id": "gbkvzery",
+          "word": "hers",
+          "meaning": "her place/home",
+          "register": "colloquial",
+          "note": "Use this specifically when “hers” means her home or place, especially after verbs such as 去."
+        },
+        {
+          "id": "43j5kfgc",
+          "word": "his",
+          "meaning": "his place/home",
+          "note": "Use this when “his place” specifically means his home or household."
+        }
+      ],
       "examples": [
         {
           "english": "We’ll go to hers after dinner.",

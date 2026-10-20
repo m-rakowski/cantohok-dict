@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "motorcycle",
-      "english": ["bike", "motorcycle", "motorbike"],
+      "english": [
+        {
+          "id": "w7wiwz86",
+          "word": "bike",
+          "meaning": "bicycle; motorbike",
+          "note": "Use this when the bike is motor-powered, such as a motorcycle or scooter."
+        },
+        {
+          "id": "xxynrtxl",
+          "word": "motorcycle",
+          "meaning": "motorbike",
+          "note": "This is the all-purpose everyday Hong Kong Cantonese word for a motorcycle."
+        },
+        {
+          "id": "jcdzspnh",
+          "word": "motorbike",
+          "meaning": "motorcycle",
+          "note": "This is the all-purpose Cantonese word for a motorcycle or motorbike."
+        }
+      ],
       "examples": [
         {
           "english": "I ride my bike to buy groceries after work.",

@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "a period of time",
-      "english": ["while", "interval", "duration", "bout"],
+      "english": [
+        {
+          "id": "n9cnp9sa",
+          "word": "while",
+          "meaning": "a period of time",
+          "note": "Use this when you want to state the duration more explicitly or suggest a longer stretch of time."
+        },
+        {
+          "id": "ct4qtg96",
+          "word": "interval",
+          "meaning": "time period",
+          "note": "Use this as the all-purpose rendering for an interval understood as a period or duration of time."
+        },
+        {
+          "id": "4iamnwh0",
+          "word": "duration",
+          "meaning": "length of time",
+          "note": "Use this when you want to stress a particular stretch or span of time."
+        },
+        {
+          "id": "4qdct0j0",
+          "word": "bout",
+          "meaning": "period; spell of something",
+          "note": "Use as the general choice for a longer period or spell, such as a period of drought."
+        }
+      ],
       "examples": [
         {
           "english": "I lived abroad for a while.",

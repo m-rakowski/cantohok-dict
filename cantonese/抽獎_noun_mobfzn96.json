@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "prize draw game",
-      "english": ["lottery"],
+      "english": [
+        {
+          "id": "2ch1nhgk",
+          "word": "lottery",
+          "meaning": "prize draw game",
+          "note": "Use this for a prize draw or lucky draw where prizes are selected from entries, rather than for the default numbered-ticket lottery."
+        }
+      ],
       "examples": [
         {
           "english": "The company is holding a lottery, and the winner can take home a phone.",

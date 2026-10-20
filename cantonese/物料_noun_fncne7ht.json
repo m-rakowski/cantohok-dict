@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "physical matter",
-      "english": ["substance"],
+      "english": [
+        {
+          "id": "k4d5492f",
+          "word": "substance",
+          "meaning": "physical matter",
+          "note": "Use this for physical material intended for making, building, or processing rather than matter in general."
+        }
+      ],
       "examples": [
         {
           "english": "The substance used to build the building must meet safety standards.",

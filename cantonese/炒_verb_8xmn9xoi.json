@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "fire from a job",
-      "english": ["dismiss", "fire"],
+      "english": [
+        {
+          "id": "386965az",
+          "word": "dismiss",
+          "meaning": "fire from job",
+          "note": "Use 炒 as the everyday all-purpose verb for firing someone from a job."
+        },
+        {
+          "id": "20xidnge",
+          "word": "fire",
+          "meaning": "dismiss from job",
+          "register": "colloquial",
+          "note": "Use 炒 as the all-purpose colloquial verb for dismissing someone from a job."
+        }
+      ],
       "examples": [
         {
           "english": "The company chose to dismiss him.",
@@ -22,7 +36,20 @@
     },
     {
       "meaning": "stir-fry, cook in a pan",
-      "english": ["fry", "roast"],
+      "english": [
+        {
+          "id": "o07tpkmn",
+          "word": "fry",
+          "meaning": "cook in hot fat",
+          "note": "Use 炒 when the food is being stir-fried or tossed in oil over high heat."
+        },
+        {
+          "id": "tzqilnp4",
+          "word": "roast",
+          "meaning": "dry-roast / process by heat",
+          "note": "Use this especially for dry-roasting beans, seeds, or similar food in a pan, rather than for ordinary oven roasting."
+        }
+      ],
       "examples": [
         {
           "english": "I’m going to fry the beef over high heat tonight.",

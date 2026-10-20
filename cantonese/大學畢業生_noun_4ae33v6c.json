@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "university graduate",
-      "english": ["graduate"],
+      "english": [
+        {
+          "id": "57zd2fhw",
+          "word": "graduate",
+          "meaning": "university graduate",
+          "note": "Use this when you specifically mean a university graduate rather than a graduate from another level of school."
+        }
+      ],
       "examples": [
         {
           "english": "This job is ideal for a university graduate who has just graduated.",

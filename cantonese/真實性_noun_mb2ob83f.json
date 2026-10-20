@@ -6,7 +6,29 @@
   "boxes": [
     {
       "meaning": "authenticity, truthfulness",
-      "english": ["authenticity", "correctness", "reality"],
+      "english": [
+        {
+          "id": "u1bcb76i",
+          "word": "authenticity",
+          "meaning": "genuineness, realness",
+          "register": "formal, written",
+          "note": "Use this more formal noun when discussing the abstract quality of something being genuine, especially in certification or official writing."
+        },
+        {
+          "id": "ab75n3ag",
+          "word": "correctness",
+          "meaning": "truth or fact",
+          "register": "written",
+          "note": "Use this when correctness means that information or a statement conforms to the truth or facts."
+        },
+        {
+          "id": "2kr9a5nx",
+          "word": "reality",
+          "meaning": "state of being real",
+          "register": "formal",
+          "note": "Use 真實性 for the abstract quality or degree of being real, especially in formal or analytical contexts."
+        }
+      ],
       "examples": [
         {
           "english": "The report needs to verify the authenticity of these artefacts.",

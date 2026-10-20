@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "calculate an integral",
-      "english": ["integrate"],
+      "english": [
+        {
+          "id": "p34aztm0",
+          "word": "integrate",
+          "meaning": "calculate an integral",
+          "note": "Use this specifically for carrying out integration in calculus."
+        }
+      ],
       "examples": [
         {
           "english": "For this problem, you need to integrate first to find the area.",

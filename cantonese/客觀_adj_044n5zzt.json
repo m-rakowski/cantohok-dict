@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "objective, unbiased",
-      "english": ["objective", "honest"],
+      "english": [
+        {
+          "id": "pku81mmc",
+          "word": "objective",
+          "meaning": "fact-based",
+          "note": "This is the all-purpose choice for an unbiased view or a fact-based assessment."
+        },
+        {
+          "id": "wbxyummt",
+          "word": "honest",
+          "meaning": "truthful, fair statement",
+          "note": "Use this for the fair and unbiased aspect of an honest account or description."
+        }
+      ],
       "examples": [
         {
           "english": "I will take an objective view of the matter.",

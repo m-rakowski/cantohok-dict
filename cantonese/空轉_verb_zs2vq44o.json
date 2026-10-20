@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "engine run slowly",
-      "english": ["idle"],
+      "english": [
+        {
+          "id": "69gzmo33",
+          "word": "idle",
+          "meaning": "engine run slowly",
+          "note": "Use this as the all-purpose description of an engine running slowly without engaging the gears."
+        }
+      ],
       "examples": [
         {
           "english": "The car is parked by the roadside, and the engine is still idle.",

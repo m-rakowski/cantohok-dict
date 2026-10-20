@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "slope, hill incline",
-      "english": ["slope", "decline", "bank"],
+      "english": [
+        {
+          "id": "i1adoyy7",
+          "word": "slope",
+          "meaning": "hill or incline",
+          "note": "This is the all-purpose noun for an inclined surface or an area of ground that rises or falls."
+        },
+        {
+          "id": "u6yq3n4s",
+          "word": "decline",
+          "meaning": "downward slope",
+          "note": "Use this specifically for a physical slope going downhill, such as on a road or hill."
+        },
+        {
+          "id": "9cb8p0nc",
+          "word": "bank",
+          "meaning": "embankment / slope",
+          "note": "Use this for the ordinary sloping earth or sand meaning of a bank."
+        }
+      ],
       "examples": [
         {
           "english": "This slope is very slippery.",

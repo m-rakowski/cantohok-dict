@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "data backup copy",
-      "english": ["backup"],
+      "english": [
+        {
+          "id": "cnexy3y6",
+          "word": "backup",
+          "meaning": "data backup copy",
+          "note": "This is the all-purpose choice for a separately stored copy of digital data."
+        }
+      ],
       "examples": [
         {
           "english": "I make a backup every week in case my computer breaks and can't be recovered.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "version, edition",
-      "english": ["edition", "version"],
+      "english": [
+        {
+          "id": "4wlqlw9e",
+          "word": "edition",
+          "meaning": "published version",
+          "note": "This is the all-purpose choice for a particular published version of a work."
+        },
+        {
+          "id": "uwjyttci",
+          "word": "version",
+          "meaning": "software version",
+          "note": "This is the all-purpose noun for a particular form, edition, technical revision, or alternate account."
+        }
+      ],
       "examples": [
         {
           "english": "This edition includes a lot of new information.",

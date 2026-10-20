@@ -6,7 +6,63 @@
   "boxes": [
     {
       "meaning": "almost, nearly, about",
-      "english": ["about", "almost", "nearly", "practically", "nigh", "near", "approximately", "half", "basically"],
+      "english": [
+        {
+          "id": "at5dx1vu",
+          "word": "about",
+          "meaning": "approximately",
+          "note": "Use this as the all-purpose colloquial choice for “about,” especially for approximate degree or comparison such as “about as cold.”"
+        },
+        {
+          "id": "slaqc281",
+          "word": "almost",
+          "meaning": "nearly; not quite",
+          "note": "This is the all-purpose spoken choice for being nearly at a state or for nearly all or no people or things."
+        },
+        {
+          "id": "3o1xoe1t",
+          "word": "nearly",
+          "meaning": "almost, virtually",
+          "note": "This is the all-purpose choice for saying that something is nearly or almost at a stated degree or condition."
+        },
+        {
+          "id": "s3xqhp9h",
+          "word": "practically",
+          "meaning": "almost completely",
+          "note": "Use this for “almost completely,” especially when describing extent or quantity."
+        },
+        {
+          "id": "4xqhulcs",
+          "word": "nigh",
+          "meaning": "almost; nearly",
+          "note": "This is the all-purpose choice for “almost” or “nearly,” including approximate amounts such as nearly two hours."
+        },
+        {
+          "id": "8qqx4pp6",
+          "word": "near",
+          "meaning": "nearly; almost",
+          "note": "This is the all-purpose spoken choice for “nearly” or “almost,” including “almost unconscious.”"
+        },
+        {
+          "id": "usm2r9ix",
+          "word": "approximately",
+          "meaning": "about; nearly exact quantity",
+          "register": "colloquial",
+          "note": "Use this colloquial alternative when the amount is roughly the stated figure rather than exact."
+        },
+        {
+          "id": "f9xxdwqq",
+          "word": "half",
+          "meaning": "almost; nearly",
+          "note": "Use 差唔多 as the all-purpose spoken choice for “almost” or “nearly.”"
+        },
+        {
+          "id": "34fbkbvu",
+          "word": "basically",
+          "meaning": "essentially; mostly",
+          "note": "Choose this when basically means pretty much or more or less, rather than fundamentally."
+        }
+      ],
       "examples": [
         {
           "english": "The two rooms are about equally cold.",

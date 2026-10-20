@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "mark as obsolete",
-      "english": ["deprecate"],
+      "english": [
+        {
+          "id": "4akqrb1i",
+          "word": "deprecate",
+          "meaning": "mark as obsolete",
+          "note": "Use this for a function, command, or technique that still works but is no longer recommended."
+        }
+      ],
       "examples": [
         {
           "english": "This command still works, but the developers deprecate its use.",

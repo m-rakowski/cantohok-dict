@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "wasteland, unused land",
-      "english": ["desert", "wilderness", "desolation", "bush"],
+      "english": [
+        {
+          "id": "n80av7n5",
+          "word": "desert",
+          "meaning": "barren land, wasteland",
+          "note": "Use this for barren or unused wasteland that is not necessarily a sandy desert."
+        },
+        {
+          "id": "wgo2zlu0",
+          "word": "wilderness",
+          "meaning": "wild uncultivated land",
+          "note": "Pick this when emphasizing land that is barren, unused, or left uncultivated rather than a natural wilderness."
+        },
+        {
+          "id": "7laj5h3r",
+          "word": "desolation",
+          "meaning": "waste, deserted place",
+          "note": "Use this when the desolate place is wasteland or uncultivated land rather than ruins."
+        },
+        {
+          "id": "b9pgh8et",
+          "word": "bush",
+          "meaning": "wild scrubland",
+          "note": "Use this for undeveloped scrubby land, especially when the setting matters more than the vegetation itself."
+        }
+      ],
       "examples": [
         {
           "english": "That desert has been neglected for years and is now covered in weeds.",

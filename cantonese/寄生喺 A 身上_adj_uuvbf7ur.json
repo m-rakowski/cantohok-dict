@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "feeding off a host",
-      "english": ["parasitic"],
+      "english": [
+        {
+          "id": "8prz7epm",
+          "word": "parasitic",
+          "meaning": "feeding off a host",
+          "note": "Use this as the default biological expression when an organism draws nourishment from a host."
+        }
+      ],
       "examples": [
         {
           "english": "This worm is parasitic and survives by sucking the dog's blood.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "fetch / bring back",
-      "english": ["retrieve"],
+      "english": [
+        {
+          "id": "sm2arauz",
+          "word": "retrieve",
+          "meaning": "fetch / bring back",
+          "note": "Use this when fetching a physical thing and bringing it back here, with the return direction made explicit."
+        }
+      ],
       "examples": [
         {
           "english": "Remember to retrieve the umbrella from the car and bring it back here.",

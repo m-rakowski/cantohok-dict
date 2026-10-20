@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "maternal grandfather",
-      "english": ["grandpa", "granddad", "pa"],
+      "english": [
+        {
+          "id": "zye1f6cc",
+          "word": "grandpa",
+          "meaning": "grandfather",
+          "note": "Use this for a maternal grandfather rather than the usual paternal-side term 爺爺."
+        },
+        {
+          "id": "awa7txia",
+          "word": "granddad",
+          "meaning": "grandfather",
+          "note": "Use this for a maternal grandfather rather than 爺爺."
+        },
+        {
+          "id": "y9s05ssd",
+          "word": "pa",
+          "meaning": "grandpa; grandfather",
+          "note": "Use this for a maternal grandfather rather than the paternal-grandfather term."
+        }
+      ],
       "examples": [
         {
           "english": "My grandpa lives in Macau and always asks me to go back for dinner.",

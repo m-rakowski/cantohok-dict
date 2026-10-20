@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "living in a place",
-      "english": ["resident"],
+      "english": [
+        {
+          "id": "3gwhrgi0",
+          "word": "resident",
+          "meaning": "living in a place",
+          "note": "Use this for someone who lives in a place continuously rather than merely visiting."
+        }
+      ],
       "examples": [
         {
           "english": "We are resident occupants of this building, not short-term renters.",

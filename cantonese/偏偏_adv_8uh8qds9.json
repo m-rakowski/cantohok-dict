@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "as bad luck would have it, contrary to expectation",
-      "english": ["paradoxically", "unfortunately"],
+      "english": [
+        {
+          "id": "4xs1qloy",
+          "word": "paradoxically",
+          "meaning": "in a paradoxical way",
+          "note": "Use this when the unexpected outcome is especially emphatic, often with a sense of frustration or irony."
+        },
+        {
+          "id": "eqyq0lqp",
+          "word": "unfortunately",
+          "meaning": "sentence adverb: regrettably",
+          "note": "Use this when something unfortunately happens contrary to what was hoped or expected."
+        }
+      ],
       "examples": [
         {
           "english": "I brought an umbrella, but paradoxically it did not rain at all.",

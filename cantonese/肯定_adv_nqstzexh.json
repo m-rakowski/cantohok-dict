@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "definitely, without doubt",
-      "english": ["undoubtedly", "definitely", "clearly"],
+      "english": [
+        {
+          "id": "ca7t5ksc",
+          "word": "undoubtedly",
+          "meaning": "without doubt; definitely",
+          "note": "Use this when stressing your confidence that the statement is certainly true, especially before 係 or a verb phrase."
+        },
+        {
+          "id": "xrosecfc",
+          "word": "definitely",
+          "meaning": "without doubt",
+          "note": "Use this when confidently asserting that a fact is beyond doubt, especially before a verb or negation."
+        },
+        {
+          "id": "dw6gjee4",
+          "word": "clearly",
+          "meaning": "obviously; without doubt",
+          "note": "Use this when clearly means that the speaker is certain rather than pointing to visible evidence."
+        }
+      ],
       "examples": [
         {
           "english": "They are undoubtedly the top student in this exam.",

@@ -6,7 +6,15 @@
   "boxes": [
     {
       "meaning": "chemical compound",
-      "english": ["compound"],
+      "english": [
+        {
+          "id": "kmnq7c4x",
+          "word": "compound",
+          "meaning": "chemical compound",
+          "register": "technical",
+          "note": "Use this specifically for a substance formed by chemical bonding, rather than for a general mixture or composite."
+        }
+      ],
       "register": "technical",
       "examples": [
         {

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "potato chips",
-      "english": ["crisp", "chip"],
+      "english": [
+        {
+          "id": "xmjz82gp",
+          "word": "crisp",
+          "meaning": "potato crisp / chips",
+          "note": "Use this as the all-purpose everyday noun for potato crisps."
+        },
+        {
+          "id": "6ykifn0m",
+          "word": "chip",
+          "meaning": "french fries",
+          "note": "Use this for thin, crisp pieces of fried potato; it is the everyday all-purpose choice for this food."
+        }
+      ],
       "examples": [
         {
           "english": "I always have to eat a crisp while watching a movie.",

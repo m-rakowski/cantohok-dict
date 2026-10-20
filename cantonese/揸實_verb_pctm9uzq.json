@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "grip tightly",
-      "english": ["clench", "clutch"],
+      "english": [
+        {
+          "id": "2fk85dly",
+          "word": "clench",
+          "meaning": "grip tightly",
+          "note": "This is the all-purpose choice for gripping or holding something firmly."
+        },
+        {
+          "id": "a1n01cnh",
+          "word": "clutch",
+          "meaning": "grip tightly",
+          "note": "This is the all-purpose choice for physically gripping something tightly, such as a purse."
+        }
+      ],
       "examples": [
         {
           "english": "I clench the handrail while waiting for the bus to stop.",

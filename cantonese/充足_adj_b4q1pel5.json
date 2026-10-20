@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "plentiful, sufficient",
-      "english": ["abundant", "ample"],
+      "english": [
+        {
+          "id": "4zgqmday",
+          "word": "abundant",
+          "meaning": "in great quantity",
+          "note": "Choose this when the emphasis is that a supply or resource is ample and fully sufficient, rather than merely numerous."
+        },
+        {
+          "id": "47tc31no",
+          "word": "ample",
+          "meaning": "enough; more than enough",
+          "register": "formal",
+          "note": "Use this formal choice for ample supplies, resources, or availability when the emphasis is abundance or adequacy."
+        }
+      ],
       "examples": [
         {
           "english": "The food reserves here are abundant, so there is no need to worry.",

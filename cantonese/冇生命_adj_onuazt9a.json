@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "lifeless, not alive",
-      "english": ["inanimate", "lifeless"],
+      "english": [
+        {
+          "id": "mxjo6p3o",
+          "word": "inanimate",
+          "meaning": "not alive; lifeless",
+          "note": "This is the all-purpose choice for something nonliving, especially an object rather than a person or animal."
+        },
+        {
+          "id": "sjiaf3dr",
+          "word": "lifeless",
+          "meaning": "inanimate",
+          "note": "Use this for something inanimate or unable to support life, rather than something that was alive and has died."
+        }
+      ],
       "examples": [
         {
           "english": "That wooden table is inanimate and will not move by itself.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "feed someone",
-      "english": ["feed", "nourish"],
+      "english": [
+        {
+          "id": "210aiapn",
+          "word": "feed",
+          "meaning": "give food to",
+          "note": "Use this as the all-purpose verb for giving food to a person or animal, including giving one thing to another as food."
+        },
+        {
+          "id": "h7ipdvjc",
+          "word": "nourish",
+          "meaning": "feed; provide food",
+          "note": "Use this when nourish means feeding and the focus is physically giving food to a person or animal, rather than general care or growth."
+        }
+      ],
       "examples": [
         {
           "english": "I feed my dog every day.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "a sound or utterance",
-      "english": ["sound", "peep"],
+      "english": [
+        {
+          "id": "js7wqycp",
+          "word": "sound",
+          "meaning": "noise heard by ear",
+          "note": "Use this shorter form for a single sound, especially in set expressions such as 一聲 or 出聲."
+        },
+        {
+          "id": "f2xnevat",
+          "word": "peep",
+          "meaning": "birdlike utterance / faint complaint",
+          "note": "Use 聲 for the faint sound or utterance meant in expressions such as “not a peep.”"
+        }
+      ],
       "examples": [
         {
           "english": "A sound suddenly came from outside the door.",

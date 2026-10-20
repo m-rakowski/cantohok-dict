@@ -6,7 +6,28 @@
   "boxes": [
     {
       "meaning": "twinkle, flicker",
-      "english": ["shimmer", "glint", "blink"],
+      "english": [
+        {
+          "id": "vlf8emp6",
+          "word": "shimmer",
+          "meaning": "shine faintly",
+          "register": "formal",
+          "note": "Use this more formal or written verb for faint, flickering light or reflected glints."
+        },
+        {
+          "id": "z3d38xis",
+          "word": "glint",
+          "meaning": "flash or gleam briefly",
+          "note": "Use this when the light glints or flickers repeatedly rather than just once."
+        },
+        {
+          "id": "cqj07z9u",
+          "word": "blink",
+          "meaning": "shine or twinkle",
+          "register": "written",
+          "note": "Use this mainly for stars or lights that twinkle or glimmer rather than for a regular warning flash."
+        }
+      ],
       "examples": [
         {
           "english": "Moonlight falls on the lake, making it shimmer with faint light.",

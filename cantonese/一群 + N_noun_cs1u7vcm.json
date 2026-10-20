@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "a group of animals",
-      "english": ["flock", "troop"],
+      "english": [
+        {
+          "id": "zslvb21r",
+          "word": "flock",
+          "meaning": "animals in a group",
+          "note": "Use this as the all-purpose Cantonese way to name a group of animals, including a flock of sheep."
+        },
+        {
+          "id": "saet6vw5",
+          "word": "troop",
+          "meaning": "group of primates",
+          "note": "Use this construction for a group of primates, meerkats, or other animals, replacing N with the animal noun."
+        }
+      ],
       "examples": [
         {
           "english": "There is a flock of sheep on the grassland.",

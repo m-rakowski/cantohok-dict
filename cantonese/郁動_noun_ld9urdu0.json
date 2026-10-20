@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "movement",
-      "english": ["movement", "motion", "move"],
+      "english": [
+        {
+          "id": "9yov42l8",
+          "word": "movement",
+          "meaning": "physical motion",
+          "note": "This is the everyday choice for a small or observable physical movement, such as something moving in the grass."
+        },
+        {
+          "id": "dxfdql39",
+          "word": "motion",
+          "meaning": "movement",
+          "note": "This is the all-purpose choice for physical motion or movement."
+        },
+        {
+          "id": "vw0luqsb",
+          "word": "move",
+          "meaning": "a move; movement",
+          "note": "For ordinary physical movement, this is the all-purpose one."
+        }
+      ],
       "examples": [
         {
           "english": "I saw some movement in the grass.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "guerrilla fighter",
-      "english": ["guerrilla", "partisan"],
+      "english": [
+        {
+          "id": "rtofpih2",
+          "word": "guerrilla",
+          "meaning": "irregular fighter",
+          "note": "This is the all-purpose term for an individual guerrilla fighter."
+        },
+        {
+          "id": "ffs63bil",
+          "word": "partisan",
+          "meaning": "guerrilla fighter",
+          "note": "Use this for the military sense of a partisan fighting behind enemy lines."
+        }
+      ],
       "examples": [
         {
           "english": "That guerrilla specializes in surprise attacks on government forces at night.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "Olympic-standard, sized for the Games",
-      "english": ["Olympic"],
+      "english": [
+        {
+          "id": "fhpwtntl",
+          "word": "Olympic",
+          "meaning": "Olympic-standard, sized for the Games",
+          "note": "Use this specifically for something made to Olympic specifications or size, such as an Olympic-standard swimming pool."
+        }
+      ],
       "examples": [
         {
           "english": "This swimming pool is Olympic standard.",

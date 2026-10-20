@@ -6,7 +6,28 @@
   "boxes": [
     {
       "meaning": "sorry (an apology)",
-      "english": ["sorry", "ashamed", "afraid"],
+      "english": [
+        {
+          "id": "itlwkzwk",
+          "word": "sorry",
+          "meaning": "apologetic",
+          "register": "colloquial",
+          "note": "Use this as the all-purpose casual apology, especially for a minor imposition or embarrassment."
+        },
+        {
+          "id": "ygt4l3c0",
+          "word": "ashamed",
+          "meaning": "feeling shame or guilt",
+          "register": "colloquial",
+          "note": "Use this when being ashamed shades into feeling embarrassed, awkward, or sorry toward someone else."
+        },
+        {
+          "id": "6u269glm",
+          "word": "afraid",
+          "meaning": "sorry to say",
+          "note": "Use this polite phrase when expressing regret or reluctance before saying something unpleasant."
+        }
+      ],
       "examples": [
         {
           "english": "Sorry, I’m late.",

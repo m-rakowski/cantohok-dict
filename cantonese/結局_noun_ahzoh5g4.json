@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "how things end, outcome of a story",
-      "english": ["culmination", "ending"],
+      "english": [
+        {
+          "id": "rkb4js6a",
+          "word": "culmination",
+          "meaning": "end result; culmination",
+          "note": "Use this when focusing on how a process, situation, or story ends rather than on its result as an achievement."
+        },
+        {
+          "id": "5j6dnpi7",
+          "word": "ending",
+          "meaning": "final part; story ending",
+          "note": "Use this for a story ending viewed as its eventual outcome, such as a happy or tragic ending."
+        }
+      ],
       "examples": [
         {
           "english": "After all that, the culmination was that the matter simply fizzled out.",

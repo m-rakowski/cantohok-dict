@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "grinding apparatus",
-      "english": ["mill"],
+      "english": [
+        {
+          "id": "ib321rge",
+          "word": "mill",
+          "meaning": "grinding apparatus",
+          "note": "Use 粉碎機 for a powered machine that crushes or pulverizes grain or other substances, rather than for the mill building."
+        }
+      ],
       "examples": [
         {
           "english": "This mill is designed to grind corn into flour.",

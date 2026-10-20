@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "quote, cite",
-      "english": ["quote", "cite", "invoke"],
+      "english": [
+        {
+          "id": "es0l56ya",
+          "word": "quote",
+          "meaning": "repeat exact words",
+          "register": "formal",
+          "note": "Use this formal verb especially in writing, speeches, or academic contexts."
+        },
+        {
+          "id": "sc6p6mv9",
+          "word": "cite",
+          "meaning": "give a citation",
+          "note": "This is the all-purpose choice when citing a source, quotation, or passage."
+        },
+        {
+          "id": "smof979g",
+          "word": "invoke",
+          "meaning": "cite as authority",
+          "note": "Use this when citing a source or authority to support or validate a claim."
+        }
+      ],
       "examples": [
         {
           "english": "In this paper, we quote many scholars’ exact words.",

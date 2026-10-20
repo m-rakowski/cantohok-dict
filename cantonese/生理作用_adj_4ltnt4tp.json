@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "drug effect on healthy body",
-      "english": ["physiological"],
+      "english": [
+        {
+          "id": "8wq00b4u",
+          "word": "physiological",
+          "meaning": "drug effect on healthy body",
+          "note": "Use this specifically for a drug’s bodily action in a healthy person, rather than its therapeutic effect."
+        }
+      ],
       "examples": [
         {
           "english": "The drug’s physiological action in healthy people is mainly to speed up the heartbeat.",

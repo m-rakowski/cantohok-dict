@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "castrated male cattle",
-      "english": ["ox"],
+      "english": [
+        {
+          "id": "u6dbmi6h",
+          "word": "ox",
+          "meaning": "castrated male cattle",
+          "note": "Use this when it is important to specify that the male cattle has been castrated."
+        }
+      ],
       "examples": [
         {
           "english": "The farmer specifically bought a castrated ox to plough the fields.",

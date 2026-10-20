@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "tobacco leaf/product",
-      "english": ["tobacco"],
+      "english": [
+        {
+          "id": "pxpisebx",
+          "word": "tobacco",
+          "meaning": "tobacco leaf/product",
+          "note": "Use this specifically for tobacco leaves as a raw material, rather than tobacco products generally."
+        }
+      ],
       "examples": [
         {
           "english": "These tobacco leaves have to be dried first before they can be sent for processing.",

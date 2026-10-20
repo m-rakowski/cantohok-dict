@@ -6,7 +6,34 @@
   "boxes": [
     {
       "meaning": "to hurt, harm (body or feelings)",
-      "english": ["harm", "wound", "hurt", "injure"],
+      "english": [
+        {
+          "id": "tn8pr62o",
+          "word": "harm",
+          "meaning": "damage; injure",
+          "note": "Use this for harming a person, the body, feelings, or an abstract human concern rather than simply breaking an object."
+        },
+        {
+          "id": "v1gj5tn4",
+          "word": "wound",
+          "meaning": "hurt feelings",
+          "note": "Use this for hurting someone's feelings, pride, or self-respect rather than causing a physical injury."
+        },
+        {
+          "id": "19rqktcb",
+          "word": "hurt",
+          "meaning": "cause physical pain/injury",
+          "register": "formal",
+          "note": "Use 傷害 for causing serious physical or emotional harm, especially in more formal wording."
+        },
+        {
+          "id": "sibznz3m",
+          "word": "injure",
+          "meaning": "physically hurt",
+          "register": "formal",
+          "note": "Use this in formal or serious contexts for causing physical harm, rather than in everyday casual speech."
+        }
+      ],
       "examples": [
         {
           "english": "Talking like that can harm other people’s feelings.",

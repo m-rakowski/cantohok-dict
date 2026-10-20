@@ -6,7 +6,15 @@
   "boxes": [
     {
       "meaning": "semiconductor device",
-      "english": ["transistor"],
+      "english": [
+        {
+          "id": "ld15inlk",
+          "word": "transistor",
+          "meaning": "semiconductor device",
+          "register": "written",
+          "note": "Use this technical written variant in manuals or contexts influenced by Mainland or Taiwan terminology."
+        }
+      ],
       "register": "written",
       "examples": [
         {

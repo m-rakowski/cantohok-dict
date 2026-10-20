@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "shared car travel",
-      "english": ["carpool"],
+      "english": [
+        {
+          "id": "xebc14r0",
+          "word": "carpool",
+          "meaning": "shared car travel",
+          "note": "Use this as the all-purpose noun for the shared travel arrangement, not for the people in it."
+        }
+      ],
       "examples": [
         {
           "english": "Our company set up a carpool and saved quite a bit on fuel.",

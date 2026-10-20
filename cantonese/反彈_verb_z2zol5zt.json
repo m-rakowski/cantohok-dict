@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "market recovers after a fall",
-      "english": ["rally"],
+      "english": [
+        {
+          "id": "kmcavf2t",
+          "word": "rally",
+          "meaning": "market recover",
+          "note": "Use this for prices or a market recovering after a fall."
+        }
+      ],
       "examples": [
         {
           "english": "After falling for several days, the market finally began to rally today.",
@@ -17,7 +24,20 @@
     },
     {
       "meaning": "bounce back off something",
-      "english": ["rebound", "bounce"],
+      "english": [
+        {
+          "id": "rhfxb4kb",
+          "word": "rebound",
+          "meaning": "bounce back",
+          "note": "This is the all-purpose choice when a physical object bounds or springs back after impact."
+        },
+        {
+          "id": "udsenbzh",
+          "word": "bounce",
+          "meaning": "rebound off something",
+          "note": "Use 反彈 when something rebounds after impact, including a ball off a wall or an aircraft bouncing on landing."
+        }
+      ],
       "examples": [
         {
           "english": "The ball will rebound after hitting the wall.",

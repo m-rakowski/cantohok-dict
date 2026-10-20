@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "collect, gather",
-      "english": ["collect", "gather", "glean", "cull"],
+      "english": [
+        {
+          "id": "gyjq452w",
+          "word": "collect",
+          "meaning": "gather together",
+          "note": "This is the all-purpose choice for deliberately gathering or accumulating things, including collecting things as a hobby."
+        },
+        {
+          "id": "apn9fz2o",
+          "word": "gather",
+          "meaning": "collect things",
+          "note": "Use this as the all-purpose verb for collecting separate things, including information or ideas."
+        },
+        {
+          "id": "p3n5m1kw",
+          "word": "glean",
+          "meaning": "gather information gradually",
+          "note": "Use this as the all-purpose choice for gathering information or experience without stressing the gradual process."
+        },
+        {
+          "id": "e4faevy3",
+          "word": "cull",
+          "meaning": "gather, collect",
+          "note": "Use this when the meaning is gathering items or information into a collection rather than selecting or eliminating them."
+        }
+      ],
       "examples": [
         {
           "english": "I collect postcards from different places.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "trophy, award cup",
-      "english": ["trophy", "award"],
+      "english": [
+        {
+          "id": "dd0r75h3",
+          "word": "trophy",
+          "meaning": "award cup/shield",
+          "note": "This is the all-purpose choice for an award received for winning a competition or achievement."
+        },
+        {
+          "id": "fbozeg6w",
+          "word": "award",
+          "meaning": "prize, medal, honor",
+          "note": "Use this when the award is specifically a trophy or cup."
+        }
+      ],
       "examples": [
         {
           "english": "We finally won the trophy in this competition.",

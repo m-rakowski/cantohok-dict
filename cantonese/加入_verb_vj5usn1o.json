@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "join a group",
-      "english": ["join"],
+      "english": [
+        {
+          "id": "fg7lykpk",
+          "word": "join",
+          "meaning": "become a member",
+          "note": "Use this for entering a group, club, organization, or shared cause."
+        }
+      ],
       "examples": [
         {
           "english": "I want to join your book club.",
@@ -17,7 +24,20 @@
     },
     {
       "meaning": "add something into a system",
-      "english": ["introduce", "inject"],
+      "english": [
+        {
+          "id": "b5b2ih1o",
+          "word": "introduce",
+          "meaning": "add or put into a system",
+          "note": "Use this when adding something into an existing system, mixture, or container."
+        },
+        {
+          "id": "wgjeydi3",
+          "word": "inject",
+          "meaning": "add something into",
+          "note": "Use this when adding a distinct or foreign element into a system, place, or process."
+        }
+      ],
       "examples": [
         {
           "english": "You can introduce the new data into the system later.",

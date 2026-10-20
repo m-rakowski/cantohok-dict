@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "single, not in a relationship",
-      "english": ["alone", "single"],
+      "english": [
+        {
+          "id": "tuianaku",
+          "word": "alone",
+          "meaning": "single; unattached",
+          "note": "Use this specifically when alone means not being in a romantic relationship."
+        },
+        {
+          "id": "ibjcyooh",
+          "word": "single",
+          "meaning": "unmarried; not dating",
+          "note": "Use this when someone is unmarried and without a romantic partner."
+        }
+      ],
       "examples": [
         {
           "english": "I'm alone because I'm single, and I'm not thinking of dating yet.",

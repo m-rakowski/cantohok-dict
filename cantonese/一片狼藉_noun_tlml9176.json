@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "a scene of ruin and disorder",
-      "english": ["destruction", "shambles"],
+      "english": [
+        {
+          "id": "jrz7uidr",
+          "word": "destruction",
+          "meaning": "ruin, devastation",
+          "note": "Use this for the chaotic, ruined aftermath left by a destructive event rather than for the act itself."
+        },
+        {
+          "id": "s334jwl3",
+          "word": "shambles",
+          "meaning": "messy room or clutter",
+          "register": "written",
+          "note": "Use this mainly for a scene left in visible disorder or ruin, especially in more formal or written descriptions."
+        }
+      ],
       "examples": [
         {
           "english": "After the storm, the whole flat was a scene of destruction.",

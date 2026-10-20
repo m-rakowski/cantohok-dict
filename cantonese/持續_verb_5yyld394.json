@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "continue, last",
-      "english": ["last", "endure"],
+      "english": [
+        {
+          "id": "a5c5gt5h",
+          "word": "last",
+          "meaning": "continue over time",
+          "note": "Use this as the all-purpose verb for something continuing or enduring over a period of time."
+        },
+        {
+          "id": "i5tifau3",
+          "word": "endure",
+          "meaning": "last",
+          "note": "Use this for a situation, process, or relationship continuing or lasting without emphasizing hardship or personal effort."
+        }
+      ],
       "examples": [
         {
           "english": "The rain will last all afternoon.",

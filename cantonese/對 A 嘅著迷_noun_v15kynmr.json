@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "fascination with A",
-      "english": ["fascination", "preoccupation"],
+      "english": [
+        {
+          "id": "g1rsmiee",
+          "word": "fascination",
+          "meaning": "being fascinated",
+          "note": "Use this noun phrase for the state of being fascinated by a stated person or thing."
+        },
+        {
+          "id": "vop6hriz",
+          "word": "preoccupation",
+          "meaning": "obsession; absorbed state",
+          "note": "Use this when the preoccupation means being enthralled or fascinated by A."
+        }
+      ],
       "examples": [
         {
           "english": "Their fascination with dinosaurs hasn't changed since childhood.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "hand over, give up",
-      "english": ["surrender", "relinquish"],
+      "english": [
+        {
+          "id": "8zt3daur",
+          "word": "surrender",
+          "meaning": "give up to someone",
+          "note": "Use this when someone hands a person or thing over into another person's power or control."
+        },
+        {
+          "id": "ygq4u9d4",
+          "word": "relinquish",
+          "meaning": "surrender; yield control",
+          "note": "Use this when someone actively hands over possession, authority, or control to someone else."
+        }
+      ],
       "examples": [
         {
           "english": "The police asked the villagers to surrender the fugitive.",

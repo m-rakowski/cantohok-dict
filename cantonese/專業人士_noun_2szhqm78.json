@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "professional person",
-      "english": ["professional", "practitioner"],
+      "english": [
+        {
+          "id": "7ufycsn4",
+          "word": "professional",
+          "meaning": "member of a profession",
+          "note": "This is the all-purpose choice for a member of a recognized profession or a white-collar professional."
+        },
+        {
+          "id": "3z6mkap6",
+          "word": "practitioner",
+          "meaning": "professional worker",
+          "note": "This is the all-purpose choice for someone who works professionally in a field such as law or medicine."
+        }
+      ],
       "examples": [
         {
           "english": "That professional at the clinic is very patient.",

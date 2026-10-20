@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "zero",
-      "english": ["nought", "zip"],
+      "english": [
+        {
+          "id": "hk592fel",
+          "word": "nought",
+          "meaning": "zero; no points",
+          "note": "Use 零 as the all-purpose word for zero, including the digit 0."
+        },
+        {
+          "id": "iya1wox6",
+          "word": "zip",
+          "meaning": "nothing at all",
+          "note": "Use this for literal zero or, more loosely, nothing at all; idiomatic sentences such as “know zip about” usually need a different Cantonese sentence."
+        }
+      ],
       "examples": [
         {
           "english": "The first character in the code is nought.",

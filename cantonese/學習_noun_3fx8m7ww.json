@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "studying, learning",
-      "english": ["study", "learning"],
+      "english": [
+        {
+          "id": "6rqa0a8j",
+          "word": "study",
+          "meaning": "learning; study",
+          "register": "formal",
+          "note": "This is the all-purpose noun for the mental effort or process of learning."
+        },
+        {
+          "id": "9e0ux9zm",
+          "word": "learning",
+          "meaning": "act of learning",
+          "note": "This is the all-purpose choice for the act or process of learning."
+        }
+      ],
       "examples": [
         {
           "english": "I think study requires perseverance.",

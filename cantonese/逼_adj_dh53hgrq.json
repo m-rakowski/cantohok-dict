@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "crowded, cramped",
-      "english": ["crowded", "claustrophobic"],
+      "english": [
+        {
+          "id": "7sip297t",
+          "word": "crowded",
+          "meaning": "full of people",
+          "note": "This is the all-purpose colloquial choice for a place or vehicle that feels crowded or cramped."
+        },
+        {
+          "id": "ispmm8mv",
+          "word": "claustrophobic",
+          "meaning": "cramped and confining",
+          "note": "Use this for a room or other space that feels physically cramped and confining, rather than for a person's fear."
+        }
+      ],
       "examples": [
         {
           "english": "This bus is so crowded I can't move.",

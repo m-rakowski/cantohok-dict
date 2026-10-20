@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "disappear, go missing",
-      "english": ["disappear", "vanish"],
+      "english": [
+        {
+          "id": "rdnmyra5",
+          "word": "disappear",
+          "meaning": "vanish",
+          "note": "This is the all-purpose colloquial choice for something vanishing or a person going missing."
+        },
+        {
+          "id": "ozgvv7rf",
+          "word": "vanish",
+          "meaning": "disappear from sight",
+          "note": "This is the everyday all-purpose choice when a person or thing disappears from view or is no longer seen."
+        }
+      ],
       "examples": [
         {
           "english": "My wallet seemed to disappear.",

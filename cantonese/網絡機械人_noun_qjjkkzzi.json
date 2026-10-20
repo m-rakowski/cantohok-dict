@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "software bot",
-      "english": ["robot"],
+      "english": [
+        {
+          "id": "oo2hqxjw",
+          "word": "robot",
+          "meaning": "software bot",
+          "note": "Use this specifically for a software bot operating online rather than a physical machine."
+        }
+      ],
       "examples": [
         {
           "english": "The website uses a robot to reply to messages automatically.",

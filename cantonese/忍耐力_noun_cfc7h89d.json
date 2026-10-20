@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "ability to endure hardship",
-      "english": ["stoicism", "endurance"],
+      "english": [
+        {
+          "id": "6l0sg4ta",
+          "word": "stoicism",
+          "meaning": "calm endurance",
+          "note": "Use this when stoicism means the ability to endure pain or hardship rather than showing emotional indifference."
+        },
+        {
+          "id": "8lm9g2q3",
+          "word": "endurance",
+          "meaning": "ability to endure hardship",
+          "note": "Use this specifically for the ability to tolerate hardship, pain, or unpleasant conditions."
+        }
+      ],
       "examples": [
         {
           "english": "After the operation, they showed great stoicism and never cried out in pain.",

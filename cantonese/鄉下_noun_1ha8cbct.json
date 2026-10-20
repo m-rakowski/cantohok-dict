@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "countryside, village",
-      "english": ["countryside", "country"],
+      "english": [
+        {
+          "id": "c5v4nwea",
+          "word": "countryside",
+          "meaning": "rural area",
+          "note": "This is the colloquial all-purpose choice, especially for a rural place or village area rather than a city."
+        },
+        {
+          "id": "qkuvbwi2",
+          "word": "country",
+          "meaning": "countryside",
+          "register": "colloquial",
+          "note": "Use this for rural countryside as opposed to a town or city."
+        }
+      ],
       "examples": [
         {
           "english": "I often went back to the countryside to visit my grandmother when I was little.",

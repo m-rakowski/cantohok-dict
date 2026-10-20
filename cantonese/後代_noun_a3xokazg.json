@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "descendants, future generations",
-      "english": ["posterity", "offspring"],
+      "english": [
+        {
+          "id": "fe0qsqx4",
+          "word": "posterity",
+          "meaning": "future generations; descendants",
+          "note": "Use this as the all-purpose term for future generations, including a person's descendants."
+        },
+        {
+          "id": "ng5h2dvk",
+          "word": "offspring",
+          "meaning": "descendants",
+          "note": "Use this for descendants in general and especially for the progeny of animals or plants rather than a person's immediate children."
+        }
+      ],
       "examples": [
         {
           "english": "These historic sites should be preserved for posterity to enjoy.",

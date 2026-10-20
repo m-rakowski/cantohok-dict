@@ -6,7 +6,28 @@
   "boxes": [
     {
       "meaning": "loyalty",
-      "english": ["loyalty", "commitment", "truth"],
+      "english": [
+        {
+          "id": "p0y2net9",
+          "word": "loyalty",
+          "meaning": "faithfulness, loyalty",
+          "register": "formal",
+          "note": "Use this as the broad, all-purpose equivalent, especially in more formal or abstract contexts."
+        },
+        {
+          "id": "w5uukmef",
+          "word": "commitment",
+          "meaning": "devotion to person or cause",
+          "register": "formal",
+          "note": "Use 忠誠 when commitment is directed at a person, meaning loyalty or devotion to someone."
+        },
+        {
+          "id": "xfznrx1d",
+          "word": "truth",
+          "meaning": "fidelity; faithfulness",
+          "note": "Use this for the quality of being faithful or loyal to a person, cause, or principle."
+        }
+      ],
       "examples": [
         {
           "english": "Loyalty is the foundation of trust.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "protest, demonstration",
-      "english": ["demo", "demonstration"],
+      "english": [
+        {
+          "id": "i2t3xblo",
+          "word": "demo",
+          "meaning": "political demonstration",
+          "note": "Use this specifically for a political protest march or gathering."
+        },
+        {
+          "id": "otsk50f2",
+          "word": "demonstration",
+          "meaning": "public protest",
+          "note": "Use this for a public protest or march rather than a practical demonstration."
+        }
+      ],
       "examples": [
         {
           "english": "Many people joined the demo this time, demanding that the government withdraw that decision.",

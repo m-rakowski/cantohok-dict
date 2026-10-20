@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "count as, can be considered",
-      "english": ["call", "count"],
+      "english": [
+        {
+          "id": "sveu8dlj",
+          "word": "call",
+          "meaning": "call it roughly",
+          "note": "Use this when loosely characterizing or estimating something rather than stating an exact fact."
+        },
+        {
+          "id": "4e26v5w9",
+          "word": "count",
+          "meaning": "regard as",
+          "note": "Use this for judging that something qualifies as, or is regarded as, a particular type or quality."
+        }
+      ],
       "examples": [
         {
           "english": "You can call this good news.",

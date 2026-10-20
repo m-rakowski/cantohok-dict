@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "decent, honest",
-      "english": ["upright", "decent"],
+      "english": [
+        {
+          "id": "aasp3xtz",
+          "word": "upright",
+          "meaning": "morally good, honest",
+          "register": "colloquial",
+          "note": "Use 正派 for a person whose character and conduct are morally decent and trustworthy."
+        },
+        {
+          "id": "e6w43gz4",
+          "word": "decent",
+          "meaning": "morally good person",
+          "note": "Use this for a person who is morally upright, respectable, and decent."
+        }
+      ],
       "examples": [
         {
           "english": "They are upright people, so you can trust them.",

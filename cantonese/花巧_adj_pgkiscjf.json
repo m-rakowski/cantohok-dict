@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "overly fancy, elaborate",
-      "english": ["fancy", "ornate", "elaborate", "precious"],
+      "english": [
+        {
+          "id": "56dc8z87",
+          "word": "fancy",
+          "meaning": "decorative",
+          "note": "Use this as the all-purpose choice for something elaborately decorative or unnecessarily elaborate and complicated."
+        },
+        {
+          "id": "qoiwqof9",
+          "word": "ornate",
+          "meaning": "elaborately decorated",
+          "note": "Use this for a fussy, intricate, or showy design, especially when the decoration feels excessive or gimmicky."
+        },
+        {
+          "id": "iziuj3km",
+          "word": "elaborate",
+          "meaning": "fancy, ornate",
+          "note": "Use this for a visibly fancy, flashy, or showy design, especially when the embellishment feels unnecessary."
+        },
+        {
+          "id": "aakmji1y",
+          "word": "precious",
+          "meaning": "overly fussy; overelaborate",
+          "note": "Use this when something is fussy or unnecessarily elaborate in its design or presentation."
+        }
+      ],
       "examples": [
         {
           "english": "This report is so fancy that it actually makes it hard to understand.",

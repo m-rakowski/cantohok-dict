@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "smart, clever",
-      "english": ["intelligent", "intellectual", "clever"],
+      "english": [
+        {
+          "id": "obsrvqr9",
+          "word": "intelligent",
+          "meaning": "smart, clever",
+          "note": "This is the all-purpose choice for a person who is smart or clever."
+        },
+        {
+          "id": "oxsiodli",
+          "word": "intellectual",
+          "meaning": "intelligent person",
+          "note": "This is the all-purpose everyday adjective for a person who is intellectually capable or clever."
+        },
+        {
+          "id": "o0qdi3bb",
+          "word": "clever",
+          "meaning": "intelligent, quick to learn",
+          "note": "Choose this for intellectual ability, especially learning and understanding quickly, rather than practical skill."
+        }
+      ],
       "examples": [
         {
           "english": "They are really intelligent.",

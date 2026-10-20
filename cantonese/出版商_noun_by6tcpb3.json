@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "book publisher",
-      "english": ["publisher"],
+      "english": [
+        {
+          "id": "yfvd8vhi",
+          "word": "publisher",
+          "meaning": "book publisher",
+          "note": "Use this for the commercial publisher as a business, rather than focusing on the physical publishing house."
+        }
+      ],
       "examples": [
         {
           "english": "This publisher mainly produces textbooks.",

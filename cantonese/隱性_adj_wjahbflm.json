@@ -6,7 +6,15 @@
   "boxes": [
     {
       "meaning": "recessive (genetics)",
-      "english": ["recessive"],
+      "english": [
+        {
+          "id": "czw39s8x",
+          "word": "recessive",
+          "meaning": "genetics: masked by dominant allele",
+          "register": "formal",
+          "note": "This is the all-purpose genetics term for a trait or allele that can be masked by a dominant one."
+        }
+      ],
       "register": "formal",
       "examples": [
         {
@@ -18,7 +26,15 @@
     },
     {
       "meaning": "hidden, without symptoms (infection)",
-      "english": ["latent"],
+      "english": [
+        {
+          "id": "ap7bad2g",
+          "word": "latent",
+          "meaning": "latent virus/dormant infection",
+          "register": "written",
+          "note": "Use this mainly in medical contexts for an infection or condition that is present without being apparent."
+        }
+      ],
       "register": "written",
       "examples": [
         {

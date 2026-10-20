@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "cooked, done",
-      "english": ["boiled"],
+      "english": [
+        {
+          "id": "f10eyreq",
+          "word": "boiled",
+          "meaning": "cooked in boiling water",
+          "note": "For food, 熟 is the all-purpose adjective for being cooked; the fact that it was boiled must come from context."
+        }
+      ],
       "examples": [
         {
           "english": "The eggs are boiled.",
@@ -17,7 +24,14 @@
     },
     {
       "meaning": "ripe",
-      "english": ["ripe"],
+      "english": [
+        {
+          "id": "dy3wnysc",
+          "word": "ripe",
+          "meaning": "fruit ready to pick",
+          "note": "Use 熟 as the all-purpose choice for fruit, vegetables, grain, and food that has reached the usable stage."
+        }
+      ],
       "examples": [
         {
           "english": "This mango is ripe.",
@@ -28,7 +42,15 @@
     },
     {
       "meaning": "familiar, well acquainted",
-      "english": ["familiar"],
+      "english": [
+        {
+          "id": "jovebv01",
+          "word": "familiar",
+          "meaning": "acquainted with",
+          "register": "colloquial",
+          "note": "Use this colloquial form for being familiar with a subject or person, or for describing someone as overly familiar."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {
@@ -40,7 +62,14 @@
     },
     {
       "meaning": "deeply asleep",
-      "english": ["deep"],
+      "english": [
+        {
+          "id": "cdcjhg3g",
+          "word": "deep",
+          "meaning": "sound asleep",
+          "note": "For sleep, use 熟 in the expression 瞓得好熟 to mean sleeping soundly and being hard to wake."
+        }
+      ],
       "examples": [
         {
           "english": "They were sleeping deep and could not be woken up.",

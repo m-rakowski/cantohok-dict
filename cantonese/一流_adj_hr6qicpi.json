@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "first-rate, excellent",
-      "english": ["classical", "top"],
+      "english": [
+        {
+          "id": "o505u8g8",
+          "word": "classical",
+          "meaning": "first-rank; excellent",
+          "note": "Use 一流 when classical simply means first-rate or excellent, rather than historically canonical."
+        },
+        {
+          "id": "0pz09w4o",
+          "word": "top",
+          "meaning": "very good; excellent",
+          "note": "Use this to praise someone or something as excellent or first-rate, such as a top lawyer."
+        }
+      ],
       "examples": [
         {
           "english": "At the classical music concert, the violinist’s performance was truly first-rate.",

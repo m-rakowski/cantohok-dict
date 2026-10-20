@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "gender, male or female",
-      "english": ["gender", "sex"],
+      "english": [
+        {
+          "id": "49o8f2h9",
+          "word": "gender",
+          "meaning": "biological sex",
+          "note": "This is the all-purpose noun for gender, including biological, social, and grammatical contexts."
+        },
+        {
+          "id": "evbt5jpf",
+          "word": "sex",
+          "meaning": "male/female category",
+          "note": "Use this for a person's sex or the distinction between male and female categories, rather than for the people in those categories."
+        }
+      ],
       "examples": [
         {
           "english": "Please fill in your gender.",

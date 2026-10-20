@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "soil",
-      "english": ["soil", "ground"],
+      "english": [
+        {
+          "id": "u2ygueus",
+          "word": "soil",
+          "meaning": "garden earth",
+          "note": "This is the all-purpose everyday noun for soil or earth used to grow plants."
+        },
+        {
+          "id": "ujlfwb7d",
+          "word": "ground",
+          "meaning": "soil; earth",
+          "note": "Use this when “ground” means soil or earth that plants and animals are in."
+        }
+      ],
       "examples": [
         {
           "english": "This soil is nice and rich.",

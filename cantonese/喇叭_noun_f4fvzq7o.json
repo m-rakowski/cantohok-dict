@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "loudspeaker",
-      "english": ["speaker", "loudspeaker"],
+      "english": [
+        {
+          "id": "f8vngiu5",
+          "word": "speaker",
+          "meaning": "loudspeaker",
+          "note": "Use this as the all-purpose word for a loudspeaker or audio speaker."
+        },
+        {
+          "id": "0jvbwm2b",
+          "word": "loudspeaker",
+          "meaning": "speaker device",
+          "note": "Use 喇叭 as the everyday all-purpose word for a speaker device."
+        }
+      ],
       "examples": [
         {
           "english": "The speaker is so loud that my ears hurt.",
@@ -22,7 +35,14 @@
     },
     {
       "meaning": "horn",
-      "english": ["horn"],
+      "english": [
+        {
+          "id": "6rb4sree",
+          "word": "horn",
+          "meaning": "vehicle horn",
+          "note": "This is the all-purpose choice for a musical horn or a vehicle horn, with the context making the meaning clear."
+        }
+      ],
       "examples": [
         {
           "english": "The car in front suddenly sounded its horn and startled me.",

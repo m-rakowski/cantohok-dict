@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "courage, nerve",
-      "english": ["gall", "guts"],
+      "english": [
+        {
+          "id": "80fvwfkv",
+          "word": "gall",
+          "meaning": "impudence, brazenness",
+          "note": "Use this for the nerve or audacity to do something outrageous, especially in phrases like 有咁嘅膽."
+        },
+        {
+          "id": "qlpqyuku",
+          "word": "guts",
+          "meaning": "courage, nerve",
+          "note": "This is the all-purpose Cantonese noun for courage or nerve, especially in phrases like having the guts to do something."
+        }
+      ],
       "examples": [
         {
           "english": "You really have the gall to yell at the boss.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "indulge or tolerate bad behaviour",
-      "english": ["condone", "enable"],
+      "english": [
+        {
+          "id": "z4tcjwmn",
+          "word": "condone",
+          "meaning": "forgive or overlook wrongdoing",
+          "note": "This is the all-purpose choice for actively allowing or indulging wrongdoing, and it can also mean overlooking it."
+        },
+        {
+          "id": "icbmo9hp",
+          "word": "enable",
+          "meaning": "allow doing harm",
+          "note": "Use this when enabling means tolerating or encouraging someone’s harmful or bad behaviour rather than simply making something possible."
+        }
+      ],
       "examples": [
         {
           "english": "We must not condone employees deceiving customers.",

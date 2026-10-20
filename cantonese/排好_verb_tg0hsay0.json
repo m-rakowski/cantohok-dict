@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "arrange in order, line up",
-      "english": ["line", "arrange"],
+      "english": [
+        {
+          "id": "v5g40nfb",
+          "word": "line",
+          "meaning": "line up; arrange in a line",
+          "note": "Use this as the all-purpose way to say that people or objects are arranged in a line."
+        },
+        {
+          "id": "yj2erk6g",
+          "word": "arrange",
+          "meaning": "organize / set in order",
+          "note": "Use this when putting items, steps, or things into a particular order."
+        }
+      ],
       "examples": [
         {
           "english": "We line the chairs up before the guests come in.",

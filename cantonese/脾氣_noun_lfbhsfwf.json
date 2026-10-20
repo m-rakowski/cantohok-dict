@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "temper",
-      "english": ["temper", "temperament"],
+      "english": [
+        {
+          "id": "cfawkzmx",
+          "word": "temper",
+          "meaning": "anger-proneness",
+          "note": "This is the all-purpose noun for a person's tendency to become angry or their general temper."
+        },
+        {
+          "id": "havy7b46",
+          "word": "temperament",
+          "meaning": "bad temper",
+          "note": "Use this when the temperament specifically means a tendency to become irritable or angry."
+        }
+      ],
       "examples": [
         {
           "english": "Their temper is awful; they snap at people over the smallest things.",

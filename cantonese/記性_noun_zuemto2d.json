@@ -6,7 +6,35 @@
   "boxes": [
     {
       "meaning": "ability to remember",
-      "english": ["memory", "retention", "recall", "mind"],
+      "english": [
+        {
+          "id": "xyi6rkdv",
+          "word": "memory",
+          "meaning": "ability to recall",
+          "register": "colloquial",
+          "note": "This is the all-purpose colloquial choice for someone's ability to remember things."
+        },
+        {
+          "id": "y4zwgy62",
+          "word": "retention",
+          "meaning": "memory ability",
+          "note": "Use this specifically for someone's ability to remember things."
+        },
+        {
+          "id": "h6eyg5i1",
+          "word": "recall",
+          "meaning": "memory",
+          "register": "colloquial",
+          "note": "Use this specifically for someone’s ability to remember, rather than a remembered thing or recollection."
+        },
+        {
+          "id": "arkxymbj",
+          "word": "mind",
+          "meaning": "memory",
+          "register": "colloquial",
+          "note": "Use this specifically for someone's ability to remember things, including when their mind goes blank."
+        }
+      ],
       "examples": [
         {
           "english": "My memory is poor, and I often forget to bring my keys.",

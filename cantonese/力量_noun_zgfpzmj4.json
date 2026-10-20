@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "strength, power",
-      "english": ["strength", "force", "power"],
+      "english": [
+        {
+          "id": "yr6fq5ie",
+          "word": "strength",
+          "meaning": "physical power",
+          "note": "This is the all-purpose noun for physical power or the intensity of a force."
+        },
+        {
+          "id": "skvjjody",
+          "word": "force",
+          "meaning": "physical force",
+          "note": "Use 力量 as the all-purpose noun for strength, power, influence, or ordinary physical force."
+        },
+        {
+          "id": "3he33z7a",
+          "word": "power",
+          "meaning": "strength, force",
+          "note": "Use 力量 for physical strength or force, rather than 能力 or 權力."
+        }
+      ],
       "examples": [
         {
           "english": "This machine has great strength.",

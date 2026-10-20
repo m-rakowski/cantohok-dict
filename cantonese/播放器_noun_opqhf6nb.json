@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "media player device",
-      "english": ["player"],
+      "english": [
+        {
+          "id": "gs9m0up1",
+          "word": "player",
+          "meaning": "media player device",
+          "note": "Use 播放器 for either a physical device or a software application that plays audio or video."
+        }
+      ],
       "examples": [
         {
           "english": "This player can't play the video.",

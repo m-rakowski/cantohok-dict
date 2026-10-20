@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "key, decisive",
-      "english": ["key", "crucial", "central", "critical"],
+      "english": [
+        {
+          "id": "p76dx1e8",
+          "word": "key",
+          "meaning": "key, important",
+          "note": "Use this when the person or thing is crucial to the outcome, as in a key player or key moment."
+        },
+        {
+          "id": "g15ak0ga",
+          "word": "crucial",
+          "meaning": "essential; decisive",
+          "note": "Use this when the thing is decisive in determining an outcome or future, rather than merely important."
+        },
+        {
+          "id": "tlq7dfuw",
+          "word": "central",
+          "meaning": "important; key",
+          "note": "Use this instead of 重要 when “central” means decisive or key to the outcome."
+        },
+        {
+          "id": "nf8sy2uf",
+          "word": "critical",
+          "meaning": "at a crisis point",
+          "note": "Use this for a critical moment, point, or turning point where the outcome may change."
+        }
+      ],
       "examples": [
         {
           "english": "He is a key player in this match.",

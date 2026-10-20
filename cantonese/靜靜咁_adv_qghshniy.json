@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "quietly, calmly",
-      "english": ["placidly", "gently"],
+      "english": [
+        {
+          "id": "q3ldoz7r",
+          "word": "placidly",
+          "meaning": "calmly; quietly",
+          "note": "Use this when the emphasis is on doing something quietly and without drawing attention."
+        },
+        {
+          "id": "2bn0pxfv",
+          "word": "gently",
+          "meaning": "quietly",
+          "note": "Use this when the emphasis is on being quiet and making little noise or motion."
+        }
+      ],
       "examples": [
         {
           "english": "I left placidly without drawing attention to myself.",

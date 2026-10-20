@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "attractive, appealing",
-      "english": ["attractive", "fascinating", "sexy"],
+      "english": [
+        {
+          "id": "xmt265xo",
+          "word": "attractive",
+          "meaning": "appealing; enticing",
+          "note": "This is the all-purpose choice for something appealing or enticing, such as an offer."
+        },
+        {
+          "id": "0bxzqvl9",
+          "word": "fascinating",
+          "meaning": "captivating; very interesting",
+          "note": "This is the all-purpose choice for something that is captivating or very interesting."
+        },
+        {
+          "id": "7lsozo1r",
+          "word": "sexy",
+          "meaning": "appealing, exciting",
+          "note": "Use this for a product, idea, or design that is appealing and exciting rather than sexually attractive."
+        }
+      ],
       "examples": [
         {
           "english": "This offer is really attractive.",

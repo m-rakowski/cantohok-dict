@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "in itself, by its own nature",
-      "english": ["inherently", "intrinsically"],
+      "english": [
+        {
+          "id": "b3iqc3zx",
+          "word": "inherently",
+          "meaning": "naturally; innately",
+          "note": "This is the all-purpose choice for saying that a quality belongs to something by its own nature."
+        },
+        {
+          "id": "sj1deyuy",
+          "word": "intrinsically",
+          "meaning": "essentially; by nature",
+          "note": "This is the all-purpose spoken choice for saying that something has a quality in itself or by its own nature."
+        }
+      ],
       "examples": [
         {
           "english": "This design is inherently practical, so there is no need to add lots of fancy extras.",

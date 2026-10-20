@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "abandon",
-      "english": ["desert", "abandon"],
+      "english": [
+        {
+          "id": "wn0x7j55",
+          "word": "desert",
+          "meaning": "abandon, forsake",
+          "note": "Use this when stressing deliberate abandonment of a person, relationship, or dependent thing rather than simply leaving it behind."
+        },
+        {
+          "id": "pbr3ty41",
+          "word": "abandon",
+          "meaning": "leave behind, desert",
+          "note": "Use this for abandoning a person or thing by leaving it behind and no longer caring for it."
+        }
+      ],
       "examples": [
         {
           "english": "They actually desert the wife who went through hard times with them.",

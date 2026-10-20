@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "paint or varnish a surface",
-      "english": ["brush", "finish"],
+      "english": [
+        {
+          "id": "hkd0qo7u",
+          "word": "brush",
+          "meaning": "apply with a brush",
+          "note": "Use this specifically for applying paint, varnish, or a similar coating with a brush."
+        },
+        {
+          "id": "vekato02",
+          "word": "finish",
+          "meaning": "apply a finish",
+          "note": "Use 髹油 for applying a paint or varnish finish to a surface rather than for completing a task."
+        }
+      ],
       "examples": [
         {
           "english": "The craftsman used a brush to brush varnish onto the wooden door.",

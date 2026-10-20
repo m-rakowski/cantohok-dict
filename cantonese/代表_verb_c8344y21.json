@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "act on behalf of, represent",
-      "english": ["represent"],
+      "english": [
+        {
+          "id": "9i0km67f",
+          "word": "represent",
+          "meaning": "act on behalf of",
+          "note": "This is the all-purpose verb for acting on someone’s behalf, representing a political group, standing for something, or being an example of it."
+        }
+      ],
       "examples": [
         {
           "english": "They represent us in talks with the principal.",
@@ -17,7 +24,14 @@
     },
     {
       "meaning": "stand for, mean",
-      "english": ["denote"],
+      "english": [
+        {
+          "id": "fptrsiuc",
+          "word": "denote",
+          "meaning": "mean; signify",
+          "note": "Use this when a sign, symbol, abbreviation, or label stands for something else."
+        }
+      ],
       "examples": [
         {
           "english": "This abbreviation can denote Hong Kong.",

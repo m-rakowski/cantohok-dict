@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "give money or goods",
-      "english": ["donate"],
+      "english": [
+        {
+          "id": "tybumufx",
+          "word": "donate",
+          "meaning": "give money or goods",
+          "note": "Use this when giving away goods or other property for a charitable purpose rather than simply donating money."
+        }
+      ],
       "examples": [
         {
           "english": "We donate this batch of old clothes to people in need.",

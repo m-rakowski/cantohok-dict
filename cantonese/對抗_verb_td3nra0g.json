@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "fight against, resist",
-      "english": ["resist", "fight", "oppose", "strive"],
+      "english": [
+        {
+          "id": "4ffefmr2",
+          "word": "resist",
+          "meaning": "oppose or fight against",
+          "note": "Choose this when the resistance is framed as confronting or fighting an opposing side."
+        },
+        {
+          "id": "3qhwhpki",
+          "word": "fight",
+          "meaning": "fight against",
+          "note": "Use this for fiercely counteracting an opponent, problem, or social evil rather than having a physical fight."
+        },
+        {
+          "id": "6tlo4lgz",
+          "word": "oppose",
+          "meaning": "resist; fight against",
+          "note": "Use this when opposing an adversary or force in a direct contest or confrontation."
+        },
+        {
+          "id": "8nvwm97a",
+          "word": "strive",
+          "meaning": "struggle against",
+          "note": "Use this when the struggle is directed against an opponent, force, or fate."
+        }
+      ],
       "examples": [
         {
           "english": "They joined forces to resist a powerful opponent.",

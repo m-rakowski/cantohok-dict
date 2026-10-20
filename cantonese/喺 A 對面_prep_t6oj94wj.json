@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "opposite, across from A",
-      "english": ["opposite", "across", "over"],
+      "english": [
+        {
+          "id": "tlvhbc0n",
+          "word": "opposite",
+          "meaning": "across from",
+          "note": "This is the all-purpose way to say that something is across from a place or object."
+        },
+        {
+          "id": "gzcnm1ay",
+          "word": "across",
+          "meaning": "on the opposite side",
+          "note": "Use this locative pattern when something is on the opposite side of a street, river, or other divider."
+        },
+        {
+          "id": "35zcpvnj",
+          "word": "over",
+          "meaning": "on the other side of",
+          "note": "Use this when a person or place is on the opposite side of A."
+        }
+      ],
       "examples": [
         {
           "english": "The cha chaan teng is opposite the cinema.",

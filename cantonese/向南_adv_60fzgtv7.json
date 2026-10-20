@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "southward",
-      "english": ["south", "southward"],
+      "english": [
+        {
+          "id": "8bcyqgrg",
+          "word": "south",
+          "meaning": "toward the south",
+          "note": "This is the all-purpose way to express movement toward the south."
+        },
+        {
+          "id": "wwh73ade",
+          "word": "southward",
+          "meaning": "toward the south",
+          "note": "This is the all-purpose way to indicate movement or direction toward the south."
+        }
+      ],
       "examples": [
         {
           "english": "If we walk south, we’ll reach the beach.",

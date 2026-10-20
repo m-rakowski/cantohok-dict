@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "waterfall",
-      "english": ["waterfall", "cascade", "fall"],
+      "english": [
+        {
+          "id": "pno9k970",
+          "word": "waterfall",
+          "meaning": "waterfall",
+          "note": "This is the all-purpose noun for a literal waterfall and for a waterfall-like outpouring used metaphorically."
+        },
+        {
+          "id": "za7q5o1q",
+          "word": "cascade",
+          "meaning": "waterfall",
+          "note": "This is the all-purpose choice for a waterfall or a series of small waterfalls."
+        },
+        {
+          "id": "jp9cquyz",
+          "word": "fall",
+          "meaning": "waterfall",
+          "note": "Use this specifically for a waterfall, not for an ordinary downward movement."
+        }
+      ],
       "examples": [
         {
           "english": "We walked under the waterfall and got completely soaked.",

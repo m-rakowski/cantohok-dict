@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "take game or fish",
-      "english": ["harvest"],
+      "english": [
+        {
+          "id": "2nefsfts",
+          "word": "harvest",
+          "meaning": "take game or fish",
+          "note": "Use this for taking fish or other aquatic resources as part of a managed catch."
+        }
+      ],
       "examples": [
         {
           "english": "The fishermen harvest only a designated amount of fish each year to protect the stock.",

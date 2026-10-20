@@ -6,7 +6,15 @@
   "boxes": [
     {
       "meaning": "clerical assistant",
-      "english": ["secretary"],
+      "english": [
+        {
+          "id": "5s1mm7a1",
+          "word": "secretary",
+          "meaning": "clerical assistant",
+          "register": "formal",
+          "note": "Use this mainly for a record-keeping or clerical secretary in a formal organizational context, not as the everyday default."
+        }
+      ],
       "register": "formal",
       "examples": [
         {

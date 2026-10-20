@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "abandoned, left to ruin",
-      "english": ["abandoned", "derelict", "forlorn"],
+      "english": [
+        {
+          "id": "ann3ev0b",
+          "word": "abandoned",
+          "meaning": "deserted; left behind",
+          "note": "This is the all-purpose choice for a place or building that has been deserted and is no longer maintained."
+        },
+        {
+          "id": "pb4sxry8",
+          "word": "derelict",
+          "meaning": "dilapidated, neglected property",
+          "note": "Use this as the default choice for property that has been left unused or neglected and has fallen into disrepair."
+        },
+        {
+          "id": "udtyxbp1",
+          "word": "forlorn",
+          "meaning": "abandoned, deserted",
+          "note": "Use this for a forlorn place, building, or piece of land that has been abandoned and left unused."
+        }
+      ],
       "examples": [
         {
           "english": "This cinema has been abandoned for many years.",

@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "touch, feel with the hand",
-      "english": ["touch", "feel", "handle"],
+      "english": [
+        {
+          "id": "gdnii000",
+          "word": "touch",
+          "meaning": "make physical contact",
+          "note": "Use this as the all-purpose verb for deliberate hand or body contact, including brief, threatening, or sexual touching."
+        },
+        {
+          "id": "hmdtodnt",
+          "word": "feel",
+          "meaning": "touch / sense by touch",
+          "note": "Use this for physically touching something or feeling around for an object by touch."
+        },
+        {
+          "id": "rengdgda",
+          "word": "handle",
+          "meaning": "touch or hold",
+          "register": "colloquial",
+          "note": "Use this when handle means touch or feel something with the hand rather than wield it."
+        }
+      ],
       "examples": [
         {
           "english": "Don't randomly touch my things.",

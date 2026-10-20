@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "tube, pipe",
-      "english": ["tube", "pipe"],
+      "english": [
+        {
+          "id": "4tdrcgjl",
+          "word": "tube",
+          "meaning": "hollow cylinder",
+          "note": "This is the all-purpose noun for a hollow cylindrical tube or pipe."
+        },
+        {
+          "id": "jsvc97jx",
+          "word": "pipe",
+          "meaning": "body tube",
+          "note": "Use 管 as the general noun for a tubular passage in the body when the specific type is clear from context."
+        }
+      ],
       "examples": [
         {
           "english": "This tube is leaking water.",

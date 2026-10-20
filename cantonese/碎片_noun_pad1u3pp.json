@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "broken fragment",
-      "english": ["particle", "sliver", "detritus"],
+      "english": [
+        {
+          "id": "6him5dic",
+          "word": "particle",
+          "meaning": "tiny piece, fragment",
+          "note": "Use this for a small broken piece or fragment of something."
+        },
+        {
+          "id": "9i282btq",
+          "word": "sliver",
+          "meaning": "thin sharp fragment",
+          "note": "This is the all-purpose choice for a thin, sharp fragment that has broken or been cut off."
+        },
+        {
+          "id": "8vt7dmua",
+          "word": "detritus",
+          "meaning": "debris; fragments",
+          "note": "Use this as the all-purpose choice for fragments or debris when the material is not specified."
+        }
+      ],
       "examples": [
         {
           "english": "I picked up a tiny glass particle from the floor.",

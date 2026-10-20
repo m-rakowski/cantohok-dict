@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "faithful to one partner",
-      "english": ["faithful", "exclusive"],
+      "english": [
+        {
+          "id": "aqtphud9",
+          "word": "faithful",
+          "meaning": "sexually faithful",
+          "note": "Use this specifically for exclusive romantic or sexual fidelity to a partner."
+        },
+        {
+          "id": "rtzlmznl",
+          "word": "exclusive",
+          "meaning": "going out only with each other",
+          "note": "Use this for someone who is romantically committed to only one partner."
+        }
+      ],
       "examples": [
         {
           "english": "They are very faithful to their partner.",

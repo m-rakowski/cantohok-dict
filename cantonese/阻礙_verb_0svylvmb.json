@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "hinder progress",
-      "english": ["stultify", "hamper"],
+      "english": [
+        {
+          "id": "4r1t7sp6",
+          "word": "stultify",
+          "meaning": "stunt, make dull",
+          "note": "This is the all-purpose choice for restricting or slowing progress, development, or ideas."
+        },
+        {
+          "id": "gwc96ger",
+          "word": "hamper",
+          "meaning": "hinder, impede",
+          "register": "written",
+          "note": "Use this more formal or written verb when stressing an obstacle to progress or development."
+        }
+      ],
       "examples": [
         {
           "english": "The company's layers of approval stultify our efforts to launch the new project.",

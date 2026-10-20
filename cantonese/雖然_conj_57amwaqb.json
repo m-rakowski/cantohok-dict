@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "although, even though",
-      "english": ["though", "although", "while"],
+      "english": [
+        {
+          "id": "gkrf50y4",
+          "word": "though",
+          "meaning": "although; despite the fact that",
+          "note": "Use 雖然 as the all-purpose concessive linker, especially when the following main clause does not explicitly begin with 但係."
+        },
+        {
+          "id": "wgzi0ywd",
+          "word": "although",
+          "meaning": "concessive conjunction",
+          "note": "This is the all-purpose choice for introducing a concessive clause."
+        },
+        {
+          "id": "89fyrl2i",
+          "word": "while",
+          "meaning": "although",
+          "note": "Pick 雖然 for a concessive clause meaning that something is true despite what follows."
+        }
+      ],
       "examples": [
         {
           "english": "Though it's raining today, I'm still going out.",

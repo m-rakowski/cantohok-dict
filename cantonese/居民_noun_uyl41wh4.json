@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "resident, inhabitant",
-      "english": ["resident", "inhabitant"],
+      "english": [
+        {
+          "id": "c8kg4vbt",
+          "word": "resident",
+          "meaning": "person living somewhere",
+          "note": "This is the all-purpose choice for a person who lives in a particular place or area."
+        },
+        {
+          "id": "2r27094r",
+          "word": "inhabitant",
+          "meaning": "person/thing living in a place",
+          "note": "Use this concise noun for inhabitants of an area, community, or habitat, including non-human inhabitants in suitable contexts."
+        }
+      ],
       "examples": [
         {
           "english": "A resident in this area said it was too noisy downstairs.",

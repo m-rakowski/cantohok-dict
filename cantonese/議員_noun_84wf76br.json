@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "lawmaker, councillor",
-      "english": ["lawmaker", "legislator", "deputy", "representative"],
+      "english": [
+        {
+          "id": "9c5vas9u",
+          "word": "lawmaker",
+          "meaning": "legislator",
+          "note": "Use 議員 as the all-purpose choice when the context already makes clear that the person is a lawmaker."
+        },
+        {
+          "id": "t7bwnqel",
+          "word": "legislator",
+          "meaning": "lawmaker",
+          "note": "This is the all-purpose everyday term when the political context makes it clear that the person is a legislator."
+        },
+        {
+          "id": "zo1rylzf",
+          "word": "deputy",
+          "meaning": "member of Dáil",
+          "note": "Use this for a deputy who is a member of a legislature, including the French National Assembly or the Dáil."
+        },
+        {
+          "id": "okxusu0p",
+          "word": "representative",
+          "meaning": "legislative delegate",
+          "note": "Use this specifically for a member of a legislative or elected governing body rather than a general delegate."
+        }
+      ],
       "examples": [
         {
           "english": "That lawmaker said they would explain everything within this month.",

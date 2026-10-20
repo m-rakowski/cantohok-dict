@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "to win, earn (respect, applause)",
-      "english": ["merit", "earn"],
+      "english": [
+        {
+          "id": "3x4glub4",
+          "word": "merit",
+          "meaning": "deserve",
+          "note": "Use this when the emphasis is on earning or winning an actual response, reward, or recognition, such as applause."
+        },
+        {
+          "id": "pwvusn2z",
+          "word": "earn",
+          "meaning": "deserve through effort",
+          "note": "Use this for gaining recognition, success, or a reward through effort rather than simply receiving pay."
+        }
+      ],
       "examples": [
         {
           "english": "Their speech did enough to merit a round of applause from the whole audience.",

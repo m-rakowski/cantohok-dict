@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "calm and unhurried",
-      "english": ["stately", "deliberate", "slow"],
+      "english": [
+        {
+          "id": "djs65r7h",
+          "word": "stately",
+          "meaning": "slow, dignified movement",
+          "note": "Use this when the emphasis is on slow, unhurried movement or manner rather than grandeur."
+        },
+        {
+          "id": "2dt9v09w",
+          "word": "deliberate",
+          "meaning": "slow, measured",
+          "note": "Use 慢條斯理 for a calm, unhurried, measured manner, especially of speaking or moving."
+        },
+        {
+          "id": "o0yertnh",
+          "word": "slow",
+          "meaning": "not hasty",
+          "note": "Use 慢條斯理 when the manner is deliberately unhurried and calm rather than merely lacking speed."
+        }
+      ],
       "examples": [
         {
           "english": "They walked into the meeting room in a stately, unhurried manner, not looking rushed at all.",

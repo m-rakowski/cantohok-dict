@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "nationality, citizenship",
-      "english": ["nationality", "citizenship"],
+      "english": [
+        {
+          "id": "ab18msnu",
+          "word": "nationality",
+          "meaning": "citizenship; legal membership of a nation",
+          "note": "This is the all-purpose noun for legal nationality or citizenship."
+        },
+        {
+          "id": "vuaztmpw",
+          "word": "citizenship",
+          "meaning": "status as citizen",
+          "note": "This is the all-purpose everyday choice when citizenship means the country a person legally belongs to."
+        }
+      ],
       "examples": [
         {
           "english": "When you fill in the form, you need to write your nationality.",

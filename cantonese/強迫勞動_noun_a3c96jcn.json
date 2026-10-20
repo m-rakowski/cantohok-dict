@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "forced labor",
-      "english": ["slavery"],
+      "english": [
+        {
+          "id": "hooeqtq7",
+          "word": "slavery",
+          "meaning": "forced labor",
+          "note": "Use this when the focus is on coerced work itself rather than on a system of human ownership."
+        }
+      ],
       "examples": [
         {
           "english": "This factory was exposed for using forced labor, which amounted to slavery.",

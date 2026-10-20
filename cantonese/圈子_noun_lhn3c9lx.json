@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "social circle, scene",
-      "english": ["tribe", "circle", "milieu", "scene"],
+      "english": [
+        {
+          "id": "h8ncw9nj",
+          "word": "tribe",
+          "meaning": "social group",
+          "note": "Use 圈子 for a socially cohesive circle or in-group within a wider society, not for an ethnic tribe."
+        },
+        {
+          "id": "oh10e2t9",
+          "word": "circle",
+          "meaning": "social group",
+          "note": "Use this for a social or interest-based group rather than a physical circle."
+        },
+        {
+          "id": "nqlq3c3x",
+          "word": "milieu",
+          "meaning": "social environment",
+          "note": "Use this for a social milieu understood as the particular group or social circle someone belongs to."
+        },
+        {
+          "id": "cf1g8fda",
+          "word": "scene",
+          "meaning": "subculture / social circle",
+          "note": "Use 圈子 for an informal social or interest-based circle such as the emo scene."
+        }
+      ],
       "examples": [
         {
           "english": "There are several different circles in our company, and each one is like a small tribe.",

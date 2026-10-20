@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "fat",
-      "english": ["fat", "overweight", "blubbery", "big"],
+      "english": [
+        {
+          "id": "d6hk7yuk",
+          "word": "fat",
+          "meaning": "body fat / overweight",
+          "note": "This is the all-purpose choice for a person or animal carrying excess body fat."
+        },
+        {
+          "id": "nexa7a5j",
+          "word": "overweight",
+          "meaning": "too heavy; obese",
+          "note": "This is the all-purpose colloquial choice for describing someone as overweight, though it can sound blunt."
+        },
+        {
+          "id": "st5a7mmk",
+          "word": "blubbery",
+          "meaning": "fat, obese",
+          "note": "Use 肥 as the all-purpose everyday description of a fat or obese person or animal."
+        },
+        {
+          "id": "csh8lt9a",
+          "word": "big",
+          "meaning": "fat",
+          "note": "Use this specifically when “big” means fat or overweight."
+        }
+      ],
       "examples": [
         {
           "english": "You seem to have gotten fat lately.",

@@ -6,7 +6,33 @@
   "boxes": [
     {
       "meaning": "hate, strongly dislike",
-      "english": ["hate", "detest", "abhor", "dislike"],
+      "english": [
+        {
+          "id": "kgv7mwyf",
+          "word": "hate",
+          "meaning": "dislike intensely",
+          "note": "Use this shorter form when the context already makes the strong dislike clear."
+        },
+        {
+          "id": "7xz0jy3g",
+          "word": "detest",
+          "meaning": "hate intensely",
+          "note": "This is the all-purpose spoken choice for intensely disliking a person or thing."
+        },
+        {
+          "id": "0m5oytv7",
+          "word": "abhor",
+          "meaning": "hate strongly",
+          "note": "Use 憎 as the all-purpose colloquial verb for strongly hating or detesting someone or something."
+        },
+        {
+          "id": "drexuk1i",
+          "word": "dislike",
+          "meaning": "not like; feel aversion",
+          "register": "colloquial",
+          "note": "Use this for a stronger, more personal aversion, closer to ‘hate’ than ordinary dislike."
+        }
+      ],
       "examples": [
         {
           "english": "I hate rainy days the most.",

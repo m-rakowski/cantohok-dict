@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "help, assist",
-      "english": ["help", "aid", "assist"],
+      "english": [
+        {
+          "id": "s2nii9np",
+          "word": "help",
+          "meaning": "assist",
+          "note": "Use 幫 as the all-purpose verb for assisting someone, including helping with food or doing something on their behalf; an emergency cry uses 救命 instead."
+        },
+        {
+          "id": "9y8rkl7d",
+          "word": "aid",
+          "meaning": "help; assist",
+          "note": "This is the all-purpose spoken verb for helping or assisting someone or something."
+        },
+        {
+          "id": "7fnon1in",
+          "word": "assist",
+          "meaning": "help",
+          "note": "This is the all-purpose spoken Cantonese verb for helping someone or helping with a task."
+        }
+      ],
       "examples": [
         {
           "english": "Can you help me bring over a glass of water?",

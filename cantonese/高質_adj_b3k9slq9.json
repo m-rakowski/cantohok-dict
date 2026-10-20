@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "high quality",
-      "english": ["super", "fine", "excellent"],
+      "english": [
+        {
+          "id": "tyedvlp8",
+          "word": "super",
+          "meaning": "excellent quality",
+          "register": "colloquial",
+          "note": "Use this specifically when praising the quality or standard of something rather than calling it generally wonderful."
+        },
+        {
+          "id": "hdvt6au9",
+          "word": "fine",
+          "meaning": "of high quality",
+          "note": "Use this when fine means superior in quality rather than merely acceptable."
+        },
+        {
+          "id": "55xx2x7h",
+          "word": "excellent",
+          "meaning": "splendid; high quality",
+          "note": "Use this specifically for something of notably high quality, especially a product, service, or piece of work."
+        }
+      ],
       "examples": [
         {
           "english": "The sound quality of these earphones is really super.",

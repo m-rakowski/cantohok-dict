@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "be made up of A",
-      "english": ["comprise", "compose"],
+      "english": [
+        {
+          "id": "nkdntq6a",
+          "word": "comprise",
+          "meaning": "consist of; include",
+          "note": "Use this when emphasizing what something is made up of as a whole, especially when listing its constituent parts."
+        },
+        {
+          "id": "q8205ny7",
+          "word": "compose",
+          "meaning": "make up; constitute",
+          "note": "Use this pattern to state what parts or members make up a whole."
+        }
+      ],
       "examples": [
         {
           "english": "Devices like this can comprise a sensor, a battery, and a display.",

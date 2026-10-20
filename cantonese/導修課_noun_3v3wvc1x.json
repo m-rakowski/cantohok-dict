@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "tutorial class",
-      "english": ["recitation", "supervision"],
+      "english": [
+        {
+          "id": "sgwzwb3z",
+          "word": "recitation",
+          "meaning": "school recitation class",
+          "note": "Use this for a scheduled discussion-based class accompanying a lecture, especially at a university."
+        },
+        {
+          "id": "f6vrj7nx",
+          "word": "supervision",
+          "meaning": "tutorial supervision",
+          "note": "Use this specifically for a tutorial session with an individual student or small group."
+        }
+      ],
       "examples": [
         {
           "english": "After the professor's lecture, we went to the recitation to discuss the homework.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "surname",
-      "english": ["surname", "last name"],
+      "english": [
+        {
+          "id": "8fiqtlz7",
+          "word": "surname",
+          "meaning": "family name",
+          "note": "This is the all-purpose spoken Cantonese noun for a person's family name."
+        },
+        {
+          "id": "guboo5jk",
+          "word": "last name",
+          "meaning": "family name",
+          "note": "Use 姓 as the all-purpose everyday word for a person's family name."
+        }
+      ],
       "examples": [
         {
           "english": "What's your surname?",

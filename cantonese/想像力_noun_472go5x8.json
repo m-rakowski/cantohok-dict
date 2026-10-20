@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "imagination",
-      "english": ["imagination", "fancy"],
+      "english": [
+        {
+          "id": "lx9eiiuy",
+          "word": "imagination",
+          "meaning": "mental faculty / image-making power",
+          "note": "Use this for the general mental ability to form images or ideas."
+        },
+        {
+          "id": "6jb0oi4j",
+          "word": "fancy",
+          "meaning": "imagination",
+          "note": "Use this for the faculty or product of imagining something."
+        }
+      ],
       "examples": [
         {
           "english": "My imagination is very vivid.",

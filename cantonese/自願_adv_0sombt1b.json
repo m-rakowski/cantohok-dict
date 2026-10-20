@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "voluntarily",
-      "english": ["willingly", "voluntarily"],
+      "english": [
+        {
+          "id": "0bz21gpi",
+          "word": "willingly",
+          "meaning": "of one’s own free will",
+          "note": "This is the all-purpose choice when someone does something of their own free will rather than under pressure."
+        },
+        {
+          "id": "iqf6dv21",
+          "word": "voluntarily",
+          "meaning": "of own free will",
+          "note": "Use this especially when describing voluntary participation, consent, or enrollment."
+        }
+      ],
       "examples": [
         {
           "english": "I willingly signed up for this volunteer activity.",

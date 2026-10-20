@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "a lot of, many",
-      "english": ["much", "many", "some"],
+      "english": [
+        {
+          "id": "vp17rn1k",
+          "word": "much",
+          "meaning": "large amount",
+          "note": "Use this as the all-purpose Cantonese way to express a large amount of something."
+        },
+        {
+          "id": "lmci6ywp",
+          "word": "many",
+          "meaning": "large indefinite number",
+          "note": "This is the all-purpose choice for a large number, including emphatic “so many.”"
+        },
+        {
+          "id": "vrrfh2pw",
+          "word": "some",
+          "meaning": "considerable; a fair amount",
+          "note": "Use this when English some means a considerable or fairly large quantity or number."
+        }
+      ],
       "examples": [
         {
           "english": "I bought much more fruit than usual.",

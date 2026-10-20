@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "transmissible disease",
-      "english": ["infectious"],
+      "english": [
+        {
+          "id": "fxy4ohwm",
+          "word": "infectious",
+          "meaning": "transmissible disease",
+          "note": "This is the all-purpose spoken choice for a disease or person that can pass an infection on."
+        }
+      ],
       "examples": [
         {
           "english": "This kind of flu is infectious, so everyone should remember to wear a mask.",

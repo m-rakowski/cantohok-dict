@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "economic downturn",
-      "english": ["recession"],
+      "english": [
+        {
+          "id": "ockmic6u",
+          "word": "recession",
+          "meaning": "economic downturn",
+          "note": "This is the all-purpose term for a period of reduced economic activity, including a technically defined recession."
+        }
+      ],
       "examples": [
         {
           "english": "This recession has forced many companies to freeze hiring.",

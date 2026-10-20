@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "management",
-      "english": ["management", "administration"],
+      "english": [
+        {
+          "id": "2rqwoqi1",
+          "word": "management",
+          "meaning": "running an organization",
+          "note": "This is the all-purpose noun for running or administering an organization."
+        },
+        {
+          "id": "54osmfoa",
+          "word": "administration",
+          "meaning": "management",
+          "note": "This is the all-purpose choice for administration as the running or management of affairs."
+        }
+      ],
       "examples": [
         {
           "english": "Good company management makes it easier to reach goals.",

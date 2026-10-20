@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "digital wallet",
-      "english": ["wallet"],
+      "english": [
+        {
+          "id": "o2jk893a",
+          "word": "wallet",
+          "meaning": "digital wallet",
+          "note": "Use this specifically for an e-wallet or digital wallet rather than a physical wallet."
+        }
+      ],
       "examples": [
         {
           "english": "These days I use a digital wallet to take the bus, so I don't need to carry coins.",

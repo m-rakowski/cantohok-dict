@@ -6,7 +6,29 @@
   "boxes": [
     {
       "meaning": "in that case, so then",
-      "english": ["accordingly", "therefore", "then"],
+      "english": [
+        {
+          "id": "zzu19mda",
+          "word": "accordingly",
+          "meaning": "therefore; as a result",
+          "register": "colloquial",
+          "note": "Use this conversationally when the next action follows naturally from the situation or what was just said."
+        },
+        {
+          "id": "ojmp297n",
+          "word": "therefore",
+          "meaning": "consequently; as a result",
+          "register": "colloquial",
+          "note": "Use this conversationally when the consequence follows immediately from the situation or what was just said."
+        },
+        {
+          "id": "9y1ztcqy",
+          "word": "then",
+          "meaning": "in that case",
+          "register": "colloquial",
+          "note": "Use this in a conditional result meaning “in that case, then,” usually before the consequence."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

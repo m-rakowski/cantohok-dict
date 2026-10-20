@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "naively, innocently",
-      "english": ["innocently", "naively"],
+      "english": [
+        {
+          "id": "jlm8o4ay",
+          "word": "innocently",
+          "meaning": "in an innocent manner",
+          "note": "This is the all-purpose choice for doing or saying something in a naive, childlike, or guileless way."
+        },
+        {
+          "id": "f45ushgz",
+          "word": "naively",
+          "meaning": "in a naive way",
+          "note": "This is the all-purpose choice for doing or thinking something in a naive way."
+        }
+      ],
       "examples": [
         {
           "english": "He innocently asked me why adults do not have to go to school.",

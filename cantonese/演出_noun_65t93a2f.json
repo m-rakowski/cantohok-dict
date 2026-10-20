@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "performance, show",
-      "english": ["gig", "outing", "production"],
+      "english": [
+        {
+          "id": "de3yhmym",
+          "word": "gig",
+          "meaning": "performing engagement",
+          "note": "Use this for the performance or performing engagement itself, rather than for a general job."
+        },
+        {
+          "id": "bt7nj2b3",
+          "word": "outing",
+          "meaning": "public appearance/performance",
+          "note": "Use this for the public performance or artistic appearance of an actor, musician, or other performer."
+        },
+        {
+          "id": "odxufep0",
+          "word": "production",
+          "meaning": "theatrical performance",
+          "note": "Use 演出 for a theatrical production viewed as the presentation or performance of a play."
+        }
+      ],
       "examples": [
         {
           "english": "Our band has a gig next Friday.",

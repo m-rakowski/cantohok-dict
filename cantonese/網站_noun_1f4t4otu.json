@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "website",
-      "english": ["site", "website"],
+      "english": [
+        {
+          "id": "j0kb7yh5",
+          "word": "site",
+          "meaning": "website",
+          "note": "Use this for an internet website, not a physical location."
+        },
+        {
+          "id": "njttsz8u",
+          "word": "website",
+          "meaning": "collection of web pages",
+          "note": "This is the all-purpose Cantonese noun for a website as a collection of web pages."
+        }
+      ],
       "examples": [
         {
           "english": "I found that recipe on this site.",

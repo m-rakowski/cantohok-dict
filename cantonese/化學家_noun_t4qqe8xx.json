@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "chemistry specialist",
-      "english": ["chemist"],
+      "english": [
+        {
+          "id": "9d7w0xjy",
+          "word": "chemist",
+          "meaning": "chemistry specialist",
+          "note": "Use this for a professional specialist in the science of chemistry, not a pharmacist."
+        }
+      ],
       "examples": [
         {
           "english": "My friend is a chemist who specializes in researching new materials.",

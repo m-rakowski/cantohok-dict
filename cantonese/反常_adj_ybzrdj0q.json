@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "abnormal, unusual",
-      "english": ["deviant", "abnormal"],
+      "english": [
+        {
+          "id": "33yz3fac",
+          "word": "deviant",
+          "meaning": "deviating from norms",
+          "note": "Use this when the behaviour is notably abnormal or unlike what is usual, without necessarily implying immorality."
+        },
+        {
+          "id": "g2pke9b0",
+          "word": "abnormal",
+          "meaning": "not normal; irregular",
+          "register": "formal",
+          "note": "Use this for a situation, pattern, or behavior that departs markedly from what is expected or usual."
+        }
+      ],
       "examples": [
         {
           "english": "They are usually very punctual, so being late today is really deviant.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "talented",
-      "english": ["gifted", "talented"],
+      "english": [
+        {
+          "id": "5ubs1spa",
+          "word": "gifted",
+          "meaning": "talented; highly able",
+          "note": "This is the all-purpose choice for someone endowed with exceptional ability, including a gifted artist."
+        },
+        {
+          "id": "aker9qlj",
+          "word": "talented",
+          "meaning": "having talent; gifted",
+          "note": "This is the all-purpose everyday choice for someone who is gifted or naturally talented."
+        }
+      ],
       "examples": [
         {
           "english": "They've been gifted at drawing since they were little.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "enough, sufficient",
-      "english": ["sufficient", "adequate"],
+      "english": [
+        {
+          "id": "lqtnhnjn",
+          "word": "sufficient",
+          "meaning": "enough; adequate",
+          "note": "Use this when you want to state explicitly that the amount or level is sufficient."
+        },
+        {
+          "id": "8bcb0d59",
+          "word": "adequate",
+          "meaning": "sufficient; meets a requirement",
+          "note": "Use this when you want to state explicitly that the amount or level is sufficient, rather than simply saying 夠."
+        }
+      ],
       "examples": [
         {
           "english": "We have sufficient time to finish the report.",

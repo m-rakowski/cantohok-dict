@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "offer, volunteer",
-      "english": ["volunteer", "offer"],
+      "english": [
+        {
+          "id": "3r8iiqqi",
+          "word": "volunteer",
+          "meaning": "offer to do",
+          "note": "Use this as the all-purpose choice for offering to do something or offering information without being prompted."
+        },
+        {
+          "id": "flvrx1yu",
+          "word": "offer",
+          "meaning": "offer to do",
+          "note": "This is the all-purpose choice for volunteering to do something or putting forward an idea, opinion, or suggestion."
+        }
+      ],
       "examples": [
         {
           "english": "No one wants to do it this time, so Ming will volunteer to help.",

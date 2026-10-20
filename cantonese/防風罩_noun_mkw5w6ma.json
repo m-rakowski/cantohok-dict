@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "microphone windscreen",
-      "english": ["windshield", "windscreen"],
+      "english": [
+        {
+          "id": "91t4t0u3",
+          "word": "windshield",
+          "meaning": "microphone windscreen",
+          "note": "Use this for the cover fitted over a microphone to block wind and breathing noise."
+        },
+        {
+          "id": "vg95n5un",
+          "word": "windscreen",
+          "meaning": "microphone windscreen",
+          "note": "Use this for the protective cover fitted over a microphone to reduce wind and breathing noise."
+        }
+      ],
       "examples": [
         {
           "english": "Before recording, remember to put the windshield on the microphone properly.",

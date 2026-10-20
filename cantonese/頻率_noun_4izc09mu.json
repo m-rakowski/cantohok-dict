@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "frequency, how often",
-      "english": ["frequency", "basis"],
+      "english": [
+        {
+          "id": "bybe7zdm",
+          "word": "frequency",
+          "meaning": "rate of occurrence",
+          "note": "This is the all-purpose noun for how often something occurs and for technical wave frequency."
+        },
+        {
+          "id": "cj3d3j7t",
+          "word": "basis",
+          "meaning": "regular schedule",
+          "note": "Use this when basis refers specifically to how regularly something occurs."
+        }
+      ],
       "examples": [
         {
           "english": "The frequency of updates on this website is very high.",

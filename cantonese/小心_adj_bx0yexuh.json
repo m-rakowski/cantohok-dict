@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "careful, cautious",
-      "english": ["careful", "cautious", "wary"],
+      "english": [
+        {
+          "id": "x5u62v6n",
+          "word": "careful",
+          "meaning": "cautious, watchful",
+          "note": "This is the all-purpose choice for being cautious and alert to danger or mistakes."
+        },
+        {
+          "id": "asz9tuvg",
+          "word": "cautious",
+          "meaning": "careful, tentative",
+          "note": "This is the all-purpose choice for being careful or cautious in general."
+        },
+        {
+          "id": "v2ug6djo",
+          "word": "wary",
+          "meaning": "cautious; suspicious",
+          "note": "This is the all-purpose choice when someone is generally cautious and alert to possible danger."
+        }
+      ],
       "examples": [
         {
           "english": "Be careful when you use the stairs.",

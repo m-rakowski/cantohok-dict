@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "happiness",
-      "english": ["happiness", "cheerfulness", "pleasure"],
+      "english": [
+        {
+          "id": "5ca9ulel",
+          "word": "happiness",
+          "meaning": "emotion of being happy",
+          "note": "This is the all-purpose noun choice for happiness as joy or emotional enjoyment."
+        },
+        {
+          "id": "xxfafxvt",
+          "word": "cheerfulness",
+          "meaning": "being cheerful; joy",
+          "note": "Use this as the all-purpose noun for happiness or a cheerful state."
+        },
+        {
+          "id": "s384avc1",
+          "word": "pleasure",
+          "meaning": "enjoyment, contentment",
+          "note": "Use this for the general state or feeling of happiness and contentment."
+        }
+      ],
       "examples": [
         {
           "english": "I think having happiness is enough.",

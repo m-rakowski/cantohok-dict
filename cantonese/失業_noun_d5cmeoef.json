@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "joblessness",
-      "english": ["unemployment"],
+      "english": [
+        {
+          "id": "lesspqv8",
+          "word": "unemployment",
+          "meaning": "joblessness",
+          "note": "This is the all-purpose choice for being without a job or joblessness in general."
+        }
+      ],
       "examples": [
         {
           "english": "A lot of people are facing unemployment these days, and finding a job is really difficult.",

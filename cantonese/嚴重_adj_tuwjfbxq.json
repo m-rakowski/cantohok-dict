@@ -6,7 +6,56 @@
   "boxes": [
     {
       "meaning": "serious, severe",
-      "english": ["severe", "crippling", "terrible", "serious", "real", "massive", "major", "sore"],
+      "english": [
+        {
+          "id": "ocoqvpfa",
+          "word": "severe",
+          "meaning": "very bad / intense",
+          "note": "This is the all-purpose choice when something is seriously bad or intense."
+        },
+        {
+          "id": "1i1zkuz6",
+          "word": "crippling",
+          "meaning": "incapacitating",
+          "note": "Use this as the all-purpose choice when the harmful or incapacitating effect is described generally."
+        },
+        {
+          "id": "r04q54k4",
+          "word": "terrible",
+          "meaning": "extreme; very great",
+          "note": "Choose this for an extreme or severe degree, especially serious consequences or a heavy price."
+        },
+        {
+          "id": "ue6sgbs9",
+          "word": "serious",
+          "meaning": "important, significant",
+          "note": "Use this for a serious problem or situation when the emphasis is on severity or bad consequences."
+        },
+        {
+          "id": "w2huozjl",
+          "word": "real",
+          "meaning": "real; serious",
+          "note": "Use 嚴重 when real means serious or grave, as in a real problem."
+        },
+        {
+          "id": "pdwicagu",
+          "word": "massive",
+          "meaning": "severe, serious",
+          "note": "Use this when “massive” means severe or seriously affecting the body, rather than physically large."
+        },
+        {
+          "id": "j547fgkf",
+          "word": "major",
+          "meaning": "serious illness",
+          "note": "Use this for an illness, injury, risk, or other situation that is major because it is serious or life-threatening."
+        },
+        {
+          "id": "r9go1v0s",
+          "word": "sore",
+          "meaning": "severe; pressing need",
+          "note": "Use this for a dire or distressing situation rather than bodily pain."
+        }
+      ],
       "examples": [
         {
           "english": "The injuries in this accident are quite severe.",

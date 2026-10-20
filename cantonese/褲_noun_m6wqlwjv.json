@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "trousers, pants",
-      "english": ["pants", "trousers", "bottom"],
+      "english": [
+        {
+          "id": "cck28k9o",
+          "word": "pants",
+          "meaning": "trousers",
+          "note": "This is the all-purpose Cantonese word for trousers or pants worn as an outer garment."
+        },
+        {
+          "id": "lvqebj50",
+          "word": "trousers",
+          "meaning": "pair of pants",
+          "note": "This is the all-purpose Cantonese noun for trousers or pants."
+        },
+        {
+          "id": "lehjugvt",
+          "word": "bottom",
+          "meaning": "pants; underwear",
+          "note": "Use this for clothing worn on the lower half of the body, including trousers and pyjama bottoms."
+        }
+      ],
       "examples": [
         {
           "english": "These pants are too long.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "love of one's country",
-      "english": ["patriotism", "piety"],
+      "english": [
+        {
+          "id": "wyf0he93",
+          "word": "patriotism",
+          "meaning": "love of country",
+          "note": "This is the all-purpose choice for personal love and devotion to one's country."
+        },
+        {
+          "id": "u3by0mgr",
+          "word": "piety",
+          "meaning": "filial or patriotic reverence",
+          "note": "Use this for patriotic piety: devotion toward one's country."
+        }
+      ],
       "examples": [
         {
           "english": "My patriotism makes me volunteer whenever there is a community service event.",

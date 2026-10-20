@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "stamina, endurance",
-      "english": ["endurance", "stamina"],
+      "english": [
+        {
+          "id": "ikf758uk",
+          "word": "endurance",
+          "meaning": "stamina; persistence",
+          "note": "This is the all-purpose choice when endurance means sustained physical effort."
+        },
+        {
+          "id": "7otv9qvt",
+          "word": "stamina",
+          "meaning": "endurance, staying power",
+          "note": "Use this when emphasizing the ability to keep exerting yourself or withstand difficulty for a long time."
+        }
+      ],
       "examples": [
         {
           "english": "Running a marathon tests your endurance the most.",

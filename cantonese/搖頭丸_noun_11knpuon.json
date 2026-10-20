@@ -6,7 +6,15 @@
   "boxes": [
     {
       "meaning": "MDMA drug",
-      "english": ["ecstasy"],
+      "english": [
+        {
+          "id": "mnr4m348",
+          "word": "ecstasy",
+          "meaning": "MDMA drug",
+          "register": "colloquial",
+          "note": "Use this specifically for the MDMA drug, especially in tablet form, rather than for an emotional state."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

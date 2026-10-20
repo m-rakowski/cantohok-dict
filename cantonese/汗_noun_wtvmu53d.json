@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "sweat",
-      "english": ["sweat", "perspiration"],
+      "english": [
+        {
+          "id": "v37h91v6",
+          "word": "sweat",
+          "meaning": "body moisture",
+          "note": "This is the all-purpose noun for sweat as bodily moisture."
+        },
+        {
+          "id": "po8mabd4",
+          "word": "perspiration",
+          "meaning": "sweat",
+          "note": "This is the all-purpose choice for the sweat fluid itself, including sweat on the skin or in drops."
+        }
+      ],
       "examples": [
         {
           "english": "I'm covered in sweat after running.",

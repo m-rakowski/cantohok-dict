@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "radio/TV station",
-      "english": ["station"],
+      "english": [
+        {
+          "id": "mq3chul3",
+          "word": "station",
+          "meaning": "radio/TV station",
+          "note": "Use this for a radio station; a television station is usually 電視台."
+        }
+      ],
       "examples": [
         {
           "english": "This radio station broadcasts news every morning.",

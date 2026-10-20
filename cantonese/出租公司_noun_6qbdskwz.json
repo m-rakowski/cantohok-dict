@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "rental business",
-      "english": ["rental"],
+      "english": [
+        {
+          "id": "e0v3x02z",
+          "word": "rental",
+          "meaning": "rental business",
+          "note": "Use this for a company whose business is renting things out to customers."
+        }
+      ],
       "examples": [
         {
           "english": "This rental company can help you rent an affordable van.",

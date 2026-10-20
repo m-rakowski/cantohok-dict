@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "relaxed, carefree",
-      "english": ["relaxed", "relaxing", "breezy", "playful", "easy"],
+      "english": [
+        {
+          "id": "9wwlpiyb",
+          "word": "relaxed",
+          "meaning": "calm, at ease",
+          "note": "This is the all-purpose choice for someone who feels calm, at ease, or untroubled."
+        },
+        {
+          "id": "mnrtozk8",
+          "word": "relaxing",
+          "meaning": "conducive to relaxation",
+          "note": "This is the all-purpose choice for something that helps you relax, such as music or an activity."
+        },
+        {
+          "id": "5duki2lz",
+          "word": "breezy",
+          "meaning": "cheerful, casual manner",
+          "note": "Use 輕鬆 for a cheerful, relaxed, and casual manner rather than for the weather."
+        },
+        {
+          "id": "3kvhxga0",
+          "word": "playful",
+          "meaning": "lighthearted, not serious",
+          "note": "Use this for a lighthearted or unserious tone, activity, or puzzle rather than for a playful person's personality."
+        },
+        {
+          "id": "i4xmaeua",
+          "word": "easy",
+          "meaning": "comfortable; giving ease",
+          "note": "Use this for relaxed, comfortable circumstances or a life without much labour or pressure."
+        }
+      ],
       "examples": [
         {
           "english": "Staying home sprawled out on my day off is really relaxed.",
@@ -37,7 +68,26 @@
     },
     {
       "meaning": "easy, effortless",
-      "english": ["effortless", "carefree", "light"],
+      "english": [
+        {
+          "id": "o6eznb6w",
+          "word": "effortless",
+          "meaning": "without effort",
+          "note": "This is the all-purpose spoken choice for describing an action that looks easy and requires little effort."
+        },
+        {
+          "id": "8iw2v34y",
+          "word": "carefree",
+          "meaning": "without worries",
+          "note": "Use this when “carefree” emphasizes feeling relaxed, unpressured, or free from difficulty rather than having no worries at all."
+        },
+        {
+          "id": "qc3qwglx",
+          "word": "light",
+          "meaning": "easy, not demanding",
+          "note": "Use 輕鬆 when a task or duty is easy and not demanding."
+        }
+      ],
       "examples": [
         {
           "english": "They made doing the homework look effortless.",

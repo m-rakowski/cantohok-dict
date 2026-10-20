@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "before, earlier",
-      "english": ["before", "previously", "beforehand"],
+      "english": [
+        {
+          "id": "nkoumgan",
+          "word": "before",
+          "meaning": "previously",
+          "note": "Use this when highlighting an earlier point or period, often understood as immediately before a reference time."
+        },
+        {
+          "id": "lqk9kdgz",
+          "word": "previously",
+          "meaning": "earlier time, before",
+          "note": "Use 之前 when the earlier time is understood relative to another event or reference point."
+        },
+        {
+          "id": "rwzpw87u",
+          "word": "beforehand",
+          "meaning": "at an earlier time",
+          "note": "Use this when you mean at a time before a specified event or point, rather than emphasizing advance preparation."
+        }
+      ],
       "examples": [
         {
           "english": "Before the meeting, we’ll eat a little first.",

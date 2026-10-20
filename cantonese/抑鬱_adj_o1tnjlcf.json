@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "depressed",
-      "english": ["depressed", "depressive"],
+      "english": [
+        {
+          "id": "o3qbd1aa",
+          "word": "depressed",
+          "meaning": "clinically depressed",
+          "note": "Use this for clinical depression or a persistently depressed mental state rather than ordinary low spirits."
+        },
+        {
+          "id": "ulnvw3sq",
+          "word": "depressive",
+          "meaning": "feeling depressed",
+          "note": "Use this for a clinical or medical sense, including someone being depressed or something related to depression, rather than ordinary low mood."
+        }
+      ],
       "examples": [
         {
           "english": "I am clinically depressed and am seeing a psychiatrist.",

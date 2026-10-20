@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "a lot, many",
-      "english": ["numerous", "abundant", "immense"],
+      "english": [
+        {
+          "id": "u2pviy4z",
+          "word": "numerous",
+          "meaning": "many; large in number",
+          "note": "This is the all-purpose spoken choice for saying that there are many of something."
+        },
+        {
+          "id": "tavwlck6",
+          "word": "abundant",
+          "meaning": "in great quantity",
+          "note": "Use this as the all-purpose spoken choice for a large quantity of things, such as abundant fruit or supplies."
+        },
+        {
+          "id": "fj2hapll",
+          "word": "immense",
+          "meaning": "very great, a lot",
+          "note": "Use this when “immense” means a large quantity or number rather than physical size."
+        }
+      ],
       "examples": [
         {
           "english": "This shop has numerous kinds of cakes.",

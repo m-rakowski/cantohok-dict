@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "function, effect",
-      "english": ["role", "purpose"],
+      "english": [
+        {
+          "id": "vc0rvys0",
+          "word": "role",
+          "meaning": "function or purpose",
+          "note": "Use this for the function, purpose, or practical effect of something."
+        },
+        {
+          "id": "fdu6bhqq",
+          "word": "purpose",
+          "meaning": "function; role",
+          "note": "Use 作用 for the function or role that something performs, rather than its intended use."
+        }
+      ],
       "examples": [
         {
           "english": "This function plays a useful role in saving electricity.",

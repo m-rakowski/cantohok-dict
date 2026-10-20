@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "washbasin, sink",
-      "english": ["sink", "basin", "washbowl"],
+      "english": [
+        {
+          "id": "n8w29m56",
+          "word": "sink",
+          "meaning": "washbasin",
+          "note": "This is the everyday all-purpose noun for a basin used to wash your hands or face."
+        },
+        {
+          "id": "z21tbme2",
+          "word": "basin",
+          "meaning": "wash basin",
+          "note": "This is the all-purpose everyday term for a wash basin or sink."
+        },
+        {
+          "id": "bvy14hcx",
+          "word": "washbowl",
+          "meaning": "bathroom sink",
+          "note": "This is the all-purpose Cantonese term for a bathroom sink or washbasin."
+        }
+      ],
       "examples": [
         {
           "english": "The sink is in the bathroom; don’t put things in it.",

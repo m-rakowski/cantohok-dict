@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "designated, specified",
-      "english": ["given", "particular"],
+      "english": [
+        {
+          "id": "q28np1mv",
+          "word": "given",
+          "meaning": "particular; specific",
+          "note": "Use this as the all-purpose choice for something particular, specified, or designated."
+        },
+        {
+          "id": "pmrjqhks",
+          "word": "particular",
+          "meaning": "specific; exact thing",
+          "note": "Use this as the all-purpose choice for one exact item that has been identified or designated."
+        }
+      ],
       "examples": [
         {
           "english": "Please fill in your name at the given spot.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "witty, humorous",
-      "english": ["witty", "humorous"],
+      "english": [
+        {
+          "id": "hz1hp7n1",
+          "word": "witty",
+          "meaning": "clever and amusing",
+          "note": "Use this when stressing a person's or remark's entertaining, witty quality rather than cheeky humor."
+        },
+        {
+          "id": "nxijlibw",
+          "word": "humorous",
+          "meaning": "witty, jocular",
+          "note": "Choose this for a person or remark that is witty, jocular, and pleasantly entertaining rather than merely laugh-out-loud funny."
+        }
+      ],
       "examples": [
         {
           "english": "The teacher is very witty and makes even the dullest topics lively.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "containing sarcasm",
-      "english": ["sarcastic"],
+      "english": [
+        {
+          "id": "0pn4z9kj",
+          "word": "sarcastic",
+          "meaning": "containing sarcasm",
+          "note": "Use this for explicitly describing a remark or expression as containing sarcasm, especially in a more explanatory style."
+        }
+      ],
       "examples": [
         {
           "english": "This remark is sarcastic; it isn’t really praising me.",

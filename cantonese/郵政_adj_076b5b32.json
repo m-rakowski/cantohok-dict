@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "mail-related",
-      "english": ["postal"],
+      "english": [
+        {
+          "id": "0l2bgd2f",
+          "word": "postal",
+          "meaning": "mail-related",
+          "note": "This is the all-purpose choice for things relating to the postal service, such as 郵政服務 or 郵政業。"
+        }
+      ],
       "examples": [
         {
           "english": "The postal service is back to normal now.",

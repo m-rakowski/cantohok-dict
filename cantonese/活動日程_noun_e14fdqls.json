@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "event calendar",
-      "english": ["calendar"],
+      "english": [
+        {
+          "id": "s25esrum",
+          "word": "calendar",
+          "meaning": "event calendar",
+          "note": "Use this for an organisation's or club's list of planned activities and events."
+        }
+      ],
       "examples": [
         {
           "english": "The student union has released next month's calendar of activities.",

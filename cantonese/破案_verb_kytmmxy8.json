@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "solve a crime",
-      "english": ["solve"],
+      "english": [
+        {
+          "id": "pn7ejofo",
+          "word": "solve",
+          "meaning": "solve a crime",
+          "note": "Use this when police or investigators discover who committed a crime and how it happened."
+        }
+      ],
       "examples": [
         {
           "english": "The police finally solve the case and find the killer.",

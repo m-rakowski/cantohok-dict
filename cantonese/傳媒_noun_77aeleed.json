@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "the media, press",
-      "english": ["media", "press"],
+      "english": [
+        {
+          "id": "bwgi98u4",
+          "word": "media",
+          "meaning": "mass media",
+          "note": "This is the all-purpose choice for mass communication channels and institutions, and can also refer generally to the media as an industry."
+        },
+        {
+          "id": "bu9dhfj1",
+          "word": "press",
+          "meaning": "the press, media",
+          "note": "Use this as the all-purpose spoken term for the media, including newspapers and media organizations."
+        }
+      ],
       "examples": [
         {
           "english": "The media report this news story all the time.",

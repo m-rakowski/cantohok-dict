@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "board a vessel",
-      "english": ["embark"],
+      "english": [
+        {
+          "id": "f14n8hut",
+          "word": "embark",
+          "meaning": "board a vessel",
+          "note": "This is the all-purpose choice when a passenger or traveller goes aboard a boat or ship."
+        }
+      ],
       "examples": [
         {
           "english": "Before we embark, remember to buy the ferry tickets at the pier.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "science of Earth",
-      "english": ["geology"],
+      "english": [
+        {
+          "id": "7pdjplz0",
+          "word": "geology",
+          "meaning": "science of Earth",
+          "note": "Use 地質學 for geology as an academic science; it is the all-purpose rendering for this sense."
+        }
+      ],
       "examples": [
         {
           "english": "I'm studying geology to understand how the Earth formed.",

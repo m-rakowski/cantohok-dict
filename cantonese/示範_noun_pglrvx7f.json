@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "demonstration",
-      "english": ["demonstration", "demo"],
+      "english": [
+        {
+          "id": "qqeklham",
+          "word": "demonstration",
+          "meaning": "showing/explanation",
+          "note": "This is the all-purpose choice for showing or explaining something and for a planned demo session."
+        },
+        {
+          "id": "u4ow41g4",
+          "word": "demo",
+          "meaning": "demonstration, visual explanation",
+          "note": "This is the all-purpose choice for a demonstration or visual explanation."
+        }
+      ],
       "examples": [
         {
           "english": "There is a demonstration tomorrow to teach everyone how to use this machine.",

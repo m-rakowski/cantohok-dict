@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "sour",
-      "english": ["sour", "acidic"],
+      "english": [
+        {
+          "id": "92e989rz",
+          "word": "sour",
+          "meaning": "acidic taste",
+          "note": "This is the all-purpose choice for an acidic taste, or for food that has spoiled and smells or tastes sour rather than strongly rancid."
+        },
+        {
+          "id": "a0vdezvo",
+          "word": "acidic",
+          "meaning": "low pH; sour/acidic",
+          "note": "This is the all-purpose choice for something that tastes sour or is generally acidic."
+        }
+      ],
       "examples": [
         {
           "english": "This lemon tea is very sour.",

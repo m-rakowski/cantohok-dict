@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "mature, fully developed",
-      "english": ["mature", "adult", "advanced", "developed"],
+      "english": [
+        {
+          "id": "qv24y06j",
+          "word": "mature",
+          "meaning": "fully grown; adult",
+          "note": "Use 成熟 as the all-purpose choice for people, fruit, ideas, and plans that have fully developed or are ready."
+        },
+        {
+          "id": "rqy6by3y",
+          "word": "adult",
+          "meaning": "fully grown",
+          "note": "This is the all-purpose choice for something that is fully grown or physically mature."
+        },
+        {
+          "id": "31v30zzq",
+          "word": "advanced",
+          "meaning": "at a later stage",
+          "note": "Use this for a prototype, product, or project that has progressed substantially and is well developed rather than merely being difficult."
+        },
+        {
+          "id": "mlttx6cx",
+          "word": "developed",
+          "meaning": "mature",
+          "note": "Use this for a person, organism, idea, or stage that is mature rather than for an economically developed place."
+        }
+      ],
       "examples": [
         {
           "english": "This plan is mature and ready to be put into action.",
@@ -32,7 +57,14 @@
     },
     {
       "meaning": "mature in outlook",
-      "english": ["grown-up"],
+      "english": [
+        {
+          "id": "l0ncbswa",
+          "word": "grown-up",
+          "meaning": "mature outlook",
+          "note": "Use this when grown-up means having a mature outlook, judgment, or way of thinking rather than simply being an adult."
+        }
+      ],
       "examples": [
         {
           "english": "They have a grown-up way of thinking and don't panic when problems arise.",
@@ -43,7 +75,14 @@
     },
     {
       "meaning": "ripe, ready (timing)",
-      "english": ["ripe"],
+      "english": [
+        {
+          "id": "mo0axzjn",
+          "word": "ripe",
+          "meaning": "ready; suitable",
+          "note": "Use 成熟 for a person or thing that is fully developed, and for a situation or timing that is ready to produce an effect."
+        }
+      ],
       "examples": [
         {
           "english": "The timing is ripe now, so we can start.",

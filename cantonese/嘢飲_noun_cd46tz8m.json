@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "a beverage",
-      "english": ["drink"],
+      "english": [
+        {
+          "id": "d864smef",
+          "word": "drink",
+          "meaning": "a beverage",
+          "note": "This is the all-purpose spoken noun for a beverage or a type of drink, without specifically meaning alcohol."
+        }
+      ],
       "examples": [
         {
           "english": "Is there a cold drink here?",

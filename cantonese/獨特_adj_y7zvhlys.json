@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "unique, distinctive",
-      "english": ["unique", "characteristic", "idiosyncratic", "singular"],
+      "english": [
+        {
+          "id": "xlooc3um",
+          "word": "unique",
+          "meaning": "only one of a kind",
+          "note": "Use this as the everyday all-purpose adjective for something distinctive or unlike anything else."
+        },
+        {
+          "id": "3sfjl8z5",
+          "word": "characteristic",
+          "meaning": "typical, distinctive",
+          "note": "Use this when the characteristic is distinctive or unusual rather than merely typical."
+        },
+        {
+          "id": "tx38q692",
+          "word": "idiosyncratic",
+          "meaning": "peculiar to a person",
+          "note": "Use this when emphasizing that the person’s qualities or style are uniquely their own rather than specifically odd."
+        },
+        {
+          "id": "qb5y431c",
+          "word": "singular",
+          "meaning": "unique, one of a kind",
+          "note": "Use 獨特 as the all-purpose choice for something distinctive or one of a kind."
+        }
+      ],
       "examples": [
         {
           "english": "The cut of this coat is really unique.",

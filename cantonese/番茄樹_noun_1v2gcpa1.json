@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "tomato plant",
-      "english": ["tomato"],
+      "english": [
+        {
+          "id": "11h995d5",
+          "word": "tomato",
+          "meaning": "tomato plant",
+          "note": "Use this when you specifically mean the tomato plant rather than its fruit."
+        }
+      ],
       "examples": [
         {
           "english": "We have a tomato plant growing on our balcony.",

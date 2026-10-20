@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "person with a gun",
-      "english": ["armed"],
+      "english": [
+        {
+          "id": "9f20gr6t",
+          "word": "armed",
+          "meaning": "person with a gun",
+          "note": "Use this when specifying that the person is carrying or equipped with a gun."
+        }
+      ],
       "examples": [
         {
           "english": "The police said the suspect was armed.",

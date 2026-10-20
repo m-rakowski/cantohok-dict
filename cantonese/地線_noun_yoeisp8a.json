@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "electrical earth",
-      "english": ["earth"],
+      "english": [
+        {
+          "id": "lbn461be",
+          "word": "earth",
+          "meaning": "electrical earth",
+          "note": "Use 地線 for the electrical earth connection or earth wire on equipment."
+        }
+      ],
       "examples": [
         {
           "english": "The earth wire on this computer has come loose.",

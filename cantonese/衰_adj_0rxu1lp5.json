@@ -6,7 +6,40 @@
   "boxes": [
     {
       "meaning": "mean, nasty, bad",
-      "english": ["unkind", "mean", "shabby", "nasty", "rotten"],
+      "english": [
+        {
+          "id": "ecqblbjt",
+          "word": "unkind",
+          "meaning": "cruel; not kind",
+          "register": "colloquial",
+          "note": "This is the everyday all-purpose choice for calling someone mean or unkind, though it can also simply mean bad."
+        },
+        {
+          "id": "s4ccyojf",
+          "word": "mean",
+          "meaning": "unkind, nasty",
+          "note": "For an unkind person or action, this is the all-purpose spoken choice; it can also describe something shabby, inferior, or malicious."
+        },
+        {
+          "id": "xb11iz74",
+          "word": "shabby",
+          "meaning": "mean or unfair",
+          "note": "Use this for a person or behaviour that is mean, nasty, or treats someone badly, rather than for physical shabbiness."
+        },
+        {
+          "id": "n9wimght",
+          "word": "nasty",
+          "meaning": "contemptible person",
+          "register": "colloquial",
+          "note": "Use this for a person or their behaviour when they are contemptible, mean, or unkind."
+        },
+        {
+          "id": "g8sc9ggn",
+          "word": "rotten",
+          "meaning": "bad person / immoral",
+          "note": "Use 衰 for a person who is mean, cruel, morally bad, or generally lousy."
+        }
+      ],
       "examples": [
         {
           "english": "The way you treated that old person was really unkind.",

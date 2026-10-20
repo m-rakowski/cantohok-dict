@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "qualified, eligible",
-      "english": ["eligible", "qualified"],
+      "english": [
+        {
+          "id": "xi6vhg1m",
+          "word": "eligible",
+          "meaning": "qualified; allowed to participate",
+          "note": "This is the all-purpose choice for being qualified or allowed to take part in something."
+        },
+        {
+          "id": "3c0l3jj2",
+          "word": "qualified",
+          "meaning": "trained / eligible for a job",
+          "note": "Use this as the all-purpose spoken choice when someone meets the standard or has enough training for a job."
+        }
+      ],
       "examples": [
         {
           "english": "You are eligible to represent the school in the competition.",

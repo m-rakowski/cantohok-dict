@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "to invade",
-      "english": ["invade"],
+      "english": [
+        {
+          "id": "txuikuhe",
+          "word": "invade",
+          "meaning": "enter by force",
+          "note": "This is the all-purpose choice for hostile entry into a country, territory, organization, or system."
+        }
+      ],
       "examples": [
         {
           "english": "The enemy army may invade our country.",
@@ -17,7 +24,20 @@
     },
     {
       "meaning": "to hack into a system",
-      "english": ["hack", "compromise"],
+      "english": [
+        {
+          "id": "ce2dt8fs",
+          "word": "hack",
+          "meaning": "hack an account",
+          "note": "This is the all-purpose choice for gaining unauthorized access to a computer system, website, network, or account."
+        },
+        {
+          "id": "7k1xfv4z",
+          "word": "compromise",
+          "meaning": "breach security",
+          "note": "Use this when someone gains unauthorized access to a computer system or network."
+        }
+      ],
       "examples": [
         {
           "english": "They used a program to hack into the company website and even changed the homepage.",

@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "accurate, exact",
-      "english": ["precise", "accurate", "exact", "sharp", "strict"],
+      "english": [
+        {
+          "id": "2clf0v0r",
+          "word": "precise",
+          "meaning": "exact; accurate",
+          "note": "This is the all-purpose choice for something exact and accurate, such as a precise definition or measurement."
+        },
+        {
+          "id": "9r0uq411",
+          "word": "accurate",
+          "meaning": "exact; correct",
+          "note": "This is the all-purpose choice for exact or correct information, results, and measurements."
+        },
+        {
+          "id": "6440lorl",
+          "word": "exact",
+          "meaning": "precisely correct",
+          "note": "This is the all-purpose choice when something agrees exactly with a fact, standard, or measurement."
+        },
+        {
+          "id": "mdxdj00q",
+          "word": "sharp",
+          "meaning": "precise, exact",
+          "note": "Use this when sharp means exact, accurate, or well-aimed."
+        },
+        {
+          "id": "2apwtd70",
+          "word": "strict",
+          "meaning": "exact, precise",
+          "note": "Use this when strict means exact or accurate wording, figures, or results."
+        }
+      ],
       "examples": [
         {
           "english": "This measurement result is very precise.",

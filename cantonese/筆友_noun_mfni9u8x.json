@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "pen pal",
-      "english": ["penfriend", "correspondent"],
+      "english": [
+        {
+          "id": "qxtwvvcm",
+          "word": "penfriend",
+          "meaning": "correspondence friend",
+          "note": "This is the all-purpose Cantonese noun for a friend you exchange letters or messages with but rarely meet."
+        },
+        {
+          "id": "2xghze41",
+          "word": "correspondent",
+          "meaning": "letter writer; correspondent",
+          "register": "colloquial",
+          "note": "Use this for a person who exchanges personal letters with you, rather than a journalist writing for a publication."
+        }
+      ],
       "examples": [
         {
           "english": "My penfriend lives in Australia; we keep in touch by email, but we have never met.",

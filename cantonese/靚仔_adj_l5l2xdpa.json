@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "handsome (for a man)",
-      "english": ["handsome", "good-looking"],
+      "english": [
+        {
+          "id": "lx59axvw",
+          "word": "handsome",
+          "meaning": "attractive man",
+          "note": "This is the all-purpose everyday choice for saying that a man or boy is handsome."
+        },
+        {
+          "id": "ihe3sfda",
+          "word": "good-looking",
+          "meaning": "physically attractive person",
+          "register": "colloquial",
+          "note": "Use this specifically when describing a good-looking male, especially in casual speech."
+        }
+      ],
       "examples": [
         {
           "english": "Your son is really handsome.",

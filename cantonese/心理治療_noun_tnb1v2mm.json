@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "psychotherapy",
-      "english": ["therapy"],
+      "english": [
+        {
+          "id": "8dt55o0u",
+          "word": "therapy",
+          "meaning": "psychotherapy",
+          "note": "Use this when you specifically mean psychotherapy rather than medical treatment in general."
+        }
+      ],
       "examples": [
         {
           "english": "I’ve been having therapy for a while, and I really feel much more relaxed.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "hollow, lacking substance",
-      "english": ["hollow", "empty"],
+      "english": [
+        {
+          "id": "qm05f27c",
+          "word": "hollow",
+          "meaning": "meaningless",
+          "note": "Use this for an echoing or substance-free quality, especially a hollow sound or a hollow achievement, rather than a literally empty interior."
+        },
+        {
+          "id": "5w4nw5nu",
+          "word": "empty",
+          "meaning": "hollow or insincere",
+          "note": "Use 空洞 instead of 空 when describing words, claims, or threats that sound hollow and lack sincerity or substance."
+        }
+      ],
       "examples": [
         {
           "english": "His voice sounded hollow and made me feel uneasy all night.",

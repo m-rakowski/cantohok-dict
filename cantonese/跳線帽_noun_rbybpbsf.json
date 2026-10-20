@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "circuit-board link pin",
-      "english": ["jumper"],
+      "english": [
+        {
+          "id": "0zkvsg2j",
+          "word": "jumper",
+          "meaning": "circuit-board link pin",
+          "note": "Use this specifically for the removable jumper cap or link fitted on a circuit board."
+        }
+      ],
       "examples": [
         {
           "english": "That jumper cap on the circuit board fell off—can you find it?",

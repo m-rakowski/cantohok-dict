@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "troublesome person",
-      "english": ["nuisance", "plague"],
+      "english": [
+        {
+          "id": "iughitu1",
+          "word": "nuisance",
+          "meaning": "annoying person or thing",
+          "register": "colloquial",
+          "note": "Use this specifically for a person who keeps causing annoyance or inconvenience."
+        },
+        {
+          "id": "r034jt1e",
+          "word": "plague",
+          "meaning": "nuisance, annoyance",
+          "register": "colloquial",
+          "note": "Use this when the nuisance is specifically a troublesome person."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

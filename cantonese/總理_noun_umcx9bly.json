@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "prime minister, head of government",
-      "english": ["chancellor", "prime minister"],
+      "english": [
+        {
+          "id": "1zgvsavk",
+          "word": "chancellor",
+          "meaning": "head of government",
+          "note": "Use this for the head of government in a German-speaking country, rather than for an ordinary government minister."
+        },
+        {
+          "id": "vyhlawpd",
+          "word": "prime minister",
+          "meaning": "head of government",
+          "note": "Use 總理 especially for the Chinese premier and for prime ministers of many republics."
+        }
+      ],
       "examples": [
         {
           "english": "The German chancellor is visiting Hong Kong today.",

@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "assistant, helper",
-      "english": ["helper", "assistant", "aid"],
+      "english": [
+        {
+          "id": "m5qfn3yd",
+          "word": "helper",
+          "meaning": "assistant; aide",
+          "note": "Use this for an aide or assistant in a defined role, especially alongside a professional or organization."
+        },
+        {
+          "id": "3j94efuk",
+          "word": "assistant",
+          "meaning": "person who helps",
+          "note": "Use this mainly for a digital assistant or a helper working alongside someone, rather than a shop employee."
+        },
+        {
+          "id": "u9p4wu83",
+          "word": "aid",
+          "meaning": "helper; assistant",
+          "note": "Use this when the helper is an assistant in an organized, professional, or official role rather than just an extra pair of hands."
+        }
+      ],
       "examples": [
         {
           "english": "The doctor's helper arranged my follow-up appointment for next week.",

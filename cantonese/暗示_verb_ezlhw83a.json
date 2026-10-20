@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "to hint, imply",
-      "english": ["imply", "allude", "connote", "suggest"],
+      "english": [
+        {
+          "id": "tjkyd5j3",
+          "word": "imply",
+          "meaning": "hint, suggest indirectly",
+          "note": "Use this as the default verb when someone hints at something without saying it directly."
+        },
+        {
+          "id": "qp7njiax",
+          "word": "allude",
+          "meaning": "refer indirectly",
+          "note": "This is the all-purpose choice for referring indirectly or hinting at something without saying it outright."
+        },
+        {
+          "id": "8rq74qf6",
+          "word": "connote",
+          "meaning": "imply or suggest",
+          "note": "Choose 暗示 when the meaning is hinted at indirectly rather than stated openly or entailed logically."
+        },
+        {
+          "id": "du9x1ev3",
+          "word": "suggest",
+          "meaning": "imply, hint",
+          "note": "Use 暗示 when implying something without stating it openly."
+        }
+      ],
       "examples": [
         {
           "english": "They never said directly that they disliked it, but their sour face all evening seemed to imply that they were unhappy with the arrangement.",

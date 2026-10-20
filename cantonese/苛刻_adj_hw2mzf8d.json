@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "harsh, overly demanding",
-      "english": ["stringent", "cruel"],
+      "english": [
+        {
+          "id": "1e2htse7",
+          "word": "stringent",
+          "meaning": "strict, severe requirements",
+          "note": "Use this when the requirements are not merely strict but seem excessively harsh or demanding."
+        },
+        {
+          "id": "9jfaisw2",
+          "word": "cruel",
+          "meaning": "harsh, severe",
+          "note": "Use this for harsh or excessively demanding treatment, rules, or conditions rather than for physical brutality."
+        }
+      ],
       "examples": [
         {
           "english": "The job's entry requirements are too stringent, so few people qualify.",

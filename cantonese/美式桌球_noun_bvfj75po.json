@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "cue sport",
-      "english": ["pool"],
+      "english": [
+        {
+          "id": "0sfpm5xb",
+          "word": "pool",
+          "meaning": "cue sport",
+          "note": "Use this specifically for the cue sport called pool, rather than for cue sports generally."
+        }
+      ],
       "examples": [
         {
           "english": "We're going to play pool tonight.",

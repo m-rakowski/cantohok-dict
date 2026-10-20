@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "informant",
-      "english": ["informant", "source", "grass"],
+      "english": [
+        {
+          "id": "hkyhpoyi",
+          "word": "informant",
+          "meaning": "police informer",
+          "note": "This is the all-purpose Cantonese word for someone who secretly gives information, especially to the police."
+        },
+        {
+          "id": "kfk15hzh",
+          "word": "source",
+          "meaning": "informant; source",
+          "register": "colloquial",
+          "note": "Use this for a reporter's informant who supplies information, often confidentially."
+        },
+        {
+          "id": "zrw7t8a0",
+          "word": "grass",
+          "meaning": "informer, snitch",
+          "note": "Use 線人 for the police or an authority's informant, rather than a general betrayer."
+        }
+      ],
       "examples": [
         {
           "english": "The police found that gang of thieves through an informant.",

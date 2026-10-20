@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "very difficult",
-      "english": ["daunting", "fiendish"],
+      "english": [
+        {
+          "id": "rcrqk8hd",
+          "word": "daunting",
+          "meaning": "difficult, challenging",
+          "note": "This is the all-purpose choice for a task or situation that looks difficult or challenging."
+        },
+        {
+          "id": "foev7mps",
+          "word": "fiendish",
+          "meaning": "very difficult",
+          "note": "Use this as the all-purpose choice when something is extremely difficult."
+        }
+      ],
       "examples": [
         {
           "english": "Getting this report in today is really daunting.",

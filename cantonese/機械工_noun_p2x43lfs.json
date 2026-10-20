@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "vehicle repairer",
-      "english": ["mechanic"],
+      "english": [
+        {
+          "id": "g9iksc2e",
+          "word": "mechanic",
+          "meaning": "vehicle repairer",
+          "note": "Use this for a worker who builds or repairs machinery, rather than specifically an ordinary car mechanic."
+        }
+      ],
       "examples": [
         {
           "english": "This crane has broken down, so we need to get a mechanic to repair it.",

@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "inside A",
-      "english": ["in", "inside", "within"],
+      "english": [
+        {
+          "id": "vmaun2pr",
+          "word": "in",
+          "meaning": "inside; contained by",
+          "note": "Use this as the all-purpose rendering for physical or abstract containment and location."
+        },
+        {
+          "id": "8apvfzow",
+          "word": "inside",
+          "meaning": "within; inside of",
+          "note": "This is the all-purpose choice for something located within a container, room, or area."
+        },
+        {
+          "id": "i6m480ow",
+          "word": "within",
+          "meaning": "inside; in the inner part",
+          "note": "For physical location, this is the all-purpose everyday way to say that something is inside A."
+        }
+      ],
       "examples": [
         {
           "english": "The book is in the bag.",
@@ -27,7 +46,14 @@
     },
     {
       "meaning": "among a group",
-      "english": ["amongst"],
+      "english": [
+        {
+          "id": "997b9fzk",
+          "word": "amongst",
+          "meaning": "among; in the midst of",
+          "note": "This is the all-purpose colloquial choice when something is located or mingles within a group or collection."
+        }
+      ],
       "examples": [
         {
           "english": "Amongst a group of colleagues, Ming jokes the most.",

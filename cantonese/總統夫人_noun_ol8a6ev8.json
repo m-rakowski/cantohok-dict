@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "president's wife",
-      "english": ["First Lady"],
+      "english": [
+        {
+          "id": "4k2f7xnz",
+          "word": "First Lady",
+          "meaning": "president's wife",
+          "note": "Use this when you specifically mean the president's wife rather than the broader public title."
+        }
+      ],
       "examples": [
         {
           "english": "The First Lady is the president's wife, not the president herself.",

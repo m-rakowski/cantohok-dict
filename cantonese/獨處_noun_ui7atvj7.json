@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "being alone, time by yourself",
-      "english": ["solitariness", "solitude", "isolation"],
+      "english": [
+        {
+          "id": "vjsa7wsg",
+          "word": "solitariness",
+          "meaning": "being alone",
+          "note": "This is the all-purpose choice for the state or quality of spending time alone, without implying sadness or loneliness."
+        },
+        {
+          "id": "hmrapp3r",
+          "word": "solitude",
+          "meaning": "being alone",
+          "note": "This is the all-purpose choice for neutral, intentional time spent alone."
+        },
+        {
+          "id": "adqi3dbe",
+          "word": "isolation",
+          "meaning": "being alone / separated",
+          "note": "This is the all-purpose choice for spending time alone or being apart from other people without stressing loneliness."
+        }
+      ],
       "examples": [
         {
           "english": "I sometimes enjoy solitariness and quietly read a book by myself.",

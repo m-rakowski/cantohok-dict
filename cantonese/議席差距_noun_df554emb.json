@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "vote or seat majority",
-      "english": ["majority"],
+      "english": [
+        {
+          "id": "8gf17s9p",
+          "word": "majority",
+          "meaning": "vote or seat majority",
+          "note": "Use this for a parliamentary majority expressed as the number of seats separating the governing and opposing sides."
+        }
+      ],
       "examples": [
         {
           "english": "The governing party's majority is only two seats, so passing bills will be difficult.",

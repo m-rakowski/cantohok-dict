@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "personal wealth",
-      "english": ["wealth", "fortune"],
+      "english": [
+        {
+          "id": "qw3qq3hk",
+          "word": "wealth",
+          "meaning": "riches, material assets",
+          "note": "Use this everyday term for a person's wealth, fortune, or net worth."
+        },
+        {
+          "id": "9pr69d6c",
+          "word": "fortune",
+          "meaning": "wealth; money",
+          "note": "Use this for a person's total wealth or net worth rather than for one isolated payment."
+        }
+      ],
       "examples": [
         {
           "english": "They built up a lot of wealth through business.",

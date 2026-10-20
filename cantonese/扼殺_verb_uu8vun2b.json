@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "stifle, suppress",
-      "english": ["stultify", "strangle"],
+      "english": [
+        {
+          "id": "uiape20h",
+          "word": "stultify",
+          "meaning": "stunt, make dull",
+          "note": "Use this when restrictive rules or routines suppress an idea, opportunity, or creativity altogether."
+        },
+        {
+          "id": "zpg62p2e",
+          "word": "strangle",
+          "meaning": "stifle or suppress",
+          "register": "formal",
+          "note": "Use this for suppressing or stifling an abstract thing such as an idea, opportunity, or movement."
+        }
+      ],
       "examples": [
         {
           "english": "These rigid rules completely stultify everyone's creativity.",

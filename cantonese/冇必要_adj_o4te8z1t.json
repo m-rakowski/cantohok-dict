@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "unnecessary",
-      "english": ["unnecessary", "needless", "superfluous"],
+      "english": [
+        {
+          "id": "27nqvs6i",
+          "word": "unnecessary",
+          "meaning": "not needed; not necessary",
+          "note": "This is the all-purpose choice for something that is not needed or necessary."
+        },
+        {
+          "id": "lqrgddkf",
+          "word": "needless",
+          "meaning": "unnecessary",
+          "note": "This is the all-purpose choice for something that is not needed."
+        },
+        {
+          "id": "pwx942ab",
+          "word": "superfluous",
+          "meaning": "more than needed",
+          "register": "colloquial",
+          "note": "Use this when stressing that an item or action is not needed rather than that it is literally extra."
+        }
+      ],
       "examples": [
         {
           "english": "It’s unnecessary to print all these documents.",

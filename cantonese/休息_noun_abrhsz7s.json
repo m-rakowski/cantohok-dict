@@ -6,7 +6,44 @@
   "boxes": [
     {
       "meaning": "rest, break",
-      "english": ["rest", "respite", "repose", "pause", "relaxation", "breath"],
+      "english": [
+        {
+          "id": "879iscid",
+          "word": "rest",
+          "meaning": "sleep, repose",
+          "note": "This is the all-purpose noun for taking a break or getting sleep."
+        },
+        {
+          "id": "6j9nuac2",
+          "word": "respite",
+          "meaning": "brief rest or relief",
+          "note": "This is the all-purpose noun for a brief period of rest or relief."
+        },
+        {
+          "id": "ecdlbou6",
+          "word": "repose",
+          "meaning": "rest; sleep",
+          "note": "This is the all-purpose choice for a break or period of rest and recovery, rather than specifically sleep."
+        },
+        {
+          "id": "pxspdou7",
+          "word": "pause",
+          "meaning": "short break",
+          "note": "Use this for a short break taken to relax or do something else rather than for an interruption itself."
+        },
+        {
+          "id": "aruzpsb0",
+          "word": "relaxation",
+          "meaning": "relaxing; rest",
+          "note": "Use this when relaxation specifically means resting or taking a break after effort, rather than recreational leisure."
+        },
+        {
+          "id": "tsimatlj",
+          "word": "breath",
+          "meaning": "brief pause",
+          "note": "Use this when breath means a short rest or pause rather than air."
+        }
+      ],
       "examples": [
         {
           "english": "I'm tired; I need to rest for a while.",

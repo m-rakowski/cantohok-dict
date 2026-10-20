@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "clue, idea of how to proceed",
-      "english": ["glimpse", "clue"],
+      "english": [
+        {
+          "id": "7dyrc94r",
+          "word": "glimpse",
+          "meaning": "faint idea",
+          "note": "Use 頭緒 when the inkling is a tentative lead or partial understanding of how something fits together."
+        },
+        {
+          "id": "k1u0kqfo",
+          "word": "clue",
+          "meaning": "have no idea",
+          "note": "Use this in expressions such as 有頭緒 or 冇頭緒 when “clue” means having or lacking an idea or lead about something."
+        }
+      ],
       "examples": [
         {
           "english": "This pile of information finally gave me a glimpse of how everything fits together.",

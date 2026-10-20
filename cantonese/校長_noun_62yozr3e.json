@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "school principal",
-      "english": ["headteacher", "principal", "headmistress"],
+      "english": [
+        {
+          "id": "c1luw85d",
+          "word": "headteacher",
+          "meaning": "school principal",
+          "note": "This is the all-purpose Cantonese noun for a school principal or headteacher."
+        },
+        {
+          "id": "3ud5xndu",
+          "word": "principal",
+          "meaning": "school principal",
+          "note": "Use this for the chief administrator of a school, rather than for financial principal."
+        },
+        {
+          "id": "q0h0trzy",
+          "word": "headmistress",
+          "meaning": "female headteacher",
+          "note": "This is the all-purpose Cantonese word for a school headteacher, including a woman."
+        }
+      ],
       "examples": [
         {
           "english": "Our headteacher is holding a meeting today.",

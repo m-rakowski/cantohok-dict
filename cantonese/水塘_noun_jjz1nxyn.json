@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "reservoir, pond",
-      "english": ["pond", "dam", "pool"],
+      "english": [
+        {
+          "id": "20l9etl9",
+          "word": "pond",
+          "meaning": "small body of standing water",
+          "note": "This is the all-purpose choice for an ordinary pond, especially a larger outdoor or reservoir-like one."
+        },
+        {
+          "id": "l996xes1",
+          "word": "dam",
+          "meaning": "reservoir behind dam",
+          "note": "Use this for the reservoir or body of stored water behind a dam, not for the barrier itself."
+        },
+        {
+          "id": "khg4lq30",
+          "word": "pool",
+          "meaning": "small body of fresh water",
+          "note": "Use this as the all-purpose term for a freshwater pool or reservoir."
+        }
+      ],
       "examples": [
         {
           "english": "This pond used to be used by villagers to irrigate the fields.",

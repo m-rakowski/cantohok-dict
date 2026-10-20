@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "freezing appliance",
-      "english": ["freezer"],
+      "english": [
+        {
+          "id": "wd3lncm0",
+          "word": "freezer",
+          "meaning": "freezing appliance",
+          "note": "This is the all-purpose term for a standalone appliance used to keep food frozen."
+        }
+      ],
       "examples": [
         {
           "english": "We bought a freezer specifically for storing frozen meat.",

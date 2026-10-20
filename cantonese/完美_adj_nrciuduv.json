@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "perfect, flawless",
-      "english": ["ideal", "perfect", "flawless", "impeccable"],
+      "english": [
+        {
+          "id": "fo1h55j9",
+          "word": "ideal",
+          "meaning": "perfect, flawless",
+          "note": "Use this when stressing that something has no flaws or defects, rather than merely being the best option."
+        },
+        {
+          "id": "xwbge2ai",
+          "word": "perfect",
+          "meaning": "flawless; ideal",
+          "note": "Use 完美 as the all-purpose adjective for something flawless, excellent, or ideal."
+        },
+        {
+          "id": "kazn7wi9",
+          "word": "flawless",
+          "meaning": "perfect; without flaws",
+          "note": "This is the all-purpose choice for something with no flaws, defects, or shortcomings."
+        },
+        {
+          "id": "em7rav3s",
+          "word": "impeccable",
+          "meaning": "flawless, perfect",
+          "note": "This is the all-purpose choice for something perfect and without faults, including a person's work or language."
+        }
+      ],
       "examples": [
         {
           "english": "This report is flawless—it’s ideal, with not a single typo.",

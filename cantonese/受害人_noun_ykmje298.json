@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "person harmed by crime or event",
-      "english": ["victim"],
+      "english": [
+        {
+          "id": "lfl9sw6x",
+          "word": "victim",
+          "meaning": "person harmed by crime or event",
+          "note": "This is the all-purpose spoken choice for a person harmed by a crime, event, or other wrongdoing."
+        }
+      ],
       "examples": [
         {
           "english": "I was a victim of this accident.",

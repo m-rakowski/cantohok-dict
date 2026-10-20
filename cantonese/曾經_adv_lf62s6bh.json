@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "once, in the past",
-      "english": ["formerly", "once"],
+      "english": [
+        {
+          "id": "xopk8np2",
+          "word": "formerly",
+          "meaning": "in the past",
+          "note": "Use this when stressing that someone or something once had a past status or experience, such as formerly being known by another name."
+        },
+        {
+          "id": "chc2szlx",
+          "word": "once",
+          "meaning": "formerly, in the past",
+          "note": "Use this when emphasizing that something was true or happened at some point in the past, rather than simply saying it was earlier."
+        }
+      ],
       "examples": [
         {
           "english": "This shop was formerly known by another name.",

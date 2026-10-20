@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "chimney",
-      "english": ["chimney", "smokestack"],
+      "english": [
+        {
+          "id": "v23uc6w5",
+          "word": "chimney",
+          "meaning": "fireplace flue",
+          "note": "This is the all-purpose word for a chimney or flue on a building, factory, or fireplace."
+        },
+        {
+          "id": "krbohszm",
+          "word": "smokestack",
+          "meaning": "chimney / exhaust stack",
+          "note": "This is the all-purpose Cantonese noun for a chimney or smokestack on a building, factory, ship, or locomotive."
+        }
+      ],
       "examples": [
         {
           "english": "The factory's chimney is always belching black smoke.",

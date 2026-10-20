@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "perform surgery",
-      "english": ["operate"],
+      "english": [
+        {
+          "id": "2nqp8w4l",
+          "word": "operate",
+          "meaning": "perform surgery",
+          "note": "Use this specifically when a doctor performs surgery on someone."
+        }
+      ],
       "examples": [
         {
           "english": "The doctor will operate on him tomorrow.",

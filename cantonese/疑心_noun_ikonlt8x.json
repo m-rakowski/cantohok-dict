@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "suspicion",
-      "english": ["suspicion", "doubt"],
+      "english": [
+        {
+          "id": "eu2b90ud",
+          "word": "suspicion",
+          "meaning": "doubt, mistrust",
+          "register": "colloquial",
+          "note": "Pick 疑心 when the doubt involves personal mistrust or a lingering suspicion."
+        },
+        {
+          "id": "6n68d0c3",
+          "word": "doubt",
+          "meaning": "uncertainty; doubts",
+          "register": "colloquial",
+          "note": "Use this when the doubt is a suspicion, especially suspicion about another person's motives or honesty."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "ethnic group, people",
-      "english": ["nationality", "nation", "people"],
+      "english": [
+        {
+          "id": "m9z82pyx",
+          "word": "nationality",
+          "meaning": "a nation or people",
+          "note": "Use this for a people defined by shared origin, culture, or language rather than legal citizenship."
+        },
+        {
+          "id": "sm8r9yvt",
+          "word": "nation",
+          "meaning": "people group",
+          "note": "Use this for a historically or culturally constituted people group, especially an ethnic nation rather than a state."
+        },
+        {
+          "id": "bkmhkq1s",
+          "word": "people",
+          "meaning": "ethnic/national group",
+          "register": "formal",
+          "note": "Use this for a people understood as an ethnic or national group."
+        }
+      ],
       "examples": [
         {
           "english": "What nationality are you?",

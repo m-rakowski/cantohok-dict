@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "public hearing",
-      "english": ["hearing"],
+      "english": [
+        {
+          "id": "sli2bmgk",
+          "word": "hearing",
+          "meaning": "public hearing",
+          "note": "Use this for a public proceeding or consultation where an issue is discussed openly."
+        }
+      ],
       "examples": [
         {
           "english": "Residents opposed this plan at the public hearing.",

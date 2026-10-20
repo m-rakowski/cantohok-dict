@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "driving distance",
-      "english": ["range"],
+      "english": [
+        {
+          "id": "0lvnd59e",
+          "word": "range",
+          "meaning": "driving distance",
+          "note": "Use this for a vehicle's travel capacity before it needs refuelling or recharging."
+        }
+      ],
       "examples": [
         {
           "english": "This electric car has a very good range.",

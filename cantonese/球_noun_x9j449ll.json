@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "ball",
-      "english": ["sphere", "ball"],
+      "english": [
+        {
+          "id": "66smsrvx",
+          "word": "sphere",
+          "meaning": "round object; ball",
+          "note": "This is the all-purpose choice for a round object or ball, rather than its surface."
+        },
+        {
+          "id": "mfw6117p",
+          "word": "ball",
+          "meaning": "sports ball",
+          "note": "球 is the all-purpose noun for a spherical object, including a sports ball when the sporting context is not being emphasized."
+        }
+      ],
       "examples": [
         {
           "english": "This ball is a solid sphere.",

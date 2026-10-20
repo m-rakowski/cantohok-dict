@@ -6,7 +6,28 @@
   "boxes": [
     {
       "meaning": "to think up, come up with",
-      "english": ["contrive", "invent", "evolve"],
+      "english": [
+        {
+          "id": "yea8k80v",
+          "word": "contrive",
+          "meaning": "devise; invent",
+          "note": "This is the all-purpose choice for inventing or devising an idea, method, or plan."
+        },
+        {
+          "id": "abn2v0wl",
+          "word": "invent",
+          "meaning": "devise; create new thing",
+          "register": "colloquial",
+          "note": "Use this when the invention is a new method, idea, or approach that someone thinks up."
+        },
+        {
+          "id": "dcjy8etw",
+          "word": "evolve",
+          "meaning": "develop, work out",
+          "register": "colloquial",
+          "note": "Use this when someone works out or comes up with a plan, idea, or solution."
+        }
+      ],
       "examples": [
         {
           "english": "I finally contrive a simple way to solve this problem.",

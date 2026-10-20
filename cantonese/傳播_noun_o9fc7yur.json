@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "spread, spreading (of news, ideas or disease)",
-      "english": ["dissemination", "transmission", "communication"],
+      "english": [
+        {
+          "id": "nrdr4zu6",
+          "word": "dissemination",
+          "meaning": "spreading ideas or information",
+          "note": "This is the all-purpose choice for the dissemination of information, ideas, or beliefs."
+        },
+        {
+          "id": "z0efxmhp",
+          "word": "transmission",
+          "meaning": "disease transmission",
+          "note": "Use this for the spread or transmission of a disease or pathogen."
+        },
+        {
+          "id": "sr3l8i3j",
+          "word": "communication",
+          "meaning": "transmission",
+          "note": "Use this for transmission or spread, especially of a disease, signal, or information through a medium."
+        }
+      ],
       "examples": [
         {
           "english": "The dissemination of health information helps everyone learn to protect themselves.",

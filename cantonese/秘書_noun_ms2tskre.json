@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "clerical assistant",
-      "english": ["secretary"],
+      "english": [
+        {
+          "id": "geprilkd",
+          "word": "secretary",
+          "meaning": "clerical assistant",
+          "note": "This is the all-purpose word for an ordinary secretary or clerical assistant."
+        }
+      ],
       "examples": [
         {
           "english": "My secretary helped me sort out some documents today.",

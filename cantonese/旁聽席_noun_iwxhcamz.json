@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "courtroom public gallery",
-      "english": ["gallery"],
+      "english": [
+        {
+          "id": "nzelzozl",
+          "word": "gallery",
+          "meaning": "courtroom public gallery",
+          "note": "Use this specifically for the public seating area in a courtroom."
+        }
+      ],
       "examples": [
         {
           "english": "The judge told the gallery to remain quiet.",

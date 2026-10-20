@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "fascinated, absorbed",
-      "english": ["fascinated", "spellbound"],
+      "english": [
+        {
+          "id": "fulwujbx",
+          "word": "fascinated",
+          "meaning": "extremely interested",
+          "note": "This is the all-purpose choice for being extremely interested or absorbed in something."
+        },
+        {
+          "id": "95itntfb",
+          "word": "spellbound",
+          "meaning": "fascinated; captivated",
+          "note": "This is the all-purpose choice for ordinary fascination or captivation."
+        }
+      ],
       "examples": [
         {
           "english": "I was fascinated by this documentary.",

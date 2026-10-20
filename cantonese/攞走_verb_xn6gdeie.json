@@ -6,7 +6,28 @@
   "boxes": [
     {
       "meaning": "take away",
-      "english": ["remove", "detract", "deprive"],
+      "english": [
+        {
+          "id": "eerb8656",
+          "word": "remove",
+          "meaning": "take away; move",
+          "note": "This is the all-purpose choice for taking a physical object away from somewhere."
+        },
+        {
+          "id": "1rlc67ju",
+          "word": "detract",
+          "meaning": "take away, diminish",
+          "register": "colloquial",
+          "note": "Use this for physically taking something away or removing it from a place."
+        },
+        {
+          "id": "112xr4qv",
+          "word": "deprive",
+          "meaning": "take away from; deny",
+          "register": "colloquial",
+          "note": "Use 攞走 when something is physically taken away from someone and kept away."
+        }
+      ],
       "examples": [
         {
           "english": "Please remove the cups from the table.",

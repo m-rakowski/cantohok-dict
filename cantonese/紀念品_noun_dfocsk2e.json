@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "souvenir, keepsake",
-      "english": ["souvenir", "remembrance"],
+      "english": [
+        {
+          "id": "jrhbuk4e",
+          "word": "souvenir",
+          "meaning": "kept memento item",
+          "note": "This is the all-purpose term for an item kept or given to remember an event or place."
+        },
+        {
+          "id": "eh6x0r4u",
+          "word": "remembrance",
+          "meaning": "thing kept in memory",
+          "note": "Choose this when the remembrance is a physical keepsake or souvenir kept to remind someone of a person or event."
+        }
+      ],
       "examples": [
         {
           "english": "This souvenir is something I received on my graduation day.",

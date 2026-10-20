@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "price paid, cost",
-      "english": ["sacrifice", "price", "cost"],
+      "english": [
+        {
+          "id": "i9cvowl0",
+          "word": "sacrifice",
+          "meaning": "give up for a better goal",
+          "note": "Use this when the sacrifice is viewed mainly as the cost paid to achieve something else."
+        },
+        {
+          "id": "l2go1thy",
+          "word": "price",
+          "meaning": "cost of an action",
+          "note": "Use this for the figurative cost or consequences someone suffers for an action."
+        },
+        {
+          "id": "ezcbn9ee",
+          "word": "cost",
+          "meaning": "negative consequence",
+          "note": "Use this for a negative consequence or loss accepted in return for something."
+        }
+      ],
       "examples": [
         {
           "english": "Winning the championship came at the price of a heavy sacrifice.",

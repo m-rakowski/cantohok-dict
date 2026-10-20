@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "machine belt",
-      "english": ["belt"],
+      "english": [
+        {
+          "id": "paigrkff",
+          "word": "belt",
+          "meaning": "machine belt",
+          "note": "Use this for the belt in a machine that transfers motion or power."
+        }
+      ],
       "examples": [
         {
           "english": "The belt in the machine broke.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "breathing",
-      "english": ["breath", "respiration"],
+      "english": [
+        {
+          "id": "p316429x",
+          "word": "breath",
+          "meaning": "breathing",
+          "note": "This is the all-purpose noun for the act or process of breathing."
+        },
+        {
+          "id": "q0gnean3",
+          "word": "respiration",
+          "meaning": "breathing",
+          "note": "This is the all-purpose noun for the process of breathing."
+        }
+      ],
       "examples": [
         {
           "english": "When exercising, pay attention to your breath.",

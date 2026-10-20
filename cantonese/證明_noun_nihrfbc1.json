@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "proof that something is true",
-      "english": ["confirmation", "demonstration", "proof"],
+      "english": [
+        {
+          "id": "axriitk6",
+          "word": "confirmation",
+          "meaning": "proof / confirmation",
+          "note": "Use this for general proof that something is true or has happened, rather than for a booking notice."
+        },
+        {
+          "id": "pmrcmb6k",
+          "word": "demonstration",
+          "meaning": "proof",
+          "note": "Use this when demonstration means a proof establishing that something is true."
+        },
+        {
+          "id": "8p7k7i17",
+          "word": "proof",
+          "meaning": "math proof",
+          "note": "Use this specifically for a formal mathematical proof or demonstration."
+        }
+      ],
       "examples": [
         {
           "english": "This photo is confirmation that they have been to Hong Kong.",

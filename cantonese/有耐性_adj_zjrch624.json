@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "able to wait calmly",
-      "english": ["patient"],
+      "english": [
+        {
+          "id": "cds29h65",
+          "word": "patient",
+          "meaning": "able to wait calmly",
+          "note": "This is the all-purpose choice for someone who can wait calmly or work steadily without becoming frustrated."
+        }
+      ],
       "examples": [
         {
           "english": "He is patient, teaching me for a whole hour without getting angry.",

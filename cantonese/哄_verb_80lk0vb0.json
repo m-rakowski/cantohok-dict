@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "coax or soothe someone, e.g. a crying child",
-      "english": ["soothe", "console"],
+      "english": [
+        {
+          "id": "lrzky5ma",
+          "word": "soothe",
+          "meaning": "calm or comfort",
+          "register": "colloquial",
+          "note": "Use this especially for soothing a crying child or getting someone to settle down, often by coaxing or entertaining them."
+        },
+        {
+          "id": "1h0ny2la",
+          "word": "console",
+          "meaning": "comfort in grief",
+          "register": "colloquial",
+          "note": "Use this when the comforting involves cheering someone up or stopping them from crying, rather than offering serious consolation."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

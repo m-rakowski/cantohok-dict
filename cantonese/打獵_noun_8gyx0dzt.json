@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "hunting",
-      "english": ["hunt", "hunting"],
+      "english": [
+        {
+          "id": "405kp1l2",
+          "word": "hunt",
+          "meaning": "the act of hunting",
+          "note": "This is the all-purpose noun for the act of hunting and, by context, a hunting outing or expedition."
+        },
+        {
+          "id": "ngpvp4mu",
+          "word": "hunting",
+          "meaning": "hunting animals",
+          "register": "colloquial",
+          "note": "This is the all-purpose Cantonese expression for the activity of hunting wild animals."
+        }
+      ],
       "examples": [
         {
           "english": "We're going on a hunt in Africa next month.",

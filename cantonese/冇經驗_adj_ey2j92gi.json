@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "inexperienced",
-      "english": ["inexperienced", "raw", "green"],
+      "english": [
+        {
+          "id": "0a2bnt1q",
+          "word": "inexperienced",
+          "meaning": "not experienced",
+          "note": "This is the all-purpose choice for someone who lacks experience or practical knowledge."
+        },
+        {
+          "id": "w8pth8hk",
+          "word": "raw",
+          "meaning": "inexperienced",
+          "note": "Use this for a person who is new to something and lacks experience."
+        },
+        {
+          "id": "n8jm2gc2",
+          "word": "green",
+          "meaning": "inexperienced",
+          "note": "Use this when green means inexperienced or lacking experience."
+        }
+      ],
       "examples": [
         {
           "english": "They are inexperienced but learn quickly.",

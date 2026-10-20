@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "room heater",
-      "english": ["heater", "stove"],
+      "english": [
+        {
+          "id": "8msge3ny",
+          "word": "heater",
+          "meaning": "room heater",
+          "note": "This is the all-purpose term for a device used to heat a room."
+        },
+        {
+          "id": "eey5ux6s",
+          "word": "stove",
+          "meaning": "room heater",
+          "note": "Use this for a heater intended to warm a room."
+        }
+      ],
       "examples": [
         {
           "english": "This heater warms the room up pretty quickly.",

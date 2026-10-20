@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "the other side or party",
-      "english": ["opponent", "opposite"],
+      "english": [
+        {
+          "id": "fh98nqzu",
+          "word": "opponent",
+          "meaning": "argument opponent",
+          "note": "Use this for the other side in a dispute, argument, or exchange of views."
+        },
+        {
+          "id": "q566nhc6",
+          "word": "opposite",
+          "meaning": "counterpart",
+          "note": "Use this for the other party or counterpart in an interaction, especially when the relationship is not necessarily hostile."
+        }
+      ],
       "examples": [
         {
           "english": "The opponent has refused to admit that they were wrong.",

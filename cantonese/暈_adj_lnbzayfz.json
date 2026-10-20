@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "dizzy",
-      "english": ["dizzy", "stunning"],
+      "english": [
+        {
+          "id": "4tt1rqkr",
+          "word": "dizzy",
+          "meaning": "feeling lightheaded",
+          "register": "colloquial",
+          "note": "Use this shorter form when the context is clear, sometimes suggesting stronger dizziness or that you may faint."
+        },
+        {
+          "id": "4cj7h9br",
+          "word": "stunning",
+          "meaning": "causing stun",
+          "note": "Use this for an effect that makes someone dizzy or stunned, rather than for something attractive or excellent."
+        }
+      ],
       "examples": [
         {
           "english": "I'm so dizzy I can hardly stand.",

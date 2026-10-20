@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "ID / proof of status",
-      "english": ["credential"],
+      "english": [
+        {
+          "id": "iguf7299",
+          "word": "credential",
+          "meaning": "ID / proof of status",
+          "note": "Use this when you want to emphasize that the credential is documentary proof, especially in an official request."
+        }
+      ],
       "examples": [
         {
           "english": "To apply for this programme, please submit the credential together with your application.",

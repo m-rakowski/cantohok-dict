@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "geographical",
-      "english": ["geographical", "geographic"],
+      "english": [
+        {
+          "id": "678lrvys",
+          "word": "geographical",
+          "meaning": "relating to geography",
+          "note": "Use this as the all-purpose adjective for things relating to geography, especially before a noun."
+        },
+        {
+          "id": "7gwechex",
+          "word": "geographic",
+          "meaning": "of geography",
+          "note": "This is the all-purpose choice for things relating to geography, such as geographic features or geographic distribution."
+        }
+      ],
       "examples": [
         {
           "english": "The geographical location affects the climate.",

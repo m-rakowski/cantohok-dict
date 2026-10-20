@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "bomb-carrying aircraft",
-      "english": ["bomber"],
+      "english": [
+        {
+          "id": "yztbraee",
+          "word": "bomber",
+          "meaning": "bomb-carrying aircraft",
+          "note": "This is the all-purpose term for a military aircraft designed to carry and drop bombs."
+        }
+      ],
       "examples": [
         {
           "english": "This bomber can drop many bombs at once.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "unplug",
-      "english": ["disconnect"],
+      "english": [
+        {
+          "id": "iqxvloko",
+          "word": "disconnect",
+          "meaning": "unplug",
+          "note": "Use this when physically unplugging an appliance from the power source rather than when a connection merely stops working."
+        }
+      ],
       "examples": [
         {
           "english": "Remember to disconnect it by unplugging it before you leave.",

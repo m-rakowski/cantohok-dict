@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "tree branch, twig",
-      "english": ["branch", "stick"],
+      "english": [
+        {
+          "id": "b4gkymhu",
+          "word": "branch",
+          "meaning": "tree branch",
+          "note": "This is the all-purpose choice for a woody branch growing from a tree trunk."
+        },
+        {
+          "id": "d221cw5t",
+          "word": "stick",
+          "meaning": "small piece of wood",
+          "note": "Use 樹枝 for a small branch or twig from a tree or bush, rather than a manufactured stick."
+        }
+      ],
       "examples": [
         {
           "english": "That branch is about to fall.",

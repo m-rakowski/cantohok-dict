@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "shell company",
-      "english": ["shell"],
+      "english": [
+        {
+          "id": "3fqew47w",
+          "word": "shell",
+          "meaning": "shell company",
+          "note": "Use this specifically for a company or legal entity with no real operations."
+        }
+      ],
       "examples": [
         {
           "english": "That place is just a shell company; nobody works there.",

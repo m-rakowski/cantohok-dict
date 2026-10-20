@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "exchange of ideas, communication",
-      "english": ["interaction", "communication"],
+      "english": [
+        {
+          "id": "ravyomgq",
+          "word": "interaction",
+          "meaning": "conversation/exchange",
+          "note": "Use this for an exchange of ideas, feelings, or conversation between people."
+        },
+        {
+          "id": "9vjjnm2l",
+          "word": "communication",
+          "meaning": "conversation, exchange",
+          "register": "formal",
+          "note": "Use this for a mutual exchange of ideas or information, especially in a discussion or discourse, rather than communication in general."
+        }
+      ],
       "examples": [
         {
           "english": "Our interaction over dinner was an exchange of travel tips.",

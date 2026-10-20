@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "pointless, not worth it",
-      "english": ["unnecessary", "dumb"],
+      "english": [
+        {
+          "id": "dx8vpfr3",
+          "word": "unnecessary",
+          "meaning": "not needed; not necessary",
+          "register": "colloquial",
+          "note": "Use 冇謂 for an unnecessary action, argument, or effort that is pointless or not worth doing."
+        },
+        {
+          "id": "by9zraj6",
+          "word": "dumb",
+          "meaning": "pointless; silly",
+          "note": "Use this for an idea, action, or situation that is pointless or not worth doing, rather than for a person who is stupid."
+        }
+      ],
       "examples": [
         {
           "english": "Arguing with them over this is really unnecessary.",

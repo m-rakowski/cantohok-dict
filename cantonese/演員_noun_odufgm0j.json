@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "actor",
-      "english": ["actor", "player"],
+      "english": [
+        {
+          "id": "416zztpb",
+          "word": "actor",
+          "meaning": "dramatic performer",
+          "note": "This is the all-purpose Cantonese word for a dramatic performer in theatre, film, or television."
+        },
+        {
+          "id": "uvpdxk0v",
+          "word": "player",
+          "meaning": "actor",
+          "note": "Use 演員 for someone performing an acting role in a play or other dramatic production."
+        }
+      ],
       "examples": [
         {
           "english": "The actor in that film did a great job.",

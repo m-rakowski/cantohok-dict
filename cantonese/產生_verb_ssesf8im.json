@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "produce, give rise to",
-      "english": ["generate", "engender", "accrue", "produce"],
+      "english": [
+        {
+          "id": "iffehm4c",
+          "word": "generate",
+          "meaning": "bring about, cause",
+          "note": "Use this for bringing something into existence, especially an abstract result or heat and energy; it is more about producing a result than causing an event."
+        },
+        {
+          "id": "311zks8y",
+          "word": "engender",
+          "meaning": "cause, bring about",
+          "note": "Use this for producing an abstract result or for something coming into existence."
+        },
+        {
+          "id": "lvik4evc",
+          "word": "accrue",
+          "meaning": "arise from growth/result",
+          "note": "Use this when something arises as a result, especially when money lent produces interest."
+        },
+        {
+          "id": "hrcs9tco",
+          "word": "produce",
+          "meaning": "make, manufacture",
+          "note": "Use this when something generates or brings about an effect, substance, or result rather than manufacturing an object."
+        }
+      ],
       "examples": [
         {
           "english": "This chemical reaction will generate heat.",

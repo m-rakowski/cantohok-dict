@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "symbol, mark",
-      "english": ["symbol", "sign", "mark"],
+      "english": [
+        {
+          "id": "f4woy8yb",
+          "word": "symbol",
+          "meaning": "character or glyph",
+          "note": "Use 符號 as the all-purpose noun for a character, glyph, or other mark representing an idea or object."
+        },
+        {
+          "id": "ljcpploo",
+          "word": "sign",
+          "meaning": "symbol; mark; sign",
+          "note": "Use 符號 for a symbol or mark representing something, such as a musical or mathematical sign."
+        },
+        {
+          "id": "mxs3xhzs",
+          "word": "mark",
+          "meaning": "written symbol",
+          "note": "Use this for a written symbol or typographical mark, including a diacritic."
+        }
+      ],
       "examples": [
         {
           "english": "In maths, the plus sign is a symbol for addition.",

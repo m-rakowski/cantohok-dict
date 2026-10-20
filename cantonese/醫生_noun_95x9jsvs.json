@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "doctor",
-      "english": ["doc", "physician"],
+      "english": [
+        {
+          "id": "cqxtf17c",
+          "word": "doc",
+          "meaning": "doctor",
+          "note": "This is the all-purpose Cantonese noun for a doctor."
+        },
+        {
+          "id": "8aokva50",
+          "word": "physician",
+          "meaning": "medical doctor",
+          "note": "This is the all-purpose everyday word for a medical doctor, without specifically contrasting internal medicine with surgery."
+        }
+      ],
       "examples": [
         {
           "english": "I need to see a doc tomorrow.",

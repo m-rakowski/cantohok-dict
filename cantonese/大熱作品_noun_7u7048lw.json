@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "hit work",
-      "english": ["blockbuster", "hit"],
+      "english": [
+        {
+          "id": "xe220a8a",
+          "word": "blockbuster",
+          "meaning": "hit film/book",
+          "note": "This is the all-purpose choice for a film, book, or other creative work that becomes exceptionally popular and sells widely."
+        },
+        {
+          "id": "j5k3cwq5",
+          "word": "hit",
+          "meaning": "successful thing",
+          "note": "Use 大熱作品 for a song, film, game, or other work that is a major popular success."
+        }
+      ],
       "examples": [
         {
           "english": "This film became a blockbuster as soon as it was released, and every screening was sold out.",

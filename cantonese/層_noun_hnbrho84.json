@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "layer",
-      "english": ["layer", "thickness", "coat"],
+      "english": [
+        {
+          "id": "28453ior",
+          "word": "layer",
+          "meaning": "material covering thickness",
+          "note": "This is the all-purpose choice for a physical layer or stratum, including layers in materials and cake."
+        },
+        {
+          "id": "8kd21sf3",
+          "word": "thickness",
+          "meaning": "layer",
+          "note": "Use this when the English sense means a separate layer of material, especially in expressions such as several layers of cloth."
+        },
+        {
+          "id": "adnexf68",
+          "word": "coat",
+          "meaning": "layer of material",
+          "note": "Use this for a physical layer of material, such as a coat of paint, rather than for clothing."
+        }
+      ],
       "examples": [
         {
           "english": "This cake has a layer of cream in the middle.",

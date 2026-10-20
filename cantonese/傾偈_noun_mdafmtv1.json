@@ -6,7 +6,40 @@
   "boxes": [
     {
       "meaning": "chat, conversation",
-      "english": ["conversation", "chat", "converse", "confabulation", "rap"],
+      "english": [
+        {
+          "id": "fz34c0zz",
+          "word": "conversation",
+          "meaning": "talking with others",
+          "register": "colloquial",
+          "note": "This is the all-purpose colloquial choice for an informal conversation or chat."
+        },
+        {
+          "id": "7jcabun5",
+          "word": "chat",
+          "meaning": "informal conversation",
+          "note": "This is the all-purpose choice for an informal conversation, including a quick chat."
+        },
+        {
+          "id": "flgr21p0",
+          "word": "converse",
+          "meaning": "conversation, chat",
+          "register": "colloquial",
+          "note": "This is the all-purpose casual choice for a chat or informal conversation."
+        },
+        {
+          "id": "r1bl2a6t",
+          "word": "confabulation",
+          "meaning": "casual conversation; chat",
+          "note": "This is the all-purpose everyday expression for a casual chat, and it can be nominalized when referring to the chat itself."
+        },
+        {
+          "id": "pcr1qiev",
+          "word": "rap",
+          "meaning": "casual talk",
+          "note": "Use this for the casual chat or conversation itself."
+        }
+      ],
       "examples": [
         {
           "english": "We had a conversation while eating.",

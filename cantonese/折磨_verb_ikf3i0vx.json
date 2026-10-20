@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "torture, make someone suffer",
-      "english": ["torture", "agonize", "torment"],
+      "english": [
+        {
+          "id": "lsp8u9f4",
+          "word": "torture",
+          "meaning": "inflict severe pain",
+          "note": "This is the all-purpose choice for intentionally causing someone severe physical or emotional suffering."
+        },
+        {
+          "id": "4owapvge",
+          "word": "agonize",
+          "meaning": "cause agony",
+          "note": "Use this everyday default when someone or something causes another person severe mental or physical suffering."
+        },
+        {
+          "id": "67f2q4an",
+          "word": "torment",
+          "meaning": "cause severe suffering",
+          "note": "This is the all-purpose verb for causing someone or an animal severe physical or emotional suffering."
+        }
+      ],
       "examples": [
         {
           "english": "Those kidnappers torture the hostage to force him to say where the ransom is hidden.",

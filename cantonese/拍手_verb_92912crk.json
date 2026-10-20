@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "clap hands",
-      "english": ["applaud", "clap"],
+      "english": [
+        {
+          "id": "kzalu2lr",
+          "word": "applaud",
+          "meaning": "clap in approval",
+          "note": "This is the all-purpose choice when expressing approval by clapping."
+        },
+        {
+          "id": "opb96uwu",
+          "word": "clap",
+          "meaning": "hands together",
+          "note": "This is the all-purpose casual choice for clapping your hands and, by extension, applauding."
+        }
+      ],
       "examples": [
         {
           "english": "Everyone began to applaud after the play.",

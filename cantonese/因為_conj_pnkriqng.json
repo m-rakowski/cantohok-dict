@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "because",
-      "english": ["for", "because", "since", "as"],
+      "english": [
+        {
+          "id": "0r5d5z6d",
+          "word": "for",
+          "meaning": "because",
+          "note": "This is the all-purpose spoken Cantonese equivalent of “because.”"
+        },
+        {
+          "id": "74kpiowa",
+          "word": "because",
+          "meaning": "cause/reason",
+          "note": "This is the all-purpose spoken choice for giving a cause or reason."
+        },
+        {
+          "id": "3up05quz",
+          "word": "since",
+          "meaning": "because",
+          "note": "Use this as the all-purpose causal equivalent of “since” meaning “because.”"
+        },
+        {
+          "id": "cv05t83p",
+          "word": "as",
+          "meaning": "because / since",
+          "note": "This is the all-purpose spoken connector for giving a reason or cause."
+        }
+      ],
       "examples": [
         {
           "english": "I didn't go out, for it was raining.",

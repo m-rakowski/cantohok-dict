@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "pill",
-      "english": ["pill", "tablet"],
+      "english": [
+        {
+          "id": "om8k1ckr",
+          "word": "pill",
+          "meaning": "medication pill",
+          "note": "This is the all-purpose spoken term for a medication pill."
+        },
+        {
+          "id": "127xse87",
+          "word": "tablet",
+          "meaning": "pill",
+          "note": "Use this when the pill is understood as a rounded medicine pill rather than a flat tablet."
+        }
+      ],
       "examples": [
         {
           "english": "Take this pill only after a meal.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "to observe",
-      "english": ["observe", "notice"],
+      "english": [
+        {
+          "id": "dfpigjvy",
+          "word": "observe",
+          "meaning": "watch carefully",
+          "note": "Use this as the all-purpose verb for deliberately watching or examining something carefully."
+        },
+        {
+          "id": "97i4rpfu",
+          "word": "notice",
+          "meaning": "notice, observe",
+          "note": "Use this for deliberately observing something, especially over a period of time."
+        }
+      ],
       "examples": [
         {
           "english": "I carefully observe the little bird.",

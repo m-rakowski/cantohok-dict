@@ -6,7 +6,15 @@
   "boxes": [
     {
       "meaning": "drug withdrawal",
-      "english": ["withdrawal"],
+      "english": [
+        {
+          "id": "amfh7r2m",
+          "word": "withdrawal",
+          "meaning": "drug withdrawal",
+          "register": "medical",
+          "note": "Use this specifically for the physical or psychological effects of stopping a drug or other substance on which someone is dependent."
+        }
+      ],
       "register": "medical",
       "examples": [
         {

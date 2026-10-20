@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "picky, fussy",
-      "english": ["particular", "picky"],
+      "english": [
+        {
+          "id": "a7grn6qy",
+          "word": "particular",
+          "meaning": "fussy; hard to please",
+          "register": "colloquial",
+          "note": "Use this when someone is fussy or hard to please, especially about food or other choices."
+        },
+        {
+          "id": "ocimyl47",
+          "word": "picky",
+          "meaning": "fussy; hard to please",
+          "note": "This is the all-purpose colloquial choice for someone who is fussy or particular."
+        }
+      ],
       "examples": [
         {
           "english": "They are very particular; when eating, they always pick the best ones.",

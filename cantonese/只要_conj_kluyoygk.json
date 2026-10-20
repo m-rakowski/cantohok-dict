@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "as long as",
-      "english": ["while"],
+      "english": [
+        {
+          "id": "mddookvv",
+          "word": "while",
+          "meaning": "as long as",
+          "note": "Pick 只要 when the meaning is a condition that is sufficient for the other clause."
+        }
+      ],
       "examples": [
         {
           "english": "While you’re willing to help, we can get everything sorted.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "firefighter",
-      "english": ["fighter", "firefighter"],
+      "english": [
+        {
+          "id": "9yjfkjf3",
+          "word": "fighter",
+          "meaning": "firefighter",
+          "note": "Use this specifically for someone whose job is fighting fires."
+        },
+        {
+          "id": "ctl81dtl",
+          "word": "firefighter",
+          "meaning": "firefighter, fireman",
+          "note": "This is the all-purpose Cantonese noun for a trained firefighter or fireman."
+        }
+      ],
       "examples": [
         {
           "english": "That fighter on the fire crew rescued the people trapped inside the blaze.",

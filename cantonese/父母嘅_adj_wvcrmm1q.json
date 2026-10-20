@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "relating to a parent",
-      "english": ["parental"],
+      "english": [
+        {
+          "id": "awmipspi",
+          "word": "parental",
+          "meaning": "relating to a parent",
+          "note": "This is the all-purpose choice for something relating to a parent or parents."
+        }
+      ],
       "examples": [
         {
           "english": "Caring for children is a parental responsibility.",

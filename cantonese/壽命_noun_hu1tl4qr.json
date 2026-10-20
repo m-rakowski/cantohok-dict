@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "lifespan",
-      "english": ["lifetime", "life"],
+      "english": [
+        {
+          "id": "mv9yzqeu",
+          "word": "lifetime",
+          "meaning": "life duration",
+          "note": "Use this as the all-purpose term for the lifespan of a person, animal, object, or project."
+        },
+        {
+          "id": "72rdtayz",
+          "word": "life",
+          "meaning": "lifespan",
+          "note": "Use this specifically for the length of time a person, organism, or operating object is expected to last."
+        }
+      ],
       "examples": [
         {
           "english": "This phone has a lifetime of about five years.",

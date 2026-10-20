@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "cooking pot",
-      "english": ["pot", "saucepan"],
+      "english": [
+        {
+          "id": "hbhjnm70",
+          "word": "pot",
+          "meaning": "cooking pot",
+          "note": "This is the all-purpose everyday word for a cooking pot."
+        },
+        {
+          "id": "vihmcfr2",
+          "word": "saucepan",
+          "meaning": "cooking pan",
+          "note": "This is the all-purpose spoken term when the exact type of cooking vessel is not important or is clear from context."
+        }
+      ],
       "examples": [
         {
           "english": "This pot is very handy for making soup.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "connect, hook up",
-      "english": ["connect", "hook"],
+      "english": [
+        {
+          "id": "klejnaln",
+          "word": "connect",
+          "meaning": "join two things",
+          "note": "This is the all-purpose choice for physically joining objects, devices, or routes."
+        },
+        {
+          "id": "wt8jfyko",
+          "word": "hook",
+          "meaning": "connect together",
+          "note": "This is the all-purpose choice for connecting cables, devices, or things together."
+        }
+      ],
       "examples": [
         {
           "english": "We use a hose to connect the two water tanks.",

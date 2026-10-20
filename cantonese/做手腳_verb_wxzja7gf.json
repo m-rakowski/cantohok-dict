@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "to tamper with, rig",
-      "english": ["load", "fix"],
+      "english": [
+        {
+          "id": "dzn8chrc",
+          "word": "load",
+          "meaning": "rig; tamper with",
+          "note": "Use this when someone tampers with something to rig the result in their favour."
+        },
+        {
+          "id": "a5tr6hdp",
+          "word": "fix",
+          "meaning": "rig; make unfair",
+          "note": "Use this when someone has tampered with a contest, vote, or process to unfairly favor someone."
+        }
+      ],
       "examples": [
         {
           "english": "They tampered with the figures to load the dice in their favour.",

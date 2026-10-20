@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "tactfully, indirectly",
-      "english": ["tactfully", "subtly"],
+      "english": [
+        {
+          "id": "brtqpdzr",
+          "word": "tactfully",
+          "meaning": "in a tactful manner",
+          "note": "This is the all-purpose choice when saying or doing something tactfully without being too direct."
+        },
+        {
+          "id": "93guy063",
+          "word": "subtly",
+          "meaning": "in a subtle way",
+          "note": "Use this mainly when someone conveys a message, refusal, or criticism subtly and tactfully."
+        }
+      ],
       "examples": [
         {
           "english": "I tactfully told them that the plan had to be changed.",

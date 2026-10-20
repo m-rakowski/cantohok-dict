@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "author of a work",
-      "english": ["author", "writer"],
+      "english": [
+        {
+          "id": "c5i8k1r5",
+          "word": "author",
+          "meaning": "writer; creator of a work",
+          "note": "This is the all-purpose choice for the creator of a book or other work."
+        },
+        {
+          "id": "zdyphpg0",
+          "word": "writer",
+          "meaning": "author; person who writes",
+          "register": "formal",
+          "note": "Use 作者 when identifying the author or creator of a particular book, article, song, or other work."
+        }
+      ],
       "examples": [
         {
           "english": "Who is the author of this book?",

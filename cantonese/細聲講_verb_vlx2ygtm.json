@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "speak quietly",
-      "english": ["whisper", "mumble"],
+      "english": [
+        {
+          "id": "6xyf7pqf",
+          "word": "whisper",
+          "meaning": "speak softly",
+          "note": "This is the all-purpose choice for speaking softly so nearby people can barely hear."
+        },
+        {
+          "id": "iqwxptoq",
+          "word": "mumble",
+          "meaning": "speak indistinctly",
+          "note": "Use this when the mumbling is mainly too quiet to hear, rather than poorly articulated."
+        }
+      ],
       "examples": [
         {
           "english": "I whisper in the library because I don't want to disturb anyone.",

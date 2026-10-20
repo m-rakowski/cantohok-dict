@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "city/town, not rural",
-      "english": ["urban"],
+      "english": [
+        {
+          "id": "7tup076r",
+          "word": "urban",
+          "meaning": "city/town, not rural",
+          "note": "This is the all-purpose spoken modifier for things relating to city or town life rather than the countryside."
+        }
+      ],
       "examples": [
         {
           "english": "The urban lifestyle is really fast-paced.",

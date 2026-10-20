@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "devout, religious",
-      "english": ["godly", "religious"],
+      "english": [
+        {
+          "id": "ofg20r5x",
+          "word": "godly",
+          "meaning": "devout; pious",
+          "note": "This is the all-purpose choice for a person who is devout or deeply religious."
+        },
+        {
+          "id": "8dqsexlp",
+          "word": "religious",
+          "meaning": "devout; practicing religion",
+          "note": "Choose this for someone who sincerely practices or follows a religion, rather than merely discussing religion."
+        }
+      ],
       "examples": [
         {
           "english": "They have been godly since childhood and go to church every Sunday.",

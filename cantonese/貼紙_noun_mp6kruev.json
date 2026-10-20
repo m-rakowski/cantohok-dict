@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "sticker",
-      "english": ["sticker", "stamp"],
+      "english": [
+        {
+          "id": "4c88ka35",
+          "word": "sticker",
+          "meaning": "adhesive label",
+          "note": "This is the all-purpose Cantonese noun for an adhesive label or decal."
+        },
+        {
+          "id": "k6yptw6f",
+          "word": "stamp",
+          "meaning": "decorative sticker stamp",
+          "note": "Use this when the English item is a decorative adhesive sticker rather than an inking stamp."
+        }
+      ],
       "examples": [
         {
           "english": "I put a sticker on my water bottle.",

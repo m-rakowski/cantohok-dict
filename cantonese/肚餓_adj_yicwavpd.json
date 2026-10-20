@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "affected by hunger",
-      "english": ["hungry"],
+      "english": [
+        {
+          "id": "oaalkh97",
+          "word": "hungry",
+          "meaning": "affected by hunger",
+          "note": "Use this when you want to state the physical feeling of hunger explicitly."
+        }
+      ],
       "examples": [
         {
           "english": "I'm really hungry right now and want a bowl of noodles.",

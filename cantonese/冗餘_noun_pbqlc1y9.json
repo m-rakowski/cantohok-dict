@@ -6,7 +6,15 @@
   "boxes": [
     {
       "meaning": "backup duplication in a system",
-      "english": ["redundancy"],
+      "english": [
+        {
+          "id": "ckvhiyfv",
+          "word": "redundancy",
+          "meaning": "system backup duplication",
+          "register": "formal",
+          "note": "Use this technical term for deliberate duplication in systems or messages to improve reliability or error checking."
+        }
+      ],
       "register": "formal",
       "examples": [
         {
@@ -18,7 +26,15 @@
     },
     {
       "meaning": "wasteful excess",
-      "english": ["fat"],
+      "english": [
+        {
+          "id": "avfebmsq",
+          "word": "fat",
+          "meaning": "waste; excess",
+          "register": "written",
+          "note": "Use this for excess or wasteful elements in an organization, especially in formal descriptions."
+        }
+      ],
       "register": "written",
       "examples": [
         {

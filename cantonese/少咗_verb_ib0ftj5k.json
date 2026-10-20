@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "has become less",
-      "english": ["decrease", "lessen"],
+      "english": [
+        {
+          "id": "cefnyd69",
+          "word": "decrease",
+          "meaning": "become smaller",
+          "register": "colloquial",
+          "note": "This is the everyday choice when a quantity has become less; it is the all-purpose colloquial equivalent when decrease means become smaller."
+        },
+        {
+          "id": "pes27iez",
+          "word": "lessen",
+          "meaning": "become less",
+          "register": "colloquial",
+          "note": "Use this casual expression when something has itself become less, rather than when someone actively reduces it."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

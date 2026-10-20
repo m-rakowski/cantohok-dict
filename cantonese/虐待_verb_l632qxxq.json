@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "mistreat, abuse",
-      "english": ["mistreat", "punish"],
+      "english": [
+        {
+          "id": "gugjn4wo",
+          "word": "mistreat",
+          "meaning": "treat badly",
+          "note": "Use this for serious or prolonged mistreatment, especially of people or animals."
+        },
+        {
+          "id": "94evtm8y",
+          "word": "punish",
+          "meaning": "treat harshly",
+          "note": "Use this when someone or an animal is treated cruelly or harshly rather than given a formal penalty."
+        }
+      ],
       "examples": [
         {
           "english": "People mistreat that dog, leaving it afraid of people.",

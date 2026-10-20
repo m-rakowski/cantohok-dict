@@ -6,7 +6,28 @@
   "boxes": [
     {
       "meaning": "answer, reply",
-      "english": ["reply", "answer", "response"],
+      "english": [
+        {
+          "id": "m0yywkju",
+          "word": "reply",
+          "meaning": "response; answer",
+          "note": "Use this as the all-purpose noun for an answer or spoken reply, especially to a question."
+        },
+        {
+          "id": "gumx2xc4",
+          "word": "answer",
+          "meaning": "reply; response",
+          "register": "formal",
+          "note": "Use this for a person's reply or response, especially when describing what someone said in response."
+        },
+        {
+          "id": "lgbse4m0",
+          "word": "response",
+          "meaning": "answer or reply",
+          "register": "written",
+          "note": "Use this formal noun for an explicit answer or reply, especially in careful or written language."
+        }
+      ],
       "examples": [
         {
           "english": "The reply to this question is very simple.",

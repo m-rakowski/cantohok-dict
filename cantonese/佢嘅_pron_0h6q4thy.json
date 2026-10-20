@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "his, hers, its (belongs to him/her/it)",
-      "english": ["his", "its", "hers"],
+      "english": [
+        {
+          "id": "ul4z5exn",
+          "word": "his",
+          "meaning": "possessive pronoun",
+          "note": "This is the all-purpose possessive form for saying something belongs to him without a following noun."
+        },
+        {
+          "id": "l3mkg44f",
+          "word": "its",
+          "meaning": "possessive pronoun",
+          "note": "This is the all-purpose standalone possessive for something belonging to it, as in 「呢個係佢嘅」."
+        },
+        {
+          "id": "z94v2y5t",
+          "word": "hers",
+          "meaning": "possessive pronoun",
+          "note": "This is the all-purpose choice for something belonging to her when the owned noun is omitted."
+        }
+      ],
       "examples": [
         {
           "english": "This book is his.",

@@ -6,7 +6,33 @@
   "boxes": [
     {
       "meaning": "partner, work or activity buddy",
-      "english": ["partner", "ally", "collaborator", "mate"],
+      "english": [
+        {
+          "id": "b2z6q64g",
+          "word": "partner",
+          "meaning": "associate; collaborator",
+          "note": "This is the all-purpose colloquial choice for someone you work or do an activity with, including a business partner."
+        },
+        {
+          "id": "3uf00ku0",
+          "word": "ally",
+          "meaning": "helper, friend",
+          "note": "Use 拍檔 as the all-purpose choice for a cooperative associate or friend."
+        },
+        {
+          "id": "czejyikm",
+          "word": "collaborator",
+          "meaning": "person who works with others",
+          "note": "This is the all-purpose casual choice for someone working with you toward a shared goal."
+        },
+        {
+          "id": "tjbc9ljq",
+          "word": "mate",
+          "meaning": "fellow / colleague",
+          "register": "colloquial",
+          "note": "Use this for a colleague, teammate, or partner in a shared activity rather than for a friend in general."
+        }
+      ],
       "examples": [
         {
           "english": "They are my partner for playing football.",

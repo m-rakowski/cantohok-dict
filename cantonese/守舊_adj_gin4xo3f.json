@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "old-fashioned, resistant to change",
-      "english": ["old-fashioned", "antediluvian"],
+      "english": [
+        {
+          "id": "esdz7zjc",
+          "word": "old-fashioned",
+          "meaning": "traditional; conservative in habits",
+          "note": "Choose this for a person or their habits when they cling to traditional customs rather than simply looking unfashionable."
+        },
+        {
+          "id": "yg8x14q9",
+          "word": "antediluvian",
+          "meaning": "old-fashioned, antiquated",
+          "note": "Use this for people or attitudes that cling to traditional ways and resist change."
+        }
+      ],
       "examples": [
         {
           "english": "My grandma is still very old-fashioned, insisting that the whole family eat reunion dinner together at New Year.",

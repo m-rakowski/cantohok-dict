@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "pastime, hobby",
-      "english": ["diversion", "amusement", "enjoyment"],
+      "english": [
+        {
+          "id": "pjyjdfhb",
+          "word": "diversion",
+          "meaning": "hobby; pastime",
+          "note": "This is the all-purpose noun for a pastime or activity used to occupy the mind."
+        },
+        {
+          "id": "b1b2qasg",
+          "word": "amusement",
+          "meaning": "entertaining activity",
+          "note": "Use this for a pastime or activity chosen to pass the time pleasantly, rather than entertainment in general."
+        },
+        {
+          "id": "db8l7lvk",
+          "word": "enjoyment",
+          "meaning": "enjoyable activity",
+          "note": "Use this for an enjoyable pastime or activity used to occupy oneself."
+        }
+      ],
       "examples": [
         {
           "english": "I like reading as a diversion in my daily life.",

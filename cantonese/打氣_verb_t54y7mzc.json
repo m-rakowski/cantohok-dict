@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "cheer on, encourage",
-      "english": ["cheer", "encourage"],
+      "english": [
+        {
+          "id": "tnd4516x",
+          "word": "cheer",
+          "meaning": "applaud, shout support",
+          "note": "This is the all-purpose spoken choice for encouraging someone or cheering a team on; use 安慰 for plain consolation and 氹 for cheering someone up."
+        },
+        {
+          "id": "9qg2x3wj",
+          "word": "encourage",
+          "meaning": "support, give courage",
+          "register": "colloquial",
+          "note": "Use this colloquial choice when cheering someone on or giving them emotional support."
+        }
+      ],
       "examples": [
         {
           "english": "We cheer for our teammates together.",
@@ -22,7 +36,14 @@
     },
     {
       "meaning": "pump up with air",
-      "english": ["inflate"],
+      "english": [
+        {
+          "id": "fc0vw707",
+          "word": "inflate",
+          "meaning": "fill with air",
+          "note": "This is the all-purpose choice when putting air into a balloon, tyre, or other object."
+        }
+      ],
       "examples": [
         {
           "english": "The balloon is leaking air, so I need to inflate it again before my daughter can play with it.",

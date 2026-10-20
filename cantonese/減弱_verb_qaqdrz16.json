@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "weaken, fade",
-      "english": ["weaken", "ebb", "deaden", "descend"],
+      "english": [
+        {
+          "id": "gnfr6w0s",
+          "word": "weaken",
+          "meaning": "make weaker",
+          "note": "Use this as the all-purpose verb for making something weaker or becoming less strong."
+        },
+        {
+          "id": "ijrn6uyi",
+          "word": "ebb",
+          "meaning": "decline, fade away",
+          "note": "This is the all-purpose choice when strength or intensity gradually becomes less."
+        },
+        {
+          "id": "ub1d2py4",
+          "word": "deaden",
+          "meaning": "muffle, dull, numb",
+          "note": "Use this when a sound, sensation, force, or liveliness becomes or is made less strong, including when it diminishes by itself."
+        },
+        {
+          "id": "kn3m72j4",
+          "word": "descend",
+          "meaning": "decrease in intensity",
+          "note": "Use this when intensity, strength, or a quality becomes less pronounced."
+        }
+      ],
       "examples": [
         {
           "english": "The medicine helped to weaken the pain a lot.",

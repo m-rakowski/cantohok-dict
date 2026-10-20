@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "every person",
-      "english": ["everyone"],
+      "english": [
+        {
+          "id": "og1ohpa3",
+          "word": "everyone",
+          "meaning": "every person",
+          "note": "Use this when explicitly referring to each individual person rather than addressing a group as a whole."
+        }
+      ],
       "examples": [
         {
           "english": "Everyone has to take their own document.",

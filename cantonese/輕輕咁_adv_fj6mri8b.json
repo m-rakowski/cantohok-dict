@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "gently, lightly",
-      "english": ["tenderly", "weakly"],
+      "english": [
+        {
+          "id": "x0gpjgwc",
+          "word": "tenderly",
+          "meaning": "gently; softly",
+          "note": "This is the all-purpose choice for doing something gently or softly, especially with a light touch."
+        },
+        {
+          "id": "06wjtytw",
+          "word": "weakly",
+          "meaning": "with little force",
+          "note": "Use this when the action is deliberately gentle or light rather than forceful."
+        }
+      ],
       "examples": [
         {
           "english": "I held the kitten tenderly so I wouldn't hurt it.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "psychology expert",
-      "english": ["psychologist"],
+      "english": [
+        {
+          "id": "dtelwku3",
+          "word": "psychologist",
+          "meaning": "psychology expert",
+          "note": "This is the all-purpose term for an expert in psychology, including an academic or practicing psychologist."
+        }
+      ],
       "examples": [
         {
           "english": "That psychologist specializes in studying children's psychology.",

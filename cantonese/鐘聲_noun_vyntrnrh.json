@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "sound of a bell",
-      "english": ["ring", "bell"],
+      "english": [
+        {
+          "id": "xt29aemh",
+          "word": "ring",
+          "meaning": "bell sound",
+          "note": "Use this for the sound made by a bell or church bell."
+        },
+        {
+          "id": "vs4nns5h",
+          "word": "bell",
+          "meaning": "school bell",
+          "note": "Use this for the sound of a bell as a signal, including a school's start-or-end-of-class bell."
+        }
+      ],
       "examples": [
         {
           "english": "The church bell's ring has sounded.",

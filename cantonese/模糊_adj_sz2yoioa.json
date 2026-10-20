@@ -6,7 +6,50 @@
   "boxes": [
     {
       "meaning": "blurry, vague, unclear",
-      "english": ["vague", "shadowy", "muddy", "dim", "amorphous", "misty", "unclear"],
+      "english": [
+        {
+          "id": "sabf0asz",
+          "word": "vague",
+          "meaning": "unclear or indistinct",
+          "note": "This is the all-purpose choice for something unclear, indistinct, or lacking a sharp outline."
+        },
+        {
+          "id": "287vl07x",
+          "word": "shadowy",
+          "meaning": "vague; unclear",
+          "note": "Use this when an idea, memory, image, or impression is vague or unclear rather than physically dark."
+        },
+        {
+          "id": "205qr9zf",
+          "word": "muddy",
+          "meaning": "not clear",
+          "note": "Use this when something is hard to make out, or when speech, writing, or thinking is vague or poorly expressed."
+        },
+        {
+          "id": "2588jt7h",
+          "word": "dim",
+          "meaning": "unclear, faint",
+          "note": "Use this when dim means visually indistinct, hazy, or unclear."
+        },
+        {
+          "id": "1cru3x7k",
+          "word": "amorphous",
+          "meaning": "vague, undefined character",
+          "note": "Use this when a person's, thing's, or idea's character is vague or undefined rather than physically shapeless."
+        },
+        {
+          "id": "dhxszyaa",
+          "word": "misty",
+          "meaning": "vague; obscure",
+          "note": "Use this for a memory, image, or idea that is vague rather than for atmospheric mist."
+        },
+        {
+          "id": "wxxoahom",
+          "word": "unclear",
+          "meaning": "hard to read",
+          "note": "Use this for writing, images, or other visual details that are blurry or difficult to make out."
+        }
+      ],
       "examples": [
         {
           "english": "This photo is too vague for me to make out clearly.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "underpants",
-      "english": ["underpants", "pants"],
+      "english": [
+        {
+          "id": "8vjtkl2h",
+          "word": "underpants",
+          "meaning": "type of underwear",
+          "note": "This is the all-purpose everyday Cantonese word for underpants."
+        },
+        {
+          "id": "f21qngb8",
+          "word": "pants",
+          "meaning": "underpants",
+          "note": "Use this specifically for underpants rather than ordinary outer trousers."
+        }
+      ],
       "examples": [
         {
           "english": "Your underpants are torn, so change them quickly.",

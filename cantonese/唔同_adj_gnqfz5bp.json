@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "different, not the same",
-      "english": ["different", "unlike", "divergent"],
+      "english": [
+        {
+          "id": "9rej5d2q",
+          "word": "different",
+          "meaning": "not the same",
+          "note": "This is the all-purpose choice for things that are not the same, distinct from one another, or noticeably unlike the usual."
+        },
+        {
+          "id": "pwlpt232",
+          "word": "unlike",
+          "meaning": "dissimilar to",
+          "note": "Use 唔同 as the all-purpose way to say that two things or amounts are different."
+        },
+        {
+          "id": "j40edl7u",
+          "word": "divergent",
+          "meaning": "differing, not matching",
+          "note": "This is the all-purpose choice when things differ from a statement, result, view, or each other."
+        }
+      ],
       "examples": [
         {
           "english": "These two coffees taste different.",
@@ -27,7 +46,15 @@
     },
     {
       "meaning": "various, different kinds of",
-      "english": ["various"],
+      "english": [
+        {
+          "id": "osqkze2l",
+          "word": "various",
+          "meaning": "many different; of several kinds",
+          "register": "colloquial",
+          "note": "Use this in everyday speech when “various” means simply different, especially before 嘅 + noun."
+        }
+      ],
       "register": "colloquial",
       "note": "Used before 嘅 + noun.",
       "examples": [

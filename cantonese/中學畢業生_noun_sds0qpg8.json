@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "high school graduate",
-      "english": ["graduate"],
+      "english": [
+        {
+          "id": "xx3rkrpu",
+          "word": "graduate",
+          "meaning": "high school graduate",
+          "note": "Use this when you specifically mean a high school or secondary-school graduate."
+        }
+      ],
       "examples": [
         {
           "english": "A high-school graduate can apply for this course.",

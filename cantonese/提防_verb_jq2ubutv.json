@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "be on guard against, watch out for",
-      "english": ["guard", "watch"],
+      "english": [
+        {
+          "id": "292646e8",
+          "word": "guard",
+          "meaning": "guard against",
+          "note": "Use this when being wary of a danger, person, or possible mistake rather than physically defending something."
+        },
+        {
+          "id": "pepf5m9z",
+          "word": "watch",
+          "meaning": "be careful of",
+          "note": "Use 提防 when warning someone to be wary of a person or thing that may cause trouble."
+        }
+      ],
       "examples": [
         {
           "english": "You should guard against strangers when walking at night.",

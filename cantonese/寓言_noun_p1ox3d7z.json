@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "fable, allegorical story",
-      "english": ["parable", "allegory"],
+      "english": [
+        {
+          "id": "ift1yxil",
+          "word": "parable",
+          "meaning": "moral or religious story",
+          "note": "Choose 寓言 for a fable-like moral story presented through an allegory, rather than specifically a biblical teaching."
+        },
+        {
+          "id": "ca7bo4wy",
+          "word": "allegory",
+          "meaning": "allegorical story",
+          "note": "Use 寓言 when the allegory is a story, picture, or narrative whose characters and events carry a hidden message."
+        }
+      ],
       "examples": [
         {
           "english": "This parable shows how a fox learned not to be greedy.",

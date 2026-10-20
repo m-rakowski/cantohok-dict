@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "pipe organ",
-      "english": ["organ"],
+      "english": [
+        {
+          "id": "5u0hbv3a",
+          "word": "organ",
+          "meaning": "pipe organ",
+          "note": "Use this for the musical instrument sense when the context makes clear that an organ is meant."
+        }
+      ],
       "examples": [
         {
           "english": "The organ in the church sounds very powerful.",

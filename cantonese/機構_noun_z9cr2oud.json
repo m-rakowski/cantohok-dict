@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "organization, institution",
-      "english": ["agency", "establishment", "institution", "institute", "body"],
+      "english": [
+        {
+          "id": "rf0ih2ju",
+          "word": "agency",
+          "meaning": "government agency",
+          "note": "Use this as the all-purpose choice for a government agency or administrative organization."
+        },
+        {
+          "id": "l5wzqt03",
+          "word": "establishment",
+          "meaning": "business or place",
+          "note": "Use 機構 as the all-purpose choice for an established organization or institution, rather than a physical shop."
+        },
+        {
+          "id": "igq403aq",
+          "word": "institution",
+          "meaning": "organization",
+          "note": "For an established organization, especially an educational, public-service, or charitable one, this is the all-purpose choice."
+        },
+        {
+          "id": "e5bc7ppd",
+          "word": "institute",
+          "meaning": "organization / research institute",
+          "note": "Use 機構 as the all-purpose term for an organization founded to promote a cause."
+        },
+        {
+          "id": "5sdlq092",
+          "word": "body",
+          "meaning": "official body",
+          "note": "Use this for an official, institutional, or organizational body rather than a loose group of people."
+        }
+      ],
       "examples": [
         {
           "english": "The government agency has approved this project.",
@@ -37,7 +68,15 @@
     },
     {
       "meaning": "mechanism of parts in a machine",
-      "english": ["mechanism"],
+      "english": [
+        {
+          "id": "9j8iyc08",
+          "word": "mechanism",
+          "meaning": "machine or device",
+          "register": "written",
+          "note": "Use this for the internal mechanical arrangement of parts, especially in technical descriptions of transmission or control."
+        }
+      ],
       "register": "written",
       "examples": [
         {

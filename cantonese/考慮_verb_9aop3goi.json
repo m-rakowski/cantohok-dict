@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "think over, consider",
-      "english": ["deliberate", "consider", "mull over", "reflect", "entertain"],
+      "english": [
+        {
+          "id": "6myz5qow",
+          "word": "deliberate",
+          "meaning": "deliberate over, discuss carefully",
+          "note": "This is the all-purpose choice for carefully considering something or weighing the reasons for and against it."
+        },
+        {
+          "id": "nlf3rr4v",
+          "word": "consider",
+          "meaning": "think seriously about",
+          "note": "Choose this when the thinking involves deliberate weighing of an issue or possible action."
+        },
+        {
+          "id": "7ray7rfy",
+          "word": "mull over",
+          "meaning": "think deeply about",
+          "note": "Use this especially when weighing a decision, option, or course of action."
+        },
+        {
+          "id": "tmegpr97",
+          "word": "reflect",
+          "meaning": "think seriously",
+          "note": "Use this when someone deliberately thinks about an issue, choice, or consequence."
+        },
+        {
+          "id": "vzi6bpnr",
+          "word": "entertain",
+          "meaning": "consider an idea",
+          "note": "Use 考慮 for entertaining an idea or proposal, rather than entertaining a person."
+        }
+      ],
       "examples": [
         {
           "english": "I’ll deliberate over the pros and cons before deciding.",

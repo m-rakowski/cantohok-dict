@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "farming, agriculture",
-      "english": ["agriculture", "farming"],
+      "english": [
+        {
+          "id": "pm3rtwrd",
+          "word": "agriculture",
+          "meaning": "farming",
+          "note": "This is the all-purpose noun for agriculture, including crop growing and livestock farming."
+        },
+        {
+          "id": "uyl9iyw6",
+          "word": "farming",
+          "meaning": "agriculture",
+          "note": "This is the all-purpose noun for the business or sector of cultivating land and raising livestock."
+        }
+      ],
       "examples": [
         {
           "english": "This village mainly relies on agriculture for its livelihood.",

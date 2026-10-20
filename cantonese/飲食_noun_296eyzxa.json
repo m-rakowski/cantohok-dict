@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "food and drink, diet",
-      "english": ["diet", "consumption", "fare"],
+      "english": [
+        {
+          "id": "qxxkh9p0",
+          "word": "diet",
+          "meaning": "food and drink eaten",
+          "note": "This is the all-purpose noun for a person's or animal's food and drink as a dietary pattern."
+        },
+        {
+          "id": "vhnq0f7r",
+          "word": "consumption",
+          "meaning": "eating / using up",
+          "note": "Use this only when consumption means eating and drinking, including dietary habits."
+        },
+        {
+          "id": "1lyy90gi",
+          "word": "fare",
+          "meaning": "food and drink",
+          "note": "Use this for food and drink considered together, especially as what is provided at a place or event."
+        }
+      ],
       "examples": [
         {
           "english": "My diet is quite healthy.",

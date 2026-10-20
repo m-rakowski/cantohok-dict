@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "disease worsens again",
-      "english": ["relapse"],
+      "english": [
+        {
+          "id": "xqexu02j",
+          "word": "relapse",
+          "meaning": "disease worsens again",
+          "note": "Use this for a disease or medical condition that becomes active or worse again after improving."
+        }
+      ],
       "examples": [
         {
           "english": "The illness had just improved, but it began to relapse.",

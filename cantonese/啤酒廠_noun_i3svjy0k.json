@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "beer-production building",
-      "english": ["brewery"],
+      "english": [
+        {
+          "id": "4uztjcg1",
+          "word": "brewery",
+          "meaning": "beer-production building",
+          "note": "This is the all-purpose choice for a building where beer is made and, by extension, the brewery business itself."
+        }
+      ],
       "examples": [
         {
           "english": "This brewery produces a lot of beer every day.",

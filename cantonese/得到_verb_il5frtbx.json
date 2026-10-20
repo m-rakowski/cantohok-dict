@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "get, obtain",
-      "english": ["obtain", "acquire"],
+      "english": [
+        {
+          "id": "d1eq9rt9",
+          "word": "obtain",
+          "meaning": "get; acquire",
+          "note": "Use this especially for gaining an abstract thing such as support, permission, or an opportunity."
+        },
+        {
+          "id": "0eseq8fw",
+          "word": "acquire",
+          "meaning": "get; obtain",
+          "note": "Use this as the all-purpose equivalent for obtaining something or gaining a result, benefit, or possession."
+        }
+      ],
       "examples": [
         {
           "english": "I finally obtain my boss's support.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "quarrel noisily",
-      "english": ["wrangle", "quarrel"],
+      "english": [
+        {
+          "id": "7ttclvji",
+          "word": "wrangle",
+          "meaning": "quarrel angrily",
+          "note": "Use this when the quarrelling is noisy, heated, or openly hostile rather than a calm disagreement."
+        },
+        {
+          "id": "lo92zpwj",
+          "word": "quarrel",
+          "meaning": "argue, fall out",
+          "note": "Use this when the quarrel is notably noisy or involves loud bickering."
+        }
+      ],
       "examples": [
         {
           "english": "They wrangle noisily in the street, and the whole street can hear them.",

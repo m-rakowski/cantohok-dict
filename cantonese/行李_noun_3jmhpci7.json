@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "luggage",
-      "english": ["baggage", "luggage"],
+      "english": [
+        {
+          "id": "fxjfxp8y",
+          "word": "baggage",
+          "meaning": "travel luggage",
+          "note": "This is the all-purpose rendering for cases, bags, and personal belongings carried while travelling."
+        },
+        {
+          "id": "hrh1vq33",
+          "word": "luggage",
+          "meaning": "traveller's bags",
+          "note": "This is the all-purpose Cantonese noun for a traveller's bags and belongings."
+        }
+      ],
       "examples": [
         {
           "english": "I'll pack my baggage before heading out.",

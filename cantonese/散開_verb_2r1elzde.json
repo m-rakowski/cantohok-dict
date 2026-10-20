@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "scatter, spread out",
-      "english": ["scatter", "disperse"],
+      "english": [
+        {
+          "id": "agi8wi56",
+          "word": "scatter",
+          "meaning": "disperse, spread out",
+          "note": "This is the all-purpose choice when people or things separate and go in different directions."
+        },
+        {
+          "id": "oiglotx0",
+          "word": "disperse",
+          "meaning": "scatter in different directions",
+          "note": "This is the all-purpose choice when people or things move apart in different directions."
+        }
+      ],
       "examples": [
         {
           "english": "The crowd began to scatter as soon as they saw the police.",

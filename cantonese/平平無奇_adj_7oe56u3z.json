@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "ordinary, nothing special",
-      "english": ["nondescript", "pedestrian", "unexceptional"],
+      "english": [
+        {
+          "id": "31mrlwmh",
+          "word": "nondescript",
+          "meaning": "plain, unremarkable",
+          "note": "Use this for something that is notably ordinary or lacking anything distinctive, with a slightly more polished tone."
+        },
+        {
+          "id": "vtlv6q84",
+          "word": "pedestrian",
+          "meaning": "ordinary, dull",
+          "note": "Use this for something ordinary or unexceptional rather than notably bad or boring."
+        },
+        {
+          "id": "dxw1amzt",
+          "word": "unexceptional",
+          "meaning": "ordinary; not special",
+          "note": "Use this for something unremarkable or lacking anything noteworthy, especially in more descriptive language."
+        }
+      ],
       "examples": [
         {
           "english": "The cover of this report is nondescript and will not leave a deep impression.",

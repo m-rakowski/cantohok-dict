@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "unusually, surprisingly",
-      "english": ["remarkably", "startlingly", "extraordinarily", "amazingly"],
+      "english": [
+        {
+          "id": "8ser79qp",
+          "word": "remarkably",
+          "meaning": "to a notable extent",
+          "note": "This is the all-purpose choice for saying that something has an unusually high or notable degree of a quality."
+        },
+        {
+          "id": "k7d2tej7",
+          "word": "startlingly",
+          "meaning": "surprisingly; shockingly",
+          "note": "Use this when the startling surprise is an unusually high degree or quality, especially before an adjective."
+        },
+        {
+          "id": "3mwz5xtz",
+          "word": "extraordinarily",
+          "meaning": "in an extraordinary way",
+          "note": "Choose this when the extraordinary quality is surprising or unusually noticeable."
+        },
+        {
+          "id": "nh8liw46",
+          "word": "amazingly",
+          "meaning": "surprisingly",
+          "note": "Use this when something is surprisingly or unusually the case, especially when it is difficult to believe."
+        }
+      ],
       "examples": [
         {
           "english": "The beef noodles at this little shop are remarkably good.",

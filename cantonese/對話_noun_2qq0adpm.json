@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "conversation, dialogue",
-      "english": ["converse", "conversation", "talk", "interaction", "exchange"],
+      "english": [
+        {
+          "id": "rc8mljmd",
+          "word": "converse",
+          "meaning": "conversation, chat",
+          "note": "Use this for a conversation framed as an exchange or dialogue, especially in a more neutral or structured context."
+        },
+        {
+          "id": "zo7uali6",
+          "word": "conversation",
+          "meaning": "talking with others",
+          "note": "Use this when emphasizing an exchange or dialogue between two or more people."
+        },
+        {
+          "id": "kym599gp",
+          "word": "talk",
+          "meaning": "conversation; a talk",
+          "note": "Use this as the all-purpose noun for a conversation or serious discussion between people."
+        },
+        {
+          "id": "p0m2w12j",
+          "word": "interaction",
+          "meaning": "conversation/exchange",
+          "note": "Choose this when the interaction specifically takes the form of a dialogue or conversation."
+        },
+        {
+          "id": "ibflbqjd",
+          "word": "exchange",
+          "meaning": "conversation; back-and-forth",
+          "note": "Use this for a conversation or back-and-forth exchange of remarks between people."
+        }
+      ],
       "examples": [
         {
           "english": "The dialogue shows how two friends converse to clear up a misunderstanding.",

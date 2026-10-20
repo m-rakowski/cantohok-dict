@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "shoot a weapon",
-      "english": ["fire"],
+      "english": [
+        {
+          "id": "yewlugod",
+          "word": "fire",
+          "meaning": "shoot a weapon",
+          "note": "Use 開火 for firing weapons, especially when opening fire or firing at a target."
+        }
+      ],
       "examples": [
         {
           "english": "The troops opened fire as soon as the enemy appeared.",

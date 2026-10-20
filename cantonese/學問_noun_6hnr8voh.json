@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "learning, scholarly knowledge",
-      "english": ["learning", "scholarship"],
+      "english": [
+        {
+          "id": "f18j3mgl",
+          "word": "learning",
+          "meaning": "knowledge, scholarship",
+          "register": "formal",
+          "note": "Use this for learned scholarship or deep intellectual learning, especially in a more formal context."
+        },
+        {
+          "id": "frld8992",
+          "word": "scholarship",
+          "meaning": "scholarly work",
+          "note": "Use this for a scholar's learning, knowledge, or intellectual attainment rather than for a research project."
+        }
+      ],
       "examples": [
         {
           "english": "This professor has profound learning, and all the students respect them.",

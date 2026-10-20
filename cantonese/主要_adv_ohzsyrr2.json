@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "mainly, mostly",
-      "english": ["mainly", "primarily", "principally", "largely", "mostly"],
+      "english": [
+        {
+          "id": "17arudg5",
+          "word": "mainly",
+          "meaning": "mostly; for the most part",
+          "note": "This is the all-purpose spoken choice for saying that something is chiefly or mostly the case."
+        },
+        {
+          "id": "7g5stcsl",
+          "word": "primarily",
+          "meaning": "mainly; chiefly",
+          "note": "This is the all-purpose choice for saying that something happens mainly or chiefly in a particular way."
+        },
+        {
+          "id": "9orel2k0",
+          "word": "principally",
+          "meaning": "mainly; for the most part",
+          "note": "This is the all-purpose choice for saying that something is mainly or chiefly the case."
+        },
+        {
+          "id": "5maouuwi",
+          "word": "largely",
+          "meaning": "mostly; mainly",
+          "note": "Use this when largely means chiefly or primarily, especially when identifying the main cause, factor, or purpose."
+        },
+        {
+          "id": "g81jsq9t",
+          "word": "mostly",
+          "meaning": "mainly; for the most part",
+          "note": "Use this when emphasizing the main activity, reason, or characteristic rather than a numerical majority."
+        }
+      ],
       "examples": [
         {
           "english": "This plan is mainly aimed at helping grassroots families.",

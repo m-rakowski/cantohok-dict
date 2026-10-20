@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "exported goods",
-      "english": ["export"],
+      "english": [
+        {
+          "id": "1rs9lnga",
+          "word": "export",
+          "meaning": "exported goods",
+          "note": "Use this for goods that are exported, rather than for the act itself."
+        }
+      ],
       "examples": [
         {
           "english": "This batch of export goods has already been loaded onto the ship.",

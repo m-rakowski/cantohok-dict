@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "whole lifetime, a very long time",
-      "english": ["eternity", "lifetime"],
+      "english": [
+        {
+          "id": "b52f4tbv",
+          "word": "eternity",
+          "meaning": "very long time",
+          "register": "colloquial",
+          "note": "Use this colloquial expression for a whole lifetime or a hyperbolically long time, especially when saying that something has taken ages."
+        },
+        {
+          "id": "qqv3aqlb",
+          "word": "lifetime",
+          "meaning": "life duration",
+          "register": "colloquial",
+          "note": "Use this for a person's whole lifetime or emphatically for a very long time, as in waiting ages."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

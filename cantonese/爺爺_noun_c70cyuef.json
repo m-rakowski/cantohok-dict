@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "paternal grandfather",
-      "english": ["grandfather", "grandpa", "granddad"],
+      "english": [
+        {
+          "id": "gx7xnrtk",
+          "word": "grandfather",
+          "meaning": "parent’s father",
+          "note": "Use 爺爺 as the all-purpose everyday term for a paternal grandfather."
+        },
+        {
+          "id": "j4ro0q2i",
+          "word": "grandpa",
+          "meaning": "grandfather",
+          "note": "This is the all-purpose everyday family term for a grandfather, especially a paternal grandfather."
+        },
+        {
+          "id": "xhlw2j8n",
+          "word": "granddad",
+          "meaning": "grandfather",
+          "note": "This is the usual word for a paternal grandfather and the best everyday choice when the family side is clear or unspecified."
+        }
+      ],
       "examples": [
         {
           "english": "My grandfather often takes me for dim sum.",

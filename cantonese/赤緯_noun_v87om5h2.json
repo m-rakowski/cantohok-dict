@@ -6,7 +6,15 @@
   "boxes": [
     {
       "meaning": "astronomical declination",
-      "english": ["declination"],
+      "english": [
+        {
+          "id": "2ldggx09",
+          "word": "declination",
+          "meaning": "astronomical declination",
+          "register": "written",
+          "note": "Use this specifically for astronomical declination measured relative to the celestial equator."
+        }
+      ],
       "register": "written",
       "examples": [
         {

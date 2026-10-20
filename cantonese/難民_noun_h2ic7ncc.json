@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "person seeking asylum",
-      "english": ["refugee"],
+      "english": [
+        {
+          "id": "48ntc5z2",
+          "word": "refugee",
+          "meaning": "person seeking asylum",
+          "note": "This is the all-purpose Cantonese noun for a person fleeing persecution, war, disaster, or other danger, especially across a border."
+        }
+      ],
       "examples": [
         {
           "english": "After the war broke out, one refugee had to leave their home.",

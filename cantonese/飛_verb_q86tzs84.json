@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "fly",
-      "english": ["fly"],
+      "english": [
+        {
+          "id": "g2x6cdlc",
+          "word": "fly",
+          "meaning": "travel through air",
+          "note": "Use 飛 as the all-purpose choice for travelling through the air or moving very fast, but not for piloting an aircraft."
+        }
+      ],
       "examples": [
         {
           "english": "The kite can fly very high.",
@@ -17,7 +24,15 @@
     },
     {
       "meaning": "dash, rush very fast",
-      "english": ["race"],
+      "english": [
+        {
+          "id": "2ojn3os1",
+          "word": "race",
+          "meaning": "move very fast",
+          "register": "colloquial",
+          "note": "Use this colloquial verb when someone hurries or goes extremely fast, such as racing home or racing for the door."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

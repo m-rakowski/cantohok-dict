@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "spaghetti, pasta",
-      "english": ["pasta", "spaghetti"],
+      "english": [
+        {
+          "id": "z33qufrl",
+          "word": "pasta",
+          "meaning": "pasta dough/noodles",
+          "note": "This is the all-purpose spoken choice for pasta as a food or as a dish."
+        },
+        {
+          "id": "yv45q8w8",
+          "word": "spaghetti",
+          "meaning": "pasta strings",
+          "note": "This is the all-purpose spoken choice for spaghetti as either the pasta itself or a dish made with it."
+        }
+      ],
       "examples": [
         {
           "english": "I like eating pasta the most.",

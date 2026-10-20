@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "to kill",
-      "english": ["murder", "eliminate", "bury"],
+      "english": [
+        {
+          "id": "r4chpxhp",
+          "word": "murder",
+          "meaning": "kill violently",
+          "note": "Use it for actually killing something or someone violently, and in an angry threat such as 殺死佢."
+        },
+        {
+          "id": "4d4m1cxe",
+          "word": "eliminate",
+          "meaning": "kill",
+          "note": "Use this when eliminate explicitly means killing a person or animal."
+        },
+        {
+          "id": "oa5wt8lf",
+          "word": "bury",
+          "meaning": "inter/kill dead",
+          "note": "Use 殺死 for the literal killing or murdering sense, rather than for physically putting something underground."
+        }
+      ],
       "examples": [
         {
           "english": "I’m so angry I want to murder him.",

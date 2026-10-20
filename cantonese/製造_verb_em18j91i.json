@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "to manufacture",
-      "english": ["produce", "fabricate"],
+      "english": [
+        {
+          "id": "iykv74vc",
+          "word": "produce",
+          "meaning": "make, manufacture",
+          "note": "Use this as the all-purpose choice for making or manufacturing a tangible product."
+        },
+        {
+          "id": "rr5vrzj7",
+          "word": "fabricate",
+          "meaning": "manufacture, make",
+          "note": "This is the all-purpose choice for manufacturing or producing something, especially a manufactured item such as a computer chip."
+        }
+      ],
       "examples": [
         {
           "english": "This factory can produce lots of toys.",

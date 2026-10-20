@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "brute (strong insult)",
-      "english": ["beast", "animal"],
+      "english": [
+        {
+          "id": "il830u31",
+          "word": "beast",
+          "meaning": "cruel person",
+          "register": "colloquial",
+          "note": "Use this as a strong insult for a person who behaves cruelly or brutally, rather than for an ordinary animal."
+        },
+        {
+          "id": "aihrxy27",
+          "word": "animal",
+          "meaning": "brutal person",
+          "register": "colloquial",
+          "note": "Use this as a strong insult for a person who behaves cruelly, brutally, or like a beast."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

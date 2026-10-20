@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "language",
-      "english": ["language", "tongue"],
+      "english": [
+        {
+          "id": "ldeda6ir",
+          "word": "language",
+          "meaning": "human language",
+          "register": "formal",
+          "note": "Pick this for the general or formal idea of a language, including technical, figurative, and computer-language contexts."
+        },
+        {
+          "id": "zkbh3c3s",
+          "word": "tongue",
+          "meaning": "language",
+          "note": "Use this for a language, especially when contrasting different languages or referring to a native language."
+        }
+      ],
       "examples": [
         {
           "english": "The language used by this program is very strict.",

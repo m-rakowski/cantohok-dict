@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "comfort, consolation",
-      "english": ["comfort", "consolation", "reassurance", "salve"],
+      "english": [
+        {
+          "id": "8hppfajd",
+          "word": "comfort",
+          "meaning": "consolation, relief",
+          "note": "This is the all-purpose noun for something that consoles or gives relief from worry or suffering."
+        },
+        {
+          "id": "h0jsv93p",
+          "word": "consolation",
+          "meaning": "comfort, solace",
+          "note": "This is the all-purpose choice for comfort or solace given to someone."
+        },
+        {
+          "id": "jw42a31q",
+          "word": "reassurance",
+          "meaning": "feeling of being reassured",
+          "note": "Use this as the all-purpose noun for emotional comfort or reassurance that dispels worry."
+        },
+        {
+          "id": "8vf1ynh9",
+          "word": "salve",
+          "meaning": "soothing remedy",
+          "note": "Use this for emotional or psychological relief, such as forgiveness being a comfort to someone’s conscience."
+        }
+      ],
       "examples": [
         {
           "english": "Having you with me is already a comfort.",

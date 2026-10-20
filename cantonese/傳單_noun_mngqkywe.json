@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "leaflet, flyer",
-      "english": ["handout", "leaflet"],
+      "english": [
+        {
+          "id": "4eb106u5",
+          "word": "handout",
+          "meaning": "leaflet or worksheet",
+          "note": "Use this as the everyday term for a free advertising or information leaflet, not for a classroom worksheet."
+        },
+        {
+          "id": "4uxllu66",
+          "word": "leaflet",
+          "meaning": "pamphlet",
+          "note": "This is the all-purpose Cantonese word for an informational or advertising leaflet, including one left on a car."
+        }
+      ],
       "examples": [
         {
           "english": "The handout introduced a newly opened restaurant.",

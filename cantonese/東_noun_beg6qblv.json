@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "compass direction",
-      "english": ["east"],
+      "english": [
+        {
+          "id": "2leicycd",
+          "word": "east",
+          "meaning": "compass direction",
+          "note": "This is the all-purpose noun for the compass direction east."
+        }
+      ],
       "examples": [
         {
           "english": "The sun rises in the east.",

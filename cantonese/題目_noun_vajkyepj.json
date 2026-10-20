@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "test or exercise question",
-      "english": ["item", "problem"],
+      "english": [
+        {
+          "id": "duflfcws",
+          "word": "item",
+          "meaning": "test question",
+          "note": "Use 題目 specifically for a question or problem on a test or examination."
+        },
+        {
+          "id": "j3gu0cwy",
+          "word": "problem",
+          "meaning": "school exercise problem",
+          "note": "Use this for a question or exercise in a test, textbook, or assignment."
+        }
+      ],
       "examples": [
         {
           "english": "This test item is so hard that I have no idea how to do it.",

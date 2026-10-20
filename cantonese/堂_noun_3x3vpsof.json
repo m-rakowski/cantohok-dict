@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "class, lesson",
-      "english": ["lesson", "lecture"],
+      "english": [
+        {
+          "id": "hbqbp6nh",
+          "word": "lesson",
+          "meaning": "class period",
+          "note": "This is the all-purpose spoken choice for a class period or lesson at school."
+        },
+        {
+          "id": "86tzsxh5",
+          "word": "lecture",
+          "meaning": "lecture class",
+          "register": "colloquial",
+          "note": "Use 堂 when lecture means a regular class period, especially at school or university."
+        }
+      ],
       "examples": [
         {
           "english": "In today's English lesson, the teacher taught passive voice.",

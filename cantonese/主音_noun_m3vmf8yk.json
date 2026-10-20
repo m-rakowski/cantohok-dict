@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "singer",
-      "english": ["vocalist"],
+      "english": [
+        {
+          "id": "kx21m006",
+          "word": "vocalist",
+          "meaning": "singer",
+          "note": "Use this specifically for the lead vocalist of a band or musical group."
+        }
+      ],
       "examples": [
         {
           "english": "The vocalist of their band is sick tonight, so the show has to be cancelled.",

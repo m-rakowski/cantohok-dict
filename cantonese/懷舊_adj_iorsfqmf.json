@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "nostalgic, retro",
-      "english": ["nostalgic", "classic"],
+      "english": [
+        {
+          "id": "vin3x515",
+          "word": "nostalgic",
+          "meaning": "feeling nostalgia",
+          "note": "This is the all-purpose choice for a person, thing, or style associated with nostalgia."
+        },
+        {
+          "id": "8rfx5i4i",
+          "word": "classic",
+          "meaning": "old-fashioned, retro",
+          "note": "Use 懷舊 for a deliberately old-time or nostalgic style, rather than for timeless excellence."
+        }
+      ],
       "examples": [
         {
           "english": "The decor of this cha chaan teng is very nostalgic, making me think of when I was little.",

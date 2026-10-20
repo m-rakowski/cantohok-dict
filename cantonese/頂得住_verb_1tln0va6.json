@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "withstand, hold up under pressure",
-      "english": ["cope", "resist"],
+      "english": [
+        {
+          "id": "1jn05vy6",
+          "word": "cope",
+          "meaning": "deal effectively with",
+          "register": "colloquial",
+          "note": "Use this when coping means withstanding pressure, hardship, workload, or an unpleasant situation without being overwhelmed."
+        },
+        {
+          "id": "ha3lkf2z",
+          "word": "resist",
+          "meaning": "withstand",
+          "register": "colloquial",
+          "note": "Choose this colloquial phrase for withstanding pressure, pain, impact, or other strain."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "answer, reply",
-      "english": ["answer", "respond"],
+      "english": [
+        {
+          "id": "l4hhc8fg",
+          "word": "answer",
+          "meaning": "reply; respond",
+          "note": "This is the all-purpose spoken choice for replying or responding to someone."
+        },
+        {
+          "id": "ue1wg55b",
+          "word": "respond",
+          "meaning": "reply / answer",
+          "note": "This is the all-purpose casual choice for answering or replying to someone."
+        }
+      ],
       "examples": [
         {
           "english": "You ask me, and I’ll answer you.",

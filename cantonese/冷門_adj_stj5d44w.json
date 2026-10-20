@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "obscure, not popular",
-      "english": ["arcane", "unpopular"],
+      "english": [
+        {
+          "id": "alo2xxmy",
+          "word": "arcane",
+          "meaning": "known by few; secret",
+          "note": "Use this all-purpose choice for a subject or practice that few people know about, rather than one that is simply mysterious."
+        },
+        {
+          "id": "qm7rnvuy",
+          "word": "unpopular",
+          "meaning": "not liked; disliked",
+          "note": "Use this for a relatively obscure or less-popular subject, choice, activity, or field rather than for general dislike."
+        }
+      ],
       "examples": [
         {
           "english": "This craft is arcane, and not many people know it.",

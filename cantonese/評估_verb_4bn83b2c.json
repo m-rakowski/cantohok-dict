@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "to assess, evaluate",
-      "english": ["assess", "evaluate"],
+      "english": [
+        {
+          "id": "kmrafyld",
+          "word": "assess",
+          "meaning": "evaluate / judge value",
+          "note": "This is the all-purpose choice for evaluating the value, quality, risk, or condition of something."
+        },
+        {
+          "id": "d5rp7la9",
+          "word": "evaluate",
+          "meaning": "assess; appraise",
+          "note": "This is the all-purpose choice for judging the quality, significance, or likely outcome of something after examining it."
+        }
+      ],
       "examples": [
         {
           "english": "We need to assess the risks before deciding whether to go ahead.",

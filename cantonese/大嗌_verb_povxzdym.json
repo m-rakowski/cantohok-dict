@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "shout loudly",
-      "english": ["yell", "bellow"],
+      "english": [
+        {
+          "id": "8qa24igd",
+          "word": "yell",
+          "meaning": "shout loudly",
+          "register": "colloquial",
+          "note": "This is the all-purpose choice for shouting loudly, especially in anger or excitement."
+        },
+        {
+          "id": "tkqvs1zh",
+          "word": "bellow",
+          "meaning": "shout in a deep voice",
+          "register": "colloquial",
+          "note": "Choose 大嗌 for a person shouting loudly when the deep quality of the voice is supplied by context rather than by the verb."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

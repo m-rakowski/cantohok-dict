@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "destruction, damage",
-      "english": ["destruction", "ravage", "desolation"],
+      "english": [
+        {
+          "id": "c91tiy0m",
+          "word": "destruction",
+          "meaning": "act of destroying",
+          "note": "This is the all-purpose noun for the act or resulting damage of destruction."
+        },
+        {
+          "id": "k0z7xlbu",
+          "word": "ravage",
+          "meaning": "devastation, ravages",
+          "note": "This is the all-purpose choice for serious damage or devastation caused by things such as fire, storms, or war."
+        },
+        {
+          "id": "4hnsmrgg",
+          "word": "desolation",
+          "meaning": "destruction, laying waste",
+          "note": "Use this for the act or result of destruction, especially when people or places have been laid waste."
+        }
+      ],
       "examples": [
         {
           "english": "The destruction caused by this typhoon is severe.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "the original item",
-      "english": ["original"],
+      "english": [
+        {
+          "id": "b58dlxmm",
+          "word": "original",
+          "meaning": "the original item",
+          "note": "Use this for the original physical object when contrasting it with a replica or copy."
+        }
+      ],
       "examples": [
         {
           "english": "This is the original object, not a replica.",

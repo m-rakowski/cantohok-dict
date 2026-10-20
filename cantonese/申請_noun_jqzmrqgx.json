@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "application, formal request",
-      "english": ["requisition", "application"],
+      "english": [
+        {
+          "id": "jmdrm2df",
+          "word": "requisition",
+          "meaning": "official request in public service",
+          "note": "This is the all-purpose Cantonese noun for an official application, including an officer's request for public-service supplies."
+        },
+        {
+          "id": "9vhm3mu4",
+          "word": "application",
+          "meaning": "form to enter",
+          "note": "This is the all-purpose noun for a request for a job, place, service, or course."
+        }
+      ],
       "examples": [
         {
           "english": "Our police station needed new uniforms, so I submitted a requisition to my superior.",

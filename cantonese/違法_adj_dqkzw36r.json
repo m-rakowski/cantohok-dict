@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "illegal",
-      "english": ["criminal", "illegal"],
+      "english": [
+        {
+          "id": "p96dcxta",
+          "word": "criminal",
+          "meaning": "illegal; against the law",
+          "note": "This is the all-purpose choice for something that is illegal or against the law."
+        },
+        {
+          "id": "qo80nmm3",
+          "word": "illegal",
+          "meaning": "against the law",
+          "register": "formal",
+          "note": "Choose this when you want to stress that an act directly contravenes the law, especially criminal law."
+        }
+      ],
       "examples": [
         {
           "english": "Selling these fake tickets is criminal.",

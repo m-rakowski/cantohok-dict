@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "belly, stomach",
-      "english": ["belly", "stomach"],
+      "english": [
+        {
+          "id": "xjcdfvjj",
+          "word": "belly",
+          "meaning": "abdomen, stomach area",
+          "note": "Use 肚 as the all-purpose colloquial noun for the belly or abdominal area, and for a nontechnical reference to the stomach."
+        },
+        {
+          "id": "rzvtun8w",
+          "word": "stomach",
+          "meaning": "belly; abdomen",
+          "note": "This is the all-purpose casual word for the belly or stomach area, especially in everyday physical contexts."
+        }
+      ],
       "examples": [
         {
           "english": "My belly hurts a little.",

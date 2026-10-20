@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "to calculate",
-      "english": ["calculate", "compute", "reckon"],
+      "english": [
+        {
+          "id": "8q3dduki",
+          "word": "calculate",
+          "meaning": "do math",
+          "register": "colloquial",
+          "note": "This is the all-purpose colloquial choice for working out a number or mathematical answer."
+        },
+        {
+          "id": "9ddphbtj",
+          "word": "compute",
+          "meaning": "calculate, reckon",
+          "note": "This is the all-purpose colloquial choice for calculating or working out a numerical result."
+        },
+        {
+          "id": "ufxml0yn",
+          "word": "reckon",
+          "meaning": "count; calculate",
+          "note": "Use this for calculating an amount, total, or figure rather than merely counting items."
+        }
+      ],
       "examples": [
         {
           "english": "I’ll calculate the sum first.",

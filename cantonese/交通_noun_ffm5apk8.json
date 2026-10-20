@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "traffic, transport",
-      "english": ["traffic", "transportation"],
+      "english": [
+        {
+          "id": "5xc6kae0",
+          "word": "traffic",
+          "meaning": "road/air traffic",
+          "note": "Use this as the all-purpose word for road traffic and the general movement of people or vehicles."
+        },
+        {
+          "id": "8uxac08w",
+          "word": "transportation",
+          "meaning": "transport system; transport",
+          "note": "This is the all-purpose choice for a transport system or transportation in general."
+        }
+      ],
       "examples": [
         {
           "english": "The traffic is really bad, so we're late.",

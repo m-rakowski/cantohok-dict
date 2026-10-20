@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "garage for parking",
-      "english": ["garage"],
+      "english": [
+        {
+          "id": "xdzg90ie",
+          "word": "garage",
+          "meaning": "car storage building",
+          "note": "This is the all-purpose spoken Hong Kong Cantonese word for a garage used to keep a car and other items."
+        }
+      ],
       "examples": [
         {
           "english": "I parked the car in the garage, and there are tools stored inside too.",
@@ -17,7 +24,14 @@
     },
     {
       "meaning": "car repair shop",
-      "english": ["shop"],
+      "english": [
+        {
+          "id": "gf1xsia8",
+          "word": "shop",
+          "meaning": "garage; repair shop",
+          "note": "Use this specifically for a garage or vehicle repair shop."
+        }
+      ],
       "examples": [
         {
           "english": "My car needs to go into the repair shop.",

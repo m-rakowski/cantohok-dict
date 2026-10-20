@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "delete",
-      "english": ["delete", "remove"],
+      "english": [
+        {
+          "id": "exlh1siu",
+          "word": "delete",
+          "meaning": "remove or erase",
+          "note": "This is the all-purpose choice for removing text, files, data, or other content."
+        },
+        {
+          "id": "j1m60fgp",
+          "word": "remove",
+          "meaning": "delete",
+          "note": "Use this for deleting digital files, messages, records, or other stored information."
+        }
+      ],
       "examples": [
         {
           "english": "I need to delete this document.",

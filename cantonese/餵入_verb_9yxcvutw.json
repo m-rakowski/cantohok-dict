@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "put into machine",
-      "english": ["feed"],
+      "english": [
+        {
+          "id": "bigjk4mm",
+          "word": "feed",
+          "meaning": "put into machine",
+          "note": "Use this in machine or computer contexts for putting physical material or data into a system to be processed."
+        }
+      ],
       "examples": [
         {
           "english": "We need to feed the data into the system before we can analyse it.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "artist",
-      "english": ["painter"],
+      "english": [
+        {
+          "id": "1kg99c2k",
+          "word": "painter",
+          "meaning": "artist",
+          "note": "This is the all-purpose word for an artist who paints pictures."
+        }
+      ],
       "examples": [
         {
           "english": "That painter specializes in landscapes.",

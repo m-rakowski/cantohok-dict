@@ -6,7 +6,44 @@
   "boxes": [
     {
       "meaning": "magical, amazing",
-      "english": ["magic", "magical", "wondrous", "fabulous", "amazing", "wonderful"],
+      "english": [
+        {
+          "id": "pxefvld0",
+          "word": "magic",
+          "meaning": "magical",
+          "note": "Use this as the all-purpose adjective for supernatural or magical qualities."
+        },
+        {
+          "id": "olim342m",
+          "word": "magical",
+          "meaning": "wonderful, enchanting",
+          "note": "This is the all-purpose choice for something wonderful or enchanting."
+        },
+        {
+          "id": "y0hhnkap",
+          "word": "wondrous",
+          "meaning": "wonderful; amazing",
+          "note": "This is the all-purpose choice for something wonderful, amazing, or seemingly magical."
+        },
+        {
+          "id": "29zmf1gc",
+          "word": "fabulous",
+          "meaning": "marvelous, extraordinary",
+          "note": "Use this when “fabulous” means marvelous, extraordinary, or seemingly incredible rather than simply very good."
+        },
+        {
+          "id": "giz3djxl",
+          "word": "amazing",
+          "meaning": "very surprising",
+          "note": "Use this for a wondrous or almost magical kind of surprise."
+        },
+        {
+          "id": "7ykzv2ks",
+          "word": "wonderful",
+          "meaning": "surprising, extraordinary",
+          "note": "Use 神奇 when the thing is extraordinary or almost magical rather than merely very good."
+        }
+      ],
       "examples": [
         {
           "english": "This magic talisman is truly supernatural; it lights up by itself at night.",

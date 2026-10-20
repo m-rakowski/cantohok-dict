@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "understanding",
-      "english": ["comprehension", "grasp", "perception", "understanding", "knowledge"],
+      "english": [
+        {
+          "id": "pze8434l",
+          "word": "comprehension",
+          "meaning": "understanding",
+          "note": "This is the all-purpose noun for a thorough understanding of something."
+        },
+        {
+          "id": "gptxevro",
+          "word": "grasp",
+          "meaning": "understanding",
+          "note": "Use this as the all-purpose noun for understanding something."
+        },
+        {
+          "id": "pd5roe5y",
+          "word": "perception",
+          "meaning": "understanding of something",
+          "note": "Use this as the all-purpose noun for conscious understanding of something."
+        },
+        {
+          "id": "3ozz4q2p",
+          "word": "understanding",
+          "meaning": "comprehension",
+          "note": "This is the all-purpose noun for comprehension, grasp of a subject, and an interpretation of something."
+        },
+        {
+          "id": "keja4o0j",
+          "word": "knowledge",
+          "meaning": "intellectual understanding",
+          "note": "Use 理解 for intellectual grasp or appreciation of information, rather than for a body of facts."
+        }
+      ],
       "examples": [
         {
           "english": "I have a thorough comprehension of the whole matter now.",

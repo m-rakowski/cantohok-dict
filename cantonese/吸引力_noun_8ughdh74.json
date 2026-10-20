@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "appeal, attractiveness",
-      "english": ["attractiveness", "fascination", "appeal", "attraction"],
+      "english": [
+        {
+          "id": "n74d57q6",
+          "word": "attractiveness",
+          "meaning": "quality of being attractive",
+          "note": "This is the all-purpose noun for the quality or appeal that makes someone or something attractive."
+        },
+        {
+          "id": "ieazqifh",
+          "word": "fascination",
+          "meaning": "a source of fascination",
+          "note": "Use this as the all-purpose noun for the appeal or power that makes something fascinating."
+        },
+        {
+          "id": "tndqnvb6",
+          "word": "appeal",
+          "meaning": "attractiveness, interest",
+          "note": "Use this for the power of something to attract interest; it is the all-purpose choice for this sense."
+        },
+        {
+          "id": "la0kz13h",
+          "word": "attraction",
+          "meaning": "feeling of being drawn to",
+          "note": "Use this for the appeal or allure that draws someone toward a person, place, or thing."
+        }
+      ],
       "examples": [
         {
           "english": "This movie has a lot of attractiveness.",

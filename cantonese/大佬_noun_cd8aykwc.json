@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "boss, top figure",
-      "english": ["chief", "daddy"],
+      "english": [
+        {
+          "id": "1cs53kyz",
+          "word": "chief",
+          "meaning": "leader; head of group",
+          "register": "colloquial",
+          "note": "Use 大佬 for an informal boss or leader, and also as a rough or jocular form of address."
+        },
+        {
+          "id": "7d95m85i",
+          "word": "daddy",
+          "meaning": "important man, doyen",
+          "register": "colloquial",
+          "note": "Use this colloquial word for the leading or most influential man in a group or field, rather than for an ordinary father."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {
@@ -23,7 +38,15 @@
     },
     {
       "meaning": "game boss",
-      "english": ["boss"],
+      "english": [
+        {
+          "id": "3yzk4l4z",
+          "word": "boss",
+          "meaning": "video game final enemy",
+          "register": "colloquial",
+          "note": "In gaming talk, this refers to the powerful enemy or final boss that must be defeated."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {
@@ -35,7 +58,15 @@
     },
     {
       "meaning": "informal address to a man",
-      "english": ["brother"],
+      "english": [
+        {
+          "id": "zn416aez",
+          "word": "brother",
+          "meaning": "informal address to a man",
+          "register": "colloquial",
+          "note": "Use 大佬 as an informal form of address to a man, not as the ordinary word for a biological brother."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

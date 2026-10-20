@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "job promotion",
-      "english": ["promotion", "advancement"],
+      "english": [
+        {
+          "id": "nykdxj6d",
+          "word": "promotion",
+          "meaning": "job advancement",
+          "note": "For advancement in one's job, this is the everyday all-purpose choice."
+        },
+        {
+          "id": "k9egrk9v",
+          "word": "advancement",
+          "meaning": "promotion; moving up",
+          "note": "Use 升職 when advancement is about employment: promotion to a higher job rank."
+        }
+      ],
       "examples": [
         {
           "english": "I finally got a promotion.",

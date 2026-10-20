@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "make up, form a whole",
-      "english": ["constitute", "form", "represent"],
+      "english": [
+        {
+          "id": "1u8uguv8",
+          "word": "constitute",
+          "meaning": "make up; form",
+          "note": "This is the all-purpose choice when parts or members make up a whole, group, or structure."
+        },
+        {
+          "id": "ywj5dhuw",
+          "word": "form",
+          "meaning": "form, create, establish",
+          "note": "Use 組成 when people or parts are put together to make a group, organization, or government."
+        },
+        {
+          "id": "82rnrdrz",
+          "word": "represent",
+          "meaning": "constitute / make up",
+          "note": "Use this when parts or factors make up or form a larger whole."
+        }
+      ],
       "examples": [
         {
           "english": "These departments constitute the core of the company.",

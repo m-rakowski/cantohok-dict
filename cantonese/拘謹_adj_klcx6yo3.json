@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "stiff, reserved, not relaxed",
-      "english": ["constrained", "formal"],
+      "english": [
+        {
+          "id": "aprahvf7",
+          "word": "constrained",
+          "meaning": "confined, restricted",
+          "register": "formal",
+          "note": "Use this for a restrained, formal, or not-free style of writing or manner rather than a literal external limit."
+        },
+        {
+          "id": "0wshji0t",
+          "word": "formal",
+          "meaning": "stiff, not casual",
+          "note": "Use this when a person’s manner is stiff, restrained, or governed by strict etiquette rather than relaxed and casual."
+        }
+      ],
       "examples": [
         {
           "english": "They wrote the letter in a constrained style, without any colloquial language.",

@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "news, word about something",
-      "english": ["news", "information", "word"],
+      "english": [
+        {
+          "id": "j1744y7o",
+          "word": "news",
+          "meaning": "new information",
+          "note": "Use 消息 as the all-purpose noun for new information or an update about a particular matter."
+        },
+        {
+          "id": "6q9gi8z6",
+          "word": "information",
+          "meaning": "facts about something",
+          "note": "Use 消息 when the information is news, an update, or something recently learned."
+        },
+        {
+          "id": "4fuzpwel",
+          "word": "word",
+          "meaning": "news, tidings",
+          "note": "Use this for news or information about what has happened or what someone has been doing."
+        }
+      ],
       "examples": [
         {
           "english": "Have you received any news from that company?",

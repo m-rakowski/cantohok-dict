@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "religious faith",
-      "english": ["belief", "faith"],
+      "english": [
+        {
+          "id": "0kn0i6fm",
+          "word": "belief",
+          "meaning": "religious faith",
+          "note": "Use this specifically for religious faith or a religion someone follows."
+        },
+        {
+          "id": "fnr5800l",
+          "word": "faith",
+          "meaning": "religion or creed",
+          "register": "formal",
+          "note": "Use 信仰 for a religious or spiritual belief system such as the Christian faith."
+        }
+      ],
       "examples": [
         {
           "english": "I respect everyone's belief.",

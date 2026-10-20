@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "space, room",
-      "english": ["space", "room"],
+      "english": [
+        {
+          "id": "g8ipqd9s",
+          "word": "space",
+          "meaning": "room / physical space",
+          "note": "This is the all-purpose choice for physical room or area and for the personal room someone needs."
+        },
+        {
+          "id": "nrxciwgb",
+          "word": "room",
+          "meaning": "room to do something",
+          "note": "Use 空間 for available space or scope to do something rather than for a physical room."
+        }
+      ],
       "examples": [
         {
           "english": "There's enough space in this room for a large table.",

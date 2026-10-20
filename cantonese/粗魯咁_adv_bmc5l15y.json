@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "rudely, roughly (without gentleness)",
-      "english": ["rudely", "roughly"],
+      "english": [
+        {
+          "id": "67ilrbr2",
+          "word": "rudely",
+          "meaning": "in a rude manner",
+          "note": "Use this when the rude behavior is especially rough, blunt, or uncouth rather than merely lacking politeness."
+        },
+        {
+          "id": "sh94ljf8",
+          "word": "roughly",
+          "meaning": "in a rough manner",
+          "note": "Use this when an action is done rudely or without gentleness rather than merely imprecisely."
+        }
+      ],
       "examples": [
         {
           "english": "They rudely yelled at someone so loudly that even the customers at the next table could hear.",

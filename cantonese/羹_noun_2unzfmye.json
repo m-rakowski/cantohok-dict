@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "eating/serving utensil",
-      "english": ["spoon"],
+      "english": [
+        {
+          "id": "rky6afmt",
+          "word": "spoon",
+          "meaning": "eating/serving utensil",
+          "note": "Use this shortened form only when the context clearly indicates a spoon rather than soup."
+        }
+      ],
       "examples": [
         {
           "english": "Use a spoon to feed them slowly.",

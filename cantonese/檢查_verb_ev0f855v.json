@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "check, inspect",
-      "english": ["examine", "inspect", "screen", "scan"],
+      "english": [
+        {
+          "id": "q0idlgyd",
+          "word": "examine",
+          "meaning": "inspect carefully",
+          "note": "This is the all-purpose choice for inspecting something carefully or checking a person's health or condition."
+        },
+        {
+          "id": "zntlldlq",
+          "word": "inspect",
+          "meaning": "examine carefully",
+          "note": "This is the all-purpose choice for carefully checking something for faults or problems."
+        },
+        {
+          "id": "hu6vli2d",
+          "word": "screen",
+          "meaning": "to screen or inspect",
+          "note": "This is the all-purpose choice for inspecting people, baggage, or objects for something hidden."
+        },
+        {
+          "id": "xyuv85c6",
+          "word": "scan",
+          "meaning": "check/analyse",
+          "note": "Use this when inspecting or analysing something systematically, especially to find errors or problems."
+        }
+      ],
       "examples": [
         {
           "english": "We should examine whether the air conditioner is leaking.",

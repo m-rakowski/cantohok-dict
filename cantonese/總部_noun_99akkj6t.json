@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "headquarters",
-      "english": ["headquarters", "base", "residence"],
+      "english": [
+        {
+          "id": "rvhcaq2b",
+          "word": "headquarters",
+          "meaning": "organization headquarters",
+          "note": "This is the all-purpose choice for an organization's administrative or operational headquarters."
+        },
+        {
+          "id": "fjdjcgqu",
+          "word": "base",
+          "meaning": "headquarters",
+          "note": "Use this when the base is an organization’s headquarters where decisions are made."
+        },
+        {
+          "id": "l2jadlhc",
+          "word": "residence",
+          "meaning": "company headquarters",
+          "note": "Use this for the place where a company is based, not a person's residence."
+        }
+      ],
       "examples": [
         {
           "english": "The company’s headquarters moved to the New Territories.",

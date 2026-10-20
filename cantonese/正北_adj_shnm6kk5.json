@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "exactly north/south/etc.",
-      "english": ["due"],
+      "english": [
+        {
+          "id": "05a8ycn8",
+          "word": "due",
+          "meaning": "exactly north/south/etc.",
+          "note": "Use this only for an exact compass direction, meaning directly north."
+        }
+      ],
       "examples": [
         {
           "english": "The compass is due north, not northeast.",

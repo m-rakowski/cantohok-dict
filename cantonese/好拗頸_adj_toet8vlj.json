@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "argumentative",
-      "english": ["quarrelsome", "fractious"],
+      "english": [
+        {
+          "id": "i2z9tpb7",
+          "word": "quarrelsome",
+          "meaning": "argumentative, prone to quarrels",
+          "note": "This is the all-purpose choice for someone argumentative and difficult to reason with."
+        },
+        {
+          "id": "k1jt0679",
+          "word": "fractious",
+          "meaning": "irritable, quarrelsome",
+          "note": "Choose this when the person is argumentative, stubborn, or inclined to quarrel."
+        }
+      ],
       "examples": [
         {
           "english": "They are quarrelsome and refuse to listen, no matter what you say.",

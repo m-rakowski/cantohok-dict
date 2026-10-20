@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "only, just",
-      "english": ["merely", "literally"],
+      "english": [
+        {
+          "id": "c35jc4io",
+          "word": "merely",
+          "meaning": "only; just",
+          "note": "Use this when merely limits or softens an action, opinion, or situation rather than stressing strict numerical exclusivity."
+        },
+        {
+          "id": "nyvsi4wa",
+          "word": "literally",
+          "meaning": "just, merely",
+          "note": "Use this when “literally” means merely or just, especially to downplay how simple an action is."
+        }
+      ],
       "examples": [
         {
           "english": "I was merely asking; you don't have to get so angry.",

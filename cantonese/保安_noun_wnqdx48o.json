@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "security guard",
-      "english": ["doorkeeper", "guard", "security"],
+      "english": [
+        {
+          "id": "4zhfx17x",
+          "word": "doorkeeper",
+          "meaning": "entryway guard",
+          "note": "This is the all-purpose spoken choice when the doorkeeper is a security guard at a building or entrance."
+        },
+        {
+          "id": "p4rjje4w",
+          "word": "guard",
+          "meaning": "person or thing that protects",
+          "note": "Use this for a person employed to protect a place or property, such as a security guard."
+        },
+        {
+          "id": "squ2t79b",
+          "word": "security",
+          "meaning": "security staff / checkpoint",
+          "note": "Use this for security staff, a security department, or security arrangements at a place."
+        }
+      ],
       "examples": [
         {
           "english": "The doorkeeper asked me to show my staff ID before I could go in.",

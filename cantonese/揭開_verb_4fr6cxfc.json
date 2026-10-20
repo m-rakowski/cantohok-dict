@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "uncover, lift off a cover, reveal",
-      "english": ["bare", "expose", "uncover", "reveal"],
+      "english": [
+        {
+          "id": "wle2vh3t",
+          "word": "bare",
+          "meaning": "uncover; reveal",
+          "note": "Use 揭開 when uncovering something by lifting or removing a covering, or figuratively revealing a secret or mystery."
+        },
+        {
+          "id": "z67nty9p",
+          "word": "expose",
+          "meaning": "reveal; uncover",
+          "note": "Use this everyday verb when something hidden is uncovered or brought to light, literally or figuratively."
+        },
+        {
+          "id": "8dc60sy8",
+          "word": "uncover",
+          "meaning": "remove a cover",
+          "note": "This is the all-purpose choice when physically removing or lifting a cover."
+        },
+        {
+          "id": "gxrkwzdu",
+          "word": "reveal",
+          "meaning": "show / make visible",
+          "note": "Choose this when uncovering something physically hidden or figuratively exposing a secret, mystery, or truth."
+        }
+      ],
       "examples": [
         {
           "english": "We bare a hidden compartment when we lift this panel.",

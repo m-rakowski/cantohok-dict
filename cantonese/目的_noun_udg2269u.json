@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "purpose, aim",
-      "english": ["purpose", "aim", "intention", "objective", "point"],
+      "english": [
+        {
+          "id": "qxm89h3n",
+          "word": "purpose",
+          "meaning": "goal; aim; intent",
+          "note": "Use 目的 as the all-purpose noun for an intended goal, aim, or reason."
+        },
+        {
+          "id": "pn96b5hw",
+          "word": "aim",
+          "meaning": "goal / intention",
+          "note": "This is the all-purpose choice for an intended goal or purpose."
+        },
+        {
+          "id": "0u71wod2",
+          "word": "intention",
+          "meaning": "aim or purpose",
+          "note": "Use this for the goal or purpose that an action, plan, or policy is meant to achieve."
+        },
+        {
+          "id": "8a98g81a",
+          "word": "objective",
+          "meaning": "goal, aim",
+          "note": "Use this when the objective is framed as the purpose or intended outcome of an action or plan rather than as a measurable target."
+        },
+        {
+          "id": "l80ovscx",
+          "word": "point",
+          "meaning": "purpose / point",
+          "note": "Use 目的 when point means the purpose or objective that something is intended to serve."
+        }
+      ],
       "examples": [
         {
           "english": "The purpose of this plan is to help students find jobs.",

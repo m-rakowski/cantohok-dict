@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "to stipulate, to lay down rules",
-      "english": ["stipulate", "prescribe", "provide"],
+      "english": [
+        {
+          "id": "5ncifs36",
+          "word": "stipulate",
+          "meaning": "require as condition",
+          "note": "This is the all-purpose choice for requiring something as a condition or rule."
+        },
+        {
+          "id": "goo985c1",
+          "word": "prescribe",
+          "meaning": "lay down rules",
+          "note": "Use this for officially laying down rules, procedures, or requirements rather than for ordering medicine."
+        },
+        {
+          "id": "1p3rimwk",
+          "word": "provide",
+          "meaning": "stipulate",
+          "note": "Use 規定 when a rule or contract lays down a condition."
+        }
+      ],
       "examples": [
         {
           "english": "The company can stipulate that staff must wear name badges.",

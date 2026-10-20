@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "bed sheet",
-      "english": ["sheet", "flat"],
+      "english": [
+        {
+          "id": "bg8uu74t",
+          "word": "sheet",
+          "meaning": "bed sheet",
+          "note": "Use this as the all-purpose word for a sheet used on a bed."
+        },
+        {
+          "id": "tvec05bt",
+          "word": "flat",
+          "meaning": "bed sheet",
+          "note": "Use 床單 for the flat sheet placed on a bed."
+        }
+      ],
       "examples": [
         {
           "english": "The sheet is dirty, so we need to change it.",

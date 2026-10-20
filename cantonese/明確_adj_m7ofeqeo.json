@@ -6,7 +6,33 @@
   "boxes": [
     {
       "meaning": "clear and definite",
-      "english": ["definite", "unequivocal", "specific", "exact"],
+      "english": [
+        {
+          "id": "vnsh8qa8",
+          "word": "definite",
+          "meaning": "clear limits; exact",
+          "note": "This is the all-purpose choice for something with clear, exact limits or specifications."
+        },
+        {
+          "id": "sq5fw0ao",
+          "word": "unequivocal",
+          "meaning": "unambiguous; clear",
+          "register": "formal",
+          "note": "Use this for a clearly defined, explicit position, condition, answer, or guarantee, especially in more careful speech."
+        },
+        {
+          "id": "3njn0cdt",
+          "word": "specific",
+          "meaning": "definite; explicit",
+          "note": "Choose this when “specific” means explicit, definite, or clearly stated rather than merely detailed."
+        },
+        {
+          "id": "197a6ez6",
+          "word": "exact",
+          "meaning": "strict, precise",
+          "note": "Use this for the precise or definite wording of a statement, instruction, or concept."
+        }
+      ],
       "examples": [
         {
           "english": "The terms are definite, and the delivery date was made clear from the start.",

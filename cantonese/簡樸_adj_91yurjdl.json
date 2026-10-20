@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "simple and plain living",
-      "english": ["spartan", "humble"],
+      "english": [
+        {
+          "id": "vp7uxgcl",
+          "word": "spartan",
+          "meaning": "bare, unadorned",
+          "note": "This is the all-purpose choice for something plain and unadorned, especially a room, home, or lifestyle."
+        },
+        {
+          "id": "o64ux83i",
+          "word": "humble",
+          "meaning": "unassuming, modest",
+          "note": "Use this for a home, lifestyle, or possession that is simple and unpretentious rather than grand."
+        }
+      ],
       "examples": [
         {
           "english": "The room in this guesthouse is quite spartan, but comfortable.",

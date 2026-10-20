@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "fantasy, illusion",
-      "english": ["fantasy", "imagination"],
+      "english": [
+        {
+          "id": "coa82qk0",
+          "word": "fantasy",
+          "meaning": "imagination; imagined thing",
+          "note": "This is the all-purpose choice for a fanciful idea or imagined possibility."
+        },
+        {
+          "id": "ltgevdhc",
+          "word": "imagination",
+          "meaning": "false idea; figment",
+          "note": "Use this when the imagination refers to a fantasy or a false idea rather than a mental ability."
+        }
+      ],
       "examples": [
         {
           "english": "I often have a fantasy about travelling around the world after winning the lottery.",

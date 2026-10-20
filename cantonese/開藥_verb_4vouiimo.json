@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "order medicine",
-      "english": ["prescribe"],
+      "english": [
+        {
+          "id": "5h0lk11t",
+          "word": "prescribe",
+          "meaning": "order medicine",
+          "note": "Use this as the everyday medical sense when a doctor orders medicine for a patient."
+        }
+      ],
       "examples": [
         {
           "english": "After looking at my report, the doctor will prescribe medicine for me.",

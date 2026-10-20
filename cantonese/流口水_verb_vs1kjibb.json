@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "drool",
-      "english": ["salivate", "dribble"],
+      "english": [
+        {
+          "id": "269orv0p",
+          "word": "salivate",
+          "meaning": "produce saliva",
+          "register": "colloquial",
+          "note": "This is the all-purpose colloquial choice, especially when saliva is visibly running or someone is drooling."
+        },
+        {
+          "id": "0ijrephh",
+          "word": "dribble",
+          "meaning": "drool",
+          "note": "This is the everyday choice for saliva dripping from someone's mouth."
+        }
+      ],
       "examples": [
         {
           "english": "They salivate when they see so much roast meat.",

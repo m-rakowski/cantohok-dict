@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "vehicle in other media",
-      "english": ["ship"],
+      "english": [
+        {
+          "id": "0ow7fcm6",
+          "word": "ship",
+          "meaning": "vehicle in other media",
+          "note": "Use this when the ship is an airship or other flying vessel."
+        }
+      ],
       "examples": [
         {
           "english": "The ship in the film can fly very fast.",

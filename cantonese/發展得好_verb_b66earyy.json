@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "doing well, thriving",
-      "english": ["flourish", "bloom"],
+      "english": [
+        {
+          "id": "eraf90yj",
+          "word": "flourish",
+          "meaning": "prosper, do well",
+          "note": "This is the all-purpose choice for a person, place, business, or project that is doing well."
+        },
+        {
+          "id": "ppw42kwm",
+          "word": "bloom",
+          "meaning": "flourish; thrive",
+          "note": "Use this for a person, business, or place that is growing and doing well rather than for literal flowers."
+        }
+      ],
       "examples": [
         {
           "english": "The company continues to flourish this year, and its business is thriving.",

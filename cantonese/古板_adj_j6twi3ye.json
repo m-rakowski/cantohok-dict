@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "stiff, old-fashioned",
-      "english": ["puritanical", "stuffy"],
+      "english": [
+        {
+          "id": "1e6knngc",
+          "word": "puritanical",
+          "meaning": "very strict, purist",
+          "note": "Use this when the puritanical person or attitude seems rigidly old-fashioned and inflexible."
+        },
+        {
+          "id": "pyf2fr4p",
+          "word": "stuffy",
+          "meaning": "over-formal, old-fashioned",
+          "note": "Use 古板 for a person, manner, or style that feels rigidly old-fashioned and over-formal."
+        }
+      ],
       "examples": [
         {
           "english": "Uncle is so old-fashioned and puritanical that he thinks girls who wear short skirts are improper.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "change, transition",
-      "english": ["conversion", "transition"],
+      "english": [
+        {
+          "id": "3rh1nydy",
+          "word": "conversion",
+          "meaning": "change, turning into",
+          "note": "Use this as the all-purpose noun for a change or turning into something else."
+        },
+        {
+          "id": "lktewm12",
+          "word": "transition",
+          "meaning": "change from one state to another",
+          "note": "This is the all-purpose choice for a change from one state, form, style, or place to another."
+        }
+      ],
       "examples": [
         {
           "english": "The conversion of the old shop into a café took a whole year.",

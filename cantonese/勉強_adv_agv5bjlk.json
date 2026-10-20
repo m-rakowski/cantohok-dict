@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "only just, barely managing",
-      "english": ["barely", "marginally", "narrowly", "hardly"],
+      "english": [
+        {
+          "id": "vmqjgpaj",
+          "word": "barely",
+          "meaning": "almost not at all",
+          "note": "Use this as the all-purpose spoken choice when something is achieved or perceived only with difficulty or by a narrow margin."
+        },
+        {
+          "id": "kpcufamz",
+          "word": "marginally",
+          "meaning": "slightly; by a small amount",
+          "note": "Use this when marginally means barely sufficiently or only just managing to do something, rather than simply slightly."
+        },
+        {
+          "id": "vzsxkt9e",
+          "word": "narrowly",
+          "meaning": "by a small margin",
+          "note": "Use this when someone only just succeeds, such as narrowly winning or barely avoiding something."
+        },
+        {
+          "id": "jpv0xwrh",
+          "word": "hardly",
+          "meaning": "barely; almost not",
+          "note": "Use this for “barely” or “only just,” when someone manages something with little margin."
+        }
+      ],
       "examples": [
         {
           "english": "I barely managed to catch the train.",
@@ -32,7 +57,14 @@
     },
     {
       "meaning": "reluctantly, against one's will",
-      "english": ["reluctantly"],
+      "english": [
+        {
+          "id": "j4z3feuw",
+          "word": "reluctantly",
+          "meaning": "in a hesitant way",
+          "note": "Use 勉強 as the concise all-purpose choice when someone does something despite not wanting to."
+        }
+      ],
       "examples": [
         {
           "english": "I reluctantly agreed to help him move.",

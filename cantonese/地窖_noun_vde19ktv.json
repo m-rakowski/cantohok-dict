@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "cellar for storage",
-      "english": ["cellar", "cave"],
+      "english": [
+        {
+          "id": "p0jmhrag",
+          "word": "cellar",
+          "meaning": "underground storage room",
+          "note": "Use this for an underground room used mainly for storing things, rather than for a general basement."
+        },
+        {
+          "id": "3a2mm8hz",
+          "word": "cave",
+          "meaning": "wine or cheese cellar",
+          "note": "Use this for a general underground storage cellar, including one used for cheese."
+        }
+      ],
       "examples": [
         {
           "english": "The winery's cellar is filled with red wine.",

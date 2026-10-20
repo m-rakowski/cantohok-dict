@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "something worrying on your mind",
-      "english": ["worry", "unease"],
+      "english": [
+        {
+          "id": "7ewylwlb",
+          "word": "worry",
+          "meaning": "anxiety; worry",
+          "note": "Use this for a personal or private worry that is weighing on someone’s mind."
+        },
+        {
+          "id": "i1rvt2sy",
+          "word": "unease",
+          "meaning": "feeling of worry",
+          "note": "Use this for a private worry or troubling preoccupation that someone is carrying in their mind."
+        }
+      ],
       "examples": [
         {
           "english": "They have a private worry and cannot sleep all night.",

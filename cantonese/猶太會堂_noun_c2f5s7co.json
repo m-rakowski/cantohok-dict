@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "Jewish synagogue",
-      "english": ["temple"],
+      "english": [
+        {
+          "id": "0b538a18",
+          "word": "temple",
+          "meaning": "Jewish synagogue",
+          "note": "Use this specifically for a Jewish synagogue, rather than a general place of worship."
+        }
+      ],
       "examples": [
         {
           "english": "We went to the temple on Saturday for the service.",

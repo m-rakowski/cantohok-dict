@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "written passage",
-      "english": ["text"],
+      "english": [
+        {
+          "id": "pzvjoliv",
+          "word": "text",
+          "meaning": "written passage",
+          "note": "Use this only for a passage in a textbook or lesson."
+        }
+      ],
       "examples": [
         {
           "english": "We have to memorize this text for dictation next week.",

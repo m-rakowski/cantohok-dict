@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "tone of speech",
-      "english": ["tone", "emphasis", "tongue"],
+      "english": [
+        {
+          "id": "s6l5dzzj",
+          "word": "tone",
+          "meaning": "style or attitude",
+          "note": "This is the all-purpose choice for the manner or attitude conveyed by speech or writing."
+        },
+        {
+          "id": "1x3e47cs",
+          "word": "emphasis",
+          "meaning": "forcefulness in speech",
+          "note": "Use this for emphasis conveyed through the force or tone of someone’s spoken delivery."
+        },
+        {
+          "id": "wipd5xub",
+          "word": "tongue",
+          "meaning": "way of speaking",
+          "note": "Use this for someone's tone or habitual manner of speaking rather than for a language itself."
+        }
+      ],
       "examples": [
         {
           "english": "The tone of the way you’re talking sounds like you’re scolding someone.",

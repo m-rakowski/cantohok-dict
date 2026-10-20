@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "selling financial products to individuals",
-      "english": ["retail"],
+      "english": [
+        {
+          "id": "455ztm0g",
+          "word": "retail",
+          "meaning": "selling financial products to individuals",
+          "note": "Use this specifically in finance for the market serving individual rather than institutional investors."
+        }
+      ],
       "examples": [
         {
           "english": "The retail market fell quite sharply today, and quite a few people lost money.",

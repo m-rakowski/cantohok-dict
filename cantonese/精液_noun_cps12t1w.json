@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "semen",
-      "english": ["seed", "milk"],
+      "english": [
+        {
+          "id": "bta6x365",
+          "word": "seed",
+          "meaning": "semen",
+          "note": "Use this specifically when “seed” means semen rather than a plant seed or a metaphorical beginning."
+        },
+        {
+          "id": "63ty7nvq",
+          "word": "milk",
+          "meaning": "semen",
+          "note": "Use this specific anatomical noun for semen, rather than the milk-related words."
+        }
+      ],
       "examples": [
         {
           "english": "The doctor said there was blood in his seed.",

@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "sleep, go to bed",
-      "english": ["sleep", "rest"],
+      "english": [
+        {
+          "id": "fw5jiwjr",
+          "word": "sleep",
+          "meaning": "sleep, rest unconscious",
+          "note": "This is the all-purpose everyday way to say that someone sleeps."
+        },
+        {
+          "id": "lbzg8i07",
+          "word": "rest",
+          "meaning": "sleep",
+          "register": "colloquial",
+          "note": "Use this specifically when “rest” means to sleep."
+        }
+      ],
       "examples": [
         {
           "english": "I need to go to sleep now.",

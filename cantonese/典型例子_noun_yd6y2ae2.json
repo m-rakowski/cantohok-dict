@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "typical example",
-      "english": ["archetype", "definition"],
+      "english": [
+        {
+          "id": "f5i6rifn",
+          "word": "archetype",
+          "meaning": "ideal example",
+          "note": "Use this for an ideal or quintessential example of a type, rather than its original model."
+        },
+        {
+          "id": "u64f5xdj",
+          "word": "definition",
+          "meaning": "typical example",
+          "note": "Use this for a clear or especially representative example of something."
+        }
+      ],
       "examples": [
         {
           "english": "He is a real archetype of a filial son.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "army corps, legion",
-      "english": ["corps", "legion"],
+      "english": [
+        {
+          "id": "o9b8a16f",
+          "word": "corps",
+          "meaning": "battlefield formation",
+          "note": "This is the all-purpose term for a military corps or battlefield formation."
+        },
+        {
+          "id": "avbseye2",
+          "word": "legion",
+          "meaning": "Roman army unit",
+          "note": "Use this for the Roman army division and for similarly named modern or historical combined-arms military units."
+        }
+      ],
       "examples": [
         {
           "english": "In this battle, the corps was responsible for holding the eastern defensive line.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "abandoned property",
-      "english": ["derelict"],
+      "english": [
+        {
+          "id": "emwc62fy",
+          "word": "derelict",
+          "meaning": "abandoned property",
+          "note": "This is the all-purpose colloquial choice for an abandoned item or piece of property."
+        }
+      ],
       "examples": [
         {
           "english": "This broken table has been left in the back alley for so long that it’s basically a derelict.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "surcharge, extra fee",
-      "english": ["extra", "fee"],
+      "english": [
+        {
+          "id": "xkzcs8qx",
+          "word": "extra",
+          "meaning": "something additional",
+          "note": "Use this specifically when the extra is an additional charge on a bill."
+        },
+        {
+          "id": "817wa9r7",
+          "word": "fee",
+          "meaning": "charge for privilege",
+          "note": "Use this when the fee is an extra surcharge added because of a privilege, special condition, or service."
+        }
+      ],
       "examples": [
         {
           "english": "Why is there an extra charge on the bill?",

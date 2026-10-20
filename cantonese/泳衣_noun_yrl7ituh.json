@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "swimsuit",
-      "english": ["swimsuit", "swimming costume", "costume"],
+      "english": [
+        {
+          "id": "tz0q40us",
+          "word": "swimsuit",
+          "meaning": "swimming garment",
+          "note": "This is the all-purpose choice for a garment worn for swimming, including when the style is not specified."
+        },
+        {
+          "id": "mkvwiw9h",
+          "word": "swimming costume",
+          "meaning": "swimsuit / bathing costume",
+          "note": "This is the all-purpose Cantonese word for a swimsuit or swimming costume."
+        },
+        {
+          "id": "1vxaai76",
+          "word": "costume",
+          "meaning": "swimsuit",
+          "note": "Use this specifically for a swimsuit rather than a costume worn for dressing up."
+        }
+      ],
       "examples": [
         {
           "english": "I bought a new swimsuit to go to the beach.",

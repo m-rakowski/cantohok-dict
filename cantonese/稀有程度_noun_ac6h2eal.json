@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "scarcity",
-      "english": ["rarity"],
+      "english": [
+        {
+          "id": "f61rzopp",
+          "word": "rarity",
+          "meaning": "scarcity",
+          "note": "This is the all-purpose choice for describing how uncommon an object is."
+        }
+      ],
       "examples": [
         {
           "english": "The rarity of this antique is very high, and everyone fought over it at the auction.",

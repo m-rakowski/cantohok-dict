@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "publish in a newspaper or magazine",
-      "english": ["publish", "print"],
+      "english": [
+        {
+          "id": "s6vdw6jb",
+          "word": "publish",
+          "meaning": "issue for sale/distribution",
+          "note": "Use 刊登 when a newspaper, magazine, or website carries an article or other written work."
+        },
+        {
+          "id": "ix7b9p6g",
+          "word": "print",
+          "meaning": "publish in print",
+          "register": "formal",
+          "note": "Use this for publishing material such as a report or rumour in a newspaper or magazine."
+        }
+      ],
       "examples": [
         {
           "english": "The magazine finally agreed to publish this interview.",

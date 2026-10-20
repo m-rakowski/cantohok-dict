@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "elegant, graceful",
-      "english": ["graceful", "elegant"],
+      "english": [
+        {
+          "id": "0faqnx7y",
+          "word": "graceful",
+          "meaning": "elegant in movement",
+          "note": "This is the all-purpose choice for elegant movement, appearance, or proportions."
+        },
+        {
+          "id": "nylf154u",
+          "word": "elegant",
+          "meaning": "graceful, refined",
+          "register": "formal",
+          "note": "This is the all-purpose choice for graceful, tasteful, or refined appearance and manner."
+        }
+      ],
       "examples": [
         {
           "english": "Their dancing posture is very graceful.",

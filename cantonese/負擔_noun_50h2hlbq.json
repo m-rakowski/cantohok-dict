@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "burden",
-      "english": ["encumbrance", "imposition", "load", "burden", "tax"],
+      "english": [
+        {
+          "id": "i7fts2qs",
+          "word": "encumbrance",
+          "meaning": "burden; something that encumbers",
+          "note": "This is the all-purpose choice for a burden or something that has to be carried."
+        },
+        {
+          "id": "4ozdqfmn",
+          "word": "imposition",
+          "meaning": "unwelcome burden or obligation",
+          "note": "Use this when the imposition is mainly a burden or obligation that someone has to carry."
+        },
+        {
+          "id": "2pz7yj3q",
+          "word": "load",
+          "meaning": "weight to carry",
+          "note": "This is the all-purpose choice when the load is a burden on someone, whether physical or a worry."
+        },
+        {
+          "id": "8keqdv2j",
+          "word": "burden",
+          "meaning": "heavy load",
+          "note": "This is the all-purpose choice for a physical, practical, or emotional burden."
+        },
+        {
+          "id": "azxzcmtz",
+          "word": "tax",
+          "meaning": "burden or strain",
+          "note": "Use this for a burdensome demand or strain on something such as time or health."
+        }
+      ],
       "examples": [
         {
           "english": "Looking after two elderly people is a big encumbrance for me.",

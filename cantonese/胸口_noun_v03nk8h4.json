@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "chest",
-      "english": ["chest", "breast"],
+      "english": [
+        {
+          "id": "komntr53",
+          "word": "chest",
+          "meaning": "chest, torso",
+          "note": "This is the all-purpose rendering for the human chest or the area of the body between the neck and abdomen."
+        },
+        {
+          "id": "lo5p6p2c",
+          "word": "breast",
+          "meaning": "chest",
+          "note": "This is the all-purpose spoken choice for the front of the chest."
+        }
+      ],
       "examples": [
         {
           "english": "After running, my chest still feels uncomfortable.",

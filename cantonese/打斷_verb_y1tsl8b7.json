@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "interrupt",
-      "english": ["interrupt", "disrupt", "break"],
+      "english": [
+        {
+          "id": "yv4xjvy6",
+          "word": "interrupt",
+          "meaning": "break in / speak over",
+          "note": "Use 打斷 as the all-purpose verb for interrupting a person, action, or process."
+        },
+        {
+          "id": "zppvi0bj",
+          "word": "disrupt",
+          "meaning": "interrupt or hinder",
+          "note": "Use this when an action, speech, or activity is interrupted before it can continue normally."
+        },
+        {
+          "id": "6x4ll3sq",
+          "word": "break",
+          "meaning": "interrupt, end",
+          "note": "Use this when breaking means interrupting an action, conversation, or continuing process."
+        }
+      ],
       "examples": [
         {
           "english": "Don't interrupt what I'm doing.",

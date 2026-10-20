@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "tune, melody",
-      "english": ["melody", "tune"],
+      "english": [
+        {
+          "id": "otmn59eu",
+          "word": "melody",
+          "meaning": "musical tune",
+          "register": "colloquial",
+          "note": "Use this casual choice when referring specifically to the tune or musical line of a song, often in phrases such as “the song’s tune.”"
+        },
+        {
+          "id": "kk3pdccl",
+          "word": "tune",
+          "meaning": "melody",
+          "note": "Use 調 for the melody or musical air rather than the whole song."
+        }
+      ],
       "examples": [
         {
           "english": "The melody of this song is so catchy that everyone knows how to sing it.",
@@ -22,7 +36,14 @@
     },
     {
       "meaning": "musical key",
-      "english": ["key"],
+      "english": [
+        {
+          "id": "qoo2odqy",
+          "word": "key",
+          "meaning": "musical key",
+          "note": "Use 調 when referring to the scale or tonal basis of a piece of music."
+        }
+      ],
       "examples": [
         {
           "english": "This song is written in a major key.",

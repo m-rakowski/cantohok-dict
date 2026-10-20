@@ -6,7 +6,15 @@
   "boxes": [
     {
       "meaning": "chemical element",
-      "english": ["oxygen"],
+      "english": [
+        {
+          "id": "r5pu0p1e",
+          "word": "oxygen",
+          "meaning": "chemical element",
+          "register": "formal",
+          "note": "Use this specifically when referring to oxygen as a chemical element rather than to the gas in ordinary use."
+        }
+      ],
       "register": "formal",
       "examples": [
         {

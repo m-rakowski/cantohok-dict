@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "bright, well lit",
-      "english": ["bright", "cheerful"],
+      "english": [
+        {
+          "id": "o4sjy881",
+          "word": "bright",
+          "meaning": "shining, emitting light",
+          "note": "This is the all-purpose spoken choice for something that gives off a lot of light or a place that is well lit."
+        },
+        {
+          "id": "5yakmjot",
+          "word": "cheerful",
+          "meaning": "bright, pleasant",
+          "register": "colloquial",
+          "note": "Use this for a room or place that is cheerful because it is bright and pleasant."
+        }
+      ],
       "examples": [
         {
           "english": "This room is really bright, so we don't need to turn on the lights.",

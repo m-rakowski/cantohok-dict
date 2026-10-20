@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "bomb fragment scatter",
-      "english": ["fragmentation"],
+      "english": [
+        {
+          "id": "3ana7za1",
+          "word": "fragmentation",
+          "meaning": "bomb fragment scatter",
+          "note": "Use this specifically when describing bomb fragments scattering in all directions."
+        }
+      ],
       "examples": [
         {
           "english": "The bomb's fragmentation scattered in all directions, so everyone ducked.",

@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "not expensive",
-      "english": ["affordable", "reasonable"],
+      "english": [
+        {
+          "id": "h2cyp0zx",
+          "word": "affordable",
+          "meaning": "inexpensive, reasonably priced",
+          "note": "This is the all-purpose choice for something that is not expensive and is reasonably affordable."
+        },
+        {
+          "id": "7ozqj77x",
+          "word": "reasonable",
+          "meaning": "fairly priced",
+          "register": "colloquial",
+          "note": "Use this when the point is that a price is not high, rather than that it is fair or justified."
+        }
+      ],
       "examples": [
         {
           "english": "The food at this cha chaan teng is affordable.",

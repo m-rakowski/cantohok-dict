@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "hand out, distribute",
-      "english": ["distribute", "dispense", "deal"],
+      "english": [
+        {
+          "id": "uzabwj7k",
+          "word": "distribute",
+          "meaning": "divide and give out",
+          "note": "Use this as the all-purpose choice for dividing items among people or handing things out, such as bread or flyers."
+        },
+        {
+          "id": "xj038bhe",
+          "word": "dispense",
+          "meaning": "give out; distribute",
+          "note": "This is the all-purpose everyday choice for giving items or shares out to people."
+        },
+        {
+          "id": "7uy7r6qy",
+          "word": "deal",
+          "meaning": "deal out",
+          "note": "Use this for handing out or distributing items or shares among recipients, but use 派牌 for cards."
+        }
+      ],
       "examples": [
         {
           "english": "We distribute bread to the residents.",

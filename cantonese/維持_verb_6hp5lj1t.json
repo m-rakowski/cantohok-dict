@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "keep going, maintain",
-      "english": ["sustain", "maintain", "support"],
+      "english": [
+        {
+          "id": "jmzucz0y",
+          "word": "sustain",
+          "meaning": "keep going; maintain",
+          "note": "This is the all-purpose choice when sustain means keeping something going or in existence."
+        },
+        {
+          "id": "mxi1qcgj",
+          "word": "maintain",
+          "meaning": "preserve, uphold",
+          "note": "Use this as the all-purpose choice for actively sustaining an ongoing state, level, system, or relationship."
+        },
+        {
+          "id": "o71qp0uz",
+          "word": "support",
+          "meaning": "provide for, sustain",
+          "note": "Use this when support means sustaining life, a livelihood, or an ongoing condition rather than favoring it."
+        }
+      ],
       "examples": [
         {
           "english": "This policy helps sustain the community’s long-term development.",

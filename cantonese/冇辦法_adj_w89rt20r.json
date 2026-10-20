@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "unable, no way to do it",
-      "english": ["helpless", "unable"],
+      "english": [
+        {
+          "id": "5k5dnyoo",
+          "word": "helpless",
+          "meaning": "unable to act without help",
+          "register": "colloquial",
+          "note": "Use this colloquial phrase when helpless means having no way to solve the problem or get something done."
+        },
+        {
+          "id": "r9kt1js5",
+          "word": "unable",
+          "meaning": "not able; lacking ability",
+          "note": "Use this when stressing that there is no way for the person to manage or solve the situation."
+        }
+      ],
       "examples": [
         {
           "english": "I’m helpless—I have no way to clean up this mess.",

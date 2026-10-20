@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "critic, commentator",
-      "english": ["critic", "judge"],
+      "english": [
+        {
+          "id": "n6emsy2n",
+          "word": "critic",
+          "meaning": "appraiser/reviewer",
+          "note": "This is the all-purpose noun for someone who evaluates other people's work, including an art critic when the field is clear from context."
+        },
+        {
+          "id": "7kkjks3t",
+          "word": "judge",
+          "meaning": "good at judging",
+          "note": "Use this for a public critic or commentator who evaluates things and gives opinions."
+        }
+      ],
       "examples": [
         {
           "english": "This critic often writes film reviews and analyzes them very thoroughly.",

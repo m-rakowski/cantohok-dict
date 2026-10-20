@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "help out, lend a hand",
-      "english": ["oblige", "assist"],
+      "english": [
+        {
+          "id": "cp67gkkd",
+          "word": "oblige",
+          "meaning": "do a favour",
+          "note": "Use this when obliging someone means helping them or doing them a favour."
+        },
+        {
+          "id": "ft8alydc",
+          "word": "assist",
+          "meaning": "help",
+          "register": "colloquial",
+          "note": "Use this when the sense is lending a hand, especially with a particular task or activity."
+        }
+      ],
       "examples": [
         {
           "english": "I came over to help you move on moving day—I was happy to oblige.",

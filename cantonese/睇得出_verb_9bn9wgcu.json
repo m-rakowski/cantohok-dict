@@ -6,7 +6,34 @@
   "boxes": [
     {
       "meaning": "can tell, infer from signs",
-      "english": ["infer", "gather", "show", "read"],
+      "english": [
+        {
+          "id": "dgkbignj",
+          "word": "infer",
+          "meaning": "deduce from evidence",
+          "note": "Use this everyday choice when the conclusion is apparent from clues, behavior, or other observable evidence."
+        },
+        {
+          "id": "3xgkupdd",
+          "word": "gather",
+          "meaning": "infer; deduce",
+          "register": "colloquial",
+          "note": "Use this when a conclusion is apparent from observable evidence, such as someone's behavior or silence."
+        },
+        {
+          "id": "uz8ci9kq",
+          "word": "show",
+          "meaning": "indicate, reveal",
+          "register": "colloquial",
+          "note": "Use this spoken phrase when facts or evidence allow someone to tell or infer a conclusion."
+        },
+        {
+          "id": "24ukz948",
+          "word": "read",
+          "meaning": "interpret signs",
+          "note": "Use this when inferring someone’s thoughts, intentions, or meaning from clues rather than reading written words."
+        }
+      ],
       "examples": [
         {
           "english": "I can infer that you are tired today; you have hardly said anything all morning.",

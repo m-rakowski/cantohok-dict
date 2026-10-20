@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "mess around with, tinker",
-      "english": ["fiddle", "tinker", "mess"],
+      "english": [
+        {
+          "id": "u3ukyzi6",
+          "word": "fiddle",
+          "meaning": "fidget, mess around",
+          "note": "Use the all-purpose colloquial verb 搞 for aimless messing or fidgeting, and for making small adjustments or tinkering."
+        },
+        {
+          "id": "g037ovt0",
+          "word": "tinker",
+          "meaning": "fiddle with, mess with",
+          "note": "This is the all-purpose choice for fiddling with something to try to fix or improve it."
+        },
+        {
+          "id": "s2nxfxul",
+          "word": "mess",
+          "meaning": "interfere; mess around",
+          "note": "Use this as the all-purpose colloquial choice for interfering or messing with someone or something."
+        }
+      ],
       "examples": [
         {
           "english": "Don't fiddle around; concentrate on your revision.",
@@ -27,7 +46,15 @@
     },
     {
       "meaning": "have sex with someone",
-      "english": ["touch"],
+      "english": [
+        {
+          "id": "30tu3thf",
+          "word": "touch",
+          "meaning": "have sex with",
+          "register": "colloquial",
+          "note": "Use this colloquial euphemism when “touch” means having sex with someone."
+        }
+      ],
       "register": "colloquial",
       "note": "Slang; only used this way in certain contexts.",
       "examples": [

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "basin, tub",
-      "english": ["tub", "pan"],
+      "english": [
+        {
+          "id": "6pn1kvd7",
+          "word": "tub",
+          "meaning": "storage or washing tub",
+          "note": "Use 盆 as the everyday general word for a broad, shallow container used for washing or holding things."
+        },
+        {
+          "id": "m80l1zst",
+          "word": "pan",
+          "meaning": "basin / wash pan",
+          "note": "Use this for a deep household basin or wash pan, especially a plastic one."
+        }
+      ],
       "examples": [
         {
           "english": "I’ll soak the clothes in a tub first.",

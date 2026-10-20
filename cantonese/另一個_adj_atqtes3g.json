@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "the other one, another one",
-      "english": ["alternative", "opposite"],
+      "english": [
+        {
+          "id": "1ysuk63z",
+          "word": "alternative",
+          "meaning": "choice between options",
+          "register": "colloquial",
+          "note": "Use this for the other option or proposal when contrasting it with one already mentioned."
+        },
+        {
+          "id": "auj437ne",
+          "word": "opposite",
+          "meaning": "the other of two",
+          "note": "Use this for the other one of two alternatives or complementary things."
+        }
+      ],
       "examples": [
         {
           "english": "If you don't like this one, we can try another alternative.",

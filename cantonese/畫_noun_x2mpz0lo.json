@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "painting, picture",
-      "english": ["painting", "depiction"],
+      "english": [
+        {
+          "id": "4a4cmrdn",
+          "word": "painting",
+          "meaning": "artwork painted",
+          "note": "This is the all-purpose spoken noun for a painted artwork."
+        },
+        {
+          "id": "3bjseur0",
+          "word": "depiction",
+          "meaning": "lifelike image / portrayal",
+          "note": "Use this for a visual depiction and for a drawing or painting, especially when referring to the physical artwork."
+        }
+      ],
       "examples": [
         {
           "english": "This painting has a great atmosphere.",

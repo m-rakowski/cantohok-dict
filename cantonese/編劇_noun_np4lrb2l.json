@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "scriptwriter",
-      "english": ["playwright", "dramatist", "screenwriter"],
+      "english": [
+        {
+          "id": "156jgxkb",
+          "word": "playwright",
+          "meaning": "writer of plays",
+          "note": "Use this when focusing on someone who writes the script, especially when the production may be a film, television programme, or stage play."
+        },
+        {
+          "id": "86b3y6qs",
+          "word": "dramatist",
+          "meaning": "playwright",
+          "note": "This is the all-purpose everyday term for someone who writes plays or scripts."
+        },
+        {
+          "id": "xliaom6j",
+          "word": "screenwriter",
+          "meaning": "film/TV writer",
+          "note": "This is the all-purpose Cantonese noun for someone who writes scripts for films or television."
+        }
+      ],
       "examples": [
         {
           "english": "They are the playwright for the TV drama and often have to revise the script.",

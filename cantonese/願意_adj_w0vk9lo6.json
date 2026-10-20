@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "willing",
-      "english": ["prepared", "willing", "happy"],
+      "english": [
+        {
+          "id": "k31li49j",
+          "word": "prepared",
+          "meaning": "willing; ready to do",
+          "note": "This is the all-purpose choice for saying someone is willing or ready to do something."
+        },
+        {
+          "id": "jcvri7u3",
+          "word": "willing",
+          "meaning": "ready / agreeable to do",
+          "note": "Use this when you want to state willingness explicitly or give it a more deliberate tone."
+        },
+        {
+          "id": "mvtfp48u",
+          "word": "happy",
+          "meaning": "willing, agreeable",
+          "note": "Use this when happy means willing or having no objection to doing something."
+        }
+      ],
       "examples": [
         {
           "english": "I’m prepared to help you move house.",

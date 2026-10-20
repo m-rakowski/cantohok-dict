@@ -6,7 +6,51 @@
   "boxes": [
     {
       "meaning": "to think, think over",
-      "english": ["think", "consider", "meditate", "ponder", "mull over", "puzzle", "chew"],
+      "english": [
+        {
+          "id": "jmkvndjv",
+          "word": "think",
+          "meaning": "ponder, go over in mind",
+          "note": "This is the all-purpose colloquial verb for pondering or having a thought in mind."
+        },
+        {
+          "id": "44f1vsrv",
+          "word": "consider",
+          "meaning": "think seriously about",
+          "register": "colloquial",
+          "note": "This is the all-purpose colloquial choice for thinking about something, including whether to do it."
+        },
+        {
+          "id": "mf5d36ri",
+          "word": "meditate",
+          "meaning": "think deeply; contemplate",
+          "note": "This is the all-purpose colloquial choice for thinking carefully about something or reflecting on it."
+        },
+        {
+          "id": "aydnxcms",
+          "word": "ponder",
+          "meaning": "consider carefully",
+          "note": "This is the all-purpose colloquial choice for thinking carefully about something."
+        },
+        {
+          "id": "wdiv4tr3",
+          "word": "mull over",
+          "meaning": "think deeply about",
+          "note": "This is the all-purpose colloquial choice for thinking carefully about something."
+        },
+        {
+          "id": "uv8ju0qn",
+          "word": "puzzle",
+          "meaning": "try to solve",
+          "note": "This is the all-purpose spoken choice for trying to work out or puzzling over a difficult matter."
+        },
+        {
+          "id": "iogqqnvz",
+          "word": "chew",
+          "meaning": "ponder, think over",
+          "note": "Use this for thinking something over rather than physically chewing it."
+        }
+      ],
       "examples": [
         {
           "english": "I think about whether to go see a movie tomorrow.",
@@ -47,7 +91,15 @@
     },
     {
       "meaning": "to think, reckon (as in 我諗)",
-      "english": ["guess"],
+      "english": [
+        {
+          "id": "9vd119z4",
+          "word": "guess",
+          "meaning": "I guess: think, reckon",
+          "register": "colloquial",
+          "note": "Use this, especially as 我諗, for “I guess” meaning “I think” or “I reckon” without stressing uncertainty."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

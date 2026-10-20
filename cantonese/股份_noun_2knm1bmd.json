@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "company stock",
-      "english": ["share"],
+      "english": [
+        {
+          "id": "wj0wm1ga",
+          "word": "share",
+          "meaning": "company stock",
+          "note": "Use this when emphasizing an ownership stake in a company rather than the tradable stock itself."
+        }
+      ],
       "examples": [
         {
           "english": "They have a thirty-percent share in the company.",

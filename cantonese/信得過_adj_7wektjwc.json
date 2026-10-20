@@ -6,7 +6,33 @@
   "boxes": [
     {
       "meaning": "trustworthy, reliable",
-      "english": ["trustworthy", "trusty", "credible", "dependable"],
+      "english": [
+        {
+          "id": "jnsmi8ls",
+          "word": "trustworthy",
+          "meaning": "reliable; deserving of trust",
+          "register": "colloquial",
+          "note": "This is the everyday choice for a person or source that you can trust."
+        },
+        {
+          "id": "8yd0prjs",
+          "word": "trusty",
+          "meaning": "reliable, dependable",
+          "note": "Use this when stressing that a person, source, or product is trustworthy and can be trusted."
+        },
+        {
+          "id": "3h0j2gvz",
+          "word": "credible",
+          "meaning": "dependable, trustworthy",
+          "note": "Use this especially for a person, source, or service that you feel you can trust and rely on."
+        },
+        {
+          "id": "bodspq2x",
+          "word": "dependable",
+          "meaning": "reliable; can be depended on",
+          "note": "Use this mainly for a person or organization whose trustworthiness makes them dependable."
+        }
+      ],
       "examples": [
         {
           "english": "This shop is trustworthy.",

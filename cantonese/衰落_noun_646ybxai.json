@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "decline, fall from power",
-      "english": ["downfall", "fall"],
+      "english": [
+        {
+          "id": "nui4d6je",
+          "word": "downfall",
+          "meaning": "ruin; collapse",
+          "note": "Use this as the all-purpose noun for a decline or collapse in status, power, wealth, or an empire."
+        },
+        {
+          "id": "72usj6t3",
+          "word": "fall",
+          "meaning": "decline in status",
+          "note": "Use this for a decline in greatness, power, or social status."
+        }
+      ],
       "examples": [
         {
           "english": "The downfall of this dynasty was so rapid that it left everyone speechless.",

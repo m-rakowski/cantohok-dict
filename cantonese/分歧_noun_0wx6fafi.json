@@ -6,7 +6,33 @@
   "boxes": [
     {
       "meaning": "disagreement, difference of views",
-      "english": ["dissension", "incongruity", "disagreement", "division"],
+      "english": [
+        {
+          "id": "i0k0kuar",
+          "word": "dissension",
+          "meaning": "disagreement, discord",
+          "note": "Use this when the disagreement is a difference of views between sides rather than an actual quarrel."
+        },
+        {
+          "id": "z09klygg",
+          "word": "incongruity",
+          "meaning": "disagreement",
+          "note": "Use this for a specific point of disagreement between people, views, or positions."
+        },
+        {
+          "id": "1l11bqqo",
+          "word": "disagreement",
+          "meaning": "lack of agreement",
+          "note": "Use this for a difference or divergence of views, positions, or results without implying an actual argument."
+        },
+        {
+          "id": "engjy4a4",
+          "word": "division",
+          "meaning": "disagreement; split",
+          "register": "formal",
+          "note": "Use this for a difference of opinion or a split between two sides."
+        }
+      ],
       "examples": [
         {
           "english": "We have dissension over this proposal, but we can still work together.",

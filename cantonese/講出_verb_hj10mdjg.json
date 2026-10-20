@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "to say out loud, speak out",
-      "english": ["voice", "utter", "name"],
+      "english": [
+        {
+          "id": "yr0wuu57",
+          "word": "voice",
+          "meaning": "express in words",
+          "note": "Use this as the all-purpose spoken choice when someone puts words to a thought, feeling, or opinion."
+        },
+        {
+          "id": "wnpyn4oa",
+          "word": "utter",
+          "meaning": "say out loud",
+          "note": "Use this when the utterance specifically puts words or content into speech, rather than merely making a vocal sound."
+        },
+        {
+          "id": "th49h1vy",
+          "word": "name",
+          "meaning": "mention or specify",
+          "note": "Use 講出 when naming means stating or disclosing information, such as demands or someone's name."
+        }
+      ],
       "examples": [
         {
           "english": "I want to voice my feelings.",

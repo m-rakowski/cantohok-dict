@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "movie, film",
-      "english": ["movie", "film", "cinema", "picture"],
+      "english": [
+        {
+          "id": "yclpx3ji",
+          "word": "movie",
+          "meaning": "feature film",
+          "note": "Use 電影 as the all-purpose word for a movie or feature film."
+        },
+        {
+          "id": "ux7e30rl",
+          "word": "film",
+          "meaning": "movies, cinema",
+          "note": "This is the all-purpose term for film as a medium or the movies generally."
+        },
+        {
+          "id": "op7nuhhx",
+          "word": "cinema",
+          "meaning": "films collectively",
+          "note": "Use this all-purpose word when referring to films collectively rather than to a theatre."
+        },
+        {
+          "id": "h7wozcvv",
+          "word": "picture",
+          "meaning": "the movies",
+          "note": "Use this when “picture” means cinema or films as entertainment rather than a still image."
+        }
+      ],
       "examples": [
         {
           "english": "This movie is really good.",

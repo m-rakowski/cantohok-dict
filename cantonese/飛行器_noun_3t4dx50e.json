@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "flying vehicle, aircraft",
-      "english": ["aircraft", "craft"],
+      "english": [
+        {
+          "id": "w3v9g2e0",
+          "word": "aircraft",
+          "meaning": "flying vehicle",
+          "register": "written",
+          "note": "Use this more precise technical term when referring broadly to any vehicle designed to fly, including less ordinary types."
+        },
+        {
+          "id": "si9oe8h1",
+          "word": "craft",
+          "meaning": "vehicle; vessel",
+          "note": "Use this for an aircraft or other flying craft; a space vehicle is usually named more specifically."
+        }
+      ],
       "examples": [
         {
           "english": "This type of aircraft can fly at high altitude for long periods.",

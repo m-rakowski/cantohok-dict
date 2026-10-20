@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "attendance list",
-      "english": ["register"],
+      "english": [
+        {
+          "id": "ncb4hxdy",
+          "word": "register",
+          "meaning": "attendance list",
+          "note": "Use this for a physical or formal record of names, events, or transactions rather than the act itself."
+        }
+      ],
       "examples": [
         {
           "english": "Please sign the register.",

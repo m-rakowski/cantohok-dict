@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "equipment enclosure",
-      "english": ["cabinet"],
+      "english": [
+        {
+          "id": "fo3l4s1u",
+          "word": "cabinet",
+          "meaning": "equipment enclosure",
+          "note": "Use this specifically for a cabinet or enclosure housing mechanical or electrical equipment."
+        }
+      ],
       "examples": [
         {
           "english": "The equipment is housed in a cabinet.",

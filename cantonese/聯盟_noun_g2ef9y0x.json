@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "alliance of groups or countries",
-      "english": ["coalition", "union", "league"],
+      "english": [
+        {
+          "id": "9o1v5gc1",
+          "word": "coalition",
+          "meaning": "political alliance",
+          "note": "This is the all-purpose choice for a temporary alliance of parties or organizations."
+        },
+        {
+          "id": "n5xps2jo",
+          "word": "union",
+          "meaning": "union, alliance",
+          "note": "Use this for an alliance, league, or coalition of groups."
+        },
+        {
+          "id": "03t2qzoe",
+          "word": "league",
+          "meaning": "association; alliance",
+          "note": "Use 聯盟 as the all-purpose noun for an organized alliance of groups or countries."
+        }
+      ],
       "examples": [
         {
           "english": "To stand up to the conglomerate, several small parties formed a coalition.",

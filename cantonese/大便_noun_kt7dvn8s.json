@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "poo, stool",
-      "english": ["dump", "stool"],
+      "english": [
+        {
+          "id": "l0v7elsz",
+          "word": "dump",
+          "meaning": "defecation",
+          "register": "colloquial",
+          "note": "Use this as the noun for a bowel movement or defecation."
+        },
+        {
+          "id": "vmniytv9",
+          "word": "stool",
+          "meaning": "feces",
+          "register": "formal",
+          "note": "A speaker chooses this more polite or medical term instead of 屎, especially for stool samples."
+        }
+      ],
       "examples": [
         {
           "english": "I took a dump yesterday.",

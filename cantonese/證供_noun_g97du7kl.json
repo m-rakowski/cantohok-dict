@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "testimony in court",
-      "english": ["testimony", "testimonial", "witness"],
+      "english": [
+        {
+          "id": "79tpjaip",
+          "word": "testimony",
+          "meaning": "court witness statement",
+          "register": "formal",
+          "note": "Use this for what a witness says as evidence in court."
+        },
+        {
+          "id": "8eb35g72",
+          "word": "testimonial",
+          "meaning": "statement / testimony",
+          "note": "Use this for a witness's evidence or testimony given to a court."
+        },
+        {
+          "id": "pwt55g0u",
+          "word": "witness",
+          "meaning": "testimony; attestation",
+          "note": "Use this for testimony or an account given as evidence, especially in an investigation or court case."
+        }
+      ],
       "examples": [
         {
           "english": "The witness's testimony in court was crucial.",

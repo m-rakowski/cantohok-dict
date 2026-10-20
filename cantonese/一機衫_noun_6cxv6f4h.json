@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "a washing-machine load of clothes",
-      "english": ["wash", "load"],
+      "english": [
+        {
+          "id": "k00hu45q",
+          "word": "wash",
+          "meaning": "load of laundry",
+          "register": "colloquial",
+          "note": "Use this for one washing-machine load of clothes."
+        },
+        {
+          "id": "bwd2rmvs",
+          "word": "load",
+          "meaning": "washing-machine load",
+          "register": "colloquial",
+          "note": "Use this specifically for one washing-machine load of clothes."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

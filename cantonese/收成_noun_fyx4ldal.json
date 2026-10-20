@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "harvest, crop yield",
-      "english": ["harvest", "crop"],
+      "english": [
+        {
+          "id": "8eir8uj0",
+          "word": "harvest",
+          "meaning": "crop yield",
+          "note": "This is the everyday all-purpose noun for the crops obtained or the farming result."
+        },
+        {
+          "id": "crft79ru",
+          "word": "crop",
+          "meaning": "crop yield; harvest amount",
+          "note": "Use this for the amount harvested in a season, not the plant itself."
+        }
+      ],
       "examples": [
         {
           "english": "This year's rice harvest is pretty good.",

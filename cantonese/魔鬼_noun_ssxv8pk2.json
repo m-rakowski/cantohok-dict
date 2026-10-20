@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "devil, demon",
-      "english": ["devil", "fiend"],
+      "english": [
+        {
+          "id": "34g2u7tw",
+          "word": "devil",
+          "meaning": "evil spirit, devil",
+          "note": "Use this as the all-purpose noun for a devil or Satan-like evil being."
+        },
+        {
+          "id": "vbhmukd2",
+          "word": "fiend",
+          "meaning": "demon, evil spirit",
+          "note": "This is the all-purpose choice for a demon and can also describe a person regarded as utterly evil."
+        }
+      ],
       "examples": [
         {
           "english": "The devil uses people's greed to lead them astray.",

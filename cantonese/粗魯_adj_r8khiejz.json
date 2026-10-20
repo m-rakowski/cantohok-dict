@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "rude, coarse in manner",
-      "english": ["rude", "crude"],
+      "english": [
+        {
+          "id": "g02qa5bm",
+          "word": "rude",
+          "meaning": "bad-mannered, discourteous",
+          "note": "Use this when the person’s manner is especially rough, coarse, or uncouth rather than merely impolite."
+        },
+        {
+          "id": "bpnv4bz0",
+          "word": "crude",
+          "meaning": "offensive, tactless",
+          "note": "Use this for a remark or manner that is tactless, rude, or lacking in taste."
+        }
+      ],
       "examples": [
         {
           "english": "They shout at people in the street all the time; they’re really rude.",

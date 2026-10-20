@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "a little money",
-      "english": ["dime", "cent"],
+      "english": [
+        {
+          "id": "czz5edwt",
+          "word": "dime",
+          "meaning": "small amount of money",
+          "register": "colloquial",
+          "note": "Use this for a small amount of money rather than a specific coin."
+        },
+        {
+          "id": "g1oqbztf",
+          "word": "cent",
+          "meaning": "small amount of money",
+          "note": "Use 少少錢 when cent means a small sum of money rather than the currency unit itself."
+        }
+      ],
       "examples": [
         {
           "english": "I only made a dime from selling that old book.",

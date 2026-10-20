@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "criticize",
-      "english": ["reprove", "reproach", "blame", "knock"],
+      "english": [
+        {
+          "id": "wet0ayrn",
+          "word": "reprove",
+          "meaning": "express disapproval",
+          "note": "Use 批評 as the all-purpose choice for expressing disapproval or criticism without necessarily scolding someone personally."
+        },
+        {
+          "id": "7toexrl5",
+          "word": "reproach",
+          "meaning": "criticize; rebuke",
+          "note": "Use this for neutral criticism rather than the sharper verbal scolding covered by 鬧."
+        },
+        {
+          "id": "gogmkze0",
+          "word": "blame",
+          "meaning": "criticize, censure",
+          "note": "Use 批評 when criticizing or censuring someone's actions, behavior, or views rather than assigning causal responsibility."
+        },
+        {
+          "id": "t1ww87n6",
+          "word": "knock",
+          "meaning": "criticize",
+          "note": "Use this for neutral or explicit verbal criticism of someone or something."
+        }
+      ],
       "examples": [
         {
           "english": "Many residents reprove the new arrangement for being inconvenient.",

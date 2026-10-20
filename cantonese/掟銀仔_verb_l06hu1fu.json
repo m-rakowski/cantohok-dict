@@ -6,7 +6,15 @@
   "boxes": [
     {
       "meaning": "toss a coin",
-      "english": ["flip"],
+      "english": [
+        {
+          "id": "q4bb9raa",
+          "word": "flip",
+          "meaning": "toss a coin",
+          "register": "colloquial",
+          "note": "Use this specifically when tossing a coin to make a decision."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

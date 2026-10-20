@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "stain, dirty mark",
-      "english": ["splatter", "stain", "dirt", "spot"],
+      "english": [
+        {
+          "id": "gtyu6l4m",
+          "word": "splatter",
+          "meaning": "mess from splashing",
+          "note": "Use this as the all-purpose noun for marks or mess left by splashing, especially paint or oil on a surface."
+        },
+        {
+          "id": "26qmqon1",
+          "word": "stain",
+          "meaning": "mark from spill",
+          "note": "This is the all-purpose choice for a discoloured mark left by a spill or contact with a substance."
+        },
+        {
+          "id": "7sxd0mad",
+          "word": "dirt",
+          "meaning": "stain, grime",
+          "note": "Use this for a visible stain or mark on clothing, furniture, or another surface."
+        },
+        {
+          "id": "5zv9szqv",
+          "word": "spot",
+          "meaning": "stain or mark",
+          "note": "Use this for a stain or dirty mark that you want to remove."
+        }
+      ],
       "examples": [
         {
           "english": "There are some oil splatter marks on the table that won't come off.",

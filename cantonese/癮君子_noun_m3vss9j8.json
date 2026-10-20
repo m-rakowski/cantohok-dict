@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "addict",
-      "english": ["addict", "fiend"],
+      "english": [
+        {
+          "id": "ugzy2qok",
+          "word": "addict",
+          "meaning": "person addicted",
+          "note": "Use this established term mainly for a person addicted to harmful drugs, rather than for every kind of addiction."
+        },
+        {
+          "id": "fxrea3vj",
+          "word": "fiend",
+          "meaning": "addict, fanatic",
+          "register": "formal",
+          "note": "Use this for an addict, especially someone addicted to drugs."
+        }
+      ],
       "examples": [
         {
           "english": "That addict hangs around the back alleys all the time.",

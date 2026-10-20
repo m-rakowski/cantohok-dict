@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "shelter",
-      "english": ["hostel", "home"],
+      "english": [
+        {
+          "id": "qy0zka6e",
+          "word": "hostel",
+          "meaning": "homeless shelter",
+          "note": "Use this for a shelter providing homeless people with a temporary bed and possibly food."
+        },
+        {
+          "id": "pgtfrvz6",
+          "word": "home",
+          "meaning": "refuge or care home",
+          "note": "Use this for a refuge or asylum, not for an ordinary private home."
+        }
+      ],
       "examples": [
         {
           "english": "This hostel lets homeless people stay temporarily.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "rise sharply",
-      "english": ["surge", "jump"],
+      "english": [
+        {
+          "id": "o0l6ke1i",
+          "word": "surge",
+          "meaning": "rise suddenly",
+          "note": "Use this as the all-purpose choice for figures, prices, sales, or other quantities that rise suddenly."
+        },
+        {
+          "id": "9fv731nz",
+          "word": "jump",
+          "meaning": "rise sharply",
+          "note": "Use this for prices, figures, or other quantities that rise sharply rather than for a person physically jumping."
+        }
+      ],
       "examples": [
         {
           "english": "Oil prices surge, and everyone says they can’t cope.",

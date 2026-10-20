@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "withdraw, pull out",
-      "english": ["evacuate", "detract"],
+      "english": [
+        {
+          "id": "kch6aths",
+          "word": "evacuate",
+          "meaning": "leave/clear out",
+          "register": "colloquial",
+          "note": "This is the colloquial, all-purpose choice when people or troops withdraw from a place."
+        },
+        {
+          "id": "q9jr9hw4",
+          "word": "detract",
+          "meaning": "take away, diminish",
+          "note": "Use this when people, troops, equipment, or other resources are withdrawn from somewhere."
+        }
+      ],
       "examples": [
         {
           "english": "When the earthquake hits, we need to evacuate immediately.",

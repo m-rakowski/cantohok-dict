@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "pause, stop for now",
-      "english": ["suspend", "pause"],
+      "english": [
+        {
+          "id": "qe40opwa",
+          "word": "suspend",
+          "meaning": "halt temporarily",
+          "note": "Use 暫停 as the all-purpose choice for temporarily halting an activity, or for temporarily withdrawing a privilege or duty."
+        },
+        {
+          "id": "i9zglp3t",
+          "word": "pause",
+          "meaning": "pause playback",
+          "note": "Use this especially for pausing a song, video, game, or other playback so it can resume from the same point."
+        }
+      ],
       "examples": [
         {
           "english": "Let's suspend tonight's livestream because the internet keeps cutting out.",

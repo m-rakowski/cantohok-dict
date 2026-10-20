@@ -6,7 +6,28 @@
   "boxes": [
     {
       "meaning": "damn, extremely",
-      "english": ["damn", "bloody", "fiendishly"],
+      "english": [
+        {
+          "id": "j7x0vnr6",
+          "word": "damn",
+          "meaning": "generic intensifier (adverb)",
+          "register": "colloquial",
+          "note": "This is the all-purpose colloquial intensifier for saying something is damn or extremely so."
+        },
+        {
+          "id": "0wq5qvpi",
+          "word": "bloody",
+          "meaning": "expletive adverb",
+          "note": "Use this as the all-purpose spoken intensifier before an adjective or adverb, especially when expressing strong annoyance or emphasis."
+        },
+        {
+          "id": "axhrlysi",
+          "word": "fiendishly",
+          "meaning": "extremely, very",
+          "register": "colloquial",
+          "note": "Use this colloquial all-purpose intensifier for something extremely difficult, unpleasant, or otherwise harsh."
+        }
+      ],
       "examples": [
         {
           "english": "It's damn hot today.",

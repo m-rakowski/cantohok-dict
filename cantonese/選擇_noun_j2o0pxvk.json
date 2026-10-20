@@ -6,7 +6,56 @@
   "boxes": [
     {
       "meaning": "choice, option",
-      "english": ["pick", "choice", "option", "alternative", "selection", "range", "decision", "possibility"],
+      "english": [
+        {
+          "id": "j1lr8wg6",
+          "word": "pick",
+          "meaning": "choice; selection",
+          "note": "This is the all-purpose noun for a choice or selection."
+        },
+        {
+          "id": "ilcm9ajv",
+          "word": "choice",
+          "meaning": "option; decision",
+          "note": "Use this as the all-purpose noun for an option, a selection, or the result of deciding."
+        },
+        {
+          "id": "8vm7w4jp",
+          "word": "option",
+          "meaning": "choice",
+          "note": "This is the all-purpose choice among several alternatives."
+        },
+        {
+          "id": "hobr1emi",
+          "word": "alternative",
+          "meaning": "choice, option",
+          "note": "This is the all-purpose noun for a choice or one of the possibilities available."
+        },
+        {
+          "id": "vtk7vne8",
+          "word": "selection",
+          "meaning": "choosing; act of selecting",
+          "note": "This is the all-purpose noun for the act of choosing or the choice someone makes."
+        },
+        {
+          "id": "y86yqk3a",
+          "word": "range",
+          "meaning": "variety, selection",
+          "note": "Use this as the all-purpose noun for the available options or variety of products and services."
+        },
+        {
+          "id": "q0jsrg6k",
+          "word": "decision",
+          "meaning": "choice or judgement",
+          "note": "Use this for the choice among alternatives rather than for the resulting decision or a formal ruling."
+        },
+        {
+          "id": "72gj8ekv",
+          "word": "possibility",
+          "meaning": "option, future choice",
+          "note": "Use this when the possibility means an option or choice available for the future."
+        }
+      ],
       "examples": [
         {
           "english": "There are lots of choices to pick from at this restaurant.",

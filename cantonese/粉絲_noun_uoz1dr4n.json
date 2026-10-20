@@ -6,7 +6,33 @@
   "boxes": [
     {
       "meaning": "fan",
-      "english": ["follower", "devotee", "fan", "audience"],
+      "english": [
+        {
+          "id": "0ww97c6a",
+          "word": "follower",
+          "meaning": "social media follower",
+          "note": "Use this as the everyday social-media term for someone subscribed to another account’s content."
+        },
+        {
+          "id": "l8rtq9a8",
+          "word": "devotee",
+          "meaning": "enthusiastic admirer",
+          "register": "colloquial",
+          "note": "This is the all-purpose choice for an enthusiastic admirer or fan of a person, group, or activity."
+        },
+        {
+          "id": "8thicmo2",
+          "word": "fan",
+          "meaning": "admirer; supporter",
+          "note": "Use this for a supporter or admirer, especially of a performer, team, or public figure."
+        },
+        {
+          "id": "f9nd3z4d",
+          "word": "audience",
+          "meaning": "following",
+          "note": "Use this for a performer’s fan following, not simply the people currently attending an event."
+        }
+      ],
       "examples": [
         {
           "english": "I’m a follower of their channel.",

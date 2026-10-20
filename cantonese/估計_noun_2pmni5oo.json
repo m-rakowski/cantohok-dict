@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "estimate, guess",
-      "english": ["guess", "estimate", "estimation", "calculation"],
+      "english": [
+        {
+          "id": "jx7wfgv5",
+          "word": "guess",
+          "meaning": "a guess, prediction",
+          "note": "This is the all-purpose noun for a prediction or estimate made without firm evidence."
+        },
+        {
+          "id": "22y1fg1e",
+          "word": "estimate",
+          "meaning": "roughly calculate value/cost",
+          "note": "This is the all-purpose noun for a rough, non-final calculation or assessment."
+        },
+        {
+          "id": "a9b33ts1",
+          "word": "estimation",
+          "meaning": "estimated amount or value",
+          "note": "This is the all-purpose noun for an estimate, whether referring to the act of estimating or the resulting amount."
+        },
+        {
+          "id": "bxaa8gt2",
+          "word": "calculation",
+          "meaning": "estimate, reckoning",
+          "note": "Use this when calculation means an estimate or reckoning, as in 按我嘅估計 ‘by my estimate’."
+        }
+      ],
       "examples": [
         {
           "english": "This is just my guess.",

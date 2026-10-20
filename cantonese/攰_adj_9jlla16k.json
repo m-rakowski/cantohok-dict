@@ -6,7 +6,44 @@
   "boxes": [
     {
       "meaning": "tired",
-      "english": ["tired", "exhausted", "worn", "weary", "worn-out", "dead"],
+      "english": [
+        {
+          "id": "lpwtrdos",
+          "word": "tired",
+          "meaning": "in need of rest",
+          "note": "This is the all-purpose everyday word for needing rest or sleep."
+        },
+        {
+          "id": "gu0efcg3",
+          "word": "exhausted",
+          "meaning": "very tired",
+          "note": "This is the all-purpose choice for a person who is very tired."
+        },
+        {
+          "id": "1cp3qrab",
+          "word": "worn",
+          "meaning": "worn out; exhausted",
+          "note": "Use this for a person who is worn out or exhausted, rather than for a damaged object."
+        },
+        {
+          "id": "q2u3ccnv",
+          "word": "weary",
+          "meaning": "physically tired",
+          "note": "This is the all-purpose choice for being physically tired and for a visibly tired expression, such as 笑得好攰."
+        },
+        {
+          "id": "qxepjd8v",
+          "word": "worn-out",
+          "meaning": "worn out, exhausted",
+          "note": "Use this for a person or animal that is exhausted from exertion, rather than merely old or physically worn."
+        },
+        {
+          "id": "etgc9xbq",
+          "word": "dead",
+          "meaning": "utterly exhausted",
+          "note": "Use 攰 for the adjective meaning exhausted, with the context showing that the tiredness is extreme."
+        }
+      ],
       "examples": [
         {
           "english": "I’m really tired after work today and want to go to bed early.",
@@ -42,7 +79,15 @@
     },
     {
       "meaning": "tiring",
-      "english": ["tiring"],
+      "english": [
+        {
+          "id": "mhobr140",
+          "word": "tiring",
+          "meaning": "causing fatigue",
+          "register": "colloquial",
+          "note": "Use this colloquial choice when the activity itself is described from the tired person's point of view, as in 行山好攰."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

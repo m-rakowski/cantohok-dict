@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "group of livestock",
-      "english": ["herd"],
+      "english": [
+        {
+          "id": "tsadt68s",
+          "word": "herd",
+          "meaning": "group of livestock",
+          "note": "This is the all-purpose choice for a group of animals, or neutrally a group of people when the following noun supplies the context."
+        }
+      ],
       "examples": [
         {
           "english": "There is a herd of cows on the farm.",

@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "nonsensical, silly",
-      "english": ["absurd", "flighty"],
+      "english": [
+        {
+          "id": "nfrbjxuf",
+          "word": "absurd",
+          "meaning": "ridiculous; nonsensical",
+          "register": "colloquial",
+          "note": "Use this when a remark, action, or idea makes no sense or is nonsensical, rather than merely improper."
+        },
+        {
+          "id": "dhll9sog",
+          "word": "flighty",
+          "meaning": "erratic, impulsive",
+          "register": "colloquial",
+          "note": "Use this when the person’s ideas or behaviour are especially silly, nonsensical, or eccentric."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

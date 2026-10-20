@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "illegal drugs",
-      "english": ["drug", "junk", "stuff"],
+      "english": [
+        {
+          "id": "c45pu0c9",
+          "word": "drug",
+          "meaning": "illegal recreational drug",
+          "note": "Use 毒品 specifically for an illegal or addictive recreational drug."
+        },
+        {
+          "id": "8im31byo",
+          "word": "junk",
+          "meaning": "drugs",
+          "note": "Use this general noun for narcotic drugs; it does not by itself specify heroin."
+        },
+        {
+          "id": "guqgw1vs",
+          "word": "stuff",
+          "meaning": "drugs",
+          "note": "Use 毒品 when “stuff” is a euphemistic reference to narcotic drugs."
+        }
+      ],
       "examples": [
         {
           "english": "The police found an illegal drug in his bag.",

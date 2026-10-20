@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "shop assistant",
-      "english": ["clerk", "salesperson", "shop assistant", "assistant"],
+      "english": [
+        {
+          "id": "nuoh74kg",
+          "word": "clerk",
+          "meaning": "store clerk",
+          "note": "Use 店員 for the person serving customers in a shop or market."
+        },
+        {
+          "id": "jygvio5o",
+          "word": "salesperson",
+          "meaning": "shop/store seller",
+          "note": "Use this for a shop employee when the retail-shop context makes it clear that the person is serving or selling to customers."
+        },
+        {
+          "id": "4rd6lrcy",
+          "word": "shop assistant",
+          "meaning": "shop employee",
+          "note": "This is the all-purpose word for an employee working in a shop."
+        },
+        {
+          "id": "y1ildedr",
+          "word": "assistant",
+          "meaning": "shop assistant",
+          "note": "Use this for the staff member serving customers in a shop rather than a general helper."
+        }
+      ],
       "examples": [
         {
           "english": "This clerk quickly found the right size for me.",

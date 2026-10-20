@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "you yourself",
-      "english": ["yourself", "you"],
+      "english": [
+        {
+          "id": "fvbi3ybp",
+          "word": "yourself",
+          "meaning": "emphatic singular",
+          "note": "Use this when stressing that the addressee, rather than anyone else, is involved."
+        },
+        {
+          "id": "ywrgnn7c",
+          "word": "you",
+          "meaning": "reflexive 'you'",
+          "note": "Use this for singular “yourself” when the person addressed is the reflexive object."
+        }
+      ],
       "examples": [
         {
           "english": "You go ask him yourself; I don't need to come with you.",

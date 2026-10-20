@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "tourism industry",
-      "english": ["tourism"],
+      "english": [
+        {
+          "id": "p3ad48zc",
+          "word": "tourism",
+          "meaning": "tourism industry",
+          "note": "Use this specifically for the tourism industry rather than the activity itself."
+        }
+      ],
       "examples": [
         {
           "english": "Hong Kong’s tourism industry has developed quickly in recent years.",

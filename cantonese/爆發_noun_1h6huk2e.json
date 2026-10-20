@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "outbreak, sudden spread",
-      "english": ["outbreak", "explosion"],
+      "english": [
+        {
+          "id": "kj0h16rk",
+          "word": "outbreak",
+          "meaning": "disease outbreak",
+          "note": "Use this as the default noun for the sudden appearance of a disease, epidemic, or rash."
+        },
+        {
+          "id": "bcsyn381",
+          "word": "explosion",
+          "meaning": "rapid increase",
+          "note": "Use this for a sudden, uncontrolled increase, expansion, outbreak, or bursting out rather than a literal blast."
+        }
+      ],
       "examples": [
         {
           "english": "There has been an outbreak of flu lately, and several colleagues have taken sick leave.",
@@ -22,7 +35,20 @@
     },
     {
       "meaning": "sudden outburst of feeling",
-      "english": ["burst", "eruption"],
+      "english": [
+        {
+          "id": "kh1qx1pf",
+          "word": "burst",
+          "meaning": "sudden burst of feeling",
+          "note": "Use this for the all-purpose noun meaning a sudden, intense display of feeling or activity."
+        },
+        {
+          "id": "pduqku6h",
+          "word": "eruption",
+          "meaning": "sudden outburst",
+          "note": "Use this for a sudden outburst or release of pressure, tension, emotion, or energy rather than a volcano-specific event."
+        }
+      ],
       "examples": [
         {
           "english": "After he said that, the whole room burst into a round of loud applause.",

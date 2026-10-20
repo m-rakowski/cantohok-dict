@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "official",
-      "english": ["official", "governmental"],
+      "english": [
+        {
+          "id": "f4om25mx",
+          "word": "official",
+          "meaning": "authorized; formal",
+          "note": "This is the all-purpose choice for something issued, endorsed, or provided by the relevant authority."
+        },
+        {
+          "id": "2qpeky4b",
+          "word": "governmental",
+          "meaning": "relating to government",
+          "note": "Use this when the context emphasizes an official government statement, body, or action rather than government-related matters in general."
+        }
+      ],
       "examples": [
         {
           "english": "This is the official notice.",

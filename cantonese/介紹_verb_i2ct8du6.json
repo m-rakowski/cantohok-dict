@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "introduce",
-      "english": ["introduce", "present"],
+      "english": [
+        {
+          "id": "wolmok4h",
+          "word": "introduce",
+          "meaning": "introduce people to each other",
+          "note": "This is the all-purpose choice for introducing people and for presenting or recommending a person, idea, or proposal."
+        },
+        {
+          "id": "g8n3zb8r",
+          "word": "present",
+          "meaning": "formally introduce",
+          "note": "Use this as the all-purpose choice for introducing a person, including in a formal setting."
+        }
+      ],
       "examples": [
         {
           "english": "Let me introduce my new colleague to you.",

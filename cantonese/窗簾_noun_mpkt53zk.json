@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "curtain",
-      "english": ["curtain", "drapery", "shade", "blind"],
+      "english": [
+        {
+          "id": "juilb3xw",
+          "word": "curtain",
+          "meaning": "window covering",
+          "note": "This is the all-purpose choice for a household curtain covering a window or bed."
+        },
+        {
+          "id": "63n93zgn",
+          "word": "drapery",
+          "meaning": "curtain or drape",
+          "note": "Use this as the everyday all-purpose word for a curtain, especially a window curtain."
+        },
+        {
+          "id": "7iqip7u8",
+          "word": "shade",
+          "meaning": "window covering",
+          "note": "Use this for a covering on a window that blocks light."
+        },
+        {
+          "id": "bun04sw6",
+          "word": "blind",
+          "meaning": "window covering",
+          "note": "窗簾 covers both curtains and blinds in daily speech, so use it for any window covering you pull up or down."
+        }
+      ],
       "examples": [
         {
           "english": "I opened the curtain in the morning to let sunlight into the room.",

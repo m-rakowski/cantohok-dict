@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "bloody, violent",
-      "english": ["graphic", "bloody"],
+      "english": [
+        {
+          "id": "vn2jl0by",
+          "word": "graphic",
+          "meaning": "explicit, vivid",
+          "note": "Use this for graphic depictions of gore or violence, not for sexual explicitness."
+        },
+        {
+          "id": "sw2qnsk1",
+          "word": "bloody",
+          "meaning": "full of bloodshed",
+          "note": "Use this for violence, battles, or events characterised by bloodshed rather than for something physically covered in blood."
+        }
+      ],
       "examples": [
         {
           "english": "The fight scenes in this movie are very graphic.",

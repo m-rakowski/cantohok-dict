@@ -6,7 +6,34 @@
   "boxes": [
     {
       "meaning": "careless, sloppy",
-      "english": ["hasty", "sloppy", "haphazard", "lazy"],
+      "english": [
+        {
+          "id": "onlin61b",
+          "word": "hasty",
+          "meaning": "rash, careless",
+          "register": "colloquial",
+          "note": "Use this all-purpose colloquial choice when someone acts carelessly or without considering the consequences."
+        },
+        {
+          "id": "k2ys2tkr",
+          "word": "sloppy",
+          "meaning": "careless, messy",
+          "note": "Use 求其 as the all-purpose choice for work or methods that are carelessly or imprecisely done, rather than for a person's untidy appearance or something physically wet."
+        },
+        {
+          "id": "7hk29sjs",
+          "word": "haphazard",
+          "meaning": "random, chaotic, unplanned",
+          "register": "colloquial",
+          "note": "Use this when the haphazard quality comes from being careless, casual, or insufficiently thorough."
+        },
+        {
+          "id": "sggad62v",
+          "word": "lazy",
+          "meaning": "careless, low-effort",
+          "note": "Use this when the lack of effort shows in careless, slapdash work or writing."
+        }
+      ],
       "examples": [
         {
           "english": "Don't make such a hasty decision; think it through first.",

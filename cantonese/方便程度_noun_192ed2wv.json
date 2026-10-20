@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "how convenient or easy something is",
-      "english": ["simplicity", "access"],
+      "english": [
+        {
+          "id": "3i2vj8ro",
+          "word": "simplicity",
+          "meaning": "ease, efficiency",
+          "note": "Use this when simplicity means ease of use or practical efficiency rather than few parts or plain style."
+        },
+        {
+          "id": "btfk1crc",
+          "word": "access",
+          "meaning": "ease of access",
+          "note": "Use this when access means how easy it is to approach, enter, or reach a place or resource."
+        }
+      ],
       "examples": [
         {
           "english": "The simplicity of this self-service payment machine is great; you only need to tap a few times.",

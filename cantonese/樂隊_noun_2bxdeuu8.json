@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "music band",
-      "english": ["band", "group"],
+      "english": [
+        {
+          "id": "gcgmxdmh",
+          "word": "band",
+          "meaning": "music group",
+          "note": "This is the all-purpose choice for a group of musicians performing together."
+        },
+        {
+          "id": "l0iz7b44",
+          "word": "group",
+          "meaning": "music group",
+          "note": "Use this specifically for a band or other small ensemble that performs music together."
+        }
+      ],
       "examples": [
         {
           "english": "The band is performing at the Coliseum tonight.",

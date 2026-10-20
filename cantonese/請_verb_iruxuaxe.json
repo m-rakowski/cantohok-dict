@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "to treat someone to a meal or drink",
-      "english": ["invite", "buy"],
+      "english": [
+        {
+          "id": "gbusp1wj",
+          "word": "invite",
+          "meaning": "ask someone to come",
+          "register": "colloquial",
+          "note": "Use 請 as the all-purpose spoken choice for inviting someone over, treating them to something, or politely asking people to do something."
+        },
+        {
+          "id": "adal0yhe",
+          "word": "buy",
+          "meaning": "buy for a group",
+          "note": "Use this when buying something means treating someone to a meal, drink, or gift."
+        }
+      ],
       "examples": [
         {
           "english": "I’ll invite you for a cup of coffee.",
@@ -22,7 +36,21 @@
     },
     {
       "meaning": "to hire",
-      "english": ["employ", "engage"],
+      "english": [
+        {
+          "id": "a2j7oedg",
+          "word": "employ",
+          "meaning": "hire as employee",
+          "note": "Use 請 as the everyday all-purpose verb for taking someone on as an employee."
+        },
+        {
+          "id": "rz8ge6hg",
+          "word": "engage",
+          "meaning": "hire or employ",
+          "register": "colloquial",
+          "note": "Use this for engaging or hiring a person to work, rather than for engaging a space or machine."
+        }
+      ],
       "examples": [
         {
           "english": "The company will employ a new accountant, who will start work next month.",
@@ -38,7 +66,14 @@
     },
     {
       "meaning": "to politely ask, \"please\"",
-      "english": ["request"],
+      "english": [
+        {
+          "id": "b8d0vzrp",
+          "word": "request",
+          "meaning": "ask someone to do something",
+          "note": "Use this polite verb when requesting someone to do something, as in 請你坐低."
+        }
+      ],
       "examples": [
         {
           "english": "I politely request that you sit down first.",
@@ -49,7 +84,14 @@
     },
     {
       "meaning": "to invite",
-      "english": ["ask"],
+      "english": [
+        {
+          "id": "ti8o3zy7",
+          "word": "ask",
+          "meaning": "invite",
+          "note": "Use 請 when asking someone to attend an event or inviting them somewhere."
+        }
+      ],
       "examples": [
         {
           "english": "I want to ask you to come to my birthday party.",

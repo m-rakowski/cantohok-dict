@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "desperately, with all-out effort",
-      "english": ["furiously", "ferociously"],
+      "english": [
+        {
+          "id": "pc5kowcb",
+          "word": "furiously",
+          "meaning": "frantically / very hard",
+          "register": "colloquial",
+          "note": "Use this when someone acts frantically or puts in extreme effort to get something done."
+        },
+        {
+          "id": "a83f8ece",
+          "word": "ferociously",
+          "meaning": "extremely; very intensely",
+          "note": "Use 搏命咁 when the intensity involves making a desperate, all-out effort."
+        }
+      ],
       "examples": [
         {
           "english": "I furiously pedaled my bike and finally got to work on time.",

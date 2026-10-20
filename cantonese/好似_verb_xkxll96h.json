@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "seem, look like",
-      "english": ["seem", "look"],
+      "english": [
+        {
+          "id": "x1g2oo05",
+          "word": "seem",
+          "meaning": "appear; look like",
+          "note": "This is the all-purpose colloquial choice for saying that something seems or appears to be a certain way."
+        },
+        {
+          "id": "vnvfujni",
+          "word": "look",
+          "meaning": "seem, appear",
+          "note": "Use 好似 when “look” means seem or appear to be something."
+        }
+      ],
       "examples": [
         {
           "english": "I seem to think they aren't feeling well.",

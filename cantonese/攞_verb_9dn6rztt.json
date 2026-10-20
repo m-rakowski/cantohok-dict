@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "take, get, pick up",
-      "english": ["take", "grab", "collect"],
+      "english": [
+        {
+          "id": "c627lew7",
+          "word": "take",
+          "meaning": "remove",
+          "note": "Use 攞 as the all-purpose colloquial verb for physically getting, removing, or carrying something."
+        },
+        {
+          "id": "g4k9uom3",
+          "word": "grab",
+          "meaning": "get quickly",
+          "note": "Use 攞 when grab means quickly getting, taking, or retrieving something, such as a seat."
+        },
+        {
+          "id": "arvn5nli",
+          "word": "collect",
+          "meaning": "pick up; fetch",
+          "note": "Use this for picking up or fetching an object rather than a person."
+        }
+      ],
       "examples": [
         {
           "english": "Please take a chair over here for me.",

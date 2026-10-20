@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "seminar",
-      "english": ["colloquium", "seminar"],
+      "english": [
+        {
+          "id": "ip3ftl2d",
+          "word": "colloquium",
+          "meaning": "academic seminar",
+          "note": "Use this for the academic seminar sense, especially when a different lecturer or topic is featured each time."
+        },
+        {
+          "id": "w1azrx18",
+          "word": "seminar",
+          "meaning": "academic class/discussion",
+          "register": "formal",
+          "note": "Use this when the seminar emphasizes discussion and the exchange of research or professional information."
+        }
+      ],
       "examples": [
         {
           "english": "This colloquium is led by a foreign professor and is about artificial intelligence.",

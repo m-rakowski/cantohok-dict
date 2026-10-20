@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "environmental contamination",
-      "english": ["pollution"],
+      "english": [
+        {
+          "id": "9vi3rthu",
+          "word": "pollution",
+          "meaning": "environmental contamination",
+          "note": "This is the all-purpose rendering for environmental pollution, including air, water, noise, and light pollution."
+        }
+      ],
       "examples": [
         {
           "english": "The air pollution in this area is really serious.",

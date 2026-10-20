@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "limited",
-      "english": ["limited", "lean"],
+      "english": [
+        {
+          "id": "n8x3nomx",
+          "word": "limited",
+          "meaning": "restricted by limits",
+          "note": "This is the all-purpose choice when something is subject to a definite cap or restriction."
+        },
+        {
+          "id": "ujt4kenp",
+          "word": "lean",
+          "meaning": "scanty; meagre",
+          "note": "Use this when a budget, supply, or other resource has little to spare."
+        }
+      ],
       "examples": [
         {
           "english": "The amount each person can take is limited.",

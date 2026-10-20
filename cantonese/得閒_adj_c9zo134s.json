@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "free, available",
-      "english": ["available", "free"],
+      "english": [
+        {
+          "id": "kgphc69h",
+          "word": "available",
+          "meaning": "free; not busy",
+          "note": "This is the all-purpose choice for a person who is free or not busy."
+        },
+        {
+          "id": "tmwzrql6",
+          "word": "free",
+          "meaning": "without obligations; available",
+          "note": "Use this when someone has no commitments and is available or has free time."
+        }
+      ],
       "examples": [
         {
           "english": "Are you available tomorrow?",

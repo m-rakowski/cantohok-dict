@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "boyfriend",
-      "english": ["boyfriend", "man"],
+      "english": [
+        {
+          "id": "2y2bgem2",
+          "word": "boyfriend",
+          "meaning": "male romantic partner",
+          "note": "This is the neutral, all-purpose rendering for a male romantic partner."
+        },
+        {
+          "id": "ogaagcgo",
+          "word": "man",
+          "meaning": "boyfriend; male lover",
+          "register": "colloquial",
+          "note": "Use this specifically for a male romantic partner or boyfriend."
+        }
+      ],
       "examples": [
         {
           "english": "My boyfriend is coming to pick me up tonight.",

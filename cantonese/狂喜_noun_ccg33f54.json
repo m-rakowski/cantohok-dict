@@ -6,7 +6,29 @@
   "boxes": [
     {
       "meaning": "ecstatic joy",
-      "english": ["rapture", "euphoria", "ecstasy"],
+      "english": [
+        {
+          "id": "uz8apqox",
+          "word": "rapture",
+          "meaning": "great delight",
+          "register": "written",
+          "note": "This is the all-purpose noun for an extreme state of delight or excitement."
+        },
+        {
+          "id": "3cjpxfg7",
+          "word": "euphoria",
+          "meaning": "intense happiness",
+          "register": "formal",
+          "note": "Use this for exceptionally overwhelming or ecstatic happiness rather than ordinary excitement."
+        },
+        {
+          "id": "tkdn8gv5",
+          "word": "ecstasy",
+          "meaning": "intense pleasure",
+          "register": "written",
+          "note": "This is the all-purpose noun for overwhelming joy or rapture, rather than the drug or a trance state."
+        }
+      ],
       "examples": [
         {
           "english": "Learning that I had won the award filled me with rapture.",

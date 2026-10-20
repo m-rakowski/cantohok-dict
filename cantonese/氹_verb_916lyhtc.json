@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "coax, sweet-talk, soothe",
-      "english": ["flatter", "coax", "console"],
+      "english": [
+        {
+          "id": "2uk4ol95",
+          "word": "flatter",
+          "meaning": "praise someone",
+          "note": "This is the all-purpose everyday choice when praising someone to make them feel good or win their favour."
+        },
+        {
+          "id": "akoizpc0",
+          "word": "coax",
+          "meaning": "persuade gently",
+          "note": "This is the all-purpose colloquial choice for gently persuading a person or animal to do something."
+        },
+        {
+          "id": "728gkhih",
+          "word": "console",
+          "meaning": "comfort in grief",
+          "register": "colloquial",
+          "note": "Use this colloquial verb for soothing or coaxing someone, especially a child or a close person who is upset."
+        }
+      ],
       "examples": [
         {
           "english": "I tried to flatter him so he would agree to help me.",

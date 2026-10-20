@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "carve, engrave",
-      "english": ["incise", "carve"],
+      "english": [
+        {
+          "id": "kb4imw08",
+          "word": "incise",
+          "meaning": "cut into; carve",
+          "note": "Use this as the all-purpose choice for carving or engraving a mark into a surface."
+        },
+        {
+          "id": "cem9eix3",
+          "word": "carve",
+          "meaning": "cut or shape by carving",
+          "note": "Use 刻 for cutting letters, names, or simple designs into a surface rather than shaping a whole sculpture."
+        }
+      ],
       "examples": [
         {
           "english": "The craftsman uses a carving knife to incise the shop's name on the wooden sign.",

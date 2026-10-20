@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "coward",
-      "english": ["coward", "chicken"],
+      "english": [
+        {
+          "id": "js9uyu8j",
+          "word": "coward",
+          "meaning": "person lacking courage",
+          "register": "colloquial",
+          "note": "This is the all-purpose colloquial noun for a person who lacks courage."
+        },
+        {
+          "id": "dr0siv4i",
+          "word": "chicken",
+          "meaning": "coward",
+          "note": "Use this as an insult or description for someone who is a coward."
+        }
+      ],
       "examples": [
         {
           "english": "Why are you so scared? You're such a coward.",

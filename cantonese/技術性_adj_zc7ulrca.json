@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "technical, skilled",
-      "english": ["technical", "skilled"],
+      "english": [
+        {
+          "id": "xoupkw5k",
+          "word": "technical",
+          "meaning": "requiring technique",
+          "register": "formal",
+          "note": "Choose this for something involving or requiring technical skill, especially in formal or written descriptions."
+        },
+        {
+          "id": "ozbk59jw",
+          "word": "skilled",
+          "meaning": "requiring special training",
+          "note": "Use this for work or a field that requires specialized skills or training, as in 技術性工作."
+        }
+      ],
       "examples": [
         {
           "english": "The document specifies technical requirements.",

@@ -6,7 +6,15 @@
   "boxes": [
     {
       "meaning": "childbirth assistant",
-      "english": ["midwife"],
+      "english": [
+        {
+          "id": "cn9lxicc",
+          "word": "midwife",
+          "meaning": "childbirth assistant",
+          "register": "colloquial",
+          "note": "This is the all-purpose colloquial term for a midwife, especially in traditional or non-hospital contexts."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {
