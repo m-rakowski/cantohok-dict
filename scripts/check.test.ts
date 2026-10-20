@@ -52,6 +52,7 @@ function editCab(edit: (cab: any) => void): (files: Record<string, string>) => v
         entry.word = cab.term
         entry.meaning = row.meaning
         entry.note = row.note
+        if (row.example) page.boxes[0].examples[page.boxes[0].english.indexOf(entry)] = row.example
         if (row.register === undefined) delete entry.register
         else entry.register = row.register
       }
@@ -171,10 +172,10 @@ test('unknown field on a row', () => {
   assert.deepEqual(
     checkWith(
       editCab(cab => {
-        cab.rows[0].colour = 'red'
+        cab.rows[0].color = 'red'
       }),
     ),
-    [`${CAB}: /rows/0 must NOT have additional properties "colour"`],
+    [`${CAB}: /rows/0 must NOT have additional properties "color"`],
   )
 })
 
@@ -261,7 +262,7 @@ test('empty register', () => {
 test('example missing a field', () => {
   assert.deepEqual(
     checkWith(
-      editCab(cab => {
+      editCabRaw(cab => {
         delete cab.rows[0].example.jyutping
       }),
     ),
@@ -636,7 +637,10 @@ test('English example with a placeholder letter', () => {
         cab.rows[0].example.english = 'We called a cab for A, not for B.'
       }),
     ),
-    [`${CAB}: row "aaaaaaa1" example.english has a placeholder letter (A, B)`],
+    [
+      `${CAB}: row "aaaaaaa1" example.english has a placeholder letter (A, B)`,
+      `${CAB_PAGE}: box 1 example 1 english has a placeholder letter (A, B)`,
+    ],
   )
 })
 
@@ -749,7 +753,10 @@ test('placeholder letters that look like part of a word', () => {
           cab.rows[0].example.english = english
         }),
       ),
-      [`${CAB}: row "aaaaaaa1" example.english has a placeholder letter (${letter})`],
+      [
+        `${CAB}: row "aaaaaaa1" example.english has a placeholder letter (${letter})`,
+        `${CAB_PAGE}: box 1 example 1 english has a placeholder letter (${letter})`,
+      ],
       english,
     )
 })
@@ -1272,7 +1279,7 @@ test('note rule sees every English word in the box', () => {
   assert.deepEqual(
     checkWith(
       editPage(CAB_PAGE, page => {
-        page.boxes[0].english = [{ word: 'cab' }, { word: 'slice' }, ...page.boxes[0].english]
+        page.boxes[0].english.push({ word: 'cab' }, { word: 'slice' })
         page.boxes[0].note = 'Say it for a slice of the fare.'
       }),
     ),
@@ -1287,7 +1294,10 @@ test('placeholder letter in a box example', () => {
         page.boxes[0].examples[0].english = 'A met B at the airport.'
       }),
     ),
-    ['cantonese/的士_noun_ppppppp1.json: box 1 example 1 english has a placeholder letter (B)'],
+    [
+      `${CAB_PAGE}: English entry "aaaaaaa1" example differs from ${CAB} (example 1 of the box differs in english)`,
+      `${CAB_PAGE}: box 1 example 1 english has a placeholder letter (B)`,
+    ],
   )
 })
 
@@ -1442,13 +1452,19 @@ test('a row part of speech with a slash matches a page with a fullwidth slash', 
 })
 
 test('entry-to-row rules stay quiet when there are no word files', () => {
-  const errors = checkWith(files => {
-    delete files[CAB]
-    delete files[THURSDAY]
-  })
   assert.deepEqual(
-    errors.filter(error => error.includes('is not a row in words/') || error.includes('is on no page entry')),
-    [],
+    checkWith(files => {
+      delete files[CAB]
+      delete files[THURSDAY]
+    }),
+    [
+      'frequency.json: id "aaaaaaa1" is in no word file',
+      'frequency.json: id "aaaaaaa2" is in no word file',
+      'frequency.json: id "bbbbbbb1" is in no word file',
+      'frequency.json: "Thursday" has no word file',
+      'frequency.json: "cab" has no word file',
+      'aliases.json: "Thursday" has no word file',
+    ],
   )
 })
 
@@ -1497,10 +1513,10 @@ test('an English entry with an unknown field is refused by the schema', () => {
   assert.deepEqual(
     checkWith(
       editPage(THURSDAY_PAGE, page => {
-        page.boxes[0].english.push({ word: 'Thu', colour: 'red' })
+        page.boxes[0].english.push({ word: 'Thu', color: 'red' })
       }),
     ),
-    [`${THURSDAY_PAGE}: /boxes/0/english/1 must NOT have additional properties "colour"`],
+    [`${THURSDAY_PAGE}: /boxes/0/english/1 must NOT have additional properties "color"`],
   )
 })
 
@@ -1512,5 +1528,124 @@ test('an English word written as a bare string is refused by the schema', () => 
       }),
     ),
     [`${THURSDAY_PAGE}: /boxes/0/english/1 must be object`],
+  )
+})
+
+/** Changes the page at `from` (to `to`) and the row's reading or characters, as a test of the slash mapping needs. */
+function moveThursdayPage(files: Record<string, string>, to: string, edit: (page: any) => void): void {
+  const page = JSON.parse(files[THURSDAY_PAGE])
+  edit(page)
+  delete files[THURSDAY_PAGE]
+  files[to] = JSON.stringify(page, null, 2) + '\n'
+}
+
+test('a row character string with a slash matches a page with a fullwidth slash', () => {
+  assert.deepEqual(
+    checkWith(files => {
+      files[THURSDAY] = files[THURSDAY].replace('"星期四"', '"星/期四"')
+      moveThursdayPage(files, 'cantonese/星／期四_noun_ppppppp3.json', page => {
+        page.traditional = '星／期四'
+      })
+    }),
+    [],
+  )
+})
+
+test('a reading is compared exactly, slash included', () => {
+  const reading = 'sing1 kei4 sei3/sing1'
+  assert.deepEqual(
+    checkWith(files => {
+      files[THURSDAY] = files[THURSDAY].replace('"sing1 kei4 sei3"', `"${reading}"`)
+      moveThursdayPage(files, THURSDAY_PAGE, page => {
+        page.jyutping = reading
+      })
+    }),
+    [],
+  )
+  assert.deepEqual(
+    checkWith(files => {
+      files[THURSDAY] = files[THURSDAY].replace('"sing1 kei4 sei3"', `"${reading}"`)
+      moveThursdayPage(files, THURSDAY_PAGE, page => {
+        page.jyutping = reading.replace('/', '／')
+      })
+    }),
+    [
+      `${THURSDAY_PAGE}: English entry "bbbbbbb1" jyutping "sing1 kei4 sei3／sing1" differs from ${THURSDAY} ("${reading}")`,
+    ],
+  )
+})
+
+test('a row with a register whose entry lacks it', () => {
+  assert.deepEqual(
+    checkWith(
+      editPage(CAB_PAGE_2, page => {
+        delete page.boxes[0].english[0].register
+      }),
+    ),
+    [`${CAB_PAGE_2}: English entry "aaaaaaa2" register "" differs from ${CAB} ("colloquial")`],
+  )
+})
+
+test('one broken page hides only its own rows from "row is on no page entry"', () => {
+  assert.deepEqual(
+    checkWith(files => {
+      files[CAB_PAGE] = '{ nope'
+      editPage(THURSDAY_PAGE, page => {
+        page.boxes[0].english[0] = { word: 'Thursday' }
+      })(files)
+    }),
+    [`${CAB_PAGE}: invalid JSON`, `${THURSDAY}: row "bbbbbbb1" is on no page entry`],
+  )
+})
+
+test('the row example must be the box example at the entry position', () => {
+  assert.deepEqual(
+    checkWith(
+      editPage(CAB_PAGE, page => {
+        page.boxes[0].examples[0].traditional = '我哋叫咗架的士。'
+        page.boxes[0].examples[0].jyutping = 'ngo5 dei6'
+      }),
+    ),
+    [
+      `${CAB_PAGE}: English entry "aaaaaaa1" example differs from ${CAB} (example 1 of the box differs in traditional, jyutping)`,
+    ],
+  )
+  assert.deepEqual(
+    checkWith(
+      editPage(CAB_PAGE, page => {
+        page.boxes[0].examples = []
+      }),
+    ),
+    [
+      `${CAB_PAGE}: English entry "aaaaaaa1" example differs from ${CAB} (the row has an example but the box has no example 1)`,
+    ],
+  )
+})
+
+test('a row without an example needs no box example at its position, and may not have one', () => {
+  assert.deepEqual(
+    checkWith(
+      editPage(CAB_PAGE_2, page => {
+        page.boxes[0].examples = [
+          { english: 'It rode on the cab.', traditional: '佢坐車頭。', jyutping: 'keoi5 co5 ce1 tau4' },
+        ]
+      }),
+    ),
+    [
+      `${CAB_PAGE_2}: English entry "aaaaaaa2" example differs from ${CAB} (the row has no example but example 1 of the box is "It rode on the cab.")`,
+    ],
+  )
+})
+
+test('the example is paired by the entry position in the box', () => {
+  assert.deepEqual(
+    checkWith(
+      editPage(CAB_PAGE, page => {
+        page.boxes[0].english.unshift({ word: 'taxi' })
+      }),
+    ),
+    [
+      `${CAB_PAGE}: English entry "aaaaaaa1" example differs from ${CAB} (the row has an example but the box has no example 2)`,
+    ],
   )
 })

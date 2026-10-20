@@ -41,7 +41,9 @@
 //   a row id, and an entry's word, meaning, note and register must equal its
 //   row's term, meaning, note and register (both absent counts as equal),
 //   and its page's partOfSpeech, jyutping and traditional must equal the
-//   row's (a "/" in the row is read as "／").
+//   row's (a "/" in the row's part of speech or characters is read as "／"),
+//   and the row's example must be the box example at the entry's position in
+//   the box's English list (both absent counts as equal).
 // - A row's "order" in frequency.json must be its index in its word file.
 // - frequency.json and aliases.json must exist.
 // - Every row's id must have a matching entry in frequency.json's "rows",
@@ -76,7 +78,9 @@ import {
   pagePath,
   wordPath,
   type AliasesFile,
+  type Box,
   type EnglishEntry,
+  type Example,
   type FrequencyFile,
   type PageFile,
   type PageLookup,
@@ -295,10 +299,15 @@ function checkPageIds(pages: CheckedPage[], words: CheckedWord[], errors: string
  * known, so while one exists the "points at a non-page" rule stays quiet
  * rather than echo the same page as a lookup error.
  */
-function checkPageLookup(root: string, pages: CheckedPage[], words: CheckedWord[], errors: string[]): void {
-  if (pages.length === 0) return
+function checkPageLookup(
+  root: string,
+  pages: CheckedPage[],
+  words: CheckedWord[],
+  errors: string[],
+): PageLookup | null {
+  if (pages.length === 0) return null
   const lookup = readTopLevelFile(root, 'pages-by-id.json', validatePageLookup, errors) as PageLookup | null
-  if (!lookup) return
+  if (!lookup) return null
   const pageIds = new Set(pages.flatMap(({ id }) => (id === null ? [] : [id])))
   const someIdUnknown = pages.some(({ id }) => id === null)
   // A row id that is not 8 lowercase letters/digits is already reported by the
@@ -321,9 +330,10 @@ function checkPageLookup(root: string, pages: CheckedPage[], words: CheckedWord[
           `pages-by-id.json: English entry "${entryId}" (${path}) maps to "${lookup[entryId]}", not to its page "${id}"`,
         )
     }
+  return lookup
 }
 
-/** The row's text as a page shows it: a page cannot hold "/" in its characters or part of speech, so "／" stands in. */
+/** The row's text as a page shows it: a page cannot hold "/" in its characters or part of speech (they are in its file name), so "／" stands in. The reading is not in the file name and is copied as it is. */
 const pageForm = (text: string): string => text.replaceAll('/', '／')
 
 interface RowMatch {
@@ -336,6 +346,7 @@ interface RowMatch {
 function entryDifferences(
   path: string,
   page: PageFile,
+  box: Box,
   entry: EnglishEntry,
   { path: rowPath, term, row }: RowMatch,
 ): string[] {
@@ -346,51 +357,74 @@ function entryDifferences(
     ['note', entry.note, row.note, row.note],
     ['register', entry.register, row.register, row.register],
     ['partOfSpeech', page.partOfSpeech, row.partOfSpeech, pageForm(row.partOfSpeech)],
-    ['jyutping', page.jyutping, row.jyutping, pageForm(row.jyutping)],
+    ['jyutping', page.jyutping, row.jyutping, row.jyutping],
     ['traditional', page.traditional, row.traditional, pageForm(row.traditional)],
   ]
-  return fields
+  const messages = fields
     .filter(([, onPage, , expected]) => (onPage ?? '') !== (expected ?? ''))
     .map(
       ([field, onPage, shown]) =>
         `${path}: English entry "${entry.id}" ${field} "${onPage ?? ''}" differs from ${rowPath} ("${shown ?? ''}")`,
     )
+  const problem = exampleProblem(row.example, box.examples[box.english.indexOf(entry)], box.english.indexOf(entry) + 1)
+  if (problem) messages.push(`${path}: English entry "${entry.id}" example differs from ${rowPath} (${problem})`)
+  return messages
+}
+
+/** Null when the row's example and the box example at the entry's position are the same (or both absent); otherwise what differs. */
+function exampleProblem(row: Example | undefined, onPage: Example | undefined, position: number): string | null {
+  if (!row && !onPage) return null
+  if (!row) return `the row has no example but example ${position} of the box is "${onPage?.english}"`
+  if (!onPage) return `the row has an example but the box has no example ${position}`
+  const differing = (['english', 'traditional', 'jyutping'] as const).filter(field => row[field] !== onPage[field])
+  return differing.length ? `example ${position} of the box differs in ${differing.join(', ')}` : null
 }
 
 /**
  * While any word file exists, English entries and rows in words/ are copies of
  * each other, matched by row id. A row on no entry is reported against its
  * file, an entry that is no row against its page, and a matched pair once per
- * differing field. Pages that failed the schema or are not JSON still count
- * for their entry ids, so one broken page is not a cascade of "on no entry";
- * likewise a word file that is not JSON hides its row ids, so "is not a row"
+ * differing field, plus once when the row's example is not the box example at
+ * the entry's position in `english` (both absent counts as equal). Pages that
+ * failed the schema still count for their entry ids, and a page that is not
+ * JSON hides only the rows the lookup sends to it, so one broken page is not a
+ * cascade of "on no entry"; likewise a word file that is not JSON hides its row ids, so "is not a row"
  * waits until every word file has been read.
  */
 function checkEntriesMatchRows(
   pages: CheckedPage[],
   words: CheckedWord[],
+  lookup: PageLookup | null,
   everyWordFileRead: boolean,
   errors: string[],
 ): void {
   if (words.length === 0) return
   const rowIds = new Set(words.flatMap(word => word.rowIds))
   const entryIds = new Set(pages.flatMap(page => page.entryIds ?? []))
-  const everyPageRead = pages.every(page => page.entryIds !== null)
-  if (everyPageRead)
-    for (const { path, rowIds: ids } of words)
-      for (const id of ids)
-        if (ID_PATTERN.test(id) && !entryIds.has(id)) errors.push(`${path}: row "${id}" is on no page entry`)
+  // A page that is not JSON hides its entries, so a row it shows would look
+  // unplaced. Its id is in its file name; a row whose lookup target is such a
+  // page is skipped (one broken page hides only its own rows). With no usable
+  // lookup the target is unknown, so every row is skipped while one page is broken.
+  const unreadable = pages.filter(page => page.entryIds === null)
+  const unreadableIds = new Set(unreadable.map(page => /_([a-z0-9]{8})\.json$/.exec(page.path)?.[1]))
+  for (const { path, rowIds: ids } of words)
+    for (const id of ids) {
+      if (!ID_PATTERN.test(id) || entryIds.has(id)) continue
+      const hidden = lookup ? unreadableIds.has(lookup[id]) : unreadable.length > 0
+      if (!hidden) errors.push(`${path}: row "${id}" is on no page entry`)
+    }
   const rows = new Map<string, RowMatch>()
   for (const { path, term, file } of words) for (const row of file?.rows ?? []) rows.set(row.id, { path, term, row })
   for (const { path, file } of pages) {
     if (!file) continue
-    for (const entry of file.boxes.flatMap(box => box.english)) {
-      if (entry.id === undefined) continue
-      const match = rows.get(entry.id)
-      if (match) errors.push(...entryDifferences(path, file, entry, match))
-      else if (everyWordFileRead && !rowIds.has(entry.id))
-        errors.push(`${path}: English entry "${entry.id}" is not a row in words/`)
-    }
+    for (const box of file.boxes)
+      for (const entry of box.english) {
+        if (entry.id === undefined) continue
+        const match = rows.get(entry.id)
+        if (match) errors.push(...entryDifferences(path, file, box, entry, match))
+        else if (everyWordFileRead && !rowIds.has(entry.id))
+          errors.push(`${path}: English entry "${entry.id}" is not a row in words/`)
+      }
   }
 }
 
@@ -519,8 +553,8 @@ export function checkRepo(root: string): string[] {
   const pages = checkPages(root, errors)
   checkPageIds(pages, words, errors)
   checkPageReadings(pages, errors)
-  checkPageLookup(root, pages, words, errors)
-  checkEntriesMatchRows(pages, words, words.length === listWordFiles(root).length, errors)
+  const lookup = checkPageLookup(root, pages, words, errors)
+  checkEntriesMatchRows(pages, words, lookup, words.length === listWordFiles(root).length, errors)
   const beforeFrequency = errors.length
   const frequency = checkFrequency(root, words, errors)
   const frequencyClean = errors.length === beforeFrequency

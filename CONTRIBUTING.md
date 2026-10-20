@@ -6,7 +6,8 @@ files are laid out and the steps to change them.
 ## The files
 
 - `words/<letter>/<word>.json` — one file per English word. This is the
-  dictionary itself. This is the file you edit.
+  dictionary itself. You edit it together with the page entries that copy its
+  rows (see "Rules to follow when you edit a row").
 - `cantonese/<characters>_<part of speech>_<id>.json` — one file per Cantonese
   word page, such as `cantonese/揮手_verb_vonj8c12.json`. A page has one
   reading, in `jyutping` beside `traditional`. It holds exactly what the site
@@ -109,10 +110,10 @@ part of speech and one reading. Here is `cantonese/揮手_verb_vonj8c12.json`:
       "meaning": "wave your hand hello/goodbye",
       "english": [
         {
-          "id": "k3m9x2ab",
+          "id": "i0dcd0tv",
           "word": "wave",
           "meaning": "wave your hand hello/goodbye",
-          "note": "This is the all-purpose verb for waving at someone."
+          "note": "This is the all-purpose choice for waving your hand in greeting or goodbye, including a farewell signal."
         }
       ],
       "examples": [
@@ -137,8 +138,12 @@ part of speech and one reading. Here is `cantonese/揮手_verb_vonj8c12.json`:
   of the English row with that `id` in `words/`: its `word` must be the row's
   term, its `meaning`, `note` and `register` must be exactly the row's (all
   absent counts as equal), and the page's `partOfSpeech`, `jyutping` and
-  `traditional` must be the row's too (where the row has a `/`, the page has
-  `／`). An entry with no `id` is a word an editor added, and needs only the
+  `traditional` must be the row's too (where the row's part of speech or
+  characters have a `/`, the page has `／`; the reading is copied as it is).
+  The row's `example` must be the box's example at the entry's position in the
+  box's `english` list (the first entry pairs with the first example, and so
+  on), or both are absent. So within a box, list the entries whose rows have an
+  example first, and entries whose rows have none after them. An entry with no `id` is a word an editor added, and needs only the
   fields it uses. An entry's `note` must read on its own, like a row's. Entry
   ids are unique across all pages, are never a page's `id`, and each maps to
   its page in `pages-by-id.json`. Every English row's `id` must be on exactly
@@ -168,6 +173,12 @@ part of speech and one reading. Here is `cantonese/揮手_verb_vonj8c12.json`:
 ## Rules to follow when you edit a row
 
 - **Never change an `id`.** It's the row's permanent name.
+- **A row and its page entry are copies, so change both.** A new row needs an
+  entry (with its `id`) in a box on its page, and an `order` in its
+  `frequency.json` row. Editing a row's `meaning`, `note`, `register` or
+  `example` means making the same edit on its entry (or the box's example).
+  Deleting or reordering rows in a word file means renumbering `order` for the
+  rows after the change. `pnpm run check` names whatever no longer matches.
 - **A new row or page always needs a new `id`.** Run `pnpm run new-id` — it
   prints a fresh 8-character id that isn't used anywhere else in the repo yet,
   counting both row ids and page ids.
@@ -193,7 +204,10 @@ part of speech and one reading. Here is `cantonese/揮手_verb_vonj8c12.json`:
 2. Edit the word's file under `words/`, or the page's file under `cantonese/`.
 3. If you added a new row, mint its `id` with `pnpm run new-id`, and add a
    matching entry in `frequency.json`'s `rows` (see the rules above), and a
-   line in `pages-by-id.json` pointing its `id` at the page that shows it. A
+   line in `pages-by-id.json` pointing its `id` at the page that shows it, and
+   put an entry for it (its `id`, the word, and the row's meaning, note and
+   register) in a box of that page; the `frequency.json` row also needs its
+   `order`, the row's position (from 0) in its word file. A
    new page file has an `id` from `new-id` too, and needs a line in
    `pages-by-id.json` mapping that `id` to itself.
 4. If you added a brand-new word, also add it to `frequency.json`'s `words`.
