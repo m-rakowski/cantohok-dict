@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "opposition, objection",
-      "english": ["objection", "opposition", "disapproval"],
+      "english": [
+        {
+          "id": "rwt34obp",
+          "word": "objection",
+          "meaning": "expression of opposition",
+          "note": "Use this as the all-purpose noun for opposition or the act of objecting, especially in phrases such as 對某事嘅反對."
+        },
+        {
+          "id": "awfgds2h",
+          "word": "opposition",
+          "meaning": "conflict, resistance",
+          "note": "This is the all-purpose noun for disagreement or resistance to a proposal, person, or action."
+        },
+        {
+          "id": "wc499rg0",
+          "word": "disapproval",
+          "meaning": "condemnation, disapproving reaction",
+          "note": "Use this when the disapproval is opposition to a proposal, decision, action, or opinion."
+        }
+      ],
       "examples": [
         {
           "english": "I have an objection to holding a party at home.",

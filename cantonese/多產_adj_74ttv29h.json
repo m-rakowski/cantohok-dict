@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "prolific",
-      "english": ["prolific", "productive"],
+      "english": [
+        {
+          "id": "gxq0kh33",
+          "word": "prolific",
+          "meaning": "very productive",
+          "note": "This is the all-purpose choice for something that produces many offspring, fruit, results, or works."
+        },
+        {
+          "id": "250z2aqg",
+          "word": "productive",
+          "meaning": "fertile; prolific",
+          "register": "written",
+          "note": "Use this for a person, writer, animal, or land that produces a large amount, including when productive means prolific."
+        }
+      ],
       "examples": [
         {
           "english": "This writer is prolific and has published more than a dozen novels in a few years.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "contradiction",
-      "english": ["contradiction", "paradox"],
+      "english": [
+        {
+          "id": "xe0km7b1",
+          "word": "contradiction",
+          "meaning": "self-contradictory statement",
+          "note": "This is the all-purpose noun for a contradiction, especially a logical inconsistency or conflict."
+        },
+        {
+          "id": "4y88o4jl",
+          "word": "paradox",
+          "meaning": "self-contradictory statement",
+          "note": "Use this as the everyday all-purpose choice when the paradox involves an apparent contradiction or conflicting outcome."
+        }
+      ],
       "examples": [
         {
           "english": "This statement contains a contradiction.",
@@ -22,7 +35,14 @@
     },
     {
       "meaning": "conflict between people or sides",
-      "english": ["tension"],
+      "english": [
+        {
+          "id": "zczyj67k",
+          "word": "tension",
+          "meaning": "conflict between forces",
+          "note": "Use 矛盾 when the tension is an actual conflict between people, sides, or opposing forces."
+        }
+      ],
       "examples": [
         {
           "english": "The two of them argue all the time, and there is a lot of tension between them.",

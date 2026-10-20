@@ -6,7 +6,44 @@
   "boxes": [
     {
       "meaning": "oppose, object to",
-      "english": ["contest", "oppose", "object", "deprecate", "counter", "disapprove"],
+      "english": [
+        {
+          "id": "05alf3mp",
+          "word": "contest",
+          "meaning": "challenge; dispute",
+          "note": "Use this as the all-purpose choice when you mean opposing a proposal, decision, person, or action."
+        },
+        {
+          "id": "xiyhpe0l",
+          "word": "oppose",
+          "meaning": "be against; object to",
+          "note": "This is the all-purpose choice for objecting to an idea, action, or policy."
+        },
+        {
+          "id": "fynbw273",
+          "word": "object",
+          "meaning": "oppose, protest",
+          "note": "This is the all-purpose choice for disagreeing with or opposing a person, idea, or proposal."
+        },
+        {
+          "id": "u5vzj731",
+          "word": "deprecate",
+          "meaning": "express disapproval",
+          "note": "Use this as the all-purpose verb for expressing disapproval of or protesting against something."
+        },
+        {
+          "id": "5l2yiqoe",
+          "word": "counter",
+          "meaning": "oppose, contradict",
+          "note": "Use this as the all-purpose choice when counter means to oppose a person, idea, or proposal."
+        },
+        {
+          "id": "wwwyukdy",
+          "word": "disapprove",
+          "meaning": "condemn; think wrong",
+          "note": "Use this when you actively oppose or condemn something as wrong or inappropriate."
+        }
+      ],
       "examples": [
         {
           "english": "We contest this rent-increase proposal.",

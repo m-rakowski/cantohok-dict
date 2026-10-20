@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "very, extremely before an adjective",
-      "english": ["wickedly", "abundantly"],
+      "english": [
+        {
+          "id": "w792abuk",
+          "word": "wickedly",
+          "meaning": "very; extremely",
+          "note": "This is the all-purpose spoken Cantonese way to mean “very” or “extremely” before an adjective, as in 好搞笑 for “wickedly funny.”"
+        },
+        {
+          "id": "1hymgtw1",
+          "word": "abundantly",
+          "meaning": "extremely",
+          "note": "Use this before an adjective when “abundantly” means extremely or very much."
+        }
+      ],
       "examples": [
         {
           "english": "This movie is wickedly funny!",

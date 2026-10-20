@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "passenger",
-      "english": ["passenger", "rider", "fare"],
+      "english": [
+        {
+          "id": "ab7icv5s",
+          "word": "passenger",
+          "meaning": "vehicle rider",
+          "note": "This is the all-purpose word for someone travelling in a vehicle without operating it or working as crew."
+        },
+        {
+          "id": "kfxmnfrs",
+          "word": "rider",
+          "meaning": "passenger on vehicle",
+          "note": "Use this for someone travelling in a vehicle as a passenger rather than operating it."
+        },
+        {
+          "id": "ikbp5vtp",
+          "word": "fare",
+          "meaning": "taxi passenger",
+          "note": "Use this for the person paying to ride in a taxi or other form of transport."
+        }
+      ],
       "examples": [
         {
           "english": "This bus has only one passenger.",

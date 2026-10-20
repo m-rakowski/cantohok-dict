@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "not enough",
-      "english": ["inadequate", "insufficient", "deficient", "short", "poor"],
+      "english": [
+        {
+          "id": "z881uy09",
+          "word": "inadequate",
+          "meaning": "insufficient; not enough",
+          "note": "This is the all-purpose choice when something is insufficient in amount, quality, or suitability for a purpose."
+        },
+        {
+          "id": "rd8fzaor",
+          "word": "insufficient",
+          "meaning": "not enough; inadequate",
+          "note": "This is the all-purpose colloquial choice for something that does not meet the required amount or standard."
+        },
+        {
+          "id": "pchcw2zx",
+          "word": "deficient",
+          "meaning": "insufficient / inadequate",
+          "note": "Use this for an amount, level, or quality that falls short; it is the usual spoken choice for insufficiency."
+        },
+        {
+          "id": "fbrqhuex",
+          "word": "short",
+          "meaning": "not enough; scanty",
+          "note": "Use 唔夠 when something is insufficient in quantity or falls below the required standard."
+        },
+        {
+          "id": "euiwtbxs",
+          "word": "poor",
+          "meaning": "insufficient; weak",
+          "note": "Use this when an amount, level, or result is insufficient for what is needed."
+        }
+      ],
       "examples": [
         {
           "english": "This information is inadequate for making a decision.",

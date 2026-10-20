@@ -6,7 +6,39 @@
   "boxes": [
     {
       "meaning": "harmful",
-      "english": ["detrimental", "harmful", "toxic", "adverse", "poisonous"],
+      "english": [
+        {
+          "id": "ppaxzlie",
+          "word": "detrimental",
+          "meaning": "causing harm",
+          "note": "This is the all-purpose adjective for something that causes actual harm or damage."
+        },
+        {
+          "id": "rc7b6rq8",
+          "word": "harmful",
+          "meaning": "causing harm",
+          "note": "Use this as the all-purpose direct equivalent, especially in warnings or when the harmful effect is stated generally."
+        },
+        {
+          "id": "3gryiu3n",
+          "word": "toxic",
+          "meaning": "harmful; damaging",
+          "note": "Use this when the emphasis is on something causing harm or damage, especially an environment or situation."
+        },
+        {
+          "id": "vcydz306",
+          "word": "adverse",
+          "meaning": "unfavourable; harmful",
+          "note": "Use this when adverse means harmful, especially to health, safety, or well-being."
+        },
+        {
+          "id": "ufa6gmen",
+          "word": "poisonous",
+          "meaning": "harmful, bad, toxic",
+          "register": "formal",
+          "note": "Use this for something harmful or having a negative effect rather than for literal poison."
+        }
+      ],
       "examples": [
         {
           "english": "This cleaning product is detrimental to your skin, so remember to wear gloves.",

@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "status, standing",
-      "english": ["status", "eminence", "standing", "dignity", "importance"],
+      "english": [
+        {
+          "id": "js79shev",
+          "word": "status",
+          "meaning": "standing; position",
+          "note": "Use this as the all-purpose rendering for a person's social, economic, or relative standing."
+        },
+        {
+          "id": "281j2wd6",
+          "word": "eminence",
+          "meaning": "high rank or status",
+          "note": "Use this as the all-purpose choice for high social rank or the state of being important."
+        },
+        {
+          "id": "fn4hybm5",
+          "word": "standing",
+          "meaning": "social or professional reputation",
+          "note": "Use this for someone's social or professional position and reputation."
+        },
+        {
+          "id": "zmpukysd",
+          "word": "dignity",
+          "meaning": "high rank; office",
+          "note": "Use this for dignity in the sense of high rank, social standing, or station."
+        },
+        {
+          "id": "5be9cflw",
+          "word": "importance",
+          "meaning": "status; standing",
+          "note": "Use this specifically for a person's status, rank, or standing."
+        }
+      ],
       "examples": [
         {
           "english": "Their status at the company is quite high.",

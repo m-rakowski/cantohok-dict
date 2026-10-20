@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "wound, cut",
-      "english": ["wound", "incision", "cut"],
+      "english": [
+        {
+          "id": "tqrrf46k",
+          "word": "wound",
+          "meaning": "body injury",
+          "note": "This is the all-purpose noun for a physical cut, stab, tear, or other open injury."
+        },
+        {
+          "id": "etpde46y",
+          "word": "incision",
+          "meaning": "surgical cut",
+          "note": "This is the all-purpose choice for a fresh surgical cut when you are speaking about it as a wound."
+        },
+        {
+          "id": "rzqr8g13",
+          "word": "cut",
+          "meaning": "skin wound",
+          "note": "For an actual cut or incision in the body, this is the all-purpose noun."
+        }
+      ],
       "examples": [
         {
           "english": "Be careful, this wound is still bleeding.",

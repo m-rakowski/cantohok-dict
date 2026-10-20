@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "plan",
-      "english": ["plan", "planning", "scheme", "project"],
+      "english": [
+        {
+          "id": "fx2hbfn1",
+          "word": "plan",
+          "meaning": "intended actions",
+          "note": "This is the all-purpose noun for a set of intended actions aimed at a goal."
+        },
+        {
+          "id": "tgvh4etx",
+          "word": "planning",
+          "meaning": "making plans",
+          "note": "This is the all-purpose noun for the act or process of making plans."
+        },
+        {
+          "id": "9k69g3t5",
+          "word": "scheme",
+          "meaning": "plan",
+          "note": "This is the all-purpose choice for a systematic plan of future action."
+        },
+        {
+          "id": "0ospyc3w",
+          "word": "project",
+          "meaning": "planned undertaking",
+          "note": "Use this when the focus is the plan or scheme behind the undertaking rather than the project as a work item."
+        }
+      ],
       "examples": [
         {
           "english": "We already have a plan and will start carrying it out tomorrow.",

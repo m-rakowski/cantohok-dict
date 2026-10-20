@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "distance walked",
-      "english": ["walk"],
+      "english": [
+        {
+          "id": "k7neir7o",
+          "word": "walk",
+          "meaning": "distance walked",
+          "note": "Use this when “walk” refers to the length or distance of the journey rather than the outing itself."
+        }
+      ],
       "examples": [
         {
           "english": "The walk from home to the MTR station is not very far.",

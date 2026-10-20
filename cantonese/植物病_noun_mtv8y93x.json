@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "plant disease",
-      "english": ["blight"],
+      "english": [
+        {
+          "id": "htd8ufzu",
+          "word": "blight",
+          "meaning": "plant disease",
+          "note": "This is the all-purpose noun for a disease affecting plants."
+        }
+      ],
       "examples": [
         {
           "english": "These tomatoes have developed blight, and their leaves are starting to turn yellow.",

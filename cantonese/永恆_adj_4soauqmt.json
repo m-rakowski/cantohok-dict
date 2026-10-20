@@ -6,7 +6,29 @@
   "boxes": [
     {
       "meaning": "eternal",
-      "english": ["eternal", "timeless", "permanent"],
+      "english": [
+        {
+          "id": "ioj2efjs",
+          "word": "eternal",
+          "meaning": "lasting forever",
+          "register": "formal",
+          "note": "This is the all-purpose choice for something that lasts forever, especially in formal or abstract contexts."
+        },
+        {
+          "id": "a6f9wktg",
+          "word": "timeless",
+          "meaning": "eternal",
+          "register": "written",
+          "note": "Use this as the all-purpose choice for something eternal or lasting forever."
+        },
+        {
+          "id": "uu8tj2lx",
+          "word": "permanent",
+          "meaning": "eternal",
+          "register": "written",
+          "note": "Use this for an eternal or timeless quality, especially in abstract, emotional, or philosophical contexts."
+        }
+      ],
       "examples": [
         {
           "english": "This love is eternal.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "square brackets",
-      "english": ["bracket"],
+      "english": [
+        {
+          "id": "d38bjoaa",
+          "word": "bracket",
+          "meaning": "square brackets",
+          "note": "Use this specifically for square brackets, “[” and “]”, rather than ordinary 括號."
+        }
+      ],
       "examples": [
         {
           "english": "You don't need to read the word inside the bracket aloud.",

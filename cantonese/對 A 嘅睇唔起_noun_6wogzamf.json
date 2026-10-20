@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "contempt for A",
-      "english": ["contempt", "disdain", "scorn", "sneer"],
+      "english": [
+        {
+          "id": "rwaerezc",
+          "word": "contempt",
+          "meaning": "scorn; disdain",
+          "note": "This is the all-purpose everyday construction for contempt or disdain toward a person or thing."
+        },
+        {
+          "id": "y3hz45p6",
+          "word": "disdain",
+          "meaning": "contempt; scorn",
+          "note": "This is the all-purpose spoken construction for expressing contempt or scorn toward someone or something."
+        },
+        {
+          "id": "snd43i81",
+          "word": "scorn",
+          "meaning": "contempt, disdain",
+          "note": "This is the all-purpose spoken construction for contempt directed at a person or group."
+        },
+        {
+          "id": "6v6e680z",
+          "word": "sneer",
+          "meaning": "contempt; scorn",
+          "note": "Use this for the contempt or scorn felt toward a person or thing, rather than the facial expression itself."
+        }
+      ],
       "examples": [
         {
           "english": "Everyone can see my contempt for him.",

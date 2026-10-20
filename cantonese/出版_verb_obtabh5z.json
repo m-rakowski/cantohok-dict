@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "publish a book",
-      "english": ["publish", "print"],
+      "english": [
+        {
+          "id": "wvcp2axo",
+          "word": "publish",
+          "meaning": "issue for sale/distribution",
+          "note": "Use 出版 when a publisher issues a book, an author's work, or a periodical for distribution."
+        },
+        {
+          "id": "e1tuggxp",
+          "word": "print",
+          "meaning": "publish in print",
+          "register": "formal",
+          "note": "Use this for publishing a book or other substantial printed work."
+        }
+      ],
       "examples": [
         {
           "english": "This publisher will publish my new book next month.",

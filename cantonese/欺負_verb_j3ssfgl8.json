@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "bully, pick on",
-      "english": ["bully", "mistreat"],
+      "english": [
+        {
+          "id": "o7l09jxa",
+          "word": "bully",
+          "meaning": "intimidate / harass",
+          "note": "Use this for a broader or more serious description of mistreating or bullying someone."
+        },
+        {
+          "id": "s9u222ae",
+          "word": "mistreat",
+          "meaning": "treat badly",
+          "note": "Use this when someone is being bullied, picked on, or taken advantage of by another person."
+        }
+      ],
       "examples": [
         {
           "english": "Don't bully the younger kids anymore.",

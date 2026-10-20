@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "power, authority",
-      "english": ["authority", "power"],
+      "english": [
+        {
+          "id": "g4w7cnhb",
+          "word": "authority",
+          "meaning": "power or right to command",
+          "note": "This is the all-purpose choice for the power or right to command, make rules, or impose obligations."
+        },
+        {
+          "id": "53aaw0bq",
+          "word": "power",
+          "meaning": "political authority",
+          "note": "Use 權力 for the ability to control or influence people, including formal political, legal, or business authority."
+        }
+      ],
       "examples": [
         {
           "english": "The boss has the authority to decide this.",

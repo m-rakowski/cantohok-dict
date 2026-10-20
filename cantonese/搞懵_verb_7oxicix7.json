@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "confuse someone",
-      "english": ["bewilder", "puzzle"],
+      "english": [
+        {
+          "id": "i6zlxrjd",
+          "word": "bewilder",
+          "meaning": "confuse, puzzle",
+          "register": "colloquial",
+          "note": "This is the all-purpose colloquial choice for confusing or disorienting someone."
+        },
+        {
+          "id": "w0i8bcxt",
+          "word": "puzzle",
+          "meaning": "confuse, perplex",
+          "note": "Use this when something causes someone to become confused or mystified, including when they confuse themselves."
+        }
+      ],
       "examples": [
         {
           "english": "All these choices bewilder me.",

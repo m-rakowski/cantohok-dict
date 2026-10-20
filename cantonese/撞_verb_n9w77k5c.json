@@ -6,7 +6,33 @@
   "boxes": [
     {
       "meaning": "bump into, crash, collide",
-      "english": ["bump", "collide", "crash", "hit"],
+      "english": [
+        {
+          "id": "8542xmpt",
+          "word": "bump",
+          "meaning": "collide, hit",
+          "note": "Use 撞 as the all-purpose choice when something knocks against or runs into something else."
+        },
+        {
+          "id": "ypkpnoxb",
+          "word": "collide",
+          "meaning": "hit together",
+          "note": "This is the all-purpose choice for people or objects physically hitting each other."
+        },
+        {
+          "id": "z221mbe3",
+          "word": "crash",
+          "meaning": "collide violently",
+          "register": "colloquial",
+          "note": "This is the all-purpose choice for a vehicle or object crashing into something."
+        },
+        {
+          "id": "rzu6b6ck",
+          "word": "hit",
+          "meaning": "come into forceful contact",
+          "note": "Use this when something collides forcefully with another object, rather than when someone deliberately strikes it."
+        }
+      ],
       "examples": [
         {
           "english": "I bump into the table when I'm not careful.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "polite request: could/can you...",
-      "english": ["could", "can"],
+      "english": [
+        {
+          "id": "o23iz0hn",
+          "word": "could",
+          "meaning": "polite request",
+          "note": "Use this polite question pattern when asking permission for yourself or asking someone else to do V."
+        },
+        {
+          "id": "f0rj8r7f",
+          "word": "can",
+          "meaning": "polite request",
+          "note": "Use 可唔可以 + V to make a typically polite request."
+        }
+      ],
       "examples": [
         {
           "english": "Could I come in?",

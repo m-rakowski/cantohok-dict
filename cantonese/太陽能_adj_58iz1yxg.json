@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "sun-powered; sun-affected",
-      "english": ["solar"],
+      "english": [
+        {
+          "id": "1ch6o9yt",
+          "word": "solar",
+          "meaning": "sun-powered; sun-affected",
+          "note": "Use this for solar-powered equipment and for things produced from the sun’s energy, rather than for a general connection with the sun."
+        }
+      ],
       "examples": [
         {
           "english": "This calculator is solar-powered, so it does not need its batteries changed.",

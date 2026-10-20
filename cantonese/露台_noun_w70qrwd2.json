@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "balcony, terrace",
-      "english": ["balcony", "terrace"],
+      "english": [
+        {
+          "id": "ostb5yjc",
+          "word": "balcony",
+          "meaning": "building balcony",
+          "note": "This is the all-purpose Cantonese word for an ordinary building balcony."
+        },
+        {
+          "id": "8mmc68lp",
+          "word": "terrace",
+          "meaning": "building platform",
+          "note": "This is the all-purpose choice for an open platform projecting from a building."
+        }
+      ],
       "examples": [
         {
           "english": "I can dry clothes on the balcony of my flat.",

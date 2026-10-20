@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "electric wire, cable",
-      "english": ["wire", "cable"],
+      "english": [
+        {
+          "id": "lzzdiupr",
+          "word": "wire",
+          "meaning": "electrical wire",
+          "note": "For an electrical wire, 電線 is the all-purpose everyday choice."
+        },
+        {
+          "id": "lr401dp3",
+          "word": "cable",
+          "meaning": "electrical/data cable",
+          "note": "Use 電線 as the everyday all-purpose word for an electrical or general hookup cable."
+        }
+      ],
       "examples": [
         {
           "english": "This wire has come loose, so don’t touch it.",

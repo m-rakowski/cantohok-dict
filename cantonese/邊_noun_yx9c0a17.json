@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "side",
-      "english": ["side"],
+      "english": [
+        {
+          "id": "1ev71j18",
+          "word": "side",
+          "meaning": "edge of shape",
+          "note": "This is the all-purpose choice for an edge, a location or relative side, a family side, or an informal group taking one side."
+        }
+      ],
       "examples": [
         {
           "english": "This time, we are on the home team's side.",
@@ -17,7 +24,26 @@
     },
     {
       "meaning": "edge, rim",
-      "english": ["edge", "rim", "border"],
+      "english": [
+        {
+          "id": "kq08h6t1",
+          "word": "edge",
+          "meaning": "boundary line",
+          "note": "This is the all-purpose choice for a concrete boundary or outer edge, such as the edge of a table."
+        },
+        {
+          "id": "3o1dx4j8",
+          "word": "rim",
+          "meaning": "edge around something",
+          "note": "This is the all-purpose Cantonese noun for an edge or rim around an object."
+        },
+        {
+          "id": "gfpnku5l",
+          "word": "border",
+          "meaning": "outer edge",
+          "note": "Use 邊 for the physical outer edge of an object or area, rather than a political boundary."
+        }
+      ],
       "examples": [
         {
           "english": "There’s a scratch on the edge of the table.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "genius",
-      "english": ["genius", "wonder"],
+      "english": [
+        {
+          "id": "7mh3r6io",
+          "word": "genius",
+          "meaning": "exceptionally intelligent person",
+          "note": "This is the all-purpose choice for a genius person and for general genius-level ability or creativity."
+        },
+        {
+          "id": "dbaq203m",
+          "word": "wonder",
+          "meaning": "a genius at something",
+          "note": "Use 天才 for a person exceptionally talented in a particular field, such as cooking."
+        }
+      ],
       "examples": [
         {
           "english": "They are a genius and can already write such beautiful songs at such a young age.",

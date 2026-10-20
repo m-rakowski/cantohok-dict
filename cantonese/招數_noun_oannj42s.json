@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "trick, move, tactic",
-      "english": ["gambit", "tactic"],
+      "english": [
+        {
+          "id": "zn3mdigo",
+          "word": "gambit",
+          "meaning": "ploy, stratagem",
+          "note": "Use 招數 as the all-purpose everyday term for a ploy or stratagem."
+        },
+        {
+          "id": "smv7u0ao",
+          "word": "tactic",
+          "meaning": "planned maneuver",
+          "register": "colloquial",
+          "note": "Use this for a particular move or trick chosen to achieve an end, rather than for an overall plan."
+        }
+      ],
       "examples": [
         {
           "english": "They've used this gambit again to pressure me into giving them a raise.",

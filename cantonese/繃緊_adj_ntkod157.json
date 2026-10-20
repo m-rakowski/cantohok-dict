@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "pulled tight, taut",
-      "english": ["taut", "tense"],
+      "english": [
+        {
+          "id": "x826fqrh",
+          "word": "taut",
+          "meaning": "tight under tension",
+          "note": "Use this for a rope, cord, or other object pulled tight under tension."
+        },
+        {
+          "id": "nu3uj9cc",
+          "word": "tense",
+          "meaning": "taut",
+          "note": "Use this for something physically pulled taut, rather than for a person's emotional tension."
+        }
+      ],
       "examples": [
         {
           "english": "The rope is taut now, so don’t pull it any further.",

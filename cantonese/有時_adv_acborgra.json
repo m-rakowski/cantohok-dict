@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "sometimes",
-      "english": ["sometimes", "occasionally"],
+      "english": [
+        {
+          "id": "hq8jwqgw",
+          "word": "sometimes",
+          "meaning": "not always; on some occasions",
+          "note": "This is the all-purpose choice for saying something happens sometimes but not always."
+        },
+        {
+          "id": "k0l8nz3o",
+          "word": "occasionally",
+          "meaning": "from time to time",
+          "note": "Use this as the all-purpose spoken equivalent of “occasionally” or “sometimes.”"
+        }
+      ],
       "examples": [
         {
           "english": "I sometimes cook at home.",

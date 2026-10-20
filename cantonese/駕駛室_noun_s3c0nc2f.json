@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "truck/train driver compartment",
-      "english": ["cab"],
+      "english": [
+        {
+          "id": "9xgiyuia",
+          "word": "cab",
+          "meaning": "truck/train driver compartment",
+          "note": "Use this when you specifically mean the driver's compartment, especially on a train or in technical contexts."
+        }
+      ],
       "examples": [
         {
           "english": "Passengers aren't allowed into the train cab.",

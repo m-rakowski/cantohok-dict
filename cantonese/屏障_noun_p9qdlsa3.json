@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "barrier, protective shield",
-      "english": ["screen", "wall"],
+      "english": [
+        {
+          "id": "k5kznqhg",
+          "word": "screen",
+          "meaning": "barrier or shelter",
+          "note": "Use this for a physical barrier or protective screen that blocks sight or shields against danger."
+        },
+        {
+          "id": "xon6cwsh",
+          "word": "wall",
+          "meaning": "barrier",
+          "note": "Use this for a barrier or protective defense, especially when the meaning is abstract rather than a literal building wall."
+        }
+      ],
       "examples": [
         {
           "english": "This barrier acts as a screen against flying rocks.",

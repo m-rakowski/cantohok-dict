@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "look in the eyes",
-      "english": ["gaze", "look"],
+      "english": [
+        {
+          "id": "68jxamwf",
+          "word": "gaze",
+          "meaning": "fixed look",
+          "note": "Use 眼神 as the all-purpose noun for a person's fixed or expressive look."
+        },
+        {
+          "id": "fah5uvdm",
+          "word": "look",
+          "meaning": "facial expression",
+          "note": "Use 眼神 when the facial expression is conveyed especially through someone’s eyes, such as a dirty or hostile look."
+        }
+      ],
       "examples": [
         {
           "english": "The gaze in his eyes as he looked at the painting was as if he were seeing it for the first time.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "very, really (before a describing word)",
-      "english": ["awful", "nice"],
+      "english": [
+        {
+          "id": "uz8ne1lp",
+          "word": "awful",
+          "meaning": "very great, intensifier",
+          "note": "Use this intensifying construction before an adjective, such as 好多 for “an awful amount.”"
+        },
+        {
+          "id": "xisogzgb",
+          "word": "nice",
+          "meaning": "nice and + adjective",
+          "note": "Use this construction before another adjective when the result is pleasantly or desirably A, as in 好熱 for “nice and hot.”"
+        }
+      ],
       "examples": [
         {
           "english": "There was an awful amount of work today.",

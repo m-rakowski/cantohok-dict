@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "praise, appreciation",
-      "english": ["approval", "credit"],
+      "english": [
+        {
+          "id": "3l6fubv3",
+          "word": "approval",
+          "meaning": "favorable acceptance",
+          "note": "Use this when approval is expressed as praise, appreciation, or an encouraging compliment."
+        },
+        {
+          "id": "ihjv4vsj",
+          "word": "credit",
+          "meaning": "to one's credit; praise",
+          "note": "This is the all-purpose noun for recognition and admiration of someone's actions."
+        }
+      ],
       "examples": [
         {
           "english": "The boss publicly praised our effort, showing his approval.",

@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "quoted passage",
-      "english": ["quotation", "extract"],
+      "english": [
+        {
+          "id": "wbr82gds",
+          "word": "quotation",
+          "meaning": "quoted passage",
+          "register": "written",
+          "note": "Use this for a passage reproduced from a book, speech, or other source."
+        },
+        {
+          "id": "kp9kpcul",
+          "word": "extract",
+          "meaning": "excerpt, quotation",
+          "register": "written",
+          "note": "Use 引文 specifically when the extract is being quoted or cited as someone else's words."
+        }
+      ],
       "register": "written",
       "examples": [
         {

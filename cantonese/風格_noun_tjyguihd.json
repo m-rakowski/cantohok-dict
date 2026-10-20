@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "style",
-      "english": ["style", "genre", "vein"],
+      "english": [
+        {
+          "id": "u4wf3iu3",
+          "word": "style",
+          "meaning": "artistic manner",
+          "note": "This is the all-purpose choice for a recognizable manner of expression, creation, or personal performance."
+        },
+        {
+          "id": "i2eo7ccc",
+          "word": "genre",
+          "meaning": "artistic category / style",
+          "note": "Use this when the genre is being described specifically as a work's artistic style or manner."
+        },
+        {
+          "id": "m0sky2mb",
+          "word": "vein",
+          "meaning": "style or tendency",
+          "note": "Use this for the style or characteristic quality of a work, performance, or approach."
+        }
+      ],
       "examples": [
         {
           "english": "Their writing style is refreshingly fresh.",

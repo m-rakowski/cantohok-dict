@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "not worried",
-      "english": ["unconcerned", "careless"],
+      "english": [
+        {
+          "id": "6n87l9ah",
+          "word": "unconcerned",
+          "meaning": "not worried",
+          "note": "This is the all-purpose choice when someone is not anxious or worried about something."
+        },
+        {
+          "id": "a038000g",
+          "word": "careless",
+          "meaning": "not worried",
+          "note": "Use this when careless means not worried or unconcerned about something."
+        }
+      ],
       "examples": [
         {
           "english": "I am unconcerned about tomorrow’s interview.",

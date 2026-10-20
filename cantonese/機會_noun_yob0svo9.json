@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "opportunity, chance to do something",
-      "english": ["shot", "chance", "opportunity", "occasion"],
+      "english": [
+        {
+          "id": "86rgdwsj",
+          "word": "shot",
+          "meaning": "attempt / chance",
+          "note": "This is the all-purpose choice when “shot” means an opportunity or chance to try."
+        },
+        {
+          "id": "ff465jgi",
+          "word": "chance",
+          "meaning": "opportunity, possibility",
+          "note": "This is the all-purpose choice for an opportunity or an attainable possibility."
+        },
+        {
+          "id": "5ny2gqqq",
+          "word": "opportunity",
+          "meaning": "chance for advancement or profit",
+          "note": "This is the all-purpose noun for a chance to advance, make progress, or profit."
+        },
+        {
+          "id": "ydmr4el2",
+          "word": "occasion",
+          "meaning": "favorable opportunity",
+          "note": "This is the all-purpose choice for a favorable or timely opportunity."
+        }
+      ],
       "examples": [
         {
           "english": "I finally got a shot to try this time.",
@@ -32,7 +57,26 @@
     },
     {
       "meaning": "likelihood that something happens",
-      "english": ["likelihood", "probability", "possibility"],
+      "english": [
+        {
+          "id": "esfec8rd",
+          "word": "likelihood",
+          "meaning": "probability; chance",
+          "note": "This is the everyday choice for the chance that an event will happen, especially in estimates such as 有幾大機會."
+        },
+        {
+          "id": "80axzoen",
+          "word": "probability",
+          "meaning": "likelihood / chance",
+          "note": "Use this for an everyday chance or likelihood, rather than a technical probability."
+        },
+        {
+          "id": "4ptun1q5",
+          "word": "possibility",
+          "meaning": "being possible",
+          "note": "Use this when the possibility is a realistic chance that an event will happen, as in 有機會落雨."
+        }
+      ],
       "examples": [
         {
           "english": "How high do you estimate the likelihood of rain this time?",

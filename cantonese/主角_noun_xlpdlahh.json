@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "main character, lead role",
-      "english": ["protagonist", "lead", "hero"],
+      "english": [
+        {
+          "id": "o8dtnnm7",
+          "word": "protagonist",
+          "meaning": "main character",
+          "note": "This is the all-purpose choice for the central character in a story or the lead performer, not a leading contest competitor."
+        },
+        {
+          "id": "o2t8vc5i",
+          "word": "lead",
+          "meaning": "main role",
+          "note": "This is the all-purpose choice for the main role or the actor playing it in a film, play, or story."
+        },
+        {
+          "id": "fv6uvhck",
+          "word": "hero",
+          "meaning": "fiction protagonist",
+          "note": "Use 主角 when “hero” means the protagonist of a fictional work, regardless of whether that character is morally heroic."
+        }
+      ],
       "examples": [
         {
           "english": "A newcomer plays the protagonist in this film.",

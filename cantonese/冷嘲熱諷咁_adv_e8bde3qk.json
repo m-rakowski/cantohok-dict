@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "in a mocking, sarcastic way",
-      "english": ["scornfully", "cynically"],
+      "english": [
+        {
+          "id": "ve40yfda",
+          "word": "scornfully",
+          "meaning": "contemptuously, derisively",
+          "note": "Use this when the scorn is expressed through mocking, sarcastic remarks rather than silent disdain."
+        },
+        {
+          "id": "l8l6skr0",
+          "word": "cynically",
+          "meaning": "in a cynical way",
+          "note": "Use this when the cynical manner is expressed through mocking or sarcastic remarks."
+        }
+      ],
       "examples": [
         {
           "english": "They spoke scornfully: “So capable—why can’t you even do the job?”",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "voting",
-      "english": ["vote", "ballot"],
+      "english": [
+        {
+          "id": "kify8wlg",
+          "word": "vote",
+          "meaning": "an act of voting",
+          "note": "This is the all-purpose noun for the act or instance of voting, rather than the formal decision itself."
+        },
+        {
+          "id": "7zzq25op",
+          "word": "ballot",
+          "meaning": "voting / poll",
+          "note": "This is the all-purpose noun for the act or round of voting."
+        }
+      ],
       "examples": [
         {
           "english": "I went to vote today.",

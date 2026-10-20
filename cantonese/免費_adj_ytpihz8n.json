@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "free of charge",
-      "english": ["complimentary", "free"],
+      "english": [
+        {
+          "id": "b1h6jvml",
+          "word": "complimentary",
+          "meaning": "free of charge",
+          "note": "This is the all-purpose choice for something provided at no charge."
+        },
+        {
+          "id": "demvz9vw",
+          "word": "free",
+          "meaning": "free of charge",
+          "note": "This is the default choice for something obtainable without payment."
+        }
+      ],
       "examples": [
         {
           "english": "This coffee is complimentary.",

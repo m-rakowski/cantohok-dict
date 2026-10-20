@@ -27,12 +27,12 @@ Each release has:
 
 ## Fix a mistake
 
-1. Find the word: `cab` is in `words/c/cab.json`.
+1. Find the page: for example `cantonese/的士_noun_<id>.json` holds `cab`.
 2. Change what's wrong.
 3. Run `pnpm install`, then `pnpm run format` and `pnpm run check`.
 4. Open a pull request.
 
-The dictionary has two trees: `words/` is organized by English word, and `cantonese/` has one page per Cantonese word and reading, which is what the site shows. They may group meanings differently, and that is expected.
+The dictionary has two trees: `cantonese/` has one page per Cantonese word and reading, which is what the site shows and what you edit. `words/` is **legacy**, organized by English word: the rows the pages were built from, kept for reference only, no longer used or edited (see [words/README.md](words/README.md)). They may group meanings differently, and that is expected.
 
 Adding a new word or meaning? See [CONTRIBUTING.md](CONTRIBUTING.md).
 

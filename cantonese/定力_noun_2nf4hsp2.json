@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "composure, self-control",
-      "english": ["poise", "temper"],
+      "english": [
+        {
+          "id": "0lchhttq",
+          "word": "poise",
+          "meaning": "composure, calm bearing",
+          "note": "Use 定力 as the all-purpose noun when poise means staying calm and unflustered under pressure."
+        },
+        {
+          "id": "h5xyhon1",
+          "word": "temper",
+          "meaning": "calmness; composure",
+          "note": "Use this for composure or self-control, especially the ability to remain steady under provocation."
+        }
+      ],
       "examples": [
         {
           "english": "Even under so much pressure, they can keep their poise; that is truly impressive.",

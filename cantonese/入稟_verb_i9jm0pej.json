@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "to file a court case",
-      "english": ["sue", "prosecute"],
+      "english": [
+        {
+          "id": "b56h5k6a",
+          "word": "sue",
+          "meaning": "take legal action",
+          "register": "formal",
+          "note": "Use this when stressing the formal filing of a civil case with the court."
+        },
+        {
+          "id": "2qhr0q81",
+          "word": "prosecute",
+          "meaning": "pursue a legal claim",
+          "register": "formal",
+          "note": "Use this when filing a claim or legal action in court to pursue a right or obtain something through legal process."
+        }
+      ],
       "register": "formal",
       "examples": [
         {

@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "to keep in a state",
-      "english": ["preserve", "maintain", "keep", "continue", "stay"],
+      "english": [
+        {
+          "id": "j2np3iph",
+          "word": "preserve",
+          "meaning": "maintain, keep intact",
+          "note": "Use this for maintaining a state or condition, such as appearances, silence, or order."
+        },
+        {
+          "id": "y1yrudyv",
+          "word": "maintain",
+          "meaning": "preserve, uphold",
+          "note": "Use this when the emphasis is on preserving something as it is, including keeping in contact."
+        },
+        {
+          "id": "5ky4ss64",
+          "word": "keep",
+          "meaning": "remain in a state",
+          "note": "Use this for maintaining something in a particular condition, such as keeping something safe, quiet, or still."
+        },
+        {
+          "id": "dt53p7fc",
+          "word": "continue",
+          "meaning": "keep someone/something in a state",
+          "note": "Use this specifically for maintaining a state, condition, or position rather than carrying on an activity."
+        },
+        {
+          "id": "5frzquxd",
+          "word": "stay",
+          "meaning": "remain in a state",
+          "note": "Use this when something continues to have a particular quality, especially in instructions such as staying warm."
+        }
+      ],
       "examples": [
         {
           "english": "Everyone should preserve silence during the meeting.",

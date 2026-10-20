@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "ID / proof of status",
-      "english": ["credential"],
+      "english": [
+        {
+          "id": "mg7lin88",
+          "word": "credential",
+          "meaning": "ID / proof of status",
+          "note": "This is the all-purpose choice for a document or electronic item proving someone’s identity, status, or entitlement."
+        }
+      ],
       "examples": [
         {
           "english": "You need to show a credential at the entrance to prove you are entitled to go in.",

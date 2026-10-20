@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "active, lively",
-      "english": ["active", "dynamic", "alive"],
+      "english": [
+        {
+          "id": "qcm9nou0",
+          "word": "active",
+          "meaning": "energetic, lively",
+          "note": "This is the all-purpose choice for a person, child, or market that is lively, vigorous, or active."
+        },
+        {
+          "id": "f29b2ctf",
+          "word": "dynamic",
+          "meaning": "changing, active",
+          "note": "Choose this when the emphasis is on being active, involved, or lively rather than simply energetic."
+        },
+        {
+          "id": "17340gqq",
+          "word": "alive",
+          "meaning": "active; in operation",
+          "note": "Use this for people, groups, or activities that are active and lively, rather than for something merely being electrically powered."
+        }
+      ],
       "examples": [
         {
           "english": "This child is very active on the sports field.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "spread out, disperse",
-      "english": ["disperse", "distribute"],
+      "english": [
+        {
+          "id": "4ufao6l5",
+          "word": "disperse",
+          "meaning": "spread throughout",
+          "note": "Use this when people or things are distributed throughout different places rather than simply moving apart."
+        },
+        {
+          "id": "hw9fytr8",
+          "word": "distribute",
+          "meaning": "spread evenly",
+          "note": "Use this for spreading a load, force, or weight across several points or a wider area rather than giving items to people."
+        }
+      ],
       "examples": [
         {
           "english": "The staff helped disperse the supplies among the different shelters.",

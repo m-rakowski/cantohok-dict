@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "walk, move along",
-      "english": ["walk", "step", "travel"],
+      "english": [
+        {
+          "id": "7v4adneh",
+          "word": "walk",
+          "meaning": "move on foot",
+          "note": "This is the all-purpose choice for ordinary walking or moving along on foot."
+        },
+        {
+          "id": "bpl67vk9",
+          "word": "step",
+          "meaning": "move on foot",
+          "note": "This is the all-purpose verb for moving or walking on foot, including going a short distance."
+        },
+        {
+          "id": "6v3pjvau",
+          "word": "travel",
+          "meaning": "move or pass through",
+          "note": "Use this for a person, vehicle, or other physical thing moving from place to place."
+        }
+      ],
       "examples": [
         {
           "english": "Let's walk to the MTR station.",
@@ -27,7 +46,15 @@
     },
     {
       "meaning": "work, function (of a device)",
-      "english": ["function"],
+      "english": [
+        {
+          "id": "ha8mgg6m",
+          "word": "function",
+          "meaning": "work, operate",
+          "register": "colloquial",
+          "note": "Use this colloquial choice especially when saying that a device or piece of equipment works or does not work."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

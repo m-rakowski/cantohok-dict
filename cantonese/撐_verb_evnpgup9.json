@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "back, support someone",
-      "english": ["back", "defend"],
+      "english": [
+        {
+          "id": "qrik7dip",
+          "word": "back",
+          "meaning": "support; back",
+          "note": "This is the all-purpose colloquial choice for backing or supporting a person, cause, or decision."
+        },
+        {
+          "id": "qoigps72",
+          "word": "defend",
+          "meaning": "support, speak for",
+          "register": "colloquial",
+          "note": "Use this colloquial choice when you support someone or a cause and speak in their favour."
+        }
+      ],
       "examples": [
         {
           "english": "I back your decision this time.",

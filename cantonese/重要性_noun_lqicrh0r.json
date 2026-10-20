@@ -6,7 +6,52 @@
   "boxes": [
     {
       "meaning": "importance",
-      "english": ["importance", "significance", "prominence", "priority", "matter", "moment", "consideration"],
+      "english": [
+        {
+          "id": "ro3jqjid",
+          "word": "importance",
+          "meaning": "importance; significance",
+          "note": "Use this as the all-purpose noun for the quality of being important or significant."
+        },
+        {
+          "id": "vb3koh46",
+          "word": "significance",
+          "meaning": "importance",
+          "note": "This is the all-purpose noun for the importance of something."
+        },
+        {
+          "id": "8wn8lzrl",
+          "word": "prominence",
+          "meaning": "importance",
+          "note": "Use this for the relative importance of a person, thing, or issue."
+        },
+        {
+          "id": "vvvn4a5y",
+          "word": "priority",
+          "meaning": "importance",
+          "note": "Use this when priority refers specifically to an item's relative importance, especially in expressions such as 'high priority'."
+        },
+        {
+          "id": "u92t3upk",
+          "word": "matter",
+          "meaning": "importance",
+          "register": "formal",
+          "note": "Use this noun when matter means the degree to which something is important."
+        },
+        {
+          "id": "cvcumzxx",
+          "word": "moment",
+          "meaning": "importance",
+          "note": "Use 重要性 when stating the abstract importance of something instead of the more figurative 份量."
+        },
+        {
+          "id": "2kji4lsp",
+          "word": "consideration",
+          "meaning": "importance, regard",
+          "register": "written",
+          "note": "Use this when consideration means importance or the degree of attention something deserves."
+        }
+      ],
       "examples": [
         {
           "english": "Everyone understands the importance of education.",

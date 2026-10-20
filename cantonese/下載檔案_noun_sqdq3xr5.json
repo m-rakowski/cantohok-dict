@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "downloaded file",
-      "english": ["download"],
+      "english": [
+        {
+          "id": "93tr82fq",
+          "word": "download",
+          "meaning": "downloaded file",
+          "note": "Use this when you mean the file itself rather than the transfer process."
+        }
+      ],
       "examples": [
         {
           "english": "I deleted the download file.",

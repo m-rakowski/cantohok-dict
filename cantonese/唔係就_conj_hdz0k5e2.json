@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "or else",
-      "english": ["or"],
+      "english": [
+        {
+          "id": "arz26gun",
+          "word": "or",
+          "meaning": "or else",
+          "note": "Use 唔係就 after a warning or condition to mean that otherwise a consequence will follow."
+        }
+      ],
       "examples": [
         {
           "english": "Leave now, or you won't make it in time.",

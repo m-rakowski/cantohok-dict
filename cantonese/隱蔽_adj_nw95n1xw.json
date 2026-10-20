@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "hidden, out of sight",
-      "english": ["secret", "hidden"],
+      "english": [
+        {
+          "id": "yvfef9wj",
+          "word": "secret",
+          "meaning": "hidden",
+          "note": "Use this when the emphasis is that a place or thing is physically concealed or hard to notice rather than confidential."
+        },
+        {
+          "id": "y6xt825p",
+          "word": "hidden",
+          "meaning": "out of sight",
+          "note": "This is the all-purpose adjective for something concealed or located out of sight, especially a place or object."
+        }
+      ],
       "examples": [
         {
           "english": "This cave is a secret hideaway that people unfamiliar with the area can't find.",

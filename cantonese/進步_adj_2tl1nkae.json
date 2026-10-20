@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "progressive (politically)",
-      "english": ["progressive", "liberal"],
+      "english": [
+        {
+          "id": "cogl4yjj",
+          "word": "progressive",
+          "meaning": "politically progressive",
+          "note": "Use this as the all-purpose choice for favouring progress or being politically progressive."
+        },
+        {
+          "id": "he02b39w",
+          "word": "liberal",
+          "meaning": "open-minded; progressive",
+          "note": "Use this when liberal means progressive, and for politically liberal views or reforms, rather than general open-mindedness."
+        }
+      ],
       "examples": [
         {
           "english": "This policy is very progressive.",

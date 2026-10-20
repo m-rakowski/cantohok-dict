@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "consume liquid",
-      "english": ["drink"],
+      "english": [
+        {
+          "id": "w9jaf91s",
+          "word": "drink",
+          "meaning": "consume liquid",
+          "note": "This is the all-purpose verb for consuming a liquid, including the contents of a container and alcohol when the context is clear."
+        }
+      ],
       "examples": [
         {
           "english": "I drink a cup of coffee every morning.",

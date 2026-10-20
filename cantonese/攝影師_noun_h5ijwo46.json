@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "photographer, camera operator",
-      "english": ["photographer", "cinematographer"],
+      "english": [
+        {
+          "id": "4mcoufvn",
+          "word": "photographer",
+          "meaning": "professional photo-taker",
+          "note": "This is the all-purpose noun for a person who takes photographs, especially as a profession."
+        },
+        {
+          "id": "h0ykkj3v",
+          "word": "cinematographer",
+          "meaning": "film camera director",
+          "note": "Use this as the default casual term when the film context makes clear that the person oversees the camera work and lighting."
+        }
+      ],
       "examples": [
         {
           "english": "We hired a photographer to take our wedding photos.",

@@ -6,7 +6,29 @@
   "boxes": [
     {
       "meaning": "obediently, without fuss",
-      "english": ["compliantly", "docilely", "dutifully"],
+      "english": [
+        {
+          "id": "2i2kqwg9",
+          "word": "compliantly",
+          "meaning": "in a compliant manner",
+          "register": "colloquial",
+          "note": "This is the all-purpose colloquial choice when someone complies without protesting."
+        },
+        {
+          "id": "occ9amhc",
+          "word": "docilely",
+          "meaning": "submissively, obediently",
+          "register": "colloquial",
+          "note": "This is the all-purpose casual way to say that someone complies obediently or without resistance."
+        },
+        {
+          "id": "jo4r75rz",
+          "word": "dutifully",
+          "meaning": "in a dutiful manner",
+          "register": "colloquial",
+          "note": "Use this when the dutiful action especially involves obediently doing what one is told or expected to do."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

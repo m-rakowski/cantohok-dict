@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "environment, surroundings",
-      "english": ["environment", "surroundings", "milieu", "surrounding"],
+      "english": [
+        {
+          "id": "zb8nejsc",
+          "word": "environment",
+          "meaning": "natural world",
+          "note": "This is the all-purpose choice for surroundings and influences, and can also mean the natural environment when the context makes that clear."
+        },
+        {
+          "id": "yjupae9r",
+          "word": "surroundings",
+          "meaning": "area around someone or something",
+          "note": "Choose this when “surroundings” means the overall environment or setting, including its conditions and atmosphere."
+        },
+        {
+          "id": "906vhz5j",
+          "word": "milieu",
+          "meaning": "environment, setting",
+          "note": "Use this as the all-purpose rendering for a surrounding environment or setting, including a social one."
+        },
+        {
+          "id": "2mme21eg",
+          "word": "surrounding",
+          "meaning": "environment",
+          "note": "Use this for the environment or general conditions in which someone or something exists."
+        }
+      ],
       "examples": [
         {
           "english": "This environment is very suitable for children to learn in.",

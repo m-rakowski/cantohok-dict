@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "personal computer",
-      "english": ["PC"],
+      "english": [
+        {
+          "id": "cp1oswqw",
+          "word": "PC",
+          "meaning": "personal computer",
+          "note": "This is the all-purpose term for a personal computer, especially when distinguishing it from a Mac."
+        }
+      ],
       "examples": [
         {
           "english": "I want to buy a PC, not an Apple computer.",

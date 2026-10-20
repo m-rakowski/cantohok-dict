@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "massacre",
-      "english": ["holocaust", "massacre", "slaughter"],
+      "english": [
+        {
+          "id": "q7guixzz",
+          "word": "holocaust",
+          "meaning": "mass destruction, massacre",
+          "note": "This is the all-purpose choice for the large-scale killing or slaughter of people or animals."
+        },
+        {
+          "id": "eo8qd1bp",
+          "word": "massacre",
+          "meaning": "killing of many people",
+          "note": "This is the all-purpose noun for the killing of many people, especially in news or historical contexts."
+        },
+        {
+          "id": "8t03ejxh",
+          "word": "slaughter",
+          "meaning": "mass killing",
+          "note": "Use this for the massacre of a large number of people."
+        }
+      ],
       "examples": [
         {
           "english": "The war led to a holocaust in the whole village.",

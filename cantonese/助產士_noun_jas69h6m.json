@@ -6,7 +6,15 @@
   "boxes": [
     {
       "meaning": "childbirth assistant",
-      "english": ["midwife"],
+      "english": [
+        {
+          "id": "5bwenopo",
+          "word": "midwife",
+          "meaning": "childbirth assistant",
+          "register": "formal",
+          "note": "Use this for a modern, professionally trained midwife, especially in a hospital or official context."
+        }
+      ],
       "register": "formal",
       "examples": [
         {

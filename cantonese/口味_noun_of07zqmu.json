@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "personal taste, preference",
-      "english": ["preference", "taste"],
+      "english": [
+        {
+          "id": "6dcrl83r",
+          "word": "preference",
+          "meaning": "liking / choice",
+          "note": "Use this for preferences in food, drink, entertainment, or other matters of taste."
+        },
+        {
+          "id": "3slceoyk",
+          "word": "taste",
+          "meaning": "personal taste",
+          "note": "Use this for a person's preferences, especially in food, entertainment, or similar choices."
+        }
+      ],
       "examples": [
         {
           "english": "My preference is for less sweetness, so no sugar in the milk tea, please.",

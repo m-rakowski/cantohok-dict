@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "canal lock",
-      "english": ["lock"],
+      "english": [
+        {
+          "id": "n4g4df63",
+          "word": "lock",
+          "meaning": "canal lock",
+          "note": "Use this specifically for a canal lock that raises or lowers boats between water levels."
+        }
+      ],
       "examples": [
         {
           "english": "The boat entered the lock and waited for the water level to rise before leaving.",

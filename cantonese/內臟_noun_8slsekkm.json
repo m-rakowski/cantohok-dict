@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "body organ",
-      "english": ["organ"],
+      "english": [
+        {
+          "id": "azjsrgrg",
+          "word": "organ",
+          "meaning": "body organ",
+          "note": "Use this for internal organs or viscera, rather than as the general biological term."
+        }
+      ],
       "examples": [
         {
           "english": "The doctor said my internal organ was fine.",

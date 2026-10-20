@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "commotion, uproar",
-      "english": ["brouhaha", "disturbance", "bother", "fuss"],
+      "english": [
+        {
+          "id": "ow8alh9j",
+          "word": "brouhaha",
+          "meaning": "fuss; uproar",
+          "note": "Use this as the all-purpose noun for a commotion, fuss, or uproar."
+        },
+        {
+          "id": "1rhxyjen",
+          "word": "disturbance",
+          "meaning": "noise or commotion",
+          "note": "Use this for a noisy commotion or public disturbance rather than just the sound."
+        },
+        {
+          "id": "l7195637",
+          "word": "bother",
+          "meaning": "fuss, disturbance",
+          "note": "Use this for an actual commotion or disturbance rather than ordinary inconvenience."
+        },
+        {
+          "id": "o5yg197u",
+          "word": "fuss",
+          "meaning": "complaint or scene",
+          "note": "Use this for noise or a public scene, rather than for a mere complaint."
+        }
+      ],
       "examples": [
         {
           "english": "There was suddenly a brouhaha at the entrance, and nobody knew what had happened.",

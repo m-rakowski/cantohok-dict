@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "launch, release a product",
-      "english": ["debut", "ship", "release", "launch"],
+      "english": [
+        {
+          "id": "ojiv6nmw",
+          "word": "debut",
+          "meaning": "introduce publicly",
+          "note": "This is the all-purpose choice when a product, software release, or other thing is formally introduced to the public."
+        },
+        {
+          "id": "cs9o347a",
+          "word": "ship",
+          "meaning": "release products",
+          "note": "Use this for launching or releasing a product, service, issue, or software to customers."
+        },
+        {
+          "id": "9gi5cm8p",
+          "word": "release",
+          "meaning": "make public",
+          "note": "Use this for launching a new product, service, film, or other item for public use."
+        },
+        {
+          "id": "ve8z3dn3",
+          "word": "launch",
+          "meaning": "start a project",
+          "note": "Use this for putting a product or a new project out for people to use, buy, or participate in."
+        }
+      ],
       "examples": [
         {
           "english": "This new phone will officially debut next month.",

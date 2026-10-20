@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "perfume",
-      "english": ["perfume", "fragrance", "scent"],
+      "english": [
+        {
+          "id": "mgxfbcif",
+          "word": "perfume",
+          "meaning": "fragrance product",
+          "note": "Use 香水 for the perfume product or substance, not for a smell itself."
+        },
+        {
+          "id": "9flwoztl",
+          "word": "fragrance",
+          "meaning": "perfume",
+          "register": "colloquial",
+          "note": "Use this specifically for perfume as a product that people wear or buy."
+        },
+        {
+          "id": "5vj3i069",
+          "word": "scent",
+          "meaning": "perfume",
+          "note": "Use this specifically for the liquid perfume product or substance."
+        }
+      ],
       "examples": [
         {
           "english": "I bought a new perfume.",

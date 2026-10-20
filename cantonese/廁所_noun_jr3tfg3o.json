@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "toilet, restroom",
-      "english": ["bathroom", "toilet", "lavatory", "commode", "pot"],
+      "english": [
+        {
+          "id": "akxl7477",
+          "word": "bathroom",
+          "meaning": "toilet / restroom",
+          "note": "This is the all-purpose spoken choice for a bathroom meaning a toilet or restroom."
+        },
+        {
+          "id": "4rd48rpj",
+          "word": "toilet",
+          "meaning": "bathroom / lavatory",
+          "note": "This is the all-purpose everyday word for a toilet or toilet room."
+        },
+        {
+          "id": "7r4m6nss",
+          "word": "lavatory",
+          "meaning": "toilet",
+          "note": "Use 廁所 as the all-purpose everyday term for either the toilet room or, loosely, the toilet itself."
+        },
+        {
+          "id": "ej2g2ke5",
+          "word": "commode",
+          "meaning": "toilet, euphemistic",
+          "note": "This is the all-purpose Cantonese word for the toilet or restroom."
+        },
+        {
+          "id": "p42htphw",
+          "word": "pot",
+          "meaning": "toilet",
+          "note": "Use this for the toilet or lavatory sense, especially in the slang expression about getting off the pot."
+        }
+      ],
       "examples": [
         {
           "english": "I want to go to the bathroom; I'll be back in a bit.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "steepness of a slope",
-      "english": ["slope", "grade"],
+      "english": [
+        {
+          "id": "ffnt2ebr",
+          "word": "slope",
+          "meaning": "steepness",
+          "note": "Use this for how steep a surface is, including the pitch of a roof when the roof context is clear."
+        },
+        {
+          "id": "g010lwfd",
+          "word": "grade",
+          "meaning": "road slope",
+          "note": "Use this for the steepness or gradient of a road, hill, or other passage."
+        }
+      ],
       "examples": [
         {
           "english": "The slope of this roof is too steep, so it leaks when it rains.",

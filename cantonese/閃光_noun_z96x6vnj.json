@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "flash of light",
-      "english": ["glint", "gleam", "twinkle", "flash", "spark"],
+      "english": [
+        {
+          "id": "k20sn0l2",
+          "word": "glint",
+          "meaning": "brief flash of reflected light",
+          "note": "This is the all-purpose noun for a brief flash of reflected light from something shiny."
+        },
+        {
+          "id": "kcqf8a0j",
+          "word": "gleam",
+          "meaning": "small flash of light",
+          "note": "This is the all-purpose choice for a brief visible flash or glint of light."
+        },
+        {
+          "id": "x1r72p48",
+          "word": "twinkle",
+          "meaning": "sparkle of light",
+          "note": "This is the all-purpose noun for a small sparkle or glimmer of light."
+        },
+        {
+          "id": "9mxdihig",
+          "word": "flash",
+          "meaning": "brief burst of light",
+          "note": "This is the all-purpose noun for a sudden burst of light."
+        },
+        {
+          "id": "n8oh0x07",
+          "word": "spark",
+          "meaning": "sparkle of light",
+          "note": "Use 閃光 specifically for the fleeting glint or flash of light, rather than a burning particle or an electrical discharge."
+        }
+      ],
       "examples": [
         {
           "english": "A glint flashed off the blade.",

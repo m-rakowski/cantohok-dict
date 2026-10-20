@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "punish, fine",
-      "english": ["punish", "slap"],
+      "english": [
+        {
+          "id": "qzbf250f",
+          "word": "punish",
+          "meaning": "punish as penalty",
+          "note": "Use this as the all-purpose verb for imposing a penalty or disciplinary punishment."
+        },
+        {
+          "id": "dajal0oy",
+          "word": "slap",
+          "meaning": "impose a penalty",
+          "note": "Use this for imposing an official punishment or fine on someone, rather than for a physical hit."
+        }
+      ],
       "examples": [
         {
           "english": "The teacher said they would definitely punish you by making you stay after school.",

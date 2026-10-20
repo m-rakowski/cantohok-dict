@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "artificial satellite",
-      "english": ["satellite"],
+      "english": [
+        {
+          "id": "4xejydi1",
+          "word": "satellite",
+          "meaning": "artificial satellite",
+          "note": "Use this when you need to specify that the satellite is artificial rather than a natural moon or body."
+        }
+      ],
       "examples": [
         {
           "english": "The satellite helps us collect weather data.",

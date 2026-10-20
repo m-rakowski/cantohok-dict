@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "plot of land",
-      "english": ["parcel", "lot", "plot"],
+      "english": [
+        {
+          "id": "ry105lui",
+          "word": "parcel",
+          "meaning": "piece of land",
+          "note": "Use this for a plot of land viewed as property that can be bought, sold, or developed."
+        },
+        {
+          "id": "gdft9wc1",
+          "word": "lot",
+          "meaning": "plot of land",
+          "note": "Use this specifically for a distinct parcel of land, especially a building or development site."
+        },
+        {
+          "id": "y8dqc5cm",
+          "word": "plot",
+          "meaning": "piece of land",
+          "register": "colloquial",
+          "note": "Use this for a piece of land, especially land considered for building or development."
+        }
+      ],
       "examples": [
         {
           "english": "This parcel of land is still for sale, so don't miss it.",

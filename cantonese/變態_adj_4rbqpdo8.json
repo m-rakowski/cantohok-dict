@@ -6,7 +6,47 @@
   "boxes": [
     {
       "meaning": "perverted, sick",
-      "english": ["depraved", "deviant", "twisted", "unnatural", "creepy", "sick"],
+      "english": [
+        {
+          "id": "cc5suls7",
+          "word": "depraved",
+          "meaning": "morally corrupt",
+          "register": "colloquial",
+          "note": "Use this when the depravity suggests perversion, abnormality, or disturbing behaviour, rather than ordinary wrongdoing."
+        },
+        {
+          "id": "p5cv4q8z",
+          "word": "deviant",
+          "meaning": "deviating from norms",
+          "register": "colloquial",
+          "note": "Use this for strongly disturbing or sexually deviant behaviour, and note that it sounds insulting."
+        },
+        {
+          "id": "i6qx5g9e",
+          "word": "twisted",
+          "meaning": "mentally disturbed, warped",
+          "note": "Use this when “twisted” means mentally abnormal or perverted, especially of a person, attitude, or sense of humour."
+        },
+        {
+          "id": "asi99pti",
+          "word": "unnatural",
+          "meaning": "against nature, perverse",
+          "note": "Use this for a person or behaviour that is perverse or seriously abnormal, often with a negative or insulting tone."
+        },
+        {
+          "id": "nk89oowb",
+          "word": "creepy",
+          "meaning": "sexually creepy",
+          "note": "Use this when the discomfort comes from sexually inappropriate or perverted conduct."
+        },
+        {
+          "id": "8dqfsgog",
+          "word": "sick",
+          "meaning": "in bad taste",
+          "register": "colloquial",
+          "note": "Use this slang adjective for someone or something disturbingly abnormal, including a twisted or tasteless joke."
+        }
+      ],
       "note": "Insulting; used for disturbing or sexually inappropriate behaviour.",
       "examples": [
         {

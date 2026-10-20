@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "welcome",
-      "english": ["welcome", "greet"],
+      "english": [
+        {
+          "id": "hctfml49",
+          "word": "welcome",
+          "meaning": "welcome suggestions",
+          "note": "This is the all-purpose choice when you are glad to accept suggestions, ideas, or other input."
+        },
+        {
+          "id": "uevp51y3",
+          "word": "greet",
+          "meaning": "welcome someone",
+          "note": "Use this when you mean warmly welcoming someone rather than simply saying hello."
+        }
+      ],
       "examples": [
         {
           "english": "We welcome any new ideas you have.",

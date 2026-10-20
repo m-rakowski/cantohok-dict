@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "liquid/gas pump device",
-      "english": ["pump"],
+      "english": [
+        {
+          "id": "06pquql6",
+          "word": "pump",
+          "meaning": "liquid/gas pump device",
+          "note": "This is the all-purpose noun for a pump device, including when the exact type is clear from context."
+        }
+      ],
       "examples": [
         {
           "english": "This pump is used to pump water.",

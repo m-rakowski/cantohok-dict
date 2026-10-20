@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "heavy and bulky",
-      "english": ["bulky", "ponderous"],
+      "english": [
+        {
+          "id": "rgbkjm6g",
+          "word": "bulky",
+          "meaning": "large, big, or heavy",
+          "note": "Choose 笨重 when the size or weight makes something difficult to carry, move, or handle."
+        },
+        {
+          "id": "keuljopz",
+          "word": "ponderous",
+          "meaning": "clumsy, unwieldy, slow",
+          "note": "Use this when something is awkwardly heavy, unwieldy, or slow rather than merely heavy."
+        }
+      ],
       "examples": [
         {
           "english": "This washing machine is bulky and extremely hard to carry up the stairs.",

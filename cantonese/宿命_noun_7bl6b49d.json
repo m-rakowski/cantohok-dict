@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "fate, destiny",
-      "english": ["fate", "destiny"],
+      "english": [
+        {
+          "id": "05y7rkh1",
+          "word": "fate",
+          "meaning": "destiny / predetermining force",
+          "register": "formal",
+          "note": "Use this when stressing that the fate is fixed and unavoidable."
+        },
+        {
+          "id": "qwp4duhe",
+          "word": "destiny",
+          "meaning": "predetermined fate",
+          "register": "written",
+          "note": "Use this for an apparently unavoidable or fatalistic destiny rather than the neutral all-purpose sense."
+        }
+      ],
       "examples": [
         {
           "english": "He thinks this doomed relationship is fate and cannot be avoided.",

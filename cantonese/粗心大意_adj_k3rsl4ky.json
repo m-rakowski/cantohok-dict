@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "careless",
-      "english": ["thoughtless", "neglectful", "negligent"],
+      "english": [
+        {
+          "id": "3h0t48e9",
+          "word": "thoughtless",
+          "meaning": "careless, heedless",
+          "note": "Use this as the all-purpose choice for someone who is careless or heedless."
+        },
+        {
+          "id": "6nur3suy",
+          "word": "neglectful",
+          "meaning": "failing to take care",
+          "note": "This is the all-purpose choice for someone who is careless, inattentive, or forgetful about things needing care."
+        },
+        {
+          "id": "zc7f7phm",
+          "word": "negligent",
+          "meaning": "careless; inattentive",
+          "note": "Use this as the all-purpose rendering for being careless or failing to pay attention."
+        }
+      ],
       "examples": [
         {
           "english": "You're so thoughtless that you even forgot to lock the door.",

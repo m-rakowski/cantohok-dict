@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "dress",
-      "english": ["dress", "gown"],
+      "english": [
+        {
+          "id": "294vvepp",
+          "word": "dress",
+          "meaning": "dress (women's clothing)",
+          "note": "Use this as the all-purpose noun for a one-piece skirted garment worn mainly by women or girls."
+        },
+        {
+          "id": "8dsspzca",
+          "word": "gown",
+          "meaning": "Woman's dress",
+          "note": "This is the all-purpose choice for a woman's ordinary one-piece dress, rather than a professional or indoor robe."
+        }
+      ],
       "examples": [
         {
           "english": "This dress really suits you—wear it to the banquet.",

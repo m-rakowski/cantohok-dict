@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "hairdresser",
-      "english": ["hairdresser", "stylist"],
+      "english": [
+        {
+          "id": "r5n4o3k0",
+          "word": "hairdresser",
+          "meaning": "person who cuts/styles hair",
+          "note": "This is the all-purpose everyday term for a professional who cuts or styles hair."
+        },
+        {
+          "id": "xx6lcqzf",
+          "word": "stylist",
+          "meaning": "hairdresser",
+          "note": "Use this as the all-purpose word for someone who cuts, styles, or dresses hair."
+        }
+      ],
       "examples": [
         {
           "english": "My friend is a hairdresser.",

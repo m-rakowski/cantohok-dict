@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "to stop using",
-      "english": ["disable", "churn"],
+      "english": [
+        {
+          "id": "93obqzdj",
+          "word": "disable",
+          "meaning": "turn off device/function",
+          "note": "Use this for deliberately deactivating a device, system, or electronic function rather than physically preventing an action."
+        },
+        {
+          "id": "9txdawbp",
+          "word": "churn",
+          "meaning": "stop using a service",
+          "note": "This is the all-purpose choice when someone stops using a product or service."
+        }
+      ],
       "examples": [
         {
           "english": "We chose to disable this function to save battery.",

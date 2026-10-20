@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "generally speaking",
-      "english": ["typically", "widely"],
+      "english": [
+        {
+          "id": "z88v6unu",
+          "word": "typically",
+          "meaning": "usually; in a typical way",
+          "note": "Use this when making a broad generalization rather than describing one person's routine."
+        },
+        {
+          "id": "1xj6jebg",
+          "word": "widely",
+          "meaning": "generally; to a large extent",
+          "note": "Use this to frame a generalization, especially when English means “generally speaking.”"
+        }
+      ],
       "examples": [
         {
           "english": "Generally speaking, children typically like eating sweets.",

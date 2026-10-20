@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "building heating system",
-      "english": ["central heating"],
+      "english": [
+        {
+          "id": "8tzfw4ws",
+          "word": "central heating",
+          "meaning": "building heating system",
+          "note": "This is the all-purpose Cantonese term for a building-wide heating system controlled from a central source."
+        }
+      ],
       "examples": [
         {
           "english": "Many homes in Britain have central heating, so the whole house stays warm in winter.",

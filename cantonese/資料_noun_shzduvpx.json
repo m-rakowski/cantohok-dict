@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "information, data",
-      "english": ["information", "data", "detail", "material", "fact"],
+      "english": [
+        {
+          "id": "a9w8nfse",
+          "word": "information",
+          "meaning": "facts about something",
+          "note": "Use 資料 as the all-purpose word for facts or knowledge about a topic."
+        },
+        {
+          "id": "9vcbxo8a",
+          "word": "data",
+          "meaning": "facts / information",
+          "note": "Use this for general recorded information or source material rather than specifically quantified computer data."
+        },
+        {
+          "id": "rdiizi5i",
+          "word": "detail",
+          "meaning": "personal details",
+          "note": "Use 資料 for a person's identifying or other personal information, especially in 個人資料."
+        },
+        {
+          "id": "o6f073x4",
+          "word": "material",
+          "meaning": "content / source material",
+          "note": "Use this for information, evidence, or source material that can be studied, developed, or used in teaching."
+        },
+        {
+          "id": "zkcjb2wt",
+          "word": "fact",
+          "meaning": "information about a subject",
+          "note": "Use this for information or data about a subject rather than for a proven proposition."
+        }
+      ],
       "examples": [
         {
           "english": "This information is explained very clearly.",

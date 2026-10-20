@@ -6,7 +6,33 @@
   "boxes": [
     {
       "meaning": "to fund, financially support",
-      "english": ["subsidize", "fund", "finance", "support"],
+      "english": [
+        {
+          "id": "2r8k03f8",
+          "word": "subsidize",
+          "meaning": "financially support with a subsidy",
+          "note": "This is the all-purpose verb for financially supporting someone or something with a subsidy."
+        },
+        {
+          "id": "suikrtvc",
+          "word": "fund",
+          "meaning": "finance, pay for",
+          "register": "formal",
+          "note": "Use this for financially supporting a person, project, organization, or activity, especially in more formal contexts."
+        },
+        {
+          "id": "cki6r9tn",
+          "word": "finance",
+          "meaning": "fund",
+          "note": "Use this when the funding is financial support, sponsorship, or a subsidy."
+        },
+        {
+          "id": "wcev83hu",
+          "word": "support",
+          "meaning": "financially help, subsidize",
+          "note": "Use this when the support specifically involves giving money or funding a project or organization."
+        }
+      ],
       "examples": [
         {
           "english": "The government agrees to subsidize this community centre so it can keep running classes.",

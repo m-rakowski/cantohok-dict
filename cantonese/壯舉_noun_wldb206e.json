@@ -6,7 +6,28 @@
   "boxes": [
     {
       "meaning": "great feat",
-      "english": ["deed", "feat", "achievement"],
+      "english": [
+        {
+          "id": "wg5braxt",
+          "word": "deed",
+          "meaning": "noble deed, feat",
+          "note": "Use this as the all-purpose choice for an impressive, heroic, or noteworthy feat."
+        },
+        {
+          "id": "o05lzpnh",
+          "word": "feat",
+          "meaning": "difficult accomplishment",
+          "register": "formal",
+          "note": "This is the all-purpose noun for a notably difficult or impressive accomplishment."
+        },
+        {
+          "id": "ciqpd6zk",
+          "word": "achievement",
+          "meaning": "feat, heroic deed",
+          "register": "formal",
+          "note": "Use this for a notable or heroic feat achieved through boldness or courage."
+        }
+      ],
       "examples": [
         {
           "english": "Jumping into the sea to save someone was truly a heroic deed.",

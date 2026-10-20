@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "desolate, bleak",
-      "english": ["solitary", "barren"],
+      "english": [
+        {
+          "id": "9mpemdzu",
+          "word": "solitary",
+          "meaning": "deserted; empty",
+          "note": "Use this for a place that is desolate, deserted, and shows few or no signs of habitation."
+        },
+        {
+          "id": "rvo5utlc",
+          "word": "barren",
+          "meaning": "infertile land",
+          "note": "Use this for a desolate, bleak landscape, including barren land viewed as empty and unattractive rather than technically infertile."
+        }
+      ],
       "examples": [
         {
           "english": "That solitary beach does not even have a house in sight.",

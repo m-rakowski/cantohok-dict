@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "unfortunately, what a pity",
-      "english": ["unfortunately", "sadly", "regrettably"],
+      "english": [
+        {
+          "id": "u1vh85tu",
+          "word": "unfortunately",
+          "meaning": "sentence adverb: regrettably",
+          "note": "This is the all-purpose choice for expressing regret or disappointment about what follows."
+        },
+        {
+          "id": "6gbv4w8j",
+          "word": "sadly",
+          "meaning": "unfortunately",
+          "note": "Use 可惜 as the all-purpose choice when sadly means unfortunately or regretfully, not to describe a sorrowful manner."
+        },
+        {
+          "id": "ghndrlgs",
+          "word": "regrettably",
+          "meaning": "in a regrettable way",
+          "note": "This is the all-purpose choice for saying that a situation is regrettable or unfortunate."
+        }
+      ],
       "examples": [
         {
           "english": "Unfortunately, it’s raining today, so we have to postpone it.",

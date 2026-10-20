@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "disconnect, break apart",
-      "english": ["separate", "part"],
+      "english": [
+        {
+          "id": "3v0j5g3l",
+          "word": "separate",
+          "meaning": "disconnect, disunite",
+          "note": "Use this for physically disconnecting or breaking a connection, such as a wire, link, or line."
+        },
+        {
+          "id": "oew6pk1l",
+          "word": "part",
+          "meaning": "be separated; split",
+          "note": "Use this when a rope or similar object breaks or splits apart."
+        }
+      ],
       "examples": [
         {
           "english": "I had to separate the network cable from the router.",

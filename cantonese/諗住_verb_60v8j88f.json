@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "to intend, plan to",
-      "english": ["intend", "mean"],
+      "english": [
+        {
+          "id": "bb3vmbhv",
+          "word": "intend",
+          "meaning": "plan, mean to",
+          "note": "This is the all-purpose colloquial choice for saying that someone intends or plans to do something."
+        },
+        {
+          "id": "q4gl5gu1",
+          "word": "mean",
+          "meaning": "intend to do",
+          "register": "colloquial",
+          "note": "Use this for intending or planning to do something, including a benevolent intention such as meaning well."
+        }
+      ],
       "examples": [
         {
           "english": "I intend to go see a movie tomorrow.",

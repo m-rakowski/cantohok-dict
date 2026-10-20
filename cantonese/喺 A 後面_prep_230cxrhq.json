@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "behind A",
-      "english": ["behind", "after"],
+      "english": [
+        {
+          "id": "sfcywu59",
+          "word": "behind",
+          "meaning": "at the back of",
+          "note": "This is the all-purpose choice for a person or thing located at or moving to the back of A."
+        },
+        {
+          "id": "hm4iow95",
+          "word": "after",
+          "meaning": "behind",
+          "note": "Use this when someone or something is physically behind A or leaves a trail behind A."
+        }
+      ],
       "examples": [
         {
           "english": "The car is behind our car.",

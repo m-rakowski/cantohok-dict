@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "ecosystem",
-      "english": ["ecosystem", "ecology"],
+      "english": [
+        {
+          "id": "20csibpj",
+          "word": "ecosystem",
+          "meaning": "ecological system",
+          "note": "This is the all-purpose rendering for an ecological system made up of organisms and their environment."
+        },
+        {
+          "id": "382ge80p",
+          "word": "ecology",
+          "meaning": "system of relationships",
+          "note": "Use this when the ecology is viewed specifically as an interconnected system of organisms and their environment."
+        }
+      ],
       "examples": [
         {
           "english": "This wetland's ecosystem is very fragile.",

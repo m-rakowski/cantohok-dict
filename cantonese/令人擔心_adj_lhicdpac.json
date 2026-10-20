@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "worrying",
-      "english": ["worrying", "troublesome", "anxious"],
+      "english": [
+        {
+          "id": "0dtghciu",
+          "word": "worrying",
+          "meaning": "causing worry",
+          "note": "This is the all-purpose choice for something that causes worry or concern."
+        },
+        {
+          "id": "1qq80ebf",
+          "word": "troublesome",
+          "meaning": "causing trouble or anxiety",
+          "note": "Use this specifically when the troublesome thing causes anxiety or concern rather than practical inconvenience."
+        },
+        {
+          "id": "0licmk4l",
+          "word": "anxious",
+          "meaning": "causing worry",
+          "note": "Use this for something that causes worry rather than for a person who feels worried."
+        }
+      ],
       "examples": [
         {
           "english": "This patient's condition is worrying.",

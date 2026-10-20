@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "baffling, makes no sense",
-      "english": ["inexplicable", "mysterious", "inscrutable"],
+      "english": [
+        {
+          "id": "s0zh84vd",
+          "word": "inexplicable",
+          "meaning": "impossible to explain",
+          "note": "This is the all-purpose choice for something puzzling or not readily accounted for."
+        },
+        {
+          "id": "5yrgaqt7",
+          "word": "mysterious",
+          "meaning": "hard to understand",
+          "note": "Use this when the reason or meaning is baffling or difficult to understand rather than simply secret."
+        },
+        {
+          "id": "gmu0i62a",
+          "word": "inscrutable",
+          "meaning": "hard to understand",
+          "note": "Use this when something is baffling or makes no sense, often with a hint that it is odd or unreasonable."
+        }
+      ],
       "examples": [
         {
           "english": "They suddenly said they wanted to quit; it was inexplicable.",

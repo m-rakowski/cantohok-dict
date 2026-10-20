@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "remainder in division",
-      "english": ["remainder", "residue"],
+      "english": [
+        {
+          "id": "1dg1dgev",
+          "word": "remainder",
+          "meaning": "math remainder",
+          "note": "Use this specifically for the amount left over in a division calculation."
+        },
+        {
+          "id": "kdx0izod",
+          "word": "residue",
+          "meaning": "remainder after division",
+          "note": "Use this specifically for the mathematical remainder after division."
+        }
+      ],
       "examples": [
         {
           "english": "When seven is divided by two, the remainder is one.",

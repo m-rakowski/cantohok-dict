@@ -6,7 +6,46 @@
   "boxes": [
     {
       "meaning": "angry, annoyed",
-      "english": ["angry", "mad", "upset", "annoyed", "salty", "bent"],
+      "english": [
+        {
+          "id": "b8kl9wet",
+          "word": "angry",
+          "meaning": "feeling or showing anger",
+          "note": "This is the all-purpose everyday adjective for feeling or showing anger."
+        },
+        {
+          "id": "gao6cmn0",
+          "word": "mad",
+          "meaning": "angry, annoyed",
+          "note": "This is the all-purpose colloquial choice when someone is angry or annoyed."
+        },
+        {
+          "id": "d7w0r96q",
+          "word": "upset",
+          "meaning": "angry / distressed",
+          "note": "Use 嬲 as the all-purpose choice when someone is angry, distressed, or unhappy."
+        },
+        {
+          "id": "j7m0e4k0",
+          "word": "annoyed",
+          "meaning": "troubled; irritated",
+          "note": "Use this as the all-purpose choice when someone is irritated or angry with a person or situation."
+        },
+        {
+          "id": "0piahjn1",
+          "word": "salty",
+          "meaning": "annoyed, bitter",
+          "register": "colloquial",
+          "note": "Use this for a person who is irritated or angry, where English “salty” describes an upset attitude rather than food."
+        },
+        {
+          "id": "b02inrzu",
+          "word": "bent",
+          "meaning": "annoyed, upset about",
+          "register": "colloquial",
+          "note": "Use this for being annoyed or angry, rather than for physical bending or determination."
+        }
+      ],
       "examples": [
         {
           "english": "They are so angry that they refuse to talk to me.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "geographic north",
-      "english": ["geographic"],
+      "english": [
+        {
+          "id": "xcht7xbj",
+          "word": "geographic",
+          "meaning": "geographic north",
+          "note": "Use this specifically for geographic north when contrasting it with magnetic north."
+        }
+      ],
       "examples": [
         {
           "english": "The compass points to magnetic north, not geographic north.",

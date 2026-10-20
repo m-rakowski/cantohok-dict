@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "eastward",
-      "english": ["east", "eastward"],
+      "english": [
+        {
+          "id": "wqnrp3rb",
+          "word": "east",
+          "meaning": "eastward",
+          "note": "This is the all-purpose way to say that something moves or points eastward."
+        },
+        {
+          "id": "qi0zwwgh",
+          "word": "eastward",
+          "meaning": "towards the east",
+          "note": "This is the all-purpose way to say that someone or something is moving towards the east."
+        }
+      ],
       "examples": [
         {
           "english": "The car goes east.",

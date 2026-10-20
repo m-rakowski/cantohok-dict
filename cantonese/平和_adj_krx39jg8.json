@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "calm, gentle",
-      "english": ["equable", "placid"],
+      "english": [
+        {
+          "id": "v1sd6hp0",
+          "word": "equable",
+          "meaning": "calm, steady",
+          "note": "This is the all-purpose choice for a calm, even-tempered person or disposition."
+        },
+        {
+          "id": "qotm6719",
+          "word": "placid",
+          "meaning": "calm, peaceful",
+          "note": "Use this especially for a person's gentle, even-tempered disposition or manner."
+        }
+      ],
       "examples": [
         {
           "english": "They are always equable and never lose their temper.",

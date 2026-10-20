@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "clear, easy to understand",
-      "english": ["clear", "unequivocal", "articulate"],
+      "english": [
+        {
+          "id": "m75wtxeo",
+          "word": "clear",
+          "meaning": "easy to understand",
+          "note": "This is the all-purpose choice for something easy to understand, and it also describes speech or sound that is easy to hear distinctly."
+        },
+        {
+          "id": "3lvaljym",
+          "word": "unequivocal",
+          "meaning": "unambiguous; clear",
+          "note": "This is the all-purpose spoken choice when something is clear and leaves no room for misunderstanding."
+        },
+        {
+          "id": "f65x335y",
+          "word": "articulate",
+          "meaning": "good at speaking",
+          "note": "Use this when the speech, explanation, or wording is clear and easy to understand."
+        }
+      ],
       "examples": [
         {
           "english": "This report is very clear; you understand it after one read.",
@@ -27,7 +46,14 @@
     },
     {
       "meaning": "aware, knowing",
-      "english": ["aware"],
+      "english": [
+        {
+          "id": "w7s08mzq",
+          "word": "aware",
+          "meaning": "aware of; know about",
+          "note": "This is the all-purpose choice when someone knows about or understands something."
+        }
+      ],
       "examples": [
         {
           "english": "I only became aware now that you weren't the one who did it.",

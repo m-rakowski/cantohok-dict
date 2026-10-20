@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "to haggle over price",
-      "english": ["bargain", "haggle"],
+      "english": [
+        {
+          "id": "nmqfyfzu",
+          "word": "bargain",
+          "meaning": "haggle, negotiate",
+          "note": "This is the all-purpose choice for negotiating a price or haggling."
+        },
+        {
+          "id": "16ptdl9u",
+          "word": "haggle",
+          "meaning": "negotiate price",
+          "note": "This is the all-purpose choice for negotiating a price between a buyer and seller."
+        }
+      ],
       "examples": [
         {
           "english": "I bargain with the shop assistant to get it cheaper.",

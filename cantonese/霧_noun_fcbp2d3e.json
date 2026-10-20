@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "fog, mist",
-      "english": ["fog", "mist"],
+      "english": [
+        {
+          "id": "mjjlyz9p",
+          "word": "fog",
+          "meaning": "low ground mist",
+          "note": "Use 霧 as the all-purpose noun for ordinary atmospheric fog; 霧氣 emphasizes mist or condensation, while 腦霧 is mental."
+        },
+        {
+          "id": "ysixuznq",
+          "word": "mist",
+          "meaning": "fine water droplets in air",
+          "note": "This is the all-purpose everyday word for fine droplets suspended in the air, such as morning mist."
+        }
+      ],
       "examples": [
         {
           "english": "The fog is really thick today, so drive carefully.",

@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "moral character",
-      "english": ["virtue", "moral", "goodness"],
+      "english": [
+        {
+          "id": "y5mqxffn",
+          "word": "virtue",
+          "meaning": "moral conduct",
+          "note": "Use 品德 as the all-purpose rendering for a person's moral goodness, conduct, or admirable character."
+        },
+        {
+          "id": "k1qf8wfy",
+          "word": "moral",
+          "meaning": "morals, ethics",
+          "note": "Use this when referring specifically to a person's moral character or qualities."
+        },
+        {
+          "id": "qt72o2sb",
+          "word": "goodness",
+          "meaning": "moral goodness",
+          "note": "Use this specifically for a person's moral character and virtues."
+        }
+      ],
       "examples": [
         {
           "english": "His virtue shows in the fact that he never takes advantage of others.",

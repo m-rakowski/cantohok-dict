@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "boasting, bragging",
-      "english": ["boast", "brag"],
+      "english": [
+        {
+          "id": "tjxf5m0e",
+          "word": "boast",
+          "meaning": "brag, self-praise",
+          "register": "colloquial",
+          "note": "This is the colloquial all-purpose choice for the act or words of boasting."
+        },
+        {
+          "id": "w816y4fv",
+          "word": "brag",
+          "meaning": "boast; boasting",
+          "register": "colloquial",
+          "note": "This is the all-purpose noun for a boast or boastful talk, especially an exaggerated claim."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

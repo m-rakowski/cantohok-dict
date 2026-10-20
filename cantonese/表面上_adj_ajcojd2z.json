@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "apparent, on the surface",
-      "english": ["superficial", "facial"],
+      "english": [
+        {
+          "id": "o5p318i5",
+          "word": "superficial",
+          "meaning": "not deep or thorough",
+          "note": "Use this for something that seems true or real at first glance, especially when the fuller reality is different."
+        },
+        {
+          "id": "zl0zkft2",
+          "word": "facial",
+          "meaning": "on its face",
+          "note": "Use this for a legal or other judgment that is valid or apparent on the surface before closer analysis."
+        }
+      ],
       "examples": [
         {
           "english": "Everyone seems to be getting along on the surface, but the peace is superficial and there are still many problems underneath.",

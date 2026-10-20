@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "grip strength",
-      "english": ["grip", "grasp", "hold"],
+      "english": [
+        {
+          "id": "7stj2npu",
+          "word": "grip",
+          "meaning": "hand hold; grasp",
+          "note": "Use this as the all-purpose choice for the firmness or strength of a physical hand grip."
+        },
+        {
+          "id": "lbgwx7e8",
+          "word": "grasp",
+          "meaning": "firm hold / grip",
+          "note": "Use this specifically for the strength of someone's grip, not simply the act of holding something."
+        },
+        {
+          "id": "sox3xn8r",
+          "word": "hold",
+          "meaning": "a grip or hold",
+          "note": "Use this for the strength or firmness of a person's physical grip, not for the object being grasped."
+        }
+      ],
       "examples": [
         {
           "english": "After this exercise, I feel like my grip is much stronger.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "school term",
-      "english": ["semester", "term"],
+      "english": [
+        {
+          "id": "2af1w1ng",
+          "word": "semester",
+          "meaning": "school term",
+          "note": "This is the all-purpose Cantonese noun for one half of a school or academic year."
+        },
+        {
+          "id": "wxwg6plb",
+          "word": "term",
+          "meaning": "school term",
+          "note": "Use this specifically for one division of an academic year."
+        }
+      ],
       "examples": [
         {
           "english": "I have five courses to take this semester.",

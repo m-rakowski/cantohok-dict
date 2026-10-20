@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "trustworthiness, keeping your word",
-      "english": ["credibility"],
+      "english": [
+        {
+          "id": "1q9wwxtu",
+          "word": "credibility",
+          "meaning": "trustworthiness / believability",
+          "note": "This is the all-purpose choice for a person's trustworthiness or whether others believe them."
+        }
+      ],
       "examples": [
         {
           "english": "I have always had credibility because I do what I say.",
@@ -17,7 +24,14 @@
     },
     {
       "meaning": "credit, trust to pay later",
-      "english": ["trust"],
+      "english": [
+        {
+          "id": "h7l2r2nu",
+          "word": "trust",
+          "meaning": "credit, buy on trust",
+          "note": "Use this for creditworthiness or confidence that payment will be made, rather than personal emotional trust."
+        }
+      ],
       "examples": [
         {
           "english": "This company has good credit, so I trust them to pay for the goods later.",

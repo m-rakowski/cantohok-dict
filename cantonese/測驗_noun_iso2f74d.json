@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "test, exam paper",
-      "english": ["test"],
+      "english": [
+        {
+          "id": "jr59prja",
+          "word": "test",
+          "meaning": "test, exam paper",
+          "note": "Use this for a standardized assessment or other measurement test rather than an ordinary school examination."
+        }
+      ],
       "examples": [
         {
           "english": "This personality test is quite fun; I want to know what type I am.",

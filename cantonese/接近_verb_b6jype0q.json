@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "come near",
-      "english": ["approach"],
+      "english": [
+        {
+          "id": "ntithmbk",
+          "word": "approach",
+          "meaning": "come near",
+          "note": "This is the all-purpose choice, especially for general, abstract, approximate, or time-related approaches."
+        }
+      ],
       "examples": [
         {
           "english": "As the deadline starts to approach, we need to finish quickly.",

@@ -6,7 +6,52 @@
   "boxes": [
     {
       "meaning": "claim, statement, someone's account",
-      "english": ["claim", "statement", "observation", "allegation", "assertion", "version", "account"],
+      "english": [
+        {
+          "id": "4iu0p1io",
+          "word": "claim",
+          "meaning": "assert without proof",
+          "note": "This is the all-purpose colloquial noun for an unverified statement or assertion."
+        },
+        {
+          "id": "vosoxqsb",
+          "word": "statement",
+          "meaning": "declaration; remark",
+          "note": "This is the all-purpose colloquial choice for a remark or someone’s expressed opinion or position."
+        },
+        {
+          "id": "39dq0562",
+          "word": "observation",
+          "meaning": "remark, comment",
+          "register": "colloquial",
+          "note": "This is the all-purpose colloquial choice for a remark or comment, especially in sentences like “That’s a foolish observation.”"
+        },
+        {
+          "id": "qwj6v2un",
+          "word": "allegation",
+          "meaning": "accusation; claim",
+          "register": "colloquial",
+          "note": "Use this for a claim or assertion when the wording is less explicitly accusatory."
+        },
+        {
+          "id": "vc6zcmtr",
+          "word": "assertion",
+          "meaning": "statement; declaration",
+          "note": "This is the all-purpose choice for a statement or claim in everyday Cantonese."
+        },
+        {
+          "id": "xqwepqrq",
+          "word": "version",
+          "meaning": "account or account of events",
+          "note": "Use this for one person's account, interpretation, or way of describing events rather than a product or edition version."
+        },
+        {
+          "id": "7kc4ahcc",
+          "word": "account",
+          "meaning": "explanation of events",
+          "note": "Use this for someone's account, version, or explanation of events rather than for a financial account."
+        }
+      ],
       "examples": [
         {
           "english": "This claim has not been verified yet.",
@@ -47,7 +92,26 @@
     },
     {
       "meaning": "way of wording or saying something",
-      "english": ["phrase", "expression", "idiom"],
+      "english": [
+        {
+          "id": "ahvc3dmq",
+          "word": "phrase",
+          "meaning": "short expression",
+          "note": "This is the all-purpose colloquial choice for the way something is worded or expressed."
+        },
+        {
+          "id": "i3rbztk0",
+          "word": "expression",
+          "meaning": "way of phrasing",
+          "note": "Use this for a particular wording or colloquial saying, rather than for the act of expressing something."
+        },
+        {
+          "id": "mlf6h0bm",
+          "word": "idiom",
+          "meaning": "manner of speaking",
+          "note": "Use 講法 for a language's or group's characteristic way of expressing something, rather than for a fixed idiomatic phrase."
+        }
+      ],
       "examples": [
         {
           "english": "This phrase sounds more natural.",

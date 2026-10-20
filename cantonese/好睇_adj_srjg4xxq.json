@@ -6,7 +6,39 @@
   "boxes": [
     {
       "meaning": "good to watch, enjoyable",
-      "english": ["entertaining", "riveting", "engrossing", "interesting", "enjoyable"],
+      "english": [
+        {
+          "id": "vjd3usnb",
+          "word": "entertaining",
+          "meaning": "amusing, enjoyable",
+          "note": "Use 好睇 as the all-purpose choice for an entertaining film, show, event, or story."
+        },
+        {
+          "id": "iy92lmvv",
+          "word": "riveting",
+          "meaning": "captivating; holding attention",
+          "note": "Use this especially for a performance, show, film, or visual display that is very entertaining to watch."
+        },
+        {
+          "id": "v6c4qqsp",
+          "word": "engrossing",
+          "meaning": "absorbing; captivating",
+          "register": "colloquial",
+          "note": "Use this especially for a film, programme, video, or other visual entertainment that is engrossing to watch."
+        },
+        {
+          "id": "8f9tnhum",
+          "word": "interesting",
+          "meaning": "arousing attention; engaging",
+          "note": "Use 好睇 especially for a film, programme, book, game, or other thing that is engaging to watch or follow."
+        },
+        {
+          "id": "89k8eqzx",
+          "word": "enjoyable",
+          "meaning": "pleasant; gives pleasure",
+          "note": "Use this for something enjoyable to watch or read, such as a film, show, or book."
+        }
+      ],
       "examples": [
         {
           "english": "This film is really entertaining; everyone laughed from start to finish.",
@@ -37,7 +69,21 @@
     },
     {
       "meaning": "nice-looking",
-      "english": ["pretty", "pleasing"],
+      "english": [
+        {
+          "id": "twom20zx",
+          "word": "pretty",
+          "meaning": "nice-looking thing",
+          "note": "Use this especially for an object, design, show, or other thing that is pleasing to look at."
+        },
+        {
+          "id": "23aicv9a",
+          "word": "pleasing",
+          "meaning": "giving pleasure; agreeable",
+          "register": "colloquial",
+          "note": "Use this for something pleasing or attractive in appearance, especially a design or visual result."
+        }
+      ],
       "examples": [
         {
           "english": "The design of this shirt is pretty.",

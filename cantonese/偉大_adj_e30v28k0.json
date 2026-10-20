@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "great, admirable",
-      "english": ["extraordinary", "grand"],
+      "english": [
+        {
+          "id": "kzc3chga",
+          "word": "extraordinary",
+          "meaning": "remarkably good",
+          "register": "formal",
+          "note": "Use this for an extraordinarily great or important person, work, or achievement rather than for ordinary praise."
+        },
+        {
+          "id": "03bubz3f",
+          "word": "grand",
+          "meaning": "magnificent, impressive",
+          "register": "formal",
+          "note": "Use this for lofty greatness or an illustrious, dignified person or institution rather than merely a striking appearance."
+        }
+      ],
       "register": "formal",
       "examples": [
         {

@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "sound like, seem from what you hear",
-      "english": ["sound", "seem", "ring"],
+      "english": [
+        {
+          "id": "mmiz9ntz",
+          "word": "sound",
+          "meaning": "seem; give impression",
+          "note": "Use 聽落 as the all-purpose way to say that someone or something seems a certain way from its sound."
+        },
+        {
+          "id": "5ccrjddd",
+          "word": "seem",
+          "meaning": "appear; look like",
+          "note": "Use this when the impression comes specifically from how something sounds or from what you hear."
+        },
+        {
+          "id": "8y8440pt",
+          "word": "ring",
+          "meaning": "sound right",
+          "note": "Use this when judging how something sounds, especially whether it sounds true or plausible."
+        }
+      ],
       "examples": [
         {
           "english": "This song has quite a pleasant sound.",

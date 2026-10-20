@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "attack",
-      "english": ["assault", "attack", "strike"],
+      "english": [
+        {
+          "id": "0wolr9ak",
+          "word": "assault",
+          "meaning": "physical attack",
+          "note": "Use this as the all-purpose noun for an attack, especially an organized physical attack or a verbal attack."
+        },
+        {
+          "id": "hjy1cs3j",
+          "word": "attack",
+          "meaning": "violent assault",
+          "note": "This is the all-purpose noun for an attack, including a general or planned physical assault, an attack on a person or idea, and a military attack."
+        },
+        {
+          "id": "gulf6br0",
+          "word": "strike",
+          "meaning": "attack; air strike",
+          "note": "Use 攻擊 as the all-purpose noun for an attack, rather than the air-specific 空襲."
+        }
+      ],
       "examples": [
         {
           "english": "They launched a fierce assault on the government's policy.",

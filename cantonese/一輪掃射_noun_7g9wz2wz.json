@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "burst of gunfire",
-      "english": ["burst"],
+      "english": [
+        {
+          "id": "o3arktte",
+          "word": "burst",
+          "meaning": "burst of gunfire",
+          "note": "Use this specifically for one burst or round of automatic gunfire."
+        }
+      ],
       "examples": [
         {
           "english": "The gunmen fired a burst at the police car, and the police immediately returned fire.",

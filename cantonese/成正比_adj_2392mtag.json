@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "in direct proportion",
-      "english": ["proportional", "commensurate"],
+      "english": [
+        {
+          "id": "1keltkir",
+          "word": "proportional",
+          "meaning": "in direct ratio",
+          "note": "This is the all-purpose expression for saying that one quantity varies in direct ratio to another."
+        },
+        {
+          "id": "o8zjmwz2",
+          "word": "commensurate",
+          "meaning": "proportionate; corresponding",
+          "note": "Use this when the relationship is specifically proportional or follows a measurable ratio."
+        }
+      ],
       "examples": [
         {
           "english": "When cooking rice, the amount of water is proportional to the amount of rice.",

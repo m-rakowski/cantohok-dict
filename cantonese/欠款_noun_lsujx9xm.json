@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "money owed",
-      "english": ["debt"],
+      "english": [
+        {
+          "id": "44migyb2",
+          "word": "debt",
+          "meaning": "money owed",
+          "note": "This is the all-purpose noun for a specific amount of money that is still owed."
+        }
+      ],
       "examples": [
         {
           "english": "I still have a three-thousand-dollar debt to pay off.",

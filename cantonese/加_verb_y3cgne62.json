@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "add, put in something extra",
-      "english": ["put", "add"],
+      "english": [
+        {
+          "id": "jtt9lni5",
+          "word": "put",
+          "meaning": "set/attach/assign",
+          "note": "Use 加 when putting an abstract restriction, label, responsibility, or other attribute onto something."
+        },
+        {
+          "id": "os9njdih",
+          "word": "add",
+          "meaning": "join, combine",
+          "note": "This is the all-purpose spoken choice for physically adding or combining things, rather than summing figures."
+        }
+      ],
       "examples": [
         {
           "english": "The company put many restrictions in the contract.",

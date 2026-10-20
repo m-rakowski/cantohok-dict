@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "punishment",
-      "english": ["punishment", "penalty"],
+      "english": [
+        {
+          "id": "b7wgve2u",
+          "word": "punishment",
+          "meaning": "act of punishing",
+          "note": "This is the all-purpose word for disciplinary punishment imposed by a parent, teacher, or other authority."
+        },
+        {
+          "id": "um4dwwd4",
+          "word": "penalty",
+          "meaning": "sports penalty",
+          "note": "This is the all-purpose choice for a punishment imposed by law, rules, or a sports official, but not for a penalty kick or an early-withdrawal charge."
+        }
+      ],
       "examples": [
         {
           "english": "After getting his homework wrong so many times, the teacher decided on punishment.",

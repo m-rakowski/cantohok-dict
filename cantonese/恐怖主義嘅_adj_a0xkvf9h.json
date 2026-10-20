@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "terrorism-related",
-      "english": ["terrorist"],
+      "english": [
+        {
+          "id": "v4bhdsx7",
+          "word": "terrorist",
+          "meaning": "terrorism-related",
+          "note": "This is the all-purpose modifier for something relating to terrorism, such as a terrorist group or terrorist activity."
+        }
+      ],
       "examples": [
         {
           "english": "Police say this is a terrorist organization.",

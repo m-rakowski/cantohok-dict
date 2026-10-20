@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "also, besides",
-      "english": ["besides", "moreover", "again"],
+      "english": [
+        {
+          "id": "pt7p8mtx",
+          "word": "besides",
+          "meaning": "also; in addition",
+          "note": "This is the all-purpose choice for adding something else or saying that there is more in addition."
+        },
+        {
+          "id": "yxxwxilh",
+          "word": "moreover",
+          "meaning": "in addition; furthermore",
+          "note": "This is the all-purpose colloquial choice for adding another fact or point."
+        },
+        {
+          "id": "585kq937",
+          "word": "again",
+          "meaning": "moreover; besides",
+          "note": "Use 仲有 to introduce an additional point in the sense of “besides” or “moreover.”"
+        }
+      ],
       "examples": [
         {
           "english": "I bought bread and, besides, some milk.",

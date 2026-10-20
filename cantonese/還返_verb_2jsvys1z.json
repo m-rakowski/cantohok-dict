@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "give back, pay back",
-      "english": ["restore", "replace"],
+      "english": [
+        {
+          "id": "bwwk4dut",
+          "word": "restore",
+          "meaning": "return / give back",
+          "register": "colloquial",
+          "note": "Use this when giving something back to its owner or returning something that was lost or taken."
+        },
+        {
+          "id": "73wehs1z",
+          "word": "replace",
+          "meaning": "repay / refund",
+          "note": "Use this when paying money back or returning money that was borrowed or owed."
+        }
+      ],
       "examples": [
         {
           "english": "I’ll restore your book to you tomorrow.",

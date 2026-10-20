@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "campsite",
-      "english": ["campsite", "camp"],
+      "english": [
+        {
+          "id": "y2e2ci55",
+          "word": "campsite",
+          "meaning": "tent camping place",
+          "note": "This is the all-purpose choice for a place where people pitch tents and stay overnight."
+        },
+        {
+          "id": "5tkt9jks",
+          "word": "camp",
+          "meaning": "temporary tent accommodation",
+          "note": "This is the all-purpose choice for a place where people stay in tents or other simple temporary accommodation."
+        }
+      ],
       "examples": [
         {
           "english": "We're staying overnight at the campsite tonight, so we don't need to walk any farther.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "minor matter, trifle",
-      "english": ["trifle", "toy"],
+      "english": [
+        {
+          "id": "mu2c8489",
+          "word": "trifle",
+          "meaning": "a thing of little importance",
+          "note": "This is the all-purpose Cantonese noun for something unimportant, rather than a quantity or a named dessert."
+        },
+        {
+          "id": "xrtgsycx",
+          "word": "toy",
+          "meaning": "trifle; thing of little value",
+          "note": "Use this when the trifle is a matter of little importance rather than a physical object."
+        }
+      ],
       "examples": [
         {
           "english": "This is just a trifle; there’s no need to get so nervous.",

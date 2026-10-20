@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "mobile phone",
-      "english": ["phone", "mobile phone"],
+      "english": [
+        {
+          "id": "9q0ud37t",
+          "word": "phone",
+          "meaning": "telephone; mobile phone",
+          "note": "Use this when you need to specify a portable or mobile phone rather than a phone in general."
+        },
+        {
+          "id": "8b0d0441",
+          "word": "mobile phone",
+          "meaning": "cellular telephone",
+          "note": "Use this familiar alternative when you want to be more explicit or slightly less casual than 手機."
+        }
+      ],
       "examples": [
         {
           "english": "Don't get so absorbed in your mobile phone on the MTR.",

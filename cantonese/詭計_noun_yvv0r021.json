@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "trick, scheme",
-      "english": ["artifice", "trick"],
+      "english": [
+        {
+          "id": "8flcwpo2",
+          "word": "artifice",
+          "meaning": "deception, cunning trick",
+          "register": "written",
+          "note": "Use this for a more deliberate or elaborate scheme of deception, especially in formal or written contexts."
+        },
+        {
+          "id": "dn7645xl",
+          "word": "trick",
+          "meaning": "deceptive act",
+          "note": "This is the all-purpose noun for a deceptive plan or act."
+        }
+      ],
       "examples": [
         {
           "english": "The police finally saw through the elaborate artifice he had planned.",

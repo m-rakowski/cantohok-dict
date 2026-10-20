@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "slowly",
-      "english": ["slow", "slowly"],
+      "english": [
+        {
+          "id": "fq82auip",
+          "word": "slow",
+          "meaning": "slowly",
+          "note": "This is the all-purpose adverb for doing something slowly."
+        },
+        {
+          "id": "rdpk7574",
+          "word": "slowly",
+          "meaning": "at a slow pace",
+          "note": "This is the all-purpose choice for doing something at a slow pace."
+        }
+      ],
       "examples": [
         {
           "english": "Take it slow; there’s no need to rush.",
@@ -22,7 +35,14 @@
     },
     {
       "meaning": "gradually",
-      "english": ["gradually"],
+      "english": [
+        {
+          "id": "voxc09ux",
+          "word": "gradually",
+          "meaning": "slowly; in stages",
+          "note": "This is the all-purpose choice for something changing or progressing gradually."
+        }
+      ],
       "examples": [
         {
           "english": "The weather is gradually getting colder again.",

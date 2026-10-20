@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "organization",
-      "english": ["association"],
+      "english": [
+        {
+          "id": "oewr0ief",
+          "word": "association",
+          "meaning": "organization; society",
+          "note": "Use this as the general word for an organization formed for a purpose."
+        }
+      ],
       "examples": [
         {
           "english": "This association specializes in helping low-income families.",
@@ -17,7 +24,14 @@
     },
     {
       "meaning": "body tissue",
-      "english": ["tissue"],
+      "english": [
+        {
+          "id": "nc5frtjy",
+          "word": "tissue",
+          "meaning": "body tissue",
+          "note": "Use this technical noun for body tissue made up of cells with a shared function."
+        }
+      ],
       "examples": [
         {
           "english": "This type of tissue repairs damaged skin.",

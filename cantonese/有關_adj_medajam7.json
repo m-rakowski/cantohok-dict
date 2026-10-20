@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "related, concerned",
-      "english": ["related", "relevant", "concerned"],
+      "english": [
+        {
+          "id": "rn5xgx65",
+          "word": "related",
+          "meaning": "connected; associated",
+          "note": "This is the all-purpose choice when saying that two things are connected or associated."
+        },
+        {
+          "id": "5bcxahn4",
+          "word": "relevant",
+          "meaning": "related; pertinent",
+          "note": "This is the all-purpose choice for something related or pertinent to a topic."
+        },
+        {
+          "id": "vh2za98f",
+          "word": "concerned",
+          "meaning": "involved; affected",
+          "note": "Use this for people or things involved in, affected by, or relevant to a particular matter, especially before a noun."
+        }
+      ],
       "examples": [
         {
           "english": "This report is related to the matter.",

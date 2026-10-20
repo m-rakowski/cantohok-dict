@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "quiet, still",
-      "english": ["still", "quiet"],
+      "english": [
+        {
+          "id": "rvo16clv",
+          "word": "still",
+          "meaning": "not moving; calm",
+          "note": "This is the all-purpose choice for something that is not moving, calm, or making no sound."
+        },
+        {
+          "id": "f44md4yv",
+          "word": "quiet",
+          "meaning": "little or no sound",
+          "note": "This is the all-purpose everyday choice for little or no noise, and for a place or period with little activity."
+        }
+      ],
       "examples": [
         {
           "english": "The whole street is still at night.",

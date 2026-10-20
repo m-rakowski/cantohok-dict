@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "open-minded",
-      "english": ["liberal", "tolerant", "progressive"],
+      "english": [
+        {
+          "id": "23b5iteg",
+          "word": "liberal",
+          "meaning": "open-minded; progressive",
+          "note": "This is the all-purpose choice for liberal, open-minded attitudes and ideas, rather than generosity, quantity, or party politics."
+        },
+        {
+          "id": "oz3o7jpk",
+          "word": "tolerant",
+          "meaning": "accepting; open-minded",
+          "note": "Choose this when “tolerant” means open-minded or progressive, especially when talking about opinions and attitudes."
+        },
+        {
+          "id": "btrbhq16",
+          "word": "progressive",
+          "meaning": "liberal",
+          "note": "Use this for a liberal or open-minded person, attitude, or policy."
+        }
+      ],
       "examples": [
         {
           "english": "They are very liberal about their children's education and don't pressure them to study all the time.",

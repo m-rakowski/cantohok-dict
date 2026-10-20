@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "laughing stock",
-      "english": ["embarrassment", "joke"],
+      "english": [
+        {
+          "id": "e4l7hbqw",
+          "word": "embarrassment",
+          "meaning": "source of embarrassment",
+          "note": "Use this for a person or thing that becomes an object of public ridicule and thereby causes embarrassment."
+        },
+        {
+          "id": "fw9styds",
+          "word": "joke",
+          "meaning": "worthless sham",
+          "note": "Use this when the worthless person or thing is being held up as an object of ridicule."
+        }
+      ],
       "examples": [
         {
           "english": "That promotional video was so outrageous that it became a public embarrassment.",

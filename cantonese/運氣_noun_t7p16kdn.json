@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "luck",
-      "english": ["luck", "chance"],
+      "english": [
+        {
+          "id": "fp6c9aj1",
+          "word": "luck",
+          "meaning": "chance, fate",
+          "note": "This is the all-purpose noun for luck, chance, or how successful an attempt turns out to be."
+        },
+        {
+          "id": "eywg89ag",
+          "word": "chance",
+          "meaning": "luck, random occurrence",
+          "note": "Use this for chance as luck or an outcome that depends on luck."
+        }
+      ],
       "examples": [
         {
           "english": "It was pure luck that I got it right this time, even though it was so difficult.",

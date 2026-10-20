@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "money invested or loaned",
-      "english": ["principal"],
+      "english": [
+        {
+          "id": "u20a0wx7",
+          "word": "principal",
+          "meaning": "money invested or loaned",
+          "note": "This is the all-purpose Cantonese noun for money originally invested or borrowed on which interest is calculated."
+        }
+      ],
       "examples": [
         {
           "english": "The more principal there is, the higher the interest.",

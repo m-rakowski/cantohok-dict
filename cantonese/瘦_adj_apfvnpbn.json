@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "thin, skinny",
-      "english": ["thin", "bony"],
+      "english": [
+        {
+          "id": "khpiocxe",
+          "word": "thin",
+          "meaning": "slim or lean",
+          "note": "Use this for a person or animal with little body fat; it is the all-purpose choice for the body-related sense."
+        },
+        {
+          "id": "5gyezhkc",
+          "word": "bony",
+          "meaning": "skinny, thin",
+          "note": "This is the all-purpose choice for saying someone is skinny or thin, without stressing the bones."
+        }
+      ],
       "examples": [
         {
           "english": "They look thin now.",
@@ -22,7 +35,14 @@
     },
     {
       "meaning": "lean (meat)",
-      "english": ["lean"],
+      "english": [
+        {
+          "id": "kcijpa0q",
+          "word": "lean",
+          "meaning": "thin; not fleshy",
+          "note": "This is the all-purpose everyday choice for bodily leanness and lean meat."
+        }
+      ],
       "examples": [
         {
           "english": "I quite like eating lean meat.",

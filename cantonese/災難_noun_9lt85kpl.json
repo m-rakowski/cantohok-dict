@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "disaster",
-      "english": ["disaster", "catastrophe", "calamity", "misery"],
+      "english": [
+        {
+          "id": "z5ksmb53",
+          "word": "disaster",
+          "meaning": "catastrophe",
+          "note": "This is the all-purpose Cantonese noun for a large-scale disaster or catastrophe."
+        },
+        {
+          "id": "a8wx5kvk",
+          "word": "catastrophe",
+          "meaning": "major disaster",
+          "note": "Use 災難 as the all-purpose spoken noun for a major disastrous event."
+        },
+        {
+          "id": "mzrmos44",
+          "word": "calamity",
+          "meaning": "disastrous event",
+          "note": "This is the all-purpose choice for a disastrous event causing great loss."
+        },
+        {
+          "id": "ptnsvrt1",
+          "word": "misery",
+          "meaning": "cause of misery; misfortune",
+          "note": "Use this when the cause of misery is a serious calamity or disaster rather than ordinary bad luck."
+        }
+      ],
       "examples": [
         {
           "english": "Yesterday’s heavy rain flooded the whole district—it was a real disaster.",

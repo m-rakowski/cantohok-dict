@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "indifferent, emotionally cold",
-      "english": ["uninterested", "impersonal"],
+      "english": [
+        {
+          "id": "49usvtyi",
+          "word": "uninterested",
+          "meaning": "not interested; indifferent",
+          "note": "Use this for a person who is emotionally indifferent or shows little concern, rather than simply finding something boring."
+        },
+        {
+          "id": "hzjz1zjr",
+          "word": "impersonal",
+          "meaning": "cold, lacking warmth",
+          "note": "Use this when a person, tone, or manner feels emotionally cold and detached."
+        }
+      ],
       "examples": [
         {
           "english": "They are uninterested in other people.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "person who lends on pawn",
-      "english": ["pawnbroker"],
+      "english": [
+        {
+          "id": "w8bq7rmq",
+          "word": "pawnbroker",
+          "meaning": "person who lends on pawn",
+          "note": "Use this when the pawnbroker is specifically the owner or boss of the pawnshop."
+        }
+      ],
       "examples": [
         {
           "english": "The pawnbroker who owns that shop wouldn’t take my old camera。",

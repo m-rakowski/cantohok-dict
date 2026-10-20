@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "outward appearance",
-      "english": ["surface", "outside"],
+      "english": [
+        {
+          "id": "aag1jv4l",
+          "word": "surface",
+          "meaning": "appearance; seeming",
+          "note": "Use this for a person's or thing's outward appearance rather than its physical surface."
+        },
+        {
+          "id": "glku78s2",
+          "word": "outside",
+          "meaning": "external appearance",
+          "note": "Use this specifically for someone’s or something’s outward appearance rather than its physical exterior space or surface."
+        }
+      ],
       "examples": [
         {
           "english": "If you only look at the surface, you may not be able to tell what kind of person they are.",

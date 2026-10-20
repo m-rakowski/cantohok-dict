@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "shortage",
-      "english": ["lack", "shortage", "deficit"],
+      "english": [
+        {
+          "id": "72xofvd3",
+          "word": "lack",
+          "meaning": "absence; deficiency",
+          "note": "Use this for a shortage or dearth of supplies, resources, workers, or other available quantities."
+        },
+        {
+          "id": "7qer4b4k",
+          "word": "shortage",
+          "meaning": "lack; insufficient amount",
+          "note": "This is the all-purpose noun for a lack or insufficient amount, especially of supplies or resources."
+        },
+        {
+          "id": "xtlypv33",
+          "word": "deficit",
+          "meaning": "shortfall; lack",
+          "note": "Use this for a shortage of supplies, resources, or people rather than an abstract inadequacy or accounting deficit."
+        }
+      ],
       "examples": [
         {
           "english": "There is a lack of face masks on the market.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "water current",
-      "english": ["stream", "current"],
+      "english": [
+        {
+          "id": "q2gjhwc9",
+          "word": "stream",
+          "meaning": "water current",
+          "note": "This is the all-purpose noun for the force or movement of water."
+        },
+        {
+          "id": "zbs63b8f",
+          "word": "current",
+          "meaning": "flow of water",
+          "note": "水流 is a current of water; for a flow of air use 氣流 instead."
+        }
+      ],
       "examples": [
         {
           "english": "The stream here is very strong, so be careful if you go into the water.",

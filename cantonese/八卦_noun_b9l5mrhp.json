@@ -6,7 +6,28 @@
   "boxes": [
     {
       "meaning": "gossip",
-      "english": ["gossip", "talk", "tale"],
+      "english": [
+        {
+          "id": "sst21vwd",
+          "word": "gossip",
+          "meaning": "gossip, idle talk",
+          "note": "This is the all-purpose everyday noun for gossip or private talk about other people."
+        },
+        {
+          "id": "baijw3iu",
+          "word": "talk",
+          "meaning": "gossip; rumour",
+          "register": "colloquial",
+          "note": "Use this for casual gossip or the latest unverified talk about people."
+        },
+        {
+          "id": "epsk9fw6",
+          "word": "tale",
+          "meaning": "rumour, gossip",
+          "register": "colloquial",
+          "note": "Use this for gossip or idle, sensational talk rather than a normal narrative."
+        }
+      ],
       "examples": [
         {
           "english": "Don't gossip about people here.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "ATM",
-      "english": ["cashpoint", "teller"],
+      "english": [
+        {
+          "id": "q9xhhck3",
+          "word": "cashpoint",
+          "meaning": "ATM",
+          "note": "This is the all-purpose everyday term for an ATM."
+        },
+        {
+          "id": "nzrb1oq5",
+          "word": "teller",
+          "meaning": "ATM",
+          "note": "This is the all-purpose Hong Kong Cantonese term for an ATM."
+        }
+      ],
       "examples": [
         {
           "english": "I’ll go to the cashpoint to withdraw money first.",

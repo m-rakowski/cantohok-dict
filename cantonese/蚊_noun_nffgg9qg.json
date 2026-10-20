@@ -6,7 +6,15 @@
   "boxes": [
     {
       "meaning": "dollar",
-      "english": ["dollar"],
+      "english": [
+        {
+          "id": "3fge4rlh",
+          "word": "dollar",
+          "meaning": "currency unit",
+          "register": "colloquial",
+          "note": "This is the all-purpose colloquial word for a dollar in Hong Kong speech."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {
@@ -18,7 +26,14 @@
     },
     {
       "meaning": "mosquito",
-      "english": ["mosquito"],
+      "english": [
+        {
+          "id": "yq7tqp38",
+          "word": "mosquito",
+          "meaning": "biting blood-sucking insect",
+          "note": "This is the all-purpose Cantonese word for a mosquito."
+        }
+      ],
       "examples": [
         {
           "english": "A mosquito is flying around my room.",

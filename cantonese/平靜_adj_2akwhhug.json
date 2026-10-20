@@ -6,7 +6,56 @@
   "boxes": [
     {
       "meaning": "calm, peaceful",
-      "english": ["pacific", "peaceful", "serene", "placid", "tranquil", "calm", "smooth", "quiet"],
+      "english": [
+        {
+          "id": "wbukerqr",
+          "word": "pacific",
+          "meaning": "calm, peaceful",
+          "note": "This is the all-purpose choice for a calm person, mood, situation, or surroundings."
+        },
+        {
+          "id": "u5dqthvq",
+          "word": "peaceful",
+          "meaning": "calm and still",
+          "note": "Use this for a scene, surface, or atmosphere that is calm and still rather than noisy or turbulent."
+        },
+        {
+          "id": "rtgbvo1q",
+          "word": "serene",
+          "meaning": "calm, peaceful",
+          "note": "This is the all-purpose choice for a calm, peaceful person, situation, or state of mind."
+        },
+        {
+          "id": "19vfb60b",
+          "word": "placid",
+          "meaning": "calm, peaceful",
+          "note": "This is the all-purpose choice for a calm, quiet state, mood, or situation."
+        },
+        {
+          "id": "qy3osbmv",
+          "word": "tranquil",
+          "meaning": "emotionally calm",
+          "note": "This is the all-purpose choice for a calm emotional state or a peaceful, undisturbed scene, especially when the context does not focus specifically on silence or self-control."
+        },
+        {
+          "id": "g7hpb4vw",
+          "word": "calm",
+          "meaning": "peaceful; not anxious",
+          "note": "Use this for a peaceful emotional state or for water with little movement, rather than specifically for a quiet place."
+        },
+        {
+          "id": "qlo8crid",
+          "word": "smooth",
+          "meaning": "calm; flat water",
+          "note": "Use 平靜 specifically for calm, undisturbed water or similarly placid conditions."
+        },
+        {
+          "id": "7uy1twbl",
+          "word": "quiet",
+          "meaning": "calm, little movement",
+          "note": "Use this for a sea, situation, or other setting that is calm and has little movement."
+        }
+      ],
       "examples": [
         {
           "english": "You’re such a pacific person; it’s really nice.",

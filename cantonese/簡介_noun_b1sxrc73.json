@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "short introduction, summary",
-      "english": ["bio", "synopsis", "blurb", "sketch", "introduction"],
+      "english": [
+        {
+          "id": "cv7o5qv1",
+          "word": "bio",
+          "meaning": "profile bio / about me",
+          "note": "Use this shorter form when the profile context already makes clear that it means the user's bio."
+        },
+        {
+          "id": "7a6jemqs",
+          "word": "synopsis",
+          "meaning": "brief summary",
+          "note": "Use this for a brief, accessible overview of a book, film, story, or other work, especially in promotional or introductory material."
+        },
+        {
+          "id": "ka4c6aql",
+          "word": "blurb",
+          "meaning": "promotional description",
+          "note": "Use this as the all-purpose noun for a short description of a book, film, or other work."
+        },
+        {
+          "id": "uj9oxkc8",
+          "word": "sketch",
+          "meaning": "brief description",
+          "note": "Use this for a short introduction or description of a person, event, or subject."
+        },
+        {
+          "id": "y1r5gisi",
+          "word": "introduction",
+          "meaning": "introduction to a subject",
+          "note": "Use this for a short general explanation or overview of a subject rather than the act of introducing it."
+        }
+      ],
       "examples": [
         {
           "english": "You can change your bio anytime.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "risk",
-      "english": ["risk", "hazard"],
+      "english": [
+        {
+          "id": "kvl921md",
+          "word": "risk",
+          "meaning": "probability of bad outcome",
+          "note": "This is the all-purpose noun for the probability or possibility of harm, including a person or thing that poses a risk."
+        },
+        {
+          "id": "trt45z2q",
+          "word": "hazard",
+          "meaning": "danger; risk",
+          "note": "Choose this specifically for risk or the possibility of loss, especially in decisions, business, or finance."
+        }
+      ],
       "examples": [
         {
           "english": "There is a risk in joining this plan.",

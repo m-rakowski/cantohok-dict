@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "unnatural, awkward",
-      "english": ["unnatural", "awkward", "artificial"],
+      "english": [
+        {
+          "id": "h90a65wl",
+          "word": "unnatural",
+          "meaning": "not natural, artificial",
+          "note": "Use this as the all-purpose way to say that something is not natural or seems artificial."
+        },
+        {
+          "id": "o74vm59p",
+          "word": "awkward",
+          "meaning": "socially uncomfortable",
+          "note": "Use this when someone feels or behaves uncomfortable and unnatural in social interaction."
+        },
+        {
+          "id": "7n7vfb5x",
+          "word": "artificial",
+          "meaning": "unnatural, imposed",
+          "note": "Use this when a situation, behavior, or arrangement feels unnatural or out of place rather than manufactured."
+        }
+      ],
       "examples": [
         {
           "english": "The way they speak sounds very unnatural.",

@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "loyalty",
-      "english": ["devotion", "loyalty", "adhesion"],
+      "english": [
+        {
+          "id": "mrz2hlfe",
+          "word": "devotion",
+          "meaning": "deep loyalty / dedication",
+          "note": "Use this for the all-purpose sense of deep loyalty to a person, group, or institution."
+        },
+        {
+          "id": "kn5o5e02",
+          "word": "loyalty",
+          "meaning": "faithfulness, loyalty",
+          "note": "This is the usual spoken choice for personal loyalty or devotion to a person, group, or organization."
+        },
+        {
+          "id": "6uz7xo8d",
+          "word": "adhesion",
+          "meaning": "loyal attachment",
+          "note": "Use this for a person's continuing loyalty or attachment to someone, a group, or a cause."
+        }
+      ],
       "examples": [
         {
           "english": "They have always shown devotion to the company.",

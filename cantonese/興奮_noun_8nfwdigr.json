@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "excitement",
-      "english": ["excitement", "euphoria", "elation"],
+      "english": [
+        {
+          "id": "zgw3bgru",
+          "word": "excitement",
+          "meaning": "emotional excitement",
+          "note": "This is the all-purpose noun for a person’s emotional excitement or exhilaration."
+        },
+        {
+          "id": "esvmpapw",
+          "word": "euphoria",
+          "meaning": "intense happiness",
+          "note": "This is the all-purpose choice for an excited state of intense happiness."
+        },
+        {
+          "id": "ehyjlic9",
+          "word": "elation",
+          "meaning": "strong pride and optimism",
+          "note": "Use this for high-energy, exhilarated elation rather than the calmer joy expressed by 喜悅."
+        }
+      ],
       "examples": [
         {
           "english": "I'm already full of excitement about going on a trip tomorrow.",

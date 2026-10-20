@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "ready, prepared",
-      "english": ["ready", "dressed"],
+      "english": [
+        {
+          "id": "263be9qz",
+          "word": "ready",
+          "meaning": "prepared, set",
+          "note": "This is the all-purpose choice when a person or thing is prepared and can be used or acted on immediately."
+        },
+        {
+          "id": "a7gh936z",
+          "word": "dressed",
+          "meaning": "prepared food",
+          "note": "Use this for food or another thing that has been prepared and is ready to use."
+        }
+      ],
       "examples": [
         {
           "english": "I'm ready, so we can set off.",

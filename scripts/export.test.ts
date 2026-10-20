@@ -6,6 +6,12 @@ import assert from 'node:assert/strict'
 import { loadValidRepo, toAliasesCsv, toCsv, toJsonl, toPleco } from './export.ts'
 import { validFixture, writeTree } from './test-helpers.ts'
 
+/** Changes Thursday's note in its word file and on the page entry that copies it, which the check keeps equal. */
+function changeThursdayNote(files: Record<string, string>, from: string, to: string): void {
+  for (const path of ['words/t/Thursday.json', 'cantonese/星期四_noun_ppppppp3.json'])
+    files[path] = files[path].replace(from, to)
+}
+
 const repo = () => loadValidRepo(writeTree(validFixture()))
 
 test('loadValidRepo refuses an invalid repo', () => {
@@ -29,20 +35,14 @@ test('toCsv: BOM, header, rank order, quoting', () => {
 
 test('toCsv quotes commas, quotes and newlines', () => {
   const files = validFixture()
-  files['words/t/Thursday.json'] = files['words/t/Thursday.json'].replace(
-    '"This is the all-purpose word for Thursday."',
-    '"Say \\"Thursday\\", then stop."',
-  )
+  changeThursdayNote(files, '"This is the all-purpose word for Thursday."', '"Say \\"Thursday\\", then stop."')
   const csv = toCsv(loadValidRepo(writeTree(files)))
   assert.match(csv, /,"Say ""Thursday"", then stop\.",/)
 })
 
 test('toCsv quotes a newline inside a note', () => {
   const files = validFixture()
-  files['words/t/Thursday.json'] = files['words/t/Thursday.json'].replace(
-    '"This is the all-purpose word for Thursday."',
-    '"Line one.\\nLine two."',
-  )
+  changeThursdayNote(files, '"This is the all-purpose word for Thursday."', '"Line one.\\nLine two."')
   const csv = toCsv(loadValidRepo(writeTree(files)))
   assert.match(csv, /,"Line one\.\nLine two\.",/)
 })
@@ -120,7 +120,8 @@ test('toPleco: BOM, one entry per row, Pleco line breaks and formatting', () => 
 
 test('toPleco flattens a tab inside a note to a space', () => {
   const files = validFixture()
-  files['words/t/Thursday.json'] = files['words/t/Thursday.json'].replace(
+  changeThursdayNote(
+    files,
     '"This is the all-purpose word for Thursday."',
     '"This is the all-purpose\\tword for Thursday."',
   )

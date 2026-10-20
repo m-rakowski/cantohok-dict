@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "email attachment",
-      "english": ["attachment"],
+      "english": [
+        {
+          "id": "832ygf3w",
+          "word": "attachment",
+          "meaning": "email attachment",
+          "note": "Use this as the all-purpose term for a file sent with an email or message."
+        }
+      ],
       "examples": [
         {
           "english": "I've sent you the attachment.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "secondary school",
-      "english": ["high school", "secondary school"],
+      "english": [
+        {
+          "id": "539qdeav",
+          "word": "high school",
+          "meaning": "high school",
+          "note": "This is the all-purpose Cantonese word for a secondary-school institution."
+        },
+        {
+          "id": "deyi2ngv",
+          "word": "secondary school",
+          "meaning": "secondary school (UK/HK secondary education)",
+          "note": "This is the all-purpose Cantonese word for a school attended after primary school and before university."
+        }
+      ],
       "examples": [
         {
           "english": "My younger brother will start high school soon.",

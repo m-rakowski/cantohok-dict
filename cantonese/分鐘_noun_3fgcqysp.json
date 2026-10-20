@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "sixty seconds",
-      "english": ["minute"],
+      "english": [
+        {
+          "id": "62zpn57t",
+          "word": "minute",
+          "meaning": "sixty seconds",
+          "note": "This is the all-purpose choice for the precise sixty-second unit."
+        }
+      ],
       "examples": [
         {
           "english": "Heat this for one minute and it'll be ready.",

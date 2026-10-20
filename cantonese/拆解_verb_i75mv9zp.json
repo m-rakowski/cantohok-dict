@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "break down and analyze or explain",
-      "english": ["dissect", "demystify", "unpack"],
+      "english": [
+        {
+          "id": "eitc7071",
+          "word": "dissect",
+          "meaning": "analyze in detail",
+          "note": "For the analytical sense, this is the all-purpose spoken choice when breaking an idea into its parts."
+        },
+        {
+          "id": "e39zpd60",
+          "word": "demystify",
+          "meaning": "explain clearly",
+          "note": "Use this for a complex or technical subject when explaining it by breaking it into manageable parts."
+        },
+        {
+          "id": "4vmzvdja",
+          "word": "unpack",
+          "meaning": "analyze in detail",
+          "note": "Use this for analyzing an argument, concept, or text in detail."
+        }
+      ],
       "examples": [
         {
           "english": "Let’s dissect this complicated issue together.",

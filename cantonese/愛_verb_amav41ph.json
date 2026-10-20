@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "love",
-      "english": ["love", "want"],
+      "english": [
+        {
+          "id": "9j899fvn",
+          "word": "love",
+          "meaning": "love; have strong affection for",
+          "register": "formal",
+          "note": "Use this for strong or romantic affection, especially in expressions such as 愛你, rather than ordinary preference."
+        },
+        {
+          "id": "542jk0sp",
+          "word": "want",
+          "meaning": "want sexually",
+          "note": "Use 愛 only for wanting someone out of romantic love, not for ordinary wanting or blunt sexual lust."
+        }
+      ],
       "examples": [
         {
           "english": "I love you, and I’ll stay by your side no matter what happens.",

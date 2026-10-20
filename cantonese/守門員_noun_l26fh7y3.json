@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "goalkeeper",
-      "english": ["goalkeeper", "keeper"],
+      "english": [
+        {
+          "id": "im29x052",
+          "word": "goalkeeper",
+          "meaning": "soccer/football goalkeeper",
+          "note": "This is the all-purpose noun for a soccer or football goalkeeper."
+        },
+        {
+          "id": "7gayxo7p",
+          "word": "keeper",
+          "meaning": "goalkeeper",
+          "note": "Use this for the player protecting a goal or wicket, rather than for a caretaker or something worth keeping."
+        }
+      ],
       "examples": [
         {
           "english": "The goalkeeper saved several dangerous shots in this match.",

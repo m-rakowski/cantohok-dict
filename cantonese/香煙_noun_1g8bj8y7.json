@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "fragrant smoke",
-      "english": ["incense"],
+      "english": [
+        {
+          "id": "wnm7iak0",
+          "word": "incense",
+          "meaning": "fragrant smoke",
+          "note": "Use this when you specifically want to foreground the smoke from burning incense rather than the incense material itself."
+        }
+      ],
       "examples": [
         {
           "english": "The fragrant smoke from the incense drifted into the house, making the whole room smell nice.",

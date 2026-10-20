@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "satisfy, meet needs",
-      "english": ["satisfy", "fill"],
+      "english": [
+        {
+          "id": "6lol70w5",
+          "word": "satisfy",
+          "meaning": "meet needs or wishes",
+          "note": "Use 滿足 when something fulfills a person's needs, wishes, or appetite rather than merely being enough."
+        },
+        {
+          "id": "2k03adxj",
+          "word": "fill",
+          "meaning": "satisfy a need or order",
+          "note": "Use this for meeting a need, request, or requirement; a prescription or order usually needs a more specific verb."
+        }
+      ],
       "examples": [
         {
           "english": "This bowl of noodles can satisfy my appetite.",

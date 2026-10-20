@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "skilled word user",
-      "english": ["wordsmith"],
+      "english": [
+        {
+          "id": "typnjynb",
+          "word": "wordsmith",
+          "meaning": "skilled word user",
+          "note": "This is the all-purpose choice for someone who uses words with exceptional skill."
+        }
+      ],
       "examples": [
         {
           "english": "They are a real wordsmith; their columns are so vivid.",

@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "greatly, by a lot",
-      "english": ["hugely", "widely"],
+      "english": [
+        {
+          "id": "ct99iuu8",
+          "word": "hugely",
+          "meaning": "greatly; to a huge extent",
+          "register": "colloquial",
+          "note": "Use this especially when “hugely” describes a substantial increase, effect, or change rather than simply a high degree of an adjective."
+        },
+        {
+          "id": "44vvma2c",
+          "word": "widely",
+          "meaning": "generally; to a large extent",
+          "note": "Use this when “widely” means to a great degree, emphasizing how much something changes or increases."
+        }
+      ],
       "examples": [
         {
           "english": "Sales increased hugely after we changed the design.",

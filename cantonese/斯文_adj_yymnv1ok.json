@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "refined, gentle in manner",
-      "english": ["polite", "elegant"],
+      "english": [
+        {
+          "id": "z0ogngaz",
+          "word": "polite",
+          "meaning": "well-mannered",
+          "note": "Use this for someone whose manner is refined, gentle, or well-behaved, rather than simply stating that they have good manners."
+        },
+        {
+          "id": "rawp78sj",
+          "word": "elegant",
+          "meaning": "graceful, refined",
+          "register": "colloquial",
+          "note": "Use this for a person or their manner and appearance when the emphasis is cultured, well-mannered refinement rather than visual grace."
+        }
+      ],
       "examples": [
         {
           "english": "They speak in a very polite, refined way.",

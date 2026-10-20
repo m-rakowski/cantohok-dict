@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "separate out from a mixture",
-      "english": ["isolate", "separate"],
+      "english": [
+        {
+          "id": "v0y95u39",
+          "word": "isolate",
+          "meaning": "separate a substance",
+          "note": "Use 分離 when separating a substance or a pure strain from a mixture."
+        },
+        {
+          "id": "ybuujha7",
+          "word": "separate",
+          "meaning": "divide itself, separate",
+          "note": "Use this especially when a mixture or substance separates into distinct components, rather than for ordinary people or objects."
+        }
+      ],
       "examples": [
         {
           "english": "The researcher used this method to isolate the bacterial strain from the mixed culture.",

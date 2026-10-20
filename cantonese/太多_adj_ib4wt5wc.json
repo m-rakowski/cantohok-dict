@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "too much",
-      "english": ["excessive", "superfluous"],
+      "english": [
+        {
+          "id": "frxckec5",
+          "word": "excessive",
+          "meaning": "too much",
+          "note": "This is the all-purpose colloquial choice when an amount or frequency is too high."
+        },
+        {
+          "id": "nwx01fni",
+          "word": "superfluous",
+          "meaning": "more than needed",
+          "register": "colloquial",
+          "note": "Use this for a quantity that exceeds what is needed, especially when translating “too much” or “too many.”"
+        }
+      ],
       "examples": [
         {
           "english": "I've been eating excessive amounts of takeout lately, and my stomach is often upset.",

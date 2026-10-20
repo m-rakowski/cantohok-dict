@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "huge, enormous in scale",
-      "english": ["enormous", "cosmic"],
+      "english": [
+        {
+          "id": "176rd09a",
+          "word": "enormous",
+          "meaning": "extremely large",
+          "register": "formal",
+          "note": "Use this for enormous quantities, budgets, organizations, or overall scale rather than mainly physical dimensions."
+        },
+        {
+          "id": "bsid0y5j",
+          "word": "cosmic",
+          "meaning": "vast; immense",
+          "note": "Use this when cosmic emphasizes enormous size or scale without referring literally to the universe."
+        }
+      ],
       "examples": [
         {
           "english": "This project involves enormous funding.",

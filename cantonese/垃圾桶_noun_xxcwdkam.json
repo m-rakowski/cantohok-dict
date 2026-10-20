@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "rubbish bin",
-      "english": ["bin", "dustbin"],
+      "english": [
+        {
+          "id": "5ucm9f5x",
+          "word": "bin",
+          "meaning": "rubbish bin",
+          "note": "This is the all-purpose choice for a container used for rubbish or waste."
+        },
+        {
+          "id": "15pficxb",
+          "word": "dustbin",
+          "meaning": "rubbish bin / garbage can",
+          "note": "This is the all-purpose Cantonese term for a rubbish bin or garbage can."
+        }
+      ],
       "examples": [
         {
           "english": "The bin is full, so please take it out.",
@@ -22,7 +35,14 @@
     },
     {
       "meaning": "computer trash folder for deleted files",
-      "english": ["trash"],
+      "english": [
+        {
+          "id": "gk8jyk65",
+          "word": "trash",
+          "meaning": "trash can; bin",
+          "note": "Use 垃圾桶 for a physical trash bin and for the computer location where deleted files are temporarily kept."
+        }
+      ],
       "examples": [
         {
           "english": "I accidentally deleted the file, but I can still find it in the trash.",

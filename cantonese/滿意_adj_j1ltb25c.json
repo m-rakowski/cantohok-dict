@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "satisfied, pleased",
-      "english": ["content", "satisfied", "pleased"],
+      "english": [
+        {
+          "id": "bml2aqpo",
+          "word": "content",
+          "meaning": "satisfied; pleased",
+          "note": "This is the all-purpose choice for being satisfied or pleased with a person, thing, or result."
+        },
+        {
+          "id": "o0e27w7r",
+          "word": "satisfied",
+          "meaning": "in a state of satisfaction",
+          "note": "This is the all-purpose choice for being pleased with a result, service, or someone's performance."
+        },
+        {
+          "id": "bkyi0fm4",
+          "word": "pleased",
+          "meaning": "happy, content",
+          "note": "Use this when being pleased means satisfied with a result, service, or situation rather than simply happy."
+        }
+      ],
       "examples": [
         {
           "english": "I’m very content with your performance this time.",

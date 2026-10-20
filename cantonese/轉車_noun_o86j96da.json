@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "transfer between vehicles",
-      "english": ["transfer", "change"],
+      "english": [
+        {
+          "id": "4phnlxkw",
+          "word": "transfer",
+          "meaning": "transit changeover",
+          "note": "Use 轉車 for changing from one public-transport vehicle or line to another during a journey."
+        },
+        {
+          "id": "j2dx5wio",
+          "word": "change",
+          "meaning": "vehicle transfer",
+          "note": "Use this nominally for a transfer between vehicles during a journey."
+        }
+      ],
       "examples": [
         {
           "english": "The transfer at Kowloon Tong is convenient.",

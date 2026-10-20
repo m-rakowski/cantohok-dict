@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "school holiday",
-      "english": ["holiday"],
+      "english": [
+        {
+          "id": "150x9fmm",
+          "word": "holiday",
+          "meaning": "school holiday",
+          "note": "Use 學校假期 when the holiday period specifically refers to a school break."
+        }
+      ],
       "examples": [
         {
           "english": "The school holiday has started, so we can finally sleep in.",

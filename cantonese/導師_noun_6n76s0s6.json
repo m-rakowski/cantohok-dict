@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "tutor, mentor, instructor",
-      "english": ["mentor", "instructor", "tutor"],
+      "english": [
+        {
+          "id": "pzn7mhoc",
+          "word": "mentor",
+          "meaning": "trusted advisor/teacher",
+          "note": "This is the all-purpose choice for a trusted adviser or teacher, especially in education, work, or personal development."
+        },
+        {
+          "id": "kq4dwgq1",
+          "word": "instructor",
+          "meaning": "teacher; tutor",
+          "note": "Choose this for an instructor leading a course, programme, or organised training."
+        },
+        {
+          "id": "179pxhqp",
+          "word": "tutor",
+          "meaning": "private teacher",
+          "note": "Use this mainly in an institutional or educational setting, where the tutor also acts as a mentor or course instructor."
+        }
+      ],
       "examples": [
         {
           "english": "My university mentor often reminds me to be clear about my goals.",

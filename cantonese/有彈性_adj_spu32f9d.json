@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "elastic, flexible",
-      "english": ["flexible", "elastic", "resilient"],
+      "english": [
+        {
+          "id": "afygqaut",
+          "word": "flexible",
+          "meaning": "adaptable",
+          "note": "Use this as the broadest choice for elastic materials or plans and arrangements that allow changes, but not usually for a person's character."
+        },
+        {
+          "id": "aaj4e61c",
+          "word": "elastic",
+          "meaning": "stretchy and returns shape",
+          "note": "This is the all-purpose choice for something that stretches and returns to its original shape."
+        },
+        {
+          "id": "4dlwzvtv",
+          "word": "resilient",
+          "meaning": "elastic, springs back",
+          "note": "Use this for a material or object that springs back to its original shape after being pressed or stretched."
+        }
+      ],
       "examples": [
         {
           "english": "This rubber hose is flexible and does not easily break however you twist it.",

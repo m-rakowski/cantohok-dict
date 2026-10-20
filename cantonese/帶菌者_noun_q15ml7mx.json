@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "asymptomatic carrier",
-      "english": ["carrier"],
+      "english": [
+        {
+          "id": "5bm70a71",
+          "word": "carrier",
+          "meaning": "asymptomatic carrier",
+          "note": "Use this in medical contexts for someone who carries an infection without necessarily showing symptoms."
+        }
+      ],
       "examples": [
         {
           "english": "A person can be a carrier without symptoms and still infect others.",

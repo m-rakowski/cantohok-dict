@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "to replace, take the place of",
-      "english": ["displace", "substitute"],
+      "english": [
+        {
+          "id": "0zt823u6",
+          "word": "displace",
+          "meaning": "replace by something better",
+          "note": "Use this when one thing replaces another because it is better, newer, or more suitable."
+        },
+        {
+          "id": "cspi0b0h",
+          "word": "substitute",
+          "meaning": "serve as replacement",
+          "note": "Use this for an alternative that takes over a role or function, especially in an abstract or lasting replacement."
+        }
+      ],
       "examples": [
         {
           "english": "The new system will displace the old one.",

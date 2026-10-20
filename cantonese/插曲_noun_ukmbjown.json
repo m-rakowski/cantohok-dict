@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "interlude, side episode",
-      "english": ["interlude", "episode"],
+      "english": [
+        {
+          "id": "ii61lzyc",
+          "word": "interlude",
+          "meaning": "intervening episode",
+          "note": "This is the all-purpose choice for an intervening episode or side event, especially figuratively."
+        },
+        {
+          "id": "degspr17",
+          "word": "episode",
+          "meaning": "event or period in a life/story",
+          "note": "Use this for an incidental or memorable episode in a life or story, especially in phrases such as 人生插曲."
+        }
+      ],
       "examples": [
         {
           "english": "This little interlude actually made the whole thing more memorable.",

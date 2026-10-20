@@ -6,7 +6,33 @@
   "boxes": [
     {
       "meaning": "like, enjoy",
-      "english": ["like", "love", "enjoy", "rate"],
+      "english": [
+        {
+          "id": "fb7pcgti",
+          "word": "like",
+          "meaning": "enjoy, be fond of",
+          "register": "colloquial",
+          "note": "Use this as the all-purpose colloquial verb for enjoying or favoring something, including mild romantic interest in a person."
+        },
+        {
+          "id": "672x1hq1",
+          "word": "love",
+          "meaning": "love; have strong affection for",
+          "note": "Use this as the everyday choice for liking someone or something, including the emphatic sense of really liking it."
+        },
+        {
+          "id": "s9t729e1",
+          "word": "enjoy",
+          "meaning": "take pleasure in",
+          "note": "Use this colloquial choice when “enjoy” means generally liking an activity or finding it pleasurable."
+        },
+        {
+          "id": "khrktahe",
+          "word": "rate",
+          "meaning": "think highly of",
+          "note": "Use this when “rate” means to like or approve of something rather than assess it formally."
+        }
+      ],
       "examples": [
         {
           "english": "I like drinking iced lemon tea.",
@@ -32,7 +58,14 @@
     },
     {
       "meaning": "fancy someone, be attracted to",
-      "english": ["fancy"],
+      "english": [
+        {
+          "id": "xh1owmch",
+          "word": "fancy",
+          "meaning": "be attracted to",
+          "note": "Use 鍾意 when fancying someone means being attracted to or liking them romantically, sexually, or aesthetically."
+        }
+      ],
       "examples": [
         {
           "english": "I really fancy that guy.",

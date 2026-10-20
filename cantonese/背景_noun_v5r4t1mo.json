@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "background, setting",
-      "english": ["background", "context", "setting"],
+      "english": [
+        {
+          "id": "7b689lky",
+          "word": "background",
+          "meaning": "social or work background",
+          "note": "This is the all-purpose choice for someone's past or social background and for the background scenery in a picture or scene."
+        },
+        {
+          "id": "5mmvtwld",
+          "word": "context",
+          "meaning": "circumstances/background",
+          "note": "This is the all-purpose choice for the background or setting that helps explain an event."
+        },
+        {
+          "id": "5isakzfm",
+          "word": "setting",
+          "meaning": "story background / context",
+          "note": "Use this as the all-purpose choice for the time, place, and circumstances of a story or picture."
+        }
+      ],
       "examples": [
         {
           "english": "They have an art background, so they picked it up quickly.",

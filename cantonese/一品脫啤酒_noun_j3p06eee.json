@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "pint of beer",
-      "english": ["jar"],
+      "english": [
+        {
+          "id": "ximh3jr5",
+          "word": "jar",
+          "meaning": "pint of beer",
+          "note": "Use this specifically for a pint serving of beer or cider."
+        }
+      ],
       "examples": [
         {
           "english": "They served me a pint of beer in a jar.",

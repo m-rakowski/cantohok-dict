@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "pitiful, poor thing",
-      "english": ["hapless", "poor"],
+      "english": [
+        {
+          "id": "k85lfprk",
+          "word": "hapless",
+          "meaning": "very unlucky, ill-fated",
+          "note": "This is the all-purpose choice when the person seems pitiable or generally unfortunate."
+        },
+        {
+          "id": "lynmjoog",
+          "word": "poor",
+          "meaning": "unfortunate; to be pitied",
+          "note": "Use this for someone or something deserving sympathy, as in “poor thing.”"
+        }
+      ],
       "examples": [
         {
           "english": "They are truly hapless, being ill while also having to look after two children.",

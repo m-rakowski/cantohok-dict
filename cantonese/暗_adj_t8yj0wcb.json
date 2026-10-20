@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "dark, dim",
-      "english": ["dark", "dim"],
+      "english": [
+        {
+          "id": "8i7ulvus",
+          "word": "dark",
+          "meaning": "lacking light",
+          "note": "This is the all-purpose choice for a room, place, or time having little light."
+        },
+        {
+          "id": "7gqd3ogt",
+          "word": "dim",
+          "meaning": "not bright",
+          "note": "This is the all-purpose choice for something that gives off too little light."
+        }
+      ],
       "examples": [
         {
           "english": "The room is too dark.",

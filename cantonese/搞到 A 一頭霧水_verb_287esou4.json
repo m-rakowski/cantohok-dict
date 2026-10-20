@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "leave someone baffled",
-      "english": ["confuse", "bewilder"],
+      "english": [
+        {
+          "id": "chg782wz",
+          "word": "confuse",
+          "meaning": "puzzle, bewilder",
+          "register": "colloquial",
+          "note": "Use this when a complicated or unexpected situation leaves someone baffled, rather than when two things are mixed up."
+        },
+        {
+          "id": "31pjoqkj",
+          "word": "bewilder",
+          "meaning": "confuse, puzzle",
+          "register": "colloquial",
+          "note": "Use this when different information or choices leave A baffled and unable to make sense of them."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

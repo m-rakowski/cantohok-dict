@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "criminal, prisoner",
-      "english": ["criminal", "prisoner", "offender", "convict"],
+      "english": [
+        {
+          "id": "xrrm4np8",
+          "word": "criminal",
+          "meaning": "person who breaks the law",
+          "note": "This is the all-purpose spoken choice for a person who has committed a crime."
+        },
+        {
+          "id": "hb1ufisi",
+          "word": "prisoner",
+          "meaning": "jail inmate",
+          "note": "This is the all-purpose casual choice for someone being held in a police or prison context, though it can also mean a criminal or suspect."
+        },
+        {
+          "id": "97hspfxl",
+          "word": "offender",
+          "meaning": "lawbreaker, criminal",
+          "note": "Use this as the usual spoken noun for someone who has broken the law."
+        },
+        {
+          "id": "8dg7r98v",
+          "word": "convict",
+          "meaning": "convicted criminal",
+          "note": "This is the everyday all-purpose term for a person convicted of a crime, especially one in custody."
+        }
+      ],
       "examples": [
         {
           "english": "The police finally caught that criminal.",

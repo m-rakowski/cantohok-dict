@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "stable, steady",
-      "english": ["stable", "steady", "consistent", "unwavering"],
+      "english": [
+        {
+          "id": "gapr0a58",
+          "word": "stable",
+          "meaning": "steady; not changing",
+          "note": "This is the all-purpose choice for something steady or relatively unchanging, including a stable relationship, situation, or software release."
+        },
+        {
+          "id": "m362r1iq",
+          "word": "steady",
+          "meaning": "regular, even",
+          "note": "Use 穩定 as the all-purpose choice for general stability or regularity, especially in a course, rate, or condition."
+        },
+        {
+          "id": "bjm97h71",
+          "word": "consistent",
+          "meaning": "reliable, steady",
+          "note": "This is the all-purpose choice for something steady, regular, and dependable over time."
+        },
+        {
+          "id": "h6bhfvfu",
+          "word": "unwavering",
+          "meaning": "steady, unchanging",
+          "note": "Use 穩定 as the all-purpose choice for something that stays on course and does not change."
+        }
+      ],
       "examples": [
         {
           "english": "This software release is stable now, so you can upgrade with confidence.",

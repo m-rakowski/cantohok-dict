@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "primitive, primeval",
-      "english": ["primitive", "aboriginal", "primeval"],
+      "english": [
+        {
+          "id": "pajkcft8",
+          "word": "primitive",
+          "meaning": "basic, unsophisticated",
+          "note": "This is the all-purpose choice for something primordial, from an early era, or generally primitive rather than modern."
+        },
+        {
+          "id": "hgidirkg",
+          "word": "aboriginal",
+          "meaning": "original; primitive",
+          "note": "Use this all-purpose choice for the primitive or earliest-original sense, rather than for a specific indigenous population."
+        },
+        {
+          "id": "2m1jtp29",
+          "word": "primeval",
+          "meaning": "primitive; very early",
+          "note": "Choose this when primeval means primitive or undeveloped, rather than simply old."
+        }
+      ],
       "examples": [
         {
           "english": "This primitive tribal culture is still very well preserved today.",

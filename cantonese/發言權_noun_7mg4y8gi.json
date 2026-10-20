@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "right to have a say",
-      "english": ["voice", "say"],
+      "english": [
+        {
+          "id": "zsdc70rk",
+          "word": "voice",
+          "meaning": "vote; expressed choice",
+          "note": "Use this when “voice” means the right or ability to express an opinion and have it considered, rather than a ballot."
+        },
+        {
+          "id": "7u1ti8n8",
+          "word": "say",
+          "meaning": "a say",
+          "note": "Use this when the focus is on having the right or opportunity to speak in a discussion or decision."
+        }
+      ],
       "examples": [
         {
           "english": "Those residents finally have a voice.",

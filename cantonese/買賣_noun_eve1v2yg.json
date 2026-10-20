@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "buying and selling, deal",
-      "english": ["sale", "trade", "commerce"],
+      "english": [
+        {
+          "id": "7c26tggm",
+          "word": "sale",
+          "meaning": "selling goods/services",
+          "note": "This is the all-purpose noun for a sale or the buying and selling of goods or services."
+        },
+        {
+          "id": "stgzq4um",
+          "word": "trade",
+          "meaning": "buying and selling",
+          "note": "Use this when emphasizing the activity of buying and selling rather than the business as a whole."
+        },
+        {
+          "id": "hzpdvymq",
+          "word": "commerce",
+          "meaning": "trade, buying and selling",
+          "register": "colloquial",
+          "note": "Use this when focusing on the activity of buying and selling goods rather than the business as a whole."
+        }
+      ],
       "examples": [
         {
           "english": "When can this sale be completed?",

@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "unusual",
-      "english": ["unusual", "uncharacteristic", "unconventional", "atypical"],
+      "english": [
+        {
+          "id": "3aldpsp0",
+          "word": "unusual",
+          "meaning": "not ordinary",
+          "note": "This is the all-purpose spoken choice for something that is not ordinary."
+        },
+        {
+          "id": "w67oym9z",
+          "word": "uncharacteristic",
+          "meaning": "not typical",
+          "note": "Use this as the all-purpose everyday equivalent when something is not typical or usual."
+        },
+        {
+          "id": "rt4fqapp",
+          "word": "unconventional",
+          "meaning": "unusual",
+          "note": "This is the all-purpose choice when something is out of the ordinary."
+        },
+        {
+          "id": "sykyystr",
+          "word": "atypical",
+          "meaning": "not normal; unusual",
+          "note": "Use this for something noticeably unusual or out of the ordinary without necessarily suggesting a defect."
+        }
+      ],
       "examples": [
         {
           "english": "This matter is unusual.",

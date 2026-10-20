@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "balance",
-      "english": ["equilibrium", "poise", "balance"],
+      "english": [
+        {
+          "id": "vmxyxl7a",
+          "word": "equilibrium",
+          "meaning": "balanced state",
+          "note": "This is the all-purpose choice for a balanced state, including scientific and physical equilibrium."
+        },
+        {
+          "id": "vh240q4h",
+          "word": "poise",
+          "meaning": "balance, stability",
+          "note": "Use 平衡 as the all-purpose noun for physical or figurative balance and stability."
+        },
+        {
+          "id": "do7xlpsm",
+          "word": "balance",
+          "meaning": "physical equilibrium",
+          "note": "Use 平衡 as the all-purpose noun for physical equilibrium and, in contexts such as 心理平衡, mental equilibrium."
+        }
+      ],
       "examples": [
         {
           "english": "With equal force on both sides, the structure stays in equilibrium.",

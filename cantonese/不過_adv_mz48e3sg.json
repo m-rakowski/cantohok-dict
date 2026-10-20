@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "however, but",
-      "english": ["however", "though", "nevertheless", "nonetheless"],
+      "english": [
+        {
+          "id": "dktqtl1h",
+          "word": "however",
+          "meaning": "nevertheless; still",
+          "note": "This is the all-purpose spoken choice for sentence-level “nevertheless” or “in contrast.”"
+        },
+        {
+          "id": "xycq7wmk",
+          "word": "though",
+          "meaning": "however; nevertheless",
+          "note": "This is the all-purpose choice for contrasting with what was just said, including sentence-final “though.”"
+        },
+        {
+          "id": "b3c47n5t",
+          "word": "nevertheless",
+          "meaning": "in spite of that; yet",
+          "note": "This is the all-purpose spoken choice for adding a contrasting point or saying “nevertheless.”"
+        },
+        {
+          "id": "eywhd7b7",
+          "word": "nonetheless",
+          "meaning": "nevertheless; in spite of that",
+          "note": "This is the all-purpose spoken choice for marking a contrast or concession."
+        }
+      ],
       "examples": [
         {
           "english": "I didn't really want to go; however, my friend invited me.",
@@ -32,7 +57,14 @@
     },
     {
       "meaning": "only, merely",
-      "english": ["only"],
+      "english": [
+        {
+          "id": "s1b5e592",
+          "word": "only",
+          "meaning": "only: merely / no more than",
+          "note": "Use this for the “merely” or “no more than” sense when downplaying what is being described."
+        }
+      ],
       "examples": [
         {
           "english": "This is only a small problem.",

@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "hopeless, no chance",
-      "english": ["hopeless", "forlorn"],
+      "english": [
+        {
+          "id": "znghd07o",
+          "word": "hopeless",
+          "meaning": "without hope",
+          "note": "This is the all-purpose choice for a person, situation, or prospect with no positive outcome in sight."
+        },
+        {
+          "id": "54yw30vg",
+          "word": "forlorn",
+          "meaning": "hopeless, unlikely to succeed",
+          "register": "colloquial",
+          "note": "Use this when a plan, attempt, or situation is unlikely to succeed."
+        }
+      ],
       "examples": [
         {
           "english": "This business is hopeless now.",

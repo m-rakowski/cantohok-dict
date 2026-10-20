@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "3D geometric surface",
-      "english": ["sphere"],
+      "english": [
+        {
+          "id": "6vn8xq4p",
+          "word": "sphere",
+          "meaning": "3D geometric surface",
+          "note": "Use this specifically for the geometric surface whose points are equidistant from a center."
+        }
+      ],
       "examples": [
         {
           "english": "Every point on this sphere is the same distance from the center.",

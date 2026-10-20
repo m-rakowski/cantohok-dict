@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "daybreak, dawn",
-      "english": ["dawn", "daylight"],
+      "english": [
+        {
+          "id": "u5x9pbvu",
+          "word": "dawn",
+          "meaning": "time of sunrise",
+          "note": "This is the all-purpose everyday choice for dawn or daybreak, including the time around sunrise."
+        },
+        {
+          "id": "2xy2ax5l",
+          "word": "daylight",
+          "meaning": "daybreak",
+          "register": "colloquial",
+          "note": "Use this for daybreak or the arrival of daylight, especially when contrasting it with nighttime."
+        }
+      ],
       "examples": [
         {
           "english": "It's dawn, and we're heading to work.",

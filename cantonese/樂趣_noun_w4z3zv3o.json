@@ -6,7 +6,56 @@
   "boxes": [
     {
       "meaning": "fun, enjoyment",
-      "english": ["fun", "pleasure", "joy", "delight", "enjoyment", "kick", "giggle", "satisfaction"],
+      "english": [
+        {
+          "id": "z7dxwjto",
+          "word": "fun",
+          "meaning": "amusement, enjoyment",
+          "note": "This is the all-purpose noun for the enjoyment or pleasure you get from something."
+        },
+        {
+          "id": "znl0dskk",
+          "word": "pleasure",
+          "meaning": "enjoyment, contentment",
+          "note": "This is the all-purpose noun for enjoyment or something enjoyable."
+        },
+        {
+          "id": "12035z4u",
+          "word": "joy",
+          "meaning": "source of happiness",
+          "note": "This is the all-purpose noun for something that brings enjoyment or happiness, such as the joys of parenthood."
+        },
+        {
+          "id": "5k9n758b",
+          "word": "delight",
+          "meaning": "joy; pleasure",
+          "note": "This is the all-purpose noun for pleasure or an enjoyable thing, including an activity that gives someone pleasure."
+        },
+        {
+          "id": "tmg2akt1",
+          "word": "enjoyment",
+          "meaning": "pleasure, delight",
+          "note": "This is the all-purpose noun for the fun or pleasure something gives."
+        },
+        {
+          "id": "teh5jlqz",
+          "word": "kick",
+          "meaning": "fun or thrill",
+          "note": "Use this for the pleasure or amusement someone gets from something rather than for a physical kick."
+        },
+        {
+          "id": "ug9p233o",
+          "word": "giggle",
+          "meaning": "fun, amusement",
+          "note": "Use this for fun or enjoyment in general rather than for a particular funny incident."
+        },
+        {
+          "id": "46tfp1ec",
+          "word": "satisfaction",
+          "meaning": "source of pleasure",
+          "note": "Use this when the source of satisfaction is an activity or experience that is enjoyable."
+        }
+      ],
       "examples": [
         {
           "english": "This game is a lot of fun.",

@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "a discovery",
-      "english": ["finding", "discovery", "revelation"],
+      "english": [
+        {
+          "id": "bnulvw96",
+          "word": "finding",
+          "meaning": "finding something",
+          "note": "Use this as the all-purpose noun for a discovery, including a notable research finding or a chance discovery."
+        },
+        {
+          "id": "zdkxnfqq",
+          "word": "discovery",
+          "meaning": "thing discovered",
+          "note": "This is the all-purpose noun for a finding or the act of discovering something new."
+        },
+        {
+          "id": "ntug5qnb",
+          "word": "revelation",
+          "meaning": "thing revealed",
+          "note": "This is the all-purpose choice when the revelation is a newly discovered fact or insight, rather than the act of exposing it."
+        }
+      ],
       "examples": [
         {
           "english": "This finding made the whole team very excited.",

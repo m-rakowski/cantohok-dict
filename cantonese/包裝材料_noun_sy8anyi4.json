@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "packaging materials",
-      "english": ["wrapping", "packing"],
+      "english": [
+        {
+          "id": "2amx480n",
+          "word": "wrapping",
+          "meaning": "wrapping material",
+          "note": "Use this general term when the wrapping material may be paper, plastic, or another substance."
+        },
+        {
+          "id": "gf67jxel",
+          "word": "packing",
+          "meaning": "wrapping / packaging material",
+          "note": "Use this when referring specifically to materials such as paper, plastic, or cardboard used for packaging."
+        }
+      ],
       "examples": [
         {
           "english": "When shipping goods, choose the right wrapping materials; cardboard boxes and bubble wrap both work.",

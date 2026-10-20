@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "quiet",
-      "english": ["silent", "tranquil", "pacific", "calm"],
+      "english": [
+        {
+          "id": "j8b7zejg",
+          "word": "silent",
+          "meaning": "quiet; no sound",
+          "note": "Use 安靜 as the all-purpose choice for a quiet place or surroundings, and also for a calm, undisturbed state."
+        },
+        {
+          "id": "kxj5ib9m",
+          "word": "tranquil",
+          "meaning": "physically quiet still",
+          "note": "Use this for a place, person, or situation that is quiet and has little or no sound, rather than for inner emotional calm."
+        },
+        {
+          "id": "ofuzey72",
+          "word": "pacific",
+          "meaning": "calm, peaceful",
+          "note": "Use this instead of 平靜 when the emphasis is on a quiet, undisturbed place or environment."
+        },
+        {
+          "id": "1czh0rj2",
+          "word": "calm",
+          "meaning": "quiet; no disturbance",
+          "note": "Use this when a place or situation is quiet and free from noise or disturbance."
+        }
+      ],
       "examples": [
         {
           "english": "It's really silent here.",

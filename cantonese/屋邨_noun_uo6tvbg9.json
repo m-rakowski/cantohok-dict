@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "housing estate",
-      "english": ["estate", "project"],
+      "english": [
+        {
+          "id": "jyfovi4n",
+          "word": "estate",
+          "meaning": "housing estate",
+          "note": "Use this instead when the housing estate is a public-housing estate."
+        },
+        {
+          "id": "5kxlrsu3",
+          "word": "project",
+          "meaning": "public housing estate",
+          "note": "Use this when referring specifically to the public-housing estate or residential complex as a whole."
+        }
+      ],
       "examples": [
         {
           "english": "A lot of residents in this public-housing estate exercise together.",

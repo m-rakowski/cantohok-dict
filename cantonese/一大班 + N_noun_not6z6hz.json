@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "a large group of people",
-      "english": ["legion", "army"],
+      "english": [
+        {
+          "id": "c5qplg7j",
+          "word": "legion",
+          "meaning": "a great many",
+          "register": "colloquial",
+          "note": "This is the all-purpose spoken choice for a great many people, such as accountants, rather than for a military unit."
+        },
+        {
+          "id": "3p2hh1im",
+          "word": "army",
+          "meaning": "large group of people",
+          "register": "colloquial",
+          "note": "Use this colloquial construction before a people noun for a large group working on the same task."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

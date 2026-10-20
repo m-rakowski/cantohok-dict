@@ -6,7 +6,45 @@
   "boxes": [
     {
       "meaning": "frankly, to be honest",
-      "english": ["frankly", "candidly", "honestly", "admittedly", "directly", "truly"],
+      "english": [
+        {
+          "id": "vps0pwrh",
+          "word": "frankly",
+          "meaning": "frankly = to tell the truth",
+          "note": "This is the all-purpose colloquial choice for speaking frankly or introducing an honest opinion."
+        },
+        {
+          "id": "qkuj03rc",
+          "word": "candidly",
+          "meaning": "frankly; honestly",
+          "note": "This is the all-purpose spoken choice for saying something frankly or honestly."
+        },
+        {
+          "id": "t9syefjn",
+          "word": "honestly",
+          "meaning": "frankly; to be honest",
+          "note": "Use this as a spoken discourse marker meaning frankly or to be honest before stating an opinion."
+        },
+        {
+          "id": "ccboo5yc",
+          "word": "admittedly",
+          "meaning": "confessedly / admittedly true",
+          "note": "Use this for a candid personal admission rather than a neutral statement that something is true."
+        },
+        {
+          "id": "is80feir",
+          "word": "directly",
+          "meaning": "frankly; honestly",
+          "register": "colloquial",
+          "note": "Use this when emphasizing that someone is speaking frankly or honestly rather than merely stating something plainly."
+        },
+        {
+          "id": "fgvmwnlh",
+          "word": "truly",
+          "meaning": "truthfully; accurately",
+          "note": "Use this when explicitly introducing a candid or truthful statement, rather than simply intensifying it."
+        }
+      ],
       "examples": [
         {
           "english": "Frankly, I think this plan is pretty solid.",

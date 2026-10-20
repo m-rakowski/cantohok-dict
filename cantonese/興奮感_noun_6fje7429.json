@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "feeling of excitement",
-      "english": ["exhilaration", "buzz"],
+      "english": [
+        {
+          "id": "ei6t0s00",
+          "word": "exhilaration",
+          "meaning": "state of great cheer",
+          "note": "Use 興奮感 as the all-purpose noun for the intense happy excitement or exhilaration itself."
+        },
+        {
+          "id": "5k1sqcnq",
+          "word": "buzz",
+          "meaning": "excitement / energy",
+          "note": "This is the all-purpose choice for a rush or feeling of excitement, including the effect of coffee."
+        }
+      ],
       "examples": [
         {
           "english": "Watching the fireworks explode overhead gives me an indescribable exhilaration.",

@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "pleasant smell",
-      "english": ["fragrance", "scent", "perfume"],
+      "english": [
+        {
+          "id": "ppr8ybwx",
+          "word": "fragrance",
+          "meaning": "pleasant smell",
+          "note": "This is the all-purpose everyday word for a pleasant smell."
+        },
+        {
+          "id": "vof7ff3f",
+          "word": "scent",
+          "meaning": "smell, odor",
+          "note": "Use this for the pleasant, fragrant side of scent, such as the smell of flowers."
+        },
+        {
+          "id": "mju3khmg",
+          "word": "perfume",
+          "meaning": "pleasant smell",
+          "note": "Use 香味 as the all-purpose noun for a pleasant smell."
+        }
+      ],
       "examples": [
         {
           "english": "This tea has a light fragrance.",

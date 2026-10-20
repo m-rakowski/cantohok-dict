@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "nearby area",
-      "english": ["surrounding", "vicinity", "backyard"],
+      "english": [
+        {
+          "id": "omox030i",
+          "word": "surrounding",
+          "meaning": "nearby area",
+          "note": "This is the all-purpose choice for the nearby area around a place or thing."
+        },
+        {
+          "id": "zlsuye1p",
+          "word": "vicinity",
+          "meaning": "being nearby",
+          "note": "This is the all-purpose choice for proximity or something being near."
+        },
+        {
+          "id": "0l9tuv91",
+          "word": "backyard",
+          "meaning": "local neighborhood",
+          "note": "Use this for the area around someone's home, workplace, or usual haunts, rather than a physical rear yard."
+        }
+      ],
       "examples": [
         {
           "english": "Is there a subway station in the surrounding area of this restaurant?",

@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "rest, take a break",
-      "english": ["repose", "rest", "pause"],
+      "english": [
+        {
+          "id": "kvtiko2s",
+          "word": "repose",
+          "meaning": "rest; lie down",
+          "note": "This is the all-purpose choice when someone takes a break or rests."
+        },
+        {
+          "id": "c0q2u26f",
+          "word": "rest",
+          "meaning": "cease, stop",
+          "note": "This is the all-purpose choice when stopping work or activity to take a break."
+        },
+        {
+          "id": "9cw9pdph",
+          "word": "pause",
+          "meaning": "take a break",
+          "note": "Use this when the person is taking a short rest after making an effort."
+        }
+      ],
       "examples": [
         {
           "english": "After this round of work, I need to repose for a while.",

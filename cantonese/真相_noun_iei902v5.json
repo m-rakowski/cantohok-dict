@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "the truth behind something",
-      "english": ["truth", "fact"],
+      "english": [
+        {
+          "id": "0khinrvz",
+          "word": "truth",
+          "meaning": "facts; reality",
+          "note": "Use this for the real facts behind a concealment, appearance, or disputed account."
+        },
+        {
+          "id": "nm7mwaqd",
+          "word": "fact",
+          "meaning": "something actual",
+          "note": "Use this when the fact means the true state of affairs behind a story, dispute, or concealment."
+        }
+      ],
       "examples": [
         {
           "english": "Don't just look at the surface; find the truth.",

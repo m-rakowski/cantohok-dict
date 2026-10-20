@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "canteen, cafeteria",
-      "english": ["canteen", "cafeteria"],
+      "english": [
+        {
+          "id": "lm9oi76h",
+          "word": "canteen",
+          "meaning": "cafeteria, snack bar",
+          "note": "This is the default choice for an institutional canteen at a school, workplace, or military base."
+        },
+        {
+          "id": "cpfyoykt",
+          "word": "cafeteria",
+          "meaning": "institution dining area",
+          "note": "Use this for a school, workplace, or other institution's cafeteria."
+        }
+      ],
       "examples": [
         {
           "english": "We have breakfast in the school canteen.",

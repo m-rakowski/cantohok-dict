@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "imitation, replica",
-      "english": ["mimic", "imitation"],
+      "english": [
+        {
+          "id": "petb15td",
+          "word": "mimic",
+          "meaning": "imitation / copy",
+          "register": "formal",
+          "note": "Use this for a physical imitation or copy of an object rather than an imitation of someone’s voice or manner."
+        },
+        {
+          "id": "e3z5s9la",
+          "word": "imitation",
+          "meaning": "copy or fake thing",
+          "register": "written",
+          "note": "Use this as the neutral term for a copied or simulated product, including imitation materials."
+        }
+      ],
       "examples": [
         {
           "english": "The appearance of this mimic is almost identical to the genuine article.",

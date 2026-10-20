@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "mattress",
-      "english": ["bed"],
+      "english": [
+        {
+          "id": "ebhw0k32",
+          "word": "bed",
+          "meaning": "mattress",
+          "note": "Use this when you specifically mean the mattress rather than the whole bed."
+        }
+      ],
       "examples": [
         {
           "english": "The bed's mattress is too hard, so I can't sleep comfortably.",

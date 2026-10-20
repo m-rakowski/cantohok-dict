@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "monastery, convent",
-      "english": ["monastery", "cloister"],
+      "english": [
+        {
+          "id": "ch1nku65",
+          "word": "monastery",
+          "meaning": "monastic residence",
+          "note": "Use this for a Christian monastery or another residence for people living under religious vows in that tradition."
+        },
+        {
+          "id": "mqgs78xv",
+          "word": "cloister",
+          "meaning": "monastic place",
+          "note": "Use this for the monastery or convent as a religious place rather than for its arcade."
+        }
+      ],
       "examples": [
         {
           "english": "Several monks live in that monastery, which is not open to the public on weekdays.",

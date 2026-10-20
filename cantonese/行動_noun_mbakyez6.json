@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "mobility, ability to move around",
-      "english": ["locomotion"],
+      "english": [
+        {
+          "id": "1n5pfsag",
+          "word": "locomotion",
+          "meaning": "movement / getting around",
+          "note": "Use this when locomotion means a person's mobility or ability to get around, especially in contexts such as 行動不便."
+        }
+      ],
       "examples": [
         {
           "english": "Grandma has limited locomotion because of her age and needs someone with her when she goes out.",
@@ -17,7 +24,20 @@
     },
     {
       "meaning": "organized campaign or operation",
-      "english": ["campaign", "operation"],
+      "english": [
+        {
+          "id": "zsmwakh4",
+          "word": "campaign",
+          "meaning": "organized effort",
+          "note": "Use this as the all-purpose choice for a goal-oriented campaign when no specific type is being highlighted."
+        },
+        {
+          "id": "9r3b6quj",
+          "word": "operation",
+          "meaning": "planned undertaking",
+          "note": "Use this for a planned police operation or military campaign; a military operation can also be made explicit by context."
+        }
+      ],
       "examples": [
         {
           "english": "The beach-cleaning campaign lasted a whole month.",
@@ -33,7 +53,14 @@
     },
     {
       "meaning": "action, deed",
-      "english": ["action"],
+      "english": [
+        {
+          "id": "qtxp870u",
+          "word": "action",
+          "meaning": "act; deed",
+          "note": "Use 行動 as the all-purpose choice for a deliberate act or course of action."
+        }
+      ],
       "examples": [
         {
           "english": "We need to take action immediately.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "not caring, don't mind",
-      "english": ["indifferent", "careless"],
+      "english": [
+        {
+          "id": "1lqpqccs",
+          "word": "indifferent",
+          "meaning": "uninterested; unconcerned",
+          "note": "Use this for a person who does not care or is unconcerned, rather than merely having no preference."
+        },
+        {
+          "id": "49sdidym",
+          "word": "careless",
+          "meaning": "not worried",
+          "note": "Use this when the person shows indifference or does not care about the matter rather than merely lacking worry."
+        }
+      ],
       "examples": [
         {
           "english": "I’m indifferent to what he thinks of me.",

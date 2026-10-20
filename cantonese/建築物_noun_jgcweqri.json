@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "building, structure",
-      "english": ["edifice", "building"],
+      "english": [
+        {
+          "id": "5y79ilug",
+          "word": "edifice",
+          "meaning": "building; large structure",
+          "note": "This is the all-purpose choice for a large or impressive physical building or structure."
+        },
+        {
+          "id": "nba5pt2s",
+          "word": "building",
+          "meaning": "building, structure",
+          "register": "formal",
+          "note": "Use this formal generic term when referring to a physical structure as a building, especially in written or technical contexts."
+        }
+      ],
       "examples": [
         {
           "english": "That edifice looks imposing after its lights come on at night.",

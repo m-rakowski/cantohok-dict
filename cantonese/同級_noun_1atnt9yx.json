@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "person of the same rank or level",
-      "english": ["equal", "peer"],
+      "english": [
+        {
+          "id": "tw2evi3j",
+          "word": "equal",
+          "meaning": "equal person",
+          "note": "Use this as the all-purpose noun for a person or thing at the same rank or level."
+        },
+        {
+          "id": "vg38u101",
+          "word": "peer",
+          "meaning": "equal; peer",
+          "note": "Use this for a person or thing at the same level, rank, ability, or value as another; it is the all-purpose choice for the equal-level sense."
+        }
+      ],
       "examples": [
         {
           "english": "He is my equal, so I don't need to be especially deferential to him.",

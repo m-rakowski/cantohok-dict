@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "software release",
-      "english": ["release"],
+      "english": [
+        {
+          "id": "hoxo57c3",
+          "word": "release",
+          "meaning": "software release",
+          "note": "Use this for a newly released or upgraded software version rather than the act of distributing it."
+        }
+      ],
       "examples": [
         {
           "english": "This new release is finally out, so everyone can update.",

@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "classic",
-      "english": ["classic", "classical", "standard"],
+      "english": [
+        {
+          "id": "yjcp3dwv",
+          "word": "classic",
+          "meaning": "timelessly excellent",
+          "note": "Use 經典 as the all-purpose choice for canonical or timelessly excellent works, and colloquially for a predictably apt or funny moment."
+        },
+        {
+          "id": "8b6rpfck",
+          "word": "classical",
+          "meaning": "first-rank; excellent",
+          "note": "Use 經典 for a canonical or benchmark work, and in technical contexts for non-quantum models."
+        },
+        {
+          "id": "of0gkxn7",
+          "word": "standard",
+          "meaning": "recognized, authoritative",
+          "note": "Use this for works or authors recognized as classic and exemplary rather than merely acceptable."
+        }
+      ],
       "examples": [
         {
           "english": "This film is a true classic; I never get tired of watching it.",

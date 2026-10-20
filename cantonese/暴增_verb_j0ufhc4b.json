@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "surge, increase suddenly",
-      "english": ["surge", "explode"],
+      "english": [
+        {
+          "id": "59pvsdzd",
+          "word": "surge",
+          "meaning": "rise suddenly",
+          "note": "Use this specifically when an amount or number suddenly becomes much larger."
+        },
+        {
+          "id": "aytxi87u",
+          "word": "explode",
+          "meaning": "increase rapidly",
+          "note": "Use this when a quantity or population increases suddenly and dramatically."
+        }
+      ],
       "examples": [
         {
           "english": "Online orders surge within just a few days.",

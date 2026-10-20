@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "come loose, loosen",
-      "english": ["slack", "relax", "untie"],
+      "english": [
+        {
+          "id": "qjxx6nau",
+          "word": "slack",
+          "meaning": "slacken, become less tight",
+          "note": "Use this when something becomes less tight or comes loose, rather than when someone avoids work."
+        },
+        {
+          "id": "2q87ntiv",
+          "word": "relax",
+          "meaning": "make loose",
+          "note": "Use this for making something loose, or for something coming loose, such as a rope or cord."
+        },
+        {
+          "id": "5rk70i1b",
+          "word": "untie",
+          "meaning": "become untied",
+          "note": "Use this when something has come undone or loose by itself, rather than saying that someone undid it."
+        }
+      ],
       "examples": [
         {
           "english": "The shoelace went slack; help me tie it tighter.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "fit into, blend in",
-      "english": ["integrate", "merge"],
+      "english": [
+        {
+          "id": "rcmpcdhu",
+          "word": "integrate",
+          "meaning": "incorporate into",
+          "note": "Use this as the all-purpose choice when a person, skill, or thing becomes part of an activity, group, or environment."
+        },
+        {
+          "id": "3yagzh8h",
+          "word": "merge",
+          "meaning": "blend gradually",
+          "note": "Use this when something gradually becomes part of its surrounding setting, group, or substance."
+        }
+      ],
       "examples": [
         {
           "english": "The new colleague quickly managed to integrate into our team.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "corner",
-      "english": ["corner"],
+      "english": [
+        {
+          "id": "83yoheok",
+          "word": "corner",
+          "meaning": "corner; angle point",
+          "note": "This is the all-purpose noun for the point or projecting part where two lines or surfaces meet, rather than a street corner."
+        }
+      ],
       "examples": [
         {
           "english": "The corner of the table hit my foot.",
@@ -17,7 +24,14 @@
     },
     {
       "meaning": "horn",
-      "english": ["horn"],
+      "english": [
+        {
+          "id": "e9m7xxad",
+          "word": "horn",
+          "meaning": "animal horn",
+          "note": "Use this for an animal's horn, adding the animal name when the species matters."
+        }
+      ],
       "examples": [
         {
           "english": "A bull's horn is very sharp, so don't get so close.",
@@ -28,7 +42,14 @@
     },
     {
       "meaning": "role in a play",
-      "english": ["role"],
+      "english": [
+        {
+          "id": "hg11frh8",
+          "word": "role",
+          "meaning": "actor’s part",
+          "note": "Use this shorter word specifically for an actor’s or performer’s part, especially in a theatrical context."
+        }
+      ],
       "examples": [
         {
           "english": "I'm playing the villain's role this time.",

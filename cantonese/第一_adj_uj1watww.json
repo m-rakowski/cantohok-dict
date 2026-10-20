@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "first",
-      "english": ["first", "primary", "prime"],
+      "english": [
+        {
+          "id": "622f2xrx",
+          "word": "first",
+          "meaning": "ordinal number one",
+          "note": "This is the all-purpose choice for being number one in an ordered series, such as being the first person to arrive."
+        },
+        {
+          "id": "sya1fhox",
+          "word": "primary",
+          "meaning": "first; earliest",
+          "note": "Use this when something is first in an order or series, rather than main or fundamental."
+        },
+        {
+          "id": "f3t3p7p0",
+          "word": "prime",
+          "meaning": "first in order",
+          "note": "Use this when “prime” means first in a time sequence, order, or series."
+        }
+      ],
       "examples": [
         {
           "english": "I was the first to arrive at the office.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "lesson learned",
-      "english": ["moral", "lesson"],
+      "english": [
+        {
+          "id": "qnq4xpuj",
+          "word": "moral",
+          "meaning": "lesson, takeaway",
+          "note": "Use this as the all-purpose noun for the lesson or takeaway a story teaches."
+        },
+        {
+          "id": "o502rhm8",
+          "word": "lesson",
+          "meaning": "something learned",
+          "note": "Use this for a lesson learned from an experience, especially a cautionary or painful one."
+        }
+      ],
       "examples": [
         {
           "english": "The moral of this story is that we should be honest.",

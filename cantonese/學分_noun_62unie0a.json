@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "course credit",
-      "english": ["credit"],
+      "english": [
+        {
+          "id": "jytkacjs",
+          "word": "credit",
+          "meaning": "course credit",
+          "note": "Use this for a course credit or credit counted toward graduation."
+        }
+      ],
       "examples": [
         {
           "english": "This course gives me credit toward my graduation requirements.",

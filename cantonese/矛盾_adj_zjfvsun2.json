@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "contradictory, conflicting",
-      "english": ["contradictory", "contrary"],
+      "english": [
+        {
+          "id": "ty6yqacr",
+          "word": "contradictory",
+          "meaning": "conflicting; inconsistent",
+          "note": "This is the all-purpose choice for claims or positions that conflict or do not fit together."
+        },
+        {
+          "id": "mnjaaj59",
+          "word": "contrary",
+          "meaning": "contradictory; inconsistent",
+          "note": "Use this when statements, ideas, or facts contradict or conflict with each other."
+        }
+      ],
       "examples": [
         {
           "english": "This statement is contradictory to the facts.",

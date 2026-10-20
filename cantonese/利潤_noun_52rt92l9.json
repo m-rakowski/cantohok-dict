@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "profit",
-      "english": ["gain", "profit", "earnings"],
+      "english": [
+        {
+          "id": "x9xmq90f",
+          "word": "gain",
+          "meaning": "gain; profit",
+          "note": "Use this for financial gain or profit, especially in business or trade."
+        },
+        {
+          "id": "g3jrtn64",
+          "word": "profit",
+          "meaning": "money left after costs",
+          "note": "This is the all-purpose noun for money left after costs or earned from selling goods and services."
+        },
+        {
+          "id": "n2x1uhpo",
+          "word": "earnings",
+          "meaning": "business profits",
+          "note": "Use 利潤 when earnings means the profits made by a business."
+        }
+      ],
       "examples": [
         {
           "english": "This company recorded a substantial gain this year.",

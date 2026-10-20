@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "to do, carry out",
-      "english": ["do", "perform", "act", "have"],
+      "english": [
+        {
+          "id": "htbo0f0q",
+          "word": "do",
+          "meaning": "perform, carry out",
+          "note": "This is the all-purpose choice for carrying out tasks, having a job, providing a service, or describing how someone performs."
+        },
+        {
+          "id": "agtj1rxr",
+          "word": "perform",
+          "meaning": "do; execute",
+          "note": "This is the all-purpose choice when perform means to do or execute something, such as an experiment."
+        },
+        {
+          "id": "p9dea7ob",
+          "word": "act",
+          "meaning": "do; take action",
+          "note": "Use 做 as the all-purpose verb for doing something or taking action."
+        },
+        {
+          "id": "d946db9s",
+          "word": "have",
+          "meaning": "do, take, experience",
+          "note": "Use this when “have” means to do or undertake an activity, such as having a look or having a meeting."
+        }
+      ],
       "examples": [
         {
           "english": "I do this job, mainly helping people fix computers.",
@@ -32,7 +57,14 @@
     },
     {
       "meaning": "to work as, take up a job",
-      "english": ["pursue"],
+      "english": [
+        {
+          "id": "cflb6baf",
+          "word": "pursue",
+          "meaning": "follow a profession",
+          "note": "Use this when pursuing a profession, trade, business, or regular activity."
+        }
+      ],
       "examples": [
         {
           "english": "After graduation, I want to pursue a career in accounting.",

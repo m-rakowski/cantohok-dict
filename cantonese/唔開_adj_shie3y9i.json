@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "closed business/venue",
-      "english": ["shut"],
+      "english": [
+        {
+          "id": "a6c7vjcu",
+          "word": "shut",
+          "meaning": "closed business/venue",
+          "note": "Use this for a business or venue that is not open to customers, such as on a particular day."
+        }
+      ],
       "examples": [
         {
           "english": "This shop is shut on Sundays.",

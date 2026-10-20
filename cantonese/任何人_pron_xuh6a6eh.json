@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "anyone",
-      "english": ["anyone", "anybody", "any", "whom"],
+      "english": [
+        {
+          "id": "yh5r9zem",
+          "word": "anyone",
+          "meaning": "any person; anybody",
+          "note": "This is the all-purpose choice for referring to any person."
+        },
+        {
+          "id": "jg6v8f86",
+          "word": "anybody",
+          "meaning": "any person; anyone",
+          "note": "Use this when you mean any person in a more explicit or formal-sounding way."
+        },
+        {
+          "id": "xlsdmq2g",
+          "word": "any",
+          "meaning": "anyone/anything",
+          "note": "Use this as the all-purpose noun phrase for any person, especially when the person is the focus rather than the choice pattern."
+        },
+        {
+          "id": "z6din0jp",
+          "word": "whom",
+          "meaning": "indefinite relative",
+          "note": "Use this for an indefinite person or people in contexts where English means “whomever” or “any person.”"
+        }
+      ],
       "examples": [
         {
           "english": "Anyone can come in and join.",

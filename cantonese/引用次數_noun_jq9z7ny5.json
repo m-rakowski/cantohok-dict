@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "a citation count",
-      "english": ["citation"],
+      "english": [
+        {
+          "id": "1dciz3rf",
+          "word": "citation",
+          "meaning": "a citation count",
+          "note": "Use this specifically when counting how many times a person's work has been cited."
+        }
+      ],
       "examples": [
         {
           "english": "This article’s citation count has already passed one thousand.",

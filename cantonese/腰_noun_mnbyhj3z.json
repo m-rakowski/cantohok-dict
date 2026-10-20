@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "waist",
-      "english": ["waist", "middle"],
+      "english": [
+        {
+          "id": "vsnbuawu",
+          "word": "waist",
+          "meaning": "body waist",
+          "note": "This is the all-purpose word for the body part between the pelvis and stomach."
+        },
+        {
+          "id": "55uy7447",
+          "word": "middle",
+          "meaning": "waist, middle of body",
+          "note": "Use this for the waist or central part of a person's body."
+        }
+      ],
       "examples": [
         {
           "english": "I twisted my waist last night, and it still hurts.",

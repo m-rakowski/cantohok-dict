@@ -6,7 +6,33 @@
   "boxes": [
     {
       "meaning": "official approval",
-      "english": ["permission", "grant", "approval", "nod"],
+      "english": [
+        {
+          "id": "qwejhgdm",
+          "word": "permission",
+          "meaning": "authorisation / consent",
+          "note": "Use this when permission means official approval that must be obtained from an authority."
+        },
+        {
+          "id": "ikw413je",
+          "word": "grant",
+          "meaning": "a grant; giving",
+          "note": "Use this for the approval or granting of permission, such as permission for a project."
+        },
+        {
+          "id": "f2hzoeqh",
+          "word": "approval",
+          "meaning": "permission / agreement",
+          "register": "formal",
+          "note": "Use this for official or administrative authorization, such as approval of an application or purchase order."
+        },
+        {
+          "id": "oy4h5uel",
+          "word": "nod",
+          "meaning": "approval",
+          "note": "Use this when the approval is an official authorization, especially for a plan or application."
+        }
+      ],
       "examples": [
         {
           "english": "This application is still waiting for the supervisor's permission.",

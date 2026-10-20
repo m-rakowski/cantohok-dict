@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "unreliable machine/software",
-      "english": ["temperamental"],
+      "english": [
+        {
+          "id": "ruozm5d1",
+          "word": "temperamental",
+          "meaning": "unreliable machine/software",
+          "note": "Use this when the machine or software works sometimes but fails at other times."
+        }
+      ],
       "examples": [
         {
           "english": "The air conditioner is temperamental: it was freezing cold in the morning, but it stopped working completely in the afternoon.",

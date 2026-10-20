@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "still, yet",
-      "english": ["still", "yet"],
+      "english": [
+        {
+          "id": "ey8z26jf",
+          "word": "still",
+          "meaning": "continuing to now",
+          "note": "This is the all-purpose spoken choice for something continuing and for a comparative degree that is even greater."
+        },
+        {
+          "id": "vxoy61r4",
+          "word": "yet",
+          "meaning": "up to now",
+          "note": "Use this all-purpose colloquial adverb for “still/yet”; in negative clauses it commonly combines with 未, and it also covers remaining time and “even more.”"
+        }
+      ],
       "examples": [
         {
           "english": "I still haven't eaten.",
@@ -22,7 +35,33 @@
     },
     {
       "meaning": "also, in addition",
-      "english": ["additionally", "also", "furthermore", "further"],
+      "english": [
+        {
+          "id": "yh5x78mw",
+          "word": "additionally",
+          "meaning": "in addition; also",
+          "note": "This is the all-purpose colloquial choice for saying that something is also or additionally true."
+        },
+        {
+          "id": "m0i0fizr",
+          "word": "also",
+          "meaning": "in addition; too",
+          "note": "Use 仲 when adding another fact or item, especially with a sense of 'in addition' or 'on top of that'."
+        },
+        {
+          "id": "b0ydmcaf",
+          "word": "furthermore",
+          "meaning": "in addition; besides",
+          "register": "colloquial",
+          "note": "Use this colloquial choice for an additional point, especially with a sense of “what’s more” or emphasis."
+        },
+        {
+          "id": "pbzaba75",
+          "word": "further",
+          "meaning": "in addition; additionally",
+          "note": "Use this when adding another point or action beyond what has already been mentioned, rather than making a comparison."
+        }
+      ],
       "examples": [
         {
           "english": "I additionally want another bowl of rice.",
@@ -48,7 +87,21 @@
     },
     {
       "meaning": "even more",
-      "english": ["more", "even"],
+      "english": [
+        {
+          "id": "sp1acwhh",
+          "word": "more",
+          "meaning": "comparative marker",
+          "note": "Use this when “more” has an emphatic or “even more” sense, usually in an explicit comparison."
+        },
+        {
+          "id": "bf8bc9cj",
+          "word": "even",
+          "meaning": "even more",
+          "register": "colloquial",
+          "note": "Use 仲 before a comparative or adjective when saying that something is even more so than before or than another thing."
+        }
+      ],
       "examples": [
         {
           "english": "Today is even more chilly than yesterday.",

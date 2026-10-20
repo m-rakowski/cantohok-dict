@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "persistence",
-      "english": ["persistence", "perseverance"],
+      "english": [
+        {
+          "id": "w8wzh121",
+          "word": "persistence",
+          "meaning": "sticking with something",
+          "note": "This is the all-purpose choice for sticking with a decision, activity, or goal despite difficulty or rejection."
+        },
+        {
+          "id": "kw384d46",
+          "word": "perseverance",
+          "meaning": "sticking at it",
+          "note": "Use 堅持 when focusing on maintaining a course or position rather than on the personal quality behind it."
+        }
+      ],
       "examples": [
         {
           "english": "When you do anything, persistence is what makes success more likely.",

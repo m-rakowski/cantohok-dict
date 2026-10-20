@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "money",
-      "english": ["money", "cash", "currency"],
+      "english": [
+        {
+          "id": "u07oub8z",
+          "word": "money",
+          "meaning": "means of exchange",
+          "note": "This is the all-purpose everyday word for money, including wealth in ordinary speech."
+        },
+        {
+          "id": "tw0dcr72",
+          "word": "cash",
+          "meaning": "money",
+          "note": "Use this as the all-purpose word when “cash” simply means money."
+        },
+        {
+          "id": "j5kgu5by",
+          "word": "currency",
+          "meaning": "money used for transactions",
+          "note": "For everyday money in general, 錢 is the all-purpose choice."
+        }
+      ],
       "examples": [
         {
           "english": "I don't have enough money to buy this phone.",

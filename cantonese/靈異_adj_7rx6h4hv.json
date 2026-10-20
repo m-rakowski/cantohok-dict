@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "supernatural, ghostly",
-      "english": ["supernatural", "ghostly"],
+      "english": [
+        {
+          "id": "z6eayt89",
+          "word": "supernatural",
+          "meaning": "ghostly, paranormal",
+          "note": "Use this for ghostly or paranormal phenomena, especially in stories, reports, and descriptions of unusual events."
+        },
+        {
+          "id": "ddkmv3w2",
+          "word": "ghostly",
+          "meaning": "ghost/spirit-like",
+          "note": "Use this for supernatural or ghost-related events, stories, and phenomena rather than a person's visual resemblance to a ghost."
+        }
+      ],
       "examples": [
         {
           "english": "This drama is about a supernatural incident.",

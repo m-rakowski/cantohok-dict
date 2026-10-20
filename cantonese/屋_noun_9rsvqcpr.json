@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "human abode",
-      "english": ["house"],
+      "english": [
+        {
+          "id": "o0yiqu1i",
+          "word": "house",
+          "meaning": "human abode",
+          "note": "This is the all-purpose choice for a physical house or other building, including a non-residential one when the context makes that clear."
+        }
+      ],
       "examples": [
         {
           "english": "This house used to be a clinic.",

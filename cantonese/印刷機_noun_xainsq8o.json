@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "printing machine",
-      "english": ["press"],
+      "english": [
+        {
+          "id": "bxntm3b7",
+          "word": "press",
+          "meaning": "printing machine",
+          "note": "Use this specifically for the machine used to print newspapers or other material."
+        }
+      ],
       "examples": [
         {
           "english": "The printing press at the newspaper office broke down, so tomorrow morning's paper won't be ready in time.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "properly, well",
-      "english": ["fine", "properly"],
+      "english": [
+        {
+          "id": "rxf21a9n",
+          "word": "fine",
+          "meaning": "well, nicely",
+          "note": "This is the all-purpose spoken adverbial for doing something well or in a pleasing way."
+        },
+        {
+          "id": "ja5jxt7v",
+          "word": "properly",
+          "meaning": "correctly; suitably",
+          "note": "This is the all-purpose choice for doing something correctly or suitably."
+        }
+      ],
       "examples": [
         {
           "english": "We worked together fine and got it sorted in the end.",

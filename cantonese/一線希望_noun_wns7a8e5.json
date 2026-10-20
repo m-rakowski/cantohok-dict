@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "a glimmer of hope",
-      "english": ["gleam", "prayer"],
+      "english": [
+        {
+          "id": "bqvu8sb8",
+          "word": "gleam",
+          "meaning": "hint of feeling or hope",
+          "note": "Use this when the gleam is specifically a small sign of hope or optimism."
+        },
+        {
+          "id": "9nhqroqj",
+          "word": "prayer",
+          "meaning": "not a prayer",
+          "note": "Use this for the faintest hope or chance, especially in expressions such as 冇一線希望."
+        }
+      ],
       "examples": [
         {
           "english": "Although they have lost several games, the team still sees a gleam of hope.",

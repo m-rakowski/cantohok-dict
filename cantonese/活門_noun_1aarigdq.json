@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "trapdoor, hatch",
-      "english": ["hatch", "trap"],
+      "english": [
+        {
+          "id": "3g2qsd5b",
+          "word": "hatch",
+          "meaning": "floor/ceiling door",
+          "note": "This is the all-purpose choice for a hinged access door or trapdoor in a floor, ceiling, or large structure."
+        },
+        {
+          "id": "9vwfde43",
+          "word": "trap",
+          "meaning": "trapdoor",
+          "note": "Use this for a trapdoor or hinged covering over an opening in a technical or building-related context."
+        }
+      ],
       "examples": [
         {
           "english": "The engineer opened the floor hatch and went down to look at the wiring.",

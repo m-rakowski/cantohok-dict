@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "encapsulation",
-      "english": ["abstraction"],
+      "english": [
+        {
+          "id": "oqr14x4d",
+          "word": "abstraction",
+          "meaning": "encapsulation",
+          "note": "Use this in software and technical contexts for hiding implementation details behind an interface."
+        }
+      ],
       "examples": [
         {
           "english": "This abstraction hides the complex implementation details behind the interface.",

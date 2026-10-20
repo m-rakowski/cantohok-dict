@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "mix together",
-      "english": ["interweave", "mingle"],
+      "english": [
+        {
+          "id": "pszveo2w",
+          "word": "interweave",
+          "meaning": "intermingle",
+          "note": "This is the all-purpose colloquial choice when separate things become intermixed."
+        },
+        {
+          "id": "wn6ygvql",
+          "word": "mingle",
+          "meaning": "blend together",
+          "register": "colloquial",
+          "note": "Use this when separate things or substances end up mixed or blended together."
+        }
+      ],
       "examples": [
         {
           "english": "The different smells interweave, making the whole house smell wonderful.",

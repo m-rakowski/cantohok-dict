@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "brain-damaged person",
-      "english": ["cabbage"],
+      "english": [
+        {
+          "id": "iure1rzr",
+          "word": "cabbage",
+          "meaning": "brain-damaged person",
+          "note": "Use 植物人 for someone in a medically recognized vegetative state, rather than for every person with brain damage."
+        }
+      ],
       "examples": [
         {
           "english": "The doctor said Ming is in a vegetative state and even needs to be fed cabbage.",

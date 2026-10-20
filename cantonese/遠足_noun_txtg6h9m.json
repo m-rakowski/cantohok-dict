@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "hike, outing",
-      "english": ["hiking", "hike"],
+      "english": [
+        {
+          "id": "oy0tl2bl",
+          "word": "hiking",
+          "meaning": "walking for pleasure",
+          "register": "formal",
+          "note": "Use this for a more formal or organized hiking outing, especially one resembling a school or group excursion."
+        },
+        {
+          "id": "een00jjs",
+          "word": "hike",
+          "meaning": "long walk",
+          "register": "formal",
+          "note": "Use this for a hike or outing understood as a longer walk, especially in more formal or written contexts."
+        }
+      ],
       "register": "formal",
       "examples": [
         {

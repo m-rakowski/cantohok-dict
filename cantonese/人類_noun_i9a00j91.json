@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "humankind",
-      "english": ["humanity", "mankind", "human"],
+      "english": [
+        {
+          "id": "a2897ezi",
+          "word": "humanity",
+          "meaning": "humankind",
+          "note": "This is the all-purpose choice for humanity as humankind or the human species."
+        },
+        {
+          "id": "qa5v4b5e",
+          "word": "mankind",
+          "meaning": "humanity, human race",
+          "note": "This is the all-purpose rendering for the human race as a whole."
+        },
+        {
+          "id": "p0p1n4wx",
+          "word": "human",
+          "meaning": "a human being",
+          "note": "Use this when referring to humans collectively as a species or to humanity."
+        }
+      ],
       "examples": [
         {
           "english": "All of humanity has always worked hard to explore space.",

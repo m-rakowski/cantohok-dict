@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "banker or dealer in a gambling game",
-      "english": ["banker", "dealer"],
+      "english": [
+        {
+          "id": "9or5ay0c",
+          "word": "banker",
+          "meaning": "casino dealer",
+          "note": "Use this for the house or player who holds the bank in a gambling game rather than specifically the person dealing the cards."
+        },
+        {
+          "id": "x6o7yfor",
+          "word": "dealer",
+          "meaning": "card dealer",
+          "note": "Use this for the designated dealer or banker in a card or gambling game."
+        }
+      ],
       "examples": [
         {
           "english": "The banker took all the money in this round.",

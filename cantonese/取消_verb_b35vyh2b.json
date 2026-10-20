@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "to cancel",
-      "english": ["cancel", "kill"],
+      "english": [
+        {
+          "id": "qgu3pwe2",
+          "word": "cancel",
+          "meaning": "invalidate, annul",
+          "note": "This is the all-purpose choice for cancelling an order, plan, event, or programme."
+        },
+        {
+          "id": "g8rpkeeb",
+          "word": "kill",
+          "meaning": "cancel or stop",
+          "note": "Use this for cancelling or stopping a plan, event, decision, or piece of work rather than physically killing something."
+        }
+      ],
       "examples": [
         {
           "english": "I want to cancel tomorrow's gathering.",

@@ -6,7 +6,50 @@
   "boxes": [
     {
       "meaning": "place, location",
-      "english": ["area", "location", "premises", "place", "spot", "country", "land"],
+      "english": [
+        {
+          "id": "m7k3p9sf",
+          "word": "area",
+          "meaning": "part of a surface",
+          "note": "Use this as the all-purpose everyday noun for a physical place or part of a surface."
+        },
+        {
+          "id": "qtkowx7p",
+          "word": "location",
+          "meaning": "place, point in space",
+          "note": "Use this for a place or area when emphasizing where something is rather than its exact position."
+        },
+        {
+          "id": "mu9rxcch",
+          "word": "premises",
+          "meaning": "building site, property",
+          "note": "This is the all-purpose everyday choice for referring to the place or buildings where something happens."
+        },
+        {
+          "id": "5prjqgja",
+          "word": "place",
+          "meaning": "location; position",
+          "note": "Use 地方 as the all-purpose word for a place, locality, area, or location."
+        },
+        {
+          "id": "7xf3x2z6",
+          "word": "spot",
+          "meaning": "place; location",
+          "note": "This is the all-purpose choice for a place or location, rather than a mark on a surface."
+        },
+        {
+          "id": "4gzlwz4t",
+          "word": "country",
+          "meaning": "region; area",
+          "note": "Use this for an unspecified area, region, or district rather than a country or rural countryside."
+        },
+        {
+          "id": "szal5jr7",
+          "word": "land",
+          "meaning": "country or region",
+          "note": "Use this when “land” means a region or place in general, rather than a sovereign country."
+        }
+      ],
       "examples": [
         {
           "english": "There is still a lot of empty space in this area.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "embarrassing public behaviour",
-      "english": ["spectacle", "exhibition"],
+      "english": [
+        {
+          "id": "9wn1l6kq",
+          "word": "spectacle",
+          "meaning": "public embarrassment",
+          "note": "Use this for the embarrassing or undignified behavior someone displays in public, especially when they make a spectacle of themselves."
+        },
+        {
+          "id": "k8aj0ir1",
+          "word": "exhibition",
+          "meaning": "bad public display",
+          "note": "Use this for a shameful or embarrassing public spectacle, not a neutral exhibition."
+        }
+      ],
       "examples": [
         {
           "english": "They got drunk and yelled at people in the street, making a spectacle of themselves.",

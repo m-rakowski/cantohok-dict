@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "violence",
-      "english": ["violence", "fighting"],
+      "english": [
+        {
+          "id": "fgul1vqa",
+          "word": "violence",
+          "meaning": "physical violence",
+          "note": "This is the all-purpose choice for physical violence and harm between people."
+        },
+        {
+          "id": "efj67b9d",
+          "word": "fighting",
+          "meaning": "violence; conflict",
+          "note": "Use this when the focus is violence as a method or feature of the fighting."
+        }
+      ],
       "examples": [
         {
           "english": "This movie has a lot of violence.",

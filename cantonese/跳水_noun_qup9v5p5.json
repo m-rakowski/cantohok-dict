@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "a dive into water, diving",
-      "english": ["dive", "diving", "plunge"],
+      "english": [
+        {
+          "id": "d3ml7xbt",
+          "word": "dive",
+          "meaning": "a jump into water",
+          "note": "This is the all-purpose noun for a jump or plunge into water, including a sporting dive."
+        },
+        {
+          "id": "w3ezugdu",
+          "word": "diving",
+          "meaning": "sport of diving",
+          "note": "Use this for the sport in which athletes jump from a board or platform and perform acrobatics before entering the water."
+        },
+        {
+          "id": "1zj621h9",
+          "word": "plunge",
+          "meaning": "a dive into water",
+          "note": "This is the all-purpose noun for a dive or leap into water."
+        }
+      ],
       "examples": [
         {
           "english": "This dive was really beautiful.",

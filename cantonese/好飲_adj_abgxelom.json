@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "reasonably good to drink",
-      "english": ["drinkable"],
+      "english": [
+        {
+          "id": "vtlm80l1",
+          "word": "drinkable",
+          "meaning": "reasonably good to drink",
+          "note": "Use this when drinkable means pleasant or good in taste rather than merely safe."
+        }
+      ],
       "examples": [
         {
           "english": "This tea is really drinkable.",

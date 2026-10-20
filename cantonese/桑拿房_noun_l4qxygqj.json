@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "sauna room",
-      "english": ["sauna"],
+      "english": [
+        {
+          "id": "bbxkzq5b",
+          "word": "sauna",
+          "meaning": "sauna room",
+          "note": "Use this when you specifically mean the physical sauna room rather than the session or facility generally."
+        }
+      ],
       "examples": [
         {
           "english": "The sauna room here is small but very hot.",

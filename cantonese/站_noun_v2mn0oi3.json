@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "stop, station",
-      "english": ["stop", "station"],
+      "english": [
+        {
+          "id": "hwuch6qi",
+          "word": "stop",
+          "meaning": "bus/train stop",
+          "note": "For a transit stop, 站 is the all-purpose Cantonese noun, including a bus, tram, or train stop."
+        },
+        {
+          "id": "shlw4gq4",
+          "word": "station",
+          "meaning": "train/bus stop",
+          "note": "This is the all-purpose choice for an ordinary public-transport stop or station."
+        }
+      ],
       "examples": [
         {
           "english": "Get off at the next stop.",

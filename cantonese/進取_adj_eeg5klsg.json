@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "ambitious, go-getting",
-      "english": ["enterprising", "ambitious"],
+      "english": [
+        {
+          "id": "pi97bg5b",
+          "word": "enterprising",
+          "meaning": "ambitious and resourceful",
+          "note": "Use this when the emphasis is on ambition and striving for advancement, especially in work or business."
+        },
+        {
+          "id": "mk5zrhvo",
+          "word": "ambitious",
+          "meaning": "personally ambitious",
+          "note": "Use this for a person whose ambition is viewed positively as enterprising and self-improving."
+        }
+      ],
       "examples": [
         {
           "english": "They are very enterprising at work and actively seek promotion every year.",
@@ -22,7 +35,14 @@
     },
     {
       "meaning": "aggressive (investment strategy)",
-      "english": ["aggressive"],
+      "english": [
+        {
+          "id": "isuycj7r",
+          "word": "aggressive",
+          "meaning": "high-risk, high-return",
+          "note": "Use this for an aggressive investment or business strategy aiming for high returns despite higher risk."
+        }
+      ],
       "examples": [
         {
           "english": "This fund has a more aggressive investment strategy.",

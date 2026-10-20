@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "storm drain",
-      "english": ["drain"],
+      "english": [
+        {
+          "id": "8st0f1sz",
+          "word": "drain",
+          "meaning": "storm drain",
+          "note": "Use this specifically for a channel or access point that carries rainwater away to prevent flooding."
+        }
+      ],
       "examples": [
         {
           "english": "During heavy rain, the storm drain helps drain water off the road.",

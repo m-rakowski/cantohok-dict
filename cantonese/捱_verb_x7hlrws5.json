@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "endure hardship",
-      "english": ["endure", "undergo"],
+      "english": [
+        {
+          "id": "kuu5wsiw",
+          "word": "endure",
+          "meaning": "last",
+          "note": "Use this for getting through prolonged hardship or for something lasting under difficult conditions, rather than for neutral continuation."
+        },
+        {
+          "id": "ifupcw74",
+          "word": "undergo",
+          "meaning": "suffer; endure",
+          "register": "colloquial",
+          "note": "Use this colloquially when the emphasis is on enduring hardship, pain, or difficulty."
+        }
+      ],
       "examples": [
         {
           "english": "Once we endure this most difficult period, things will be fine.",

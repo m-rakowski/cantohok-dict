@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "slack, idle",
-      "english": ["indolent", "slack"],
+      "english": [
+        {
+          "id": "as1gdgil",
+          "word": "indolent",
+          "meaning": "lazy, idle",
+          "note": "Use this when the person is habitually slack, idle, or lacking energy and discipline rather than simply unwilling to do one task."
+        },
+        {
+          "id": "ggli088y",
+          "word": "slack",
+          "meaning": "lazy or careless",
+          "note": "Use this for a person or work attitude that is lazy, careless, or lacking in diligence."
+        }
+      ],
       "examples": [
         {
           "english": "On holidays, I become so indolent that I do not even want to leave the house.",

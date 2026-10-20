@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "format",
-      "english": ["format", "style"],
+      "english": [
+        {
+          "id": "khf3e8v9",
+          "word": "format",
+          "meaning": "file format",
+          "note": "Use this as the all-purpose choice for a document layout, a presentation format, or a file format."
+        },
+        {
+          "id": "gzqqgh7s",
+          "word": "style",
+          "meaning": "text formatting style",
+          "note": "Use this for a document or text format such as boldface, italics, or other visual formatting."
+        }
+      ],
       "examples": [
         {
           "english": "The format of this document needs to follow the company's requirements.",

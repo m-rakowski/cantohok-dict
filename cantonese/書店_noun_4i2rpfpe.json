@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "bookshop",
-      "english": ["bookstore", "bookshop"],
+      "english": [
+        {
+          "id": "estqmiax",
+          "word": "bookstore",
+          "meaning": "bookshop",
+          "note": "This is the all-purpose Cantonese word for a store where books are bought and sold."
+        },
+        {
+          "id": "6fyn1c3a",
+          "word": "bookshop",
+          "meaning": "shop that sells books",
+          "note": "This is the all-purpose everyday word for a shop that sells books."
+        }
+      ],
       "examples": [
         {
           "english": "This bookstore has lots of comics.",

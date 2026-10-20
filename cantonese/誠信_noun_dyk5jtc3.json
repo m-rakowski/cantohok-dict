@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "honesty, integrity",
-      "english": ["honesty", "truthfulness"],
+      "english": [
+        {
+          "id": "05pr3088",
+          "word": "honesty",
+          "meaning": "quality of being honest",
+          "note": "This is the all-purpose noun for honesty, integrity, and trustworthiness."
+        },
+        {
+          "id": "fnmf2etd",
+          "word": "truthfulness",
+          "meaning": "being truthful",
+          "note": "This is the all-purpose noun for a person's honesty and truthfulness."
+        }
+      ],
       "examples": [
         {
           "english": "I place great importance on having honesty.",

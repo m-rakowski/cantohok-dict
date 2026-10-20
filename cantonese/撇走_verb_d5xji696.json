@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "remove scum from liquid",
-      "english": ["skim"],
+      "english": [
+        {
+          "id": "ddlim006",
+          "word": "skim",
+          "meaning": "remove scum from liquid",
+          "note": "Use this when removing scum, fat, or other floating material from the surface of a liquid, especially while cooking."
+        }
+      ],
       "examples": [
         {
           "english": "When making soup, use a spoon to skim the oil off the surface.",

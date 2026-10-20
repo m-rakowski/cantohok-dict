@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "synthetic resin",
-      "english": ["resin"],
+      "english": [
+        {
+          "id": "082w171z",
+          "word": "resin",
+          "meaning": "synthetic resin",
+          "note": "Use this when you specifically mean synthetic resin rather than resin in general."
+        }
+      ],
       "examples": [
         {
           "english": "This plastic box is made of synthetic resin.",

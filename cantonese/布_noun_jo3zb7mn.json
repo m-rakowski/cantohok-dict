@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "cloth, fabric",
-      "english": ["cloth", "fabric"],
+      "english": [
+        {
+          "id": "oax69adg",
+          "word": "cloth",
+          "meaning": "fabric/material",
+          "note": "This is the all-purpose noun for cloth or fabric in general."
+        },
+        {
+          "id": "3kuriyqy",
+          "word": "fabric",
+          "meaning": "cloth material",
+          "register": "colloquial",
+          "note": "Use this casual shorter word when referring to the physical cloth itself."
+        }
+      ],
       "examples": [
         {
           "english": "I bought some cloth to make curtains.",

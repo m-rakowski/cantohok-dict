@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "sausage",
-      "english": ["sausage", "link"],
+      "english": [
+        {
+          "id": "hr3ey6k4",
+          "word": "sausage",
+          "meaning": "food sausage",
+          "note": "This is the all-purpose term for sausage as food, including a single item."
+        },
+        {
+          "id": "czclljyv",
+          "word": "link",
+          "meaning": "sausage",
+          "note": "Use this for the ordinary sausage-shaped food rather than a patty."
+        }
+      ],
       "examples": [
         {
           "english": "I had sausage for breakfast.",

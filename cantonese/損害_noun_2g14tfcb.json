@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "damage, harm",
-      "english": ["detriment", "harm"],
+      "english": [
+        {
+          "id": "t6etbqrj",
+          "word": "detriment",
+          "meaning": "harm; damage",
+          "register": "formal, written",
+          "note": "Use this for damage to property, interests, reputation, or other concrete things, especially in formal contexts."
+        },
+        {
+          "id": "gjpbuglf",
+          "word": "harm",
+          "meaning": "physical injury or damage",
+          "register": "formal",
+          "note": "Use this for material or property damage rather than a bodily wound."
+        }
+      ],
       "examples": [
         {
           "english": "This scandal was a serious detriment to the company’s reputation.",

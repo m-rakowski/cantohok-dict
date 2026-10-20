@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "sticking plaster",
-      "english": ["plaster", "bandage", "patch"],
+      "english": [
+        {
+          "id": "gjiqee51",
+          "word": "plaster",
+          "meaning": "adhesive bandage",
+          "note": "This is the everyday all-purpose term for a small sticking plaster."
+        },
+        {
+          "id": "swvfe8nz",
+          "word": "bandage",
+          "meaning": "wound dressing",
+          "note": "Use this for the adhesive-strip type of wound dressing rather than a bandage wrapped around the body."
+        },
+        {
+          "id": "isbkav1l",
+          "word": "patch",
+          "meaning": "wound dressing",
+          "register": "colloquial",
+          "note": "Use this for an adhesive strip or plaster covering a wound rather than for a general repair patch."
+        }
+      ],
       "examples": [
         {
           "english": "You’ve cut your finger; just put on a plaster.",

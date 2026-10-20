@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "website visit",
-      "english": ["hit"],
+      "english": [
+        {
+          "id": "fevczvzq",
+          "word": "hit",
+          "meaning": "website visit",
+          "note": "Use 瀏覽量 for the number of visits or requests recorded for a website."
+        }
+      ],
       "examples": [
         {
           "english": "The video received over one hundred thousand hit requests in a day.",

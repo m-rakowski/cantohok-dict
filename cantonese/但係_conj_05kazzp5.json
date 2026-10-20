@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "but",
-      "english": ["but", "yet", "whereas"],
+      "english": [
+        {
+          "id": "25v6u6pc",
+          "word": "but",
+          "meaning": "although; however",
+          "note": "This is the all-purpose colloquial choice for contrasting one clause or idea with another."
+        },
+        {
+          "id": "6mrfhv12",
+          "word": "yet",
+          "meaning": "but; nevertheless",
+          "note": "This is the all-purpose colloquial choice for contrasting one clause with another."
+        },
+        {
+          "id": "0wjll0e6",
+          "word": "whereas",
+          "meaning": "contrastive conjunction",
+          "note": "This is the all-purpose spoken choice for contrasting one clause with another."
+        }
+      ],
       "examples": [
         {
           "english": "I want to go, but it's raining today.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "play, have fun",
-      "english": ["play", "frolic"],
+      "english": [
+        {
+          "id": "qqey4ip7",
+          "word": "play",
+          "meaning": "have fun",
+          "note": "This is the all-purpose colloquial choice for having fun or fooling around, and it can also mean casually playing an instrument as a hobby."
+        },
+        {
+          "id": "7kvosysh",
+          "word": "frolic",
+          "meaning": "behave playfully",
+          "note": "This is the all-purpose colloquial choice when people or animals are having carefree, playful fun."
+        }
+      ],
       "examples": [
         {
           "english": "I play the guitar when I have free time.",

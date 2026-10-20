@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "ferry service",
-      "english": ["ferry"],
+      "english": [
+        {
+          "id": "o4r4mlxs",
+          "word": "ferry",
+          "meaning": "ferry service",
+          "note": "Use 渡輪服務 when referring to the ferry service rather than to an individual boat."
+        }
+      ],
       "examples": [
         {
           "english": "This ferry service starts at six in the morning.",

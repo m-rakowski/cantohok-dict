@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "state, condition",
-      "english": ["state", "condition", "status"],
+      "english": [
+        {
+          "id": "et5inqj1",
+          "word": "state",
+          "meaning": "condition, situation",
+          "note": "This is the all-purpose choice for a person’s, thing’s, or situation’s condition, including a bad condition and a physical state."
+        },
+        {
+          "id": "jkdhfpcg",
+          "word": "condition",
+          "meaning": "patient's health status",
+          "note": "Use 狀態 as the all-purpose choice for a general state or quality, including a broad description of someone's health."
+        },
+        {
+          "id": "o8q29pcs",
+          "word": "status",
+          "meaning": "current state; situation",
+          "note": "Use this for the current condition or operating state of a person, system, or thing rather than the wider situation."
+        }
+      ],
       "examples": [
         {
           "english": "The phone is in a very bad state now.",
@@ -27,7 +46,20 @@
     },
     {
       "meaning": "good performing form, being in the zone",
-      "english": ["form", "zone"],
+      "english": [
+        {
+          "id": "8gkgud2l",
+          "word": "form",
+          "meaning": "condition, performance",
+          "note": "Use this for someone's or a team's current level of performance or condition, especially in sports."
+        },
+        {
+          "id": "ohsdnx6i",
+          "word": "zone",
+          "meaning": "in the zone",
+          "note": "Use this for the high-focus performance state meant by being in the zone, often with 入 or 進入."
+        }
+      ],
       "examples": [
         {
           "english": "They've been in great form lately, winning five games in a row.",

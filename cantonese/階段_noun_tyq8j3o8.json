@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "stage, phase",
-      "english": ["stage", "phase", "step"],
+      "english": [
+        {
+          "id": "3rfbn0y7",
+          "word": "stage",
+          "meaning": "phase",
+          "note": "This is the all-purpose choice for a phase or point in a process."
+        },
+        {
+          "id": "9vb7gqw7",
+          "word": "phase",
+          "meaning": "stage in a cycle",
+          "note": "Use 階段 as the all-purpose choice for a phase understood as a stage in a process or cycle."
+        },
+        {
+          "id": "te41hyyy",
+          "word": "step",
+          "meaning": "stage or phase",
+          "note": "Use this for a distinct stage or phase in a process; it is the all-purpose choice for this sense."
+        }
+      ],
       "examples": [
         {
           "english": "This project is now entering its second stage.",

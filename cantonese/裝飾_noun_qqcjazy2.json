@@ -6,7 +6,33 @@
   "boxes": [
     {
       "meaning": "decoration",
-      "english": ["ornament", "flourish", "adornment", "decoration"],
+      "english": [
+        {
+          "id": "8fsge0ci",
+          "word": "ornament",
+          "meaning": "decoration; decorative object",
+          "note": "Use 裝飾 as the all-purpose choice for decoration in general, especially a decorative element or quality rather than a specific object."
+        },
+        {
+          "id": "e1i5jjyg",
+          "word": "flourish",
+          "meaning": "ornamental addition",
+          "note": "Use this as the all-purpose noun for a physical ornamental addition; use the other choices for a gesture or a signature-specific stroke."
+        },
+        {
+          "id": "w2wca3xk",
+          "word": "adornment",
+          "meaning": "decoration; decorative thing",
+          "register": "formal",
+          "note": "This is the broad, all-purpose noun for adornment or decoration, especially in more formal or written contexts."
+        },
+        {
+          "id": "ab2bk9fp",
+          "word": "decoration",
+          "meaning": "adornment, decoration",
+          "note": "This is the all-purpose noun for decoration as ornamentation or the overall act and effect of adorning something."
+        }
+      ],
       "examples": [
         {
           "english": "The wooden elements serve as ornament and make the room feel much more comfortable.",

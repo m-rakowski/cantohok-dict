@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "can't stand it, unbearable",
-      "english": ["unbearable", "fed up"],
+      "english": [
+        {
+          "id": "mmfum4ac",
+          "word": "unbearable",
+          "meaning": "unendurable; too painful or unpleasant",
+          "register": "colloquial",
+          "note": "This is the all-purpose colloquial choice when something is too painful or unpleasant to put up with."
+        },
+        {
+          "id": "9wazho7x",
+          "word": "fed up",
+          "meaning": "frustrated; tired of",
+          "register": "colloquial",
+          "note": "Choose this when the annoyance feels unbearable or you want to stress that you cannot put up with it."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

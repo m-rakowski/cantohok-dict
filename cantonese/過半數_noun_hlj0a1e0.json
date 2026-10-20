@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "more than half",
-      "english": ["majority"],
+      "english": [
+        {
+          "id": "lro7aqps",
+          "word": "majority",
+          "meaning": "more than half",
+          "note": "Use this when you need to state explicitly that the number is over 50%, rather than simply saying most."
+        }
+      ],
       "examples": [
         {
           "english": "A majority of people chose this plan in the vote.",

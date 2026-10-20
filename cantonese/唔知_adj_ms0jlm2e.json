@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "don't know, unaware",
-      "english": ["ignorant", "unaware"],
+      "english": [
+        {
+          "id": "xqmbubrr",
+          "word": "ignorant",
+          "meaning": "unaware, not knowing",
+          "note": "Use this as the everyday all-purpose choice when someone is unaware of a fact or situation."
+        },
+        {
+          "id": "mdxty43a",
+          "word": "unaware",
+          "meaning": "not knowing",
+          "note": "Use 唔知 as the all-purpose everyday choice when someone lacks information or is unaware of a fact."
+        }
+      ],
       "examples": [
         {
           "english": "I am ignorant of whether he took leave today.",

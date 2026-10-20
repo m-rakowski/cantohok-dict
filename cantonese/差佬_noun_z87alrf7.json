@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "cop (casual, blunt)",
-      "english": ["police officer", "policeman"],
+      "english": [
+        {
+          "id": "hoyjj87w",
+          "word": "police officer",
+          "meaning": "police officer",
+          "register": "colloquial",
+          "note": "Choose 差佬 in casual conversation when referring informally, and sometimes bluntly, to a police officer."
+        },
+        {
+          "id": "xna6vo7p",
+          "word": "policeman",
+          "meaning": "police officer",
+          "register": "colloquial",
+          "note": "Use this colloquial, sometimes mildly derogatory term specifically for a male police officer."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

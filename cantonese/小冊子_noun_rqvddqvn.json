@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "booklet, pamphlet",
-      "english": ["booklet", "brochure", "tract"],
+      "english": [
+        {
+          "id": "3liifo6n",
+          "word": "booklet",
+          "meaning": "small thin book",
+          "note": "This is the all-purpose noun for a small or thin book."
+        },
+        {
+          "id": "g709ho3q",
+          "word": "brochure",
+          "meaning": "informational booklet",
+          "note": "This is the all-purpose noun for an informational or promotional brochure."
+        },
+        {
+          "id": "b0fkm1xk",
+          "word": "tract",
+          "meaning": "pamphlet",
+          "note": "Use this as the all-purpose choice for a small informational booklet or a short written treatise."
+        }
+      ],
       "examples": [
         {
           "english": "This booklet is about Hong Kong history.",

@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "bold, daring",
-      "english": ["bold", "adventurous", "gutsy", "brave", "courageous"],
+      "english": [
+        {
+          "id": "eho4g7o4",
+          "word": "bold",
+          "meaning": "courageous, daring",
+          "note": "This is the all-purpose choice for courageous or risk-taking boldness, and for the “you've got nerve” shade of impudence."
+        },
+        {
+          "id": "q9nzvyke",
+          "word": "adventurous",
+          "meaning": "willing to take risks",
+          "note": "Use this as the all-purpose choice for a person, idea, or action that is bold and willing to take risks."
+        },
+        {
+          "id": "e2q06im7",
+          "word": "gutsy",
+          "meaning": "courageous, bold",
+          "note": "This is the all-purpose choice for someone bold or gutsy in a difficult situation."
+        },
+        {
+          "id": "cx94w562",
+          "word": "brave",
+          "meaning": "courageous",
+          "note": "Use this when the bravery involves taking risks or acting boldly, sometimes with a hint of recklessness."
+        },
+        {
+          "id": "bl4doab5",
+          "word": "courageous",
+          "meaning": "requiring courage",
+          "note": "Use this for an action, decision, or plan that is bold or daring rather than merely brave."
+        }
+      ],
       "examples": [
         {
           "english": "You’re bold enough to hike alone at night.",

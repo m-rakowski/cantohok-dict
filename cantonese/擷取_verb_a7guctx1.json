@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "copy music/files",
-      "english": ["rip"],
+      "english": [
+        {
+          "id": "6tiwtrn0",
+          "word": "rip",
+          "meaning": "copy music/files",
+          "note": "Use 擷取 specifically for copying audio, video, or other digital data from a disc, stream, or similar source onto a device."
+        }
+      ],
       "examples": [
         {
           "english": "I rip the livestream onto my hard drive with my computer.",

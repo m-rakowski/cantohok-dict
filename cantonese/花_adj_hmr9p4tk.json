@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "scratched, marked",
-      "english": ["damaged"],
+      "english": [
+        {
+          "id": "rsoe06qu",
+          "word": "damaged",
+          "meaning": "suffered damage",
+          "note": "Use this for a surface that is scratched, scuffed, or otherwise marked by damage."
+        }
+      ],
       "examples": [
         {
           "english": "The screen on your phone is damaged.",
@@ -17,7 +24,14 @@
     },
     {
       "meaning": "too busy or cluttered in pattern",
-      "english": ["busy"],
+      "english": [
+        {
+          "id": "p9ths377",
+          "word": "busy",
+          "meaning": "visually cluttered",
+          "note": "Use this for a visually busy or overly elaborate pattern, not for a person's workload."
+        }
+      ],
       "examples": [
         {
           "english": "The pattern on this wallpaper is too busy.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "sign, board",
-      "english": ["sign"],
+      "english": [
+        {
+          "id": "k38pw3t1",
+          "word": "sign",
+          "meaning": "notice; signboard",
+          "note": "Use 牌 as the all-purpose noun for a physical sign or board displaying words or pictures."
+        }
+      ],
       "examples": [
         {
           "english": "The sign at the entrance says we are closed today.",
@@ -17,7 +24,14 @@
     },
     {
       "meaning": "game tile",
-      "english": ["tile"],
+      "english": [
+        {
+          "id": "vsz0i6di",
+          "word": "tile",
+          "meaning": "game tile",
+          "note": "Use this for a playing tile when the game context is clear."
+        }
+      ],
       "examples": [
         {
           "english": "When playing mahjong, don't move another player's tile.",

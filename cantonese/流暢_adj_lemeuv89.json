@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "smooth, flowing",
-      "english": ["fluid", "fluent", "liquid"],
+      "english": [
+        {
+          "id": "743l6vwa",
+          "word": "fluid",
+          "meaning": "smooth, flowing movement",
+          "note": "Use this for movement, performance, or motion that proceeds smoothly and gracefully."
+        },
+        {
+          "id": "panm3ayc",
+          "word": "fluent",
+          "meaning": "flowing, liquid",
+          "register": "written",
+          "note": "Use this for flowing, smooth handwriting or writing style rather than a person's language ability."
+        },
+        {
+          "id": "2ity30oo",
+          "word": "liquid",
+          "meaning": "smooth, flowing sound",
+          "note": "Use this for music, speech, or another sound that flows smoothly without abrupt or harsh transitions."
+        }
+      ],
       "examples": [
         {
           "english": "Their dance movements are fluid and easy to watch.",

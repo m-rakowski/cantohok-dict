@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "regard A as B",
-      "english": ["regard", "view", "deem"],
+      "english": [
+        {
+          "id": "n7wagqyp",
+          "word": "regard",
+          "meaning": "consider as",
+          "note": "This is the all-purpose spoken construction for considering A to be B."
+        },
+        {
+          "id": "ny8ts7jd",
+          "word": "view",
+          "meaning": "regard as",
+          "note": "Use this construction when regarding A as B, rather than simply looking at A."
+        },
+        {
+          "id": "mrc3optw",
+          "word": "deem",
+          "meaning": "judge/consider to be",
+          "note": "Use this when explicitly regarding or treating A as being B."
+        }
+      ],
       "examples": [
         {
           "english": "We regard him as one of our own.",
@@ -27,7 +46,15 @@
     },
     {
       "meaning": "suppose A is B",
-      "english": ["presuppose"],
+      "english": [
+        {
+          "id": "2rbwj8ze",
+          "word": "presuppose",
+          "meaning": "assume without proof",
+          "register": "colloquial",
+          "note": "Use this conversational construction when treating A as if it were B for the purpose of an argument or calculation."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "firm and final",
-      "english": ["utter", "unequivocal", "decisive"],
+      "english": [
+        {
+          "id": "41alw1yf",
+          "word": "utter",
+          "meaning": "definite; unconditional",
+          "note": "Use this for a decision or reply that is firm, definite, and leaves no room for qualification."
+        },
+        {
+          "id": "ilbi5vs9",
+          "word": "unequivocal",
+          "meaning": "unambiguous; clear",
+          "register": "colloquial",
+          "note": "Use this when a statement, answer, or decision is categorical and firm rather than hesitant or qualified."
+        },
+        {
+          "id": "wo9odiip",
+          "word": "decisive",
+          "meaning": "resolute, decisive",
+          "note": "Use this when a statement, answer, or decision is expressed in an unequivocal, firm way rather than merely being effective."
+        }
+      ],
       "examples": [
         {
           "english": "When the manager asked whether they would work overtime, they gave an utter refusal: “No, that’s not negotiable.”",

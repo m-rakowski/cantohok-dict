@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "physical injury",
-      "english": ["trauma"],
+      "english": [
+        {
+          "id": "pmiqv8p2",
+          "word": "trauma",
+          "meaning": "physical injury",
+          "note": "This is the all-purpose term for a physical injury, especially in medical contexts."
+        }
+      ],
       "examples": [
         {
           "english": "The emergency-room doctor said the trauma to my leg wasn’t serious.",

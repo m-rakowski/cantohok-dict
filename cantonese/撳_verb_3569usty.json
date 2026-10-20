@@ -6,7 +6,35 @@
   "boxes": [
     {
       "meaning": "press a button",
-      "english": ["click", "press", "punch", "hit"],
+      "english": [
+        {
+          "id": "ods9gjsd",
+          "word": "click",
+          "meaning": "mouse button press",
+          "note": "This is the all-purpose spoken choice for pressing a button or clicking a computer item, link, or website."
+        },
+        {
+          "id": "dpcuer1v",
+          "word": "press",
+          "meaning": "push button/key",
+          "register": "colloquial",
+          "note": "Use this specifically for pressing or activating a button, key, or switch."
+        },
+        {
+          "id": "tfheoufv",
+          "word": "punch",
+          "meaning": "press a button/key",
+          "register": "colloquial",
+          "note": "Use this for pressing or operating a button, key, switch, or similar control."
+        },
+        {
+          "id": "kbqk4ghq",
+          "word": "hit",
+          "meaning": "press a key or button",
+          "register": "colloquial",
+          "note": "Use this for pressing and releasing a key, button, or switch."
+        }
+      ],
       "examples": [
         {
           "english": "You can click this button to open the website.",

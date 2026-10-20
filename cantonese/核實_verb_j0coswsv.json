@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "verify, check facts",
-      "english": ["confirm", "prove"],
+      "english": [
+        {
+          "id": "g6pgrvsd",
+          "word": "confirm",
+          "meaning": "verify, make sure",
+          "register": "formal",
+          "note": "Use this when specifically verifying facts, records, or a previous statement."
+        },
+        {
+          "id": "mf96p27a",
+          "word": "prove",
+          "meaning": "verify",
+          "note": "Use this when checking or establishing that information, a document, or a fact is genuine or valid."
+        }
+      ],
       "examples": [
         {
           "english": "This office will confirm the information provided by the applicant.",

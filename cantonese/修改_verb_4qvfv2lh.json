@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "to revise, edit",
-      "english": ["revise", "review"],
+      "english": [
+        {
+          "id": "clsm7sto",
+          "word": "revise",
+          "meaning": "edit and amend",
+          "note": "Use this as the all-purpose verb for reviewing and changing written material."
+        },
+        {
+          "id": "uru2wyrg",
+          "word": "review",
+          "meaning": "revise; check again",
+          "note": "Use this when reviewing something leads to correcting, editing, or revising it."
+        }
+      ],
       "examples": [
         {
           "english": "I need to revise the report.",

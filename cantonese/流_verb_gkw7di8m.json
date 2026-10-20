@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "to flow",
-      "english": ["flow", "stream", "shed", "run", "roll"],
+      "english": [
+        {
+          "id": "88eyetp6",
+          "word": "flow",
+          "meaning": "move as a fluid",
+          "note": "This is the all-purpose verb when a liquid, river, or stream moves from one place to another."
+        },
+        {
+          "id": "wx3tktta",
+          "word": "stream",
+          "meaning": "flow steadily",
+          "note": "Use 流 as the all-purpose verb for liquid moving continuously, including blood when no outward direction is emphasized."
+        },
+        {
+          "id": "i6j6vpiz",
+          "word": "shed",
+          "meaning": "give off / let flow",
+          "note": "Use this for tears, blood, or other liquid flowing out, as in 流眼淚."
+        },
+        {
+          "id": "tes2ktxb",
+          "word": "run",
+          "meaning": "flow",
+          "note": "Use this when a liquid flows or comes out of something, as in a river flowing or a nose running."
+        },
+        {
+          "id": "5m8e09hd",
+          "word": "roll",
+          "meaning": "move on steadily",
+          "note": "Use 流 for water or liquid moving steadily onward or trickling down a surface."
+        }
+      ],
       "examples": [
         {
           "english": "I watched the water flow down from the mountain.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "drive a vehicle",
-      "english": ["steer"],
+      "english": [
+        {
+          "id": "xhoigj2x",
+          "word": "steer",
+          "meaning": "guide a vehicle",
+          "note": "This is the all-purpose colloquial choice for physically steering or driving a vehicle."
+        }
+      ],
       "examples": [
         {
           "english": "I can steer, but I can't park.",
@@ -17,7 +24,15 @@
     },
     {
       "meaning": "hold or handle with the hands",
-      "english": ["handle"],
+      "english": [
+        {
+          "id": "kbtb1kp8",
+          "word": "handle",
+          "meaning": "touch or hold",
+          "register": "colloquial",
+          "note": "Use this for physically holding, handling, or wielding something with the hands, especially an object such as a tool or weapon."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

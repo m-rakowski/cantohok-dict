@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "intelligence, mental ability",
-      "english": ["intelligence", "intellect"],
+      "english": [
+        {
+          "id": "0owl5xqu",
+          "word": "intelligence",
+          "meaning": "mental ability",
+          "note": "Use this for general mental ability, rather than an IQ score or a person's quick wit."
+        },
+        {
+          "id": "e61qytz5",
+          "word": "intellect",
+          "meaning": "faculty of reasoning",
+          "note": "This is the all-purpose choice for a person's reasoning ability or intellectual capacity."
+        }
+      ],
       "examples": [
         {
           "english": "Children's intelligence development is very important.",

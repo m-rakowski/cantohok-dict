@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "print run",
-      "english": ["edition"],
+      "english": [
+        {
+          "id": "e0o0k6gr",
+          "word": "edition",
+          "meaning": "print run",
+          "note": "Use this specifically for the number of copies printed in one run."
+        }
+      ],
       "examples": [
         {
           "english": "This reprint edition has a print run of only five hundred copies.",

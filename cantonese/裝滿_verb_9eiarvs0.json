@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "to fill up",
-      "english": ["fill", "brim"],
+      "english": [
+        {
+          "id": "n9jhdwt0",
+          "word": "fill",
+          "meaning": "make full by adding",
+          "note": "Use this as the all-purpose choice for putting enough contents into a container, or for saying that it ends up full."
+        },
+        {
+          "id": "qxs3nvs9",
+          "word": "brim",
+          "meaning": "fill to the brim",
+          "note": "Use 裝滿 as the all-purpose spoken choice for filling a container completely, including up to its brim."
+        }
+      ],
       "examples": [
         {
           "english": "I’ll fill your water bottle with water.",

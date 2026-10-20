@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "the delivered item",
-      "english": ["delivery"],
+      "english": [
+        {
+          "id": "m5ie14j3",
+          "word": "delivery",
+          "meaning": "the delivered item",
+          "note": "Use 貨件 for the physical shipment or item being delivered, rather than the act of delivering it."
+        }
+      ],
       "examples": [
         {
           "english": "The delivery I received is slightly damaged.",

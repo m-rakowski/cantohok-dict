@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "glaring light",
-      "english": ["dazzle", "glare"],
+      "english": [
+        {
+          "id": "dc4mctzd",
+          "word": "dazzle",
+          "meaning": "dazzling light",
+          "note": "This is the all-purpose choice for a physically dazzling or glaring light."
+        },
+        {
+          "id": "anftt3wk",
+          "word": "glare",
+          "meaning": "blinding light",
+          "note": "Use this as the all-purpose noun for an intense light that hurts the eyes."
+        }
+      ],
       "examples": [
         {
           "english": "Once the headlights shone over, the whole room was filled with the dazzle of their light.",

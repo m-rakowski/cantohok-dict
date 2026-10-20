@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "food grown without chemicals",
-      "english": ["organic"],
+      "english": [
+        {
+          "id": "7oh6rd1b",
+          "word": "organic",
+          "meaning": "food grown without chemicals",
+          "note": "This is the all-purpose choice for things derived from living organisms, carbon compounds, and food grown without artificial chemicals."
+        }
+      ],
       "examples": [
         {
           "english": "These vegetables are organic and grown without chemical pesticides.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "automatic flight control",
-      "english": ["autopilot"],
+      "english": [
+        {
+          "id": "ay9mkx5h",
+          "word": "autopilot",
+          "meaning": "automatic flight control",
+          "note": "This is the all-purpose term for the mechanical system that controls a vehicle without a human continuously steering it."
+        }
+      ],
       "examples": [
         {
           "english": "The airplane's autopilot broke, so the pilot had to control it himself.",

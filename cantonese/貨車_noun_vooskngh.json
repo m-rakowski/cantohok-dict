@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "goods truck, lorry",
-      "english": ["truck", "lorry"],
+      "english": [
+        {
+          "id": "1paabb25",
+          "word": "truck",
+          "meaning": "lorry / goods vehicle",
+          "note": "This is the all-purpose Hong Kong word for a lorry or goods truck."
+        },
+        {
+          "id": "o69z11en",
+          "word": "lorry",
+          "meaning": "goods truck",
+          "note": "This is the all-purpose Cantonese noun for a lorry or truck used to carry goods."
+        }
+      ],
       "examples": [
         {
           "english": "That goods truck already delivered the goods to the warehouse this morning.",

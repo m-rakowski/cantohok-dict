@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "basement",
-      "english": ["basement", "cellar"],
+      "english": [
+        {
+          "id": "dsjm1xea",
+          "word": "basement",
+          "meaning": "floor below ground",
+          "note": "This is the all-purpose Cantonese noun for a floor or level of a building below ground."
+        },
+        {
+          "id": "ak8hoad6",
+          "word": "cellar",
+          "meaning": "basement",
+          "note": "Use this for the basement level or underground part of a building, rather than a storage cellar."
+        }
+      ],
       "examples": [
         {
           "english": "We parked our car in the basement.",

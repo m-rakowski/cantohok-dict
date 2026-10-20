@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "lonely",
-      "english": ["lonely", "alone"],
+      "english": [
+        {
+          "id": "7i7hbxxl",
+          "word": "lonely",
+          "meaning": "feeling alone",
+          "note": "This is the all-purpose choice for feeling lonely or alone, especially when lacking companionship."
+        },
+        {
+          "id": "ke0i088e",
+          "word": "alone",
+          "meaning": "by oneself",
+          "note": "Choose this when being alone highlights a feeling of loneliness or emotional isolation rather than simple physical solitude."
+        }
+      ],
       "examples": [
         {
           "english": "I live alone, so I often feel lonely.",

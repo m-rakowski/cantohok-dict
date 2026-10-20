@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "impartial, just",
-      "english": ["impartial", "independent", "objective"],
+      "english": [
+        {
+          "id": "r0rx0a6x",
+          "word": "impartial",
+          "meaning": "fair; unbiased",
+          "note": "Use this especially for a judge, ruling, decision, or institution that is impartial and just."
+        },
+        {
+          "id": "q2ya6yl9",
+          "word": "independent",
+          "meaning": "unbiased; self-directing",
+          "note": "Use this when independent means unbiased or impartial, especially when judging or making a decision."
+        },
+        {
+          "id": "rag5d7rb",
+          "word": "objective",
+          "meaning": "unbiased",
+          "note": "Use this when objective means unbiased and the emphasis is on being impartial or fair rather than simply fact-based."
+        }
+      ],
       "examples": [
         {
           "english": "The judge made an impartial ruling, and both sides accepted it.",

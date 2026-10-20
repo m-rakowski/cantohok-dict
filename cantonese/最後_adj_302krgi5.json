@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "last, final",
-      "english": ["final", "ultimate", "net"],
+      "english": [
+        {
+          "id": "m49w8aco",
+          "word": "final",
+          "meaning": "last; ultimate",
+          "note": "This is the all-purpose choice for something last in sequence or for a final decision, judgment, or stage."
+        },
+        {
+          "id": "h4y06oz5",
+          "word": "ultimate",
+          "meaning": "final; last in a series",
+          "note": "Use 最後 as the all-purpose choice for something final or last in a sequence, including the last syllable of a word or utterance."
+        },
+        {
+          "id": "tub8yh2z",
+          "word": "net",
+          "meaning": "final, ultimate",
+          "note": "This is the all-purpose choice for something final or at the end, such as the final result."
+        }
+      ],
       "examples": [
         {
           "english": "This is the final train.",

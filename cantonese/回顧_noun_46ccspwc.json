@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "looking back, review of the past",
-      "english": ["retrospect", "retrospection"],
+      "english": [
+        {
+          "id": "ojruggah",
+          "word": "retrospect",
+          "meaning": "thinking back on the past",
+          "register": "formal, written",
+          "note": "This is the all-purpose noun for considering or reviewing the past, especially in formal or written contexts."
+        },
+        {
+          "id": "j4zv6fyx",
+          "word": "retrospection",
+          "meaning": "deliberate recall of the past",
+          "register": "formal",
+          "note": "Use this when the focus is deliberately looking back over past events as a whole."
+        }
+      ],
       "examples": [
         {
           "english": "In retrospect, we understand why we succeeded today.",

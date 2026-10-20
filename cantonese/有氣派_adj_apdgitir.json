@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "grand, imposing",
-      "english": ["stately", "noble", "distinguished", "magnificent"],
+      "english": [
+        {
+          "id": "8j95ub9z",
+          "word": "stately",
+          "meaning": "grand, impressive",
+          "note": "Use this for something grand, impressive, or imposing, especially a building, place, or person."
+        },
+        {
+          "id": "7yzzekcn",
+          "word": "noble",
+          "meaning": "grand, stately",
+          "note": "Use this for something grand, imposing, or stately in appearance, especially a building or setting."
+        },
+        {
+          "id": "wg7f17m2",
+          "word": "distinguished",
+          "meaning": "dignified-looking",
+          "note": "Use this for someone whose appearance or bearing is impressive, dignified, and suggesting status."
+        },
+        {
+          "id": "aswildfi",
+          "word": "magnificent",
+          "meaning": "splendid in appearance",
+          "note": "Use this for an imposing, grand-looking person, building, or style."
+        }
+      ],
       "examples": [
         {
           "english": "This building looks really stately, with its floor-to-ceiling windows and high ceilings.",

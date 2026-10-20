@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "manufacturing place",
-      "english": ["factory"],
+      "english": [
+        {
+          "id": "bs43y5ap",
+          "word": "factory",
+          "meaning": "manufacturing place",
+          "note": "Use this shorter form when the context already makes it clear that the place is a factory or industrial plant."
+        }
+      ],
       "examples": [
         {
           "english": "I’ll wait for you at the factory gate.",

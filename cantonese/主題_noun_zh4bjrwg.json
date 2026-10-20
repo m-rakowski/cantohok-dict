@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "main topic, theme",
-      "english": ["theme", "topic", "subject"],
+      "english": [
+        {
+          "id": "weqcwd2q",
+          "word": "theme",
+          "meaning": "topic / subject",
+          "note": "This is the all-purpose choice for a talk or artwork's topic, a recurring idea, or an app's selectable visual theme."
+        },
+        {
+          "id": "tpcr3gsm",
+          "word": "topic",
+          "meaning": "subject; theme",
+          "register": "formal",
+          "note": "Use this for the theme or general subject of a work, event, course, or area of interest, especially in more formal contexts."
+        },
+        {
+          "id": "31v1owxe",
+          "word": "subject",
+          "meaning": "main topic",
+          "note": "Use 主題 as the all-purpose choice when subject means the main topic of a discussion, work, or paper."
+        }
+      ],
       "examples": [
         {
           "english": "The theme of this talk is why we need to protect the oceans.",

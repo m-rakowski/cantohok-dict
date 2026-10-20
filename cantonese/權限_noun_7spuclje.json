@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "authority or permission to do something",
-      "english": ["jurisdiction", "access"],
+      "english": [
+        {
+          "id": "1txgf310",
+          "word": "jurisdiction",
+          "meaning": "authority / power",
+          "note": "Use this everyday term when the focus is on whether a person or organization has the power or authorization to act."
+        },
+        {
+          "id": "dqxasjps",
+          "word": "access",
+          "meaning": "computer/Internet access",
+          "note": "Use this for permission to access or use a computer system, program, or online resource."
+        }
+      ],
       "examples": [
         {
           "english": "I don't have the jurisdiction to approve this application.",

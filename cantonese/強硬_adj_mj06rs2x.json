@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "tough, firm, uncompromising",
-      "english": ["muscular", "tough"],
+      "english": [
+        {
+          "id": "nm9wggup",
+          "word": "muscular",
+          "meaning": "robust, forceful",
+          "note": "Use this for a policy, movement, or style that is forceful or tough rather than for someone's physique."
+        },
+        {
+          "id": "lcw5xtvv",
+          "word": "tough",
+          "meaning": "stubborn; persistent",
+          "note": "Use 強硬 for an uncompromising person, position, or policy, including strict or harsh measures rather than something merely difficult."
+        }
+      ],
       "examples": [
         {
           "english": "The government is taking a muscular approach to illegal parking this time.",

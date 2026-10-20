@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "area of authority",
-      "english": ["jurisdiction"],
+      "english": [
+        {
+          "id": "iogqzdu1",
+          "word": "jurisdiction",
+          "meaning": "area of authority",
+          "note": "Use this when jurisdiction means the territory or limits within which an authority can act."
+        }
+      ],
       "examples": [
         {
           "english": "This area is outside the court's jurisdiction.",

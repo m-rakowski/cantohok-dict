@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "computer hibernation mode",
-      "english": ["hibernation"],
+      "english": [
+        {
+          "id": "8acsdyxx",
+          "word": "hibernation",
+          "meaning": "computer hibernation mode",
+          "note": "Use this specifically for a computer’s power-saving hibernation mode, not ordinary sleep mode."
+        }
+      ],
       "examples": [
         {
           "english": "When I am not using the computer for a while, I turn on hibernation mode to save power.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "device electrical circuits",
-      "english": ["circuitry"],
+      "english": [
+        {
+          "id": "9394lq63",
+          "word": "circuitry",
+          "meaning": "device electrical circuits",
+          "note": "Use this when circuitry specifically refers to the design or arrangement of a device's circuits rather than the circuits themselves."
+        }
+      ],
       "examples": [
         {
           "english": "The circuitry design of this circuit board is very clever.",

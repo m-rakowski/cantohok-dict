@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "joke",
-      "english": ["joke", "laugh"],
+      "english": [
+        {
+          "id": "9ysboge3",
+          "word": "joke",
+          "meaning": "amusing story",
+          "note": "This is the all-purpose noun for an amusing story or something said as a joke rather than seriously."
+        },
+        {
+          "id": "6wqc8we5",
+          "word": "laugh",
+          "meaning": "something funny",
+          "note": "Use this for a joke or something ridiculous that makes people laugh."
+        }
+      ],
       "examples": [
         {
           "english": "The joke they told just now was really funny.",

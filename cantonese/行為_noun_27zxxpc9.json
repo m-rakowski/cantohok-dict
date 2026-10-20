@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "behaviour, conduct",
-      "english": ["act", "conduct", "manner"],
+      "english": [
+        {
+          "id": "cdwdnzvy",
+          "word": "act",
+          "meaning": "doing; action",
+          "note": "Use 行為 as the all-purpose noun for a deed, an action viewed as conduct, or a display of behaviour."
+        },
+        {
+          "id": "29mzbep9",
+          "word": "conduct",
+          "meaning": "behaviour, manner of behaving",
+          "note": "This is the all-purpose noun for a person's behaviour or manner of behaving."
+        },
+        {
+          "id": "siiupdg7",
+          "word": "manner",
+          "meaning": "manners, habits",
+          "note": "Use this for a person's observable conduct or characteristic behaviour, including strange habitual behaviour."
+        }
+      ],
       "examples": [
         {
           "english": "This kind of act is really selfish.",

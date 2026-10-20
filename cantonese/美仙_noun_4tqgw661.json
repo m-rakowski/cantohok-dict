@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "US cent coin",
-      "english": ["penny"],
+      "english": [
+        {
+          "id": "g6ljnlcy",
+          "word": "penny",
+          "meaning": "US cent coin",
+          "note": "Use this specifically for a US one-cent coin, rather than the UK coin name 便士."
+        }
+      ],
       "examples": [
         {
           "english": "I found a penny on the ground.",

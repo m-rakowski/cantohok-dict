@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "indirect reference, insinuation",
-      "english": ["allusion", "innuendo"],
+      "english": [
+        {
+          "id": "fqd54q9k",
+          "word": "allusion",
+          "meaning": "indirect reference; hint",
+          "note": "Use 影射 when the allusion indirectly points to a particular person, event, or target, often critically or satirically."
+        },
+        {
+          "id": "o9u3i7na",
+          "word": "innuendo",
+          "meaning": "derogatory insinuation",
+          "note": "Use this as the all-purpose noun for an indirect derogatory reference; it does not by itself specify a sexual meaning."
+        }
+      ],
       "examples": [
         {
           "english": "Everyone knew his article was an allusion to that corrupt legislator.",

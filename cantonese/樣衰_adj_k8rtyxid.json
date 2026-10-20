@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "ugly",
-      "english": ["ugly", "homely"],
+      "english": [
+        {
+          "id": "6apu7ae6",
+          "word": "ugly",
+          "meaning": "visually unattractive",
+          "note": "This is the all-purpose colloquial choice for someone or something that looks unattractive."
+        },
+        {
+          "id": "4wzkbfe5",
+          "word": "homely",
+          "meaning": "plain, unattractive",
+          "register": "colloquial",
+          "note": "Use 樣衰 for a person or appearance that is plainly unattractive, rather than for simple clothing or domestic details."
+        }
+      ],
       "examples": [
         {
           "english": "This shirt's design is really ugly.",

@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "police officer",
-      "english": ["officer", "police officer"],
+      "english": [
+        {
+          "id": "qdvdesbx",
+          "word": "officer",
+          "meaning": "authority figure / official",
+          "note": "Use this when officer means a police officer rather than an official in general."
+        },
+        {
+          "id": "8tbhftpe",
+          "word": "police officer",
+          "meaning": "police officer",
+          "register": "formal",
+          "note": "Choose 警員 in official, administrative, or news-style contexts for a police officer."
+        }
+      ],
       "examples": [
         {
           "english": "That police officer helped me find my phone.",

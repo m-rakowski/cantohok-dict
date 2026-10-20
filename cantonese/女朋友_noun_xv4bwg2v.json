@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "girlfriend",
-      "english": ["girlfriend", "girl"],
+      "english": [
+        {
+          "id": "w340e1xu",
+          "word": "girlfriend",
+          "meaning": "female romantic partner",
+          "note": "This is the all-purpose, neutral way to say a female romantic partner."
+        },
+        {
+          "id": "8y2m7d2h",
+          "word": "girl",
+          "meaning": "girlfriend",
+          "note": "Use this specifically for someone’s girlfriend rather than just any girl or young woman."
+        }
+      ],
       "examples": [
         {
           "english": "My girlfriend's birthday is tomorrow, so I plan to have dinner with her.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "at the same time",
-      "english": ["simultaneously", "whilst"],
+      "english": [
+        {
+          "id": "6qslklto",
+          "word": "simultaneously",
+          "meaning": "at the same time",
+          "note": "This is the all-purpose choice for events or actions occurring at the same time."
+        },
+        {
+          "id": "cnp6fgzb",
+          "word": "whilst",
+          "meaning": "while; during that time",
+          "note": "Use this when “whilst” means “meanwhile” or emphasizes that two things happen at the same time."
+        }
+      ],
       "examples": [
         {
           "english": "We simultaneously received two notices.",

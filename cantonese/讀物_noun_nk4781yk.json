@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "reading material",
-      "english": ["reading", "matter"],
+      "english": [
+        {
+          "id": "lllklt3i",
+          "word": "reading",
+          "meaning": "reading material",
+          "register": "written",
+          "note": "Use this when referring to material intended to be read rather than the activity of reading."
+        },
+        {
+          "id": "5fdsa3lu",
+          "word": "matter",
+          "meaning": "reading material",
+          "note": "Use this for something such as a book or magazine taken or used for reading."
+        }
+      ],
       "examples": [
         {
           "english": "This is reading material for children.",

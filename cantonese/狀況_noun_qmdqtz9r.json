@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "condition, situation",
-      "english": ["state", "shape"],
+      "english": [
+        {
+          "id": "0mp9523y",
+          "word": "state",
+          "meaning": "condition, situation",
+          "note": "Choose this when focusing on the circumstances or especially the good or bad situation, rather than the general condition itself."
+        },
+        {
+          "id": "gkrnnhnm",
+          "word": "shape",
+          "meaning": "condition, state",
+          "note": "Use this for the general condition or state of an object or situation, rather than specifically its shape or health."
+        }
+      ],
       "examples": [
         {
           "english": "Look at the state of the kitchen now.",

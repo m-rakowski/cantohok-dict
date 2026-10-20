@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "feeling dislike or aversion",
-      "english": ["averse", "allergic", "uncomfortable"],
+      "english": [
+        {
+          "id": "enz7zzcm",
+          "word": "averse",
+          "meaning": "opposed, unwilling",
+          "note": "Choose this when the aversion is mainly a feeling of dislike or repugnance toward something."
+        },
+        {
+          "id": "rn96xbpz",
+          "word": "allergic",
+          "meaning": "highly averse to",
+          "note": "Use this for strong emotional aversion, such as being allergic to homework in the figurative sense."
+        },
+        {
+          "id": "x7sf6abn",
+          "word": "uncomfortable",
+          "meaning": "disgusted or offended",
+          "note": "Choose this when the discomfort is specifically disgust or offense rather than general unease."
+        }
+      ],
       "examples": [
         {
           "english": "I am averse to the smell of cigarette smoke.",

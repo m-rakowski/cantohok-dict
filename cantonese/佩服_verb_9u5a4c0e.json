@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "to admire",
-      "english": ["admire", "marvel", "wonder"],
+      "english": [
+        {
+          "id": "b5ledjyq",
+          "word": "admire",
+          "meaning": "respect / look up to",
+          "register": "colloquial",
+          "note": "Choose this for strong respect, especially for someone’s ability, achievement, or character."
+        },
+        {
+          "id": "irhpve03",
+          "word": "marvel",
+          "meaning": "be amazed at",
+          "note": "Use this when marvelling mainly expresses admiration or respect for someone or something."
+        },
+        {
+          "id": "kt321pji",
+          "word": "wonder",
+          "meaning": "be amazed; marvel",
+          "note": "Use this for the admiration side of “wonder at,” especially when impressed by someone's ability or achievement."
+        }
+      ],
       "examples": [
         {
           "english": "I really admire you for making time to help people even when you are so busy",

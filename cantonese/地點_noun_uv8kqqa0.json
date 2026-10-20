@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "place, venue",
-      "english": ["site", "venue"],
+      "english": [
+        {
+          "id": "ld2l0zyi",
+          "word": "site",
+          "meaning": "place/location",
+          "note": "Use 地點 as the all-purpose word for a place or location, including a chosen site."
+        },
+        {
+          "id": "2vpupoou",
+          "word": "venue",
+          "meaning": "place for something",
+          "note": "Use this for the general location where something happens when the focus is simply on where it is."
+        }
+      ],
       "examples": [
         {
           "english": "We still haven't chosen the site for the wedding.",

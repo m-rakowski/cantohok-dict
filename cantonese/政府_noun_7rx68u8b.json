@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "government",
-      "english": ["government", "administration"],
+      "english": [
+        {
+          "id": "n980hz15",
+          "word": "government",
+          "meaning": "country's ruling authority",
+          "note": "Use 政府 as the all-purpose noun for a country's governing body, state administration, or government in office."
+        },
+        {
+          "id": "jafuf5jw",
+          "word": "administration",
+          "meaning": "government in office",
+          "note": "Use this when administration means the government or cabinet currently in office."
+        }
+      ],
       "examples": [
         {
           "english": "The government announced that electricity bills would go up next month.",

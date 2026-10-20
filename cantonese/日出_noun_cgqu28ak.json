@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "sunrise",
-      "english": ["sunrise", "dawn"],
+      "english": [
+        {
+          "id": "q2947a9y",
+          "word": "sunrise",
+          "meaning": "time the sun rises",
+          "note": "This is the all-purpose noun for the time the sun comes up and the sunrise scene, including its colors."
+        },
+        {
+          "id": "bmkjpbbw",
+          "word": "dawn",
+          "meaning": "time of sunrise",
+          "note": "Use this when you mean the exact event or time of the sun coming up rather than the surrounding dawn period."
+        }
+      ],
       "examples": [
         {
           "english": "We went to the mountaintop to watch the sunrise.",

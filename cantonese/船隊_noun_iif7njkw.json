@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "group of vehicles/vessels",
-      "english": ["fleet"],
+      "english": [
+        {
+          "id": "il6xr7g8",
+          "word": "fleet",
+          "meaning": "group of vehicles/vessels",
+          "note": "Use this for a group of civilian vessels rather than vehicles or warships."
+        }
+      ],
       "examples": [
         {
           "english": "A fleet of fishing boats went out to sea together.",

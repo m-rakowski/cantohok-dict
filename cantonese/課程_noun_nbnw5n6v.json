@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "course, curriculum",
-      "english": ["course", "curriculum"],
+      "english": [
+        {
+          "id": "j6aiac61",
+          "word": "course",
+          "meaning": "education programme",
+          "note": "Use this for an organized programme of study; it is the all-purpose choice for an education course."
+        },
+        {
+          "id": "qh3fwd6q",
+          "word": "curriculum",
+          "meaning": "school courses",
+          "note": "This is the all-purpose choice for a school's courses and the content it teaches."
+        }
+      ],
       "examples": [
         {
           "english": "This course is quite suitable for beginners.",

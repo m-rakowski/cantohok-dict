@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "high society",
-      "english": ["elite", "aristocracy"],
+      "english": [
+        {
+          "id": "o141zrgz",
+          "word": "elite",
+          "meaning": "privileged upper class",
+          "note": "Use this for the privileged upper class as a social stratum rather than for an individual top performer."
+        },
+        {
+          "id": "easezdns",
+          "word": "aristocracy",
+          "meaning": "elite class of people",
+          "note": "Use this when the emphasis is on the wealthy or high-status section of society rather than an organized elite class."
+        }
+      ],
       "examples": [
         {
           "english": "Their family belongs to the elite.",

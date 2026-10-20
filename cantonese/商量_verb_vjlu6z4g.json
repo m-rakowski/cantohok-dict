@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "talk over, discuss together",
-      "english": ["discuss", "consult"],
+      "english": [
+        {
+          "id": "1mp6cn1h",
+          "word": "discuss",
+          "meaning": "talk over a topic",
+          "note": "Use this when discussing something together in order to reach a decision or make arrangements."
+        },
+        {
+          "id": "u5sm875h",
+          "word": "consult",
+          "meaning": "seek advice together",
+          "note": "Use this when the parties discuss and decide something together rather than when one person simply asks for advice."
+        }
+      ],
       "examples": [
         {
           "english": "I want to discuss moving house with you.",

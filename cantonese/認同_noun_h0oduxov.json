@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "agreement, approval",
-      "english": ["approval", "acceptance"],
+      "english": [
+        {
+          "id": "001hr04o",
+          "word": "approval",
+          "meaning": "permission / agreement",
+          "note": "Use this for endorsement or acceptance of a proposal, person, or point of view rather than simple permission."
+        },
+        {
+          "id": "tr787lpz",
+          "word": "acceptance",
+          "meaning": "accepting something",
+          "note": "Use this when acceptance means approval or endorsement of an idea, view, or proposal rather than merely receiving it."
+        }
+      ],
       "examples": [
         {
           "english": "You have my approval for that point of view.",

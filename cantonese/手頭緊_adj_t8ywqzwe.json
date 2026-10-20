@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "short of money",
-      "english": ["tight", "short"],
+      "english": [
+        {
+          "id": "p6accsln",
+          "word": "tight",
+          "meaning": "money is tight",
+          "note": "Use 手頭緊 when someone has little money available, not when they are stingy."
+        },
+        {
+          "id": "m89kt41z",
+          "word": "short",
+          "meaning": "short of money",
+          "register": "colloquial",
+          "note": "Use 手頭緊 specifically when someone is short of money or has little cash available."
+        }
+      ],
       "examples": [
         {
           "english": "I'm tight on cash lately, so I'll pay you back later.",

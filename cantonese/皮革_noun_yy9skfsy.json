@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "leather",
-      "english": ["leather", "skin"],
+      "english": [
+        {
+          "id": "9ub2e04d",
+          "word": "leather",
+          "meaning": "animal skin material",
+          "register": "formal",
+          "note": "Use this more formal material term instead of 皮 when discussing leather as a manufactured substance."
+        },
+        {
+          "id": "aa6xfhs2",
+          "word": "skin",
+          "meaning": "animal hide",
+          "note": "Use 皮革 for animal skin processed as a material for clothing, upholstery, and similar goods."
+        }
+      ],
       "examples": [
         {
           "english": "This leather passed the abrasion test.",

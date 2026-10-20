@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "TV or radio programme, show",
-      "english": ["show", "entertainment", "broadcast", "fare"],
+      "english": [
+        {
+          "id": "49q5xvi1",
+          "word": "show",
+          "meaning": "TV or radio program",
+          "note": "Use 節目 as the all-purpose noun for a television or radio program."
+        },
+        {
+          "id": "9sh2omj5",
+          "word": "entertainment",
+          "meaning": "show or performance",
+          "note": "Use this for a show or program put on for people to watch or enjoy."
+        },
+        {
+          "id": "0ollq5hx",
+          "word": "broadcast",
+          "meaning": "radio/TV programme",
+          "note": "Use this when “broadcast” means the actual radio or TV programme rather than its transmission."
+        },
+        {
+          "id": "26ajn8qt",
+          "word": "fare",
+          "meaning": "broadcast content",
+          "note": "Use this for the programming or entertainment offered by a television or radio channel."
+        }
+      ],
       "examples": [
         {
           "english": "Tonight's show is pretty funny.",

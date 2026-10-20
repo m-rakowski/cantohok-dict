@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "department, division",
-      "english": ["department", "office", "division"],
+      "english": [
+        {
+          "id": "wsbu1pqb",
+          "word": "department",
+          "meaning": "government office; organization unit",
+          "note": "For a general organizational department, 部門 is the all-purpose choice, including when no specific institutional title is intended."
+        },
+        {
+          "id": "izk12u1m",
+          "word": "office",
+          "meaning": "office staff/department",
+          "note": "Use 部門 when “office” means an administrative department such as a public-relations department."
+        },
+        {
+          "id": "rmo3n2cl",
+          "word": "division",
+          "meaning": "company division",
+          "note": "Use this specifically for an organizational division within a company."
+        }
+      ],
       "examples": [
         {
           "english": "The company's department will move to a new office next month.",

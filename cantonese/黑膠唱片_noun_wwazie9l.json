@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "music album / vinyl record",
-      "english": ["record"],
+      "english": [
+        {
+          "id": "0edmqqad",
+          "word": "record",
+          "meaning": "music album / vinyl record",
+          "note": "Use this specifically for a vinyl record rather than a digital or unspecified music release."
+        }
+      ],
       "examples": [
         {
           "english": "I bought a vinyl record at the record shop.",

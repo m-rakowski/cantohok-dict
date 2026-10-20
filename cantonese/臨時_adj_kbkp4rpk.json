@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "temporary",
-      "english": ["temporary", "transitional", "casual"],
+      "english": [
+        {
+          "id": "o73tz14b",
+          "word": "temporary",
+          "meaning": "not permanent",
+          "note": "This is the all-purpose choice for something that exists only for a limited period rather than permanently."
+        },
+        {
+          "id": "ah7e7vdj",
+          "word": "transitional",
+          "meaning": "temporary, pending change",
+          "note": "Use this all-purpose everyday choice when the emphasis is that something is temporary or interim."
+        },
+        {
+          "id": "5eunkz4g",
+          "word": "casual",
+          "meaning": "temporary worker",
+          "note": "Use this when the worker or job is temporary rather than permanent or regularly scheduled."
+        }
+      ],
       "examples": [
         {
           "english": "This job is temporary; it ends after three months.",

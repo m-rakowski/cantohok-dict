@@ -6,7 +6,28 @@
   "boxes": [
     {
       "meaning": "very slowly, sluggishly",
-      "english": ["tediously", "ponderously", "indolently"],
+      "english": [
+        {
+          "id": "vhstmne8",
+          "word": "tediously",
+          "meaning": "in a wearisome way",
+          "register": "colloquial",
+          "note": "Use this when the wearisome quality comes specifically from moving or progressing very slowly."
+        },
+        {
+          "id": "svgdtsp8",
+          "word": "ponderously",
+          "meaning": "very slowly, heavily",
+          "note": "This is the all-purpose choice when someone moves very slowly and sluggishly."
+        },
+        {
+          "id": "sfa4otwm",
+          "word": "indolently",
+          "meaning": "lazily; in a sluggish way",
+          "register": "colloquial",
+          "note": "Use this for sluggish, slow-moving behavior, especially when the action takes a long time."
+        }
+      ],
       "examples": [
         {
           "english": "They packed their things tediously slowly, making us leave late.",

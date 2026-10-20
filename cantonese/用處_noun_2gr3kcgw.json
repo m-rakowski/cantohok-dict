@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "usefulness",
-      "english": ["utility", "use"],
+      "english": [
+        {
+          "id": "0aa91k8e",
+          "word": "utility",
+          "meaning": "usefulness",
+          "note": "This is the all-purpose spoken noun for the usefulness or practical value of something."
+        },
+        {
+          "id": "7t7bmqlv",
+          "word": "use",
+          "meaning": "usefulness; purpose",
+          "note": "Use 用處 for the usefulness, benefit, or point of something rather than its intended function."
+        }
+      ],
       "examples": [
         {
           "english": "This thermos has a lot of utility for everyday use.",

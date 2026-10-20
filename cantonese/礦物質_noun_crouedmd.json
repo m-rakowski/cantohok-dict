@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "dietary mineral",
-      "english": ["mineral"],
+      "english": [
+        {
+          "id": "v7l57kun",
+          "word": "mineral",
+          "meaning": "dietary mineral",
+          "note": "Use this specifically for an inorganic nutrient needed by the body, such as iron or calcium."
+        }
+      ],
       "examples": [
         {
           "english": "Milk contains plenty of mineral nutrients.",

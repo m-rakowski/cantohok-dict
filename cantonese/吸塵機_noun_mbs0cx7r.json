@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "cleaning machine",
-      "english": ["cleaner"],
+      "english": [
+        {
+          "id": "dswldtol",
+          "word": "cleaner",
+          "meaning": "cleaning machine",
+          "note": "Use this for the common household cleaning machine, specifically a vacuum cleaner."
+        }
+      ],
       "examples": [
         {
           "english": "The vacuum cleaner is broken, so the whole house is dusty.",

@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "ground, floor surface",
-      "english": ["ground", "floor", "deck"],
+      "english": [
+        {
+          "id": "jnt7o46h",
+          "word": "ground",
+          "meaning": "earth surface",
+          "note": "Use this as the all-purpose Cantonese noun for the physical surface of the Earth."
+        },
+        {
+          "id": "s5ldg6q4",
+          "word": "floor",
+          "meaning": "ground surface",
+          "note": "Use this for the ground or land surface, rather than an indoor floor or a building storey."
+        },
+        {
+          "id": "6m9y0pix",
+          "word": "deck",
+          "meaning": "the floor; ground",
+          "note": "Use this when “deck” means the ground or floor that someone falls or lies on."
+        }
+      ],
       "examples": [
         {
           "english": "The ground is still wet after the rain.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "phone/polling booth",
-      "english": ["booth"],
+      "english": [
+        {
+          "id": "djvy7cqa",
+          "word": "booth",
+          "meaning": "phone/polling booth",
+          "note": "Use this for the enclosed compartment where a voter marks a ballot."
+        }
+      ],
       "examples": [
         {
           "english": "You have to turn off your phone before entering the polling booth.",

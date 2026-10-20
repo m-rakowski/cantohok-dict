@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "separate, split up",
-      "english": ["part", "separate", "diverge", "divide"],
+      "english": [
+        {
+          "id": "wb1nvvcb",
+          "word": "part",
+          "meaning": "divide in two",
+          "note": "This is the all-purpose verb for people or things separating or being divided."
+        },
+        {
+          "id": "ca3qfn7g",
+          "word": "separate",
+          "meaning": "divide into parts",
+          "note": "This is the all-purpose choice for dividing things or people, including saying that something has come apart by itself."
+        },
+        {
+          "id": "9p4gevmo",
+          "word": "diverge",
+          "meaning": "separate, go apart",
+          "note": "This is the all-purpose everyday choice when people or things physically separate or go apart."
+        },
+        {
+          "id": "iuxtw1jn",
+          "word": "divide",
+          "meaning": "split into parts",
+          "note": "This is the all-purpose verb for physically splitting or separating things."
+        }
+      ],
       "examples": [
         {
           "english": "It was time for us to part after dinner.",

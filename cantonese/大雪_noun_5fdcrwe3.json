@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "blizzard; heavy snow",
-      "english": ["snowstorm"],
+      "english": [
+        {
+          "id": "3zfvwcf4",
+          "word": "snowstorm",
+          "meaning": "blizzard; heavy snow",
+          "note": "Use this when you mean a heavy snowfall rather than a wind-driven blizzard."
+        }
+      ],
       "examples": [
         {
           "english": "The snowstorm brought heavy snow, so school is closed today.",

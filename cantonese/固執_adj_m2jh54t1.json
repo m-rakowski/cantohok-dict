@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "stubborn",
-      "english": ["stubborn", "headstrong", "perverse", "wayward"],
+      "english": [
+        {
+          "id": "24p5gpyq",
+          "word": "stubborn",
+          "meaning": "obstinate; hard to shift",
+          "note": "This is the all-purpose choice for someone who refuses to change their opinion or behaviour."
+        },
+        {
+          "id": "g9pme87m",
+          "word": "headstrong",
+          "meaning": "stubborn, willful",
+          "note": "This is the all-purpose choice when someone stubbornly refuses to change their mind or follow others."
+        },
+        {
+          "id": "rkvlvi4u",
+          "word": "perverse",
+          "meaning": "stubborn, obstinate",
+          "note": "This is the all-purpose choice when someone obstinately refuses to change or admit they are wrong."
+        },
+        {
+          "id": "hcjvwyjk",
+          "word": "wayward",
+          "meaning": "obstinate, contrary",
+          "note": "Use this when “wayward” mainly stresses obstinacy or refusal to change, rather than straying from expectations."
+        }
+      ],
       "examples": [
         {
           "english": "They are really stubborn; no matter how much we advise them, they refuse to change.",

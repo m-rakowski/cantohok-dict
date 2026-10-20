@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "soft rustling sound",
-      "english": ["rustle", "murmur"],
+      "english": [
+        {
+          "id": "cgyvl2dn",
+          "word": "rustle",
+          "meaning": "soft crackling sound",
+          "note": "This is the all-purpose choice for the soft rustling sound itself."
+        },
+        {
+          "id": "ln28lgrg",
+          "word": "murmur",
+          "meaning": "low indistinct sound",
+          "note": "Use this for a soft rustling or flowing sound, such as water moving over stones."
+        }
+      ],
       "examples": [
         {
           "english": "The wind blew through the dry leaves, making a soft rustle.",

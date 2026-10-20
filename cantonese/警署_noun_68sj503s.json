@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "police station",
-      "english": ["police station", "station"],
+      "english": [
+        {
+          "id": "d8gfdubr",
+          "word": "police station",
+          "meaning": "police station building",
+          "note": "Use 警署 as the standard all-purpose term for a police station."
+        },
+        {
+          "id": "o2sqgbrk",
+          "word": "station",
+          "meaning": "police/fire station",
+          "note": "Use this for a police station; a fire station is usually 消防局."
+        }
+      ],
       "examples": [
         {
           "english": "We went to Wan Chai police station to report a crime.",

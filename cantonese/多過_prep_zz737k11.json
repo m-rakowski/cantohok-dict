@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "more than",
-      "english": ["above", "over", "than"],
+      "english": [
+        {
+          "id": "wb7abw9g",
+          "word": "above",
+          "meaning": "more than",
+          "note": "Use this for an amount or number that exceeds another amount or number."
+        },
+        {
+          "id": "zp3uh7w1",
+          "word": "over",
+          "meaning": "more than",
+          "note": "Use 多過 for exceeding a number or amount, and after a preference verb to compare two choices."
+        },
+        {
+          "id": "2c8quq41",
+          "word": "than",
+          "meaning": "comparison preposition",
+          "note": "Use 多過 for quantities, amounts, ages, durations, and counts meaning “more than.”"
+        }
+      ],
       "examples": [
         {
           "english": "There are above one hundred people sitting here.",

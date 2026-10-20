@@ -6,7 +6,41 @@
   "boxes": [
     {
       "meaning": "approve officially",
-      "english": ["approve", "bless", "clear", "confirm", "permit"],
+      "english": [
+        {
+          "id": "dfxw8s7s",
+          "word": "approve",
+          "meaning": "officially sanction; ratify",
+          "register": "formal",
+          "note": "Use this when an authority officially sanctions, ratifies, or authorizes something."
+        },
+        {
+          "id": "5j8vfeo4",
+          "word": "bless",
+          "meaning": "approve formally",
+          "register": "formal",
+          "note": "Use this when an official person or body gives formal approval to a proposal or plan."
+        },
+        {
+          "id": "p7mv5g2s",
+          "word": "clear",
+          "meaning": "approve / authorize",
+          "note": "Use this for officially approving or authorizing an action, application, or document."
+        },
+        {
+          "id": "25s90wdh",
+          "word": "confirm",
+          "meaning": "approve officially",
+          "note": "Use this for an official authority approving a proposal, nomination, or appointment."
+        },
+        {
+          "id": "58vrjltj",
+          "word": "permit",
+          "meaning": "officially authorize",
+          "register": "formal",
+          "note": "Use 批准 when an official body formally approves or authorizes a project, request, or action."
+        }
+      ],
       "examples": [
         {
           "english": "The school decided to approve this activity.",

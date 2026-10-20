@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "increase, make bigger",
-      "english": ["swell", "increase"],
+      "english": [
+        {
+          "id": "6wn62dn7",
+          "word": "swell",
+          "meaning": "make something larger",
+          "note": "Use 加大 as the all-purpose causative choice when increasing size, amount, force, or volume, including making a sound louder."
+        },
+        {
+          "id": "vmlvto44",
+          "word": "increase",
+          "meaning": "make larger",
+          "note": "Use this when deliberately making an amount, level, force, or scale bigger rather than simply observing that it has increased."
+        }
+      ],
       "examples": [
         {
           "english": "The company decided to swell its investment.",

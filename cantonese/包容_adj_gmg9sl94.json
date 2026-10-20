@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "tolerant, accepting of others",
-      "english": ["tolerant", "inclusive"],
+      "english": [
+        {
+          "id": "np5jaky7",
+          "word": "tolerant",
+          "meaning": "accepting; open-minded",
+          "note": "This is the all-purpose choice for accepting different people, views, or ways of doing things."
+        },
+        {
+          "id": "9xtvziaf",
+          "word": "inclusive",
+          "meaning": "accepting everyone",
+          "note": "Use this for an attitude, policy, or movement that accepts people from a particular group."
+        }
+      ],
       "examples": [
         {
           "english": "We should be tolerant of people from different cultures.",

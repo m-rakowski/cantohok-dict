@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "systematic, organized",
-      "english": ["systematic", "methodical", "formal"],
+      "english": [
+        {
+          "id": "b6375cu9",
+          "word": "systematic",
+          "meaning": "planned, orderly",
+          "note": "This is the all-purpose choice for something organized according to a planned method."
+        },
+        {
+          "id": "skeovbd0",
+          "word": "methodical",
+          "meaning": "systematic; organized",
+          "note": "Use this when emphasizing that a plan, approach, or process follows a coherent system."
+        },
+        {
+          "id": "ia00r0oy",
+          "word": "formal",
+          "meaning": "organized, officially set up",
+          "note": "Use this when formal means carefully organized, structured, and planned rather than merely official."
+        }
+      ],
       "examples": [
         {
           "english": "We used a systematic method to organize the documents.",

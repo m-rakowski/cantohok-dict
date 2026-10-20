@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "all kinds of, various",
-      "english": ["diverse", "different"],
+      "english": [
+        {
+          "id": "vcvrq4jo",
+          "word": "diverse",
+          "meaning": "various; different elements",
+          "note": "Use this as the all-purpose spoken choice for a collection containing many different kinds of things."
+        },
+        {
+          "id": "e5ye5n4m",
+          "word": "different",
+          "meaning": "various, assorted",
+          "note": "Use this for a collection containing various or assorted kinds, rather than for a simple contrast between two things."
+        }
+      ],
       "examples": [
         {
           "english": "This shop has a diverse range of stationery.",

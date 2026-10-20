@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "London Underground",
-      "english": ["tube"],
+      "english": [
+        {
+          "id": "gmvtltfp",
+          "word": "tube",
+          "meaning": "London Underground",
+          "note": "Use this when “the Tube” refers specifically to London's Underground system."
+        }
+      ],
       "examples": [
         {
           "english": "When travelling in London, it’s hard to get around without taking the tube.",

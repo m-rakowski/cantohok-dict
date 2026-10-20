@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "broken stones, gravel",
-      "english": ["rubble", "detritus"],
+      "english": [
+        {
+          "id": "nry61cxm",
+          "word": "rubble",
+          "meaning": "broken stone debris",
+          "note": "Use this when the rubble specifically consists mainly of broken stones rather than bricks or tiles."
+        },
+        {
+          "id": "meczkdrz",
+          "word": "detritus",
+          "meaning": "rock fragments",
+          "note": "Use this for pieces of rock broken off by erosion, ice, or a glacier."
+        }
+      ],
       "examples": [
         {
           "english": "This mountain path is covered in rubble, so it is very slippery.",

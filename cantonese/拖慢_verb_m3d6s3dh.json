@@ -6,7 +6,33 @@
   "boxes": [
     {
       "meaning": "slow down, hold up progress",
-      "english": ["retard", "hinder", "delay", "arrest"],
+      "english": [
+        {
+          "id": "72bsdify",
+          "word": "retard",
+          "meaning": "hinder, delay",
+          "note": "This is the all-purpose choice for hindering or delaying progress, such as an army's march."
+        },
+        {
+          "id": "y91vqzx4",
+          "word": "hinder",
+          "meaning": "obstruct, make difficult",
+          "note": "Use this specifically when the hindrance slows progress, development, or an activity rather than completely stopping it."
+        },
+        {
+          "id": "yjhxlcyo",
+          "word": "delay",
+          "meaning": "verb: hinder",
+          "note": "Use this when something retards progress or makes a process move more slowly rather than stopping it outright."
+        },
+        {
+          "id": "mswa2rhn",
+          "word": "arrest",
+          "meaning": "stop; slow down",
+          "register": "colloquial",
+          "note": "Use this specifically when arresting means making a process or course slower rather than stopping it."
+        }
+      ],
       "examples": [
         {
           "english": "Heavy rain can retard the army’s progress.",

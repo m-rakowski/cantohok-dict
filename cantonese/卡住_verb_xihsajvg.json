@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "get stuck, jam",
-      "english": ["jam", "stick", "seize"],
+      "english": [
+        {
+          "id": "771x24yy",
+          "word": "jam",
+          "meaning": "get stuck",
+          "note": "Use this when an object or body part becomes stuck in a gap or confined space."
+        },
+        {
+          "id": "fvop3tsx",
+          "word": "stick",
+          "meaning": "jam, get stuck",
+          "note": "Use 卡住 when a mechanism or moving object jams and cannot move freely."
+        },
+        {
+          "id": "bo40rmol",
+          "word": "seize",
+          "meaning": "lock up or jam",
+          "register": "colloquial",
+          "note": "Use this when a machine or mechanism becomes jammed and cannot move or operate."
+        }
+      ],
       "examples": [
         {
           "english": "The drawer started to jam.",

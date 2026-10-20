@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "guided missile",
-      "english": ["missile"],
+      "english": [
+        {
+          "id": "2rzq6gvw",
+          "word": "missile",
+          "meaning": "guided missile",
+          "note": "Use this as the precise term for a guided missile whose course can be adjusted after launch."
+        }
+      ],
       "examples": [
         {
           "english": "The missile can still adjust its flight path after launch, so it is much more accurate.",

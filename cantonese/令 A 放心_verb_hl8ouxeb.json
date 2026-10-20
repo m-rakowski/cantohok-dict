@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "put someone's mind at ease",
-      "english": ["reassure", "assure"],
+      "english": [
+        {
+          "id": "54gprfs2",
+          "word": "reassure",
+          "meaning": "calm fears",
+          "note": "This is the all-purpose way to say that someone reassures another person."
+        },
+        {
+          "id": "5tidnqx4",
+          "word": "assure",
+          "meaning": "reassure; give confidence",
+          "note": "Use this when assuring someone means calming their worries and making them feel confident."
+        }
+      ],
       "examples": [
         {
           "english": "Having you help really does reassure me.",

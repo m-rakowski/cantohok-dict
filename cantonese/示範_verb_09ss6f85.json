@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "show how to do something",
-      "english": ["display", "demonstrate"],
+      "english": [
+        {
+          "id": "etrfwj7c",
+          "word": "display",
+          "meaning": "show, exhibit",
+          "note": "Use this when displaying how to do something so that others can learn or copy it."
+        },
+        {
+          "id": "95gv4qdx",
+          "word": "demonstrate",
+          "meaning": "show how to use",
+          "note": "Use this when showing someone how to use or do something."
+        }
+      ],
       "examples": [
         {
           "english": "The coach will display the proper way to use this machine.",

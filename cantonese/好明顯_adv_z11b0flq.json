@@ -6,7 +6,33 @@
   "boxes": [
     {
       "meaning": "obviously",
-      "english": ["clearly", "obviously", "unmistakably", "evidently"],
+      "english": [
+        {
+          "id": "tvun3rng",
+          "word": "clearly",
+          "meaning": "plainly; evidently",
+          "note": "This is the all-purpose choice when the conclusion is obvious or evident."
+        },
+        {
+          "id": "jwaddr6z",
+          "word": "obviously",
+          "meaning": "clearly, evidently",
+          "note": "Use this as the all-purpose spoken equivalent when something is clearly apparent."
+        },
+        {
+          "id": "npkid28q",
+          "word": "unmistakably",
+          "meaning": "unquestionably; clearly",
+          "note": "This is the all-purpose spoken choice for saying that something is clearly or unmistakably so."
+        },
+        {
+          "id": "vpd2i9q0",
+          "word": "evidently",
+          "meaning": "obviously, clearly",
+          "register": "colloquial",
+          "note": "Use this when the fact is plainly obvious, especially before a clause such as 好明顯佢唔想去."
+        }
+      ],
       "examples": [
         {
           "english": "Clearly, he isn't feeling well today.",

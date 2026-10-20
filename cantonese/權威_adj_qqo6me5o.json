@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "authoritative",
-      "english": ["authoritative", "standard"],
+      "english": [
+        {
+          "id": "ne7a9an4",
+          "word": "authoritative",
+          "meaning": "authoritative, definitive",
+          "note": "This is the all-purpose choice for an authoritative source, reference book, or definitive guide."
+        },
+        {
+          "id": "vi82nd75",
+          "word": "standard",
+          "meaning": "recognized, authoritative",
+          "note": "Use this for a source, author, or work recognized as authoritative."
+        }
+      ],
       "examples": [
         {
           "english": "This reference book is authoritative, and everyone uses it for academic information.",

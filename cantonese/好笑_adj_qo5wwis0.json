@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "funny",
-      "english": ["funny", "amusing", "humorous"],
+      "english": [
+        {
+          "id": "06zx91ym",
+          "word": "funny",
+          "meaning": "amusing, humorous",
+          "note": "Use 好笑 as the all-purpose choice for something amusing or humorous."
+        },
+        {
+          "id": "sjflhglw",
+          "word": "amusing",
+          "meaning": "entertaining, funny",
+          "note": "Use this when the amusing quality is specifically that it makes people laugh."
+        },
+        {
+          "id": "50r0goh5",
+          "word": "humorous",
+          "meaning": "funny, amusing",
+          "note": "Use this for an amusing situation, joke, or performance, especially when simply saying that it is funny."
+        }
+      ],
       "examples": [
         {
           "english": "This movie is really funny.",
@@ -27,7 +46,20 @@
     },
     {
       "meaning": "ridiculous, laughable",
-      "english": ["comic", "ridiculous"],
+      "english": [
+        {
+          "id": "l9y4vai1",
+          "word": "comic",
+          "meaning": "ridiculous, unintentionally funny",
+          "note": "Use this when something is funny or ridiculous, especially when the humour is unintended."
+        },
+        {
+          "id": "zmhlu9o3",
+          "word": "ridiculous",
+          "meaning": "foolish, absurd",
+          "note": "Use this when the ridiculous thing is funny or invites mockery, rather than merely being extreme."
+        }
+      ],
       "examples": [
         {
           "english": "They look so serious that it actually seems comic.",

@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "a finished creative work",
-      "english": ["composition", "creation", "writing", "work"],
+      "english": [
+        {
+          "id": "manng2df",
+          "word": "composition",
+          "meaning": "work of art",
+          "note": "Use this as the all-purpose noun for a completed work of art, literature, or music."
+        },
+        {
+          "id": "yblj1pqr",
+          "word": "creation",
+          "meaning": "thing created",
+          "note": "Use this for a concrete work, invention, or other thing that someone has made."
+        },
+        {
+          "id": "00uemig7",
+          "word": "writing",
+          "meaning": "piece of writing",
+          "note": "Choose this for a finished work viewed as something created by an author, rather than simply as text."
+        },
+        {
+          "id": "w1o8o9g2",
+          "word": "work",
+          "meaning": "creative work",
+          "note": "Use 作品 for a literary, artistic, or intellectual work as a finished creation."
+        }
+      ],
       "examples": [
         {
           "english": "This composition is really moving.",

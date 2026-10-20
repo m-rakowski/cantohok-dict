@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "knowledge a person has acquired",
-      "english": ["learning", "education"],
+      "english": [
+        {
+          "id": "fwumxfo5",
+          "word": "learning",
+          "meaning": "knowledge, scholarship",
+          "note": "Use this for a person's accumulated knowledge or breadth of knowledge."
+        },
+        {
+          "id": "4yo3tyud",
+          "word": "education",
+          "meaning": "learning / schooling background",
+          "note": "Use 學識 when you mean the knowledge and learning a person has acquired rather than their educational credentials."
+        }
+      ],
       "examples": [
         {
           "english": "Their learning is broad, and they read all kinds of books.",

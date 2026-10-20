@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "kind heart, kindness",
-      "english": ["benevolence", "generosity", "charity"],
+      "english": [
+        {
+          "id": "m9g5eu7l",
+          "word": "benevolence",
+          "meaning": "kind disposition",
+          "note": "Use this for a more explicit or enduring charitable disposition, especially when describing someone’s moral character."
+        },
+        {
+          "id": "5kj6nc3f",
+          "word": "generosity",
+          "meaning": "willingness to give",
+          "note": "Use this when the emphasis is on a charitable, kind-hearted motive rather than generosity as a general trait."
+        },
+        {
+          "id": "82dxu3i0",
+          "word": "charity",
+          "meaning": "kindness toward others",
+          "note": "Use this when charity means a person's kindness, goodwill, or generous intentions."
+        }
+      ],
       "examples": [
         {
           "english": "They have shown benevolence all their life and often donate money to charities.",

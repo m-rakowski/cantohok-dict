@@ -6,7 +6,15 @@
   "boxes": [
     {
       "meaning": "inflammation of the larynx",
-      "english": ["laryngitis"],
+      "english": [
+        {
+          "id": "fjb7jdvy",
+          "word": "laryngitis",
+          "meaning": "inflammation of the larynx",
+          "register": "formal",
+          "note": "Use this more precise medical noun when naming the diagnosis rather than describing the symptom."
+        }
+      ],
       "register": "formal",
       "examples": [
         {

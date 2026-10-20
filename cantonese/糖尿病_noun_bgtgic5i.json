@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "diabetes",
-      "english": ["sugar"],
+      "english": [
+        {
+          "id": "owccw0hf",
+          "word": "sugar",
+          "meaning": "diabetes",
+          "note": "Use 糖尿病 specifically for the medical condition diabetes."
+        }
+      ],
       "examples": [
         {
           "english": "The doctor says I have diabetes, so I need to eat less sugar.",

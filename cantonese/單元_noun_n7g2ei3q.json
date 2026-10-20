@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "course section",
-      "english": ["unit"],
+      "english": [
+        {
+          "id": "jivmbiv6",
+          "word": "unit",
+          "meaning": "course section",
+          "note": "Use 單元 for a self-contained topic or module in a course, and in technical contexts for a functional computer module."
+        }
+      ],
       "examples": [
         {
           "english": "This course has a unit on computer security.",

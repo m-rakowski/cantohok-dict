@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "vote",
-      "english": ["vote", "voice"],
+      "english": [
+        {
+          "id": "ycqbufa2",
+          "word": "vote",
+          "meaning": "formal vote",
+          "note": "Use this for one individual counted vote or ballot, especially when stressing how many votes someone has cast."
+        },
+        {
+          "id": "guabp7sj",
+          "word": "voice",
+          "meaning": "vote; expressed choice",
+          "note": "Use this when “voice” means an actual vote or ballot in a decision."
+        }
+      ],
       "examples": [
         {
           "english": "I cast one vote for him this time.",

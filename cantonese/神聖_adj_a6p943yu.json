@@ -6,7 +6,46 @@
   "boxes": [
     {
       "meaning": "holy, sacred",
-      "english": ["holy", "divine", "sacred", "godly", "spiritual", "heavenly"],
+      "english": [
+        {
+          "id": "ljk0u6mh",
+          "word": "holy",
+          "meaning": "religiously sacred",
+          "note": "This is the all-purpose choice for something dedicated to a god or religion or revered as sacred."
+        },
+        {
+          "id": "ssos6bgc",
+          "word": "divine",
+          "meaning": "godlike; holy",
+          "note": "This is the all-purpose choice for something holy or godlike."
+        },
+        {
+          "id": "gca58hmw",
+          "word": "sacred",
+          "meaning": "holy, consecrated",
+          "register": "written",
+          "note": "This is the all-purpose choice for something holy or connected with religious worship."
+        },
+        {
+          "id": "4k0zywfa",
+          "word": "godly",
+          "meaning": "devout; pious",
+          "register": "formal",
+          "note": "Use this when godly means holy or sacred, especially when describing a place, object, or occasion rather than a person's devotion."
+        },
+        {
+          "id": "8tc23zsu",
+          "word": "spiritual",
+          "meaning": "religious; sacred",
+          "note": "Choose this when spiritual means sacred, holy, or deserving special reverence."
+        },
+        {
+          "id": "eng2n1ny",
+          "word": "heavenly",
+          "meaning": "of Heaven / divine",
+          "note": "Use this for the sacred or divine sense, especially in a religious context, rather than for casual praise."
+        }
+      ],
       "examples": [
         {
           "english": "This place is very holy to believers.",

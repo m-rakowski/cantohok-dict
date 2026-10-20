@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "transfer, shifting",
-      "english": ["transfer", "diversion"],
+      "english": [
+        {
+          "id": "e39ttoko",
+          "word": "transfer",
+          "meaning": "the act of transfer",
+          "register": "formal",
+          "note": "Use 轉移 as the all-purpose noun for the act of moving or conveying something from one place, person, or thing to another."
+        },
+        {
+          "id": "2psnm98x",
+          "word": "diversion",
+          "meaning": "diversion; redirecting",
+          "note": "Use this abstract noun for the shifting or redirecting of attention, activity, or resources."
+        }
+      ],
       "examples": [
         {
           "english": "The transfer of these files has been completed.",

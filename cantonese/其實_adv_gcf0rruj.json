@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "actually, in fact",
-      "english": ["actually", "indeed", "effectively", "really"],
+      "english": [
+        {
+          "id": "e4myxf72",
+          "word": "actually",
+          "meaning": "really; in fact",
+          "note": "Use this as the all-purpose spoken equivalent when “actually” corrects or contrasts a claim."
+        },
+        {
+          "id": "osaj3iq6",
+          "word": "indeed",
+          "meaning": "actually; truly",
+          "note": "Use this as the all-purpose choice when indeed means “actually” or “in fact.”"
+        },
+        {
+          "id": "jxnm8dpb",
+          "word": "effectively",
+          "meaning": "in effect, practically",
+          "note": "This is the all-purpose colloquial choice for saying that something is essentially or in effect the case."
+        },
+        {
+          "id": "8ocfnbfx",
+          "word": "really",
+          "meaning": "actually; in fact",
+          "note": "Use this specifically to introduce an actual fact or correction, rather than to add emotional emphasis."
+        }
+      ],
       "examples": [
         {
           "english": "Actually, I don't like spicy food.",

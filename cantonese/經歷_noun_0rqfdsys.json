@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "experience, something one went through",
-      "english": ["experience", "trip", "episode"],
+      "english": [
+        {
+          "id": "kkg9hlo1",
+          "word": "experience",
+          "meaning": "direct personal experience",
+          "note": "Use this for a particular event or episode that someone personally went through."
+        },
+        {
+          "id": "zlps903h",
+          "word": "trip",
+          "meaning": "weird experience",
+          "note": "Use this for a remarkable or unusual experience rather than a physical journey."
+        },
+        {
+          "id": "m89m2a9p",
+          "word": "episode",
+          "meaning": "event or period in a life/story",
+          "note": "Use this for an episode understood as a personal experience or period in someone's life."
+        }
+      ],
       "examples": [
         {
           "english": "I still remember my experience of that fire.",

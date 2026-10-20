@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "topic of conversation",
-      "english": ["topic", "vein"],
+      "english": [
+        {
+          "id": "nvqlc5bw",
+          "word": "topic",
+          "meaning": "subject; theme",
+          "note": "This is the all-purpose colloquial choice for a topic being talked about, especially in conversation."
+        },
+        {
+          "id": "v6fshbj3",
+          "word": "vein",
+          "meaning": "topic; line of thought",
+          "note": "Use this for the topic or subject being discussed, rather than for a literal train of thought."
+        }
+      ],
       "examples": [
         {
           "english": "This topic is really sensitive, so don’t bring it up at dinner.",

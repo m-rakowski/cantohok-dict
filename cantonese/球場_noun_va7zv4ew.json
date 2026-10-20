@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "sports field or court",
-      "english": ["pitch", "court"],
+      "english": [
+        {
+          "id": "hntoragl",
+          "word": "pitch",
+          "meaning": "sports field",
+          "note": "Use this for the playing field in a football, rugby, cricket, or similar sports context."
+        },
+        {
+          "id": "929pf2r1",
+          "word": "court",
+          "meaning": "sports court",
+          "note": "Use this for a sports court or playing area."
+        }
+      ],
       "examples": [
         {
           "english": "The pitch is completely soaked, so the match has to be postponed.",

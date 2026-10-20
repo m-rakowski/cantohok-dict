@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "mouth",
-      "english": ["mouth", "hole"],
+      "english": [
+        {
+          "id": "r12q7h4k",
+          "word": "mouth",
+          "meaning": "creature's mouth",
+          "note": "This is the all-purpose choice for a creature's mouth and for an opening such as a cave or bottle."
+        },
+        {
+          "id": "c870fq0y",
+          "word": "hole",
+          "meaning": "mouth, orifice",
+          "note": "Use this ordinary body-part noun for the mouth, including in expressions referring rudely to someone's mouth."
+        }
+      ],
       "examples": [
         {
           "english": "The dog's mouth is stuffed full of food.",

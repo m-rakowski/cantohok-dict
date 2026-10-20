@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "airs, self-important manner",
-      "english": ["conceit", "air"],
+      "english": [
+        {
+          "id": "xb47npga",
+          "word": "conceit",
+          "meaning": "vanity, self-importance",
+          "note": "Use this for the outward airs or self-important manner that someone puts on."
+        },
+        {
+          "id": "l9wqkw70",
+          "word": "air",
+          "meaning": "airs, pretension",
+          "note": "Use this for an affected sense of superiority or airs, as in someone who has airs."
+        }
+      ],
       "examples": [
         {
           "english": "They put on such airs out of conceit that they will not even greet the neighbors.",

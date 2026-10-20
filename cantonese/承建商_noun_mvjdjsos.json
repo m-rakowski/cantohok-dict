@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "building contractor",
-      "english": ["contractor", "builder"],
+      "english": [
+        {
+          "id": "02y1zuo2",
+          "word": "contractor",
+          "meaning": "general building contractor",
+          "note": "Use this as the all-purpose term for the person or company responsible for building or improving a structure."
+        },
+        {
+          "id": "un2lb5h3",
+          "word": "builder",
+          "meaning": "building contractor / master builder",
+          "note": "Use this as the all-purpose term for a contractor who takes responsibility for construction and hires workers."
+        }
+      ],
       "examples": [
         {
           "english": "This contractor is responsible for building the new school.",

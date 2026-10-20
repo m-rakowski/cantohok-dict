@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "angrily",
-      "english": ["angrily", "furiously"],
+      "english": [
+        {
+          "id": "f65luzcu",
+          "word": "angrily",
+          "meaning": "in an angry way",
+          "note": "This is the all-purpose choice for doing or saying something while angry."
+        },
+        {
+          "id": "elgwxd39",
+          "word": "furiously",
+          "meaning": "angrily",
+          "note": "This is the all-purpose colloquial choice when someone does something angrily."
+        }
+      ],
       "examples": [
         {
           "english": "I angrily scolded him and told him not to be late again.",

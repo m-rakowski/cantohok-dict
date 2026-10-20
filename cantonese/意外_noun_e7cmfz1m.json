@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "unexpected surprise",
-      "english": ["surprise"],
+      "english": [
+        {
+          "id": "v7dk0h1k",
+          "word": "surprise",
+          "meaning": "unexpected thing",
+          "note": "This is the all-purpose choice for an unexpected event or outcome, especially a neutral one."
+        }
+      ],
       "examples": [
         {
           "english": "This power outage was a real surprise.",
@@ -17,7 +24,26 @@
     },
     {
       "meaning": "accident, mishap",
-      "english": ["accident", "incident", "misfortune"],
+      "english": [
+        {
+          "id": "uupw2obt",
+          "word": "accident",
+          "meaning": "unexpected harmful event",
+          "note": "This is the all-purpose choice for an unexpected harmful accident, especially when it is not specifically a vehicle crash."
+        },
+        {
+          "id": "0i5pcaqq",
+          "word": "incident",
+          "meaning": "problem, accident, disruption",
+          "note": "Use this when the incident is specifically an accident or unexpected mishap."
+        },
+        {
+          "id": "l97t4bvi",
+          "word": "misfortune",
+          "meaning": "bad luck event",
+          "note": "Use this for a misfortune that is an accident or other unexpected incident."
+        }
+      ],
       "examples": [
         {
           "english": "He slipped while walking; it was a real accident.",

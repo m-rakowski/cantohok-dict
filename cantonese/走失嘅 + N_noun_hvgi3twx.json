@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "lost animal",
-      "english": ["stray"],
+      "english": [
+        {
+          "id": "cwpc98eb",
+          "word": "stray",
+          "meaning": "lost animal",
+          "note": "Use this when the animal is specifically lost from its owner or usual home, such as 走失嘅狗."
+        }
+      ],
       "examples": [
         {
           "english": "I saw a stray dog at the street corner and am helping it find its owner.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "university major",
-      "english": ["major", "concentration"],
+      "english": [
+        {
+          "id": "65mvt88h",
+          "word": "major",
+          "meaning": "university major",
+          "note": "This is the all-purpose Cantonese noun for a student's main university subject."
+        },
+        {
+          "id": "6zeiqu4f",
+          "word": "concentration",
+          "meaning": "college major",
+          "note": "Use this for a student's major subject or field of study at college or university."
+        }
+      ],
       "examples": [
         {
           "english": "I'm at university, and my major is history.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "chess queen",
-      "english": ["queen"],
+      "english": [
+        {
+          "id": "852456w4",
+          "word": "queen",
+          "meaning": "chess queen",
+          "note": "Use this specifically for the queen chess piece."
+        }
+      ],
       "examples": [
         {
           "english": "This queen can capture pieces diagonally.",

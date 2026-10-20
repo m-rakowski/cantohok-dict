@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "X-ray radiation",
-      "english": ["X-ray"],
+      "english": [
+        {
+          "id": "pem9rjn0",
+          "word": "X-ray",
+          "meaning": "X-ray radiation",
+          "note": "Use X光 as the all-purpose term for X-ray radiation itself, rather than X光片 or X光機."
+        }
+      ],
       "examples": [
         {
           "english": "The doctor said this examination uses X-ray to see the bones clearly.",

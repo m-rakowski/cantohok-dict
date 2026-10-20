@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "temporary stoppage",
-      "english": ["suspension"],
+      "english": [
+        {
+          "id": "ezul1bon",
+          "word": "suspension",
+          "meaning": "temporary stoppage",
+          "note": "Use 暫停 for a temporary stop, interruption, or discontinuation; it is the all-purpose choice for this sense."
+        }
+      ],
       "examples": [
         {
           "english": "The service had a suspension for a while because of a system failure.",

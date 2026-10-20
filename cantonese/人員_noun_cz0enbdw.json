@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "staff, personnel",
-      "english": ["personnel", "person"],
+      "english": [
+        {
+          "id": "ccby7wvl",
+          "word": "personnel",
+          "meaning": "organization staff",
+          "register": "formal",
+          "note": "Use this as the all-purpose term for people working in an organization, including staff or military personnel."
+        },
+        {
+          "id": "nukn0jy0",
+          "word": "person",
+          "meaning": "worker / staff member",
+          "register": "formal",
+          "note": "Use this for a worker or staff member assigned to a particular function or role."
+        }
+      ],
       "register": "formal",
       "examples": [
         {

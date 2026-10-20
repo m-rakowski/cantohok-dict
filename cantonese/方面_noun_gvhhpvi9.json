@@ -6,7 +6,44 @@
   "boxes": [
     {
       "meaning": "aspect, respect",
-      "english": ["aspect", "dimension", "regard", "respect", "phase", "side"],
+      "english": [
+        {
+          "id": "zdg8p8mf",
+          "word": "aspect",
+          "meaning": "feature; part",
+          "note": "This is the all-purpose choice for an aspect, feature, or respect of something."
+        },
+        {
+          "id": "i8o0icqp",
+          "word": "dimension",
+          "meaning": "aspect, side",
+          "note": "This is the all-purpose choice for one aspect or side of a matter."
+        },
+        {
+          "id": "d6vo8m62",
+          "word": "regard",
+          "meaning": "concern, relation",
+          "note": "Use 方面 as the all-purpose noun for an aspect or an 'in this regard' reference."
+        },
+        {
+          "id": "21c6q9as",
+          "word": "respect",
+          "meaning": "aspect / respect",
+          "note": "Use 方面 when respect means a particular aspect or respect in which something differs."
+        },
+        {
+          "id": "5ak2xbau",
+          "word": "phase",
+          "meaning": "aspect of a problem",
+          "note": "Use 方面 when phase means one aspect or angle of a problem or subject."
+        },
+        {
+          "id": "qf1d2ltn",
+          "word": "side",
+          "meaning": "aspect / feature",
+          "note": "Use this for one aspect or feature of a matter, person, or thing, as in considering its positive side."
+        }
+      ],
       "examples": [
         {
           "english": "Battery life is one aspect where this phone performs quite well.",

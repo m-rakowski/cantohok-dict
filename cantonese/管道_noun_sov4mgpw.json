@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "passage in the body",
-      "english": ["tract", "canal"],
+      "english": [
+        {
+          "id": "h52xodsi",
+          "word": "tract",
+          "meaning": "body tract",
+          "note": "Use this for a connected passage or tract in the body, such as the digestive tract."
+        },
+        {
+          "id": "p6ur7zhw",
+          "word": "canal",
+          "meaning": "body or plant canal",
+          "note": "Use this for a tubular passage or channel inside a body or plant, rather than for a navigable waterway."
+        }
+      ],
       "examples": [
         {
           "english": "My digestive tract is having problems, so I often get stomachaches.",

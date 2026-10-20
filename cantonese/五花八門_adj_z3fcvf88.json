@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "of all kinds, wide variety",
-      "english": ["varied", "myriad"],
+      "english": [
+        {
+          "id": "roxowhjf",
+          "word": "varied",
+          "meaning": "diverse; assorted",
+          "note": "Use this for a notably wide and varied range, especially of choices, activities, or subjects."
+        },
+        {
+          "id": "dzyiuwjl",
+          "word": "myriad",
+          "meaning": "countless; many-faceted",
+          "register": "colloquial",
+          "note": "Use this for things that come in many different types or have many varied aspects."
+        }
+      ],
       "examples": [
         {
           "english": "This shop has a varied range of phone cases for you to choose from.",

@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "a goal scored",
-      "english": ["goal", "basket"],
+      "english": [
+        {
+          "id": "9cfjp8va",
+          "word": "goal",
+          "meaning": "goal scored",
+          "register": "colloquial",
+          "note": "Use this in sports, especially football, for a goal that has been scored rather than the goal mouth itself."
+        },
+        {
+          "id": "qyg4t1e7",
+          "word": "basket",
+          "meaning": "basket scored",
+          "register": "colloquial",
+          "note": "Use this for a basket as a scored play or successful score in a basketball context."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "business partnership",
-      "english": ["partnership", "firm"],
+      "english": [
+        {
+          "id": "m6ef8a8l",
+          "word": "partnership",
+          "meaning": "business partnership",
+          "note": "Use this specifically for a business partnership in which two or more people run a business together."
+        },
+        {
+          "id": "emzo4g97",
+          "word": "firm",
+          "meaning": "business partnership",
+          "note": "Use this when the important point is that the business is jointly run by partners rather than simply being a company."
+        }
+      ],
       "examples": [
         {
           "english": "I went into a partnership with Ming to open a café.",

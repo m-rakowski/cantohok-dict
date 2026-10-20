@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "common, widespread",
-      "english": ["widespread", "general", "popular"],
+      "english": [
+        {
+          "id": "d5iluow6",
+          "word": "widespread",
+          "meaning": "widely diffused; common",
+          "note": "This is the all-purpose choice for something common or found widely."
+        },
+        {
+          "id": "f42m907i",
+          "word": "general",
+          "meaning": "common to all",
+          "note": "This is the all-purpose choice when something is widespread, common, or applies to everyone, rather than referring to an overview."
+        },
+        {
+          "id": "m4u4gesr",
+          "word": "popular",
+          "meaning": "common belief",
+          "note": "Use this for a belief, view, or misconception that is common or generally accepted among the public, rather than liked."
+        }
+      ],
       "examples": [
         {
           "english": "Smartphones are widespread nowadays.",

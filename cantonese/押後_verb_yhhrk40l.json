@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "postpone",
-      "english": ["delay", "retard", "snooze"],
+      "english": [
+        {
+          "id": "1mndi6a5",
+          "word": "delay",
+          "meaning": "verb: postpone",
+          "note": "Use this for postponing a scheduled event, appointment, deadline, or arrangement to a later time."
+        },
+        {
+          "id": "9jdqr9mp",
+          "word": "retard",
+          "meaning": "postpone",
+          "note": "Use this when an event, action, or deadline is postponed rather than physically slowed down."
+        },
+        {
+          "id": "4bexqm2t",
+          "word": "snooze",
+          "meaning": "delay briefly; snooze",
+          "note": "Use this for postponing an action, event, or arrangement until a little later rather than for a device control."
+        }
+      ],
       "examples": [
         {
           "english": "They decided to delay the meeting until next week.",

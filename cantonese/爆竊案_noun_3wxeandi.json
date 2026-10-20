@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "breaking and entering theft",
-      "english": ["burglary"],
+      "english": [
+        {
+          "id": "c5kbsd1d",
+          "word": "burglary",
+          "meaning": "breaking and entering theft",
+          "note": "Use this when referring to a particular reported burglary case or incident."
+        }
+      ],
       "examples": [
         {
           "english": "Police say that particular burglary case is still under investigation.",

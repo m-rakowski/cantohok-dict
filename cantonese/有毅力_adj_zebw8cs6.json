@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "persistent, determined",
-      "english": ["tenacious", "persistent"],
+      "english": [
+        {
+          "id": "u882aatg",
+          "word": "tenacious",
+          "meaning": "persistent; dogged",
+          "note": "This is the all-purpose everyday description of someone who does not give up easily."
+        },
+        {
+          "id": "m2w7z7xe",
+          "word": "persistent",
+          "meaning": "refusing to give up",
+          "note": "Use this for someone who keeps trying and does not give up, usually with a positive tone."
+        }
+      ],
       "examples": [
         {
           "english": "They practise running every day and do not stop even when it rains; they are really tenacious.",

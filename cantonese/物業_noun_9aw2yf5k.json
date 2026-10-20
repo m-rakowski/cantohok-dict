@@ -6,7 +6,33 @@
   "boxes": [
     {
       "meaning": "property, real estate",
-      "english": ["premise", "real estate", "premises", "property"],
+      "english": [
+        {
+          "id": "t8pnunrg",
+          "word": "premise",
+          "meaning": "building; property",
+          "note": "Use this for a building or piece of real estate, especially in property or legal contexts."
+        },
+        {
+          "id": "nvpbdezs",
+          "word": "real estate",
+          "meaning": "property/land and buildings",
+          "note": "Use this when focusing on a property or properties as assets, especially in business or investment contexts."
+        },
+        {
+          "id": "vzseb474",
+          "word": "premises",
+          "meaning": "building site, property",
+          "register": "formal",
+          "note": "Use this when the premises are being viewed as a property or real-estate holding rather than simply as a place."
+        },
+        {
+          "id": "74b4fjl7",
+          "word": "property",
+          "meaning": "land/real estate",
+          "note": "Use this specifically for real estate or a property consisting of land and buildings."
+        }
+      ],
       "examples": [
         {
           "english": "The ownership of this premise is still disputed.",

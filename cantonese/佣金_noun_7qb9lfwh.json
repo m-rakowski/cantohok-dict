@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "sales commission",
-      "english": ["commission", "percentage"],
+      "english": [
+        {
+          "id": "qlurvyz1",
+          "word": "commission",
+          "meaning": "sales fee",
+          "note": "This is the all-purpose Cantonese noun for a fee paid to an agent or broker on a transaction."
+        },
+        {
+          "id": "kawbwqam",
+          "word": "percentage",
+          "meaning": "sales commission share",
+          "note": "Use this when the percentage means commission paid for making a sale or arranging a deal."
+        }
+      ],
       "examples": [
         {
           "english": "How much commission do I have to pay the agent when buying a flat?",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "wait",
-      "english": ["wait", "await"],
+      "english": [
+        {
+          "id": "544si626",
+          "word": "wait",
+          "meaning": "delay / remain in readiness",
+          "note": "This is the all-purpose everyday verb for delaying or staying until someone or something arrives."
+        },
+        {
+          "id": "51njaq73",
+          "word": "await",
+          "meaning": "wait for",
+          "note": "This is the all-purpose colloquial choice when a person or group waits for someone or something, or simply stays waiting."
+        }
+      ],
       "examples": [
         {
           "english": "Wait for me a moment first.",

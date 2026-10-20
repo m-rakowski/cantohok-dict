@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "hit hard repeatedly",
-      "english": ["batter", "pound"],
+      "english": [
+        {
+          "id": "k700g84j",
+          "word": "batter",
+          "meaning": "hit violently",
+          "note": "This is the all-purpose choice for hitting someone or something forcefully and repeatedly."
+        },
+        {
+          "id": "xpgtrcdd",
+          "word": "pound",
+          "meaning": "hit repeatedly",
+          "note": "Use this as the default for striking something hard and repeatedly."
+        }
+      ],
       "examples": [
         {
           "english": "They used a stick to batter the gate.",

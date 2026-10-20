@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "law, ordinance",
-      "english": ["legislation", "act"],
+      "english": [
+        {
+          "id": "zaql9xzc",
+          "word": "legislation",
+          "meaning": "laws passed",
+          "note": "Use this for a law or set of laws that has already been enacted, especially in Hong Kong contexts."
+        },
+        {
+          "id": "f2zfyfek",
+          "word": "act",
+          "meaning": "law passed by legislature",
+          "note": "Use 法例 for a law or statute that has been enacted."
+        }
+      ],
       "examples": [
         {
           "english": "This legislation has come into effect, and everyone has to comply with it.",

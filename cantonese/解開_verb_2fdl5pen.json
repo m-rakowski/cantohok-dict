@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "to untie, to undo",
-      "english": ["untie", "untangle", "unravel", "undo"],
+      "english": [
+        {
+          "id": "mzveh2j0",
+          "word": "untie",
+          "meaning": "loosen knot or tangle",
+          "note": "This is the all-purpose choice for undoing a knot, tie, fastening, or similar restraint."
+        },
+        {
+          "id": "pk0er8z4",
+          "word": "untangle",
+          "meaning": "free from tangles",
+          "note": "This is the all-purpose choice for undoing a literal knot and for solving a mystery, as in 解開謎團."
+        },
+        {
+          "id": "c295elyi",
+          "word": "unravel",
+          "meaning": "solve, work out",
+          "note": "Use this as the all-purpose choice for undoing a tangle, solving a complication, or saying that a knot has come undone."
+        },
+        {
+          "id": "ehcc401h",
+          "word": "undo",
+          "meaning": "unfasten",
+          "note": "Use 解開 when undo means unfastening a buckle, knot, button, or similar fastening."
+        }
+      ],
       "examples": [
         {
           "english": "Please untie my shoelaces for me first.",
@@ -32,7 +57,14 @@
     },
     {
       "meaning": "to solve a mystery",
-      "english": ["unlock"],
+      "english": [
+        {
+          "id": "z8t3y0bm",
+          "word": "unlock",
+          "meaning": "reveal potential",
+          "note": "Use this when unlocking means finding a hidden answer, as when a clue helps someone solve or unravel a mystery."
+        }
+      ],
       "examples": [
         {
           "english": "This clue finally helped me unlock the mystery.",

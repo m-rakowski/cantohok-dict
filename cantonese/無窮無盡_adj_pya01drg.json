@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "endless, never running out",
-      "english": ["endless", "inexhaustible"],
+      "english": [
+        {
+          "id": "conntfg6",
+          "word": "endless",
+          "meaning": "having no end",
+          "note": "Use this for limitless time, supplies, praise, or other things portrayed as inexhaustible."
+        },
+        {
+          "id": "qbd4kq1e",
+          "word": "inexhaustible",
+          "meaning": "unlimited; never used up",
+          "register": "formal",
+          "note": "Use this broad idiom for an apparently endless supply, quantity, or abstract topic rather than the concrete V + 唔完 pattern."
+        }
+      ],
       "examples": [
         {
           "english": "Their creativity is truly endless.",

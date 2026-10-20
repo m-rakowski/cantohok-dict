@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "row a boat",
-      "english": ["row", "paddle"],
+      "english": [
+        {
+          "id": "1e4qnpt1",
+          "word": "row",
+          "meaning": "row a boat",
+          "note": "This is the all-purpose everyday expression for propelling a boat with oars."
+        },
+        {
+          "id": "ts8ibtow",
+          "word": "paddle",
+          "meaning": "paddle a boat",
+          "note": "This is the all-purpose choice for propelling a boat or canoe through water with a paddle or oar."
+        }
+      ],
       "examples": [
         {
           "english": "We’re going to the park to row on Sunday.",

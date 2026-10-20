@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "sleep",
-      "english": ["sleep"],
+      "english": [
+        {
+          "id": "2gd2n1vi",
+          "word": "sleep",
+          "meaning": "sleep, rest unconscious",
+          "note": "Use this shorter verb when the context already makes sleeping clear."
+        }
+      ],
       "examples": [
         {
           "english": "It's late, so I need to sleep.",
@@ -17,7 +24,15 @@
     },
     {
       "meaning": "lie down",
-      "english": ["lie"],
+      "english": [
+        {
+          "id": "ugin46uo",
+          "word": "lie",
+          "meaning": "rest horizontally",
+          "register": "colloquial",
+          "note": "Use 瞓 for a person lying down or resting horizontally, usually with a place complement."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

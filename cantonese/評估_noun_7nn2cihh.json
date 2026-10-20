@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "assessment, evaluation",
-      "english": ["assessment", "evaluation"],
+      "english": [
+        {
+          "id": "c91mbwuh",
+          "word": "assessment",
+          "meaning": "evaluation; judgment",
+          "note": "This is the all-purpose noun for an appraisal or evaluation."
+        },
+        {
+          "id": "uv29wdda",
+          "word": "evaluation",
+          "meaning": "assessment / performance review",
+          "note": "This is the all-purpose choice for assessing a result, situation, or performance."
+        }
+      ],
       "examples": [
         {
           "english": "The company carried out a risk assessment before deciding to invest.",

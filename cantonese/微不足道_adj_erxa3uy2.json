@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "trivial, too small to matter",
-      "english": ["negligible", "trivial"],
+      "english": [
+        {
+          "id": "26dqb587",
+          "word": "negligible",
+          "meaning": "too small to matter",
+          "register": "written",
+          "note": "Use this mainly for something extremely small or trivial, especially in formal or written contexts."
+        },
+        {
+          "id": "z0i4pmql",
+          "word": "trivial",
+          "meaning": "unimportant; of little value",
+          "register": "written",
+          "note": "Use this more formal wording when stressing that something has negligible significance or value."
+        }
+      ],
       "register": "written",
       "examples": [
         {

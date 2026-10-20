@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "reload a gun",
-      "english": ["recharge"],
+      "english": [
+        {
+          "id": "m30shf9x",
+          "word": "recharge",
+          "meaning": "reload a gun",
+          "note": "Use this specifically when putting ammunition into a gun rather than restoring electrical power or personal energy."
+        }
+      ],
       "examples": [
         {
           "english": "The gun is out of bullets, so I need to recharge it before I can keep firing.",

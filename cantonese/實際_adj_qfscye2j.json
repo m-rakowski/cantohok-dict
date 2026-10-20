@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "practical, realistic",
-      "english": ["practical", "realistic", "sensible"],
+      "english": [
+        {
+          "id": "l55zhxs1",
+          "word": "practical",
+          "meaning": "based on practice",
+          "note": "This is the all-purpose choice for something based on real practice rather than theory, and for a person who is down-to-earth and practical."
+        },
+        {
+          "id": "3qy8e6ht",
+          "word": "realistic",
+          "meaning": "practical, not idealistic",
+          "note": "This is the all-purpose choice for something practical, non-idealistic, or grounded in what can actually be done."
+        },
+        {
+          "id": "j6gqr10p",
+          "word": "sensible",
+          "meaning": "practical, sensible",
+          "note": "For a person, decision, or plan showing practical good judgment, this is the all-purpose choice."
+        }
+      ],
       "examples": [
         {
           "english": "They are very practical and do not just talk theory.",
@@ -27,7 +46,20 @@
     },
     {
       "meaning": "actual, real",
-      "english": ["actual", "literal"],
+      "english": [
+        {
+          "id": "4kastsoh",
+          "word": "actual",
+          "meaning": "real, factual",
+          "note": "Use this for concrete amounts, results, or situations as they really are, especially when contrasted with estimates, plans, or theory."
+        },
+        {
+          "id": "i9wvb2b1",
+          "word": "literal",
+          "meaning": "actual, physical",
+          "note": "Use this for something actual or physically real, rather than merely theoretical or figurative."
+        }
+      ],
       "examples": [
         {
           "english": "The budget was one hundred thousand, but the actual amount spent was one hundred and twenty thousand.",

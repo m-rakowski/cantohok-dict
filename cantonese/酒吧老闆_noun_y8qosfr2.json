@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "pub owner/manager",
-      "english": ["landlord"],
+      "english": [
+        {
+          "id": "77jyoao2",
+          "word": "landlord",
+          "meaning": "pub owner/manager",
+          "note": "Use this specifically for the owner or manager of a pub or bar."
+        }
+      ],
       "examples": [
         {
           "english": "The landlord of that bar knows all the nearby customers.",

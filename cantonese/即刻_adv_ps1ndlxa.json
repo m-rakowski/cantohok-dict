@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "immediately",
-      "english": ["immediately", "instantly", "promptly", "instantaneously", "offhand"],
+      "english": [
+        {
+          "id": "hw6y3zbw",
+          "word": "immediately",
+          "meaning": "instantly; without delay",
+          "note": "This is the all-purpose spoken choice for doing something immediately or without delay."
+        },
+        {
+          "id": "76b9o68p",
+          "word": "instantly",
+          "meaning": "at once; without delay",
+          "note": "This is the all-purpose colloquial choice for doing something at once or without delay."
+        },
+        {
+          "id": "312m157i",
+          "word": "promptly",
+          "meaning": "soon; quickly",
+          "note": "This is the all-purpose choice when something happens immediately or without delay."
+        },
+        {
+          "id": "nnamqjks",
+          "word": "instantaneously",
+          "meaning": "without delay",
+          "note": "This is the all-purpose spoken choice for doing something without any delay."
+        },
+        {
+          "id": "cfecd7po",
+          "word": "offhand",
+          "meaning": "immediately; without thinking",
+          "note": "Use this when the emphasis is on doing something right away, rather than on speaking without thinking."
+        }
+      ],
       "examples": [
         {
           "english": "I’ll come back immediately.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "university residence",
-      "english": ["hall"],
+      "english": [
+        {
+          "id": "0ud37ert",
+          "word": "hall",
+          "meaning": "university residence",
+          "note": "Use this university-specific shorthand for a student residence or residential hall."
+        }
+      ],
       "examples": [
         {
           "english": "I’m moving into a hall next month.",

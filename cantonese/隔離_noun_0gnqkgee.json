@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "isolation, quarantine",
-      "english": ["isolation", "quarantine"],
+      "english": [
+        {
+          "id": "mi8ucjk8",
+          "word": "isolation",
+          "meaning": "medical isolation",
+          "note": "Use this for medical separation of someone with a contagious illness from other people."
+        },
+        {
+          "id": "axd4gbpi",
+          "word": "quarantine",
+          "meaning": "disease isolation",
+          "note": "This is the all-purpose choice for being kept apart from others to prevent disease spread."
+        }
+      ],
       "examples": [
         {
           "english": "Patients with contagious diseases need isolation and cannot contact other people.",

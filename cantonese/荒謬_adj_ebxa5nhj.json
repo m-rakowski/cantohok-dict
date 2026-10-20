@@ -6,7 +6,34 @@
   "boxes": [
     {
       "meaning": "absurd, ridiculous",
-      "english": ["farcical", "ludicrous", "absurd", "irrational"],
+      "english": [
+        {
+          "id": "xskkc176",
+          "word": "farcical",
+          "meaning": "ludicrous, absurd",
+          "register": "formal",
+          "note": "This is the all-purpose equivalent for something ludicrous or absurd, especially in more serious discussion."
+        },
+        {
+          "id": "msvrcwgn",
+          "word": "ludicrous",
+          "meaning": "absurd; ridiculous",
+          "note": "Use this for a more precise description of something plainly absurd or logically unthinkable, rather than merely excessive."
+        },
+        {
+          "id": "hn5b5vfj",
+          "word": "absurd",
+          "meaning": "ridiculous; nonsensical",
+          "note": "Use this for a serious, logical, or philosophical claim that something is irrational or absurd, including an absurd reality."
+        },
+        {
+          "id": "x93opj2c",
+          "word": "irrational",
+          "meaning": "unreasonable, nonsensical",
+          "register": "formal",
+          "note": "Use this for something absurd or nonsensical, especially in more formal or written contexts."
+        }
+      ],
       "examples": [
         {
           "english": "Accusing someone without evidence is truly farcical.",

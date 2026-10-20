@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "not suitable",
-      "english": ["unfit", "unsuitable"],
+      "english": [
+        {
+          "id": "btcuxr9c",
+          "word": "unfit",
+          "meaning": "not qualified / not suitable",
+          "note": "This is the all-purpose choice when a person or thing is unsuitable for a team, situation, or purpose."
+        },
+        {
+          "id": "n1q5y54w",
+          "word": "unsuitable",
+          "meaning": "not suitable",
+          "note": "Use this when you want to state explicitly that a person, thing, or activity is unsuitable for a particular purpose or situation."
+        }
+      ],
       "examples": [
         {
           "english": "This job is unfit for you.",

@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "engagement to marry",
-      "english": ["engagement", "commitment"],
+      "english": [
+        {
+          "id": "4fqs082r",
+          "word": "engagement",
+          "meaning": "engagement to marry",
+          "register": "formal",
+          "note": "Use 婚約 for the state or period of being engaged to marry, especially in more formal contexts."
+        },
+        {
+          "id": "qowhhxnd",
+          "word": "commitment",
+          "meaning": "being committed",
+          "note": "Use 婚約 only when being committed means being engaged to marry, not for a general pledge."
+        }
+      ],
       "examples": [
         {
           "english": "After their engagement, they plan to marry next spring.",

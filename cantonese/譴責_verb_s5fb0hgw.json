@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "to condemn publicly",
-      "english": ["proscribe", "denounce"],
+      "english": [
+        {
+          "id": "733mgfpw",
+          "word": "proscribe",
+          "meaning": "denounce as unacceptable",
+          "register": "formal",
+          "note": "Use this for publicly condemning a word, practice, or action as unacceptable rather than simply imposing a ban."
+        },
+        {
+          "id": "g6gx5hwk",
+          "word": "denounce",
+          "meaning": "criticize publicly",
+          "register": "formal",
+          "note": "Use this for strong moral condemnation, especially in official or public statements."
+        }
+      ],
       "register": "formal",
       "examples": [
         {

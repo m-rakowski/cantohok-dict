@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "enthusiast, fan of a hobby",
-      "english": ["enthusiast", "fool"],
+      "english": [
+        {
+          "id": "4oo5httk",
+          "word": "enthusiast",
+          "meaning": "person full of enthusiasm",
+          "register": "colloquial",
+          "note": "This is the all-purpose colloquial choice for someone deeply enthusiastic about a hobby, subject, or activity."
+        },
+        {
+          "id": "nrkbcq3c",
+          "word": "fool",
+          "meaning": "fool for something",
+          "register": "colloquial",
+          "note": "Use this for someone who is especially enthusiastic about a particular hobby or subject."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

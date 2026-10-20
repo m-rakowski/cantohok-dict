@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "brightly, radiantly (like a smile)",
-      "english": ["brightly", "broadly"],
+      "english": [
+        {
+          "id": "0payeyz3",
+          "word": "brightly",
+          "meaning": "in a bright manner",
+          "note": "Use this for a radiant or brilliant manner, especially a smile, expression, or display."
+        },
+        {
+          "id": "qabo1hsv",
+          "word": "broadly",
+          "meaning": "widely / openly",
+          "note": "Use this for a broad, radiant smile or another openly expressive manner rather than for generalization."
+        }
+      ],
       "examples": [
         {
           "english": "They smiled brightly as they greeted me.",

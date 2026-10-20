@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "document, paperwork, file",
-      "english": ["document", "paperwork", "file"],
+      "english": [
+        {
+          "id": "yeeiiq4y",
+          "word": "document",
+          "meaning": "official paper / document",
+          "note": "This is the all-purpose choice for an official or informational document."
+        },
+        {
+          "id": "rz7rd82h",
+          "word": "paperwork",
+          "meaning": "documents, forms",
+          "note": "Use this when “paperwork” means the written documents or forms themselves rather than the work of handling them."
+        },
+        {
+          "id": "dgo1kk04",
+          "word": "file",
+          "meaning": "computer file",
+          "note": "Use this for a computer file understood specifically as a document, rather than arbitrary stored data."
+        }
+      ],
       "examples": [
         {
           "english": "You need to submit this document to the company before you can register.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "make a low rumbling sound",
-      "english": ["rumble", "mutter"],
+      "english": [
+        {
+          "id": "w826gfoo",
+          "word": "rumble",
+          "meaning": "make a rumbling sound",
+          "note": "This is the all-purpose choice for something making a low, heavy, continuous rumbling sound."
+        },
+        {
+          "id": "opf8qiwk",
+          "word": "mutter",
+          "meaning": "rumble softly",
+          "note": "Use this for an engine or other object making a low, continuous rumbling sound."
+        }
+      ],
       "examples": [
         {
           "english": "The construction site next door would rumble all morning, so loudly that I couldn't sleep.",

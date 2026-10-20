@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "average",
-      "english": ["average"],
+      "english": [
+        {
+          "id": "nynq2nmh",
+          "word": "average",
+          "meaning": "relating to the average",
+          "note": "This is the all-purpose choice for a numerical or statistical average, especially before a noun such as age."
+        }
+      ],
       "examples": [
         {
           "english": "The average age of this class is eighteen.",
@@ -17,7 +24,14 @@
     },
     {
       "meaning": "equal, evenly shared",
-      "english": ["even"],
+      "english": [
+        {
+          "id": "b5uaa9hy",
+          "word": "even",
+          "meaning": "equal in amount",
+          "note": "Use this when amounts, sizes, or proportions are distributed equally."
+        }
+      ],
       "examples": [
         {
           "english": "The company will split the bonus into even shares for everyone.",

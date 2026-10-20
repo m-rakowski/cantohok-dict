@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "hotel, inn",
-      "english": ["lodge", "hotel"],
+      "english": [
+        {
+          "id": "h5mprncc",
+          "word": "lodge",
+          "meaning": "inn / small hotel",
+          "note": "Use this as the all-purpose noun for a small hotel, inn, or rural guesthouse."
+        },
+        {
+          "id": "yld9db84",
+          "word": "hotel",
+          "meaning": "accommodation hotel",
+          "register": "formal",
+          "note": "A speaker uses this more formal term for a lodging establishment, especially when the emphasis is on accommodation rather than the everyday hotel label."
+        }
+      ],
       "examples": [
         {
           "english": "This lodge is in the mountains, and the surroundings are very peaceful.",

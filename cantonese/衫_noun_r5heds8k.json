@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "clothes, a piece of clothing",
-      "english": ["garment", "clothing", "kit"],
+      "english": [
+        {
+          "id": "21sjfy30",
+          "word": "garment",
+          "meaning": "item of clothing",
+          "note": "This is the all-purpose colloquial choice when the context makes clear that you mean one item of clothing."
+        },
+        {
+          "id": "g9eww6nd",
+          "word": "clothing",
+          "meaning": "clothes, garments",
+          "note": "This is the all-purpose everyday word for clothing in casual Hong Kong Cantonese, though context can narrow it to a shirt or top."
+        },
+        {
+          "id": "xnjwdzo9",
+          "word": "kit",
+          "meaning": "clothes",
+          "note": "Use this for clothing generally; a sports strip is more specifically called 球衣."
+        }
+      ],
       "examples": [
         {
           "english": "This garment fits you really well.",

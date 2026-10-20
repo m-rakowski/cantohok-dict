@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "assist breathing",
-      "english": ["ventilate"],
+      "english": [
+        {
+          "id": "028lyv0j",
+          "word": "ventilate",
+          "meaning": "assist breathing",
+          "note": "Use this medical construction when supporting a patient's breathing, whether manually or with equipment."
+        }
+      ],
       "examples": [
         {
           "english": "The first-aider had to ventilate the injured person until the ambulance arrived.",

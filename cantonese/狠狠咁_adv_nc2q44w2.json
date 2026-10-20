@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "fiercely, with force",
-      "english": ["viciously", "fiercely"],
+      "english": [
+        {
+          "id": "tkptmaxl",
+          "word": "viciously",
+          "meaning": "ferociously; cruelly",
+          "note": "Use this when the vicious action is forceful or violent rather than specifically malicious."
+        },
+        {
+          "id": "3633dild",
+          "word": "fiercely",
+          "meaning": "in a fierce manner",
+          "note": "Use this for aggressive or severe actions, especially hitting, attacking, or retaliating."
+        }
+      ],
       "examples": [
         {
           "english": "They viciously punched their opponent in the face.",

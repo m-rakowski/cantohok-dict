@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "can't help doing something",
-      "english": ["indulge", "escape"],
+      "english": [
+        {
+          "id": "t5ofiy9w",
+          "word": "indulge",
+          "meaning": "give in to temptation",
+          "register": "colloquial",
+          "note": "Use this conversational pattern when the emphasis is on being unable to resist and then doing the tempting action."
+        },
+        {
+          "id": "2ccphint",
+          "word": "escape",
+          "meaning": "express involuntarily",
+          "register": "colloquial",
+          "note": "Use this when an expression or action comes out despite trying not to do it, such as smiling or laughing."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

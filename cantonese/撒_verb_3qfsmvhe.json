@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "sprinkle, scatter",
-      "english": ["scatter", "distribute"],
+      "english": [
+        {
+          "id": "ez7i8qoq",
+          "word": "scatter",
+          "meaning": "sprinkle or spread loosely",
+          "note": "Use this when loosely sprinkling or distributing something such as salt, ashes, or seeds."
+        },
+        {
+          "id": "yu5acmxg",
+          "word": "distribute",
+          "meaning": "spread out",
+          "note": "Use this when scattering loose material such as grass seed over an area."
+        }
+      ],
       "examples": [
         {
           "english": "Scatter some sesame over the noodles before you eat.",

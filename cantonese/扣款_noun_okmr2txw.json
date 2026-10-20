@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "bank account withdrawal",
-      "english": ["debit"],
+      "english": [
+        {
+          "id": "q89ybkn8",
+          "word": "debit",
+          "meaning": "bank account withdrawal",
+          "note": "Use this as the everyday all-purpose term for money deducted from a bank account."
+        }
+      ],
       "examples": [
         {
           "english": "There was another debit from my card this month.",

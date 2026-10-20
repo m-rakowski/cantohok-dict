@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "quarrel, dispute",
-      "english": ["disagreement", "dispute", "dissension"],
+      "english": [
+        {
+          "id": "qh82l2mu",
+          "word": "disagreement",
+          "meaning": "argument or dispute",
+          "register": "colloquial",
+          "note": "This is the all-purpose spoken choice for a concrete quarrel or disagreement between people."
+        },
+        {
+          "id": "jsiy2g7d",
+          "word": "dispute",
+          "meaning": "argument, disagreement",
+          "note": "This is the all-purpose choice for an argument or failure to agree between people."
+        },
+        {
+          "id": "lfwnafqq",
+          "word": "dissension",
+          "meaning": "disagreement, discord",
+          "note": "Use this as the everyday all-purpose noun for an active dispute or quarrel."
+        }
+      ],
       "examples": [
         {
           "english": "They were having a disagreement over the queue order.",

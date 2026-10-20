@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "park ranger, forest ranger",
-      "english": ["ranger"],
+      "english": [
+        {
+          "id": "adosirur",
+          "word": "ranger",
+          "meaning": "park ranger, forest ranger",
+          "note": "This is the all-purpose choice for a ranger protecting a wilderness area, especially a forest."
+        }
+      ],
       "examples": [
         {
           "english": "The ranger patrols the hills every day to make sure no one litters in the forest.",

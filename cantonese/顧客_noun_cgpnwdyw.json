@@ -6,7 +6,29 @@
   "boxes": [
     {
       "meaning": "customer",
-      "english": ["customer", "client", "guest"],
+      "english": [
+        {
+          "id": "y3gfkqau",
+          "word": "customer",
+          "meaning": "buyer / client",
+          "register": "formal",
+          "note": "Use this formal business or written term when referring to customers or clients collectively or professionally."
+        },
+        {
+          "id": "bsnzlycx",
+          "word": "client",
+          "meaning": "customer / buyer",
+          "register": "written",
+          "note": "Use this for a customer or buyer when the focus is on purchasing goods or services rather than receiving professional advice."
+        },
+        {
+          "id": "kcilgv1l",
+          "word": "guest",
+          "meaning": "hotel guest / customer",
+          "register": "formal",
+          "note": "Use this when focusing on the hotel guest as a customer or patron rather than as someone staying there."
+        }
+      ],
       "examples": [
         {
           "english": "The company regularly collects customer feedback.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "test result not positive",
-      "english": ["negative"],
+      "english": [
+        {
+          "id": "cmh6jmxj",
+          "word": "negative",
+          "meaning": "test result not positive",
+          "note": "Use this specifically for a medical or other test result that is negative."
+        }
+      ],
       "examples": [
         {
           "english": "The test result is negative.",

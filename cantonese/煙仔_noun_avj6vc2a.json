@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "cigarette",
-      "english": ["cigarette", "smoke"],
+      "english": [
+        {
+          "id": "766udm5m",
+          "word": "cigarette",
+          "meaning": "smoking tobacco roll",
+          "register": "colloquial",
+          "note": "Use 煙仔 as the everyday all-purpose noun for a cigarette."
+        },
+        {
+          "id": "zcm0urry",
+          "word": "smoke",
+          "meaning": "cigarette",
+          "register": "colloquial",
+          "note": "Use 煙仔 when you specifically mean a cigarette rather than smoke in general."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

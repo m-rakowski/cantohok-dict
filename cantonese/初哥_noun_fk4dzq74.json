@@ -6,7 +6,15 @@
   "boxes": [
     {
       "meaning": "new learner",
-      "english": ["beginner"],
+      "english": [
+        {
+          "id": "nc200sbt",
+          "word": "beginner",
+          "meaning": "new learner",
+          "register": "colloquial",
+          "note": "Use this colloquial term for a novice, often with a self-deprecating or informal tone."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

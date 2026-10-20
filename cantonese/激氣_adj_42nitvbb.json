@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "annoyed, frustrated",
-      "english": ["frustrated", "provocative", "annoyed"],
+      "english": [
+        {
+          "id": "xnntqrn7",
+          "word": "frustrated",
+          "meaning": "angry/discouraged by inability",
+          "note": "This is the all-purpose casual choice when frustration comes with irritation or anger."
+        },
+        {
+          "id": "5jq6mtvj",
+          "word": "provocative",
+          "meaning": "exasperating; irritating",
+          "note": "This is the all-purpose choice for something that makes people frustrated or fed up."
+        },
+        {
+          "id": "khk17k0w",
+          "word": "annoyed",
+          "meaning": "troubled; irritated",
+          "register": "colloquial",
+          "note": "Use this for exasperation caused by a frustrating or repeatedly irritating situation."
+        }
+      ],
       "examples": [
         {
           "english": "I’m really frustrated; the computer froze again.",

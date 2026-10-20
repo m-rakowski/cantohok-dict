@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "swinging weight",
-      "english": ["pendulum"],
+      "english": [
+        {
+          "id": "rpggtnca",
+          "word": "pendulum",
+          "meaning": "swinging weight",
+          "note": "Use this specifically for the swinging part of a clock."
+        }
+      ],
       "examples": [
         {
           "english": "The pendulum in my old clock has stopped.",

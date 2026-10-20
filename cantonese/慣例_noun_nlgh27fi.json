@@ -6,7 +6,39 @@
   "boxes": [
     {
       "meaning": "custom, usual practice",
-      "english": ["convention", "custom", "rule", "usage", "practice"],
+      "english": [
+        {
+          "id": "9sx9bw60",
+          "word": "convention",
+          "meaning": "custom, practice",
+          "note": "Use this as the all-purpose noun for an established custom or generally followed practice."
+        },
+        {
+          "id": "zanyncm1",
+          "word": "custom",
+          "meaning": "habit, usual practice",
+          "note": "Use this for an established customary practice or convention, especially one treated as an accepted rule rather than a personal habit."
+        },
+        {
+          "id": "wszoktv5",
+          "word": "rule",
+          "meaning": "usual practice",
+          "note": "Use this for an established usual practice rather than an imposed regulation."
+        },
+        {
+          "id": "vpwi3y5k",
+          "word": "usage",
+          "meaning": "custom; practice",
+          "note": "Use 慣例 for an established custom or practice followed in a place or group."
+        },
+        {
+          "id": "vb7bvnod",
+          "word": "practice",
+          "meaning": "habit; usual practice",
+          "register": "written",
+          "note": "Use this for a customary or usual way of doing something rather than for skill training."
+        }
+      ],
       "examples": [
         {
           "english": "This practice has already become an industry convention.",

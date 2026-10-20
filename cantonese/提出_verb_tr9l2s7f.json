@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "put forward, raise",
-      "english": ["present", "float", "argue"],
+      "english": [
+        {
+          "id": "xb705myj",
+          "word": "present",
+          "meaning": "present; put forward",
+          "note": "Use this when putting an idea, matter, or proposal forward for consideration."
+        },
+        {
+          "id": "54xpbzlo",
+          "word": "float",
+          "meaning": "suggest an idea",
+          "note": "Use this when putting forward an idea or suggestion for other people to consider."
+        },
+        {
+          "id": "ee48tyj6",
+          "word": "argue",
+          "meaning": "argue a case",
+          "note": "Use 提出 when presenting a viewpoint, point, or argument for consideration."
+        }
+      ],
       "examples": [
         {
           "english": "I want to present a proposal.",

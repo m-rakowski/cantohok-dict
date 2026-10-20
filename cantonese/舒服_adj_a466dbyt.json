@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "comfortable, pleasant",
-      "english": ["comfortable", "pleasant", "agreeable", "pleasurable"],
+      "english": [
+        {
+          "id": "uhfwf3a3",
+          "word": "comfortable",
+          "meaning": "physically comfortable",
+          "note": "This is the all-purpose choice for something physically comfortable or for feeling at ease."
+        },
+        {
+          "id": "kk6p34sc",
+          "word": "pleasant",
+          "meaning": "giving pleasure; nice",
+          "note": "This is the all-purpose choice for something that feels agreeable or comfortable, such as a pleasant walk or atmosphere."
+        },
+        {
+          "id": "jk37jj84",
+          "word": "agreeable",
+          "meaning": "pleasant; pleasant-looking",
+          "note": "Use this as the all-purpose choice for something pleasant or satisfying to the senses or mind."
+        },
+        {
+          "id": "9uhl94j2",
+          "word": "pleasurable",
+          "meaning": "giving pleasure",
+          "note": "Choose this for bodily comfort or sensory pleasure, such as a pleasurable massage or relaxing experience."
+        }
+      ],
       "examples": [
         {
           "english": "I feel comfortable walking in these shoes.",

@@ -6,7 +6,39 @@
   "boxes": [
     {
       "meaning": "victory, win",
-      "english": ["win", "victory", "conquest", "triumph", "glory"],
+      "english": [
+        {
+          "id": "tjrdjcj5",
+          "word": "win",
+          "meaning": "victory",
+          "note": "Use this as the all-purpose noun for an individual victory."
+        },
+        {
+          "id": "y9qfg6wd",
+          "word": "victory",
+          "meaning": "winning; triumph",
+          "register": "formal",
+          "note": "This is the all-purpose noun for a victory in a battle, competition, or successful effort."
+        },
+        {
+          "id": "9qe5ddql",
+          "word": "conquest",
+          "meaning": "military victory",
+          "note": "This is the all-purpose noun for a military victory when the emphasis is on winning rather than subjugating the enemy."
+        },
+        {
+          "id": "h7k2rwe8",
+          "word": "triumph",
+          "meaning": "victory, success",
+          "note": "Use this when the triumph is specifically a victory over an opponent or obstacle."
+        },
+        {
+          "id": "qucduihv",
+          "word": "glory",
+          "meaning": "victory, success",
+          "note": "Use this when “glory” refers specifically to a victory or winning result."
+        }
+      ],
       "examples": [
         {
           "english": "We finally got a win in this game.",

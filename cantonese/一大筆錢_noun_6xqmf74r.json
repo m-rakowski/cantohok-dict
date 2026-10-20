@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "a large sum of money",
-      "english": ["fortune", "packet"],
+      "english": [
+        {
+          "id": "ut5rn600",
+          "word": "fortune",
+          "meaning": "a large sum of money",
+          "note": "Use this for a large sum of money, especially when saying that something costs a fortune."
+        },
+        {
+          "id": "zgg55hin",
+          "word": "packet",
+          "meaning": "large amount of money",
+          "note": "Use this for the money sense, meaning a large sum that something costs or requires."
+        }
+      ],
       "examples": [
         {
           "english": "Buying this flat costs a fortune.",

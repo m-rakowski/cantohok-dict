@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "omen, sign",
-      "english": ["messenger", "signal"],
+      "english": [
+        {
+          "id": "0ml05g8w",
+          "word": "messenger",
+          "meaning": "harbinger; sign of something",
+          "note": "Use this for a sign or omen that something, especially something bad, is going to happen."
+        },
+        {
+          "id": "bv9t28ui",
+          "word": "signal",
+          "meaning": "sign or omen",
+          "register": "colloquial",
+          "note": "Use this for an omen or portent, not for a deliberate communication signal."
+        }
+      ],
       "examples": [
         {
           "english": "Those dark clouds are a messenger of an approaching storm.",

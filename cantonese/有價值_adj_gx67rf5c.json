@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "valuable, worthwhile",
-      "english": ["worthy", "valuable"],
+      "english": [
+        {
+          "id": "w1v213j3",
+          "word": "worthy",
+          "meaning": "having worth or value",
+          "note": "This is the all-purpose adjective for something that has value or merit."
+        },
+        {
+          "id": "789y237b",
+          "word": "valuable",
+          "meaning": "worth a lot",
+          "note": "Use this as the all-purpose rendering for something that has significant value, especially in an abstract or general sense."
+        }
+      ],
       "examples": [
         {
           "english": "For people wanting to change careers, this course is really worthy of their time.",

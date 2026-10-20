@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "coil or wrap around",
-      "english": ["wrap"],
+      "english": [
+        {
+          "id": "lgs57fir",
+          "word": "wrap",
+          "meaning": "coil around",
+          "note": "Use this when something coils tightly around and holds onto an object or animal."
+        }
+      ],
       "examples": [
         {
           "english": "The snake continues to wrap around the chicken and won't let go.",
@@ -17,7 +24,21 @@
     },
     {
       "meaning": "pester and keep someone tied up",
-      "english": ["besiege", "occupy"],
+      "english": [
+        {
+          "id": "ow6x8gy9",
+          "word": "besiege",
+          "meaning": "figuratively harass/surround",
+          "note": "Use this when a person or problem persistently pesters or beleaguers someone rather than physically attacking a place."
+        },
+        {
+          "id": "za2wo2u1",
+          "word": "occupy",
+          "meaning": "keep busy",
+          "register": "colloquial",
+          "note": "Pick this when a person or task keeps someone occupied or tied up for a period of time."
+        }
+      ],
       "examples": [
         {
           "english": "Those troublesome customers constantly besiege me, leaving me no time to work.",

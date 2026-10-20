@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "game points",
-      "english": ["score"],
+      "english": [
+        {
+          "id": "w4txp01o",
+          "word": "score",
+          "meaning": "game points",
+          "note": "This is the all-purpose choice for a numerical score, especially in tests and games."
+        }
+      ],
       "examples": [
         {
           "english": "My score on this test was ninety.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "utter, out-and-out",
-      "english": ["abject", "unadulterated"],
+      "english": [
+        {
+          "id": "1crc521o",
+          "word": "abject",
+          "meaning": "utter, complete",
+          "note": "This is the all-purpose choice for something being downright, complete, or utter."
+        },
+        {
+          "id": "t9omuxel",
+          "word": "unadulterated",
+          "meaning": "utter, complete",
+          "note": "Use this for an utter or out-and-out description, especially in expressions such as “unadulterated truth.”"
+        }
+      ],
       "examples": [
         {
           "english": "This was an abject failure.",

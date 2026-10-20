@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "beer-brewing company",
-      "english": ["brewery"],
+      "english": [
+        {
+          "id": "8orjnexa",
+          "word": "brewery",
+          "meaning": "beer-brewing company",
+          "note": "Use this when the English sense specifically emphasizes the beer-brewing company rather than its physical premises."
+        }
+      ],
       "examples": [
         {
           "english": "That brewery launched a new beer this year.",

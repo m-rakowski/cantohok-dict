@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "inborn, natural",
-      "english": ["inborn", "innate", "natural"],
+      "english": [
+        {
+          "id": "pajmyfql",
+          "word": "inborn",
+          "meaning": "innate, from birth",
+          "note": "This is the all-purpose choice for a trait or ability possessed from birth, as in 天生嘅天分."
+        },
+        {
+          "id": "in9xwkfx",
+          "word": "innate",
+          "meaning": "inborn",
+          "note": "This is the all-purpose colloquial choice for a trait or ability present from birth, not specifically for an instinctive reaction."
+        },
+        {
+          "id": "ppzv2h2z",
+          "word": "natural",
+          "meaning": "innate, inborn",
+          "note": "Use this for an ability, quality, or tendency someone has from birth rather than learns."
+        }
+      ],
       "examples": [
         {
           "english": "I have inborn musical talent.",

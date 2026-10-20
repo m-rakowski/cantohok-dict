@@ -6,7 +6,34 @@
   "boxes": [
     {
       "meaning": "death",
-      "english": ["death", "demise", "loss", "end"],
+      "english": [
+        {
+          "id": "rgcb3y5a",
+          "word": "death",
+          "meaning": "cessation of life",
+          "note": "This is the all-purpose spoken Cantonese noun for death, especially in possessive phrases such as 佢嘅死."
+        },
+        {
+          "id": "3xnqblmw",
+          "word": "demise",
+          "meaning": "death",
+          "register": "colloquial",
+          "note": "This is the all-purpose colloquial noun for a person's death."
+        },
+        {
+          "id": "2jqf4z8a",
+          "word": "loss",
+          "meaning": "death of someone",
+          "register": "colloquial",
+          "note": "Use 死 for the death of a person or animal when a direct, everyday expression is appropriate."
+        },
+        {
+          "id": "ntxiog5n",
+          "word": "end",
+          "meaning": "death; final end",
+          "note": "Use 死 as a noun for death, especially in possessive phrases such as 佢嘅死."
+        }
+      ],
       "examples": [
         {
           "english": "I still can't accept his death.",

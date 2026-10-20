@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "current events reports",
-      "english": ["news"],
+      "english": [
+        {
+          "id": "z2bw8mjo",
+          "word": "news",
+          "meaning": "current events reports",
+          "note": "Use 新聞 for reports about current events in the media."
+        }
+      ],
       "examples": [
         {
           "english": "I watched the news this morning and only then learned about that fire.",

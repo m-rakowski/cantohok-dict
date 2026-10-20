@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "traffic light",
-      "english": ["traffic light", "signal"],
+      "english": [
+        {
+          "id": "x3dy5jx6",
+          "word": "traffic light",
+          "meaning": "road signal",
+          "register": "formal",
+          "note": "Speakers use this term especially in official, technical, or more formal contexts."
+        },
+        {
+          "id": "10euahrn",
+          "word": "signal",
+          "meaning": "traffic or device signal",
+          "note": "Use this specifically for a traffic signal or traffic light rather than for a signal in general."
+        }
+      ],
       "examples": [
         {
           "english": "This section of the road is temporarily closed because of a faulty traffic light.",

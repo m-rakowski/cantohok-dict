@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "film/recording company",
-      "english": ["studio"],
+      "english": [
+        {
+          "id": "c4nx5ggp",
+          "word": "studio",
+          "meaning": "film/recording company",
+          "note": "Use this when studio means the company or organisation producing films, recordings, or other creative works, not its premises."
+        }
+      ],
       "examples": [
         {
           "english": "This studio has just finished making a new film.",

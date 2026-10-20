@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "news report",
-      "english": ["report", "coverage"],
+      "english": [
+        {
+          "id": "qymvn0rl",
+          "word": "report",
+          "meaning": "news report; account",
+          "note": "Use 報道 when the report is a news account presented by the media."
+        },
+        {
+          "id": "1e2vyoyh",
+          "word": "coverage",
+          "meaning": "news/media attention",
+          "note": "This is the all-purpose choice for coverage given by news or other media."
+        }
+      ],
       "examples": [
         {
           "english": "The TV report says the bridge will be closed today.",

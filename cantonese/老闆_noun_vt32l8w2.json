@@ -6,7 +6,42 @@
   "boxes": [
     {
       "meaning": "boss, business owner",
-      "english": ["employer", "entrepreneur", "merchant", "boss", "chief"],
+      "english": [
+        {
+          "id": "pnt23vi7",
+          "word": "employer",
+          "meaning": "person who hires workers",
+          "register": "colloquial",
+          "note": "Use this as the everyday choice when the employer is also the person you work for or report to."
+        },
+        {
+          "id": "4u9zw9r4",
+          "word": "entrepreneur",
+          "meaning": "business founder/owner",
+          "register": "colloquial",
+          "note": "This is the everyday all-purpose choice when the entrepreneur owns and runs a business."
+        },
+        {
+          "id": "7g8jwo5m",
+          "word": "merchant",
+          "meaning": "shop owner",
+          "note": "Use this for the person who owns or runs a shop or other retail business."
+        },
+        {
+          "id": "401e9172",
+          "word": "boss",
+          "meaning": "supervisor",
+          "register": "colloquial",
+          "note": "Use this especially for a business owner, employer, or shopkeeper rather than any workplace supervisor."
+        },
+        {
+          "id": "lspp4135",
+          "word": "chief",
+          "meaning": "leader; head of group",
+          "register": "colloquial",
+          "note": "Use 老闆 when the chief is the boss of a business or workplace."
+        }
+      ],
       "examples": [
         {
           "english": "My employer asked me to come to work early today.",

@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "to be angry at someone",
-      "english": ["annoy", "resent"],
+      "english": [
+        {
+          "id": "8jbggjrq",
+          "word": "annoy",
+          "meaning": "irritate, bother",
+          "register": "colloquial",
+          "note": "Use this when the annoying behavior makes someone angry or upset rather than merely bothered."
+        },
+        {
+          "id": "pi5gd078",
+          "word": "resent",
+          "meaning": "feel offended by",
+          "note": "Use this when resentment is expressed as stronger, more immediate anger toward someone."
+        }
+      ],
       "examples": [
         {
           "english": "The way you keep messing with me really does annoy me.",

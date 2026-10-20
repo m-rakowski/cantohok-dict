@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "hesitant, unsure what to do",
-      "english": ["apprehensive", "shaky"],
+      "english": [
+        {
+          "id": "nzlk7pk6",
+          "word": "apprehensive",
+          "meaning": "anxious; fearful",
+          "note": "Use this when apprehension shows as hesitation, doubt, or reluctance to decide or act."
+        },
+        {
+          "id": "pb3wcjqd",
+          "word": "shaky",
+          "meaning": "uncertain, wavering",
+          "note": "Use this when someone is wavering or unable to decide between choices."
+        }
+      ],
       "examples": [
         {
           "english": "I’m really apprehensive about whether to accept this job.",

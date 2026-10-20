@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "end, finish",
-      "english": ["conclude", "end", "expire", "close"],
+      "english": [
+        {
+          "id": "xrni8ecx",
+          "word": "conclude",
+          "meaning": "bring to an end",
+          "note": "Use this as the all-purpose verb for something ending or for bringing a meeting, speech, or activity to an end."
+        },
+        {
+          "id": "3wuivhb1",
+          "word": "end",
+          "meaning": "to end something; conclude",
+          "note": "Use this when someone deliberately ends an activity or when an event is being formally concluded."
+        },
+        {
+          "id": "yitae3xt",
+          "word": "expire",
+          "meaning": "come to an end",
+          "note": "Use this when a period, event, or process comes to an end rather than when an item becomes invalid."
+        },
+        {
+          "id": "fhil85ku",
+          "word": "close",
+          "meaning": "finish or conclude",
+          "note": "Use this when a meeting, session, event, or other activity is being brought to an end."
+        }
+      ],
       "examples": [
         {
           "english": "We can conclude the meeting now.",

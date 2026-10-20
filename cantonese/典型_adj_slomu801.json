@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "typical",
-      "english": ["characteristic", "classic", "typical"],
+      "english": [
+        {
+          "id": "4h1kg9m2",
+          "word": "characteristic",
+          "meaning": "typical, distinctive",
+          "note": "This is the all-purpose choice for something typical or representative of a person or thing."
+        },
+        {
+          "id": "83lk1tk4",
+          "word": "classic",
+          "meaning": "typical example",
+          "note": "Use 典型 when classic means a representative or textbook example of a type."
+        },
+        {
+          "id": "ze1uihhf",
+          "word": "typical",
+          "meaning": "representative, characteristic",
+          "note": "Use this when something is a characteristic or textbook example of its type."
+        }
+      ],
       "examples": [
         {
           "english": "This is the most characteristic style of a Hong Kong cha chaan teng.",

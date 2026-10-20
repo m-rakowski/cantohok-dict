@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "verse of a song",
-      "english": ["verse"],
+      "english": [
+        {
+          "id": "65w0vbjp",
+          "word": "verse",
+          "meaning": "song verse / verse",
+          "note": "Use 節 for a numbered unit of a song or a holy book, with the context showing which one is meant."
+        }
+      ],
       "examples": [
         {
           "english": "This song has four verses before the chorus, and the last verse is the most moving.",
@@ -17,7 +24,14 @@
     },
     {
       "meaning": "knot (ship speed)",
-      "english": ["knot"],
+      "english": [
+        {
+          "id": "ezz4e6gd",
+          "word": "knot",
+          "meaning": "nautical speed unit",
+          "note": "Use 節 specifically for the nautical speed unit, as in a boat travelling at twelve knots."
+        }
+      ],
       "examples": [
         {
           "english": "This boat is travelling at one knot.",
@@ -28,7 +42,14 @@
     },
     {
       "meaning": "class period",
-      "english": ["period"],
+      "english": [
+        {
+          "id": "lfex72uy",
+          "word": "period",
+          "meaning": "school class period",
+          "note": "Use this for one numbered division of a school day or a sports game, such as 第二節."
+        }
+      ],
       "examples": [
         {
           "english": "The next period is physical education, so remember to bring your trainers.",

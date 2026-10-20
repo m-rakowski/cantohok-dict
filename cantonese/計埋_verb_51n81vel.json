@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "to count in, to include",
-      "english": ["count", "allow", "include"],
+      "english": [
+        {
+          "id": "tda40jem",
+          "word": "count",
+          "meaning": "count in; include",
+          "note": "Use this when an item or period is included in the calculation or consideration."
+        },
+        {
+          "id": "5keoqpdu",
+          "word": "allow",
+          "meaning": "make allowance for",
+          "note": "Use 計埋 when factoring something into a calculation, plan, or budget."
+        },
+        {
+          "id": "m7u0s8e3",
+          "word": "include",
+          "meaning": "add as part of",
+          "register": "colloquial",
+          "note": "Use this specifically when the included item is being counted in a calculation or total."
+        }
+      ],
       "examples": [
         {
           "english": "Count your share too; there are ten portions altogether.",

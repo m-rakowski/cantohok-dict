@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "stain on reputation",
-      "english": ["disgrace", "stain"],
+      "english": [
+        {
+          "id": "43niaxkd",
+          "word": "disgrace",
+          "meaning": "a disgrace; shameful person/thing",
+          "note": "Choose this for a disgrace understood as a lasting stain on someone's reputation or record."
+        },
+        {
+          "id": "kyte0sa8",
+          "word": "stain",
+          "meaning": "blemish on reputation",
+          "note": "Use this for a blemish on someone’s character, record, or reputation rather than a physical mark."
+        }
+      ],
       "examples": [
         {
           "english": "This incident became a lasting disgrace on his record.",

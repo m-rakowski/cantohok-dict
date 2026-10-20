@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "thrifty, careful with money",
-      "english": ["economical", "frugal"],
+      "english": [
+        {
+          "id": "h25s6hvm",
+          "word": "economical",
+          "meaning": "thrifty; careful with money",
+          "note": "This is the all-purpose choice for describing a person who spends carefully and avoids waste."
+        },
+        {
+          "id": "hqwst4x7",
+          "word": "frugal",
+          "meaning": "careful with money",
+          "note": "This is the all-purpose colloquial choice for someone who is careful and economical with money."
+        }
+      ],
       "examples": [
         {
           "english": "They are very economical and always compare prices before buying things.",

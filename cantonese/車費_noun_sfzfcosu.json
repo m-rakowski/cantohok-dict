@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "transport ticket price",
-      "english": ["fare"],
+      "english": [
+        {
+          "id": "a94swn2c",
+          "word": "fare",
+          "meaning": "transport ticket price",
+          "note": "This is the all-purpose choice for money paid to travel by bus, train, taxi, or other transport."
+        }
+      ],
       "examples": [
         {
           "english": "How much is the fare for this trip?",

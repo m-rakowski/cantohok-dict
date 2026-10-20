@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "probably",
-      "english": ["probably", "presumably"],
+      "english": [
+        {
+          "id": "49q1pe71",
+          "word": "probably",
+          "meaning": "in all likelihood",
+          "note": "This is the all-purpose choice for saying that something is likely true."
+        },
+        {
+          "id": "qglpb9sq",
+          "word": "presumably",
+          "meaning": "likely; probably",
+          "note": "This is the all-purpose spoken choice for an inference that something is probably true."
+        }
+      ],
       "examples": [
         {
           "english": "They will probably arrive soon.",

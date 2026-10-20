@@ -6,7 +6,35 @@
   "boxes": [
     {
       "meaning": "lewd, smutty, indecent",
-      "english": ["raunchy", "prurient", "provocative", "dirty"],
+      "english": [
+        {
+          "id": "v1ed7tos",
+          "word": "raunchy",
+          "meaning": "smutty, indecent",
+          "note": "This is the all-purpose colloquial choice for smutty or indecent jokes, material, or behaviour."
+        },
+        {
+          "id": "7gutzh7o",
+          "word": "prurient",
+          "meaning": "lustful, lewd",
+          "register": "colloquial",
+          "note": "Use this as the everyday choice for a person or behaviour that is lustful or lewd; it is not usually used for material designed to arouse desire."
+        },
+        {
+          "id": "f4urqo6q",
+          "word": "provocative",
+          "meaning": "sexually suggestive",
+          "register": "colloquial",
+          "note": "Use this for sexually suggestive or lewd words, jokes, people, or content, usually with a negative tone."
+        },
+        {
+          "id": "w00tj6k2",
+          "word": "dirty",
+          "meaning": "obscene, sexually explicit",
+          "register": "colloquial",
+          "note": "Use this for sexually lewd or indecent people, remarks, jokes, or material rather than ordinary physical dirt."
+        }
+      ],
       "examples": [
         {
           "english": "He is always telling raunchy jokes, which makes everyone uncomfortable.",

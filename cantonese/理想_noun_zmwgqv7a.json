@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "dream, aspiration",
-      "english": ["ambition", "aspiration", "vision"],
+      "english": [
+        {
+          "id": "nzq0olf1",
+          "word": "ambition",
+          "meaning": "strong desire to succeed",
+          "note": "Use 理想 as the all-purpose everyday choice for a positive personal aspiration or goal, without an excessive or power-seeking shade."
+        },
+        {
+          "id": "a431yggg",
+          "word": "aspiration",
+          "meaning": "ambition, strong desire",
+          "note": "This is the all-purpose spoken choice for an aspiration or dream, especially a personal life or career aim."
+        },
+        {
+          "id": "dhl2wziq",
+          "word": "vision",
+          "meaning": "vision; goal",
+          "note": "Use this as the all-purpose everyday word for an ideal or aspiration."
+        }
+      ],
       "examples": [
         {
           "english": "My ambition is to open my own café.",

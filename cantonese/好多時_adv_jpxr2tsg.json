@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "often",
-      "english": ["often", "frequently"],
+      "english": [
+        {
+          "id": "iseh8v1j",
+          "word": "often",
+          "meaning": "frequently; many times",
+          "register": "colloquial",
+          "note": "This is the all-purpose choice for saying that something happens often on different occasions."
+        },
+        {
+          "id": "81qjzyyp",
+          "word": "frequently",
+          "meaning": "often",
+          "register": "colloquial",
+          "note": "Use this when emphasizing that something happens on many occasions rather than at every occasion."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

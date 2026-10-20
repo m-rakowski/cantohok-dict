@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "phone line busy",
-      "english": ["engaged"],
+      "english": [
+        {
+          "id": "77rlpswo",
+          "word": "engaged",
+          "meaning": "phone line busy",
+          "note": "Use 忙線 specifically for a telephone line that is already in use."
+        }
+      ],
       "examples": [
         {
           "english": "The phone is engaged, so I'll call again later.",

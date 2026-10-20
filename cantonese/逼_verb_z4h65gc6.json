@@ -6,7 +6,47 @@
   "boxes": [
     {
       "meaning": "force, pressure someone to do",
-      "english": ["force", "compel", "oblige", "press", "drive", "cause"],
+      "english": [
+        {
+          "id": "ymlic9yr",
+          "word": "force",
+          "meaning": "force, make do",
+          "note": "This is the all-purpose choice for making someone act, and it also covers causing a reluctant reaction such as a laugh or smile."
+        },
+        {
+          "id": "rgtj7d1q",
+          "word": "compel",
+          "meaning": "force, coerce",
+          "register": "colloquial",
+          "note": "Use this as the all-purpose spoken choice when a person or circumstance forces someone to act."
+        },
+        {
+          "id": "xo4d808u",
+          "word": "oblige",
+          "meaning": "compel; require",
+          "note": "This is the all-purpose spoken choice when someone is forced or pressured to do something."
+        },
+        {
+          "id": "6tdtf35j",
+          "word": "press",
+          "meaning": "push back, thrust",
+          "register": "colloquial",
+          "note": "Use this when pressing means forcing, driving someone back, or putting strong pressure on someone to accept or do something."
+        },
+        {
+          "id": "x39r3yv7",
+          "word": "drive",
+          "meaning": "force someone to do",
+          "note": "Use this when someone is compelled or pushed hard to do something through pressure or force."
+        },
+        {
+          "id": "9r0icgwf",
+          "word": "cause",
+          "meaning": "cause to do",
+          "register": "colloquial",
+          "note": "Use this when causing someone to do something is forceful or coercive, making them act against their will."
+        }
+      ],
       "examples": [
         {
           "english": "They force me to agree immediately.",

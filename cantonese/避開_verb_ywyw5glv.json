@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "avoid, dodge",
-      "english": ["avoid", "sidestep", "escape", "miss"],
+      "english": [
+        {
+          "id": "wcyfcl6m",
+          "word": "avoid",
+          "meaning": "stay out of harm's way",
+          "note": "This is the all-purpose choice for keeping away from a person, thing, or danger."
+        },
+        {
+          "id": "1wxvi0qp",
+          "word": "sidestep",
+          "meaning": "avoid, dodge",
+          "note": "This is the all-purpose choice for avoiding or dodging a person, obstacle, or issue."
+        },
+        {
+          "id": "7zmnkk95",
+          "word": "escape",
+          "meaning": "avoid danger or unpleasant thing",
+          "note": "Use this when escaping means deliberately avoiding an unpleasant person, thing, danger, or punishment."
+        },
+        {
+          "id": "k4d7h24i",
+          "word": "miss",
+          "meaning": "avoid hitting",
+          "note": "Use 避開 when someone or something avoids being hit or narrowly escapes a collision."
+        }
+      ],
       "examples": [
         {
           "english": "We'd better avoid that crowded street.",

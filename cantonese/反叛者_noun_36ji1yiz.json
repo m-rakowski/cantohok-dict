@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "rebel",
-      "english": ["rebel", "outlaw"],
+      "english": [
+        {
+          "id": "fyy488sg",
+          "word": "rebel",
+          "meaning": "person who resists authority",
+          "register": "formal",
+          "note": "Use this more formal written noun when referring to a rebel as a defined role or category."
+        },
+        {
+          "id": "uueztbdn",
+          "word": "outlaw",
+          "meaning": "rule-breaker, rebel",
+          "note": "Use this for an outlaw who actively rebels against authority or accepted rules."
+        }
+      ],
       "examples": [
         {
           "english": "The history book describes him as a rebel.",

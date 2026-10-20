@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "work manager",
-      "english": ["supervisor"],
+      "english": [
+        {
+          "id": "grnb674l",
+          "word": "supervisor",
+          "meaning": "work manager",
+          "note": "Use this when the role specifically involves overseeing and guiding staff, a programme, or an operation rather than simply being the boss."
+        }
+      ],
       "examples": [
         {
           "english": "The programme supervisor often guides the volunteers in their work.",

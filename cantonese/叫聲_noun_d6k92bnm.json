@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "a cry or call, of a person or animal",
-      "english": ["yell", "song", "scream"],
+      "english": [
+        {
+          "id": "humb1wq1",
+          "word": "yell",
+          "meaning": "a shout",
+          "note": "Use this as the all-purpose noun for a shout or cry."
+        },
+        {
+          "id": "d2113m71",
+          "word": "song",
+          "meaning": "animal song",
+          "note": "Use this for the vocal sound of an animal, including a bird's song, rather than a human-performed musical piece."
+        },
+        {
+          "id": "ntdiptq5",
+          "word": "scream",
+          "meaning": "animal cry",
+          "note": "Use this for an animal's vocal cry, including a cry caused by pain or fear, rather than for the specifically human sense."
+        }
+      ],
       "examples": [
         {
           "english": "A yell suddenly came from next door and startled me.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "fruit juice",
-      "english": ["juice", "nectar"],
+      "english": [
+        {
+          "id": "r82kpoyb",
+          "word": "juice",
+          "meaning": "fruit/plant liquid",
+          "note": "This is the all-purpose noun for liquid fruit juice and a juice drink ordered or served as a beverage."
+        },
+        {
+          "id": "12na563s",
+          "word": "nectar",
+          "meaning": "delicious sweet drink",
+          "note": "Use this when the nectar is a sweetened fruit juice, rather than for nectar as a general poetic description of any drink."
+        }
+      ],
       "examples": [
         {
           "english": "I want a glass of juice.",

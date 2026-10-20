@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "go along with, fit in with",
-      "english": ["comply", "conform"],
+      "english": [
+        {
+          "id": "vxxxuxo7",
+          "word": "comply",
+          "meaning": "obey / comply with",
+          "note": "Use this when complying means cooperating with a person’s request, arrangement, or procedure rather than specifically obeying a rule."
+        },
+        {
+          "id": "aby6zf7i",
+          "word": "conform",
+          "meaning": "match norms",
+          "note": "Use this when someone actively adjusts their behavior, thoughts, or actions to fit something else."
+        }
+      ],
       "examples": [
         {
           "english": "They agreed to comply with our request and provide the documents.",
@@ -22,7 +35,14 @@
     },
     {
       "meaning": "work together smoothly",
-      "english": ["cooperate"],
+      "english": [
+        {
+          "id": "n8i8unp6",
+          "word": "cooperate",
+          "meaning": "work in harmony",
+          "note": "Use this when people, actions, or systems need to coordinate smoothly or fit in with one another."
+        }
+      ],
       "examples": [
         {
           "english": "You two cooperate really well, so the event went smoothly.",

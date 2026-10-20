@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "unlucky",
-      "english": ["hapless", "unlucky"],
+      "english": [
+        {
+          "id": "k821eb79",
+          "word": "hapless",
+          "meaning": "very unlucky, ill-fated",
+          "register": "colloquial",
+          "note": "Use this colloquial choice for a person who is persistently or conspicuously unlucky."
+        },
+        {
+          "id": "5y3b5nh3",
+          "word": "unlucky",
+          "meaning": "having bad luck",
+          "register": "colloquial",
+          "note": "Use this colloquial choice especially for a person who keeps having bad luck or is having a bad run."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

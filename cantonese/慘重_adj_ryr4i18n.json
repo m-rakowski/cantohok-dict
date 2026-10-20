@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "heavy, severe (losses)",
-      "english": ["calamitous", "staggering"],
+      "english": [
+        {
+          "id": "mf02stnz",
+          "word": "calamitous",
+          "meaning": "disastrous, disastrous",
+          "note": "Use this when the disastrous aspect is specifically severe losses, damage, casualties, or consequences."
+        },
+        {
+          "id": "94nmep8x",
+          "word": "staggering",
+          "meaning": "amazing; overwhelming",
+          "note": "Use this specifically for a staggering defeat, loss, or setback that is devastating in scale."
+        }
+      ],
       "examples": [
         {
           "english": "The fire resulted in calamitous losses.",

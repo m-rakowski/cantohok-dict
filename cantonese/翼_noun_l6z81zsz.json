@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "wing of a bird",
-      "english": ["limb"],
+      "english": [
+        {
+          "id": "l8478wmm",
+          "word": "limb",
+          "meaning": "arm or leg",
+          "note": "Use this for the wing-like limb of a bird or other flying animal rather than a human arm or leg."
+        }
+      ],
       "examples": [
         {
           "english": "The injured bird could not fly because one limb was damaged.",
@@ -17,7 +24,15 @@
     },
     {
       "meaning": "wing of a building or political group",
-      "english": ["wing"],
+      "english": [
+        {
+          "id": "fpgl13pe",
+          "word": "wing",
+          "meaning": "bird/insect wing",
+          "register": "written",
+          "note": "This is the formal or compound-based choice for an animal wing and for a building or political wing, such as 西翼 or 左翼."
+        }
+      ],
       "register": "written",
       "examples": [
         {

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "nightclub",
-      "english": ["nightclub", "club"],
+      "english": [
+        {
+          "id": "cl6ui5wi",
+          "word": "nightclub",
+          "meaning": "late-night entertainment venue",
+          "note": "Use this for a more traditional or formal-sounding nightclub, especially one associated with dancing or live entertainment."
+        },
+        {
+          "id": "x95lgvwh",
+          "word": "club",
+          "meaning": "nightclub / venue",
+          "note": "Use this specifically for a nightclub rather than an ordinary bar or music venue."
+        }
+      ],
       "examples": [
         {
           "english": "That nightclub has a live singing and dancing performance tonight.",

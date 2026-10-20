@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "mistake, fault",
-      "english": ["mistake", "fault", "slip"],
+      "english": [
+        {
+          "id": "czpkn0z7",
+          "word": "mistake",
+          "meaning": "error",
+          "note": "This is the all-purpose everyday noun for a mistake or error, especially when taking blame for it."
+        },
+        {
+          "id": "kf1joy70",
+          "word": "fault",
+          "meaning": "blame / responsibility",
+          "note": "This is the all-purpose noun for admitting fault or referring to a minor mistake."
+        },
+        {
+          "id": "tw1mkid5",
+          "word": "slip",
+          "meaning": "mistake; slip of tongue",
+          "note": "Use 錯 as the everyday noun for a mistake, including a slip of the tongue when the focus is the error."
+        }
+      ],
       "examples": [
         {
           "english": "This time, it was my mistake.",

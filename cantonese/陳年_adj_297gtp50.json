@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "matured by age",
-      "english": ["aged"],
+      "english": [
+        {
+          "id": "usade2ed",
+          "word": "aged",
+          "meaning": "matured by age",
+          "note": "Use this for food or drink deliberately matured over time, such as aged whiskey, rather than merely being old."
+        }
+      ],
       "examples": [
         {
           "english": "This aged whisky is really fragrant.",

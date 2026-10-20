@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "carnival, fair, festival",
-      "english": ["fair", "carnival", "fete"],
+      "english": [
+        {
+          "id": "fu9nb3ai",
+          "word": "fair",
+          "meaning": "local fair; festival",
+          "note": "Use 嘉年華 for a celebratory community festival or a funfair-style carnival, rather than a market or professional trade event."
+        },
+        {
+          "id": "tnbg3p66",
+          "word": "carnival",
+          "meaning": "pre-Lent festival",
+          "note": "This is the all-purpose choice for a pre-Lent festival or a carnival-style traveling fair; the context makes the particular sense clear."
+        },
+        {
+          "id": "85yofyvv",
+          "word": "fete",
+          "meaning": "public festival",
+          "note": "This is the all-purpose choice for a public festival or fair."
+        }
+      ],
       "examples": [
         {
           "english": "There’s a lively fair in the community this Saturday.",

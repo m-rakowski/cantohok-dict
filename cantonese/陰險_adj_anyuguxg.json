@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "sly and deceitful",
-      "english": ["treacherous", "fiendish"],
+      "english": [
+        {
+          "id": "cux1mxnf",
+          "word": "treacherous",
+          "meaning": "deceitful, traitorous",
+          "note": "Use this as the all-purpose choice for a person who is treacherous, disloyal, or deceitful."
+        },
+        {
+          "id": "5g8ls7xs",
+          "word": "fiendish",
+          "meaning": "evil, sinister",
+          "note": "Use this instead of 邪惡 when the sinister quality involves deceit, underhandedness, or a hidden threat."
+        }
+      ],
       "examples": [
         {
           "english": "He acts like your buddy on the surface, but he’s treacherous underneath.",

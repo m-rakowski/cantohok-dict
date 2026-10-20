@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "magic show, magic trick",
-      "english": ["magic", "trick"],
+      "english": [
+        {
+          "id": "w2sfdmji",
+          "word": "magic",
+          "meaning": "stage magic",
+          "note": "Use this specifically for stage magic involving conjuring tricks and illusions."
+        },
+        {
+          "id": "2z3an3lt",
+          "word": "trick",
+          "meaning": "magic trick",
+          "note": "Use this for a magician's or stage performer's magic trick."
+        }
+      ],
       "examples": [
         {
           "english": "Look, they used magic to make the handkerchief disappear!",

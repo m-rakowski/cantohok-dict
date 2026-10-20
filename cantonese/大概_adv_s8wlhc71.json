@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "approximately",
-      "english": ["roughly", "approximately", "about"],
+      "english": [
+        {
+          "id": "x5jyfznr",
+          "word": "roughly",
+          "meaning": "approximately",
+          "note": "This is the all-purpose choice for saying that a number, amount, or division is approximate."
+        },
+        {
+          "id": "crl7b0k6",
+          "word": "approximately",
+          "meaning": "about; nearly exact quantity",
+          "note": "This is the all-purpose choice for saying a quantity is approximately a particular amount."
+        },
+        {
+          "id": "g1ixzoey",
+          "word": "about",
+          "meaning": "approximately",
+          "note": "Use this for a general estimate or approximation, especially before a quantity, time, or description."
+        }
+      ],
       "examples": [
         {
           "english": "I’ll arrive at roughly six.",
@@ -27,7 +46,20 @@
     },
     {
       "meaning": "probably",
-      "english": ["presumably", "probably"],
+      "english": [
+        {
+          "id": "2k9u68j2",
+          "word": "presumably",
+          "meaning": "likely; probably",
+          "note": "Use this when you want to emphasize an approximate degree of probability or uncertainty."
+        },
+        {
+          "id": "icwn1768",
+          "word": "probably",
+          "meaning": "in all likelihood",
+          "note": "Use this for a probable guess when sounding somewhat less definite than 應該."
+        }
+      ],
       "examples": [
         {
           "english": "We will presumably only get back at around eight.",

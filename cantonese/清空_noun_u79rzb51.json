@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "emptying or draining out",
-      "english": ["evacuation"],
+      "english": [
+        {
+          "id": "42splc42",
+          "word": "evacuation",
+          "meaning": "emptying or draining out",
+          "note": "Use this when the thing being evacuated is the contents of a container or bodily tract rather than people."
+        }
+      ],
       "examples": [
         {
           "english": "The doctor ordered an evacuation of the bowels before surgery.",

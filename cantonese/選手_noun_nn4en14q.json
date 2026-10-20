@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "competitor, athlete",
-      "english": ["athlete", "competitor"],
+      "english": [
+        {
+          "id": "osk1giha",
+          "word": "athlete",
+          "meaning": "track-and-field competitor",
+          "note": "Use this when emphasizing the person's role as a sports competitor in a contest or team."
+        },
+        {
+          "id": "miekpm9w",
+          "word": "competitor",
+          "meaning": "competitor in a contest",
+          "note": "Use this mainly for an athlete or other participant representing a team or competing in a sporting event."
+        }
+      ],
       "examples": [
         {
           "english": "The athlete represented Hong Kong in the competition.",

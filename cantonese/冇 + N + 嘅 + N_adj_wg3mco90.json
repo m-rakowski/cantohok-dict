@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "without a usual ingredient",
-      "english": ["naked"],
+      "english": [
+        {
+          "id": "f774f0tt",
+          "word": "naked",
+          "meaning": "without a usual ingredient",
+          "note": "Use this pattern for a food or object described as lacking an ingredient or component, such as a burrito without a tortilla."
+        }
+      ],
       "examples": [
         {
           "english": "This is a naked burger without a bun, so it tastes pretty plain.",

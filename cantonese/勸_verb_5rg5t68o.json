@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "urge or advise someone to do something",
-      "english": ["preach", "urge", "persuade", "induce", "advise"],
+      "english": [
+        {
+          "id": "vg1qghxc",
+          "word": "preach",
+          "meaning": "urge strongly",
+          "note": "This is the all-purpose choice for earnestly advising or recommending something."
+        },
+        {
+          "id": "bsiqet7k",
+          "word": "urge",
+          "meaning": "press someone to do",
+          "note": "This is the all-purpose choice for trying to persuade someone to do something."
+        },
+        {
+          "id": "tch4wgob",
+          "word": "persuade",
+          "meaning": "convince to do",
+          "note": "Use this for urging or advising someone to do something, especially when the emphasis is on the attempt rather than the result."
+        },
+        {
+          "id": "u6rcghs5",
+          "word": "induce",
+          "meaning": "persuade; prompt",
+          "note": "Use this when persuasion or urging leads a person to do something, rather than causing an event or condition."
+        },
+        {
+          "id": "75a43f18",
+          "word": "advise",
+          "meaning": "give advice",
+          "note": "Use this when the advice is urging or persuading someone to take or avoid a particular action."
+        }
+      ],
       "examples": [
         {
           "english": "I often preach the benefits of working from home.",

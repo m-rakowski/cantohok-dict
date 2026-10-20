@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "free time",
-      "english": ["leisure", "availability"],
+      "english": [
+        {
+          "id": "v30d8gwh",
+          "word": "leisure",
+          "meaning": "free time / leisure",
+          "note": "This is the all-purpose noun for free time when you are not occupied with other activities."
+        },
+        {
+          "id": "s72rkukx",
+          "word": "availability",
+          "meaning": "being free/available",
+          "note": "Use this as the all-purpose noun for general free time or availability."
+        }
+      ],
       "examples": [
         {
           "english": "I only have some leisure time after work.",

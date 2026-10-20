@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "purchase order, request",
-      "english": ["order"],
+      "english": [
+        {
+          "id": "05tcc0gu",
+          "word": "order",
+          "meaning": "purchase order, request",
+          "note": "Use 訂單 for a request or commission to buy or supply goods or services."
+        }
+      ],
       "examples": [
         {
           "english": "I've received your order.",

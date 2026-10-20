@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "except A",
-      "english": ["but", "except", "besides", "outside"],
+      "english": [
+        {
+          "id": "o5zaqp84",
+          "word": "but",
+          "meaning": "except; apart from",
+          "note": "This is the all-purpose colloquial construction for excluding A from a group."
+        },
+        {
+          "id": "w2j2wlge",
+          "word": "except",
+          "meaning": "except: excluding / with exception",
+          "note": "This is the all-purpose spoken construction for excluding A from what was just mentioned."
+        },
+        {
+          "id": "r6iuy5c4",
+          "word": "besides",
+          "meaning": "in addition to",
+          "note": "This is the all-purpose construction for both “in addition to” and “other than”; context determines whether A is included or excluded."
+        },
+        {
+          "id": "i3mhs6va",
+          "word": "outside",
+          "meaning": "except; apart from",
+          "note": "Use this when excluding A or meaning “apart from A.”"
+        }
+      ],
       "examples": [
         {
           "english": "Everyone has to work except me, but I have the day off today.",
@@ -32,7 +57,20 @@
     },
     {
       "meaning": "in addition to A",
-      "english": ["beyond", "beside"],
+      "english": [
+        {
+          "id": "ve3dgre7",
+          "word": "beyond",
+          "meaning": "in addition to",
+          "note": "Use this when beyond means in addition to or apart from A."
+        },
+        {
+          "id": "f5x9cjtp",
+          "word": "beside",
+          "meaning": "besides; in addition to",
+          "note": "Use this when “beside” means in addition to A."
+        }
+      ],
       "examples": [
         {
           "english": "Beyond the rent, we also have to pay a management fee.",

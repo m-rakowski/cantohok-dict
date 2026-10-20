@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "unreasonable",
-      "english": ["irrational", "unreasonable"],
+      "english": [
+        {
+          "id": "nyqlup6c",
+          "word": "irrational",
+          "meaning": "unreasonable, nonsensical",
+          "note": "This is the all-purpose choice for an irrational decision, argument, or idea."
+        },
+        {
+          "id": "7yx9rijt",
+          "word": "unreasonable",
+          "meaning": "not reasonable; excessive",
+          "note": "This is the all-purpose choice for something that is not reasonable or fair."
+        }
+      ],
       "examples": [
         {
           "english": "Changing the whole plan without asking anyone was irrational.",

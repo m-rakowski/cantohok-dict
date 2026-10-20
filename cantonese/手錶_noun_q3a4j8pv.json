@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "wristwatch",
-      "english": ["watch", "wristwatch"],
+      "english": [
+        {
+          "id": "j3jozg9d",
+          "word": "watch",
+          "meaning": "portable timepiece",
+          "note": "手錶 is the all-purpose noun for a portable or wearable timepiece."
+        },
+        {
+          "id": "tfbouibb",
+          "word": "wristwatch",
+          "meaning": "watch worn on wrist",
+          "note": "This is the all-purpose Cantonese noun for a watch worn on the wrist."
+        }
+      ],
       "examples": [
         {
           "english": "I bought a new watch.",

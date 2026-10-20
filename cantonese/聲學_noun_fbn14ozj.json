@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "science of sound",
-      "english": ["acoustics"],
+      "english": [
+        {
+          "id": "khschmbo",
+          "word": "acoustics",
+          "meaning": "science of sound",
+          "note": "Use this as the all-purpose term for the scientific study of sound."
+        }
+      ],
       "examples": [
         {
           "english": "Acoustics is the science of how sound travels and is produced.",

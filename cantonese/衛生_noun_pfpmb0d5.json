@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "hygiene, cleanliness",
-      "english": ["hygiene", "sanitation"],
+      "english": [
+        {
+          "id": "7psr7bmy",
+          "word": "hygiene",
+          "meaning": "cleanliness",
+          "note": "This is the all-purpose choice for hygiene in general, including health-preserving practices and cleanliness."
+        },
+        {
+          "id": "0zuqze99",
+          "word": "sanitation",
+          "meaning": "public health hygiene",
+          "note": "This is the all-purpose choice for sanitation as general hygiene and health protection."
+        }
+      ],
       "examples": [
         {
           "english": "The food hygiene is good, so everyone can eat with peace of mind.",

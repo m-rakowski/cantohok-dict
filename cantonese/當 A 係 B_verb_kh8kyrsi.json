@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "treat A as B",
-      "english": ["consider", "think"],
+      "english": [
+        {
+          "id": "rhgz94z9",
+          "word": "consider",
+          "meaning": "regard as",
+          "note": "Use this construction when assigning A the quality or status of B."
+        },
+        {
+          "id": "3487h7qk",
+          "word": "think",
+          "meaning": "conceive of, think of as",
+          "note": "Use this when explicitly regarding A as or treating A as B."
+        }
+      ],
       "examples": [
         {
           "english": "I consider him one of us.",

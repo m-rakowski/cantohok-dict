@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "can, may, be allowed to",
-      "english": ["may", "can", "permit", "could"],
+      "english": [
+        {
+          "id": "4sqjvhj3",
+          "word": "may",
+          "meaning": "permission / allowed",
+          "note": "This is the all-purpose choice for saying someone is allowed to do something or for making a polite request."
+        },
+        {
+          "id": "6yqs89hf",
+          "word": "can",
+          "meaning": "be able to",
+          "note": "Use 可以 as the all-purpose choice for general ability, permission, and possibility."
+        },
+        {
+          "id": "j68zd9sf",
+          "word": "permit",
+          "meaning": "allow something",
+          "note": "Use 可以 when a rule, place, condition, or amount of time makes something allowed or possible rather than someone actively granting it."
+        },
+        {
+          "id": "p449ltkl",
+          "word": "could",
+          "meaning": "past of can / unreal ability",
+          "note": "Use 可以 for conditional ability or a gentle suggestion, rather than the request pattern 可唔可以 + V."
+        }
+      ],
       "examples": [
         {
           "english": "May I sit here?",

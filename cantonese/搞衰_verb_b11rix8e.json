@@ -6,7 +6,35 @@
   "boxes": [
     {
       "meaning": "spoil, ruin",
-      "english": ["butcher", "blight", "poison", "mess"],
+      "english": [
+        {
+          "id": "bil7y22g",
+          "word": "butcher",
+          "meaning": "ruin badly",
+          "note": "This is the all-purpose colloquial choice for badly messing up a performance, work, or reputation."
+        },
+        {
+          "id": "mmugvv2s",
+          "word": "blight",
+          "meaning": "ruin, spoil",
+          "register": "colloquial",
+          "note": "Use this colloquial choice when you mean actively ruining or spoiling something."
+        },
+        {
+          "id": "js7gm2fl",
+          "word": "poison",
+          "meaning": "spoil, worsen",
+          "register": "colloquial",
+          "note": "Use this colloquial verb when something causes a situation or relationship to become much worse."
+        },
+        {
+          "id": "78mcxu5t",
+          "word": "mess",
+          "meaning": "ruin; mess up",
+          "register": "colloquial",
+          "note": "Use this when mess up means to spoil or ruin the result, situation, or relationship."
+        }
+      ],
       "examples": [
         {
           "english": "Talking like that will butcher the company's reputation.",

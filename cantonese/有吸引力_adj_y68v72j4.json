@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "attractive, appealing",
-      "english": ["magnetic", "desirable"],
+      "english": [
+        {
+          "id": "z73b65sm",
+          "word": "magnetic",
+          "meaning": "very attractive; charming",
+          "note": "Use this as the all-purpose choice for a person, personality, or thing that is exceptionally attractive or charming."
+        },
+        {
+          "id": "7hfxn03z",
+          "word": "desirable",
+          "meaning": "worth wanting",
+          "note": "Use this when desirable means broadly appealing or attractive, including sexual appeal when the context makes that clear rather than explicitly saying sexy."
+        }
+      ],
       "examples": [
         {
           "english": "They find him so magnetic that everyone gathers around to listen.",

@@ -6,7 +6,39 @@
   "boxes": [
     {
       "meaning": "strong, powerful",
-      "english": ["strong", "powerful", "formidable", "mighty", "potent"],
+      "english": [
+        {
+          "id": "03b3k7lo",
+          "word": "strong",
+          "meaning": "physically powerful",
+          "note": "Use this as the all-purpose colloquial choice for a person, force, team, or opponent that is powerful; when strong means hard to defeat, it describes a person or team rather than a physical position."
+        },
+        {
+          "id": "lkwwl9xr",
+          "word": "powerful",
+          "meaning": "strong; influential",
+          "note": "This is the all-purpose colloquial choice for a person, thing, or force that is powerful or strong."
+        },
+        {
+          "id": "nn2qsied",
+          "word": "formidable",
+          "meaning": "awe-inspiring, fearsome",
+          "register": "colloquial",
+          "note": "Use this for a person, opponent, or force that is impressively powerful or difficult to deal with."
+        },
+        {
+          "id": "cuzsm354",
+          "word": "mighty",
+          "meaning": "very strong",
+          "note": "This is the all-purpose casual choice for a very strong or powerful person or thing, and it can also praise an impressive achievement."
+        },
+        {
+          "id": "0370i29s",
+          "word": "potent",
+          "meaning": "powerful, effective",
+          "note": "Use this as the all-purpose casual choice for something powerful or having a strong effect."
+        }
+      ],
       "examples": [
         {
           "english": "This team is strong.",
@@ -37,7 +69,53 @@
     },
     {
       "meaning": "awesome, impressive, excellent",
-      "english": ["awesome", "tremendous", "phenomenal", "great", "incredible", "impressed", "immense"],
+      "english": [
+        {
+          "id": "vxbgwh9j",
+          "word": "awesome",
+          "meaning": "excellent; exciting",
+          "note": "This is the all-purpose colloquial choice for saying something is excellent, exciting, or awesome."
+        },
+        {
+          "id": "zgmvai6y",
+          "word": "tremendous",
+          "meaning": "awe-inspiring",
+          "note": "Use this as the all-purpose colloquial choice for something impressive, excellent, or formidable."
+        },
+        {
+          "id": "rcvjrxu3",
+          "word": "phenomenal",
+          "meaning": "remarkable, amazing",
+          "note": "Use this as the everyday all-purpose choice for something exceptionally impressive or good."
+        },
+        {
+          "id": "h59ogwg1",
+          "word": "great",
+          "meaning": "excellent",
+          "register": "colloquial",
+          "note": "Use this colloquially for enthusiastic praise, especially when something is impressive or powerful."
+        },
+        {
+          "id": "jh47c1zb",
+          "word": "incredible",
+          "meaning": "amazing, astonishing",
+          "register": "colloquial",
+          "note": "Use this casual choice when incredible means very impressive, excellent, or skilful."
+        },
+        {
+          "id": "txnzke8v",
+          "word": "impressed",
+          "meaning": "favorably affected",
+          "register": "colloquial",
+          "note": "Use this colloquial adjective for something or someone that is impressively good, capable, or effective."
+        },
+        {
+          "id": "9u8kbii3",
+          "word": "immense",
+          "meaning": "excellent, superb",
+          "note": "Use this colloquially when “immense” means exceptionally good or impressive."
+        }
+      ],
       "examples": [
         {
           "english": "This movie is really awesome.",
@@ -78,7 +156,28 @@
     },
     {
       "meaning": "intense, extreme in degree",
-      "english": ["intense", "royal", "violent"],
+      "english": [
+        {
+          "id": "ftdz5dm2",
+          "word": "intense",
+          "meaning": "very strong/extreme",
+          "note": "This is the all-purpose colloquial choice for something being very strong, extreme, or unusually high in degree."
+        },
+        {
+          "id": "hp9xfevd",
+          "word": "royal",
+          "meaning": "intensifier",
+          "register": "colloquial",
+          "note": "Use this colloquial adjective before another adjective to intensify an extreme or strongly negative description."
+        },
+        {
+          "id": "ym01vts7",
+          "word": "violent",
+          "meaning": "strong force/motion",
+          "register": "colloquial",
+          "note": "Use 勁 in casual speech for forceful motion or something very severe, such as a headache."
+        }
+      ],
       "note": "Can also go before another adjective to mean 'very', e.g. 勁大.",
       "examples": [
         {

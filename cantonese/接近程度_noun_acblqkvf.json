@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "closeness, nearness",
-      "english": ["closeness", "proximity"],
+      "english": [
+        {
+          "id": "g6p2arv7",
+          "word": "closeness",
+          "meaning": "physical/proximity closeness",
+          "note": "Use 接近程度 as the all-purpose noun for physical or general proximity."
+        },
+        {
+          "id": "56pw96t9",
+          "word": "proximity",
+          "meaning": "nearness, closeness",
+          "register": "formal",
+          "note": "Use this when discussing proximity explicitly as a measurable or technical degree rather than making a simple everyday statement."
+        }
+      ],
       "examples": [
         {
           "english": "The closeness of the two buildings made it easy for the fire to spread.",

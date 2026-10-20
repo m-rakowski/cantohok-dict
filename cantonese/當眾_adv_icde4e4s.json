@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "in front of everyone",
-      "english": ["publicly", "openly"],
+      "english": [
+        {
+          "id": "5ea8fuhe",
+          "word": "publicly",
+          "meaning": "in public; openly",
+          "note": "Use this when the emphasis is that something happens in front of other people or an audience."
+        },
+        {
+          "id": "41h1pzto",
+          "word": "openly",
+          "meaning": "publicly; in a visible way",
+          "note": "Use this when the action happens openly in front of other people or an audience."
+        }
+      ],
       "examples": [
         {
           "english": "The boss publicly scolded me.",

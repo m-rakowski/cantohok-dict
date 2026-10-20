@@ -6,7 +6,50 @@
   "boxes": [
     {
       "meaning": "goal, target",
-      "english": ["goal", "target", "objective", "aim", "aspiration", "mission", "task"],
+      "english": [
+        {
+          "id": "q1uka3nz",
+          "word": "goal",
+          "meaning": "aim; objective",
+          "note": "Use this as the all-purpose noun for an aim or result someone is trying to achieve."
+        },
+        {
+          "id": "jhsnyp6k",
+          "word": "target",
+          "meaning": "goal, objective",
+          "note": "This is the all-purpose noun for a goal or objective."
+        },
+        {
+          "id": "958kozh9",
+          "word": "objective",
+          "meaning": "goal, aim",
+          "note": "This is the all-purpose choice for a goal or target that someone is striving to achieve."
+        },
+        {
+          "id": "8dc2v8f6",
+          "word": "aim",
+          "meaning": "goal / intention",
+          "note": "Use this for a target to be reached or hit, especially a concrete goal."
+        },
+        {
+          "id": "uzy4wbmo",
+          "word": "aspiration",
+          "meaning": "ambition, strong desire",
+          "note": "Use this when the aspiration is framed as a concrete goal to work toward rather than a lofty dream."
+        },
+        {
+          "id": "ctfgmyb2",
+          "word": "mission",
+          "meaning": "goal/purpose",
+          "note": "Use this for the concrete goal or objective being pursued."
+        },
+        {
+          "id": "iuce69dp",
+          "word": "task",
+          "meaning": "objective",
+          "note": "Use this when task means the objective or result to be achieved, not the work itself."
+        }
+      ],
       "examples": [
         {
           "english": "My goal this year is to get into university.",

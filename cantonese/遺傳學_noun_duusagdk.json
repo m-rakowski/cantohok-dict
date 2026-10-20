@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "branch of biology",
-      "english": ["genetics"],
+      "english": [
+        {
+          "id": "cvm440vm",
+          "word": "genetics",
+          "meaning": "branch of biology",
+          "note": "This is the all-purpose term for the branch of biology concerned with heredity and variation."
+        }
+      ],
       "examples": [
         {
           "english": "I majored in genetics at university.",

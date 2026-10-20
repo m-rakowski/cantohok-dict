@@ -6,7 +6,28 @@
   "boxes": [
     {
       "meaning": "disastrous, in big trouble",
-      "english": ["disastrous", "catastrophic", "calamitous"],
+      "english": [
+        {
+          "id": "yyohs2k9",
+          "word": "disastrous",
+          "meaning": "calamitous; causing disaster",
+          "register": "colloquial",
+          "note": "This is the colloquial choice for a situation or outcome that has gone disastrously wrong."
+        },
+        {
+          "id": "vo3bzss6",
+          "word": "catastrophic",
+          "meaning": "disastrous, ruinous",
+          "note": "Use this as the colloquial all-purpose choice when a situation is disastrously serious."
+        },
+        {
+          "id": "uzk741rw",
+          "word": "calamitous",
+          "meaning": "disastrous, disastrous",
+          "register": "colloquial",
+          "note": "Use this colloquial choice for a situation or event that has gone disastrously wrong."
+        }
+      ],
       "examples": [
         {
           "english": "This project has had a disastrous outcome.",

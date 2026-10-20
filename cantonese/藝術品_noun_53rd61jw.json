@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "artworks",
-      "english": ["art"],
+      "english": [
+        {
+          "id": "rditl75z",
+          "word": "art",
+          "meaning": "artworks",
+          "note": "Use this for a concrete artwork or an art object, especially one that can be bought, sold, or exhibited."
+        }
+      ],
       "examples": [
         {
           "english": "This art sold for a high price at the auction.",

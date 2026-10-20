@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "smooth, flattering talk",
-      "english": ["blandishment", "rhetoric"],
+      "english": [
+        {
+          "id": "7u3ryprp",
+          "word": "blandishment",
+          "meaning": "flattering persuasion",
+          "note": "Use this when the flattering words sound glib, artful, or deliberately manipulative."
+        },
+        {
+          "id": "crw908ps",
+          "word": "rhetoric",
+          "meaning": "empty talk",
+          "note": "Use this when the rhetoric is flowery or manipulative and is meant to impress rather than simply being empty."
+        }
+      ],
       "examples": [
         {
           "english": "Don’t be fooled by that blandishment; you’ll be in trouble once you sign the contract.",

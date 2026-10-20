@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "to run away, flee",
-      "english": ["bolt", "flee"],
+      "english": [
+        {
+          "id": "8dhxhj5b",
+          "word": "bolt",
+          "meaning": "suddenly run away",
+          "register": "colloquial",
+          "note": "This is the all-purpose colloquial choice for suddenly fleeing or making off."
+        },
+        {
+          "id": "te8d2ht6",
+          "word": "flee",
+          "meaning": "run away, escape",
+          "register": "colloquial",
+          "note": "This is the colloquial all-purpose choice for running away or escaping, including fleeing from a place."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

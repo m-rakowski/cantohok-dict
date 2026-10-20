@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "in a different way",
-      "english": ["differently", "otherwise"],
+      "english": [
+        {
+          "id": "1fcqqw3r",
+          "word": "differently",
+          "meaning": "in a different way",
+          "note": "Use this when someone switches to an alternative method or approach."
+        },
+        {
+          "id": "vlkkutrk",
+          "word": "otherwise",
+          "meaning": "differently; in another way",
+          "note": "Use this when “otherwise” means doing something by a different method or in a different way."
+        }
+      ],
       "examples": [
         {
           "english": "This method isn't working, so let's do it differently.",

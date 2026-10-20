@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "lifestyle",
-      "english": ["lifestyle", "living"],
+      "english": [
+        {
+          "id": "1h7xtvj5",
+          "word": "lifestyle",
+          "meaning": "way of living",
+          "note": "Use this when you want to state explicitly that you mean a person's or group's style or pattern of living."
+        },
+        {
+          "id": "og19rwsx",
+          "word": "living",
+          "meaning": "way of life",
+          "note": "Use 生活方式 specifically for a person's style or pattern of life."
+        }
+      ],
       "examples": [
         {
           "english": "Young people's lifestyle is very different from before.",

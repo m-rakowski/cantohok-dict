@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "to discuss",
-      "english": ["discuss", "deliberate"],
+      "english": [
+        {
+          "id": "7ll0cwo0",
+          "word": "discuss",
+          "meaning": "talk over a topic",
+          "register": "formal",
+          "note": "Use this for a more structured or serious discussion, especially in school, work, or public settings."
+        },
+        {
+          "id": "2z8euh4q",
+          "word": "deliberate",
+          "meaning": "deliberate over, discuss carefully",
+          "note": "Use this for the discussion aspect of deliberate, especially when a group examines an issue together rather than one person reflecting alone."
+        }
+      ],
       "examples": [
         {
           "english": "We’ll discuss the new policy at this meeting.",

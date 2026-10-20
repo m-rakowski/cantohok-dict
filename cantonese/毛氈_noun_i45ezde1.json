@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "thick woollen blanket",
-      "english": ["blanket", "rug"],
+      "english": [
+        {
+          "id": "830aksvd",
+          "word": "blanket",
+          "meaning": "bed covering",
+          "note": "Use this specifically for a thick woollen or felt-like blanket rather than the general bedding word 被."
+        },
+        {
+          "id": "i1ip03j7",
+          "word": "rug",
+          "meaning": "blanket",
+          "note": "Use this for a thick fabric blanket used for warmth, especially on a bed."
+        }
+      ],
       "examples": [
         {
           "english": "This wool blanket is thick enough to keep us warm while camping.",

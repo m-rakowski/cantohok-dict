@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "believe, trust",
-      "english": ["believe", "trust", "accept"],
+      "english": [
+        {
+          "id": "yf8w93g3",
+          "word": "believe",
+          "meaning": "accept as true",
+          "note": "This is the all-purpose choice for accepting a claim, believing someone, or having confidence in someone."
+        },
+        {
+          "id": "p5woxiqu",
+          "word": "trust",
+          "meaning": "expect / hope",
+          "note": "Use this when expressing confidence that a proposition or situation is true."
+        },
+        {
+          "id": "7rwmy27r",
+          "word": "accept",
+          "meaning": "accept as true",
+          "note": "Use it when accept means believing that something is true."
+        }
+      ],
       "examples": [
         {
           "english": "I believe what you’re saying.",

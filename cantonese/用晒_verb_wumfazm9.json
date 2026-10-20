@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "use up completely",
-      "english": ["exhaust", "consume", "waste"],
+      "english": [
+        {
+          "id": "od44x1l5",
+          "word": "exhaust",
+          "meaning": "use up completely",
+          "note": "This is the all-purpose colloquial choice when a supply or resource has been used up completely."
+        },
+        {
+          "id": "g14iff8e",
+          "word": "consume",
+          "meaning": "use up",
+          "register": "colloquial",
+          "note": "Use this as the everyday all-purpose expression when something is used up completely."
+        },
+        {
+          "id": "hhitalyj",
+          "word": "waste",
+          "meaning": "wear away, use up",
+          "note": "Use 用晒 when “waste” means using something up completely."
+        }
+      ],
       "examples": [
         {
           "english": "During typhoons, we quickly exhaust our emergency water supply.",

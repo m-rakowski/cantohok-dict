@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "forecast, prediction",
-      "english": ["prediction", "projection", "forecast"],
+      "english": [
+        {
+          "id": "dvvsx7vr",
+          "word": "prediction",
+          "meaning": "forecast; statement about the future",
+          "note": "This is the all-purpose noun for a forecast or a statistically based prediction."
+        },
+        {
+          "id": "wiowncxi",
+          "word": "projection",
+          "meaning": "forecast, estimate",
+          "note": "Use this for a forecast or estimate of a future result, especially one based on data."
+        },
+        {
+          "id": "ngklp8dr",
+          "word": "forecast",
+          "meaning": "future estimate",
+          "note": "Use 預測 as the all-purpose noun for an estimate of a future condition."
+        }
+      ],
       "examples": [
         {
           "english": "This model's prediction is pretty accurate.",

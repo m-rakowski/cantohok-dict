@@ -6,7 +6,33 @@
   "boxes": [
     {
       "meaning": "break, damage",
-      "english": ["ruin", "damage", "spoil", "harm"],
+      "english": [
+        {
+          "id": "lbnjkxza",
+          "word": "ruin",
+          "meaning": "destroy, damage",
+          "note": "This is the all-purpose colloquial choice for physically damaging something so that it no longer works or can be used."
+        },
+        {
+          "id": "hx9y019q",
+          "word": "damage",
+          "meaning": "harm; damage",
+          "note": "This is the all-purpose everyday choice for damaging or breaking a concrete object, especially through handling or use."
+        },
+        {
+          "id": "9s1jl2xp",
+          "word": "spoil",
+          "meaning": "ruin, damage",
+          "note": "This is the all-purpose choice for damaging or ruining something so it no longer works or is desirable."
+        },
+        {
+          "id": "uwg3t1pk",
+          "word": "harm",
+          "meaning": "damage; injure",
+          "register": "colloquial",
+          "note": "Use this as the all-purpose colloquial choice when something physical is damaged or made unusable."
+        }
+      ],
       "examples": [
         {
           "english": "I managed to ruin my phone by accident.",

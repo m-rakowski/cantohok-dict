@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "pillar of support (person)",
-      "english": ["anchor", "strength"],
+      "english": [
+        {
+          "id": "j43s7d3x",
+          "word": "anchor",
+          "meaning": "source of stability",
+          "note": "Use this for a person or thing that provides support, stability, or security, especially metaphorically."
+        },
+        {
+          "id": "h2pgodrv",
+          "word": "strength",
+          "meaning": "source of support",
+          "note": "Use this metaphorically for a person or thing that provides essential support or something others rely on."
+        }
+      ],
       "examples": [
         {
           "english": "Mom has always been the anchor of the whole family.",
@@ -22,7 +35,14 @@
     },
     {
       "meaning": "physical post or prop",
-      "english": ["shore"],
+      "english": [
+        {
+          "id": "3rs0ncee",
+          "word": "shore",
+          "meaning": "supporting prop",
+          "note": "Use this for a physical post or prop that supports a structure or weight."
+        }
+      ],
       "examples": [
         {
           "english": "This prop is used to shore up the awning.",

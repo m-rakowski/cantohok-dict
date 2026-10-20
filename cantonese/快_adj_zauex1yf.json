@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "fast",
-      "english": ["fast", "quick", "rapid", "swift"],
+      "english": [
+        {
+          "id": "p781yctc",
+          "word": "fast",
+          "meaning": "moving quickly",
+          "note": "This is the all-purpose choice for something that moves quickly or is capable of moving quickly."
+        },
+        {
+          "id": "wustuzv9",
+          "word": "quick",
+          "meaning": "moving fast",
+          "note": "This is the all-purpose choice for something or someone moving fast."
+        },
+        {
+          "id": "zu8kt375",
+          "word": "rapid",
+          "meaning": "very swift / quick",
+          "note": "This is the all-purpose choice for something that is very swift or quick."
+        },
+        {
+          "id": "61pj4nr5",
+          "word": "swift",
+          "meaning": "fast; quick; rapid",
+          "note": "This is the all-purpose choice for something that is fast, quick, or rapid, including 快速行動."
+        }
+      ],
       "examples": [
         {
           "english": "This car goes fast.",

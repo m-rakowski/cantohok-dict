@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "warmly, in a friendly way",
-      "english": ["warmly", "pleasantly", "affectionately"],
+      "english": [
+        {
+          "id": "r8imyacm",
+          "word": "warmly",
+          "meaning": "in a friendly way",
+          "note": "For a friendly, kindly manner, this is the all-purpose choice."
+        },
+        {
+          "id": "5qhxi1eb",
+          "word": "pleasantly",
+          "meaning": "in a pleasant way",
+          "note": "Use this when the pleasant manner is warm, kind, or welcoming, as in smiling at other people."
+        },
+        {
+          "id": "ysnb4e6z",
+          "word": "affectionately",
+          "meaning": "in an affectionate way",
+          "note": "Use this when someone addresses or describes another person warmly and kindly, such as using an affectionate nickname."
+        }
+      ],
       "examples": [
         {
           "english": "They warmly welcomed me into their home.",

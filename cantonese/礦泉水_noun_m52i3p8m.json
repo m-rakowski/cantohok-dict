@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "mineral water",
-      "english": ["mineral water", "mineral", "water"],
+      "english": [
+        {
+          "id": "4s90h08j",
+          "word": "mineral water",
+          "meaning": "bottled mineral water",
+          "note": "This is the all-purpose Cantonese term for bottled mineral water."
+        },
+        {
+          "id": "c4qw06qk",
+          "word": "mineral",
+          "meaning": "mineral water",
+          "note": "Use this specifically for mineral water as a drink."
+        },
+        {
+          "id": "e8gunt38",
+          "word": "water",
+          "meaning": "mineral water",
+          "note": "Use 礦泉水 specifically for mineral water rather than ordinary drinking water."
+        }
+      ],
       "examples": [
         {
           "english": "I bought two bottles of mineral water at the convenience store and put them in the fridge.",

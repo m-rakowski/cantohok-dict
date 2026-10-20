@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "block, clog, plug",
-      "english": ["clog", "jam", "choke", "stop"],
+      "english": [
+        {
+          "id": "g3pvuwoj",
+          "word": "clog",
+          "meaning": "block passage",
+          "note": "This is the all-purpose colloquial choice for blocking or slowing a passage, such as a drain clogged with hair."
+        },
+        {
+          "id": "18w9wat6",
+          "word": "jam",
+          "meaning": "block; cause congestion",
+          "note": "This is the all-purpose choice when something blocks a road, passage, or flow."
+        },
+        {
+          "id": "wjo154xn",
+          "word": "choke",
+          "meaning": "block or clog",
+          "note": "Use this for filling or clogging a passage, pipe, opening, or other route."
+        },
+        {
+          "id": "ucnfdl9h",
+          "word": "stop",
+          "meaning": "block an opening",
+          "note": "Use this when physically plugging or blocking an opening, passage, or wound."
+        }
+      ],
       "examples": [
         {
           "english": "Hair can clog the drain.",

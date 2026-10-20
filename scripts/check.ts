@@ -4,7 +4,8 @@
 // it with `pnpm run check` (which also runs Prettier's own formatting check
 // first).
 //
-// Rules enforced here, in plain words:
+// Rules enforced here, in plain words. The word-file rules keep the legacy
+// words/ folder (words/README.md) valid; nobody edits it any more.
 // - Every word file (words/<letter>/<word>.json) must be valid JSON.
 // - A word file's name must match its "term" (words/c/cab.json for "cab"),
 //   including the underscore trick for words that are reserved names on
@@ -30,10 +31,16 @@
 //   id must have an entry; every value must be an existing page id; every
 //   page id must map to itself.
 // - The note and example rules below also apply inside a page's boxes (a
-//   note is judged against all of the box's English words).
+//   note is judged against all of the box's English words; an English
+//   entry's own note is judged against that entry's word and meaning).
+// - A box lists its English words as entries ({ "word": ..., and optionally
+//   "id", "meaning", "note", "register" }). No two entries may share an "id",
+//   no entry id may equal a page id, and every entry id must be a key in
+//   pages-by-id.json that maps to the page holding the entry.
 // - frequency.json and aliases.json must exist.
 // - Every row's id must have a matching entry in frequency.json's "rows",
-//   and every id listed there must belong to a real row.
+//   and every id listed there must belong to a real row. Each of those
+//   entries carries an integer "order".
 // - Every word's term must have a rank in frequency.json's "words", and
 //   every term listed there must belong to a real word file.
 // - Every term used as a key in aliases.json must belong to a real word file.
@@ -166,6 +173,19 @@ interface CheckedPage {
   id: string | null
   file: PageFile | null
   valid: boolean
+  /** The ids of its English entries, read even when the page fails the schema; empty when the file is not JSON. */
+  entryIds: string[]
+}
+
+/** Ids of English entries in a parsed page, ignoring anything of the wrong shape (the schema reports those). */
+function rawEntryIds(json: unknown): string[] {
+  if (!isObject(json) || !Array.isArray(json.boxes)) return []
+  const ids: string[] = []
+  for (const box of json.boxes)
+    if (isObject(box) && Array.isArray(box.english))
+      for (const entry of box.english)
+        if (isObject(entry) && typeof entry.id === 'string' && ID_PATTERN.test(entry.id)) ids.push(entry.id)
+  return ids
 }
 
 /**
@@ -196,7 +216,7 @@ function checkPages(root: string, errors: string[]): CheckedPage[] {
     }
     const json = parseJson(root, path, errors)
     if (json === INVALID) {
-      pages.push({ path, id: null, file: null, valid: false })
+      pages.push({ path, id: null, file: null, valid: false, entryIds: [] })
       continue
     }
     const valid = runSchema(path, json, validatePage, errors)
@@ -215,7 +235,7 @@ function checkPages(root: string, errors: string[]): CheckedPage[] {
       nameOk = !problem && id !== null && pagePath(traditional, partOfSpeech, id) === path
     }
     names.push({ path, nameOk })
-    pages.push({ path, id, file: valid ? (json as unknown as PageFile) : null, valid })
+    pages.push({ path, id, file: valid ? (json as unknown as PageFile) : null, valid, entryIds: rawEntryIds(json) })
   }
   errors.push(...casePathDuplicates(names))
   return pages
@@ -239,7 +259,7 @@ function checkPageReadings(pages: CheckedPage[], errors: string[]): void {
   }
 }
 
-/** No two pages share an id, and no page id equals an English row id. Pages without a usable id are skipped. */
+/** No two pages share an id, no page id equals an English row id, and English entry ids are unique and are not page ids. Pages without a usable id are skipped. */
 function checkPageIds(pages: CheckedPage[], words: CheckedWord[], errors: string[]): void {
   const rowPath = new Map<string, string>()
   for (const { path, rowIds } of words) for (const id of rowIds) rowPath.set(id, path)
@@ -252,6 +272,14 @@ function checkPageIds(pages: CheckedPage[], words: CheckedWord[], errors: string
     const row = rowPath.get(id)
     if (row) errors.push(`${path}: page id "${id}" is also an English row id (${row})`)
   }
+  const entryPath = new Map<string, string>()
+  for (const { path, entryIds } of pages)
+    for (const id of entryIds) {
+      const previous = entryPath.get(id)
+      if (previous) errors.push(`duplicate English entry id "${id}" in ${previous} and ${path}`)
+      else entryPath.set(id, path)
+      if (idPath.has(id)) errors.push(`${path}: English entry id "${id}" is also a page id`)
+    }
 }
 
 /**
@@ -277,6 +305,15 @@ function checkPageLookup(root: string, pages: CheckedPage[], words: CheckedWord[
       if (!pageIds.has(value)) errors.push(`pages-by-id.json: "${key}" points at "${value}", which is not a page id`)
   for (const { path, id } of pages)
     if (id !== null && lookup[id] !== id) errors.push(`pages-by-id.json: page "${id}" (${path}) does not map to itself`)
+  for (const { path, id, entryIds } of pages)
+    for (const entryId of entryIds) {
+      if (!Object.hasOwn(lookup, entryId))
+        errors.push(`pages-by-id.json: English entry "${entryId}" (${path}) has no entry`)
+      else if (id !== null && lookup[entryId] !== id)
+        errors.push(
+          `pages-by-id.json: English entry "${entryId}" (${path}) maps to "${lookup[entryId]}", not to its page "${id}"`,
+        )
+    }
 }
 
 function checkDuplicateIds(words: CheckedWord[], errors: string[]): void {
@@ -366,8 +403,12 @@ function checkPageShownText(pages: CheckedPage[], errors: string[]): void {
     file.boxes.forEach((box, boxIndex) => {
       const where = `${path}: box ${boxIndex + 1}`
       if (box.note !== undefined)
-        for (const problem of noteProblems(box.note, box.english.join(' '), box.meaning))
+        for (const problem of noteProblems(box.note, box.english.map(entry => entry.word).join(' '), box.meaning))
           errors.push(`${where} ${problem}`)
+      for (const entry of box.english)
+        if (entry.note !== undefined)
+          for (const problem of noteProblems(entry.note, entry.word, entry.meaning ?? box.meaning))
+            errors.push(`${where} English entry "${entry.word}" ${problem}`)
       box.examples.forEach((example, exampleIndex) => {
         const letters = placeholderLetters(example.english)
         if (letters.length)

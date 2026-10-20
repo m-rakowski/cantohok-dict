@@ -6,7 +6,34 @@
   "boxes": [
     {
       "meaning": "now, at the moment",
-      "english": ["now", "currently", "here", "actually"],
+      "english": [
+        {
+          "id": "ij1aay8g",
+          "word": "now",
+          "meaning": "at the present time",
+          "register": "colloquial",
+          "note": "This is the all-purpose colloquial choice for “now” at the present time."
+        },
+        {
+          "id": "u1u0ru5o",
+          "word": "currently",
+          "meaning": "at present, now",
+          "note": "This is the all-purpose spoken Hong Kong Cantonese equivalent for saying something is true now or at present."
+        },
+        {
+          "id": "718z12ri",
+          "word": "here",
+          "meaning": "right now; now present",
+          "note": "Use 而家 when English “here” means that something is now present or happening."
+        },
+        {
+          "id": "i2gv5zb6",
+          "word": "actually",
+          "meaning": "currently; at the moment",
+          "register": "colloquial",
+          "note": "Use this for “actually” meaning “currently” or “at the moment,” not for emphasis or correction."
+        }
+      ],
       "examples": [
         {
           "english": "I need to go to work now.",
@@ -32,7 +59,21 @@
     },
     {
       "meaning": "nowadays, these days",
-      "english": ["nowadays", "today"],
+      "english": [
+        {
+          "id": "ylhq8l90",
+          "word": "nowadays",
+          "meaning": "at present; these days",
+          "note": "This is the all-purpose spoken choice for referring to the present time or the current era."
+        },
+        {
+          "id": "xur2dpco",
+          "word": "today",
+          "meaning": "nowadays",
+          "register": "colloquial",
+          "note": "Use this for the present era or these days, rather than for the specific calendar day."
+        }
+      ],
       "examples": [
         {
           "english": "Nowadays, housing prices are really much more expensive.",

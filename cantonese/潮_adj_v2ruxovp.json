@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "trendy, fashionable",
-      "english": ["fashionable", "stylish"],
+      "english": [
+        {
+          "id": "mevj0yqv",
+          "word": "fashionable",
+          "meaning": "in fashion; stylish",
+          "note": "Use 潮 as the all-purpose casual choice for something trendy or currently in fashion."
+        },
+        {
+          "id": "agrqyope",
+          "word": "stylish",
+          "meaning": "fashionable, tasteful",
+          "register": "colloquial",
+          "note": "Use this when stylish mainly means fashionably current or trendy, especially for clothes and young people."
+        }
+      ],
       "examples": [
         {
           "english": "These fashionable sneakers are hard to buy these days.",

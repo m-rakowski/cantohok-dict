@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "1,000,000,000",
-      "english": ["billion"],
+      "english": [
+        {
+          "id": "bpx95llr",
+          "word": "billion",
+          "meaning": "1,000,000,000",
+          "note": "This is the all-purpose Cantonese rendering for one billion (1,000,000,000)."
+        }
+      ],
       "examples": [
         {
           "english": "We need to raise a billion dollars to build a new hospital.",

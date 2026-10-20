@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "safety",
-      "english": ["security", "safety", "protection"],
+      "english": [
+        {
+          "id": "5r6vcdvj",
+          "word": "security",
+          "meaning": "safety, being secure",
+          "note": "This is the all-purpose choice for the condition of being safe or secure."
+        },
+        {
+          "id": "nv8y9m0s",
+          "word": "safety",
+          "meaning": "being safe; security",
+          "note": "This is the all-purpose choice for the condition of being safe or secure."
+        },
+        {
+          "id": "8faqhinf",
+          "word": "protection",
+          "meaning": "being safe",
+          "note": "Use this for the state or condition of being safe."
+        }
+      ],
       "examples": [
         {
           "english": "I feel pretty good about the security here.",

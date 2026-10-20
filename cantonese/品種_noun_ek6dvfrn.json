@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "animal or plant breed",
-      "english": ["breed"],
+      "english": [
+        {
+          "id": "vk17coat",
+          "word": "breed",
+          "meaning": "animal or plant breed",
+          "note": "This is the all-purpose term for a breed of animal or plant."
+        }
+      ],
       "examples": [
         {
           "english": "Dogs of this breed are very popular.",

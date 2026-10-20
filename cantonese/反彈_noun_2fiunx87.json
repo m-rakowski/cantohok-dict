@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "bounce of an object",
-      "english": ["bounce"],
+      "english": [
+        {
+          "id": "sqctvqwh",
+          "word": "bounce",
+          "meaning": "bounce, rebound",
+          "note": "This is the all-purpose noun for a change of direction after something hits the ground or an obstacle."
+        }
+      ],
       "examples": [
         {
           "english": "The ball took a bounce off the wall and came back.",
@@ -17,7 +24,20 @@
     },
     {
       "meaning": "market rebound, recovery after a fall",
-      "english": ["rebound", "rally"],
+      "english": [
+        {
+          "id": "xhpj4tmr",
+          "word": "rebound",
+          "meaning": "bounce back",
+          "note": "This is the all-purpose choice for an object bouncing back and for a setback followed by a renewed upswing."
+        },
+        {
+          "id": "pb1krmz9",
+          "word": "rally",
+          "meaning": "market recovery",
+          "note": "Use this when prices or a market recover after falling."
+        }
+      ],
       "examples": [
         {
           "english": "After falling for several days, the stock market finally had a rebound today.",

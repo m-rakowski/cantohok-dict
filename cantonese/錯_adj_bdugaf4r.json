@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "wrong, incorrect",
-      "english": ["wrong", "incorrect", "inaccurate", "false", "improper"],
+      "english": [
+        {
+          "id": "0epevqly",
+          "word": "wrong",
+          "meaning": "incorrect; untrue",
+          "note": "Use 錯 as the all-purpose spoken choice when an answer, statement, or fact is incorrect."
+        },
+        {
+          "id": "z2dl3ego",
+          "word": "incorrect",
+          "meaning": "wrong; not correct",
+          "note": "Use this as the all-purpose choice for an objectively wrong answer, fact, calculation, or statement."
+        },
+        {
+          "id": "zi71cown",
+          "word": "inaccurate",
+          "meaning": "mistaken or incorrect",
+          "note": "Use this short everyday form when the context makes clear that the information or answer is wrong."
+        },
+        {
+          "id": "wo7h1oh4",
+          "word": "false",
+          "meaning": "wrong; unsound",
+          "note": "Use this for a premise, conclusion, rule, or other idea that is wrong or unsound rather than fabricated."
+        },
+        {
+          "id": "l1qkvhmi",
+          "word": "improper",
+          "meaning": "incorrect, wrong",
+          "note": "Use this when improper means factually incorrect or containing an error."
+        }
+      ],
       "examples": [
         {
           "english": "Your answer is wrong.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "rule, regulation",
-      "english": ["restriction", "standard"],
+      "english": [
+        {
+          "id": "4di3plmi",
+          "word": "restriction",
+          "meaning": "rule or limitation",
+          "note": "Use this when the restriction is specifically an explicit rule or regulation rather than a general limitation."
+        },
+        {
+          "id": "mxt0thuk",
+          "word": "standard",
+          "meaning": "rule or requirement",
+          "note": "Use this when the standard means an imposed rule or requirement, especially one set by an authority."
+        }
+      ],
       "examples": [
         {
           "english": "There is a restriction on bringing outside food into the venue.",

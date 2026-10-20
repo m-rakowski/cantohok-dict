@@ -6,7 +6,15 @@
   "boxes": [
     {
       "meaning": "machine controller",
-      "english": ["governor"],
+      "english": [
+        {
+          "id": "rquvuwiu",
+          "word": "governor",
+          "meaning": "machine controller",
+          "register": "technical",
+          "note": "Use this for the machine device that automatically regulates speed or another operating parameter."
+        }
+      ],
       "register": "technical",
       "examples": [
         {

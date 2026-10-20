@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "drip",
-      "english": ["dribble", "drop"],
+      "english": [
+        {
+          "id": "tc9zzwvw",
+          "word": "dribble",
+          "meaning": "trickle, drip out",
+          "note": "Use this when a liquid falls in drops; it is the straightforward choice for liquid rather than saliva or a ball."
+        },
+        {
+          "id": "kz8v7dfp",
+          "word": "drop",
+          "meaning": "drip in drops",
+          "note": "Use 滴 specifically when liquid falls one drop or droplet at a time."
+        }
+      ],
       "examples": [
         {
           "english": "A little water continues to dribble from the tap.",

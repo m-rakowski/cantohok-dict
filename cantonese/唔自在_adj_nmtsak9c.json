@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "ill at ease, awkward",
-      "english": ["self-conscious", "uncomfortable", "insecure", "uneasy"],
+      "english": [
+        {
+          "id": "5ap2w0p8",
+          "word": "self-conscious",
+          "meaning": "awkward and ill at ease",
+          "note": "This is the all-purpose choice when someone feels socially uncomfortable or awkward because they are aware of themselves."
+        },
+        {
+          "id": "nvg1vnb8",
+          "word": "uncomfortable",
+          "meaning": "emotionally uneasy",
+          "note": "Use this for feeling uneasy or ill at ease in a social situation or around particular people."
+        },
+        {
+          "id": "9xgvrn4j",
+          "word": "insecure",
+          "meaning": "lacking confidence",
+          "note": "Use this when “insecure” mainly means uncomfortable or ill at ease in a particular social situation rather than lacking confidence generally."
+        },
+        {
+          "id": "8q9lqat5",
+          "word": "uneasy",
+          "meaning": "awkward, constrained",
+          "note": "Choose this when someone's manner or a situation feels awkward, constrained, or socially uncomfortable."
+        }
+      ],
       "examples": [
         {
           "english": "I felt self-conscious when I hosted a show for the first time.",

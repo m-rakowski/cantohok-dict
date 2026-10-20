@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "strong desire",
-      "english": ["desire", "urge"],
+      "english": [
+        {
+          "id": "mo6bpnkz",
+          "word": "desire",
+          "meaning": "strong longing",
+          "note": "Use this as the all-purpose noun for a strong feeling of wanting, unless the context is explicitly sexual."
+        },
+        {
+          "id": "x42npeyc",
+          "word": "urge",
+          "meaning": "strong desire",
+          "note": "Use this for a strong desire treated as a lasting want, often with physical, emotional, or sexual overtones."
+        }
+      ],
       "examples": [
         {
           "english": "My desire for success is very strong.",

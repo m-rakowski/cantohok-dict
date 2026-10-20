@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "representative",
-      "english": ["representative", "delegate", "deputy", "champion"],
+      "english": [
+        {
+          "id": "49o1kyle",
+          "word": "representative",
+          "meaning": "person acting for another",
+          "note": "Use this as the all-purpose noun for a person sent or authorized to speak or act for others, including a delegate."
+        },
+        {
+          "id": "aprqfk43",
+          "word": "delegate",
+          "meaning": "authorized representative",
+          "note": "Use this as the all-purpose noun for a person representing a group, including a conference or legislative delegate."
+        },
+        {
+          "id": "gh6jtp2w",
+          "word": "deputy",
+          "meaning": "substitute / official representative",
+          "note": "This is the all-purpose choice for someone empowered to act for another person or group."
+        },
+        {
+          "id": "uoubicdw",
+          "word": "champion",
+          "meaning": "representative competitor",
+          "note": "Use this when the person or team is competing as the representative of a group or place."
+        }
+      ],
       "examples": [
         {
           "english": "We sent a representative to talk to the school.",

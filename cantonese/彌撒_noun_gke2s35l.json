@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "Catholic Mass",
-      "english": ["mass"],
+      "english": [
+        {
+          "id": "nm3pecol",
+          "word": "mass",
+          "meaning": "Catholic Mass",
+          "note": "Use this specifically for the Catholic Eucharistic service."
+        }
+      ],
       "examples": [
         {
           "english": "We go to church to attend mass on Sunday morning.",

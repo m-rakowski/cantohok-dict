@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "to interpret orally",
-      "english": ["interpret", "translate"],
+      "english": [
+        {
+          "id": "a8pfzmmn",
+          "word": "interpret",
+          "meaning": "explain or translate meaning",
+          "note": "Use this specifically for conveying spoken or signed language between languages, especially in real time."
+        },
+        {
+          "id": "y4kodkdd",
+          "word": "translate",
+          "meaning": "interpret / render in another language",
+          "note": "Use this specifically when someone interprets spoken language for others rather than translating written text."
+        }
+      ],
       "examples": [
         {
           "english": "There will be a foreign guest at the meeting tomorrow, so please interpret for us.",

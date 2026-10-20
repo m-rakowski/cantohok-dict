@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "hand gesture",
-      "english": ["gesture", "flourish", "wave"],
+      "english": [
+        {
+          "id": "fhq1m37u",
+          "word": "gesture",
+          "meaning": "body motion",
+          "note": "This is the all-purpose choice for a communicative body or hand gesture."
+        },
+        {
+          "id": "jvreksrd",
+          "word": "flourish",
+          "meaning": "dramatic gesture, brandish",
+          "note": "Use this when the flourish is a visible dramatic gesture, such as waving a flag, rather than a decoration."
+        },
+        {
+          "id": "5jrs52f6",
+          "word": "wave",
+          "meaning": "gesture with the hand",
+          "note": "Use 手勢 for the hand gesture itself when someone waves to signal, dismiss, or attract attention."
+        }
+      ],
       "examples": [
         {
           "english": "You gesture for me to come over.",

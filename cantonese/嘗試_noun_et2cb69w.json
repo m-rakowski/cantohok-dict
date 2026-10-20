@@ -6,7 +6,33 @@
   "boxes": [
     {
       "meaning": "an attempt, a try",
-      "english": ["try", "attempt", "pass", "effort"],
+      "english": [
+        {
+          "id": "6qeicxqy",
+          "word": "try",
+          "meaning": "attempt",
+          "register": "formal",
+          "note": "This is the all-purpose noun for a deliberate attempt or effort."
+        },
+        {
+          "id": "kosg9m8n",
+          "word": "attempt",
+          "meaning": "trying, effort",
+          "note": "This is the all-purpose noun for a neutral attempt or effort."
+        },
+        {
+          "id": "duigw4rg",
+          "word": "pass",
+          "meaning": "an attempt",
+          "note": "Use this as the ordinary noun for an attempt, such as an attempt at writing."
+        },
+        {
+          "id": "q2eb25m3",
+          "word": "effort",
+          "meaning": "attempt; endeavor",
+          "note": "Use this for a discrete attempt or trial rather than the exertion involved in doing something."
+        }
+      ],
       "examples": [
         {
           "english": "This method is worth a try.",

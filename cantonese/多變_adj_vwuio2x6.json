@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "changeable",
-      "english": ["mutable", "dynamic", "versatile"],
+      "english": [
+        {
+          "id": "kjmgpo5g",
+          "word": "mutable",
+          "meaning": "changeable, likely to change",
+          "note": "This is the all-purpose choice for something characterized by frequent or varied change."
+        },
+        {
+          "id": "py4587sa",
+          "word": "dynamic",
+          "meaning": "changing, active",
+          "note": "Use this for a situation or environment that is continually changing or variable."
+        },
+        {
+          "id": "sgbimxew",
+          "word": "versatile",
+          "meaning": "changeable, not fixed",
+          "note": "Use this when the emphasis is on something being changeable or not fixed, rather than useful in many ways."
+        }
+      ],
       "examples": [
         {
           "english": "The weather has been really mutable lately, with rain one minute and sunshine the next.",

@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "make a sound, ring",
-      "english": ["resound", "ring", "sound"],
+      "english": [
+        {
+          "id": "ja21gko0",
+          "word": "resound",
+          "meaning": "echo / ring with sound",
+          "note": "This is the all-purpose choice for a place, instrument, or other source making a sound or continuing to sound."
+        },
+        {
+          "id": "fuke2pew",
+          "word": "ring",
+          "meaning": "bell rings",
+          "note": "Use this when a bell, phone, or similar object itself is producing the ringing sound, rather than when someone makes it ring."
+        },
+        {
+          "id": "rzdom22g",
+          "word": "sound",
+          "meaning": "make a sound",
+          "note": "Use 響 as the all-purpose verb when a bell, horn, phone, or other thing produces a sound."
+        }
+      ],
       "examples": [
         {
           "english": "The street continued to resound with the sounds of cars at night.",

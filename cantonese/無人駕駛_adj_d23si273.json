@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "not operated by people",
-      "english": ["unmanned"],
+      "english": [
+        {
+          "id": "3qjyvbro",
+          "word": "unmanned",
+          "meaning": "not operated by people",
+          "note": "This is the all-purpose choice for vehicles or aircraft operated without a driver or crew."
+        }
+      ],
       "examples": [
         {
           "english": "This vehicle is unmanned and can drive itself to pick up passengers.",

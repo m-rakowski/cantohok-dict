@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "to tell someone something",
-      "english": ["tell"],
+      "english": [
+        {
+          "id": "dhtcyhgj",
+          "word": "tell",
+          "meaning": "say; tell someone",
+          "note": "Use 話 as the all-purpose spoken verb for conveying information or saying something, including 話畀人知 for informing someone."
+        }
+      ],
       "examples": [
         {
           "english": "I’ll tell you that we don’t have to work tomorrow.",
@@ -17,7 +24,33 @@
     },
     {
       "meaning": "to say, remark, claim",
-      "english": ["remark", "allege", "comment", "say"],
+      "english": [
+        {
+          "id": "2k7vv8k6",
+          "word": "remark",
+          "meaning": "state; say",
+          "note": "This is the all-purpose colloquial choice for stating or saying an observation."
+        },
+        {
+          "id": "k4rw7dqr",
+          "word": "allege",
+          "meaning": "claim without proof",
+          "register": "colloquial",
+          "note": "Use this as the everyday all-purpose way to report that someone claims something, especially when the context makes clear it is unproven."
+        },
+        {
+          "id": "rcbv5fo2",
+          "word": "comment",
+          "meaning": "say; remark",
+          "note": "Use 話 for a plain spoken remark or statement; it is the all-purpose everyday choice when comment simply means say or remark."
+        },
+        {
+          "id": "1xujox6a",
+          "word": "say",
+          "meaning": "tell / say",
+          "note": "Use 話 when reporting what someone says or introducing a rumour or commonly repeated statement."
+        }
+      ],
       "examples": [
         {
           "english": "I want to remark that today's wind is really strong.",

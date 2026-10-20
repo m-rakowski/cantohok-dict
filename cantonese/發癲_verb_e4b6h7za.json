@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "freak out, go crazy",
-      "english": ["freak", "flip"],
+      "english": [
+        {
+          "id": "g2zgtfv1",
+          "word": "freak",
+          "meaning": "react wildly; freak out",
+          "note": "This is the all-purpose colloquial choice for reacting wildly or irrationally under stress."
+        },
+        {
+          "id": "4woghhsh",
+          "word": "flip",
+          "meaning": "freak out",
+          "register": "colloquial",
+          "note": "Use this when someone goes berserk or becomes extremely angry, rather than simply turning something over."
+        }
+      ],
       "examples": [
         {
           "english": "I freak out whenever I hear that the report has gone wrong.",

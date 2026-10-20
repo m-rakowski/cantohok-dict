@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "repertory theatre",
-      "english": ["repertory"],
+      "english": [
+        {
+          "id": "ma5f4wiz",
+          "word": "repertory",
+          "meaning": "repertory theatre",
+          "note": "Use this for the theatre venue when the context makes clear that it has a resident company presenting works in rotation."
+        }
+      ],
       "examples": [
         {
           "english": "This theatre has a resident company that performs its repertory in rotation throughout the season.",

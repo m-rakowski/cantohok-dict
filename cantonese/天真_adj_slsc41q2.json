@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "naive, innocent",
-      "english": ["naive", "ingenuous", "innocent"],
+      "english": [
+        {
+          "id": "e76uv6pg",
+          "word": "naive",
+          "meaning": "lacking experience or judgment",
+          "note": "This is the all-purpose choice for someone who is innocent, inexperienced, or unsophisticated."
+        },
+        {
+          "id": "18xuyy0g",
+          "word": "ingenuous",
+          "meaning": "naive, trusting",
+          "note": "This is the all-purpose choice for someone who is naive, innocent, and readily trusting."
+        },
+        {
+          "id": "zfd0f2kh",
+          "word": "innocent",
+          "meaning": "naive; artless",
+          "note": "Use this for someone who is naive, artless, or inexperienced rather than morally or legally blameless."
+        }
+      ],
       "examples": [
         {
           "english": "You’re so naive—do you really think everyone will help you unconditionally?",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "dot, point",
-      "english": ["dot", "point"],
+      "english": [
+        {
+          "id": "1jyqqd1x",
+          "word": "dot",
+          "meaning": "punctuation mark / full stop",
+          "note": "This is the all-purpose everyday choice for a small visible dot or for the dot said aloud in a web or email address."
+        },
+        {
+          "id": "747q4f72",
+          "word": "point",
+          "meaning": "decimal point",
+          "note": "Use 點 as the all-purpose noun for a literal or mathematical point, including a tiny mark and a decimal point."
+        }
+      ],
       "examples": [
         {
           "english": "There's a dot of ink on the paper.",
@@ -22,7 +35,14 @@
     },
     {
       "meaning": "o'clock, hour on the clock",
-      "english": ["hour"],
+      "english": [
+        {
+          "id": "x637h4b4",
+          "word": "hour",
+          "meaning": "military time hour",
+          "note": "Use 點 when a numeric time is being read as a clock time in ordinary speech rather than as strict formal military notation."
+        }
+      ],
       "examples": [
         {
           "english": "The meeting starts at eight thirty in the morning and lasts an hour.",

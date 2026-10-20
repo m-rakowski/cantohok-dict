@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "payment reminder notice",
-      "english": ["reminder"],
+      "english": [
+        {
+          "id": "8ctgewmh",
+          "word": "reminder",
+          "meaning": "payment reminder notice",
+          "note": "Use this specifically for a bill or written notice reminding someone to pay an outstanding amount."
+        }
+      ],
       "examples": [
         {
           "english": "I received a payment reminder today and only then realized I hadn't paid my credit card bill.",

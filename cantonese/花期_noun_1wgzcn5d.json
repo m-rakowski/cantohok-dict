@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "flowering season",
-      "english": ["bloom", "blossom"],
+      "english": [
+        {
+          "id": "qbic5vk3",
+          "word": "bloom",
+          "meaning": "state of flowering",
+          "note": "Use this when “bloom” means the flowering season or period when plants have flowers open."
+        },
+        {
+          "id": "r1tymm4j",
+          "word": "blossom",
+          "meaning": "in blossom / flowering",
+          "note": "Use this specifically for the flowering season or period when a plant is in blossom."
+        }
+      ],
       "examples": [
         {
           "english": "The bloom period of this orchid is quite long.",

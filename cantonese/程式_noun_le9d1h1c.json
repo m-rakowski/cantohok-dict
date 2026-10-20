@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "computer program",
-      "english": ["programming", "script"],
+      "english": [
+        {
+          "id": "vnj1ktwu",
+          "word": "programming",
+          "meaning": "machine software settings",
+          "note": "Use this for the software or logic built into a machine, rather than the activity of writing it."
+        },
+        {
+          "id": "8zw39bmp",
+          "word": "script",
+          "meaning": "computer script",
+          "note": "Use this in a computing context for a short program that automates a task, though it can also mean a program more generally."
+        }
+      ],
       "examples": [
         {
           "english": "The machine's programming has a problem.",

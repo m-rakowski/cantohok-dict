@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "to bite",
-      "english": ["bite"],
+      "english": [
+        {
+          "id": "2ra84onl",
+          "word": "bite",
+          "meaning": "cut with teeth",
+          "note": "This is the all-purpose one for cutting or attacking with the teeth, including an animal or insect physically biting."
+        }
+      ],
       "examples": [
         {
           "english": "I got a bite from a dog.",
@@ -17,7 +24,14 @@
     },
     {
       "meaning": "to chew",
-      "english": ["chew"],
+      "english": [
+        {
+          "id": "w8y2ddcj",
+          "word": "chew",
+          "meaning": "bite and grind food",
+          "note": "This is the all-purpose spoken choice for chewing food."
+        }
+      ],
       "examples": [
         {
           "english": "You have to chew this meat slowly before you can swallow it.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "influential",
-      "english": ["influential", "powerful"],
+      "english": [
+        {
+          "id": "v5ni7hjc",
+          "word": "influential",
+          "meaning": "having much influence",
+          "note": "This is the all-purpose choice for a person, group, or work that has or exerts a lot of influence."
+        },
+        {
+          "id": "ds9wrjwt",
+          "word": "powerful",
+          "meaning": "strong; influential",
+          "note": "Use this specifically when powerful means able to influence people, decisions, or events."
+        }
+      ],
       "examples": [
         {
           "english": "This film is very influential in Hong Kong cinema.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "model to follow",
-      "english": ["example"],
+      "english": [
+        {
+          "id": "9i1h4xv3",
+          "word": "example",
+          "meaning": "model to follow",
+          "note": "Use this specifically for a bad model whose behaviour should not be imitated."
+        }
+      ],
       "examples": [
         {
           "english": "They are always late, which is a really bad example for the children.",

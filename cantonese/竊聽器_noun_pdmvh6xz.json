@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "hidden listening device",
-      "english": ["bug"],
+      "english": [
+        {
+          "id": "0skfxc02",
+          "word": "bug",
+          "meaning": "hidden listening device",
+          "note": "Use this specifically for a concealed device used to listen in or intercept communications."
+        }
+      ],
       "examples": [
         {
           "english": "The police found a bug in the meeting room.",

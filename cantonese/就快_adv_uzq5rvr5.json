@@ -6,7 +6,45 @@
   "boxes": [
     {
       "meaning": "soon, about to happen",
-      "english": ["shortly", "momentarily", "nearly", "soon", "near", "almost"],
+      "english": [
+        {
+          "id": "2hu4kaky",
+          "word": "shortly",
+          "meaning": "soon",
+          "note": "Use this as the all-purpose spoken choice when an event is expected soon or is nearly happening."
+        },
+        {
+          "id": "85pqeh4s",
+          "word": "momentarily",
+          "meaning": "very soon",
+          "note": "This is the all-purpose choice for saying that something will happen very soon."
+        },
+        {
+          "id": "ubnn3grn",
+          "word": "nearly",
+          "meaning": "almost, virtually",
+          "note": "Use this when nearly means that an event or change is about to happen soon."
+        },
+        {
+          "id": "hlb2c592",
+          "word": "soon",
+          "meaning": "in a short time",
+          "register": "colloquial",
+          "note": "Use this when the event is imminent or very soon to happen."
+        },
+        {
+          "id": "l0i8xd8d",
+          "word": "near",
+          "meaning": "nearly; almost",
+          "note": "Use this when “nearly” means that something is imminent or will happen soon."
+        },
+        {
+          "id": "ab07rrje",
+          "word": "almost",
+          "meaning": "nearly; not quite",
+          "note": "Use this when something is almost about to happen or a time or stage is imminent."
+        }
+      ],
       "examples": [
         {
           "english": "I’ll be there shortly.",

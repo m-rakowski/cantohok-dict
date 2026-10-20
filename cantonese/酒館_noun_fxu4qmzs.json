@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "tavern, old-style pub",
-      "english": ["saloon", "pub"],
+      "english": [
+        {
+          "id": "68yo1nry",
+          "word": "saloon",
+          "meaning": "tavern / bar",
+          "note": "Use this for the old-fashioned tavern sense, especially in a historical or Old West setting."
+        },
+        {
+          "id": "7wkoukhq",
+          "word": "pub",
+          "meaning": "public house",
+          "register": "written",
+          "note": "Use this for a tavern-like or more traditional pub rather than the usual modern bar."
+        }
+      ],
       "examples": [
         {
           "english": "That old saloon has a history of hundreds of years, and minstrels still sing there at night.",

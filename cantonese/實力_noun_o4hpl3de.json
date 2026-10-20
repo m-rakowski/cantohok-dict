@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "real strength, ability",
-      "english": ["capability", "muscle", "game"],
+      "english": [
+        {
+          "id": "nrtvsx6q",
+          "word": "capability",
+          "meaning": "ability to do something",
+          "note": "Use this when the capability emphasizes the strength or resources needed to achieve a result, especially for a person, team, or organization."
+        },
+        {
+          "id": "12x8pff7",
+          "word": "muscle",
+          "meaning": "strength, force",
+          "note": "Use this for strength or leverage in a general, non-physical sense rather than for body muscles."
+        },
+        {
+          "id": "87m91n5j",
+          "word": "game",
+          "meaning": "skill level",
+          "note": "Use this when game means someone's level, ability, or mastery rather than the activity itself."
+        }
+      ],
       "examples": [
         {
           "english": "This team's capability is strong enough to win the championship.",

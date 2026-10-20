@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "rich, plentiful",
-      "english": ["rich", "abundant", "wealthy"],
+      "english": [
+        {
+          "id": "v84n9ily",
+          "word": "rich",
+          "meaning": "feature-rich",
+          "note": "Use this for something plentiful or varied, including entertainment, resources, content, or features."
+        },
+        {
+          "id": "lc2tpjlu",
+          "word": "abundant",
+          "meaning": "richly supplied; full of",
+          "note": "Use this for something richly supplied with content, qualities, resources, or variety."
+        },
+        {
+          "id": "80ow5ah7",
+          "word": "wealthy",
+          "meaning": "abundant; plentiful",
+          "note": "Use this for something rich or abundant in content, qualities, or quantity rather than for a person's money."
+        }
+      ],
       "examples": [
         {
           "english": "The content on this website is rich.",

@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "beginner",
-      "english": ["beginner", "learner"],
+      "english": [
+        {
+          "id": "g3tt4rdg",
+          "word": "beginner",
+          "meaning": "new learner",
+          "register": "formal",
+          "note": "Use this when emphasizing someone who is just beginning to learn a subject or skill."
+        },
+        {
+          "id": "0qyei7vr",
+          "word": "learner",
+          "meaning": "person who is learning",
+          "note": "Use this for a learner who is at the beginner stage rather than an experienced learner."
+        }
+      ],
       "examples": [
         {
           "english": "This book is perfect for a beginner.",

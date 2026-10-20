@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "strict, rigorous",
-      "english": ["strict", "stringent", "severe", "exact"],
+      "english": [
+        {
+          "id": "qd120ie3",
+          "word": "strict",
+          "meaning": "severe, rule-enforcing",
+          "note": "This is the all-purpose choice for enforcing rules and for a narrowly or exactly limited interpretation."
+        },
+        {
+          "id": "2o9uyi22",
+          "word": "stringent",
+          "meaning": "strict, severe requirements",
+          "note": "Use this as the all-purpose choice for strict rules, standards, or requirements."
+        },
+        {
+          "id": "4pvx8tnt",
+          "word": "severe",
+          "meaning": "strict or harsh",
+          "note": "Use this for a person, rule, or standard that is strict rather than especially harsh."
+        },
+        {
+          "id": "et3eiaq3",
+          "word": "exact",
+          "meaning": "strict, precise",
+          "note": "Use this for the strict aspect of an exact command, rule, or requirement."
+        }
+      ],
       "examples": [
         {
           "english": "The company's rules about being late are very strict.",

@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "affect, influence",
-      "english": ["influence", "affect", "impair", "blight"],
+      "english": [
+        {
+          "id": "8t5o044f",
+          "word": "influence",
+          "meaning": "influence, sway",
+          "note": "This is the all-purpose choice for having an effect on or swaying someone or something."
+        },
+        {
+          "id": "9iegjx4z",
+          "word": "affect",
+          "meaning": "influence, change",
+          "note": "This is the all-purpose verb for influencing or changing something, and it is also the natural everyday choice when an illness harms an organ."
+        },
+        {
+          "id": "3ix894t7",
+          "word": "impair",
+          "meaning": "weaken; damage",
+          "note": "This is the all-purpose choice for having a negative effect on something."
+        },
+        {
+          "id": "84x88dc6",
+          "word": "blight",
+          "meaning": "ruin, spoil",
+          "note": "Use this as the all-purpose choice for damaging someone's prospects or quality of life."
+        }
+      ],
       "examples": [
         {
           "english": "This film can influence how I see family.",

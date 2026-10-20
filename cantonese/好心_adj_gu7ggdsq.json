@@ -6,7 +6,33 @@
   "boxes": [
     {
       "meaning": "kind-hearted",
-      "english": ["kind", "hearted", "benevolent", "kindly"],
+      "english": [
+        {
+          "id": "8w342y0u",
+          "word": "kind",
+          "meaning": "kind; kind-hearted",
+          "note": "This is the all-purpose choice for describing someone as kind-hearted and willing to help others."
+        },
+        {
+          "id": "k1e4mxii",
+          "word": "hearted",
+          "meaning": "having a specified kind of heart",
+          "note": "Use this for being kind-hearted or well-meaning; it is the everyday positive description."
+        },
+        {
+          "id": "ke6uvp2o",
+          "word": "benevolent",
+          "meaning": "kindly disposed; doing good",
+          "note": "This is the all-purpose casual choice for someone kindly disposed or acting for others' good."
+        },
+        {
+          "id": "g3uc7vzq",
+          "word": "kindly",
+          "meaning": "kind, warmhearted",
+          "register": "colloquial",
+          "note": "Use this for a casual description of someone who means well and is willing to help."
+        }
+      ],
       "examples": [
         {
           "english": "They are really kind and always help people.",

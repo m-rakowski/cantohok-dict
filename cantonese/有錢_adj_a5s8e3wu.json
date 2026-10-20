@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "rich",
-      "english": ["rich", "wealthy", "prosperous"],
+      "english": [
+        {
+          "id": "4zlc5yr1",
+          "word": "rich",
+          "meaning": "wealthy",
+          "note": "This is the all-purpose spoken choice for a person or family with a lot of money and possessions."
+        },
+        {
+          "id": "co27x1tz",
+          "word": "wealthy",
+          "meaning": "rich; financially well-off",
+          "note": "This is the all-purpose colloquial choice for someone who is financially wealthy."
+        },
+        {
+          "id": "om9l6gnp",
+          "word": "prosperous",
+          "meaning": "wealthy; well-off",
+          "note": "Use this specifically when prosperous means personally wealthy or well-off, rather than generally successful."
+        }
+      ],
       "examples": [
         {
           "english": "That family is rich; they live in a big house and drive nice cars.",

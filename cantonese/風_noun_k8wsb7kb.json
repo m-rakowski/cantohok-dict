@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "wind",
-      "english": ["wind", "air"],
+      "english": [
+        {
+          "id": "m6k1t0z6",
+          "word": "wind",
+          "meaning": "movement of air",
+          "note": "This is the all-purpose noun for moving air."
+        },
+        {
+          "id": "qzrvtiqn",
+          "word": "air",
+          "meaning": "breeze, gentle wind",
+          "note": "Use this for a breeze or gentle wind when the context makes its mildness clear."
+        }
+      ],
       "examples": [
         {
           "english": "The wind is very strong outside today.",

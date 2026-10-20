@@ -6,7 +6,15 @@
   "boxes": [
     {
       "meaning": "land area in acres",
-      "english": ["acreage"],
+      "english": [
+        {
+          "id": "b8jjcfg2",
+          "word": "acreage",
+          "meaning": "land area in acres",
+          "register": "written",
+          "note": "Use this when you specifically mean the number of acres making up the land area."
+        }
+      ],
       "register": "written",
       "examples": [
         {

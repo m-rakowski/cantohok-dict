@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "ship or plane body",
-      "english": ["hull"],
+      "english": [
+        {
+          "id": "g8za2hfu",
+          "word": "hull",
+          "meaning": "ship or plane body",
+          "note": "Use this specifically for the body or frame of an aircraft rather than a ship."
+        }
+      ],
       "examples": [
         {
           "english": "The aircraft's hull is dented in several places.",

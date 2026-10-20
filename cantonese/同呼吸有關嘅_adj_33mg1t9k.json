@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "relating to breathing",
-      "english": ["respiratory"],
+      "english": [
+        {
+          "id": "qmr59afi",
+          "word": "respiratory",
+          "meaning": "relating to breathing",
+          "note": "This is the all-purpose choice for things relating to breathing or the respiratory organs."
+        }
+      ],
       "examples": [
         {
           "english": "This medicine is quite effective for respiratory diseases.",

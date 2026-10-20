@@ -6,7 +6,36 @@
   "boxes": [
     {
       "meaning": "crazy, mad",
-      "english": ["insane", "daft", "ridiculous", "weird"],
+      "english": [
+        {
+          "id": "xe706b0g",
+          "word": "insane",
+          "meaning": "mentally ill; mad",
+          "register": "colloquial",
+          "note": "This is the all-purpose casual choice for a person or idea described as crazy, though it is not normally praise."
+        },
+        {
+          "id": "17sf2j1p",
+          "word": "daft",
+          "meaning": "crazy, insane",
+          "register": "colloquial",
+          "note": "Use this for someone who seems crazy, insane, or mentally unbalanced rather than merely foolish."
+        },
+        {
+          "id": "75cp47a7",
+          "word": "ridiculous",
+          "meaning": "foolish, absurd",
+          "register": "colloquial",
+          "note": "Use this colloquial choice for something absurd or crazy-sounding, especially when reacting strongly to it."
+        },
+        {
+          "id": "o2ipcd2c",
+          "word": "weird",
+          "meaning": "strange person",
+          "register": "colloquial",
+          "note": "Use this colloquially for a person or their behaviour when it seems crazy or way out of line, not for a merely unusual situation."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

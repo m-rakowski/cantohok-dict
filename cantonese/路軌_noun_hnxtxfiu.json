@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "railway track",
-      "english": ["railroad", "track", "railway"],
+      "english": [
+        {
+          "id": "cpehpz47",
+          "word": "railroad",
+          "meaning": "train tracks",
+          "note": "Use this specifically for the physical rails and trackbed, rather than the railway service or system."
+        },
+        {
+          "id": "mpoxik8e",
+          "word": "track",
+          "meaning": "railway track",
+          "note": "Use this for the rails or track that trains run on."
+        },
+        {
+          "id": "quy9n2dl",
+          "word": "railway",
+          "meaning": "railway track",
+          "note": "Use this specifically for the physical tracks that trains run on, rather than the transport system."
+        }
+      ],
       "examples": [
         {
           "english": "The workers are inspecting the railroad.",

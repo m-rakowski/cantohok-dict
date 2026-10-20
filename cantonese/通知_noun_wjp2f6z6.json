@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "notice, notification",
-      "english": ["announcement", "notice"],
+      "english": [
+        {
+          "id": "lucuh2rx",
+          "word": "announcement",
+          "meaning": "notice / official announcement",
+          "note": "This is the all-purpose noun for a notice or announcement sent or given to people."
+        },
+        {
+          "id": "6ax9v70l",
+          "word": "notice",
+          "meaning": "formal warning",
+          "note": "Use 通知 for a neutral advance, formal, or employment-related notification rather than for a posted sign or a warning itself."
+        }
+      ],
       "examples": [
         {
           "english": "The company sent an announcement that we’re off tomorrow.",

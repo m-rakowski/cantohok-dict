@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "warm, enthusiastic, passionate",
-      "english": ["enthusiastic", "hearty", "passionate"],
+      "english": [
+        {
+          "id": "6frwxxpe",
+          "word": "enthusiastic",
+          "meaning": "eager, excited, keen",
+          "note": "This is the all-purpose choice for a person who shows strong enthusiasm or passion."
+        },
+        {
+          "id": "opui2bir",
+          "word": "hearty",
+          "meaning": "warm, cordial",
+          "note": "Use this for a person’s warm, cordial attitude or an enthusiastic welcome or show of support."
+        },
+        {
+          "id": "wb70dp4t",
+          "word": "passionate",
+          "meaning": "romantic/sexual; strongly loving",
+          "note": "This is the all-purpose choice for warm, strongly felt romantic affection or enthusiasm, though it is less explicitly sexual than 「好有激情」."
+        }
+      ],
       "examples": [
         {
           "english": "They are always enthusiastic and warm toward people.",

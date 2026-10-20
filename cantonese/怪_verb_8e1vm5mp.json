@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "blame",
-      "english": ["blame", "accuse", "thank"],
+      "english": [
+        {
+          "id": "uhdiyp40",
+          "word": "blame",
+          "meaning": "hold responsible",
+          "note": "Use 怪 as the all-purpose spoken choice when holding someone responsible for a bad outcome."
+        },
+        {
+          "id": "t0l43qjt",
+          "word": "accuse",
+          "meaning": "blame or censure",
+          "note": "This is the all-purpose everyday choice for blaming someone or finding fault with them."
+        },
+        {
+          "id": "n5uviwi0",
+          "word": "thank",
+          "meaning": "blame, attribute to",
+          "note": "Use this to say that someone or something is to blame for a result, especially a negative one."
+        }
+      ],
       "examples": [
         {
           "english": "Don’t blame me; this time it was really an accident.",

@@ -6,7 +6,56 @@
   "boxes": [
     {
       "meaning": "all along, continuously",
-      "english": ["ever", "steadily", "indefinitely", "enduringly", "long", "continuously", "always", "straight"],
+      "english": [
+        {
+          "id": "9aeuf7qo",
+          "word": "ever",
+          "meaning": "continuously, always",
+          "note": "This is the all-purpose choice for something continuing or happening throughout a period."
+        },
+        {
+          "id": "6ykfkvim",
+          "word": "steadily",
+          "meaning": "continuously; at a constant rate",
+          "note": "This is the all-purpose choice for an action continuing steadily over a period of time."
+        },
+        {
+          "id": "qvgs3vlf",
+          "word": "indefinitely",
+          "meaning": "for an unlimited time",
+          "note": "This is the all-purpose spoken choice for something continuing with no stated end."
+        },
+        {
+          "id": "rs8t02h1",
+          "word": "enduringly",
+          "meaning": "in a lasting way",
+          "note": "Use this when the emphasis is on something remaining continuously true, such as staying popular throughout a period."
+        },
+        {
+          "id": "9i18r5lm",
+          "word": "long",
+          "meaning": "for a long time",
+          "note": "Use this when the state or action has continued throughout the period up to now or another reference point."
+        },
+        {
+          "id": "6lap9t1p",
+          "word": "continuously",
+          "meaning": "without pause",
+          "note": "Use this when an action or state continues throughout a period or along a course, emphasizing its ongoing duration."
+        },
+        {
+          "id": "ou9wt5h3",
+          "word": "always",
+          "meaning": "at all times",
+          "note": "Use 一直 for an unbroken state or action continuing from a starting point, rather than a recurring habit."
+        },
+        {
+          "id": "a5mc5ld5",
+          "word": "straight",
+          "meaning": "continuously, without pause",
+          "note": "Use this for something continuing for a period without interruption."
+        }
+      ],
       "examples": [
         {
           "english": "I've been waiting for you ever since this morning.",

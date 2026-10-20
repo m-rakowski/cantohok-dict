@@ -6,7 +6,44 @@
   "boxes": [
     {
       "meaning": "complicated",
-      "english": ["involved", "complex", "complicated", "sophisticated", "convoluted", "elaborate"],
+      "english": [
+        {
+          "id": "q7eb9sht",
+          "word": "involved",
+          "meaning": "complicated",
+          "note": "This is the all-purpose choice when “involved” means complicated or difficult to follow."
+        },
+        {
+          "id": "tgjwwblc",
+          "word": "complex",
+          "meaning": "not simple; complicated",
+          "note": "This is the all-purpose choice for something that is not simple or straightforward."
+        },
+        {
+          "id": "ldiwa2ek",
+          "word": "complicated",
+          "meaning": "difficult, complex",
+          "note": "This is the all-purpose choice for something difficult, convoluted, or involving many interrelated parts."
+        },
+        {
+          "id": "ry935upm",
+          "word": "sophisticated",
+          "meaning": "advanced, complex",
+          "note": "Use this as the all-purpose choice for sophisticated systems or technology when the emphasis is on complexity."
+        },
+        {
+          "id": "2jsxl1vf",
+          "word": "convoluted",
+          "meaning": "complicated, hard to follow",
+          "note": "This is the all-purpose choice for something complex, intricate, or difficult to follow."
+        },
+        {
+          "id": "eho2sh7v",
+          "word": "elaborate",
+          "meaning": "complex, detailed",
+          "note": "Use this as the all-purpose choice when something has many complicated or intricately arranged parts."
+        }
+      ],
       "examples": [
         {
           "english": "This procedure is so involved that I can't follow it.",

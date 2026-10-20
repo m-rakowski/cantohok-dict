@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "keyboard shortcut",
-      "english": ["keystroke"],
+      "english": [
+        {
+          "id": "22xt20mp",
+          "word": "keystroke",
+          "meaning": "keyboard shortcut",
+          "note": "Use this specifically for a keyboard shortcut rather than an individual key press."
+        }
+      ],
       "examples": [
         {
           "english": "This keystroke lets you save the document instantly.",

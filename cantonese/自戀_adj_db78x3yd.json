@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "self-obsessed, vain",
-      "english": ["narcissistic", "vain"],
+      "english": [
+        {
+          "id": "9uvgs61h",
+          "word": "narcissistic",
+          "meaning": "self-obsessed",
+          "note": "This is the all-purpose choice for someone or something characterized by narcissism or excessive preoccupation with the self."
+        },
+        {
+          "id": "jmz5fh9k",
+          "word": "vain",
+          "meaning": "conceited, self-important",
+          "note": "Use this when “vain” focuses on excessive admiration of one's own looks or self-image."
+        }
+      ],
       "examples": [
         {
           "english": "They are always taking selfies in front of the mirror; they’re really narcissistic.",

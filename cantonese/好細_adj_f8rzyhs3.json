@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "very small",
-      "english": ["tiny", "microscopic"],
+      "english": [
+        {
+          "id": "241xcovg",
+          "word": "tiny",
+          "meaning": "very small",
+          "note": "This is the all-purpose conversational choice for saying that something is tiny."
+        },
+        {
+          "id": "grmunmvw",
+          "word": "microscopic",
+          "meaning": "very small",
+          "register": "colloquial",
+          "note": "This is the all-purpose colloquial choice for saying that something is very small."
+        }
+      ],
       "examples": [
         {
           "english": "This room is tiny.",

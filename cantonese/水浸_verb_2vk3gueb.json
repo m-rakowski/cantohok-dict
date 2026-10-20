@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "to flood",
-      "english": ["flood", "swim"],
+      "english": [
+        {
+          "id": "l22rojff",
+          "word": "flood",
+          "meaning": "become flooded",
+          "note": "This is the all-purpose choice when an area becomes flooded with water."
+        },
+        {
+          "id": "avt110ji",
+          "word": "swim",
+          "meaning": "be flooded or overflowed",
+          "note": "Use this when a place or object is flooded or drenched with water."
+        }
+      ],
       "examples": [
         {
           "english": "Last night's heavy rain caused a flood across the whole street.",

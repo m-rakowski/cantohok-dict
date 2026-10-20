@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "most, -est",
-      "english": ["most", "furthest", "very"],
+      "english": [
+        {
+          "id": "ui3xyzhk",
+          "word": "most",
+          "meaning": "superlative marker",
+          "note": "Use 最 before an adjective or adjective phrase to form the superlative, as in 最重要嘅."
+        },
+        {
+          "id": "qfw11r9z",
+          "word": "furthest",
+          "meaning": "greatest degree/extent",
+          "note": "Use this before a gradable verb or adjective when “furthest” means to the greatest degree, as in 發展得最先進."
+        },
+        {
+          "id": "pvb3f4s7",
+          "word": "very",
+          "meaning": "emphatic superlative",
+          "note": "Use 最 before a description when firmly asserting the superlative, as in “the very best.”"
+        }
+      ],
       "examples": [
         {
           "english": "This is the tea I like most.",

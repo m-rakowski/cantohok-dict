@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "hired thug",
-      "english": ["muscle", "gorilla"],
+      "english": [
+        {
+          "id": "cjdns8v4",
+          "word": "muscle",
+          "meaning": "hired toughs",
+          "note": "Use this for a hired tough or enforcer rather than for strength itself."
+        },
+        {
+          "id": "vd8e9qn5",
+          "word": "gorilla",
+          "meaning": "brutish man, thug",
+          "note": "Use this when the gorilla is specifically an enforcer or thug."
+        }
+      ],
       "examples": [
         {
           "english": "Those guys are the boss’s hired muscle.",

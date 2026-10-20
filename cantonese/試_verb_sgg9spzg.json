@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "to try, test out",
-      "english": ["try", "prove"],
+      "english": [
+        {
+          "id": "3j3z7xta",
+          "word": "try",
+          "meaning": "attempt; endeavour",
+          "note": "This is the all-purpose choice for attempting something, experimenting with an action, or trying something out."
+        },
+        {
+          "id": "d7ecpk58",
+          "word": "prove",
+          "meaning": "test",
+          "note": "Use this for putting something to the test or trying it out."
+        }
+      ],
       "examples": [
         {
           "english": "I haven’t tried making this dish before, so I’ll try it today.",

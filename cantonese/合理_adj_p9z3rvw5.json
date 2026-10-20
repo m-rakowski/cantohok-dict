@@ -6,7 +6,44 @@
   "boxes": [
     {
       "meaning": "reasonable, makes sense",
-      "english": ["rational", "reasonable", "plausible", "logical", "legitimate", "valid"],
+      "english": [
+        {
+          "id": "0ob5hdot",
+          "word": "rational",
+          "meaning": "logical, sensible",
+          "note": "Use this as the all-purpose choice for something logically sound, sensible, or not absurd."
+        },
+        {
+          "id": "o30ol7ka",
+          "word": "reasonable",
+          "meaning": "just; fair",
+          "note": "This is the all-purpose choice for something fair, justifiable, within limits, or fairly priced."
+        },
+        {
+          "id": "wvzop24h",
+          "word": "plausible",
+          "meaning": "seemingly valid or likely",
+          "note": "Use 合理 as the all-purpose choice for something that seems valid, acceptable, or likely."
+        },
+        {
+          "id": "4e6k5jdw",
+          "word": "logical",
+          "meaning": "reasonable",
+          "note": "Use this when “logical” means reasonable or acceptable rather than strictly following formal logic."
+        },
+        {
+          "id": "ccpb7etq",
+          "word": "legitimate",
+          "meaning": "valid; reasonable",
+          "note": "Use 合理 for reasoning, standards, or methods that are valid and make sense rather than for legal status."
+        },
+        {
+          "id": "6qnqho9u",
+          "word": "valid",
+          "meaning": "well-founded / justified",
+          "note": "This is the all-purpose choice for an answer, argument, or decision that is well-founded or justifiable."
+        }
+      ],
       "examples": [
         {
           "english": "This arrangement is very rational.",

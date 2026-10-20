@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "shake, sway back and forth",
-      "english": ["rock", "wave"],
+      "english": [
+        {
+          "id": "l4pqi66l",
+          "word": "rock",
+          "meaning": "move gently back and forth",
+          "note": "This is the all-purpose choice for moving something gently or forcefully back and forth, with the intensity supplied by context."
+        },
+        {
+          "id": "6uqr5xg5",
+          "word": "wave",
+          "meaning": "move loosely back and forth",
+          "note": "Use this for something moving loosely back and forth, such as a flag moving in the breeze."
+        }
+      ],
       "examples": [
         {
           "english": "Rock the chair gently so I can wipe it clean.",

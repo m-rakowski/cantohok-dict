@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "owe more than value",
-      "english": ["underwater"],
+      "english": [
+        {
+          "id": "jk0pm6pv",
+          "word": "underwater",
+          "meaning": "owe more than value",
+          "note": "Use this specifically for an asset or homeowner whose outstanding debt exceeds the asset's market value."
+        }
+      ],
       "examples": [
         {
           "english": "This home is underwater now.",

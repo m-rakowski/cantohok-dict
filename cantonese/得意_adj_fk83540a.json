@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "cute, adorable, amusing",
-      "english": ["cute", "adorable", "darling", "interesting"],
+      "english": [
+        {
+          "id": "gl6go7pm",
+          "word": "cute",
+          "meaning": "adorably infant-like",
+          "note": "This is the all-purpose choice for an adorably cute child, animal, object, or charming person."
+        },
+        {
+          "id": "0ebfbuam",
+          "word": "adorable",
+          "meaning": "cute; lovable",
+          "note": "Use this for a particularly cute, charming, or amusing quality, especially in a person’s behavior or manner."
+        },
+        {
+          "id": "az2c77oh",
+          "word": "darling",
+          "meaning": "cute; adorable",
+          "note": "Choose this as the all-purpose spoken adjective for something cute, adorable, or charming."
+        },
+        {
+          "id": "tqdopt79",
+          "word": "interesting",
+          "meaning": "arousing attention; engaging",
+          "note": "Use 得意 when the thing is interesting because it is amusing, unusual, or charming rather than simply informative."
+        }
+      ],
       "examples": [
         {
           "english": "That kitten is really cute.",

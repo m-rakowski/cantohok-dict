@@ -6,7 +6,29 @@
   "boxes": [
     {
       "meaning": "in complete chaos",
-      "english": ["upside down", "chaotic", "confused"],
+      "english": [
+        {
+          "id": "nnovnyld",
+          "word": "upside down",
+          "meaning": "in disorder",
+          "register": "colloquial",
+          "note": "Use 亂晒龍 for a place or situation that is in complete chaos rather than physically inverted."
+        },
+        {
+          "id": "bsscob23",
+          "word": "chaotic",
+          "meaning": "very disorganized",
+          "register": "colloquial",
+          "note": "Use this for something that is especially badly disorganized or in a complete mess."
+        },
+        {
+          "id": "vbo0h0ak",
+          "word": "confused",
+          "meaning": "jumbled, chaotic",
+          "register": "colloquial",
+          "note": "Use this when things, information, or a situation are jumbled and chaotic rather than when a person is mentally confused."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

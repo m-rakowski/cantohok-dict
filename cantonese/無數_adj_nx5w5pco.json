@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "countless",
-      "english": ["myriad", "countless"],
+      "english": [
+        {
+          "id": "3irs3ly0",
+          "word": "myriad",
+          "meaning": "countless; very many",
+          "note": "This is the all-purpose choice for saying that there are countless or very many things."
+        },
+        {
+          "id": "aozlj5wk",
+          "word": "countless",
+          "meaning": "too many to count",
+          "register": "written",
+          "note": "Use this compact form especially in written or more formal descriptions, often before a noun."
+        }
+      ],
       "examples": [
         {
           "english": "There are myriad books in this library.",

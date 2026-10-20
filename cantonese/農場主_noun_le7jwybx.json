@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "person who works land / keeps livestock",
-      "english": ["farmer"],
+      "english": [
+        {
+          "id": "sle32nd8",
+          "word": "farmer",
+          "meaning": "person who works land / keeps livestock",
+          "note": "Use this specifically for the person who owns or runs the farm, rather than every person who works there."
+        }
+      ],
       "examples": [
         {
           "english": "That farmer is my uncle; the whole farm belongs to him.",

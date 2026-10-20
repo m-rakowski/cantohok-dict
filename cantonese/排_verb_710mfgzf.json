@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "arrange in order",
-      "english": ["sort", "order"],
+      "english": [
+        {
+          "id": "8f5ur5py",
+          "word": "sort",
+          "meaning": "arrange in order",
+          "note": "This is the all-purpose choice for arranging things into an order or sequence."
+        },
+        {
+          "id": "u6mdsg69",
+          "word": "order",
+          "meaning": "arrange, put in order",
+          "note": "Use this when arranging things into an order, such as alphabetical or numerical order."
+        }
+      ],
       "examples": [
         {
           "english": "Sort the documents by date.",

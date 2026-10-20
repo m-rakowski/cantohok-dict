@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "protest in public",
-      "english": ["protest", "demonstrate"],
+      "english": [
+        {
+          "id": "7tdl2bai",
+          "word": "protest",
+          "meaning": "demonstrate against",
+          "note": "Use this specifically when people publicly demonstrate or march against something."
+        },
+        {
+          "id": "aihse7xp",
+          "word": "demonstrate",
+          "meaning": "protest in public",
+          "note": "Use this specifically for taking part in or organizing a public protest."
+        }
+      ],
       "examples": [
         {
           "english": "The workers protest in the street.",

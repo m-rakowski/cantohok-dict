@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "spokesperson",
-      "english": ["spokesman", "spokeswoman"],
+      "english": [
+        {
+          "id": "zgek2qt2",
+          "word": "spokesman",
+          "meaning": "person speaking for group",
+          "note": "Use this as the all-purpose term for an official or designated person who speaks for another person or a group."
+        },
+        {
+          "id": "v2xf30l9",
+          "word": "spokeswoman",
+          "meaning": "female spokesperson",
+          "note": "Use this gender-neutral form when the speaker's being a woman is already clear from context."
+        }
+      ],
       "examples": [
         {
           "english": "The company's spokesman explained the incident at the press conference.",

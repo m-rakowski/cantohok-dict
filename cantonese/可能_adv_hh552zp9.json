@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "maybe, possibly",
-      "english": ["maybe", "perhaps", "possibly", "potentially"],
+      "english": [
+        {
+          "id": "wddxcmnj",
+          "word": "maybe",
+          "meaning": "perhaps; possibly",
+          "note": "This is the all-purpose choice for ordinary spoken “maybe,” including both possibility and a neutral noncommittal reply."
+        },
+        {
+          "id": "c2a7auor",
+          "word": "perhaps",
+          "meaning": "possibly",
+          "note": "Use this when you want to emphasize possibility or uncertainty, especially before 會 or a verb."
+        },
+        {
+          "id": "rqy0435j",
+          "word": "possibly",
+          "meaning": "perhaps, maybe",
+          "note": "This is the neutral, all-purpose choice for saying that something may be true or may happen."
+        },
+        {
+          "id": "eawkocyp",
+          "word": "potentially",
+          "meaning": "with possibility",
+          "note": "This is the all-purpose choice for saying that something may happen or may have a given result."
+        }
+      ],
       "examples": [
         {
           "english": "Maybe he won't go to work today.",

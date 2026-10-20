@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "old (of a person or animal)",
-      "english": ["aged", "old"],
+      "english": [
+        {
+          "id": "vbdbgp8m",
+          "word": "aged",
+          "meaning": "old",
+          "note": "This is the all-purpose choice when someone or something is simply old, especially a person."
+        },
+        {
+          "id": "4yaww74t",
+          "word": "old",
+          "meaning": "aged person or living being",
+          "note": "Use 老 for a living being that has reached advanced age, rather than 舊 or the numeric-age construction."
+        }
+      ],
       "examples": [
         {
           "english": "That aged man goes for a walk in the park every day.",

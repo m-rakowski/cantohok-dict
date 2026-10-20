@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "output, amount produced",
-      "english": ["output", "production"],
+      "english": [
+        {
+          "id": "fffzvc5g",
+          "word": "output",
+          "meaning": "production; quantity produced",
+          "note": "Use 產量 for how much a factory or other producer makes, rather than for computer data or a terminal."
+        },
+        {
+          "id": "yockmw2d",
+          "word": "production",
+          "meaning": "amount produced",
+          "note": "Use 產量 when production means the total quantity or output produced."
+        }
+      ],
       "examples": [
         {
           "english": "This factory's output is higher than last year's.",

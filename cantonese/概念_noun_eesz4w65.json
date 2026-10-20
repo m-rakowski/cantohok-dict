@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "concept, idea",
-      "english": ["concept", "conception", "notion"],
+      "english": [
+        {
+          "id": "8gatr5ir",
+          "word": "concept",
+          "meaning": "abstract idea",
+          "note": "This is the all-purpose choice for an abstract or general idea."
+        },
+        {
+          "id": "pu6xb3im",
+          "word": "conception",
+          "meaning": "idea, notion, concept",
+          "note": "Use this for an abstract, theoretical, or technical concept rather than a person's particular idea."
+        },
+        {
+          "id": "t9qfx6wk",
+          "word": "notion",
+          "meaning": "idea; concept",
+          "register": "formal",
+          "note": "Use this for an abstract concept or a more defined intellectual idea rather than a casual thought."
+        }
+      ],
       "examples": [
         {
           "english": "This concept is too abstract for children.",
@@ -27,7 +47,14 @@
     },
     {
       "meaning": "a basic idea or feel for something",
-      "english": ["feel"],
+      "english": [
+        {
+          "id": "9w06z5j5",
+          "word": "feel",
+          "meaning": "vague understanding",
+          "note": "Use this when getting a feel means gradually gaining a basic understanding or idea of something."
+        }
+      ],
       "examples": [
         {
           "english": "I’m slowly starting to get a feel for how this game works.",

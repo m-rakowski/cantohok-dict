@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "accomplish a goal",
-      "english": ["attain", "achieve"],
+      "english": [
+        {
+          "id": "1b9c1ts0",
+          "word": "attain",
+          "meaning": "achieve; obtain by effort",
+          "register": "formal",
+          "note": "Use this especially with goals or objectives when stressing their successful completion."
+        },
+        {
+          "id": "hk99geov",
+          "word": "achieve",
+          "meaning": "accomplish successfully",
+          "note": "Use this especially for successfully completing a goal, plan, or objective."
+        }
+      ],
       "examples": [
         {
           "english": "With this plan, we attain our emissions-reduction target.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "mouth, beak",
-      "english": ["mouth", "beak"],
+      "english": [
+        {
+          "id": "t37tpf2i",
+          "word": "mouth",
+          "meaning": "creature's mouth",
+          "note": "Use this colloquial alternative for the visible mouth of a person or animal, rather than for an aperture."
+        },
+        {
+          "id": "0q88yrfe",
+          "word": "beak",
+          "meaning": "animal snout-like beak",
+          "note": "Use 嘴 as the all-purpose spoken word for an animal's beak or a person's mouth."
+        }
+      ],
       "examples": [
         {
           "english": "You have a grain of rice at the corner of your mouth.",

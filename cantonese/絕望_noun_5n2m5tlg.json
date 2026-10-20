@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "despair",
-      "english": ["despair", "desperation"],
+      "english": [
+        {
+          "id": "mejefn3k",
+          "word": "despair",
+          "meaning": "loss of hope",
+          "note": "This is the all-purpose noun for a state of complete hopelessness or despair."
+        },
+        {
+          "id": "ptfnzs5h",
+          "word": "desperation",
+          "meaning": "state of hopelessness",
+          "note": "This is the all-purpose noun for giving up hope or being in a state of utter hopelessness."
+        }
+      ],
       "examples": [
         {
           "english": "After going bankrupt, they briefly fell into despair.",

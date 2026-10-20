@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "road or border stop",
-      "english": ["checkpoint"],
+      "english": [
+        {
+          "id": "ruleejzr",
+          "word": "checkpoint",
+          "meaning": "road or border stop",
+          "note": "This is the all-purpose choice for a road, border, or other physical checkpoint."
+        }
+      ],
       "examples": [
         {
           "english": "There’s a checkpoint ahead, so drive more slowly.",

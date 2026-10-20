@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "skylark (bird)",
-      "english": ["lark", "skylark"],
+      "english": [
+        {
+          "id": "0yzpha5c",
+          "word": "lark",
+          "meaning": "small singing bird",
+          "note": "Use 雲雀 as the ordinary Cantonese name for the small singing bird, rather than for the other meanings."
+        },
+        {
+          "id": "du3zxri8",
+          "word": "skylark",
+          "meaning": "bird species",
+          "note": "This is the all-purpose Cantonese name for the skylark species."
+        }
+      ],
       "examples": [
         {
           "english": "The lark singing outside the window really cheers me up in the morning.",

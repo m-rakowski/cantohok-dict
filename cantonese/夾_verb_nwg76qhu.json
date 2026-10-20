@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "squeeze, clamp between",
-      "english": ["squeeze"],
+      "english": [
+        {
+          "id": "0yl2cttw",
+          "word": "squeeze",
+          "meaning": "press from sides",
+          "note": "Use this as the all-purpose choice for pressing something between sides, and in 夾喺 A 同 B 之間 for being caught between competing choices."
+        }
+      ],
       "examples": [
         {
           "english": "I squeeze the sponge with my hand to get the water out.",
@@ -17,7 +24,20 @@
     },
     {
       "meaning": "go well together, get along",
-      "english": ["mesh", "match"],
+      "english": [
+        {
+          "id": "b7d12o8f",
+          "word": "mesh",
+          "meaning": "fit together well",
+          "note": "Use this everyday verb when people, ideas, styles, or other elements go well together."
+        },
+        {
+          "id": "7zp4lqgs",
+          "word": "match",
+          "meaning": "be equal; correspond",
+          "note": "Use 夾 as the all-purpose everyday choice when people, ideas, or interests go well together."
+        }
+      ],
       "examples": [
         {
           "english": "These two colours really mesh.",
@@ -33,7 +53,15 @@
     },
     {
       "meaning": "suit one's body or constitution",
-      "english": ["agree"],
+      "english": [
+        {
+          "id": "fmsrx8a2",
+          "word": "agree",
+          "meaning": "suit the body",
+          "register": "colloquial",
+          "note": "Use this when something suits or agrees with a person’s body, taste, or constitution, especially food or medicine."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

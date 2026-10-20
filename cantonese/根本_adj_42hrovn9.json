@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "essential; very important",
-      "english": ["fundamental"],
+      "english": [
+        {
+          "id": "ik834sfo",
+          "word": "fundamental",
+          "meaning": "essential; very important",
+          "note": "Choose this when fundamental means underlying or at the root of a matter, rather than merely basic."
+        }
+      ],
       "examples": [
         {
           "english": "To solve this, we first need to find the fundamental cause.",

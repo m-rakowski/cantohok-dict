@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "medical chart",
-      "english": ["chart"],
+      "english": [
+        {
+          "id": "ny5kprej",
+          "word": "chart",
+          "meaning": "medical chart",
+          "note": "Use 病歷 for a patient's medical record, including their diagnosis, treatment, and recent history."
+        }
+      ],
       "examples": [
         {
           "english": "The doctor said I need to show my chart to the new hospital.",

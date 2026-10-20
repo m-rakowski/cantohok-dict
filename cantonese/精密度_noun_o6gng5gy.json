@@ -6,7 +6,15 @@
   "boxes": [
     {
       "meaning": "measurement repeatability",
-      "english": ["precision"],
+      "english": [
+        {
+          "id": "phs3vw0m",
+          "word": "precision",
+          "meaning": "measurement repeatability",
+          "register": "technical",
+          "note": "Use this in measurement contexts when repeated measurements give consistent results, regardless of their closeness to the true value."
+        }
+      ],
       "register": "technical",
       "examples": [
         {

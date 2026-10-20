@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "manufacturer, producer",
-      "english": ["producer", "manufacturer", "make"],
+      "english": [
+        {
+          "id": "3gpy55dh",
+          "word": "producer",
+          "meaning": "goods and services maker",
+          "note": "This is the all-purpose choice for an individual or organization that makes goods or provides services."
+        },
+        {
+          "id": "dgc38nwy",
+          "word": "manufacturer",
+          "meaning": "producer; maker",
+          "note": "This is the all-purpose choice for the person or company responsible for making goods."
+        },
+        {
+          "id": "zvh0wx05",
+          "word": "make",
+          "meaning": "brand; make",
+          "note": "Use 生產商 for the manufacturer or company that made the product, rather than its brand."
+        }
+      ],
       "examples": [
         {
           "english": "This producer specializes in making eco-friendly cleaning products.",

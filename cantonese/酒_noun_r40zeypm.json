@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "alcohol, liquor",
-      "english": ["alcohol", "drink", "bottle", "sauce", "wine"],
+      "english": [
+        {
+          "id": "60gkhtdq",
+          "word": "alcohol",
+          "meaning": "alcoholic drink",
+          "note": "This is the all-purpose choice when you mean alcoholic drinks generally."
+        },
+        {
+          "id": "fumrv412",
+          "word": "drink",
+          "meaning": "alcohol",
+          "note": "Use this for an alcoholic drink being served or for alcoholic beverages in general."
+        },
+        {
+          "id": "9iyyg96k",
+          "word": "bottle",
+          "meaning": "alcohol",
+          "note": "Use this for intoxicating liquor or alcohol in general, especially when the container is not important."
+        },
+        {
+          "id": "5b9j9rme",
+          "word": "sauce",
+          "meaning": "alcohol, booze",
+          "note": "Use this when “sauce” is slang for alcohol or booze."
+        },
+        {
+          "id": "ge2cp35r",
+          "word": "wine",
+          "meaning": "fruit/other fermented wine",
+          "note": "Use this broader noun for an alcoholic drink such as rice wine, fruit wine, or plum wine when the exact type is clear from context."
+        }
+      ],
       "examples": [
         {
           "english": "Drink alcohol in moderation.",

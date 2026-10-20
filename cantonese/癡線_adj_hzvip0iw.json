@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "crazy, mad",
-      "english": ["crazy", "mad"],
+      "english": [
+        {
+          "id": "t59kh31v",
+          "word": "crazy",
+          "meaning": "insane, demented",
+          "note": "This is the all-purpose colloquial choice for someone who seems mentally crazy or whose behavior has gone out of control."
+        },
+        {
+          "id": "9c6vj05u",
+          "word": "mad",
+          "meaning": "insane, mentally deranged",
+          "register": "colloquial",
+          "note": "Use this common colloquial word for someone who seems mentally crazy or deranged."
+        }
+      ],
       "examples": [
         {
           "english": "You’re crazy—you’d actually dare jump down despite it being so dangerous!",

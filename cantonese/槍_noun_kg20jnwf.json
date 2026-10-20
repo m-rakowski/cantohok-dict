@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "gun",
-      "english": ["gun", "firearm", "strap"],
+      "english": [
+        {
+          "id": "55fsuecj",
+          "word": "gun",
+          "meaning": "firearm",
+          "note": "This is the all-purpose choice for a firearm or other tube-fired projectile weapon when the specific type is not important."
+        },
+        {
+          "id": "9m43bfdx",
+          "word": "firearm",
+          "meaning": "gun, firearm",
+          "note": "This is the all-purpose everyday word for a firearm, especially an individual gun."
+        },
+        {
+          "id": "vnj3qz34",
+          "word": "strap",
+          "meaning": "gun, slang",
+          "note": "Use this for the firearm slang sense; Cantonese normally uses the ordinary word 槍 rather than a special slang equivalent."
+        }
+      ],
       "examples": [
         {
           "english": "The police found a gun at the scene.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "fastening device",
-      "english": ["lock"],
+      "english": [
+        {
+          "id": "4qolispw",
+          "word": "lock",
+          "meaning": "fastening device",
+          "note": "Use 鎖 as the all-purpose noun for a physical fastening lock; in software, it also names a resource-access lock."
+        }
+      ],
       "examples": [
         {
           "english": "This lock is rusty and should be replaced.",

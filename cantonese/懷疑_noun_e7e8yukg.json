@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "doubt, suspicion",
-      "english": ["doubt", "suspicion"],
+      "english": [
+        {
+          "id": "fxw0fdwp",
+          "word": "doubt",
+          "meaning": "uncertainty; doubts",
+          "register": "colloquial",
+          "note": "This is the all-purpose noun for disbelief or suspicion about whether something is true."
+        },
+        {
+          "id": "bqxoihcj",
+          "word": "suspicion",
+          "meaning": "suspicion of wrongdoing",
+          "note": "Use 懷疑 as the all-purpose noun for suspicion or doubt."
+        }
+      ],
       "examples": [
         {
           "english": "I have some doubt about what he said.",

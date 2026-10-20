@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "still, just the same as before",
-      "english": ["same", "nonetheless"],
+      "english": [
+        {
+          "id": "ygm398fc",
+          "word": "same",
+          "meaning": "equally; unchanged",
+          "note": "Use this when something continues unchanged or is done just as before, rather than emphasizing equal extent."
+        },
+        {
+          "id": "917ac7l5",
+          "word": "nonetheless",
+          "meaning": "nevertheless; in spite of that",
+          "note": "Use this when an action or outcome goes ahead just the same despite the circumstances."
+        }
+      ],
       "examples": [
         {
           "english": "It had been raining for so long, but they still went out running the same way.",

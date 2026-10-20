@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "worldwide",
-      "english": ["worldwide", "global"],
+      "english": [
+        {
+          "id": "02byujw9",
+          "word": "worldwide",
+          "meaning": "global; across the world",
+          "note": "This is the all-purpose casual choice for something involving the whole world."
+        },
+        {
+          "id": "t885jzy0",
+          "word": "global",
+          "meaning": "worldwide; around the world",
+          "note": "This is the everyday all-purpose choice for something concerning or affecting the world as a whole."
+        }
+      ],
       "examples": [
         {
           "english": "This film will be released in cinemas worldwide.",

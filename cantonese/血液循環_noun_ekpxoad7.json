@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "blood circulation",
-      "english": ["bloodstream", "circulation"],
+      "english": [
+        {
+          "id": "si73g5d5",
+          "word": "bloodstream",
+          "meaning": "blood circulation",
+          "register": "formal",
+          "note": "This is the all-purpose noun for the flow of blood through the body, especially in medical or health contexts."
+        },
+        {
+          "id": "negm02hb",
+          "word": "circulation",
+          "meaning": "blood circulation",
+          "note": "This is the everyday term for blood circulation and the related movement of blood through the body."
+        }
+      ],
       "examples": [
         {
           "english": "The doctor said my bloodstream isn't very good, so I need to exercise more.",

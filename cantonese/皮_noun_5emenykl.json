@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "leather",
-      "english": ["leather"],
+      "english": [
+        {
+          "id": "wt8h2kve",
+          "word": "leather",
+          "meaning": "animal skin material",
+          "note": "This is the all-purpose colloquial noun for leather as a material or for a piece used in polishing when the context is clear."
+        }
+      ],
       "examples": [
         {
           "english": "This belt is genuine leather.",
@@ -17,7 +24,21 @@
     },
     {
       "meaning": "skin, peel",
-      "english": ["peel", "skin"],
+      "english": [
+        {
+          "id": "t70bgczs",
+          "word": "peel",
+          "meaning": "fruit or vegetable skin",
+          "note": "This is the all-purpose everyday word for the skin or outer layer of a fruit or vegetable."
+        },
+        {
+          "id": "wvsijlh4",
+          "word": "skin",
+          "meaning": "body covering",
+          "register": "colloquial",
+          "note": "Use 皮 as the everyday general noun when context makes clear whether the referent is body skin, fruit peel, or an animal hide or pelt."
+        }
+      ],
       "examples": [
         {
           "english": "This apple's peel is very thin, so you don't need to peel it.",

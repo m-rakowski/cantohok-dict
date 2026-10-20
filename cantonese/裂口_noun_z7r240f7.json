@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "split, tear",
-      "english": ["fissure", "split"],
+      "english": [
+        {
+          "id": "kufkreu5",
+          "word": "fissure",
+          "meaning": "groove or cleft in body",
+          "note": "Use this for an actual split or tear in body tissue, especially a small tear in the skin or a mucous membrane."
+        },
+        {
+          "id": "mw0pvkzp",
+          "word": "split",
+          "meaning": "tear, split",
+          "note": "Use this for an actual tear or opening in fabric or another stretched material, rather than a surface crack."
+        }
+      ],
       "examples": [
         {
           "english": "The doctor said I had a small fissure.",

@@ -6,7 +6,29 @@
   "boxes": [
     {
       "meaning": "smugly, showing off",
-      "english": ["smugly", "victoriously", "proudly"],
+      "english": [
+        {
+          "id": "7be1knqs",
+          "word": "smugly",
+          "meaning": "self-satisfied manner",
+          "register": "colloquial",
+          "note": "This is the all-purpose colloquial choice for acting self-satisfied or smug."
+        },
+        {
+          "id": "44xcz3up",
+          "word": "victoriously",
+          "meaning": "in a victorious way",
+          "register": "colloquial",
+          "note": "This is the usual colloquial choice when someone acts triumphantly, often with a slightly smug air."
+        },
+        {
+          "id": "zyh6ad6e",
+          "word": "proudly",
+          "meaning": "in a proud way",
+          "register": "colloquial",
+          "note": "Use this for a smug, self-satisfied kind of pride, especially when someone seems to be showing off."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

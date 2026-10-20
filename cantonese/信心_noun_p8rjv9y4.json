@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "confidence",
-      "english": ["confidence", "faith", "assurance", "self-confidence"],
+      "english": [
+        {
+          "id": "083x0qat",
+          "word": "confidence",
+          "meaning": "trust or belief",
+          "note": "This is the all-purpose noun for confidence as firm trust or certainty about a person, ability, or outcome."
+        },
+        {
+          "id": "8vkt4233",
+          "word": "faith",
+          "meaning": "confidence in person or thing",
+          "note": "Use 信心 as the all-purpose choice for trust in a person or thing, and for faith in an expected outcome rather than a formal creed."
+        },
+        {
+          "id": "jtqqacr0",
+          "word": "assurance",
+          "meaning": "certainty, confidence",
+          "note": "Use this when assurance means inner confidence, trust, or freedom from doubt rather than an outward guarantee."
+        },
+        {
+          "id": "ci9a8890",
+          "word": "self-confidence",
+          "meaning": "belief in one’s abilities",
+          "note": "Use this when the context makes clear that the confidence is specifically in oneself rather than in a plan, person, or outcome."
+        }
+      ],
       "examples": [
         {
           "english": "I have a lot of confidence that I will pass this exam.",

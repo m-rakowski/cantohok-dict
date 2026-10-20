@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "okay, can be done",
-      "english": ["able", "good"],
+      "english": [
+        {
+          "id": "ft77s723",
+          "word": "able",
+          "meaning": "can do; has the ability",
+          "register": "colloquial",
+          "note": "Use this colloquial alternative when stressing that someone can manage a task or that something is allowed."
+        },
+        {
+          "id": "dx0qe29e",
+          "word": "good",
+          "meaning": "I'm fine; okay",
+          "note": "Use this when “good” means okay with something, satisfactory, or ready to proceed."
+        }
+      ],
       "examples": [
         {
           "english": "Are you able to carry this heavy bag by yourself?",

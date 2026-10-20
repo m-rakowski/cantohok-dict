@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "machine part",
-      "english": ["component", "part"],
+      "english": [
+        {
+          "id": "tz3hwi2b",
+          "word": "component",
+          "meaning": "part; component part",
+          "note": "Use this for an individual mechanical or machine part, especially one that can be replaced."
+        },
+        {
+          "id": "fpba9liz",
+          "word": "part",
+          "meaning": "component piece",
+          "note": "Use this for a physical component or replacement part, especially in a machine such as a chainsaw."
+        }
+      ],
       "examples": [
         {
           "english": "This bike needs a replacement component.",

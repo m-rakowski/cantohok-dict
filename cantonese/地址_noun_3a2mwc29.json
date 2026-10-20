@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "street address",
-      "english": ["address"],
+      "english": [
+        {
+          "id": "xdq8d6g0",
+          "word": "address",
+          "meaning": "street address",
+          "note": "Use 地址 as the all-purpose term for a property's postal or street address."
+        }
+      ],
       "examples": [
         {
           "english": "Can you give me your home address?",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "designer",
-      "english": ["designer", "architect"],
+      "english": [
+        {
+          "id": "09jxye9r",
+          "word": "designer",
+          "meaning": "person who designs",
+          "note": "This is the all-purpose choice for a person who designs things or does design professionally."
+        },
+        {
+          "id": "5v4kuwcm",
+          "word": "architect",
+          "meaning": "designer of buildings",
+          "note": "Use this broader term when focusing on the building designer's design role rather than specifically calling them an architect."
+        }
+      ],
       "examples": [
         {
           "english": "That designer made a poster for me.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "clearly syllable-by-syllable",
-      "english": ["syllabic"],
+      "english": [
+        {
+          "id": "vuzylgur",
+          "word": "syllabic",
+          "meaning": "clearly syllable-by-syllable",
+          "note": "Use this when stressing that the syllables themselves are clearly distinct rather than run together."
+        }
+      ],
       "examples": [
         {
           "english": "When they sing, their delivery is clearly syllabic, so every syllable is easy to hear.",

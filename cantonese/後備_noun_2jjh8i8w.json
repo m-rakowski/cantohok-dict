@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "reserve, substitute",
-      "english": ["reserve", "backup", "emergency"],
+      "english": [
+        {
+          "id": "izbsb1n1",
+          "word": "reserve",
+          "meaning": "military reserve",
+          "note": "Use this for reserve troops or a substitute player who is not in the starting lineup."
+        },
+        {
+          "id": "j59n0l4c",
+          "word": "backup",
+          "meaning": "reserve or substitute",
+          "note": "Use this for a reserve person or substitute, such as a backup player."
+        },
+        {
+          "id": "kwj3otbp",
+          "word": "emergency",
+          "meaning": "last-minute replacement",
+          "note": "Use this for a reserve or substitute player brought in at short notice, especially in sports."
+        }
+      ],
       "examples": [
         {
           "english": "I’ll be a reserve tomorrow and wait for the coach to send me in.",

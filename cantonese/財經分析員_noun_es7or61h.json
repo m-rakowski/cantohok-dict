@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "financial analyst",
-      "english": ["analyst"],
+      "english": [
+        {
+          "id": "swtmetbn",
+          "word": "analyst",
+          "meaning": "financial analyst",
+          "note": "Use this for a financial or business analyst, especially in news and investment contexts."
+        }
+      ],
       "examples": [
         {
           "english": "The financial analyst said on TV that the property market will recover this year.",

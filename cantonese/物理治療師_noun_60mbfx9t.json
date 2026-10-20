@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "sports therapist",
-      "english": ["trainer"],
+      "english": [
+        {
+          "id": "o3uxz0xt",
+          "word": "trainer",
+          "meaning": "sports therapist",
+          "note": "Use this for the physiotherapist treating players' sports injuries rather than their coach."
+        }
+      ],
       "examples": [
         {
           "english": "The trainer immediately treated the player's injured ankle.",

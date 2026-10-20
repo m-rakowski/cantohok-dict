@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "row, line",
-      "english": ["row", "line"],
+      "english": [
+        {
+          "id": "nvoxxw6o",
+          "word": "row",
+          "meaning": "line of things",
+          "note": "Use 行 for a table row and for a row of planted crops or trees, rather than the usual 排 for seats and general objects."
+        },
+        {
+          "id": "ezl0lhzm",
+          "word": "line",
+          "meaning": "row of text",
+          "register": "written",
+          "note": "Use this for a line of written text and, especially in written or literary contexts, a line of poetry."
+        }
+      ],
       "examples": [
         {
           "english": "The first row of this table is for names.",

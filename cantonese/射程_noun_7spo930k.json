@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "maximum reach",
-      "english": ["range"],
+      "english": [
+        {
+          "id": "lc6rwdg8",
+          "word": "range",
+          "meaning": "maximum reach",
+          "note": "Use this for the maximum distance a weapon can reach, especially in technical descriptions."
+        }
+      ],
       "examples": [
         {
           "english": "This rifle has a range of three kilometres.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "borrow money",
-      "english": ["borrow"],
+      "english": [
+        {
+          "id": "t6b79ceq",
+          "word": "borrow",
+          "meaning": "borrow money",
+          "note": "Use this specifically when borrowing money from a person, bank, or other lender for later repayment."
+        }
+      ],
       "examples": [
         {
           "english": "I want to borrow money to buy a new computer.",

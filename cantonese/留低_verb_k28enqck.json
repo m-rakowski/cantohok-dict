@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "stay behind",
-      "english": ["linger", "stay", "remain"],
+      "english": [
+        {
+          "id": "x6yw6vj6",
+          "word": "linger",
+          "meaning": "remain / stay",
+          "note": "This is the all-purpose choice when someone stays in a place or situation instead of leaving."
+        },
+        {
+          "id": "sh2qw76t",
+          "word": "stay",
+          "meaning": "remain temporarily",
+          "note": "Use this when someone remains behind instead of leaving, rather than specifically describing where they live or lodge."
+        },
+        {
+          "id": "sx85wt2j",
+          "word": "remain",
+          "meaning": "stay continue be",
+          "note": "Use this when a person or thing stays behind in a place instead of leaving, especially after others have gone."
+        }
+      ],
       "examples": [
         {
           "english": "You don't have to leave so soon; linger for a cup of tea first.",
@@ -27,7 +46,14 @@
     },
     {
       "meaning": "leave a mark or trace behind",
-      "english": ["trail"],
+      "english": [
+        {
+          "id": "q1n5ufks",
+          "word": "trail",
+          "meaning": "leave a trail of",
+          "note": "Use this when something physically leaves water, marks, or another trace behind."
+        }
+      ],
       "examples": [
         {
           "english": "His shoes trail a line of wet footprints across the floor.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "exposed to danger or discredit",
-      "english": ["compromised"],
+      "english": [
+        {
+          "id": "t8hyjk75",
+          "word": "compromised",
+          "meaning": "exposed to danger or discredit",
+          "note": "Use this when the danger comes from a specific person, force, or threat."
+        }
+      ],
       "examples": [
         {
           "english": "The company's computer system is compromised by hackers, so the IT department disconnected it from the internet.",

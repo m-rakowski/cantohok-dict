@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "in danger, dangerous",
-      "english": ["endangered", "compromised"],
+      "english": [
+        {
+          "id": "dw1rikkl",
+          "word": "endangered",
+          "meaning": "at risk, in danger",
+          "note": "This is the all-purpose way to say that someone or something is in danger or at risk."
+        },
+        {
+          "id": "tcikjb3l",
+          "word": "compromised",
+          "meaning": "exposed to danger or discredit",
+          "note": "This is the all-purpose choice when someone or something is exposed to danger or risk."
+        }
+      ],
       "examples": [
         {
           "english": "This species of sea turtle is endangered and may become extinct.",

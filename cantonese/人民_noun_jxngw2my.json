@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "the people, citizens",
-      "english": ["people", "nation"],
+      "english": [
+        {
+          "id": "niq2ykxy",
+          "word": "people",
+          "meaning": "the public, the people",
+          "register": "formal",
+          "note": "Use this for the common people or populace, especially in political or public contexts."
+        },
+        {
+          "id": "kzzn663p",
+          "word": "nation",
+          "meaning": "people group",
+          "register": "formal",
+          "note": "Use this for the people or populace collectively when referring to a nation, not for the nation as a sovereign state."
+        }
+      ],
       "register": "formal",
       "examples": [
         {

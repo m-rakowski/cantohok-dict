@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "sheep pen",
-      "english": ["fold", "pen"],
+      "english": [
+        {
+          "id": "wxqc0147",
+          "word": "fold",
+          "meaning": "sheep pen",
+          "note": "Use 羊欄 for an enclosure or pen for sheep and similar domestic animals."
+        },
+        {
+          "id": "7jqok45g",
+          "word": "pen",
+          "meaning": "animal enclosure",
+          "note": "Use 羊欄 specifically for a sheep pen."
+        }
+      ],
       "examples": [
         {
           "english": "There is a sheep fold on the farm, with several sheep inside.",

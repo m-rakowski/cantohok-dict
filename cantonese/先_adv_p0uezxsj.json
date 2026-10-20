@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "first, before doing something else",
-      "english": ["first", "firstly"],
+      "english": [
+        {
+          "id": "9w6cbjrg",
+          "word": "first",
+          "meaning": "before anything else",
+          "note": "This is the all-purpose choice for doing something before anything else."
+        },
+        {
+          "id": "xkp507fz",
+          "word": "firstly",
+          "meaning": "first in order",
+          "note": "Use this when stressing that one action happens before another, rather than as a formal list marker."
+        }
+      ],
       "examples": [
         {
           "english": "Let’s eat first, then go shopping.",

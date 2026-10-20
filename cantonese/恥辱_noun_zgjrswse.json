@@ -6,7 +6,36 @@
   "boxes": [
     {
       "meaning": "disgrace, shame",
-      "english": ["disgrace", "embarrassment", "humiliation", "shame"],
+      "english": [
+        {
+          "id": "nej1ahaw",
+          "word": "disgrace",
+          "meaning": "a disgrace; shameful person/thing",
+          "register": "formal",
+          "note": "Choose this formal noun when a person or thing is described as a dishonour or disgrace to others."
+        },
+        {
+          "id": "o9puvlzx",
+          "word": "embarrassment",
+          "meaning": "shame; humiliation",
+          "register": "formal",
+          "note": "Choose this for serious humiliation or a person or thing regarded as a disgrace, especially in more formal contexts."
+        },
+        {
+          "id": "fk1wvhhx",
+          "word": "humiliation",
+          "meaning": "feeling of humiliation",
+          "register": "formal",
+          "note": "Use this mainly for a grave disgrace or humiliating experience, rather than an ordinary embarrassing incident."
+        },
+        {
+          "id": "1jmgwa4o",
+          "word": "shame",
+          "meaning": "dishonour, disgrace",
+          "register": "formal",
+          "note": "Use 恥辱 for public dishonour or disgrace, rather than the personal feeling expressed by 羞恥心."
+        }
+      ],
       "register": "formal",
       "examples": [
         {

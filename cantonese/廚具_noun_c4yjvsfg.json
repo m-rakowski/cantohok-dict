@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "kitchen utensils, cookware",
-      "english": ["utensil", "cooker"],
+      "english": [
+        {
+          "id": "bz89ygay",
+          "word": "utensil",
+          "meaning": "kitchen implement",
+          "note": "This is the all-purpose choice for implements used in the kitchen."
+        },
+        {
+          "id": "ddzgtlta",
+          "word": "cooker",
+          "meaning": "cooking appliance",
+          "note": "Use 廚具 when referring generally to cooking equipment or utensils rather than a stove."
+        }
+      ],
       "examples": [
         {
           "english": "We’ve used this set of kitchen utensil for years, and it’s still very useful.",

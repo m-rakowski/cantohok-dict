@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "rosy flush on the face",
-      "english": ["blush", "bloom"],
+      "english": [
+        {
+          "id": "3bqedw5x",
+          "word": "blush",
+          "meaning": "red face from embarrassment",
+          "register": "written",
+          "note": "Use this for the visible reddish flush on someone's face, especially from embarrassment or shyness; it is the all-purpose noun for that sense."
+        },
+        {
+          "id": "v87ms2ru",
+          "word": "bloom",
+          "meaning": "rosy flush",
+          "register": "written",
+          "note": "Use this for a rosy flush or glow on someone's cheeks; it is more literary than everyday 面紅."
+        }
+      ],
       "register": "written",
       "examples": [
         {

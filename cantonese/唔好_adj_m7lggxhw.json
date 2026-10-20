@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "not good, bad",
-      "english": ["bad", "ill"],
+      "english": [
+        {
+          "id": "12b8909h",
+          "word": "bad",
+          "meaning": "low quality",
+          "note": "This is the all-purpose choice for something judged generally bad, unsuitable, or unpleasant."
+        },
+        {
+          "id": "mr87jyjo",
+          "word": "ill",
+          "meaning": "unfavourable or poor",
+          "note": "Use this all-purpose adjective for something unfavourable, poor, faulty, or generally not good."
+        }
+      ],
       "examples": [
         {
           "english": "The food at this restaurant is bad.",

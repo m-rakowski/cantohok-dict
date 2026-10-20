@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "stick, club",
-      "english": ["stick", "bat"],
+      "english": [
+        {
+          "id": "e2dht5um",
+          "word": "stick",
+          "meaning": "piece of wood",
+          "note": "棍 is the all-purpose choice for a generic stick, rod, or club rather than a tree branch or walking aid."
+        },
+        {
+          "id": "apwnit3g",
+          "word": "bat",
+          "meaning": "weapon bat",
+          "note": "Use this when the bat is being treated as a stick or club used as a weapon."
+        }
+      ],
       "examples": [
         {
           "english": "The security guard is carrying a stick while patrolling.",

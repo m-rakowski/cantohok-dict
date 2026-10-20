@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "to clap, applaud",
-      "english": ["clap", "cheer"],
+      "english": [
+        {
+          "id": "cqoteomi",
+          "word": "clap",
+          "meaning": "applaud",
+          "register": "formal",
+          "note": "Use this specifically for applauding a performer or speaker, especially in a public or more formal setting."
+        },
+        {
+          "id": "p02e3zll",
+          "word": "cheer",
+          "meaning": "applaud, shout support",
+          "note": "Use this for the applauding part of cheering, when support is shown by clapping rather than words."
+        }
+      ],
       "examples": [
         {
           "english": "Please clap for the speaker.",

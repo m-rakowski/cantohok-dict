@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "in the end, finally",
-      "english": ["eventually", "ultimately", "last", "finally"],
+      "english": [
+        {
+          "id": "fjrqr641",
+          "word": "eventually",
+          "meaning": "in the end, after delay",
+          "note": "This is the all-purpose choice for an outcome that happens in the end."
+        },
+        {
+          "id": "etjn80p8",
+          "word": "ultimately",
+          "meaning": "in the end",
+          "note": "This is the all-purpose choice for a neutral “ultimately,” including the last item in a list and the final outcome."
+        },
+        {
+          "id": "gwwa0qgj",
+          "word": "last",
+          "meaning": "finally; at the end",
+          "note": "Use this for doing something finally or at the end of a process."
+        },
+        {
+          "id": "j0reutyp",
+          "word": "finally",
+          "meaning": "at last; in the end",
+          "note": "Use this for the eventual outcome or for the last item or action, rather than the sense of relief in 終於."
+        }
+      ],
       "examples": [
         {
           "english": "I waited for you for so long, and eventually you agreed.",
@@ -32,7 +57,14 @@
     },
     {
       "meaning": "lastly, for the final point",
-      "english": ["lastly"],
+      "english": [
+        {
+          "id": "umbpp5nf",
+          "word": "lastly",
+          "meaning": "final item in a sequence",
+          "note": "This is the all-purpose choice for introducing the final item or point in a sequence."
+        }
+      ],
       "examples": [
         {
           "english": "Lastly, I want to add one more thing: the event needs to start on time.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "rough to touch, not smooth",
-      "english": ["rough", "coarse"],
+      "english": [
+        {
+          "id": "fic650ji",
+          "word": "rough",
+          "meaning": "not smooth",
+          "note": "Use this for a physically uneven or non-smooth surface, such as rough hands."
+        },
+        {
+          "id": "kgrht08c",
+          "word": "coarse",
+          "meaning": "rough texture",
+          "note": "Use this as the all-purpose choice for a physically rough or non-smooth surface."
+        }
+      ],
       "examples": [
         {
           "english": "My hands are rough and feel really uncomfortable.",
@@ -22,7 +35,20 @@
     },
     {
       "meaning": "crudely made, unrefined",
-      "english": ["crude", "raw"],
+      "english": [
+        {
+          "id": "xsfippt6",
+          "word": "crude",
+          "meaning": "rough, basic",
+          "note": "Use this for something made in a rough, basic, or unskilled way rather than carefully finished."
+        },
+        {
+          "id": "xsnd46nv",
+          "word": "raw",
+          "meaning": "crude, rough",
+          "note": "Use this when the quality, finish, or execution is rough, crude, or unsophisticated."
+        }
+      ],
       "examples": [
         {
           "english": "The table is crude, and there are still splinters on the edge.",

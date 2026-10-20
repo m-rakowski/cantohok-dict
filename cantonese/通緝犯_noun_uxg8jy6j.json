@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "fugitive from law",
-      "english": ["outlaw"],
+      "english": [
+        {
+          "id": "wbck25pd",
+          "word": "outlaw",
+          "meaning": "fugitive from law",
+          "note": "Use this when the fugitive is actively wanted by the police or under a warrant."
+        }
+      ],
       "examples": [
         {
           "english": "That wanted outlaw still dares to show up on the street—he is really bold.",

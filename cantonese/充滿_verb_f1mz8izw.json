@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "to be filled with",
-      "english": ["permeate", "suffuse", "fill"],
+      "english": [
+        {
+          "id": "sdth2no5",
+          "word": "permeate",
+          "meaning": "spread through completely",
+          "note": "Use this when something spreads throughout and fills a room or other space, emphasizing the result rather than the process of entering."
+        },
+        {
+          "id": "smd0y1b3",
+          "word": "suffuse",
+          "meaning": "spread through/over",
+          "note": "This is the all-purpose choice when a place or thing is filled with light, colour, liquid, or another substance."
+        },
+        {
+          "id": "gbyqgjq5",
+          "word": "fill",
+          "meaning": "occupy completely",
+          "note": "Use this when a smell, feeling, atmosphere, or other quality pervades a space or person."
+        }
+      ],
       "examples": [
         {
           "english": "The smell of curry can permeate the whole flat.",

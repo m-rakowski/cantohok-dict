@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "beach",
-      "english": ["beach", "strand"],
+      "english": [
+        {
+          "id": "43gt319x",
+          "word": "beach",
+          "meaning": "sandy shore",
+          "note": "This is the all-purpose noun for a sandy or pebbly beach."
+        },
+        {
+          "id": "18ayitgg",
+          "word": "strand",
+          "meaning": "shore, beach",
+          "note": "This is the all-purpose spoken choice for the shore or beach by the sea."
+        }
+      ],
       "examples": [
         {
           "english": "We went to the beach for a swim today.",

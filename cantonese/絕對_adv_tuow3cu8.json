@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "absolutely, definitely",
-      "english": ["emphatically", "unequivocally", "definitely", "easily", "absolutely"],
+      "english": [
+        {
+          "id": "8wc6jcey",
+          "word": "emphatically",
+          "meaning": "with emphasis",
+          "note": "Use this as the all-purpose choice for a forceful assertion or for saying that something is most definitely true."
+        },
+        {
+          "id": "ohkpkyhg",
+          "word": "unequivocally",
+          "meaning": "without doubt",
+          "note": "This is the all-purpose choice for a strong, unequivocal assertion."
+        },
+        {
+          "id": "wixugb4i",
+          "word": "definitely",
+          "meaning": "without doubt",
+          "note": "Choose this for emphatic ‘definitely’ or ‘absolutely,’ stronger than the neutral choice."
+        },
+        {
+          "id": "xwb734hi",
+          "word": "easily",
+          "meaning": "absolutely; by far",
+          "note": "Use this for emphatic 'absolutely' or 'by far,' as in 'easily the best,' rather than for ease of action."
+        },
+        {
+          "id": "of546pkm",
+          "word": "absolutely",
+          "meaning": "utterly; completely",
+          "note": "Use this for strong, unconditional certainty or an absolute assertion rather than ordinary degree emphasis."
+        }
+      ],
       "examples": [
         {
           "english": "I emphatically will not agree with this approach.",

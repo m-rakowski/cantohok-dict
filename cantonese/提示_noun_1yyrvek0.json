@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "hint, clue",
-      "english": ["clue", "hint"],
+      "english": [
+        {
+          "id": "ez695ppk",
+          "word": "clue",
+          "meaning": "hint; helpful information",
+          "note": "This is the all-purpose choice for a helpful hint, including the text indicating an answer in a crossword."
+        },
+        {
+          "id": "o2k6xhbe",
+          "word": "hint",
+          "meaning": "clue",
+          "note": "This is the all-purpose everyday word for a clue or helpful nudge, such as in a puzzle."
+        }
+      ],
       "examples": [
         {
           "english": "This clue helped me find the answer.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "accommodation hotel",
-      "english": ["hotel"],
+      "english": [
+        {
+          "id": "51viakar",
+          "word": "hotel",
+          "meaning": "accommodation hotel",
+          "note": "This is the all-purpose Cantonese word for a hotel in everyday Hong Kong speech."
+        }
+      ],
       "examples": [
         {
           "english": "This hotel is close to the MTR station, so staying one night is pretty convenient.",

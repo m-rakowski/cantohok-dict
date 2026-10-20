@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "academic qualification",
-      "english": ["degree"],
+      "english": [
+        {
+          "id": "08q0vc4i",
+          "word": "degree",
+          "meaning": "academic qualification",
+          "note": "Use 學位 for a completed tertiary academic qualification, rather than a measurement or degree of intensity."
+        }
+      ],
       "examples": [
         {
           "english": "They finally earned their degree.",

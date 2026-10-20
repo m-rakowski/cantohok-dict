@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "worth a lot of money",
-      "english": ["valuable", "worth"],
+      "english": [
+        {
+          "id": "jsd5hcdx",
+          "word": "valuable",
+          "meaning": "worth a lot",
+          "register": "colloquial",
+          "note": "Use this for something worth a lot of money, especially an item or possession."
+        },
+        {
+          "id": "l7zcxk4v",
+          "word": "worth",
+          "meaning": "value / worth",
+          "note": "Use 值錢 when emphasizing that something has monetary or exchange value, rather than whether an action is worthwhile."
+        }
+      ],
       "examples": [
         {
           "english": "This old watch is valuable.",

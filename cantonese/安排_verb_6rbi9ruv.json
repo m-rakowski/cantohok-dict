@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "to arrange, organize",
-      "english": ["schedule", "arrange", "allot", "fix"],
+      "english": [
+        {
+          "id": "saqru7jd",
+          "word": "schedule",
+          "meaning": "arrange for a time",
+          "note": "This is the all-purpose choice for planning an event or arranging someone’s activities for a particular time."
+        },
+        {
+          "id": "ck7m4wgl",
+          "word": "arrange",
+          "meaning": "organize / set in order",
+          "note": "Use this as the all-purpose verb for organizing something or making arrangements."
+        },
+        {
+          "id": "icftvv9e",
+          "word": "allot",
+          "meaning": "assign a time or task",
+          "note": "Use this especially when allotting a task or designating something for a particular purpose, rather than dividing a measured share."
+        },
+        {
+          "id": "dua7kz30",
+          "word": "fix",
+          "meaning": "arrange; organize",
+          "note": "Use this for deliberately organizing an event, meeting, or opportunity such as backstage access."
+        }
+      ],
       "examples": [
         {
           "english": "I will schedule a meeting for tomorrow.",

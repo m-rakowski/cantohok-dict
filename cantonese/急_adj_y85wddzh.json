@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "urgent",
-      "english": ["urgent"],
+      "english": [
+        {
+          "id": "jd5mk5co",
+          "word": "urgent",
+          "meaning": "requiring immediate attention",
+          "note": "Use 急 as the all-purpose colloquial adjective for something that needs immediate attention."
+        }
+      ],
       "examples": [
         {
           "english": "This document is urgent, so it has to be submitted today.",
@@ -17,7 +24,14 @@
     },
     {
       "meaning": "fast-flowing (water)",
-      "english": ["rapid"],
+      "english": [
+        {
+          "id": "fln50i33",
+          "word": "rapid",
+          "meaning": "very swift / quick",
+          "note": "Use this especially for rapidly flowing water, such as a stream or current, rather than for speed in general."
+        }
+      ],
       "examples": [
         {
           "english": "The stream is rapid after the rain.",

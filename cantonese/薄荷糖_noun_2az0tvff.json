@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "mint candy",
-      "english": ["humbug", "mint"],
+      "english": [
+        {
+          "id": "qsohq6al",
+          "word": "humbug",
+          "meaning": "peppermint sweet",
+          "note": "Use this for the peppermint hard-sweet sense."
+        },
+        {
+          "id": "b1a2u2d4",
+          "word": "mint",
+          "meaning": "mint candy",
+          "note": "Use this specifically for a mint-flavored candy, especially one eaten to freshen the breath."
+        }
+      ],
       "examples": [
         {
           "english": "I loved eating a striped humbug when I was little.",

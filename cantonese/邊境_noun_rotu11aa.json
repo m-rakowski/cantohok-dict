@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "border area",
-      "english": ["frontier", "border"],
+      "english": [
+        {
+          "id": "y6uhulwr",
+          "word": "frontier",
+          "meaning": "borderland; border region",
+          "note": "This is the all-purpose choice for a borderland or border region between countries or territories."
+        },
+        {
+          "id": "6tvrxyv4",
+          "word": "border",
+          "meaning": "country frontier",
+          "note": "Use 邊境 when you mean the frontier area or border region, especially in contexts involving crossing or living near a border."
+        }
+      ],
       "examples": [
         {
           "english": "This river is the frontier between the two countries.",

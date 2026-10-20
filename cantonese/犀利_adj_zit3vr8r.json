@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "impressive, awesome",
-      "english": ["amazing", "wonderful", "impressive"],
+      "english": [
+        {
+          "id": "iiv7h5a9",
+          "word": "amazing",
+          "meaning": "very good, impressive",
+          "note": "This is the all-purpose colloquial choice when praising something as impressively good."
+        },
+        {
+          "id": "1t5kk9r0",
+          "word": "wonderful",
+          "meaning": "very good, excellent",
+          "note": "Use 犀利 for something impressive or exceptionally good, especially an achievement, skill, or result."
+        },
+        {
+          "id": "2rvbbmnr",
+          "word": "impressive",
+          "meaning": "makes a strong impression",
+          "register": "colloquial",
+          "note": "Use this for enthusiastic casual praise, especially of someone's performance or ability."
+        }
+      ],
       "examples": [
         {
           "english": "This team plays amazing football.",

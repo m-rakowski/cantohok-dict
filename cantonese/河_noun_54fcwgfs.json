@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "river",
-      "english": ["river", "creek"],
+      "english": [
+        {
+          "id": "decbtiri",
+          "word": "river",
+          "meaning": "large stream",
+          "note": "This is the all-purpose Cantonese noun for a river."
+        },
+        {
+          "id": "cizx13eq",
+          "word": "creek",
+          "meaning": "small stream",
+          "note": "Use this only when referring to an Australian creek that is large enough to be described as a river in Cantonese."
+        }
+      ],
       "examples": [
         {
           "english": "This river is very long.",

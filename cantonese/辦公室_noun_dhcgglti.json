@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "office",
-      "english": ["office", "bureau", "workplace"],
+      "english": [
+        {
+          "id": "axbis8ze",
+          "word": "office",
+          "meaning": "office building/room",
+          "note": "Use 辦公室 as the all-purpose term for a physical office, especially the room or workplace."
+        },
+        {
+          "id": "10usayjz",
+          "word": "bureau",
+          "meaning": "office room",
+          "note": "Use this for the physical office room where clerical or professional work is done."
+        },
+        {
+          "id": "k3cqn7n6",
+          "word": "workplace",
+          "meaning": "place where someone works",
+          "note": "Use this when the workplace is specifically an office rather than another kind of work site."
+        }
+      ],
       "examples": [
         {
           "english": "I'm working in the office.",

@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "fulfil a duty or contract",
-      "english": ["perform", "accomplish"],
+      "english": [
+        {
+          "id": "7e4v0yy4",
+          "word": "perform",
+          "meaning": "fulfill a contract",
+          "register": "formal",
+          "note": "Use this in formal contexts when someone fulfills the obligations or terms of a contract."
+        },
+        {
+          "id": "yg4qqb21",
+          "word": "accomplish",
+          "meaning": "complete; fulfill",
+          "register": "formal",
+          "note": "Use this specifically for formally fulfilling a promise, duty, obligation, or commitment rather than merely finishing a task."
+        }
+      ],
       "register": "formal",
       "examples": [
         {

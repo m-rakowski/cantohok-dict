@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "bank clerk",
-      "english": ["teller"],
+      "english": [
+        {
+          "id": "tcadxzam",
+          "word": "teller",
+          "meaning": "bank clerk",
+          "note": "Use this for a bank employee who handles customers' deposits and withdrawals."
+        }
+      ],
       "examples": [
         {
           "english": "The bank teller asked me to fill in this form.",

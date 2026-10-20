@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "current day",
-      "english": ["today"],
+      "english": [
+        {
+          "id": "ayokikis",
+          "word": "today",
+          "meaning": "current day",
+          "note": "This is the all-purpose noun for the current calendar day or date."
+        }
+      ],
       "examples": [
         {
           "english": "I have to go to work today.",

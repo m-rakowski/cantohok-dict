@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "bright",
-      "english": ["shiny", "light", "brilliant"],
+      "english": [
+        {
+          "id": "gt0ulpvc",
+          "word": "shiny",
+          "meaning": "emitting light",
+          "note": "Use this when the thing is bright because it is giving off light."
+        },
+        {
+          "id": "zpjvdouj",
+          "word": "light",
+          "meaning": "bright, not dark",
+          "note": "Use 光 as the all-purpose adjective for a room or place that is bright rather than dark."
+        },
+        {
+          "id": "sk1tjjdj",
+          "word": "brilliant",
+          "meaning": "shining brightly",
+          "note": "Use 光 for something that is visibly shining or giving off a lot of light."
+        }
+      ],
       "examples": [
         {
           "english": "The moon is shiny and lights up the night.",

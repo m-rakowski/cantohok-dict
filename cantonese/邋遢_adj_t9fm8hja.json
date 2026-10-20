@@ -6,7 +6,33 @@
   "boxes": [
     {
       "meaning": "messy, dirty, shabby",
-      "english": ["seedy", "sloppy", "untidy", "messy"],
+      "english": [
+        {
+          "id": "iavgpy2v",
+          "word": "seedy",
+          "meaning": "shabby, disreputable",
+          "note": "Use this as the all-purpose choice for someone or somewhere shabby, dirty, or unkempt; it does not by itself imply criminal or dishonest activity."
+        },
+        {
+          "id": "je1oyk8x",
+          "word": "sloppy",
+          "meaning": "careless, messy",
+          "note": "Use 邋遢 when sloppy means visibly untidy, messy, or slovenly, especially about a person, place, or finished work."
+        },
+        {
+          "id": "ox4nfqxv",
+          "word": "untidy",
+          "meaning": "messy, sloppy",
+          "register": "colloquial",
+          "note": "Use this specifically for a person, their appearance, or their careless and sloppy habits."
+        },
+        {
+          "id": "u9neisgj",
+          "word": "messy",
+          "meaning": "causing mess",
+          "note": "Use this for a person whose untidy or sloppy habits tend to leave a mess."
+        }
+      ],
       "examples": [
         {
           "english": "This shop is old and seedy, and it feels creepy at night.",

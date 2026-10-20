@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "rent money",
-      "english": ["rent", "rental"],
+      "english": [
+        {
+          "id": "8945mh7r",
+          "word": "rent",
+          "meaning": "payment for property",
+          "note": "This is the all-purpose noun for a payment made to use property, equipment, or a service."
+        },
+        {
+          "id": "q0rrs5hg",
+          "word": "rental",
+          "meaning": "rent payment",
+          "note": "This is the all-purpose choice for the money paid to rent something."
+        }
+      ],
       "examples": [
         {
           "english": "The rent here is really expensive.",

@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "surround",
-      "english": ["surround", "engulf", "encompass"],
+      "english": [
+        {
+          "id": "gwcz8q66",
+          "word": "surround",
+          "meaning": "enclose, encircle",
+          "note": "This is the all-purpose verb for surrounding something, including figurative cases and situations where escape is blocked."
+        },
+        {
+          "id": "1g6qgaqs",
+          "word": "engulf",
+          "meaning": "surround or submerge",
+          "note": "Use 包圍 specifically when engulf means surrounding something without necessarily covering or submerging it."
+        },
+        {
+          "id": "35mc0tse",
+          "word": "encompass",
+          "meaning": "include, cover",
+          "note": "Use this when something physically surrounds or encircles something else."
+        }
+      ],
       "examples": [
         {
           "english": "The police surround the suspect, leaving them nowhere to go.",

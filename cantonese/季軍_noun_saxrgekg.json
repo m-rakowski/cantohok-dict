@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "third place medal",
-      "english": ["bronze"],
+      "english": [
+        {
+          "id": "i52bypip",
+          "word": "bronze",
+          "meaning": "third place medal",
+          "note": "Use this for the third-place result or competitor rather than the medal itself."
+        }
+      ],
       "examples": [
         {
           "english": "We won bronze this year.",

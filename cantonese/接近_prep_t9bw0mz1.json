@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "close in degree",
-      "english": ["near"],
+      "english": [
+        {
+          "id": "uq3yapgs",
+          "word": "near",
+          "meaning": "close in degree",
+          "note": "Use this before an abstract endpoint or standard when the closeness is a matter of degree."
+        }
+      ],
       "examples": [
         {
           "english": "This score is already near the passing mark.",

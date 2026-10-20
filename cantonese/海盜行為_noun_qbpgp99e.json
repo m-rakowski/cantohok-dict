@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "robbery at sea",
-      "english": ["piracy"],
+      "english": [
+        {
+          "id": "fl8kucay",
+          "word": "piracy",
+          "meaning": "robbery at sea",
+          "note": "Use this specifically for robbery or seizure of ships at sea, rather than copyright infringement."
+        }
+      ],
       "examples": [
         {
           "english": "The shipping company strengthened its escort to guard against piracy.",

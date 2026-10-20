@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "hard work, effort",
-      "english": ["effort", "diligence", "action", "perspiration"],
+      "english": [
+        {
+          "id": "tksu8tl3",
+          "word": "effort",
+          "meaning": "exertion; work involved",
+          "note": "This is the all-purpose noun for exertion or an endeavor framed as sustained hard work."
+        },
+        {
+          "id": "t1yhytng",
+          "word": "diligence",
+          "meaning": "hard work, effort",
+          "note": "This is the all-purpose noun for sustained effort and the quality of working hard."
+        },
+        {
+          "id": "bt2nxk4r",
+          "word": "action",
+          "meaning": "doing; effort",
+          "note": "Use 努力 when action means the effort invested in doing something."
+        },
+        {
+          "id": "c6d1b362",
+          "word": "perspiration",
+          "meaning": "hard work",
+          "note": "Use this for the figurative sense of hard work or effort, as in the saying about genius and perspiration."
+        }
+      ],
       "examples": [
         {
           "english": "I put a lot of effort into doing the report well.",

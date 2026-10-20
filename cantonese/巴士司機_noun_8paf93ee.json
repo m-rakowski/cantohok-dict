@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "bus driver",
-      "english": ["operator"],
+      "english": [
+        {
+          "id": "ar6g9xet",
+          "word": "operator",
+          "meaning": "bus driver",
+          "note": "Use this specifically when the operator is the person driving a bus."
+        }
+      ],
       "examples": [
         {
           "english": "The bus operator saw someone running for the bus and waited for them.",

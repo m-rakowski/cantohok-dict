@@ -1,3 +1,6 @@
+// Still reads the legacy words/ folder (words/README.md); it is the last
+// script that does, and will move to the page files in cantonese/.
+//
 // Turns everything in words/, frequency.json and aliases.json into the
 // finished files people actually download: a spreadsheet (CSV), a JSON Lines
 // file, an aliases lookup, and a file formatted for the Pleco dictionary

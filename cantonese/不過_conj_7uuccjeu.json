@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "but, however",
-      "english": ["yet", "except", "but"],
+      "english": [
+        {
+          "id": "ibqwpyuz",
+          "word": "yet",
+          "meaning": "but; nevertheless",
+          "note": "Use this especially for sentence-initial “however” or to introduce a qualification after stating something."
+        },
+        {
+          "id": "1qzux0ht",
+          "word": "except",
+          "meaning": "except that / except + clause",
+          "note": "Use this when the exception is presented more broadly as a conversational contrast or qualification."
+        },
+        {
+          "id": "ga2jw8ta",
+          "word": "but",
+          "meaning": "although; however",
+          "note": "Use this for a contrasting qualification or a softer “however,” including after a negative statement."
+        }
+      ],
       "examples": [
         {
           "english": "This restaurant is pretty good, yet it’s a bit expensive.",

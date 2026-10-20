@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "keep, hold on to",
-      "english": ["retain", "keep"],
+      "english": [
+        {
+          "id": "fld4dpck",
+          "word": "retain",
+          "meaning": "keep / continue having",
+          "note": "This is the all-purpose choice for continuing to have or keep something; also use it when a barrier or structure keeps liquid from escaping."
+        },
+        {
+          "id": "kauroa57",
+          "word": "keep",
+          "meaning": "keep; retain possession",
+          "register": "colloquial",
+          "note": "Use this colloquial choice when keeping means continuing to have or retain an object."
+        }
+      ],
       "examples": [
         {
           "english": "I want to retain this memory.",

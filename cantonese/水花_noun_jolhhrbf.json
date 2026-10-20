@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "water splash, spray",
-      "english": ["plume", "wake"],
+      "english": [
+        {
+          "id": "4yt1h6pf",
+          "word": "plume",
+          "meaning": "water spray",
+          "note": "Use this for water or fine spray thrown upward, rather than for smoke."
+        },
+        {
+          "id": "9o2n6qlk",
+          "word": "wake",
+          "meaning": "water disturbance",
+          "note": "Use this for the visible splash or disturbed water made by a person or animal moving through water."
+        }
+      ],
       "examples": [
         {
           "english": "The speedboat left a plume of spray behind it.",

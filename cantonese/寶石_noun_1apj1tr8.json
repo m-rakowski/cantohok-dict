@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "gemstone",
-      "english": ["jewel", "gem", "stone"],
+      "english": [
+        {
+          "id": "hacsfq6i",
+          "word": "jewel",
+          "meaning": "gemstone",
+          "note": "This is the all-purpose choice for a precious or semi-precious gemstone."
+        },
+        {
+          "id": "ykfhey6w",
+          "word": "gem",
+          "meaning": "precious stone",
+          "note": "This is the all-purpose noun for a literal precious stone, rather than a valued person or thing."
+        },
+        {
+          "id": "0ywjhqdm",
+          "word": "stone",
+          "meaning": "gemstone",
+          "note": "Use this for a gemstone or precious stone in general, rather than specifically a diamond."
+        }
+      ],
       "examples": [
         {
           "english": "This jewel is very rare.",

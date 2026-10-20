@@ -6,7 +6,15 @@
   "boxes": [
     {
       "meaning": "transfer data to network/server",
-      "english": ["upload"],
+      "english": [
+        {
+          "id": "mqmpperf",
+          "word": "upload",
+          "meaning": "transfer data to network/server",
+          "register": "written",
+          "note": "Use this as the all-purpose technical equivalent, especially for transferring a file or data to a server."
+        }
+      ],
       "register": "written",
       "examples": [
         {

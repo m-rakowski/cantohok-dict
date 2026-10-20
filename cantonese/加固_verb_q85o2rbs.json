@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "reinforce a structure",
-      "english": ["reinforce", "firm"],
+      "english": [
+        {
+          "id": "ljd7kvs3",
+          "word": "reinforce",
+          "meaning": "strengthen by adding support",
+          "note": "Use this for physically strengthening a structure or object by adding support."
+        },
+        {
+          "id": "s1vi9xzn",
+          "word": "firm",
+          "meaning": "make firm",
+          "note": "Use this mainly for reinforcing a structure or installation so that it becomes more secure and resistant."
+        }
+      ],
       "examples": [
         {
           "english": "The workers used steel frames to reinforce the unsafe building so it would not shake again.",

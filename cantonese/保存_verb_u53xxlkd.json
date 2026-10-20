@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "to preserve, keep in good condition",
-      "english": ["conserve", "preserve"],
+      "english": [
+        {
+          "id": "he0hjcv9",
+          "word": "conserve",
+          "meaning": "preserve for later use",
+          "note": "Use this for keeping food or other things in good condition for later use."
+        },
+        {
+          "id": "sanfdo3m",
+          "word": "preserve",
+          "meaning": "preserve food",
+          "register": "written",
+          "note": "Use this for keeping food from spoiling by storing or treating it for later use."
+        }
+      ],
       "examples": [
         {
           "english": "We use salt to conserve the fish so it will keep for later.",

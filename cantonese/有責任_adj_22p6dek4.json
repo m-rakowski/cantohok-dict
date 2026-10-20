@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "responsible, having a duty",
-      "english": ["responsible", "incumbent"],
+      "english": [
+        {
+          "id": "b35lpigv",
+          "word": "responsible",
+          "meaning": "in charge of; accountable for",
+          "note": "This is the all-purpose choice for being accountable or having duties, including a duty-bearing position."
+        },
+        {
+          "id": "vyofyh3s",
+          "word": "incumbent",
+          "meaning": "obligatory, incumbent on",
+          "note": "Use this when the obligation is placed on a person or group."
+        }
+      ],
       "examples": [
         {
           "english": "They are responsible for looking after the elderly.",

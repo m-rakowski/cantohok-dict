@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "alone, by oneself",
-      "english": ["solo", "alone"],
+      "english": [
+        {
+          "id": "jegnqop5",
+          "word": "solo",
+          "meaning": "alone, by oneself",
+          "note": "This is the all-purpose spoken choice when someone does something without a companion."
+        },
+        {
+          "id": "8m2e18h2",
+          "word": "alone",
+          "meaning": "by oneself",
+          "note": "Use 一個人 as the all-purpose spoken choice when someone does something solo, without saying that help was refused."
+        }
+      ],
       "examples": [
         {
           "english": "I go to the movies solo.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "refundable container deposit",
-      "english": ["deposit"],
+      "english": [
+        {
+          "id": "gxy7v4oj",
+          "word": "deposit",
+          "meaning": "refundable container deposit",
+          "note": "Use this when the money is refundable after a borrowed item or property is returned."
+        }
+      ],
       "examples": [
         {
           "english": "You need to pay a deposit to rent this camera, and you'll get it back when you return it.",

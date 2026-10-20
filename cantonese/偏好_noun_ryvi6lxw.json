@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "preference",
-      "english": ["preference", "predilection"],
+      "english": [
+        {
+          "id": "sfx8tvfo",
+          "word": "preference",
+          "meaning": "liking / choice",
+          "note": "This is the all-purpose noun for a preference or liking for one option over others."
+        },
+        {
+          "id": "mnp8mved",
+          "word": "predilection",
+          "meaning": "preference, liking",
+          "note": "Use this as the all-purpose noun for a personal preference or liking."
+        }
+      ],
       "examples": [
         {
           "english": "My preference for tea is for lighter flavours.",

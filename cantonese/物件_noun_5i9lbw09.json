@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "object, item",
-      "english": ["article", "thing"],
+      "english": [
+        {
+          "id": "tolfdsh7",
+          "word": "article",
+          "meaning": "item; thing",
+          "note": "Use 物件 for a physical object or item, including an article of clothing viewed as an object."
+        },
+        {
+          "id": "gsxtfn8y",
+          "word": "thing",
+          "meaning": "individual object",
+          "note": "Use this for a clearly identifiable physical object or item of equipment rather than the all-purpose 嘢."
+        }
+      ],
       "examples": [
         {
           "english": "This article was a gift from my mother.",

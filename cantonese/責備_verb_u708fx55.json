@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "to rebuke, scold",
-      "english": ["reprove", "rebuke"],
+      "english": [
+        {
+          "id": "vfbzawgf",
+          "word": "reprove",
+          "meaning": "rebuke gently",
+          "note": "Use 責備 when directly telling someone that they have done wrong, especially in a personal or moral reprimand that may still be gentle."
+        },
+        {
+          "id": "0cfpufec",
+          "word": "rebuke",
+          "meaning": "criticise harshly; reprove",
+          "note": "Use this for reproving someone in a more measured or serious way, without necessarily implying an angry outburst."
+        }
+      ],
       "examples": [
         {
           "english": "I’m not trying to reprove you; I just want you to be more careful next time.",

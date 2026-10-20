@@ -6,7 +6,50 @@
   "boxes": [
     {
       "meaning": "beat badly",
-      "english": ["batter", "hammer", "smash", "whip", "stuff", "destroy"],
+      "english": [
+        {
+          "id": "tcg1wse4",
+          "word": "batter",
+          "meaning": "defeat soundly",
+          "register": "colloquial",
+          "note": "Use this colloquial choice for thrashing an opponent in a match, contest, or other competition."
+        },
+        {
+          "id": "m4p9xe02",
+          "word": "hammer",
+          "meaning": "defeat badly",
+          "register": "colloquial",
+          "note": "Use this for beating a person or team by a large margin, especially in a match or competition."
+        },
+        {
+          "id": "moajug0h",
+          "word": "smash",
+          "meaning": "defeat heavily",
+          "register": "colloquial",
+          "note": "Use this in colloquial sports or competition contexts when one side defeats the other by a very large margin."
+        },
+        {
+          "id": "lxk9glju",
+          "word": "whip",
+          "meaning": "defeat badly",
+          "register": "colloquial",
+          "note": "Use this colloquial Hong Kong expression when one side defeats another decisively in a game or contest."
+        },
+        {
+          "id": "hdyew7tc",
+          "word": "stuff",
+          "meaning": "defeat badly",
+          "register": "colloquial",
+          "note": "Use this mainly when one team or competitor defeats another by a large margin."
+        },
+        {
+          "id": "cpam5qdh",
+          "word": "destroy",
+          "meaning": "defeat badly",
+          "register": "colloquial",
+          "note": "Use this mainly when a team or competitor defeats another by a huge margin."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

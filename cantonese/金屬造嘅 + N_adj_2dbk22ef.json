@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "made of or fitted with metal",
-      "english": ["metalled"],
+      "english": [
+        {
+          "id": "dbgkow0e",
+          "word": "metalled",
+          "meaning": "made of or fitted with metal",
+          "note": "Use this when the object itself is made of metal."
+        }
+      ],
       "examples": [
         {
           "english": "This metalled table is so heavy that we can't move it.",

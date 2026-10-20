@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "to live in a place",
-      "english": ["inhabit", "range", "occupy"],
+      "english": [
+        {
+          "id": "fjeodgib",
+          "word": "inhabit",
+          "meaning": "live in; reside in",
+          "note": "This is the all-purpose choice for saying that people live or reside in a place."
+        },
+        {
+          "id": "f1hj9qee",
+          "word": "range",
+          "meaning": "be found naturally",
+          "note": "Use this for a person or animal living in a particular district, rather than for a geographical distribution."
+        },
+        {
+          "id": "zk41t4jz",
+          "word": "occupy",
+          "meaning": "be occupied",
+          "register": "colloquial",
+          "note": "Use this for people living or residing in a place, rather than for merely taking up space."
+        }
+      ],
       "examples": [
         {
           "english": "We inhabit that house by the sea.",

@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "proactive, eager",
-      "english": ["enthusiastic", "motivated", "active"],
+      "english": [
+        {
+          "id": "i6580u0a",
+          "word": "enthusiastic",
+          "meaning": "eager, excited, keen",
+          "note": "Use this when the enthusiasm shows itself as active effort, participation, or motivation."
+        },
+        {
+          "id": "6epfitto",
+          "word": "motivated",
+          "meaning": "enthusiastic and driven",
+          "note": "Use this when the motivated person is showing initiative and taking an active approach, especially at work or in a project."
+        },
+        {
+          "id": "u379zsr4",
+          "word": "active",
+          "meaning": "busy, industrious",
+          "note": "Use this when active means energetically taking action or applying oneself, rather than simply moving around."
+        }
+      ],
       "examples": [
         {
           "english": "You’re being really enthusiastic and proactive this time.",

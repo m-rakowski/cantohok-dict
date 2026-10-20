@@ -6,7 +6,33 @@
   "boxes": [
     {
       "meaning": "make angry",
-      "english": ["irritate", "provoke", "mortify", "upset"],
+      "english": [
+        {
+          "id": "vwxit7kk",
+          "word": "irritate",
+          "meaning": "make angry or annoyed",
+          "note": "This is the all-purpose colloquial choice when someone or something makes you angry or annoyed."
+        },
+        {
+          "id": "p713a5vi",
+          "word": "provoke",
+          "meaning": "make angry",
+          "note": "This is the all-purpose choice when someone or something makes another person angry or annoyed."
+        },
+        {
+          "id": "5fy6byhx",
+          "word": "mortify",
+          "meaning": "vex, upset",
+          "register": "colloquial",
+          "note": "Use this when the person is vexed, annoyed, or made angry rather than publicly embarrassed."
+        },
+        {
+          "id": "4oqy3s6g",
+          "word": "upset",
+          "meaning": "make someone upset",
+          "note": "Use this specifically when the person is made angry rather than merely unhappy or distressed."
+        }
+      ],
       "examples": [
         {
           "english": "This driver can irritate me.",

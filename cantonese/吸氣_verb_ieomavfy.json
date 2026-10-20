@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "to breathe in",
-      "english": ["inhale", "inspire"],
+      "english": [
+        {
+          "id": "abs65xku",
+          "word": "inhale",
+          "meaning": "breathe in air",
+          "note": "This is the all-purpose choice for deliberately breathing air in."
+        },
+        {
+          "id": "1utzlyhe",
+          "word": "inspire",
+          "meaning": "breathe in",
+          "note": "Use this for the physical act of drawing air into the lungs."
+        }
+      ],
       "examples": [
         {
           "english": "After running, I inhale first—don't rush to talk.",

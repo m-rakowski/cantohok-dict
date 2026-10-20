@@ -6,7 +6,34 @@
   "boxes": [
     {
       "meaning": "wealth",
-      "english": ["wealth", "opulence", "abundance", "money"],
+      "english": [
+        {
+          "id": "m9e2qmv4",
+          "word": "wealth",
+          "meaning": "riches, material assets",
+          "register": "formal",
+          "note": "Use this as the all-purpose term for wealth in general, especially when discussing society, nations, or abstract riches."
+        },
+        {
+          "id": "u7nxj6j7",
+          "word": "opulence",
+          "meaning": "wealth",
+          "note": "This is the all-purpose noun for wealth or riches."
+        },
+        {
+          "id": "rdvky9dz",
+          "word": "abundance",
+          "meaning": "wealth, affluence",
+          "note": "Use this noun when abundance means wealth or accumulated assets rather than a quantity of things."
+        },
+        {
+          "id": "k0sxmerf",
+          "word": "money",
+          "meaning": "wealth",
+          "register": "formal",
+          "note": "Use this formal term for wealth as an abstract possession or accumulated assets."
+        }
+      ],
       "examples": [
         {
           "english": "A society's wealth shouldn't be concentrated in the hands of just a few people.",

@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "what's going on, what's the matter",
-      "english": ["deal", "story"],
+      "english": [
+        {
+          "id": "2s3r5dea",
+          "word": "deal",
+          "meaning": "thing; matter",
+          "register": "colloquial",
+          "note": "Use this in questions about what is going on, including what is wrong or unusual about a person."
+        },
+        {
+          "id": "100gjqih",
+          "word": "story",
+          "meaning": "what's the situation",
+          "note": "Use 咩事 in a colloquial question about what is going on or what the situation is."
+        }
+      ],
       "examples": [
         {
           "english": "You’re so irritable today—what’s the deal?",

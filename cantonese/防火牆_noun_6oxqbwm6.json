@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "computer security software",
-      "english": ["firewall"],
+      "english": [
+        {
+          "id": "64jgxfsq",
+          "word": "firewall",
+          "meaning": "computer security software",
+          "note": "This is the all-purpose equivalent for both a physical fire barrier and computer-security software."
+        }
+      ],
       "examples": [
         {
           "english": "The company's firewall blocked the suspicious connection.",

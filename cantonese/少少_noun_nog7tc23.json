@@ -6,7 +6,45 @@
   "boxes": [
     {
       "meaning": "a little bit, small amount",
-      "english": ["trace", "dash", "smattering", "touch", "trifle", "whisper"],
+      "english": [
+        {
+          "id": "so3f1h0x",
+          "word": "trace",
+          "meaning": "very small amount",
+          "register": "colloquial",
+          "note": "Use this all-purpose colloquial expression for a very small or residual amount."
+        },
+        {
+          "id": "ohaaju1l",
+          "word": "dash",
+          "meaning": "small amount",
+          "note": "Use this for a very small amount, especially in cooking instructions such as adding a dash of vinegar."
+        },
+        {
+          "id": "92xe6t67",
+          "word": "smattering",
+          "meaning": "small amount",
+          "note": "This is the all-purpose colloquial choice for a small amount; use it for a small number only when the context makes that clear."
+        },
+        {
+          "id": "kjciy69t",
+          "word": "touch",
+          "meaning": "a little bit",
+          "note": "Use this as the all-purpose noun for a small amount or a tiny adjustment."
+        },
+        {
+          "id": "wi4sfsk0",
+          "word": "trifle",
+          "meaning": "a small amount",
+          "note": "Use this for a very small amount of something, especially in everyday phrases such as 少少芥末."
+        },
+        {
+          "id": "osjrw2tj",
+          "word": "whisper",
+          "meaning": "tiny amount",
+          "note": "Use 少少 when the whisper means a very small amount of a flavor, quality, or other substance."
+        }
+      ],
       "examples": [
         {
           "english": "There’s still a trace of milk left in the fridge.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "seal off an area",
-      "english": ["cordon"],
+      "english": [
+        {
+          "id": "p88rqxeg",
+          "word": "cordon",
+          "meaning": "cordon off / seal off",
+          "note": "Use this as the all-purpose term, especially for officially restricting access to an area or street."
+        }
+      ],
       "examples": [
         {
           "english": "The police announced plans to cordon off the street, and the public isn't allowed in.",
@@ -17,7 +24,20 @@
     },
     {
       "meaning": "block an account or user",
-      "english": ["enforce", "block"],
+      "english": [
+        {
+          "id": "9rtixyba",
+          "word": "enforce",
+          "meaning": "apply rules to accounts",
+          "note": "Use this for enforcing a rule on an account by blocking or restricting that account."
+        },
+        {
+          "id": "2ueomj7f",
+          "word": "block",
+          "meaning": "ban online access",
+          "note": "Use this for blocking a person, account, or service from online access or communication."
+        }
+      ],
       "examples": [
         {
           "english": "The platform will enforce the rule by blocking accounts that violate it.",

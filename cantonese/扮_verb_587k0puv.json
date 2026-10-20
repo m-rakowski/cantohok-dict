@@ -6,7 +6,40 @@
   "boxes": [
     {
       "meaning": "pretend, put on an act",
-      "english": ["pretend", "feign", "dissemble", "act", "assume"],
+      "english": [
+        {
+          "id": "padjdyi2",
+          "word": "pretend",
+          "meaning": "act falsely; fake",
+          "note": "This is the all-purpose spoken choice for pretending, including acting falsely, make-believe, and feigning a state."
+        },
+        {
+          "id": "gwjd9b3e",
+          "word": "feign",
+          "meaning": "pretend; fake",
+          "note": "This is the all-purpose colloquial choice for pretending to have a condition or showing a false appearance, such as 扮病."
+        },
+        {
+          "id": "fnzg2prl",
+          "word": "dissemble",
+          "meaning": "disguise or conceal",
+          "register": "colloquial",
+          "note": "Use this when the dissembling involves pretending to be different or pretending not to feel or think something."
+        },
+        {
+          "id": "j17d5ofv",
+          "word": "act",
+          "meaning": "seem; appear",
+          "note": "Use 扮 when someone deliberately puts on an appearance or feigns a feeling, rather than genuinely seeming that way."
+        },
+        {
+          "id": "chsirpjc",
+          "word": "assume",
+          "meaning": "pretend quality",
+          "register": "colloquial",
+          "note": "Use this for adopting a feigned manner or quality, such as acting indifferent."
+        }
+      ],
       "examples": [
         {
           "english": "They always pretend they know everything.",
@@ -37,7 +70,27 @@
     },
     {
       "meaning": "dress up as, imitate someone",
-      "english": ["disguise", "impersonate", "imitate"],
+      "english": [
+        {
+          "id": "to1q8s6i",
+          "word": "disguise",
+          "meaning": "to make look different",
+          "register": "colloquial",
+          "note": "Use 扮 in casual speech when someone changes their appearance or acts as another person, especially by taking on a role or identity."
+        },
+        {
+          "id": "u3t6ck5h",
+          "word": "impersonate",
+          "meaning": "pretend to be someone",
+          "note": "This is the all-purpose colloquial choice for pretending to be another person, especially without stressing fraud."
+        },
+        {
+          "id": "cc6wlkwk",
+          "word": "imitate",
+          "meaning": "copy; follow as a model",
+          "note": "Use this when imitating a person's manner, voice, or behavior, often with a playful or mocking implication."
+        }
+      ],
       "examples": [
         {
           "english": "They disguise themselves as students to get into the venue.",

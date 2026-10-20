@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "criminal charge",
-      "english": ["charge", "accusation"],
+      "english": [
+        {
+          "id": "nw26ezmm",
+          "word": "charge",
+          "meaning": "criminal charge",
+          "note": "Use this for an official criminal allegation made by the police or a court."
+        },
+        {
+          "id": "rzp02gv9",
+          "word": "accusation",
+          "meaning": "formal legal charge",
+          "note": "Use this specifically for a criminal charge formally brought in court."
+        }
+      ],
       "examples": [
         {
           "english": "The police have withdrawn the charge against him.",

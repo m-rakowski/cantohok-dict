@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "unlikely",
-      "english": ["unlikely", "improbable", "doubtful"],
+      "english": [
+        {
+          "id": "s2hdy830",
+          "word": "unlikely",
+          "meaning": "improbable",
+          "note": "This is the all-purpose spoken equivalent for saying that something is improbable or not reasonably expected."
+        },
+        {
+          "id": "gkmjwhvh",
+          "word": "improbable",
+          "meaning": "unlikely to happen",
+          "note": "This is the all-purpose everyday choice for something unlikely to be true or to happen."
+        },
+        {
+          "id": "75l430u2",
+          "word": "doubtful",
+          "meaning": "unlikely",
+          "note": "Use this specifically when an event or result is unlikely to happen."
+        }
+      ],
       "examples": [
         {
           "english": "It's unlikely that this project will be finished this year.",

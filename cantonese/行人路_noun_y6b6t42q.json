@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "sidewalk",
-      "english": ["sidewalk", "pavement", "walk"],
+      "english": [
+        {
+          "id": "3xx0enh5",
+          "word": "sidewalk",
+          "meaning": "paved footpath by road",
+          "note": "This is the all-purpose spoken Hong Kong Cantonese term for a sidewalk."
+        },
+        {
+          "id": "bmlgxxb8",
+          "word": "pavement",
+          "meaning": "sidewalk, pedestrian path",
+          "note": "Use this for the pedestrian path alongside a road, rather than the road surface itself."
+        },
+        {
+          "id": "o95hua7q",
+          "word": "walk",
+          "meaning": "path for walking",
+          "note": "Use this for a sidewalk or maintained route intended for pedestrians."
+        }
+      ],
       "examples": [
         {
           "english": "Be careful, there’s a bicycle on the sidewalk.",

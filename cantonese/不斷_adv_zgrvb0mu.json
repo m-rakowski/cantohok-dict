@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "continuously, without stopping",
-      "english": ["ceaselessly", "steadily", "continually"],
+      "english": [
+        {
+          "id": "qvpqt2y1",
+          "word": "ceaselessly",
+          "meaning": "without stopping",
+          "note": "Use this when emphasizing an ongoing or repeatedly continuing action."
+        },
+        {
+          "id": "kuemhp7r",
+          "word": "steadily",
+          "meaning": "continuously; at a constant rate",
+          "note": "Use this when the emphasis is that the action keeps happening without stopping, rather than on its exact rate."
+        },
+        {
+          "id": "nnm4onx4",
+          "word": "continually",
+          "meaning": "very often",
+          "register": "formal",
+          "note": "This is a more formal option for repeated or ongoing activity, especially in careful speech and writing."
+        }
+      ],
       "examples": [
         {
           "english": "Lately, it has been raining ceaselessly, and the road keeps flooding.",

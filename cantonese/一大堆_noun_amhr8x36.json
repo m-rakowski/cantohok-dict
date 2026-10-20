@@ -6,7 +6,70 @@
   "boxes": [
     {
       "meaning": "a lot, a large amount",
-      "english": ["lot", "heap", "load", "ton", "bunch", "stack", "mountain", "host", "mess", "forest"],
+      "english": [
+        {
+          "id": "ljp52zcv",
+          "word": "lot",
+          "meaning": "a large quantity",
+          "note": "Use this as the everyday noun phrase for a large, usually tangible quantity; it is the all-purpose choice among the quantity renderings here."
+        },
+        {
+          "id": "uco1z5d8",
+          "word": "heap",
+          "meaning": "a lot; very much",
+          "note": "Use this as the all-purpose choice for a large amount or a lot of things."
+        },
+        {
+          "id": "uzw5jx9k",
+          "word": "load",
+          "meaning": "a lot; loads of",
+          "note": "Use this for a large amount or number, especially in phrases such as 一大堆禮物."
+        },
+        {
+          "id": "o16cp36r",
+          "word": "ton",
+          "meaning": "a lot; tons of",
+          "note": "Use this before a noun such as 工作 when “a ton of” means a very large amount rather than a literal weight."
+        },
+        {
+          "id": "mfazdakh",
+          "word": "bunch",
+          "meaning": "a lot; a great deal",
+          "register": "colloquial",
+          "note": "Use this as the all-purpose colloquial choice for a large amount or loose pile, such as a bunch of trouble."
+        },
+        {
+          "id": "alyok0mw",
+          "word": "stack",
+          "meaning": "large amount",
+          "note": "Use this for a large amount of something, especially when the amount is emphasized rather than the neat arrangement."
+        },
+        {
+          "id": "bfh2pqiw",
+          "word": "mountain",
+          "meaning": "very large amount",
+          "register": "colloquial",
+          "note": "Use this for a huge heap or quantity, rather than for a literal landform."
+        },
+        {
+          "id": "fx2e319j",
+          "word": "host",
+          "meaning": "a lot of things",
+          "note": "Use this for a large pile or quantity of items in expressions such as a host of parts."
+        },
+        {
+          "id": "owp0wqof",
+          "word": "mess",
+          "meaning": "a lot; a mess of",
+          "note": "Use this for a large quantity or number, usually before or instead of naming the things involved."
+        },
+        {
+          "id": "i770nh3r",
+          "word": "forest",
+          "meaning": "dense mass",
+          "note": "Use this for a figurative forest-like mass or large amount, such as a large amount of criticism."
+        }
+      ],
       "examples": [
         {
           "english": "There are a lot of documents on the table, so help me sort them out.",

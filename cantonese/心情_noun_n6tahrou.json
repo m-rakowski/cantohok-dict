@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "mood",
-      "english": ["mood", "emotion", "temper"],
+      "english": [
+        {
+          "id": "db5o151m",
+          "word": "mood",
+          "meaning": "emotional state",
+          "note": "This is the all-purpose noun for an emotional state or a good or bad mood."
+        },
+        {
+          "id": "hyw5t106",
+          "word": "emotion",
+          "meaning": "feeling; emotional state",
+          "note": "Use this for someone's current mood or emotional state, especially as affected by a situation."
+        },
+        {
+          "id": "7dumwrek",
+          "word": "temper",
+          "meaning": "mood; state of mind",
+          "note": "Use this for someone's current mood or state of mind, whether good or bad."
+        }
+      ],
       "examples": [
         {
           "english": "My mood is better today.",

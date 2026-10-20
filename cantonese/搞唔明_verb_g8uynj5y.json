@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "can't understand",
-      "english": ["elude", "puzzle"],
+      "english": [
+        {
+          "id": "dtjt6ltz",
+          "word": "elude",
+          "meaning": "be hard to understand",
+          "note": "Use 搞唔明 when a subject or idea is beyond someone's understanding."
+        },
+        {
+          "id": "mxvgccs0",
+          "word": "puzzle",
+          "meaning": "be confused",
+          "note": "Use this when someone cannot understand or figure out a complicated matter."
+        }
+      ],
       "examples": [
         {
           "english": "This problem just continues to elude me.",

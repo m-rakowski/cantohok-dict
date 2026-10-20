@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "computer freeze or crash",
-      "english": ["hang", "crash"],
+      "english": [
+        {
+          "id": "464x4q2h",
+          "word": "hang",
+          "meaning": "computer freeze",
+          "note": "This is the all-purpose Cantonese noun for a computer or system becoming unresponsive."
+        },
+        {
+          "id": "eo9eqpdw",
+          "word": "crash",
+          "meaning": "computer crash",
+          "register": "colloquial",
+          "note": "Use this for a computer or device crash that leaves it frozen or unusable."
+        }
+      ],
       "examples": [
         {
           "english": "The computer has gone into a hang and isn't responding.",

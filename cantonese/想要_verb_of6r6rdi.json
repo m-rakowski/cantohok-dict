@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "want, would like",
-      "english": ["want", "like"],
+      "english": [
+        {
+          "id": "m5gzqej0",
+          "word": "want",
+          "meaning": "desire, need",
+          "note": "Use 想要 to make the desire more explicit or stronger, especially when wanting a thing, an action, or someone sexually."
+        },
+        {
+          "id": "cv2q8y6m",
+          "word": "like",
+          "meaning": "would like; want",
+          "note": "Use this for a straightforward statement of wanting or desiring an object or action rather than an offer-question."
+        }
+      ],
       "examples": [
         {
           "english": "I really want this job.",
@@ -22,7 +35,14 @@
     },
     {
       "meaning": "want someone sexually",
-      "english": ["desire"],
+      "english": [
+        {
+          "id": "p8jjmvur",
+          "word": "desire",
+          "meaning": "want sexually",
+          "note": "Use this when wanting a person in a romantic or sexual context."
+        }
+      ],
       "examples": [
         {
           "english": "I really desire you.",

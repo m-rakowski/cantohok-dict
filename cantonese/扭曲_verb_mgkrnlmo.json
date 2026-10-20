@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "distort, twist meaning",
-      "english": ["twist", "strain"],
+      "english": [
+        {
+          "id": "iettp0vg",
+          "word": "twist",
+          "meaning": "twist into shape",
+          "note": "Use 扭曲 for something being contorted into a distorted form, or for words, facts, or meaning being distorted."
+        },
+        {
+          "id": "1seet7dy",
+          "word": "strain",
+          "meaning": "stretch meaning",
+          "note": "Use this when someone forces or distorts the proper meaning of a law, statement, or intention."
+        }
+      ],
       "examples": [
         {
           "english": "They always twist my meaning.",

@@ -6,7 +6,29 @@
   "boxes": [
     {
       "meaning": "by the look of it",
-      "english": ["aesthetically", "ostensibly", "apparently"],
+      "english": [
+        {
+          "id": "eyvhwkbf",
+          "word": "aesthetically",
+          "meaning": "in an aesthetic way",
+          "register": "colloquial",
+          "note": "Use this in casual speech when the pleasing aesthetic effect is mainly visual or concerns how something looks."
+        },
+        {
+          "id": "ogwxwigo",
+          "word": "ostensibly",
+          "meaning": "apparently; on the surface",
+          "register": "colloquial",
+          "note": "Use this when ostensibly means that something seems or appears a certain way from the available evidence."
+        },
+        {
+          "id": "d7nbib3q",
+          "word": "apparently",
+          "meaning": "seemingly; in appearance",
+          "register": "colloquial",
+          "note": "Use this for how someone or something appears on the surface, especially when the appearance may be misleading."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

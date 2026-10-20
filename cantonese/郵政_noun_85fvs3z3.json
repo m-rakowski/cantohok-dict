@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "postal service",
-      "english": ["post", "mail"],
+      "english": [
+        {
+          "id": "wwrsy20l",
+          "word": "post",
+          "meaning": "mail service",
+          "note": "Use this for the postal organisation or the mail service rather than an individual delivery."
+        },
+        {
+          "id": "ezbwg15r",
+          "word": "mail",
+          "meaning": "postal service",
+          "register": "formal",
+          "note": "Use this for the postal service or postal system as an institution."
+        }
+      ],
       "examples": [
         {
           "english": "The post service now charges more to send parcels.",

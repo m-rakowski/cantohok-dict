@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "characteristic, notable point",
-      "english": ["attribute", "idiosyncrasy", "characteristic"],
+      "english": [
+        {
+          "id": "7d79339f",
+          "word": "attribute",
+          "meaning": "quality; characteristic",
+          "note": "This is the all-purpose choice for a noticeable characteristic or quality."
+        },
+        {
+          "id": "g0utkcth",
+          "word": "idiosyncrasy",
+          "meaning": "distinctive trait or habit",
+          "note": "This is the all-purpose choice for a distinctive characteristic of a person, group, or system."
+        },
+        {
+          "id": "jqp1yoly",
+          "word": "characteristic",
+          "meaning": "distinguishing feature",
+          "note": "This is the all-purpose spoken choice for a notable characteristic or feature."
+        }
+      ],
       "examples": [
         {
           "english": "The phone's most useful attribute is its long-lasting battery.",

@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "to persuade, convince",
-      "english": ["convince", "persuade", "influence", "sell"],
+      "english": [
+        {
+          "id": "p0ueh96q",
+          "word": "convince",
+          "meaning": "make someone believe",
+          "note": "This is the all-purpose choice when someone actively persuades another person or changes their mind through reasons or arguments."
+        },
+        {
+          "id": "0eqoirmh",
+          "word": "persuade",
+          "meaning": "convince to do",
+          "note": "This is the all-purpose choice when you successfully convince someone through reasons or verbal argument."
+        },
+        {
+          "id": "eadkv32p",
+          "word": "influence",
+          "meaning": "influence, sway",
+          "note": "Use this when influencing someone means persuading or inducing them to agree or act."
+        },
+        {
+          "id": "nd57leao",
+          "word": "sell",
+          "meaning": "sell an idea",
+          "note": "Use this when “selling” a viewpoint means persuading someone to accept it."
+        }
+      ],
       "examples": [
         {
           "english": "He used reason to convince me.",

@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "exchange, swap",
-      "english": ["swap", "exchange", "switch"],
+      "english": [
+        {
+          "id": "42y78v7a",
+          "word": "swap",
+          "meaning": "an exchange/trade",
+          "note": "This is the all-purpose noun for an exchange of two comparable things."
+        },
+        {
+          "id": "zh6cw2rm",
+          "word": "exchange",
+          "meaning": "trade; swap",
+          "note": "Use this for the act or result of swapping things, rights, or information rather than a commercial transaction."
+        },
+        {
+          "id": "0oi08m0x",
+          "word": "switch",
+          "meaning": "change or exchange",
+          "note": "Use this when the switch specifically involves exchanging or swapping two things."
+        }
+      ],
       "examples": [
         {
           "english": "This swap was fair; nobody lost out.",

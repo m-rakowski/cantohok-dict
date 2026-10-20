@@ -6,7 +6,29 @@
   "boxes": [
     {
       "meaning": "formal statement",
-      "english": ["declaration", "assertion", "statement"],
+      "english": [
+        {
+          "id": "6c2aw040",
+          "word": "declaration",
+          "meaning": "formal statement",
+          "register": "formal",
+          "note": "Use 聲明 as the all-purpose noun for a formal statement or assertion."
+        },
+        {
+          "id": "0adxah8s",
+          "word": "assertion",
+          "meaning": "statement; declaration",
+          "register": "formal",
+          "note": "Use this for a public, official, or deliberately declared statement rather than an ordinary claim."
+        },
+        {
+          "id": "7zvik99m",
+          "word": "statement",
+          "meaning": "declaration; remark",
+          "register": "formal",
+          "note": "Use this for a formal declaration, especially an official or public statement of a position."
+        }
+      ],
       "register": "formal",
       "examples": [
         {

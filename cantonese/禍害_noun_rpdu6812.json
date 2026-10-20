@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "harmful thing, scourge",
-      "english": ["blight", "evil", "poison"],
+      "english": [
+        {
+          "id": "1fj6uadb",
+          "word": "blight",
+          "meaning": "thing that spoils growth",
+          "note": "Use this for a harmful thing or force that holds back progress or damages life metaphorically."
+        },
+        {
+          "id": "l3calv4i",
+          "word": "evil",
+          "meaning": "harm, misfortune",
+          "note": "Use this for a harmful thing, scourge, or misfortune that causes suffering or loss."
+        },
+        {
+          "id": "e2h8e9qb",
+          "word": "poison",
+          "meaning": "something harmful",
+          "note": "Use this for a person or thing that causes serious harm, especially in a figurative expression such as gossip being a scourge."
+        }
+      ],
       "examples": [
         {
           "english": "Gambling addiction is a blight on families and makes everyone unhappy.",

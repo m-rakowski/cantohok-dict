@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "person who collects things",
-      "english": ["collector"],
+      "english": [
+        {
+          "id": "3d1q0bwe",
+          "word": "collector",
+          "meaning": "person who collects things",
+          "note": "Use this for a device or component that collects things rather than for a human collector."
+        }
+      ],
       "examples": [
         {
           "english": "This machine has a collector built in.",

@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "job post, position",
-      "english": ["position", "post", "appointment", "assignment"],
+      "english": [
+        {
+          "id": "2hest8lg",
+          "word": "position",
+          "meaning": "job; post",
+          "note": "Use this for an employment post or official job position rather than a general location."
+        },
+        {
+          "id": "1gj0w4xd",
+          "word": "post",
+          "meaning": "job position",
+          "note": "Use this for an appointed job or position in an organisation."
+        },
+        {
+          "id": "ueu0yvnc",
+          "word": "appointment",
+          "meaning": "office or position held",
+          "note": "Use this for the office or position that the person has been appointed to hold."
+        },
+        {
+          "id": "ogzeb81u",
+          "word": "assignment",
+          "meaning": "job posting",
+          "note": "Use 職位 when an assignment means an official post or position someone is sent to fill."
+        }
+      ],
       "examples": [
         {
           "english": "I want to apply for this position.",

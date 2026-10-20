@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "measuring sensor",
-      "english": ["probe"],
+      "english": [
+        {
+          "id": "i5chen58",
+          "word": "probe",
+          "meaning": "measuring sensor",
+          "note": "Use 探針 for a physical probe, especially a medical instrument or a small measuring or electrode probe."
+        }
+      ],
       "examples": [
         {
           "english": "The doctor used a probe to check whether there was anything in the wound.",

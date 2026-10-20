@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "threaten",
-      "english": ["threaten", "terrify"],
+      "english": [
+        {
+          "id": "s5pn11t0",
+          "word": "threaten",
+          "meaning": "make threats",
+          "note": "This is the all-purpose choice when someone deliberately threatens another person."
+        },
+        {
+          "id": "fttd4mp7",
+          "word": "terrify",
+          "meaning": "menace, intimidate",
+          "note": "Use this for the menace or threat itself, rather than the immediate feeling of fear it causes."
+        }
+      ],
       "examples": [
         {
           "english": "If you don’t pay me back, I’ll threaten to make the photos public.",

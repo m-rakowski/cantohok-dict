@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "Garden of Eden",
-      "english": ["paradise"],
+      "english": [
+        {
+          "id": "zaol77en",
+          "word": "paradise",
+          "meaning": "Garden of Eden",
+          "note": "Use this specifically for the biblical Garden of Eden."
+        }
+      ],
       "examples": [
         {
           "english": "The Garden of Eden was the biblical paradise where Adam and Eve first lived.",

@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "advertisement",
-      "english": ["advertisement", "advertising", "commercial", "advert"],
+      "english": [
+        {
+          "id": "upgees74",
+          "word": "advertisement",
+          "meaning": "commercial ad",
+          "note": "This is the all-purpose choice for a commercial advertisement."
+        },
+        {
+          "id": "y6j2qqpk",
+          "word": "advertising",
+          "meaning": "promotional advertising",
+          "note": "This is the all-purpose choice for promotional advertising and advertisements aimed at potential customers."
+        },
+        {
+          "id": "wwljenx2",
+          "word": "commercial",
+          "meaning": "TV/radio advertisement",
+          "note": "This is the all-purpose Cantonese noun for a commercial or advertisement, including one on television or radio."
+        },
+        {
+          "id": "qb847po8",
+          "word": "advert",
+          "meaning": "advertisement / ad",
+          "note": "This is the all-purpose Cantonese noun for an advertisement or ad."
+        }
+      ],
       "examples": [
         {
           "english": "This advertisement makes the new phone sound really great.",

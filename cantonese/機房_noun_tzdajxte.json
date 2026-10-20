@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "ship engine room",
-      "english": ["engineering"],
+      "english": [
+        {
+          "id": "hrgp585u",
+          "word": "engineering",
+          "meaning": "ship engine room",
+          "note": "Use this for the machinery or engine room when the ship context makes the meaning clear."
+        }
+      ],
       "examples": [
         {
           "english": "The ship's engineering room is very hot, so remember to wear a hard hat before going in.",

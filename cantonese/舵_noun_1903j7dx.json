@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "ship's wheel",
-      "english": ["wheel"],
+      "english": [
+        {
+          "id": "fd2zn000",
+          "word": "wheel",
+          "meaning": "ship's wheel",
+          "note": "Use this for the steering wheel or helm of a ship."
+        }
+      ],
       "examples": [
         {
           "english": "The captain turned the wheel, and the ship changed course.",

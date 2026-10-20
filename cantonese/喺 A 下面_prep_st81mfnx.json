@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "under, below A",
-      "english": ["under", "below", "beneath", "underneath"],
+      "english": [
+        {
+          "id": "g277omuq",
+          "word": "under",
+          "meaning": "below / beneath",
+          "note": "This is the all-purpose choice for something located beneath A, including movement beneath A when used with a movement verb."
+        },
+        {
+          "id": "psek3j0v",
+          "word": "below",
+          "meaning": "lower in place",
+          "note": "This is the all-purpose colloquial construction for something spatially lower than A."
+        },
+        {
+          "id": "llg9nh5m",
+          "word": "beneath",
+          "meaning": "below / under",
+          "note": "This is the all-purpose choice for something physically below or concealed under something else."
+        },
+        {
+          "id": "re11kn97",
+          "word": "underneath",
+          "meaning": "under; below; beneath",
+          "note": "This is the all-purpose choice for something positioned underneath or below something else."
+        }
+      ],
       "examples": [
         {
           "english": "The car stopped under the bridge.",

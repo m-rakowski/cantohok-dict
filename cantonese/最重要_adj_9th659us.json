@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "most important",
-      "english": ["principal", "prime", "paramount"],
+      "english": [
+        {
+          "id": "kfjpb2ex",
+          "word": "principal",
+          "meaning": "most important; main",
+          "note": "Use this when “principal” specifically stresses being the most important rather than simply the main one."
+        },
+        {
+          "id": "5o6ssfkr",
+          "word": "prime",
+          "meaning": "most important",
+          "note": "Use this as the all-purpose rendering when “prime” means highest in importance."
+        },
+        {
+          "id": "gc0ad3s5",
+          "word": "paramount",
+          "meaning": "of highest importance",
+          "note": "This is the all-purpose everyday choice for something that is of the highest importance."
+        }
+      ],
       "examples": [
         {
           "english": "Ming plays the principal role on the team.",

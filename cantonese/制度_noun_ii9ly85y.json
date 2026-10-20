@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "system, institution",
-      "english": ["regime", "institution"],
+      "english": [
+        {
+          "id": "b76q05r6",
+          "word": "regime",
+          "meaning": "system of rule",
+          "note": "For an organized system of rules or management, this is the all-purpose choice, including a prison regime."
+        },
+        {
+          "id": "er2qx068",
+          "word": "institution",
+          "meaning": "custom or practice",
+          "note": "Use this for institution as a socially established system or practice, as in marriage."
+        }
+      ],
       "examples": [
         {
           "english": "The prison regime is so strict that inmates cannot even choose their visiting time.",

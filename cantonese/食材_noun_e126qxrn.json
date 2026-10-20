@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "food mixture component",
-      "english": ["ingredient"],
+      "english": [
+        {
+          "id": "ax824e94",
+          "word": "ingredient",
+          "meaning": "food mixture component",
+          "note": "Use this specifically for food ingredients, especially ingredients bought or prepared for cooking."
+        }
+      ],
       "examples": [
         {
           "english": "I bought the ingredient for tonight’s hot pot.",

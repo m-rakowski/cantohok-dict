@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "uneasily, awkwardly",
-      "english": ["uncomfortably", "uneasily"],
+      "english": [
+        {
+          "id": "m6j7amsp",
+          "word": "uncomfortably",
+          "meaning": "in an uncomfortable way",
+          "register": "colloquial",
+          "note": "Use this when the discomfort is mainly emotional, social, or a feeling of unease rather than physical pain."
+        },
+        {
+          "id": "17jzz3h9",
+          "word": "uneasily",
+          "meaning": "in an uneasy manner",
+          "note": "This is the all-purpose choice for doing something in an uncomfortable or uneasy manner."
+        }
+      ],
       "examples": [
         {
           "english": "I sat there uncomfortably when I met my girlfriend’s family for the first time.",

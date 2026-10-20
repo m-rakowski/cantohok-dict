@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "improvement",
-      "english": ["improvement", "upgrade"],
+      "english": [
+        {
+          "id": "qly5727c",
+          "word": "improvement",
+          "meaning": "improvement, progress",
+          "note": "This is the all-purpose noun for general improvement or betterment."
+        },
+        {
+          "id": "mm3zkn7m",
+          "word": "upgrade",
+          "meaning": "improvement",
+          "note": "Use this for a general improvement in a situation, condition, or result rather than for an upgraded product."
+        }
+      ],
       "examples": [
         {
           "english": "There has been improvement in this arrangement.",

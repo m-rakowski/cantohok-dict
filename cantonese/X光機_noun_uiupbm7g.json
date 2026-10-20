@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "X-ray machine",
-      "english": ["X-ray"],
+      "english": [
+        {
+          "id": "eobcw2s3",
+          "word": "X-ray",
+          "meaning": "X-ray machine",
+          "note": "Use X光機 specifically for the machine used to take X-rays, not for the radiation or the resulting image."
+        }
+      ],
       "examples": [
         {
           "english": "The X-ray machine is broken, so we can't do the examination today.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "tyrant, cruel ruler or boss",
-      "english": ["tyrant", "dictator"],
+      "english": [
+        {
+          "id": "l3vw2e6i",
+          "word": "tyrant",
+          "meaning": "harsh ruler",
+          "note": "This is the all-purpose choice for a cruel ruler and can also describe an abusive person who has authority, such as a boss or official."
+        },
+        {
+          "id": "48u6j14n",
+          "word": "dictator",
+          "meaning": "tyrannical boss",
+          "note": "Use this for a boss or authority figure who rules people harshly, rather than for a merely authoritarian national leader."
+        }
+      ],
       "examples": [
         {
           "english": "That tyrant abuses his power all the time, leaving the people afraid to speak out.",

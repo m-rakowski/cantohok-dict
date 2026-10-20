@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "off-topic remark",
-      "english": ["excursion", "irrelevancy"],
+      "english": [
+        {
+          "id": "1j0nuqv7",
+          "word": "excursion",
+          "meaning": "digression",
+          "note": "Use 題外話 when the excursion is a side remark or digression from the main subject."
+        },
+        {
+          "id": "pzkcplsb",
+          "word": "irrelevancy",
+          "meaning": "irrelevant thing",
+          "note": "Use this specifically for an irrelevant aside or remark that goes beyond the topic under discussion."
+        }
+      ],
       "examples": [
         {
           "english": "Speaking of housing prices, that’s an excursion from our main topic, so let’s get back to today’s agenda.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "corridor",
-      "english": ["hall", "corridor"],
+      "english": [
+        {
+          "id": "shcqiwln",
+          "word": "hall",
+          "meaning": "corridor, hallway",
+          "note": "This is the all-purpose word for a corridor or hallway."
+        },
+        {
+          "id": "7jftyle4",
+          "word": "corridor",
+          "meaning": "hallway; passage",
+          "note": "This is the all-purpose choice for an indoor hallway and is also used for a named or geographic corridor."
+        }
+      ],
       "examples": [
         {
           "english": "I’ll wait for you in the hall.",

@@ -6,7 +6,34 @@
   "boxes": [
     {
       "meaning": "not allow, forbid",
-      "english": ["forbid", "ban", "prohibit", "proscribe"],
+      "english": [
+        {
+          "id": "8s78rcmt",
+          "word": "forbid",
+          "meaning": "ban; not allow",
+          "note": "This is the all-purpose colloquial choice for saying that someone is not allowed to do something or enter somewhere."
+        },
+        {
+          "id": "a49mr0at",
+          "word": "ban",
+          "meaning": "forbid; prohibit",
+          "note": "Use this as the all-purpose way to say that rules do not permit an action or participation."
+        },
+        {
+          "id": "aeqi3k4s",
+          "word": "prohibit",
+          "meaning": "forbid, make illegal",
+          "register": "colloquial",
+          "note": "Use this as the all-purpose spoken way to say that someone is not allowed to do something."
+        },
+        {
+          "id": "w80ip99i",
+          "word": "proscribe",
+          "meaning": "forbid; prohibit",
+          "register": "colloquial",
+          "note": "This is the all-purpose colloquial choice for forbidding someone from doing something, including by a rule or law."
+        }
+      ],
       "examples": [
         {
           "english": "My mum will forbid me from going out at night.",

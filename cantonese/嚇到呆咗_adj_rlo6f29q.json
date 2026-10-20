@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "frozen with fear",
-      "english": ["petrified", "aghast"],
+      "english": [
+        {
+          "id": "tge3zwr3",
+          "word": "petrified",
+          "meaning": "very scared",
+          "register": "colloquial",
+          "note": "Use this when fear has left the person frozen or stunned."
+        },
+        {
+          "id": "6ripgop1",
+          "word": "aghast",
+          "meaning": "terrified; horrified",
+          "note": "Use this when the horror or shock leaves someone stunned and unable to react."
+        }
+      ],
       "examples": [
         {
           "english": "I was petrified when I heard a strange noise outside my front door.",

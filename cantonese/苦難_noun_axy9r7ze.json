@@ -6,7 +6,28 @@
   "boxes": [
     {
       "meaning": "suffering, hardship",
-      "english": ["calamity", "hardship", "adversity"],
+      "english": [
+        {
+          "id": "390pzdnz",
+          "word": "calamity",
+          "meaning": "resulting distress",
+          "note": "Use this for the suffering and hardship left by a disaster rather than for the disaster itself."
+        },
+        {
+          "id": "psq8yv65",
+          "word": "hardship",
+          "meaning": "difficulty, hard times",
+          "register": "written",
+          "note": "Use this when hardship emphasizes serious suffering or adversity rather than ordinary difficulty."
+        },
+        {
+          "id": "piyky62a",
+          "word": "adversity",
+          "meaning": "misfortune; hardship",
+          "register": "formal",
+          "note": "Use this when adversity means severe suffering or hardship endured over time."
+        }
+      ],
       "examples": [
         {
           "english": "We still remember those days of hardship after the calamity.",

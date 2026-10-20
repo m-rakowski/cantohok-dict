@@ -6,7 +6,43 @@
   "boxes": [
     {
       "meaning": "crazy, wild, over the top",
-      "english": ["wild", "crazy", "mental", "insane", "mad"],
+      "english": [
+        {
+          "id": "05lhlnzy",
+          "word": "wild",
+          "meaning": "unrestrained, uninhibited",
+          "register": "colloquial",
+          "note": "Use 癲 for uninhibited or rowdy behaviour and for something crazy, amazing, or wildly surprising; it is the all-purpose choice for these colloquial senses."
+        },
+        {
+          "id": "1ogr7g7v",
+          "word": "crazy",
+          "meaning": "insane, demented",
+          "register": "colloquial",
+          "note": "Pick 癲 for a stronger sense of wildness, extremity, or loss of control, including wildly surprising situations."
+        },
+        {
+          "id": "f1cth4wp",
+          "word": "mental",
+          "meaning": "crazy, wild, amazing",
+          "register": "colloquial",
+          "note": "Use this colloquially for something wildly exciting, frenetic, or crazy-fun, rather than for a clinical condition."
+        },
+        {
+          "id": "0s1o7969",
+          "word": "insane",
+          "meaning": "extremely good; amazing",
+          "register": "colloquial",
+          "note": "Use this approvingly for an extreme performance or ability, such as someone being unbelievably good at a game."
+        },
+        {
+          "id": "a2ga7cbq",
+          "word": "mad",
+          "meaning": "insane, mentally deranged",
+          "register": "colloquial",
+          "note": "Use this for a stronger or rougher sense of mentally crazy, and especially for something bizarre or incredible."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

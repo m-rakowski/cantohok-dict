@@ -6,7 +6,33 @@
   "boxes": [
     {
       "meaning": "silly, foolish",
-      "english": ["silly", "foolish", "daft", "dumb"],
+      "english": [
+        {
+          "id": "s1jhznkq",
+          "word": "silly",
+          "meaning": "foolish; amusingly stupid",
+          "note": "This is the all-purpose choice for someone or something foolish, thoughtless, or amusingly stupid."
+        },
+        {
+          "id": "i4c73q7y",
+          "word": "foolish",
+          "meaning": "unwise, stupid",
+          "note": "Use 傻 as the all-purpose colloquial word for a person or an action that is foolish."
+        },
+        {
+          "id": "m0v30csw",
+          "word": "daft",
+          "meaning": "foolish, silly",
+          "register": "colloquial",
+          "note": "This is the all-purpose choice for calling someone or an idea foolish or silly."
+        },
+        {
+          "id": "r9t08qdm",
+          "word": "dumb",
+          "meaning": "stupid; foolish (insult)",
+          "note": "This is the all-purpose choice for calling a person stupid or foolish as an insult."
+        }
+      ],
       "examples": [
         {
           "english": "You're so silly to believe something that simple!",

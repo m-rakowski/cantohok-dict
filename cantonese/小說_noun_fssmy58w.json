@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "novel, fiction",
-      "english": ["novel", "fiction"],
+      "english": [
+        {
+          "id": "1gb5sp51",
+          "word": "novel",
+          "meaning": "prose fiction work",
+          "note": "This is the all-purpose Cantonese noun for a prose fiction work."
+        },
+        {
+          "id": "0l1dilte",
+          "word": "fiction",
+          "meaning": "imaginative literature",
+          "note": "This is the all-purpose Cantonese term for fiction as a literary genre."
+        }
+      ],
       "examples": [
         {
           "english": "This novel is really good.",

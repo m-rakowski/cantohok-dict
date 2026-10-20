@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "attitude",
-      "english": ["attitude", "mien", "posture"],
+      "english": [
+        {
+          "id": "flgksjbm",
+          "word": "attitude",
+          "meaning": "state of mind",
+          "note": "This is the all-purpose noun for someone's disposition or an unpleasant, rude manner."
+        },
+        {
+          "id": "18jj6dwn",
+          "word": "mien",
+          "meaning": "demeanor; bearing",
+          "note": "Use this when the mien refers specifically to the person's attitude or manner toward something."
+        },
+        {
+          "id": "xgoqpxf1",
+          "word": "posture",
+          "meaning": "attitude; stance",
+          "note": "Use this for someone’s attitude or manner towards another person or situation, rather than a position on an issue."
+        }
+      ],
       "examples": [
         {
           "english": "The way you talk to people shows a really bad attitude.",

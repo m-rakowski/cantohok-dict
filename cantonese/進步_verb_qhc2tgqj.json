@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "improve",
-      "english": ["gain", "improve"],
+      "english": [
+        {
+          "id": "udxo073h",
+          "word": "gain",
+          "meaning": "increase",
+          "note": "Use this when “gain” means make progress or improve, especially in ability or performance, not when it means gain possession."
+        },
+        {
+          "id": "5ywjou7k",
+          "word": "improve",
+          "meaning": "become better",
+          "note": "Use this when someone improves in ability, performance, studies, or skill."
+        }
+      ],
       "examples": [
         {
           "english": "With more practice, you gain ground in English more quickly.",

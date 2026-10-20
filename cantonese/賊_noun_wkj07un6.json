@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "thief",
-      "english": ["thief", "burglar"],
+      "english": [
+        {
+          "id": "kz50fr35",
+          "word": "thief",
+          "meaning": "person who steals",
+          "note": "This is the all-purpose word for a person who steals."
+        },
+        {
+          "id": "gfn2ogi7",
+          "word": "burglar",
+          "meaning": "person who breaks in to steal",
+          "note": "Use this as the all-purpose Cantonese noun for a person who breaks in to steal."
+        }
+      ],
       "examples": [
         {
           "english": "The thief was caught by the police.",

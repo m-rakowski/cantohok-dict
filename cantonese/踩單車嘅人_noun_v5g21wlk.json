@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "person who rides a bicycle",
-      "english": ["cyclist"],
+      "english": [
+        {
+          "id": "1mcl6oam",
+          "word": "cyclist",
+          "meaning": "person who rides a bicycle",
+          "note": "This is the all-purpose way to refer to a person who rides a bicycle."
+        }
+      ],
       "examples": [
         {
           "english": "I saw a cyclist in the park yesterday.",

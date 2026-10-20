@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "absolute, total",
-      "english": ["absolute", "veritable"],
+      "english": [
+        {
+          "id": "e5oo2z5v",
+          "word": "absolute",
+          "meaning": "unconditional",
+          "note": "Use this as the all-purpose choice for emphatic meanings such as total, perfect, unquestionable, or unrestricted."
+        },
+        {
+          "id": "xgaebhdz",
+          "word": "veritable",
+          "meaning": "intensifier: absolute",
+          "note": "Choose this when the emphasis is on something being absolute or indisputable rather than merely emphatic."
+        }
+      ],
       "examples": [
         {
           "english": "I have absolute confidence that what he said is true.",

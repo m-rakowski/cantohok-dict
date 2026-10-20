@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "coat, jacket",
-      "english": ["coat", "jacket"],
+      "english": [
+        {
+          "id": "iyfiv54q",
+          "word": "coat",
+          "meaning": "outer garment",
+          "note": "This is the all-purpose choice for a coat worn over the upper body."
+        },
+        {
+          "id": "latuukfr",
+          "word": "jacket",
+          "meaning": "outer coat",
+          "note": "This is the all-purpose choice for an outer jacket worn over other clothes."
+        }
+      ],
       "examples": [
         {
           "english": "Remember to wear a coat when you go out.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "out-of-control vehicle",
-      "english": ["runaway"],
+      "english": [
+        {
+          "id": "vvdax4q6",
+          "word": "runaway",
+          "meaning": "out-of-control vehicle",
+          "note": "Use this for an out-of-control train or, by extension, another vehicle in a similar situation."
+        }
+      ],
       "examples": [
         {
           "english": "That runaway train crashed into the platform.",

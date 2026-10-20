@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "mother",
-      "english": ["mother", "mom"],
+      "english": [
+        {
+          "id": "fm15hitr",
+          "word": "mother",
+          "meaning": "female parent",
+          "register": "colloquial",
+          "note": "This is the all-purpose everyday word for a human mother."
+        },
+        {
+          "id": "7529m5ym",
+          "word": "mom",
+          "meaning": "mother",
+          "note": "This is the all-purpose spoken word for one's mother."
+        }
+      ],
       "examples": [
         {
           "english": "Mother cooked my favorite dish today.",

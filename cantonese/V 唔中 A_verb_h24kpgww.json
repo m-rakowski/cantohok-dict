@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "fail to hit",
-      "english": ["miss"],
+      "english": [
+        {
+          "id": "nxl5kezo",
+          "word": "miss",
+          "meaning": "fail to hit",
+          "note": "Use this physical-action pattern for failing to hit a target, as in 射唔中 or 打唔中."
+        }
+      ],
       "examples": [
         {
           "english": "I miss the target.",

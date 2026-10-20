@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "tool",
-      "english": ["tool", "instrument", "implement", "equipment", "utensil"],
+      "english": [
+        {
+          "id": "b76l5amw",
+          "word": "tool",
+          "meaning": "physical implement",
+          "note": "This is the all-purpose choice for a physical implement, trade equipment, or a software tool."
+        },
+        {
+          "id": "o0izi1h5",
+          "word": "instrument",
+          "meaning": "tool / implement",
+          "note": "This is the all-purpose choice for a hand tool or implement used to do a task."
+        },
+        {
+          "id": "fyrp88c9",
+          "word": "implement",
+          "meaning": "tool, instrument",
+          "note": "This is the all-purpose choice for a tool or instrument used to do a job."
+        },
+        {
+          "id": "3kc3m3lq",
+          "word": "equipment",
+          "meaning": "tools, gear, equipment",
+          "note": "Use this when the equipment specifically consists of tools, such as gardening or repair tools."
+        },
+        {
+          "id": "37unyn2c",
+          "word": "utensil",
+          "meaning": "small tool or implement",
+          "note": "Use this for a small practical tool or implement rather than something specifically used for cooking or eating."
+        }
+      ],
       "examples": [
         {
           "english": "This software tool can help me check for vulnerabilities in the code.",

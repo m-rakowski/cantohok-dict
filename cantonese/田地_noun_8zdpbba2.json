@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "farmland, fields",
-      "english": ["field", "farmland"],
+      "english": [
+        {
+          "id": "lu0obzxe",
+          "word": "field",
+          "meaning": "farm field",
+          "note": "Use 田地 for farmland where crops are grown or farm animals graze."
+        },
+        {
+          "id": "y43n7hk8",
+          "word": "farmland",
+          "meaning": "land for farming",
+          "note": "Use this broader, more colloquial term when the context makes clear that the fields are farmland."
+        }
+      ],
       "examples": [
         {
           "english": "They planted lots of vegetables in that field this year.",

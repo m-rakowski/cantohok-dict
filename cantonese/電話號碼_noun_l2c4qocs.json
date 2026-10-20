@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "phone number",
-      "english": ["phone"],
+      "english": [
+        {
+          "id": "6r3hvuqa",
+          "word": "phone",
+          "meaning": "phone number",
+          "note": "Use this when you mean the digits or contact number specifically rather than the device."
+        }
+      ],
       "examples": [
         {
           "english": "Could you give me your phone number?",

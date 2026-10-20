@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "conversion, switch",
-      "english": ["conversion", "transformation", "switch"],
+      "english": [
+        {
+          "id": "ts5mprb4",
+          "word": "conversion",
+          "meaning": "change, turning into",
+          "note": "Use this for conversion between formats, systems, units, or types rather than a general change."
+        },
+        {
+          "id": "h2irjgo7",
+          "word": "transformation",
+          "meaning": "change; conversion",
+          "note": "Use this for the conversion or switching of one format, system, state, or function into another rather than for a general change."
+        },
+        {
+          "id": "a55a1092",
+          "word": "switch",
+          "meaning": "change or exchange",
+          "note": "Use this for a switch or change from one system, method, or state to another."
+        }
+      ],
       "examples": [
         {
           "english": "We need to do the conversion from audio to text first.",

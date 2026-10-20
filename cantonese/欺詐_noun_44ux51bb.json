@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "fraud, deceit",
-      "english": ["deceit", "fraud"],
+      "english": [
+        {
+          "id": "s2502cec",
+          "word": "deceit",
+          "meaning": "deception; trick",
+          "register": "formal",
+          "note": "Use this for deceit as an abstract act or practice, especially in formal or official contexts."
+        },
+        {
+          "id": "2k3q9zi1",
+          "word": "fraud",
+          "meaning": "deceptive cheating",
+          "register": "formal",
+          "note": "Use this for the broader or more formal idea of deceptive cheating when financial scamming is not the main focus."
+        }
+      ],
       "register": "formal",
       "examples": [
         {

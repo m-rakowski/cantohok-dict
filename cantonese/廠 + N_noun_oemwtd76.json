@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "industrial plant",
-      "english": ["mill"],
+      "english": [
+        {
+          "id": "tbvw8zy4",
+          "word": "mill",
+          "meaning": "industrial plant",
+          "note": "Use this pattern when the material or industry is named, as in 紙廠 or 鋼廠, for an industrial mill."
+        }
+      ],
       "examples": [
         {
           "english": "This paper mill produces a lot of paper every day.",

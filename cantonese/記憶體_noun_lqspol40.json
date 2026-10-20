@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "computer memory",
-      "english": ["memory"],
+      "english": [
+        {
+          "id": "n18p96gy",
+          "word": "memory",
+          "meaning": "computer memory",
+          "note": "Use this specifically for a computer's memory hardware or storage area."
+        }
+      ],
       "examples": [
         {
           "english": "The computer's memory is insufficient, so it cannot open this program.",

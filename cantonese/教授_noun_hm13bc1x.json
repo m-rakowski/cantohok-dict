@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "university professor",
-      "english": ["professor"],
+      "english": [
+        {
+          "id": "kl4sl4of",
+          "word": "professor",
+          "meaning": "university professor",
+          "note": "This is the all-purpose term for someone holding the professor rank at a university."
+        }
+      ],
       "examples": [
         {
           "english": "That professor will teach us next semester.",

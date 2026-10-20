@@ -6,7 +6,51 @@
   "boxes": [
     {
       "meaning": "idea, way of thinking",
-      "english": ["idea", "thought", "notion", "conception", "sentiment", "mind", "fancy"],
+      "english": [
+        {
+          "id": "piq7jgti",
+          "word": "idea",
+          "meaning": "thought; notion",
+          "note": "This is the all-purpose everyday choice for a thought, notion, or way of thinking."
+        },
+        {
+          "id": "ft8nly33",
+          "word": "thought",
+          "meaning": "a thought; an idea",
+          "note": "This is the all-purpose colloquial noun for an idea or a person's way of thinking."
+        },
+        {
+          "id": "r8u7yf27",
+          "word": "notion",
+          "meaning": "idea; concept",
+          "note": "Use this as the all-purpose everyday noun for an idea or personal view."
+        },
+        {
+          "id": "hkbhqznb",
+          "word": "conception",
+          "meaning": "idea, notion, concept",
+          "register": "colloquial",
+          "note": "This is the all-purpose colloquial choice for a person's idea, notion, or mental conception."
+        },
+        {
+          "id": "czmzlnx4",
+          "word": "sentiment",
+          "meaning": "thought or feeling",
+          "note": "Use this all-purpose everyday word when the sentiment means a general thought, view, or opinion rather than an emotion."
+        },
+        {
+          "id": "8bdjd5ob",
+          "word": "mind",
+          "meaning": "opinion",
+          "note": "This is the all-purpose everyday choice for a person's way of thinking, views, and plans; for intention it means the person's intended course or plan."
+        },
+        {
+          "id": "vd8isloy",
+          "word": "fancy",
+          "meaning": "notion or idea",
+          "note": "Use this for someone’s idea or casually formed notion, especially when presenting it as their way of thinking."
+        }
+      ],
       "examples": [
         {
           "english": "I have an idea.",

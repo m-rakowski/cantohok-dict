@@ -6,7 +6,44 @@
   "boxes": [
     {
       "meaning": "energy, vitality",
-      "english": ["exuberance", "verve", "vitality", "sparkle", "pulse", "animation"],
+      "english": [
+        {
+          "id": "kk22gzoy",
+          "word": "exuberance",
+          "meaning": "lively enthusiasm",
+          "note": "Use this as the all-purpose choice for lively energy and enthusiasm."
+        },
+        {
+          "id": "j8i0no71",
+          "word": "verve",
+          "meaning": "enthusiasm, energy, flair",
+          "note": "This is the all-purpose choice for energy, vigour, or lively creative force."
+        },
+        {
+          "id": "yddal5qb",
+          "word": "vitality",
+          "meaning": "energy, vigour",
+          "note": "Use this as the all-purpose choice for a person’s energy, vigour, or youthful vitality."
+        },
+        {
+          "id": "63u36w0k",
+          "word": "sparkle",
+          "meaning": "liveliness, vivacity",
+          "note": "Use this for the all-purpose sense of liveliness or vivacity in a person, personality, or conversation."
+        },
+        {
+          "id": "8t3gq9b2",
+          "word": "pulse",
+          "meaning": "energy or bustle",
+          "note": "Use this for the energy, vigour, or liveliness of a place or activity rather than a bodily beat."
+        },
+        {
+          "id": "644c4i5l",
+          "word": "animation",
+          "meaning": "liveliness, energy",
+          "note": "Use this for a person’s or group’s energy, vitality, or spiritedness."
+        }
+      ],
       "examples": [
         {
           "english": "This group of young people always show such exuberance when exercising.",

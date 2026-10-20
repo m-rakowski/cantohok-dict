@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "outsider",
-      "english": ["outsider", "stranger"],
+      "english": [
+        {
+          "id": "e0l0t151",
+          "word": "outsider",
+          "meaning": "non-member",
+          "note": "Use 外人 as the all-purpose term for someone outside a group or community."
+        },
+        {
+          "id": "exz1e9qa",
+          "word": "stranger",
+          "meaning": "outsider; foreigner",
+          "note": "Use this when the person is outside your family, group, or circle, rather than simply unknown."
+        }
+      ],
       "examples": [
         {
           "english": "This is a members-only gathering, so an outsider should not join.",

@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "odd habit, quirk",
-      "english": ["quirk", "eccentricity", "affectation", "idiosyncrasy"],
+      "english": [
+        {
+          "id": "rkq6ib37",
+          "word": "quirk",
+          "meaning": "odd habit / eccentricity",
+          "note": "Use this as the all-purpose choice for a person's unusual habit or eccentric trait."
+        },
+        {
+          "id": "ucrqrhgq",
+          "word": "eccentricity",
+          "meaning": "odd behavior",
+          "note": "Use this for a person's unusual, often habitual quirk or eccentric habit."
+        },
+        {
+          "id": "0hpg6p7l",
+          "word": "affectation",
+          "meaning": "mannerism",
+          "note": "Use this when the mannerism is an unusual or eccentric personal habit rather than merely a physical gesture."
+        },
+        {
+          "id": "fu11s3lw",
+          "word": "idiosyncrasy",
+          "meaning": "peculiarity or quirk",
+          "note": "Use this when the peculiarity is an odd or eccentric personal quirk rather than a neutral distinguishing feature."
+        }
+      ],
       "examples": [
         {
           "english": "They have a quirk: they have to touch the door handle three times before leaving.",

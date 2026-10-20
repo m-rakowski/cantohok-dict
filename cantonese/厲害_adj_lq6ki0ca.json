@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "impressive, formidable",
-      "english": ["impressive", "terrible"],
+      "english": [
+        {
+          "id": "5vumxn9x",
+          "word": "impressive",
+          "meaning": "makes a strong impression",
+          "note": "This is the all-purpose colloquial choice for saying that something is impressive."
+        },
+        {
+          "id": "51xqpsi1",
+          "word": "terrible",
+          "meaning": "formidable; impressive in power",
+          "note": "Choose this for someone or something formidable or impressively powerful."
+        }
+      ],
       "examples": [
         {
           "english": "The desserts at this restaurant are really impressive.",

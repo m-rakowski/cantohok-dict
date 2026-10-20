@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "exactly divisible",
-      "english": ["evenly"],
+      "english": [
+        {
+          "id": "hsmjep3s",
+          "word": "evenly",
+          "meaning": "exactly divisible",
+          "note": "Use this mathematical construction to say that a number can be divided by N with no remainder."
+        }
+      ],
       "examples": [
         {
           "english": "Twenty-four can be divided evenly by six.",

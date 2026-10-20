@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "ironic, sarcastic",
-      "english": ["wry", "ironic"],
+      "english": [
+        {
+          "id": "5koexivg",
+          "word": "wry",
+          "meaning": "dryly ironic",
+          "note": "This is the all-purpose choice for a dryly ironic or sardonic remark."
+        },
+        {
+          "id": "sxl0jpbw",
+          "word": "ironic",
+          "meaning": "ironic situation",
+          "note": "This is the all-purpose choice for an ironic situation and also works for satirical or mocking content."
+        }
+      ],
       "examples": [
         {
           "english": "The boss said the company had no money but bought a new car anyway; that was wry.",

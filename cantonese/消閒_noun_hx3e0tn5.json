@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "leisure, relaxing activity",
-      "english": ["recreation", "relaxation"],
+      "english": [
+        {
+          "id": "dmd76zmb",
+          "word": "recreation",
+          "meaning": "leisure activity",
+          "note": "Use this when the recreation is specifically a leisure pastime or a way to relax."
+        },
+        {
+          "id": "h5gz2h2t",
+          "word": "relaxation",
+          "meaning": "recreation; time off",
+          "note": "Use this when relaxation means leisure or recreation undertaken for enjoyment and mental relief."
+        }
+      ],
       "examples": [
         {
           "english": "After retiring, I garden every day for recreation.",

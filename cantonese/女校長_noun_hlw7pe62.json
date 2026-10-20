@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "female headteacher",
-      "english": ["headmistress"],
+      "english": [
+        {
+          "id": "oph8q3jm",
+          "word": "headmistress",
+          "meaning": "female headteacher",
+          "note": "Use this when you specifically want to make clear that the headteacher is female."
+        }
+      ],
       "examples": [
         {
           "english": "The new headmistress will meet with the parents next month.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "preparation",
-      "english": ["preparation", "provision"],
+      "english": [
+        {
+          "id": "9xvggcz0",
+          "word": "preparation",
+          "meaning": "getting ready",
+          "note": "This is the all-purpose noun for the act of getting ready and the resulting state of readiness, as in 考試前嘅準備."
+        },
+        {
+          "id": "fp9avpnn",
+          "word": "provision",
+          "meaning": "preparation, provision",
+          "note": "Use this for preparation made beforehand, rather than for the supplies or money themselves."
+        }
+      ],
       "examples": [
         {
           "english": "You need to make good preparation before the exam.",

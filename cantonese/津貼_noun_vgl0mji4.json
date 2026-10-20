@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "allowance, subsidy",
-      "english": ["allowance", "subsidy"],
+      "english": [
+        {
+          "id": "93aj43nt",
+          "word": "allowance",
+          "meaning": "allocated amount",
+          "note": "Use this as the general term for a monetary allowance or subsidy."
+        },
+        {
+          "id": "2l7g7h5a",
+          "word": "subsidy",
+          "meaning": "government financial support",
+          "note": "Use this for a regular allowance or payment that helps cover someone’s expenses."
+        }
+      ],
       "examples": [
         {
           "english": "The company gives a transport allowance every month.",

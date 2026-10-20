@@ -6,7 +6,15 @@
   "boxes": [
     {
       "meaning": "word with same meaning",
-      "english": ["synonym"],
+      "english": [
+        {
+          "id": "ksm7wg3d",
+          "word": "synonym",
+          "meaning": "word with same meaning",
+          "register": "colloquial",
+          "note": "Use this plain Cantonese description when explaining the idea instead of using the technical term 同義詞."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

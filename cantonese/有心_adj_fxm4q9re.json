@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "thoughtful, making an effort",
-      "english": ["devoted", "motivated", "thoughtful"],
+      "english": [
+        {
+          "id": "3swqtyal",
+          "word": "devoted",
+          "meaning": "very fond, attached",
+          "note": "This is the all-purpose choice for someone who is caring, dedicated, or wholehearted rather than specifically romantic."
+        },
+        {
+          "id": "gzta84zj",
+          "word": "motivated",
+          "meaning": "enthusiastic and driven",
+          "register": "colloquial",
+          "note": "Use this when stressing that someone is willing to put in effort and genuinely cares about doing the task well."
+        },
+        {
+          "id": "9dvo2prq",
+          "word": "thoughtful",
+          "meaning": "kind, considerate",
+          "note": "Use this for a thoughtful effort or gesture, stressing that someone put real thought into it."
+        }
+      ],
       "examples": [
         {
           "english": "You’re so devoted to helping me; you even made me a birthday cake.",

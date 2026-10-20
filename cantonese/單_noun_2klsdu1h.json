@@ -6,7 +6,28 @@
   "boxes": [
     {
       "meaning": "bill, receipt, slip",
-      "english": ["receipt", "invoice", "slip"],
+      "english": [
+        {
+          "id": "l9o0sodd",
+          "word": "receipt",
+          "meaning": "sales receipt",
+          "register": "colloquial",
+          "note": "Use this casually in a shop for the transaction slip, though it can also mean the bill or order rather than specifically proof of payment."
+        },
+        {
+          "id": "ev5a62m6",
+          "word": "invoice",
+          "meaning": "seller’s bill",
+          "register": "colloquial",
+          "note": "This is the everyday all-purpose choice for a bill or invoice, especially in casual conversation."
+        },
+        {
+          "id": "pikomdqp",
+          "word": "slip",
+          "meaning": "paper slip; form",
+          "note": "Use 單 for an official or printed paper slip such as a payslip or form."
+        }
+      ],
       "examples": [
         {
           "english": "Please give me the receipt.",

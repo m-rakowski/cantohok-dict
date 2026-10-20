@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "shop salesperson",
-      "english": ["salesman", "salesperson", "saleswoman", "seller"],
+      "english": [
+        {
+          "id": "o4zy1mtc",
+          "word": "salesman",
+          "meaning": "male person who sells goods",
+          "note": "Use this as the all-purpose term for a person who sells goods, especially in a shop; it is normally gender-neutral in Cantonese."
+        },
+        {
+          "id": "w47d464k",
+          "word": "salesperson",
+          "meaning": "shop/store seller",
+          "note": "This is the direct, all-purpose word for someone whose job is selling goods, especially in a shop."
+        },
+        {
+          "id": "394xfnlc",
+          "word": "saleswoman",
+          "meaning": "woman who sells things",
+          "note": "This is the all-purpose choice when the context already makes clear that the salesperson is a woman."
+        },
+        {
+          "id": "tyc09fe9",
+          "word": "seller",
+          "meaning": "person who sells",
+          "note": "Use this specifically for a shop or department-store sales clerk rather than any person who sells."
+        }
+      ],
       "examples": [
         {
           "english": "The salesman in this shop is very polite.",

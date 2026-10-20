@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "stand, rack, shelf",
-      "english": ["stand", "shelf", "holder", "rack"],
+      "english": [
+        {
+          "id": "rtdwzw0q",
+          "word": "stand",
+          "meaning": "holder, support",
+          "note": "Use 架 as the all-purpose noun for a physical stand, rack, or holder."
+        },
+        {
+          "id": "2lcxs2b8",
+          "word": "shelf",
+          "meaning": "shelf; storage rack",
+          "note": "This is the all-purpose choice for a shelf or storage rack, including one used for books or display."
+        },
+        {
+          "id": "ltbi0wab",
+          "word": "holder",
+          "meaning": "thing that holds",
+          "note": "Use 架 as the all-purpose choice for a stand, rack, or holder that supports an object, such as an umbrella holder."
+        },
+        {
+          "id": "r2gy8a55",
+          "word": "rack",
+          "meaning": "shelves/frame",
+          "note": "This is the all-purpose choice for a shelf or freestanding frame."
+        }
+      ],
       "examples": [
         {
           "english": "This stand is used to hold up my phone.",

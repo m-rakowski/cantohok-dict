@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "journey by vehicle",
-      "english": ["drive", "ride", "journey", "lift"],
+      "english": [
+        {
+          "id": "qf0t164n",
+          "word": "drive",
+          "meaning": "a car journey",
+          "note": "Use this as the all-purpose noun for a journey in a car or other vehicle."
+        },
+        {
+          "id": "ve49v3uv",
+          "word": "ride",
+          "meaning": "a ride; act of riding",
+          "note": "Use 車程 as the all-purpose noun for a ride understood as a vehicle journey or trip."
+        },
+        {
+          "id": "hoz0fu46",
+          "word": "journey",
+          "meaning": "trip; voyage",
+          "note": "Use this specifically for the time or distance travelled in a vehicle, such as a train journey."
+        },
+        {
+          "id": "ehu0xyk2",
+          "word": "lift",
+          "meaning": "ride; free ride",
+          "note": "Use this for the vehicle-journey or trip aspect of a lift."
+        }
+      ],
       "examples": [
         {
           "english": "The drive to Sha Tin takes about half an hour.",

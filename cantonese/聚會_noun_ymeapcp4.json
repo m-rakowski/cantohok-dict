@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "social gathering, get-together",
-      "english": ["reunion", "function", "affair"],
+      "english": [
+        {
+          "id": "ijc2mt1q",
+          "word": "reunion",
+          "meaning": "class/family reunion",
+          "note": "Use this when the reunion is presented mainly as a planned social gathering rather than emphasizing the separation beforehand."
+        },
+        {
+          "id": "xr6kpvhg",
+          "word": "function",
+          "meaning": "social event, formal gathering",
+          "note": "Use 聚會 for a social gathering, especially when people meet informally."
+        },
+        {
+          "id": "wzwik0op",
+          "word": "affair",
+          "meaning": "party; social event",
+          "note": "Use this for a social gathering or party, especially a planned or formal one."
+        }
+      ],
       "examples": [
         {
           "english": "This Saturday we're holding a reunion and inviting all our former colleagues back.",

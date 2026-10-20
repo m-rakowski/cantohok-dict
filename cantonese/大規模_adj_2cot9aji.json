@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "large-scale",
-      "english": ["mass", "major"],
+      "english": [
+        {
+          "id": "19zvfwu1",
+          "word": "mass",
+          "meaning": "mass- / large-scale",
+          "note": "This is the all-purpose choice for large-scale events and for things affecting a large number of people, such as mass unemployment."
+        },
+        {
+          "id": "le3m7rsk",
+          "word": "major",
+          "meaning": "big / significant change",
+          "note": "Use this for a change, project, or operation that is major in scale; it is the default choice for scope."
+        }
+      ],
       "examples": [
         {
           "english": "This is mass unemployment, and many people are out of work.",

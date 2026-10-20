@@ -5,8 +5,9 @@ files are laid out and the steps to change them.
 
 ## The files
 
-- `words/<letter>/<word>.json` — one file per English word. This is the
-  dictionary itself. This is the file you edit.
+- `words/<letter>/<word>.json` — **legacy, do not edit.** One file per
+  English word: the English-keyed rows the pages were built from, kept for
+  reference only (`words/README.md`). Edit the page files in `cantonese/`.
 - `cantonese/<characters>_<part of speech>_<id>.json` — one file per Cantonese
   word page, such as `cantonese/揮手_verb_vonj8c12.json`. A page has one
   reading, in `jyutping` beside `traditional`. It holds exactly what the site
@@ -20,9 +21,9 @@ files are laid out and the steps to change them.
   the expected name. Page files sit directly in `cantonese/`, not in subfolders.
 - `pages-by-id.json` — a lookup from every English row `id` and every page
   `id` to the page it belongs to, so an old link to a row still finds its
-  page. It was first written by a script. When you add a new row, add a line
-  pointing its `id` at the page that shows it; when you add a new page, add
-  a line mapping the page's `id` to itself. The
+  page. It was first written by a script. When you add a new page, add a line
+  mapping the page's `id` to itself, and a line pointing each `id` of an
+  English entry you give it at the page. The
   `words/` files and the `cantonese/` files may disagree about how meanings
   are grouped; that is expected.
 - `frequency.json` — this file decides the order words and meanings are
@@ -31,12 +32,13 @@ files are laid out and the steps to change them.
     word's CEFR level (CEFR-J A1 through B2, then Octanove C1–C2 for harder
     words). Within the same level, words are ordered by how common they are.
     1 means "first". `999999` means "we don't know its rank yet."
-  - `rows.<id>` holds two numbers for one row (one Cantonese word) in
-    `words/`: `meaningShare` says how common that whole meaning is for the
+  - `rows.<id>` holds three numbers for one row (one Cantonese word) in
+    `words/`: `order` is a whole number, 0 or more, that was the row's position
+    in its word file, `meaningShare` says how common that whole meaning is for the
     English word, and `share` says how common this particular Cantonese word
-    is for that meaning. Both numbers come from an AI's estimate, not from
-    counting real text. All of these numbers — the word rank, `meaningShare`,
-    `share` — exist only to decide what order things are shown in. They are
+    is for that meaning. Those two numbers come from an AI's estimate, not
+    from counting real text. The word rank, `meaningShare` and `share`
+    exist only to decide what order things are shown in. They are
     not a claim about how often people actually say the word.
 - `aliases.json` — other spellings or forms of a word that should lead to it,
   for example `"child": ["children"]`. Only words that have another form
@@ -106,7 +108,14 @@ part of speech and one reading. Here is `cantonese/揮手_verb_vonj8c12.json`:
   "boxes": [
     {
       "meaning": "wave your hand hello/goodbye",
-      "english": ["wave"],
+      "english": [
+        {
+          "id": "i0dcd0tv",
+          "word": "wave",
+          "meaning": "wave your hand hello/goodbye",
+          "note": "This is the all-purpose choice for waving your hand in greeting or goodbye, including a farewell signal."
+        }
+      ],
       "examples": [
         {
           "english": "I wave to him when I leave.",
@@ -122,8 +131,14 @@ part of speech and one reading. Here is `cantonese/揮手_verb_vonj8c12.json`:
 - A page has an `id` (8 lowercase letters or digits), the `traditional`
   characters, a `partOfSpeech`, the reading in `jyutping`, and at least one
   box. Boxes have no `id` of their own.
-- A box has a list of `english` words (at least one), a short `meaning`, and a
-  list of `examples` (it may be empty). `note` and `register` are optional.
+- A box has a list of `english` entries (at least one), a short `meaning`, and
+  a list of `examples` (it may be empty). `note` and `register` are optional.
+- An English entry is an object. Only `word` is required; `id`, `meaning`,
+  `note` and `register` are optional. The page files are what the site shows
+  and can be edited freely: an entry's `id`, `meaning` and `note` came from the
+  English files, and you may edit them on the page. An entry's `note` must read
+  on its own, like a row's. Entry ids are unique across all pages, are never a
+  page's `id`, and each maps to its page in `pages-by-id.json`.
 - Different parts of speech are different pages: 建議 as a verb and 建議 as
   a noun are two files. So are different readings: 片 read `pin3` and 片 read
   `pin2` are two files, each with its own `id`. A second meaning of the same
@@ -171,12 +186,10 @@ part of speech and one reading. Here is `cantonese/揮手_verb_vonj8c12.json`:
 ## Steps to make a change
 
 1. Run `pnpm install` once, if you haven't already.
-2. Edit the word's file under `words/`, or the page's file under `cantonese/`.
-3. If you added a new row, mint its `id` with `pnpm run new-id`, and add a
-   matching entry in `frequency.json`'s `rows` (see the rules above), and a
-   line in `pages-by-id.json` pointing its `id` at the page that shows it. A
-   new page file has an `id` from `new-id` too, and needs a line in
-   `pages-by-id.json` mapping that `id` to itself.
+2. Edit the page's file under `cantonese/`.
+3. If you added a new page, mint its `id` with `pnpm run new-id`, and add a
+   line in `pages-by-id.json` mapping that `id` to itself. If you gave an
+   entry an `id`, add a line pointing it at the page.
 4. If you added a brand-new word, also add it to `frequency.json`'s `words`.
 5. Run `pnpm run format` to auto-format your changes, then `pnpm run check`
    to validate everything against the schema. If you changed a file in

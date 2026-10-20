@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "airline company",
-      "english": ["airline"],
+      "english": [
+        {
+          "id": "ptbnv46h",
+          "word": "airline",
+          "meaning": "airline company",
+          "note": "This is the all-purpose rendering for an airline company."
+        }
+      ],
       "examples": [
         {
           "english": "My older brother works as a pilot for an airline.",

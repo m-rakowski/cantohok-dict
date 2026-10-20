@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "appendix",
-      "english": ["annex", "supplement"],
+      "english": [
+        {
+          "id": "s3jg1er7",
+          "word": "annex",
+          "meaning": "appendix, attachment",
+          "register": "written",
+          "note": "Use this as the all-purpose term for an appendix attached to a book or document."
+        },
+        {
+          "id": "ee4h8lxu",
+          "word": "supplement",
+          "meaning": "publication addendum",
+          "note": "Use this for an added section of a document or publication containing extra or updated information."
+        }
+      ],
       "examples": [
         {
           "english": "Please see the annex at the end of the report.",

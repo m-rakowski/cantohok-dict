@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "developed, prosperous",
-      "english": ["developed", "prosperous"],
+      "english": [
+        {
+          "id": "exvqzzb3",
+          "word": "developed",
+          "meaning": "economically advanced (country)",
+          "note": "This is the all-purpose choice for an economically advanced or wealthy country or region."
+        },
+        {
+          "id": "arv7r3pc",
+          "word": "prosperous",
+          "meaning": "wealthy; well-off",
+          "note": "This is the all-purpose spoken choice for a person, family, business, or place that is prosperous or doing very well."
+        }
+      ],
       "examples": [
         {
           "english": "Hong Kong is a developed and wealthy region.",

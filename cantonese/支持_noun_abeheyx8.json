@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "support, backing",
-      "english": ["endorsement", "championship", "sympathy"],
+      "english": [
+        {
+          "id": "zghzdq9y",
+          "word": "endorsement",
+          "meaning": "support / approval",
+          "note": "This is the all-purpose noun for ordinary support or approval, including a public figure's backing when it is simply described as support."
+        },
+        {
+          "id": "42t7fx1s",
+          "word": "championship",
+          "meaning": "support for a cause",
+          "note": "Use 支持 when championship means backing or support for a cause rather than a sporting title or contest."
+        },
+        {
+          "id": "93v0wssq",
+          "word": "sympathy",
+          "meaning": "support for a view",
+          "note": "Use this when the sympathy means active support or approval of an opinion, cause, or aim."
+        }
+      ],
       "examples": [
         {
           "english": "The singer's endorsement of this charity event made everyone feel more confident.",

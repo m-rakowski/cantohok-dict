@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "rubble, debris",
-      "english": ["rubble", "debris"],
+      "english": [
+        {
+          "id": "t1rwetcy",
+          "word": "rubble",
+          "meaning": "broken stone debris",
+          "register": "written",
+          "note": "This is the all-purpose term for rubble, especially a pile left after a building collapses or is demolished."
+        },
+        {
+          "id": "id4kcwrf",
+          "word": "debris",
+          "meaning": "wreckage, rubble",
+          "register": "written",
+          "note": "Use this for rubble left by a collapsed or destroyed building or area."
+        }
+      ],
       "register": "written",
       "examples": [
         {

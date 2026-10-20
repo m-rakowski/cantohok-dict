@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "sexual desire",
-      "english": ["lust", "desire"],
+      "english": [
+        {
+          "id": "g1alf5lb",
+          "word": "lust",
+          "meaning": "sexual desire",
+          "note": "This is the all-purpose noun for sexual desire or libido."
+        },
+        {
+          "id": "frcaq9qi",
+          "word": "desire",
+          "meaning": "sexual attraction",
+          "note": "Use this when the attraction is specifically sexual rather than merely romantic or emotional."
+        }
+      ],
       "examples": [
         {
           "english": "Their lust has been stronger lately.",

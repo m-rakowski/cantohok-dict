@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "compass direction",
-      "english": ["northeast"],
+      "english": [
+        {
+          "id": "ljg2rmpn",
+          "word": "northeast",
+          "meaning": "compass direction",
+          "note": "This is the all-purpose noun for the compass direction halfway between north and east."
+        }
+      ],
       "examples": [
         {
           "english": "Walk northeast from here and you'll reach the MTR station.",

@@ -6,7 +6,44 @@
   "boxes": [
     {
       "meaning": "harm, hurt",
-      "english": ["harm", "detriment", "damage", "evil", "injury", "wound"],
+      "english": [
+        {
+          "id": "r4ocsw89",
+          "word": "harm",
+          "meaning": "emotional hurt",
+          "note": "Use this for emotional or figurative hurt; it is the usual noun when someone or something has been hurt psychologically."
+        },
+        {
+          "id": "p7uwdu29",
+          "word": "detriment",
+          "meaning": "harm; damage",
+          "note": "This is the all-purpose choice for harm or hurt, including physical and emotional harm."
+        },
+        {
+          "id": "rjdi3c2h",
+          "word": "damage",
+          "meaning": "injury; harm",
+          "note": "Use this when the damage means harm or injury to a person or living being."
+        },
+        {
+          "id": "dew1z3e4",
+          "word": "evil",
+          "meaning": "harm, misfortune",
+          "note": "Use this for harm or injury suffered by a person or other sentient being."
+        },
+        {
+          "id": "znl7c842",
+          "word": "injury",
+          "meaning": "mental harm",
+          "note": "Use this for harm or damage, especially psychological harm, rather than a bodily wound."
+        },
+        {
+          "id": "qsvlmrb5",
+          "word": "wound",
+          "meaning": "hurt feelings / reputation",
+          "note": "Use this for damage to someone's feelings, reputation, or prospects rather than for an open bodily injury."
+        }
+      ],
       "examples": [
         {
           "english": "What they said caused me a lot of harm.",

@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "excitedly",
-      "english": ["euphorically", "animatedly", "feverishly"],
+      "english": [
+        {
+          "id": "7frmqhbj",
+          "word": "euphorically",
+          "meaning": "in a euphoric way",
+          "note": "This is the all-purpose colloquial way to describe doing something in a euphoric or highly excited manner."
+        },
+        {
+          "id": "tlfevf80",
+          "word": "animatedly",
+          "meaning": "with energy",
+          "note": "Use this when the animated manner mainly comes from excitement or enthusiasm."
+        },
+        {
+          "id": "w8xrscey",
+          "word": "feverishly",
+          "meaning": "with excited determination",
+          "note": "Choose this when the feverish manner specifically highlights excitement or eager enthusiasm."
+        }
+      ],
       "examples": [
         {
           "english": "I shouted euphorically when I heard the winning news.",

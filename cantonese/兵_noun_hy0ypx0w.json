@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "army member",
-      "english": ["soldier"],
+      "english": [
+        {
+          "id": "bbpcalyr",
+          "word": "soldier",
+          "meaning": "army member",
+          "note": "This is the all-purpose spoken word for a soldier, especially an enlisted one."
+        }
+      ],
       "examples": [
         {
           "english": "That soldier hasn't eaten yet.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "person who moves often",
-      "english": ["nomad"],
+      "english": [
+        {
+          "id": "t3a2zwdi",
+          "word": "nomad",
+          "meaning": "person who moves often",
+          "note": "Use this when emphasizing that someone frequently changes residence or has no settled home, without implying herding."
+        }
+      ],
       "examples": [
         {
           "english": "I move house so often that I’m basically a nomad.",

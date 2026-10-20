@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "make a loud noise",
-      "english": ["roar"],
+      "english": [
+        {
+          "id": "cra1totc",
+          "word": "roar",
+          "meaning": "make a loud noise",
+          "note": "Use this when an engine, weapon, storm, or other inanimate thing makes a loud resounding or rumbling noise."
+        }
+      ],
       "examples": [
         {
           "english": "The bus begins to roar as soon as it starts moving.",

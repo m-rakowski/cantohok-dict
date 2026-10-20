@@ -6,7 +6,36 @@
   "boxes": [
     {
       "meaning": "forbid, ban",
-      "english": ["prohibit", "ban", "forbid", "bar"],
+      "english": [
+        {
+          "id": "504xbcs1",
+          "word": "prohibit",
+          "meaning": "forbid, make illegal",
+          "register": "formal",
+          "note": "Use this for official rules, signs, regulations, or formal statements that ban something."
+        },
+        {
+          "id": "mc1hhuiu",
+          "word": "ban",
+          "meaning": "forbid; prohibit",
+          "register": "formal",
+          "note": "Use this formal or written verb for official prohibitions, notices, and regulations."
+        },
+        {
+          "id": "ggrngmju",
+          "word": "forbid",
+          "meaning": "ban; not allow",
+          "register": "formal",
+          "note": "Use this formal or official-sounding verb for bans, especially in rules, notices, and regulations."
+        },
+        {
+          "id": "a38g9e3r",
+          "word": "bar",
+          "meaning": "ban or exclude",
+          "register": "formal",
+          "note": "Use this for a general prohibition or official rule rather than excluding one person from entry."
+        }
+      ],
       "register": "formal",
       "examples": [
         {

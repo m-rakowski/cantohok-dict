@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "practical, useful",
-      "english": ["functional", "utilitarian", "working", "practical", "sensible"],
+      "english": [
+        {
+          "id": "4xi33uqi",
+          "word": "functional",
+          "meaning": "useful; serves a purpose",
+          "note": "Use this as the all-purpose choice when something is useful or designed for practical use rather than mainly decorative."
+        },
+        {
+          "id": "ntm0f946",
+          "word": "utilitarian",
+          "meaning": "practical, functional",
+          "note": "This is the all-purpose choice for something practical and functional rather than merely decorative."
+        },
+        {
+          "id": "ds2zv9yp",
+          "word": "working",
+          "meaning": "usable; enough to function",
+          "note": "Use this for knowledge that is usable in practice or something practical for real-world use."
+        },
+        {
+          "id": "uxyi6rl8",
+          "word": "practical",
+          "meaning": "useful; workable",
+          "note": "Use this for an object, skill, or idea that is useful and can be put to practical use."
+        },
+        {
+          "id": "kz9a5c8v",
+          "word": "sensible",
+          "meaning": "practical, sensible (clothes etc.)",
+          "note": "Use this for clothes or other things chosen for usefulness and practicality rather than style."
+        }
+      ],
       "examples": [
         {
           "english": "This bag is both attractive and functional.",

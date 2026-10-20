@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "the final say, authority",
-      "english": ["command", "say"],
+      "english": [
+        {
+          "id": "8bo1bbjw",
+          "word": "command",
+          "meaning": "authority, control",
+          "register": "colloquial",
+          "note": "Use this colloquial noun for someone's practical authority or say in deciding what happens, including being the person in charge."
+        },
+        {
+          "id": "asfahxen",
+          "word": "say",
+          "meaning": "a say",
+          "note": "Use this for the power or authority to influence a decision or have the final say; it is the all-purpose choice for that meaning."
+        }
+      ],
       "examples": [
         {
           "english": "The whole team listens to them because they are in command.",

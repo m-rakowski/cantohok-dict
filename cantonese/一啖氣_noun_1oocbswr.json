@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "one breath",
-      "english": ["breath", "respiration"],
+      "english": [
+        {
+          "id": "kb3kcl06",
+          "word": "breath",
+          "meaning": "a breath",
+          "note": "Use this for one individual breath, especially when taking or holding it."
+        },
+        {
+          "id": "k0se5t7h",
+          "word": "respiration",
+          "meaning": "a breath",
+          "register": "colloquial",
+          "note": "Use this for one individual breath rather than breathing as an ongoing process."
+        }
+      ],
       "examples": [
         {
           "english": "Try blowing out the candles in one breath.",

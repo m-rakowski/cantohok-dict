@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "showy, over-the-top",
-      "english": ["gaudy", "glitzy", "showy", "flash", "ornate"],
+      "english": [
+        {
+          "id": "z9gpxz3a",
+          "word": "gaudy",
+          "meaning": "showy, flashy",
+          "note": "This is the all-purpose choice for something excessively showy or attention-seeking."
+        },
+        {
+          "id": "fkwvawf7",
+          "word": "glitzy",
+          "meaning": "brilliantly showy",
+          "note": "Use this as the all-purpose choice for something conspicuously and perhaps excessively showy."
+        },
+        {
+          "id": "a7zoycts",
+          "word": "showy",
+          "meaning": "flashy, ostentatious",
+          "note": "Use this when the showiness is excessive, ostentatious, or deliberately attention-seeking rather than simply attractive."
+        },
+        {
+          "id": "igwwu6gd",
+          "word": "flash",
+          "meaning": "flashy; showy",
+          "note": "Use this when the flashy style seems exaggerated or deliberately over-the-top."
+        },
+        {
+          "id": "74e54z4u",
+          "word": "ornate",
+          "meaning": "showy, flowery style",
+          "note": "Use this when the ornate style is deliberately over-the-top or ostentatious rather than merely richly finished."
+        }
+      ],
       "examples": [
         {
           "english": "Their wedding stage is so gaudy that it steals everyone's attention.",

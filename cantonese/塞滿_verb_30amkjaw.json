@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "cram full",
-      "english": ["stuff", "brim", "pack"],
+      "english": [
+        {
+          "id": "ytza8911",
+          "word": "stuff",
+          "meaning": "pack in; cram",
+          "note": "This is the all-purpose verb for physically filling or cramming something full."
+        },
+        {
+          "id": "507wh6k7",
+          "word": "brim",
+          "meaning": "be full of",
+          "note": "Use 塞滿 when the container or space is packed tightly, such as a room packed with people or a container stuffed full."
+        },
+        {
+          "id": "7lgeso5t",
+          "word": "pack",
+          "meaning": "stuff full",
+          "note": "Use this when the emphasis is on stuffing something completely full or crowding people or things into a space."
+        }
+      ],
       "examples": [
         {
           "english": "I stuff clothes into the suitcase until it's full.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "harvest crops",
-      "english": ["harvest", "reap"],
+      "english": [
+        {
+          "id": "25625wv6",
+          "word": "harvest",
+          "meaning": "to gather crops",
+          "note": "This is the all-purpose choice for bringing in field crops."
+        },
+        {
+          "id": "7m9x4478",
+          "word": "reap",
+          "meaning": "cut grain",
+          "note": "This is the all-purpose choice for cutting and gathering grain or another crop."
+        }
+      ],
       "examples": [
         {
           "english": "The farmers have started to harvest the rice.",

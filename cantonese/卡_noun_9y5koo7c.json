@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "credit/debit card",
-      "english": ["plastic"],
+      "english": [
+        {
+          "id": "xonxbhqa",
+          "word": "plastic",
+          "meaning": "credit/debit card",
+          "note": "In a payment context, 卡 refers to the credit or debit card being used instead of cash."
+        }
+      ],
       "examples": [
         {
           "english": "Can I use plastic to pay?",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "eat a coin",
-      "english": ["eat"],
+      "english": [
+        {
+          "id": "j8x0xsfw",
+          "word": "eat",
+          "meaning": "eat a coin",
+          "note": "Use this when a machine or device takes inserted money without delivering the service or returning the payment."
+        }
+      ],
       "examples": [
         {
           "english": "That machine can eat your money but won't give you a drink.",

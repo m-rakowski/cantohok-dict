@@ -6,7 +6,40 @@
   "boxes": [
     {
       "meaning": "give, hand over",
-      "english": ["give", "provide", "bestow", "furnish", "bless"],
+      "english": [
+        {
+          "id": "2lodnwfg",
+          "word": "give",
+          "meaning": "transfer possession",
+          "note": "This is the all-purpose colloquial verb for transferring, providing, handing over, causing a feeling, or administering something."
+        },
+        {
+          "id": "vixpjvkg",
+          "word": "provide",
+          "meaning": "supply; give",
+          "note": "For supplying something needed, 畀 is the all-purpose colloquial choice."
+        },
+        {
+          "id": "wtzn7vj2",
+          "word": "bestow",
+          "meaning": "give, confer",
+          "note": "Use this as the all-purpose spoken equivalent for giving or conferring something."
+        },
+        {
+          "id": "sh0f2b9j",
+          "word": "furnish",
+          "meaning": "provide; give",
+          "register": "colloquial",
+          "note": "Use this colloquial choice when the meaning is concretely giving something to a person, especially with an explicit recipient."
+        },
+        {
+          "id": "7e8ljt2q",
+          "word": "bless",
+          "meaning": "give, send",
+          "register": "colloquial",
+          "note": "Use this in casual requests when the intended meaning is to give or send someone something, such as a link."
+        }
+      ],
       "examples": [
         {
           "english": "I give you this book.",
@@ -37,7 +70,27 @@
     },
     {
       "meaning": "allow, let",
-      "english": ["let", "grant", "permit"],
+      "english": [
+        {
+          "id": "x1b1thsg",
+          "word": "let",
+          "meaning": "allow, permit",
+          "note": "This is the all-purpose spoken choice for allowing someone to do something."
+        },
+        {
+          "id": "j9807h12",
+          "word": "grant",
+          "meaning": "give permission / wish",
+          "note": "This is the all-purpose spoken choice for giving permission or giving someone something they have asked for."
+        },
+        {
+          "id": "oyvx97w2",
+          "word": "permit",
+          "meaning": "allow something",
+          "register": "colloquial",
+          "note": "Use 畀 as the everyday all-purpose verb when a person or authority lets something happen."
+        }
+      ],
       "examples": [
         {
           "english": "Mum agrees to let us go out and play.",

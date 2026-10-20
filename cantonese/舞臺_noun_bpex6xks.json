@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "performance stage",
-      "english": ["stage", "platform"],
+      "english": [
+        {
+          "id": "6cqrdsq0",
+          "word": "stage",
+          "meaning": "theatre stage",
+          "note": "Use this for the stage where a performance is presented."
+        },
+        {
+          "id": "wbabia9w",
+          "word": "platform",
+          "meaning": "raised stage",
+          "note": "Use this for the raised stage where performances take place."
+        }
+      ],
       "examples": [
         {
           "english": "The singer will sing three songs on the stage tonight.",

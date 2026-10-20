@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "coffee beans",
-      "english": ["coffee", "bean"],
+      "english": [
+        {
+          "id": "o9frbaen",
+          "word": "coffee",
+          "meaning": "coffee beans",
+          "note": "Use 咖啡豆 specifically for the beans used to make the drink."
+        },
+        {
+          "id": "i0uclxng",
+          "word": "bean",
+          "meaning": "bean-like seed",
+          "note": "Use this instead of the general 豆 when the bean-like seed is specifically a coffee bean."
+        }
+      ],
       "examples": [
         {
           "english": "These coffee beans were bought by a friend in Brazil.",

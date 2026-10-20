@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "proper, tactful, appropriate",
-      "english": ["tactful", "nice"],
+      "english": [
+        {
+          "id": "ipf7c4uc",
+          "word": "tactful",
+          "meaning": "sensitive and diplomatic",
+          "register": "formal",
+          "note": "Use this mainly for tactful or appropriately mannered words, actions, or conduct, especially in more formal contexts."
+        },
+        {
+          "id": "0wvqdcyd",
+          "word": "nice",
+          "meaning": "fussy, proper; delicate",
+          "note": "Use this for something properly expressed, refined, or socially seemly, especially a way of putting something."
+        }
+      ],
       "examples": [
         {
           "english": "This statement is very tactful: it explains everything clearly without embarrassing anyone.",

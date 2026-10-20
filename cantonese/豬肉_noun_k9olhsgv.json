@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "pork",
-      "english": ["pork", "pig"],
+      "english": [
+        {
+          "id": "fcfa5m9o",
+          "word": "pork",
+          "meaning": "pig meat",
+          "note": "This is the all-purpose Cantonese noun for the meat of a pig."
+        },
+        {
+          "id": "w03nvlgk",
+          "word": "pig",
+          "meaning": "pig meat",
+          "note": "Use 豬肉 specifically for the edible meat, rather than the live animal."
+        }
+      ],
       "examples": [
         {
           "english": "I don't eat pork.",

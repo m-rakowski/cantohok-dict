@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "arrive, reach",
-      "english": ["arrive", "reach", "come"],
+      "english": [
+        {
+          "id": "51xnmj0b",
+          "word": "arrive",
+          "meaning": "reach a place",
+          "note": "This is the all-purpose spoken verb for arriving or reaching a place."
+        },
+        {
+          "id": "w3ckylru",
+          "word": "reach",
+          "meaning": "arrive at",
+          "note": "Use 到 as the all-purpose choice for arriving at a place or point, extending as far as something, attaining something, or reaching an age."
+        },
+        {
+          "id": "ri70pgsu",
+          "word": "come",
+          "meaning": "arrive",
+          "note": "Use 到 when the focus is arriving at a destination rather than moving toward someone."
+        }
+      ],
       "examples": [
         {
           "english": "I arrive at the office at six.",

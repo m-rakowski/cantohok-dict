@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "medium, average level",
-      "english": ["medium", "intermediate"],
+      "english": [
+        {
+          "id": "nw8e43w2",
+          "word": "medium",
+          "meaning": "medium-sized",
+          "note": "This is the all-purpose choice for an intermediate size, degree, or amount."
+        },
+        {
+          "id": "xf0tg47o",
+          "word": "intermediate",
+          "meaning": "between two extremes",
+          "note": "This is the all-purpose choice for something at a middle or moderate level within a range."
+        }
+      ],
       "examples": [
         {
           "english": "This coffee has medium sweetness.",

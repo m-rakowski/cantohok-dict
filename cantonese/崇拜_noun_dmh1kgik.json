@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "church service",
-      "english": ["worship", "church"],
+      "english": [
+        {
+          "id": "u5rvaglv",
+          "word": "worship",
+          "meaning": "religious devotion",
+          "note": "This is the all-purpose noun for religious worship, including devotion and a worship service in a church context."
+        },
+        {
+          "id": "rfn68uq7",
+          "word": "church",
+          "meaning": "church service",
+          "note": "Use this in Christian contexts for a worship service held at church."
+        }
+      ],
       "examples": [
         {
           "english": "We will go to church for worship this Sunday.",
@@ -22,7 +35,14 @@
     },
     {
       "meaning": "religious worship",
-      "english": ["veneration"],
+      "english": [
+        {
+          "id": "mv8zgu74",
+          "word": "veneration",
+          "meaning": "religious devotion",
+          "note": "Use this for religious worship or devotion to a deity, and sometimes for idolising a person."
+        }
+      ],
       "examples": [
         {
           "english": "The believers’ veneration of the deity is expressed in their daily prayers.",

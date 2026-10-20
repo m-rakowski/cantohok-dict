@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "join together, unite",
-      "english": ["ally", "unite"],
+      "english": [
+        {
+          "id": "8255de15",
+          "word": "ally",
+          "meaning": "unite by marriage/treaty",
+          "note": "Use this as the all-purpose verb for bringing people, groups, or states together."
+        },
+        {
+          "id": "v4dpna0d",
+          "word": "unite",
+          "meaning": "bring together as one",
+          "register": "formal",
+          "note": "Use this mainly when organizations, groups, or political factions join forces under a formal arrangement."
+        }
+      ],
       "examples": [
         {
           "english": "The company will ally with several universities to conduct this research.",

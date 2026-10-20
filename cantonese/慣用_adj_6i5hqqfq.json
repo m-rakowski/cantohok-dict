@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "preferred hand/side",
-      "english": ["dominant"],
+      "english": [
+        {
+          "id": "tuy36930",
+          "word": "dominant",
+          "meaning": "preferred hand/side",
+          "note": "Use this before a body-part noun such as 手 or 邊 for the preferred or more dexterous hand or side."
+        }
+      ],
       "examples": [
         {
           "english": "My dominant hand is too tired to lift a glass of water.",

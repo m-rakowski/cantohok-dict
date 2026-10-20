@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "quietly, without saying anything",
-      "english": ["tacitly", "silently"],
+      "english": [
+        {
+          "id": "puhyom75",
+          "word": "tacitly",
+          "meaning": "implicitly; without saying so",
+          "note": "Use this as the general choice when something is done silently or without being explicitly said."
+        },
+        {
+          "id": "p51n7q2e",
+          "word": "silently",
+          "meaning": "without noise",
+          "note": "Use this when someone does something silently without speaking, commenting, or drawing attention to their feelings."
+        }
+      ],
       "examples": [
         {
           "english": "They tacitly helped me organize the documents without saying a word.",

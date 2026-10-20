@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "float or flutter in the air",
-      "english": ["flap", "float", "stream", "flow"],
+      "english": [
+        {
+          "id": "3in0v6pn",
+          "word": "flap",
+          "meaning": "move loosely back and forth",
+          "note": "Use this for a flag or other light material moving loosely in the breeze."
+        },
+        {
+          "id": "hba5g07v",
+          "word": "float",
+          "meaning": "drift aimlessly",
+          "note": "Use this for something drifting without a clear destination, drifting through the air, or moving lightly and gracefully; context supplies the exact meaning."
+        },
+        {
+          "id": "xw9i6tew",
+          "word": "stream",
+          "meaning": "float in wind",
+          "note": "Use 飄 for a flag, cloth, or similar object floating or fluttering in the wind."
+        },
+        {
+          "id": "kwih283s",
+          "word": "flow",
+          "meaning": "hang loosely",
+          "note": "Use 飄 when fabric or another light object hangs loosely and waves in the air."
+        }
+      ],
       "examples": [
         {
           "english": "The flag by the entrance began to flap loosely in the breeze.",

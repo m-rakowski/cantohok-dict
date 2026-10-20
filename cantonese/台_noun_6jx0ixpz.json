@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "theatre stage",
-      "english": ["stage"],
+      "english": [
+        {
+          "id": "s5owlo1g",
+          "word": "stage",
+          "meaning": "theatre stage",
+          "note": "Use this for a physical platform or event stage when the performance context is already clear."
+        }
+      ],
       "examples": [
         {
           "english": "The stage still isn't ready, and the concert is about to start.",

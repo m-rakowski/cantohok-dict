@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "group of vehicles/vessels",
-      "english": ["fleet"],
+      "english": [
+        {
+          "id": "pbmlffuf",
+          "word": "fleet",
+          "meaning": "group of vehicles/vessels",
+          "note": "This is the all-purpose choice for a group or fleet of vehicles."
+        }
+      ],
       "examples": [
         {
           "english": "This company has a fleet that specializes in delivering goods to customers.",

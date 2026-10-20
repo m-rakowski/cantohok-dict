@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "Jewish quarter",
-      "english": ["ghetto"],
+      "english": [
+        {
+          "id": "4vnduc8a",
+          "word": "ghetto",
+          "meaning": "Jewish quarter",
+          "note": "Use this specifically for a Jewish quarter, especially in historical descriptions of forced segregation."
+        }
+      ],
       "examples": [
         {
           "english": "During Nazi rule, residents of the ghetto could not move in and out freely.",

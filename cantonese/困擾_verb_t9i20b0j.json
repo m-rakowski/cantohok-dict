@@ -6,7 +6,50 @@
   "boxes": [
     {
       "meaning": "trouble, bother, worry someone",
-      "english": ["trouble", "haunt", "plague", "preoccupy", "disturb", "gnaw", "harass"],
+      "english": [
+        {
+          "id": "llrvptek",
+          "word": "trouble",
+          "meaning": "distress, worry someone",
+          "note": "Use this as the all-purpose verb when something causes mental distress or persistently affects someone physically."
+        },
+        {
+          "id": "uck9plkb",
+          "word": "haunt",
+          "meaning": "memory troubles someone",
+          "note": "This is the all-purpose choice when a memory or past event troubles someone."
+        },
+        {
+          "id": "069wrk8j",
+          "word": "plague",
+          "meaning": "afflict, trouble",
+          "note": "Use 困擾 as the all-purpose choice when a problem, illness, or calamity troubles someone."
+        },
+        {
+          "id": "q4pynex7",
+          "word": "preoccupy",
+          "meaning": "worry, trouble mentally",
+          "note": "Use this as the all-purpose verb when something troubles or weighs on someone's mind."
+        },
+        {
+          "id": "eyx518tq",
+          "word": "disturb",
+          "meaning": "upset emotionally",
+          "note": "Use this when the disturbance is specifically causing emotional distress, worry, or confusion."
+        },
+        {
+          "id": "7ypgbm6n",
+          "word": "gnaw",
+          "meaning": "worry deeply",
+          "note": "Use this when a thought, comment, or problem keeps causing someone deep worry."
+        },
+        {
+          "id": "vcb6kneu",
+          "word": "harass",
+          "meaning": "weigh down, burden",
+          "note": "Use this when the harassment means causing someone continuing worry, distress, or a heavy mental burden."
+        }
+      ],
       "examples": [
         {
           "english": "This matter continues to trouble me.",

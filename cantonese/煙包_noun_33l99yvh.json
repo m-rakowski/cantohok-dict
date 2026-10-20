@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "pack of cigarettes",
-      "english": ["carton"],
+      "english": [
+        {
+          "id": "4qc4dq2s",
+          "word": "carton",
+          "meaning": "pack of cigarettes",
+          "note": "Use this for the cigarette-pack sense rather than for a food or drink carton."
+        }
+      ],
       "examples": [
         {
           "english": "I forgot to bring my cigarette carton, so I need to ask you to lend me a cigarette.",

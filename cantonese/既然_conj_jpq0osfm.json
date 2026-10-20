@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "since, given that",
-      "english": ["since", "if"],
+      "english": [
+        {
+          "id": "k93kq1t6",
+          "word": "since",
+          "meaning": "because",
+          "note": "Use this when “since” means because and the reason is presented as an already accepted fact, often with a resulting action or conclusion."
+        },
+        {
+          "id": "p0ho8jsp",
+          "word": "if",
+          "meaning": "given that",
+          "note": "Use this when the condition is already known to be true and you are reasoning from it."
+        }
+      ],
       "examples": [
         {
           "english": "Since you’re already here, come in and sit for a bit.",

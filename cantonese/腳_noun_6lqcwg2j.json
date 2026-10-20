@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "leg or foot",
-      "english": ["leg", "foot"],
+      "english": [
+        {
+          "id": "kfhlfqmm",
+          "word": "leg",
+          "meaning": "human leg",
+          "note": "This is the all-purpose choice for an animal limb or an object support, and is also common for a person's leg in casual speech."
+        },
+        {
+          "id": "70qo7otb",
+          "word": "foot",
+          "meaning": "human foot",
+          "note": "This is the all-purpose colloquial noun for an animal or human foot, and it also means the base of something in phrases such as 樓梯腳."
+        }
+      ],
       "examples": [
         {
           "english": "The dog has hurt its leg.",

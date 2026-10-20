@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "greenhouse",
-      "english": ["greenhouse", "conservatory"],
+      "english": [
+        {
+          "id": "aurz4nu9",
+          "word": "greenhouse",
+          "meaning": "plant-growing building",
+          "note": "This is the all-purpose Cantonese noun for a building used to grow plants under controlled warmth."
+        },
+        {
+          "id": "nm0whcf7",
+          "word": "conservatory",
+          "meaning": "greenhouse",
+          "note": "Use this as the all-purpose word for a glass building where delicate plants are cultivated."
+        }
+      ],
       "examples": [
         {
           "english": "This greenhouse can grow vegetables even in winter.",

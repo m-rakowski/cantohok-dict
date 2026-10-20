@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "illness from a virus",
-      "english": ["virus"],
+      "english": [
+        {
+          "id": "qfatxq0c",
+          "word": "virus",
+          "meaning": "illness from a virus",
+          "note": "Use this for an illness caused by a virus rather than for the infectious agent itself."
+        }
+      ],
       "examples": [
         {
           "english": "He has a fever this time, and the doctor says it is a virus infection.",

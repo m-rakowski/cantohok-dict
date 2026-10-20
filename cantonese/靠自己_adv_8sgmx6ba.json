@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "by yourself, without help",
-      "english": ["independently", "alone"],
+      "english": [
+        {
+          "id": "0k3g8mpf",
+          "word": "independently",
+          "meaning": "without help",
+          "note": "Use this when you want to stress managing without anyone's help."
+        },
+        {
+          "id": "04dg19k6",
+          "word": "alone",
+          "meaning": "without help",
+          "note": "Use 靠自己 when the emphasis is that the person must manage without outside help."
+        }
+      ],
       "examples": [
         {
           "english": "With no one to help, we have to solve the problem independently.",

@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "relief, release from burden",
-      "english": ["liberation", "ease", "release"],
+      "english": [
+        {
+          "id": "wmacabkd",
+          "word": "liberation",
+          "meaning": "freeing; being freed",
+          "note": "Use this for liberation as relief from suffering, pressure, or a burdensome constraint."
+        },
+        {
+          "id": "4il2sqyz",
+          "word": "ease",
+          "meaning": "release from strain",
+          "note": "Use this for release from a constraint, burden, obligation, or difficult situation."
+        },
+        {
+          "id": "05wk7ko2",
+          "word": "release",
+          "meaning": "relief from pain",
+          "note": "Use this for relief understood as freedom from pain or suffering, especially after prolonged distress."
+        }
+      ],
       "examples": [
         {
           "english": "Finishing the report finally brought me liberation.",

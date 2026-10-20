@@ -6,7 +6,44 @@
   "boxes": [
     {
       "meaning": "effect, influence",
-      "english": ["impact", "influence", "implication", "difference", "effect", "consequence"],
+      "english": [
+        {
+          "id": "302erc3h",
+          "word": "impact",
+          "meaning": "effect; influence",
+          "note": "This is the all-purpose noun for a significant effect or influence on someone or something."
+        },
+        {
+          "id": "ibmihtae",
+          "word": "influence",
+          "meaning": "power to affect",
+          "note": "Use 影響 as the all-purpose noun for both the power to affect someone or something and the person or thing exerting that influence."
+        },
+        {
+          "id": "yhs53hbb",
+          "word": "implication",
+          "meaning": "result; consequence",
+          "note": "This is the all-purpose choice for an effect or result, especially when discussing what an action means for people or the environment."
+        },
+        {
+          "id": "twqrffr3",
+          "word": "difference",
+          "meaning": "effect or impact",
+          "note": "Use this when “difference” means an effect or impact on a situation or person."
+        },
+        {
+          "id": "1e7pa9aj",
+          "word": "effect",
+          "meaning": "effect, influence",
+          "note": "Use this for the influence one thing has on another, especially in everyday explanations."
+        },
+        {
+          "id": "ugk2t2fi",
+          "word": "consequence",
+          "meaning": "result; effect",
+          "note": "Use this for the effect or impact something has, rather than for the resulting outcome itself."
+        }
+      ],
       "examples": [
         {
           "english": "The impact this film had on me was profound.",

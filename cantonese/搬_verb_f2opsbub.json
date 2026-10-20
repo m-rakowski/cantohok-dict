@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "move house",
-      "english": ["move"],
+      "english": [
+        {
+          "id": "inym5rx4",
+          "word": "move",
+          "meaning": "cause to move",
+          "note": "Use 搬 for changing residence or physically carrying and relocating an object."
+        }
+      ],
       "examples": [
         {
           "english": "I'm going to move to Kowloon next month.",
@@ -17,7 +24,20 @@
     },
     {
       "meaning": "carry or move things",
-      "english": ["carry", "shift"],
+      "english": [
+        {
+          "id": "4lokg6yd",
+          "word": "carry",
+          "meaning": "transport by lifting",
+          "note": "Use 搬 for physically moving an object from one place to another, especially a larger one."
+        },
+        {
+          "id": "10kqvj02",
+          "word": "shift",
+          "meaning": "move, transfer",
+          "note": "Use this as the all-purpose verb for moving or transferring physical things from one place to another."
+        }
+      ],
       "examples": [
         {
           "english": "The table is so heavy that only the two of us can carry it.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "go down, fall",
-      "english": ["descend", "dip"],
+      "english": [
+        {
+          "id": "2m9u7dn7",
+          "word": "descend",
+          "meaning": "go down / fall",
+          "note": "This is the all-purpose choice for physically going down, including moving down a route or slope."
+        },
+        {
+          "id": "8lf3xq8i",
+          "word": "dip",
+          "meaning": "sink or slope down",
+          "note": "Use 落 as the all-purpose verb for something going down, including a figure or rate falling slightly and the sun or a slope descending."
+        }
+      ],
       "examples": [
         {
           "english": "We descend the mountain along this slope.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "math integration",
-      "english": ["integration"],
+      "english": [
+        {
+          "id": "ll5yxrzv",
+          "word": "integration",
+          "meaning": "math integration",
+          "note": "Use this specifically for the mathematical operation of finding an integral."
+        }
+      ],
       "examples": [
         {
           "english": "You need to do the integration of this function first before you can find the area.",

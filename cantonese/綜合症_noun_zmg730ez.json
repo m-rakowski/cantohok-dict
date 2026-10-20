@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "medical condition pattern",
-      "english": ["syndrome"],
+      "english": [
+        {
+          "id": "5i8us98n",
+          "word": "syndrome",
+          "meaning": "medical condition pattern",
+          "note": "This is the all-purpose Cantonese term for a recognizable medical or psychological syndrome, including named conditions such as Down syndrome."
+        }
+      ],
       "examples": [
         {
           "english": "This syndrome makes patients very tired.",

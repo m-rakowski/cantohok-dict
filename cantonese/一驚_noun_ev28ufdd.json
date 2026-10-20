@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "a sudden fright",
-      "english": ["fright", "start"],
+      "english": [
+        {
+          "id": "uak3yszr",
+          "word": "fright",
+          "meaning": "sudden fear",
+          "note": "This is the all-purpose colloquial noun for a sudden brief fright or shock."
+        },
+        {
+          "id": "jtbtlin2",
+          "word": "start",
+          "meaning": "sudden involuntary movement",
+          "note": "Use 一驚 for the brief involuntary jerk or fright caused by surprise."
+        }
+      ],
       "examples": [
         {
           "english": "I got a fright when I opened the door and a dog startled me.",

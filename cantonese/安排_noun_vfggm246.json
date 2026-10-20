@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "arrangement, plan",
-      "english": ["arrangement", "disposal", "disposition", "choreography"],
+      "english": [
+        {
+          "id": "u50qly8i",
+          "word": "arrangement",
+          "meaning": "organizing, arranging",
+          "note": "Use this as the all-purpose noun for the act of organizing and for preparations or plans."
+        },
+        {
+          "id": "qr01zdqx",
+          "word": "disposal",
+          "meaning": "arrangement, disposition",
+          "note": "This is the all-purpose choice for an arrangement or disposition of things."
+        },
+        {
+          "id": "8jld2314",
+          "word": "disposition",
+          "meaning": "arrangement; placement",
+          "note": "Use this for the ordinary arrangement or placement of things."
+        },
+        {
+          "id": "i5ohzr8q",
+          "word": "choreography",
+          "meaning": "orchestrated coordination",
+          "note": "For the figurative sense, this is the all-purpose choice for planning and sequencing a coordinated operation or event."
+        }
+      ],
       "examples": [
         {
           "english": "The arrangement for this trip is my responsibility.",

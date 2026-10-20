@@ -6,7 +6,39 @@
   "boxes": [
     {
       "meaning": "brief, short-lived",
-      "english": ["brief", "impermanent", "momentary", "transient", "instant"],
+      "english": [
+        {
+          "id": "mqifr05a",
+          "word": "brief",
+          "meaning": "short in time",
+          "register": "formal",
+          "note": "Use this for an event or period that lasts only a short time, rather than for concise wording."
+        },
+        {
+          "id": "fs2fsocc",
+          "word": "impermanent",
+          "meaning": "not lasting",
+          "note": "Use this when stressing that something lasts only a short time, rather than merely saying that it is not permanent."
+        },
+        {
+          "id": "wx9cpi15",
+          "word": "momentary",
+          "meaning": "lasting only a moment",
+          "note": "This is the all-purpose choice for something that lasts only briefly."
+        },
+        {
+          "id": "dl1x4giv",
+          "word": "transient",
+          "meaning": "short-lived",
+          "note": "This is the all-purpose choice for something that lasts only a short time, such as a pleasure or feeling."
+        },
+        {
+          "id": "qqhcglid",
+          "word": "instant",
+          "meaning": "very brief; momentary",
+          "note": "Use 短暫 for something that lasts only a short time or is momentary."
+        }
+      ],
       "examples": [
         {
           "english": "This power outage was only brief.",

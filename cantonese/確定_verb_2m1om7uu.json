@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "make sure, confirm",
-      "english": ["ensure", "define"],
+      "english": [
+        {
+          "id": "4vly8hff",
+          "word": "ensure",
+          "meaning": "make sure; secure",
+          "register": "colloquial",
+          "note": "This is the everyday choice when you mean checking or making sure that something will happen."
+        },
+        {
+          "id": "mcqt6t21",
+          "word": "define",
+          "meaning": "make clear; determine precisely",
+          "note": "Use 確定 when defining means finding or establishing an exact value, fact, or result rather than drawing a boundary."
+        }
+      ],
       "examples": [
         {
           "english": "I’ll ensure the gas is turned off before I leave.",

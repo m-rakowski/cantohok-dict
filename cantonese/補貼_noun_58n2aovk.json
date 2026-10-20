@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "government financial support",
-      "english": ["subsidy"],
+      "english": [
+        {
+          "id": "nu4q080i",
+          "word": "subsidy",
+          "meaning": "government financial support",
+          "note": "Use this when the support reduces the cost of a product, service, or business expense."
+        }
+      ],
       "examples": [
         {
           "english": "The government’s subsidy on electricity means everyone pays less.",

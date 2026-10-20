@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "singer",
-      "english": ["singer", "vocalist", "artist", "musician"],
+      "english": [
+        {
+          "id": "vljuo7hq",
+          "word": "singer",
+          "meaning": "person who sings",
+          "note": "This is the all-purpose Cantonese noun for a person who sings, especially a professional singer."
+        },
+        {
+          "id": "0qrxmm2p",
+          "word": "vocalist",
+          "meaning": "singer",
+          "note": "This is the all-purpose Cantonese word for a singer or vocalist."
+        },
+        {
+          "id": "p9zmary3",
+          "word": "artist",
+          "meaning": "music performer",
+          "note": "Use this for a recording artist who performs as a singer rather than for a visual artist."
+        },
+        {
+          "id": "ud5j499f",
+          "word": "musician",
+          "meaning": "person who performs or writes music",
+          "note": "Use this for a musician who sings, especially a recording or performing singer."
+        }
+      ],
       "examples": [
         {
           "english": "They are a very famous singer.",

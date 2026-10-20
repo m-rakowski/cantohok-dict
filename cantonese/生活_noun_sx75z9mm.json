@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "life, way of living",
-      "english": ["lifestyle", "life"],
+      "english": [
+        {
+          "id": "aj9n1k0j",
+          "word": "lifestyle",
+          "meaning": "way of living",
+          "note": "This is the all-purpose choice when the context makes clear that you mean someone's way of living rather than life in general."
+        },
+        {
+          "id": "4ple0x3b",
+          "word": "life",
+          "meaning": "area of life",
+          "note": "Use this for someone’s everyday life or way of living, including work, family, and other areas of life, and also when “life” means a livelihood."
+        }
+      ],
       "examples": [
         {
           "english": "I like this lifestyle now.",

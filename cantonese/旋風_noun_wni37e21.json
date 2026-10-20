@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "whirlwind of wind",
-      "english": ["vortex"],
+      "english": [
+        {
+          "id": "rc5jlvhx",
+          "word": "vortex",
+          "meaning": "whirlwind or whirlpool",
+          "note": "Use this specifically for a whirlwind or rotating column of wind, not for whirlpools or figurative uses."
+        }
+      ],
       "examples": [
         {
           "english": "A vortex suddenly whipped up on the mountain.",
@@ -17,7 +24,15 @@
     },
     {
       "meaning": "someone or something sweeping through fast",
-      "english": ["whirlwind"],
+      "english": [
+        {
+          "id": "qp3ymvoy",
+          "word": "whirlwind",
+          "meaning": "burst of violent activity",
+          "register": "written",
+          "note": "Use this mainly in written or figurative descriptions of a person, force, or activity sweeping through rapidly and forcefully."
+        }
+      ],
       "register": "written",
       "examples": [
         {

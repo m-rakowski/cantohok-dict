@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "let go, set free",
-      "english": ["free", "liberate"],
+      "english": [
+        {
+          "id": "dwhn5ihs",
+          "word": "free",
+          "meaning": "release; set free",
+          "note": "This is the all-purpose colloquial choice when letting a person or animal go free."
+        },
+        {
+          "id": "ojefdepk",
+          "word": "liberate",
+          "meaning": "set free; release",
+          "register": "colloquial",
+          "note": "Use this as the casual choice for letting a person or animal go free."
+        }
+      ],
       "examples": [
         {
           "english": "Let’s free the dog.",

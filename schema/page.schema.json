@@ -15,7 +15,7 @@
       "properties": {
         "meaning": { "$ref": "#/$defs/nonEmptyString" },
         "english": {
-          "items": { "$ref": "#/$defs/nonEmptyString" },
+          "items": { "$ref": "#/$defs/englishEntry" },
           "minItems": 1,
           "type": "array"
         },
@@ -27,6 +27,18 @@
         }
       },
       "required": ["english", "meaning", "examples"],
+      "type": "object"
+    },
+    "englishEntry": {
+      "additionalProperties": false,
+      "properties": {
+        "id": { "pattern": "^[a-z0-9]{8}$", "type": "string" },
+        "word": { "$ref": "#/$defs/nonEmptyString" },
+        "meaning": { "$ref": "#/$defs/nonEmptyString" },
+        "register": { "$ref": "#/$defs/nonEmptyString" },
+        "note": { "$ref": "#/$defs/nonEmptyString" }
+      },
+      "required": ["word"],
       "type": "object"
     },
     "nonEmptyString": {

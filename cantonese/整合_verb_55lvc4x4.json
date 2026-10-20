@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "incorporate into",
-      "english": ["integrate"],
+      "english": [
+        {
+          "id": "r00dzqtz",
+          "word": "integrate",
+          "meaning": "incorporate into",
+          "note": "Choose this when compatible components, information, or functions are deliberately combined into one system or whole."
+        }
+      ],
       "examples": [
         {
           "english": "We need to integrate the data from several departments into one platform.",

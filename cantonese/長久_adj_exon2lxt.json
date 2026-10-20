@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "lasting, long-lasting",
-      "english": ["lasting", "enduring", "everlasting"],
+      "english": [
+        {
+          "id": "8x4jbpjr",
+          "word": "lasting",
+          "meaning": "long-lasting; enduring",
+          "note": "This is the all-purpose choice for something that continues for a long time, including relationships, peace, or effects."
+        },
+        {
+          "id": "m7soq8dk",
+          "word": "enduring",
+          "meaning": "long-lasting",
+          "note": "This is the all-purpose choice for something that continues for a long time, especially beliefs, relationships, or situations."
+        },
+        {
+          "id": "wmboncpg",
+          "word": "everlasting",
+          "meaning": "very long-lasting",
+          "note": "Use this for something that lasts a very long time without necessarily meaning literally forever."
+        }
+      ],
       "examples": [
         {
           "english": "We hope this friendship can be lasting.",

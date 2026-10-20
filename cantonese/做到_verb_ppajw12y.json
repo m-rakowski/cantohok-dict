@@ -6,7 +6,33 @@
   "boxes": [
     {
       "meaning": "to manage to do, achieve",
-      "english": ["achieve", "succeed", "attain", "accomplish"],
+      "english": [
+        {
+          "id": "8xlxs0so",
+          "word": "achieve",
+          "meaning": "attain or obtain",
+          "note": "Use this as the all-purpose spoken choice for successfully managing to do or accomplish something."
+        },
+        {
+          "id": "ua16jth1",
+          "word": "succeed",
+          "meaning": "be successful",
+          "note": "Use this when stressing that someone managed to complete a particular task or achieve something they set out to do."
+        },
+        {
+          "id": "rivfz0k0",
+          "word": "attain",
+          "meaning": "achieve; obtain by effort",
+          "register": "colloquial",
+          "note": "Use this when emphasizing successfully carrying out or accomplishing a task through effort."
+        },
+        {
+          "id": "ewbni0u4",
+          "word": "accomplish",
+          "meaning": "finish successfully",
+          "note": "Use this when the emphasis is on managing to carry out or fulfill an intended action, promise, or goal."
+        }
+      ],
       "examples": [
         {
           "english": "I finally manage to achieve it.",

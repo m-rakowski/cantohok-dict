@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "would rather",
-      "english": ["rather", "preferably"],
+      "english": [
+        {
+          "id": "wswrcgd3",
+          "word": "rather",
+          "meaning": "preference; rather than",
+          "note": "This is the all-purpose choice or preference equivalent, especially in “would rather” statements."
+        },
+        {
+          "id": "gvd6tfmm",
+          "word": "preferably",
+          "meaning": "by preference",
+          "register": "colloquial",
+          "note": "Use this when the speaker is expressing a clear personal preference between alternatives, rather than giving a general recommendation."
+        }
+      ],
       "examples": [
         {
           "english": "I’d rather stay home than go out.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "charge a fee",
-      "english": ["bill", "charge"],
+      "english": [
+        {
+          "id": "06pd6wyz",
+          "word": "bill",
+          "meaning": "charge / invoice",
+          "note": "This is the all-purpose choice when a person or business charges someone for a service or goods."
+        },
+        {
+          "id": "o1uj7zjr",
+          "word": "charge",
+          "meaning": "charge a fee",
+          "note": "This is the all-purpose everyday choice when a seller requires payment for goods or services."
+        }
+      ],
       "examples": [
         {
           "english": "This clinic doesn’t bill much.",

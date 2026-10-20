@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "with great effort",
-      "english": ["gamely", "arduously", "feverishly"],
+      "english": [
+        {
+          "id": "szfs1upl",
+          "word": "gamely",
+          "meaning": "in a plucky way",
+          "note": "This is the all-purpose colloquial choice for doing something with willing, spirited effort, especially in a competition."
+        },
+        {
+          "id": "1yd7odwo",
+          "word": "arduously",
+          "meaning": "in an arduous way",
+          "register": "colloquial",
+          "note": "Use this when the emphasis is on putting in a lot of effort or exerting oneself, rather than on suffering hardship."
+        },
+        {
+          "id": "8s2t99r6",
+          "word": "feverishly",
+          "meaning": "with great energy",
+          "note": "Choose this when the emphasis is on putting in great effort and energy."
+        }
+      ],
       "examples": [
         {
           "english": "They gamely ran to the finish despite being tired.",

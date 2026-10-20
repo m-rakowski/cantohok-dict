@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "guilty",
-      "english": ["guilty", "criminal"],
+      "english": [
+        {
+          "id": "mq18bxx4",
+          "word": "guilty",
+          "meaning": "responsible for wrongdoing",
+          "register": "formal",
+          "note": "Use this as the all-purpose choice when someone is responsible for wrongdoing or has been found guilty in court."
+        },
+        {
+          "id": "oirtpzn1",
+          "word": "criminal",
+          "meaning": "guilty of a crime",
+          "note": "Use this when a person is guilty or morally culpable, rather than when an act is merely illegal."
+        }
+      ],
       "examples": [
         {
           "english": "The court ultimately found the defendant guilty.",

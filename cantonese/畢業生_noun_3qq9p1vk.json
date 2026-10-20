@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "university graduate",
-      "english": ["graduate"],
+      "english": [
+        {
+          "id": "8oqzaig5",
+          "word": "graduate",
+          "meaning": "university graduate",
+          "note": "This is the all-purpose noun for someone who has completed a course of study, with the school level supplied by context."
+        }
+      ],
       "examples": [
         {
           "english": "Our company hired a graduate.",

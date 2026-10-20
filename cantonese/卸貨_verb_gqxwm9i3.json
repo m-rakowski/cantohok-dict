@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "remove cargo",
-      "english": ["unload"],
+      "english": [
+        {
+          "id": "xauddd24",
+          "word": "unload",
+          "meaning": "remove cargo",
+          "note": "This is the all-purpose choice for physically removing or depositing cargo from a vehicle."
+        }
+      ],
       "examples": [
         {
           "english": "The workers started to unload as soon as the truck reached the dock.",

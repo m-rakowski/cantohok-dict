@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "impressionist, performer who imitates people",
-      "english": ["impressionist", "impersonator"],
+      "english": [
+        {
+          "id": "aynh33ow",
+          "word": "impressionist",
+          "meaning": "mimic, impression performer",
+          "note": "Use this for a performer whose act is imitating other people."
+        },
+        {
+          "id": "soi6kr1z",
+          "word": "impersonator",
+          "meaning": "impressionist performer",
+          "note": "Use this specifically for an entertainer whose act consists of imitating other people, especially celebrities."
+        }
+      ],
       "examples": [
         {
           "english": "That impressionist does a great impression of a certain singer.",

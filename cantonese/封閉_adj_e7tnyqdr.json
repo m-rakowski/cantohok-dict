@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "closed off, narrow-minded",
-      "english": ["insular", "hermetic", "shut"],
+      "english": [
+        {
+          "id": "2llbvgzi",
+          "word": "insular",
+          "meaning": "narrow-minded, isolated",
+          "note": "Use this as the all-purpose choice for a person, outlook, or community that is narrow-minded and unreceptive to outside views."
+        },
+        {
+          "id": "jr92f1gm",
+          "word": "hermetic",
+          "meaning": "isolated, self-contained",
+          "note": "Use this for a place, society, or system that is closed off from outside influence."
+        },
+        {
+          "id": "mw9rzlrd",
+          "word": "shut",
+          "meaning": "closed mind",
+          "note": "Use this for a person or mind that is unreceptive to new ideas."
+        }
+      ],
       "examples": [
         {
           "english": "They are very insular and never take in opinions from outsiders.",

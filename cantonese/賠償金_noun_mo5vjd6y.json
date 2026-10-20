@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "welfare payment",
-      "english": ["benefit"],
+      "english": [
+        {
+          "id": "osh6ueti",
+          "word": "benefit",
+          "meaning": "welfare payment",
+          "note": "Use this when the benefit is an insurance payment."
+        }
+      ],
       "examples": [
         {
           "english": "The insurance company eventually paid me an insurance benefit.",

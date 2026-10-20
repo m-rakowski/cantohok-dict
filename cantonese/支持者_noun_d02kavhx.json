@@ -6,7 +6,50 @@
   "boxes": [
     {
       "meaning": "supporter",
-      "english": ["partisan", "proponent", "supporter", "follower", "pro", "protagonist", "friend"],
+      "english": [
+        {
+          "id": "emqg2nw3",
+          "word": "partisan",
+          "meaning": "strong supporter",
+          "note": "This is the all-purpose choice for someone who supports a party, faction, cause, person, or idea."
+        },
+        {
+          "id": "dxqvtx2e",
+          "word": "proponent",
+          "meaning": "advocate, supporter",
+          "note": "This is the all-purpose noun for someone who supports a person, idea, or cause."
+        },
+        {
+          "id": "p6udc53d",
+          "word": "supporter",
+          "meaning": "advocate; adherent",
+          "note": "This is the all-purpose noun for a person backing a cause, movement, or political party."
+        },
+        {
+          "id": "raes2y6e",
+          "word": "follower",
+          "meaning": "supporter of ideas",
+          "note": "Use this as the all-purpose choice for someone who supports another person’s ideas, teachings, or movement."
+        },
+        {
+          "id": "w8o9885r",
+          "word": "pro",
+          "meaning": "supporter; proponent",
+          "note": "Use this for a person who supports a proposal, idea, concept, or principle."
+        },
+        {
+          "id": "6wuka3hr",
+          "word": "protagonist",
+          "meaning": "supporter of a cause",
+          "note": "Use this for someone who backs a cause or course of action rather than a story character or contest leader."
+        },
+        {
+          "id": "f1mvulwm",
+          "word": "friend",
+          "meaning": "supporter of something",
+          "note": "Use this for someone who backs a cause, idea, person, or position."
+        }
+      ],
       "examples": [
         {
           "english": "She is a partisan of the environmental campaign.",

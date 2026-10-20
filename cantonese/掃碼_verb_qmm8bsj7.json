@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "read by device",
-      "english": ["scan"],
+      "english": [
+        {
+          "id": "n1653i5g",
+          "word": "scan",
+          "meaning": "read by device",
+          "note": "Use this specifically for reading a barcode or QR code with a phone or other device."
+        }
+      ],
       "examples": [
         {
           "english": "You need to scan the QR code with your phone before entering.",

@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "to pollute, contaminate",
-      "english": ["pollute", "contaminate", "poison", "infect"],
+      "english": [
+        {
+          "id": "s2ukybaf",
+          "word": "pollute",
+          "meaning": "make harmful, contaminate",
+          "note": "This is the all-purpose choice for making a river, environment, sky, or other place harmful or less suitable through contamination or an unwanted factor."
+        },
+        {
+          "id": "wbiyyzlo",
+          "word": "contaminate",
+          "meaning": "make dirty or unsafe",
+          "note": "Use 污染 as the all-purpose term, especially for water, food, the environment, or an abstract taint."
+        },
+        {
+          "id": "jipehrv2",
+          "word": "poison",
+          "meaning": "contaminate, pollute",
+          "note": "This is the all-purpose choice for polluting or contaminating water, land, or other things."
+        },
+        {
+          "id": "7ghbnmrg",
+          "word": "infect",
+          "meaning": "contaminate with pathogen",
+          "note": "Use 污染 when a pathogen makes an object, food, water, or another substance contaminated rather than infecting a person."
+        }
+      ],
       "examples": [
         {
           "english": "The factory's wastewater is enough to pollute the river.",

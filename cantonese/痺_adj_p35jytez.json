@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "numb",
-      "english": ["numb", "asleep"],
+      "english": [
+        {
+          "id": "kny6phnt",
+          "word": "numb",
+          "meaning": "physically unable to feel",
+          "note": "This is the all-purpose everyday choice for a body part that has lost sensation, such as fingers numb from cold."
+        },
+        {
+          "id": "wy6a8m4q",
+          "word": "asleep",
+          "meaning": "numb from pressure",
+          "note": "Use this for a body part that has gone numb or prickly from pressure."
+        }
+      ],
       "examples": [
         {
           "english": "I sat in the air conditioning too long, and my fingers went numb.",

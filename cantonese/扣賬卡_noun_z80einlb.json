@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "bank card",
-      "english": ["debit card"],
+      "english": [
+        {
+          "id": "f9yazr1n",
+          "word": "debit card",
+          "meaning": "bank card",
+          "note": "This is the all-purpose term for a debit card, especially when distinguishing it from a credit card."
+        }
+      ],
       "examples": [
         {
           "english": "This is a debit card, not a credit card; every purchase takes money directly from my bank account.",

@@ -6,7 +6,62 @@
   "boxes": [
     {
       "meaning": "obvious, noticeable",
-      "english": ["obvious", "apparent", "evident", "marked", "noticeable", "plain", "transparent", "notable", "broad"],
+      "english": [
+        {
+          "id": "9bgorsfp",
+          "word": "obvious",
+          "meaning": "easily seen or understood",
+          "note": "This is the all-purpose choice for something that is plainly visible, evident, or easy to recognize."
+        },
+        {
+          "id": "qq13bg1t",
+          "word": "apparent",
+          "meaning": "obvious, evident",
+          "note": "This is the all-purpose choice when something is clear or obvious."
+        },
+        {
+          "id": "kspjqiud",
+          "word": "evident",
+          "meaning": "obviously clear",
+          "note": "This is the all-purpose spoken choice when something is obviously clear from the facts or what you can observe."
+        },
+        {
+          "id": "463zz0pl",
+          "word": "marked",
+          "meaning": "noticeable, evident",
+          "note": "This is the all-purpose choice when something is clearly noticeable or conspicuous, including a marked increase."
+        },
+        {
+          "id": "xnru99ij",
+          "word": "noticeable",
+          "meaning": "visible / easy to notice",
+          "note": "Use this as the all-purpose choice when something is readily apparent or easy to notice."
+        },
+        {
+          "id": "pbfc0a51",
+          "word": "plain",
+          "meaning": "clear; obvious",
+          "note": "Use this when plain means clear or unmistakable; it is the default choice for that sense."
+        },
+        {
+          "id": "mn0i6569",
+          "word": "transparent",
+          "meaning": "obvious, easy to see through",
+          "note": "Use this for something obvious or readily apparent, especially a reason or explanation."
+        },
+        {
+          "id": "cbsxvy8m",
+          "word": "notable",
+          "meaning": "observable; perceptible",
+          "note": "Use this when a feature, difference, or condition can plainly be perceived, without saying that it is admirable."
+        },
+        {
+          "id": "c7arbhxz",
+          "word": "broad",
+          "meaning": "clear, obvious",
+          "note": "Use 明顯 when something is plain or evident rather than merely general."
+        }
+      ],
       "examples": [
         {
           "english": "It is obvious that this answer is wrong.",

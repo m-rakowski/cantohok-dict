@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "speak haltingly",
-      "english": ["stammer", "falter"],
+      "english": [
+        {
+          "id": "j01lxekv",
+          "word": "stammer",
+          "meaning": "speech stammering",
+          "register": "colloquial",
+          "note": "Use this when emphasizing the broken, halting delivery, as in someone speaking with repeated hesitations."
+        },
+        {
+          "id": "1rd6zb98",
+          "word": "falter",
+          "meaning": "speak hesitantly",
+          "register": "colloquial",
+          "note": "Use this for faltering speech that comes out haltingly or with repeated pauses."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

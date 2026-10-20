@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "fish-and-chips meal",
-      "english": ["supper"],
+      "english": [
+        {
+          "id": "n1gmvxgh",
+          "word": "supper",
+          "meaning": "fish-and-chips meal",
+          "note": "Use this only for the specific fish-and-chips meal, not for an ordinary evening or late-night meal."
+        }
+      ],
       "examples": [
         {
           "english": "We went to the chip shop for fish and chips for supper.",

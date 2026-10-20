@@ -6,7 +6,50 @@
   "boxes": [
     {
       "meaning": "usually",
-      "english": ["usually", "generally", "typically", "commonly", "normally", "ordinarily", "regularly"],
+      "english": [
+        {
+          "id": "k0vmjwmc",
+          "word": "usually",
+          "meaning": "most of the time",
+          "note": "This is the all-purpose choice for saying something usually happens, whether you mean most of the time or as the normal expectation."
+        },
+        {
+          "id": "5sz55yrh",
+          "word": "generally",
+          "meaning": "usually; in most cases",
+          "note": "通常 is the all-purpose choice for saying that something happens in most cases or as a usual habit."
+        },
+        {
+          "id": "h0rnllan",
+          "word": "typically",
+          "meaning": "usually; in a typical way",
+          "note": "This is the all-purpose choice for saying that something usually happens or is generally the case."
+        },
+        {
+          "id": "uo75iahv",
+          "word": "commonly",
+          "meaning": "usually; as a rule",
+          "note": "This is the all-purpose choice for saying that something usually happens or is generally the rule."
+        },
+        {
+          "id": "79uymvnx",
+          "word": "normally",
+          "meaning": "usually; most of the time",
+          "note": "This is the all-purpose choice for saying that something usually happens or is normally the case."
+        },
+        {
+          "id": "zc2vqv6z",
+          "word": "ordinarily",
+          "meaning": "usually; as a rule",
+          "note": "This is the all-purpose choice for saying that something usually happens or is generally the rule."
+        },
+        {
+          "id": "7vcms62d",
+          "word": "regularly",
+          "meaning": "normally; ordinarily",
+          "note": "This is the all-purpose choice for “normally” or “ordinarily.”"
+        }
+      ],
       "examples": [
         {
           "english": "I usually get up at seven in the morning.",

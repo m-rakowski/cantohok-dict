@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "hug",
-      "english": ["hug", "embrace"],
+      "english": [
+        {
+          "id": "1chnjltj",
+          "word": "hug",
+          "meaning": "warm embrace",
+          "register": "formal, written",
+          "note": "Use this more formal noun in writing or when describing an embrace neutrally."
+        },
+        {
+          "id": "8k0hlvk5",
+          "word": "embrace",
+          "meaning": "hug, hold in arms",
+          "register": "formal",
+          "note": "Use this more formal or written noun when describing an embrace in serious or polished language."
+        }
+      ],
       "examples": [
         {
           "english": "After the disaster victims were rescued, everyone offered one another a hug.",

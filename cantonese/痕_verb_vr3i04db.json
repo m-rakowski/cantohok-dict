@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "feel itchy",
-      "english": ["itch", "tickle"],
+      "english": [
+        {
+          "id": "1ni0pac4",
+          "word": "itch",
+          "meaning": "feel itchy",
+          "note": "This is the all-purpose choice: a body part can 痕 when it feels itchy, and an irritant can 痕 someone when it causes itching."
+        },
+        {
+          "id": "jr57rw51",
+          "word": "tickle",
+          "meaning": "body part feels tingly",
+          "note": "Use this when the body part itself has a tickly or itchy sensation, rather than when someone is touching it."
+        }
+      ],
       "examples": [
         {
           "english": "After eating seafood, my whole body starts to itch.",
@@ -22,7 +35,14 @@
     },
     {
       "meaning": "leave a mark or trail",
-      "english": ["track"],
+      "english": [
+        {
+          "id": "rn47eheg",
+          "word": "track",
+          "meaning": "leave tracks",
+          "note": "Use this when something physically leaves a visible mark or trail, rather than when someone follows a trail."
+        }
+      ],
       "examples": [
         {
           "english": "The wet shoes left a track on the wooden floor.",

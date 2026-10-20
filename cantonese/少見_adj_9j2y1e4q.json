@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "rare, seldom seen",
-      "english": ["rare", "uncommon"],
+      "english": [
+        {
+          "id": "iasikbol",
+          "word": "rare",
+          "meaning": "very uncommon",
+          "note": "This is the all-purpose choice for something uncommon or not often encountered."
+        },
+        {
+          "id": "rhnhctyn",
+          "word": "uncommon",
+          "meaning": "rare; unusual",
+          "note": "This is the all-purpose choice for something that is rarely seen, found, or encountered."
+        }
+      ],
       "examples": [
         {
           "english": "This kind of bird is rare in Hong Kong.",

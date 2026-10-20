@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "hand cart",
-      "english": ["trolley", "truck"],
+      "english": [
+        {
+          "id": "2u9bta7d",
+          "word": "trolley",
+          "meaning": "hand truck",
+          "note": "Use this for a small hand truck or pushcart rather than a supermarket trolley."
+        },
+        {
+          "id": "pdbb132c",
+          "word": "truck",
+          "meaning": "cart for moving goods",
+          "note": "Use this for a small hand-pushed cart used to move goods or luggage."
+        }
+      ],
       "examples": [
         {
           "english": "It’s much easier to move these boxes with a hand trolley.",

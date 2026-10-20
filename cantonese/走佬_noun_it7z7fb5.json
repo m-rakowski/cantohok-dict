@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "running away, escape",
-      "english": ["getaway", "disappearance"],
+      "english": [
+        {
+          "id": "wrru5c12",
+          "word": "getaway",
+          "meaning": "the escape itself",
+          "register": "colloquial",
+          "note": "For the escape itself, this is the all-purpose casual choice, especially when someone flees from the police or a dangerous situation."
+        },
+        {
+          "id": "a8sxi9pw",
+          "word": "disappearance",
+          "meaning": "secret leaving",
+          "register": "colloquial",
+          "note": "Use this for someone deliberately leaving secretly or absconding, rather than simply becoming unaccounted-for."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

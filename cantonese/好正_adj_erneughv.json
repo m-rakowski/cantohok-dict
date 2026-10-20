@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "excellent, great",
-      "english": ["excellent", "heavenly"],
+      "english": [
+        {
+          "id": "62ge6m5j",
+          "word": "excellent",
+          "meaning": "very good",
+          "register": "colloquial",
+          "note": "This is the all-purpose colloquial choice for something splendid or exceptionally good."
+        },
+        {
+          "id": "ozb9hgru",
+          "word": "heavenly",
+          "meaning": "extremely pleasant",
+          "note": "Use this as the all-purpose colloquial choice for something extremely pleasant or enjoyable."
+        }
+      ],
       "examples": [
         {
           "english": "The desserts at this restaurant are excellent.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "economics",
-      "english": ["economics", "economy"],
+      "english": [
+        {
+          "id": "bjd5nlk7",
+          "word": "economics",
+          "meaning": "study of economy",
+          "note": "This is the all-purpose noun for economics as a field of study, including a particular field when a modifier is placed before it, such as 農村經濟學."
+        },
+        {
+          "id": "x6ppb8i8",
+          "word": "economy",
+          "meaning": "economics; national economy",
+          "note": "Use this for economics as an academic subject or field of study."
+        }
+      ],
       "examples": [
         {
           "english": "I’m studying economics and spend every day looking at how resources are allocated.",

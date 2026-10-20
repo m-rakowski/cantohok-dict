@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "throw away",
-      "english": ["discard", "throw"],
+      "english": [
+        {
+          "id": "bw9ypfsy",
+          "word": "discard",
+          "meaning": "throw away, reject",
+          "note": "This is the all-purpose choice for throwing something away or getting rid of it."
+        },
+        {
+          "id": "okvdtfz8",
+          "word": "throw",
+          "meaning": "discard, throw away",
+          "register": "colloquial",
+          "note": "Use 掉 when throw means discard or get rid of something rather than propel it through the air."
+        }
+      ],
       "examples": [
         {
           "english": "We can discard these old newspapers now.",

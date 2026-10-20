@@ -6,7 +6,15 @@
   "boxes": [
     {
       "meaning": "database restore point",
-      "english": ["checkpoint"],
+      "english": [
+        {
+          "id": "qwjh9q8z",
+          "word": "checkpoint",
+          "meaning": "database restore point",
+          "register": "formal",
+          "note": "Use this technical term for a database state that can be restored after a failure."
+        }
+      ],
       "register": "formal",
       "examples": [
         {

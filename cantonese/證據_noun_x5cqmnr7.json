@@ -6,7 +6,50 @@
   "boxes": [
     {
       "meaning": "evidence, proof",
-      "english": ["evidence", "proof", "testimony", "vindication", "support", "witness", "fact"],
+      "english": [
+        {
+          "id": "stgdy33i",
+          "word": "evidence",
+          "meaning": "proof, supporting facts",
+          "note": "Use this as the all-purpose noun for supporting facts, including scientific and general court evidence."
+        },
+        {
+          "id": "regn25gc",
+          "word": "proof",
+          "meaning": "evidence; demonstration",
+          "note": "This is the all-purpose choice for evidence that establishes or supports a fact."
+        },
+        {
+          "id": "gyg4qx9e",
+          "word": "testimony",
+          "meaning": "evidence, proof",
+          "note": "This is the all-purpose choice for evidence or proof of a fact."
+        },
+        {
+          "id": "tn0luivp",
+          "word": "vindication",
+          "meaning": "proof that clears someone",
+          "note": "Use this as the all-purpose noun for facts or arguments that clear someone or support a claim."
+        },
+        {
+          "id": "o3ryo4jn",
+          "word": "support",
+          "meaning": "evidence, backing",
+          "note": "Use this when the support consists of evidence for a claim or theory."
+        },
+        {
+          "id": "lyb3qguf",
+          "word": "witness",
+          "meaning": "sign; evidence",
+          "note": "Use this for a thing that serves as evidence or a sign, not for a person or their spoken testimony."
+        },
+        {
+          "id": "7fom966s",
+          "word": "fact",
+          "meaning": "evidence; basis",
+          "note": "Use this when facts are being treated as concrete evidence supporting a conclusion."
+        }
+      ],
       "examples": [
         {
           "english": "These data are evidence supporting the conclusion.",

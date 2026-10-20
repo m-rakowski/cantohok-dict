@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "disappointed",
-      "english": ["disappointed", "dissatisfied", "frustrated"],
+      "english": [
+        {
+          "id": "ulnoro5m",
+          "word": "disappointed",
+          "meaning": "feeling let down",
+          "note": "This is the all-purpose choice for feeling let down and for a tone, face, or silence that shows disappointment."
+        },
+        {
+          "id": "23bvdupd",
+          "word": "dissatisfied",
+          "meaning": "unhappy; not content",
+          "note": "Use this when the dissatisfaction specifically comes from disappointment because expectations were not met."
+        },
+        {
+          "id": "j5f6fi3j",
+          "word": "frustrated",
+          "meaning": "angry/discouraged by inability",
+          "note": "Use this when the frustration is specifically disappointment that an outcome did not meet expectations."
+        }
+      ],
       "examples": [
         {
           "english": "I’m really disappointed; after waiting so long, there’s still no news.",

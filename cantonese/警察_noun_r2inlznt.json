@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "police, police officer",
-      "english": ["cop", "police", "police officer", "policeman", "copper"],
+      "english": [
+        {
+          "id": "979nyyrw",
+          "word": "cop",
+          "meaning": "police officer",
+          "note": "This is the all-purpose choice for an ordinary police officer."
+        },
+        {
+          "id": "m1q53hck",
+          "word": "police",
+          "meaning": "law enforcement body",
+          "note": "This is the all-purpose word for the police force or a police officer."
+        },
+        {
+          "id": "50xc4jc1",
+          "word": "police officer",
+          "meaning": "police officer",
+          "note": "Use 警察 as the all-purpose neutral term for a police officer."
+        },
+        {
+          "id": "6ux96l50",
+          "word": "policeman",
+          "meaning": "police officer",
+          "note": "Use this neutral term when referring generally to a police officer, including a female officer."
+        },
+        {
+          "id": "jdb4jqds",
+          "word": "copper",
+          "meaning": "police officer",
+          "note": "Use this neutral term when referring to a police officer without the slang flavor of “copper.”"
+        }
+      ],
       "examples": [
         {
           "english": "That cop helped me find my phone.",

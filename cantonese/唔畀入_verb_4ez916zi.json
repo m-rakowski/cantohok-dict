@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "not allow in",
-      "english": ["bar", "forbid"],
+      "english": [
+        {
+          "id": "o7b9fsoz",
+          "word": "bar",
+          "meaning": "ban or exclude",
+          "register": "colloquial",
+          "note": "Use this when someone is barred specifically from entering a place."
+        },
+        {
+          "id": "pyahkytu",
+          "word": "forbid",
+          "meaning": "bar from; forbid entry",
+          "register": "colloquial",
+          "note": "Use this specifically when the prohibition bars someone from entering a place."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

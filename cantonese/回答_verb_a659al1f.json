@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "answer, reply",
-      "english": ["reply", "answer"],
+      "english": [
+        {
+          "id": "ewifmmoh",
+          "word": "reply",
+          "meaning": "answer; respond",
+          "note": "This is the all-purpose choice for answering a question, request, accusation, or criticism, especially in more careful speech."
+        },
+        {
+          "id": "sssepm9g",
+          "word": "answer",
+          "meaning": "reply; respond",
+          "register": "formal",
+          "note": "Use this more formal alternative, especially for answering a question or giving a reply."
+        }
+      ],
       "examples": [
         {
           "english": "I need to reply to your question.",

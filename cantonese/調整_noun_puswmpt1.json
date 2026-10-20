@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "adjustment",
-      "english": ["adjustment", "modification", "accommodation"],
+      "english": [
+        {
+          "id": "bkxnfdzp",
+          "word": "adjustment",
+          "meaning": "act of adjusting",
+          "note": "Use this as the all-purpose noun for the act of adjusting or for a deliberate fine-tuning, while 調賬 is more specific in accounting."
+        },
+        {
+          "id": "p0zj4w0p",
+          "word": "modification",
+          "meaning": "change / adjustment",
+          "note": "Use this for adjusting an amount, position, arrangement, or setting while keeping the overall thing essentially the same."
+        },
+        {
+          "id": "pwwnb6xc",
+          "word": "accommodation",
+          "meaning": "adjustment",
+          "note": "This is the all-purpose noun for adapting or changing something, including adjusting one’s communication style."
+        }
+      ],
       "examples": [
         {
           "english": "This air-conditioner control needs a small adjustment to get cold enough.",

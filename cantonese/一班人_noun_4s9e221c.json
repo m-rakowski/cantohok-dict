@@ -6,7 +6,45 @@
   "boxes": [
     {
       "meaning": "a group of people",
-      "english": ["group", "gang", "crowd", "grouping", "party", "lot"],
+      "english": [
+        {
+          "id": "9cjmja4b",
+          "word": "group",
+          "meaning": "collection of things/people",
+          "note": "This is the everyday choice for a group or bunch of people, especially an informal or casually identified group."
+        },
+        {
+          "id": "rqpw8gzh",
+          "word": "gang",
+          "meaning": "group of friends",
+          "note": "Use this as the all-purpose rendering for an associated group, including friends or a work crew such as 一班工人."
+        },
+        {
+          "id": "vtrlf2z1",
+          "word": "crowd",
+          "meaning": "group with shared interest",
+          "register": "colloquial",
+          "note": "Use this for a group of people linked by a shared interest or characteristic."
+        },
+        {
+          "id": "mu4hkten",
+          "word": "grouping",
+          "meaning": "collection of things or people",
+          "note": "Use this for a casual group of people rather than a set of objects."
+        },
+        {
+          "id": "o25qa281",
+          "word": "party",
+          "meaning": "group of people",
+          "note": "Use this for an ordinary temporary group of people gathered for a shared activity, rather than a celebratory social party."
+        },
+        {
+          "id": "ww1tht68",
+          "word": "lot",
+          "meaning": "a group of people",
+          "note": "Use this for a group of people considered collectively, including a group being described critically."
+        }
+      ],
       "examples": [
         {
           "english": "Our group is going for drinks after work.",

@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "easily cheated person, sucker",
-      "english": ["fool", "mug"],
+      "english": [
+        {
+          "id": "l7os114u",
+          "word": "fool",
+          "meaning": "dupe; person tricked",
+          "register": "colloquial",
+          "note": "Use this for someone who has been tricked or is easy to exploit, especially financially."
+        },
+        {
+          "id": "zbhkny20",
+          "word": "mug",
+          "meaning": "gullible person",
+          "note": "Use this for a person who is easily cheated or taken advantage of, rather than merely unintelligent."
+        }
+      ],
       "examples": [
         {
           "english": "He got tricked out of so much money—what a fool.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "electronic devices",
-      "english": ["electronics", "gadget"],
+      "english": [
+        {
+          "id": "9zew7fdg",
+          "word": "electronics",
+          "meaning": "electronic devices",
+          "note": "Use this as the all-purpose term for physical electronic devices, especially consumer items."
+        },
+        {
+          "id": "vsn9fm9c",
+          "word": "gadget",
+          "meaning": "consumer electronic device",
+          "note": "Use this specifically for a consumer electronic product rather than a gadget in general."
+        }
+      ],
       "examples": [
         {
           "english": "All the electronics at home need charging.",

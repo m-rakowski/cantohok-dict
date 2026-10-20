@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "area, size of a surface",
-      "english": ["acreage", "area"],
+      "english": [
+        {
+          "id": "p4umffrw",
+          "word": "acreage",
+          "meaning": "land area in acres",
+          "note": "Use this as the everyday all-purpose term for the area of a piece of land, with the acre unit supplied by context."
+        },
+        {
+          "id": "balmucal",
+          "word": "area",
+          "meaning": "surface measure",
+          "note": "Use this when referring specifically to the size of a surface measured in square units."
+        }
+      ],
       "examples": [
         {
           "english": "How large is the acreage of this plot of land?",

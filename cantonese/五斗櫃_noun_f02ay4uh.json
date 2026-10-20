@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "chest of drawers",
-      "english": ["chest of drawers", "chest"],
+      "english": [
+        {
+          "id": "stxcwb2y",
+          "word": "chest of drawers",
+          "meaning": "dresser / chest of drawers",
+          "note": "This is the all-purpose everyday term for a piece of furniture with stacked drawers for storing clothes."
+        },
+        {
+          "id": "mnj4r2ss",
+          "word": "chest",
+          "meaning": "chest of drawers",
+          "note": "Use this specifically for a chest of drawers, not for a general storage box."
+        }
+      ],
       "examples": [
         {
           "english": "I folded the clothes and put them all in the chest of drawers.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "ancestry, bloodline",
-      "english": ["descent", "origin"],
+      "english": [
+        {
+          "id": "8kzey89v",
+          "word": "descent",
+          "meaning": "family background",
+          "note": "Use this for hereditary or ancestral descent, as in being of Welsh descent."
+        },
+        {
+          "id": "z4wkhx7v",
+          "word": "origin",
+          "meaning": "ancestry, family origin",
+          "note": "Use this for inherited family, ethnic, or biological ancestry."
+        }
+      ],
       "examples": [
         {
           "english": "They are of Irish descent, and the whole family loves football.",

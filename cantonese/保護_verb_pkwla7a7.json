@@ -6,7 +6,44 @@
   "boxes": [
     {
       "meaning": "to protect",
-      "english": ["guard", "protect", "defend", "preserve", "conserve", "secure"],
+      "english": [
+        {
+          "id": "cbyqp6ix",
+          "word": "guard",
+          "meaning": "protect; defend",
+          "note": "Use this as the all-purpose verb for protecting someone or something from danger or harm."
+        },
+        {
+          "id": "0qoet4gg",
+          "word": "protect",
+          "meaning": "keep safe; defend",
+          "note": "This is the all-purpose choice for keeping a person or thing safe from harm."
+        },
+        {
+          "id": "gs645lfc",
+          "word": "defend",
+          "meaning": "protect, guard",
+          "note": "Use this as the all-purpose choice for protecting a person or thing from harm or attack."
+        },
+        {
+          "id": "qcqp33lo",
+          "word": "preserve",
+          "meaning": "protect from harm",
+          "note": "Use this as the all-purpose verb for protecting someone or something from harm."
+        },
+        {
+          "id": "yoo1xuzy",
+          "word": "conserve",
+          "meaning": "protect the environment",
+          "note": "Use this as the all-purpose verb for protecting the environment, places, or heritage."
+        },
+        {
+          "id": "ge0y3v9i",
+          "word": "secure",
+          "meaning": "make safe; protect",
+          "note": "This is the all-purpose choice when secure means protect someone or something from danger."
+        }
+      ],
       "examples": [
         {
           "english": "We need to guard the children so they don't get hurt.",

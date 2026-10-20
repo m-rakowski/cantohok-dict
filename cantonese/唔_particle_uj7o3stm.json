@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "contradicting a negative",
-      "english": ["yes"],
+      "english": [
+        {
+          "id": "lcltsh9i",
+          "word": "yes",
+          "meaning": "contradicting a negative",
+          "note": "Use this in an adversative correction meaning “no, rather...” when rejecting a negative statement and asserting the opposite."
+        }
+      ],
       "examples": [
         {
           "english": "You don't like this film? No—rather, yes, I really like it.",

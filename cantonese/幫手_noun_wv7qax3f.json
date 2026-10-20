@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "help, assistance",
-      "english": ["help", "assistance", "hand"],
+      "english": [
+        {
+          "id": "r10wp1cx",
+          "word": "help",
+          "meaning": "assistance, aid",
+          "note": "This is the all-purpose spoken noun for assistance, and it can also mean a person or thing that is useful in a task."
+        },
+        {
+          "id": "zauq96bx",
+          "word": "assistance",
+          "meaning": "help; aid",
+          "note": "Use this as the all-purpose colloquial noun for ordinary help or assistance."
+        },
+        {
+          "id": "eo0rb3j5",
+          "word": "hand",
+          "meaning": "helping hand",
+          "register": "colloquial",
+          "note": "Use 幫手 as a noun for assistance, especially in phrases such as asking for or thanking someone for their help."
+        }
+      ],
       "examples": [
         {
           "english": "I need your help right now.",
@@ -27,7 +47,39 @@
     },
     {
       "meaning": "helper, person who helps",
-      "english": ["assistant", "helper", "servant", "aid", "friend"],
+      "english": [
+        {
+          "id": "l92s20t6",
+          "word": "assistant",
+          "meaning": "person who helps",
+          "note": "This is the all-purpose casual term for a person who helps someone else."
+        },
+        {
+          "id": "2dp6arwo",
+          "word": "helper",
+          "meaning": "assistant; aide",
+          "note": "Use this as the colloquial all-purpose term for a person who helps or something that is useful."
+        },
+        {
+          "id": "o1p9tjn6",
+          "word": "servant",
+          "meaning": "helper; one who serves",
+          "note": "Use 幫手 for an ordinary person who helps or assists someone, without necessarily implying a subordinate servant role."
+        },
+        {
+          "id": "qzooanio",
+          "word": "aid",
+          "meaning": "helper; assistant",
+          "register": "colloquial",
+          "note": "Use this for an everyday helper or someone brought in to help."
+        },
+        {
+          "id": "itc4p6ym",
+          "word": "friend",
+          "meaning": "supporter; benefactor",
+          "note": "Use this for a friend who is a helpful associate, rather than for an ordinary social friend."
+        }
+      ],
       "examples": [
         {
           "english": "This is the new assistant we hired.",

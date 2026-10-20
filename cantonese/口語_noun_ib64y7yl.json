@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "spoken language",
-      "english": ["speech"],
+      "english": [
+        {
+          "id": "omtgeqpx",
+          "word": "speech",
+          "meaning": "spoken language",
+          "note": "Use this specifically for language spoken aloud as opposed to written language."
+        }
+      ],
       "examples": [
         {
           "english": "This book is written in colloquial speech, so it sounds natural when read aloud.",

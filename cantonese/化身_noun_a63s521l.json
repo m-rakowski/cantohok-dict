@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "embodiment of a quality",
-      "english": ["personification", "embodiment"],
+      "english": [
+        {
+          "id": "thvzbxgg",
+          "word": "personification",
+          "meaning": "embodiment of a quality",
+          "note": "This is the all-purpose choice for a person or figure that embodies an idea, including a human representation such as the Grim Reaper."
+        },
+        {
+          "id": "flxcsnah",
+          "word": "embodiment",
+          "meaning": "living example; personification",
+          "note": "This is the all-purpose choice for a person or thing that vividly represents an abstract quality."
+        }
+      ],
       "examples": [
         {
           "english": "They are practically the personification of courage.",

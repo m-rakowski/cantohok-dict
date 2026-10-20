@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "on top of A, above A",
-      "english": ["upon", "over", "on"],
+      "english": [
+        {
+          "id": "yh51hn2d",
+          "word": "upon",
+          "meaning": "on; upon",
+          "note": "This is the all-purpose spoken construction for a physical 'on/upon' location, such as being on a stair or table."
+        },
+        {
+          "id": "0tu9656a",
+          "word": "over",
+          "meaning": "covering, on top of",
+          "note": "Use this for something positioned above A or placed on top of A, including when it covers A."
+        },
+        {
+          "id": "stu7f5sm",
+          "word": "on",
+          "meaning": "on, on top of",
+          "note": "Use this when something is physically on an upper surface or when someone is aboard a vehicle and the surface or vehicle is being highlighted."
+        }
+      ],
       "examples": [
         {
           "english": "The book is upon the table.",

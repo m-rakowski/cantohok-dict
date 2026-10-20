@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "Christian denomination",
-      "english": ["church"],
+      "english": [
+        {
+          "id": "z8caykln",
+          "word": "church",
+          "meaning": "Christian denomination",
+          "note": "Use this for a particular Christian denomination or branch rather than a local congregation."
+        }
+      ],
       "examples": [
         {
           "english": "They belong to a relatively conservative church denomination.",

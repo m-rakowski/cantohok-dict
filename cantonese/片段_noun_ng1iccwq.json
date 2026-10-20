@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "video or audio clip",
-      "english": ["clip"],
+      "english": [
+        {
+          "id": "7wkmk6qz",
+          "word": "clip",
+          "meaning": "video excerpt",
+          "note": "This is the all-purpose noun for an excerpt from a video or an audio recording."
+        }
+      ],
       "examples": [
         {
           "english": "I've watched this clip many times.",
@@ -17,7 +24,14 @@
     },
     {
       "meaning": "fragment of writing or memory",
-      "english": ["fragment"],
+      "english": [
+        {
+          "id": "s8fbbnj0",
+          "word": "fragment",
+          "meaning": "broken-off piece",
+          "note": "Use this for a fragment or excerpt of writing, speech, memory, or another non-physical whole rather than a broken physical piece."
+        }
+      ],
       "examples": [
         {
           "english": "I only remember a fragment of what he said.",

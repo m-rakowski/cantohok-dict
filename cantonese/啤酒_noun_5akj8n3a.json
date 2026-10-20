@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "beer",
-      "english": ["beer", "suds"],
+      "english": [
+        {
+          "id": "cjlgg3hg",
+          "word": "beer",
+          "meaning": "alcoholic drink",
+          "note": "This is the all-purpose noun for the alcoholic drink and for referring to a variety of beer."
+        },
+        {
+          "id": "7lmdcdbx",
+          "word": "suds",
+          "meaning": "beer",
+          "register": "colloquial",
+          "note": "Use this when “suds” is casual slang for beer, especially in a food-and-drink context."
+        }
+      ],
       "examples": [
         {
           "english": "This beer is a little bitter.",

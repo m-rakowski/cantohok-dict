@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "happily",
-      "english": ["happily", "pleasantly", "cheerfully"],
+      "english": [
+        {
+          "id": "xhfqk42s",
+          "word": "happily",
+          "meaning": "in a happy way",
+          "note": "This is the all-purpose choice when someone does something in a cheerful or happy manner."
+        },
+        {
+          "id": "mdkj1sh4",
+          "word": "pleasantly",
+          "meaning": "in a pleasant way",
+          "note": "This is the all-purpose colloquial choice for doing something in a pleasant or happy manner."
+        },
+        {
+          "id": "4vd06zol",
+          "word": "cheerfully",
+          "meaning": "in a cheerful manner",
+          "note": "This is the all-purpose spoken choice for doing something cheerfully."
+        }
+      ],
       "examples": [
         {
           "english": "We happily finished the whole meal.",

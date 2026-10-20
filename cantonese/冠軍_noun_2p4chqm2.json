@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "champion, the winner",
-      "english": ["champion"],
+      "english": [
+        {
+          "id": "aatt9nf5",
+          "word": "champion",
+          "meaning": "contest winner",
+          "note": "This is the all-purpose choice for the winner of a game or contest."
+        }
+      ],
       "examples": [
         {
           "english": "They have been the champion for three years in a row.",
@@ -17,7 +24,20 @@
     },
     {
       "meaning": "championship title",
-      "english": ["championship", "title"],
+      "english": [
+        {
+          "id": "vn5lnk0c",
+          "word": "championship",
+          "meaning": "being the champion",
+          "note": "Use 冠軍 for the champion or the championship title someone holds, not the contest itself."
+        },
+        {
+          "id": "tc6hbgud",
+          "word": "title",
+          "meaning": "championship",
+          "note": "Use 冠軍 for the championship status or title awarded to the winner of a sporting competition."
+        }
+      ],
       "examples": [
         {
           "english": "I’m really happy to win this championship.",

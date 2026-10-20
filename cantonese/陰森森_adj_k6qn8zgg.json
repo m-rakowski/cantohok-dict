@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "eerie, spooky",
-      "english": ["ghostly", "macabre", "creepy", "gloomy"],
+      "english": [
+        {
+          "id": "0q500yzm",
+          "word": "ghostly",
+          "meaning": "spooky, eerie",
+          "note": "For a spooky or eerie atmosphere, this is the all-purpose choice."
+        },
+        {
+          "id": "moriuzpo",
+          "word": "macabre",
+          "meaning": "ghastly, gruesome",
+          "note": "This is the all-purpose choice for something creepy, ghastly, and deathly in atmosphere."
+        },
+        {
+          "id": "k5hgvxiz",
+          "word": "creepy",
+          "meaning": "spooky, unsettling",
+          "note": "Use this for an eerie, spooky atmosphere, such as a haunted place or creepy ghosts, rather than something merely frightening."
+        },
+        {
+          "id": "mjrfjs8i",
+          "word": "gloomy",
+          "meaning": "dark, dim",
+          "note": "Use this for a dark place or scene that also feels eerie or frightening."
+        }
+      ],
       "examples": [
         {
           "english": "This abandoned house feels ghostly at night, and nobody dares go in.",

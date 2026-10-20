@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "ape",
-      "english": ["gorilla"],
+      "english": [
+        {
+          "id": "iplq4bpx",
+          "word": "gorilla",
+          "meaning": "ape",
+          "note": "This is the all-purpose rendering for the animal."
+        }
+      ],
       "examples": [
         {
           "english": "That gorilla at the zoo is huge.",

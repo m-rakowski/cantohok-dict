@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "basketball score",
-      "english": ["bucket"],
+      "english": [
+        {
+          "id": "bbh00ixn",
+          "word": "bucket",
+          "meaning": "basketball score",
+          "note": "Use this in basketball when “bucket” means a successful field goal or score."
+        }
+      ],
       "examples": [
         {
           "english": "That last bucket helped us come from behind and win.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "fighter for a cause",
-      "english": ["warrior", "champion"],
+      "english": [
+        {
+          "id": "yhv475e0",
+          "word": "warrior",
+          "meaning": "metaphorical fighter",
+          "note": "Use this for someone who fights energetically or courageously for a cause, in sport, or in another activity."
+        },
+        {
+          "id": "4hdyg68k",
+          "word": "champion",
+          "meaning": "supporter of a cause",
+          "note": "Use this for someone who actively fights for a cause or ideal rather than for a contest winner."
+        }
+      ],
       "examples": [
         {
           "english": "They keep fighting for their dream; they’re a real warrior.",

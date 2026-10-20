@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "be cooked",
-      "english": ["cook"],
+      "english": [
+        {
+          "id": "ysdocylc",
+          "word": "cook",
+          "meaning": "be cooked",
+          "note": "Use this when food is currently undergoing cooking, rather than when someone is preparing it."
+        }
+      ],
       "examples": [
         {
           "english": "I’m watching the rice cook.",

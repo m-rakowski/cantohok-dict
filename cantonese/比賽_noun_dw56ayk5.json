@@ -6,7 +6,56 @@
   "boxes": [
     {
       "meaning": "competition, match",
-      "english": ["match", "contest", "competition", "race", "tournament", "fixture", "play", "bee"],
+      "english": [
+        {
+          "id": "jutafmk4",
+          "word": "match",
+          "meaning": "sporting event",
+          "note": "Use 比賽 as the all-purpose noun for a competitive sporting event."
+        },
+        {
+          "id": "yz3pzc84",
+          "word": "contest",
+          "meaning": "competition",
+          "note": "Use this as the all-purpose noun for a competition or contest."
+        },
+        {
+          "id": "7ofy6mej",
+          "word": "competition",
+          "meaning": "contest for a prize",
+          "note": "Use 比賽 for an organized contest in which someone can win a prize or award."
+        },
+        {
+          "id": "0x9y5l3n",
+          "word": "race",
+          "meaning": "contest to finish first",
+          "note": "This is the all-purpose Cantonese noun for a contest, including a race to finish first."
+        },
+        {
+          "id": "wwl36t78",
+          "word": "tournament",
+          "meaning": "sports competition",
+          "note": "This is the all-purpose choice for a tournament or competitive event when the exact format is not important."
+        },
+        {
+          "id": "4dhf068m",
+          "word": "fixture",
+          "meaning": "scheduled match",
+          "note": "Use this for a scheduled sports match when the sporting context makes the meaning clear."
+        },
+        {
+          "id": "lbbl0i0n",
+          "word": "play",
+          "meaning": "game in progress",
+          "note": "Use 比賽 for the course or progress of a competitive game or match."
+        },
+        {
+          "id": "qhz8smha",
+          "word": "bee",
+          "meaning": "contest",
+          "note": "Use this general noun for the contest sense, including a spelling or geography bee."
+        }
+      ],
       "examples": [
         {
           "english": "The football match is being held in Mong Kok tomorrow.",

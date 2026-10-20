@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "rumour, gossip",
-      "english": ["tale"],
+      "english": [
+        {
+          "id": "bhzyyfqt",
+          "word": "tale",
+          "meaning": "rumour, gossip",
+          "note": "Use this when the tale is a rumour or an unverified report."
+        }
+      ],
       "examples": [
         {
           "english": "I heard a tale that they are moving abroad.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "heartless, ruthless",
-      "english": ["remorseless", "ruthless"],
+      "english": [
+        {
+          "id": "796tlt2d",
+          "word": "remorseless",
+          "meaning": "without remorse or pity",
+          "note": "This is the all-purpose choice for someone showing no mercy or pity."
+        },
+        {
+          "id": "ugvuuqid",
+          "word": "ruthless",
+          "meaning": "cruel, pitiless",
+          "note": "Choose this when the emphasis is on showing no pity or compassion, rather than simply being tough or determined."
+        }
+      ],
       "examples": [
         {
           "english": "That executioner was remorseless toward the prisoners.",

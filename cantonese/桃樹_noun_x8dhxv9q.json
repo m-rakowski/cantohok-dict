@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "fruit tree",
-      "english": ["peach"],
+      "english": [
+        {
+          "id": "our04df7",
+          "word": "peach",
+          "meaning": "fruit tree",
+          "note": "Use 桃樹 specifically for the peach tree, not its fruit."
+        }
+      ],
       "examples": [
         {
           "english": "We planted a peach tree in the backyard.",

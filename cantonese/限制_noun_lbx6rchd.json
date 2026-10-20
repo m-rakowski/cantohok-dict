@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "restriction, limit",
-      "english": ["limit", "limitation", "restriction", "constraint"],
+      "english": [
+        {
+          "id": "pt5vc7o8",
+          "word": "limit",
+          "meaning": "restriction, maximum",
+          "note": "This is the all-purpose choice for a restriction or general limit."
+        },
+        {
+          "id": "bcg8oi49",
+          "word": "limitation",
+          "meaning": "state of being limited",
+          "note": "This is the all-purpose choice for a restriction, boundary, or general state of being limited."
+        },
+        {
+          "id": "0eo5itnr",
+          "word": "restriction",
+          "meaning": "act or state of being restricted",
+          "note": "This is the all-purpose noun for a restriction, whether it means the state of being restricted or a limiting rule."
+        },
+        {
+          "id": "czwa9z7a",
+          "word": "constraint",
+          "meaning": "restriction",
+          "note": "This is the all-purpose choice for a rule, condition, or factor that restricts what someone can do."
+        }
+      ],
       "examples": [
         {
           "english": "This limit means you can't bring pets into the venue.",

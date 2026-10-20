@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "contact lens",
-      "english": ["contact"],
+      "english": [
+        {
+          "id": "cnk5gomt",
+          "word": "contact",
+          "meaning": "contact lens",
+          "note": "Use this specifically for a contact lens rather than ordinary spectacles."
+        }
+      ],
       "examples": [
         {
           "english": "I wear contact lenses, not glasses.",

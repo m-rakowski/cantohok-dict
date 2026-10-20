@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "surrender",
-      "english": ["surrender", "yield"],
+      "english": [
+        {
+          "id": "xdplzsih",
+          "word": "surrender",
+          "meaning": "give oneself up",
+          "note": "This is the all-purpose choice for a person, army, town, or fortification submitting to an enemy or authority."
+        },
+        {
+          "id": "vo75unhm",
+          "word": "yield",
+          "meaning": "give up, surrender",
+          "note": "Use this when someone gives in to an enemy or opposing force rather than continuing to resist."
+        }
+      ],
       "examples": [
         {
           "english": "The soldiers chose to surrender when the enemy surrounded them.",

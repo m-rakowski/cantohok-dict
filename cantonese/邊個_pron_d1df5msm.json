@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "who, which person",
-      "english": ["who", "which", "anybody", "whom", "whoever"],
+      "english": [
+        {
+          "id": "din0az4r",
+          "word": "who",
+          "meaning": "interrogative pronoun",
+          "note": "This is the all-purpose everyday choice for asking who someone is, in a direct or indirect question."
+        },
+        {
+          "id": "oovh6qvt",
+          "word": "which",
+          "meaning": "interrogative pronoun",
+          "note": "Use this as the default bare question for which person or which one."
+        },
+        {
+          "id": "vc164d57",
+          "word": "anybody",
+          "meaning": "any person; anyone",
+          "note": "Use this as the all-purpose colloquial choice for any person, especially in questions or free-choice statements."
+        },
+        {
+          "id": "xuclf66j",
+          "word": "whom",
+          "meaning": "interrogative after preposition",
+          "note": "This is the all-purpose spoken choice for an object question, including after a Cantonese preposition such as 同, 對, or 向."
+        },
+        {
+          "id": "xj0mrv0o",
+          "word": "whoever",
+          "meaning": "emphatic who",
+          "note": "Use this for an emphatic spoken question such as “Who ever thought of that?”"
+        }
+      ],
       "examples": [
         {
           "english": "Who is calling?",

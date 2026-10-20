@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "aid or reference material",
-      "english": ["resource"],
+      "english": [
+        {
+          "id": "mm20gb5b",
+          "word": "resource",
+          "meaning": "aid or reference material",
+          "note": "Use this for resources specifically intended to support teaching and learning, such as books, equipment, or online materials."
+        }
+      ],
       "examples": [
         {
           "english": "The school put a lot of teaching resource online for students to use.",

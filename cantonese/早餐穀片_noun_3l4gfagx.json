@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "breakfast cereal",
-      "english": ["cereal"],
+      "english": [
+        {
+          "id": "yvzuyent",
+          "word": "cereal",
+          "meaning": "breakfast cereal",
+          "note": "This is the all-purpose rendering for breakfast cereal in general."
+        }
+      ],
       "examples": [
         {
           "english": "I eat cereal every morning.",

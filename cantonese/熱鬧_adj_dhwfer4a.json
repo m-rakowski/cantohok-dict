@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "lively, busy and full of fun",
-      "english": ["bustling", "merry", "sociable", "alive"],
+      "english": [
+        {
+          "id": "jbdtowzt",
+          "word": "bustling",
+          "meaning": "busy and lively",
+          "note": "This is the all-purpose choice for a place that is busy, lively, and full of activity."
+        },
+        {
+          "id": "3b42yq3s",
+          "word": "merry",
+          "meaning": "festive, lively",
+          "note": "Use this for a festive, lively atmosphere with lots of activity, fun, and laughter."
+        },
+        {
+          "id": "dkusllre",
+          "word": "sociable",
+          "meaning": "conducive to conversation",
+          "note": "Use this for a lively party or gathering with plenty of conversation, rather than for a person's character."
+        },
+        {
+          "id": "erx2jfl1",
+          "word": "alive",
+          "meaning": "full of activity",
+          "note": "Use this when a place or scene is bustling with people and activity."
+        }
+      ],
       "examples": [
         {
           "english": "This market is especially bustling at night.",

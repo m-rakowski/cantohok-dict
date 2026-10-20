@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "wilderness, wild open land",
-      "english": ["wilderness", "moor", "desert"],
+      "english": [
+        {
+          "id": "jekwzlnh",
+          "word": "wilderness",
+          "meaning": "wild uncultivated land",
+          "register": "written",
+          "note": "Use this as the all-purpose noun for wild, uncultivated land."
+        },
+        {
+          "id": "3lmkzu5m",
+          "word": "moor",
+          "meaning": "heathland / moor",
+          "note": "This is the all-purpose spoken choice for a broad uncultivated landscape such as a moor."
+        },
+        {
+          "id": "aau2d7e0",
+          "word": "desert",
+          "meaning": "barren land, wasteland",
+          "note": "Use this for a desolate wilderness or wild terrain when the emphasis is on isolation rather than aridity."
+        }
+      ],
       "examples": [
         {
           "english": "This wilderness preserves its original ecological environment.",

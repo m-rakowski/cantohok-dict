@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "device",
-      "english": ["device", "mechanism"],
+      "english": [
+        {
+          "id": "hsl6uq4s",
+          "word": "device",
+          "meaning": "piece of equipment",
+          "register": "written",
+          "note": "Use 裝置 as the all-purpose technical noun for a purpose-built device or piece of hardware."
+        },
+        {
+          "id": "dcfvtrno",
+          "word": "mechanism",
+          "meaning": "machine or device",
+          "note": "Use this when the mechanism is being treated as a device or apparatus rather than focusing on its internal parts."
+        }
+      ],
       "examples": [
         {
           "english": "This device can automatically regulate the room temperature.",

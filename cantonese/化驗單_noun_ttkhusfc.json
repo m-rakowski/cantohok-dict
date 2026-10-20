@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "medical requisition form",
-      "english": ["requisition"],
+      "english": [
+        {
+          "id": "shwgrd12",
+          "word": "requisition",
+          "meaning": "medical requisition form",
+          "note": "Use this for the medical test or laboratory requisition form that a doctor gives or sends for testing."
+        }
+      ],
       "examples": [
         {
           "english": "The doctor gave me a requisition and told me to have blood drawn tomorrow morning.",

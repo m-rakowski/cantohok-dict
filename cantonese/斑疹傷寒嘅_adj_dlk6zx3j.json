@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "relating to typhus",
-      "english": ["typhoid"],
+      "english": [
+        {
+          "id": "lyhuptnn",
+          "word": "typhoid",
+          "meaning": "relating to typhus",
+          "note": "This is the all-purpose way to describe something relating to typhus."
+        }
+      ],
       "examples": [
         {
           "english": "This book explains the symptoms of typhoid clearly.",

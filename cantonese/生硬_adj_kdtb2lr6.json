@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "stiff, awkward",
-      "english": ["wooden", "angular", "clumsy"],
+      "english": [
+        {
+          "id": "zbzm702k",
+          "word": "wooden",
+          "meaning": "stiff, unnatural",
+          "note": "Use this as the all-purpose choice for unnatural or awkward movement, speech, or acting."
+        },
+        {
+          "id": "43k8cmnk",
+          "word": "angular",
+          "meaning": "ungainly, lacking grace",
+          "note": "Use this for a person, movement, manner, or style that seems awkward, stiff, or lacking smoothness."
+        },
+        {
+          "id": "eb65q5n1",
+          "word": "clumsy",
+          "meaning": "awkward or tactless",
+          "note": "Use this for a solution, design, or wording that feels awkward or inelegant rather than for a person's movements."
+        }
+      ],
       "examples": [
         {
           "english": "The way they speak sounds very wooden.",

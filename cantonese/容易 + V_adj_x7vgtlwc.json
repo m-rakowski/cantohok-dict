@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "likely to, prone to",
-      "english": ["prone", "apt"],
+      "english": [
+        {
+          "id": "q63eecvw",
+          "word": "prone",
+          "meaning": "inclined / liable to",
+          "note": "This is the all-purpose choice for being liable or predisposed to an unwanted result, as in prone to failure."
+        },
+        {
+          "id": "kzyi2q82",
+          "word": "apt",
+          "meaning": "likely; prone to",
+          "note": "Use this pattern when someone or something is liable or prone to do what follows the verb."
+        }
+      ],
       "examples": [
         {
           "english": "This old phone is prone to breaking down.",

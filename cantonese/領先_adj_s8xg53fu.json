@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "ahead, leading",
-      "english": ["front", "leading"],
+      "english": [
+        {
+          "id": "v3253mr5",
+          "word": "front",
+          "meaning": "front / at the front",
+          "note": "Use 領先 when a person or team is at the front in a race, contest, or ranking."
+        },
+        {
+          "id": "qkqodvxy",
+          "word": "leading",
+          "meaning": "top-ranking, major",
+          "note": "This is the all-purpose choice for being ahead of competitors, and it is also used in the fixed term 領先指標 for a leading indicator."
+        }
+      ],
       "examples": [
         {
           "english": "Our team is at the front of the rankings right now.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "facial features",
-      "english": ["feature"],
+      "english": [
+        {
+          "id": "visdup13",
+          "word": "feature",
+          "meaning": "facial features",
+          "note": "Use this specifically for a person's facial features such as the eyes, nose, and mouth."
+        }
+      ],
       "examples": [
         {
           "english": "Their standout feature is their eyes.",

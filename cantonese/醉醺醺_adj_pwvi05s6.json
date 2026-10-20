@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "drunk, tipsy",
-      "english": ["rolling", "battered"],
+      "english": [
+        {
+          "id": "6nbq3rhc",
+          "word": "rolling",
+          "meaning": "drunk; intoxicated",
+          "note": "This is the all-purpose choice for someone drunk and staggering from alcohol."
+        },
+        {
+          "id": "tkmquhgk",
+          "word": "battered",
+          "meaning": "drunk",
+          "note": "Use this when describing someone who is visibly drunk or inebriated."
+        }
+      ],
       "examples": [
         {
           "english": "After a few beers, they were rolling drunk on the way home.",

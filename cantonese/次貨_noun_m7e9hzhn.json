@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "inferior or defective goods",
-      "english": ["lemon", "excuse"],
+      "english": [
+        {
+          "id": "jtmz04sb",
+          "word": "lemon",
+          "meaning": "faulty item",
+          "register": "colloquial",
+          "note": "Use 次貨 for a defective or inferior item, especially a vehicle, rather than for the fruit or colour."
+        },
+        {
+          "id": "i5xemcrb",
+          "word": "excuse",
+          "meaning": "poor example",
+          "register": "colloquial",
+          "note": "Use this for a tangible item that is noticeably inferior or a poor specimen of its type."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

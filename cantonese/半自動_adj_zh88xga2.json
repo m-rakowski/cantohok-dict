@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "semi-automatic pistol",
-      "english": ["automatic"],
+      "english": [
+        {
+          "id": "mvn7ypb4",
+          "word": "automatic",
+          "meaning": "semi-automatic pistol",
+          "note": "Use this specifically for a semi-automatic firearm that reloads itself but fires one shot per trigger pull."
+        }
+      ],
       "examples": [
         {
           "english": "This is a pistol with automatic reloading that fires one shot per trigger pull.",

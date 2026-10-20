@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "nauseated, feeling sick",
-      "english": ["disgusting", "sick", "ill"],
+      "english": [
+        {
+          "id": "1p2vmcra",
+          "word": "disgusting",
+          "meaning": "repulsive; causing disgust",
+          "register": "colloquial",
+          "note": "Use this when the disgusting thing is nauseating or makes you feel physically sick."
+        },
+        {
+          "id": "pn9k12u0",
+          "word": "sick",
+          "meaning": "nauseated, wanting to vomit",
+          "note": "Use this for the physical feeling of nausea or wanting to vomit."
+        },
+        {
+          "id": "y9zr5ask",
+          "word": "ill",
+          "meaning": "nauseated",
+          "note": "Use this when someone feels nauseated or has an urge to vomit rather than simply being sick."
+        }
+      ],
       "examples": [
         {
           "english": "That stinky tofu is really disgusting.",

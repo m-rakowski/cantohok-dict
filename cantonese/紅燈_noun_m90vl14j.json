@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "red traffic light",
-      "english": ["red"],
+      "english": [
+        {
+          "id": "16z73wza",
+          "word": "red",
+          "meaning": "red traffic light",
+          "note": "Use this specifically for a red traffic signal."
+        }
+      ],
       "examples": [
         {
           "english": "When you see a red light, you have to stop.",

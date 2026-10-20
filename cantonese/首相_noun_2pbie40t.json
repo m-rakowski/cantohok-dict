@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "prime minister",
-      "english": ["premier", "prime minister"],
+      "english": [
+        {
+          "id": "3lpyz6td",
+          "word": "premier",
+          "meaning": "prime minister",
+          "note": "Use this as the all-purpose rendering for a country's prime minister."
+        },
+        {
+          "id": "ith71tq0",
+          "word": "prime minister",
+          "meaning": "head of government",
+          "note": "Use 首相 as the usual title for a prime minister, especially in references to Japan, the UK, and similar countries."
+        }
+      ],
       "examples": [
         {
           "english": "The British premier visited Hong Kong today.",

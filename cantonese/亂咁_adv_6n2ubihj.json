@@ -6,7 +6,34 @@
   "boxes": [
     {
       "meaning": "randomly, recklessly",
-      "english": ["wildly", "haphazardly", "chaotically", "blindly"],
+      "english": [
+        {
+          "id": "rykq71ph",
+          "word": "wildly",
+          "meaning": "in an uncontrolled way",
+          "note": "This is the all-purpose colloquial choice for doing something in a disorderly or uncontrolled way."
+        },
+        {
+          "id": "p29lhfk5",
+          "word": "haphazardly",
+          "meaning": "randomly; chaotically",
+          "register": "colloquial",
+          "note": "This is the all-purpose colloquial choice for doing something randomly or chaotically."
+        },
+        {
+          "id": "t4qm49au",
+          "word": "chaotically",
+          "meaning": "in a chaotic way",
+          "register": "colloquial",
+          "note": "Use this when the chaotic manner especially suggests acting randomly, carelessly, or without a plan."
+        },
+        {
+          "id": "m7mez21k",
+          "word": "blindly",
+          "meaning": "without question",
+          "note": "Use this when someone acts randomly or recklessly without considering the consequences."
+        }
+      ],
       "examples": [
         {
           "english": "They wildly make things up, so nobody knows which part is true.",

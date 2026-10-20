@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "narrow",
-      "english": ["narrow", "tight"],
+      "english": [
+        {
+          "id": "x3xl2fh7",
+          "word": "narrow",
+          "meaning": "small width",
+          "note": "This is the all-purpose choice for something having little physical width, such as a hallway or road."
+        },
+        {
+          "id": "iob6j2t0",
+          "word": "tight",
+          "meaning": "narrow; hard to pass through",
+          "note": "Use 窄 specifically for a passage or space that is narrow and difficult to pass through."
+        }
+      ],
       "examples": [
         {
           "english": "This hallway is narrow.",

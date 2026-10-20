@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "die-hard supporter",
-      "english": ["partisan", "fanatic"],
+      "english": [
+        {
+          "id": "iol14m8d",
+          "word": "partisan",
+          "meaning": "strong supporter",
+          "register": "colloquial",
+          "note": "Use this colloquial term specifically for a fervent, intensely loyal supporter."
+        },
+        {
+          "id": "kofj120m",
+          "word": "fanatic",
+          "meaning": "fanatic person",
+          "register": "colloquial",
+          "note": "Use this for a die-hard, unwavering supporter, especially of a team, artist, or political side."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

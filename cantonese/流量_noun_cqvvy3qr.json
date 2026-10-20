@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "flow rate",
-      "english": ["flow"],
+      "english": [
+        {
+          "id": "libeztf2",
+          "word": "flow",
+          "meaning": "flow rate",
+          "note": "Use this for the amount or rate of fluid moving through a pipe, valve, or other system."
+        }
+      ],
       "examples": [
         {
           "english": "The water flow through this pipe is too low.",

@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "to turn into, become",
-      "english": ["become", "convert", "evolve", "transform", "go"],
+      "english": [
+        {
+          "id": "boddyh06",
+          "word": "become",
+          "meaning": "turn into; become",
+          "note": "This is the all-purpose choice when someone or something turns into a different state, type, or identity."
+        },
+        {
+          "id": "g085lv3l",
+          "word": "convert",
+          "meaning": "change into another form",
+          "note": "Use this as the all-purpose choice when something ends up in another form, state, or use, including a deliberate change of purpose."
+        },
+        {
+          "id": "fhkgcleo",
+          "word": "evolve",
+          "meaning": "change into, become",
+          "note": "This is the all-purpose choice for something changing into a new form or state, including an agent turning A into B."
+        },
+        {
+          "id": "z1zfaibg",
+          "word": "transform",
+          "meaning": "change form greatly",
+          "note": "Use this when emphasizing what the thing becomes, especially in patterns like 將 A 變成 B."
+        },
+        {
+          "id": "umnlv368",
+          "word": "go",
+          "meaning": "become; turn into",
+          "note": "Use this when something changes into a new condition, form, colour, or state."
+        }
+      ],
       "examples": [
         {
           "english": "After graduating, they become a very experienced chef.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "affected, putting it on",
-      "english": ["histrionic", "artificial"],
+      "english": [
+        {
+          "id": "1eyh0v54",
+          "word": "histrionic",
+          "meaning": "overly dramatic",
+          "note": "Use this when the dramatic behavior seems affected, artificial, or deliberately attention-seeking."
+        },
+        {
+          "id": "1an5lk9r",
+          "word": "artificial",
+          "meaning": "fake, insincere",
+          "note": "Use this specifically for behavior or manner that seems deliberately affected or forced, rather than merely insincere."
+        }
+      ],
       "examples": [
         {
           "english": "You don't have to be so histrionic; it was only a fall, not the end of the world.",

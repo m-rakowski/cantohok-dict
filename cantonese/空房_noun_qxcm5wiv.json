@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "free hotel room",
-      "english": ["vacancy"],
+      "english": [
+        {
+          "id": "8nsytec4",
+          "word": "vacancy",
+          "meaning": "free hotel room",
+          "note": "Use this for a hotel or guest-house room that is available for guests."
+        }
+      ],
       "examples": [
         {
           "english": "The hotel still has a vacancy, so we can check in right away.",

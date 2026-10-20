@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "repeat",
-      "english": ["echo", "repeat"],
+      "english": [
+        {
+          "id": "xh3yd67f",
+          "word": "echo",
+          "meaning": "repeat someone's words",
+          "note": "This is the all-purpose choice for repeating someone's words or stated view."
+        },
+        {
+          "id": "oqktw5pj",
+          "word": "repeat",
+          "meaning": "say or do again",
+          "register": "formal",
+          "note": "Use this when explicitly repeating an action or restating someone's words, particularly in careful or formal speech."
+        }
+      ],
       "examples": [
         {
           "english": "I completely echo what you said.",

@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "blend together",
-      "english": ["blend", "fuse"],
+      "english": [
+        {
+          "id": "zglchvvc",
+          "word": "blend",
+          "meaning": "mix or merge",
+          "register": "formal",
+          "note": "Use this when separate qualities, feelings, or elements merge into a unified whole."
+        },
+        {
+          "id": "zs0ipipy",
+          "word": "fuse",
+          "meaning": "merge; blend together",
+          "note": "Use 融合 for things blending into one another, including nuclear fusion in technical contexts."
+        }
+      ],
       "examples": [
         {
           "english": "The blend of Chinese and Western cultures makes this city more vibrant.",

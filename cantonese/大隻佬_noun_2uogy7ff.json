@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "big, burly man",
-      "english": ["gorilla", "horse"],
+      "english": [
+        {
+          "id": "po8dqx1x",
+          "word": "gorilla",
+          "meaning": "brutish man, thug",
+          "note": "Use this for a physically big, brutish man rather than for a specifically hired thug."
+        },
+        {
+          "id": "67erf4to",
+          "word": "horse",
+          "meaning": "big strong person",
+          "register": "colloquial",
+          "note": "Use this colloquial label for a big, sturdy man rather than for a literal horse."
+        }
+      ],
       "examples": [
         {
           "english": "That gorilla by the door always looks surly.",

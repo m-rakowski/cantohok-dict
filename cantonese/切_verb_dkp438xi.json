@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "cut, slice",
-      "english": ["cut", "carve"],
+      "english": [
+        {
+          "id": "e1ybo250",
+          "word": "cut",
+          "meaning": "divide with a sharp tool",
+          "note": "This is the all-purpose choice for incising, dividing something with a sharp tool, or shaping it by cutting; gem-cutting may be phrased more technically."
+        },
+        {
+          "id": "nrxqdro3",
+          "word": "carve",
+          "meaning": "cut meat",
+          "note": "切 is the all-purpose everyday verb for cutting meat into serving pieces."
+        }
+      ],
       "examples": [
         {
           "english": "I cut the apple open with a knife.",

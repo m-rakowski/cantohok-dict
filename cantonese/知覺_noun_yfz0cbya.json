@@ -6,7 +6,15 @@
   "boxes": [
     {
       "meaning": "sensory perception",
-      "english": ["perception"],
+      "english": [
+        {
+          "id": "kcs097ln",
+          "word": "perception",
+          "meaning": "sensing and interpretation",
+          "register": "formal",
+          "note": "Use this for the technical or psychological sense of sensory perception and its interpretation."
+        }
+      ],
       "register": "formal",
       "examples": [
         {
@@ -18,7 +26,14 @@
     },
     {
       "meaning": "consciousness",
-      "english": ["consciousness"],
+      "english": [
+        {
+          "id": "mmlxltde",
+          "word": "consciousness",
+          "meaning": "conscious state",
+          "note": "Use this for the sensory and cognitive faculty, especially in expressions such as 失去知覺 meaning lose consciousness."
+        }
+      ],
       "examples": [
         {
           "english": "They lost consciousness immediately after hitting their head.",

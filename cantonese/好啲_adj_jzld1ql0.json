@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "better",
-      "english": ["better", "preferable"],
+      "english": [
+        {
+          "id": "yh1hsifk",
+          "word": "better",
+          "meaning": "better than; at least",
+          "note": "This is the all-purpose choice when something is more advantageous, preferable, or better in comparison."
+        },
+        {
+          "id": "ll67x2dy",
+          "word": "preferable",
+          "meaning": "more desirable / preferred",
+          "note": "This is the all-purpose casual way to say that one option is preferable or better."
+        }
+      ],
       "examples": [
         {
           "english": "This method is better.",

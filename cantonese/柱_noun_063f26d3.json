@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "post, pillar",
-      "english": ["post", "column", "support"],
+      "english": [
+        {
+          "id": "askm7amm",
+          "word": "post",
+          "meaning": "upright pole",
+          "note": "This is the all-purpose noun for an upright pole fixed in the ground."
+        },
+        {
+          "id": "mfs8kp4i",
+          "word": "column",
+          "meaning": "supporting pillar",
+          "note": "Use 柱 for a solid upright pillar supporting a roof, beam, or other structure."
+        },
+        {
+          "id": "mj8ax05t",
+          "word": "support",
+          "meaning": "supporting thing, support",
+          "note": "Use this for a physical supporting post or pillar, rather than for help or evidence."
+        }
+      ],
       "examples": [
         {
           "english": "That post isn't planted deep enough and keeps wobbling.",

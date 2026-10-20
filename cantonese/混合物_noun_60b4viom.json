@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "mixture",
-      "english": ["mix", "blend", "mixture", "cocktail"],
+      "english": [
+        {
+          "id": "vgruokrg",
+          "word": "mix",
+          "meaning": "mixture",
+          "note": "This is the all-purpose noun for the resulting mixture of substances."
+        },
+        {
+          "id": "fiuh3sh0",
+          "word": "blend",
+          "meaning": "mixture of things",
+          "note": "Use this when the blend is a physical substance or collection of things mixed together."
+        },
+        {
+          "id": "liz1f8xx",
+          "word": "mixture",
+          "meaning": "mixed substance",
+          "note": "Use this for a substance produced by combining two or more ingredients or materials."
+        },
+        {
+          "id": "x7da464x",
+          "word": "cocktail",
+          "meaning": "mixture, blend",
+          "note": "Use 混合物 for a mixture or blend of substances or other things, rather than for a drink."
+        }
+      ],
       "examples": [
         {
           "english": "This drink is a mix of milk and chocolate.",

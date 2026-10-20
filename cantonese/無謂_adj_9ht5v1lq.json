@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "pointless, not worth it",
-      "english": ["pointless", "vain", "idle"],
+      "english": [
+        {
+          "id": "nukdly4x",
+          "word": "pointless",
+          "meaning": "without purpose",
+          "note": "Use this as the all-purpose choice for a remark or action that is unnecessary, meaningless, or unable to achieve its purpose."
+        },
+        {
+          "id": "y83hdx54",
+          "word": "vain",
+          "meaning": "futile, pointless",
+          "note": "Use this for a pointless or futile action, attempt, or effort."
+        },
+        {
+          "id": "3vn6vxqe",
+          "word": "idle",
+          "meaning": "unimportant; pointless",
+          "note": "Use this when the idle thing is pointless, trivial, or not worth taking seriously."
+        }
+      ],
       "examples": [
         {
           "english": "It’s pointless to keep talking; nobody is going to change their mind.",

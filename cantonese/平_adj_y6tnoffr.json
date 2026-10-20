@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "flat, level",
-      "english": ["level", "even", "flat"],
+      "english": [
+        {
+          "id": "8w5uvhr1",
+          "word": "level",
+          "meaning": "flat, even",
+          "note": "Use 平 for a flat or even surface; it is the all-purpose choice for this sense."
+        },
+        {
+          "id": "fquxut33",
+          "word": "even",
+          "meaning": "flat and level",
+          "note": "This is the all-purpose choice for a surface or object being flat and level."
+        },
+        {
+          "id": "55xpr135",
+          "word": "flat",
+          "meaning": "level ground",
+          "note": "This is the all-purpose choice for level ground and a smooth, even surface."
+        }
+      ],
       "examples": [
         {
           "english": "The table is level, so a glass of water won't move.",

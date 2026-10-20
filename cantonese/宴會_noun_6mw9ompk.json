@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "banquet",
-      "english": ["feast", "dinner"],
+      "english": [
+        {
+          "id": "d3tgwbcn",
+          "word": "feast",
+          "meaning": "large celebratory meal",
+          "note": "Use this for a large meal as a ceremonial or banquet-style occasion, focusing on the hosted event."
+        },
+        {
+          "id": "d43vnn0d",
+          "word": "dinner",
+          "meaning": "formal special meal",
+          "note": "Use this for a formal banquet held for a special occasion and attended by many people."
+        }
+      ],
       "examples": [
         {
           "english": "They held a big feast at the hotel.",

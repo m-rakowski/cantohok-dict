@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "defeat, beat",
-      "english": ["defeat", "humble", "beat", "conquer"],
+      "english": [
+        {
+          "id": "6qbyo4gn",
+          "word": "defeat",
+          "meaning": "beat in battle/contest",
+          "note": "This is the all-purpose choice for beating an opponent in a battle, game, or contest."
+        },
+        {
+          "id": "tjqz2rk2",
+          "word": "humble",
+          "meaning": "defeat, put down",
+          "note": "Use this as the all-purpose choice when ‘humble’ means to defeat or bring someone down."
+        },
+        {
+          "id": "myg73ptc",
+          "word": "beat",
+          "meaning": "defeat, beat",
+          "note": "Use this for defeating or overcoming an opponent in a competition or contest."
+        },
+        {
+          "id": "ro0jpgad",
+          "word": "conquer",
+          "meaning": "defeat in combat",
+          "note": "Use this all-purpose colloquial verb for defeating an opponent, especially in a fight or contest."
+        }
+      ],
       "examples": [
         {
           "english": "We managed to defeat our opponents in the final.",

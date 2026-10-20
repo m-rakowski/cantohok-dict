@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "peace and quiet",
-      "english": ["repose", "peace"],
+      "english": [
+        {
+          "id": "u8fo32ve",
+          "word": "repose",
+          "meaning": "peace; calm; relief",
+          "register": "formal",
+          "note": "Use this for a peaceful, undisturbed state free from worries, rather than physical rest or sleep."
+        },
+        {
+          "id": "9g8fs835",
+          "word": "peace",
+          "meaning": "tranquility, quiet, harmony",
+          "register": "written",
+          "note": "Use this written term for peace in the sense of quiet and tranquility, rather than peace between countries."
+        }
+      ],
       "examples": [
         {
           "english": "After the war, citizens could finally enjoy repose.",

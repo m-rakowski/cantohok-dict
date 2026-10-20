@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "out of control",
-      "english": ["uncontrollable", "unmanageable"],
+      "english": [
+        {
+          "id": "52eiz2jp",
+          "word": "uncontrollable",
+          "meaning": "not able to be controlled",
+          "note": "Use this when a situation, emotion, crowd, or action has gone out of control rather than simply being difficult to control."
+        },
+        {
+          "id": "ejhlprmn",
+          "word": "unmanageable",
+          "meaning": "hard to control",
+          "note": "Use this when the situation has already escaped control, rather than merely being difficult to handle."
+        }
+      ],
       "examples": [
         {
           "english": "The situation at the scene became uncontrollable for a while.",

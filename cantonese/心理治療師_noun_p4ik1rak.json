@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "psychotherapist",
-      "english": ["therapist"],
+      "english": [
+        {
+          "id": "y25ggu8x",
+          "word": "therapist",
+          "meaning": "psychotherapist",
+          "note": "Use this specifically for someone who provides psychotherapy rather than physical or rehabilitation therapy."
+        }
+      ],
       "examples": [
         {
           "english": "I have not been sleeping well lately, so I made an appointment with a therapist to talk.",

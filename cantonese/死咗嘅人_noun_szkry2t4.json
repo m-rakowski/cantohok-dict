@@ -6,7 +6,15 @@
   "boxes": [
     {
       "meaning": "person killed",
-      "english": ["fatality"],
+      "english": [
+        {
+          "id": "ac7vtf0l",
+          "word": "fatality",
+          "meaning": "person killed",
+          "register": "colloquial",
+          "note": "Use this for the person who was killed or died, rather than for the accident itself."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

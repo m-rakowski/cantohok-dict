@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "poor",
-      "english": ["poor", "needy", "impoverished"],
+      "english": [
+        {
+          "id": "u18u2gd1",
+          "word": "poor",
+          "meaning": "without money",
+          "note": "Use this for having little or no money or possessions."
+        },
+        {
+          "id": "jtetfqzs",
+          "word": "needy",
+          "meaning": "poor; in need",
+          "note": "This is the all-purpose choice for someone who is poor or lacks basic material means."
+        },
+        {
+          "id": "z4y3e0eg",
+          "word": "impoverished",
+          "meaning": "reduced to poverty",
+          "note": "This is the all-purpose everyday choice for a person or community reduced to poverty."
+        }
+      ],
       "examples": [
         {
           "english": "I used to be poor and couldn't even afford food.",

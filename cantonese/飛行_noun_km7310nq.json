@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "flying, flight",
-      "english": ["flight", "fly"],
+      "english": [
+        {
+          "id": "rf4kc0v7",
+          "word": "flight",
+          "meaning": "ability to fly",
+          "note": "Use this for the act or ability of travelling through the air, especially of birds or aircraft."
+        },
+        {
+          "id": "6cd0emjm",
+          "word": "fly",
+          "meaning": "an act of flying",
+          "register": "formal",
+          "note": "Use 飛行 as a formal noun for an act or period of flying rather than the verb 飛."
+        }
+      ],
       "examples": [
         {
           "english": "The flight speed of this kind of bird is very fast.",

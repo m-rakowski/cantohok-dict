@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "loss, damage",
-      "english": ["miss", "loss", "toll", "forfeiture"],
+      "english": [
+        {
+          "id": "fqkpd98x",
+          "word": "miss",
+          "meaning": "someone missed",
+          "note": "This is the all-purpose noun for someone or something whose absence is felt, especially in a team or work context."
+        },
+        {
+          "id": "0hmz349w",
+          "word": "loss",
+          "meaning": "not having something",
+          "note": "Use 損失 as the all-purpose noun for material, financial, or functional loss."
+        },
+        {
+          "id": "at00hay6",
+          "word": "toll",
+          "meaning": "loss or damage from disaster",
+          "note": "Use this for loss or damage caused by a disaster or conflict; it is the all-purpose choice for this consequence sense."
+        },
+        {
+          "id": "ymqefmlc",
+          "word": "forfeiture",
+          "meaning": "loss of property or rights",
+          "note": "Use this for the resulting loss of property or rights rather than the confiscation action itself."
+        }
+      ],
       "examples": [
         {
           "english": "You not coming back to help is a real miss for our whole team.",

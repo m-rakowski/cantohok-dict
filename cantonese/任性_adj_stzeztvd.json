@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "wilful, doing whatever one wants",
-      "english": ["wayward", "headstrong"],
+      "english": [
+        {
+          "id": "xgk8tfdp",
+          "word": "wayward",
+          "meaning": "obstinate, contrary",
+          "note": "This is the all-purpose choice for someone or something wilful, capricious, or difficult to control."
+        },
+        {
+          "id": "9dzlokmh",
+          "word": "headstrong",
+          "meaning": "stubborn, willful",
+          "note": "Use this when the person insists on doing what they want, especially in a childish or teenage way."
+        }
+      ],
       "examples": [
         {
           "english": "That child is very wayward and refuses to eat whenever he dislikes the food.",

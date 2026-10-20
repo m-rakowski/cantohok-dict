@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "gun barrel",
-      "english": ["barrel"],
+      "english": [
+        {
+          "id": "iugmckcr",
+          "word": "barrel",
+          "meaning": "gun barrel",
+          "note": "Use this specifically for the metal tube of a gun rather than the container meaning 桶."
+        }
+      ],
       "examples": [
         {
           "english": "The barrel of this gun is bent.",

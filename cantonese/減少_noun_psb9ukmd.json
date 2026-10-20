@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "decrease, reduction",
-      "english": ["reduction", "attrition"],
+      "english": [
+        {
+          "id": "ouq9lq4l",
+          "word": "reduction",
+          "meaning": "making smaller",
+          "note": "This is the all-purpose noun for the act or result of making something smaller."
+        },
+        {
+          "id": "r6bs0sug",
+          "word": "attrition",
+          "meaning": "gradual decrease in number",
+          "note": "Use 減少 as the all-purpose term for a gradual decrease in numbers."
+        }
+      ],
       "examples": [
         {
           "english": "This method has led to a big reduction in rubbish.",

@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "amount of decrease",
-      "english": ["decrease", "reduction"],
+      "english": [
+        {
+          "id": "ubv1kf6a",
+          "word": "decrease",
+          "meaning": "a reduction",
+          "register": "formal",
+          "note": "Use this for the size of a specified or intentional reduction, especially in more formal contexts."
+        },
+        {
+          "id": "31yao81l",
+          "word": "reduction",
+          "meaning": "amount lowered",
+          "register": "written",
+          "note": "Use this for the amount or percentage by which a figure has gone down, such as a reduction in crime."
+        }
+      ],
       "examples": [
         {
           "english": "The company announced that next month's decrease would be ten percent.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "violin player",
-      "english": ["fiddler", "fiddle"],
+      "english": [
+        {
+          "id": "8erjt3g9",
+          "word": "fiddler",
+          "meaning": "violin player",
+          "note": "This is the all-purpose Cantonese noun for someone who plays the violin or fiddle."
+        },
+        {
+          "id": "25btn0oe",
+          "word": "fiddle",
+          "meaning": "violinist",
+          "note": "Use this specifically for the person who plays the violin in a band."
+        }
+      ],
       "examples": [
         {
           "english": "That band hired a fiddler to help with the performance.",

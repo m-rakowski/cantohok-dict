@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "foundation of a building",
-      "english": ["foundation", "basis"],
+      "english": [
+        {
+          "id": "chaiao86",
+          "word": "foundation",
+          "meaning": "base, supporting layer",
+          "note": "Use this for the physical supporting base of a building or structure."
+        },
+        {
+          "id": "vmy9ozkj",
+          "word": "basis",
+          "meaning": "physical foundation",
+          "note": "Use this for the physical foundation or base of a building or structure."
+        }
+      ],
       "examples": [
         {
           "english": "The building’s foundation was laid solidly, so it can withstand any amount of rain.",

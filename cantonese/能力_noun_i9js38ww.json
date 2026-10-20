@@ -6,7 +6,44 @@
   "boxes": [
     {
       "meaning": "ability, capability",
-      "english": ["ability", "capability", "competence", "faculty", "capacity", "power"],
+      "english": [
+        {
+          "id": "jt6qt8qk",
+          "word": "ability",
+          "meaning": "capacity, capability",
+          "note": "Use this as the all-purpose noun for a person's ability or general capacity."
+        },
+        {
+          "id": "p3gy78rs",
+          "word": "capability",
+          "meaning": "ability to do something",
+          "note": "This is the all-purpose noun for the power or ability to produce an outcome."
+        },
+        {
+          "id": "twhz1amh",
+          "word": "competence",
+          "meaning": "general ability/suitability",
+          "note": "This is the all-purpose noun for general ability or ability to carry out a particular task."
+        },
+        {
+          "id": "vxknv3fb",
+          "word": "faculty",
+          "meaning": "ability; mental faculties",
+          "note": "Use this as the all-purpose choice for an ability, skill, power, or mental capacity."
+        },
+        {
+          "id": "0kg5xi3q",
+          "word": "capacity",
+          "meaning": "ability to do something",
+          "note": "Use this for a person's or system's ability to perform a task."
+        },
+        {
+          "id": "qloy2s56",
+          "word": "power",
+          "meaning": "ability, capacity",
+          "note": "Use 能力 as the all-purpose noun for someone's ability or capacity to do something."
+        }
+      ],
       "examples": [
         {
           "english": "I have the ability to finish this work.",

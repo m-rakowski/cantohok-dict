@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "driver",
-      "english": ["motorist"],
+      "english": [
+        {
+          "id": "p2i2gls3",
+          "word": "motorist",
+          "meaning": "driver",
+          "note": "This is the all-purpose casual way to refer to someone who is driving a motor vehicle, without implying driving is their job."
+        }
+      ],
       "examples": [
         {
           "english": "A motorist shouldn't look at their phone while driving.",

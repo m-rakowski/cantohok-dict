@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "even if A, still B",
-      "english": ["notwithstanding", "despite"],
+      "english": [
+        {
+          "id": "q908j4x8",
+          "word": "notwithstanding",
+          "meaning": "in spite of; despite",
+          "note": "This is the all-purpose spoken construction for saying that B remains true despite A."
+        },
+        {
+          "id": "7j0f7ivx",
+          "word": "despite",
+          "meaning": "in spite of",
+          "register": "colloquial",
+          "note": "Use this when the concession has an even-if or stronger hypothetical flavour rather than simply stating an existing fact."
+        }
+      ],
       "examples": [
         {
           "english": "I will go jogging notwithstanding the heavy rain.",

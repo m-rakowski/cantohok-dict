@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "air raid",
-      "english": ["blitz", "strike"],
+      "english": [
+        {
+          "id": "zcabvvtq",
+          "word": "blitz",
+          "meaning": "air raid attack",
+          "note": "Use this specifically for an air raid, especially when referring to the historical Blitz."
+        },
+        {
+          "id": "7hfqk6zf",
+          "word": "strike",
+          "meaning": "attack; air strike",
+          "note": "Use 空襲 specifically for an air strike, rather than the general noun 攻擊."
+        }
+      ],
       "examples": [
         {
           "english": "During the Second World War, London was often hit by the Blitz.",

@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "before, in the past",
-      "english": ["before", "previously", "formerly", "once", "back"],
+      "english": [
+        {
+          "id": "ptca6tnz",
+          "word": "before",
+          "meaning": "previously",
+          "note": "This is the all-purpose choice for saying that something happened at an earlier time, including in “I've never done this before.”"
+        },
+        {
+          "id": "blu60dqg",
+          "word": "previously",
+          "meaning": "earlier time, before",
+          "note": "Use 以前 as the all-purpose choice for something happening at an earlier time."
+        },
+        {
+          "id": "1c3gtj52",
+          "word": "formerly",
+          "meaning": "in the past",
+          "note": "This is the all-purpose spoken choice for something that was true at some time in the past."
+        },
+        {
+          "id": "mrazfj05",
+          "word": "once",
+          "meaning": "formerly, in the past",
+          "note": "Use this for a former period or an earlier state, especially when contrasting it with the present."
+        },
+        {
+          "id": "v60tzkr9",
+          "word": "back",
+          "meaning": "back in time",
+          "note": "Use 以前 when back refers to an earlier time or a time ago."
+        }
+      ],
       "examples": [
         {
           "english": "I’ve never done this before.",

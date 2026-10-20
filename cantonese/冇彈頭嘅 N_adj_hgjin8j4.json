@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "blank ammunition",
-      "english": ["blank"],
+      "english": [
+        {
+          "id": "38lb2x7m",
+          "word": "blank",
+          "meaning": "blank ammunition",
+          "note": "Use this construction before an ammunition noun when the ammunition has propellant but no bullet or projectile."
+        }
+      ],
       "examples": [
         {
           "english": "The blank bullets used for the drill are not lethal.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "conventional in code",
-      "english": ["idiomatic"],
+      "english": [
+        {
+          "id": "00r0n7ms",
+          "word": "idiomatic",
+          "meaning": "conventional in code",
+          "note": "Use this for code or another technical practice that follows the language's usual conventions."
+        }
+      ],
       "examples": [
         {
           "english": "This code is idiomatic, so everyone can understand it at a glance.",

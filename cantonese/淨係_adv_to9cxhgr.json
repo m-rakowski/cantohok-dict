@@ -6,7 +6,58 @@
   "boxes": [
     {
       "meaning": "only, just",
-      "english": ["just", "only", "simply", "merely", "exclusively", "entirely", "strictly", "alone"],
+      "english": [
+        {
+          "id": "g7wmynqg",
+          "word": "just",
+          "meaning": "only; merely",
+          "note": "Use 淨係 as the all-purpose choice for “only” or “merely,” including a deliberately low-key “just.”"
+        },
+        {
+          "id": "le8gbh8q",
+          "word": "only",
+          "meaning": "exclusively; no others",
+          "note": "This is the all-purpose spoken choice for excluding others or limiting the amount to a stated number."
+        },
+        {
+          "id": "qjunvnq6",
+          "word": "simply",
+          "meaning": "merely, only",
+          "register": "colloquial",
+          "note": "Use this for “simply” meaning only or merely, including when it means alone or without anything added."
+        },
+        {
+          "id": "a6s7onf6",
+          "word": "merely",
+          "meaning": "only; just",
+          "note": "This is the all-purpose colloquial choice for saying that something is only or just the case."
+        },
+        {
+          "id": "mvh1g50i",
+          "word": "exclusively",
+          "meaning": "only; solely",
+          "note": "This is the all-purpose colloquial choice for saying that only one thing, person, or material is involved."
+        },
+        {
+          "id": "9hctpqhu",
+          "word": "entirely",
+          "meaning": "solely; exclusively",
+          "register": "colloquial",
+          "note": "Use this when entirely means only or solely, excluding everyone or everything else."
+        },
+        {
+          "id": "48afw4q7",
+          "word": "strictly",
+          "meaning": "only; just",
+          "note": "Use this for the limited-scope meaning ‘only’ or ‘just’, rather than for following rules strictly."
+        },
+        {
+          "id": "cyknlr6s",
+          "word": "alone",
+          "meaning": "only; exclusively",
+          "note": "Use 淨係 for ordinary “only” or “exclusively,” including when highlighting a selected subset such as blazers alone."
+        }
+      ],
       "examples": [
         {
           "english": "I just want a glass of water.",

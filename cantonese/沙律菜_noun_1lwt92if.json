@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "salad greens",
-      "english": ["salad"],
+      "english": [
+        {
+          "id": "pff9priw",
+          "word": "salad",
+          "meaning": "salad greens",
+          "note": "Use this when “salad” refers specifically to salad greens or raw salad vegetables as an ingredient rather than to the prepared dish."
+        }
+      ],
       "examples": [
         {
           "english": "I bought some salad greens; I’ll make a salad tonight.",

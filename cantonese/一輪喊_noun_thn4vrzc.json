@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "a bout of crying",
-      "english": ["weep", "cry"],
+      "english": [
+        {
+          "id": "ynfyb9bk",
+          "word": "weep",
+          "meaning": "a crying spell",
+          "note": "This is the all-purpose noun phrase for a session or spell of crying."
+        },
+        {
+          "id": "34o7c3t5",
+          "word": "cry",
+          "meaning": "a cry; crying",
+          "register": "colloquial",
+          "note": "Use this for a bout of crying, especially when describing someone having a good cry."
+        }
+      ],
       "examples": [
         {
           "english": "They had a weep after listening to that recording.",

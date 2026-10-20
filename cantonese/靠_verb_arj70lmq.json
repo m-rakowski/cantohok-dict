@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "rely on, depend on",
-      "english": ["rely", "depend", "rest"],
+      "english": [
+        {
+          "id": "2f4omxlb",
+          "word": "rely",
+          "meaning": "depend on; trust",
+          "note": "This is the all-purpose choice when depending on a person, resource, or system to provide support or make something possible."
+        },
+        {
+          "id": "tvljehg1",
+          "word": "depend",
+          "meaning": "rely on; trust",
+          "note": "Use this as the all-purpose everyday verb for relying on a person, source, or thing."
+        },
+        {
+          "id": "n9zt02l7",
+          "word": "rest",
+          "meaning": "rely on, depend on",
+          "register": "colloquial",
+          "note": "Use this when someone or something is relied on or a result depends on it."
+        }
+      ],
       "examples": [
         {
           "english": "This machine crashes all the time, so you can't rely on it for work.",

@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "result of effort",
-      "english": ["attainment", "fruition", "outcome", "fruit"],
+      "english": [
+        {
+          "id": "3yjd2yg4",
+          "word": "attainment",
+          "meaning": "achievement, result obtained",
+          "note": "Use 成果 for the concrete result produced by effort."
+        },
+        {
+          "id": "q3kmimvo",
+          "word": "fruition",
+          "meaning": "fulfillment; realization",
+          "note": "Use this as the all-purpose noun for results achieved through sustained work."
+        },
+        {
+          "id": "6ch9gm1f",
+          "word": "outcome",
+          "meaning": "result; consequence",
+          "note": "Use this for a positive result or achievement produced by work or an effort."
+        },
+        {
+          "id": "asgbi2fj",
+          "word": "fruit",
+          "meaning": "result of effort",
+          "note": "Use 成果 for the favourable achievement or payoff produced by effort."
+        }
+      ],
       "examples": [
         {
           "english": "This is the project's attainment.",

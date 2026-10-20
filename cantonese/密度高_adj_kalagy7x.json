@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "high density",
-      "english": ["dense"],
+      "english": [
+        {
+          "id": "85v9skdp",
+          "word": "dense",
+          "meaning": "high density",
+          "note": "Use this for explicitly high physical or measured density, rather than visual crowding."
+        }
+      ],
       "examples": [
         {
           "english": "This metal is dense, so it feels very heavy in the hand.",

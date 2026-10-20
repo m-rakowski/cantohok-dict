@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "economy class",
-      "english": ["economy", "coach"],
+      "english": [
+        {
+          "id": "vpjk2coz",
+          "word": "economy",
+          "meaning": "economy class",
+          "note": "Use this specifically for the lower-fare passenger section of a plane or train."
+        },
+        {
+          "id": "iri4bja0",
+          "word": "coach",
+          "meaning": "economy class",
+          "note": "Use this for economy class on an airplane."
+        }
+      ],
       "examples": [
         {
           "english": "I'm flying economy to Tokyo this time.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "city",
-      "english": ["city", "town"],
+      "english": [
+        {
+          "id": "bn8akmlz",
+          "word": "city",
+          "meaning": "large settlement",
+          "note": "This is the all-purpose noun for a city or large settlement."
+        },
+        {
+          "id": "xq3p8jmp",
+          "word": "town",
+          "meaning": "the city / this town",
+          "note": "Use 城市 for a major city, especially the city where the speaker is located, rather than for an ordinary small town."
+        }
+      ],
       "examples": [
         {
           "english": "I live in the city, so getting to work is much more convenient.",

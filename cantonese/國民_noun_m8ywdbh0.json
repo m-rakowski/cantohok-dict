@@ -6,7 +6,29 @@
   "boxes": [
     {
       "meaning": "citizen of a country",
-      "english": ["citizen", "people", "nation"],
+      "english": [
+        {
+          "id": "zbxdvm1a",
+          "word": "citizen",
+          "meaning": "legal member of a state",
+          "register": "formal",
+          "note": "Use this when emphasizing a person's membership or status as a national of a particular country."
+        },
+        {
+          "id": "yrslgmid",
+          "word": "people",
+          "meaning": "ethnic/national group",
+          "register": "formal",
+          "note": "Use this for people considered as citizens or nationals of a country, rather than for an ethnic group."
+        },
+        {
+          "id": "isjkijhj",
+          "word": "nation",
+          "meaning": "people group",
+          "register": "formal",
+          "note": "Use this when the nation is viewed as its citizens or nationals, rather than as an ethnic-cultural group; it does not mean the state itself."
+        }
+      ],
       "register": "formal",
       "examples": [
         {

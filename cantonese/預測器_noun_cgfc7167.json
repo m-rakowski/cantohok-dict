@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "thing that predicts",
-      "english": ["predictor"],
+      "english": [
+        {
+          "id": "xdlmv3fb",
+          "word": "predictor",
+          "meaning": "thing that predicts",
+          "note": "Use this for a device, system, or software component that generates predictions rather than for a predictive factor."
+        }
+      ],
       "examples": [
         {
           "english": "The weather predictor keeps making wrong predictions, so I did not bring an umbrella.",

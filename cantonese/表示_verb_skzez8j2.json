@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "to mean, to indicate",
-      "english": ["denote", "indicate"],
+      "english": [
+        {
+          "id": "gtzil0n6",
+          "word": "denote",
+          "meaning": "mean; signify",
+          "note": "This is the neutral all-purpose choice for something indicating or conveying a meaning."
+        },
+        {
+          "id": "u39l2vos",
+          "word": "indicate",
+          "meaning": "show; point out",
+          "note": "Use this when a sound, sign, gesture, or event signals or conveys a meaning rather than physically pointing something out."
+        }
+      ],
       "examples": [
         {
           "english": "This symbol can denote that someone is here.",
@@ -22,7 +35,20 @@
     },
     {
       "meaning": "to state or express an attitude",
-      "english": ["signify", "express"],
+      "english": [
+        {
+          "id": "p17p02v4",
+          "word": "signify",
+          "meaning": "indicate; announce",
+          "note": "Use this when someone deliberately indicates or announces an intention, attitude, or decision."
+        },
+        {
+          "id": "m7dk5zoe",
+          "word": "express",
+          "meaning": "say / communicate clearly",
+          "note": "Use this especially for expressing an attitude, position, intention, or reaction."
+        }
+      ],
       "examples": [
         {
           "english": "They raised their hand to signify opposition.",

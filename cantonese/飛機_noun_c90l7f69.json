@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "airplane",
-      "english": ["plane", "aircraft"],
+      "english": [
+        {
+          "id": "83nosv6t",
+          "word": "plane",
+          "meaning": "airplane",
+          "note": "This is the all-purpose Cantonese noun for an airplane."
+        },
+        {
+          "id": "dduj56wr",
+          "word": "aircraft",
+          "meaning": "flying vehicle",
+          "note": "This is the all-purpose everyday choice for an aircraft, especially an ordinary plane or helicopter."
+        }
+      ],
       "examples": [
         {
           "english": "We’re taking a plane to Taipei.",

@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "practice, exercise",
-      "english": ["practice", "exercise", "drill"],
+      "english": [
+        {
+          "id": "qhgiypwh",
+          "word": "practice",
+          "meaning": "skill practice",
+          "note": "This is the all-purpose choice for repeated skill work or an organized practice session."
+        },
+        {
+          "id": "yqq3uhy8",
+          "word": "exercise",
+          "meaning": "skill practice",
+          "note": "Use 練習 for a task or activity designed to develop a skill, such as a writing exercise."
+        },
+        {
+          "id": "k9lqclys",
+          "word": "drill",
+          "meaning": "practice exercise",
+          "note": "Use this for a general practice exercise rather than a formal simulated operation."
+        }
+      ],
       "examples": [
         {
           "english": "We have basketball practice tonight.",

@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "raise, improve",
-      "english": ["enhance", "enrich", "improve", "upgrade"],
+      "english": [
+        {
+          "id": "3d3y275h",
+          "word": "enhance",
+          "meaning": "make greater / improve",
+          "note": "Use this as the all-purpose choice when enhancing a level, quality, status, image, or performance."
+        },
+        {
+          "id": "kpesecax",
+          "word": "enrich",
+          "meaning": "make better; enhance",
+          "note": "Use 提升 when the emphasis is on raising a level, standard, quality, or value rather than improving it generally."
+        },
+        {
+          "id": "qyrtjfzk",
+          "word": "improve",
+          "meaning": "make better",
+          "note": "Use this when deliberately raising a level such as quality, value, efficiency, or productivity."
+        },
+        {
+          "id": "5pmtlvzw",
+          "word": "upgrade",
+          "meaning": "upgrade service or class",
+          "note": "Use this when the emphasis is on improving quality, performance, or living standards rather than replacing the item with a newer version."
+        }
+      ],
       "examples": [
         {
           "english": "This new feature can enhance the phone’s user experience.",

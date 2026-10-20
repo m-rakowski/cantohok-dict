@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "not sure, don't know well",
-      "english": ["unknown"],
+      "english": [
+        {
+          "id": "493enwt9",
+          "word": "unknown",
+          "meaning": "not known, unidentified",
+          "note": "This is the all-purpose choice when information or a fact is not known or clear."
+        }
+      ],
       "examples": [
         {
           "english": "This matter is still unknown to me.",
@@ -17,7 +24,26 @@
     },
     {
       "meaning": "unclear, not clearly written or explained",
-      "english": ["unclear", "obscure", "confusing"],
+      "english": [
+        {
+          "id": "xcfgggah",
+          "word": "unclear",
+          "meaning": "not clearly defined",
+          "note": "This is the all-purpose choice when information, meaning, or a definition is not clear."
+        },
+        {
+          "id": "ibnmac33",
+          "word": "obscure",
+          "meaning": "dark; faint",
+          "note": "Use this all-purpose expression when something is visually indistinct or its facts and status are unclear, rather than when it is specifically hard to understand."
+        },
+        {
+          "id": "whf3pv2u",
+          "word": "confusing",
+          "meaning": "hard to understand",
+          "note": "Use this when information, an explanation, or a distinction is unclear rather than simply difficult."
+        }
+      ],
       "examples": [
         {
           "english": "This form is unclear.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "aircraft crew",
-      "english": ["aircrew"],
+      "english": [
+        {
+          "id": "p3rkv333",
+          "word": "aircrew",
+          "meaning": "aircraft crew",
+          "note": "This is the all-purpose term for the trained team operating an aircraft."
+        }
+      ],
       "examples": [
         {
           "english": "The aircrew are ready to take off.",

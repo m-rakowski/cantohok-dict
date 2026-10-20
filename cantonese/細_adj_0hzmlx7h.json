@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "small, little",
-      "english": ["small", "little"],
+      "english": [
+        {
+          "id": "3k4cz7kb",
+          "word": "small",
+          "meaning": "not large",
+          "note": "This is the all-purpose choice for physical size and for describing someone as young, as in 細個；it does not mean a small quantity."
+        },
+        {
+          "id": "1ftjb227",
+          "word": "little",
+          "meaning": "small / not large",
+          "note": "This is the all-purpose choice for something physically small or for a young child, as in 細路仔."
+        }
+      ],
       "examples": [
         {
           "english": "Their daughter is still small.",

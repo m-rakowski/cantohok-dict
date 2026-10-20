@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "apparently, I heard that",
-      "english": ["supposedly", "apparently"],
+      "english": [
+        {
+          "id": "8oiyol0p",
+          "word": "supposedly",
+          "meaning": "according to claims",
+          "note": "This is the all-purpose colloquial choice for reporting something heard or claimed by other people."
+        },
+        {
+          "id": "d7lrgu6e",
+          "word": "apparently",
+          "meaning": "based on what was heard/read",
+          "register": "colloquial",
+          "note": "Use this when the information comes from something the speaker has heard or learned from reports, rather than from direct appearance or deduction."
+        }
+      ],
       "examples": [
         {
           "english": "They’re supposedly coming back to Hong Kong tomorrow.",

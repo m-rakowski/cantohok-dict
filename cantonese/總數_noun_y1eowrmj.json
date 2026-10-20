@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "total number or amount",
-      "english": ["sum", "count", "total", "complement"],
+      "english": [
+        {
+          "id": "r5xm4ur8",
+          "word": "sum",
+          "meaning": "total amount",
+          "note": "Use this as the all-purpose noun for a total obtained by adding or aggregating amounts."
+        },
+        {
+          "id": "if1xw3f0",
+          "word": "count",
+          "meaning": "tally; total",
+          "note": "Use 總數 when emphasizing the combined total of all the items."
+        },
+        {
+          "id": "mgx65ig6",
+          "word": "total",
+          "meaning": "sum; amount",
+          "note": "This is the all-purpose noun for the sum obtained by adding smaller amounts."
+        },
+        {
+          "id": "0rsf0wt4",
+          "word": "complement",
+          "meaning": "full amount; complement",
+          "note": "Use this as the all-purpose noun for the total number or full amount that makes up a complement."
+        }
+      ],
       "examples": [
         {
           "english": "The sum of these items comes to three hundred dollars.",

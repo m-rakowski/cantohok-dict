@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "fire service / fire brigade",
-      "english": ["fire brigade"],
+      "english": [
+        {
+          "id": "b39trmcu",
+          "word": "fire brigade",
+          "meaning": "fire service / fire brigade",
+          "note": "Use this specifically for Hong Kong's government Fire Services Department rather than a generic fire brigade."
+        }
+      ],
       "examples": [
         {
           "english": "In Hong Kong, the fire brigade, known as the Fire Services Department, reminds residents not to block escape routes.",

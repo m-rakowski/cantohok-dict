@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "TV audience rating",
-      "english": ["rating"],
+      "english": [
+        {
+          "id": "htr9shpf",
+          "word": "rating",
+          "meaning": "TV audience rating",
+          "note": "Use this specifically for the audience rating of a television programme."
+        }
+      ],
       "examples": [
         {
           "english": "This programme’s rating is higher than last year’s.",

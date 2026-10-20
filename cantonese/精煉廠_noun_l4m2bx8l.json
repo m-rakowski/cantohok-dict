@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "plant for refining",
-      "english": ["refinery"],
+      "english": [
+        {
+          "id": "sfb6kuwu",
+          "word": "refinery",
+          "meaning": "plant for refining",
+          "note": "Use this as the all-purpose term for a plant refining metals, sugar, or other materials rather than specifically oil."
+        }
+      ],
       "examples": [
         {
           "english": "That refinery specializes in turning ore into metal.",

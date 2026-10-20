@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "shut or bolt a door",
-      "english": ["close", "bolt"],
+      "english": [
+        {
+          "id": "13get715",
+          "word": "close",
+          "meaning": "shut a door/opening",
+          "register": "colloquial",
+          "note": "Use this colloquial choice specifically for physically shutting a door, window, gate, or similar opening."
+        },
+        {
+          "id": "puekl7yq",
+          "word": "bolt",
+          "meaning": "lock with a bolt",
+          "note": "Use this specifically when securing a door or gate with its bolt."
+        }
+      ],
       "examples": [
         {
           "english": "Remember to close the door firmly when you go out.",

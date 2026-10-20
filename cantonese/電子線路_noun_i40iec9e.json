@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "electronic circuitry",
-      "english": ["electronics"],
+      "english": [
+        {
+          "id": "go31jf9w",
+          "word": "electronics",
+          "meaning": "electronic circuitry",
+          "note": "Use this specifically for the electronic circuitry inside a device or system."
+        }
+      ],
       "examples": [
         {
           "english": "The electronics in this device are broken, so it won't turn on.",

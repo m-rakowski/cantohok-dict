@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "support, assistance",
-      "english": ["assistance", "reinforcement", "help"],
+      "english": [
+        {
+          "id": "54x6oev6",
+          "word": "assistance",
+          "meaning": "help; aid",
+          "note": "Use this for technical, organizational, or continuing support rather than a one-off favour."
+        },
+        {
+          "id": "cb1rywxv",
+          "word": "reinforcement",
+          "meaning": "supporting thing",
+          "note": "Use this for a supporting resource or source of help, such as a website that supports learning, rather than for the act of strengthening itself."
+        },
+        {
+          "id": "8q459leq",
+          "word": "help",
+          "meaning": "help, assistance needed",
+          "note": "Use this for organised psychological, social, medical, or remedial support rather than ordinary practical help."
+        }
+      ],
       "examples": [
         {
           "english": "This software needs technical assistance.",

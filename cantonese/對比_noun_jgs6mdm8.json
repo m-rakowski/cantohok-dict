@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "contrast, comparison",
-      "english": ["contrast", "antithesis", "comparison"],
+      "english": [
+        {
+          "id": "4ust82nu",
+          "word": "contrast",
+          "meaning": "difference between things",
+          "note": "This is the all-purpose noun for a difference or contrast between things, people, or ideas."
+        },
+        {
+          "id": "gpvowoh6",
+          "word": "antithesis",
+          "meaning": "rhetorical contrast",
+          "note": "Use this for the rhetorical contrast between two ideas, rather than for one opposite proposition."
+        },
+        {
+          "id": "xk5088l0",
+          "word": "comparison",
+          "meaning": "a comparison of things",
+          "note": "Use this when the comparison emphasizes the contrast between two things."
+        }
+      ],
       "examples": [
         {
           "english": "The contrast between these two designs is quite clear.",

@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "meeting, conference",
-      "english": ["conference", "conferencing", "convention", "session"],
+      "english": [
+        {
+          "id": "a0c6oz5n",
+          "word": "conference",
+          "meaning": "conference / meeting",
+          "note": "This is the all-purpose noun for a formal conference or organized meeting."
+        },
+        {
+          "id": "v3h9hkkg",
+          "word": "conferencing",
+          "meaning": "formal group discussion",
+          "note": "This is the all-purpose noun for a formal discussion involving multiple participants."
+        },
+        {
+          "id": "qth8h76b",
+          "word": "convention",
+          "meaning": "meeting, gathering",
+          "note": "Choose this when the convention is being understood specifically as a meeting for discussion or deliberation rather than as a large event."
+        },
+        {
+          "id": "azwn55hb",
+          "word": "session",
+          "meaning": "court or council sitting",
+          "note": "Use 會議 for an individual official meeting of a council or other body, rather than its overall term."
+        }
+      ],
       "examples": [
         {
           "english": "Several industry experts are speakers at this conference.",

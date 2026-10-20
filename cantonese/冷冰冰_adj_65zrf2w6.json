@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "cold and unfriendly in manner",
-      "english": ["icy", "frosty"],
+      "english": [
+        {
+          "id": "vbr25zqh",
+          "word": "icy",
+          "meaning": "cold in manner",
+          "note": "Use this instead of 凍冰冰 when describing a person's emotionally cold, unfriendly, or detached manner."
+        },
+        {
+          "id": "upvseel0",
+          "word": "frosty",
+          "meaning": "cold and unfriendly",
+          "note": "Use this for a person's cold, unfriendly manner rather than for physical temperature."
+        }
+      ],
       "examples": [
         {
           "english": "They are always icy with customers, making people afraid to talk to them.",

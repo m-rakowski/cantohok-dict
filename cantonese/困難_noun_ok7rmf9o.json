@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "difficulty, hardship",
-      "english": ["difficulty", "hardship", "adversity", "trouble"],
+      "english": [
+        {
+          "id": "2p7j8mh0",
+          "word": "difficulty",
+          "meaning": "being hard to do",
+          "note": "Use this as the all-purpose noun for a difficult situation or an obstacle."
+        },
+        {
+          "id": "wim3as8a",
+          "word": "hardship",
+          "meaning": "difficulty, hard times",
+          "note": "This is the all-purpose choice for difficulty, trouble, or financial hardship."
+        },
+        {
+          "id": "c0etj2pk",
+          "word": "adversity",
+          "meaning": "misfortune; hardship",
+          "note": "This is the all-purpose choice for general hardships and difficult circumstances."
+        },
+        {
+          "id": "lefjco2e",
+          "word": "trouble",
+          "meaning": "difficulty doing something",
+          "note": "Use this specifically for difficulty in carrying out an action or task."
+        }
+      ],
       "examples": [
         {
           "english": "This plan still faces a lot of difficulty.",

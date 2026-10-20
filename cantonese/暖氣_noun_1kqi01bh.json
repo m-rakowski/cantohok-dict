@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "heating",
-      "english": ["heating", "heat"],
+      "english": [
+        {
+          "id": "f496awn1",
+          "word": "heating",
+          "meaning": "building heating system",
+          "note": "This is the all-purpose choice for a building's heating system."
+        },
+        {
+          "id": "8x4mvrof",
+          "word": "heat",
+          "meaning": "heating system",
+          "note": "Use this when the heat is being discussed as a building's heating system or as heat from that system."
+        }
+      ],
       "examples": [
         {
           "english": "The hotel room has heating in winter, so we don't need to turn on the air-conditioning.",

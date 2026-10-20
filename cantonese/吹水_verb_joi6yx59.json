@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "to boast, exaggerate",
-      "english": ["boast", "exaggerate"],
+      "english": [
+        {
+          "id": "tbgkpaof",
+          "word": "boast",
+          "meaning": "brag",
+          "note": "This is the all-purpose colloquial choice when someone boasts through exaggerated or boastful talk."
+        },
+        {
+          "id": "l8guie67",
+          "word": "exaggerate",
+          "meaning": "overstate, make bigger",
+          "register": "colloquial",
+          "note": "Use this when the exaggeration is boastful, unreliable, or presented as empty talk."
+        }
+      ],
       "examples": [
         {
           "english": "They boast all the time that they know everyone in the world.",
@@ -22,7 +36,15 @@
     },
     {
       "meaning": "to chat idly",
-      "english": ["gossip"],
+      "english": [
+        {
+          "id": "ldw9m4w4",
+          "word": "gossip",
+          "meaning": "talk idly",
+          "register": "colloquial",
+          "note": "Use this for casual idle chatting or talking nonsense rather than specifically discussing someone’s private affairs."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

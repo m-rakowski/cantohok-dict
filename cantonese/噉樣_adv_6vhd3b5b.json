@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "in this way, like this",
-      "english": ["thus", "so"],
+      "english": [
+        {
+          "id": "194qudwm",
+          "word": "thus",
+          "meaning": "in this way",
+          "note": "This is the all-purpose choice for describing doing something in this way or manner."
+        },
+        {
+          "id": "i85khqrt",
+          "word": "so",
+          "meaning": "so, likewise; in the same way",
+          "note": "Use this for doing or being something in the same way as what was just mentioned."
+        }
+      ],
       "examples": [
         {
           "english": "If you do it thus, it’ll be right.",

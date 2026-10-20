@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "mind, brains",
-      "english": ["wit", "head"],
+      "english": [
+        {
+          "id": "ty6smega",
+          "word": "wit",
+          "meaning": "common sense",
+          "note": "This is the all-purpose everyday choice for mental ability, alertness, and practical common sense; in the alertness sense it commonly appears in 頭腦清醒."
+        },
+        {
+          "id": "su3lcxwh",
+          "word": "head",
+          "meaning": "good at something",
+          "note": "Use 頭腦 for someone's intelligence or mental capacity, and for the mind or thoughts in expressions such as 有商業頭腦."
+        }
+      ],
       "examples": [
         {
           "english": "Your wit is so sharp today that you thought of a solution so quickly.",

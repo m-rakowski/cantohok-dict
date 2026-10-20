@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "chess bishop",
-      "english": ["bishop"],
+      "english": [
+        {
+          "id": "fmynbiar",
+          "word": "bishop",
+          "meaning": "chess bishop",
+          "note": "Use this alternative chess term when the 相 naming convention is being used."
+        }
+      ],
       "examples": [
         {
           "english": "Your bishop is too far forward and can easily be captured.",

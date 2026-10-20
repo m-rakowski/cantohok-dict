@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "hidden meaning, moral",
-      "english": ["allegory", "moral"],
+      "english": [
+        {
+          "id": "dtnafyhv",
+          "word": "allegory",
+          "meaning": "symbolic meaning",
+          "note": "Use 寓意 as the all-purpose choice for the hidden moral, political, or broader message conveyed by symbols."
+        },
+        {
+          "id": "6uxx2rfx",
+          "word": "moral",
+          "meaning": "lesson, takeaway",
+          "note": "Use this for a story's intended or symbolic ethical meaning rather than the practical lesson learned."
+        }
+      ],
       "examples": [
         {
           "english": "The allegory of this film is to remind people not to blindly chase fame and profit.",

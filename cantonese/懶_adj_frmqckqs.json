@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "lazy",
-      "english": ["lazy", "indolent"],
+      "english": [
+        {
+          "id": "07gnnizd",
+          "word": "lazy",
+          "meaning": "unwilling to work",
+          "note": "This is the all-purpose choice for someone unwilling to work or make an effort."
+        },
+        {
+          "id": "6uxi5qmj",
+          "word": "indolent",
+          "meaning": "lazy, idle",
+          "note": "This is the all-purpose colloquial choice for someone who is lazy or avoids doing work."
+        }
+      ],
       "examples": [
         {
           "english": "I’m really lazy today; I don’t even want to go downstairs to buy anything.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "object pronoun",
-      "english": ["you"],
+      "english": [
+        {
+          "id": "kl345x02",
+          "word": "you",
+          "meaning": "object pronoun",
+          "note": "Use this instead of 你 when addressing two or more people, whether they are the subject or object."
+        }
+      ],
       "examples": [
         {
           "english": "You come in and have a seat.",

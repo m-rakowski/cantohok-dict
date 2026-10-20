@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "strange person",
-      "english": ["eccentric", "oddity"],
+      "english": [
+        {
+          "id": "x4rizczc",
+          "word": "eccentric",
+          "meaning": "eccentric person",
+          "note": "This is the all-purpose choice for an eccentric or unusual person, without necessarily being strongly insulting."
+        },
+        {
+          "id": "qkogb3xq",
+          "word": "oddity",
+          "meaning": "odd person",
+          "note": "Use this specifically for a strange or eccentric person."
+        }
+      ],
       "examples": [
         {
           "english": "They often go to the beach alone to paint, and everyone calls them an eccentric.",

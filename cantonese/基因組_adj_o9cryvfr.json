@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "relating to a genome",
-      "english": ["genomic"],
+      "english": [
+        {
+          "id": "oe92zy8s",
+          "word": "genomic",
+          "meaning": "relating to a genome",
+          "note": "Use this compact noun modifier inside technical compounds such as genomic data, rather than as a standalone predicate."
+        }
+      ],
       "examples": [
         {
           "english": "The genomic data hasn’t been organized yet.",

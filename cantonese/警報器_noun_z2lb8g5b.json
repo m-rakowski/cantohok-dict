@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "alarm device",
-      "english": ["alarm"],
+      "english": [
+        {
+          "id": "berw1h85",
+          "word": "alarm",
+          "meaning": "alarm device",
+          "note": "Use this for a physical device that detects danger and gives a warning, such as a fire alarm."
+        }
+      ],
       "examples": [
         {
           "english": "The alarm went off at home, so get out quickly!",

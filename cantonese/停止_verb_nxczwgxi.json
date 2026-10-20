@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "to stop, cease",
-      "english": ["cease", "cut"],
+      "english": [
+        {
+          "id": "pif42m4y",
+          "word": "cease",
+          "meaning": "stop doing something",
+          "register": "formal",
+          "note": "Use this formal option in writing, announcements, or explicit descriptions of an action or process stopping."
+        },
+        {
+          "id": "fhu4l24q",
+          "word": "cut",
+          "meaning": "stop or cease",
+          "note": "Use this for stopping or ceasing an activity, process, or action."
+        }
+      ],
       "examples": [
         {
           "english": "The organizers announced that ticket distribution would cease.",

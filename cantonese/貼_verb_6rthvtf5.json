@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "to stick up, post",
-      "english": ["post", "fix"],
+      "english": [
+        {
+          "id": "i7avkqzx",
+          "word": "post",
+          "meaning": "publish online",
+          "note": "This is the everyday all-purpose verb for putting up a notice or posting content online: it can mean physically attaching a notice, or posting a message or image online."
+        },
+        {
+          "id": "mnhwvm66",
+          "word": "fix",
+          "meaning": "attach; fasten",
+          "note": "Use this for physically attaching or affixing something to a surface, especially with glue or adhesive."
+        }
+      ],
       "examples": [
         {
           "english": "Remember to post the notice at the entrance.",

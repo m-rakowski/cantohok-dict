@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "lampshade, lamp cover",
-      "english": ["globe", "shade", "chimney"],
+      "english": [
+        {
+          "id": "14lwxspb",
+          "word": "globe",
+          "meaning": "lamp globe; cover",
+          "note": "Use this for the covering or shade around a lamp, especially when referring to its glass or protective globe."
+        },
+        {
+          "id": "c4op0vli",
+          "word": "shade",
+          "meaning": "lampshade",
+          "note": "Use this specifically for the cover around or above a light bulb."
+        },
+        {
+          "id": "8vij892p",
+          "word": "chimney",
+          "meaning": "lamp chimney",
+          "note": "Use this specifically for the glass chimney surrounding the flame of an oil lamp, rather than for a building chimney."
+        }
+      ],
       "examples": [
         {
           "english": "This globe is cracked, so let's replace it with a new one.",

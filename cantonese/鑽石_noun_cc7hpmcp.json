@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "diamond",
-      "english": ["diamond", "stone"],
+      "english": [
+        {
+          "id": "3foj8zej",
+          "word": "diamond",
+          "meaning": "diamond gemstone",
+          "note": "This is the all-purpose everyday noun for a diamond gemstone."
+        },
+        {
+          "id": "bc60j6u1",
+          "word": "stone",
+          "meaning": "gemstone",
+          "note": "Use this when the stone is a diamond."
+        }
+      ],
       "examples": [
         {
           "english": "This diamond is really sparkly.",

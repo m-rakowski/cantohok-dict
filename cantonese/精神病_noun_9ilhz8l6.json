@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "mental illness",
-      "english": ["madness", "disturbance"],
+      "english": [
+        {
+          "id": "n727lg6h",
+          "word": "madness",
+          "meaning": "mental illness",
+          "note": "This is the all-purpose choice when “madness” means mental illness or insanity."
+        },
+        {
+          "id": "yedfwfvc",
+          "word": "disturbance",
+          "meaning": "mental disorder",
+          "note": "Use this for a serious mental illness or disorder."
+        }
+      ],
       "examples": [
         {
           "english": "They have madness and need to be hospitalized.",

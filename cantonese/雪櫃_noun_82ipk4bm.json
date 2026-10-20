@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "fridge",
-      "english": ["fridge", "refrigerator"],
+      "english": [
+        {
+          "id": "skuqe7pa",
+          "word": "fridge",
+          "meaning": "refrigerator",
+          "note": "This is the all-purpose Cantonese noun for a refrigerator or fridge."
+        },
+        {
+          "id": "rtck8ebw",
+          "word": "refrigerator",
+          "meaning": "fridge; food-cooling appliance",
+          "note": "This is the all-purpose Cantonese word for a refrigerator or fridge."
+        }
+      ],
       "examples": [
         {
           "english": "I put the vegetables in the fridge.",

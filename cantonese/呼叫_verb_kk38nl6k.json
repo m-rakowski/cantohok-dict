@@ -6,7 +6,15 @@
   "boxes": [
     {
       "meaning": "call a program",
-      "english": ["invoke"],
+      "english": [
+        {
+          "id": "c4de0zhe",
+          "word": "invoke",
+          "meaning": "call a program",
+          "register": "technical",
+          "note": "Use this in computing when causing a program, function, or subroutine to run."
+        }
+      ],
       "register": "technical",
       "examples": [
         {

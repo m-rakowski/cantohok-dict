@@ -6,7 +6,40 @@
   "boxes": [
     {
       "meaning": "get better after illness or injury",
-      "english": ["recover", "recuperate", "heal", "mend", "improve"],
+      "english": [
+        {
+          "id": "8uu0t6vc",
+          "word": "recover",
+          "meaning": "get better, recover from illness",
+          "note": "This is the everyday all-purpose choice when a person gets better after illness or injury."
+        },
+        {
+          "id": "0of3cd6g",
+          "word": "recuperate",
+          "meaning": "recover from illness/exhaustion",
+          "note": "This is the all-purpose everyday choice for getting better from illness or exhaustion."
+        },
+        {
+          "id": "mspk3q8e",
+          "word": "heal",
+          "meaning": "get better; recover",
+          "note": "Use this when a person, injury, or illness gets better again on its own or after treatment."
+        },
+        {
+          "id": "3y8ja1v9",
+          "word": "mend",
+          "meaning": "recover from illness",
+          "register": "colloquial",
+          "note": "Use this everyday expression when an illness, injury, or person gets better again."
+        },
+        {
+          "id": "rjc8zx9k",
+          "word": "improve",
+          "meaning": "become better",
+          "register": "colloquial",
+          "note": "Use this when a person’s health or physical condition improves or returns to normal."
+        }
+      ],
       "examples": [
         {
           "english": "His leg has started to recover.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "weather/day with lots of sunshine",
-      "english": ["sunny"],
+      "english": [
+        {
+          "id": "5m0ktxf0",
+          "word": "sunny",
+          "meaning": "weather/day with lots of sunshine",
+          "note": "This is the everyday choice for clear, sunny weather or a sunny day."
+        }
+      ],
       "examples": [
         {
           "english": "It's sunny today, let's go for a walk in the countryside.",

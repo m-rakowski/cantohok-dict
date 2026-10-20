@@ -6,7 +6,34 @@
   "boxes": [
     {
       "meaning": "unstable",
-      "english": ["fluid", "turbulent", "temperamental", "uncertain"],
+      "english": [
+        {
+          "id": "ua8gxtrn",
+          "word": "fluid",
+          "meaning": "changeable, unstable",
+          "note": "This is the all-purpose choice for a situation, arrangement, or state that is still changing or not settled."
+        },
+        {
+          "id": "ttzf9ym6",
+          "word": "turbulent",
+          "meaning": "unsettled, troubled",
+          "register": "colloquial",
+          "note": "Use this for an everyday situation or period that is unsettled or unstable without stressing major social upheaval."
+        },
+        {
+          "id": "479h01dp",
+          "word": "temperamental",
+          "meaning": "unreliable machine/software",
+          "register": "colloquial",
+          "note": "Use this for a machine or piece of software that is generally unstable or erratic."
+        },
+        {
+          "id": "sn71t8f3",
+          "word": "uncertain",
+          "meaning": "variable, subject to change",
+          "note": "Use this for a situation or condition that is variable and liable to change."
+        }
+      ],
       "examples": [
         {
           "english": "The market situation is still fluid, and the plan may change at any time.",

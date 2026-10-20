@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "low-key, not attracting attention",
-      "english": ["unobtrusive", "humble", "quiet"],
+      "english": [
+        {
+          "id": "amg1j2v1",
+          "word": "unobtrusive",
+          "meaning": "discreet, inconspicuous",
+          "note": "Use this for a person, style, or action that deliberately keeps a low profile rather than attracting attention."
+        },
+        {
+          "id": "4o4x5u7s",
+          "word": "humble",
+          "meaning": "unassuming, modest",
+          "note": "Use this when the person or their lifestyle deliberately avoids attracting attention, rather than specifically stressing modesty or lack of pride."
+        },
+        {
+          "id": "3bej68yn",
+          "word": "quiet",
+          "meaning": "plain; not showy",
+          "note": "Use this for clothes, behavior, or presentation that is deliberately understated rather than showy."
+        }
+      ],
       "examples": [
         {
           "english": "They are very unobtrusive and never try to steal the limelight.",

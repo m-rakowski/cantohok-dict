@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "fixed, set, regular",
-      "english": ["fixed", "invariable", "certain"],
+      "english": [
+        {
+          "id": "y2apdhx5",
+          "word": "fixed",
+          "meaning": "unchanging; set",
+          "note": "This is the all-purpose choice for something secured in place or set and not expected to change."
+        },
+        {
+          "id": "8vfraaqk",
+          "word": "invariable",
+          "meaning": "unchanging; constant",
+          "note": "Use this for a fixed value, rate, arrangement, or regular quantity rather than for general immutability."
+        },
+        {
+          "id": "bbqwffrr",
+          "word": "certain",
+          "meaning": "regular, at set times",
+          "note": "Use this for something fixed or recurring at set times, such as intervals or schedules."
+        }
+      ],
       "examples": [
         {
           "english": "This table is fixed to the wall.",

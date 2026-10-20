@@ -6,7 +6,28 @@
   "boxes": [
     {
       "meaning": "upright, vertical",
-      "english": ["upright", "vertical", "erect"],
+      "english": [
+        {
+          "id": "i8fsu3kt",
+          "word": "upright",
+          "meaning": "vertical, erect",
+          "note": "Use 直立 as the all-purpose physical term for something vertical or erect."
+        },
+        {
+          "id": "d13isw2n",
+          "word": "vertical",
+          "meaning": "upright; perpendicular",
+          "register": "formal",
+          "note": "Use this for something standing upright rather than emphasizing its geometric angle, especially in more formal or technical contexts."
+        },
+        {
+          "id": "7ns3ihfi",
+          "word": "erect",
+          "meaning": "upright; vertical",
+          "register": "written",
+          "note": "Use 直立 for a person or object that is upright or vertical, rather than for sexual arousal."
+        }
+      ],
       "examples": [
         {
           "english": "The tree remained upright after the heavy rain.",

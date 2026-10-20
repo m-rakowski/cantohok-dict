@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "pass, cross over",
-      "english": ["pass", "cross"],
+      "english": [
+        {
+          "id": "5w142p0v",
+          "word": "pass",
+          "meaning": "go past",
+          "note": "Use 過 as the all-purpose verb for moving past or across a place and for a period, feeling, or situation coming to an end."
+        },
+        {
+          "id": "gcr2om1k",
+          "word": "cross",
+          "meaning": "go across",
+          "note": "This is the all-purpose choice for going from one side of something to the other."
+        }
+      ],
       "examples": [
         {
           "english": "We pass over the bridge before going to eat.",
@@ -22,7 +35,14 @@
     },
     {
       "meaning": "celebrate a festival",
-      "english": ["observe"],
+      "english": [
+        {
+          "id": "6c11vusm",
+          "word": "observe",
+          "meaning": "observe a holiday",
+          "note": "Use this before the name of a festival or holiday when saying that people celebrate or observe it."
+        }
+      ],
       "examples": [
         {
           "english": "We observe the Mid-Autumn Festival every year.",

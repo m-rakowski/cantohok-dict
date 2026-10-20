@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "full of feeling, expressive",
-      "english": ["emotional", "lyrical", "expressive"],
+      "english": [
+        {
+          "id": "am75a2c0",
+          "word": "emotional",
+          "meaning": "full of emotion",
+          "note": "Use this as the all-purpose neutral choice for a person or thing showing a lot of feeling."
+        },
+        {
+          "id": "b08cintl",
+          "word": "lyrical",
+          "meaning": "expressive of feeling",
+          "note": "Use this as the everyday choice when something is expressive of emotion or feeling."
+        },
+        {
+          "id": "1sqree96",
+          "word": "expressive",
+          "meaning": "expressing emotion/attitude",
+          "note": "Use this for speech, wording, or delivery that audibly conveys emotion or attitude rather than just literal information."
+        }
+      ],
       "examples": [
         {
           "english": "This movie is really emotional.",
@@ -27,7 +46,14 @@
     },
     {
       "meaning": "emotionally close to someone",
-      "english": ["devoted"],
+      "english": [
+        {
+          "id": "mtfjimg4",
+          "word": "devoted",
+          "meaning": "very fond, attached",
+          "note": "Use this when devoted means having a strong emotional bond with a person or thing, especially family members."
+        }
+      ],
       "examples": [
         {
           "english": "They have always been deeply devoted to their grandmother.",

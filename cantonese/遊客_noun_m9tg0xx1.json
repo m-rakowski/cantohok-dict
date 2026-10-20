@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "tourist",
-      "english": ["tourist", "visitor"],
+      "english": [
+        {
+          "id": "11mczy70",
+          "word": "tourist",
+          "meaning": "leisure visitor",
+          "note": "This is the all-purpose noun for someone travelling for pleasure."
+        },
+        {
+          "id": "4f1876wa",
+          "word": "visitor",
+          "meaning": "person visiting a place",
+          "note": "Use this for a sightseer or tourist visiting a place, especially as part of a trip."
+        }
+      ],
       "examples": [
         {
           "english": "This tourist came to Hong Kong to take photos.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "biological sex",
-      "english": ["gender"],
+      "english": [
+        {
+          "id": "xdqj137k",
+          "word": "gender",
+          "meaning": "biological sex",
+          "note": "Use this when you need to specify biological or anatomical sex in contrast with social gender."
+        }
+      ],
       "examples": [
         {
           "english": "This study records biological gender separately.",

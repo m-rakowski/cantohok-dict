@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "forbid an aircraft to fly",
-      "english": ["ground"],
+      "english": [
+        {
+          "id": "t4h172gt",
+          "word": "ground",
+          "meaning": "forbid an aircraft to fly",
+          "note": "Use this when bad weather or another problem suspends an aircraft or flights."
+        }
+      ],
       "examples": [
         {
           "english": "The airline will ground all flights because the storm is too strong.",

@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "prank",
-      "english": ["mischief", "humbug", "lark"],
+      "english": [
+        {
+          "id": "gocpdytd",
+          "word": "mischief",
+          "meaning": "playful annoying behaviour",
+          "note": "This is the all-purpose noun for playful behaviour intended to annoy or cause minor trouble, especially a prank."
+        },
+        {
+          "id": "a52l2r0p",
+          "word": "humbug",
+          "meaning": "hoax, prank",
+          "note": "Use this for a prank or practical joke rather than a financial scam."
+        },
+        {
+          "id": "nrldqusi",
+          "word": "lark",
+          "meaning": "prank",
+          "note": "Use 惡作劇 when the lark is specifically a prank or practical joke."
+        }
+      ],
       "examples": [
         {
           "english": "Those kids are always up to mischief, keeping everyone in the house awake.",

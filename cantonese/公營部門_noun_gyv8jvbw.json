@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "economic sector",
-      "english": ["sector"],
+      "english": [
+        {
+          "id": "j3tieyiz",
+          "word": "sector",
+          "meaning": "economic sector",
+          "note": "Use this specifically for the public sector rather than an industry in general."
+        }
+      ],
       "examples": [
         {
           "english": "Pay in the public sector is not necessarily higher than in the private sector.",

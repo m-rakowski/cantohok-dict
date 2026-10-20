@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "person owned by another",
-      "english": ["slave"],
+      "english": [
+        {
+          "id": "e378c9zc",
+          "word": "slave",
+          "meaning": "person owned by another",
+          "note": "This is the all-purpose choice for a person treated as property or forced to work, including the general sense of sex slave."
+        }
+      ],
       "examples": [
         {
           "english": "That slave had no freedom and was ordered around by his master every day.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "secret",
-      "english": ["secret", "mystery"],
+      "english": [
+        {
+          "id": "mxl94e3v",
+          "word": "secret",
+          "meaning": "hidden knowledge",
+          "note": "This is the all-purpose noun for hidden knowledge that someone intends to keep hidden."
+        },
+        {
+          "id": "2iftf2w8",
+          "word": "mystery",
+          "meaning": "something secret or unexplainable",
+          "note": "Use this when a mystery is a secret or concealed information, not for something that is simply baffling."
+        }
+      ],
       "examples": [
         {
           "english": "You can't tell anyone this secret.",

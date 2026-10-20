@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "deal with, handle",
-      "english": ["address", "deal", "manage", "attend"],
+      "english": [
+        {
+          "id": "a9fzgy93",
+          "word": "address",
+          "meaning": "deal with a problem",
+          "note": "Use this when taking action to deal with or resolve a problem or obstacle."
+        },
+        {
+          "id": "afaq59ur",
+          "word": "deal",
+          "meaning": "deal with; manage",
+          "note": "This is the all-purpose choice for handling, managing, or coping with a person, task, or problem."
+        },
+        {
+          "id": "r5c6jh8b",
+          "word": "manage",
+          "meaning": "handle a situation",
+          "note": "Use this as the all-purpose verb for handling or dealing with a situation, problem, or job."
+        },
+        {
+          "id": "dkpntvlw",
+          "word": "attend",
+          "meaning": "deal with, handle",
+          "note": "Use this when attend means to deal with, manage, or handle a problem, task, or concern."
+        }
+      ],
       "examples": [
         {
           "english": "We need to address this problem immediately.",
@@ -32,7 +57,14 @@
     },
     {
       "meaning": "process data",
-      "english": ["process"],
+      "english": [
+        {
+          "id": "lswx7mmn",
+          "word": "process",
+          "meaning": "process data",
+          "note": "Use 處理 as the all-purpose verb for handling data, signals, or other technical information."
+        }
+      ],
       "examples": [
         {
           "english": "This computer can process a large amount of data.",
@@ -43,7 +75,14 @@
     },
     {
       "meaning": "treat a material",
-      "english": ["treat"],
+      "english": [
+        {
+          "id": "1iuxbhzw",
+          "word": "treat",
+          "meaning": "treat chemically",
+          "note": "Use this for applying a chemical or other process to a material for a particular result."
+        }
+      ],
       "examples": [
         {
           "english": "We need to treat this piece of cloth so it can be waterproof.",

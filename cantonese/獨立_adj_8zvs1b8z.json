@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "independent, able to manage on your own",
-      "english": ["independent", "autonomous"],
+      "english": [
+        {
+          "id": "ld73qpls",
+          "word": "independent",
+          "meaning": "not dependent; free",
+          "note": "Use this as the all-purpose adjective for being independent, including an independent candidate."
+        },
+        {
+          "id": "ouwfyvuh",
+          "word": "autonomous",
+          "meaning": "independent, self-directed",
+          "note": "This is the all-purpose choice for a person, especially a child, who can act without relying on or being controlled by others."
+        }
+      ],
       "examples": [
         {
           "english": "They want to be independent.",
@@ -22,7 +35,14 @@
     },
     {
       "meaning": "separate, standalone",
-      "english": ["separate"],
+      "english": [
+        {
+          "id": "ubxc5su9",
+          "word": "separate",
+          "meaning": "separate, detached",
+          "note": "Use this when separate emphasizes being a standalone or independently functioning unit, rather than merely being apart."
+        }
+      ],
       "examples": [
         {
           "english": "This flat has a separate kitchen, so you don’t have to share one.",

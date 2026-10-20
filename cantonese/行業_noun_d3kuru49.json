@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "industry, line of work",
-      "english": ["industry", "sector", "profession", "craft", "business"],
+      "english": [
+        {
+          "id": "wwqsynb6",
+          "word": "industry",
+          "meaning": "an industry, sector",
+          "note": "This is the all-purpose Cantonese noun for a business sector or trade."
+        },
+        {
+          "id": "flxd6aim",
+          "word": "sector",
+          "meaning": "economic sector",
+          "note": "This is the all-purpose choice for a field of economic activity."
+        },
+        {
+          "id": "pnjxrm5q",
+          "word": "profession",
+          "meaning": "occupation; job",
+          "note": "Use this for the trade, line of work, or professional field rather than one person's particular job."
+        },
+        {
+          "id": "mpuboem4",
+          "word": "craft",
+          "meaning": "trade; occupation",
+          "note": "Use this for a skilled trade, occupation, or line of business, as in a carpenter's trade."
+        },
+        {
+          "id": "kibaks0e",
+          "word": "business",
+          "meaning": "job or trade",
+          "note": "Use this for someone's line of work or an industry, rather than for one particular business venture."
+        }
+      ],
       "examples": [
         {
           "english": "Competition in this industry has been fierce in recent years.",

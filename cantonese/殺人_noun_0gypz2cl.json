@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "killing, murder",
-      "english": ["murder", "killing"],
+      "english": [
+        {
+          "id": "btvfnasm",
+          "word": "murder",
+          "meaning": "unlawful killing",
+          "note": "Use 殺人 as the all-purpose spoken expression for an unlawful killing when the context makes the meaning clear."
+        },
+        {
+          "id": "dnofp3tx",
+          "word": "killing",
+          "meaning": "act of killing",
+          "note": "This is the all-purpose choice for the act of killing in general."
+        }
+      ],
       "examples": [
         {
           "english": "This case is a murder case, and the police are still investigating.",

@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "attribute to a cause",
-      "english": ["attribute", "owe"],
+      "english": [
+        {
+          "id": "8xrgd9wf",
+          "word": "attribute",
+          "meaning": "ascribe to cause",
+          "register": "written",
+          "note": "Use this as the all-purpose choice when assigning something to a neutral cause or reason."
+        },
+        {
+          "id": "849su30i",
+          "word": "owe",
+          "meaning": "owe to / be due to",
+          "register": "formal",
+          "note": "Use this for a more neutral causal attribution, including causes that are not being praised."
+        }
+      ],
       "examples": [
         {
           "english": "The study chooses to attribute the rise in unemployment to the economic slowdown.",

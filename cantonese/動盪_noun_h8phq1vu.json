@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "turmoil, unrest",
-      "english": ["upheaval", "turmoil"],
+      "english": [
+        {
+          "id": "vfzsdfs5",
+          "word": "upheaval",
+          "meaning": "disturbance, disruption",
+          "note": "Use this for sudden serious disruption or instability, especially in society, politics, or an organization."
+        },
+        {
+          "id": "1vktj3nf",
+          "word": "turmoil",
+          "meaning": "state of disorder",
+          "register": "formal",
+          "note": "Use this for prolonged social, political, or economic instability rather than immediate disorder."
+        }
+      ],
       "examples": [
         {
           "english": "The political situation is in upheaval, and everyone is worried.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "outshine, overshadow",
-      "english": ["outshine", "overshadow"],
+      "english": [
+        {
+          "id": "lerij92v",
+          "word": "outshine",
+          "meaning": "shine brighter than",
+          "note": "Use this as the all-purpose choice when one light, person, or performance visibly eclipses another."
+        },
+        {
+          "id": "4oniv8dr",
+          "word": "overshadow",
+          "meaning": "outshine, dominate",
+          "note": "This is the all-purpose choice when one thing dominates another and makes it seem less important."
+        }
+      ],
       "examples": [
         {
           "english": "The fireworks show outshine all the other acts tonight.",

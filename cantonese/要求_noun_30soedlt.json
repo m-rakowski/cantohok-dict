@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "request, what someone asks for",
-      "english": ["request", "behest"],
+      "english": [
+        {
+          "id": "ltdtedzr",
+          "word": "request",
+          "meaning": "act of requesting",
+          "note": "This is the all-purpose choice for a stated request or demand, including one made formally."
+        },
+        {
+          "id": "o92b928o",
+          "word": "behest",
+          "meaning": "command; authoritative request",
+          "note": "Use this when the behest is framed as an authoritative request rather than a direct command, especially in 應 A 嘅要求."
+        }
+      ],
       "examples": [
         {
           "english": "We will revise the contract according to the client's request.",
@@ -22,7 +35,20 @@
     },
     {
       "meaning": "requirement, standard expected",
-      "english": ["demand", "requirement"],
+      "english": [
+        {
+          "id": "6aeh6pcg",
+          "word": "demand",
+          "meaning": "forceful claim",
+          "note": "Use 要求 as the all-purpose noun for a person's forceful claim, a requirement, or an insistent request."
+        },
+        {
+          "id": "uoopvs4r",
+          "word": "requirement",
+          "meaning": "necessity; prerequisite",
+          "note": "This is the all-purpose noun for something that must be met or supplied, including a technical system requirement."
+        }
+      ],
       "examples": [
         {
           "english": "This job places a very high demand on English ability.",

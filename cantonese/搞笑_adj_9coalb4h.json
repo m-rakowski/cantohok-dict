@@ -6,7 +6,60 @@
   "boxes": [
     {
       "meaning": "funny",
-      "english": ["amusing", "humorous", "entertaining", "playful", "comic", "zany", "priceless", "merry"],
+      "english": [
+        {
+          "id": "mxygbcap",
+          "word": "amusing",
+          "meaning": "entertaining, funny",
+          "note": "This is the all-purpose colloquial choice for something funny or intentionally comic."
+        },
+        {
+          "id": "1ixisahz",
+          "word": "humorous",
+          "meaning": "funny, amusing",
+          "note": "This is the all-purpose colloquial choice for something or someone funny and likely to make people laugh."
+        },
+        {
+          "id": "itbs319i",
+          "word": "entertaining",
+          "meaning": "amusing, enjoyable",
+          "note": "Use 搞笑 when entertaining mainly means funny or likely to make people laugh."
+        },
+        {
+          "id": "k6thfod2",
+          "word": "playful",
+          "meaning": "joking, humorous",
+          "register": "colloquial",
+          "note": "Use this when playful means funny, joking, or deliberately amusing rather than fond of games."
+        },
+        {
+          "id": "udgq73f1",
+          "word": "comic",
+          "meaning": "funny, amusing",
+          "note": "Use this as the everyday choice for someone or something intentionally funny and entertaining."
+        },
+        {
+          "id": "zj4eqr5i",
+          "word": "zany",
+          "meaning": "funny odd, clownish",
+          "register": "colloquial",
+          "note": "Choose this when the emphasis is on being funny or clownish rather than simply strange."
+        },
+        {
+          "id": "me5f3thm",
+          "word": "priceless",
+          "meaning": "sarcastically absurd",
+          "register": "colloquial",
+          "note": "Use this when something is absurd or ridiculous in an amusing or sarcastic way, as in “That’s priceless.”"
+        },
+        {
+          "id": "6m2axnqh",
+          "word": "merry",
+          "meaning": "making merry",
+          "register": "colloquial",
+          "note": "Use this for a joke or other thing that is funny and makes people laugh."
+        }
+      ],
       "examples": [
         {
           "english": "That stand-up routine is really amusing.",

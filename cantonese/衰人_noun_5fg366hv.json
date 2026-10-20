@@ -6,7 +6,28 @@
   "boxes": [
     {
       "meaning": "nasty person, rascal",
-      "english": ["ingrate", "horror", "sort"],
+      "english": [
+        {
+          "id": "58frytr7",
+          "word": "ingrate",
+          "meaning": "ungrateful person",
+          "register": "colloquial",
+          "note": "Use this casual insult for the unpleasant or contemptible-person side of “ingrate,” especially in an outburst."
+        },
+        {
+          "id": "fdbt950j",
+          "word": "horror",
+          "meaning": "nasty person; little terror",
+          "note": "Use this for a nasty or badly behaved person, including someone described as a little terror."
+        },
+        {
+          "id": "v0wrwiwf",
+          "word": "sort",
+          "meaning": "person of a certain kind",
+          "register": "colloquial",
+          "note": "Use 衰人 when someone is called “a bad sort.”"
+        }
+      ],
       "examples": [
         {
           "english": "You ingrate, I helped you and you still complained about everything!",

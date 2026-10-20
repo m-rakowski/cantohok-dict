@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "shine, luster",
-      "english": ["sparkle", "polish"],
+      "english": [
+        {
+          "id": "csrv91el",
+          "word": "sparkle",
+          "meaning": "brilliance, luster",
+          "note": "Use this as the all-purpose noun for the shine or luster of a physical object, especially a gem."
+        },
+        {
+          "id": "qykoh829",
+          "word": "polish",
+          "meaning": "shine, finish",
+          "note": "This is the all-purpose noun for the visible shine or finish left on a surface."
+        }
+      ],
       "examples": [
         {
           "english": "This diamond's sparkle is beautiful.",

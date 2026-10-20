@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "future prospects",
-      "english": ["prospect", "outlook"],
+      "english": [
+        {
+          "id": "1ucg4eaa",
+          "word": "prospect",
+          "meaning": "future possibility; outlook",
+          "note": "Use this as the all-purpose choice for a future outlook or the possibility of a favorable outcome."
+        },
+        {
+          "id": "fa1opa68",
+          "word": "outlook",
+          "meaning": "future prospects",
+          "note": "Use this for the likely future prospects of a situation, business, or development."
+        }
+      ],
       "examples": [
         {
           "english": "The economic prospect looks good this year.",

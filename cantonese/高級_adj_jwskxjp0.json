@@ -6,7 +6,56 @@
   "boxes": [
     {
       "meaning": "high-end, upscale",
-      "english": ["select", "posh", "gourmet", "designer", "luxurious", "superior", "fancy", "upper"],
+      "english": [
+        {
+          "id": "eainfq7k",
+          "word": "select",
+          "meaning": "high-quality; exclusive",
+          "note": "Use this when the emphasis is on a premium, upscale, or exclusive quality rather than simply being good."
+        },
+        {
+          "id": "4q9n7mbm",
+          "word": "posh",
+          "meaning": "stylish, luxurious",
+          "note": "This is the all-purpose choice for something stylish, upscale, or exclusive."
+        },
+        {
+          "id": "enjeuf0d",
+          "word": "gourmet",
+          "meaning": "high-quality; gourmet",
+          "note": "This is the all-purpose choice for something fine, premium, or gourmet."
+        },
+        {
+          "id": "z3garff4",
+          "word": "designer",
+          "meaning": "designer-made, upscale",
+          "note": "Use this when designer means upscale or luxurious and the item need not be made by a designer."
+        },
+        {
+          "id": "51m6cxph",
+          "word": "luxurious",
+          "meaning": "very fine, comfortable",
+          "note": "Use this when luxurious mainly means high-end or superior in quality rather than especially comfortable."
+        },
+        {
+          "id": "y71hr5ds",
+          "word": "superior",
+          "meaning": "higher rank or quality",
+          "note": "Use this for higher rank, status, grade, or quality rather than an ordinary comparison."
+        },
+        {
+          "id": "te3wcgvh",
+          "word": "fancy",
+          "meaning": "high-end",
+          "note": "Choose this when “fancy” means superior in quality or high-end rather than ornate or complicated."
+        },
+        {
+          "id": "rkgcapnl",
+          "word": "upper",
+          "meaning": "higher in position or rank",
+          "note": "Use this when “upper” means higher-ranking or higher-level, rather than for physical position."
+        }
+      ],
       "examples": [
         {
           "english": "They had dinner at a select restaurant.",
@@ -52,7 +101,14 @@
     },
     {
       "meaning": "senior in rank",
-      "english": ["senior"],
+      "english": [
+        {
+          "id": "ynck8w10",
+          "word": "senior",
+          "meaning": "higher in rank",
+          "note": "Use this for a person, post, or role that is higher in rank or status than another."
+        }
+      ],
       "examples": [
         {
           "english": "They are a senior manager at the company and do not need to seek approval at every level.",
@@ -63,7 +119,14 @@
     },
     {
       "meaning": "advanced (course level)",
-      "english": ["advanced"],
+      "english": [
+        {
+          "id": "pompacf9",
+          "word": "advanced",
+          "meaning": "at a later stage",
+          "note": "Use this specifically for an advanced educational level, class, or course."
+        }
+      ],
       "examples": [
         {
           "english": "I signed up for an advanced Cantonese course that starts next month.",

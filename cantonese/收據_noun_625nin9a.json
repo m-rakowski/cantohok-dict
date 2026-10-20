@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "sales receipt",
-      "english": ["receipt"],
+      "english": [
+        {
+          "id": "i96god18",
+          "word": "receipt",
+          "meaning": "sales receipt",
+          "note": "This is the all-purpose noun for a receipt or written proof that money or goods were received."
+        }
+      ],
       "examples": [
         {
           "english": "I'll keep the receipt for now.",

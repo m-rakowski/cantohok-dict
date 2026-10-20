@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "send to hospital",
-      "english": ["commit"],
+      "english": [
+        {
+          "id": "n4fwbiwx",
+          "word": "commit",
+          "meaning": "send to hospital",
+          "note": "Use 強制送院 when someone is involuntarily sent to a hospital for assessment or treatment, especially for mental-health reasons."
+        }
+      ],
       "examples": [
         {
           "english": "The police had to commit him to a hospital for assessment.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "formal, official",
-      "english": ["formal", "official"],
+      "english": [
+        {
+          "id": "2wq0ywwc",
+          "word": "formal",
+          "meaning": "official",
+          "note": "This is the all-purpose choice for standard-style, official, non-casual, or officially established things; it also covers a non-casual dress code or occasion."
+        },
+        {
+          "id": "hr35mkkm",
+          "word": "official",
+          "meaning": "authorized; formal",
+          "note": "Use this for the formal or finalized sense of an official statement, announcement, or procedure, rather than stressing its source of authority."
+        }
+      ],
       "examples": [
         {
           "english": "This is a formal document.",

@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "fair",
-      "english": ["impartial", "fair", "candid", "square", "level"],
+      "english": [
+        {
+          "id": "0r7tzt3h",
+          "word": "impartial",
+          "meaning": "fair; unbiased",
+          "note": "This is the all-purpose choice for treating people or sides equally without bias."
+        },
+        {
+          "id": "m54cqsa7",
+          "word": "fair",
+          "meaning": "just; impartial",
+          "note": "Use 公平 as the all-purpose choice for just, impartial, or evenly balanced situations."
+        },
+        {
+          "id": "kjll7eo2",
+          "word": "candid",
+          "meaning": "impartial, unbiased",
+          "note": "Use this for a judgement or decision that is unbiased, rather than for a person's frank manner."
+        },
+        {
+          "id": "39il0rid",
+          "word": "square",
+          "meaning": "fair, honest",
+          "note": "Use this for the fair or just side of “square,” especially in a deal or arrangement."
+        },
+        {
+          "id": "po3b8ten",
+          "word": "level",
+          "meaning": "even, fair, impartial",
+          "note": "Use 公平 when level means fair, balanced, or impartial."
+        }
+      ],
       "examples": [
         {
           "english": "This match must be impartial; we can't favor either team.",

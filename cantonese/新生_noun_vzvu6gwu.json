@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "first-year student",
-      "english": ["freshman"],
+      "english": [
+        {
+          "id": "9a0sv77m",
+          "word": "freshman",
+          "meaning": "first-year student",
+          "note": "This is the all-purpose choice for a student entering the first year of a school or university."
+        }
+      ],
       "examples": [
         {
           "english": "My daughter is a university freshman this year.",

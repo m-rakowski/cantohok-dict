@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "appropriately",
-      "english": ["appropriately", "accordingly"],
+      "english": [
+        {
+          "id": "g5ot3qs7",
+          "word": "appropriately",
+          "meaning": "properly; suitably",
+          "note": "This is the all-purpose choice for doing something in a suitable or proper way."
+        },
+        {
+          "id": "zrmr4s6k",
+          "word": "accordingly",
+          "meaning": "suitably; in a suitable way",
+          "note": "Use this for the literal sense of doing something in a suitable or appropriate way, rather than for a simple causal result."
+        }
+      ],
       "examples": [
         {
           "english": "You need to arrange your time appropriately so you can finish it.",

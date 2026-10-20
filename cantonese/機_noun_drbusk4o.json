@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "machine, device",
-      "english": ["machine", "device"],
+      "english": [
+        {
+          "id": "vfujsuyu",
+          "word": "machine",
+          "meaning": "mechanical device",
+          "note": "This is the all-purpose colloquial word for a machine, and it can also mean a computer when the context is clear."
+        },
+        {
+          "id": "owpvs5qy",
+          "word": "device",
+          "meaning": "piece of equipment",
+          "register": "colloquial",
+          "note": "Use 機 for an everyday mechanical or electrical machine when the exact technical term is unimportant."
+        }
+      ],
       "examples": [
         {
           "english": "This machine won't move.",

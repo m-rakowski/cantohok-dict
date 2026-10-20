@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "meat substitute",
-      "english": ["meat"],
+      "english": [
+        {
+          "id": "qal60wro",
+          "word": "meat",
+          "meaning": "meat substitute",
+          "note": "Use this specifically for vegetarian or plant-based meat substitutes rather than ordinary animal meat."
+        }
+      ],
       "examples": [
         {
           "english": "The plant-based meat burger at this restaurant is quite tasty.",

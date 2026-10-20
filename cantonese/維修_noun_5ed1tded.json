@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "repair",
-      "english": ["fix", "repair"],
+      "english": [
+        {
+          "id": "aczfso2b",
+          "word": "fix",
+          "meaning": "repair; fix-up",
+          "note": "This is the all-purpose noun for a repair or corrective repair job."
+        },
+        {
+          "id": "kwjtr423",
+          "word": "repair",
+          "meaning": "repairs, fixing",
+          "note": "This is the all-purpose noun for the act or work of repairing something."
+        }
+      ],
       "examples": [
         {
           "english": "This air conditioner needs a fix before it can work again.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "coffee",
-      "english": ["coffee", "mud"],
+      "english": [
+        {
+          "id": "9q42nh92",
+          "word": "coffee",
+          "meaning": "drink / beverage",
+          "note": "Use 咖啡 as the all-purpose noun for the beverage or a serving of it."
+        },
+        {
+          "id": "pi1r6a17",
+          "word": "mud",
+          "meaning": "coffee",
+          "note": "Use this when English mud refers to coffee in slang or an informal context."
+        }
+      ],
       "examples": [
         {
           "english": "I usually drink coffee in the morning.",

@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "quarrel, argue",
-      "english": ["quarrel", "argue", "tangle"],
+      "english": [
+        {
+          "id": "iiui8lbc",
+          "word": "quarrel",
+          "meaning": "argue, fall out",
+          "note": "This is the all-purpose choice for two or more people arguing or falling out."
+        },
+        {
+          "id": "457j63yq",
+          "word": "argue",
+          "meaning": "quarrel",
+          "register": "colloquial",
+          "note": "Use 嗌交 specifically for having a quarrel or an angry argument."
+        },
+        {
+          "id": "4f1fetk9",
+          "word": "tangle",
+          "meaning": "fight or argue",
+          "note": "Use this when “tangle with someone” means arguing or quarrelling."
+        }
+      ],
       "examples": [
         {
           "english": "We quarrel over little things all the time.",

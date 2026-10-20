@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "comb hair",
-      "english": ["comb", "brush"],
+      "english": [
+        {
+          "id": "mqgys3dt",
+          "word": "comb",
+          "meaning": "comb hair",
+          "note": "This is the all-purpose verb for grooming hair or fur with a comb."
+        },
+        {
+          "id": "m67uiuek",
+          "word": "brush",
+          "meaning": "brush hair",
+          "note": "Use this specifically for untangling or arranging hair with a comb or hairbrush."
+        }
+      ],
       "examples": [
         {
           "english": "I comb my hair when I get up in the morning.",

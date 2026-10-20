@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "water wave",
-      "english": ["wave"],
+      "english": [
+        {
+          "id": "dbtlaraz",
+          "word": "wave",
+          "meaning": "water wave",
+          "note": "Use 波浪 as the default noun for a water wave, and also for a clearly wavy shape such as in hair."
+        }
+      ],
       "examples": [
         {
           "english": "This wave is really big.",

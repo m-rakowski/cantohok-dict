@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "fitness plan",
-      "english": ["regime", "workout"],
+      "english": [
+        {
+          "id": "x5ri6wjr",
+          "word": "regime",
+          "meaning": "regulated routine",
+          "note": "Use this for a personal fitness regimen or other structured fitness programme, rather than a governing system."
+        },
+        {
+          "id": "ds4s5ygg",
+          "word": "workout",
+          "meaning": "exercise program",
+          "note": "Use this specifically for a fitness or bodybuilding program aimed at improving the body."
+        }
+      ],
       "examples": [
         {
           "english": "I have followed this fitness regime for three months, and my shape has clearly improved.",

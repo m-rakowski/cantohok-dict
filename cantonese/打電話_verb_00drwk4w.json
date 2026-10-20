@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "make a phone call",
-      "english": ["call", "ring", "telephone", "dial"],
+      "english": [
+        {
+          "id": "2u2hy9mk",
+          "word": "call",
+          "meaning": "phone someone",
+          "note": "This is the all-purpose colloquial choice for contacting someone by telephone."
+        },
+        {
+          "id": "uvieg46d",
+          "word": "ring",
+          "meaning": "telephone someone",
+          "note": "This is the all-purpose everyday rendering when you mean telephone someone."
+        },
+        {
+          "id": "govanixb",
+          "word": "telephone",
+          "meaning": "telephone someone",
+          "note": "Use this as the all-purpose spoken Cantonese verb for calling someone by telephone or making a phone call."
+        },
+        {
+          "id": "5ufsmqp8",
+          "word": "dial",
+          "meaning": "call by phone",
+          "note": "This is the all-purpose spoken choice for making a phone call, including “dial 999”."
+        }
+      ],
       "examples": [
         {
           "english": "I’ll call you later.",

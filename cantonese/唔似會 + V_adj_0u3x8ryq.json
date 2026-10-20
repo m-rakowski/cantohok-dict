@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "unlikely to",
-      "english": ["unlikely", "improbable"],
+      "english": [
+        {
+          "id": "ahusnjtd",
+          "word": "unlikely",
+          "meaning": "improbable",
+          "note": "Use this when judging that a person or event does not seem likely to carry out a future action."
+        },
+        {
+          "id": "hapqj6p9",
+          "word": "improbable",
+          "meaning": "unlikely to happen",
+          "register": "colloquial",
+          "note": "Use this specifically when saying that an event or action probably will not happen."
+        }
+      ],
       "examples": [
         {
           "english": "He seems unlikely to come.",

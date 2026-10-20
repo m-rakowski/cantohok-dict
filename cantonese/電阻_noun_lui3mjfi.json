@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "electrical resistance",
-      "english": ["resistance"],
+      "english": [
+        {
+          "id": "vrn9gbp6",
+          "word": "resistance",
+          "meaning": "electrical resistance",
+          "note": "Use 電阻 specifically for resistance in an electrical circuit."
+        }
+      ],
       "examples": [
         {
           "english": "The resistance of this wire is too high, so the machine won't turn on.",

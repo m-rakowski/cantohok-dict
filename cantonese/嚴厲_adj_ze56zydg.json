@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "strict, harsh",
-      "english": ["stern", "austere", "severe", "hard"],
+      "english": [
+        {
+          "id": "tc9qgfuy",
+          "word": "stern",
+          "meaning": "strict, severe",
+          "note": "This is the all-purpose choice for a person, manner, or treatment that is strict and severe."
+        },
+        {
+          "id": "11mrqg3g",
+          "word": "austere",
+          "meaning": "severe, stern",
+          "note": "Use this instead of 嚴肅 when the person's sternness is shown in how they treat or discipline others."
+        },
+        {
+          "id": "p0aokgtb",
+          "word": "severe",
+          "meaning": "strict or harsh",
+          "note": "Use this when the strictness feels harsh or punitive, as with a severe taskmaster or punishment."
+        },
+        {
+          "id": "rsnk7bjy",
+          "word": "hard",
+          "meaning": "harsh; severe",
+          "note": "Use 嚴厲 for a person, rule, or manner that is severe or harsh rather than merely difficult."
+        }
+      ],
       "examples": [
         {
           "english": "The teacher is stern with students who are always late.",

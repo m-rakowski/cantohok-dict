@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "material, ingredient (what something is made from)",
-      "english": ["material", "ingredient"],
+      "english": [
+        {
+          "id": "d9x2fbxv",
+          "word": "material",
+          "meaning": "building substance",
+          "note": "This is the all-purpose choice for a substance used to make something, and in 做男朋友嘅材料 it means a person suitable for that role."
+        },
+        {
+          "id": "94c6q0yy",
+          "word": "ingredient",
+          "meaning": "food mixture component",
+          "note": "This is the all-purpose choice for an ingredient used in making a dish or mixture."
+        }
+      ],
       "examples": [
         {
           "english": "This material is very hard.",

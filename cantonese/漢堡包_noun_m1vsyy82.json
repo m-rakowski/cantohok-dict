@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "hamburger",
-      "english": ["burger", "hamburger", "bun"],
+      "english": [
+        {
+          "id": "w6qkzqqc",
+          "word": "burger",
+          "meaning": "hamburger",
+          "note": "This is the all-purpose Cantonese noun for a hamburger or burger sandwich."
+        },
+        {
+          "id": "3euxjim2",
+          "word": "hamburger",
+          "meaning": "hamburger sandwich",
+          "note": "This is the all-purpose Cantonese term for the hamburger sandwich."
+        },
+        {
+          "id": "249e1imm",
+          "word": "bun",
+          "meaning": "sandwich roll",
+          "note": "Use 漢堡包 for the savoury roll used for a hamburger or similar sandwich."
+        }
+      ],
       "examples": [
         {
           "english": "I’d like a burger, please.",

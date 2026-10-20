@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "indefinite article before vowels",
-      "english": ["an"],
+      "english": [
+        {
+          "id": "oj8rj2r8",
+          "word": "an",
+          "meaning": "indefinite article before vowels",
+          "note": "This is the all-purpose Cantonese way to express an indefinite singular noun, with the classifier chosen for the noun; it does not change before a vowel or /h/ sound."
+        }
+      ],
       "examples": [
         {
           "english": "I want to eat an orange.",

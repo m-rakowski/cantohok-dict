@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "top-grade, highest quality",
-      "english": ["premier", "prime"],
+      "english": [
+        {
+          "id": "xk1i0eo8",
+          "word": "premier",
+          "meaning": "foremost; best",
+          "note": "Use this especially for top-grade products, services, venues, or other things being rated for quality."
+        },
+        {
+          "id": "vbd5hrpw",
+          "word": "prime",
+          "meaning": "best quality",
+          "note": "Use this for something that is of the highest quality, standard, or value rather than merely important."
+        }
+      ],
       "examples": [
         {
           "english": "This hotel offers premier service, and the price is reasonable.",

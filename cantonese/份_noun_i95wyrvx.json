@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "share, portion",
-      "english": ["portion", "stake", "allotment"],
+      "english": [
+        {
+          "id": "9hh4485y",
+          "word": "portion",
+          "meaning": "allocated amount",
+          "note": "Use this as the all-purpose choice for an individual share or serving, including someone’s allocated portion."
+        },
+        {
+          "id": "7no3s68q",
+          "word": "stake",
+          "meaning": "share or interest",
+          "note": "Use 份 as the all-purpose everyday noun for a share or personal interest in a business or situation."
+        },
+        {
+          "id": "cxoezml9",
+          "word": "allotment",
+          "meaning": "share; portion",
+          "note": "Use this as the all-purpose choice for a share, part, or portion assigned to someone."
+        }
+      ],
       "examples": [
         {
           "english": "I’ll save this portion of cake for you.",

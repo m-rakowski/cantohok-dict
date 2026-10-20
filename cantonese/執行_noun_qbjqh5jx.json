@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "carrying out, execution",
-      "english": ["execution", "performance"],
+      "english": [
+        {
+          "id": "6s6uwycy",
+          "word": "execution",
+          "meaning": "computer execution",
+          "note": "This is the all-purpose choice for carrying out an action, court judgment, or computer instruction; it emphasizes the process rather than whether the result was successful."
+        },
+        {
+          "id": "1217cly2",
+          "word": "performance",
+          "meaning": "doing, carrying out",
+          "register": "formal",
+          "note": "Use 執行 for the carrying out or implementation of a task, duty, plan, or undertaking."
+        }
+      ],
       "examples": [
         {
           "english": "The execution of the court order went smoothly.",

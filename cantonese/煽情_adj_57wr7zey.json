@@ -6,7 +6,33 @@
   "boxes": [
     {
       "meaning": "sensational, overly emotional",
-      "english": ["tabloid", "lurid", "breathless", "yellow"],
+      "english": [
+        {
+          "id": "j7yl5jv1",
+          "word": "tabloid",
+          "meaning": "sensational journalism style",
+          "note": "Use this when the tabloid style mainly relies on emotional or sensational presentation."
+        },
+        {
+          "id": "inwjp4ub",
+          "word": "lurid",
+          "meaning": "sensationally vivid, shocking",
+          "register": "written",
+          "note": "Pick this when the presentation deliberately tries to stir emotions or sensationalize shocking or sexual material."
+        },
+        {
+          "id": "i5t0h3jl",
+          "word": "breathless",
+          "meaning": "sensational; over-emotive",
+          "note": "Use this for language or headlines that are excessively emotional or hysterical rather than simply exciting."
+        },
+        {
+          "id": "c9j1cbzi",
+          "word": "yellow",
+          "meaning": "sensationalist",
+          "note": "Use this for reporting or content that is lurid, emotionally manipulative, or sensationalist."
+        }
+      ],
       "examples": [
         {
           "english": "This tabloid report is so emotional that it brings tears to your eyes.",

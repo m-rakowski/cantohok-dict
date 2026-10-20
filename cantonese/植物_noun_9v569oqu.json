@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "plant, plants",
-      "english": ["plant", "vegetation", "botany"],
+      "english": [
+        {
+          "id": "vgf7nsq1",
+          "word": "plant",
+          "meaning": "living plant",
+          "note": "This is the all-purpose rendering for a living plant."
+        },
+        {
+          "id": "uecc072b",
+          "word": "vegetation",
+          "meaning": "plants collectively",
+          "note": "This is the all-purpose Cantonese noun for plants considered collectively."
+        },
+        {
+          "id": "mqef9ed2",
+          "word": "botany",
+          "meaning": "flora of a place",
+          "note": "Use this for the plants or plant life found in a particular place, especially in everyday speech."
+        }
+      ],
       "examples": [
         {
           "english": "This plant is easy to look after.",

@@ -6,7 +6,29 @@
   "boxes": [
     {
       "meaning": "damage, harm",
-      "english": ["damage", "impair", "harm"],
+      "english": [
+        {
+          "id": "hauii8p8",
+          "word": "damage",
+          "meaning": "harm; damage",
+          "register": "formal",
+          "note": "Use this mainly for harming the value, quality, interests, health, or soundness of something rather than physically breaking it."
+        },
+        {
+          "id": "6xt92yd7",
+          "word": "impair",
+          "meaning": "weaken; damage",
+          "register": "formal",
+          "note": "Use this when the emphasis is on damaging a person, interest, function, or resource."
+        },
+        {
+          "id": "yw2cn6lb",
+          "word": "harm",
+          "meaning": "damage; injure",
+          "register": "formal",
+          "note": "Use this formal choice for damage to rights, interests, reputation, or other abstract matters."
+        }
+      ],
       "register": "formal",
       "examples": [
         {

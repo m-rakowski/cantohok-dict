@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "combination, set",
-      "english": ["combination", "arrangement"],
+      "english": [
+        {
+          "id": "uhg13mek",
+          "word": "combination",
+          "meaning": "joining together",
+          "note": "This is the all-purpose noun for a combination or something formed by combining."
+        },
+        {
+          "id": "seovgnwv",
+          "word": "arrangement",
+          "meaning": "arranged set, grouping",
+          "note": "Use this for a combination or grouped set viewed as one whole."
+        }
+      ],
       "examples": [
         {
           "english": "This combination is quite convenient.",

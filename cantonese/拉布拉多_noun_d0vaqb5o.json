@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "Labrador retriever",
-      "english": ["lab"],
+      "english": [
+        {
+          "id": "xyodovct",
+          "word": "lab",
+          "meaning": "Labrador retriever",
+          "note": "Use this for a Labrador retriever as a breed or individual dog."
+        }
+      ],
       "examples": [
         {
           "english": "That lab is very well-behaved.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "make use of",
-      "english": ["exploit", "tap"],
+      "english": [
+        {
+          "id": "6zu1ndby",
+          "word": "exploit",
+          "meaning": "use to advantage",
+          "note": "This is the all-purpose choice for using something or someone to gain an advantage, whether the context is neutral or unfair."
+        },
+        {
+          "id": "ebj0n0sb",
+          "word": "tap",
+          "meaning": "tap into, exploit",
+          "note": "Use 利用 when “tap into” means making use of or exploiting a resource, ability, or market."
+        }
+      ],
       "examples": [
         {
           "english": "We can exploit this opportunity to improve community services.",
@@ -22,7 +35,26 @@
     },
     {
       "meaning": "take advantage of someone or their name",
-      "english": ["manipulate", "use", "trade"],
+      "english": [
+        {
+          "id": "u3ks8bwl",
+          "word": "manipulate",
+          "meaning": "manipulate people",
+          "note": "Use this when manipulating a person specifically means taking advantage of or using them for your own purpose."
+        },
+        {
+          "id": "ycrls1qr",
+          "word": "use",
+          "meaning": "exploit; take advantage of",
+          "note": "Use 利用 when someone exploits or takes advantage of another person."
+        },
+        {
+          "id": "n597a80p",
+          "word": "trade",
+          "meaning": "trade on",
+          "note": "Use this when someone exploits a name, reputation, image, or past success for an advantage."
+        }
+      ],
       "examples": [
         {
           "english": "They manipulate me into doing their homework.",

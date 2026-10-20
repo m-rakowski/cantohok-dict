@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "not sure",
-      "english": ["uncertain", "doubtful", "unsure", "unclear"],
+      "english": [
+        {
+          "id": "dbtl4kic",
+          "word": "uncertain",
+          "meaning": "unsure, not certain",
+          "note": "This is the all-purpose choice for being unsure or lacking certainty about an answer, fact, or outcome."
+        },
+        {
+          "id": "vp8yy0a0",
+          "word": "doubtful",
+          "meaning": "uncertain outcome",
+          "note": "This is the all-purpose choice for something whose truth, outcome, or clarity is not certain."
+        },
+        {
+          "id": "omimukvz",
+          "word": "unsure",
+          "meaning": "uncertain, not sure",
+          "note": "This is the all-purpose choice for being uncertain or not sure about something."
+        },
+        {
+          "id": "xpeaicbj",
+          "word": "unclear",
+          "meaning": "not sure about",
+          "note": "Use this when the speaker is personally uncertain or does not know exactly what something means."
+        }
+      ],
       "examples": [
         {
           "english": "I'm uncertain whether they'll come back tomorrow.",

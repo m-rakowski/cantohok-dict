@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "football, soccer",
-      "english": ["football", "soccer"],
+      "english": [
+        {
+          "id": "6cailvd3",
+          "word": "football",
+          "meaning": "association football",
+          "note": "This is the all-purpose term for association football and, in the usual context, the ball itself."
+        },
+        {
+          "id": "6im2n1rc",
+          "word": "soccer",
+          "meaning": "association football",
+          "note": "This is the all-purpose Cantonese noun for association football."
+        }
+      ],
       "examples": [
         {
           "english": "I loved playing football most when I was little.",

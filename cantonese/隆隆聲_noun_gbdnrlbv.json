@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "deep rumbling sound",
-      "english": ["thunder", "boom"],
+      "english": [
+        {
+          "id": "j4p0kur0",
+          "word": "thunder",
+          "meaning": "rumbling sound",
+          "note": "Use this for a deep rumbling noise such as distant hoofbeats rather than literal thunder."
+        },
+        {
+          "id": "2fofjf79",
+          "word": "boom",
+          "meaning": "low resonant sound",
+          "note": "Use this for a deep, resonant rumbling sound such as surf, thunder, or an explosion."
+        }
+      ],
       "examples": [
         {
           "english": "A deep rumbling sound came from the distance, sounding like thunder, as a troop of horses passed by.",

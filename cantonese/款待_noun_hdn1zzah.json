@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "hospitality, treating guests",
-      "english": ["hospitality", "treat"],
+      "english": [
+        {
+          "id": "4jb61d3i",
+          "word": "hospitality",
+          "meaning": "welcoming guests",
+          "note": "This is the all-purpose noun for the hospitality a host provides, including treating guests to food, drink, or entertainment."
+        },
+        {
+          "id": "wetp5nc2",
+          "word": "treat",
+          "meaning": "a treat",
+          "register": "formal",
+          "note": "Use this when the treat is hospitality or an outing, meal, or other enjoyment provided by someone for others."
+        }
+      ],
       "examples": [
         {
           "english": "Thank you for your warm hospitality and for arranging so many activities.",

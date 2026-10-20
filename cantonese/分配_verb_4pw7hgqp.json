@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "allocate, assign",
-      "english": ["assign", "allot", "dole out"],
+      "english": [
+        {
+          "id": "rzj8hlxn",
+          "word": "assign",
+          "meaning": "give as task",
+          "note": "Use this for allotting work or another task to someone; it is the all-purpose choice for this task sense."
+        },
+        {
+          "id": "vjx93zdn",
+          "word": "allot",
+          "meaning": "distribute by lot / apportion",
+          "note": "This is the all-purpose verb for apportioning amounts or assigning a task or time when no special emphasis is needed."
+        },
+        {
+          "id": "9ybof1w7",
+          "word": "dole out",
+          "meaning": "distribute in amounts",
+          "note": "Use 分配 as the all-purpose choice when assigning portions of money, resources, or supplies."
+        }
+      ],
       "examples": [
         {
           "english": "The manager will assign the new task to us.",

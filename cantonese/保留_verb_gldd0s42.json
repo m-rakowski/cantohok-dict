@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "to keep, retain",
-      "english": ["retain", "reserve"],
+      "english": [
+        {
+          "id": "ina9qdd7",
+          "word": "retain",
+          "meaning": "preserve",
+          "register": "formal",
+          "note": "Use this when preserving an item, arrangement, policy, or right instead of removing or abolishing it."
+        },
+        {
+          "id": "tboig23d",
+          "word": "reserve",
+          "meaning": "keep back, retain",
+          "note": "Use this for retaining or withholding something, including in expressions such as reserving the right to do something."
+        }
+      ],
       "examples": [
         {
           "english": "We will retain the current arrangement.",

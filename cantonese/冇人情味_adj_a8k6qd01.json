@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "cold, lacking human feeling",
-      "english": ["insensitive", "unkind", "callous"],
+      "english": [
+        {
+          "id": "k6fnnp9j",
+          "word": "insensitive",
+          "meaning": "unfeeling toward others",
+          "note": "Use this as the everyday choice for a person who shows little compassion, consideration, or human warmth, including tactless behavior."
+        },
+        {
+          "id": "kw5893je",
+          "word": "unkind",
+          "meaning": "cruel; not kind",
+          "note": "Use this when the person seems cold, lacking sympathy, or unwilling to show kindness rather than merely unpleasant."
+        },
+        {
+          "id": "psma34et",
+          "word": "callous",
+          "meaning": "unfeeling, cruel",
+          "note": "Use this softer choice when stressing a lack of warmth, sympathy, or human feeling rather than outright cruelty."
+        }
+      ],
       "examples": [
         {
           "english": "They do not even comfort people when they see them so upset; they are really insensitive.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "through, via",
-      "english": ["through", "via"],
+      "english": [
+        {
+          "id": "kmydoqh8",
+          "word": "through",
+          "meaning": "through a place",
+          "note": "This is the all-purpose choice for passing through a place, opening, passage, area, or process."
+        },
+        {
+          "id": "730zvang",
+          "word": "via",
+          "meaning": "by way of, through",
+          "note": "This is the natural choice for a route or place passed through, not for a communication method."
+        }
+      ],
       "examples": [
         {
           "english": "We got through the tunnel and arrived.",

@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "style, design",
-      "english": ["make", "design", "style"],
+      "english": [
+        {
+          "id": "2oh58dad",
+          "word": "make",
+          "meaning": "style of construction",
+          "note": "Use 款式 when “make” refers to the style or overall form of an object."
+        },
+        {
+          "id": "aibu1r4m",
+          "word": "design",
+          "meaning": "shape or appearance",
+          "note": "Use this for the style, model, or outward appearance of an object, especially clothing or consumer goods."
+        },
+        {
+          "id": "ad1va60g",
+          "word": "style",
+          "meaning": "dress or grooming style",
+          "note": "Use this for the design or fashion style of clothing, hair, accessories, or similar personal presentation."
+        }
+      ],
       "examples": [
         {
           "english": "I really like the make of this chair; it looks sturdy.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "to decline, to weaken",
-      "english": ["wane", "wither"],
+      "english": [
+        {
+          "id": "syo7zlzz",
+          "word": "wane",
+          "meaning": "decline, diminish",
+          "note": "This is the all-purpose choice when power, value, vitality, or intensity progressively declines."
+        },
+        {
+          "id": "7oi9qcna",
+          "word": "wither",
+          "meaning": "lose vigour, fade",
+          "note": "Use this figuratively when a person, force, or institution gradually loses strength or influence."
+        }
+      ],
       "examples": [
         {
           "english": "That company's momentum is starting to wane.",

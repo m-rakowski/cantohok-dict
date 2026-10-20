@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "meal",
-      "english": ["meal", "dinner"],
+      "english": [
+        {
+          "id": "wpmn1j3y",
+          "word": "meal",
+          "meaning": "main meal / eating occasion",
+          "note": "Use 飯 as the all-purpose colloquial noun for an ordinary meal, especially when focusing on the food eaten."
+        },
+        {
+          "id": "7r96iizy",
+          "word": "dinner",
+          "meaning": "food for dinner",
+          "register": "colloquial",
+          "note": "Use this for the food or meal being served, especially in contexts such as asking what there is for dinner."
+        }
+      ],
       "examples": [
         {
           "english": "We’ll go see a movie after the meal.",
@@ -22,7 +36,14 @@
     },
     {
       "meaning": "cooked rice",
-      "english": ["rice"],
+      "english": [
+        {
+          "id": "pvo6ivwn",
+          "word": "rice",
+          "meaning": "rice (food)",
+          "note": "This is the all-purpose everyday choice for cooked rice served as food."
+        }
+      ],
       "examples": [
         {
           "english": "I want to eat rice tonight.",

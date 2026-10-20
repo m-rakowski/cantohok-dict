@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "a pair",
-      "english": ["pair", "couple"],
+      "english": [
+        {
+          "id": "al1n08hd",
+          "word": "pair",
+          "meaning": "two matching things",
+          "note": "This is the all-purpose choice for two matching things taken together or two people forming a couple."
+        },
+        {
+          "id": "l02yh77e",
+          "word": "couple",
+          "meaning": "romantic pair",
+          "note": "Use this for two matching or associated things considered as a pair, including a romantic couple when the pair is viewed as a unit."
+        }
+      ],
       "examples": [
         {
           "english": "This pair of shoes goes well with my trousers.",
@@ -22,7 +35,14 @@
     },
     {
       "meaning": "a couple in a relationship",
-      "english": ["item"],
+      "english": [
+        {
+          "id": "vpczoxk0",
+          "word": "item",
+          "meaning": "couple in a relationship",
+          "note": "Use 一對 when item means two people understood as a romantic couple."
+        }
+      ],
       "examples": [
         {
           "english": "They really are an item; they go out together all the time.",

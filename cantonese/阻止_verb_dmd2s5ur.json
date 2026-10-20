@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "stop, prevent",
-      "english": ["prevent", "block", "hinder", "defeat", "arrest"],
+      "english": [
+        {
+          "id": "rf2pkxnv",
+          "word": "prevent",
+          "meaning": "stop from happening",
+          "note": "This is the broad lexical choice for actively stopping an event, plan, or person."
+        },
+        {
+          "id": "fs2s5cfe",
+          "word": "block",
+          "meaning": "stop; prevent",
+          "note": "This is the all-purpose verb for preventing an action, plan, or event from happening."
+        },
+        {
+          "id": "pb1eitf1",
+          "word": "hinder",
+          "meaning": "delay, prevent",
+          "note": "Use this when someone deliberately stops or prevents another person from doing something."
+        },
+        {
+          "id": "1y9orl7i",
+          "word": "defeat",
+          "meaning": "prevent from succeeding",
+          "note": "Use this for stopping a plan, action, or intended result from being achieved."
+        },
+        {
+          "id": "hscd5zmg",
+          "word": "arrest",
+          "meaning": "stop; slow down",
+          "note": "This is the all-purpose choice when stopping a process or course from continuing."
+        }
+      ],
       "examples": [
         {
           "english": "The security guards acted to prevent a fight.",

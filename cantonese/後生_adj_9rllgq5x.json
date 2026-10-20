@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "young",
-      "english": ["young", "junior", "youthful"],
+      "english": [
+        {
+          "id": "l4ihqym7",
+          "word": "young",
+          "meaning": "young in age",
+          "note": "This is the all-purpose colloquial choice for a young person or someone who looks youthful."
+        },
+        {
+          "id": "994nrtgj",
+          "word": "junior",
+          "meaning": "younger",
+          "note": "This is the all-purpose colloquial choice for someone who is younger."
+        },
+        {
+          "id": "8tyd08ct",
+          "word": "youthful",
+          "meaning": "young; seeming young",
+          "register": "colloquial",
+          "note": "Use this colloquial choice especially when saying that a person is young or looks young."
+        }
+      ],
       "examples": [
         {
           "english": "That young guy is full of energy.",

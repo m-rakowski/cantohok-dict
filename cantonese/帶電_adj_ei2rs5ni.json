@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "electrically live",
-      "english": ["live", "alive"],
+      "english": [
+        {
+          "id": "i3aytnwy",
+          "word": "live",
+          "meaning": "electrically charged",
+          "note": "Use this specifically for a wire or other object that is electrically live and dangerous to touch."
+        },
+        {
+          "id": "nxij3clg",
+          "word": "alive",
+          "meaning": "electrified; live",
+          "note": "Use this specifically for a wire or device that is carrying an electrical current."
+        }
+      ],
       "examples": [
         {
           "english": "This wire is still live, so don't touch it.",

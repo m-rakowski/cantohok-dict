@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "news anchor",
-      "english": ["anchorman", "newscaster"],
+      "english": [
+        {
+          "id": "efytzo0d",
+          "word": "anchorman",
+          "meaning": "TV/radio news host",
+          "note": "Use this as the all-purpose term for a television or radio news anchor."
+        },
+        {
+          "id": "sua6f038",
+          "word": "newscaster",
+          "meaning": "TV/radio news presenter",
+          "note": "This is the all-purpose term for someone who presents the news on television or radio."
+        }
+      ],
       "examples": [
         {
           "english": "This anchorman speaks very clearly.",

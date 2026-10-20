@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "fool, idiot",
-      "english": ["fool", "clown", "goose"],
+      "english": [
+        {
+          "id": "zg0e2sjv",
+          "word": "fool",
+          "meaning": "stupid person",
+          "note": "Use this as a slightly more playful or affectionate alternative when calling someone a fool."
+        },
+        {
+          "id": "echbnh9b",
+          "word": "clown",
+          "meaning": "idiot",
+          "note": "Use this when the emphasis is that the person is stupid or an idiot."
+        },
+        {
+          "id": "pz32x12i",
+          "word": "goose",
+          "meaning": "silly person",
+          "note": "Use this for a person being called silly, not for the bird or its meat."
+        }
+      ],
       "examples": [
         {
           "english": "Fool, don't be sad.",

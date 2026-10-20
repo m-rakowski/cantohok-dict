@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "computer render",
-      "english": ["render"],
+      "english": [
+        {
+          "id": "r0uwbc68",
+          "word": "render",
+          "meaning": "computer render",
+          "note": "Use this as the standard computer-graphics term for transforming a model into an image or on-screen display."
+        }
+      ],
       "examples": [
         {
           "english": "This program can render a three-dimensional model into a lifelike image.",

@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "always",
-      "english": ["invariably", "constantly"],
+      "english": [
+        {
+          "id": "mtujpkln",
+          "word": "invariably",
+          "meaning": "always; without fail",
+          "note": "This is the all-purpose spoken choice for something that happens or is true every time."
+        },
+        {
+          "id": "alyy0xom",
+          "word": "constantly",
+          "meaning": "invariably; always",
+          "register": "colloquial",
+          "note": "Use this when constantly means always or invariably being the case."
+        }
+      ],
       "examples": [
         {
           "english": "When the weather turns cold, I invariably can't resist having hot pot.",

@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "protest, object",
-      "english": ["remonstrate", "protest", "object"],
+      "english": [
+        {
+          "id": "e8bkotsu",
+          "word": "remonstrate",
+          "meaning": "protest formally",
+          "note": "Use this when the objection is presented as a formal protest or official complaint."
+        },
+        {
+          "id": "8hbjjmyw",
+          "word": "protest",
+          "meaning": "strong objection",
+          "note": "This is the all-purpose choice for objecting, including objecting publicly to a decision or action."
+        },
+        {
+          "id": "pqszlfsl",
+          "word": "object",
+          "meaning": "oppose, protest",
+          "note": "Use this when the opposition is expressed as a protest, especially against something seen as unfair or unacceptable."
+        }
+      ],
       "examples": [
         {
           "english": "The residents went to the management office to remonstrate about the noise problem.",

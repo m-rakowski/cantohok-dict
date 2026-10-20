@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "unnoticeable, inconspicuous",
-      "english": ["unobtrusive", "imperceptible"],
+      "english": [
+        {
+          "id": "b50wtnyg",
+          "word": "unobtrusive",
+          "meaning": "discreet, inconspicuous",
+          "note": "This is the all-purpose choice for something discreet and not drawing attention."
+        },
+        {
+          "id": "kx1nrfuu",
+          "word": "imperceptible",
+          "meaning": "not perceptible",
+          "register": "colloquial",
+          "note": "Use this for a detail or change that is so inconspicuous that people do not notice it visually or attentively."
+        }
+      ],
       "examples": [
         {
           "english": "The new fan is tucked in the corner, so it is quite unobtrusive.",

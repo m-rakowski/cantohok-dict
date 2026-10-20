@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "error, mistake",
-      "english": ["error", "mistake"],
+      "english": [
+        {
+          "id": "as5yr24v",
+          "word": "error",
+          "meaning": "mistake",
+          "register": "formal",
+          "note": "Use this more formal general term for wrongness or an error in writing, accounts, or systems."
+        },
+        {
+          "id": "bxnn11ls",
+          "word": "mistake",
+          "meaning": "error",
+          "register": "formal, written",
+          "note": "Use this more formal or written noun for an error in a test, document, system, or official context."
+        }
+      ],
       "examples": [
         {
           "english": "This report contains an error.",

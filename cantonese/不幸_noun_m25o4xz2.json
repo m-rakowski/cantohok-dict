@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "misfortune",
-      "english": ["misfortune", "adversity", "misery"],
+      "english": [
+        {
+          "id": "qsywxrah",
+          "word": "misfortune",
+          "meaning": "bad luck",
+          "register": "formal",
+          "note": "Use this more formal noun for misfortune in general, including a specific unfortunate event."
+        },
+        {
+          "id": "lu4qskot",
+          "word": "adversity",
+          "meaning": "misfortune; hardship",
+          "note": "Use this for the misfortune or calamity aspect of adversity rather than ongoing hardship."
+        },
+        {
+          "id": "cmehnrqm",
+          "word": "misery",
+          "meaning": "cause of misery; misfortune",
+          "note": "Use this for a misfortune or unfortunate event that causes misery."
+        }
+      ],
       "examples": [
         {
           "english": "This misfortune dealt a heavy blow to the whole family.",

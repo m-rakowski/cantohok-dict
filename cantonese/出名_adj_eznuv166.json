@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "famous, well known",
-      "english": ["famous", "well-known", "known", "eminent", "prominent"],
+      "english": [
+        {
+          "id": "wxw32lny",
+          "word": "famous",
+          "meaning": "well known",
+          "note": "This is the all-purpose colloquial choice for saying that a person, place, or thing is famous or well known."
+        },
+        {
+          "id": "cbnnjyap",
+          "word": "well-known",
+          "meaning": "famous; widely known",
+          "note": "Use this as the all-purpose spoken adjective for a person, place, or thing that is famous or widely known."
+        },
+        {
+          "id": "tdxufmao",
+          "word": "known",
+          "meaning": "known as a type/person",
+          "note": "Use this as the all-purpose choice when “known” means famous or notorious."
+        },
+        {
+          "id": "qkioxylw",
+          "word": "eminent",
+          "meaning": "distinguished person",
+          "note": "Use this only when the person is eminent because they are widely known or famous."
+        },
+        {
+          "id": "gsc7ggf0",
+          "word": "prominent",
+          "meaning": "important; well-known",
+          "note": "Use this for the well-known or widely recognized side of “prominent,” especially for people."
+        }
+      ],
       "examples": [
         {
           "english": "That singer is very famous in Hong Kong.",

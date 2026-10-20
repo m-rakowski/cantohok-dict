@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "support, back",
-      "english": ["support", "endorse", "strengthen"],
+      "english": [
+        {
+          "id": "5bh0id49",
+          "word": "support",
+          "meaning": "back or favor",
+          "note": "This is the all-purpose choice for backing a person or cause, and for evidence supporting a claim."
+        },
+        {
+          "id": "ady2u08e",
+          "word": "endorse",
+          "meaning": "support publicly",
+          "note": "This is the all-purpose choice for expressing public or personal support or approval."
+        },
+        {
+          "id": "t665dg5j",
+          "word": "strengthen",
+          "meaning": "reinforce, support",
+          "note": "Use this when strengthening means supporting a person, group, plan, or cause."
+        }
+      ],
       "examples": [
         {
           "english": "I support you in taking part in this election.",

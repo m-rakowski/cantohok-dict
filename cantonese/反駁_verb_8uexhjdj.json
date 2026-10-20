@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "argue against, refute",
-      "english": ["refute", "contradict", "counter"],
+      "english": [
+        {
+          "id": "3vm0voz3",
+          "word": "refute",
+          "meaning": "disprove",
+          "note": "Use this as the all-purpose verb for arguing that a claim or argument is false or incorrect."
+        },
+        {
+          "id": "ujhskxy9",
+          "word": "contradict",
+          "meaning": "oppose by denying",
+          "note": "Use this when actively arguing against what another person has said."
+        },
+        {
+          "id": "gp3vhyk6",
+          "word": "counter",
+          "meaning": "oppose, contradict",
+          "note": "Use this when counter means to contradict or argue against what someone has said."
+        }
+      ],
       "examples": [
         {
           "english": "This new evidence is enough to refute his claim.",

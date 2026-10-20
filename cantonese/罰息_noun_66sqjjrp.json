@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "financial fee",
-      "english": ["penalty"],
+      "english": [
+        {
+          "id": "vvdupviv",
+          "word": "penalty",
+          "meaning": "financial fee",
+          "note": "Use this for the financial charge imposed when money is withdrawn or an investment is ended early."
+        }
+      ],
       "examples": [
         {
           "english": "If we withdraw the fixed deposit early, we have to pay a penalty.",

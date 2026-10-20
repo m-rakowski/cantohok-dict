@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "cultural assimilation",
-      "english": ["assimilation"],
+      "english": [
+        {
+          "id": "harb8bjn",
+          "word": "assimilation",
+          "meaning": "cultural assimilation",
+          "note": "This is the all-purpose choice when the context makes clear whether the assimilation is cultural or phonetic."
+        }
+      ],
       "examples": [
         {
           "english": "After several generations in Hong Kong, they gradually underwent assimilation.",

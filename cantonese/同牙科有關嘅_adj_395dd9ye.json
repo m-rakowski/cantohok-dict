@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "dentistry-related",
-      "english": ["dental"],
+      "english": [
+        {
+          "id": "ighw9di9",
+          "word": "dental",
+          "meaning": "dentistry-related",
+          "note": "Use this when dental refers specifically to dentistry as a field, service, or profession rather than to teeth themselves."
+        }
+      ],
       "examples": [
         {
           "english": "Dental services usually require an appointment.",

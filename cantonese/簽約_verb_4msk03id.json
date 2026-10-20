@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "sign a contract",
-      "english": ["contract", "sign"],
+      "english": [
+        {
+          "id": "6es1nt2r",
+          "word": "contract",
+          "meaning": "make a contract",
+          "note": "Use 簽約 when the parties formally make an agreement by signing a contract."
+        },
+        {
+          "id": "ks41wmkr",
+          "word": "sign",
+          "meaning": "sign a player",
+          "note": "Use this for signing a contractual deal, with a team or record label, or engaging a player or performer under contract."
+        }
+      ],
       "examples": [
         {
           "english": "We will contract with a new supplier next month.",

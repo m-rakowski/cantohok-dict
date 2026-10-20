@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "matter, thing to deal with",
-      "english": ["affair", "business"],
+      "english": [
+        {
+          "id": "praqarqq",
+          "word": "affair",
+          "meaning": "business; matter",
+          "note": "This is the all-purpose noun for a matter, piece of business, or proceeding."
+        },
+        {
+          "id": "ku081tcw",
+          "word": "business",
+          "meaning": "matter to deal with",
+          "note": "Use this for a matter or task that needs dealing with, not for commercial activity."
+        }
+      ],
       "examples": [
         {
           "english": "We’ll deal with this affair tomorrow.",

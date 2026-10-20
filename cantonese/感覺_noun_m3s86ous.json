@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "feeling, impression",
-      "english": ["feel", "sense", "vibration"],
+      "english": [
+        {
+          "id": "p9kzj1ce",
+          "word": "feel",
+          "meaning": "vague impression",
+          "note": "This is the all-purpose noun for a vague impression or an emotion, but use 概念 for an emerging understanding."
+        },
+        {
+          "id": "q6iuttbe",
+          "word": "sense",
+          "meaning": "awareness; feeling",
+          "note": "Use this for a subjective feeling or awareness, especially in expressions such as a sense of security."
+        },
+        {
+          "id": "z4i7n4p8",
+          "word": "vibration",
+          "meaning": "feeling or atmosphere",
+          "note": "Use this for a personally sensed emotional vibe, especially in expressions like “good vibrations.”"
+        }
+      ],
       "examples": [
         {
           "english": "I have a very special feel about this restaurant.",
@@ -27,7 +46,27 @@
     },
     {
       "meaning": "physical sensation",
-      "english": ["feeling", "sensation", "perception"],
+      "english": [
+        {
+          "id": "mep30i8q",
+          "word": "feeling",
+          "meaning": "sensation, touch sensation",
+          "note": "Use 感覺 as the all-purpose noun for a physical sensation or subjective impression."
+        },
+        {
+          "id": "2gypd7bn",
+          "word": "sensation",
+          "meaning": "physical feeling",
+          "note": "This is the all-purpose choice for a physical feeling or perception."
+        },
+        {
+          "id": "2i6ksal6",
+          "word": "perception",
+          "meaning": "sensing and interpretation",
+          "register": "colloquial",
+          "note": "Use this for ordinary, subjective sensory perception rather than the technical process of processing sensory information."
+        }
+      ],
       "examples": [
         {
           "english": "The feeling I get from touching this shirt is very soft.",

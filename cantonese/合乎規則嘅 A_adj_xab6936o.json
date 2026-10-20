@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "rules-valid; game/programming",
-      "english": ["legal"],
+      "english": [
+        {
+          "id": "b598wgfp",
+          "word": "legal",
+          "meaning": "rules-valid; game/programming",
+          "note": "Use this when validity specifically comes from following a game's rules or a system's syntax, not from legal permission."
+        }
+      ],
       "examples": [
         {
           "english": "This is a legal move.",

@@ -6,7 +6,44 @@
   "boxes": [
     {
       "meaning": "evil, wicked",
-      "english": ["evil", "wicked", "depraved", "ungodly", "fiendish", "black"],
+      "english": [
+        {
+          "id": "0thffysv",
+          "word": "evil",
+          "meaning": "morally wicked",
+          "note": "This is the all-purpose choice for evil, especially a morally wicked person, act, or plan."
+        },
+        {
+          "id": "64zfy2w4",
+          "word": "wicked",
+          "meaning": "evil, morally bad",
+          "note": "Use 邪惡 as the all-purpose choice for someone or something morally evil or reprehensible."
+        },
+        {
+          "id": "cjs9stug",
+          "word": "depraved",
+          "meaning": "morally corrupt",
+          "note": "This is the all-purpose choice for someone or something morally evil or corrupt."
+        },
+        {
+          "id": "k8j82n0w",
+          "word": "ungodly",
+          "meaning": "wicked, immoral",
+          "note": "Use this as the all-purpose moral description for a wicked, sinful, or morally evil person, idea, or action."
+        },
+        {
+          "id": "bwd0zhnv",
+          "word": "fiendish",
+          "meaning": "evil, sinister",
+          "note": "Use this for the general sense of being evil or fiend-like."
+        },
+        {
+          "id": "dmbwydtv",
+          "word": "black",
+          "meaning": "bad, evil",
+          "note": "Use 邪惡 for something morally evil or wicked rather than literally black."
+        }
+      ],
       "examples": [
         {
           "english": "That evil plan will definitely kill people.",
@@ -42,7 +79,15 @@
     },
     {
       "meaning": "sinfully indulgent (food)",
-      "english": ["naughty"],
+      "english": [
+        {
+          "id": "vv63tmmw",
+          "word": "naughty",
+          "meaning": "indulgent treat",
+          "register": "colloquial",
+          "note": "Use this colloquially for an indulgent, especially unhealthy food or drink that is temptingly decadent."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

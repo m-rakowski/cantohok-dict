@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "flower",
-      "english": ["flower", "bloom", "blossom"],
+      "english": [
+        {
+          "id": "763xnu4f",
+          "word": "flower",
+          "meaning": "flower (bloom)",
+          "note": "This is the all-purpose choice for a bloom, a flowering plant in context, or cut flowers being displayed or given."
+        },
+        {
+          "id": "x701zlib",
+          "word": "bloom",
+          "meaning": "flower; blossom",
+          "note": "This is the all-purpose noun for a blossom or flower."
+        },
+        {
+          "id": "7auilj4u",
+          "word": "blossom",
+          "meaning": "flower on fruit tree",
+          "note": "This is the all-purpose noun for a flower or a mass of flowers on a fruit tree."
+        }
+      ],
       "examples": [
         {
           "english": "This flower is for you.",

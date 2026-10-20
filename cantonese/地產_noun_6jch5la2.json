@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "property/land and buildings",
-      "english": ["real estate"],
+      "english": [
+        {
+          "id": "os54haab",
+          "word": "real estate",
+          "meaning": "property/land and buildings",
+          "note": "This is the all-purpose choice for land and buildings as property or as a business sector."
+        }
+      ],
       "examples": [
         {
           "english": "My older brother has worked in real estate for ten years.",

@@ -6,7 +6,28 @@
   "boxes": [
     {
       "meaning": "spacious, roomy",
-      "english": ["spacious", "capacious", "ample"],
+      "english": [
+        {
+          "id": "fidq03tm",
+          "word": "spacious",
+          "meaning": "roomy, having plenty of space",
+          "note": "This is the all-purpose colloquial choice for a room, home, or other place with plenty of space."
+        },
+        {
+          "id": "7z1iwwit",
+          "word": "capacious",
+          "meaning": "spacious, roomy",
+          "register": "colloquial",
+          "note": "This is the all-purpose spoken choice for describing a room, home, or other interior with plenty of space."
+        },
+        {
+          "id": "qebyc5q4",
+          "word": "ample",
+          "meaning": "large; plentiful",
+          "register": "colloquial",
+          "note": "Use this specifically for a place or space that is roomy and spacious."
+        }
+      ],
       "examples": [
         {
           "english": "This home is spacious and bright, so it is very comfortable to live in.",

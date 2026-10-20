@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "suitable",
-      "english": ["suitable", "fit"],
+      "english": [
+        {
+          "id": "uihy0mj3",
+          "word": "suitable",
+          "meaning": "appropriate / fit for purpose",
+          "note": "Use this when explicitly saying that something suits a particular person, purpose, or task."
+        },
+        {
+          "id": "s3s3zfxq",
+          "word": "fit",
+          "meaning": "suited to purpose",
+          "note": "Use 適合 when something is well suited to a particular purpose, role, or environment rather than merely proper in general."
+        }
+      ],
       "examples": [
         {
           "english": "This job is suitable for you.",

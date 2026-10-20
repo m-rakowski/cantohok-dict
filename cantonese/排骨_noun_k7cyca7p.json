@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "pork ribs",
-      "english": ["sparerib", "rib"],
+      "english": [
+        {
+          "id": "q5aslmp8",
+          "word": "sparerib",
+          "meaning": "cut of pork ribs",
+          "note": "This is the all-purpose Cantonese noun for a cut of pork containing the rib bones."
+        },
+        {
+          "id": "fgu68bsa",
+          "word": "rib",
+          "meaning": "rib meat",
+          "note": "Use 排骨 for rib meat, especially as a food or dish, rather than for the bone in the body."
+        }
+      ],
       "examples": [
         {
           "english": "This sparerib is perfect for making soup.",
@@ -22,7 +35,15 @@
     },
     {
       "meaning": "very thin person",
-      "english": ["skeleton"],
+      "english": [
+        {
+          "id": "lfpp8x6p",
+          "word": "skeleton",
+          "meaning": "very thin person",
+          "register": "colloquial",
+          "note": "Use this colloquial expression for a person who is extremely thin, rather than for an actual skeleton."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

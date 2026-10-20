@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "weather forecast",
-      "english": ["forecast", "weather forecast"],
+      "english": [
+        {
+          "id": "8h6gxs0s",
+          "word": "forecast",
+          "meaning": "weather forecast",
+          "note": "Use this specifically for a forecast of the weather."
+        },
+        {
+          "id": "w9kafr9n",
+          "word": "weather forecast",
+          "meaning": "prediction of future weather",
+          "note": "This is the all-purpose Cantonese term for a prediction of future weather."
+        }
+      ],
       "examples": [
         {
           "english": "Today's weather forecast says it will rain tomorrow.",

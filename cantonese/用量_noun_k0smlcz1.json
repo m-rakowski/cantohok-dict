@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "amount used",
-      "english": ["consumption"],
+      "english": [
+        {
+          "id": "b1sbz5ae",
+          "word": "consumption",
+          "meaning": "amount used",
+          "note": "Use this when consumption means the quantity used, especially for fuel, energy, or materials."
+        }
+      ],
       "examples": [
         {
           "english": "This car's petrol consumption is lower than before.",

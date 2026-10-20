@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "government income",
-      "english": ["revenue"],
+      "english": [
+        {
+          "id": "w4rf3h6m",
+          "word": "revenue",
+          "meaning": "government income",
+          "note": "Use this for the tax-derived part of government revenue, rather than for all government income."
+        }
+      ],
       "examples": [
         {
           "english": "The government relies on tax revenue to maintain public services.",

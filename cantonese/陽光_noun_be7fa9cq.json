@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "sunshine, sunlight",
-      "english": ["sunshine", "sunlight", "sun"],
+      "english": [
+        {
+          "id": "c0kktf6d",
+          "word": "sunshine",
+          "meaning": "sun’s rays or light",
+          "note": "This is the all-purpose Cantonese noun for the sun’s rays, light, or warmth."
+        },
+        {
+          "id": "kv3nk7h0",
+          "word": "sunlight",
+          "meaning": "sun's light",
+          "note": "This is the all-purpose Cantonese noun for the Sun’s light."
+        },
+        {
+          "id": "3gstfsju",
+          "word": "sun",
+          "meaning": "sunlight, sunshine",
+          "note": "Use 陽光 for the sunlight or sunshine itself rather than the sun as a celestial body."
+        }
+      ],
       "examples": [
         {
           "english": "There's sunshine today, so we don't need to bring an umbrella when we go out.",

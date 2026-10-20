@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "honestly, seriously",
-      "english": ["frankly", "seriously"],
+      "english": [
+        {
+          "id": "jkpr0ge4",
+          "word": "frankly",
+          "meaning": "frankly = to tell the truth",
+          "note": "Use this especially when stressing that what follows is the truth, rather than mainly its blunt delivery."
+        },
+        {
+          "id": "n77te61p",
+          "word": "seriously",
+          "meaning": "to introduce a serious point",
+          "note": "Use this to signal that you are switching from joking to making a serious point."
+        }
+      ],
       "examples": [
         {
           "english": "Frankly, the food at this restaurant is really good.",

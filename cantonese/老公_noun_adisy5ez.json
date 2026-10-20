@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "husband",
-      "english": ["husband", "man"],
+      "english": [
+        {
+          "id": "qdbp8py9",
+          "word": "husband",
+          "meaning": "married man",
+          "register": "colloquial",
+          "note": "This is the all-purpose colloquial choice for a husband."
+        },
+        {
+          "id": "fsp0181q",
+          "word": "man",
+          "meaning": "husband",
+          "register": "colloquial",
+          "note": "Use this specifically for someone’s husband rather than for a man generally."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "fanatical, extremely passionate",
-      "english": ["fanatic", "avid", "religious"],
+      "english": [
+        {
+          "id": "frpl3quy",
+          "word": "fanatic",
+          "meaning": "fanatical",
+          "note": "This is the all-purpose choice for someone intensely devoted to a belief, cause, or interest."
+        },
+        {
+          "id": "m1inrl1u",
+          "word": "avid",
+          "meaning": "enthusiastic, keen",
+          "note": "Use this for especially intense enthusiasm, such as an avid fan or supporter."
+        },
+        {
+          "id": "glc9f14f",
+          "word": "religious",
+          "meaning": "fanatical; very devoted",
+          "note": "Choose this for intense, almost fanatical enthusiasm for a religion or another activity."
+        }
+      ],
       "examples": [
         {
           "english": "They are a fanatic about environmental activism.",

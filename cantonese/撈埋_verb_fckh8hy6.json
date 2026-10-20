@@ -6,7 +6,35 @@
   "boxes": [
     {
       "meaning": "mix together",
-      "english": ["blend", "mix", "combine", "mingle"],
+      "english": [
+        {
+          "id": "4kluxkzp",
+          "word": "blend",
+          "meaning": "mix together",
+          "note": "This is the all-purpose colloquial choice for mixing ingredients or other things together."
+        },
+        {
+          "id": "dffzy7im",
+          "word": "mix",
+          "meaning": "combine separate things",
+          "register": "colloquial",
+          "note": "This is the all-purpose colloquial choice for combining separate things together."
+        },
+        {
+          "id": "mkep9c53",
+          "word": "combine",
+          "meaning": "bring things together",
+          "register": "colloquial",
+          "note": "Use this when physically mixing ingredients or other substances together."
+        },
+        {
+          "id": "0tvhpmnf",
+          "word": "mingle",
+          "meaning": "mix together",
+          "register": "colloquial",
+          "note": "This is the all-purpose colloquial choice for mixing or combining separate things or parts."
+        }
+      ],
       "examples": [
         {
           "english": "Blend the vegetables together and they’ll taste better.",

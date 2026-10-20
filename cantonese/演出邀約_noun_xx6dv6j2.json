@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "performer engagement",
-      "english": ["booking"],
+      "english": [
+        {
+          "id": "dmn7wfgi",
+          "word": "booking",
+          "meaning": "performer engagement",
+          "note": "Use 演出邀約 for a performer's engagement to appear in a particular show."
+        }
+      ],
       "examples": [
         {
           "english": "This singer recently received a booking to perform at a music festival.",

@@ -6,7 +6,62 @@
   "boxes": [
     {
       "meaning": "disgusting, gross",
-      "english": ["disgusting", "nasty", "gross", "abhorrent", "foul", "ugly", "detestable", "grim"],
+      "english": [
+        {
+          "id": "rki03y05",
+          "word": "disgusting",
+          "meaning": "repulsive; causing disgust",
+          "register": "colloquial",
+          "note": "This is the all-purpose colloquial choice for something repulsive, gross, or distasteful."
+        },
+        {
+          "id": "6w2o99jw",
+          "word": "nasty",
+          "meaning": "unpleasant or offensive thing",
+          "note": "Use this as the all-purpose choice for a thing that is disgusting, repellent, or objectionable."
+        },
+        {
+          "id": "ocnpx8tf",
+          "word": "gross",
+          "meaning": "disgusting",
+          "note": "This is the everyday choice for something that causes disgust, rather than something merely outrageous or financially gross."
+        },
+        {
+          "id": "w1ijl974",
+          "word": "abhorrent",
+          "meaning": "detestable; repugnant",
+          "register": "colloquial",
+          "note": "Use this when the abhorrent thing feels disgusting, repulsive, or morally gross rather than merely disliked."
+        },
+        {
+          "id": "ssi65spk",
+          "word": "foul",
+          "meaning": "disgusting, repulsive",
+          "register": "colloquial",
+          "note": "Choose this when a person, thing, or food is disgusting or loathsome rather than merely physically dirty."
+        },
+        {
+          "id": "y9p0hey6",
+          "word": "ugly",
+          "meaning": "visually unattractive",
+          "register": "colloquial",
+          "note": "Use this when the ugliness is repulsive or disgusting, including a nasty sound or morally offensive conduct, rather than merely unattractive."
+        },
+        {
+          "id": "3odykch8",
+          "word": "detestable",
+          "meaning": "causing disgust; offensive",
+          "register": "colloquial",
+          "note": "Use this when the detestable thing is gross, disgusting, or offensive to the senses."
+        },
+        {
+          "id": "bmg0xg4e",
+          "word": "grim",
+          "meaning": "gross, disgusting",
+          "register": "colloquial",
+          "note": "Use this colloquial choice when grim means disgusting or gross."
+        }
+      ],
       "examples": [
         {
           "english": "This dish looks disgusting.",

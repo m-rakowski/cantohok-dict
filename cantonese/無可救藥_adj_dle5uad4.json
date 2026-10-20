@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "cannot be cured",
-      "english": ["incurable"],
+      "english": [
+        {
+          "id": "rc6f16zg",
+          "word": "incurable",
+          "meaning": "cannot be cured",
+          "note": "Use this for a hopeless condition such as profound ignorance or a bad habit, rather than as the usual clinical term for an illness."
+        }
+      ],
       "examples": [
         {
           "english": "Their habit of lying is truly incurable.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "to recall, think back",
-      "english": ["reminisce", "recollect"],
+      "english": [
+        {
+          "id": "pf63u17k",
+          "word": "reminisce",
+          "meaning": "remember fondly",
+          "note": "This is the all-purpose spoken choice for thinking back to past experiences, often with a fond or nostalgic feeling."
+        },
+        {
+          "id": "ymjaq1lt",
+          "word": "recollect",
+          "meaning": "remember, recall",
+          "note": "Use this when actively calling a past event, fact, or reason back to mind."
+        }
+      ],
       "examples": [
         {
           "english": "I reminisce about going to the market with my grandma when I was little whenever I have free time.",

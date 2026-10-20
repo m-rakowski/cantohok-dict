@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "encouragement",
-      "english": ["encouragement", "exhilaration", "stimulation"],
+      "english": [
+        {
+          "id": "e3grg5r1",
+          "word": "encouragement",
+          "meaning": "supportive words/actions",
+          "note": "This is the all-purpose noun for words or actions that build someone's confidence."
+        },
+        {
+          "id": "9yq0zc5s",
+          "word": "exhilaration",
+          "meaning": "act of cheering up",
+          "note": "Use 鼓勵 when the noun refers to someone’s act of cheering another person up, rather than the resulting feeling."
+        },
+        {
+          "id": "qgzu901l",
+          "word": "stimulation",
+          "meaning": "encouragement to act",
+          "note": "Use 鼓勵 for the supportive, positive kind of pushing someone toward action."
+        }
+      ],
       "examples": [
         {
           "english": "The teacher's encouragement gave me the confidence to keep trying.",

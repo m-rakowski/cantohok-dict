@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "fix in place, secure",
-      "english": ["fasten", "firm", "anchor"],
+      "english": [
+        {
+          "id": "aezcg9yl",
+          "word": "fasten",
+          "meaning": "attach securely",
+          "note": "Use this as the all-purpose everyday verb for securing an object in place when the fastening method is not the focus."
+        },
+        {
+          "id": "jxjjowud",
+          "word": "firm",
+          "meaning": "make firm",
+          "note": "This is the all-purpose choice when you mean securing something in place."
+        },
+        {
+          "id": "fteausca",
+          "word": "anchor",
+          "meaning": "moor / secure",
+          "note": "Use 固定 when securing a general object to a fixed point rather than specifically dropping a boat anchor."
+        }
+      ],
       "examples": [
         {
           "english": "Help me fasten this table in place so it does not move.",

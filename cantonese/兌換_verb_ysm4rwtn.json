@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "exchange money",
-      "english": ["convert"],
+      "english": [
+        {
+          "id": "f0y8a1pb",
+          "word": "convert",
+          "meaning": "exchange money",
+          "note": "Use this specifically for exchanging one currency or thing of equal value for another."
+        }
+      ],
       "examples": [
         {
           "english": "I need to convert five hundred dollars into Japanese yen at the airport.",

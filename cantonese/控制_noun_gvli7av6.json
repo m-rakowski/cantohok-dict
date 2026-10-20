@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "control",
-      "english": ["domination", "grip"],
+      "english": [
+        {
+          "id": "153udb8u",
+          "word": "domination",
+          "meaning": "control, supremacy",
+          "note": "This is the all-purpose noun for control or supremacy gained through power, influence, position, or resources."
+        },
+        {
+          "id": "r9cmfx3e",
+          "word": "grip",
+          "meaning": "control; hold over",
+          "note": "Use this for control or mastery over a situation, person, or thing, especially in the metaphorical sense."
+        }
+      ],
       "examples": [
         {
           "english": "With its abundant resources, the company achieved domination of the entire market.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "medical observation",
-      "english": ["observation"],
+      "english": [
+        {
+          "id": "ij12c0t7",
+          "word": "observation",
+          "meaning": "medical observation",
+          "note": "Use this for a medical evaluation or period of watching a patient, as in a doctor’s observation."
+        }
+      ],
       "examples": [
         {
           "english": "The doctor said we need to keep you in the hospital for observation overnight.",

@@ -6,7 +6,29 @@
   "boxes": [
     {
       "meaning": "protector",
-      "english": ["defender", "shield", "safeguard"],
+      "english": [
+        {
+          "id": "f9ov0ixw",
+          "word": "defender",
+          "meaning": "protector",
+          "register": "formal",
+          "note": "This is the all-purpose noun for someone who protects people or property."
+        },
+        {
+          "id": "34h9db7o",
+          "word": "shield",
+          "meaning": "one who protects",
+          "register": "formal",
+          "note": "Use 保護者 for a person who protects or defends, especially in formal or descriptive contexts."
+        },
+        {
+          "id": "r9m72com",
+          "word": "safeguard",
+          "meaning": "protector, defense",
+          "register": "formal",
+          "note": "Use this for the person or agent who protects someone or something, rather than for protection itself."
+        }
+      ],
       "register": "formal",
       "examples": [
         {

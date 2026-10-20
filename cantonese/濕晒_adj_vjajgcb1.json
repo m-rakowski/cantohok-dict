@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "soaking wet",
-      "english": ["soaked", "soaking"],
+      "english": [
+        {
+          "id": "sbz3u9ob",
+          "word": "soaked",
+          "meaning": "wet through",
+          "note": "Use 濕晒 as the everyday all-purpose way to say that someone or something is drenched or wet through."
+        },
+        {
+          "id": "4zc59z9t",
+          "word": "soaking",
+          "meaning": "extremely wet; saturated",
+          "note": "This is the all-purpose colloquial way to say that something is soaking wet."
+        }
+      ],
       "examples": [
         {
           "english": "My shirt is soaked—you can wring water out of it.",

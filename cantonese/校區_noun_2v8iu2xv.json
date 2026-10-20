@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "school grounds",
-      "english": ["campus"],
+      "english": [
+        {
+          "id": "nlkt3ug4",
+          "word": "campus",
+          "meaning": "school grounds",
+          "note": "Use this when stressing a distinct, bounded school or university site, especially one of several campuses."
+        }
+      ],
       "examples": [
         {
           "english": "This university has three campuses; this is the main campus.",

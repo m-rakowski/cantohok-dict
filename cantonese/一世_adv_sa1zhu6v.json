@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "for one's whole life, forever",
-      "english": ["forever", "permanently"],
+      "english": [
+        {
+          "id": "uzppdusn",
+          "word": "forever",
+          "meaning": "for all time",
+          "note": "Use this for lasting throughout a person's lifetime, especially in personal vows, rather than for indefinite eternity."
+        },
+        {
+          "id": "hoenm7wd",
+          "word": "permanently",
+          "meaning": "forever",
+          "register": "colloquial",
+          "note": "Use this for forever in the sense of lasting for a person's whole lifetime, often in emphatic speech."
+        }
+      ],
       "examples": [
         {
           "english": "I will love you forever.",

@@ -6,7 +6,44 @@
   "boxes": [
     {
       "meaning": "to prove, show to be true",
-      "english": ["prove", "demonstrate", "certify", "substantiate", "establish", "show"],
+      "english": [
+        {
+          "id": "hfrhzrl0",
+          "word": "prove",
+          "meaning": "show true",
+          "note": "This is the all-purpose choice for demonstrating that a claim is true or valid."
+        },
+        {
+          "id": "j65ce488",
+          "word": "demonstrate",
+          "meaning": "show; prove",
+          "note": "Use this as the all-purpose choice when demonstrating that something is true or evident."
+        },
+        {
+          "id": "pbbnu2g4",
+          "word": "certify",
+          "meaning": "attest as true",
+          "note": "Use 證明 as the all-purpose verb for stating that a fact is true."
+        },
+        {
+          "id": "5qlqn5mt",
+          "word": "substantiate",
+          "meaning": "prove with evidence",
+          "note": "Use this as the all-purpose verb when evidence is used to establish that a claim is true."
+        },
+        {
+          "id": "k6bqmw4n",
+          "word": "establish",
+          "meaning": "prove; demonstrate",
+          "note": "Use this when evidence demonstrates that a fact or claim is true."
+        },
+        {
+          "id": "voq1x45s",
+          "word": "show",
+          "meaning": "show, prove",
+          "note": "Use this when showing something to be true or vindicating yourself to someone who doubted you."
+        }
+      ],
       "examples": [
         {
           "english": "I can use the data to prove that this claim is true.",

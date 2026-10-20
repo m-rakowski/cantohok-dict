@@ -6,7 +6,15 @@
   "boxes": [
     {
       "meaning": "person sharing a room",
-      "english": ["roommate"],
+      "english": [
+        {
+          "id": "veijiour",
+          "word": "roommate",
+          "meaning": "person sharing a room",
+          "register": "colloquial",
+          "note": "Use this for someone in the same room when the shared-room setting is clear, such as a dormitory or hospital ward."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

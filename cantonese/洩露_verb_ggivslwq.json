@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "leak a secret",
-      "english": ["leak", "betray"],
+      "english": [
+        {
+          "id": "ikpxw57c",
+          "word": "leak",
+          "meaning": "leak secret information",
+          "note": "Use this for secretly disclosing confidential information, rather than for a physical leak."
+        },
+        {
+          "id": "r78h6vok",
+          "word": "betray",
+          "meaning": "reveal a secret",
+          "note": "Use this specifically when someone discloses a secret or confidential information."
+        }
+      ],
       "examples": [
         {
           "english": "I don't know who chose to leak the confidential document.",

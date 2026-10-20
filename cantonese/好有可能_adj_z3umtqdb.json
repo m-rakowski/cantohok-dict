@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "very likely",
-      "english": ["likely", "probable"],
+      "english": [
+        {
+          "id": "mj8own3i",
+          "word": "likely",
+          "meaning": "probable",
+          "note": "This is the all-purpose spoken choice for saying that something is probable or has a better-than-even chance of happening."
+        },
+        {
+          "id": "b7ad5ifz",
+          "word": "probable",
+          "meaning": "likely, probably true",
+          "note": "This is the all-purpose choice for saying that something is likely to be true or likely to happen."
+        }
+      ],
       "examples": [
         {
           "english": "We are likely to close this deal after talking it through.",

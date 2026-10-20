@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "bartender",
-      "english": ["barman", "bartender", "drawer"],
+      "english": [
+        {
+          "id": "l0xi3etf",
+          "word": "barman",
+          "meaning": "bar worker",
+          "note": "This is the all-purpose word for a man working behind a bar; Cantonese normally leaves the male gender implicit."
+        },
+        {
+          "id": "4mdzx3r2",
+          "word": "bartender",
+          "meaning": "bar worker",
+          "note": "This is the all-purpose Cantonese noun for a person who tends a bar and serves drinks."
+        },
+        {
+          "id": "ugni3qxu",
+          "word": "drawer",
+          "meaning": "barman",
+          "register": "written",
+          "note": "Use 酒保 for the barman serving or drawing drinks from a bar tap."
+        }
+      ],
       "examples": [
         {
           "english": "The barman at that bar is very good at looking after customers.",

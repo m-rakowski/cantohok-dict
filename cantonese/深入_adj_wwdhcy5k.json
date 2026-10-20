@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "in-depth, thorough",
-      "english": ["profound", "intimate"],
+      "english": [
+        {
+          "id": "as80z6qn",
+          "word": "profound",
+          "meaning": "deep, thorough",
+          "note": "Use this for intellectual depth or thoroughness, especially with study, research, analysis, or investigation."
+        },
+        {
+          "id": "12f0mytb",
+          "word": "intimate",
+          "meaning": "deeply familiar with",
+          "note": "Use this when the subject involves detailed knowledge gained through great familiarity."
+        }
+      ],
       "examples": [
         {
           "english": "We need to conduct a profound study of this issue.",

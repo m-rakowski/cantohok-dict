@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "simply, absolutely",
-      "english": ["simply", "positively"],
+      "english": [
+        {
+          "id": "6u5zxe6q",
+          "word": "simply",
+          "meaning": "absolutely, very",
+          "register": "colloquial",
+          "note": "Use this before an emphatic evaluation, meaning absolutely or positively, as in “simply wonderful.”"
+        },
+        {
+          "id": "lbwx2b57",
+          "word": "positively",
+          "meaning": "absolutely",
+          "note": "Use 簡直 for emphatic “absolutely” or “utterly,” especially before a strongly negative or extreme statement."
+        }
+      ],
       "examples": [
         {
           "english": "This movie is simply fantastic.",

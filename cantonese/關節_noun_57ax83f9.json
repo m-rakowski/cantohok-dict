@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "joint",
-      "english": ["articulation", "joint"],
+      "english": [
+        {
+          "id": "aqj9ozi6",
+          "word": "articulation",
+          "meaning": "joint / hinged connection",
+          "note": "Use this for a bending joint in the body, a machine, or a robot."
+        },
+        {
+          "id": "1p2h6rpl",
+          "word": "joint",
+          "meaning": "body joint",
+          "note": "This is the all-purpose choice for a body joint and can also describe a rotating joint in a mechanical structure."
+        }
+      ],
       "examples": [
         {
           "english": "The robot's articulation moves very smoothly.",

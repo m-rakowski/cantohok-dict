@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "granary, grain store",
-      "english": ["barn", "elevator"],
+      "english": [
+        {
+          "id": "v0u4n900",
+          "word": "barn",
+          "meaning": "farm building",
+          "register": "written",
+          "note": "Use this when the barn is specifically a farm building for storing grain or other harvested crops."
+        },
+        {
+          "id": "hjrq3v88",
+          "word": "elevator",
+          "meaning": "grain elevator",
+          "note": "Use this for a grain-storage silo or granary, not for a passenger lift."
+        }
+      ],
       "examples": [
         {
           "english": "This barn is used to store harvested grain.",

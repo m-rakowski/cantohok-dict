@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "immigration (moving to another country)",
-      "english": ["immigration"],
+      "english": [
+        {
+          "id": "ggyywq1w",
+          "word": "immigration",
+          "meaning": "moving into a country",
+          "note": "This is the all-purpose rendering for the act of moving permanently to another country."
+        }
+      ],
       "examples": [
         {
           "english": "I'm considering immigration to Canada.",
@@ -17,7 +24,20 @@
     },
     {
       "meaning": "immigrant",
-      "english": ["settler", "immigrant"],
+      "english": [
+        {
+          "id": "lbo4dr51",
+          "word": "settler",
+          "meaning": "new resident / colonist",
+          "note": "Use this for someone who moves to another country or region to make a home there; it is the common spoken choice for that meaning."
+        },
+        {
+          "id": "blbvggyt",
+          "word": "immigrant",
+          "meaning": "person who settles in a new country",
+          "note": "This is the all-purpose Cantonese noun for a person who moves to another country to settle there."
+        }
+      ],
       "examples": [
         {
           "english": "My cousin became a settler in Canada.",

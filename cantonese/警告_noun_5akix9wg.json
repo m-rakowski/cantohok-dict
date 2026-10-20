@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "warning",
-      "english": ["warning", "notice"],
+      "english": [
+        {
+          "id": "ulmv3wiu",
+          "word": "warning",
+          "meaning": "warning someone",
+          "note": "This is the all-purpose noun for a warning, including one given to a person or issued in writing."
+        },
+        {
+          "id": "sw4hmvcu",
+          "word": "notice",
+          "meaning": "formal warning",
+          "note": "Use 警告 when a notice is a formal warning that alerts people to danger or a possible penalty."
+        }
+      ],
       "examples": [
         {
           "english": "This warning is very clear; don't do it again.",

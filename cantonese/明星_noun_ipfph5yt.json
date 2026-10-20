@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "celebrity, star",
-      "english": ["celebrity", "star"],
+      "english": [
+        {
+          "id": "5ce3se7x",
+          "word": "celebrity",
+          "meaning": "famous person",
+          "note": "Use this as the all-purpose choice when referring to a famous person."
+        },
+        {
+          "id": "krnzmimz",
+          "word": "star",
+          "meaning": "celebrity / star person",
+          "note": "Use this for a movie star or a famous celebrity rather than a celestial star or rating symbol."
+        }
+      ],
       "examples": [
         {
           "english": "That celebrity is on TV all the time.",

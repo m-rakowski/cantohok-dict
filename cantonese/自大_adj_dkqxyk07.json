@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "arrogant, conceited",
-      "english": ["vain", "arrogant", "narcissistic", "proud"],
+      "english": [
+        {
+          "id": "dfhald5c",
+          "word": "vain",
+          "meaning": "conceited, self-important",
+          "note": "This is the all-purpose choice for someone who is conceited or self-important."
+        },
+        {
+          "id": "wt20ldh1",
+          "word": "arrogant",
+          "meaning": "excessively proud, disdainful",
+          "note": "This is the all-purpose choice for someone who is excessively proud of themselves."
+        },
+        {
+          "id": "um5jiu1e",
+          "word": "narcissistic",
+          "meaning": "self-important",
+          "note": "Use this when the emphasis is on having an exaggerated sense of one's own importance."
+        },
+        {
+          "id": "qvteiyyy",
+          "word": "proud",
+          "meaning": "arrogant; conceited",
+          "note": "Use this when “proud” means having an overly high opinion of oneself."
+        }
+      ],
       "examples": [
         {
           "english": "They are always vain and think they are better than everyone else.",

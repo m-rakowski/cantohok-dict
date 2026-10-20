@@ -6,7 +6,33 @@
   "boxes": [
     {
       "meaning": "surprise, astonishment",
-      "english": ["amazement", "astonishment", "wonder", "surprise"],
+      "english": [
+        {
+          "id": "t8wys02p",
+          "word": "amazement",
+          "meaning": "state of wonder",
+          "note": "This is the all-purpose noun for a state of intense surprise or wonder, especially in phrases such as 一臉驚訝."
+        },
+        {
+          "id": "lr8n2aec",
+          "word": "astonishment",
+          "meaning": "great surprise",
+          "note": "This is the all-purpose noun for the feeling or experience of being astonished."
+        },
+        {
+          "id": "gg1z1qdk",
+          "word": "wonder",
+          "meaning": "awe / amazement",
+          "note": "Use 驚訝 as the all-purpose noun for the feeling of astonishment, surprise, and curiosity."
+        },
+        {
+          "id": "t6c38qc5",
+          "word": "surprise",
+          "meaning": "feeling of surprise",
+          "register": "formal",
+          "note": "Use this nominal form for the feeling of astonishment itself, especially when it is neutral or unpleasant rather than pleasant."
+        }
+      ],
       "examples": [
         {
           "english": "I was filled with amazement when I saw him move all the furniture from the whole house by himself.",

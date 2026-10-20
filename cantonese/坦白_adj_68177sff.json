@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "frank, candid",
-      "english": ["frank", "candid", "ingenuous", "straightforward", "direct"],
+      "english": [
+        {
+          "id": "hy2ojbk0",
+          "word": "frank",
+          "meaning": "bluntly honest",
+          "note": "This is the all-purpose adjective for saying that someone is candid and straightforward."
+        },
+        {
+          "id": "il337g9l",
+          "word": "candid",
+          "meaning": "frank, open, sincere",
+          "note": "This is the all-purpose choice for someone being open, sincere, and frank."
+        },
+        {
+          "id": "kd9n2zxu",
+          "word": "ingenuous",
+          "meaning": "candid, frank",
+          "note": "Use this when someone is open and frank rather than naive or innocent."
+        },
+        {
+          "id": "0frjjj5b",
+          "word": "straightforward",
+          "meaning": "direct; frank",
+          "note": "Use this when the emphasis is on being frank, open, or sincere, especially about personal feelings or facts."
+        },
+        {
+          "id": "0pdpeq69",
+          "word": "direct",
+          "meaning": "frank; straightforward",
+          "note": "Use this for a person or statement that is frank, candid, and sincere rather than merely explicit."
+        }
+      ],
       "examples": [
         {
           "english": "I'll be frank with you: this report isn't good enough.",

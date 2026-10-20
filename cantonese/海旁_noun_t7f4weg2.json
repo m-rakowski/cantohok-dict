@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "waterfront, seafront",
-      "english": ["waterfront", "seaside"],
+      "english": [
+        {
+          "id": "6885s66i",
+          "word": "waterfront",
+          "meaning": "shore area",
+          "register": "colloquial",
+          "note": "This is the all-purpose Cantonese choice for the land or area beside the water."
+        },
+        {
+          "id": "grmy10i9",
+          "word": "seaside",
+          "meaning": "coast, seaside area",
+          "note": "Use this especially for an urban waterfront or seafront promenade rather than a beach or open coast in general."
+        }
+      ],
       "examples": [
         {
           "english": "We took a slow walk along the waterfront after dinner, watching the boats across the way.",

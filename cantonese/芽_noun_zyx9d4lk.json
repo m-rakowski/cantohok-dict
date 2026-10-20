@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "sprout, bud",
-      "english": ["bud", "sprout"],
+      "english": [
+        {
+          "id": "878y24g5",
+          "word": "bud",
+          "meaning": "leaf or flower bud",
+          "note": "This is the all-purpose noun for a newly forming plant leaf or flower."
+        },
+        {
+          "id": "bwv77u7w",
+          "word": "sprout",
+          "meaning": "new plant growth",
+          "note": "This is the all-purpose choice for a small new plant growth or a just-germinated young plant."
+        }
+      ],
       "examples": [
         {
           "english": "A bud has just grown on the branch.",

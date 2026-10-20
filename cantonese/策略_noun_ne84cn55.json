@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "strategy, tactic",
-      "english": ["strategy", "tactic"],
+      "english": [
+        {
+          "id": "bbskhu22",
+          "word": "strategy",
+          "meaning": "plan to reach a goal",
+          "note": "Use 策略 as the all-purpose noun for a goal-oriented strategy, especially outside specifically military contexts."
+        },
+        {
+          "id": "j9o16oij",
+          "word": "tactic",
+          "meaning": "planned maneuver",
+          "note": "This is the all-purpose choice for a deliberate plan or action aimed at achieving a result."
+        }
+      ],
       "examples": [
         {
           "english": "We need to set a strategy before entering overseas markets.",

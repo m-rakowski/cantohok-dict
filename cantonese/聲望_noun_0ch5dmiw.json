@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "reputation, prestige",
-      "english": ["prestige", "eminence"],
+      "english": [
+        {
+          "id": "eegyhsnx",
+          "word": "prestige",
+          "meaning": "high reputation",
+          "note": "Use this as the all-purpose noun for high reputation or prestige."
+        },
+        {
+          "id": "bp39oc6v",
+          "word": "eminence",
+          "meaning": "high rank or status",
+          "note": "Use this when the eminence specifically means a person's reputation and public respect."
+        }
+      ],
       "examples": [
         {
           "english": "This old shop has always had a lot of prestige among local residents.",

@@ -6,7 +6,41 @@
   "boxes": [
     {
       "meaning": "hold back a feeling or reaction",
-      "english": ["suppress", "repress", "strangle", "retain", "control"],
+      "english": [
+        {
+          "id": "f6uqxybf",
+          "word": "suppress",
+          "meaning": "hold back an expression",
+          "register": "colloquial",
+          "note": "Use this everyday choice when someone holds back laughter, a smile, tears, or another outward expression."
+        },
+        {
+          "id": "4km9ljhe",
+          "word": "repress",
+          "meaning": "restrain, hold back",
+          "note": "Use this specifically when someone restrains a personal urge, feeling, or reaction rather than holding back an external thing."
+        },
+        {
+          "id": "nwuv8f41",
+          "word": "strangle",
+          "meaning": "stifle or suppress",
+          "note": "Use this for holding back an involuntary sound or reaction, such as a scream."
+        },
+        {
+          "id": "0619enk6",
+          "word": "retain",
+          "meaning": "restrain oneself",
+          "register": "colloquial",
+          "note": "Use this for restraining yourself from showing an emotion or giving in to an urge."
+        },
+        {
+          "id": "dh2uevic",
+          "word": "control",
+          "meaning": "restrain, hold back",
+          "register": "colloquial",
+          "note": "Use this for holding back your own immediate action, emotion, urge, or physical response."
+        }
+      ],
       "examples": [
         {
           "english": "I suppress my laughter and do not laugh out loud in class.",

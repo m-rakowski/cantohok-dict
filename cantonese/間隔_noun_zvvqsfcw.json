@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "gap, space between",
-      "english": ["separation"],
+      "english": [
+        {
+          "id": "jxlkuj97",
+          "word": "separation",
+          "meaning": "gap or space",
+          "note": "Use this for the all-purpose physical or figurative gap between things or people, rather than for the object creating the gap."
+        }
+      ],
       "examples": [
         {
           "english": "There is a wide separation between these two tables.",
@@ -17,7 +24,20 @@
     },
     {
       "meaning": "time interval",
-      "english": ["interval", "lapse"],
+      "english": [
+        {
+          "id": "216e9r1d",
+          "word": "interval",
+          "meaning": "time period",
+          "note": "Use this for a measurable gap between two things or events, including a time gap rather than a standalone duration."
+        },
+        {
+          "id": "1599uvrq",
+          "word": "lapse",
+          "meaning": "interval of time",
+          "note": "Use this for the time interval separating two events."
+        }
+      ],
       "examples": [
         {
           "english": "The interval between the two buses is ten minutes.",

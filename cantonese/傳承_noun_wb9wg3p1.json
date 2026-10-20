@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "heritage passed down",
-      "english": ["legacy", "heritage"],
+      "english": [
+        {
+          "id": "tci1rqte",
+          "word": "legacy",
+          "meaning": "something inherited; lasting result",
+          "note": "Use this for a legacy of traditions, values, skills, or ideas passed down through generations rather than for money or property."
+        },
+        {
+          "id": "gz6otsec",
+          "word": "heritage",
+          "meaning": "tradition passed down",
+          "note": "Use this when emphasizing the continuing legacy or transmission of a tradition rather than one specific custom."
+        }
+      ],
       "examples": [
         {
           "english": "This craft is a legacy passed down from our ancestors.",

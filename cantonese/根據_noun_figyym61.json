@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "basis, grounds",
-      "english": ["basis", "ground"],
+      "english": [
+        {
+          "id": "wgmf9090",
+          "word": "basis",
+          "meaning": "reason or grounds",
+          "note": "Use this as the all-purpose noun for grounds supporting an argument, claim, or hypothesis."
+        },
+        {
+          "id": "8lhrdyfb",
+          "word": "ground",
+          "meaning": "reason; grounds",
+          "note": "Use this for an abstract basis or for evidence and justification offered as grounds, not for a physical foundation."
+        }
+      ],
       "examples": [
         {
           "english": "We don't have enough basis to believe this claim.",

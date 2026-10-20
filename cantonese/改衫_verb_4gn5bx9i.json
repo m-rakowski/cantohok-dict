@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "alter clothes",
-      "english": ["tailor", "alter"],
+      "english": [
+        {
+          "id": "01lo66qn",
+          "word": "tailor",
+          "meaning": "alter clothes",
+          "note": "This is the all-purpose choice for altering or repairing existing clothes; making a new garment from scratch is usually expressed differently."
+        },
+        {
+          "id": "l6yz6v49",
+          "word": "alter",
+          "meaning": "alter clothes",
+          "note": "Use 改衫 specifically when a tailor alters clothing so that it fits."
+        }
+      ],
       "examples": [
         {
           "english": "These trousers are too long, so I need to tailor them.",

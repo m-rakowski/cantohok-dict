@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "to take in, absorb knowledge or information",
-      "english": ["absorb", "assimilate", "consume"],
+      "english": [
+        {
+          "id": "mu88boze",
+          "word": "absorb",
+          "meaning": "soak up",
+          "note": "This is the all-purpose choice for taking in liquid, energy, or information, and for organizational incorporation or assimilation."
+        },
+        {
+          "id": "w2wvsml5",
+          "word": "assimilate",
+          "meaning": "take in knowledge",
+          "note": "Use 吸收 as the all-purpose verb for taking nutrients into the body or taking in information."
+        },
+        {
+          "id": "jerewo0q",
+          "word": "consume",
+          "meaning": "take in information",
+          "note": "Use this for taking in and absorbing information or media content rather than physically eating it."
+        }
+      ],
       "examples": [
         {
           "english": "I need time to absorb this information.",
@@ -27,7 +46,14 @@
     },
     {
       "meaning": "to soak up liquid",
-      "english": ["soak"],
+      "english": [
+        {
+          "id": "y8lygv0i",
+          "word": "soak",
+          "meaning": "absorb up",
+          "note": "Use this when something takes in liquid, such as a sponge or skin absorbing moisture."
+        }
+      ],
       "examples": [
         {
           "english": "The sponge can soak up all the water on the table quickly.",

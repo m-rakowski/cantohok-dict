@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "nutritious",
-      "english": ["nutritious", "hearty", "substantial"],
+      "english": [
+        {
+          "id": "xhbr7c4v",
+          "word": "nutritious",
+          "meaning": "healthy to eat or drink",
+          "note": "This is the all-purpose choice for food or drink that provides nutrients and is healthy to consume."
+        },
+        {
+          "id": "eg9ce963",
+          "word": "hearty",
+          "meaning": "substantial, filling",
+          "note": "Use this for food that is nourishing and promotes good health, rather than merely being plentiful."
+        },
+        {
+          "id": "7ap5vgbj",
+          "word": "substantial",
+          "meaning": "filling, nourishing",
+          "note": "Use this for the nourishing, nutritionally substantial interpretation rather than merely food that is filling."
+        }
+      ],
       "examples": [
         {
           "english": "This bowl of congee is nutritious.",

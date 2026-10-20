@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "close, shut, turn off",
-      "english": ["close", "shut"],
+      "english": [
+        {
+          "id": "wt96b8lg",
+          "word": "close",
+          "meaning": "shut a door/opening",
+          "note": "This is the all-purpose choice for shutting a door, taking something out of operation, closing a business, or closing a file or app."
+        },
+        {
+          "id": "h53gvzvu",
+          "word": "shut",
+          "meaning": "close physically",
+          "note": "This is the all-purpose choice for physically closing something or stopping a device, service, app, or file."
+        }
+      ],
       "examples": [
         {
           "english": "We’re done for the day; remember to close the air conditioner.",

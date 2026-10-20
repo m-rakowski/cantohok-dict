@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "gate you pass through",
-      "english": ["gateway", "gate"],
+      "english": [
+        {
+          "id": "uni4tb00",
+          "word": "gateway",
+          "meaning": "gate passage",
+          "note": "Use this when the passage is specifically controlled or closed by a gate, such as a checkpoint or barrier."
+        },
+        {
+          "id": "ajwoeanc",
+          "word": "gate",
+          "meaning": "airport gate",
+          "note": "Use this for an airport boarding gate where passengers wait to board or leave the aircraft."
+        }
+      ],
       "examples": [
         {
           "english": "At the gateway, all vehicles must stop before crossing the border.",

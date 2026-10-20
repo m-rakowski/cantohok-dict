@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "slogan, motto",
-      "english": ["slogan", "motto"],
+      "english": [
+        {
+          "id": "e7w1v197",
+          "word": "slogan",
+          "meaning": "advertising slogan",
+          "note": "This is the all-purpose choice, especially for a group or political motto, and it is also used for advertising slogans in speech."
+        },
+        {
+          "id": "6u7qgrgm",
+          "word": "motto",
+          "meaning": "personal slogan",
+          "note": "Use this when the motto is a public or campaign-style slogan rather than a personal maxim."
+        }
+      ],
       "examples": [
         {
           "english": "This slogan represents our organization’s ideals.",

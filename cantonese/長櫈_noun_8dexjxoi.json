@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "park seat",
-      "english": ["bench"],
+      "english": [
+        {
+          "id": "32hmjexd",
+          "word": "bench",
+          "meaning": "park seat",
+          "note": "This is the all-purpose rendering for a standalone physical bench, especially in a park or public place."
+        }
+      ],
       "examples": [
         {
           "english": "We sat on the bench in the park to rest.",

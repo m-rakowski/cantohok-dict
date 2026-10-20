@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "north wind",
-      "english": ["north"],
+      "english": [
+        {
+          "id": "waf03km9",
+          "word": "north",
+          "meaning": "north wind",
+          "note": "Use this adjectival relative-clause construction when a wind is specifically coming from the north, rather than the noun 北風."
+        }
+      ],
       "examples": [
         {
           "english": "The wind coming from the north is really cold.",

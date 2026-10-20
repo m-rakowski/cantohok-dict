@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "decimal point",
-      "english": ["dot"],
+      "english": [
+        {
+          "id": "d4pz965m",
+          "word": "dot",
+          "meaning": "decimal point",
+          "note": "Use this specifically for the decimal point in a number."
+        }
+      ],
       "examples": [
         {
           "english": "You can't leave out the dot in three point one four.",

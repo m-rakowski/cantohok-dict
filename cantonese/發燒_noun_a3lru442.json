@@ -6,7 +6,15 @@
   "boxes": [
     {
       "meaning": "fever / body temperature",
-      "english": ["temperature"],
+      "english": [
+        {
+          "id": "zgkcueim",
+          "word": "temperature",
+          "meaning": "fever / body temperature",
+          "register": "colloquial",
+          "note": "Use 發燒 for the illness or fever sense, rather than for an ordinary thermometer reading."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

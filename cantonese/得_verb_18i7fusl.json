@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "can, be okay, will do",
-      "english": ["can", "do"],
+      "english": [
+        {
+          "id": "s6s718iw",
+          "word": "can",
+          "meaning": "be able to",
+          "note": "Use 得 for a short, casual sense of being able, allowed, or feasible, especially in 得唔得 questions."
+        },
+        {
+          "id": "hhwjeba5",
+          "word": "do",
+          "meaning": "be enough; suffice",
+          "note": "Use 得 when saying that something is sufficient, works, or is acceptable, as in 得喇 or 咁樣得唔得."
+        }
+      ],
       "examples": [
         {
           "english": "Can we do it this way?",

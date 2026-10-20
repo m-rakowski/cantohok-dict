@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "dance party",
-      "english": ["disco", "ball"],
+      "english": [
+        {
+          "id": "to4qjaxc",
+          "word": "disco",
+          "meaning": "dance party / disco",
+          "note": "Use this for the generic social-gathering sense of a dance, rather than a disco-branded event."
+        },
+        {
+          "id": "srr8whsx",
+          "word": "ball",
+          "meaning": "formal dance",
+          "note": "Use 舞會 for an organized formal dance, not simply any enjoyable occasion."
+        }
+      ],
       "examples": [
         {
           "english": "Our school has a disco next week. Are you going?",

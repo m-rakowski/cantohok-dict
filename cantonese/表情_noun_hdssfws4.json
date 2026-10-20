@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "facial expression",
-      "english": ["expression", "mien", "look", "face"],
+      "english": [
+        {
+          "id": "2lze4gtt",
+          "word": "expression",
+          "meaning": "facial expression",
+          "note": "Use this all-purpose noun for the look on someone’s face that shows an emotion."
+        },
+        {
+          "id": "5zw4lblt",
+          "word": "mien",
+          "meaning": "demeanor; bearing",
+          "note": "Use this when the mien specifically means a facial expression rather than a person's general bearing or attitude."
+        },
+        {
+          "id": "566syp06",
+          "word": "look",
+          "meaning": "facial expression",
+          "note": "Use 表情 for a neutral description of a facial expression, rather than specifically an eye-based look."
+        },
+        {
+          "id": "b8r7meje",
+          "word": "face",
+          "meaning": "facial expression",
+          "note": "Use this for a particular facial expression, including a sad, displeased, or distorted expression."
+        }
+      ],
       "examples": [
         {
           "english": "That expression is really funny.",

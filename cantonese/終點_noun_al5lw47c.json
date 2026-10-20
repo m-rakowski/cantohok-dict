@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "end point of journey",
-      "english": ["destination"],
+      "english": [
+        {
+          "id": "rhgk82zl",
+          "word": "destination",
+          "meaning": "end point of journey",
+          "note": "Use this specifically when stressing the endpoint or finish of a journey rather than its intended destination."
+        }
+      ],
       "examples": [
         {
           "english": "We can only stop when we reach the destination.",

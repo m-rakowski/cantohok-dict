@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "claim to be",
-      "english": ["profess", "assume"],
+      "english": [
+        {
+          "id": "ucq3gyfj",
+          "word": "profess",
+          "meaning": "profess to be",
+          "note": "Use this when someone claims to be or have something, especially when the claim may be doubtful."
+        },
+        {
+          "id": "phtfa38b",
+          "word": "assume",
+          "meaning": "pretend quality",
+          "note": "Use this when someone claims a title or identity without necessarily having the right to it."
+        }
+      ],
       "examples": [
         {
           "english": "They profess to be an expert, but cannot even answer basic questions.",

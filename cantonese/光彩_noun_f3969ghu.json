@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "brilliance, splendour",
-      "english": ["dazzle", "glory"],
+      "english": [
+        {
+          "id": "z6xujzjo",
+          "word": "dazzle",
+          "meaning": "overwhelming brilliance",
+          "register": "written",
+          "note": "Use this for impressive, showy brilliance or splendour rather than a literal beam of light."
+        },
+        {
+          "id": "3hujfvnb",
+          "word": "glory",
+          "meaning": "great beauty, splendor",
+          "note": "Use this for visible beauty, splendour, or brilliance rather than public honour."
+        }
+      ],
       "examples": [
         {
           "english": "They really dazzle at the awards ceremony.",

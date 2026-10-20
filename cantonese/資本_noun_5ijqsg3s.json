@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "money, wealth, funds",
-      "english": ["capital"],
+      "english": [
+        {
+          "id": "hgdantfu",
+          "word": "capital",
+          "meaning": "money, wealth, funds",
+          "note": "Use this for money or wealth invested or available to produce goods and services."
+        }
+      ],
       "examples": [
         {
           "english": "Opening a restaurant requires a lot of capital.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "inside, interior",
-      "english": ["interior", "inside"],
+      "english": [
+        {
+          "id": "o4qabf64",
+          "word": "interior",
+          "meaning": "inside of a place",
+          "note": "This is the all-purpose spoken choice for the inside of a building, container, or other enclosed place."
+        },
+        {
+          "id": "a4x0b5o8",
+          "word": "inside",
+          "meaning": "inner part",
+          "note": "Use 入面 as the all-purpose spoken term for the physical interior of a place or object."
+        }
+      ],
       "examples": [
         {
           "english": "The interior of the cinema is quite nice, with lots of comfortable seats.",

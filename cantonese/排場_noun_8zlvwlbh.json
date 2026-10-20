@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "showy display, pomp",
-      "english": ["glitz", "opulence", "parade"],
+      "english": [
+        {
+          "id": "cl2p1icb",
+          "word": "glitz",
+          "meaning": "showy glamour",
+          "note": "This is the all-purpose choice for conspicuous pomp or showy display, especially at a public event."
+        },
+        {
+          "id": "dbyc8oco",
+          "word": "opulence",
+          "meaning": "luxurious display",
+          "note": "Use this when the opulence means a conspicuous show of wealth, pomp, or luxury."
+        },
+        {
+          "id": "myp2jnum",
+          "word": "parade",
+          "meaning": "display or show",
+          "note": "Use 排場 when parade means a showy or ostentatious display rather than a literal procession."
+        }
+      ],
       "examples": [
         {
           "english": "That awards ceremony had a lot of glitz and the whole scene was eye-catching.",

@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "to explain",
-      "english": ["account", "explain", "define", "interpret", "justify"],
+      "english": [
+        {
+          "id": "v3ce5008",
+          "word": "account",
+          "meaning": "explain; be the reason",
+          "note": "Use 解釋 as the all-purpose spoken verb for giving a reason or explaining why something happened."
+        },
+        {
+          "id": "tn0mm71h",
+          "word": "explain",
+          "meaning": "make clear / intelligible",
+          "note": "This is the all-purpose verb for making something clear or giving its reason."
+        },
+        {
+          "id": "n12f42zg",
+          "word": "define",
+          "meaning": "state the meaning",
+          "note": "It is the all-purpose spoken choice for explaining a word’s meaning or asking someone to make an expression clearer."
+        },
+        {
+          "id": "bmtesqhx",
+          "word": "interpret",
+          "meaning": "explain or translate meaning",
+          "note": "This is the all-purpose choice when explaining what words, signs, dreams, or actions mean."
+        },
+        {
+          "id": "1puvr6qy",
+          "word": "justify",
+          "meaning": "explain/defend an action",
+          "note": "This is the all-purpose choice when someone gives reasons for an action, including explaining their own decision without necessarily arguing aggressively."
+        }
+      ],
       "examples": [
         {
           "english": "Can you account for why the car suddenly stopped?",

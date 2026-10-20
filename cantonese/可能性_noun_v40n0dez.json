@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "possibility, likelihood",
-      "english": ["possibility", "probability", "likelihood", "chance"],
+      "english": [
+        {
+          "id": "8jsmd9dx",
+          "word": "possibility",
+          "meaning": "being possible",
+          "note": "This is the all-purpose noun for an abstract possibility or possible prospect."
+        },
+        {
+          "id": "8ffycjay",
+          "word": "probability",
+          "meaning": "state of being likely",
+          "note": "Use this as the all-purpose noun for whether something is likely or probable."
+        },
+        {
+          "id": "1w5dj9wt",
+          "word": "likelihood",
+          "meaning": "probability; chance",
+          "note": "This is the all-purpose noun for the possibility or likelihood of an outcome, without the opportunity meaning of 機會."
+        },
+        {
+          "id": "bfwvfm6j",
+          "word": "chance",
+          "meaning": "opportunity, possibility",
+          "note": "Use this instead of 機會 when chance means an abstract likelihood or possibility rather than an opportunity."
+        }
+      ],
       "examples": [
         {
           "english": "The possibility of this plan succeeding isn't low.",

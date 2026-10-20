@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "durable, hard-wearing",
-      "english": ["durable", "impervious"],
+      "english": [
+        {
+          "id": "beb6qeh6",
+          "word": "durable",
+          "meaning": "long-lasting; hard-wearing",
+          "note": "This is the all-purpose colloquial choice for something that lasts a long time and resists wear."
+        },
+        {
+          "id": "f00wc5y3",
+          "word": "impervious",
+          "meaning": "not damaged or affected",
+          "note": "Use this when something stays serviceable despite physical wear and tear or prolonged use."
+        }
+      ],
       "examples": [
         {
           "english": "These shoes are quite durable; even after wearing them for a year, they’re still pretty new.",

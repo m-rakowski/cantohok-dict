@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "toothed wheel",
-      "english": ["gear"],
+      "english": [
+        {
+          "id": "rlpsnfi4",
+          "word": "gear",
+          "meaning": "toothed wheel",
+          "note": "Use 齒輪 for the toothed mechanical wheel rather than the gear selected in a vehicle."
+        }
+      ],
       "examples": [
         {
           "english": "The gear inside the clock is stuck, so it can't run.",

@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "hometown",
-      "english": ["hometown", "home"],
+      "english": [
+        {
+          "id": "g159c4bn",
+          "word": "hometown",
+          "meaning": "native place / home town",
+          "register": "formal",
+          "note": "Use this more formal or general term for the place someone regards as their native home."
+        },
+        {
+          "id": "hldbvttr",
+          "word": "home",
+          "meaning": "native land; homeland",
+          "note": "Use this for one's native land or hometown rather than the house one currently lives in."
+        }
+      ],
       "examples": [
         {
           "english": "I have always missed my hometown.",

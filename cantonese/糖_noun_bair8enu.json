@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "sugar",
-      "english": ["sugar"],
+      "english": [
+        {
+          "id": "2gqcsct5",
+          "word": "sugar",
+          "meaning": "sweet crystals",
+          "note": "This is the all-purpose word for the sweet crystals used in food and drinks."
+        }
+      ],
       "examples": [
         {
           "english": "I don't need to add so much sugar to my coffee.",
@@ -17,7 +24,20 @@
     },
     {
       "meaning": "candy, sweet",
-      "english": ["candy", "sweet"],
+      "english": [
+        {
+          "id": "ofyq9osv",
+          "word": "candy",
+          "meaning": "a piece of candy",
+          "note": "This is the all-purpose spoken word for sweet candy, including candy in general and an individual piece when the context is clear."
+        },
+        {
+          "id": "658x276c",
+          "word": "sweet",
+          "meaning": "candy / confection",
+          "note": "Use this for sugar-based candy or confectionery rather than the taste."
+        }
+      ],
       "examples": [
         {
           "english": "Kids love eating candy.",

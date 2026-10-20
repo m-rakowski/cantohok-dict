@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "smoke, haze",
-      "english": ["fume", "plume", "cloud"],
+      "english": [
+        {
+          "id": "v7lh0246",
+          "word": "fume",
+          "meaning": "smoke or harmful vapour",
+          "note": "This is the all-purpose choice for smoke-like or harmful vapour that is unpleasant or dangerous to breathe."
+        },
+        {
+          "id": "7c9j9ghw",
+          "word": "plume",
+          "meaning": "smoke cloud",
+          "note": "This is the all-purpose choice for a cloud or mass of smoke spreading through the air."
+        },
+        {
+          "id": "mv1kshfw",
+          "word": "cloud",
+          "meaning": "dust or smoke cloud",
+          "note": "Use this for a visible mass or haze of smoke, steam, or fine dust rather than a sky cloud."
+        }
+      ],
       "examples": [
         {
           "english": "The factory's fume is very pungent, so everyone has to wear masks.",

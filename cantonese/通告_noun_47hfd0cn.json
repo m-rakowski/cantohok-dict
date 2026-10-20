@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "official notice",
-      "english": ["bulletin", "notice", "advertisement"],
+      "english": [
+        {
+          "id": "n4f4ftb8",
+          "word": "bulletin",
+          "meaning": "official notice / short report",
+          "note": "Use this for an official notice circulated by a company, school, or organization."
+        },
+        {
+          "id": "m8zwxm02",
+          "word": "notice",
+          "meaning": "written notice, sign",
+          "note": "Use 通告 for a written or printed announcement, especially an official notice displayed for people to read."
+        },
+        {
+          "id": "vkx38d1d",
+          "word": "advertisement",
+          "meaning": "public notice",
+          "note": "Use 通告 for an official or public notice issued to inform people rather than sell something."
+        }
+      ],
       "examples": [
         {
           "english": "The school issued a bulletin saying classes are suspended tomorrow.",

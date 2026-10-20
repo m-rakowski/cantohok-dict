@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "concentration",
-      "english": ["concentration", "focus"],
+      "english": [
+        {
+          "id": "5k9g9u04",
+          "word": "concentration",
+          "meaning": "focus, attention",
+          "note": "This is the all-purpose choice for mental focus, attention, or the ability to concentrate."
+        },
+        {
+          "id": "rzj5d008",
+          "word": "focus",
+          "meaning": "attention concentration",
+          "note": "Use this for a person's ability or degree of concentrated attention."
+        }
+      ],
       "examples": [
         {
           "english": "I need concentration when I do my homework.",

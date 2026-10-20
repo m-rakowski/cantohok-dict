@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "wizard, sorcerer",
-      "english": ["magician", "wizard"],
+      "english": [
+        {
+          "id": "rjunop3z",
+          "word": "magician",
+          "meaning": "supernatural magic practitioner",
+          "note": "A speaker picks this for someone believed to practise supernatural or mystical magic, rather than for a stage illusionist."
+        },
+        {
+          "id": "l4zu0jvk",
+          "word": "wizard",
+          "meaning": "magic user",
+          "note": "Use this for a sorcerer, shaman, or witch-like magic user rather than the usual fantasy 魔法師."
+        }
+      ],
       "examples": [
         {
           "english": "The villagers say that magician can communicate with ghosts.",

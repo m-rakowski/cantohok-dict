@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "promote, drive forward",
-      "english": ["motivate", "advance", "encourage"],
+      "english": [
+        {
+          "id": "9fo3usfz",
+          "word": "motivate",
+          "meaning": "encourage to act",
+          "note": "Use this when a person, policy, or incentive drives someone or a group toward continued action."
+        },
+        {
+          "id": "8vaeecy3",
+          "word": "advance",
+          "meaning": "promote; further",
+          "note": "Use this as the all-purpose choice for helping a development, plan, or cause progress."
+        },
+        {
+          "id": "m8u48jqe",
+          "word": "encourage",
+          "meaning": "urge, recommend",
+          "note": "Use this when encouraging the adoption or development of a policy, activity, or practice."
+        }
+      ],
       "examples": [
         {
           "english": "The company's bonus system can motivate everyone to keep working hard.",

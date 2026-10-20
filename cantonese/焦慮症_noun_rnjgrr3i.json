@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "anxiety disorder",
-      "english": ["anxiety"],
+      "english": [
+        {
+          "id": "fdk845z8",
+          "word": "anxiety",
+          "meaning": "anxiety disorder",
+          "note": "Use this specifically when the anxiety is an anxiety disorder or clinical diagnosis."
+        }
+      ],
       "examples": [
         {
           "english": "The doctor diagnosed me with an anxiety disorder and said I need medication.",

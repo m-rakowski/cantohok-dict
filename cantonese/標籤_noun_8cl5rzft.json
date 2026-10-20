@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "label, tag",
-      "english": ["label", "tag"],
+      "english": [
+        {
+          "id": "1ofayz0n",
+          "word": "label",
+          "meaning": "attached information tag",
+          "note": "Use 標籤 as the all-purpose word for a physical tag, a social categorisation, or text identifying a control in software."
+        },
+        {
+          "id": "8xm33r96",
+          "word": "tag",
+          "meaning": "small label",
+          "note": "This is the all-purpose choice for a physical label and for a digital, markup, or search tag."
+        }
+      ],
       "examples": [
         {
           "english": "The label on the shirt gives the washing instructions.",

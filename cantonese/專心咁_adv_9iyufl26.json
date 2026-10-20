@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "attentively",
-      "english": ["attentively", "conscientiously"],
+      "english": [
+        {
+          "id": "5ys8hbrh",
+          "word": "attentively",
+          "meaning": "in an attentive manner",
+          "note": "This is the all-purpose choice when someone gives focused attention while listening, watching, or doing something."
+        },
+        {
+          "id": "vu6ain65",
+          "word": "conscientiously",
+          "meaning": "attentively; carefully",
+          "note": "Use this when the emphasis is on paying close attention or concentrating on the task."
+        }
+      ],
       "examples": [
         {
           "english": "Listen attentively to what I’m saying first.",

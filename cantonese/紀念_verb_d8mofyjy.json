@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "commemorate, remember in a solemn way",
-      "english": ["commemorate", "celebrate"],
+      "english": [
+        {
+          "id": "suv39o3s",
+          "word": "commemorate",
+          "meaning": "honour memory",
+          "note": "This is the all-purpose choice for honouring the memory of a person or event with a ceremony, object, or other act."
+        },
+        {
+          "id": "qyie1nlu",
+          "word": "celebrate",
+          "meaning": "mark an occasion",
+          "note": "Use this for marking an occasion in a solemn or commemorative way rather than for a joyful celebration."
+        }
+      ],
       "examples": [
         {
           "english": "We hold an event every year to commemorate the people who died in that fire.",

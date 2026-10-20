@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "ordinal number / item number",
-      "english": ["number"],
+      "english": [
+        {
+          "id": "iax712z9",
+          "word": "number",
+          "meaning": "ordinal number / item number",
+          "note": "Use this for an item's position or designation in a list, race, or numbered sequence, as in 五號."
+        }
+      ],
       "examples": [
         {
           "english": "I got number five in the queue.",

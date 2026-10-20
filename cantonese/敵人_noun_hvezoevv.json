@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "enemy",
-      "english": ["enemy", "adversary"],
+      "english": [
+        {
+          "id": "53kyl0du",
+          "word": "enemy",
+          "meaning": "hostile person / opponent",
+          "note": "This is the all-purpose choice for a hostile person, opposing group, or enemy force."
+        },
+        {
+          "id": "1dbm18vs",
+          "word": "adversary",
+          "meaning": "opponent; rival",
+          "note": "Use this instead of 對手 when the adversary is a hostile enemy who attacks or is engaged in a serious conflict."
+        }
+      ],
       "examples": [
         {
           "english": "That group is our enemy.",

@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "phone call",
-      "english": ["call", "ring", "bell", "buzz"],
+      "english": [
+        {
+          "id": "8oyf1kpc",
+          "word": "call",
+          "meaning": "phone call, conversation",
+          "note": "Use 電話 as the all-purpose noun for a phone call, including an attempted call."
+        },
+        {
+          "id": "0i8fyq15",
+          "word": "ring",
+          "meaning": "phone call",
+          "note": "Use this as the all-purpose noun for a telephone call."
+        },
+        {
+          "id": "n5t0hskb",
+          "word": "bell",
+          "meaning": "phone call (UK informal)",
+          "note": "Use this for a telephone call, rather than for the ringing instrument."
+        },
+        {
+          "id": "e2i99d5a",
+          "word": "buzz",
+          "meaning": "call or message",
+          "note": "Use this when buzz means a telephone call, especially in expressions meaning “give me a call”; it does not specifically mean an email."
+        }
+      ],
       "examples": [
         {
           "english": "I made a call to you just now.",
@@ -32,7 +57,20 @@
     },
     {
       "meaning": "phone, the device",
-      "english": ["phone", "telephone"],
+      "english": [
+        {
+          "id": "fe6vj4s9",
+          "word": "phone",
+          "meaning": "telephone; mobile phone",
+          "note": "This is the all-purpose spoken word for a phone as a device, and it can also mean a phone number from context."
+        },
+        {
+          "id": "p9r0u1ej",
+          "word": "telephone",
+          "meaning": "telephone device",
+          "note": "This is the all-purpose noun for a telephone device, including a phone or handset in ordinary contexts."
+        }
+      ],
       "examples": [
         {
           "english": "My phone is broken, so let me borrow yours to make a call.",

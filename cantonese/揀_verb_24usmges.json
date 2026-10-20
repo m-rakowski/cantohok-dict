@@ -6,7 +6,39 @@
   "boxes": [
     {
       "meaning": "choose, pick",
-      "english": ["choose", "select", "cull", "pick", "take"],
+      "english": [
+        {
+          "id": "4vbjpony",
+          "word": "choose",
+          "meaning": "pick/select",
+          "register": "colloquial",
+          "note": "This is the all-purpose colloquial choice for picking or selecting something."
+        },
+        {
+          "id": "dueak5v3",
+          "word": "select",
+          "meaning": "choose; pick",
+          "note": "This is the all-purpose colloquial verb for choosing or picking one or more options."
+        },
+        {
+          "id": "b938osex",
+          "word": "cull",
+          "meaning": "pick out from group",
+          "note": "This is the all-purpose colloquial choice for picking particular people or things out of a larger group."
+        },
+        {
+          "id": "yygcknaz",
+          "word": "pick",
+          "meaning": "choose; select",
+          "note": "This is the all-purpose choice when selecting one option from several."
+        },
+        {
+          "id": "g8br4nbi",
+          "word": "take",
+          "meaning": "choose or pick",
+          "note": "Use 揀 when take means choose or pick rather than physically take something."
+        }
+      ],
       "examples": [
         {
           "english": "Then I choose the red one.",

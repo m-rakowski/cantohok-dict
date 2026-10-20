@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "greeting on arrival",
-      "english": ["welcome"],
+      "english": [
+        {
+          "id": "tnrlt7yo",
+          "word": "welcome",
+          "meaning": "greeting on arrival",
+          "note": "This is the all-purpose equivalent, especially when explicitly welcoming someone or introducing them to a place or situation."
+        }
+      ],
       "examples": [
         {
           "english": "We welcome you to our group.",

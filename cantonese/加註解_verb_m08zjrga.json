@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "add code comments",
-      "english": ["comment"],
+      "english": [
+        {
+          "id": "28xc32r4",
+          "word": "comment",
+          "meaning": "add code comments",
+          "note": "Use this specifically when inserting explanatory comments into source code."
+        }
+      ],
       "examples": [
         {
           "english": "Remember to comment in every section of the code.",

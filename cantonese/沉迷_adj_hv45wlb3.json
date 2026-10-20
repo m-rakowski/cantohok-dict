@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "addicted, hooked on",
-      "english": ["obsessive", "addicted"],
+      "english": [
+        {
+          "id": "hraxut0g",
+          "word": "obsessive",
+          "meaning": "obsessively focused",
+          "note": "This is the all-purpose choice, especially for unhealthy absorption in an activity or pursuit."
+        },
+        {
+          "id": "jxu9dn2d",
+          "word": "addicted",
+          "meaning": "obsessed with",
+          "note": "Choose this for being deeply absorbed or obsessed with an activity, hobby, game, or media rather than for biochemical dependence."
+        }
+      ],
       "examples": [
         {
           "english": "I've been obsessive about gaming lately, to the point that I forget to eat.",

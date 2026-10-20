@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "wildly imaginative",
-      "english": ["fanciful", "fantastic"],
+      "english": [
+        {
+          "id": "9sp76f3v",
+          "word": "fanciful",
+          "meaning": "imaginative; unreal",
+          "note": "Use this when the imagination or ideas range freely, especially in writing or creative work."
+        },
+        {
+          "id": "oz6hxdqe",
+          "word": "fantastic",
+          "meaning": "fantastical; imaginary",
+          "note": "Use 天馬行空 for ideas or stories that are wildly imaginative and fanciful, not specifically for a fantasy genre."
+        }
+      ],
       "examples": [
         {
           "english": "The plots in their novels are always fanciful; they can write anything.",

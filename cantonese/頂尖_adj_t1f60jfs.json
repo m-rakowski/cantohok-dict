@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "top, best in the field",
-      "english": ["premier", "preeminent", "top"],
+      "english": [
+        {
+          "id": "x9lfwwh0",
+          "word": "premier",
+          "meaning": "foremost; best",
+          "note": "Use this as the all-purpose choice for people, organizations, skills, or things at the very top."
+        },
+        {
+          "id": "6qg7yrjf",
+          "word": "preeminent",
+          "meaning": "outstanding; above others",
+          "note": "This is the all-purpose choice for someone or something that ranks among the very best."
+        },
+        {
+          "id": "py1fyipq",
+          "word": "top",
+          "meaning": "best; highest quality",
+          "note": "Use this for the best or highest-ranked option in a field, such as a top school."
+        }
+      ],
       "examples": [
         {
           "english": "He is a premier surgeon in this field.",

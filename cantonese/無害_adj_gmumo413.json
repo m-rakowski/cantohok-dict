@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "non-cancerous; harmless",
-      "english": ["benign"],
+      "english": [
+        {
+          "id": "2zk5b0to",
+          "word": "benign",
+          "meaning": "non-cancerous; harmless",
+          "note": "Use this when benign means harmless or posing little threat, rather than specifically non-cancerous."
+        }
+      ],
       "examples": [
         {
           "english": "This toy paint is benign, so there’s no need to worry about children using it.",

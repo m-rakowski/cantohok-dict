@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "hatred",
-      "english": ["hatred", "hate"],
+      "english": [
+        {
+          "id": "pjjwhd9b",
+          "word": "hatred",
+          "meaning": "strong dislike",
+          "register": "written",
+          "note": "This is the all-purpose noun for intense hatred or strong dislike."
+        },
+        {
+          "id": "sw2r157a",
+          "word": "hate",
+          "meaning": "hatred",
+          "register": "formal",
+          "note": "Use this for hatred in general when the wording is more formal or written than 仇恨."
+        }
+      ],
       "examples": [
         {
           "english": "Wars often leave behind deep hatred.",

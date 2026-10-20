@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "tell privately",
-      "english": ["whisper"],
+      "english": [
+        {
+          "id": "50vuodje",
+          "word": "whisper",
+          "meaning": "tell privately",
+          "note": "Use this for privately telling a specific person something confidential, even when the emphasis is secrecy rather than low volume."
+        }
+      ],
       "examples": [
         {
           "english": "I whisper the news to Ming in private and tell him not to spread it.",

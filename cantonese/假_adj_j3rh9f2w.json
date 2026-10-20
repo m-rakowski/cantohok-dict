@@ -6,7 +6,44 @@
   "boxes": [
     {
       "meaning": "fake, not real",
-      "english": ["false", "fake", "phantom", "bogus", "spurious", "plastic"],
+      "english": [
+        {
+          "id": "0y2fdjwg",
+          "word": "false",
+          "meaning": "untrue; incorrect",
+          "note": "This is the all-purpose everyday choice for a fabricated thing or an untrue claim."
+        },
+        {
+          "id": "m7q5v04v",
+          "word": "fake",
+          "meaning": "not real; counterfeit",
+          "note": "This is the all-purpose choice for something not real and can also describe someone or something as insincere."
+        },
+        {
+          "id": "xrb2dq51",
+          "word": "phantom",
+          "meaning": "fake, nonexistent",
+          "note": "This is the all-purpose choice for something fake or not genuine."
+        },
+        {
+          "id": "ag0cf7rw",
+          "word": "bogus",
+          "meaning": "fake, not genuine",
+          "note": "Use this as the all-purpose spoken adjective for something fake, not genuine, or broadly bogus."
+        },
+        {
+          "id": "hyazaas8",
+          "word": "spurious",
+          "meaning": "fake; not genuine",
+          "note": "This is the all-purpose choice for something fake, false, or not genuine."
+        },
+        {
+          "id": "r0fk3ba8",
+          "word": "plastic",
+          "meaning": "cheap imitation",
+          "note": "Use this when the emphasis is that something is not genuine or is a cheap imitation."
+        }
+      ],
       "examples": [
         {
           "english": "This news is false.",
@@ -42,7 +79,14 @@
     },
     {
       "meaning": "insincere, put on",
-      "english": ["artificial"],
+      "english": [
+        {
+          "id": "skbatdwd",
+          "word": "artificial",
+          "meaning": "fake, insincere",
+          "note": "This is the all-purpose colloquial choice for a person or manner that is not genuine."
+        }
+      ],
       "examples": [
         {
           "english": "Their smile is so artificial.",
@@ -53,7 +97,14 @@
     },
     {
       "meaning": "artificial-tasting or smelling",
-      "english": ["synthetic"],
+      "english": [
+        {
+          "id": "lbmlcy4c",
+          "word": "synthetic",
+          "meaning": "unnatural taste or smell",
+          "note": "Use this for something that seems fake or unnatural, including a taste or smell that has a noticeably synthetic quality."
+        }
+      ],
       "examples": [
         {
           "english": "This orange juice has a synthetic taste.",

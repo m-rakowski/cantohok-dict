@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "moving house",
-      "english": ["migration", "move"],
+      "english": [
+        {
+          "id": "chu9hu8e",
+          "word": "migration",
+          "meaning": "moving to live elsewhere",
+          "note": "Use this for the everyday idea of moving residence, whether temporarily or permanently, rather than animal travel or movement in general."
+        },
+        {
+          "id": "6hjyzvfx",
+          "word": "move",
+          "meaning": "moving house",
+          "register": "colloquial",
+          "note": "Use this for the event of moving from one home to another."
+        }
+      ],
       "examples": [
         {
           "english": "We’re planning a migration to a new home next month.",

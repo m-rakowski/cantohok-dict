@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "chart, graph of data",
-      "english": ["graph", "diagram", "chart"],
+      "english": [
+        {
+          "id": "7vbggf4t",
+          "word": "graph",
+          "meaning": "data chart",
+          "note": "Use this as the all-purpose Cantonese noun for a chart showing data."
+        },
+        {
+          "id": "wb3p95sy",
+          "word": "diagram",
+          "meaning": "chart or graph",
+          "note": "Use this for a graph or chart, especially one displaying data or change over time."
+        },
+        {
+          "id": "8otvabsa",
+          "word": "chart",
+          "meaning": "graph",
+          "note": "Use 圖表 as the all-purpose noun for a visual diagram or graph, rather than a data table."
+        }
+      ],
       "examples": [
         {
           "english": "This graph clearly shows the sales for each month this year.",

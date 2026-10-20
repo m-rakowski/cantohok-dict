@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "resign from a job",
-      "english": ["resign", "quit"],
+      "english": [
+        {
+          "id": "lt03hagl",
+          "word": "resign",
+          "meaning": "leave a job",
+          "note": "This is the all-purpose choice for voluntarily leaving a job, including resigning in protest."
+        },
+        {
+          "id": "im06kgn1",
+          "word": "quit",
+          "meaning": "resign from job",
+          "note": "Choose this when someone resigns from a job, office, or position rather than merely stopping a task."
+        }
+      ],
       "examples": [
         {
           "english": "I decided to resign and stop working at this company.",

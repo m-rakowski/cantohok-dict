@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "rapid mail/money service",
-      "english": ["express"],
+      "english": [
+        {
+          "id": "gmlbuhia",
+          "word": "express",
+          "meaning": "rapid mail/money service",
+          "note": "Use this specifically for a rapid money-transfer service."
+        }
+      ],
       "examples": [
         {
           "english": "I want to use an express money-transfer service to send money to my family.",

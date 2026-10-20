@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "help out financially, supplement",
-      "english": ["eke out", "subsidize"],
+      "english": [
+        {
+          "id": "33k9uyni",
+          "word": "eke out",
+          "meaning": "supplement income",
+          "note": "This is the all-purpose choice when someone adds to income or resources that are not quite enough."
+        },
+        {
+          "id": "e74ilz23",
+          "word": "subsidize",
+          "meaning": "financially support with a subsidy",
+          "register": "colloquial",
+          "note": "Use this colloquial choice when emphasizing help with someone's expenses rather than an official subsidy."
+        }
+      ],
       "examples": [
         {
           "english": "Ming uses food delivery to eke out his full-time income.",

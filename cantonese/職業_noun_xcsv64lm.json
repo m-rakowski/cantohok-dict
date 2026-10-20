@@ -6,7 +6,28 @@
   "boxes": [
     {
       "meaning": "occupation, profession",
-      "english": ["career", "occupation", "profession"],
+      "english": [
+        {
+          "id": "o0ctswfl",
+          "word": "career",
+          "meaning": "job or profession",
+          "register": "formal",
+          "note": "Use this as the all-purpose choice for someone's occupation or profession."
+        },
+        {
+          "id": "fvq5y6at",
+          "word": "occupation",
+          "meaning": "job; profession",
+          "register": "formal",
+          "note": "Use this for someone’s profession or when describing an occupation formally, such as on a form."
+        },
+        {
+          "id": "xdpeu5vn",
+          "word": "profession",
+          "meaning": "occupation; job",
+          "note": "Use this for the general occupation or profession label, especially when skill or training matters."
+        }
+      ],
       "examples": [
         {
           "english": "His career is as a doctor.",

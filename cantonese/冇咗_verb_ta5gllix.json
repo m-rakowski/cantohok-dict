@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "lose, no longer have",
-      "english": ["lose", "deprive"],
+      "english": [
+        {
+          "id": "yu3h55zd",
+          "word": "lose",
+          "meaning": "stop having / misplace",
+          "note": "This is the all-purpose choice when someone no longer has something or it has gone missing."
+        },
+        {
+          "id": "gj5opiw0",
+          "word": "deprive",
+          "meaning": "bereave",
+          "register": "colloquial",
+          "note": "Use 冇咗 when someone has lost a person through death, as in losing a parent or child."
+        }
+      ],
       "examples": [
         {
           "english": "I lose my phone all the time, and it drives me crazy.",

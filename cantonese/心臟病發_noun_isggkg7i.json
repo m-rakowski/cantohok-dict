@@ -6,7 +6,15 @@
   "boxes": [
     {
       "meaning": "myocardial infarction",
-      "english": ["heart attack"],
+      "english": [
+        {
+          "id": "4r8kadmp",
+          "word": "heart attack",
+          "meaning": "myocardial infarction",
+          "register": "colloquial",
+          "note": "This is the all-purpose everyday Cantonese term for a heart attack."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

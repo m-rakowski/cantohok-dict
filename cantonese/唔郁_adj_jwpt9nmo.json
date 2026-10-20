@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "not moving",
-      "english": ["inanimate", "inert", "sedentary"],
+      "english": [
+        {
+          "id": "tq43onww",
+          "word": "inanimate",
+          "meaning": "motionless; not moving",
+          "note": "Use this for something that is stationary or cannot move, rather than for its nonliving status."
+        },
+        {
+          "id": "840xh7bz",
+          "word": "inert",
+          "meaning": "unable to move; lifeless",
+          "note": "This is the all-purpose choice for something unable to move or act, including an inanimate object."
+        },
+        {
+          "id": "2h3xwo94",
+          "word": "sedentary",
+          "meaning": "not moving; staying in place",
+          "register": "colloquial",
+          "note": "Use this when something is staying still or not moving, especially in a physical context."
+        }
+      ],
       "examples": [
         {
           "english": "The inanimate figurine does not move, though it looks real.",

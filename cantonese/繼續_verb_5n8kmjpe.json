@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "continue, carry on",
-      "english": ["keep", "continue", "proceed", "resume", "remain"],
+      "english": [
+        {
+          "id": "dgnjcb0v",
+          "word": "keep",
+          "meaning": "continue; maintain",
+          "note": "This is the all-purpose choice when “keep” means to continue an action or course of action."
+        },
+        {
+          "id": "yo377fd6",
+          "word": "continue",
+          "meaning": "proceed with an activity",
+          "note": "This is the all-purpose choice for proceeding with an activity or letting something carry on."
+        },
+        {
+          "id": "1m6hr0ls",
+          "word": "proceed",
+          "meaning": "continue with",
+          "note": "Use 繼續 as the all-purpose choice when continuing a task, topic, stage, or activity: the general idea of carrying on rather than physical movement."
+        },
+        {
+          "id": "t2r1bti8",
+          "word": "resume",
+          "meaning": "restart after pause",
+          "note": "This is the all-purpose choice when continuing an activity from where it stopped."
+        },
+        {
+          "id": "b5ucgham",
+          "word": "remain",
+          "meaning": "stay continue be",
+          "note": "Use this when the emphasis is that an action, process, or condition carries on without stopping."
+        }
+      ],
       "examples": [
         {
           "english": "We keep working hard and don't give up.",

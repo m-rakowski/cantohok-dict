@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "person who invests money",
-      "english": ["investor"],
+      "english": [
+        {
+          "id": "g4r1k7h3",
+          "word": "investor",
+          "meaning": "person who invests money",
+          "note": "Use this specifically for someone who invests or trades in stocks, rather than for an investor in general."
+        }
+      ],
       "examples": [
         {
           "english": "As an investor, the most important thing is not to panic-sell at the slightest sign of trouble.",

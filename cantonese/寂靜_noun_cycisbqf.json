@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "silence",
-      "english": ["quiet", "silence"],
+      "english": [
+        {
+          "id": "et6506vd",
+          "word": "quiet",
+          "meaning": "silence; lack of sound",
+          "register": "written",
+          "note": "This is the all-purpose noun for a state of silence or absence of sound, especially in descriptions such as 一片寂靜."
+        },
+        {
+          "id": "671wdpdq",
+          "word": "silence",
+          "meaning": "absence of sound",
+          "register": "written",
+          "note": "Use this for an environment or period with no sound, especially in descriptions such as “the silence was deafening.”"
+        }
+      ],
       "register": "written",
       "examples": [
         {

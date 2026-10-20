@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "crack a code or solve a problem",
-      "english": ["compromise", "crack"],
+      "english": [
+        {
+          "id": "0k25slv6",
+          "word": "compromise",
+          "meaning": "breach security",
+          "note": "Use this when someone defeats or cracks a security measure, such as a password or encryption."
+        },
+        {
+          "id": "vb0fwfkd",
+          "word": "crack",
+          "meaning": "solve difficult problem",
+          "note": "Use 破解 for solving a difficult problem or defeating a code, security system, or software restriction."
+        }
+      ],
       "examples": [
         {
           "english": "They used brute force to compromise the password.",

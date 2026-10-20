@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "busy, not free",
-      "english": ["unavailable", "busy"],
+      "english": [
+        {
+          "id": "7i2e5sat",
+          "word": "unavailable",
+          "meaning": "not available",
+          "register": "colloquial",
+          "note": "Use this when a person is unavailable because they are busy or not free."
+        },
+        {
+          "id": "v6muabi4",
+          "word": "busy",
+          "meaning": "occupied; not available",
+          "note": "Use this when someone is unavailable or has no free time, especially in a reply to a request."
+        }
+      ],
       "examples": [
         {
           "english": "I’m unavailable today; I’ll get back to you tomorrow.",

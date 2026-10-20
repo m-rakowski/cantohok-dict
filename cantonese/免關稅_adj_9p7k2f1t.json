@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "exempt from customs duty",
-      "english": ["duty-free"],
+      "english": [
+        {
+          "id": "ila93h62",
+          "word": "duty-free",
+          "meaning": "exempt from customs duty",
+          "note": "Use this when you specifically mean exemption from customs duty rather than taxes generally."
+        }
+      ],
       "examples": [
         {
           "english": "This shipment is duty-free, so we do not have to pay customs duty when it enters the country.",

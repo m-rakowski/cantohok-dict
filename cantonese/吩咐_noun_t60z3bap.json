@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "instructions, orders from someone",
-      "english": ["behest", "bidding"],
+      "english": [
+        {
+          "id": "yi16e3z0",
+          "word": "behest",
+          "meaning": "command; authoritative request",
+          "note": "This is the all-purpose everyday choice for someone's instruction or bidding, especially in phrases like 按照 A 嘅吩咐."
+        },
+        {
+          "id": "q6h6kkst",
+          "word": "bidding",
+          "meaning": "command; orders",
+          "note": "Use this for someone's instructions or orders, especially in the natural phrase 聽從某人的吩咐."
+        }
+      ],
       "examples": [
         {
           "english": "At my boss's behest, I handed in a report before finishing work today.",

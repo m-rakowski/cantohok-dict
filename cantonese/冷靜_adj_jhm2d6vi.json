@@ -6,7 +6,44 @@
   "boxes": [
     {
       "meaning": "calm",
-      "english": ["calm", "sedate", "tranquil", "level", "steady", "cool"],
+      "english": [
+        {
+          "id": "bfz1oisx",
+          "word": "calm",
+          "meaning": "peaceful; not anxious",
+          "note": "Use this for a person who is composed and not anxious or angry; it is the all-purpose choice for emotional calm."
+        },
+        {
+          "id": "5wr79t0c",
+          "word": "sedate",
+          "meaning": "calm, composed",
+          "note": "Use this when the emphasis is on staying calm and thinking clearly instead of being carried away by emotion."
+        },
+        {
+          "id": "5mqvfadw",
+          "word": "tranquil",
+          "meaning": "emotionally calm",
+          "note": "Use this when the focus is on keeping control and not becoming emotionally agitated, especially in a tense situation."
+        },
+        {
+          "id": "4tnqemmy",
+          "word": "level",
+          "meaning": "calm, level-headed",
+          "note": "Use 冷靜 for someone who remains calm and level-headed under pressure."
+        },
+        {
+          "id": "igoqwf6m",
+          "word": "steady",
+          "meaning": "calm, unruffled",
+          "note": "Use 冷靜 when someone remains calm and is not easily upset or excited."
+        },
+        {
+          "id": "a2yp0ugw",
+          "word": "cool",
+          "meaning": "calm, not emotional",
+          "note": "Use 冷靜 when telling someone to stay calm and keep control of their emotions."
+        }
+      ],
       "examples": [
         {
           "english": "Please stay calm for now.",

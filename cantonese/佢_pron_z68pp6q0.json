@@ -6,7 +6,50 @@
   "boxes": [
     {
       "meaning": "he, she, it, they (one person or thing)",
-      "english": ["it", "he", "her", "she", "them", "him", "they"],
+      "english": [
+        {
+          "id": "t781f3rw",
+          "word": "it",
+          "meaning": "thing / object pronoun",
+          "note": "Use this as the all-purpose third-person pronoun for a salient object, animal, baby, or child."
+        },
+        {
+          "id": "bs7acdwr",
+          "word": "he",
+          "meaning": "male person or known male animal",
+          "note": "This is the all-purpose spoken pronoun for a male person or a known male animal."
+        },
+        {
+          "id": "udadwl9w",
+          "word": "her",
+          "meaning": "object pronoun",
+          "note": "This is the all-purpose spoken pronoun for referring to her as an object or subject, without marking gender."
+        },
+        {
+          "id": "afokugja",
+          "word": "she",
+          "meaning": "female person or animal",
+          "note": "This is the all-purpose spoken pronoun for a female person or animal, as well as for other genders."
+        },
+        {
+          "id": "glsbdcsy",
+          "word": "them",
+          "meaning": "singular standalone pronoun",
+          "note": "Use this when singular “them” refers to one person, as in singular they."
+        },
+        {
+          "id": "5rtt1p43",
+          "word": "him",
+          "meaning": "object pronoun",
+          "note": "This is the all-purpose Cantonese object pronoun, including when English uses him as an indirect object."
+        },
+        {
+          "id": "k914mqmb",
+          "word": "they",
+          "meaning": "singular gender-neutral pronoun",
+          "note": "Use this for one previously mentioned person when gender is unspecified or irrelevant."
+        }
+      ],
       "examples": [
         {
           "english": "This computer is broken; it keeps turning itself off.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "food-label energy unit",
-      "english": ["calorie"],
+      "english": [
+        {
+          "id": "o66zo8qs",
+          "word": "calorie",
+          "meaning": "food-label energy unit",
+          "note": "This is the all-purpose Cantonese term for the food-label energy unit."
+        }
+      ],
       "examples": [
         {
           "english": "The label on this bag of crisps gives a calorie count of three hundred.",

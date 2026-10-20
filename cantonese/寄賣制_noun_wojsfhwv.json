@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "sale on consignment",
-      "english": ["consignment"],
+      "english": [
+        {
+          "id": "mhx2gil4",
+          "word": "consignment",
+          "meaning": "sale on consignment",
+          "note": "Use this for the arrangement where a shop sells someone else’s goods and keeps a percentage of the sale."
+        }
+      ],
       "examples": [
         {
           "english": "This shop uses a consignment arrangement to sell second-hand clothes and takes a commission only after they sell.",

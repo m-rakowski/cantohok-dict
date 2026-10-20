@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "a lot, many",
-      "english": ["much", "many"],
+      "english": [
+        {
+          "id": "mribld3h",
+          "word": "much",
+          "meaning": "a large amount; much of",
+          "note": "Use this as the all-purpose spoken quantifier for a large amount or for “much of” when the thing being measured is understood."
+        },
+        {
+          "id": "huheanq3",
+          "word": "many",
+          "meaning": "many people or things",
+          "note": "This is the all-purpose spoken choice for a large indefinite number of people or things, including when it stands alone as “many.”"
+        }
+      ],
       "examples": [
         {
           "english": "I drank much more water than usual.",

@@ -6,7 +6,39 @@
   "boxes": [
     {
       "meaning": "exciting, thrilling",
-      "english": ["exciting", "thrilling", "exhilarating", "breathless", "electric"],
+      "english": [
+        {
+          "id": "2uv548lb",
+          "word": "exciting",
+          "meaning": "causing excitement",
+          "note": "Use this as the all-purpose choice for something thrilling, and in a sexual context for something sexually stimulating."
+        },
+        {
+          "id": "ru3dncqs",
+          "word": "thrilling",
+          "meaning": "causing excitement",
+          "note": "This is the all-purpose choice for something that causes a sudden rush of excitement, such as a film, ride, or experience."
+        },
+        {
+          "id": "kh1nyok5",
+          "word": "exhilarating",
+          "meaning": "thrilling; exciting",
+          "note": "This is the all-purpose choice for something refreshingly thrilling or exciting."
+        },
+        {
+          "id": "gg7bntg9",
+          "word": "breathless",
+          "meaning": "exciting; breath-holding",
+          "register": "colloquial",
+          "note": "Use this for something thrilling or exciting enough to make people hold their breath."
+        },
+        {
+          "id": "e7jc2b7d",
+          "word": "electric",
+          "meaning": "thrilling, electrifying",
+          "note": "Use this when an event or experience is thrilling or emotionally electrifying."
+        }
+      ],
       "examples": [
         {
           "english": "The stunt scenes in this film are really exciting.",

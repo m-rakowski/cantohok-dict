@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "way to solve a problem",
-      "english": ["solution", "method"],
+      "english": [
+        {
+          "id": "yka4a7tr",
+          "word": "solution",
+          "meaning": "way to solve",
+          "note": "This is the all-purpose spoken choice for a way to solve a problem."
+        },
+        {
+          "id": "vyvco0dv",
+          "word": "method",
+          "meaning": "way of doing something",
+          "register": "colloquial",
+          "note": "Use this when the method is understood as a practical means or solution to a problem."
+        }
+      ],
       "examples": [
         {
           "english": "We need to think of a solution to this problem before solving it.",

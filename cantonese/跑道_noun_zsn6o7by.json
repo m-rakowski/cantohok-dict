@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "airport runway",
-      "english": ["runway", "strip"],
+      "english": [
+        {
+          "id": "23hx0jrr",
+          "word": "runway",
+          "meaning": "airport runway",
+          "note": "This is the all-purpose choice for an airport runway."
+        },
+        {
+          "id": "1k94jr6u",
+          "word": "strip",
+          "meaning": "landing strip",
+          "note": "Use this for an aircraft landing strip or runway, rather than for a strip of material or land."
+        }
+      ],
       "examples": [
         {
           "english": "The plane is about to land, so don't go near the runway.",
@@ -22,7 +35,14 @@
     },
     {
       "meaning": "running track",
-      "english": ["track"],
+      "english": [
+        {
+          "id": "6tzggl9q",
+          "word": "track",
+          "meaning": "running track",
+          "note": "Use this for a track laid out for running or racing."
+        }
+      ],
       "examples": [
         {
           "english": "Please don't walk on the track.",

@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "imprisonment",
-      "english": ["imprisonment", "prison"],
+      "english": [
+        {
+          "id": "fir1wtid",
+          "word": "imprisonment",
+          "meaning": "being in prison",
+          "register": "formal",
+          "note": "Use this formal term when referring specifically to confinement as a legal punishment, especially in written or official contexts."
+        },
+        {
+          "id": "lmd4wszz",
+          "word": "prison",
+          "meaning": "being in prison",
+          "register": "formal",
+          "note": "This refers to the state or experience of being confined, especially in legal or formal contexts."
+        }
+      ],
       "register": "formal",
       "examples": [
         {

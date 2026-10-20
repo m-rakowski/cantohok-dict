@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "road, way",
-      "english": ["way", "road", "path", "route", "street"],
+      "english": [
+        {
+          "id": "d90p5msz",
+          "word": "way",
+          "meaning": "road/path/direction",
+          "note": "This is the all-purpose noun for a physical or figurative route, road, or direction."
+        },
+        {
+          "id": "4g3lwi68",
+          "word": "road",
+          "meaning": "travel road",
+          "note": "This is the all-purpose noun for a physical road and, in expressions such as the road to success, a life or career path."
+        },
+        {
+          "id": "9xn2uqu6",
+          "word": "path",
+          "meaning": "pedestrian trail",
+          "note": "This is the all-purpose choice for a path, route, figurative way, or way of proceeding when no narrower context is needed."
+        },
+        {
+          "id": "eginy337",
+          "word": "route",
+          "meaning": "path taken",
+          "note": "This is the all-purpose choice for a path or road people travel on, especially when no special transport or highway distinction is intended."
+        },
+        {
+          "id": "saa4d1w0",
+          "word": "street",
+          "meaning": "road in town",
+          "note": "Use this when the street is being viewed more broadly as a road or route, including in street names."
+        }
+      ],
       "examples": [
         {
           "english": "Which way does this road go?",

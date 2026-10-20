@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "person who votes",
-      "english": ["voter"],
+      "english": [
+        {
+          "id": "sckjruvh",
+          "word": "voter",
+          "meaning": "person who votes",
+          "note": "This is the all-purpose choice in election and political contexts, especially for someone entitled to vote."
+        }
+      ],
       "examples": [
         {
           "english": "Every voter has the right to know the candidates’ policies。",

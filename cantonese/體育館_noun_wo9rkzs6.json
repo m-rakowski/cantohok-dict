@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "sports hall, arena",
-      "english": ["arena", "sports center"],
+      "english": [
+        {
+          "id": "plllcn2m",
+          "word": "arena",
+          "meaning": "sports / event arena",
+          "note": "This is the all-purpose choice for an indoor sports or large entertainment arena."
+        },
+        {
+          "id": "qvg6uk1u",
+          "word": "sports center",
+          "meaning": "sports facility",
+          "note": "Use this when the facility is understood as an indoor sports hall or a named sports venue."
+        }
+      ],
       "examples": [
         {
           "english": "The concert is being held in the arena tonight.",

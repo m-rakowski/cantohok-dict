@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "safe",
-      "english": ["safe", "secure"],
+      "english": [
+        {
+          "id": "bw9we984",
+          "word": "safe",
+          "meaning": "not in danger",
+          "note": "This is the all-purpose choice for being out of danger, free from risk, protected, or securely kept."
+        },
+        {
+          "id": "1dakthvj",
+          "word": "secure",
+          "meaning": "protected from danger",
+          "note": "Use this as the all-purpose choice when a person, place, or possession is free from physical danger or theft."
+        }
+      ],
       "examples": [
         {
           "english": "It’s very safe here.",

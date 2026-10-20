@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "proper social courtesies",
-      "english": ["formality", "ceremony"],
+      "english": [
+        {
+          "id": "9embtjlx",
+          "word": "formality",
+          "meaning": "formal manner",
+          "note": "Use 禮數 for the social or ceremonial courtesies and conventional polite acts that make an occasion formal."
+        },
+        {
+          "id": "utg8qs8r",
+          "word": "ceremony",
+          "meaning": "formality",
+          "note": "Use this for socially expected formalities or courtesies, especially between people of different ranks."
+        }
+      ],
       "examples": [
         {
           "english": "You should observe the basic formality when visiting someone’s home for the first time.",

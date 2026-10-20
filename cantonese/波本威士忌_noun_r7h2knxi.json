@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "bourbon whiskey",
-      "english": ["bourbon"],
+      "english": [
+        {
+          "id": "migbnaoo",
+          "word": "bourbon",
+          "meaning": "bourbon whiskey",
+          "note": "This is the all-purpose term for the American whiskey itself."
+        }
+      ],
       "examples": [
         {
           "english": "This bourbon has a lovely oaky flavor.",

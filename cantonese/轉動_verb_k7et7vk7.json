@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "to turn, rotate",
-      "english": ["revolve", "swivel"],
+      "english": [
+        {
+          "id": "w37a6jw9",
+          "word": "revolve",
+          "meaning": "rotate around an axis",
+          "note": "Use this as the all-purpose verb for making something turn or for something rotating."
+        },
+        {
+          "id": "1r0g9fyf",
+          "word": "swivel",
+          "meaning": "turn on a pivot",
+          "note": "Use 轉動 as the all-purpose choice for an object swinging or turning around a fixed point or axis."
+        }
+      ],
       "examples": [
         {
           "english": "I revolve the knob by hand to adjust the radio's volume.",

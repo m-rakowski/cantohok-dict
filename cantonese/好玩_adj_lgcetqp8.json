@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "fun",
-      "english": ["fun", "enjoyable", "entertaining"],
+      "english": [
+        {
+          "id": "f497knjg",
+          "word": "fun",
+          "meaning": "enjoyable, amusing",
+          "note": "This is the all-purpose choice for something enjoyable or amusing, such as a party or activity."
+        },
+        {
+          "id": "u8kxrtwz",
+          "word": "enjoyable",
+          "meaning": "pleasant; gives pleasure",
+          "note": "Use this as the all-purpose choice for an activity, experience, or day that is enjoyable."
+        },
+        {
+          "id": "vcv5rszy",
+          "word": "entertaining",
+          "meaning": "amusing, enjoyable",
+          "note": "Use 好玩 when the entertaining thing is an activity, game, or experience that is fun to take part in."
+        }
+      ],
       "examples": [
         {
           "english": "This game is really fun.",

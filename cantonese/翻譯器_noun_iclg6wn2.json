@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "language translator",
-      "english": ["translator"],
+      "english": [
+        {
+          "id": "pgva15pq",
+          "word": "translator",
+          "meaning": "language translator",
+          "note": "Use this for a device or software tool that translates text rather than a human translator."
+        }
+      ],
       "examples": [
         {
           "english": "I used the translator on my phone to read the Japanese menu.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "proof, testimony",
-      "english": ["testimony", "testament"],
+      "english": [
+        {
+          "id": "57qgygjq",
+          "word": "testimony",
+          "meaning": "evidence, proof",
+          "note": "Use this when something serves as a sign or testimony to an achievement or fact."
+        },
+        {
+          "id": "eho43cxb",
+          "word": "testament",
+          "meaning": "proof; evidence",
+          "note": "Use this when something serves as visible evidence or an illustration of another quality, as in the aqueducts being a testament to engineering skill."
+        }
+      ],
       "examples": [
         {
           "english": "Winning this award is testimony to years of hard work.",

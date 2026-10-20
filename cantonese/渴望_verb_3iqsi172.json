@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "long for, yearn",
-      "english": ["crave", "yearn"],
+      "english": [
+        {
+          "id": "v87uvgeh",
+          "word": "crave",
+          "meaning": "strongly desire",
+          "register": "formal",
+          "note": "Use this for intense, often more abstract yearning such as craving peace, especially in formal or written contexts."
+        },
+        {
+          "id": "vd6mz93x",
+          "word": "yearn",
+          "meaning": "strong desire / long for",
+          "register": "written",
+          "note": "Use this formal or written choice for an expressed or enduring longing, especially in serious prose."
+        }
+      ],
       "examples": [
         {
           "english": "We crave world peace.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "proposal, suggestion",
-      "english": ["offer", "suggestion"],
+      "english": [
+        {
+          "id": "gn7sl65b",
+          "word": "offer",
+          "meaning": "proposal / offer",
+          "note": "This is the all-purpose noun for a proposal or offer that someone has put forward."
+        },
+        {
+          "id": "r4u2uc8k",
+          "word": "suggestion",
+          "meaning": "proposal; idea",
+          "note": "Use this when the suggestion is specifically a proposal put forward for consideration, rather than general advice."
+        }
+      ],
       "examples": [
         {
           "english": "This offer is quite appealing.",

@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "consequence, bad result",
-      "english": ["consequence", "outcome", "implication", "result"],
+      "english": [
+        {
+          "id": "6hlyghja",
+          "word": "consequence",
+          "meaning": "bad result; consequences",
+          "note": "Use this for an unwanted or harmful consequence, especially in a warning."
+        },
+        {
+          "id": "n1a2wne6",
+          "word": "outcome",
+          "meaning": "result; consequence",
+          "note": "Use this when the outcome is specifically a consequence, usually an unpleasant or harmful one."
+        },
+        {
+          "id": "g9eje98i",
+          "word": "implication",
+          "meaning": "result; consequence",
+          "note": "Use this instead of 影響 when focusing on the resulting consequences, usually serious or negative ones."
+        },
+        {
+          "id": "jk6gqdk9",
+          "word": "result",
+          "meaning": "outcome; consequence",
+          "note": "Use 後果 when the consequence is specifically an often negative or unwanted result."
+        }
+      ],
       "examples": [
         {
           "english": "If you keep taking medicine recklessly, the consequence will be serious.",

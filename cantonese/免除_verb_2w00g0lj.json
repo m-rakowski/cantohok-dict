@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "to waive, exempt",
-      "english": ["remit", "forgive"],
+      "english": [
+        {
+          "id": "6zxwuklz",
+          "word": "remit",
+          "meaning": "cancel obligation",
+          "register": "formal",
+          "note": "Use this when formally stating that a duty, payment, or other obligation is waived or cancelled."
+        },
+        {
+          "id": "totg4squ",
+          "word": "forgive",
+          "meaning": "forgive a debt",
+          "register": "formal",
+          "note": "Use 免除 for formally waiving a debt or payment rather than pardoning a person or offence."
+        }
+      ],
       "register": "formal",
       "examples": [
         {

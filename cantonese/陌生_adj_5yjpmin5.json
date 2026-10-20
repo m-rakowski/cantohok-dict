@@ -6,7 +6,33 @@
   "boxes": [
     {
       "meaning": "unfamiliar",
-      "english": ["strange", "unfamiliar", "foreign", "new"],
+      "english": [
+        {
+          "id": "y2pbvwdd",
+          "word": "strange",
+          "meaning": "unfamiliar",
+          "note": "Use 陌生 when a person, place, or situation is unfamiliar because you have not encountered it before."
+        },
+        {
+          "id": "jdc882nc",
+          "word": "unfamiliar",
+          "meaning": "strange, not known",
+          "register": "formal",
+          "note": "Use this when describing the feeling or quality of being unfamiliar, especially in more formal or written contexts."
+        },
+        {
+          "id": "18rhz0ax",
+          "word": "foreign",
+          "meaning": "strange or unfamiliar to",
+          "note": "Use this when something feels unfamiliar or alien to a person, group, or way of thinking."
+        },
+        {
+          "id": "tnuk4lig",
+          "word": "new",
+          "meaning": "unfamiliar; not known",
+          "note": "Use 陌生 when “new” means strange or unfamiliar, rather than merely recently introduced."
+        }
+      ],
       "examples": [
         {
           "english": "I’m visiting this neighborhood for the first time, so everything feels strange.",

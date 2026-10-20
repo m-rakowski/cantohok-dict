@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "put, place somewhere",
-      "english": ["place", "put", "deposit", "leave"],
+      "english": [
+        {
+          "id": "7jl7fws0",
+          "word": "place",
+          "meaning": "put; position",
+          "note": "Use this as the all-purpose verb for putting someone or something in a specific location."
+        },
+        {
+          "id": "2yc0wdlq",
+          "word": "put",
+          "meaning": "place physically",
+          "note": "Use 放 as the all-purpose choice for physically placing someone or something somewhere."
+        },
+        {
+          "id": "bck00jof",
+          "word": "deposit",
+          "meaning": "put down, place",
+          "note": "Use 放 as the all-purpose verb for placing something somewhere, including ordinary storage; use 收埋 when putting it away for safekeeping is emphasized."
+        },
+        {
+          "id": "zpidypdc",
+          "word": "leave",
+          "meaning": "leave somewhere; deposit",
+          "note": "Use 放 when you put or leave an object somewhere, especially when it is to remain there or be collected later."
+        }
+      ],
       "examples": [
         {
           "english": "Please place the book on the table for me.",

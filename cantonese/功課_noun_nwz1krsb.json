@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "homework",
-      "english": ["homework", "schoolwork", "assignment", "lesson"],
+      "english": [
+        {
+          "id": "vbv62r95",
+          "word": "homework",
+          "meaning": "school assignments",
+          "note": "This is the all-purpose Cantonese noun for school assignments and homework."
+        },
+        {
+          "id": "m97z5y7a",
+          "word": "schoolwork",
+          "meaning": "school assignments",
+          "note": "This is the all-purpose everyday word for work assigned or done for school, including homework and class assignments."
+        },
+        {
+          "id": "75yjof6w",
+          "word": "assignment",
+          "meaning": "school homework",
+          "note": "Use 功課 for a school assignment, homework, or coursework."
+        },
+        {
+          "id": "x1r7pl7u",
+          "word": "lesson",
+          "meaning": "homework assignment",
+          "note": "Use this for work or an assignment that a teacher gives a student to do, especially at home."
+        }
+      ],
       "examples": [
         {
           "english": "I haven't finished today's homework yet.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "equal (in rights and status)",
-      "english": ["egalitarian", "equal"],
+      "english": [
+        {
+          "id": "uvi44cdr",
+          "word": "egalitarian",
+          "meaning": "socially equal; equal rights",
+          "note": "This is the all-purpose choice for describing a society or system based on social equality and equal rights."
+        },
+        {
+          "id": "c5wpjffc",
+          "word": "equal",
+          "meaning": "equal in status/rights",
+          "note": "Use this specifically for equal status, rights, opportunities, or treatment."
+        }
+      ],
       "examples": [
         {
           "english": "This society is egalitarian, with everyone having equal rights.",

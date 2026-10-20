@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "prize money, cash bonus",
-      "english": ["prize", "incentive"],
+      "english": [
+        {
+          "id": "sk6alg4y",
+          "word": "prize",
+          "meaning": "award / competition prize",
+          "note": "Use this specifically when the prize is money."
+        },
+        {
+          "id": "lp7u5d4w",
+          "word": "incentive",
+          "meaning": "bonus; reward",
+          "note": "Use this when the incentive is specifically a monetary bonus or cash payment."
+        }
+      ],
       "examples": [
         {
           "english": "The champion can receive a five-thousand-dollar prize.",

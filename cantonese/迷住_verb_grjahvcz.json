@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "captivate, fascinate",
-      "english": ["fascinate", "spell"],
+      "english": [
+        {
+          "id": "4ka0hypn",
+          "word": "fascinate",
+          "meaning": "attract interest",
+          "register": "colloquial",
+          "note": "Use this when someone is strongly captivated or enchanted by something."
+        },
+        {
+          "id": "p3tcbjrj",
+          "word": "spell",
+          "meaning": "bewitch, fascinate",
+          "note": "Use this when someone or something fascinates or bewitches a person and holds their attention."
+        }
+      ],
       "examples": [
         {
           "english": "That cat can fascinate everyone in the room.",

@@ -6,7 +6,28 @@
   "boxes": [
     {
       "meaning": "trap, keep stuck inside",
-      "english": ["confine", "restrict", "shut"],
+      "english": [
+        {
+          "id": "83b4nzh8",
+          "word": "confine",
+          "meaning": "restrict to a place/bounds",
+          "register": "colloquial",
+          "note": "Use this for physical confinement, where someone or something is kept inside or unable to leave a place."
+        },
+        {
+          "id": "cghickf0",
+          "word": "restrict",
+          "meaning": "limit; confine",
+          "register": "colloquial",
+          "note": "Use this for physically confining or trapping someone or something within a place or boundary."
+        },
+        {
+          "id": "5qjelpyt",
+          "word": "shut",
+          "meaning": "shut in / confine",
+          "note": "Use this when someone or something is confined or trapped inside an enclosed place."
+        }
+      ],
       "examples": [
         {
           "english": "Because of the flooding, we had to confine ourselves to the upstairs room.",

@@ -6,7 +6,40 @@
   "boxes": [
     {
       "meaning": "real, true to life",
-      "english": ["truthful", "true", "actual", "real", "concrete"],
+      "english": [
+        {
+          "id": "enl7j7k9",
+          "word": "truthful",
+          "meaning": "accurate depiction",
+          "note": "Use this when a depiction matches reality or looks true to life."
+        },
+        {
+          "id": "apap4h3h",
+          "word": "true",
+          "meaning": "factually correct",
+          "note": "Use 真實 when stressing that a story, event, or account is real rather than fictional."
+        },
+        {
+          "id": "y7g1coyy",
+          "word": "actual",
+          "meaning": "real, factual",
+          "register": "formal",
+          "note": "Use this when stressing that something is factually real or based on reality rather than imagined or fictional."
+        },
+        {
+          "id": "dzozk6lk",
+          "word": "real",
+          "meaning": "actually existing",
+          "register": "formal",
+          "note": "Use 真實 when stressing that something actually exists or corresponds to reality, especially in descriptions such as real life."
+        },
+        {
+          "id": "s50max4r",
+          "word": "concrete",
+          "meaning": "real, tangible",
+          "note": "Use this when concrete means real or actual and tangibility is not the focus."
+        }
+      ],
       "examples": [
         {
           "english": "The film gives a truthful picture of village life.",

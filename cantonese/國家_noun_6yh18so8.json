@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "country, nation",
-      "english": ["country", "nation", "polity", "state", "land"],
+      "english": [
+        {
+          "id": "ycvcsk2m",
+          "word": "country",
+          "meaning": "nation; state",
+          "note": "This is the all-purpose choice for a sovereign nation or state."
+        },
+        {
+          "id": "ajbppxr4",
+          "word": "nation",
+          "meaning": "sovereign state",
+          "note": "This is the all-purpose Cantonese noun for a sovereign state or country."
+        },
+        {
+          "id": "zuwm0psn",
+          "word": "polity",
+          "meaning": "political unit; state",
+          "note": "Use this when the polity means a nation-state or country rather than a governing system."
+        },
+        {
+          "id": "btr946pf",
+          "word": "state",
+          "meaning": "country, government",
+          "note": "Use this for a sovereign country or the national government and its affairs, rather than a local authority."
+        },
+        {
+          "id": "reiysltp",
+          "word": "land",
+          "meaning": "country or region",
+          "note": "Use this when “land” means a country or nation, not merely an area."
+        }
+      ],
       "examples": [
         {
           "english": "The laws in this country are very strict.",

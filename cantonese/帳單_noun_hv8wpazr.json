@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "bill",
-      "english": ["bill", "damage"],
+      "english": [
+        {
+          "id": "ssxh8izk",
+          "word": "bill",
+          "meaning": "restaurant / payment bill",
+          "note": "This is the all-purpose choice for a restaurant, shopping, or service bill."
+        },
+        {
+          "id": "0j3h48w1",
+          "word": "damage",
+          "meaning": "cost; bill",
+          "note": "Use this when the damage means the bill or written amount to pay."
+        }
+      ],
       "examples": [
         {
           "english": "The restaurant bill is more expensive.",

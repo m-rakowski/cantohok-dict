@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "contract",
-      "english": ["contract", "agreement", "bond"],
+      "english": [
+        {
+          "id": "6iw4jcot",
+          "word": "contract",
+          "meaning": "legal agreement",
+          "note": "Use 合約 as the all-purpose Cantonese noun for a work agreement, a legally binding agreement, or the contract document itself."
+        },
+        {
+          "id": "5ys2kvag",
+          "word": "agreement",
+          "meaning": "legal contract",
+          "note": "Use 合約 specifically for a legally binding contract or agreement."
+        },
+        {
+          "id": "c87un0ue",
+          "word": "bond",
+          "meaning": "binding agreement",
+          "note": "Use this for a binding agreement or contract rather than an emotional connection."
+        }
+      ],
       "examples": [
         {
           "english": "I signed a two-year contract with the company.",

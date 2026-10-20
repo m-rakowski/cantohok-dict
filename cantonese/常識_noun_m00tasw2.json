@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "common sense",
-      "english": ["common sense", "sense"],
+      "english": [
+        {
+          "id": "rx6qzq4l",
+          "word": "common sense",
+          "meaning": "basic good judgment",
+          "note": "This is the all-purpose everyday choice for ordinary practical understanding and good judgment."
+        },
+        {
+          "id": "mw98ti2u",
+          "word": "sense",
+          "meaning": "common sense; judgment",
+          "note": "Use this for everyday common sense or a generally understood practical principle."
+        }
+      ],
       "examples": [
         {
           "english": "You need common sense; don’t stand under a tree in the rain.",

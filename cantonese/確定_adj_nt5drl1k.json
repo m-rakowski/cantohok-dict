@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "certain, confirmed",
-      "english": ["definite", "certain"],
+      "english": [
+        {
+          "id": "v6j8h6kt",
+          "word": "definite",
+          "meaning": "certain; without doubt",
+          "note": "Use this for a fact, answer, or matter that is settled or confirmed beyond doubt."
+        },
+        {
+          "id": "mp5ebztg",
+          "word": "certain",
+          "meaning": "certain, established",
+          "note": "Use this when a fact, result, or conclusion has been established rather than merely believed."
+        }
+      ],
       "examples": [
         {
           "english": "The answer is definite now, so there is no need to guess anymore.",

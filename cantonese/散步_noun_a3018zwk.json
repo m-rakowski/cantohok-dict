@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "walk, stroll",
-      "english": ["walkabout", "promenade", "walk"],
+      "english": [
+        {
+          "id": "x95crj0u",
+          "word": "walkabout",
+          "meaning": "walking trip",
+          "note": "This is the all-purpose choice for a walking trip or stroll."
+        },
+        {
+          "id": "b9m261of",
+          "word": "promenade",
+          "meaning": "stroll, leisurely walk",
+          "note": "This is the all-purpose choice for a leisurely walk taken for pleasure or exercise."
+        },
+        {
+          "id": "ctpikuwz",
+          "word": "walk",
+          "meaning": "trip on foot",
+          "note": "This is the all-purpose noun for a walk taken for exercise or pleasure."
+        }
+      ],
       "examples": [
         {
           "english": "I went for a walkabout in the park after dinner.",

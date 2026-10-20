@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "atmospheric conditions",
-      "english": ["weather"],
+      "english": [
+        {
+          "id": "jpk2f5ue",
+          "word": "weather",
+          "meaning": "atmospheric conditions",
+          "note": "Use this less common term when referring broadly to the prevailing weather or seasonal conditions rather than simply asking about today's weather."
+        }
+      ],
       "examples": [
         {
           "english": "The weather hasn't been good lately; it keeps raining.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "driver",
-      "english": ["driver", "motorist"],
+      "english": [
+        {
+          "id": "jrsawm12",
+          "word": "driver",
+          "meaning": "vehicle driver",
+          "note": "This is the all-purpose Cantonese noun for a person who drives a vehicle."
+        },
+        {
+          "id": "p6foo0fe",
+          "word": "motorist",
+          "meaning": "driver",
+          "note": "Use this when referring to the driver of a vehicle, especially when the person is acting as a professional driver or the vehicle has a designated driver."
+        }
+      ],
       "examples": [
         {
           "english": "That driver drives very steadily.",

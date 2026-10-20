@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "rude, impolite",
-      "english": ["rude", "impolite", "ignorant", "improper"],
+      "english": [
+        {
+          "id": "qxnzeci2",
+          "word": "rude",
+          "meaning": "bad-mannered, discourteous",
+          "note": "This is the all-purpose everyday choice for someone who behaves without politeness or manners."
+        },
+        {
+          "id": "yxwa0g2a",
+          "word": "impolite",
+          "meaning": "not polite; rude",
+          "note": "This is the all-purpose everyday way to describe someone or their behaviour as impolite or rude."
+        },
+        {
+          "id": "yfi4bpgu",
+          "word": "ignorant",
+          "meaning": "rude, crude",
+          "note": "Use this when “ignorant” means rude or lacking basic manners."
+        },
+        {
+          "id": "z1gmp904",
+          "word": "improper",
+          "meaning": "indecent, rude",
+          "note": "Use this specifically when improper means rude or lacking good manners."
+        }
+      ],
       "examples": [
         {
           "english": "They never greet people; they’re really rude.",

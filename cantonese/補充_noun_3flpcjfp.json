@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "addition, supplement",
-      "english": ["supplement", "complement", "update"],
+      "english": [
+        {
+          "id": "qkc7pvbe",
+          "word": "supplement",
+          "meaning": "addition; something added",
+          "note": "This is the all-purpose choice for something added to make up for a deficiency."
+        },
+        {
+          "id": "uktjhzfu",
+          "word": "complement",
+          "meaning": "something that completes",
+          "note": "Pick this for an additional thing that completes or rounds out something else, rather than for a numerical total."
+        },
+        {
+          "id": "nyp7ozjd",
+          "word": "update",
+          "meaning": "new information",
+          "note": "Use this for an extra piece of information added to an existing account, post, or explanation."
+        }
+      ],
       "examples": [
         {
           "english": "The report is too brief, so we need to add a page of information as a supplement.",

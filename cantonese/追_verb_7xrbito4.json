@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "chase",
-      "english": ["pursue", "chase"],
+      "english": [
+        {
+          "id": "j0s4jo18",
+          "word": "pursue",
+          "meaning": "chase; follow urgently",
+          "note": "This is the all-purpose choice for chasing or following someone urgently."
+        },
+        {
+          "id": "ikjoiitx",
+          "word": "chase",
+          "meaning": "pursue; follow fast",
+          "note": "This is the all-purpose choice for following someone or something at speed."
+        }
+      ],
       "examples": [
         {
           "english": "Quickly pursue that thief!",

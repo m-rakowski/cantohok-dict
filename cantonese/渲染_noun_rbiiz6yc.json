@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "computer image output",
-      "english": ["rendering"],
+      "english": [
+        {
+          "id": "2i0v4a28",
+          "word": "rendering",
+          "meaning": "computer image output",
+          "note": "Use this in computer graphics for producing an image from a digital model, or for the resulting render in that context."
+        }
+      ],
       "examples": [
         {
           "english": "The image is still rendering, so it is not ready for release.",

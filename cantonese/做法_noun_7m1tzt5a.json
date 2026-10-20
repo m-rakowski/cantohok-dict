@@ -6,7 +6,51 @@
   "boxes": [
     {
       "meaning": "way of doing something",
-      "english": ["manner", "procedure", "method", "fashion", "system", "rule", "thing"],
+      "english": [
+        {
+          "id": "258hbvtt",
+          "word": "manner",
+          "meaning": "way of doing",
+          "note": "This is the all-purpose choice for the way someone performs or does something."
+        },
+        {
+          "id": "k16n8qu0",
+          "word": "procedure",
+          "meaning": "method for doing something",
+          "note": "Use 做法 as the all-purpose colloquial word for a particular way of doing something."
+        },
+        {
+          "id": "0syzm506",
+          "word": "method",
+          "meaning": "way of doing something",
+          "register": "colloquial",
+          "note": "Use this for the particular way a person or organization does something."
+        },
+        {
+          "id": "3e47ew8i",
+          "word": "fashion",
+          "meaning": "in a certain manner",
+          "note": "Use this for the manner or way in which something is done."
+        },
+        {
+          "id": "vfmj0112",
+          "word": "system",
+          "meaning": "method, system",
+          "note": "Use this for the particular approach or way of doing or organizing something, rather than a formal system."
+        },
+        {
+          "id": "i1k184q7",
+          "word": "rule",
+          "meaning": "procedure; method",
+          "note": "Use this for the prescribed way or procedure for carrying out a particular operation."
+        },
+        {
+          "id": "fudhx5my",
+          "word": "thing",
+          "meaning": "custom or practice",
+          "note": "Use this for a custom or practice, or for someone's usual way of doing things, rather than for a physical object."
+        }
+      ],
       "examples": [
         {
           "english": "This manner of doing things is pretty effective.",

@@ -6,7 +6,33 @@
   "boxes": [
     {
       "meaning": "mission, assigned task",
-      "english": ["mission", "quest", "task", "assignment"],
+      "english": [
+        {
+          "id": "5lcp5xgd",
+          "word": "mission",
+          "meaning": "task/assignment",
+          "note": "This is the all-purpose choice for a set of tasks or an assignment."
+        },
+        {
+          "id": "aoknrsi1",
+          "word": "quest",
+          "meaning": "game mission / side quest",
+          "note": "Use this as the all-purpose choice for a mission or a game task, including a hero's quest when it is framed as a mission."
+        },
+        {
+          "id": "vs67j4uw",
+          "word": "task",
+          "meaning": "work assignment",
+          "register": "formal",
+          "note": "Use this for an explicitly assigned task, mission, or duty rather than ordinary work in general."
+        },
+        {
+          "id": "kecdns7r",
+          "word": "assignment",
+          "meaning": "task given",
+          "note": "Use 任務 as the all-purpose term for an assigned task outside school."
+        }
+      ],
       "examples": [
         {
           "english": "This is the mission my boss assigned me, and I have to finish it today.",

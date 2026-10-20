@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "pay attention to, watch out for",
-      "english": ["pay", "attend", "watch"],
+      "english": [
+        {
+          "id": "gdrzuqmc",
+          "word": "pay",
+          "meaning": "give attention or respect",
+          "note": "Use this for “pay attention”; tribute and visits use different Cantonese verbs."
+        },
+        {
+          "id": "6tthcrky",
+          "word": "attend",
+          "meaning": "pay attention",
+          "note": "Use this when attend means to pay attention to or take notice of something."
+        },
+        {
+          "id": "2nz00uw3",
+          "word": "watch",
+          "meaning": "watch out for danger",
+          "note": "Use 留意 when telling someone to pay attention to a possible immediate danger or hazard."
+        }
+      ],
       "examples": [
         {
           "english": "We need to pay attention to changes in the weather.",

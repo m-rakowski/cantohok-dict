@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "diagram, drawing",
-      "english": ["diagram", "drawing"],
+      "english": [
+        {
+          "id": "e787ikim",
+          "word": "diagram",
+          "meaning": "technical drawing / schematic",
+          "note": "Use this as the all-purpose noun when the exact type of diagram is clear from context."
+        },
+        {
+          "id": "owndqpfj",
+          "word": "drawing",
+          "meaning": "picture / diagram",
+          "note": "Use this when the drawing is a diagram, plan, chart, or other informational representation rather than an artwork."
+        }
+      ],
       "examples": [
         {
           "english": "This diagram clearly explains how the machine works.",
@@ -22,7 +35,15 @@
     },
     {
       "meaning": "graph in mathematics",
-      "english": ["graph"],
+      "english": [
+        {
+          "id": "2ar7rvde",
+          "word": "graph",
+          "meaning": "network of nodes",
+          "register": "formal",
+          "note": "Use this in graph theory for a structure of vertices or nodes joined by edges, rather than for an ordinary chart."
+        }
+      ],
       "register": "formal",
       "examples": [
         {

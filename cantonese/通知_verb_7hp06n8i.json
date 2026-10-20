@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "inform, notify",
-      "english": ["inform", "advise"],
+      "english": [
+        {
+          "id": "fxx62r52",
+          "word": "inform",
+          "meaning": "tell, notify",
+          "note": "Use this for notifying someone, especially about an arrangement, decision, or official matter."
+        },
+        {
+          "id": "apnd0qtk",
+          "word": "advise",
+          "meaning": "inform or notify",
+          "note": "Use this when formally notifying someone of information, a risk, or an official decision."
+        }
+      ],
       "examples": [
         {
           "english": "The company will inform us that tomorrow’s schedule has changed.",

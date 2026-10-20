@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "loyal",
-      "english": ["faithful", "loyal", "true"],
+      "english": [
+        {
+          "id": "kpz4qskg",
+          "word": "faithful",
+          "meaning": "loyal",
+          "note": "This is the all-purpose choice for loyalty to a person, group, or cause."
+        },
+        {
+          "id": "u4gp1tqh",
+          "word": "loyal",
+          "meaning": "faithful support",
+          "note": "This is the all-purpose choice for a person or animal that consistently supports someone, an institution, or a cause."
+        },
+        {
+          "id": "itzw922r",
+          "word": "true",
+          "meaning": "loyal, faithful",
+          "note": "Use 忠心 when true means loyal or faithful to a person or cause."
+        }
+      ],
       "examples": [
         {
           "english": "They are very faithful to the company.",

@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "very happy",
-      "english": ["delighted", "thrilled", "elated"],
+      "english": [
+        {
+          "id": "eo7xo76p",
+          "word": "delighted",
+          "meaning": "greatly pleased",
+          "note": "This is the all-purpose everyday choice for saying that someone is greatly pleased."
+        },
+        {
+          "id": "c327eu6z",
+          "word": "thrilled",
+          "meaning": "extremely excited, delighted",
+          "note": "Choose this when “thrilled” means delighted or very happy about good news rather than visibly excited."
+        },
+        {
+          "id": "qnhkm1ip",
+          "word": "elated",
+          "meaning": "extremely happy",
+          "note": "This is the all-purpose everyday choice for being extremely happy or pleased."
+        }
+      ],
       "examples": [
         {
           "english": "I was delighted to receive a gift.",

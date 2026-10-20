@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "adjust, set correctly",
-      "english": ["set", "balance"],
+      "english": [
+        {
+          "id": "0wx0thnj",
+          "word": "set",
+          "meaning": "adjust, set",
+          "register": "colloquial",
+          "note": "Use this for adjusting a device or control, especially an alarm, clock, or timer."
+        },
+        {
+          "id": "i9jkquy9",
+          "word": "balance",
+          "meaning": "bring into balance",
+          "note": "Use 校 when adjusting a scale or similar setup until it is correctly balanced."
+        }
+      ],
       "examples": [
         {
           "english": "Remember to set the alarm before you go to sleep.",

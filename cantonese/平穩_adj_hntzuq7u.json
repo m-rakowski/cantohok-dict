@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "steady, stable",
-      "english": ["equable", "even"],
+      "english": [
+        {
+          "id": "2d1wut5e",
+          "word": "equable",
+          "meaning": "calm, steady",
+          "note": "Use this when the emphasis is on something remaining steady and not fluctuating."
+        },
+        {
+          "id": "aoz2942t",
+          "word": "even",
+          "meaning": "steady, unvarying",
+          "note": "Use this for a steady voice, rate, or condition with little variation."
+        }
+      ],
       "examples": [
         {
           "english": "Business has been slow lately, but our income has been fairly equable.",

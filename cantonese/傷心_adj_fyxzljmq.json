@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "sad, heartbroken",
-      "english": ["mournful", "bereft"],
+      "english": [
+        {
+          "id": "qki10yyq",
+          "word": "mournful",
+          "meaning": "sad, grieving",
+          "note": "This is the all-purpose colloquial choice for a person who is sad or grieving."
+        },
+        {
+          "id": "lb7uqmtq",
+          "word": "bereft",
+          "meaning": "grief-stricken, bereaved",
+          "note": "Use this as the everyday emotional equivalent when bereft means deeply distressed by someone’s death or loss."
+        }
+      ],
       "examples": [
         {
           "english": "They have been mournful ever since they lost a close relative。",

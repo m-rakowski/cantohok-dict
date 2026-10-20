@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "size, dimensions",
-      "english": ["measurement", "dimension"],
+      "english": [
+        {
+          "id": "qa393148",
+          "word": "measurement",
+          "meaning": "measured value",
+          "note": "Use 尺寸 for the physical dimensions or size of something."
+        },
+        {
+          "id": "a473uh1e",
+          "word": "dimension",
+          "meaning": "size, measurements",
+          "note": "Use this for the measurable size of an object, such as its height, width, or depth."
+        }
+      ],
       "examples": [
         {
           "english": "The measurement of this table is just right for the space.",

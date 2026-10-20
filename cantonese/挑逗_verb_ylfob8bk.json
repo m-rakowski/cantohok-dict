@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "tease sexually",
-      "english": ["arouse", "tease"],
+      "english": [
+        {
+          "id": "a1uhi760",
+          "word": "arouse",
+          "meaning": "sexually stimulate",
+          "register": "colloquial",
+          "note": "Use this when someone deliberately teases or sexually stimulates another person."
+        },
+        {
+          "id": "3crp13yg",
+          "word": "tease",
+          "meaning": "sexually arouse without satisfying",
+          "note": "Use this specifically for deliberately arousing someone sexually without satisfying them."
+        }
+      ],
       "examples": [
         {
           "english": "The girl kept trying to arouse me at the bar.",

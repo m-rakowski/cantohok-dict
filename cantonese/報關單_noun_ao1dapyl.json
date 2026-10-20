@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "customs/legal form",
-      "english": ["declaration"],
+      "english": [
+        {
+          "id": "gcvdx9rv",
+          "word": "declaration",
+          "meaning": "customs/legal form",
+          "note": "Use 報關單 specifically for a customs declaration form listing goods."
+        }
+      ],
       "examples": [
         {
           "english": "I have filled out the customs declaration, so I can queue up now.",

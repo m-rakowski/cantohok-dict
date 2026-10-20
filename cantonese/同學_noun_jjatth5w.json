@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "classmate, fellow student",
-      "english": ["classmate", "schoolmate"],
+      "english": [
+        {
+          "id": "s0zkkbpf",
+          "word": "classmate",
+          "meaning": "school classmate",
+          "note": "This is the all-purpose everyday word for a student in the same class, and context usually makes the meaning clear."
+        },
+        {
+          "id": "rw7n5ou7",
+          "word": "schoolmate",
+          "meaning": "fellow student",
+          "note": "This is the all-purpose everyday choice for someone who attends or attended the same school as you."
+        }
+      ],
       "examples": [
         {
           "english": "My classmate treated me to lunch today.",

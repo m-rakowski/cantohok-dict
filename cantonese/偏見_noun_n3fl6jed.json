@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "prejudice, bias",
-      "english": ["prejudice", "preconception"],
+      "english": [
+        {
+          "id": "johpwk4h",
+          "word": "prejudice",
+          "meaning": "biased opinion",
+          "note": "This is the all-purpose noun for an unfair or preconceived opinion, including bias against a group."
+        },
+        {
+          "id": "9gu3xhqo",
+          "word": "preconception",
+          "meaning": "prejudice, preconceived opinion",
+          "note": "Use this when the preconception specifically involves bias or an unfair prejudice."
+        }
+      ],
       "examples": [
         {
           "english": "You're showing prejudice by reaching a conclusion before learning the facts.",

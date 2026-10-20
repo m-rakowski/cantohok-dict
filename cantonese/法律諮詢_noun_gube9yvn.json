@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "legal consultation",
-      "english": ["counsel"],
+      "english": [
+        {
+          "id": "ffi732sa",
+          "word": "counsel",
+          "meaning": "legal consultation",
+          "note": "Use this when counsel means a consultation specifically about legal matters."
+        }
+      ],
       "examples": [
         {
           "english": "Before signing this contract, we sought legal counsel.",

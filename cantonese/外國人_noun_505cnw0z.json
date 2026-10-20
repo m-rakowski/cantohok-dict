@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "foreigner",
-      "english": ["foreigner", "stranger"],
+      "english": [
+        {
+          "id": "p475fqkq",
+          "word": "foreigner",
+          "meaning": "person from another country",
+          "note": "This is the neutral, all-purpose choice for a person from another country."
+        },
+        {
+          "id": "tsprjk5y",
+          "word": "stranger",
+          "meaning": "outsider; foreigner",
+          "note": "Use this specifically for a person from another country, not merely someone you do not know."
+        }
+      ],
       "examples": [
         {
           "english": "That foreigner can speak Cantonese.",

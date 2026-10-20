@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "make, cause",
-      "english": ["lead", "compel", "let"],
+      "english": [
+        {
+          "id": "dh898qq7",
+          "word": "lead",
+          "meaning": "cause to believe",
+          "note": "Use this when influence or an event makes someone believe something or causes a result, rather than when someone physically guides people."
+        },
+        {
+          "id": "l80try5p",
+          "word": "compel",
+          "meaning": "force to do",
+          "note": "Use this when a fact, event, or situation powerfully prompts a course of action without explicit coercion."
+        },
+        {
+          "id": "2qiry7qp",
+          "word": "let",
+          "meaning": "cause, make",
+          "register": "formal",
+          "note": "Use 令 to express causing someone or something to enter a state or do something, rather than merely permitting it."
+        }
+      ],
       "examples": [
         {
           "english": "This movie can lead me to think about many things.",

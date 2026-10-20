@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "upkeep, maintenance",
-      "english": ["maintenance", "care", "tune"],
+      "english": [
+        {
+          "id": "drz1uwpu",
+          "word": "maintenance",
+          "meaning": "upkeep; repair",
+          "note": "Use 保養 as the all-purpose everyday noun for keeping equipment or systems in good working order."
+        },
+        {
+          "id": "yqlmusd8",
+          "word": "care",
+          "meaning": "upkeep; maintenance",
+          "note": "Use this for maintaining an object, body, or system in good condition."
+        },
+        {
+          "id": "t47hv13t",
+          "word": "tune",
+          "meaning": "car service / tune-up",
+          "note": "Use 保養 for a vehicle or engine service that includes tuning and maintenance."
+        }
+      ],
       "examples": [
         {
           "english": "This air conditioner needs regular maintenance.",
@@ -27,7 +46,20 @@
     },
     {
       "meaning": "product warranty",
-      "english": ["warranty", "guarantee"],
+      "english": [
+        {
+          "id": "v11lvwc6",
+          "word": "warranty",
+          "meaning": "product warranty",
+          "note": "This is the all-purpose choice for a product warranty, especially one covering repairs during a stated period."
+        },
+        {
+          "id": "3ul866j8",
+          "word": "guarantee",
+          "meaning": "product warranty",
+          "note": "Use this for a product warranty, especially when discussing repair or coverage during the warranty period."
+        }
+      ],
       "examples": [
         {
           "english": "This phone has a one-year warranty, and it can be repaired for free if it breaks.",

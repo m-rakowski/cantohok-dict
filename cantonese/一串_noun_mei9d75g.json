@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "a bunch or string of things",
-      "english": ["bunch", "string"],
+      "english": [
+        {
+          "id": "wpa6vvj4",
+          "word": "bunch",
+          "meaning": "cluster, group of things",
+          "note": "Use this for a bunch of linked or fastened items, especially grapes."
+        },
+        {
+          "id": "mdzc97xo",
+          "word": "string",
+          "meaning": "series, sequence",
+          "note": "Use 一串 for objects strung together or for a connected series of items, words, or events."
+        }
+      ],
       "examples": [
         {
           "english": "This bunch of grapes is very sweet.",

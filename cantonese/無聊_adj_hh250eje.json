@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "boring, dull",
-      "english": ["boring", "bored", "uninteresting", "lame"],
+      "english": [
+        {
+          "id": "9ohctph8",
+          "word": "boring",
+          "meaning": "causing boredom",
+          "note": "Use this especially when a person is bored or when something seems uninteresting, pointless, or lacking in substance rather than simply sleepy-dull."
+        },
+        {
+          "id": "fd5yohyo",
+          "word": "bored",
+          "meaning": "suffering from boredom",
+          "note": "Use this when the boredom is framed as having nothing interesting to do or finding the situation uninteresting."
+        },
+        {
+          "id": "ux39t1tj",
+          "word": "uninteresting",
+          "meaning": "boring; not interesting",
+          "note": "Use this when the thing is boring because it feels pointless, trivial, or lacking in substance."
+        },
+        {
+          "id": "g02opqhp",
+          "word": "lame",
+          "meaning": "uncool; boring; not funny",
+          "note": "Use this as the all-purpose choice when “lame” means boring or unfunny, rather than describing a physical walking problem or a weak excuse."
+        }
+      ],
       "examples": [
         {
           "english": "This game is pointless and boring.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "tornado",
-      "english": ["tornado", "whirlwind"],
+      "english": [
+        {
+          "id": "2xnnwse3",
+          "word": "tornado",
+          "meaning": "violent rotating storm",
+          "note": "This is the all-purpose Cantonese noun for a violent funnel-shaped storm that reaches the ground."
+        },
+        {
+          "id": "3jo47vx5",
+          "word": "whirlwind",
+          "meaning": "tornado / dust devil",
+          "note": "This is the all-purpose Cantonese noun for a tornado or similar rotating windstorm."
+        }
+      ],
       "examples": [
         {
           "english": "There was a tornado in the US yesterday, and it knocked down a lot of houses.",

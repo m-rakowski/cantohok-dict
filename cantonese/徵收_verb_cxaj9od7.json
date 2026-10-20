@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "levy, collect (tax or fee)",
-      "english": ["impose", "exact"],
+      "english": [
+        {
+          "id": "njq0a813",
+          "word": "impose",
+          "meaning": "force rules, taxes",
+          "note": "Use 徵收 specifically when an authority collects a tax, fee, or other levy."
+        },
+        {
+          "id": "ixfdrnhv",
+          "word": "exact",
+          "meaning": "demand, extort",
+          "register": "formal",
+          "note": "Use this for an authority imposing and collecting taxes, fees, or other compulsory payments."
+        }
+      ],
       "examples": [
         {
           "english": "The government will impose a waste disposal fee starting next month.",

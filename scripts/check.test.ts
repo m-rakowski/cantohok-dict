@@ -8,13 +8,14 @@ import { tmpdir } from 'node:os'
 import { join } from 'node:path'
 import { format } from 'prettier'
 import { casePathDuplicates, checkRepo } from './check.ts'
-import { pageNameProblem } from './types.ts'
+import { pageNameProblem, pagePath } from './types.ts'
 import { validFixture, writeTree } from './test-helpers.ts'
 
 const CAB = 'words/c/cab.json'
 const THURSDAY = 'words/t/Thursday.json'
 const CAB_PAGE = 'cantonese/的士_noun_ppppppp1.json'
 const THURSDAY_PAGE = 'cantonese/星期四_noun_ppppppp3.json'
+const CAB_PAGE_2 = 'cantonese/車頭_noun_ppppppp2.json'
 
 const repoRoot = join(import.meta.dirname, '..')
 const prettierConfig = JSON.parse(readFileSync(join(repoRoot, '.prettierrc.json'), 'utf8'))
@@ -26,13 +27,45 @@ function checkWith(change: (files: Record<string, string>) => void): string[] {
   return checkRepo(writeTree(files))
 }
 
-/** Parses CAB, lets `edit` mutate the object, writes it back. */
-function editCab(edit: (cab: any) => void): (files: Record<string, string>) => void {
+/** The page-form of a row's text: pages write "／" where a row has "/". */
+const pageForm = (text: string): string => text.replaceAll('/', '／')
+
+/** Parses CAB, lets `edit` mutate the object, writes it back (use `editCabRaw` to leave the pages' copies alone). */
+function editCabRaw(edit: (cab: any) => void): (files: Record<string, string>) => void {
   return files => {
     const cab = JSON.parse(files[CAB])
     edit(cab)
     files[CAB] = JSON.stringify(cab, null, 2) + '\n'
   }
+}
+
+/** Like `editCabRaw`, then copies each CAB row's word, meaning, note and register onto the page entry with its id, so the edit changes the row and the page together. */
+function editCab(edit: (cab: any) => void): (files: Record<string, string>) => void {
+  return files => {
+    editCabRaw(edit)(files)
+    const cab = JSON.parse(files[CAB])
+    for (const path of [CAB_PAGE, CAB_PAGE_2]) {
+      const page = JSON.parse(files[path])
+      for (const entry of page.boxes[0].english) {
+        const row = cab.rows.find((candidate: any) => candidate.id === entry.id)
+        if (!row) continue
+        entry.word = cab.term
+        entry.meaning = row.meaning
+        entry.note = row.note
+        if (row.example) page.boxes[0].examples[page.boxes[0].english.indexOf(entry)] = row.example
+        if (row.register === undefined) delete entry.register
+        else entry.register = row.register
+      }
+      files[path] = JSON.stringify(page, null, 2) + '\n'
+    }
+  }
+}
+
+/** The text of the first cab page with its English entries' ids removed, for tests that make a second page like it. */
+function cabPageCopy(files: Record<string, string>): string {
+  const page = JSON.parse(files[CAB_PAGE])
+  for (const entry of page.boxes[0].english) delete entry.id
+  return JSON.stringify(page, null, 2) + '\n'
 }
 
 /** Parses the page file at `path`, lets `edit` mutate the object, writes it back. */
@@ -53,10 +86,43 @@ function editLookup(edit: (lookup: any) => void): (files: Record<string, string>
   }
 }
 
-/** Maps the English row `id` to the first page, as a conversion would, so a test that adds a row stays valid. */
+/**
+ * Puts the English row `id` (found in one of the word files in `files`) on a page, as a conversion would, so a
+ * test that adds a row stays valid: the entry is added to the page with the row's characters, part of speech and
+ * reading, or to a new page (id "q" plus the rest of the row id) when there is none. The lookup maps the row to it.
+ */
 function mapRowToPage(files: Record<string, string>, id: string): void {
+  const path = Object.keys(files).find(
+    key => key.startsWith('words/') && JSON.parse(files[key]).rows.some((row: any) => row.id === id),
+  )!
+  const word = JSON.parse(files[path])
+  const row = word.rows.find((candidate: any) => candidate.id === id)
+  const entry: any = { id, word: word.term, meaning: row.meaning }
+  if (row.register !== undefined) entry.register = row.register
+  entry.note = row.note
+  const traditional = pageForm(row.traditional)
+  const partOfSpeech = pageForm(row.partOfSpeech)
+  const jyutping = pageForm(row.jyutping)
+  const existing = Object.keys(files).find(key => {
+    if (!key.startsWith('cantonese/')) return false
+    const page = JSON.parse(files[key])
+    return page.traditional === traditional && page.partOfSpeech === partOfSpeech && page.jyutping === jyutping
+  })
+  const page = existing
+    ? JSON.parse(files[existing])
+    : {
+        id: `q${id.slice(1)}`,
+        partOfSpeech,
+        traditional,
+        jyutping,
+        boxes: [{ meaning: row.meaning, english: [], examples: [] }],
+      }
+  page.boxes[0].english.push(entry)
+  files[existing ?? pagePath(traditional, partOfSpeech, page.id)] = JSON.stringify(page, null, 2) + '\n'
+  const pageId: string = page.id
   editLookup(lookup => {
-    lookup[id] = 'ppppppp1'
+    lookup[id] = pageId
+    lookup[pageId] = pageId
   })(files)
 }
 
@@ -106,10 +172,10 @@ test('unknown field on a row', () => {
   assert.deepEqual(
     checkWith(
       editCab(cab => {
-        cab.rows[0].colour = 'red'
+        cab.rows[0].color = 'red'
       }),
     ),
-    [`${CAB}: /rows/0 must NOT have additional properties "colour"`],
+    [`${CAB}: /rows/0 must NOT have additional properties "color"`],
   )
 })
 
@@ -131,7 +197,7 @@ test('unknown field on the word', () => {
 test('blank term ("")', () => {
   assert.deepEqual(
     checkWith(
-      editCab(cab => {
+      editCabRaw(cab => {
         cab.term = ''
       }),
     ),
@@ -147,7 +213,7 @@ test('blank term ("")', () => {
 test('blank term (whitespace only)', () => {
   assert.deepEqual(
     checkWith(
-      editCab(cab => {
+      editCabRaw(cab => {
         cab.term = ' '
       }),
     ),
@@ -185,7 +251,7 @@ test('empty required field', () => {
 test('empty register', () => {
   assert.deepEqual(
     checkWith(
-      editCab(cab => {
+      editCabRaw(cab => {
         cab.rows[1].register = ''
       }),
     ),
@@ -196,7 +262,7 @@ test('empty register', () => {
 test('example missing a field', () => {
   assert.deepEqual(
     checkWith(
-      editCab(cab => {
+      editCabRaw(cab => {
         delete cab.rows[0].example.jyutping
       }),
     ),
@@ -251,7 +317,7 @@ test('terms that differ only by case', () => {
     )
     mapRowToPage(files, 'bbbbbbb2')
     editFrequency(freq => {
-      freq.rows.bbbbbbb2 = { meaningShare: 100, share: 100 }
+      freq.rows.bbbbbbb2 = { meaningShare: 100, share: 100, order: 0 }
       freq.words.thursday = 901
     })(files)
   })
@@ -291,7 +357,7 @@ test('frequency.json entry for an id in no word file', () => {
   assert.deepEqual(
     checkWith(
       editFrequency(freq => {
-        freq.rows.zzzzzzz9 = { meaningShare: 1, share: 1 }
+        freq.rows.zzzzzzz9 = { meaningShare: 1, share: 1, order: 0 }
       }),
     ),
     ['frequency.json: id "zzzzzzz9" is in no word file'],
@@ -425,7 +491,7 @@ test('missing frequency.json rank for a word named after a built-in property', (
 `
       mapRowToPage(files, 'ccccccc1')
       editFrequency(freq => {
-        freq.rows.ccccccc1 = { meaningShare: 100, share: 100 }
+        freq.rows.ccccccc1 = { meaningShare: 100, share: 100, order: 0 }
       })(files)
     }),
     ['frequency.json: no rank for "constructor" (words/c/constructor.json)'],
@@ -453,7 +519,7 @@ function withAuxWord(path: string): (files: Record<string, string>) => void {
 `
     mapRowToPage(files, 'ccccccc7')
     editFrequency(freq => {
-      freq.rows.ccccccc7 = { meaningShare: 100, share: 100 }
+      freq.rows.ccccccc7 = { meaningShare: 100, share: 100, order: 0 }
       freq.words.aux = 999999
     })(files)
   }
@@ -482,7 +548,10 @@ test('note that points at a numbered sense', () => {
           cab.rows[0].note = note
         }),
       ),
-      [`${CAB}: row "aaaaaaa1" note points at a numbered sense ("${pointer}")`],
+      [
+        `${CAB}: row "aaaaaaa1" note points at a numbered sense ("${pointer}")`,
+        `${CAB_PAGE}: box 1 English entry "cab" note points at a numbered sense ("${pointer}")`,
+      ],
       note,
     )
 })
@@ -494,7 +563,10 @@ test('note that gives a sense number in brackets', () => {
         cab.rows[0].note = 'Use this for a hired car (39) or a taxi ride (40).'
       }),
     ),
-    [`${CAB}: row "aaaaaaa1" note points at a numbered sense ("(39)")`],
+    [
+      `${CAB}: row "aaaaaaa1" note points at a numbered sense ("(39)")`,
+      `${CAB_PAGE}: box 1 English entry "cab" note points at a numbered sense ("(39)")`,
+    ],
   )
 })
 
@@ -529,7 +601,10 @@ test('note that says "slice" on a row not about slices', () => {
         cab.rows[0].note = 'Use this for the colloquial slice of cab.'
       }),
     ),
-    [`${CAB}: row "aaaaaaa1" note says "slice" on a row that is not about slices`],
+    [
+      `${CAB}: row "aaaaaaa1" note says "slice" on a row that is not about slices`,
+      `${CAB_PAGE}: box 1 English entry "cab" note says "slice" on a row that is not about slices`,
+    ],
   )
 })
 
@@ -553,7 +628,10 @@ test('English example with a placeholder letter', () => {
         cab.rows[0].example.english = 'We called a cab for A, not for B.'
       }),
     ),
-    [`${CAB}: row "aaaaaaa1" example.english has a placeholder letter (A, B)`],
+    [
+      `${CAB}: row "aaaaaaa1" example.english has a placeholder letter (A, B)`,
+      `${CAB_PAGE}: box 1 example 1 english has a placeholder letter (A, B)`,
+    ],
   )
 })
 
@@ -594,7 +672,7 @@ test('note may say "slice" when the word itself is about slices', () => {
 `
       mapRowToPage(files, 'ccccccc1')
       editFrequency(freq => {
-        freq.rows.ccccccc1 = { meaningShare: 100, share: 100 }
+        freq.rows.ccccccc1 = { meaningShare: 100, share: 100, order: 0 }
         freq.words.slice = 3000
       })(files)
     }),
@@ -609,7 +687,10 @@ test('note that calls itself part of a meaning', () => {
         cab.rows[0].note = 'Use this for the formal side of the meaning.'
       }),
     ),
-    [`${CAB}: row "aaaaaaa1" note calls itself part of a meaning ("side of the meaning")`],
+    [
+      `${CAB}: row "aaaaaaa1" note calls itself part of a meaning ("side of the meaning")`,
+      `${CAB_PAGE}: box 1 English entry "cab" note calls itself part of a meaning ("side of the meaning")`,
+    ],
   )
 })
 
@@ -625,7 +706,10 @@ test('note that calls itself part of a meaning, with a describing word in betwee
           cab.rows[0].note = note
         }),
       ),
-      [`${CAB}: row "aaaaaaa1" note calls itself part of a meaning ("${part}")`],
+      [
+        `${CAB}: row "aaaaaaa1" note calls itself part of a meaning ("${part}")`,
+        `${CAB_PAGE}: box 1 English entry "cab" note calls itself part of a meaning ("${part}")`,
+      ],
       note,
     )
 })
@@ -637,7 +721,10 @@ test('note that points at the generator’s example', () => {
         cab.rows[0].note = 'This is the standard choice for the default example “call a cab”.'
       }),
     ),
-    [`${CAB}: row "aaaaaaa1" note points at the generator's example ("the default example")`],
+    [
+      `${CAB}: row "aaaaaaa1" note points at the generator's example ("the default example")`,
+      `${CAB_PAGE}: box 1 English entry "cab" note points at the generator's example ("the default example")`,
+    ],
   )
 })
 
@@ -657,7 +744,10 @@ test('placeholder letters that look like part of a word', () => {
           cab.rows[0].example.english = english
         }),
       ),
-      [`${CAB}: row "aaaaaaa1" example.english has a placeholder letter (${letter})`],
+      [
+        `${CAB}: row "aaaaaaa1" example.english has a placeholder letter (${letter})`,
+        `${CAB_PAGE}: box 1 example 1 english has a placeholder letter (${letter})`,
+      ],
       english,
     )
 })
@@ -797,7 +887,7 @@ test('two pages with the same word, part of speech and reading', () => {
   const copy = 'cantonese/的士_noun_wxyz5678.json'
   assert.deepEqual(
     checkWith(files => {
-      files[copy] = files[CAB_PAGE].replace('ppppppp1', 'wxyz5678')
+      files[copy] = cabPageCopy(files).replace('ppppppp1', 'wxyz5678')
       editLookup(lookup => {
         lookup.wxyz5678 = 'wxyz5678'
       })(files)
@@ -809,10 +899,9 @@ test('two pages with the same word, part of speech and reading', () => {
 test('readings that differ only by a trailing space are not duplicates', () => {
   assert.deepEqual(
     checkWith(files => {
-      files['cantonese/的士_noun_wxyz5678.json'] = files[CAB_PAGE].replace('ppppppp1', 'wxyz5678').replace(
-        '"dik1 si2"',
-        '"dik1 si2 "',
-      )
+      files['cantonese/的士_noun_wxyz5678.json'] = cabPageCopy(files)
+        .replace('ppppppp1', 'wxyz5678')
+        .replace('"dik1 si2"', '"dik1 si2 "')
       editLookup(lookup => {
         lookup.wxyz5678 = 'wxyz5678'
       })(files)
@@ -824,10 +913,9 @@ test('readings that differ only by a trailing space are not duplicates', () => {
 test('same word and part of speech with a different reading is a different page', () => {
   assert.deepEqual(
     checkWith(files => {
-      files['cantonese/的士_noun_wxyz5678.json'] = files[CAB_PAGE].replace('ppppppp1', 'wxyz5678').replace(
-        '"dik1 si2"',
-        '"dik1 si6"',
-      )
+      files['cantonese/的士_noun_wxyz5678.json'] = cabPageCopy(files)
+        .replace('ppppppp1', 'wxyz5678')
+        .replace('"dik1 si2"', '"dik1 si6"')
       editLookup(lookup => {
         lookup.wxyz5678 = 'wxyz5678'
       })(files)
@@ -839,10 +927,9 @@ test('same word and part of speech with a different reading is a different page'
 test('different words with the same part of speech and reading are different pages', () => {
   assert.deepEqual(
     checkWith(files => {
-      files['cantonese/的到_noun_wxyz5678.json'] = files[CAB_PAGE].replace('ppppppp1', 'wxyz5678').replace(
-        '"traditional": "的士"',
-        '"traditional": "的到"',
-      )
+      files['cantonese/的到_noun_wxyz5678.json'] = cabPageCopy(files)
+        .replace('ppppppp1', 'wxyz5678')
+        .replace('"traditional": "的士"', '"traditional": "的到"')
       editLookup(lookup => {
         lookup.wxyz5678 = 'wxyz5678'
       })(files)
@@ -895,7 +982,8 @@ test('a page whose characters end in "..." is a valid file name', () => {
   const path = 'cantonese/啱啱 + V + 就..._phrase_ppppppp4.json'
   assert.deepEqual(
     checkWith(files => {
-      files[path] = files[CAB_PAGE].replace('ppppppp1', 'ppppppp4')
+      files[path] = cabPageCopy(files)
+        .replace('ppppppp1', 'ppppppp4')
         .replace('的士', '啱啱 + V + 就...')
         .replace('"noun"', '"phrase"')
       editLookup(lookup => {
@@ -918,10 +1006,9 @@ test('invalid JSON in a page file', () => {
 test('two pages for one word, different part of speech', () => {
   assert.deepEqual(
     checkWith(files => {
-      files['cantonese/的士_verb_ppppppp4.json'] = files[CAB_PAGE].replace('ppppppp1', 'ppppppp4').replace(
-        'noun',
-        'verb',
-      )
+      files['cantonese/的士_verb_ppppppp4.json'] = cabPageCopy(files)
+        .replace('ppppppp1', 'ppppppp4')
+        .replace('noun', 'verb')
       editLookup(lookup => {
         lookup.ppppppp4 = 'ppppppp4'
       })(files)
@@ -951,8 +1038,8 @@ function diskIsCaseSensitive(): boolean {
 test('two page paths that differ only in letter case', { skip: !diskIsCaseSensitive() }, () => {
   assert.deepEqual(
     checkWith(files => {
-      // Ids are lowercase, so two paths can differ only in case just when the id is the same too.
-      files['cantonese/的士_Noun_ppppppp1.json'] = files[CAB_PAGE].replace('"noun"', '"Noun"')
+      // Ids are lowercase, so two paths can differ only in case just when the id is the same too. The copy carries no entry ids, so the English entry rules stay quiet.
+      files['cantonese/的士_Noun_ppppppp1.json'] = cabPageCopy(files).replace('"noun"', '"Noun"')
     }),
     // Paths are sorted, and "N" sorts before "n". The two files hold one id, so that is reported too.
     [
@@ -1056,6 +1143,8 @@ test('page id equals an English row id', () => {
     [
       'cantonese/星期四_noun_ppppppp3.json: file name does not match 星期四 noun aaaaaaa1 (expected cantonese/星期四_noun_aaaaaaa1.json)',
       'cantonese/星期四_noun_ppppppp3.json: page id "aaaaaaa1" is also an English row id (words/c/cab.json)',
+      `${CAB_PAGE}: English entry id "aaaaaaa1" is also a page id`,
+      `pages-by-id.json: English entry "aaaaaaa1" (${CAB_PAGE}) maps to "aaaaaaa1", not to its page "ppppppp1"`,
     ],
   )
 })
@@ -1097,7 +1186,10 @@ test('row missing from the lookup', () => {
         delete lookup.bbbbbbb1
       }),
     ),
-    ['pages-by-id.json: row "bbbbbbb1" (words/t/Thursday.json) has no page'],
+    [
+      'pages-by-id.json: row "bbbbbbb1" (words/t/Thursday.json) has no page',
+      `pages-by-id.json: English entry "bbbbbbb1" (${THURSDAY_PAGE}) has no entry`,
+    ],
   )
 })
 
@@ -1108,7 +1200,10 @@ test('lookup points at something that is not a page', () => {
         lookup.aaaaaaa2 = 'aaaaaaa1'
       }),
     ),
-    ['pages-by-id.json: "aaaaaaa2" points at "aaaaaaa1", which is not a page id'],
+    [
+      'pages-by-id.json: "aaaaaaa2" points at "aaaaaaa1", which is not a page id',
+      `pages-by-id.json: English entry "aaaaaaa2" (${CAB_PAGE_2}) maps to "aaaaaaa1", not to its page "ppppppp2"`,
+    ],
   )
 })
 
@@ -1169,7 +1264,7 @@ test('note rule sees every English word in the box', () => {
   assert.deepEqual(
     checkWith(
       editPage(CAB_PAGE, page => {
-        page.boxes[0].english = ['cab', 'slice']
+        page.boxes[0].english.push({ word: 'cab' }, { word: 'slice' })
         page.boxes[0].note = 'Say it for a slice of the fare.'
       }),
     ),
@@ -1184,6 +1279,140 @@ test('placeholder letter in a box example', () => {
         page.boxes[0].examples[0].english = 'A met B at the airport.'
       }),
     ),
-    ['cantonese/的士_noun_ppppppp1.json: box 1 example 1 english has a placeholder letter (B)'],
+    [`${CAB_PAGE}: box 1 example 1 english has a placeholder letter (B)`],
+  )
+})
+
+// English entries: each English word in a box is an object, and the ones that
+// carry an id are copies of rows in words/ that the check keeps exact.
+test('English entry ids are unique across pages', () => {
+  const errors = checkWith(files => {
+    editPage(CAB_PAGE, page => {
+      page.boxes[0].english.push({ word: 'taxi', id: 'ddddddd1' })
+    })(files)
+    editPage(THURSDAY_PAGE, page => {
+      page.boxes[0].english.push({ word: 'taxi', id: 'ddddddd1' })
+    })(files)
+    editLookup(lookup => {
+      lookup.ddddddd1 = 'ppppppp1'
+    })(files)
+  })
+  assert.deepEqual(errors, [
+    `duplicate English entry id "ddddddd1" in ${THURSDAY_PAGE} and ${CAB_PAGE}`,
+    `pages-by-id.json: English entry "ddddddd1" (${THURSDAY_PAGE}) maps to "ppppppp1", not to its page "ppppppp3"`,
+  ])
+})
+
+test('English entry id equal to a page id', () => {
+  assert.deepEqual(
+    checkWith(
+      editPage(CAB_PAGE, page => {
+        page.boxes[0].english.push({ word: 'taxi', id: 'ppppppp2' })
+      }),
+    ),
+    [
+      `${CAB_PAGE}: English entry id "ppppppp2" is also a page id`,
+      `pages-by-id.json: English entry "ppppppp2" (${CAB_PAGE}) maps to "ppppppp2", not to its page "ppppppp1"`,
+    ],
+  )
+})
+
+test('English entry id missing from the lookup', () => {
+  assert.deepEqual(
+    checkWith(
+      editLookup(lookup => {
+        delete lookup.aaaaaaa1
+      }),
+    ),
+    [
+      `pages-by-id.json: row "aaaaaaa1" (${CAB}) has no page`,
+      `pages-by-id.json: English entry "aaaaaaa1" (${CAB_PAGE}) has no entry`,
+    ],
+  )
+})
+
+test('English entry id mapped to another page', () => {
+  assert.deepEqual(
+    checkWith(
+      editLookup(lookup => {
+        lookup.aaaaaaa1 = 'ppppppp2'
+      }),
+    ),
+    [`pages-by-id.json: English entry "aaaaaaa1" (${CAB_PAGE}) maps to "ppppppp2", not to its page "ppppppp1"`],
+  )
+})
+
+test('an entry with only a word sits beside a full entry', () => {
+  assert.deepEqual(
+    checkWith(
+      editPage(CAB_PAGE, page => {
+        page.boxes[0].english.push({ word: 'taxi' })
+      }),
+    ),
+    [],
+  )
+})
+
+test('frequency.json row without an order, or with a negative one', () => {
+  assert.deepEqual(
+    checkWith(
+      editFrequency(freq => {
+        delete freq.rows.bbbbbbb1.order
+      }),
+    ),
+    ["frequency.json: /rows/bbbbbbb1 must have required property 'order'"],
+  )
+  assert.deepEqual(
+    checkWith(
+      editFrequency(freq => {
+        freq.rows.bbbbbbb1.order = -1
+      }),
+    ),
+    ['frequency.json: /rows/bbbbbbb1/order must be >= 0'],
+  )
+})
+
+test('an English entry note is held to the note rules', () => {
+  assert.deepEqual(
+    checkWith(
+      editPage(CAB_PAGE, page => {
+        page.boxes[0].english.push({ word: 'taxi', note: 'See sense 2.' })
+      }),
+    ),
+    [`${CAB_PAGE}: box 1 English entry "taxi" note points at a numbered sense ("sense 2")`],
+  )
+})
+
+test('an English entry with an unknown field is refused by the schema', () => {
+  assert.deepEqual(
+    checkWith(
+      editPage(THURSDAY_PAGE, page => {
+        page.boxes[0].english.push({ word: 'Thu', color: 'red' })
+      }),
+    ),
+    [`${THURSDAY_PAGE}: /boxes/0/english/1 must NOT have additional properties "color"`],
+  )
+})
+
+test('an English word written as a bare string is refused by the schema', () => {
+  assert.deepEqual(
+    checkWith(
+      editPage(THURSDAY_PAGE, page => {
+        page.boxes[0].english.push('Thu')
+      }),
+    ),
+    [`${THURSDAY_PAGE}: /boxes/0/english/1 must be object`],
+  )
+})
+
+test('a page may drop one of its entries while the row stays in words/', () => {
+  assert.deepEqual(
+    checkWith(
+      editPage(CAB_PAGE, page => {
+        page.boxes[0].english = [{ word: 'taxi' }]
+        page.boxes[0].examples = []
+      }),
+    ),
+    [],
   )
 })

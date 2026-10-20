@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "feeling of satisfaction",
-      "english": ["satisfaction", "vindication", "enjoyment", "content"],
+      "english": [
+        {
+          "id": "mcw7o6xn",
+          "word": "satisfaction",
+          "meaning": "contentment",
+          "note": "This is the all-purpose noun for the feeling of contentment after a need or desire is fulfilled."
+        },
+        {
+          "id": "u4e78qb8",
+          "word": "vindication",
+          "meaning": "satisfaction at being proved right",
+          "note": "Use this for the inner satisfaction felt after other people admit that you were right."
+        },
+        {
+          "id": "l989rzbj",
+          "word": "enjoyment",
+          "meaning": "pleasure, delight",
+          "note": "Use this when the enjoyment specifically emphasizes a feeling of satisfaction."
+        },
+        {
+          "id": "58t9g87e",
+          "word": "content",
+          "meaning": "satisfaction; contentment",
+          "note": "Use this for the feeling of satisfaction or contentment a person experiences."
+        }
+      ],
       "examples": [
         {
           "english": "Finishing this report gives me real satisfaction.",

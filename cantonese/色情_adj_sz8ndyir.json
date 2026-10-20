@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "pornographic, sexually explicit",
-      "english": ["prurient", "adult", "sexual"],
+      "english": [
+        {
+          "id": "zdzrucoe",
+          "word": "prurient",
+          "meaning": "sexually arousing",
+          "note": "Use this for sexual material or imagery that is erotic or sexually explicit and appeals to sexual desire, rather than for a lustful person."
+        },
+        {
+          "id": "j7z5d05c",
+          "word": "adult",
+          "meaning": "pornographic",
+          "note": "Use this specifically when “adult” means sexually explicit or pornographic."
+        },
+        {
+          "id": "4erz2ern",
+          "word": "sexual",
+          "meaning": "related to sex",
+          "note": "Use this for sexual material, content, or suggestions when the sense is erotic or sexually explicit rather than neutral."
+        }
+      ],
       "examples": [
         {
           "english": "This magazine contains a lot of prurient pictures and is not suitable for children.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "battery",
-      "english": ["battery", "cell"],
+      "english": [
+        {
+          "id": "rhypi1xi",
+          "word": "battery",
+          "meaning": "electric cell",
+          "note": "This is the all-purpose word for the physical device, such as an alkaline battery."
+        },
+        {
+          "id": "8kwpajhk",
+          "word": "cell",
+          "meaning": "battery cell",
+          "note": "This is the all-purpose everyday noun for a battery or a battery cell."
+        }
+      ],
       "examples": [
         {
           "english": "I bought a battery for the remote.",

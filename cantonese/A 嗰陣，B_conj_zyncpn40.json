@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "when / while A happens",
-      "english": ["while", "as"],
+      "english": [
+        {
+          "id": "5jrzt3oz",
+          "word": "while",
+          "meaning": "at the same time",
+          "register": "colloquial",
+          "note": "This is the all-purpose spoken construction for saying that B happens during the time of A."
+        },
+        {
+          "id": "e2mha73l",
+          "word": "as",
+          "meaning": "when",
+          "note": "Use this when one event happens or continues during the time of another event."
+        }
+      ],
       "examples": [
         {
           "english": "While I’m at work, help me look after the kid.",

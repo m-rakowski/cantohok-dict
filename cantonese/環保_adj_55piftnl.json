@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "environmentally friendly",
-      "english": ["environmental", "ecological", "environmentally friendly", "sustainable", "green"],
+      "english": [
+        {
+          "id": "zas8t798",
+          "word": "environmental",
+          "meaning": "environmentally friendly",
+          "note": "Use this when environmental means designed to protect the environment or cause little environmental harm."
+        },
+        {
+          "id": "y3tlld0m",
+          "word": "ecological",
+          "meaning": "environmentally friendly",
+          "note": "This is the everyday all-purpose choice for products, practices, or policies that are not harmful to the environment."
+        },
+        {
+          "id": "lpayw240",
+          "word": "environmentally friendly",
+          "meaning": "causing little environmental harm",
+          "note": "This is the all-purpose everyday choice for something that causes little or no harm to the environment."
+        },
+        {
+          "id": "yiib7qd6",
+          "word": "sustainable",
+          "meaning": "environmentally sustainable",
+          "note": "Use this when the emphasis is on being environmentally friendly rather than on lasting indefinitely."
+        },
+        {
+          "id": "sdu2qyx1",
+          "word": "green",
+          "meaning": "environmentally friendly",
+          "note": "Use this when green means environmentally friendly rather than literally green in color."
+        }
+      ],
       "examples": [
         {
           "english": "This cleaning product is environmental and does little harm to the environment.",

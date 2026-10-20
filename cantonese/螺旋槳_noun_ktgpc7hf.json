@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "propeller",
-      "english": ["prop", "screw"],
+      "english": [
+        {
+          "id": "7rxr3exm",
+          "word": "prop",
+          "meaning": "propeller",
+          "note": "Use this specifically for an aircraft or boat propeller, rather than a general supporting object."
+        },
+        {
+          "id": "w1i3fhac",
+          "word": "screw",
+          "meaning": "propeller",
+          "note": "Use this specifically for a ship's propeller, not a fastener."
+        }
+      ],
       "examples": [
         {
           "english": "The aircraft’s prop is still not turning, so we can’t take off.",

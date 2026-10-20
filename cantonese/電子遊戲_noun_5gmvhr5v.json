@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "video game",
-      "english": ["video game", "game"],
+      "english": [
+        {
+          "id": "r6lh4nqx",
+          "word": "video game",
+          "meaning": "computer/console game",
+          "note": "This is the all-purpose Hong Kong term for a game played electronically on a computer or console."
+        },
+        {
+          "id": "glu3nj6m",
+          "word": "game",
+          "meaning": "video/computer games",
+          "note": "Use this when you specifically mean a video or computer game rather than a game in general."
+        }
+      ],
       "examples": [
         {
           "english": "I bought a new video game yesterday, so I can play it when I get home tonight.",

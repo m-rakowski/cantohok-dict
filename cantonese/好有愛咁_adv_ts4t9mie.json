@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "lovingly",
-      "english": ["lovingly", "affectionately"],
+      "english": [
+        {
+          "id": "3pbd1rub",
+          "word": "lovingly",
+          "meaning": "affectionately",
+          "register": "colloquial",
+          "note": "This is the all-purpose colloquial choice for doing something with affection and care."
+        },
+        {
+          "id": "bat27r9w",
+          "word": "affectionately",
+          "meaning": "in an affectionate way",
+          "register": "colloquial",
+          "note": "This is the casual all-purpose choice for doing or saying something in a loving, affectionate way."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

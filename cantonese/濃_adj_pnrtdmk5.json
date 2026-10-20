@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "strong, rich, concentrated",
-      "english": ["strong", "rich"],
+      "english": [
+        {
+          "id": "elmameqj",
+          "word": "strong",
+          "meaning": "concentrated; potent",
+          "note": "Use this for a strong taste, smell, coffee, or other concentrated substance, but not normally for a strong light."
+        },
+        {
+          "id": "zu0klxbs",
+          "word": "rich",
+          "meaning": "rich-tasting",
+          "note": "Use it for intense flavour in food or for a deep, vivid colour rather than a pale one."
+        }
+      ],
       "examples": [
         {
           "english": "This coffee is too strong for me to drink.",

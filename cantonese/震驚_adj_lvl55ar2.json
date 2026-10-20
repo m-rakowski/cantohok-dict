@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "shocked, astonished",
-      "english": ["shocked", "amazed", "astonished"],
+      "english": [
+        {
+          "id": "29cmazkn",
+          "word": "shocked",
+          "meaning": "surprised, stunned",
+          "note": "Use this for a much stronger shock, especially when the speaker is also indignant or deeply disturbed."
+        },
+        {
+          "id": "2j2a4t99",
+          "word": "amazed",
+          "meaning": "astonished; greatly surprised",
+          "note": "Use this for a stronger, more shocking kind of amazement."
+        },
+        {
+          "id": "hhfmx0g9",
+          "word": "astonished",
+          "meaning": "amazed; surprised",
+          "note": "Use this for stronger astonishment that approaches being shocked or deeply disturbed."
+        }
+      ],
       "examples": [
         {
           "english": "This news left us deeply shocked.",

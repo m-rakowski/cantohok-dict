@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "good luck",
-      "english": ["fortune", "luck"],
+      "english": [
+        {
+          "id": "jbmnzxjd",
+          "word": "fortune",
+          "meaning": "good luck",
+          "note": "Use this for good luck, including a favorable outcome; it is the all-purpose choice for positive fortune."
+        },
+        {
+          "id": "z7351fpt",
+          "word": "luck",
+          "meaning": "good luck",
+          "note": "Use this when the luck or fortune is specifically favourable or brings success."
+        }
+      ],
       "examples": [
         {
           "english": "I had good fortune this time and won the grand prize.",

@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "example",
-      "english": ["example", "instance", "illustration", "specimen"],
+      "english": [
+        {
+          "id": "f8zbzx3e",
+          "word": "example",
+          "meaning": "representative instance",
+          "note": "This is the all-purpose choice for a representative instance or an illustration of a rule."
+        },
+        {
+          "id": "7rpstver",
+          "word": "instance",
+          "meaning": "instance, occurrence",
+          "note": "Use 例子 as the all-purpose noun for one example or occurrence illustrating a general pattern."
+        },
+        {
+          "id": "coowp2wd",
+          "word": "illustration",
+          "meaning": "example, explanation",
+          "note": "Use this as the all-purpose noun for an example or comparison that clarifies an idea."
+        },
+        {
+          "id": "l9nv5mnh",
+          "word": "specimen",
+          "meaning": "example, representative instance",
+          "note": "Use 例子 as the all-purpose rendering for a representative instance or example."
+        }
+      ],
       "examples": [
         {
           "english": "This is a very clear example.",

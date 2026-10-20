@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "you yourselves (plural)",
-      "english": ["ourselves", "you"],
+      "english": [
+        {
+          "id": "lcugnbzj",
+          "word": "ourselves",
+          "meaning": "inclusive you-all reflexive",
+          "note": "Use this when speaking directly to a group and referring back to everyone being addressed."
+        },
+        {
+          "id": "653p1m3q",
+          "word": "you",
+          "meaning": "reflexive 'you'",
+          "note": "Use this for plural “yourselves” when the people addressed are the reflexive object."
+        }
+      ],
       "examples": [
         {
           "english": "You yourselves decide; we’ll handle it ourselves.",

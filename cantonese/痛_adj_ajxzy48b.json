@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "painful, sore",
-      "english": ["painful", "sore", "tender"],
+      "english": [
+        {
+          "id": "gxjv64us",
+          "word": "painful",
+          "meaning": "causing pain or distress",
+          "note": "Use this as the everyday choice for physical pain: a body part, injury, or sensation that hurts."
+        },
+        {
+          "id": "9wbbgut6",
+          "word": "sore",
+          "meaning": "painful; tender",
+          "note": "This is the all-purpose choice for ordinary physical pain or tenderness."
+        },
+        {
+          "id": "9b8qj8iw",
+          "word": "tender",
+          "meaning": "painful to touch",
+          "note": "Use 痛 when the body part or spot hurts, especially when it is touched or pressed."
+        }
+      ],
       "examples": [
         {
           "english": "My foot was stepped on, and it was painful.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "disabled",
-      "english": ["handicapped", "disabled"],
+      "english": [
+        {
+          "id": "qak77bkd",
+          "word": "handicapped",
+          "meaning": "disabled; has a disability",
+          "note": "This is the all-purpose rendering for being disabled or having a disability."
+        },
+        {
+          "id": "ueena9lc",
+          "word": "disabled",
+          "meaning": "having a disability",
+          "note": "Use this for a person who has a disability, especially in contexts such as 殘疾人士."
+        }
+      ],
       "examples": [
         {
           "english": "They are handicapped and need an accessible parking space.",

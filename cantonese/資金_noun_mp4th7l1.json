@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "funds, capital",
-      "english": ["fund", "finance"],
+      "english": [
+        {
+          "id": "vful9cp2",
+          "word": "fund",
+          "meaning": "money reserve",
+          "note": "Use this as the all-purpose term for a sum or source of money, rather than for a specific investment product or organization."
+        },
+        {
+          "id": "dr1e39eo",
+          "word": "finance",
+          "meaning": "money/resources",
+          "note": "Use this for the actual funds available to a company, government, or project, rather than their management."
+        }
+      ],
       "examples": [
         {
           "english": "We need more fund to keep the shop running.",

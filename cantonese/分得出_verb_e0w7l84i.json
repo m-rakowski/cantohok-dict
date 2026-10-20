@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "can tell apart",
-      "english": ["distinguish", "discriminate"],
+      "english": [
+        {
+          "id": "rwfgb9n2",
+          "word": "distinguish",
+          "meaning": "tell apart / recognize difference",
+          "note": "This is the all-purpose spoken choice for telling two people or things apart."
+        },
+        {
+          "id": "jzfw3kg0",
+          "word": "discriminate",
+          "meaning": "distinguish between",
+          "note": "Use this as the all-purpose everyday way to say that you can tell two things apart."
+        }
+      ],
       "examples": [
         {
           "english": "Can you distinguish the taste of these two teas?",

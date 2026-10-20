@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "explosion",
-      "english": ["bang", "explosion", "burst"],
+      "english": [
+        {
+          "id": "36wl64lf",
+          "word": "bang",
+          "meaning": "explosion",
+          "note": "Use this specifically when the bang is an explosion."
+        },
+        {
+          "id": "vu4iequu",
+          "word": "explosion",
+          "meaning": "violent burst",
+          "note": "This is the all-purpose noun for a violent explosion or blast."
+        },
+        {
+          "id": "uo5udm3v",
+          "word": "burst",
+          "meaning": "bursting event",
+          "note": "Use this for an actual explosion or other sudden bursting event, especially involving bombs."
+        }
+      ],
       "examples": [
         {
           "english": "That explosion was such a loud bang that the whole building shook.",

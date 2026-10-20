@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "traffic light",
-      "english": ["traffic light", "light"],
+      "english": [
+        {
+          "id": "p9ug92js",
+          "word": "traffic light",
+          "meaning": "road signal",
+          "note": "This is the all-purpose everyday term for a traffic light."
+        },
+        {
+          "id": "ib9swc0e",
+          "word": "light",
+          "meaning": "traffic light",
+          "note": "Use this specifically for traffic lights, including the traffic-light location in directions."
+        }
+      ],
       "examples": [
         {
           "english": "The traffic light ahead has turned red, so slow down and stop.",

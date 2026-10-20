@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "nomination",
-      "english": ["nomination", "nod"],
+      "english": [
+        {
+          "id": "rahdw0n4",
+          "word": "nomination",
+          "meaning": "candidate selection",
+          "note": "This is the all-purpose noun for an act or instance of nominating someone for an award or position."
+        },
+        {
+          "id": "m0jojsz2",
+          "word": "nod",
+          "meaning": "nomination",
+          "note": "Use this for a nomination for an award, position, or other honor."
+        }
+      ],
       "examples": [
         {
           "english": "He finally received a nomination for Best Actor.",

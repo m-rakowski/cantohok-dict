@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "group leader",
-      "english": ["leader", "commander"],
+      "english": [
+        {
+          "id": "bcvyughc",
+          "word": "leader",
+          "meaning": "person who leads",
+          "note": "This is the usual choice for the person leading a tour, team, or group, including the person everyone follows at the front."
+        },
+        {
+          "id": "yoxts595",
+          "word": "commander",
+          "meaning": "leader of a group",
+          "note": "Use this for the person leading and directing a group, team, or party."
+        }
+      ],
       "examples": [
         {
           "english": "Ming is the leader for this trip; everyone just needs to follow him.",

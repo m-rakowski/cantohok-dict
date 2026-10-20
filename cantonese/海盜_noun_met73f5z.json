@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "pirate",
-      "english": ["pirate", "buccaneer"],
+      "english": [
+        {
+          "id": "l64t8877",
+          "word": "pirate",
+          "meaning": "sea robber",
+          "note": "Use 海盜 as the all-purpose term for a criminal who robs ships or coastal settlements."
+        },
+        {
+          "id": "g6g0vm2f",
+          "word": "buccaneer",
+          "meaning": "historic pirate",
+          "note": "This is the all-purpose Cantonese noun for a pirate, including a historical buccaneer."
+        }
+      ],
       "examples": [
         {
           "english": "A pirate attacked a merchant ship at sea.",

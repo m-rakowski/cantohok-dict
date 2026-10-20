@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "no living members",
-      "english": ["extinct"],
+      "english": [
+        {
+          "id": "wr1pyb16",
+          "word": "extinct",
+          "meaning": "no living members",
+          "note": "Use this specifically for a family or lineage that has no descendants left, rather than for an extinct species."
+        }
+      ],
       "examples": [
         {
           "english": "This branch of the family has long been extinct.",

@@ -6,7 +6,28 @@
   "boxes": [
     {
       "meaning": "make people happy, amuse",
-      "english": ["entertain", "amuse", "please"],
+      "english": [
+        {
+          "id": "yt020f0p",
+          "word": "entertain",
+          "meaning": "amuse, please",
+          "register": "colloquial",
+          "note": "This is the all-purpose spoken choice for amusing or pleasing someone."
+        },
+        {
+          "id": "yqc99cj3",
+          "word": "amuse",
+          "meaning": "entertain pleasantly",
+          "note": "Use this as the everyday all-purpose choice for pleasing or entertaining someone."
+        },
+        {
+          "id": "p1ci0mzv",
+          "word": "please",
+          "meaning": "make happy / satisfy",
+          "register": "colloquial",
+          "note": "Use this when someone deliberately says or does something to cheer another person up or keep them happy."
+        }
+      ],
       "examples": [
         {
           "english": "I tell jokes to entertain people.",

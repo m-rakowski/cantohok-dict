@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "shake, vibrate, tremble",
-      "english": ["vibrate", "quiver", "tremble", "bump", "resonate"],
+      "english": [
+        {
+          "id": "t2p80clj",
+          "word": "vibrate",
+          "meaning": "move rapidly to and fro",
+          "note": "This is the all-purpose choice for something physically shaking with rapid small movements."
+        },
+        {
+          "id": "9dz7x3dm",
+          "word": "quiver",
+          "meaning": "tremble, shake",
+          "note": "This is the all-purpose colloquial choice for a hand, limb, object, or other thing moving with a slight tremor."
+        },
+        {
+          "id": "cv0fi4y0",
+          "word": "tremble",
+          "meaning": "shake; quiver",
+          "note": "Use this mainly when an object or surface is shaking or vibrating, rather than a person visibly quivering."
+        },
+        {
+          "id": "3nqyuv0y",
+          "word": "bump",
+          "meaning": "move with jolting motion",
+          "note": "Use 震 for a vehicle or object that jolts along a rough surface rather than hitting another object."
+        },
+        {
+          "id": "ftgk087a",
+          "word": "resonate",
+          "meaning": "vibrate or sound in response",
+          "note": "Use this for a physical object vibrating or making a sound in response to another sound or vibration."
+        }
+      ],
       "examples": [
         {
           "english": "I can feel my phone vibrate under the pillow.",

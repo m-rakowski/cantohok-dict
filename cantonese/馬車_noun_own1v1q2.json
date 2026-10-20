@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "horse-drawn carriage",
-      "english": ["carriage", "chariot", "wagon"],
+      "english": [
+        {
+          "id": "izad0apw",
+          "word": "carriage",
+          "meaning": "horse-drawn carriage",
+          "note": "This is the all-purpose Cantonese noun for a horse-drawn carriage."
+        },
+        {
+          "id": "agfaxt0t",
+          "word": "chariot",
+          "meaning": "ceremonial carriage",
+          "note": "This is the all-purpose choice for a horse-drawn ceremonial or pleasure carriage when battle is not the focus."
+        },
+        {
+          "id": "vvinajxx",
+          "word": "wagon",
+          "meaning": "horse-drawn goods vehicle",
+          "note": "Use this for the all-purpose horse-drawn vehicle, including a wagon used to carry goods."
+        }
+      ],
       "examples": [
         {
           "english": "We took a carriage to visit the castle.",

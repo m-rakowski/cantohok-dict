@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "towed cargo trailer",
-      "english": ["trailer"],
+      "english": [
+        {
+          "id": "0aqmvql2",
+          "word": "trailer",
+          "meaning": "towed cargo trailer",
+          "note": "Use this for an unpowered cargo vehicle that is towed behind another vehicle."
+        }
+      ],
       "examples": [
         {
           "english": "The strap on the trailer behind the truck has come loose, so we need to stop immediately.",

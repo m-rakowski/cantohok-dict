@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "designated zone",
-      "english": ["zone"],
+      "english": [
+        {
+          "id": "43lwn47j",
+          "word": "zone",
+          "meaning": "designated area",
+          "note": "Use this as the everyday all-purpose noun for a designated zone or area with a particular use or rule."
+        }
+      ],
       "examples": [
         {
           "english": "This is the smoking zone, so you can smoke here.",
@@ -17,7 +24,20 @@
     },
     {
       "meaning": "district",
-      "english": ["district", "ward"],
+      "english": [
+        {
+          "id": "hbz10iow",
+          "word": "district",
+          "meaning": "administrative area",
+          "note": "This is the all-purpose choice for an administrative district or a named area defined by a feature."
+        },
+        {
+          "id": "o7hvx5sn",
+          "word": "ward",
+          "meaning": "city district",
+          "note": "Use this for an administrative district within a city or borough, such as Tokyo's Chiyoda Ward."
+        }
+      ],
       "examples": [
         {
           "english": "This district gets very lively at night.",

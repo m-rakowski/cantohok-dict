@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "go around, bypass",
-      "english": ["bypass", "circumnavigate"],
+      "english": [
+        {
+          "id": "7h3r20ql",
+          "word": "bypass",
+          "meaning": "go around obstacle",
+          "note": "This is the all-purpose verb for going around a physical obstacle and can also mean bypassing a procedure."
+        },
+        {
+          "id": "lnla4vun",
+          "word": "circumnavigate",
+          "meaning": "circumvent or bypass",
+          "register": "colloquial",
+          "note": "This is the all-purpose spoken choice for avoiding or bypassing something, rather than making a full circuit."
+        }
+      ],
       "examples": [
         {
           "english": "We bypass downtown and go straight to the pier.",

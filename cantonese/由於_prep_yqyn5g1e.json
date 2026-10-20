@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "because of, due to",
-      "english": ["because of", "owing to"],
+      "english": [
+        {
+          "id": "7nf45vh3",
+          "word": "because of",
+          "meaning": "on account of; due to",
+          "register": "formal",
+          "note": "Choose this mainly in formal or written contexts rather than casual conversation."
+        },
+        {
+          "id": "qykj3g6x",
+          "word": "owing to",
+          "meaning": "because of",
+          "register": "formal, written",
+          "note": "Use this mainly in formal speech or writing when stating the cause of something."
+        }
+      ],
       "examples": [
         {
           "english": "The flight was cancelled today because of the bad weather.",

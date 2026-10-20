@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "courage, nerve",
-      "english": ["bravery", "courage", "pluck", "nerve", "bottle"],
+      "english": [
+        {
+          "id": "aqm79vqu",
+          "word": "bravery",
+          "meaning": "courage",
+          "note": "Use this when bravery means having the nerve to face danger or take a risk."
+        },
+        {
+          "id": "uketd5cs",
+          "word": "courage",
+          "meaning": "bravery to face fear",
+          "note": "Use this for visible boldness or confidence in facing a person, situation, or risk, rather than for general moral endurance."
+        },
+        {
+          "id": "spgchykq",
+          "word": "pluck",
+          "meaning": "nerve; courage",
+          "note": "Use this for the guts or nerve to do something difficult or risky."
+        },
+        {
+          "id": "91ecmwin",
+          "word": "nerve",
+          "meaning": "courage; boldness",
+          "note": "Use 膽量 for the courage or audacity someone shows in doing something bold or improper."
+        },
+        {
+          "id": "aflmeibs",
+          "word": "bottle",
+          "meaning": "nerve; courage",
+          "note": "Use this for courage or nerve when translating the British slang sense, not for a physical bottle."
+        }
+      ],
       "examples": [
         {
           "english": "It takes real bravery to jump into the sea to save someone.",

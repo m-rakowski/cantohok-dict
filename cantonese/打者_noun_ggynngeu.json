@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "baseball hitter",
-      "english": ["batter"],
+      "english": [
+        {
+          "id": "welfriw4",
+          "word": "batter",
+          "meaning": "baseball hitter",
+          "note": "Use this for the baseball player currently facing the pitcher and trying to hit the ball."
+        }
+      ],
       "examples": [
         {
           "english": "It was the batter's turn to step up, and the whole team cheered.",

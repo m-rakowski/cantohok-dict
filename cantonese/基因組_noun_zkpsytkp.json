@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "genome",
-      "english": ["genome", "genetics"],
+      "english": [
+        {
+          "id": "hbd1k987",
+          "word": "genome",
+          "meaning": "complete genetic material",
+          "register": "formal",
+          "note": "This is the all-purpose Cantonese term for an organism’s complete genetic material."
+        },
+        {
+          "id": "qgvktemo",
+          "word": "genetics",
+          "meaning": "genetic makeup",
+          "register": "formal",
+          "note": "Use this for the complete genetic makeup of a particular person, organism, or species."
+        }
+      ],
       "register": "formal",
       "examples": [
         {

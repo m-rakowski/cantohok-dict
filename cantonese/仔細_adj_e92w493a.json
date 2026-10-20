@@ -6,7 +6,44 @@
   "boxes": [
     {
       "meaning": "careful, thorough",
-      "english": ["thorough", "meticulous", "painstaking", "careful", "close", "forensic"],
+      "english": [
+        {
+          "id": "z77vj919",
+          "word": "thorough",
+          "meaning": "careful and detailed",
+          "note": "Use this as the everyday choice for careful attention to every detail, rather than for something merely complete or absolute."
+        },
+        {
+          "id": "oqhqapi8",
+          "word": "meticulous",
+          "meaning": "very careful and precise",
+          "note": "This is the all-purpose choice, especially for work, searches, or checking done with precise attention to detail."
+        },
+        {
+          "id": "cdvp3jb5",
+          "word": "painstaking",
+          "meaning": "careful and diligent",
+          "note": "Use 仔細 as the all-purpose choice when stressing careful attention to details in a process or task."
+        },
+        {
+          "id": "xm4o507t",
+          "word": "careful",
+          "meaning": "meticulous, thorough",
+          "note": "Use this for doing something meticulously, thoroughly, or with close attention to detail."
+        },
+        {
+          "id": "vltmgbgr",
+          "word": "close",
+          "meaning": "careful; strict",
+          "note": "Use 仔細 when close means careful, attentive, or detailed in examining something."
+        },
+        {
+          "id": "n0ii764e",
+          "word": "forensic",
+          "meaning": "meticulous, exacting",
+          "note": "Use this for the metaphorical sense of being precise and meticulous rather than for a legal investigation."
+        }
+      ],
       "examples": [
         {
           "english": "We are always very thorough in our work.",

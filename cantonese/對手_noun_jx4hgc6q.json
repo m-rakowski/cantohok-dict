@@ -6,7 +6,44 @@
   "boxes": [
     {
       "meaning": "opponent, rival",
-      "english": ["competitor", "opponent", "rival", "adversary", "equal", "opposite"],
+      "english": [
+        {
+          "id": "d2pcsij9",
+          "word": "competitor",
+          "meaning": "rival / opponent",
+          "note": "This is the all-purpose choice for a person or organization you are competing against."
+        },
+        {
+          "id": "gx5g6ply",
+          "word": "opponent",
+          "meaning": "person against you",
+          "note": "Use this as the all-purpose choice for someone you face or compete against, including an election rival."
+        },
+        {
+          "id": "9wi9rmi9",
+          "word": "rival",
+          "meaning": "competitor",
+          "note": "This is the all-purpose choice for a person, team, or organisation competing with another, including someone regarded as an equal; it also appears in phrases such as 冇對手 for “has no rival”."
+        },
+        {
+          "id": "1eqrbz6m",
+          "word": "adversary",
+          "meaning": "opponent; rival",
+          "note": "This is the all-purpose choice for an opponent or rival in a contest, conflict, or general opposition."
+        },
+        {
+          "id": "imowvq5r",
+          "word": "equal",
+          "meaning": "equal person",
+          "note": "Use this when the equal is a rival or competitor rather than merely someone of equal status."
+        },
+        {
+          "id": "b2986va6",
+          "word": "opposite",
+          "meaning": "opponent",
+          "note": "Use this for someone you compete or fight against."
+        }
+      ],
       "examples": [
         {
           "english": "Our team finally beat that formidable competitor this year.",

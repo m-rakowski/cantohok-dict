@@ -6,7 +6,15 @@
   "boxes": [
     {
       "meaning": "similar, about the same",
-      "english": ["similar"],
+      "english": [
+        {
+          "id": "gllaxter",
+          "word": "similar",
+          "meaning": "alike; comparable",
+          "register": "colloquial",
+          "note": "This is the all-purpose colloquial choice for things that are alike or comparable in everyday situations."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {
@@ -18,7 +26,21 @@
     },
     {
       "meaning": "almost, nearly",
-      "english": ["close", "near"],
+      "english": [
+        {
+          "id": "2k0g6ucb",
+          "word": "close",
+          "meaning": "almost",
+          "register": "colloquial",
+          "note": "Use 差唔多 when something is almost right or nearly equal, not for physical distance."
+        },
+        {
+          "id": "7pxxa9k8",
+          "word": "near",
+          "meaning": "almost; approximately",
+          "note": "Use 差唔多 for approximate amounts or times and for saying that something is almost finished or almost identical."
+        }
+      ],
       "examples": [
         {
           "english": "We’re close to finishing.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "athlete",
-      "english": ["athlete", "player"],
+      "english": [
+        {
+          "id": "3bs0pd8g",
+          "word": "athlete",
+          "meaning": "track-and-field competitor",
+          "note": "This is the all-purpose choice for a person who takes part in sports."
+        },
+        {
+          "id": "xmogfsnb",
+          "word": "player",
+          "meaning": "sports player",
+          "note": "For a person playing a sport, 運動員 is the all-purpose term rather than 播放器 or 玩家."
+        }
+      ],
       "examples": [
         {
           "english": "The athlete took part in this charity run.",

@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "silly, foolish",
-      "english": ["dumb", "silly"],
+      "english": [
+        {
+          "id": "kxufdpas",
+          "word": "dumb",
+          "meaning": "stupid; foolish (insult)",
+          "note": "Use this for someone or something silly or daft, especially when the criticism is milder or focuses on foolish behavior rather than intelligence."
+        },
+        {
+          "id": "joykgtz2",
+          "word": "silly",
+          "meaning": "foolish; lacking judgment",
+          "register": "colloquial",
+          "note": "Use this colloquial word when stressing that someone is acting foolishly or showing poor judgment."
+        }
+      ],
       "examples": [
         {
           "english": "It's really dumb of you to bring an umbrella indoors like that.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "mathematical probability",
-      "english": ["probability"],
+      "english": [
+        {
+          "id": "h1rguzl6",
+          "word": "probability",
+          "meaning": "mathematical probability",
+          "note": "Use this for a precise numerical or mathematical probability."
+        }
+      ],
       "examples": [
         {
           "english": "The probability of this experiment succeeding is 0.8.",

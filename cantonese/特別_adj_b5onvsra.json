@@ -6,7 +6,44 @@
   "boxes": [
     {
       "meaning": "special, unusual",
-      "english": ["special", "extraordinary", "remarkable", "exceptional", "particular", "different"],
+      "english": [
+        {
+          "id": "mpqwai47",
+          "word": "special",
+          "meaning": "unique; unusual",
+          "note": "This is the all-purpose choice for something unusual, distinctive, or set apart from the ordinary."
+        },
+        {
+          "id": "h85drpp2",
+          "word": "extraordinary",
+          "meaning": "out of the ordinary",
+          "note": "This is the all-purpose choice for something unusual or out of the ordinary, including 特別嘅情況."
+        },
+        {
+          "id": "me90spx5",
+          "word": "remarkable",
+          "meaning": "unusual; uncommon",
+          "note": "Use this for something unusual or distinctive without necessarily saying that it is excellent."
+        },
+        {
+          "id": "ejc3zmkl",
+          "word": "exceptional",
+          "meaning": "unusual; not ordinary",
+          "note": "Use this when something is unusual, distinctive, or not ordinary, rather than simply very good."
+        },
+        {
+          "id": "lb8ji6cd",
+          "word": "particular",
+          "meaning": "special; especially in 'no particular'",
+          "note": "Use this when particular means special or distinguished, as in negative phrases meaning “nothing special.”"
+        },
+        {
+          "id": "aj1y3gby",
+          "word": "different",
+          "meaning": "unusual, not typical",
+          "note": "Use this when ‘different’ means unusual or distinctive, especially when the difference stands out as notable or special."
+        }
+      ],
       "examples": [
         {
           "english": "Today's cake tastes really special.",

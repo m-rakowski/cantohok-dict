@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "professional, expert-level",
-      "english": ["professional", "expert"],
+      "english": [
+        {
+          "id": "rncr4fgj",
+          "word": "professional",
+          "meaning": "professional quality",
+          "note": "This is the all-purpose choice for professional standards, professional workers, and tongue-in-cheek labels such as 專業吹水."
+        },
+        {
+          "id": "z6yl1r9c",
+          "word": "expert",
+          "meaning": "expert-level",
+          "note": "Use this for expert-level quality or knowledge, especially in a professional or technical context."
+        }
+      ],
       "examples": [
         {
           "english": "The service at this restaurant is really professional.",
@@ -22,7 +35,14 @@
     },
     {
       "meaning": "technical, specialist",
-      "english": ["technical"],
+      "english": [
+        {
+          "id": "c204dl7a",
+          "word": "technical",
+          "meaning": "specialist; hard to understand",
+          "note": "Use this when a subject, explanation, or text is specialist-level and difficult for non-experts to follow."
+        }
+      ],
       "examples": [
         {
           "english": "This explanation is too technical for me to understand.",

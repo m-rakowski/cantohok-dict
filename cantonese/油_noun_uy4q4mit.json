@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "oil",
-      "english": ["oil"],
+      "english": [
+        {
+          "id": "s8w3tpoc",
+          "word": "oil",
+          "meaning": "liquid fat",
+          "note": "This is the all-purpose noun for unspecified oil, including liquid fat, fuel or lubricant, and petroleum in a general context."
+        }
+      ],
       "examples": [
         {
           "english": "The bike chain needs oil.",
@@ -17,7 +24,15 @@
     },
     {
       "meaning": "paint",
-      "english": ["paint"],
+      "english": [
+        {
+          "id": "nps2m6he",
+          "word": "paint",
+          "meaning": "paint substance",
+          "register": "colloquial",
+          "note": "Use this shorter form when the context clearly shows that 油 means paint rather than oil."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {
@@ -29,7 +44,14 @@
     },
     {
       "meaning": "fuel for vehicles",
-      "english": ["fuel"],
+      "english": [
+        {
+          "id": "nzqli3dg",
+          "word": "fuel",
+          "meaning": "energy source for engines",
+          "note": "Use this colloquial choice for liquid fuel in vehicles and other engines, especially when the context makes the type clear."
+        }
+      ],
       "examples": [
         {
           "english": "The car has run out of fuel and can't move.",

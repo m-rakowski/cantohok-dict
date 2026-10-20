@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "draw, tie",
-      "english": ["tie", "draw"],
+      "english": [
+        {
+          "id": "jenh9ow8",
+          "word": "tie",
+          "meaning": "be tied; draw",
+          "register": "colloquial",
+          "note": "Use this for teams or competitors ending with the same score, especially in a match."
+        },
+        {
+          "id": "gpkozq6o",
+          "word": "draw",
+          "meaning": "end in a tie",
+          "register": "colloquial",
+          "note": "Use this specifically when a game or match ends with neither side winning."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

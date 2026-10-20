@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "unwilling",
-      "english": ["reluctant", "unwilling", "averse"],
+      "english": [
+        {
+          "id": "9ek2chqz",
+          "word": "reluctant",
+          "meaning": "unwilling; hesitant",
+          "note": "This is the all-purpose choice for being unwilling to do something."
+        },
+        {
+          "id": "c1w5obj2",
+          "word": "unwilling",
+          "meaning": "not willing; reluctant",
+          "note": "This is the all-purpose choice for saying that someone is not willing to do something."
+        },
+        {
+          "id": "6a3sfr1v",
+          "word": "averse",
+          "meaning": "opposed, unwilling",
+          "note": "Use this as the all-purpose choice when someone is unwilling to do or accept something."
+        }
+      ],
       "examples": [
         {
           "english": "I'm reluctant to move abroad for this job.",

@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "nationwide",
-      "english": ["countrywide", "nationwide"],
+      "english": [
+        {
+          "id": "gm61mf0w",
+          "word": "countrywide",
+          "meaning": "throughout a country",
+          "register": "formal",
+          "note": "Use this as the all-purpose adjective for something extending throughout an entire country."
+        },
+        {
+          "id": "26m9fzrd",
+          "word": "nationwide",
+          "meaning": "across the whole country",
+          "register": "formal",
+          "note": "Use this more formal adjective when explicitly describing an event, issue, or organization as national in scope."
+        }
+      ],
       "register": "formal",
       "examples": [
         {

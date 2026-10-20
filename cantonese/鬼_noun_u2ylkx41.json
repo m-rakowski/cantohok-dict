@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "ghost",
-      "english": ["ghost", "spirit", "phantom"],
+      "english": [
+        {
+          "id": "7zpxwiva",
+          "word": "ghost",
+          "meaning": "spirit of dead person",
+          "note": "This is the all-purpose spoken word for a supernatural spirit or the soul of a dead person."
+        },
+        {
+          "id": "v49lawy6",
+          "word": "spirit",
+          "meaning": "ghost / supernatural being",
+          "note": "Use this for a ghost or spooky supernatural being, rather than for a person's soul or a benevolent being such as an angel."
+        },
+        {
+          "id": "dbui1zjr",
+          "word": "phantom",
+          "meaning": "ghost, apparition",
+          "note": "Use this as the all-purpose everyday noun for a ghost or apparition."
+        }
+      ],
       "examples": [
         {
           "english": "Lately, I keep dreaming about a ghost, so I don't dare go to sleep.",

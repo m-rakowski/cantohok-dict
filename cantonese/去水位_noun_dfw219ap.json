@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "drain",
-      "english": ["sink"],
+      "english": [
+        {
+          "id": "belvpc70",
+          "word": "sink",
+          "meaning": "drain",
+          "note": "Use this for the drain or outlet that carries wastewater away."
+        }
+      ],
       "examples": [
         {
           "english": "The sink’s drain is blocked, so the water won’t run off.",

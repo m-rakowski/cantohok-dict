@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "strait",
-      "english": ["strait", "channel", "passage"],
+      "english": [
+        {
+          "id": "wsomkgkg",
+          "word": "strait",
+          "meaning": "narrow sea channel",
+          "note": "This is the all-purpose choice for a narrow sea channel between larger bodies of water."
+        },
+        {
+          "id": "8tgl7qge",
+          "word": "channel",
+          "meaning": "strait",
+          "note": "Use 海峽 specifically for a narrow stretch of sea between two land masses."
+        },
+        {
+          "id": "8x70q6zz",
+          "word": "passage",
+          "meaning": "strait; narrow waterway",
+          "note": "Use this for a geographical strait between two areas of land."
+        }
+      ],
       "examples": [
         {
           "english": "This strait connects two large seas, and the current is very strong.",

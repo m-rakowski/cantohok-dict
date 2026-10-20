@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "scope of knowledge, outlook",
-      "english": ["horizon"],
+      "english": [
+        {
+          "id": "yq2msh4i",
+          "word": "horizon",
+          "meaning": "scope / prospects",
+          "note": "Use this for the scope or range of someone's knowledge, interests, or thinking."
+        }
+      ],
       "examples": [
         {
           "english": "Reading news from different countries can broaden your horizon.",
@@ -17,7 +24,20 @@
     },
     {
       "meaning": "field of view",
-      "english": ["sight", "view"],
+      "english": [
+        {
+          "id": "x13u4c1y",
+          "word": "sight",
+          "meaning": "act of seeing; view",
+          "note": "Use this for a view or the area within someone's field of vision, rather than for the act of looking itself."
+        },
+        {
+          "id": "zgreg0t1",
+          "word": "view",
+          "meaning": "line of sight",
+          "note": "Use this for the area or range that someone can see, rather than for scenery or an opinion."
+        }
+      ],
       "examples": [
         {
           "english": "The sight from the mountaintop is really expansive.",

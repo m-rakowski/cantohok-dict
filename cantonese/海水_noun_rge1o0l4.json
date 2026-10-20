@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "seawater",
-      "english": ["seawater", "ocean"],
+      "english": [
+        {
+          "id": "xneuqlmi",
+          "word": "seawater",
+          "meaning": "salt water from the sea",
+          "note": "This is the all-purpose noun for the saltwater of the sea or ocean."
+        },
+        {
+          "id": "3tyq36p1",
+          "word": "ocean",
+          "meaning": "ocean water",
+          "note": "Use this when you mean the water itself rather than the body of water."
+        }
+      ],
       "examples": [
         {
           "english": "The seawater is cold, so don’t go into the water yet.",

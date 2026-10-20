@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "translation program",
-      "english": ["translator"],
+      "english": [
+        {
+          "id": "bjmhffdv",
+          "word": "translator",
+          "meaning": "translation program",
+          "note": "Use this specifically for a computer program that converts code from one programming language into another."
+        }
+      ],
       "examples": [
         {
           "english": "This translator can convert this code into another language.",

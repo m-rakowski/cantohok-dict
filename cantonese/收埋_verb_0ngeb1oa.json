@@ -6,7 +6,28 @@
   "boxes": [
     {
       "meaning": "put away out of sight",
-      "english": ["hide", "conceal", "deposit"],
+      "english": [
+        {
+          "id": "24s257fd",
+          "word": "hide",
+          "meaning": "hide something away",
+          "note": "This is the all-purpose choice for putting an object somewhere out of sight."
+        },
+        {
+          "id": "xy5uif8j",
+          "word": "conceal",
+          "meaning": "hide; keep secret",
+          "register": "colloquial",
+          "note": "This is the everyday all-purpose choice for putting a physical thing out of sight."
+        },
+        {
+          "id": "4dwggjgk",
+          "word": "deposit",
+          "meaning": "store away",
+          "register": "colloquial",
+          "note": "Use 收埋 when goods are being put away or kept somewhere safely, often out of sight."
+        }
+      ],
       "examples": [
         {
           "english": "I hide the snacks in the drawer.",
@@ -27,7 +48,27 @@
     },
     {
       "meaning": "hide feelings",
-      "english": ["dissemble", "bottle", "bury"],
+      "english": [
+        {
+          "id": "6cpciczg",
+          "word": "dissemble",
+          "meaning": "disguise or conceal",
+          "register": "colloquial",
+          "note": "Use this colloquial choice when something is deliberately kept out of sight, including keeping feelings or thoughts to oneself."
+        },
+        {
+          "id": "11zgkjum",
+          "word": "bottle",
+          "meaning": "bottle (put into bottles)",
+          "note": "Use this for the figurative sense of bottling up feelings or emotions rather than for literal liquids."
+        },
+        {
+          "id": "fsksqz72",
+          "word": "bury",
+          "meaning": "cover up, hide",
+          "note": "Choose 收埋 when the emphasis is on hiding something away, especially feelings, secrets, or something being concealed from view."
+        }
+      ],
       "examples": [
         {
           "english": "I don't want to dissemble by hiding my feelings.",

@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "eyesight",
-      "english": ["sight", "vision", "eyesight"],
+      "english": [
+        {
+          "id": "yxcgeigo",
+          "word": "sight",
+          "meaning": "ability to see",
+          "note": "This is the all-purpose noun for a person's physical ability to see."
+        },
+        {
+          "id": "509irz4b",
+          "word": "vision",
+          "meaning": "sight; ability to see",
+          "note": "Use this for the physical ability to see, rather than an aspiration or supernatural experience."
+        },
+        {
+          "id": "vuxqdukw",
+          "word": "eyesight",
+          "meaning": "ability to see",
+          "note": "Use this as the all-purpose noun for a person's ability to see, including in phrases such as good or poor eyesight."
+        }
+      ],
       "examples": [
         {
           "english": "My sight isn't very good.",

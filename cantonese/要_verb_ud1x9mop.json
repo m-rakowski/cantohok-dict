@@ -6,7 +6,44 @@
   "boxes": [
     {
       "meaning": "need to, have to",
-      "english": ["need", "must", "require", "have to", "want", "ought to"],
+      "english": [
+        {
+          "id": "660oxe24",
+          "word": "need",
+          "meaning": "need; require",
+          "note": "This is the all-purpose spoken choice for both needing something and needing to do something."
+        },
+        {
+          "id": "0bptlp7f",
+          "word": "must",
+          "meaning": "have to; be required",
+          "note": "Use 要 as the all-purpose spoken way to say that someone is required to do something."
+        },
+        {
+          "id": "p61krlr8",
+          "word": "require",
+          "meaning": "need, need as necessary",
+          "note": "This is the all-purpose colloquial choice for saying that something is needed or that someone must do something."
+        },
+        {
+          "id": "ny09dnuh",
+          "word": "have to",
+          "meaning": "obligation / necessity",
+          "note": "This is the all-purpose everyday choice for saying that someone must or needs to do something."
+        },
+        {
+          "id": "clhi8xzl",
+          "word": "want",
+          "meaning": "desire, need",
+          "note": "Use 要 when want means need, request, require, or be advised to do something."
+        },
+        {
+          "id": "milm6wgm",
+          "word": "ought to",
+          "meaning": "duty or obligation",
+          "note": "Use 要 when the duty sounds firm or close to an instruction rather than neutral advice."
+        }
+      ],
       "examples": [
         {
           "english": "I need to go to work today.",
@@ -42,7 +79,14 @@
     },
     {
       "meaning": "to cost",
-      "english": ["cost"],
+      "english": [
+        {
+          "id": "im7jyvdv",
+          "word": "cost",
+          "meaning": "price required",
+          "note": "Use 要 as the all-purpose choice when something requires a stated amount of money or costs someone money."
+        }
+      ],
       "examples": [
         {
           "english": "The cost of this phone is three thousand dollars.",
@@ -53,7 +97,20 @@
     },
     {
       "meaning": "to want, to ask for something",
-      "english": ["request", "ask"],
+      "english": [
+        {
+          "id": "h38sueax",
+          "word": "request",
+          "meaning": "ask for something",
+          "note": "This is the all-purpose colloquial choice when asking for an item or service."
+        },
+        {
+          "id": "jh2aarzq",
+          "word": "ask",
+          "meaning": "ask for something",
+          "note": "Use 要 when asking for an item or service, or when something is required or demanded, rather than when asking someone to perform an action."
+        }
+      ],
       "examples": [
         {
           "english": "I’d like to request a cup of iced lemon tea.",

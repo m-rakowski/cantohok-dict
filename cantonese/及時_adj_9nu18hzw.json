@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "in time, timely",
-      "english": ["timely", "last-minute"],
+      "english": [
+        {
+          "id": "j1hqwvzp",
+          "word": "timely",
+          "meaning": "prompt; on time",
+          "note": "Use this when an action or event happens in time to be useful or at the needed moment, rather than merely according to a schedule."
+        },
+        {
+          "id": "8icsyo2c",
+          "word": "last-minute",
+          "meaning": "just in time",
+          "note": "Use this when something happens just in time and successfully prevents it from being too late."
+        }
+      ],
       "examples": [
         {
           "english": "I arrived in time to call an ambulance for him; my arrival was timely.",

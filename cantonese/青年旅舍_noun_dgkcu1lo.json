@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "youth hostel",
-      "english": ["hostel", "backpacker"],
+      "english": [
+        {
+          "id": "z9x0d50v",
+          "word": "hostel",
+          "meaning": "budget travelers' lodging",
+          "note": "Use this when the hostel is specifically a youth hostel with dormitory-style accommodation."
+        },
+        {
+          "id": "mzi0am07",
+          "word": "backpacker",
+          "meaning": "backpacker hostel",
+          "note": "Use this when referring to a hostel aimed at young or budget travelers rather than to the travelers themselves."
+        }
+      ],
       "examples": [
         {
           "english": "A lot of young foreigners stay at this youth hostel.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "outer shell, casing",
-      "english": ["exterior", "shell"],
+      "english": [
+        {
+          "id": "ao4gooja",
+          "word": "exterior",
+          "meaning": "outside; outer surface",
+          "note": "Use this for a protective outer casing or shell rather than just any outside surface."
+        },
+        {
+          "id": "es77x98h",
+          "word": "shell",
+          "meaning": "empty shell",
+          "note": "Use this when you mean the outside form of something, especially when contrasting it with what is inside."
+        }
+      ],
       "examples": [
         {
           "english": "The exterior of the phone is cracked.",

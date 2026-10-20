@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "put down by force",
-      "english": ["repress", "suppress"],
+      "english": [
+        {
+          "id": "z5fezdei",
+          "word": "repress",
+          "meaning": "suppress revolt",
+          "register": "formal",
+          "note": "Use this for forcefully putting down a revolt, rebellion, or similar political unrest."
+        },
+        {
+          "id": "z6p7kj6o",
+          "word": "suppress",
+          "meaning": "crush; stop by force",
+          "note": "This is the all-purpose choice for forcibly putting down a revolt, opposition, or dissent."
+        }
+      ],
       "examples": [
         {
           "english": "The government sent in troops to repress the armed revolt.",

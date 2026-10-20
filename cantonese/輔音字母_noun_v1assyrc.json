@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "consonant letter",
-      "english": ["consonant"],
+      "english": [
+        {
+          "id": "sempkip8",
+          "word": "consonant",
+          "meaning": "consonant letter",
+          "note": "Use this specifically for a written letter that represents a consonant sound."
+        }
+      ],
       "examples": [
         {
           "english": "This letter is a consonant.",

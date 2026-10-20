@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "amenities / services",
-      "english": ["facilities"],
+      "english": [
+        {
+          "id": "31lac428",
+          "word": "facilities",
+          "meaning": "amenities / services",
+          "note": "Use this for the supporting amenities or services provided with a development, property, or project."
+        }
+      ],
       "examples": [
         {
           "english": "The facilities and services in this housing estate are excellent.",

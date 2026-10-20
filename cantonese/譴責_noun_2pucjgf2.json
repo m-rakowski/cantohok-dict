@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "public condemnation",
-      "english": ["denunciation", "disapproval"],
+      "english": [
+        {
+          "id": "ffe5abj5",
+          "word": "denunciation",
+          "meaning": "public accusation",
+          "register": "formal",
+          "note": "Use this for a stronger, more condemnatory denunciation, especially in public or formal contexts."
+        },
+        {
+          "id": "z6e7kw2x",
+          "word": "disapproval",
+          "meaning": "condemnation, disapproving reaction",
+          "register": "formal",
+          "note": "Use this for strong, public, or official condemnation rather than ordinary personal disapproval."
+        }
+      ],
       "register": "formal",
       "examples": [
         {

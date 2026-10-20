@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "lost, missing",
-      "english": ["missing", "lost"],
+      "english": [
+        {
+          "id": "efm0f0ve",
+          "word": "missing",
+          "meaning": "gone; misplaced",
+          "note": "This is the all-purpose choice when something has gone missing or been misplaced."
+        },
+        {
+          "id": "j9fq869g",
+          "word": "lost",
+          "meaning": "cannot be found",
+          "register": "colloquial",
+          "note": "Use this when a person or thing is missing, no longer visible, or has been lost."
+        }
+      ],
       "examples": [
         {
           "english": "My shoes are missing.",

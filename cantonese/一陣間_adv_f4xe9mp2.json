@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "in a little while",
-      "english": ["shortly", "momentarily"],
+      "english": [
+        {
+          "id": "6gjrvoa0",
+          "word": "shortly",
+          "meaning": "soon",
+          "note": "Use this when you mean in a little while, especially for something happening after a short wait rather than immediately."
+        },
+        {
+          "id": "b6fvs1cj",
+          "word": "momentarily",
+          "meaning": "very soon",
+          "note": "Use this when emphasizing that the event will happen in a little while rather than immediately."
+        }
+      ],
       "examples": [
         {
           "english": "I’ll be back shortly, so you don’t need to wait for me.",

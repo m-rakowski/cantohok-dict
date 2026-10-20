@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "exam candidate",
-      "english": ["examinee", "candidate"],
+      "english": [
+        {
+          "id": "u124u0lm",
+          "word": "examinee",
+          "meaning": "person taking an exam",
+          "note": "This is the all-purpose choice for someone sitting an examination."
+        },
+        {
+          "id": "a0wn3ybi",
+          "word": "candidate",
+          "meaning": "exam candidate",
+          "note": "Use this specifically for someone taking an examination."
+        }
+      ],
       "examples": [
         {
           "english": "The examinee arrived at the exam venue early this morning.",

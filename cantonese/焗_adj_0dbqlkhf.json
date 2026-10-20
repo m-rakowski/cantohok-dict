@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "stuffy, muggy",
-      "english": ["stuffy", "humid"],
+      "english": [
+        {
+          "id": "noirzy1x",
+          "word": "stuffy",
+          "meaning": "poorly ventilated",
+          "note": "Use 焗 as the all-purpose choice for air or a room that feels poorly ventilated."
+        },
+        {
+          "id": "ipym7kwt",
+          "word": "humid",
+          "meaning": "damp air / moist",
+          "register": "colloquial",
+          "note": "Use this for hot, close, muggy humidity that feels stuffy, especially when describing the weather or a room."
+        }
+      ],
       "examples": [
         {
           "english": "The room is really stuffy today; let’s open a window.",

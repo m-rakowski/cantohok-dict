@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "tragic, miserable",
-      "english": ["mournful", "miserable"],
+      "english": [
+        {
+          "id": "3w6wsf2h",
+          "word": "mournful",
+          "meaning": "tragic, sad",
+          "note": "Use this for a tragic situation or event that is likely to make people mourn."
+        },
+        {
+          "id": "gwqr84uc",
+          "word": "miserable",
+          "meaning": "in a state of misery",
+          "register": "written",
+          "note": "Use 悲慘 for a tragic or bleak state in formal or written contexts rather than everyday 慘."
+        }
+      ],
       "examples": [
         {
           "english": "So many people died in that accident; it was truly mournful。",

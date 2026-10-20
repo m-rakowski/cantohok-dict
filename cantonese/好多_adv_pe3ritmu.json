@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "much more, by a lot (after comparison)",
-      "english": ["considerably", "much", "far"],
+      "english": [
+        {
+          "id": "nnzw875r",
+          "word": "considerably",
+          "meaning": "significantly; a lot",
+          "note": "This is the all-purpose colloquial choice for saying that something has changed or increased considerably."
+        },
+        {
+          "id": "393vqd82",
+          "word": "much",
+          "meaning": "much + comparative",
+          "note": "Use this after a verb or adjective to emphasize a large difference in a comparative, as in 肥咗好多."
+        },
+        {
+          "id": "jswkznvz",
+          "word": "far",
+          "meaning": "by a lot",
+          "note": "Use this before or after a comparative to mean that the difference is very large, as in being far richer."
+        }
+      ],
       "examples": [
         {
           "english": "Rent has increased considerably this year.",
@@ -27,7 +46,14 @@
     },
     {
       "meaning": "in large amounts",
-      "english": ["abundantly"],
+      "english": [
+        {
+          "id": "qylw8mte",
+          "word": "abundantly",
+          "meaning": "in large measure",
+          "note": "Use this as the all-purpose spoken choice for a large amount or quantity."
+        }
+      ],
       "examples": [
         {
           "english": "The farm produced abundantly this year; there’ll still be plenty left after feeding the whole village for months.",

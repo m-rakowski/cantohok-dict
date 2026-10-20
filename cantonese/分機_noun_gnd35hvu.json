@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "phone extension number",
-      "english": ["extension"],
+      "english": [
+        {
+          "id": "qjx0g9id",
+          "word": "extension",
+          "meaning": "phone extension number",
+          "note": "Use this specifically for a telephone extension number or the phone connected to it."
+        }
+      ],
       "examples": [
         {
           "english": "When you call the office, dial my extension.",

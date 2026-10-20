@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "potential, hidden",
-      "english": ["latent", "potential"],
+      "english": [
+        {
+          "id": "ssqlvv1r",
+          "word": "latent",
+          "meaning": "hidden, inactive",
+          "note": "This is the all-purpose choice for something that exists but has not yet become visible or developed."
+        },
+        {
+          "id": "gl2zxofw",
+          "word": "potential",
+          "meaning": "possible, not actual",
+          "register": "formal",
+          "note": "Use this for an unrealized possibility or capacity, especially before a noun such as 潛在客戶 or 潛在危險."
+        }
+      ],
       "examples": [
         {
           "english": "This plan still has many latent problems that may not be immediately apparent.",

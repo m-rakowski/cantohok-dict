@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "guest, visitor",
-      "english": ["guest", "visitor"],
+      "english": [
+        {
+          "id": "yfi6xc8a",
+          "word": "guest",
+          "meaning": "hospitality guest",
+          "note": "This is the all-purpose choice for someone receiving hospitality at a private home or other place."
+        },
+        {
+          "id": "lcn6cxh3",
+          "word": "visitor",
+          "meaning": "guest / person visiting",
+          "note": "This is the all-purpose colloquial choice for someone visiting or staying with another person."
+        }
+      ],
       "examples": [
         {
           "english": "I invited a guest to my home for dinner tonight.",
@@ -22,7 +35,32 @@
     },
     {
       "meaning": "customer",
-      "english": ["client", "patron", "customer", "consumer"],
+      "english": [
+        {
+          "id": "gd9qzcj6",
+          "word": "client",
+          "meaning": "customer / buyer",
+          "note": "This is the all-purpose colloquial choice for a customer or someone using a service."
+        },
+        {
+          "id": "usttdo99",
+          "word": "patron",
+          "meaning": "customer",
+          "note": "This is the all-purpose spoken choice for a customer of a shop, restaurant, or similar business."
+        },
+        {
+          "id": "vj5d3zv7",
+          "word": "customer",
+          "meaning": "buyer / client",
+          "note": "Use this especially for a customer in a shop, restaurant, hotel, or other service setting, though it can also mean guest."
+        },
+        {
+          "id": "7ttsx74d",
+          "word": "consumer",
+          "meaning": "buyer, customer",
+          "note": "Use this colloquial term when the consumer is a customer dealing with a shop or service provider."
+        }
+      ],
       "examples": [
         {
           "english": "This client wants to buy this phone.",

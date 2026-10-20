@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "career, life's work or venture",
-      "english": ["career", "enterprise"],
+      "english": [
+        {
+          "id": "6ae1y8av",
+          "word": "career",
+          "meaning": "career, working life",
+          "note": "Choose this for a person's long-term career, especially its development and achievements in a field."
+        },
+        {
+          "id": "u0djqssx",
+          "word": "enterprise",
+          "meaning": "undertaking, venture",
+          "note": "Use this for a substantial venture or undertaking, especially one viewed as an ongoing enterprise rather than a single project."
+        }
+      ],
       "examples": [
         {
           "english": "His career in finance is going quite well.",

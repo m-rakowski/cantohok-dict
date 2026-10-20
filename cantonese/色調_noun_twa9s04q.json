@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "colour tone",
-      "english": ["shade", "blush"],
+      "english": [
+        {
+          "id": "54my4dw1",
+          "word": "shade",
+          "meaning": "color shade",
+          "note": "Use this for a particular tone or variation within a colour."
+        },
+        {
+          "id": "rjcuayb9",
+          "word": "blush",
+          "meaning": "pink flush or glow",
+          "note": "Use this for a subtle colour tone or cast in a painting, design, or other visual work, especially when the colour may be blue, pink, or grey."
+        }
+      ],
       "examples": [
         {
           "english": "This photo uses a cool shade and looks atmospheric.",

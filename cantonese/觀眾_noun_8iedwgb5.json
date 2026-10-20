@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "audience, spectators",
-      "english": ["audience", "spectator", "viewer", "public", "gallery"],
+      "english": [
+        {
+          "id": "c0vl97k2",
+          "word": "audience",
+          "meaning": "people watching/listening",
+          "note": "This is the all-purpose choice for people watching a performance, film, or event."
+        },
+        {
+          "id": "hnu8gk6r",
+          "word": "spectator",
+          "meaning": "person watching event",
+          "note": "This is the all-purpose noun for a person watching an event, such as a sports match, concert, or fireworks display."
+        },
+        {
+          "id": "9tf8e9l8",
+          "word": "viewer",
+          "meaning": "TV viewer",
+          "note": "This is the all-purpose choice for someone watching a spectacle or television."
+        },
+        {
+          "id": "repz7qza",
+          "word": "public",
+          "meaning": "a particular public",
+          "note": "Use this for a particular public understood as the audience for a film, show, or other event."
+        },
+        {
+          "id": "i6frc8qj",
+          "word": "gallery",
+          "meaning": "the crowd / public gallery",
+          "note": "Use this when “the gallery” means the spectators or public watching an event."
+        }
+      ],
       "examples": [
         {
           "english": "The audience laughed so hard that they couldn't stop.",

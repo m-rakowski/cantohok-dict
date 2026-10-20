@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "right, entitlement",
-      "english": ["right", "claim"],
+      "english": [
+        {
+          "id": "rerlgktj",
+          "word": "right",
+          "meaning": "a right; entitlement",
+          "note": "Use this for a legal, moral, or personal entitlement, especially in phrases about someone having or lacking a right."
+        },
+        {
+          "id": "pljaxgne",
+          "word": "claim",
+          "meaning": "right or basis for a claim",
+          "note": "Use this when a claim means an entitlement or right to demand something."
+        }
+      ],
       "examples": [
         {
           "english": "You have the right to refuse this request.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "time, occasion",
-      "english": ["occasion", "time"],
+      "english": [
+        {
+          "id": "wvj6zxie",
+          "word": "occasion",
+          "meaning": "instance; occurrence",
+          "note": "Use this for a particular time when something happened or a particular instance, as in 今次 or 嗰次."
+        },
+        {
+          "id": "mkcyb7if",
+          "word": "time",
+          "meaning": "occasion or instance",
+          "note": "Use this for one occurrence or instance, as in 一次 or 再一次, rather than for duration."
+        }
+      ],
       "examples": [
         {
           "english": "I was really scared on that occasion.",

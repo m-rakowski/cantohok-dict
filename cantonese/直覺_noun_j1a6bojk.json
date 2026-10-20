@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "intuition, gut feeling",
-      "english": ["intuition", "instinct", "insight", "feeling", "idea"],
+      "english": [
+        {
+          "id": "pt1ft1rc",
+          "word": "intuition",
+          "meaning": "gut feeling, immediate cognition",
+          "note": "This is the all-purpose choice for both an immediate gut feeling and an intuitive insight."
+        },
+        {
+          "id": "rxgeexcw",
+          "word": "instinct",
+          "meaning": "gut feeling",
+          "note": "Use this instead of 本能 for a hunch or intuitive reaction without conscious reasoning."
+        },
+        {
+          "id": "ncl837n8",
+          "word": "insight",
+          "meaning": "deep intuition",
+          "note": "Use this when the understanding is intuitive rather than reached through explicit analysis."
+        },
+        {
+          "id": "2qgfxg19",
+          "word": "feeling",
+          "meaning": "intuition, hunch",
+          "note": "Use 直覺 specifically for an intuition or hunch rather than a general sensation."
+        },
+        {
+          "id": "lnadg2md",
+          "word": "idea",
+          "meaning": "hunch; vague notion",
+          "note": "Use this when the idea is an intuitive hunch or impression rather than a reasoned thought."
+        }
+      ],
       "examples": [
         {
           "english": "My intuition tells me that there’s something wrong with this contract.",

@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "to win",
-      "english": ["win", "prevail", "defeat", "overcome"],
+      "english": [
+        {
+          "id": "krvkxtrp",
+          "word": "win",
+          "meaning": "win a game or battle",
+          "note": "This is the all-purpose choice for winning a game, battle, prize, or contest."
+        },
+        {
+          "id": "134kwanp",
+          "word": "prevail",
+          "meaning": "win; be victorious",
+          "note": "Use this as the all-purpose colloquial choice when “prevail” means to win or triumph."
+        },
+        {
+          "id": "q4fvldwl",
+          "word": "defeat",
+          "meaning": "beat in battle/contest",
+          "note": "Use this when framing the result from the winner's side, as in beating someone in a game or contest."
+        },
+        {
+          "id": "x8f6z431",
+          "word": "overcome",
+          "meaning": "defeat in battle or contest",
+          "note": "Use this for prevailing or winning against someone in a contest, conflict, or other competition."
+        }
+      ],
       "examples": [
         {
           "english": "We win the match at last.",

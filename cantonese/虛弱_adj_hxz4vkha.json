@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "weak, frail",
-      "english": ["weak", "faint", "delicate"],
+      "english": [
+        {
+          "id": "55z9p1s7",
+          "word": "weak",
+          "meaning": "physically unable, lacking strength",
+          "note": "Use 虛弱 when someone is physically frail or debilitated, especially through illness, rather than merely lacking strength in a particular task."
+        },
+        {
+          "id": "vnm9180y",
+          "word": "faint",
+          "meaning": "pass out",
+          "note": "Use this when faint means weak or languid in body, rather than the feeling of dizziness."
+        },
+        {
+          "id": "br9unw4y",
+          "word": "delicate",
+          "meaning": "frail health",
+          "note": "Use this specifically for a person whose health or physical strength is weak."
+        }
+      ],
       "examples": [
         {
           "english": "They were still weak after being ill and got tired after walking a few steps.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "cutting edge, most advanced",
-      "english": ["frontier"],
+      "english": [
+        {
+          "id": "2jw5qdpg",
+          "word": "frontier",
+          "meaning": "leading edge; cutting edge",
+          "note": "Use this for the leading edge or most advanced stage of technology, knowledge, or development."
+        }
+      ],
       "examples": [
         {
           "english": "This computer uses frontier technology.",
@@ -17,7 +24,27 @@
     },
     {
       "meaning": "pointed tip of an object",
-      "english": ["tip", "peak", "nose"],
+      "english": [
+        {
+          "id": "tm0exrja",
+          "word": "tip",
+          "meaning": "pointed end",
+          "note": "Use this for the extreme pointed end of an object, such as a pencil or nose."
+        },
+        {
+          "id": "kv2db9vv",
+          "word": "peak",
+          "meaning": "pointed top or end",
+          "note": "Use this for the sharp pointed end or tip of a physical object."
+        },
+        {
+          "id": "nufq0adk",
+          "word": "nose",
+          "meaning": "tip of an object",
+          "register": "formal",
+          "note": "Use 尖端 for the pointed tip or nose-like end of an object."
+        }
+      ],
       "examples": [
         {
           "english": "The tip of the pencil broke.",

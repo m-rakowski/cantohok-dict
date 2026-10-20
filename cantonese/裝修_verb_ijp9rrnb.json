@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "to renovate",
-      "english": ["refurbish", "decorate"],
+      "english": [
+        {
+          "id": "on1hgnw1",
+          "word": "refurbish",
+          "meaning": "renovate; restore",
+          "note": "Use this specifically for refurbishing a room, flat, house, shop, or other premises, especially through interior work."
+        },
+        {
+          "id": "edfpj8n2",
+          "word": "decorate",
+          "meaning": "make a room look nicer",
+          "note": "Use this for decorating or renovating an interior, especially when the work involves paint, fixtures, or other building work."
+        }
+      ],
       "examples": [
         {
           "english": "We plan to refurbish the shop so it will be brighter and tidier.",

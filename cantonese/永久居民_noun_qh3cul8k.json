@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "permanent resident",
-      "english": ["resident"],
+      "english": [
+        {
+          "id": "b1n5k6o9",
+          "word": "resident",
+          "meaning": "permanent resident",
+          "note": "Use this for someone with official legal permanent-resident status, rather than merely someone who has lived somewhere for a long time."
+        }
+      ],
       "examples": [
         {
           "english": "They got permanent resident status and can finally relax.",

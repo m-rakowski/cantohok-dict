@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "cited reference in a paper",
-      "english": ["reference", "citation"],
+      "english": [
+        {
+          "id": "yyvbraij",
+          "word": "reference",
+          "meaning": "citation",
+          "register": "written",
+          "note": "Use this for a cited published source in academic or written work."
+        },
+        {
+          "id": "a0e8wmc4",
+          "word": "citation",
+          "meaning": "bibliographic reference",
+          "register": "written",
+          "note": "Use this for an entry in an academic or bibliographic list of sources, rather than for the act of citing."
+        }
+      ],
       "register": "written",
       "examples": [
         {

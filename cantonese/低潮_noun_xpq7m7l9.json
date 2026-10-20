@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "slump, low period",
-      "english": ["drought", "funk"],
+      "english": [
+        {
+          "id": "nwb5gldq",
+          "word": "drought",
+          "meaning": "dry spell in success",
+          "note": "Use this for a team or person going through a prolonged slump without success."
+        },
+        {
+          "id": "hbo18no5",
+          "word": "funk",
+          "meaning": "depression, low mood",
+          "note": "Use this for a period when someone is emotionally low or stuck in a slump, rather than for clinical depression."
+        }
+      ],
       "examples": [
         {
           "english": "Our team has been losing a lot lately and is still in a drought.",

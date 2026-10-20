@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "building trade",
-      "english": ["construction"],
+      "english": [
+        {
+          "id": "geq2k3pj",
+          "word": "construction",
+          "meaning": "building trade",
+          "note": "Use this specifically for the construction industry or building trade rather than an individual project."
+        }
+      ],
       "examples": [
         {
           "english": "They've worked in the construction industry for ten years and now want to change careers.",

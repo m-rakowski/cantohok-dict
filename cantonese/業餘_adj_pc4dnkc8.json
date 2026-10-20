@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "amateur, in spare time",
-      "english": ["nonprofessional", "amateur"],
+      "english": [
+        {
+          "id": "unicpyr1",
+          "word": "nonprofessional",
+          "meaning": "amateur, not professional",
+          "note": "This is the all-purpose choice when someone does an activity as an amateur rather than as a job."
+        },
+        {
+          "id": "10exxmmd",
+          "word": "amateur",
+          "meaning": "non-professional",
+          "register": "written",
+          "note": "This is the all-purpose choice for someone who does something as a hobby rather than professionally."
+        }
+      ],
       "examples": [
         {
           "english": "I play guitar as a nonprofessional in my spare time.",

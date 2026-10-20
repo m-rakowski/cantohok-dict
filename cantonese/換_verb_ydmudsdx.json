@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "change, swap, replace",
-      "english": ["exchange", "replace", "swap", "switch", "change"],
+      "english": [
+        {
+          "id": "c1exqabg",
+          "word": "exchange",
+          "meaning": "replace with; swap for",
+          "note": "Use this as the everyday choice for replacing or swapping one thing for another."
+        },
+        {
+          "id": "x9b7d716",
+          "word": "replace",
+          "meaning": "substitute with new one",
+          "note": "Use this as the all-purpose choice when exchanging something for a new or equivalent one."
+        },
+        {
+          "id": "mqv0au6d",
+          "word": "swap",
+          "meaning": "exchange something for something",
+          "note": "This is the all-purpose everyday choice for giving or exchanging one thing for another."
+        },
+        {
+          "id": "ldnhr3y5",
+          "word": "switch",
+          "meaning": "exchange, swap",
+          "note": "This is the all-purpose choice for swapping one thing for another or changing places."
+        },
+        {
+          "id": "0tcsub0k",
+          "word": "change",
+          "meaning": "replace",
+          "note": "Use this for replacing one thing with another, including changing clothes when the context makes that clear."
+        }
+      ],
       "examples": [
         {
           "english": "I want to exchange it for a bigger coat.",

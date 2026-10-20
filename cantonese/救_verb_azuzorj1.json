@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "rescue, save",
-      "english": ["rescue", "salvage", "save"],
+      "english": [
+        {
+          "id": "j84lfsxe",
+          "word": "rescue",
+          "meaning": "save from danger",
+          "note": "This is the all-purpose choice for saving someone from danger or harm."
+        },
+        {
+          "id": "pga511hh",
+          "word": "salvage",
+          "meaning": "rescue",
+          "note": "This is the all-purpose choice for rescuing someone or saving something from being lost or destroyed."
+        },
+        {
+          "id": "1khw51ki",
+          "word": "save",
+          "meaning": "rescue from harm",
+          "note": "Use 救 as the all-purpose verb for rescuing someone or, in sports, stopping a shot."
+        }
+      ],
       "examples": [
         {
           "english": "The firefighters finally rescue the man who fell into the sea.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "chicken",
-      "english": ["chicken"],
+      "english": [
+        {
+          "id": "dkkanspr",
+          "word": "chicken",
+          "meaning": "bird",
+          "note": "This is the all-purpose Cantonese choice for the live bird or the species."
+        }
+      ],
       "examples": [
         {
           "english": "There is a chicken in our backyard.",
@@ -17,7 +24,15 @@
     },
     {
       "meaning": "whistle (slang)",
-      "english": ["whistle"],
+      "english": [
+        {
+          "id": "692ztem4",
+          "word": "whistle",
+          "meaning": "whistling device",
+          "register": "colloquial",
+          "note": "A speaker uses this colloquial shorthand especially for a referee's or sports whistle."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

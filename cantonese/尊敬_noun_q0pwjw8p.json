@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "respect",
-      "english": ["veneration", "respect"],
+      "english": [
+        {
+          "id": "vvx9g7du",
+          "word": "veneration",
+          "meaning": "deep respect; reverence",
+          "note": "This is the all-purpose noun for the act or state of showing deep respect, including respect for a person."
+        },
+        {
+          "id": "d9lfabjs",
+          "word": "respect",
+          "meaning": "admiration / high regard",
+          "note": "Use 尊敬 for strong admiration or esteem directed toward a person, rather than the broader consideration expressed by 尊重."
+        }
+      ],
       "examples": [
         {
           "english": "Our veneration for our mentor has never faded.",

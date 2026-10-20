@@ -6,7 +6,56 @@
   "boxes": [
     {
       "meaning": "problem, issue",
-      "english": ["problem", "matter", "issue", "concern", "trouble", "object", "difficulty", "complaint"],
+      "english": [
+        {
+          "id": "kgcjzqyn",
+          "word": "problem",
+          "meaning": "difficulty to solve",
+          "note": "This is the all-purpose choice for a difficulty that needs to be solved or dealt with."
+        },
+        {
+          "id": "of94sl41",
+          "word": "matter",
+          "meaning": "issue, problem, subject",
+          "note": "This is the all-purpose noun for a matter that is an issue, concern, or problem."
+        },
+        {
+          "id": "tkchzkl3",
+          "word": "issue",
+          "meaning": "problem; matter",
+          "note": "This is the all-purpose choice for a problem, technical difficulty, or vague personal concern."
+        },
+        {
+          "id": "flu7nf0h",
+          "word": "concern",
+          "meaning": "worry or problem",
+          "note": "Use this for a concern as a possible problem or issue, especially in phrases like questions or concerns."
+        },
+        {
+          "id": "hfwyzjn9",
+          "word": "trouble",
+          "meaning": "problem or difficulty",
+          "note": "This is the all-purpose noun for a concrete problem, including a health or mechanical problem."
+        },
+        {
+          "id": "jv1msdfe",
+          "word": "object",
+          "meaning": "matter of concern",
+          "note": "Use 問題 when the object is an issue or problem attracting attention or concern."
+        },
+        {
+          "id": "gwyi0ih4",
+          "word": "difficulty",
+          "meaning": "problem / obstacle",
+          "note": "Use this when the difficulty is viewed as a problem that needs solving, especially in everyday speech."
+        },
+        {
+          "id": "wsqz7pjk",
+          "word": "complaint",
+          "meaning": "grievance or concern",
+          "note": "Use this when the complaint means an underlying problem, difficulty, or concern rather than the act of complaining."
+        }
+      ],
       "examples": [
         {
           "english": "We need to deal with this problem as soon as possible.",
@@ -52,7 +101,26 @@
     },
     {
       "meaning": "question",
-      "english": ["question", "query", "interrogation"],
+      "english": [
+        {
+          "id": "wkxeq6fv",
+          "word": "question",
+          "meaning": "asking sentence / interrogative",
+          "note": "Use 問題 as the all-purpose word for an ordinary question, a topic or issue, or a matter whose validity is at issue."
+        },
+        {
+          "id": "zx4r3qkc",
+          "word": "query",
+          "meaning": "question; inquiry",
+          "note": "This is the all-purpose choice for a question or inquiry."
+        },
+        {
+          "id": "k9fq6erg",
+          "word": "interrogation",
+          "meaning": "question; inquiry",
+          "note": "Use this as the all-purpose word for a question that someone puts forward."
+        }
+      ],
       "examples": [
         {
           "english": "I have a question to ask you.",

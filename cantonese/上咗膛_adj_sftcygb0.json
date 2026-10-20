@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "weapon loaded",
-      "english": ["armed"],
+      "english": [
+        {
+          "id": "ghe4sag7",
+          "word": "armed",
+          "meaning": "weapon loaded",
+          "note": "Use this specifically for a firearm that has been loaded and is ready to fire."
+        }
+      ],
       "examples": [
         {
           "english": "The gun is armed and ready to fire, so don’t touch it.",

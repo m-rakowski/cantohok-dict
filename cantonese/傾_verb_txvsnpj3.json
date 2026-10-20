@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "to talk, chat",
-      "english": ["talk", "discuss", "chat"],
+      "english": [
+        {
+          "id": "oah15kpa",
+          "word": "talk",
+          "meaning": "speak; communicate by speech",
+          "note": "Use this for an interactive conversation or a discussion, especially when people sit down to chat or work something out together."
+        },
+        {
+          "id": "v8js55gx",
+          "word": "discuss",
+          "meaning": "talk over a topic",
+          "note": "This is the all-purpose casual choice for talking over a topic with someone."
+        },
+        {
+          "id": "2aijj8px",
+          "word": "chat",
+          "meaning": "have informal conversation",
+          "note": "Use this shorter form for informal conversation when the context already makes the meaning clear."
+        }
+      ],
       "examples": [
         {
           "english": "Let's sit down and talk first.",
@@ -27,7 +46,14 @@
     },
     {
       "meaning": "to negotiate",
-      "english": ["negotiate"],
+      "english": [
+        {
+          "id": "zpetkaf5",
+          "word": "negotiate",
+          "meaning": "discuss terms",
+          "note": "This is the all-purpose spoken choice for discussing terms or working toward an agreement."
+        }
+      ],
       "examples": [
         {
           "english": "We need to negotiate the price with the customer.",
@@ -38,7 +64,14 @@
     },
     {
       "meaning": "to lean, tilt",
-      "english": ["lean"],
+      "english": [
+        {
+          "id": "irixgjso",
+          "word": "lean",
+          "meaning": "slant; tilt",
+          "note": "Use 傾 for the all-purpose physical sense of tilting or leaning away from vertical."
+        }
+      ],
       "examples": [
         {
           "english": "The table has started to lean to the right.",

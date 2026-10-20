@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "can't manage, can't handle",
-      "english": ["flunk", "struggle"],
+      "english": [
+        {
+          "id": "td07a4qm",
+          "word": "flunk",
+          "meaning": "fail a challenge",
+          "register": "colloquial",
+          "note": "Use this when someone cannot handle or complete a non-academic challenge or task, rather than when they fail an exam."
+        },
+        {
+          "id": "4kde3pne",
+          "word": "struggle",
+          "meaning": "have difficulty",
+          "register": "colloquial",
+          "note": "Use this for struggling because you cannot manage or cope with something."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "sports extra period",
-      "english": ["overtime"],
+      "english": [
+        {
+          "id": "tblconis",
+          "word": "overtime",
+          "meaning": "sports extra period",
+          "note": "Use this for the extra period played after a tied sports match."
+        }
+      ],
       "examples": [
         {
           "english": "The final was tied, so they had to play overtime to decide the winner.",

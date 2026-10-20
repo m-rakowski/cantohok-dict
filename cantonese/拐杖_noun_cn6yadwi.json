@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "walking stick",
-      "english": ["cane", "staff", "stick"],
+      "english": [
+        {
+          "id": "1zfefzxf",
+          "word": "cane",
+          "meaning": "walking cane",
+          "note": "This is the all-purpose Cantonese word for an ordinary walking cane used for support."
+        },
+        {
+          "id": "c8ziiu45",
+          "word": "staff",
+          "meaning": "walking stick",
+          "note": "Use this for a stick or cane used to help someone walk."
+        },
+        {
+          "id": "ra9zgm6j",
+          "word": "stick",
+          "meaning": "walking stick",
+          "note": "Use 拐杖 specifically for a cane or walking stick used as a walking aid."
+        }
+      ],
       "examples": [
         {
           "english": "I need to rely on a cane when I walk.",

@@ -6,7 +6,39 @@
   "boxes": [
     {
       "meaning": "toilet, restroom",
-      "english": ["facilities", "commode", "toilet", "bathroom", "lavatory"],
+      "english": [
+        {
+          "id": "7a14x2dv",
+          "word": "facilities",
+          "meaning": "toilets / lavatory",
+          "note": "For toilets or lavatories, this is the everyday all-purpose choice and is more polite than a blunt term."
+        },
+        {
+          "id": "hvht3p79",
+          "word": "commode",
+          "meaning": "toilet, euphemistic",
+          "register": "polite",
+          "note": "Use this polite euphemism when referring to the toilet as a restroom."
+        },
+        {
+          "id": "uqjpnmsv",
+          "word": "toilet",
+          "meaning": "bathroom / lavatory",
+          "note": "Use this softer term when you mean the bathroom or washroom as a room rather than the fixture."
+        },
+        {
+          "id": "k4ov7kr8",
+          "word": "bathroom",
+          "meaning": "toilet / restroom",
+          "note": "Use this polite term mainly for a public or other restroom when you want to avoid saying 廁所."
+        },
+        {
+          "id": "s6x42hhc",
+          "word": "lavatory",
+          "meaning": "toilet room",
+          "note": "Use 洗手間 as a more polite or euphemistic term for the toilet room."
+        }
+      ],
       "examples": [
         {
           "english": "The facilities in this restaurant are quite clean.",

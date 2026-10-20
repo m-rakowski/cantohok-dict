@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "healing of the body",
-      "english": ["healing"],
+      "english": [
+        {
+          "id": "3zegslgm",
+          "word": "healing",
+          "meaning": "body repair, recovery",
+          "note": "Use this for the physical repair and regeneration of body cells or tissue."
+        }
+      ],
       "examples": [
         {
           "english": "After surgery, the healing of the wound takes some time.",
@@ -17,7 +24,14 @@
     },
     {
       "meaning": "restoring an object",
-      "english": ["restoration"],
+      "english": [
+        {
+          "id": "qn7jqoog",
+          "word": "restoration",
+          "meaning": "repair to original state",
+          "note": "This is the all-purpose choice for the process of restoring an object to its former condition."
+        }
+      ],
       "examples": [
         {
           "english": "The restoration of this old painting was done very carefully.",

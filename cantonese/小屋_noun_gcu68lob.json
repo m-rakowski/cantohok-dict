@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "small house, hut, cabin",
-      "english": ["hut", "cottage", "lodge"],
+      "english": [
+        {
+          "id": "p0tpd6mu",
+          "word": "hut",
+          "meaning": "small simple dwelling",
+          "note": "This is the all-purpose choice for a small, simple dwelling or shelter."
+        },
+        {
+          "id": "zjbqzr8y",
+          "word": "cottage",
+          "meaning": "small house",
+          "note": "Use 小屋 as the all-purpose noun for a physically small cottage."
+        },
+        {
+          "id": "8lt69pnq",
+          "word": "lodge",
+          "meaning": "holiday cabin / lodge",
+          "note": "Use this for a rustic recreational cabin or small lodge rather than accommodation for paying guests."
+        }
+      ],
       "examples": [
         {
           "english": "They turned this hut into a coffee shop.",

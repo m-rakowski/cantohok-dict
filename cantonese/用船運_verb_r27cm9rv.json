@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "send by ship",
-      "english": ["ship"],
+      "english": [
+        {
+          "id": "bayiptme",
+          "word": "ship",
+          "meaning": "send by ship",
+          "note": "Use this specifically when sending goods by water-borne transport rather than by land or air."
+        }
+      ],
       "examples": [
         {
           "english": "We need to ship this batch of goods to Canada by sea.",

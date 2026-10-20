@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "infectious disease",
-      "english": ["contagion", "infection"],
+      "english": [
+        {
+          "id": "g0t3vwyb",
+          "word": "contagion",
+          "meaning": "infectious disease",
+          "note": "This is the all-purpose noun for an infectious disease itself."
+        },
+        {
+          "id": "y17rgkm9",
+          "word": "infection",
+          "meaning": "infection disease",
+          "note": "Use this for a named infectious disease, especially one that can spread from person to person."
+        }
+      ],
       "examples": [
         {
           "english": "This contagion is severe; everyone in the village has been infected.",

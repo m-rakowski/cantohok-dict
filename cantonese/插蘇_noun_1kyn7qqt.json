@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "electrical socket",
-      "english": ["outlet"],
+      "english": [
+        {
+          "id": "xmpjmbrg",
+          "word": "outlet",
+          "meaning": "electrical socket",
+          "note": "Use this as the all-purpose everyday term for an electrical outlet."
+        }
+      ],
       "examples": [
         {
           "english": "There’s no outlet here, so I can’t charge my computer.",

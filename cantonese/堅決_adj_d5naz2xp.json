@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "firm, determined",
-      "english": ["determined", "intent", "firm"],
+      "english": [
+        {
+          "id": "58ps5oe3",
+          "word": "determined",
+          "meaning": "decided; resolute",
+          "note": "This is the all-purpose choice for someone firmly resolved to do something."
+        },
+        {
+          "id": "q0z4p42u",
+          "word": "intent",
+          "meaning": "determined",
+          "note": "Use this when “determined” means firm and unwavering about a decision or course of action."
+        },
+        {
+          "id": "u2aj5x4f",
+          "word": "firm",
+          "meaning": "strict, adamant",
+          "note": "Use 堅決 for an adamant refusal, decision, or insistence when the speaker will not accept dissent."
+        }
+      ],
       "examples": [
         {
           "english": "I am determined not to bow to difficulties.",

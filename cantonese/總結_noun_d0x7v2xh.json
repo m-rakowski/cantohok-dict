@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "summary",
-      "english": ["summary", "sum"],
+      "english": [
+        {
+          "id": "eptuilin",
+          "word": "summary",
+          "meaning": "abstract; condensed presentation",
+          "note": "This is the all-purpose spoken choice for a recap or condensed account of events or material."
+        },
+        {
+          "id": "8xdv8opt",
+          "word": "sum",
+          "meaning": "summary",
+          "note": "Use this for a summary presenting the main points or overall substance."
+        }
+      ],
       "examples": [
         {
           "english": "This summary is very clear; everyone understands it after one listen.",

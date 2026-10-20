@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "combination, pairing",
-      "english": ["combination", "collocation"],
+      "english": [
+        {
+          "id": "s51j4cgr",
+          "word": "combination",
+          "meaning": "joining together",
+          "register": "colloquial",
+          "note": "Use this for a pleasing or suitable combination of things such as colours, flavours, or clothes."
+        },
+        {
+          "id": "ups7gh3y",
+          "word": "collocation",
+          "meaning": "word pairing",
+          "note": "This is the all-purpose noun for a general combination or juxtaposition of things, including words or sounds."
+        }
+      ],
       "examples": [
         {
           "english": "The combination of this outfit looks great.",

@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "point out",
-      "english": ["remark", "indicate", "name", "observe"],
+      "english": [
+        {
+          "id": "2t3e106t",
+          "word": "remark",
+          "meaning": "state; say",
+          "note": "Use this when the remark explicitly points out or draws attention to an observed fact, especially in more formal speech or writing."
+        },
+        {
+          "id": "xsj5sags",
+          "word": "indicate",
+          "meaning": "show; point out",
+          "note": "This is the all-purpose choice when explicitly pointing something out or directing someone's attention to it."
+        },
+        {
+          "id": "0c3xte3p",
+          "word": "name",
+          "meaning": "identify as important",
+          "note": "Use this when identifying a problem or issue as relevant or important."
+        },
+        {
+          "id": "t1qeqaun",
+          "word": "observe",
+          "meaning": "say/comment",
+          "note": "Use this when the comment takes the form of pointing out a fact, problem, or consequence."
+        }
+      ],
       "examples": [
         {
           "english": "The report goes on to remark that this plan is risky.",

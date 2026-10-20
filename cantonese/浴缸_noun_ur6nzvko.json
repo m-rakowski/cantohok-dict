@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "bathtub",
-      "english": ["bath", "tub"],
+      "english": [
+        {
+          "id": "1l2v3w4c",
+          "word": "bath",
+          "meaning": "bathtub",
+          "note": "This is the all-purpose noun for the bathtub itself."
+        },
+        {
+          "id": "7o2ya7s2",
+          "word": "tub",
+          "meaning": "bathtub",
+          "note": "Use 浴缸 specifically for the fixed bathroom fixture used for bathing."
+        }
+      ],
       "examples": [
         {
           "english": "This bathtub is too small for a comfortable bath.",

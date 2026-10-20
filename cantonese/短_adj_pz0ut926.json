@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "short",
-      "english": ["short", "small"],
+      "english": [
+        {
+          "id": "vb0hic2f",
+          "word": "short",
+          "meaning": "small in length",
+          "note": "Use 短 as the all-purpose adjective for small length or duration, and also for a terse answer when the context makes that clear."
+        },
+        {
+          "id": "j3wk9mk2",
+          "word": "small",
+          "meaning": "short in time",
+          "note": "Use this when “small” refers to a short duration or a limited amount of time."
+        }
+      ],
       "examples": [
         {
           "english": "This skirt is too short.",

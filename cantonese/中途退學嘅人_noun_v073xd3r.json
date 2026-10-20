@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "student who leaves school",
-      "english": ["dropout"],
+      "english": [
+        {
+          "id": "g9e9gmri",
+          "word": "dropout",
+          "meaning": "student who leaves school",
+          "note": "This is the all-purpose spoken rendering for someone who leaves school without finishing."
+        }
+      ],
       "examples": [
         {
           "english": "My former colleague was a dropout and is now very successful in business.",

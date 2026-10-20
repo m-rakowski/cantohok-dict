@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "there, that place",
-      "english": ["there", "where"],
+      "english": [
+        {
+          "id": "t536dibd",
+          "word": "there",
+          "meaning": "at that place",
+          "note": "Use 嗰度 as the all-purpose choice for a place away from the speaker, including after 去 for movement to that place."
+        },
+        {
+          "id": "vs0qs64p",
+          "word": "where",
+          "meaning": "at that place",
+          "note": "Use this for referring back to the place already indicated, meaning “there” or “at that place.”"
+        }
+      ],
       "examples": [
         {
           "english": "We’re going there for a walk tomorrow.",

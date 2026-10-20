@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "whirlpool",
-      "english": ["maelstrom", "vortex"],
+      "english": [
+        {
+          "id": "6qcgac21",
+          "word": "maelstrom",
+          "meaning": "violent whirlpool",
+          "note": "Use this for the literal large, violent whirlpool; it is the natural physical equivalent."
+        },
+        {
+          "id": "8t4ooxf6",
+          "word": "vortex",
+          "meaning": "whirlwind or whirlpool",
+          "note": "This is the all-purpose choice for a whirlpool or vortex, and also for a chaotic or drawing-in figurative force."
+        }
+      ],
       "examples": [
         {
           "english": "A huge maelstrom suddenly appeared on the sea, and the boats immediately turned around.",

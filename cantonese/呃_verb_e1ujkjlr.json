@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "to deceive, cheat",
-      "english": ["trick", "cheat", "deceive"],
+      "english": [
+        {
+          "id": "h6t7izqn",
+          "word": "trick",
+          "meaning": "deceive",
+          "note": "This is the all-purpose colloquial verb for fooling or deceiving someone."
+        },
+        {
+          "id": "pjbrxcqz",
+          "word": "cheat",
+          "meaning": "deceive, trick",
+          "note": "This is the all-purpose choice for deceiving or tricking someone, including cheating them out of money."
+        },
+        {
+          "id": "8pqcxdxo",
+          "word": "deceive",
+          "meaning": "trick, mislead",
+          "note": "This is the all-purpose colloquial verb for tricking or misleading someone."
+        }
+      ],
       "examples": [
         {
           "english": "Don't trick me.",

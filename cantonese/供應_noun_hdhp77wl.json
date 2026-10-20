@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "supply",
-      "english": ["provision", "feed"],
+      "english": [
+        {
+          "id": "36cp8cr9",
+          "word": "provision",
+          "meaning": "preparation, provision",
+          "note": "Use this for the supplying or making available aspect of provision, especially in phrases about a service or resource."
+        },
+        {
+          "id": "zi1ykj32",
+          "word": "feed",
+          "meaning": "continuous supply",
+          "note": "Use this for a general ongoing supply, rather than a broadcast or data signal."
+        }
+      ],
       "examples": [
         {
           "english": "This scheme will continue the provision of free lunch boxes until the end of the year.",

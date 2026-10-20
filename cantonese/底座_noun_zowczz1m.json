@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "base, stand",
-      "english": ["pedestal", "mount"],
+      "english": [
+        {
+          "id": "7d8byr4a",
+          "word": "pedestal",
+          "meaning": "statue base",
+          "note": "This is the all-purpose choice for the physical base of a statue, column, vase, or lamp."
+        },
+        {
+          "id": "pcejp7ts",
+          "word": "mount",
+          "meaning": "support, base",
+          "note": "Use this for a base or mount that another object is installed on."
+        }
+      ],
       "examples": [
         {
           "english": "The pedestal of this table lamp has cracked, so it will not stand steadily.",

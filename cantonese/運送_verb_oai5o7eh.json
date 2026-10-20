@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "transport, carry goods",
-      "english": ["transport", "convey"],
+      "english": [
+        {
+          "id": "mf5mjpdo",
+          "word": "transport",
+          "meaning": "carry from place to place",
+          "note": "Use this as the all-purpose verb for carrying people or goods from one place to another."
+        },
+        {
+          "id": "zwj9dul6",
+          "word": "convey",
+          "meaning": "carry/transport",
+          "note": "Use 運送 for physically transporting an object, substance, or load from one place to another."
+        }
+      ],
       "examples": [
         {
           "english": "We will transport the goods to the pier tomorrow.",

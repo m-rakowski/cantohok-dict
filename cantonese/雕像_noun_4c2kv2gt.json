@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "statue, sculpture",
-      "english": ["statue", "sculpture"],
+      "english": [
+        {
+          "id": "zwvemz5v",
+          "word": "statue",
+          "meaning": "three-dimensional sculpture",
+          "note": "This is the all-purpose choice for a three-dimensional statue or sculptural work."
+        },
+        {
+          "id": "9u49hrhv",
+          "word": "sculpture",
+          "meaning": "a sculpted artwork",
+          "note": "Use 雕像 for an individual sculpted artwork, especially one representing a person, animal, or figure."
+        }
+      ],
       "examples": [
         {
           "english": "This statue is carved to look just like a real person.",

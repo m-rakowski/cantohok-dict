@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "alarm clock",
-      "english": ["alarm clock", "alarm"],
+      "english": [
+        {
+          "id": "5uycyor3",
+          "word": "alarm clock",
+          "meaning": "type of clock",
+          "note": "This is the all-purpose Cantonese word for an alarm clock."
+        },
+        {
+          "id": "80aao5uv",
+          "word": "alarm",
+          "meaning": "alarm clock",
+          "note": "Use this specifically for an alarm clock that wakes someone up."
+        }
+      ],
       "examples": [
         {
           "english": "I have an early shift tomorrow, so I’ll remember to set the alarm clock tonight.",

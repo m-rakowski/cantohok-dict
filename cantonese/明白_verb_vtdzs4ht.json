@@ -6,7 +6,50 @@
   "boxes": [
     {
       "meaning": "understand",
-      "english": ["understand", "sense", "apprehend", "get", "hear", "appreciate", "follow"],
+      "english": [
+        {
+          "id": "7bngccl8",
+          "word": "understand",
+          "meaning": "comprehend meaning",
+          "note": "This is the all-purpose choice for comprehending words, facts, or what someone means, including understanding someone's feelings or intentions."
+        },
+        {
+          "id": "7yhv5830",
+          "word": "sense",
+          "meaning": "understand; perceive",
+          "note": "Use this as the all-purpose verb for comprehending or understanding something."
+        },
+        {
+          "id": "oi3ums04",
+          "word": "apprehend",
+          "meaning": "understand, grasp",
+          "note": "This is the all-purpose choice for understanding or grasping an idea."
+        },
+        {
+          "id": "i6xom8ma",
+          "word": "get",
+          "meaning": "understand",
+          "note": "Use this when get means understand an idea, explanation, or joke."
+        },
+        {
+          "id": "yp7vh255",
+          "word": "hear",
+          "meaning": "understand/relate to",
+          "note": "Use this for understanding and sympathizing with someone's feelings or point of view, as in 我明白你."
+        },
+        {
+          "id": "ottttal2",
+          "word": "appreciate",
+          "meaning": "understand importance",
+          "note": "Use this when appreciate means understanding or being fully aware of a situation or its importance."
+        },
+        {
+          "id": "uaz7ox7t",
+          "word": "follow",
+          "meaning": "understand what someone means",
+          "note": "Use this when “follow me” means understand what I am saying."
+        }
+      ],
       "examples": [
         {
           "english": "I understand what you mean.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "father, dad",
-      "english": ["father", "pop"],
+      "english": [
+        {
+          "id": "vpp7phig",
+          "word": "father",
+          "meaning": "male parent",
+          "note": "This is the all-purpose everyday word for a male parent."
+        },
+        {
+          "id": "0cmhbb69",
+          "word": "pop",
+          "meaning": "dad; grandpa",
+          "note": "Use this for the father reading of “pop”; Cantonese normally uses a separate word for grandfather."
+        }
+      ],
       "examples": [
         {
           "english": "My father used to sell vegetables at the market.",

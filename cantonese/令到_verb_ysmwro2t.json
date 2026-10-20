@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "cause, bring about",
-      "english": ["result", "induce", "cause"],
+      "english": [
+        {
+          "id": "48v07fie",
+          "word": "result",
+          "meaning": "cause; bring about",
+          "note": "This is the all-purpose colloquial choice for saying that something brings about a consequence."
+        },
+        {
+          "id": "bbjan4n2",
+          "word": "induce",
+          "meaning": "cause; bring about",
+          "note": "Use this as the all-purpose spoken verb for causing or bringing about a result."
+        },
+        {
+          "id": "707yia33",
+          "word": "cause",
+          "meaning": "cause; make happen",
+          "note": "Use this as the all-purpose way to say that someone or something makes a result happen."
+        }
+      ],
       "examples": [
         {
           "english": "Heavy rain can result in many flight delays.",

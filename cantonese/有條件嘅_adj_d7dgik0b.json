@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "conditional",
-      "english": ["conditional", "hypothetical"],
+      "english": [
+        {
+          "id": "ashjwj8y",
+          "word": "conditional",
+          "meaning": "dependent on a condition",
+          "note": "This is the all-purpose choice for something that applies only if a condition is met."
+        },
+        {
+          "id": "g03j0o96",
+          "word": "hypothetical",
+          "meaning": "conditional, depending on a condition",
+          "note": "Use this when the result depends on a stated condition, rather than merely being conjectural."
+        }
+      ],
       "examples": [
         {
           "english": "This offer is conditional—you can only use it after spending the specified amount.",

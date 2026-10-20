@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "eat",
-      "english": ["eat", "consume", "feed", "have"],
+      "english": [
+        {
+          "id": "dvegg2ys",
+          "word": "eat",
+          "meaning": "ingest food",
+          "note": "This is the all-purpose choice for eating food, and it also works with resources, tape, or money when context makes the metaphor clear."
+        },
+        {
+          "id": "ygb4dsn5",
+          "word": "consume",
+          "meaning": "eat",
+          "note": "Use this for the ordinary act of eating, the most common everyday sense."
+        },
+        {
+          "id": "gtgq9jxo",
+          "word": "feed",
+          "meaning": "eat, graze",
+          "note": "Use this when the subject, usually an animal, is eating or grazing rather than being given food."
+        },
+        {
+          "id": "0bqfo46h",
+          "word": "have",
+          "meaning": "eat, drink",
+          "note": "Use this when “have” refers to food or a meal, such as having breakfast; drinks normally use 飲 instead."
+        }
+      ],
       "examples": [
         {
           "english": "I’ll eat an apple first.",
@@ -32,7 +57,14 @@
     },
     {
       "meaning": "capture a piece in a board game",
-      "english": ["capture"],
+      "english": [
+        {
+          "id": "wt3hje75",
+          "word": "capture",
+          "meaning": "take a game piece",
+          "note": "Use 食 specifically when taking an opponent’s piece in chess, go, checkers, or another board game."
+        }
+      ],
       "examples": [
         {
           "english": "This move can capture his rook.",

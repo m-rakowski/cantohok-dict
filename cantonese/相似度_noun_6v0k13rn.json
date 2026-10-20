@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "degree of similarity",
-      "english": ["likeness", "similarity"],
+      "english": [
+        {
+          "id": "p23sgq1q",
+          "word": "likeness",
+          "meaning": "similarity / resemblance",
+          "note": "This is the all-purpose noun for similarity or resemblance."
+        },
+        {
+          "id": "zadjrwv1",
+          "word": "similarity",
+          "meaning": "appearance likeness",
+          "note": "Use this for a measured or general degree of visual resemblance, especially in comparisons or technical contexts."
+        }
+      ],
       "examples": [
         {
           "english": "The likeness between these two photos is very high; they really look alike.",

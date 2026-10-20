@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "public festival",
-      "english": ["fete"],
+      "english": [
+        {
+          "id": "tfqzzl4g",
+          "word": "fete",
+          "meaning": "public festival",
+          "note": "Use this when the festival is explicitly a charity event."
+        }
+      ],
       "examples": [
         {
           "english": "The school's charity fete donated all its proceeds to charity this year.",

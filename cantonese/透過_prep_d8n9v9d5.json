@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "through, by means of",
-      "english": ["via", "through"],
+      "english": [
+        {
+          "id": "bxkr3c9w",
+          "word": "via",
+          "meaning": "by means of, using",
+          "register": "formal",
+          "note": "Use this for via a channel or intermediary when a more formal or written tone is appropriate."
+        },
+        {
+          "id": "lsm9bfl0",
+          "word": "through",
+          "meaning": "via an intermediary",
+          "note": "Use this for achieving something via an intermediary, channel, or method rather than by physical movement."
+        }
+      ],
       "examples": [
         {
           "english": "You can submit the application via email.",

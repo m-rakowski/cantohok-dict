@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "hang over, weigh on (threat or feeling)",
-      "english": ["loom", "engulf"],
+      "english": [
+        {
+          "id": "2s82cz4v",
+          "word": "loom",
+          "meaning": "stand out menacingly / be imminent",
+          "note": "Use this when a threatening presence, feeling, or problem hangs over a person or place."
+        },
+        {
+          "id": "lyn06vq7",
+          "word": "engulf",
+          "meaning": "overwhelm emotionally",
+          "register": "written",
+          "note": "Use 籠罩 when a depressive mood or other powerful feeling hangs over and overwhelms someone."
+        }
+      ],
       "examples": [
         {
           "english": "The shadow of unemployment continues to loom over their family.",
@@ -22,7 +36,21 @@
     },
     {
       "meaning": "cover, envelop (light, mist, darkness)",
-      "english": ["suffuse", "bathe"],
+      "english": [
+        {
+          "id": "1a0qb30w",
+          "word": "suffuse",
+          "meaning": "spread through/over",
+          "note": "Use this when light, colour, darkness, or a similar effect spreads over and envelops an area."
+        },
+        {
+          "id": "vhyw54e3",
+          "word": "bathe",
+          "meaning": "cover with light/liquid",
+          "register": "written",
+          "note": "Use this when light, mist, or a similar thing envelops or covers an area."
+        }
+      ],
       "examples": [
         {
           "english": "Night began to suffuse the entire beach.",

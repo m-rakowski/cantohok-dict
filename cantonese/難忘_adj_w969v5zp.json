@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "unforgettable",
-      "english": ["unforgettable", "memorable", "haunting"],
+      "english": [
+        {
+          "id": "2zf7q5ej",
+          "word": "unforgettable",
+          "meaning": "not easily forgotten",
+          "note": "This is the all-purpose choice for something that is very difficult or impossible to forget, whether positively or negatively."
+        },
+        {
+          "id": "ucqsl5sc",
+          "word": "memorable",
+          "meaning": "worth remembering",
+          "note": "This is the all-purpose choice for an event, experience, place, or occasion that stays in your memory."
+        },
+        {
+          "id": "2ean07m0",
+          "word": "haunting",
+          "meaning": "unforgettable, lingering",
+          "note": "This is the all-purpose choice for something memorable or not easily forgotten, including a haunting gaze."
+        }
+      ],
       "examples": [
         {
           "english": "That trip was truly unforgettable.",

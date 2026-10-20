@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "lawless, defying all rules",
-      "english": ["anarchic", "disorderly"],
+      "english": [
+        {
+          "id": "win1axwd",
+          "word": "anarchic",
+          "meaning": "chaotic, lawless",
+          "note": "Use this when the emphasis is on lawlessness and disregard for rules or authority."
+        },
+        {
+          "id": "thffz3pp",
+          "word": "disorderly",
+          "meaning": "unruly; lawless",
+          "note": "Use this stronger expression when disorderly means lawless or defiant, not for ordinary untidiness."
+        }
+      ],
       "examples": [
         {
           "english": "Those people park wherever they like on the street; they are downright anarchic.",

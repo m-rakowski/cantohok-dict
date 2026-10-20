@@ -6,7 +6,40 @@
   "boxes": [
     {
       "meaning": "hole",
-      "english": ["hole", "opening", "tear", "cave", "tunnel"],
+      "english": [
+        {
+          "id": "rd4ce75y",
+          "word": "hole",
+          "meaning": "opening through something",
+          "note": "This is the all-purpose spoken word for a physical cavity, pit, dent, or opening through something."
+        },
+        {
+          "id": "jze7nj0j",
+          "word": "opening",
+          "meaning": "gap or hole for passage",
+          "note": "Use 窿 as the all-purpose colloquial noun for a physical hole or gap that something can pass through."
+        },
+        {
+          "id": "ybe6hw4f",
+          "word": "tear",
+          "meaning": "a rip or hole",
+          "register": "colloquial",
+          "note": "Use this for a visible hole or tear in clothing or another material."
+        },
+        {
+          "id": "b0ea7jnk",
+          "word": "cave",
+          "meaning": "hole or gap in rock",
+          "note": "Use this for a hole or opening in earth or rock, especially when it is not a large walk-in cavern."
+        },
+        {
+          "id": "h7lt9ghz",
+          "word": "tunnel",
+          "meaning": "animal burrow",
+          "register": "colloquial",
+          "note": "Use 窿 for a small hole or burrow made by an animal, not normally for a constructed tunnel."
+        }
+      ],
       "examples": [
         {
           "english": "There’s a hole in the sneaker.",

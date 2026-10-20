@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "long-distance bus",
-      "english": ["coach"],
+      "english": [
+        {
+          "id": "pg41gxnc",
+          "word": "coach",
+          "meaning": "long-distance bus",
+          "note": "Use this for an intercity or privately hired coach rather than an ordinary city bus."
+        }
+      ],
       "examples": [
         {
           "english": "We took a coach to Guangzhou, so we didn't have to drive.",

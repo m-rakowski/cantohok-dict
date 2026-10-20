@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "pick fruit or flowers",
-      "english": ["harvest", "pick", "pull"],
+      "english": [
+        {
+          "id": "lv957kql",
+          "word": "harvest",
+          "meaning": "to gather crops",
+          "note": "Use this for harvesting fruit or other produce by picking it from the plant, rather than cutting a whole crop."
+        },
+        {
+          "id": "2g66ca21",
+          "word": "pick",
+          "meaning": "harvest; pick fruit/vegetables",
+          "note": "Use this for removing fruit, vegetables, flowers, or similar things from where they are attached."
+        },
+        {
+          "id": "4x6z6yom",
+          "word": "pull",
+          "meaning": "pick/pluck",
+          "note": "Use this specifically for picking or plucking fruit, flowers, or similar things."
+        }
+      ],
       "examples": [
         {
           "english": "We’re going to harvest strawberries.",

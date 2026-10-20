@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "explain or account for to someone",
-      "english": ["account", "explain"],
+      "english": [
+        {
+          "id": "fg6hsatw",
+          "word": "account",
+          "meaning": "account for / explain",
+          "note": "Use 交代 when someone must answer for their actions or give an account to another person."
+        },
+        {
+          "id": "l9mzqd7o",
+          "word": "explain",
+          "meaning": "explain a reason",
+          "note": "Use this when someone must account for or justify a reason, action, or situation."
+        }
+      ],
       "examples": [
         {
           "english": "You need to account for your lateness to your boss.",

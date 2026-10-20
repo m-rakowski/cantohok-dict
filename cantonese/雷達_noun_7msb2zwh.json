@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "radio detection method",
-      "english": ["radar"],
+      "english": [
+        {
+          "id": "q9mgdwnv",
+          "word": "radar",
+          "meaning": "radio detection method",
+          "note": "This is the all-purpose choice for the radio-detection method and the equipment or installation that uses it."
+        }
+      ],
       "examples": [
         {
           "english": "The airport installed new radar that can detect planes in the distance.",

@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "distance",
-      "english": ["distance", "space", "interval"],
+      "english": [
+        {
+          "id": "jkn5inv0",
+          "word": "distance",
+          "meaning": "space between points",
+          "note": "This is the all-purpose noun for the space between two points, especially geographical distance."
+        },
+        {
+          "id": "tzwmljmj",
+          "word": "space",
+          "meaning": "distance between things",
+          "note": "Use this specifically for the measurable distance between two objects."
+        },
+        {
+          "id": "l4sgxjbj",
+          "word": "interval",
+          "meaning": "space between",
+          "note": "Use this for the physical distance separating two people or things, rather than the empty space itself."
+        }
+      ],
       "examples": [
         {
           "english": "The distance between these two places isn't very far.",

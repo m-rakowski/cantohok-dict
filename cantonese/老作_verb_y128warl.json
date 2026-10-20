@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "make up lies or excuses",
-      "english": ["fabricate", "manufacture"],
+      "english": [
+        {
+          "id": "eiutuelw",
+          "word": "fabricate",
+          "meaning": "make up falsely",
+          "register": "colloquial",
+          "note": "Use this for making up something falsely, such as a lie, an excuse, or a story."
+        },
+        {
+          "id": "ha2ahgan",
+          "word": "manufacture",
+          "meaning": "fabricate; make up lies",
+          "register": "colloquial",
+          "note": "Use this colloquial verb for making up excuses, stories, or other lies rather than producing real things."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

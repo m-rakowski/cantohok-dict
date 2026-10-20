@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "moon wanes",
-      "english": ["wane"],
+      "english": [
+        {
+          "id": "hr2a2c55",
+          "word": "wane",
+          "meaning": "moon wanes",
+          "note": "Use this specifically for the Moon changing from full toward a crescent during its waning cycle."
+        }
+      ],
       "examples": [
         {
           "english": "The moon is starting to wane.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "farm",
-      "english": ["homestead", "farm"],
+      "english": [
+        {
+          "id": "gab2y115",
+          "word": "homestead",
+          "meaning": "farmhouse and land",
+          "note": "Use this for a farm property including its house, surrounding land, and buildings."
+        },
+        {
+          "id": "a6a9rn0w",
+          "word": "farm",
+          "meaning": "agricultural place",
+          "note": "A speaker picks this for a farm presented as an estate or farmstead, often including buildings or visitor facilities."
+        }
+      ],
       "examples": [
         {
           "english": "Our homestead has a house, a chicken shed, and a large field.",

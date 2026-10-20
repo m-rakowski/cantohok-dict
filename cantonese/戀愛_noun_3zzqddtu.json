@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "romantic love, dating",
-      "english": ["romance", "dating"],
+      "english": [
+        {
+          "id": "2zl16i9n",
+          "word": "romance",
+          "meaning": "love affair",
+          "note": "This is the all-purpose choice for an intimate romantic relationship or love affair."
+        },
+        {
+          "id": "lis8iwmh",
+          "word": "dating",
+          "meaning": "romantic seeing someone",
+          "note": "This is the all-purpose noun for romantic dating or courtship as an activity."
+        }
+      ],
       "examples": [
         {
           "english": "I have a romance with him.",

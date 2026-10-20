@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "gently, tenderly",
-      "english": ["tenderly", "fondly", "gently"],
+      "english": [
+        {
+          "id": "qmvxkjkp",
+          "word": "tenderly",
+          "meaning": "gently; softly",
+          "note": "Use this when the manner is affectionate, loving, or emotionally tender rather than merely light."
+        },
+        {
+          "id": "6udk6o0u",
+          "word": "fondly",
+          "meaning": "affectionately, tenderly",
+          "note": "Use this when “fondly” means tenderly or gently, especially for touching, handling, speaking, or looking gently."
+        },
+        {
+          "id": "c2r0a0py",
+          "word": "gently",
+          "meaning": "in a gentle way",
+          "note": "Use this especially for treating or speaking to someone in a tender, gentle manner rather than merely using little force."
+        }
+      ],
       "examples": [
         {
           "english": "I tenderly hugged my mother and told her not to be afraid.",

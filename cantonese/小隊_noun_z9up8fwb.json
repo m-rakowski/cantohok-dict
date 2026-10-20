@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "small squad or unit",
-      "english": ["squad", "party"],
+      "english": [
+        {
+          "id": "dh1s2vum",
+          "word": "squad",
+          "meaning": "police or military unit",
+          "note": "Use 小隊 specifically for a small police or military unit."
+        },
+        {
+          "id": "zuot0fmh",
+          "word": "party",
+          "meaning": "military detachment",
+          "note": "Use this for a military detachment selected for a particular duty."
+        }
+      ],
       "examples": [
         {
           "english": "That squad has already sealed off the scene.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "rotate stock; use older first",
-      "english": ["rotate"],
+      "english": [
+        {
+          "id": "0lfkyslb",
+          "word": "rotate",
+          "meaning": "rotate stock; use older first",
+          "note": "Use this in stock management when older goods are used before newer goods."
+        }
+      ],
       "examples": [
         {
           "english": "We rotate stock by selling the older goods first.",

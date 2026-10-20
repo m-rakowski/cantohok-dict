@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "to an unknown place",
-      "english": ["somewhere"],
+      "english": [
+        {
+          "id": "obssmedu",
+          "word": "somewhere",
+          "meaning": "to an unknown place",
+          "note": "Use this for an unspecified destination described by A, as in going somewhere warm."
+        }
+      ],
       "examples": [
         {
           "english": "I want to go somewhere warm for a vacation.",

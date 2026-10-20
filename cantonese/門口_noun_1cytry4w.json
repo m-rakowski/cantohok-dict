@@ -6,7 +6,44 @@
   "boxes": [
     {
       "meaning": "doorway, entrance",
-      "english": ["entry", "doorway", "porch", "gateway", "entrance", "gate"],
+      "english": [
+        {
+          "id": "chu01voz",
+          "word": "entry",
+          "meaning": "entrance/doorway",
+          "note": "Use 門口 as the everyday word for the doorway or entrance of a building."
+        },
+        {
+          "id": "qh6dmmz9",
+          "word": "doorway",
+          "meaning": "door entrance",
+          "note": "This is the all-purpose Cantonese noun for a doorway or entrance."
+        },
+        {
+          "id": "p0oyci61",
+          "word": "porch",
+          "meaning": "house porch / veranda",
+          "note": "This is the all-purpose casual choice for the area just outside a house entrance, including an ordinary porch."
+        },
+        {
+          "id": "6dnootzu",
+          "word": "gateway",
+          "meaning": "gate passage",
+          "note": "Use this for a physical doorway or gateway, especially when referring to the area at or around it."
+        },
+        {
+          "id": "euqzbs60",
+          "word": "entrance",
+          "meaning": "entryway; doorway",
+          "note": "Use 門口 for the physical doorway or area immediately outside a home, shop, or building rather than a formal entrance point."
+        },
+        {
+          "id": "gw7myt35",
+          "word": "gate",
+          "meaning": "opening in wall or fence",
+          "note": "Use this for a doorway or entrance opening in a wall or fence rather than for the barrier itself."
+        }
+      ],
       "examples": [
         {
           "english": "The building's entry is on the right.",

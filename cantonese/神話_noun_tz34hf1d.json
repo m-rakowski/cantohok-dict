@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "myth",
-      "english": ["myth", "mythology"],
+      "english": [
+        {
+          "id": "5fhi7x4z",
+          "word": "myth",
+          "meaning": "traditional sacred story",
+          "note": "This is the all-purpose choice for a traditional sacred story about gods, heroes, origins, or nature."
+        },
+        {
+          "id": "czw78lqp",
+          "word": "mythology",
+          "meaning": "myths about a thing",
+          "note": "Use this for the myths or mythic beliefs surrounding a particular person, event, or institution."
+        }
+      ],
       "examples": [
         {
           "english": "This myth tells how Nuwa created humanity.",

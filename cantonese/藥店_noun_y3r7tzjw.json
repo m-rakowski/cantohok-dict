@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "drugstore",
-      "english": ["pharmacy"],
+      "english": [
+        {
+          "id": "uz2smg69",
+          "word": "pharmacy",
+          "meaning": "drugstore",
+          "note": "Use this straightforward alternative when referring to a shop selling medicines."
+        }
+      ],
       "examples": [
         {
           "english": "The pharmacy downstairs from my home has lots of vitamins.",

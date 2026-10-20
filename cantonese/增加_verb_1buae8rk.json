@@ -6,7 +6,56 @@
   "boxes": [
     {
       "meaning": "increase",
-      "english": ["increase", "multiply", "boost", "enhance", "gain", "add", "mount", "rise"],
+      "english": [
+        {
+          "id": "f5s18mr9",
+          "word": "increase",
+          "meaning": "make larger",
+          "note": "This is the all-purpose choice for a quantity becoming larger or making a quantity larger."
+        },
+        {
+          "id": "lfl5n5n0",
+          "word": "multiply",
+          "meaning": "increase in amount/number",
+          "note": "This is the all-purpose choice for increasing an amount, degree, or number."
+        },
+        {
+          "id": "wh7luaea",
+          "word": "boost",
+          "meaning": "increase or improve",
+          "note": "Use this as the all-purpose choice when boosting an amount, number, or chance of success."
+        },
+        {
+          "id": "xqj2kgyi",
+          "word": "enhance",
+          "meaning": "make greater / improve",
+          "note": "Use this when the enhancement chiefly means increasing the amount, extent, or number of features."
+        },
+        {
+          "id": "envgco3f",
+          "word": "gain",
+          "meaning": "increase",
+          "note": "Use this for an amount, level, skill, or strength becoming greater rather than for gaining possession."
+        },
+        {
+          "id": "krippdbu",
+          "word": "add",
+          "meaning": "increase, intensify",
+          "note": "Use this for the general sense of increasing an amount, level, or effect."
+        },
+        {
+          "id": "smi3lmpg",
+          "word": "mount",
+          "meaning": "increase, rise",
+          "note": "Use 增加 when a quantity or intensity increases, such as bills, pressure, or tension."
+        },
+        {
+          "id": "nfr5l1qq",
+          "word": "rise",
+          "meaning": "go up in price",
+          "note": "Use 增加 specifically when an amount or quantity grows, rather than when it physically moves upward or a price rises."
+        }
+      ],
       "examples": [
         {
           "english": "Vegetable prices continue to increase these days.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "research, examine carefully",
-      "english": ["research", "study"],
+      "english": [
+        {
+          "id": "a5u34tne",
+          "word": "research",
+          "meaning": "do research",
+          "note": "This is the all-purpose choice for studying or investigating a subject, including both careful inquiry and extensive research."
+        },
+        {
+          "id": "f3xr6v2q",
+          "word": "study",
+          "meaning": "examine carefully",
+          "note": "Use 研究 when carefully examining something in detail, such as a map, rather than learning a subject."
+        }
+      ],
       "examples": [
         {
           "english": "I need to research how to make this dish.",

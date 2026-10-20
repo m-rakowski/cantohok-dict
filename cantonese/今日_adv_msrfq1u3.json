@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "current day",
-      "english": ["today"],
+      "english": [
+        {
+          "id": "f3379ttn",
+          "word": "today",
+          "meaning": "current day",
+          "note": "This is the all-purpose choice for referring to the current calendar day."
+        }
+      ],
       "examples": [
         {
           "english": "It's raining today, so I'm not going out.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "remote wild mountains",
-      "english": ["wilderness", "solitude"],
+      "english": [
+        {
+          "id": "1t051vtl",
+          "word": "wilderness",
+          "meaning": "wild uncultivated land",
+          "note": "Pick this for a remote, mountainous wilderness, especially when stressing that it is far from civilization."
+        },
+        {
+          "id": "bootzns0",
+          "word": "solitude",
+          "meaning": "deserted place",
+          "note": "Use this for a remote, desolate physical place rather than a person's state of being alone."
+        }
+      ],
       "examples": [
         {
           "english": "They went camping in the wilderness and did not see anyone for several days.",

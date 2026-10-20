@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "schedule, timetable",
-      "english": ["schedule", "timetable"],
+      "english": [
+        {
+          "id": "2246r7ix",
+          "word": "schedule",
+          "meaning": "time plan",
+          "note": "This is the all-purpose choice for a timetable or planned sequence of activities and their times."
+        },
+        {
+          "id": "bb7oiynt",
+          "word": "timetable",
+          "meaning": "schedule of times",
+          "note": "This is the all-purpose choice for a timetable showing when events or transport services occur."
+        }
+      ],
       "examples": [
         {
           "english": "I've already looked at this week's schedule.",

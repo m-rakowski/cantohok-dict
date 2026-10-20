@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "busy",
-      "english": ["busy", "engaged"],
+      "english": [
+        {
+          "id": "7xfxkqut",
+          "word": "busy",
+          "meaning": "crowded with activity",
+          "note": "This is the all-purpose choice for being busy, including a busy place or period."
+        },
+        {
+          "id": "ctfzn70s",
+          "word": "engaged",
+          "meaning": "busy; occupied",
+          "note": "Use 忙 as the all-purpose choice when someone is occupied or unavailable."
+        }
+      ],
       "examples": [
         {
           "english": "I've been very busy lately.",

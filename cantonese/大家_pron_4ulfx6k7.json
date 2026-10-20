@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "everyone",
-      "english": ["everyone", "everybody", "all", "we"],
+      "english": [
+        {
+          "id": "ww48n8dg",
+          "word": "everyone",
+          "meaning": "every person",
+          "note": "This is the all-purpose choice for everyone in the relevant group, especially in conversation."
+        },
+        {
+          "id": "pok2py1o",
+          "word": "everybody",
+          "meaning": "all people",
+          "note": "Use this as the all-purpose collective word for everybody."
+        },
+        {
+          "id": "xlebucpb",
+          "word": "all",
+          "meaning": "everyone",
+          "note": "Use this as the all-purpose choice for everyone in a shared group or audience."
+        },
+        {
+          "id": "04ypsu01",
+          "word": "we",
+          "meaning": "everyone addressed",
+          "note": "Use this when addressing everyone present, especially where English says “we all” or “everyone.”"
+        }
+      ],
       "examples": [
         {
           "english": "Everyone can eat now.",

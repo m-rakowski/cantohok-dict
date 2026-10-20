@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "musical instrument",
-      "english": ["drum"],
+      "english": [
+        {
+          "id": "pumndymf",
+          "word": "drum",
+          "meaning": "musical instrument",
+          "note": "This is the all-purpose noun for the musical instrument."
+        }
+      ],
       "examples": [
         {
           "english": "I used to play the drum all the time when I was little.",

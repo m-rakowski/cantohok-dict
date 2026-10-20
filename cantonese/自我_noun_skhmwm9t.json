@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "the self, ego",
-      "english": ["ego", "self"],
+      "english": [
+        {
+          "id": "l732q13h",
+          "word": "ego",
+          "meaning": "self, self-importance",
+          "note": "Use this as the all-purpose choice for the self as a psychological or personality-related part of a person."
+        },
+        {
+          "id": "necgsrgt",
+          "word": "self",
+          "meaning": "one's own inner self",
+          "register": "formal",
+          "note": "Use this formal term for the inner psychological self that experiences thoughts and emotions."
+        }
+      ],
       "examples": [
         {
           "english": "They let their ego get too big, which makes it hard to get along with them.",

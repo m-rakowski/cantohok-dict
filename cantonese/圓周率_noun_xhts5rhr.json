@@ -6,7 +6,15 @@
   "boxes": [
     {
       "meaning": "mathematical constant pi",
-      "english": ["pi"],
+      "english": [
+        {
+          "id": "2f4ivw4c",
+          "word": "pi",
+          "meaning": "mathematical constant pi",
+          "register": "formal",
+          "note": "This is the all-purpose term for the mathematical constant describing the ratio of a circle's circumference to its diameter."
+        }
+      ],
       "register": "formal",
       "examples": [
         {

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "information collection",
-      "english": ["database"],
+      "english": [
+        {
+          "id": "cgdowydi",
+          "word": "database",
+          "meaning": "information collection",
+          "note": "This is the all-purpose Cantonese term for both an organized data collection and the software used to manage one."
+        }
+      ],
       "examples": [
         {
           "english": "Our database contains all the customer information.",

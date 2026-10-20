@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "car accident",
-      "english": ["crash", "accident"],
+      "english": [
+        {
+          "id": "32f2h4wq",
+          "word": "crash",
+          "meaning": "vehicle accident",
+          "note": "This is the all-purpose everyday noun for a vehicle crash, especially a car accident."
+        },
+        {
+          "id": "pc3olk3b",
+          "word": "accident",
+          "meaning": "vehicle crash",
+          "note": "Use this specifically for a crash or collision involving a vehicle or other transport."
+        }
+      ],
       "examples": [
         {
           "english": "That car suddenly lost control, hit the car next to it, and caused a crash.",

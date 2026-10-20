@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "school of fish",
-      "english": ["shoal", "school"],
+      "english": [
+        {
+          "id": "17544xa8",
+          "word": "shoal",
+          "meaning": "shoal of fish",
+          "note": "Use this for fish swimming together, rather than for a general crowd or a shallow sandbank."
+        },
+        {
+          "id": "ipahz2ta",
+          "word": "school",
+          "meaning": "fish school",
+          "note": "Use this for a school or group of fish and similar marine animals."
+        }
+      ],
       "examples": [
         {
           "english": "The shoal swam toward the net, and the fishermen hauled it in right away.",

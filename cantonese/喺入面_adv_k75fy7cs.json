@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "inside, indoors",
-      "english": ["indoors", "inside"],
+      "english": [
+        {
+          "id": "ig2x84e3",
+          "word": "indoors",
+          "meaning": "inside a building",
+          "note": "This is the all-purpose colloquial choice for being inside a building or other clearly established enclosed place."
+        },
+        {
+          "id": "o7p2tthe",
+          "word": "inside",
+          "meaning": "inside, indoors",
+          "note": "Use this for being inside a building or, from context, being in prison."
+        }
+      ],
       "examples": [
         {
           "english": "It's raining, so let's eat indoors.",

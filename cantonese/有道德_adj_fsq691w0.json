@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "moral, ethical",
-      "english": ["moral", "ethical"],
+      "english": [
+        {
+          "id": "0z9u9k63",
+          "word": "moral",
+          "meaning": "morally proper",
+          "note": "Use this all-purpose everyday choice when describing a person or action as morally proper."
+        },
+        {
+          "id": "7w1yp1z0",
+          "word": "ethical",
+          "meaning": "morally good; right",
+          "note": "This is the everyday all-purpose choice for a person or thing judged morally good."
+        }
+      ],
       "examples": [
         {
           "english": "They willingly help their neighbours, which is really moral.",

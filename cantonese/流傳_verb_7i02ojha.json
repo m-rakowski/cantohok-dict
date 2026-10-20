@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "spread, be passed down",
-      "english": ["circulate", "perpetuate"],
+      "english": [
+        {
+          "id": "xuippk1m",
+          "word": "circulate",
+          "meaning": "spread or disseminate",
+          "note": "Use this for news, gossip, or information spreading and becoming widely known."
+        },
+        {
+          "id": "qlklg0pg",
+          "word": "perpetuate",
+          "meaning": "make last forever",
+          "note": "Use this when something is preserved by being passed from person to person or generation to generation."
+        }
+      ],
       "examples": [
         {
           "english": "This scandal quickly began to circulate.",

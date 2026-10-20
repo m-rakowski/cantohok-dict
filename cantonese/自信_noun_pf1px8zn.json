@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "self-confidence",
-      "english": ["confidence", "self-confidence", "assurance"],
+      "english": [
+        {
+          "id": "xhhl58xc",
+          "word": "confidence",
+          "meaning": "self-assurance",
+          "note": "Use this specifically for personal self-assurance rather than confidence that an event or claim is true."
+        },
+        {
+          "id": "tgvl47se",
+          "word": "self-confidence",
+          "meaning": "belief in one’s abilities",
+          "note": "Use this shorter everyday noun when referring to developing, gaining, or showing belief in your own abilities."
+        },
+        {
+          "id": "y02r0qd0",
+          "word": "assurance",
+          "meaning": "self-confidence",
+          "note": "Use this specifically for confidence in oneself, especially firm self-confidence or poise."
+        }
+      ],
       "examples": [
         {
           "english": "They have a lot of confidence when speaking on stage.",

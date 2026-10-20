@@ -6,7 +6,44 @@
   "boxes": [
     {
       "meaning": "basically, mostly, in effect",
-      "english": ["basically", "largely", "essentially", "virtually", "practically", "mostly"],
+      "english": [
+        {
+          "id": "mhj6mjfd",
+          "word": "basically",
+          "meaning": "discourse filler: basically",
+          "note": "This is the all-purpose choice for saying that something is fundamentally, mostly, or generally the case."
+        },
+        {
+          "id": "y47ddkjf",
+          "word": "largely",
+          "meaning": "mostly; mainly",
+          "note": "Use this as the all-purpose spoken choice for saying that something is true for the most part or broadly speaking."
+        },
+        {
+          "id": "1bkcrfsy",
+          "word": "essentially",
+          "meaning": "basically; in effect",
+          "note": "This is the all-purpose spoken choice for both a broad summary and “in effect.”"
+        },
+        {
+          "id": "298macel",
+          "word": "virtually",
+          "meaning": "practically; effectively",
+          "note": "Use this when something counts as true or functions that way in practice, even if it is not technically or formally true."
+        },
+        {
+          "id": "4vmukhkx",
+          "word": "practically",
+          "meaning": "in practice; effectively",
+          "note": "Use this as the everyday default when something is true in effect or for practical purposes, even if not officially so."
+        },
+        {
+          "id": "4jipgity",
+          "word": "mostly",
+          "meaning": "mainly; for the most part",
+          "note": "Use this for a broad ‘basically’ or ‘on the whole’ sense that allows some exceptions."
+        }
+      ],
       "examples": [
         {
           "english": "Basically, this shop is open every day.",

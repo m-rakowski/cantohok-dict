@@ -6,7 +6,15 @@
   "boxes": [
     {
       "meaning": "playing favourites, biased",
-      "english": ["partial"],
+      "english": [
+        {
+          "id": "mx1khp1g",
+          "word": "partial",
+          "meaning": "biased, unfair",
+          "register": "colloquial",
+          "note": "Use this when someone unfairly favors a particular person or side, especially in a dispute or competition."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {
@@ -18,7 +26,14 @@
     },
     {
       "meaning": "off-centre (technical)",
-      "english": ["eccentric"],
+      "english": [
+        {
+          "id": "942uyd31",
+          "word": "eccentric",
+          "meaning": "not concentric",
+          "note": "Use this in geometry or engineering when an object or centre is offset rather than aligned."
+        }
+      ],
       "examples": [
         {
           "english": "This shaft is slightly eccentric, so it vibrates when it turns.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "funding organization",
-      "english": ["fund"],
+      "english": [
+        {
+          "id": "i192cjcc",
+          "word": "fund",
+          "meaning": "funding organization",
+          "note": "Use this for a commercial company that manages investment funds."
+        }
+      ],
       "examples": [
         {
           "english": "This fund company manages investments for its clients.",

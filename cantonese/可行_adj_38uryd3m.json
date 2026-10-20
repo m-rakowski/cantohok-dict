@@ -6,7 +6,33 @@
   "boxes": [
     {
       "meaning": "feasible, workable",
-      "english": ["achievable", "realistic", "practical", "possible"],
+      "english": [
+        {
+          "id": "29orekgr",
+          "word": "achievable",
+          "meaning": "possible to achieve",
+          "note": "This is the all-purpose choice for something feasible or achievable, especially a plan, goal, or solution."
+        },
+        {
+          "id": "pft541h5",
+          "word": "realistic",
+          "meaning": "possible to achieve",
+          "note": "Use this specifically for a goal, plan, or proposal that is feasible to achieve."
+        },
+        {
+          "id": "0knlyns2",
+          "word": "practical",
+          "meaning": "useful; workable",
+          "note": "Use this specifically when “practical” means feasible or workable in a real situation rather than merely useful."
+        },
+        {
+          "id": "s8256cst",
+          "word": "possible",
+          "meaning": "able to be done",
+          "register": "written",
+          "note": "Use this for a plan, method, or proposal that can realistically be carried out."
+        }
+      ],
       "examples": [
         {
           "english": "This plan is achievable, so we can give it a try.",

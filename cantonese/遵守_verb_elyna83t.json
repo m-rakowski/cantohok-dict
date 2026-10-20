@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "obey, follow rules",
-      "english": ["comply", "obey", "respect"],
+      "english": [
+        {
+          "id": "qv2hplhb",
+          "word": "comply",
+          "meaning": "obey / comply with",
+          "note": "Use this for complying with rules, laws, regulations, or requirements; it is the standard choice."
+        },
+        {
+          "id": "pe8inmxu",
+          "word": "obey",
+          "meaning": "do as ordered",
+          "note": "Use this for obeying rules, laws, regulations, or other stated requirements rather than a person’s direct order."
+        },
+        {
+          "id": "zfsg74ge",
+          "word": "respect",
+          "meaning": "respect a rule/right",
+          "note": "Use this for respecting or observing a rule, custom, procedure, or practice by complying with it."
+        }
+      ],
       "examples": [
         {
           "english": "We must comply with the company's safety regulations.",

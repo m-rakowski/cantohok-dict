@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "natural talent",
-      "english": ["talent", "aptitude", "gift", "feel"],
+      "english": [
+        {
+          "id": "8sxq4ul8",
+          "word": "talent",
+          "meaning": "natural ability",
+          "note": "Use this as the all-purpose choice for a person's natural ability or skill."
+        },
+        {
+          "id": "28jm6y28",
+          "word": "aptitude",
+          "meaning": "natural ability",
+          "note": "This is the all-purpose everyday choice for someone's natural ability to learn or do something."
+        },
+        {
+          "id": "ss5r53lf",
+          "word": "gift",
+          "meaning": "natural talent",
+          "note": "Use this for someone's natural ability or talent, such as a gift for playing music."
+        },
+        {
+          "id": "1hazqjfz",
+          "word": "feel",
+          "meaning": "knack / aptitude",
+          "note": "Use this when a feel means an intuitive knack or natural aptitude for an activity."
+        }
+      ],
       "examples": [
         {
           "english": "They have always had talent for drawing.",

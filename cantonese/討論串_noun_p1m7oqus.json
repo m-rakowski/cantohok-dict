@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "online discussion thread",
-      "english": ["topic", "thread"],
+      "english": [
+        {
+          "id": "75292j5c",
+          "word": "topic",
+          "meaning": "discussion thread",
+          "note": "Use this specifically for an online discussion thread containing an initial post and replies."
+        },
+        {
+          "id": "3m4jhoqn",
+          "word": "thread",
+          "meaning": "online discussion thread",
+          "note": "Use this for an online series of posts and replies about one topic."
+        }
+      ],
       "examples": [
         {
           "english": "This discussion thread on the topic of artificial intelligence already has hundreds of replies.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "as if nothing happened",
-      "english": ["blithely", "nonchalantly"],
+      "english": [
+        {
+          "id": "luc6cc9t",
+          "word": "blithely",
+          "meaning": "carelessly, without concern",
+          "note": "This is the all-purpose choice when someone carries on as if nothing serious is happening."
+        },
+        {
+          "id": "ljx004ln",
+          "word": "nonchalantly",
+          "meaning": "in a casual, unconcerned way",
+          "note": "This is the all-purpose choice when someone acts casually as though nothing is wrong or important."
+        }
+      ],
       "examples": [
         {
           "english": "They blithely walked into the restaurant for dinner after just crashing someone else's car.",

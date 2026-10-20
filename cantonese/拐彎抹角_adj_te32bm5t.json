@@ -6,7 +6,33 @@
   "boxes": [
     {
       "meaning": "indirect, beating around the bush",
-      "english": ["indirect", "oblique", "circular", "winding"],
+      "english": [
+        {
+          "id": "y6uv7ypi",
+          "word": "indirect",
+          "meaning": "indirect questions",
+          "register": "colloquial",
+          "note": "Use this for questions or remarks that approach the point indirectly instead of asking plainly."
+        },
+        {
+          "id": "k2i4fr0v",
+          "word": "oblique",
+          "meaning": "indirect, not straightforward",
+          "note": "Use this when someone communicates indirectly or avoids stating something plainly."
+        },
+        {
+          "id": "xuw3i013",
+          "word": "circular",
+          "meaning": "roundabout, indirect",
+          "note": "Use this for indirect or roundabout speech, reasoning, or behavior rather than for a physical route."
+        },
+        {
+          "id": "n61g0sgc",
+          "word": "winding",
+          "meaning": "roundabout; indirect",
+          "note": "Use this for speech or writing that expresses something indirectly instead of getting to the point."
+        }
+      ],
       "examples": [
         {
           "english": "You don't need to be so indirect—just ask me directly.",

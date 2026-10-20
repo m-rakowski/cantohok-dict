@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "identifier / username",
-      "english": ["name"],
+      "english": [
+        {
+          "id": "2aea7n22",
+          "word": "name",
+          "meaning": "identifier / username",
+          "note": "Use this for an online account username or other user identifier."
+        }
+      ],
       "examples": [
         {
           "english": "Please enter your user name before logging in.",

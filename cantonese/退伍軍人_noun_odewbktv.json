@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "military veteran",
-      "english": ["veteran"],
+      "english": [
+        {
+          "id": "fefr625e",
+          "word": "veteran",
+          "meaning": "military veteran",
+          "note": "Use this for a former member of the armed forces when the emphasis is on having served in the military."
+        }
+      ],
       "examples": [
         {
           "english": "That veteran opened a snack shop after leaving the military.",

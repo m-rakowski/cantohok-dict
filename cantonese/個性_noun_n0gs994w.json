@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "personality, individual character",
-      "english": ["individuality", "personality"],
+      "english": [
+        {
+          "id": "jq2533dz",
+          "word": "individuality",
+          "meaning": "distinctive character",
+          "note": "This is the all-purpose choice for a person’s distinctive character or individuality."
+        },
+        {
+          "id": "l05xsum8",
+          "word": "personality",
+          "meaning": "person's character",
+          "note": "Use this when emphasizing distinctive individuality in a person or in a work, object, or idea."
+        }
+      ],
       "examples": [
         {
           "english": "Although they are quiet, they have a very distinct individuality.",

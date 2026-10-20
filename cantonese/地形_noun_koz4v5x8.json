@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "terrain, lay of the land",
-      "english": ["terrain", "topography", "ground"],
+      "english": [
+        {
+          "id": "rk3aul4a",
+          "word": "terrain",
+          "meaning": "area of land; landscape",
+          "note": "Use this as the all-purpose term for the physical features and layout of an area of land."
+        },
+        {
+          "id": "qq7mtlsc",
+          "word": "topography",
+          "meaning": "land features",
+          "note": "Use this as the all-purpose everyday word for the physical features and shape of a place’s land."
+        },
+        {
+          "id": "yjoo8u1y",
+          "word": "ground",
+          "meaning": "terrain",
+          "note": "Use this for the shape and features of an area of terrain."
+        }
+      ],
       "examples": [
         {
           "english": "The terrain in this area is complicated, so be careful when hiking.",

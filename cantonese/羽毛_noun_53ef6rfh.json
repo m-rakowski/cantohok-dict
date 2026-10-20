@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "bird feather",
-      "english": ["feather", "plumage"],
+      "english": [
+        {
+          "id": "ike5991r",
+          "word": "feather",
+          "meaning": "bird plumage",
+          "note": "This is the all-purpose Cantonese noun for a bird's feather or plumage."
+        },
+        {
+          "id": "112qa6mg",
+          "word": "plumage",
+          "meaning": "bird feathers",
+          "note": "This is the all-purpose word for the feathers covering a bird's body collectively."
+        }
+      ],
       "examples": [
         {
           "english": "I found a feather on the floor.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "booking, reservation",
-      "english": ["booking", "reservation"],
+      "english": [
+        {
+          "id": "l7cenned",
+          "word": "booking",
+          "meaning": "reservation",
+          "note": "Use 預訂 as the all-purpose noun for arranging a service in advance, including travel or accommodation."
+        },
+        {
+          "id": "hpgxhsc7",
+          "word": "reservation",
+          "meaning": "booking",
+          "note": "Use this broad booking term for an advance hotel, ticket, or transport arrangement when the exact type is not being emphasized."
+        }
+      ],
       "examples": [
         {
           "english": "My hotel booking has already been confirmed.",

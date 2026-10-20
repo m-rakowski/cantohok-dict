@@ -6,7 +6,15 @@
   "boxes": [
     {
       "meaning": "guard, defend",
-      "english": ["protect"],
+      "english": [
+        {
+          "id": "jum2i08i",
+          "word": "protect",
+          "meaning": "keep safe; defend",
+          "register": "colloquial",
+          "note": "Use this when protecting by standing guard over a person, place, position, or boundary."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {
@@ -18,7 +26,14 @@
     },
     {
       "meaning": "keep (a secret)",
-      "english": ["keep"],
+      "english": [
+        {
+          "id": "n1zhbonj",
+          "word": "keep",
+          "meaning": "protect; guard",
+          "note": "Use this when keeping means guarding or holding something confidential, as in 守住個秘密."
+        }
+      ],
       "examples": [
         {
           "english": "You have to keep this secret.",

@@ -6,7 +6,28 @@
   "boxes": [
     {
       "meaning": "shameful, disgraceful",
-      "english": ["notorious", "ignominious", "shameful"],
+      "english": [
+        {
+          "id": "6td597pi",
+          "word": "notorious",
+          "meaning": "blatantly shameful",
+          "note": "Use this for an act or situation that is plainly disgraceful or offensive."
+        },
+        {
+          "id": "pp4g5o34",
+          "word": "ignominious",
+          "meaning": "disgraceful, shameful",
+          "register": "formal",
+          "note": "Use this as the broad choice for someone or something deserving shame or causing disgrace, especially in more formal wording."
+        },
+        {
+          "id": "ykgm3hxk",
+          "word": "shameful",
+          "meaning": "disgraceful, deserving shame",
+          "register": "formal, written",
+          "note": "Use this for explicit moral condemnation, especially in formal or written language."
+        }
+      ],
       "examples": [
         {
           "english": "This blatant act of bullying elderly people is notorious and disgraceful.",

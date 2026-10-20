@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "underage",
-      "english": ["minor", "underage"],
+      "english": [
+        {
+          "id": "4m6qk8cz",
+          "word": "minor",
+          "meaning": "underage; not adult",
+          "note": "Use this for a person who has not reached the legal age of adulthood."
+        },
+        {
+          "id": "1fiv4wen",
+          "word": "underage",
+          "meaning": "minor; not legally adult",
+          "note": "Use this when emphasizing that someone is legally a minor rather than merely too young for one activity."
+        }
+      ],
       "examples": [
         {
           "english": "That kid is still a minor and can't sign this contract himself.",

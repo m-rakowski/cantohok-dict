@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "excessive, going too far",
-      "english": ["unreasonable", "outrageous"],
+      "english": [
+        {
+          "id": "yp26zle7",
+          "word": "unreasonable",
+          "meaning": "not reasonable; excessive",
+          "note": "Use this when the unreasonable thing is an excessive demand, amount, or action."
+        },
+        {
+          "id": "hgy433c0",
+          "word": "outrageous",
+          "meaning": "shocking, offensive",
+          "note": "Use this when the main idea is that someone’s behavior, words, or demands have gone too far, especially offensively."
+        }
+      ],
       "examples": [
         {
           "english": "Charging me so much for the moving service is unreasonable.",

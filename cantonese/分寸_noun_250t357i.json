@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "tact, sense of what is proper",
-      "english": ["tact", "delicacy", "filter"],
+      "english": [
+        {
+          "id": "trr0bkvc",
+          "word": "tact",
+          "meaning": "diplomacy, sensitivity",
+          "note": "This is the all-purpose choice for having tact or knowing what is appropriate to say and do."
+        },
+        {
+          "id": "ri474nq1",
+          "word": "delicacy",
+          "meaning": "tact and tactfulness",
+          "note": "Use this when “delicacy” means tact, propriety, or knowing how far to go in a situation."
+        },
+        {
+          "id": "63kany81",
+          "word": "filter",
+          "meaning": "self-restraint in speech",
+          "note": "Use this for the social restraint or tact someone shows when speaking, as in 講嘢冇分寸."
+        }
+      ],
       "examples": [
         {
           "english": "They have a lot of tact; even when they have to criticize someone, they do not make them feel bad.",

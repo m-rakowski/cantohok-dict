@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "discover, find out, notice",
-      "english": ["discover", "detect", "notice", "catch", "find"],
+      "english": [
+        {
+          "id": "k7s2qeyt",
+          "word": "discover",
+          "meaning": "find out first",
+          "note": "This is the all-purpose choice for finding or learning something for the first time."
+        },
+        {
+          "id": "vyauhnww",
+          "word": "detect",
+          "meaning": "discover by search",
+          "note": "Use this when you discover something, especially when you come across it or realize it rather than locate it physically."
+        },
+        {
+          "id": "gr7cmr3j",
+          "word": "notice",
+          "meaning": "notice, observe",
+          "note": "Use this when the notice involves discovering or realizing a fact, often unexpectedly."
+        },
+        {
+          "id": "husj9h40",
+          "word": "catch",
+          "meaning": "discover unexpectedly",
+          "note": "Use 發現 when catch means notice or discover something, including discovering someone doing something wrong, rather than physically seizing them."
+        },
+        {
+          "id": "h9gb27iw",
+          "word": "find",
+          "meaning": "discover by chance",
+          "note": "Use 發現 when you discover something, whether by chance or through study or investigation."
+        }
+      ],
       "examples": [
         {
           "english": "I discover today that they can speak Cantonese.",

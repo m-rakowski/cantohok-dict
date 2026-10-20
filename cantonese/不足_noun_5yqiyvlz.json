@@ -6,7 +6,28 @@
   "boxes": [
     {
       "meaning": "lack, shortage",
-      "english": ["lack", "deficiency", "deficit"],
+      "english": [
+        {
+          "id": "vzc41355",
+          "word": "lack",
+          "meaning": "absence; deficiency",
+          "register": "written",
+          "note": "This is the all-purpose noun for a deficiency or shortfall, especially in formal or general descriptions."
+        },
+        {
+          "id": "a94brlel",
+          "word": "deficiency",
+          "meaning": "lack of something essential",
+          "note": "This is the all-purpose noun for an inadequacy or an insufficient amount, including a health-related deficiency."
+        },
+        {
+          "id": "3tzymioj",
+          "word": "deficit",
+          "meaning": "shortfall; lack",
+          "register": "written",
+          "note": "Use this for an abstract deficiency or inadequacy, including a shortfall in quality, especially in formal contexts."
+        }
+      ],
       "examples": [
         {
           "english": "The biggest problem with this plan is a lack of funding.",

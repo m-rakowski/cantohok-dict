@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "crushing defeat",
-      "english": ["slaughter", "massacre"],
+      "english": [
+        {
+          "id": "t5kxtuhh",
+          "word": "slaughter",
+          "meaning": "crushing defeat",
+          "note": "Use this for a decisive defeat in a game, contest, or battle, not literal killing."
+        },
+        {
+          "id": "5v5itbgt",
+          "word": "massacre",
+          "meaning": "lopsided defeat",
+          "note": "Use this for a one-sided defeat in a game, competition, or other contest rather than for mass killing."
+        }
+      ],
       "examples": [
         {
           "english": "Our team suffered a slaughter yesterday, losing badly to the opponents.",

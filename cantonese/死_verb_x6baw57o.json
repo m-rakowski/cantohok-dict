@@ -6,7 +6,33 @@
   "boxes": [
     {
       "meaning": "die",
-      "english": ["die", "succumb", "expire", "rest"],
+      "english": [
+        {
+          "id": "akx95vf1",
+          "word": "die",
+          "meaning": "stop living",
+          "note": "This is the all-purpose choice for a person or living thing dying, and it is also commonly used when a device stops working."
+        },
+        {
+          "id": "6nf3xiw7",
+          "word": "succumb",
+          "meaning": "die",
+          "note": "This is the all-purpose choice when succumb means to die, including dying from an illness."
+        },
+        {
+          "id": "xerpx9y8",
+          "word": "expire",
+          "meaning": "die",
+          "note": "Use this everyday verb for a person or animal dying, though a more polite expression may be chosen in respectful contexts."
+        },
+        {
+          "id": "pgwd297h",
+          "word": "rest",
+          "meaning": "die, pass away",
+          "register": "colloquial",
+          "note": "Use this for the plain everyday meaning “die,” rather than preserving the English euphemism."
+        }
+      ],
       "examples": [
         {
           "english": "My phone is about to die.",

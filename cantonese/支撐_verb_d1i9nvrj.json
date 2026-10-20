@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "hold up physically",
-      "english": ["sustain", "support"],
+      "english": [
+        {
+          "id": "kq5nc7rd",
+          "word": "sustain",
+          "meaning": "support; hold up",
+          "note": "Use this for physically holding up a structure or bearing a load."
+        },
+        {
+          "id": "tmem0xms",
+          "word": "support",
+          "meaning": "hold up, keep from falling",
+          "note": "Use this for physically holding something up or keeping it from collapsing."
+        }
+      ],
       "examples": [
         {
           "english": "These steel pillars sustain the whole bridge.",
@@ -22,7 +35,14 @@
     },
     {
       "meaning": "give emotional support",
-      "english": ["anchor"],
+      "english": [
+        {
+          "id": "wzulv13z",
+          "word": "anchor",
+          "meaning": "provide stability",
+          "note": "Use 支撐 when a person or relationship gives someone emotional support and stability during distress."
+        }
+      ],
       "examples": [
         {
           "english": "When times are hard, my friends anchor me.",

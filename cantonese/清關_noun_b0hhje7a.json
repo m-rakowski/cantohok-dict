@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "customs clearance",
-      "english": ["customs"],
+      "english": [
+        {
+          "id": "rwqth3iv",
+          "word": "customs",
+          "meaning": "customs clearance",
+          "note": "Use this for the customs-clearance process, especially in travel, shipping, and logistics contexts."
+        }
+      ],
       "examples": [
         {
           "english": "This shipment still hasn't cleared customs, so it may not be delivered tomorrow.",

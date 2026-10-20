@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "statistical correlation",
-      "english": ["correlation"],
+      "english": [
+        {
+          "id": "0fjhiym7",
+          "word": "correlation",
+          "meaning": "statistical correlation",
+          "note": "Use this specifically for a statistical measure showing the strength and direction of the relationship between variables."
+        }
+      ],
       "examples": [
         {
           "english": "The correlation coefficient between the two sets of data is close to one.",

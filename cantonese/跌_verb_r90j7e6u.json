@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "to fall, drop",
-      "english": ["drop", "tumble", "decline", "slip"],
+      "english": [
+        {
+          "id": "fxe0cxi4",
+          "word": "drop",
+          "meaning": "fall straight down",
+          "note": "Use 跌 as the all-purpose choice for something falling, and for prices or levels going down."
+        },
+        {
+          "id": "gxrch2pi",
+          "word": "tumble",
+          "meaning": "fall over and over",
+          "note": "This is the all-purpose choice for falling or dropping suddenly, including prices or values."
+        },
+        {
+          "id": "wbjln2x5",
+          "word": "decline",
+          "meaning": "go down, fall",
+          "note": "Use 跌 when a price, rate, level, or physical object goes down or falls."
+        },
+        {
+          "id": "5gz37re8",
+          "word": "slip",
+          "meaning": "decline gradually",
+          "note": "Use this as the all-purpose verb for profits, prices, or other figures moving downward."
+        }
+      ],
       "examples": [
         {
           "english": "I saw the temperature drop by ten degrees today.",

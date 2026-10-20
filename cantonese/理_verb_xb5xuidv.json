@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "pay attention to, care about",
-      "english": ["care", "mind", "bother"],
+      "english": [
+        {
+          "id": "c1jfq86n",
+          "word": "care",
+          "meaning": "not mind; not care",
+          "note": "This is the all-purpose everyday choice for caring about or paying attention to something, especially in negative sentences like 唔理."
+        },
+        {
+          "id": "0m7p5erx",
+          "word": "mind",
+          "meaning": "heed",
+          "note": "Use this for paying attention to or getting involved with a person or matter, especially in “mind your own business.”"
+        },
+        {
+          "id": "a0a4avht",
+          "word": "bother",
+          "meaning": "care enough to do",
+          "note": "Use this when bother means care about or pay attention to something, not when someone is annoying."
+        }
+      ],
       "examples": [
         {
           "english": "I don't care what he says.",

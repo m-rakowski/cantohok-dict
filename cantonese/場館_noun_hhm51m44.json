@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "sports or event venue",
-      "english": ["arena", "facility"],
+      "english": [
+        {
+          "id": "mcqgmvwf",
+          "word": "arena",
+          "meaning": "sports / event arena",
+          "note": "Use this when emphasizing the venue or facility hosting a sports or spectacular event rather than its arena layout."
+        },
+        {
+          "id": "jdft7wa3",
+          "word": "facility",
+          "meaning": "special-purpose building",
+          "note": "Use this for a purpose-built venue or building used for activities, rather than for a prison, military installation, or laboratory in general."
+        }
+      ],
       "examples": [
         {
           "english": "This arena hosts major competitions every year.",

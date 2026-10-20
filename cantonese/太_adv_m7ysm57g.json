@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "too, excessively",
-      "english": ["overly", "too"],
+      "english": [
+        {
+          "id": "i1zg6ajo",
+          "word": "overly",
+          "meaning": "excessively",
+          "note": "This is the all-purpose choice before an adjective for “overly,” “too,” or “very.”"
+        },
+        {
+          "id": "420wheym",
+          "word": "too",
+          "meaning": "excessively",
+          "note": "Use this before a quality or quantity when it exceeds what is wanted or appropriate."
+        }
+      ],
       "examples": [
         {
           "english": "This soup is overly salty.",

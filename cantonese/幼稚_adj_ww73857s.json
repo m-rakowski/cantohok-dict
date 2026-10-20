@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "childish, immature",
-      "english": ["childish", "naive"],
+      "english": [
+        {
+          "id": "sl0g55h4",
+          "word": "childish",
+          "meaning": "immature, infantile behavior",
+          "note": "Use this as the all-purpose choice for someone immature in thought or behaviour."
+        },
+        {
+          "id": "e3d8trf3",
+          "word": "naive",
+          "meaning": "lacking experience or judgment",
+          "note": "Choose this when the person's naivety comes across as childish or showing poor judgment."
+        }
+      ],
       "examples": [
         {
           "english": "Getting angry over such small things at your age is really childish.",

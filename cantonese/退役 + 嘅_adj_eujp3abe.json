@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "discontinued, no longer used",
-      "english": ["retired"],
+      "english": [
+        {
+          "id": "afnow6le",
+          "word": "retired",
+          "meaning": "discontinued, no longer used",
+          "note": "Use this for a number, player, vehicle, or piece of equipment formally withdrawn from service."
+        }
+      ],
       "examples": [
         {
           "english": "This bus is retired and won't run on this route anymore.",

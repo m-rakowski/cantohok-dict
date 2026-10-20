@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "politeness, good manners",
-      "english": ["courtesy", "politeness", "tact", "manner"],
+      "english": [
+        {
+          "id": "alf3z3mu",
+          "word": "courtesy",
+          "meaning": "politeness",
+          "note": "This is the all-purpose choice for polite behavior or the quality of being polite."
+        },
+        {
+          "id": "df8izvua",
+          "word": "politeness",
+          "meaning": "quality of being polite",
+          "note": "This is the all-purpose noun for both the quality of being polite and a polite act or courtesy."
+        },
+        {
+          "id": "06fuc88d",
+          "word": "tact",
+          "meaning": "good manners",
+          "note": "Use this when “tact” means ordinary good manners or polite behaviour rather than sensitivity in handling a situation."
+        },
+        {
+          "id": "6stp21le",
+          "word": "manner",
+          "meaning": "politeness",
+          "note": "Use this specifically for polite or well-mannered behaviour."
+        }
+      ],
       "examples": [
         {
           "english": "They treat people with a lot of courtesy.",

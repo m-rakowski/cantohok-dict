@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "reading glasses",
-      "english": ["reader"],
+      "english": [
+        {
+          "id": "qcam08bn",
+          "word": "reader",
+          "meaning": "reading glasses",
+          "note": "Use this specifically for glasses used to help with reading."
+        }
+      ],
       "examples": [
         {
           "english": "I’m a reader, so I need reading glasses to read small print.",

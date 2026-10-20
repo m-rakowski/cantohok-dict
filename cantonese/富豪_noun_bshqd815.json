@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "tycoon, very rich person",
-      "english": ["plutocrat", "tycoon"],
+      "english": [
+        {
+          "id": "109kjpwc",
+          "word": "plutocrat",
+          "meaning": "wealthy ruler",
+          "note": "This is the all-purpose choice when the person is a wealthy tycoon who wields substantial influence or power."
+        },
+        {
+          "id": "ev2rxn2h",
+          "word": "tycoon",
+          "meaning": "wealthy business person",
+          "note": "Use this when the person's great wealth is more prominent than their business influence."
+        }
+      ],
       "examples": [
         {
           "english": "That plutocrat's word carries a lot of weight in business.",

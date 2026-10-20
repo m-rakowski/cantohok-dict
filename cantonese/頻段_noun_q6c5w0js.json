@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "radio frequency band",
-      "english": ["frequency"],
+      "english": [
+        {
+          "id": "ciuw9z7s",
+          "word": "frequency",
+          "meaning": "radio frequency band",
+          "note": "Use this specifically for a frequency band or channel range in radio and wireless communications."
+        }
+      ],
       "examples": [
         {
           "english": "This radio can't receive that frequency band.",

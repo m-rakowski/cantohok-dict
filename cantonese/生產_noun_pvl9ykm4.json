@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "production, making goods",
-      "english": ["production", "manufacturing"],
+      "english": [
+        {
+          "id": "skm9pmiq",
+          "word": "production",
+          "meaning": "making, producing",
+          "note": "Use 生產 as the all-purpose term for the industrial process or activity of producing goods, including goods currently being produced."
+        },
+        {
+          "id": "yyddcfya",
+          "word": "manufacturing",
+          "meaning": "making goods from raw materials",
+          "note": "Use 生產 as the all-purpose term for the activity of making goods from materials."
+        }
+      ],
       "examples": [
         {
           "english": "This factory mainly handles production of parts.",
@@ -22,7 +35,14 @@
     },
     {
       "meaning": "childbirth",
-      "english": ["birth"],
+      "english": [
+        {
+          "id": "vl642uir",
+          "word": "birth",
+          "meaning": "childbirth, being born",
+          "note": "Use this for the childbirth or delivery process, especially in medical or pregnancy-related contexts."
+        }
+      ],
       "examples": [
         {
           "english": "During the birth, the doctor stayed with her.",

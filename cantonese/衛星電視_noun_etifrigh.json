@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "satellite TV",
-      "english": ["satellite"],
+      "english": [
+        {
+          "id": "6mjd4ucl",
+          "word": "satellite",
+          "meaning": "satellite TV",
+          "note": "Use this specifically for television received through artificial satellites."
+        }
+      ],
       "examples": [
         {
           "english": "We’re watching satellite TV at home now.",

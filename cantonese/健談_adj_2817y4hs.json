@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "talkative, good at chatting",
-      "english": ["communicative", "talkative"],
+      "english": [
+        {
+          "id": "kkvhbe9r",
+          "word": "communicative",
+          "meaning": "talkative; eager to communicate",
+          "note": "Use this when emphasizing that someone is willing and pleasant to converse with, usually positively."
+        },
+        {
+          "id": "xp8yeyfe",
+          "word": "talkative",
+          "meaning": "chatty, loquacious",
+          "note": "Use this for someone who is pleasantly sociable and good at keeping a conversation going, especially in a positive description."
+        }
+      ],
       "examples": [
         {
           "english": "My new colleague is very communicative, and even at our first meeting they chatted happily with me.",

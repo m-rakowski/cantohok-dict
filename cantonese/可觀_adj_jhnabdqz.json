@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "considerable, sizeable",
-      "english": ["considerable", "tidy"],
+      "english": [
+        {
+          "id": "yo0xortg",
+          "word": "considerable",
+          "meaning": "large in amount",
+          "register": "formal",
+          "note": "Use 可觀 for an amount or result that is impressively substantial and therefore noteworthy, mainly in formal or written contexts."
+        },
+        {
+          "id": "9nalitbu",
+          "word": "tidy",
+          "meaning": "considerable amount",
+          "register": "written",
+          "note": "Use this for a sizeable or generous amount, especially a profit or sum of money."
+        }
+      ],
       "examples": [
         {
           "english": "This quarter's growth in turnover is considerable and worth investors' attention.",

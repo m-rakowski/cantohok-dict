@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "hotel guest, person staying in a place",
-      "english": ["occupant", "guest"],
+      "english": [
+        {
+          "id": "dyam12ck",
+          "word": "occupant",
+          "meaning": "person in a place",
+          "note": "Use this for a person occupying accommodation such as a room, flat, or hotel room."
+        },
+        {
+          "id": "r0ydf5a0",
+          "word": "guest",
+          "meaning": "hotel guest / customer",
+          "note": "Use this specifically for a guest staying in a hotel or other accommodation."
+        }
+      ],
       "examples": [
         {
           "english": "The occupant of this hotel room can enjoy breakfast for free.",

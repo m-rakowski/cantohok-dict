@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "company board member",
-      "english": ["director", "governor"],
+      "english": [
+        {
+          "id": "0q63kq36",
+          "word": "director",
+          "meaning": "company board member",
+          "note": "Use this specifically for a member of a company's board of directors."
+        },
+        {
+          "id": "wqeqwse2",
+          "word": "governor",
+          "meaning": "board member",
+          "note": "Use this for a member of a corporate or bank board rather than a general committee member."
+        }
+      ],
       "examples": [
         {
           "english": "The director voted for this plan.",

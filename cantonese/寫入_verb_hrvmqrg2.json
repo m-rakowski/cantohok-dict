@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "record to disk",
-      "english": ["write"],
+      "english": [
+        {
+          "id": "cn33t5ah",
+          "word": "write",
+          "meaning": "record to disk",
+          "note": "Use this technical term when a computer or device records data to storage."
+        }
+      ],
       "examples": [
         {
           "english": "The device will automatically write data to the memory card.",

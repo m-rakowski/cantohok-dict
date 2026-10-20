@@ -6,7 +6,15 @@
   "boxes": [
     {
       "meaning": "palliative care",
-      "english": ["hospice"],
+      "english": [
+        {
+          "id": "yt55s183",
+          "word": "hospice",
+          "meaning": "palliative care",
+          "register": "formal",
+          "note": "This is the all-purpose term for care focused on relieving suffering rather than curing a terminal illness."
+        }
+      ],
       "register": "formal",
       "examples": [
         {

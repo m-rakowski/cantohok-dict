@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "pushing force, thrust",
-      "english": ["push", "boost", "impulse"],
+      "english": [
+        {
+          "id": "0jy4oipv",
+          "word": "push",
+          "meaning": "a push",
+          "note": "This is the all-purpose noun for the physical force of a push."
+        },
+        {
+          "id": "gs0qppz9",
+          "word": "boost",
+          "meaning": "push from behind",
+          "note": "Use this for the literal physical force pushing someone from behind or below, especially in technical or descriptive contexts."
+        },
+        {
+          "id": "2g7fro8p",
+          "word": "impulse",
+          "meaning": "sudden push/force",
+          "note": "Use this for a physical thrust or force, especially in mechanics or descriptions of motion."
+        }
+      ],
       "examples": [
         {
           "english": "The push from this motor is strong enough to open the gate.",

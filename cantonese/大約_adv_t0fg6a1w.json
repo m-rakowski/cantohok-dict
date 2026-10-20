@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "approximately",
-      "english": ["around", "loosely"],
+      "english": [
+        {
+          "id": "dpfmwfxm",
+          "word": "around",
+          "meaning": "approximately",
+          "note": "Use this for approximate numbers, amounts, times, or quantities."
+        },
+        {
+          "id": "ysx36w79",
+          "word": "loosely",
+          "meaning": "approximately; not exact",
+          "note": "Use this for an approximate or non-exact description or quantity."
+        }
+      ],
       "examples": [
         {
           "english": "It’s around three o’clock now.",

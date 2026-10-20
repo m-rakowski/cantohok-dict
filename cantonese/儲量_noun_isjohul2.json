@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "resource deposit",
-      "english": ["reserve"],
+      "english": [
+        {
+          "id": "livgedan",
+          "word": "reserve",
+          "meaning": "resource deposit",
+          "note": "Use this specifically for the known quantity of an unexploited natural resource such as oil or gas."
+        }
+      ],
       "examples": [
         {
           "english": "The reserve of this oil field is estimated at one billion barrels.",

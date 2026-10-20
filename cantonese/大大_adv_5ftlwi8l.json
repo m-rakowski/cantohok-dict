@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "greatly, considerably",
-      "english": ["significantly", "substantially", "considerably"],
+      "english": [
+        {
+          "id": "hdthb5uq",
+          "word": "significantly",
+          "meaning": "to a significant extent",
+          "register": "colloquial",
+          "note": "Use this as the all-purpose colloquial choice when something changes or increases by a considerable amount."
+        },
+        {
+          "id": "02868bvo",
+          "word": "substantially",
+          "meaning": "considerably",
+          "note": "This is the all-purpose choice for saying that something increases, improves, decreases, or changes considerably."
+        },
+        {
+          "id": "nyqa9xys",
+          "word": "considerably",
+          "meaning": "significantly; a lot",
+          "note": "Pick this for a stronger, more emphatic sense of “greatly,” especially before verbs such as 改善 or 提高."
+        }
+      ],
       "examples": [
         {
           "english": "Business at this restaurant improved significantly after the renovation.",

@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "regret, remorse",
-      "english": ["regret", "remorse"],
+      "english": [
+        {
+          "id": "mbqucls2",
+          "word": "regret",
+          "meaning": "feeling of regret",
+          "register": "formal",
+          "note": "Use this for remorse over one's own past action, especially in formal or written contexts."
+        },
+        {
+          "id": "hd1phwjh",
+          "word": "remorse",
+          "meaning": "guilt-filled regret",
+          "register": "formal",
+          "note": "Use this more formal term when stressing whether someone shows or has any remorse, especially in official or legal contexts."
+        }
+      ],
       "register": "formal",
       "examples": [
         {

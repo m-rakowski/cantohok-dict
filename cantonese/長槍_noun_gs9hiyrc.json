@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "rifle/shotgun",
-      "english": ["gun"],
+      "english": [
+        {
+          "id": "1sz4vl8q",
+          "word": "gun",
+          "meaning": "rifle/shotgun",
+          "note": "Use this for a long firearm such as a rifle or shotgun, rather than a portable handgun."
+        }
+      ],
       "examples": [
         {
           "english": "The guard stood at the entrance holding a gun.",

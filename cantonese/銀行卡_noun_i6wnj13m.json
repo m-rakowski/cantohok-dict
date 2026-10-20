@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "bank card",
-      "english": ["card"],
+      "english": [
+        {
+          "id": "b28tkktn",
+          "word": "card",
+          "meaning": "bank card",
+          "note": "Use this specifically for a bank-issued card rather than a plain card or a business card."
+        }
+      ],
       "examples": [
         {
           "english": "The ATM swallowed my bank card.",

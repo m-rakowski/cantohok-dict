@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "excited",
-      "english": ["excited", "elated", "crazy", "enthusiastic"],
+      "english": [
+        {
+          "id": "b9cfqdgd",
+          "word": "excited",
+          "meaning": "enthusiastic; thrilled",
+          "note": "This is the all-purpose choice for enthusiasm or thrills, and in a clearly sexual context it can also mean sexually aroused."
+        },
+        {
+          "id": "1u78p4z3",
+          "word": "elated",
+          "meaning": "extremely happy",
+          "note": "Use this when the elation especially involves excitement or heightened energy."
+        },
+        {
+          "id": "aru3cl8q",
+          "word": "crazy",
+          "meaning": "very excited, enthusiastic",
+          "note": "Use 興奮 when “crazy” means extremely excited or enthusiastic rather than mentally unsound."
+        },
+        {
+          "id": "3ch0ubu0",
+          "word": "enthusiastic",
+          "meaning": "eager, excited, keen",
+          "note": "Use this when the enthusiasm specifically emphasizes excitement or an emotionally stirred-up state."
+        }
+      ],
       "examples": [
         {
           "english": "I'm really excited about going on a trip tomorrow.",

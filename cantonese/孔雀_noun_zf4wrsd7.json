@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "male peafowl",
-      "english": ["peacock"],
+      "english": [
+        {
+          "id": "std7exzb",
+          "word": "peacock",
+          "meaning": "male peafowl",
+          "note": "Use this as the all-purpose everyday noun; context usually supplies whether the peafowl is male or female."
+        }
+      ],
       "examples": [
         {
           "english": "The peacock spread its tail at the zoo, and the children were excited.",

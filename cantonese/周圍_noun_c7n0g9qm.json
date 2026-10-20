@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "surrounding area",
-      "english": ["surroundings", "vicinity", "surrounding"],
+      "english": [
+        {
+          "id": "unwohb2z",
+          "word": "surroundings",
+          "meaning": "area around someone or something",
+          "note": "Use this as the all-purpose choice for the physical area around a person or thing."
+        },
+        {
+          "id": "4xeo3plq",
+          "word": "vicinity",
+          "meaning": "nearby area",
+          "note": "Use this for the broader surrounding area or neighbourhood rather than simple proximity."
+        },
+        {
+          "id": "my6lqwg1",
+          "word": "surrounding",
+          "meaning": "nearby area",
+          "note": "Use this when stressing the area all around a particular place or person, rather than simply somewhere nearby."
+        }
+      ],
       "examples": [
         {
           "english": "Look around the house; flowers are planted everywhere in the surroundings.",

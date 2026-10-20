@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "handwritten text",
-      "english": ["handwriting"],
+      "english": [
+        {
+          "id": "ape7e3en",
+          "word": "handwriting",
+          "meaning": "handwritten text",
+          "note": "Use this for text produced by hand, especially when contrasting it with typed or printed text."
+        }
+      ],
       "examples": [
         {
           "english": "This card is all handwriting.",

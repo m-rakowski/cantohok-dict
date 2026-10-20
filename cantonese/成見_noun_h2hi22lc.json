@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "preconceived opinion, prejudice",
-      "english": ["preconception", "assumption", "prejudice"],
+      "english": [
+        {
+          "id": "t615yvif",
+          "word": "preconception",
+          "meaning": "prejudice, preconceived opinion",
+          "note": "This is the all-purpose noun for a preconceived view or fixed opinion formed before judging the facts."
+        },
+        {
+          "id": "4tilmvpg",
+          "word": "assumption",
+          "meaning": "presumed belief",
+          "note": "Use this when the assumption is a preconceived or prejudiced belief, especially about a person."
+        },
+        {
+          "id": "2bao4plq",
+          "word": "prejudice",
+          "meaning": "biased opinion",
+          "note": "Use this when stressing an opinion formed beforehand and resistant to the facts."
+        }
+      ],
       "examples": [
         {
           "english": "Don't form a preconception so quickly; hear both sides first.",

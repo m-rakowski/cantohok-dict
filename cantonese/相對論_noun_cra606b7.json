@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "Einstein’s theory of relativity",
-      "english": ["relativity"],
+      "english": [
+        {
+          "id": "v8a92hyt",
+          "word": "relativity",
+          "meaning": "Einstein’s theory of relativity",
+          "note": "Use this for Einstein's physical theory, including special and general relativity."
+        }
+      ],
       "examples": [
         {
           "english": "In physics, relativity shows that time is affected by speed and gravity.",

@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "big, large",
-      "english": ["big", "large", "great"],
+      "english": [
+        {
+          "id": "ri7fjd5r",
+          "word": "big",
+          "meaning": "large size",
+          "note": "This is the all-purpose choice for physical size and also for an older or bigger child."
+        },
+        {
+          "id": "hv545m43",
+          "word": "large",
+          "meaning": "big; of great size",
+          "note": "This is the all-purpose choice for something being big in physical size, extent, or scale."
+        },
+        {
+          "id": "p9zq30g4",
+          "word": "great",
+          "meaning": "large",
+          "note": "Use this for physical size or for something unusually large, serious, or intense rather than for praise."
+        }
+      ],
       "examples": [
         {
           "english": "This table is big.",
@@ -27,7 +46,14 @@
     },
     {
       "meaning": "loud or intense",
-      "english": ["heavy"],
+      "english": [
+        {
+          "id": "eya8ctrg",
+          "word": "heavy",
+          "meaning": "intense or loud",
+          "note": "Use 大 for a large amount or a high, loud, or intense level rather than for literal weight."
+        }
+      ],
       "examples": [
         {
           "english": "The bass is too heavy.",

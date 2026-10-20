@@ -6,7 +6,15 @@
   "boxes": [
     {
       "meaning": "pleasantly fresh in style",
-      "english": ["refreshing"],
+      "english": [
+        {
+          "id": "dapv75ut",
+          "word": "refreshing",
+          "meaning": "pleasantly fresh; invigorating",
+          "register": "written",
+          "note": "Use this as the all-purpose choice for a pleasantly fresh, clean, or different quality rather than a direct energy boost."
+        }
+      ],
       "register": "written",
       "examples": [
         {
@@ -18,7 +26,14 @@
     },
     {
       "meaning": "fresh, cool (air)",
-      "english": ["fresh"],
+      "english": [
+        {
+          "id": "9zfhsj5u",
+          "word": "fresh",
+          "meaning": "cool and refreshing",
+          "note": "Use this for air, a breeze, or another sensation that feels cool and refreshing."
+        }
+      ],
       "examples": [
         {
           "english": "This sea breeze feels so fresh.",

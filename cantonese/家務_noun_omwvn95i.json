@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "housework",
-      "english": ["housework", "domesticity", "household"],
+      "english": [
+        {
+          "id": "hfqywb4n",
+          "word": "housework",
+          "meaning": "domestic chores",
+          "note": "This is the all-purpose Cantonese noun for domestic chores such as cleaning and cooking."
+        },
+        {
+          "id": "bjccunm5",
+          "word": "domesticity",
+          "meaning": "housework",
+          "note": "Use this as the all-purpose noun for domestic chores and housework."
+        },
+        {
+          "id": "0fs7c64n",
+          "word": "household",
+          "meaning": "household chores/running a home",
+          "note": "Use this for the work and chores involved in running a home."
+        }
+      ],
       "examples": [
         {
           "english": "I did a lot of housework today.",

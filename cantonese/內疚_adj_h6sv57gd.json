@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "feeling guilty",
-      "english": ["remorseful", "guilty"],
+      "english": [
+        {
+          "id": "wj6jd4ia",
+          "word": "remorseful",
+          "meaning": "feeling remorse",
+          "note": "This is the all-purpose choice for describing someone who feels guilty and remorseful about what they did."
+        },
+        {
+          "id": "hecme31x",
+          "word": "guilty",
+          "meaning": "feeling guilt",
+          "note": "Use this for an inward feeling of guilt or remorse, especially a guilty conscience."
+        }
+      ],
       "examples": [
         {
           "english": "I still feel remorseful whenever I think about that.",

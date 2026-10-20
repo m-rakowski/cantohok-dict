@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "roughly, without going into detail",
-      "english": ["superficially", "crudely"],
+      "english": [
+        {
+          "id": "g7hgz12f",
+          "word": "superficially",
+          "meaning": "in a shallow way",
+          "note": "Use this when the superficial treatment is cursory or incomplete, such as looking over something quickly."
+        },
+        {
+          "id": "rjoty7o9",
+          "word": "crudely",
+          "meaning": "in a crude manner",
+          "note": "Use this when “crudely” means roughly or sketchily rather than carefully or in detail."
+        }
+      ],
       "examples": [
         {
           "english": "I only looked over the report superficially and haven't yet noticed how many errors it contains.",

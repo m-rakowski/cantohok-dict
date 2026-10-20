@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "repair van",
-      "english": ["van"],
+      "english": [
+        {
+          "id": "nr2xy43i",
+          "word": "van",
+          "meaning": "repair van",
+          "note": "Use this for a mobile vehicle fitted out to carry out repairs at sites where structures cannot be moved."
+        }
+      ],
       "examples": [
         {
           "english": "The repair crew uses a van to fix the bridge on site.",

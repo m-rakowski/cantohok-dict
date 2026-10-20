@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "shipping container",
-      "english": ["container"],
+      "english": [
+        {
+          "id": "njnporee",
+          "word": "container",
+          "meaning": "shipping container",
+          "note": "Use this specifically for the large metal containers used to ship goods."
+        }
+      ],
       "examples": [
         {
           "english": "This shipment will be loaded into a container and shipped to the United States tomorrow.",

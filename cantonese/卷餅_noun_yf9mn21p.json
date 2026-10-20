@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "filled wrap",
-      "english": ["wrap", "roll"],
+      "english": [
+        {
+          "id": "uf0a81kn",
+          "word": "wrap",
+          "meaning": "tortilla food wrap",
+          "note": "Use this for the tortilla or pancake food filled with ingredients, usually as a meal or snack."
+        },
+        {
+          "id": "t045cfyu",
+          "word": "roll",
+          "meaning": "filled wrap or sandwich",
+          "note": "Use this for flatbread or a similar food wrapped around a filling."
+        }
+      ],
       "examples": [
         {
           "english": "I had a chicken wrap for lunch.",

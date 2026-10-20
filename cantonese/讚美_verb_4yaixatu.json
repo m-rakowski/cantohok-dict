@@ -6,7 +6,40 @@
   "boxes": [
     {
       "meaning": "to praise highly, glorify",
-      "english": ["exalt", "laud", "magnify", "praise", "bless"],
+      "english": [
+        {
+          "id": "o3ivuy7r",
+          "word": "exalt",
+          "meaning": "honor; praise; worship",
+          "note": "Use this for praise, especially praising God or a person, rather than stressing reverence or rank."
+        },
+        {
+          "id": "ca4ldzh1",
+          "word": "laud",
+          "meaning": "praise, glorify",
+          "register": "formal",
+          "note": "Use 讚美 for more elevated praise, especially when praising God, a virtue, or something admirable."
+        },
+        {
+          "id": "61gvwm83",
+          "word": "magnify",
+          "meaning": "praise, glorify",
+          "note": "Use this for praising or glorifying someone, especially in religious contexts such as praising God."
+        },
+        {
+          "id": "89fs10ky",
+          "word": "praise",
+          "meaning": "praise; commend",
+          "register": "formal",
+          "note": "Use this especially for glorifying or worshipping a deity, or for elevated praise."
+        },
+        {
+          "id": "4qc3hl95",
+          "word": "bless",
+          "meaning": "praise and glorify",
+          "note": "Use this when praising or glorifying God, or praising someone for excellence."
+        }
+      ],
       "examples": [
         {
           "english": "We exalt God together.",

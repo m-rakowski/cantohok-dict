@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "mystery",
-      "english": ["mystery", "puzzle"],
+      "english": [
+        {
+          "id": "0oxsknko",
+          "word": "mystery",
+          "meaning": "something secret or unexplainable",
+          "note": "This is the all-purpose noun for an unsolved or puzzling mystery, especially an unexplained situation or thing rather than a mere secret."
+        },
+        {
+          "id": "evwizi2c",
+          "word": "puzzle",
+          "meaning": "mystery, enigma",
+          "note": "Use this for a mystery or enigma, such as an unexplained event or person."
+        }
+      ],
       "examples": [
         {
           "english": "This matter is still a mystery to this day.",

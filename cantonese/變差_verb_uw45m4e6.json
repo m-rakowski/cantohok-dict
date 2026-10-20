@@ -6,7 +6,44 @@
   "boxes": [
     {
       "meaning": "to get worse",
-      "english": ["worsen", "degrade", "decline", "decay", "descend", "suffer"],
+      "english": [
+        {
+          "id": "lto43msq",
+          "word": "worsen",
+          "meaning": "become worse",
+          "note": "This is the all-purpose spoken choice when something becomes worse, such as the weather or a situation."
+        },
+        {
+          "id": "xzbxho2g",
+          "word": "degrade",
+          "meaning": "become worse; deteriorate",
+          "note": "This is the all-purpose everyday choice when something becomes worse in quality or purity."
+        },
+        {
+          "id": "gyx7uhw9",
+          "word": "decline",
+          "meaning": "become worse",
+          "note": "Use 變差 as the all-purpose spoken verb when a condition, situation, or someone's health becomes worse."
+        },
+        {
+          "id": "pjrvs9mz",
+          "word": "decay",
+          "meaning": "deteriorate; decline",
+          "note": "Use this for a decline in quality, condition, performance, or health rather than physical rotting."
+        },
+        {
+          "id": "pkxaxhjs",
+          "word": "descend",
+          "meaning": "deteriorate into",
+          "note": "Use this when a situation itself worsens or deteriorates."
+        },
+        {
+          "id": "ds9bd2z2",
+          "word": "suffer",
+          "meaning": "be adversely affected",
+          "note": "Use this when a situation, performance, or condition becomes worse, as in schoolwork suffering."
+        }
+      ],
       "examples": [
         {
           "english": "The weather is starting to worsen.",

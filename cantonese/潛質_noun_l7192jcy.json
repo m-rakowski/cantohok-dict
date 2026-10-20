@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "potential, talent",
-      "english": ["potential", "promise"],
+      "english": [
+        {
+          "id": "2r485tzz",
+          "word": "potential",
+          "meaning": "unused ability",
+          "note": "Use this when emphasizing a person’s natural aptitude or talent, rather than general capacity."
+        },
+        {
+          "id": "v4w2z0k6",
+          "word": "promise",
+          "meaning": "potential / good signs",
+          "note": "Use 潛質 when promise means talent or likelihood of future success in a person."
+        }
+      ],
       "examples": [
         {
           "english": "Ming has a lot of potential; given some time, they’ll definitely get the hang of it.",

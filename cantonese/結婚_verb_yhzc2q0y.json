@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "get married",
-      "english": ["marry", "hitch", "join"],
+      "english": [
+        {
+          "id": "2gjgg9n6",
+          "word": "marry",
+          "meaning": "enter marriage",
+          "note": "This is the all-purpose choice for entering marriage."
+        },
+        {
+          "id": "k6mwj12g",
+          "word": "hitch",
+          "meaning": "get married (informal)",
+          "note": "Use this for the informal English sense of getting hitched; Cantonese does not need a special informal verb here."
+        },
+        {
+          "id": "1eku7dnr",
+          "word": "join",
+          "meaning": "marry, be joined",
+          "note": "Use this when joining specifically means marrying."
+        }
+      ],
       "examples": [
         {
           "english": "We plan to marry next year.",

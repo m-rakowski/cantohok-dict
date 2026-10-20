@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "welfare, benefits",
-      "english": ["welfare", "benefit"],
+      "english": [
+        {
+          "id": "2n6mm8xh",
+          "word": "welfare",
+          "meaning": "well-being",
+          "note": "This is the all-purpose choice for general welfare and the usual word for welfare benefits or payments."
+        },
+        {
+          "id": "oruw7xvi",
+          "word": "benefit",
+          "meaning": "welfare payment",
+          "note": "Use this for benefits provided by a welfare or assistance scheme, rather than an ordinary advantage."
+        }
+      ],
       "examples": [
         {
           "english": "The government increased welfare to help families in need.",

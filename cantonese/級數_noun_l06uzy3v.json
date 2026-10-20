@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "level, grade",
-      "english": ["league", "grade"],
+      "english": [
+        {
+          "id": "ozfzeij0",
+          "word": "league",
+          "meaning": "one's level; not comparable",
+          "note": "Use 級數 when comparing whether people or things are on the same level, as in being out of someone’s league."
+        },
+        {
+          "id": "hfo3rhet",
+          "word": "grade",
+          "meaning": "level; degree",
+          "register": "colloquial",
+          "note": "Use this for a quality rating or a position on a ranked scale rather than an unranked degree."
+        }
+      ],
       "examples": [
         {
           "english": "You and him are simply not in the same league.",

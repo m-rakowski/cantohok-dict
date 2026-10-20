@@ -6,7 +6,15 @@
   "boxes": [
     {
       "meaning": "state a legal plea",
-      "english": ["plead"],
+      "english": [
+        {
+          "id": "b1ce46be",
+          "word": "plead",
+          "meaning": "state a legal plea",
+          "register": "formal",
+          "note": "Use this in the legal setting when a defendant formally enters a plea or presents a defence."
+        }
+      ],
       "register": "formal",
       "examples": [
         {

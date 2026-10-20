@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "public sensation",
-      "english": ["sensation", "splash"],
+      "english": [
+        {
+          "id": "gou965q6",
+          "word": "sensation",
+          "meaning": "public excitement",
+          "note": "Use this for widespread public excitement or interest caused by an event."
+        },
+        {
+          "id": "v6fldm3c",
+          "word": "splash",
+          "meaning": "make a big impression",
+          "note": "Use this when an event attracts widespread attention or causes a sensation."
+        }
+      ],
       "examples": [
         {
           "english": "The film caused a sensation throughout the city as soon as it was released.",

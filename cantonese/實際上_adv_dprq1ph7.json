@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "in practice, actually",
-      "english": ["effectively", "practically"],
+      "english": [
+        {
+          "id": "amtb21md",
+          "word": "effectively",
+          "meaning": "in effect, practically",
+          "note": "Choose this when stressing practical reality rather than simply correcting or qualifying what was said."
+        },
+        {
+          "id": "hx29lfwg",
+          "word": "practically",
+          "meaning": "in practice; effectively",
+          "note": "Choose this when contrasting the actual situation with what is official, theoretical, or technically correct."
+        }
+      ],
       "examples": [
         {
           "english": "In practical terms, this plan effectively doesn’t help us save money.",

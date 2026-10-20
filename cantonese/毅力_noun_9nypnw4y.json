@@ -6,7 +6,44 @@
   "boxes": [
     {
       "meaning": "perseverance, willpower",
-      "english": ["perseverance", "tenacity", "persistence", "endurance", "pluck", "courage"],
+      "english": [
+        {
+          "id": "n6eu4o0y",
+          "word": "perseverance",
+          "meaning": "sticking at it",
+          "note": "Use 毅力 as the all-purpose noun for the ability to keep going despite setbacks."
+        },
+        {
+          "id": "syiq3g9n",
+          "word": "tenacity",
+          "meaning": "persistence, determination",
+          "note": "This is the all-purpose choice for persistence and determination toward a goal."
+        },
+        {
+          "id": "3epztb63",
+          "word": "persistence",
+          "meaning": "sticking with something",
+          "note": "Use this when emphasizing the inner strength and endurance needed to keep going over time."
+        },
+        {
+          "id": "aerutvs0",
+          "word": "endurance",
+          "meaning": "stamina; persistence",
+          "note": "Choose this when the emphasis is on persistence and continuing despite difficulty rather than physical stamina alone."
+        },
+        {
+          "id": "4rq9l7d3",
+          "word": "pluck",
+          "meaning": "nerve; courage",
+          "note": "Use this when the pluck means persistence and determination over time."
+        },
+        {
+          "id": "28fv24iz",
+          "word": "courage",
+          "meaning": "moral fortitude",
+          "note": "Use this for the persistence to continue through weakness, frustration, or adversity, where the emphasis is fortitude rather than fearlessness."
+        }
+      ],
       "examples": [
         {
           "english": "Despite repeated failures, I still completed the plan through perseverance.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "software bug",
-      "english": ["bug"],
+      "english": [
+        {
+          "id": "vor348vw",
+          "word": "bug",
+          "meaning": "software bug",
+          "note": "Use this for a fault in a computer program rather than for a physical insect."
+        }
+      ],
       "examples": [
         {
           "english": "The system has a bug, so it keeps shutting down by itself.",

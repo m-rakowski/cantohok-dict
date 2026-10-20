@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "moderate severity",
-      "english": ["moderate"],
+      "english": [
+        {
+          "id": "alci4663",
+          "word": "moderate",
+          "meaning": "moderate severity",
+          "note": "Use this specifically for a condition, problem, or symptom that is more than mild but not severe."
+        }
+      ],
       "examples": [
         {
           "english": "I have a moderate fever this morning, but it is not severe.",

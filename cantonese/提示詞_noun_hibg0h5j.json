@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "AI prompt",
-      "english": ["prompt"],
+      "english": [
+        {
+          "id": "cdcq5cuj",
+          "word": "prompt",
+          "meaning": "AI prompt",
+          "note": "Use this for text instructions given to an AI model to generate an answer or image."
+        }
+      ],
       "examples": [
         {
           "english": "We entered a prompt asking the model to generate a picture of a sunset by the sea.",

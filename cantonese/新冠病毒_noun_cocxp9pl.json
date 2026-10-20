@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "coronavirus, esp. SARS-CoV-2",
-      "english": ["corona"],
+      "english": [
+        {
+          "id": "fce5acll",
+          "word": "corona",
+          "meaning": "coronavirus, esp. SARS-CoV-2",
+          "note": "Use this for the SARS-CoV-2 virus itself rather than the illness it causes."
+        }
+      ],
       "examples": [
         {
           "english": "The corona virus can spread through droplets.",

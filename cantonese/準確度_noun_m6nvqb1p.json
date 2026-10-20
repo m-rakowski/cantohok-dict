@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "accuracy",
-      "english": ["accuracy", "exactness", "precision"],
+      "english": [
+        {
+          "id": "7pu6kdlh",
+          "word": "accuracy",
+          "meaning": "exactness; correctness",
+          "note": "This is the all-purpose noun for the degree or state of being accurate or correct."
+        },
+        {
+          "id": "e6o12y31",
+          "word": "exactness",
+          "meaning": "being exact",
+          "note": "This is the all-purpose noun for how exact or accurate something is."
+        },
+        {
+          "id": "ctyadwdo",
+          "word": "precision",
+          "meaning": "exactness; accuracy",
+          "note": "This is the all-purpose choice for the exactness or accuracy of a result."
+        }
+      ],
       "examples": [
         {
           "english": "The accuracy of this instrument is very high.",

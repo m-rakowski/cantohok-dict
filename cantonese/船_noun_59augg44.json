@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "boat, ship",
-      "english": ["ship", "boat", "craft"],
+      "english": [
+        {
+          "id": "2datq5lp",
+          "word": "ship",
+          "meaning": "large vessel",
+          "note": "This is the all-purpose noun for a waterborne vessel generally larger than a boat."
+        },
+        {
+          "id": "1v20323o",
+          "word": "boat",
+          "meaning": "watercraft",
+          "note": "This is the all-purpose noun for a small craft used to travel on water, as opposed to a larger ship."
+        },
+        {
+          "id": "0ek7gobo",
+          "word": "craft",
+          "meaning": "vehicle; vessel",
+          "note": "Use this for a watercraft rather than for a flying craft."
+        }
+      ],
       "examples": [
         {
           "english": "That ship sails tomorrow morning.",

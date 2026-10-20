@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "maybe, perhaps",
-      "english": ["perhaps", "maybe"],
+      "english": [
+        {
+          "id": "hofvjxgk",
+          "word": "perhaps",
+          "meaning": "possibly",
+          "note": "This is the all-purpose casual choice for saying that something may happen."
+        },
+        {
+          "id": "vy3aah6w",
+          "word": "maybe",
+          "meaning": "perhaps; possibly",
+          "note": "Use this common alternative when presenting something as a possibility or giving a tentative “maybe” reply."
+        }
+      ],
       "examples": [
         {
           "english": "Perhaps it will rain tomorrow.",
@@ -22,7 +35,14 @@
     },
     {
       "meaning": "or, alternatively",
-      "english": ["alternatively"],
+      "english": [
+        {
+          "id": "7alnprlj",
+          "word": "alternatively",
+          "meaning": "introducing another option",
+          "note": "This is the all-purpose way to introduce another option in everyday Cantonese."
+        }
+      ],
       "examples": [
         {
           "english": "Do you want rice, or alternatively noodles?",

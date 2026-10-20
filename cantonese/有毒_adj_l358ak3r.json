@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "poisonous",
-      "english": ["poisonous", "toxic", "venomous"],
+      "english": [
+        {
+          "id": "vsf1223r",
+          "word": "poisonous",
+          "meaning": "toxic / dangerous to touch or eat",
+          "note": "This is the all-purpose choice for a substance that is dangerous to touch or ingest."
+        },
+        {
+          "id": "ufpquwvv",
+          "word": "toxic",
+          "meaning": "poisonous; harmful if ingested",
+          "note": "This is the all-purpose choice for poisonous substances and the modern figurative choice for a person whose behaviour is harmful or hateful."
+        },
+        {
+          "id": "ee6oeu3d",
+          "word": "venomous",
+          "meaning": "poisonous, venom-producing",
+          "note": "This is the all-purpose everyday choice for a venom-producing animal or a bite or sting that injects venom."
+        }
+      ],
       "examples": [
         {
           "english": "This cleaning agent is poisonous, so don't touch it with your hands.",

@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "public transport",
-      "english": ["public transport", "transport"],
+      "english": [
+        {
+          "id": "ilaw184m",
+          "word": "public transport",
+          "meaning": "public transport",
+          "register": "formal",
+          "note": "Use this more generally for public transport as a transport system or category, especially in official or informational contexts."
+        },
+        {
+          "id": "9es88v9a",
+          "word": "transport",
+          "meaning": "public transport",
+          "note": "Use this for the public-transport system serving a region, rather than transport in general."
+        }
+      ],
       "examples": [
         {
           "english": "The government encourages people to use public transport more to reduce road congestion.",

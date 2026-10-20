@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "rescue, relief help",
-      "english": ["rescue", "salvation", "relief"],
+      "english": [
+        {
+          "id": "wadxt19k",
+          "word": "rescue",
+          "meaning": "act of rescue",
+          "note": "This is the all-purpose noun for a rescue operation or episode of saving someone."
+        },
+        {
+          "id": "qcgb1oky",
+          "word": "salvation",
+          "meaning": "rescue; saving",
+          "note": "This is the all-purpose noun for rescue or practical saving outside a specifically religious context."
+        },
+        {
+          "id": "rur97iez",
+          "word": "relief",
+          "meaning": "aid in need",
+          "note": "Use this for emergency aid or assistance arriving after a disaster or other crisis."
+        }
+      ],
       "examples": [
         {
           "english": "The rescue finally arrived.",

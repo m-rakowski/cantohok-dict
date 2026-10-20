@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "scenery, view",
-      "english": ["view", "outlook", "perspective"],
+      "english": [
+        {
+          "id": "cxr6yphp",
+          "word": "view",
+          "meaning": "scenery or outlook",
+          "note": "Use this for scenery or an outlook, especially what can be seen from a place."
+        },
+        {
+          "id": "uu8k58ou",
+          "word": "outlook",
+          "meaning": "view from a place",
+          "note": "Use this for the visible scenery or view from a place."
+        },
+        {
+          "id": "uqdt79ga",
+          "word": "perspective",
+          "meaning": "view; outlook",
+          "note": "Use this for a physical view or vista, not for someone's point of view."
+        }
+      ],
       "examples": [
         {
           "english": "The view here is really beautiful.",

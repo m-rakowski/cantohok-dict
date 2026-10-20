@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "hourly pay",
-      "english": ["wage", "rate"],
+      "english": [
+        {
+          "id": "e37yyplf",
+          "word": "wage",
+          "meaning": "worker pay",
+          "note": "Use this when the pay is explicitly calculated as an amount per hour."
+        },
+        {
+          "id": "q7y71mhm",
+          "word": "rate",
+          "meaning": "wage rate",
+          "note": "Use this specifically for pay calculated for each hour worked."
+        }
+      ],
       "examples": [
         {
           "english": "The hourly wage for this part-time job is sixty dollars an hour.",

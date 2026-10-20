@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "ironic remark, saying the opposite",
-      "english": ["irony", "sarcasm"],
+      "english": [
+        {
+          "id": "by60d1c5",
+          "word": "irony",
+          "meaning": "verbal irony",
+          "note": "For an everyday ironic remark, this is the all-purpose choice."
+        },
+        {
+          "id": "m60ibwky",
+          "word": "sarcasm",
+          "meaning": "mocking contempt",
+          "note": "Use this when the sarcasm specifically works by saying the opposite of what is meant."
+        }
+      ],
       "examples": [
         {
           "english": "He says he hates being late, but he is always late—that's pure irony.",

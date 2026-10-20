@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "to suit, to match",
-      "english": ["suit", "match", "become"],
+      "english": [
+        {
+          "id": "ot0ictr2",
+          "word": "suit",
+          "meaning": "be right for someone",
+          "note": "Use this especially when clothes, colours, or a style suit someone's appearance or image."
+        },
+        {
+          "id": "lldg8x1z",
+          "word": "match",
+          "meaning": "pair correctly",
+          "note": "Use 襯 when matching colours, clothes, or other visually coordinated items rather than pairing objects into sets."
+        },
+        {
+          "id": "c4v7pcre",
+          "word": "become",
+          "meaning": "look good on someone",
+          "note": "Use this for clothes, colours, or accessories that look attractive on a particular person."
+        }
+      ],
       "examples": [
         {
           "english": "This shirt really seems to suit you.",

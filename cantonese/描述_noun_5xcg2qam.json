@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "description",
-      "english": ["description", "depiction"],
+      "english": [
+        {
+          "id": "xscnsxge",
+          "word": "description",
+          "meaning": "account / verbal description",
+          "register": "formal",
+          "note": "Use this as the all-purpose noun for a verbal account or portrayal of something."
+        },
+        {
+          "id": "crcyx5ba",
+          "word": "depiction",
+          "meaning": "act of depicting",
+          "note": "This is the all-purpose noun for a verbal portrayal or the act of presenting something in words; use 畫 for a physical image."
+        }
+      ],
       "examples": [
         {
           "english": "This report gives a detailed description of what happened in the accident.",

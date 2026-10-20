@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "host, presenter",
-      "english": ["broadcaster", "presenter", "host"],
+      "english": [
+        {
+          "id": "kt0mz3ye",
+          "word": "broadcaster",
+          "meaning": "TV/radio presenter",
+          "note": "This is the all-purpose choice for a person who presents radio or television programmes."
+        },
+        {
+          "id": "7ctv2dhb",
+          "word": "presenter",
+          "meaning": "broadcast host / MC",
+          "note": "This is the all-purpose term for a person who hosts a broadcast programme."
+        },
+        {
+          "id": "qyp94cbe",
+          "word": "host",
+          "meaning": "show host / MC",
+          "note": "Use this specifically for the person who hosts or emcees a show or performance."
+        }
+      ],
       "examples": [
         {
           "english": "The broadcaster is hosting the news programme today.",

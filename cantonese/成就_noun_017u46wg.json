@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "achievement",
-      "english": ["achievement", "attainment", "fruition", "completion", "performance"],
+      "english": [
+        {
+          "id": "66zf4ygs",
+          "word": "achievement",
+          "meaning": "accomplishment",
+          "note": "This is the all-purpose noun for a successful accomplishment, and in games it means an unlocked achievement."
+        },
+        {
+          "id": "z4vwz98s",
+          "word": "attainment",
+          "meaning": "achievement, result obtained",
+          "note": "Use 成就 for a notable achievement, especially a personal or professional one."
+        },
+        {
+          "id": "1rl3zdh8",
+          "word": "fruition",
+          "meaning": "fulfillment; realization",
+          "note": "Use this when the fruition is presented as a personal achievement or accomplishment."
+        },
+        {
+          "id": "1zs5p5m6",
+          "word": "completion",
+          "meaning": "making something complete",
+          "note": "Use this for the accomplishment or achievement resulting from successfully completing something."
+        },
+        {
+          "id": "lx50kjzi",
+          "word": "performance",
+          "meaning": "doing, carrying out",
+          "note": "Use 成就 for the achievement or accomplishment resulting from an action, rather than the act of carrying it out."
+        }
+      ],
       "examples": [
         {
           "english": "Completing this project successfully is truly an achievement for our team.",

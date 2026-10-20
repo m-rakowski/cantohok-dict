@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "overdraft limit",
-      "english": ["overdraft"],
+      "english": [
+        {
+          "id": "3dmbm6b7",
+          "word": "overdraft",
+          "meaning": "overdraft limit",
+          "note": "Use this when referring specifically to the maximum amount the bank allows you to overdraw."
+        }
+      ],
       "examples": [
         {
           "english": "The bank raised my account’s overdraft limit to twenty thousand dollars.",

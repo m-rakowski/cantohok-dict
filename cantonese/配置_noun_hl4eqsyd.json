@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "car trim level",
-      "english": ["trim"],
+      "english": [
+        {
+          "id": "bg02uzy3",
+          "word": "trim",
+          "meaning": "car trim level",
+          "note": "In automotive contexts, this means the equipment and established feature configuration of a vehicle version."
+        }
+      ],
       "examples": [
         {
           "english": "This trim level is better equipped; it even has a sunroof.",

@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "long-term",
-      "english": ["long-term", "permanent", "secular"],
+      "english": [
+        {
+          "id": "q8wtdgld",
+          "word": "long-term",
+          "meaning": "lasting a long time",
+          "note": "Use 長期 as the all-purpose choice, including for effects that only become apparent after a long time."
+        },
+        {
+          "id": "kwtueg8p",
+          "word": "permanent",
+          "meaning": "lasting indefinitely",
+          "note": "Use this for an ongoing state, condition, or arrangement that continues for a very long or indefinite period, rather than necessarily forever."
+        },
+        {
+          "id": "aq4rvxmv",
+          "word": "secular",
+          "meaning": "long-term; non-annual",
+          "note": "Use this in economic or other technical contexts where “secular” means continuing over a long period rather than annual or short-term."
+        }
+      ],
       "examples": [
         {
           "english": "The long-term side effects of this medicine remain to be seen.",

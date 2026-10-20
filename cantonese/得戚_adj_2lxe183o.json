@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "smug, gloating",
-      "english": ["exultant", "smug"],
+      "english": [
+        {
+          "id": "8etwooty",
+          "word": "exultant",
+          "meaning": "very happy at victory",
+          "register": "colloquial",
+          "note": "This is the all-purpose colloquial choice when someone is smugly pleased after winning or seeing an opponent lose."
+        },
+        {
+          "id": "tuwimucx",
+          "word": "smug",
+          "meaning": "self-satisfied, complacent",
+          "note": "This is the all-purpose colloquial choice for someone irritatingly pleased with themselves."
+        }
+      ],
       "examples": [
         {
           "english": "They were exultant after winning the match, and it was really irritating to watch.",

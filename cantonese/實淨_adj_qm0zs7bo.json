@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "solid, sturdy",
-      "english": ["solid", "firm"],
+      "english": [
+        {
+          "id": "bzz3itzo",
+          "word": "solid",
+          "meaning": "strong, firm",
+          "register": "colloquial",
+          "note": "Use 實淨 when something is physically sturdy, firm, or not weak."
+        },
+        {
+          "id": "p203ock5",
+          "word": "firm",
+          "meaning": "solid, secure",
+          "note": "Use 實淨 for a physical thing, body part, or piece of land that is solid and firm rather than soft or unstable."
+        }
+      ],
       "examples": [
         {
           "english": "This table is really solid; it won't wobble no matter how hard you push it.",

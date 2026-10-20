@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "get back",
-      "english": ["reclaim", "regain"],
+      "english": [
+        {
+          "id": "bfqsn070",
+          "word": "reclaim",
+          "meaning": "get back, repossess",
+          "register": "colloquial",
+          "note": "This is the all-purpose colloquial choice for getting an object back."
+        },
+        {
+          "id": "073zeq39",
+          "word": "regain",
+          "meaning": "get back, recover possession",
+          "note": "This is the all-purpose colloquial choice for getting something back or recovering possession of it."
+        }
+      ],
       "examples": [
         {
           "english": "I’m going to reclaim my book.",

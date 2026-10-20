@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "necessary, required",
-      "english": ["essential", "basic"],
+      "english": [
+        {
+          "id": "8gm7y2ec",
+          "word": "essential",
+          "meaning": "necessary",
+          "register": "written",
+          "note": "Use this as the direct equivalent when something is required."
+        },
+        {
+          "id": "4jl7izgv",
+          "word": "basic",
+          "meaning": "essential; necessary",
+          "note": "Choose this when the sense is strict necessity or indispensability, rather than merely being foundational."
+        }
+      ],
       "examples": [
         {
           "english": "A passport is an essential document for applying for a visa.",

@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "lucky",
-      "english": ["lucky", "fortunate", "happy"],
+      "english": [
+        {
+          "id": "ndgi9ejo",
+          "word": "lucky",
+          "meaning": "fortunate; having good luck",
+          "note": "Use this as the all-purpose colloquial choice for a person or event that turns out fortunately."
+        },
+        {
+          "id": "9kl6p3au",
+          "word": "fortunate",
+          "meaning": "lucky; favored by fortune",
+          "register": "colloquial",
+          "note": "This is the all-purpose colloquial choice, especially when someone narrowly avoids a bad outcome."
+        },
+        {
+          "id": "zkbwklnh",
+          "word": "happy",
+          "meaning": "lucky, fortunate",
+          "note": "Use this when happy means lucky or fortunate."
+        }
+      ],
       "examples": [
         {
           "english": "I was lucky to catch the last train.",

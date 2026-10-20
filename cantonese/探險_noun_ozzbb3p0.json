@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "adventurous expedition",
-      "english": ["venture", "exploration"],
+      "english": [
+        {
+          "id": "qiupnrwe",
+          "word": "venture",
+          "meaning": "risky undertaking",
+          "note": "Use this specifically for a daring journey or expedition of exploration."
+        },
+        {
+          "id": "flwrujpc",
+          "word": "exploration",
+          "meaning": "geographical discovery",
+          "note": "Choose 探險 for geographical exploration presented as an adventurous journey into unknown places."
+        }
+      ],
       "examples": [
         {
           "english": "We brought a compass for our rainforest venture.",

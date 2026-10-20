@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "electrical terminal",
-      "english": ["electrode"],
+      "english": [
+        {
+          "id": "n5c073tc",
+          "word": "electrode",
+          "meaning": "electrical terminal",
+          "note": "This is the all-purpose technical term for an electrode, including a circuit terminal and a semiconductor collector or emitter."
+        }
+      ],
       "examples": [
         {
           "english": "The electrode on this circuit board has a poor connection.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "answer",
-      "english": ["answer", "response"],
+      "english": [
+        {
+          "id": "yrq0e93o",
+          "word": "answer",
+          "meaning": "solution",
+          "note": "This is the all-purpose noun for an answer or solution to a question or problem."
+        },
+        {
+          "id": "40pfm63d",
+          "word": "response",
+          "meaning": "answer or reply",
+          "note": "Use this when the response is specifically an answer to a question or problem."
+        }
+      ],
       "examples": [
         {
           "english": "The answer to this problem is very simple.",

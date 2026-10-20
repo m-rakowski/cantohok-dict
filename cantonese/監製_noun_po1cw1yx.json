@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "producer of a film or show",
-      "english": ["impresario", "producer"],
+      "english": [
+        {
+          "id": "29x8am35",
+          "word": "impresario",
+          "meaning": "entertainment manager/producer",
+          "note": "Use this mainly for a producer overseeing a film, television, or other large-scale entertainment production."
+        },
+        {
+          "id": "34am71lj",
+          "word": "producer",
+          "meaning": "film or music producer",
+          "note": "Use this especially for the credited producer or supervising producer of a film or television programme."
+        }
+      ],
       "examples": [
         {
           "english": "They are the impresario overseeing the film production and coordinating the entire crew.",

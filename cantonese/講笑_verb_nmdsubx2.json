@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "to joke",
-      "english": ["joke", "kid", "crack"],
+      "english": [
+        {
+          "id": "kgup210a",
+          "word": "joke",
+          "meaning": "joke around",
+          "note": "This is the all-purpose choice for saying that you are not being serious or are joking with someone."
+        },
+        {
+          "id": "40dijlau",
+          "word": "kid",
+          "meaning": "joke; be kidding",
+          "note": "Use this for simply joking rather than seriously stating something."
+        },
+        {
+          "id": "jcbsk1mk",
+          "word": "crack",
+          "meaning": "joke around",
+          "note": "Use 講笑 when someone makes or tells a joke, especially a pointed or inappropriate one."
+        }
+      ],
       "examples": [
         {
           "english": "I’m just making a joke; you don’t have to take it so seriously.",

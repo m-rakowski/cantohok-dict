@@ -6,7 +6,15 @@
   "boxes": [
     {
       "meaning": "doctor’s appointment",
-      "english": ["consultation"],
+      "english": [
+        {
+          "id": "grb0eapv",
+          "word": "consultation",
+          "meaning": "doctor’s appointment",
+          "register": "formal",
+          "note": "This is the all-purpose term for seeking advice or having a professional consultation, especially in formal contexts."
+        }
+      ],
       "register": "formal",
       "examples": [
         {

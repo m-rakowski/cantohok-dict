@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "idiot (vulgar)",
-      "english": ["idiot", "mug"],
+      "english": [
+        {
+          "id": "yj6wed2a",
+          "word": "idiot",
+          "meaning": "stupid person",
+          "register": "colloquial",
+          "note": "Choose 戇鳩 when you want a strongly vulgar, mocking word, especially for someone acting like a fool."
+        },
+        {
+          "id": "gy94pjxs",
+          "word": "mug",
+          "meaning": "stupid person",
+          "register": "colloquial",
+          "note": "Use this as a colloquial insult for a stupid or contemptible person."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "a bit, somewhat",
-      "english": ["partly", "slightly", "somewhat"],
+      "english": [
+        {
+          "id": "32vxhy44",
+          "word": "partly",
+          "meaning": "to some degree",
+          "note": "Use this as the everyday all-purpose choice when “partly” means to some degree or somewhat."
+        },
+        {
+          "id": "bd4lpytc",
+          "word": "slightly",
+          "meaning": "to a small extent",
+          "note": "This is the all-purpose colloquial choice for a small degree, including descriptions of a slightly slender or delicate build."
+        },
+        {
+          "id": "xe8bh4v7",
+          "word": "somewhat",
+          "meaning": "to some extent",
+          "note": "This is the all-purpose colloquial choice for saying that something is true to a limited degree."
+        }
+      ],
       "examples": [
         {
           "english": "I partly understand now.",

@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "blank",
-      "english": ["blank", "vacant", "clean"],
+      "english": [
+        {
+          "id": "8gsotcnr",
+          "word": "blank",
+          "meaning": "empty, unmarked",
+          "note": "Use this as the all-purpose adjective for something with no writing, printing, or marks."
+        },
+        {
+          "id": "ozdh1onr",
+          "word": "vacant",
+          "meaning": "blank",
+          "note": "Use this for a page or other surface with nothing written or shown on it."
+        },
+        {
+          "id": "famfi2gt",
+          "word": "clean",
+          "meaning": "blank / unused",
+          "note": "Use 空白 when a page or other surface is blank and unmarked."
+        }
+      ],
       "examples": [
         {
           "english": "There are still a few blank spaces on this form.",

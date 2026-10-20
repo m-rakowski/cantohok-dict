@@ -6,7 +6,56 @@
   "boxes": [
     {
       "meaning": "rubbish, garbage",
-      "english": ["garbage", "waste", "debris", "refuse", "rubbish", "trash", "litter", "stuff"],
+      "english": [
+        {
+          "id": "nrx7lkpo",
+          "word": "garbage",
+          "meaning": "waste material",
+          "note": "This is the all-purpose choice for physical waste, and it can also be used as a harsh noun for a worthless person or thing."
+        },
+        {
+          "id": "h91judue",
+          "word": "waste",
+          "meaning": "rubbish, discarded material",
+          "note": "Use this as the all-purpose word for rubbish or discarded material."
+        },
+        {
+          "id": "ytifny6o",
+          "word": "debris",
+          "meaning": "litter, refuse",
+          "note": "This is the all-purpose choice for litter and discarded refuse."
+        },
+        {
+          "id": "pj71n5ue",
+          "word": "refuse",
+          "meaning": "rubbish, garbage",
+          "note": "This is the all-purpose everyday word for discarded material, rubbish, or garbage."
+        },
+        {
+          "id": "ugyb8m25",
+          "word": "rubbish",
+          "meaning": "trash, garbage",
+          "note": "This is the all-purpose noun for physical rubbish and, more broadly, worthless stuff."
+        },
+        {
+          "id": "6z5ahn1r",
+          "word": "trash",
+          "meaning": "rubbish; refuse",
+          "note": "Use 垃圾 as the all-purpose noun for discarded rubbish and, figuratively, something worthless or poor-quality."
+        },
+        {
+          "id": "l9qfoui8",
+          "word": "litter",
+          "meaning": "trash; garbage",
+          "note": "Use 垃圾 as the all-purpose word for waste or rubbish, especially rubbish left on the ground."
+        },
+        {
+          "id": "bnc4njyq",
+          "word": "stuff",
+          "meaning": "rubbish; nonsense",
+          "note": "Use 垃圾 when “stuff” means refuse or worthless matter, rather than for nonsense in speech."
+        }
+      ],
       "examples": [
         {
           "english": "The garbage in the kitchen stinks, so take it out quickly.",
@@ -52,7 +101,15 @@
     },
     {
       "meaning": "junk, worthless things",
-      "english": ["junk"],
+      "english": [
+        {
+          "id": "fpbbxavt",
+          "word": "junk",
+          "meaning": "miscellaneous worthless things",
+          "register": "colloquial",
+          "note": "Use this for things treated as worthless or low-quality, including junk food; for ordinary mixed clutter, 雜物 is more neutral."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

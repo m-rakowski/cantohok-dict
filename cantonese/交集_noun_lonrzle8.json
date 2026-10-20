@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "overlap, shared part of sets",
-      "english": ["overlap", "intersection"],
+      "english": [
+        {
+          "id": "tjl7u3qp",
+          "word": "overlap",
+          "meaning": "shared area / overlap",
+          "note": "Use this for the shared part of sets, groups, or categories, especially in mathematical or analytical contexts."
+        },
+        {
+          "id": "is4hgg63",
+          "word": "intersection",
+          "meaning": "geometric intersection",
+          "note": "Use this for the common set of points or elements in mathematical objects or sets, rather than a single named crossing point."
+        }
+      ],
       "examples": [
         {
           "english": "The overlap between these two sets is the elements they share.",

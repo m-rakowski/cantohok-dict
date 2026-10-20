@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "pitch of a sound",
-      "english": ["pitch", "tone"],
+      "english": [
+        {
+          "id": "ome7arl9",
+          "word": "pitch",
+          "meaning": "musical note frequency",
+          "note": "Use this as the standard term for the perceived frequency of a musical or other sound."
+        },
+        {
+          "id": "x4zlhlgx",
+          "word": "tone",
+          "meaning": "pitch",
+          "note": "Use this for a specific musical or acoustic pitch, rather than a word's linguistic tone."
+        }
+      ],
       "examples": [
         {
           "english": "The pitch of this song keeps rising and falling, and it sounds uncomfortable.",

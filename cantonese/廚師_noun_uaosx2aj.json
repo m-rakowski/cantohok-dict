@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "head cook of a restaurant",
-      "english": ["chef"],
+      "english": [
+        {
+          "id": "gbulgcve",
+          "word": "chef",
+          "meaning": "head cook of a restaurant",
+          "note": "This is the all-purpose noun for a professional cook, including a restaurant's head chef."
+        }
+      ],
       "examples": [
         {
           "english": "The chef at this restaurant cooks to a high standard.",

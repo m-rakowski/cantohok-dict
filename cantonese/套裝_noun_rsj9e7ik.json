@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "bundle of components",
-      "english": ["package"],
+      "english": [
+        {
+          "id": "a5okci1b",
+          "word": "package",
+          "meaning": "bundle of components",
+          "note": "Use this for a bundled set of components, especially when the emphasis is on the collection as a whole rather than its installation format."
+        }
+      ],
       "examples": [
         {
           "english": "This software package includes three programs.",

@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "share, portion",
-      "english": ["share", "part", "distribution"],
+      "english": [
+        {
+          "id": "ay4jihfg",
+          "word": "share",
+          "meaning": "portion; part",
+          "note": "Use this for a portion or allotted part of something, such as a share of loot or food."
+        },
+        {
+          "id": "bm7zqq01",
+          "word": "part",
+          "meaning": "ratio in mixture",
+          "note": "Use this for someone’s share or for a counted proportion in a mixture, such as one part of an ingredient."
+        },
+        {
+          "id": "r0y7f9p9",
+          "word": "distribution",
+          "meaning": "share; portion",
+          "note": "Use this for an individual portion or share rather than the process of distributing things."
+        }
+      ],
       "examples": [
         {
           "english": "I put your share of the roast meat in the fridge.",

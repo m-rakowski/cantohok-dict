@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "inner, inherent",
-      "english": ["intrinsic", "inherent"],
+      "english": [
+        {
+          "id": "zd1n6j7s",
+          "word": "intrinsic",
+          "meaning": "inherent; essential",
+          "note": "This is the all-purpose choice for something essential or inseparable from the thing itself, including intrinsic value."
+        },
+        {
+          "id": "3saz22yn",
+          "word": "inherent",
+          "meaning": "naturally part of",
+          "note": "Use this when the inherent quality is an inner or intrinsic feature rather than an outward or added one."
+        }
+      ],
       "examples": [
         {
           "english": "This sense of fulfillment comes from the intrinsic value of the work itself, not from artificial additions.",

@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "to trust or believe what someone says",
-      "english": ["rely", "depend", "buy"],
+      "english": [
+        {
+          "id": "sc8t8t3r",
+          "word": "rely",
+          "meaning": "depend on; trust",
+          "note": "Use this when “rely” emphasizes trusting someone's honesty, judgment, or ability rather than depending on a resource."
+        },
+        {
+          "id": "mhly9nvw",
+          "word": "depend",
+          "meaning": "rely on; trust",
+          "note": "Use this when depend means trusting someone's word, assurance, or judgment rather than relying on practical help."
+        },
+        {
+          "id": "arrqgths",
+          "word": "buy",
+          "meaning": "believe, accept",
+          "note": "Use this for accepting an excuse, claim, or story as true, especially in phrases like 唔信你啲藉口."
+        }
+      ],
       "examples": [
         {
           "english": "I rely on you to handle this matter.",
@@ -27,7 +46,14 @@
     },
     {
       "meaning": "to believe in a god or ghosts",
-      "english": ["believe"],
+      "english": [
+        {
+          "id": "bbwifhwf",
+          "word": "believe",
+          "meaning": "believe in",
+          "note": "Use this for religious faith or for accepting that a god, spirit, ghost, or other entity exists."
+        }
+      ],
       "examples": [
         {
           "english": "I believe in ghosts.",

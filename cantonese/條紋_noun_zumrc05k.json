@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "stripe",
-      "english": ["stripe", "band"],
+      "english": [
+        {
+          "id": "vf833wcq",
+          "word": "stripe",
+          "meaning": "colour band pattern",
+          "note": "This is the all-purpose choice for a repeating pattern of bands or a single coloured band."
+        },
+        {
+          "id": "j1vei8yt",
+          "word": "band",
+          "meaning": "stripe, band of color",
+          "note": "Use this for a visible stripe or long band of contrasting colour or material."
+        }
+      ],
       "examples": [
         {
           "english": "This shirt has a blue stripe.",

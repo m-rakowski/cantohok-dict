@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "dull, boring",
-      "english": ["uninspiring", "ponderous", "pedestrian"],
+      "english": [
+        {
+          "id": "nrithyly",
+          "word": "uninspiring",
+          "meaning": "not inspiring",
+          "note": "Use this when the uninspiring thing is specifically dull or boring."
+        },
+        {
+          "id": "4h9qag9w",
+          "word": "ponderous",
+          "meaning": "dull, tedious, long-winded",
+          "note": "Use this for dull or tedious speech, writing, humour, or other material."
+        },
+        {
+          "id": "eslt6aku",
+          "word": "pedestrian",
+          "meaning": "ordinary, dull",
+          "note": "Use this when pedestrian specifically means dull, boring, or lacking excitement."
+        }
+      ],
       "examples": [
         {
           "english": "The film is uninspiring, and I fell asleep after watching it for a while.",

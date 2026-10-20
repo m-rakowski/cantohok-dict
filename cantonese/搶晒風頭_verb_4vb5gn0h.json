@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "steal the spotlight",
-      "english": ["overshadow", "outshine"],
+      "english": [
+        {
+          "id": "3a0p8ko3",
+          "word": "overshadow",
+          "meaning": "outshine, dominate",
+          "register": "colloquial",
+          "note": "Use this when a person or event gets all the attention and overshadows another in a social or public situation."
+        },
+        {
+          "id": "0fiuw4g3",
+          "word": "outshine",
+          "meaning": "surpass visibly",
+          "register": "colloquial",
+          "note": "Use this when a person steals the spotlight or attracts more attention than someone else."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

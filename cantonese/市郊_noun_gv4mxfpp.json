@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "suburbs, city outskirts",
-      "english": ["outskirts", "suburb"],
+      "english": [
+        {
+          "id": "ll780ird",
+          "word": "outskirts",
+          "meaning": "edge of a town",
+          "note": "Use this when specifically referring to the outskirts of a city or town rather than a general suburban district."
+        },
+        {
+          "id": "b9mt9f3i",
+          "word": "suburb",
+          "meaning": "city outskirts residential area",
+          "note": "This is the all-purpose term for a residential area on the outskirts of a city."
+        }
+      ],
       "examples": [
         {
           "english": "This hotel is on the outskirts of the city, and it takes half an hour to get downtown.",

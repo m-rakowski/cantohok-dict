@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "cliché, tired old talk",
-      "english": ["truism", "prose"],
+      "english": [
+        {
+          "id": "nwray26d",
+          "word": "truism",
+          "meaning": "cliché, banal statement",
+          "note": "Use this as the usual choice for a hackneyed or banal statement."
+        },
+        {
+          "id": "cunifvfu",
+          "word": "prose",
+          "meaning": "dull, plain speech/writing",
+          "register": "formal",
+          "note": "Use this for dull discourse made up of trite or commonplace remarks rather than specifically for its writing style."
+        }
+      ],
       "examples": [
         {
           "english": "What they said is just a truism, with nothing new about it.",

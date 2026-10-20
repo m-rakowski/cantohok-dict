@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "reaction, response",
-      "english": ["reaction", "response", "rise", "reception"],
+      "english": [
+        {
+          "id": "sxqapoh7",
+          "word": "reaction",
+          "meaning": "response, reaction",
+          "note": "This is the all-purpose noun for a response, including an emoji reaction on a social-media post."
+        },
+        {
+          "id": "54y5k6r3",
+          "word": "response",
+          "meaning": "reaction to stimulus",
+          "note": "Use this for a reaction to a stimulus, event, or provocation rather than an answer."
+        },
+        {
+          "id": "1b636o6p",
+          "word": "rise",
+          "meaning": "provoked reaction",
+          "note": "Use this for the noticeable reaction produced by teasing, provocation, or another stimulus."
+        },
+        {
+          "id": "167721xh",
+          "word": "reception",
+          "meaning": "first reaction; welcome",
+          "note": "Use this for the reaction or response that someone or something receives, especially a remark, performance, or idea."
+        }
+      ],
       "examples": [
         {
           "english": "Your photo got lots of reaction.",

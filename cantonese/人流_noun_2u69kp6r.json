@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "road/air traffic",
-      "english": ["traffic"],
+      "english": [
+        {
+          "id": "6x2esc5r",
+          "word": "traffic",
+          "meaning": "road/air traffic",
+          "note": "Use this specifically for a flow or concentration of pedestrians."
+        }
+      ],
       "examples": [
         {
           "english": "Once there is a lot of pedestrian traffic, this shop gets crowded.",

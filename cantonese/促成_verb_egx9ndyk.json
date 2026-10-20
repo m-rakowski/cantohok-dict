@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "to help bring about a deal",
-      "english": ["facilitate", "conclude"],
+      "english": [
+        {
+          "id": "ss7oiicl",
+          "word": "facilitate",
+          "meaning": "help bring about",
+          "register": "written",
+          "note": "Use this when someone or something helps bring about a specific result, such as an agreement or cooperation."
+        },
+        {
+          "id": "9qa84cn4",
+          "word": "conclude",
+          "meaning": "bring about, effect",
+          "note": "Use this when someone brings about a result or helps bring an agreement or deal into existence, rather than simply finishing it."
+        }
+      ],
       "examples": [
         {
           "english": "The mediator helped facilitate the signing of the agreement.",

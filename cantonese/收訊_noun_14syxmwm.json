@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "TV or radio signal quality",
-      "english": ["reception"],
+      "english": [
+        {
+          "id": "98a4old2",
+          "word": "reception",
+          "meaning": "TV or radio signal quality",
+          "note": "Use this for the quality or availability of a radio, television, or similar signal in a particular place."
+        }
+      ],
       "examples": [
         {
           "english": "Reception is really poor here, and calls keep dropping.",

@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "a tiny amount",
-      "english": ["sliver", "crumb", "hair", "dot"],
+      "english": [
+        {
+          "id": "60cjv7bm",
+          "word": "sliver",
+          "meaning": "small amount",
+          "note": "Use this for a very small amount of something, especially when stressing how tiny it is."
+        },
+        {
+          "id": "9d9o6rvf",
+          "word": "crumb",
+          "meaning": "tiny amount",
+          "note": "Use this for a very small amount of something abstract or uncountable, such as comfort."
+        },
+        {
+          "id": "swdg2hrs",
+          "word": "hair",
+          "meaning": "a hair; tiny amount",
+          "note": "Use this for a tiny amount, degree, or distance when English uses hair to mean just a little."
+        },
+        {
+          "id": "byt4p8wr",
+          "word": "dot",
+          "meaning": "tiny amount; speck",
+          "note": "Use this for a tiny amount or something extremely small, rather than a literal round mark."
+        }
+      ],
       "examples": [
         {
           "english": "This soup is so bland it doesn’t have even a sliver of flavor.",

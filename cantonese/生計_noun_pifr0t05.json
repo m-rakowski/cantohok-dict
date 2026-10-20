@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "livelihood",
-      "english": ["subsistence", "living"],
+      "english": [
+        {
+          "id": "k913um0c",
+          "word": "subsistence",
+          "meaning": "means of living",
+          "note": "This is the all-purpose choice for the general means of supporting oneself and staying alive."
+        },
+        {
+          "id": "ezewh1np",
+          "word": "living",
+          "meaning": "livelihood; a job",
+          "register": "formal",
+          "note": "Use 生計 as the all-purpose noun for a livelihood or means of financial support."
+        }
+      ],
       "examples": [
         {
           "english": "We rely on this plot of land for our subsistence.",

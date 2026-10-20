@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "usual, customary",
-      "english": ["customary", "conventional"],
+      "english": [
+        {
+          "id": "aw1gv5ii",
+          "word": "customary",
+          "meaning": "usual; according to custom",
+          "note": "This is the all-purpose choice for something usual or established by common practice, especially before a noun."
+        },
+        {
+          "id": "9b3rq03q",
+          "word": "conventional",
+          "meaning": "usual, accepted",
+          "note": "Use this for a usual or customary method, behaviour, or arrangement."
+        }
+      ],
       "examples": [
         {
           "english": "The customary practice is to distribute the documents before the meeting.",

@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "traffic jam",
-      "english": ["traffic jam", "jam", "backup"],
+      "english": [
+        {
+          "id": "n19spah6",
+          "word": "traffic jam",
+          "meaning": "road traffic congestion",
+          "note": "Use 塞車 as the all-purpose everyday expression for a traffic jam or heavy traffic."
+        },
+        {
+          "id": "13wzg5rv",
+          "word": "jam",
+          "meaning": "blockage; traffic jam",
+          "note": "Use this for congestion or immobilization caused by road traffic."
+        },
+        {
+          "id": "jjn7p7yx",
+          "word": "backup",
+          "meaning": "traffic jam / blockage",
+          "register": "colloquial",
+          "note": "Use this for a backup of road traffic or vehicles rather than a general material blockage."
+        }
+      ],
       "examples": [
         {
           "english": "There was such a traffic jam on the road at rush hour today that we could barely move.",

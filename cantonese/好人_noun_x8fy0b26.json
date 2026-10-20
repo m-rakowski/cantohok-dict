@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "good, kind person",
-      "english": ["dear", "sweetheart", "angel", "sort"],
+      "english": [
+        {
+          "id": "dd25kflw",
+          "word": "dear",
+          "meaning": "a kind person",
+          "note": "This is the all-purpose noun for a kind, loving person."
+        },
+        {
+          "id": "5r84evew",
+          "word": "sweetheart",
+          "meaning": "kind person",
+          "note": "Use this when sweetheart praises someone as an especially kind person rather than identifying a lover."
+        },
+        {
+          "id": "xfsq4ovk",
+          "word": "angel",
+          "meaning": "kind person",
+          "note": "Use this for a plain description of someone as a good or kind person rather than the affectionate or idealized praise of 天使."
+        },
+        {
+          "id": "k8kemg07",
+          "word": "sort",
+          "meaning": "person of a certain kind",
+          "note": "Use 好人 when someone is called “a good sort.”"
+        }
+      ],
       "examples": [
         {
           "english": "They’re such a dear, always helping people.",

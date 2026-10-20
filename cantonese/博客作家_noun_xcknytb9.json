@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "blog writer",
-      "english": ["blogger"],
+      "english": [
+        {
+          "id": "zveseks6",
+          "word": "blogger",
+          "meaning": "blog writer",
+          "note": "This is the all-purpose rendering for someone who writes or contributes to a blog."
+        }
+      ],
       "examples": [
         {
           "english": "This blogger specializes in writing food reviews.",

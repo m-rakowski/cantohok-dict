@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "to turn",
-      "english": ["turn"],
+      "english": [
+        {
+          "id": "0qjh3h30",
+          "word": "turn",
+          "meaning": "change direction",
+          "note": "This is the all-purpose choice for rotating something or changing direction, including turning right."
+        }
+      ],
       "examples": [
         {
           "english": "turn right.",
@@ -17,7 +24,14 @@
     },
     {
       "meaning": "to switch, change over",
-      "english": ["switch"],
+      "english": [
+        {
+          "id": "pjd38n8m",
+          "word": "switch",
+          "meaning": "change over",
+          "note": "Use this when changing over to a different role, task, channel, or activity rather than swapping physical items."
+        }
+      ],
       "examples": [
         {
           "english": "I want to switch to the night shift.",

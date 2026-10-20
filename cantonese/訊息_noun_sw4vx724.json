@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "message",
-      "english": ["message", "communication"],
+      "english": [
+        {
+          "id": "30h4ua3s",
+          "word": "message",
+          "meaning": "communication; information conveyed",
+          "note": "This is the all-purpose noun for information or a communication that someone conveys."
+        },
+        {
+          "id": "cq6tygqh",
+          "word": "communication",
+          "meaning": "message, communications",
+          "note": "Use this when communication means the message or information that was transmitted."
+        }
+      ],
       "examples": [
         {
           "english": "I got your message.",

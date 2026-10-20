@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "exchange, swap",
-      "english": ["swap", "exchange", "trade"],
+      "english": [
+        {
+          "id": "l6i2aai2",
+          "word": "swap",
+          "meaning": "exchange something for something",
+          "note": "Use this when the exchange is explicitly mutual, such as exchanging gifts or contact details."
+        },
+        {
+          "id": "3osmaxki",
+          "word": "exchange",
+          "meaning": "exchange; trade",
+          "note": "Use this for the all-purpose idea of trading or mutually exchanging things."
+        },
+        {
+          "id": "m69i9x2h",
+          "word": "trade",
+          "meaning": "swap with each other",
+          "note": "Use this for a reciprocal exchange between people, including exchanging things or blows."
+        }
+      ],
       "examples": [
         {
           "english": "We did a swap of phone numbers so it would be easier to contact each other later.",

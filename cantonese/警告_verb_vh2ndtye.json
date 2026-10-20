@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "to warn",
-      "english": ["alert", "warn"],
+      "english": [
+        {
+          "id": "rcsimire",
+          "word": "alert",
+          "meaning": "warn",
+          "note": "Use this when the warning is strong, serious, or carries an implied threat of consequences."
+        },
+        {
+          "id": "bu9iewik",
+          "word": "warn",
+          "meaning": "warn of danger",
+          "note": "Choose this for a stronger, explicit warning about danger, rules, or unacceptable behaviour."
+        }
+      ],
       "examples": [
         {
           "english": "I alert you that if you do that again, you’ll be fired.",

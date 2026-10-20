@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "amount over the limit",
-      "english": ["excess"],
+      "english": [
+        {
+          "id": "q5td8lhp",
+          "word": "excess",
+          "meaning": "amount over the limit",
+          "note": "Use this for the remainder or balance left after one amount is subtracted from another, rather than for excess in general."
+        }
+      ],
       "examples": [
         {
           "english": "The excess in the account after rent was deducted was three thousand dollars.",

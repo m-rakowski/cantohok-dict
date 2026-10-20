@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "scam",
-      "english": ["con", "deceit", "humbug", "fiddle", "racket"],
+      "english": [
+        {
+          "id": "ytzx219g",
+          "word": "con",
+          "meaning": "fraud, scam",
+          "note": "Use this for a scam or deceptive scheme carried out to obtain money or another personal gain."
+        },
+        {
+          "id": "1bqkwkgc",
+          "word": "deceit",
+          "meaning": "deception; trick",
+          "note": "Use this when the deceit is a scam or a setup intended to trick someone."
+        },
+        {
+          "id": "56nka38b",
+          "word": "humbug",
+          "meaning": "fraud, sham",
+          "note": "Use this for the fraud or sham sense, especially a deceptive scheme."
+        },
+        {
+          "id": "67tgan67",
+          "word": "fiddle",
+          "meaning": "fraud, scam",
+          "note": "Use this for a scam or fraudulent scheme, rather than for an instrument or musician."
+        },
+        {
+          "id": "gub0jyt4",
+          "word": "racket",
+          "meaning": "fraud scheme",
+          "note": "Use this for the fraud or swindle sense of a racket."
+        }
+      ],
       "examples": [
         {
           "english": "This online con took many people's savings.",

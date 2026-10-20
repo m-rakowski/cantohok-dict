@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "host, look after guests",
-      "english": ["entertain", "receive"],
+      "english": [
+        {
+          "id": "499z0bma",
+          "word": "entertain",
+          "meaning": "host socially",
+          "note": "Use 招呼 when entertaining means hosting or looking after guests, not amusing them."
+        },
+        {
+          "id": "k348s10s",
+          "word": "receive",
+          "meaning": "receive / host",
+          "note": "Use this for receiving or looking after guests in your home or company, rather than simply getting something."
+        }
+      ],
       "examples": [
         {
           "english": "We plan to entertain a few friends at home tonight.",

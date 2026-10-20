@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "paternal grandfather",
-      "english": ["pa", "pop"],
+      "english": [
+        {
+          "id": "m1u2tr6m",
+          "word": "pa",
+          "meaning": "grandpa; grandfather",
+          "note": "Use this for a paternal grandfather rather than the maternal-grandfather term."
+        },
+        {
+          "id": "zpy2746v",
+          "word": "pop",
+          "meaning": "dad; grandpa",
+          "note": "Use this for the grandfather reading, specifically a paternal grandfather."
+        }
+      ],
       "examples": [
         {
           "english": "My pa used to take me to the park all the time.",

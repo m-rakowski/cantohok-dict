@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "equals",
-      "english": ["equal", "correspond", "make"],
+      "english": [
+        {
+          "id": "xxhy8b7y",
+          "word": "equal",
+          "meaning": "equals, is the same as",
+          "note": "Use 等於 as the all-purpose verb when something has the same value or amounts to the same consequence."
+        },
+        {
+          "id": "8o304q9k",
+          "word": "correspond",
+          "meaning": "be equivalent/similar",
+          "note": "Use 等於 when one thing is exactly equivalent to or has the same value as another."
+        },
+        {
+          "id": "0aofkub7",
+          "word": "make",
+          "meaning": "add up to",
+          "note": "Use this for arithmetic or other statements that one quantity adds up to or amounts to another."
+        }
+      ],
       "examples": [
         {
           "english": "Five kilograms equal five thousand grams.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "loud bang",
-      "english": ["crash", "blast"],
+      "english": [
+        {
+          "id": "jgaou0ro",
+          "word": "crash",
+          "meaning": "loud sudden sound",
+          "note": "Use this for the sudden, very loud noise itself, including a crash of cymbals."
+        },
+        {
+          "id": "1ryccnzh",
+          "word": "blast",
+          "meaning": "loud sudden sound",
+          "note": "Use this for the loud, sudden sound itself, especially when describing a bang or report."
+        }
+      ],
       "examples": [
         {
           "english": "A sudden loud crash came from outside the door and made me jump.",

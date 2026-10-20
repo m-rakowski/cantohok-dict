@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "one throw",
-      "english": ["throw", "cast"],
+      "english": [
+        {
+          "id": "yacznwuo",
+          "word": "throw",
+          "meaning": "a throw",
+          "note": "This is the all-purpose colloquial expression for one act or attempt at throwing."
+        },
+        {
+          "id": "1ax7py9d",
+          "word": "cast",
+          "meaning": "throw",
+          "register": "colloquial",
+          "note": "Use this colloquial phrase for one throwing action."
+        }
+      ],
       "examples": [
         {
           "english": "I got the ball in the basket with one throw.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "controversy",
-      "english": ["controversy", "issue"],
+      "english": [
+        {
+          "id": "qp108ag4",
+          "word": "controversy",
+          "meaning": "public argument",
+          "note": "This is the all-purpose choice for a public controversy or issue over which people hold opposing views."
+        },
+        {
+          "id": "p9jgcsan",
+          "word": "issue",
+          "meaning": "point of disagreement",
+          "note": "Use this when the issue specifically concerns a point of disagreement or dispute."
+        }
+      ],
       "examples": [
         {
           "english": "This issue has sparked a major controversy.",

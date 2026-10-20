@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "journey, trip",
-      "english": ["tour", "voyage", "travel"],
+      "english": [
+        {
+          "id": "2tvj8uie",
+          "word": "tour",
+          "meaning": "journey/visit round place",
+          "note": "This is the all-purpose noun for the journey itself through places."
+        },
+        {
+          "id": "yuhr4ujw",
+          "word": "voyage",
+          "meaning": "sea journey",
+          "note": "This is the all-purpose noun for a long journey, including one by ship."
+        },
+        {
+          "id": "j403nzeh",
+          "word": "travel",
+          "meaning": "travels; journeys",
+          "note": "Use this for a particular journey or the journeys making up someone’s travels, rather than the general activity of traveling."
+        }
+      ],
       "examples": [
         {
           "english": "Our tour of Japan this time is packed with activities.",

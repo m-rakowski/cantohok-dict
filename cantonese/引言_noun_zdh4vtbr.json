@@ -6,7 +6,15 @@
   "boxes": [
     {
       "meaning": "book/article introduction",
-      "english": ["introduction"],
+      "english": [
+        {
+          "id": "243dybel",
+          "word": "introduction",
+          "meaning": "book/article introduction",
+          "register": "written",
+          "note": "Use this for the introductory section of a book, article, or other formal written text."
+        }
+      ],
       "register": "written",
       "examples": [
         {

@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "unwanted entry, intrusion",
-      "english": ["invasion", "intrusion"],
+      "english": [
+        {
+          "id": "dv8mjmqa",
+          "word": "invasion",
+          "meaning": "intrusion, unwanted presence",
+          "register": "written",
+          "note": "Use this for an unwanted entry or the spread of cancer cells, bacteria, or similar agents into a body."
+        },
+        {
+          "id": "m5cadcai",
+          "word": "intrusion",
+          "meaning": "unauthorized breach",
+          "register": "formal",
+          "note": "Use this more formal or technical word for penetration into a computer system or other protected space."
+        }
+      ],
       "examples": [
         {
           "english": "The scan showed an invasion of nearby tissue by cancer cells.",

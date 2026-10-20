@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "regular, following a pattern",
-      "english": ["rhythmic", "orderly"],
+      "english": [
+        {
+          "id": "806vwgax",
+          "word": "rhythmic",
+          "meaning": "regular repetitive movement or sound",
+          "note": "Choose this when the emphasis is on regular repetition or patterned motion rather than musical rhythm."
+        },
+        {
+          "id": "vuc3m75a",
+          "word": "orderly",
+          "meaning": "methodical, systematic",
+          "note": "Use this when “orderly” means following a regular pattern or governing rule, as in an orderly universe."
+        }
+      ],
       "examples": [
         {
           "english": "The waves hit the shore in a rhythmic pattern.",

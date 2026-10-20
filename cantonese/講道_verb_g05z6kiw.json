@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "give a sermon",
-      "english": ["preach"],
+      "english": [
+        {
+          "id": "ayxphxx0",
+          "word": "preach",
+          "meaning": "give a sermon",
+          "note": "Use this specifically when someone is delivering a religious sermon."
+        }
+      ],
       "examples": [
         {
           "english": "The pastor is going to preach a sermon at church today.",

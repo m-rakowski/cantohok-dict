@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "car, vehicle",
-      "english": ["car", "vehicle", "ride"],
+      "english": [
+        {
+          "id": "3xtlol8s",
+          "word": "car",
+          "meaning": "automobile",
+          "note": "This is the all-purpose spoken Cantonese word for an automobile."
+        },
+        {
+          "id": "xbjnixou",
+          "word": "vehicle",
+          "meaning": "conveyance, transport",
+          "note": "Use 車 as the all-purpose spoken noun for a conveyance or vehicle."
+        },
+        {
+          "id": "e7grqicc",
+          "word": "ride",
+          "meaning": "vehicle; car",
+          "register": "colloquial",
+          "note": "Use 車 for the vehicle itself when ride means a car or other vehicle in casual speech."
+        }
+      ],
       "examples": [
         {
           "english": "I drive a car to work in the morning.",

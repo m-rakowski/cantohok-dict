@@ -6,7 +6,57 @@
   "boxes": [
     {
       "meaning": "want to, would like to",
-      "english": ["want", "wish", "fancy", "desire", "aspire", "dream", "would", "care"],
+      "english": [
+        {
+          "id": "5p7ym7aj",
+          "word": "want",
+          "meaning": "desire, need",
+          "note": "Use 想 as the all-purpose colloquial choice for wanting to do something, wishing for something, or wishing to meet someone."
+        },
+        {
+          "id": "qxzs3ru6",
+          "word": "wish",
+          "meaning": "want; desire",
+          "note": "This is the all-purpose colloquial choice for wanting something or wanting to do something."
+        },
+        {
+          "id": "jgffype6",
+          "word": "fancy",
+          "meaning": "want",
+          "note": "Use 想 as the all-purpose colloquial verb for wanting or would liking something."
+        },
+        {
+          "id": "li8i7r7y",
+          "word": "desire",
+          "meaning": "want, wish for",
+          "note": "This is the all-purpose choice for wanting or wishing for something."
+        },
+        {
+          "id": "3dwc8du4",
+          "word": "aspire",
+          "meaning": "have ambition; aim for",
+          "register": "colloquial",
+          "note": "This is the all-purpose casual choice, especially in 想 + goal or 想 + verb when the ambition is clear from context."
+        },
+        {
+          "id": "3k9vzeeo",
+          "word": "dream",
+          "meaning": "hope, wish",
+          "note": "Use 想 for an everyday hope or wish, such as wanting to become something in the future."
+        },
+        {
+          "id": "ht919w8n",
+          "word": "would",
+          "meaning": "polite / tentative would",
+          "note": "Use 想 when would makes a request or statement sound tentative, indirect, or polite rather than firm."
+        },
+        {
+          "id": "bnqo8jb1",
+          "word": "care",
+          "meaning": "want; would like",
+          "note": "Use this for wanting or being willing to have or do something, including polite offers such as wanting another piece."
+        }
+      ],
       "examples": [
         {
           "english": "I want to eat a bowl of fish-ball noodles.",

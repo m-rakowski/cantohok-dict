@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "cut in line",
-      "english": ["jump", "cut"],
+      "english": [
+        {
+          "id": "rnnj429t",
+          "word": "jump",
+          "meaning": "cut in line",
+          "note": "Use this specifically when someone moves ahead of others in a queue."
+        },
+        {
+          "id": "u8had9li",
+          "word": "cut",
+          "meaning": "queue-jump",
+          "register": "colloquial",
+          "note": "Use this specifically when someone enters a queue ahead of people who were already waiting."
+        }
+      ],
       "examples": [
         {
           "english": "Don't jump the queue.",

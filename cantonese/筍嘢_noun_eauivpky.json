@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "bargain, great find",
-      "english": ["bargain", "plum"],
+      "english": [
+        {
+          "id": "pb7acxvd",
+          "word": "bargain",
+          "meaning": "good deal",
+          "register": "colloquial",
+          "note": "This is the all-purpose colloquial choice for an item bought at an unusually good price."
+        },
+        {
+          "id": "yw8g3scf",
+          "word": "plum",
+          "meaning": "desirable thing",
+          "note": "Use this for a desirable bargain, opportunity, or choice item rather than the fruit or its colour."
+        }
+      ],
       "examples": [
         {
           "english": "This is a real bargain—it’s much cheaper than elsewhere.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "tissue, paper napkin",
-      "english": ["napkin", "tissue"],
+      "english": [
+        {
+          "id": "8sxrpylj",
+          "word": "napkin",
+          "meaning": "table napkin",
+          "note": "Use this as the everyday choice for a paper napkin at a meal, although it can also mean a general tissue."
+        },
+        {
+          "id": "6yf3w1yp",
+          "word": "tissue",
+          "meaning": "paper tissue",
+          "note": "This is the all-purpose choice for a sheet of paper tissue, including a facial tissue or handkerchief tissue."
+        }
+      ],
       "examples": [
         {
           "english": "After eating, grab a napkin and wipe your mouth.",

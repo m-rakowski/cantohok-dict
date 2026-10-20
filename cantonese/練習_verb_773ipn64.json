@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "practise, train",
-      "english": ["train", "exercise"],
+      "english": [
+        {
+          "id": "922oj92f",
+          "word": "train",
+          "meaning": "practice",
+          "note": "Use 練習 as the all-purpose verb for practising an ability or skill."
+        },
+        {
+          "id": "you3lnv8",
+          "word": "exercise",
+          "meaning": "practice / train",
+          "note": "Use this for practising or training a skill, person, animal, or mental ability."
+        }
+      ],
       "examples": [
         {
           "english": "I train by swimming every day.",

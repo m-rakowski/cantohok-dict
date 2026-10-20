@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "computer/Internet access",
-      "english": ["access"],
+      "english": [
+        {
+          "id": "wpfn3f68",
+          "word": "access",
+          "meaning": "computer/Internet access",
+          "note": "Use this for access understood as a computer or Internet connection, rather than permission to use a system."
+        }
+      ],
       "examples": [
         {
           "english": "The company has no access to the network right now.",

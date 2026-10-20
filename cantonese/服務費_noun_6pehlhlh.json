@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "professional service charge",
-      "english": ["fee"],
+      "english": [
+        {
+          "id": "49dl8fke",
+          "word": "fee",
+          "meaning": "professional service charge",
+          "note": "Use this when the fee is specifically for providing a service, including a professional or customer-facing service."
+        }
+      ],
       "examples": [
         {
           "english": "Does this bill include the service fee?",

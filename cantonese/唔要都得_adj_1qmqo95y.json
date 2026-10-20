@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "able to be done without",
-      "english": ["dispensable"],
+      "english": [
+        {
+          "id": "3noffgzx",
+          "word": "dispensable",
+          "meaning": "able to be done without",
+          "note": "This is the casual default when something can simply be left out or done without."
+        }
+      ],
       "examples": [
         {
           "english": "This step is dispensable; it doesn't affect the result.",

@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "carry out, put into effect (a law, orders, a program)",
-      "english": ["enforce", "execute", "implement"],
+      "english": [
+        {
+          "id": "4esn68un",
+          "word": "enforce",
+          "meaning": "make law obeyed",
+          "note": "This is the all-purpose choice for putting a law, rule, policy, or order into effect."
+        },
+        {
+          "id": "p7ierkhu",
+          "word": "execute",
+          "meaning": "carry out orders",
+          "note": "This is the all-purpose choice for carrying out instructions and for running a computer program."
+        },
+        {
+          "id": "p223qi9i",
+          "word": "implement",
+          "meaning": "carry out, put into practice",
+          "note": "Use this especially for carrying out instructions, orders, duties, or an established plan."
+        }
+      ],
       "examples": [
         {
           "english": "The government needs to strictly enforce this new law.",

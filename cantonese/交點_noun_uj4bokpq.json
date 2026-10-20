@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "geometric intersection",
-      "english": ["intersection"],
+      "english": [
+        {
+          "id": "sfd2qgys",
+          "word": "intersection",
+          "meaning": "geometric intersection",
+          "note": "Use this for the specific point where two geometric lines, curves, or shapes meet."
+        }
+      ],
       "examples": [
         {
           "english": "The intersection of these two straight lines is here.",

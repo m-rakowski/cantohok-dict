@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "book in advance",
-      "english": ["reserve", "schedule"],
+      "english": [
+        {
+          "id": "385nt0sr",
+          "word": "reserve",
+          "meaning": "book in advance",
+          "note": "Use this as the all-purpose verb for booking something in advance, especially an appointment or service."
+        },
+        {
+          "id": "ierlsann",
+          "word": "schedule",
+          "meaning": "book / reserve time",
+          "note": "Use this when reserving an appointment, place, or time in advance rather than merely planning it."
+        }
+      ],
       "examples": [
         {
           "english": "I want to reserve an appointment to see the dentist next week.",

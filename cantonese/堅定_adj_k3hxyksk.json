@@ -6,7 +6,44 @@
   "boxes": [
     {
       "meaning": "firm, resolute",
-      "english": ["steely", "unwavering", "determined", "constant", "firm", "steady"],
+      "english": [
+        {
+          "id": "txdhv19r",
+          "word": "steely",
+          "meaning": "hard, resolute, coldly determined",
+          "note": "This is the all-purpose choice for the resolute, unshakable side of figurative “steely.”"
+        },
+        {
+          "id": "zkaeo5rf",
+          "word": "unwavering",
+          "meaning": "firm, resolute",
+          "note": "Use 堅定 for a person's convictions, attitude, or decision when they do not waver."
+        },
+        {
+          "id": "xkng6g5j",
+          "word": "determined",
+          "meaning": "decided; resolute",
+          "note": "Use this for steadfast resolve or an unwavering attitude, rather than a single firm decision."
+        },
+        {
+          "id": "2ohp9kpo",
+          "word": "constant",
+          "meaning": "steadfast",
+          "note": "Use this for someone who remains firm and steadfast in feelings, purpose, or action."
+        },
+        {
+          "id": "etyqwwof",
+          "word": "firm",
+          "meaning": "fixed in opinion",
+          "note": "Use 堅定 for a settled conviction or unwavering commitment, rather than an insistence directed at someone."
+        },
+        {
+          "id": "vuggikj5",
+          "word": "steady",
+          "meaning": "constant, resolute",
+          "note": "Use 堅定 for an unwavering purpose, belief, or resolve rather than physical stability."
+        }
+      ],
       "examples": [
         {
           "english": "We remained steely even under such enormous pressure.",

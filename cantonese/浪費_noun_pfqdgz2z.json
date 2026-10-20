@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "waste",
-      "english": ["extravagance", "waste"],
+      "english": [
+        {
+          "id": "4u95mbeb",
+          "word": "extravagance",
+          "meaning": "wasteful spending",
+          "note": "Use this as the all-purpose noun for wasteful spending or money being wasted."
+        },
+        {
+          "id": "ael1bvvk",
+          "word": "waste",
+          "meaning": "waste; squander",
+          "note": "Use this for wasteful use or consumption, as in a waste of time or money."
+        }
+      ],
       "examples": [
         {
           "english": "Spending public money like this is a real extravagance.",

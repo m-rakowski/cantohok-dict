@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "just now, only just",
-      "english": ["newly", "recently", "just"],
+      "english": [
+        {
+          "id": "jp44g6um",
+          "word": "newly",
+          "meaning": "recently; just now",
+          "note": "Use this for something that happened or began only a short time ago, especially the immediate-past sense."
+        },
+        {
+          "id": "zeioczi1",
+          "word": "recently",
+          "meaning": "a short while ago",
+          "register": "colloquial",
+          "note": "Use this for something that happened only a very short while ago, such as just now or very recently."
+        },
+        {
+          "id": "cbnelfxb",
+          "word": "just",
+          "meaning": "just now; very recently",
+          "note": "Use 啱啱 when something happened moments ago."
+        }
+      ],
       "examples": [
         {
           "english": "They newly opened the shop, and customers are already waiting outside.",

@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "packet, pack, bag of something",
-      "english": ["packet", "bag", "pack"],
+      "english": [
+        {
+          "id": "mt7da0l1",
+          "word": "packet",
+          "meaning": "small package",
+          "note": "Use this as the all-purpose spoken word for a small pack, package, or bundle."
+        },
+        {
+          "id": "v61uml6e",
+          "word": "bag",
+          "meaning": "flexible container",
+          "note": "Use this when the bag is viewed as a packet, bundle, or quantity of goods rather than primarily as a reusable container."
+        },
+        {
+          "id": "szfr60kp",
+          "word": "pack",
+          "meaning": "bundle to carry",
+          "note": "Use 包 as the all-purpose physical-package word, including a bundle or a pack of cigarettes."
+        }
+      ],
       "examples": [
         {
           "english": "I bought a packet of tea leaves to take home.",
@@ -27,7 +46,15 @@
     },
     {
       "meaning": "bread roll, bun",
-      "english": ["bread"],
+      "english": [
+        {
+          "id": "kup6xjnq",
+          "word": "bread",
+          "meaning": "bread (food)",
+          "register": "colloquial",
+          "note": "A speaker uses 包 for a bread roll or bun, rather than bread as the general food category."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

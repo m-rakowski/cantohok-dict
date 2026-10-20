@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "need, necessity",
-      "english": ["need", "want", "use"],
+      "english": [
+        {
+          "id": "wmivazeg",
+          "word": "need",
+          "meaning": "requirement; necessity",
+          "note": "This is the all-purpose noun for a requirement or necessity, especially in expressions such as 有需要 and 冇需要."
+        },
+        {
+          "id": "lwheo9a4",
+          "word": "want",
+          "meaning": "need, necessity",
+          "note": "Use 需要 as the all-purpose noun for something that is needed or necessary."
+        },
+        {
+          "id": "b6mpy1xy",
+          "word": "use",
+          "meaning": "need for use",
+          "note": "Use 需要 when use means having a need or no longer needing something."
+        }
+      ],
       "examples": [
         {
           "english": "Having a place to live is a basic human need.",

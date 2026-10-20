@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "publicity, promotion",
-      "english": ["publicity", "promotion"],
+      "english": [
+        {
+          "id": "hk1k5g88",
+          "word": "publicity",
+          "meaning": "advertising; promotion",
+          "note": "This is the all-purpose choice for advertising or promotional activity intended to attract public interest."
+        },
+        {
+          "id": "qhm4is19",
+          "word": "promotion",
+          "meaning": "promotion of an idea",
+          "note": "Use this for publicizing an idea or information to make it better known."
+        }
+      ],
       "examples": [
         {
           "english": "The new film is coming out next month, so we’re starting publicity now.",

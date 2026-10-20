@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "excitement, thrill",
-      "english": ["stimulation", "thrill", "excitement"],
+      "english": [
+        {
+          "id": "cfgiap6n",
+          "word": "stimulation",
+          "meaning": "excitement or pleasure",
+          "note": "Use 刺激 as the all-purpose noun for sensory input or an activity that produces excitement or pleasure."
+        },
+        {
+          "id": "76es0cny",
+          "word": "thrill",
+          "meaning": "excitement or excitement source",
+          "note": "This is the all-purpose choice for a sudden excitement or an exciting kick."
+        },
+        {
+          "id": "4ocla9i6",
+          "word": "excitement",
+          "meaning": "exciting event or thing",
+          "note": "Use this for an exciting stimulus, activity, event, or thing rather than the resulting emotional state."
+        }
+      ],
       "examples": [
         {
           "english": "The stimulation from this roller coaster makes me want to go again.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "beef",
-      "english": ["beef", "cow"],
+      "english": [
+        {
+          "id": "iu6d7s9o",
+          "word": "beef",
+          "meaning": "meat from cattle",
+          "note": "This is the all-purpose choice for meat from cattle or other bovines."
+        },
+        {
+          "id": "tr2afjf4",
+          "word": "cow",
+          "meaning": "beef, the meat",
+          "note": "Use this specifically when “cow” means beef as food."
+        }
+      ],
       "examples": [
         {
           "english": "The beef at this restaurant is very tender.",

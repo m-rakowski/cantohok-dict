@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "bar, pub",
-      "english": ["pub", "saloon", "bar"],
+      "english": [
+        {
+          "id": "ydreuk61",
+          "word": "pub",
+          "meaning": "public house",
+          "note": "This is the all-purpose Hong Kong Cantonese word for a pub or bar."
+        },
+        {
+          "id": "qdohr7z0",
+          "word": "saloon",
+          "meaning": "tavern / bar",
+          "note": "This is the all-purpose choice for a bar or drinking establishment in ordinary Cantonese."
+        },
+        {
+          "id": "qgrb57na",
+          "word": "bar",
+          "meaning": "pub or drinking place",
+          "note": "This is the all-purpose Cantonese noun for a pub or premises serving alcoholic drinks."
+        }
+      ],
       "examples": [
         {
           "english": "We're going to the pub tonight to watch the football match.",

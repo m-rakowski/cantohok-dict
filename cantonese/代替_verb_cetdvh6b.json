@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "replace, take the place of",
-      "english": ["substitute", "replace", "compensate"],
+      "english": [
+        {
+          "id": "3mk9hzea",
+          "word": "substitute",
+          "meaning": "use in place of",
+          "note": "Use this as the all-purpose verb for using one person or thing in place of another."
+        },
+        {
+          "id": "31hhr0fg",
+          "word": "replace",
+          "meaning": "take the place of",
+          "note": "Use this when one person or thing takes the place of another or is used instead of it."
+        },
+        {
+          "id": "wkjg7ulr",
+          "word": "compensate",
+          "meaning": "make up for",
+          "note": "Use this when compensating means doing something in place of the original action or person."
+        }
+      ],
       "examples": [
         {
           "english": "We can substitute soy milk for cow's milk.",

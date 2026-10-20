@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "sign, indication",
-      "english": ["symptom", "sign", "suspicion"],
+      "english": [
+        {
+          "id": "oll0kre1",
+          "word": "symptom",
+          "meaning": "sign of something",
+          "note": "Use this for an indication or telltale sign of something, especially something undesirable, rather than a medical symptom."
+        },
+        {
+          "id": "l12hflw5",
+          "word": "sign",
+          "meaning": "indication; sign of something",
+          "note": "Use 跡象 for an observable indication that something exists or may happen, rather than for a physical signboard."
+        },
+        {
+          "id": "xh233djo",
+          "word": "suspicion",
+          "meaning": "hint, trace",
+          "note": "Use 跡象 for an observable trace or slight indication, such as a sign of a smile."
+        }
+      ],
       "examples": [
         {
           "english": "This is a symptom of the company's business getting worse.",

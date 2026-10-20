@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "negative, unfavourable",
-      "english": ["negative", "adverse"],
+      "english": [
+        {
+          "id": "syjceug4",
+          "word": "negative",
+          "meaning": "bad, unfavourable",
+          "note": "This is the all-purpose choice for an unfavourable effect or a generally negative outlook."
+        },
+        {
+          "id": "rgderakj",
+          "word": "adverse",
+          "meaning": "unfavourable; harmful",
+          "note": "Use this for an adverse or negative effect, opinion, reaction, or criticism rather than for active hostility."
+        }
+      ],
       "examples": [
         {
           "english": "This news has a very negative impact on the stock market.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "police officer",
-      "english": ["cop"],
+      "english": [
+        {
+          "id": "8h9zqj5z",
+          "word": "cop",
+          "meaning": "police officer",
+          "note": "Use this specifically for a prison guard rather than a street police officer."
+        }
+      ],
       "examples": [
         {
           "english": "When I visited the prison, the cop told me to take off my hat.",

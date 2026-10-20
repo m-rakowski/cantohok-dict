@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "expect, predict",
-      "english": ["expect", "anticipate", "foresee", "predict"],
+      "english": [
+        {
+          "id": "aabwsg2j",
+          "word": "expect",
+          "meaning": "anticipate, think will happen",
+          "note": "This is the all-purpose choice for anticipating that an event will happen."
+        },
+        {
+          "id": "3amwnl5k",
+          "word": "anticipate",
+          "meaning": "expect in advance",
+          "note": "Use 預計 as the all-purpose verb for expecting a future event in advance, without emphasizing excitement."
+        },
+        {
+          "id": "5kc2kv09",
+          "word": "foresee",
+          "meaning": "predict, see in advance",
+          "note": "Use this as the all-purpose everyday verb for predicting or expecting a future situation or event."
+        },
+        {
+          "id": "gkrdt261",
+          "word": "predict",
+          "meaning": "forecast a future event",
+          "note": "Use this when the prediction is an estimate or expectation about what is likely to happen."
+        }
+      ],
       "examples": [
         {
           "english": "I expect it will rain tomorrow.",

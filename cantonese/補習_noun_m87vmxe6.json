@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "tutoring classes",
-      "english": ["tuition", "coaching"],
+      "english": [
+        {
+          "id": "7rw9u8kf",
+          "word": "tuition",
+          "meaning": "private tutoring classes",
+          "note": "Use this for paid private or after-school tutoring classes rather than ordinary school instruction."
+        },
+        {
+          "id": "dku6d6il",
+          "word": "coaching",
+          "meaning": "instruction; tutoring",
+          "note": "Use this specifically for academic tutoring or extra lessons."
+        }
+      ],
       "examples": [
         {
           "english": "My son goes to tuition every Saturday.",

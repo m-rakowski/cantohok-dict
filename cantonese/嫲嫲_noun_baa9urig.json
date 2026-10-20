@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "father's mother, grandmother",
-      "english": ["grandmother", "granny"],
+      "english": [
+        {
+          "id": "auahd8om",
+          "word": "grandmother",
+          "meaning": "parent's mother",
+          "note": "Use 嫲嫲 for your father's mother."
+        },
+        {
+          "id": "66kktbrr",
+          "word": "granny",
+          "meaning": "grandmother",
+          "note": "Use this instead of 婆婆 when you mean the paternal grandmother specifically."
+        }
+      ],
       "examples": [
         {
           "english": "My grandmother's soup is the best.",

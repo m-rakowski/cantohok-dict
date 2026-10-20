@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "chess bishop",
-      "english": ["bishop"],
+      "english": [
+        {
+          "id": "en6gp0gv",
+          "word": "bishop",
+          "meaning": "chess bishop",
+          "note": "Use this as the usual spoken name for a bishop in chess, rather than 主教."
+        }
+      ],
       "examples": [
         {
           "english": "Be careful with this move—the opponent's bishop is about to take your rook.",
@@ -17,7 +24,15 @@
     },
     {
       "meaning": "elephant",
-      "english": ["elephant"],
+      "english": [
+        {
+          "id": "4bpdgqya",
+          "word": "elephant",
+          "meaning": "mammal",
+          "register": "written",
+          "note": "Use this shorter form mainly in written or compact contexts rather than as the everyday spoken default."
+        }
+      ],
       "register": "written",
       "examples": [
         {

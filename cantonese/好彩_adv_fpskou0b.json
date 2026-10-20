@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "luckily",
-      "english": ["fortunately", "luckily", "happily"],
+      "english": [
+        {
+          "id": "z78xrh7h",
+          "word": "fortunately",
+          "meaning": "fortunately, luckily",
+          "note": "This is the all-purpose colloquial choice for saying that something turned out fortunately or luckily."
+        },
+        {
+          "id": "wl7wdds6",
+          "word": "luckily",
+          "meaning": "fortunately",
+          "note": "This is the all-purpose colloquial choice for saying that something happened fortunately."
+        },
+        {
+          "id": "if6dmxnj",
+          "word": "happily",
+          "meaning": "fortunately",
+          "note": "Use this when happily means fortunately or luckily."
+        }
+      ],
       "examples": [
         {
           "english": "Fortunately, I made it in time for the last train.",

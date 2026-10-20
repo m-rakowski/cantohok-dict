@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "a quick look",
-      "english": ["glance", "glimpse", "look"],
+      "english": [
+        {
+          "id": "feykl7b3",
+          "word": "glance",
+          "meaning": "brief look",
+          "note": "This is the all-purpose everyday Cantonese noun for a brief or cursory look."
+        },
+        {
+          "id": "2f47n7my",
+          "word": "glimpse",
+          "meaning": "brief look",
+          "note": "Use 一眼 as the all-purpose everyday noun for a brief, incomplete look."
+        },
+        {
+          "id": "7q0zjqgn",
+          "word": "look",
+          "meaning": "a look; glance",
+          "note": "Use 一眼 for a glance or a brief attempt to see something; it is the all-purpose noun for this sense."
+        }
+      ],
       "examples": [
         {
           "english": "I could see a cat under the table at a glance.",

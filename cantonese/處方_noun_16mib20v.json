@@ -6,7 +6,15 @@
   "boxes": [
     {
       "meaning": "medical prescription",
-      "english": ["prescription"],
+      "english": [
+        {
+          "id": "e7wi4mox",
+          "word": "prescription",
+          "meaning": "medical prescription",
+          "register": "formal",
+          "note": "Use this instead of 藥單 in formal or clinical language for the written medical order, including an eyeglass prescription."
+        }
+      ],
       "register": "formal",
       "examples": [
         {

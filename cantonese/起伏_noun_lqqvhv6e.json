@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "ups and downs",
-      "english": ["fluctuation", "seesaw"],
+      "english": [
+        {
+          "id": "gi20ocas",
+          "word": "fluctuation",
+          "meaning": "change; ups and downs",
+          "note": "Choose this when the emphasis is on repeated rises and falls, especially waves, emotions, or other high-and-low patterns."
+        },
+        {
+          "id": "tlvn0hcm",
+          "word": "seesaw",
+          "meaning": "up-and-down movement",
+          "note": "Use 起伏 for general up-and-down changes, including changes in feelings or conditions."
+        }
+      ],
       "examples": [
         {
           "english": "The emotional fluctuation in this song is very strong, which makes it moving.",

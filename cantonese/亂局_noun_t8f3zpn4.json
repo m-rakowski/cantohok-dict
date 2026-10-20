@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "chaotic situation, turmoil",
-      "english": ["unrest", "maelstrom", "chaos"],
+      "english": [
+        {
+          "id": "rso4c5ja",
+          "word": "unrest",
+          "meaning": "social or political turmoil",
+          "note": "This is the all-purpose choice for a troubled or chaotic political or social situation."
+        },
+        {
+          "id": "lc2py39s",
+          "word": "maelstrom",
+          "meaning": "chaotic turmoil",
+          "note": "Use this as the all-purpose choice for a chaotic or turbulent situation rather than a physical whirlpool."
+        },
+        {
+          "id": "0ojb3nyb",
+          "word": "chaos",
+          "meaning": "disorder, confusion",
+          "note": "Use this mainly for a chaotic political, social, or public situation rather than ordinary untidiness."
+        }
+      ],
       "examples": [
         {
           "english": "There has been unrest in the political situation lately, and people are worried about its effect on their lives.",

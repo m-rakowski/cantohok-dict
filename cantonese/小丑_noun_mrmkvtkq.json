@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "clown",
-      "english": ["clown", "buffoon"],
+      "english": [
+        {
+          "id": "16c0ptxb",
+          "word": "clown",
+          "meaning": "circus performer",
+          "note": "This is the all-purpose choice for the literal circus-performer sense."
+        },
+        {
+          "id": "o1dbitrg",
+          "word": "buffoon",
+          "meaning": "silly performer; clown",
+          "note": "This is the all-purpose choice for a clownish performer or someone behaving ridiculously."
+        }
+      ],
       "examples": [
         {
           "english": "There's a clown performing at the circus tonight.",

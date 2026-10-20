@@ -6,7 +6,46 @@
   "boxes": [
     {
       "meaning": "exaggerated, over the top, overly dramatic",
-      "english": ["histrionic", "lurid", "dramatic", "extra", "extreme", "outrageous"],
+      "english": [
+        {
+          "id": "4gligwmr",
+          "word": "histrionic",
+          "meaning": "overly dramatic",
+          "note": "Use this for behavior or emotion that is excessively dramatic or exaggerated, without necessarily stressing that it is affected."
+        },
+        {
+          "id": "356n068w",
+          "word": "lurid",
+          "meaning": "sensationally vivid, shocking",
+          "note": "Use this as the all-purpose everyday choice for something exaggerated, sensational, or melodramatic."
+        },
+        {
+          "id": "dft9i6d9",
+          "word": "dramatic",
+          "meaning": "overly emotional",
+          "note": "This is the all-purpose choice for calling someone's behaviour or reaction overly dramatic."
+        },
+        {
+          "id": "13ykmahu",
+          "word": "extra",
+          "meaning": "over-the-top; dramatic",
+          "register": "colloquial",
+          "note": "Use this for behaviour, reactions, or presentation that is dramatically over-the-top or excessive."
+        },
+        {
+          "id": "spikx7uo",
+          "word": "extreme",
+          "meaning": "excessive, over the top",
+          "note": "Choose 誇張 when extreme means over the top, excessive, or more than seems reasonable."
+        },
+        {
+          "id": "hinz04gn",
+          "word": "outrageous",
+          "meaning": "extreme, excessive",
+          "register": "colloquial",
+          "note": "Use this for an extreme or excessive amount, claim, reaction, or situation, without necessarily implying moral offensiveness."
+        }
+      ],
       "examples": [
         {
           "english": "Their reaction was histrionic, and everyone in the room could hear them crying.",
@@ -42,7 +81,42 @@
     },
     {
       "meaning": "astonishing, unbelievable",
-      "english": ["unbelievable", "breathtaking", "amazing", "ridiculous", "incredible"],
+      "english": [
+        {
+          "id": "4bu5c6hz",
+          "word": "unbelievable",
+          "meaning": "amazing, astonishing",
+          "register": "colloquial",
+          "note": "Use this colloquial choice for something astonishing, extreme, or amazingly impressive rather than literally unbelievable."
+        },
+        {
+          "id": "y9oviaub",
+          "word": "breathtaking",
+          "meaning": "astonishing, shocking",
+          "register": "colloquial",
+          "note": "This is the all-purpose colloquial choice for something astonishingly excessive, surprising, or shocking."
+        },
+        {
+          "id": "dxby42ws",
+          "word": "amazing",
+          "meaning": "very surprising",
+          "register": "colloquial",
+          "note": "Use this colloquial choice when the surprising quality is an extreme or unbelievable degree."
+        },
+        {
+          "id": "xms3qr6w",
+          "word": "ridiculous",
+          "meaning": "extremely impressive",
+          "note": "Use this when ridiculous means astonishingly extreme, such as an unbelievably high level of strength or performance."
+        },
+        {
+          "id": "qk11w1is",
+          "word": "incredible",
+          "meaning": "amazing, astonishing",
+          "register": "colloquial",
+          "note": "Use this when something is astonishingly extreme or spectacular, especially effects, results, or a situation."
+        }
+      ],
       "examples": [
         {
           "english": "Your new phone takes such great photos—it’s unbelievable!",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "quit a habit",
-      "english": ["stop", "quit"],
+      "english": [
+        {
+          "id": "8abdgd71",
+          "word": "stop",
+          "meaning": "quit using or doing",
+          "note": "Use this specifically for giving up a drug, habit, or regular activity."
+        },
+        {
+          "id": "ccn8awds",
+          "word": "quit",
+          "meaning": "stop doing",
+          "note": "Use this specifically for quitting an addictive or habitual substance or behavior, such as smoking or drinking."
+        }
+      ],
       "examples": [
         {
           "english": "I’ve decided to stop smoking.",

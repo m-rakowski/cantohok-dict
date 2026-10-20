@@ -6,7 +6,29 @@
   "boxes": [
     {
       "meaning": "swear words",
-      "english": ["curse", "abuse", "language"],
+      "english": [
+        {
+          "id": "olfna2kn",
+          "word": "curse",
+          "meaning": "swear word / vulgar insult",
+          "register": "colloquial",
+          "note": "Use this for a swear word or vulgar expression, rather than for a supernatural curse."
+        },
+        {
+          "id": "16j9a66k",
+          "word": "abuse",
+          "meaning": "insults",
+          "register": "colloquial",
+          "note": "Use this for abusive or profane language, especially when people are swearing at one another."
+        },
+        {
+          "id": "v6iqcc5p",
+          "word": "language",
+          "meaning": "profanity",
+          "register": "colloquial",
+          "note": "Use this specifically for profanity or swear words."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

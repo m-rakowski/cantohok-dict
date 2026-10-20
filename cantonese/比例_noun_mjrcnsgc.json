@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "ratio, proportion",
-      "english": ["proportion", "rate"],
+      "english": [
+        {
+          "id": "g9bfo529",
+          "word": "proportion",
+          "meaning": "part of a whole",
+          "note": "Use 比例 as the all-purpose noun for a ratio or the relative size and balance of parts."
+        },
+        {
+          "id": "jbqm2txg",
+          "word": "rate",
+          "meaning": "ratio; proportion",
+          "note": "Use this for the proportional relationship between two amounts or values."
+        }
+      ],
       "examples": [
         {
           "english": "The proportion of men and women isn't balanced.",

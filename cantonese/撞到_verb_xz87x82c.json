@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "run into someone by chance",
-      "english": ["encounter", "meet"],
+      "english": [
+        {
+          "id": "pyp2sj69",
+          "word": "encounter",
+          "meaning": "meet unexpectedly",
+          "register": "colloquial",
+          "note": "Use this colloquial choice for unexpectedly bumping into a person or coming across something by chance."
+        },
+        {
+          "id": "5ibgyogv",
+          "word": "meet",
+          "meaning": "encounter by chance",
+          "register": "colloquial",
+          "note": "Use this for accidentally running into someone or hitting something while moving."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

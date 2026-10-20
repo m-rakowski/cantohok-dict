@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "wobbly, not steady",
-      "english": ["shaky", "rickety"],
+      "english": [
+        {
+          "id": "yumw73fn",
+          "word": "shaky",
+          "meaning": "trembling, unsteady",
+          "note": "This is the all-purpose choice when “shaky” means unsteady or unsafe, and when it means unsound or unreliable."
+        },
+        {
+          "id": "kjbobsx1",
+          "word": "rickety",
+          "meaning": "unstable, poorly built",
+          "note": "This is the all-purpose colloquial choice for an object that is unsafe, poorly built, or not secure."
+        }
+      ],
       "examples": [
         {
           "english": "This table leg is shaky and really unsafe.",
@@ -22,7 +35,28 @@
     },
     {
       "meaning": "risky, not dependable",
-      "english": ["unreliable", "unsafe", "uncertain"],
+      "english": [
+        {
+          "id": "w6lu4l4o",
+          "word": "unreliable",
+          "meaning": "not dependable",
+          "register": "colloquial",
+          "note": "Use this colloquial Hong Kong expression especially for plans, arrangements, or situations that may go wrong."
+        },
+        {
+          "id": "t9npw0ft",
+          "word": "unsafe",
+          "meaning": "dangerous; not safe",
+          "note": "Use this for a plan, method, or arrangement that seems risky or insufficiently secure, without necessarily implying immediate physical danger."
+        },
+        {
+          "id": "a3rluw7r",
+          "word": "uncertain",
+          "meaning": "not known for certain",
+          "register": "colloquial",
+          "note": "Use this when something is questionable or not dependable, such as a plan, prediction, or proposed arrangement."
+        }
+      ],
       "examples": [
         {
           "english": "Relying on the weather to decide whether to travel is really unreliable.",

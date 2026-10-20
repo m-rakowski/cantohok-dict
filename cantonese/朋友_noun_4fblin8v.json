@@ -6,7 +6,44 @@
   "boxes": [
     {
       "meaning": "friend",
-      "english": ["friend", "pal", "buddy", "mate", "fellow", "bud"],
+      "english": [
+        {
+          "id": "dapvoeem",
+          "word": "friend",
+          "meaning": "close friend",
+          "note": "This is the all-purpose spoken noun for a social friend, and it can also be used loosely for someone known through others."
+        },
+        {
+          "id": "fhs40u6i",
+          "word": "pal",
+          "meaning": "friend; buddy",
+          "note": "This is the all-purpose noun for a friend or pal."
+        },
+        {
+          "id": "kiwj25s4",
+          "word": "buddy",
+          "meaning": "friend; casual acquaintance",
+          "note": "Use 朋友 as the all-purpose noun for a friend or casual acquaintance."
+        },
+        {
+          "id": "0wnkauzb",
+          "word": "mate",
+          "meaning": "friend",
+          "note": "This is the all-purpose choice for an ordinary friend, including the pub-companion sense."
+        },
+        {
+          "id": "7z133xty",
+          "word": "fellow",
+          "meaning": "companion; comrade",
+          "note": "This is the everyday all-purpose word for a companion or comrade."
+        },
+        {
+          "id": "2ajy7gg9",
+          "word": "bud",
+          "meaning": "friend, buddy",
+          "note": "Use this as the all-purpose noun for a friend or buddy."
+        }
+      ],
       "examples": [
         {
           "english": "You are my best friend.",

@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "promise, pledge",
-      "english": ["promise", "commitment", "vow"],
+      "english": [
+        {
+          "id": "k9vix7k4",
+          "word": "promise",
+          "meaning": "oath or vow",
+          "note": "Use 承諾 as the all-purpose noun for a pledge or promise that someone makes."
+        },
+        {
+          "id": "9zsurgtg",
+          "word": "commitment",
+          "meaning": "promise or agreement",
+          "note": "Use 承諾 as the all-purpose noun for a promise or general pledge, rather than for wholehearted involvement or loyalty."
+        },
+        {
+          "id": "0ftaigzo",
+          "word": "vow",
+          "meaning": "solemn promise",
+          "note": "Use this everyday word when the vow is presented mainly as a promise rather than as a solemn oath."
+        }
+      ],
       "examples": [
         {
           "english": "They finally kept their promise to me.",

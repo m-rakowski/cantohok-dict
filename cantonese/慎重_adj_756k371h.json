@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "careful, thoughtful",
-      "english": ["cautious", "deliberate"],
+      "english": [
+        {
+          "id": "bdh2q35a",
+          "word": "cautious",
+          "meaning": "careful, tentative",
+          "note": "Use this for a careful and deliberate attitude toward an important decision or matter."
+        },
+        {
+          "id": "ncz6bjwu",
+          "word": "deliberate",
+          "meaning": "carefully considering",
+          "note": "Use 慎重 for a person or decision that carefully weighs consequences before choosing."
+        }
+      ],
       "examples": [
         {
           "english": "This decision is very important, so we need to be cautious and think it through carefully.",

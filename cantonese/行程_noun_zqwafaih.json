@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "trip, travel plan",
-      "english": ["journey", "itinerary"],
+      "english": [
+        {
+          "id": "gd4gu5d0",
+          "word": "journey",
+          "meaning": "trip; voyage",
+          "note": "This is the all-purpose everyday choice for a trip or voyage viewed as a whole."
+        },
+        {
+          "id": "sir6xlik",
+          "word": "itinerary",
+          "meaning": "travel plan",
+          "note": "This is the all-purpose choice for a planned vacation or road-trip schedule."
+        }
+      ],
       "examples": [
         {
           "english": "Our journey to Japan this time is very well planned.",

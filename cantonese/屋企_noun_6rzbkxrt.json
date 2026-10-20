@@ -6,7 +6,39 @@
   "boxes": [
     {
       "meaning": "home",
-      "english": ["home", "residence", "homestead", "habitation", "place"],
+      "english": [
+        {
+          "id": "98boj93i",
+          "word": "home",
+          "meaning": "dwelling; one's house",
+          "note": "This is the all-purpose colloquial choice for one's own house or one's parental home."
+        },
+        {
+          "id": "z0hu491x",
+          "word": "residence",
+          "meaning": "home; where someone lives",
+          "note": "This is the all-purpose everyday choice for a person's home or dwelling."
+        },
+        {
+          "id": "udxf71cz",
+          "word": "homestead",
+          "meaning": "one's home",
+          "note": "This is the all-purpose spoken choice for the place that is one's home."
+        },
+        {
+          "id": "gq5tnst1",
+          "word": "habitation",
+          "meaning": "dwelling; home",
+          "note": "Use this for someone's home or household when the dwelling is personal rather than a generic place of residence."
+        },
+        {
+          "id": "14r5wye2",
+          "word": "place",
+          "meaning": "home; one's place",
+          "register": "colloquial",
+          "note": "Use 屋企 when “place” means someone’s home or the place where they live."
+        }
+      ],
       "examples": [
         {
           "english": "I'm not going home for dinner tonight.",

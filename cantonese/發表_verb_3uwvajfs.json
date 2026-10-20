@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "publish, announce publicly, state an opinion",
-      "english": ["publish", "voice"],
+      "english": [
+        {
+          "id": "wrsvb9db",
+          "word": "publish",
+          "meaning": "issue for sale/distribution",
+          "note": "Use 發表 as the all-purpose choice when making written material or an announcement public without stressing the medium."
+        },
+        {
+          "id": "tmoj7xyn",
+          "word": "voice",
+          "meaning": "express in words",
+          "register": "formal",
+          "note": "Choose this for publicly issuing or publishing an opinion, statement, or other formal utterance."
+        }
+      ],
       "examples": [
         {
           "english": "We plan to publish the statement.",

@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "to solve, to settle",
-      "english": ["solve", "resolve", "settle", "decide", "puzzle"],
+      "english": [
+        {
+          "id": "0mov5h7u",
+          "word": "solve",
+          "meaning": "find solution",
+          "note": "This is the all-purpose choice for solving a practical problem or resolving an issue."
+        },
+        {
+          "id": "437o7k6c",
+          "word": "resolve",
+          "meaning": "solve a problem",
+          "note": "This is the all-purpose choice for finding a solution to a problem."
+        },
+        {
+          "id": "52vcd7c8",
+          "word": "settle",
+          "meaning": "end a dispute",
+          "note": "This is the all-purpose choice for resolving a question, dispute, agreement, or legal matter."
+        },
+        {
+          "id": "2q4rpuus",
+          "word": "decide",
+          "meaning": "resolve a matter",
+          "note": "Use this for solving or settling a problem, dispute, or contest rather than choosing an option."
+        },
+        {
+          "id": "7acv40nr",
+          "word": "puzzle",
+          "meaning": "work through",
+          "note": "Use this when the emphasis is on successfully working through and solving the problem."
+        }
+      ],
       "examples": [
         {
           "english": "We finally managed to solve this problem.",

@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "surgery",
-      "english": ["operation", "surgery", "procedure"],
+      "english": [
+        {
+          "id": "d7s3jm1y",
+          "word": "operation",
+          "meaning": "surgical procedure",
+          "note": "Use this for a surgical procedure, rather than for any other kind of operation."
+        },
+        {
+          "id": "lxdm1cs4",
+          "word": "surgery",
+          "meaning": "medical operation",
+          "note": "This is the all-purpose rendering for a medical operation or procedure."
+        },
+        {
+          "id": "i1hm1ylc",
+          "word": "procedure",
+          "meaning": "medical operation",
+          "note": "Use 手術 specifically for a surgical operation, not for a general set of steps."
+        }
+      ],
       "examples": [
         {
           "english": "I need to have an operation next month.",

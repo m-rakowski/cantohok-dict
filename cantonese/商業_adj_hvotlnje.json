@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "commercial, business",
-      "english": ["commercial", "mercantile"],
+      "english": [
+        {
+          "id": "8yqwaw6v",
+          "word": "commercial",
+          "meaning": "business-related",
+          "note": "This is the all-purpose adjective for things related to commerce or business, especially before a noun such as 商業活動."
+        },
+        {
+          "id": "57l62hcb",
+          "word": "mercantile",
+          "meaning": "trade, commercial",
+          "note": "This is the all-purpose choice for things concerned with trade or business for profit."
+        }
+      ],
       "examples": [
         {
           "english": "Our company has been holding many more commercial activities lately.",

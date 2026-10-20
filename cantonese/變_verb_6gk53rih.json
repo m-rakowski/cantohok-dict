@@ -6,7 +6,39 @@
   "boxes": [
     {
       "meaning": "to change, become different",
-      "english": ["change", "vary", "alter", "turn", "transform"],
+      "english": [
+        {
+          "id": "zu58yg3i",
+          "word": "change",
+          "meaning": "become different",
+          "note": "This is the all-purpose choice when something becomes different or turns into something else."
+        },
+        {
+          "id": "fi5zzgrw",
+          "word": "vary",
+          "meaning": "be different/ change",
+          "note": "This is the all-purpose choice when something changes over time or is not constant."
+        },
+        {
+          "id": "kc4bayek",
+          "word": "alter",
+          "meaning": "become different",
+          "note": "Use 變 when something becomes different, especially without emphasizing who deliberately changed it."
+        },
+        {
+          "id": "bvw7gnxs",
+          "word": "turn",
+          "meaning": "become/change state",
+          "note": "Use this for a change of state, with complements such as 變成 or 變壞 for becoming something or going bad."
+        },
+        {
+          "id": "64khktn2",
+          "word": "transform",
+          "meaning": "undergo change",
+          "register": "colloquial",
+          "note": "Use this for something undergoing a change in appearance or character, often with 咗 or 緊."
+        }
+      ],
       "examples": [
         {
           "english": "The weather is starting to change and get cold.",

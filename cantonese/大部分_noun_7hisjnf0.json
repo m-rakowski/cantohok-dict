@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "majority, most of it",
-      "english": ["majority", "bulk"],
+      "english": [
+        {
+          "id": "mvbqb81b",
+          "word": "majority",
+          "meaning": "more than half",
+          "note": "This is the all-purpose spoken choice for most or a majority of a group."
+        },
+        {
+          "id": "vt1mgem3",
+          "word": "bulk",
+          "meaning": "main part",
+          "note": "This is the all-purpose choice for the major or largest part of something."
+        }
+      ],
       "examples": [
         {
           "english": "The majority of people support this plan.",

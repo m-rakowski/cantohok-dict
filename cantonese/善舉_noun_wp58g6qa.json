@@ -6,7 +6,33 @@
   "boxes": [
     {
       "meaning": "good deed, charitable act",
-      "english": ["altruism", "generosity", "piety", "philanthropy"],
+      "english": [
+        {
+          "id": "88tdrquy",
+          "word": "altruism",
+          "meaning": "selfless helpful action",
+          "note": "Use this for a particular helpful or charitable act that benefits someone else, rather than for the general quality."
+        },
+        {
+          "id": "8ajhhkp6",
+          "word": "generosity",
+          "meaning": "generous act",
+          "register": "written",
+          "note": "Use this for a particular generous or charitable act rather than for the person’s general disposition."
+        },
+        {
+          "id": "fvvma5g7",
+          "word": "piety",
+          "meaning": "pious act or remark",
+          "note": "Use this for a pious or otherwise laudable deed, rather than for a devout thought or remark."
+        },
+        {
+          "id": "d7bs7196",
+          "word": "philanthropy",
+          "meaning": "charitable act",
+          "note": "Use this for a particular charitable deed or philanthropic act."
+        }
+      ],
       "examples": [
         {
           "english": "Donating your old school uniforms to students in need was a real act of altruism.",

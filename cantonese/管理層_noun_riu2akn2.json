@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "management, the managers",
-      "english": ["management", "government"],
+      "english": [
+        {
+          "id": "4pt642hu",
+          "word": "management",
+          "meaning": "the managers",
+          "note": "Use this specifically for the managers or senior executives as a group."
+        },
+        {
+          "id": "e9b118jv",
+          "word": "government",
+          "meaning": "country's ruling authority",
+          "note": "Use 管理層 for the governing or management body of an organization rather than a state."
+        }
+      ],
       "examples": [
         {
           "english": "The management decided to raise salaries next month.",

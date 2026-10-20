@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "individual case",
-      "english": ["instance", "case"],
+      "english": [
+        {
+          "id": "xcol2snr",
+          "word": "instance",
+          "meaning": "instance, occurrence",
+          "note": "Use 個案 when the instance is a particular case considered separately, especially in medical, legal, or problem-solving contexts."
+        },
+        {
+          "id": "jllzyz5s",
+          "word": "case",
+          "meaning": "medical case",
+          "note": "Use this for an individual case studied or dealt with, especially in medical, social-service, or academic contexts."
+        }
+      ],
       "examples": [
         {
           "english": "The doctor said this was a rare instance.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "take a photo",
-      "english": ["photograph", "snap"],
+      "english": [
+        {
+          "id": "sp5f3pnt",
+          "word": "photograph",
+          "meaning": "take a photo",
+          "note": "This is the all-purpose everyday verb for taking a photograph of someone or something."
+        },
+        {
+          "id": "9mv6plq2",
+          "word": "snap",
+          "meaning": "take a photo",
+          "note": "Use this as the ordinary all-purpose verb for taking a photograph."
+        }
+      ],
       "examples": [
         {
           "english": "I often photograph my family.",

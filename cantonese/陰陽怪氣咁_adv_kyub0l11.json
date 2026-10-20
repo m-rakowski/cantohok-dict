@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "in a snide, sarcastic tone",
-      "english": ["sarcastically", "cynically"],
+      "english": [
+        {
+          "id": "2vpqmexm",
+          "word": "sarcastically",
+          "meaning": "in a sarcastic manner",
+          "register": "colloquial",
+          "note": "Use this when the sarcasm has an unpleasant, passive-aggressive, or deliberately odd tone."
+        },
+        {
+          "id": "zsqgfl36",
+          "word": "cynically",
+          "meaning": "in a cynical way",
+          "register": "colloquial",
+          "note": "Use this for a snide, affectedly strange cynical tone, especially in casual speech."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

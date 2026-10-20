@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "letter of the alphabet",
-      "english": ["letter", "alphabet"],
+      "english": [
+        {
+          "id": "q0su1wj1",
+          "word": "letter",
+          "meaning": "alphabet symbol",
+          "note": "Use 字母 for an alphabet symbol such as the letters A to Z."
+        },
+        {
+          "id": "3rp133v2",
+          "word": "alphabet",
+          "meaning": "letter set",
+          "note": "Use this as the everyday general term when referring collectively to the letters used in a language."
+        }
+      ],
       "examples": [
         {
           "english": "How do you pronounce this letter?",

@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "reserve, stored supply",
-      "english": ["reserve", "provision", "stockpile", "supply", "stock"],
+      "english": [
+        {
+          "id": "0odj7d2w",
+          "word": "reserve",
+          "meaning": "something kept for later",
+          "note": "This is the all-purpose noun for something kept for future use, including financial reserves."
+        },
+        {
+          "id": "ulwwfijq",
+          "word": "provision",
+          "meaning": "supplies, food",
+          "note": "Use this as the all-purpose noun for goods, food, or money kept in reserve for future use."
+        },
+        {
+          "id": "mkkqee4k",
+          "word": "stockpile",
+          "meaning": "stored reserve",
+          "note": "This is the all-purpose choice for a stored reserve kept for future use or possible shortages."
+        },
+        {
+          "id": "ojzt3p8l",
+          "word": "supply",
+          "meaning": "provisions; stocks",
+          "note": "Use this for supplies or stocks deliberately stored up for future use."
+        },
+        {
+          "id": "toeqkfb5",
+          "word": "stock",
+          "meaning": "supply; reserves",
+          "note": "Use 儲備 as the all-purpose noun for a supply kept for later use."
+        }
+      ],
       "examples": [
         {
           "english": "The company needs a sufficient reserve to cover unexpected expenses.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "input jack/port",
-      "english": ["input"],
+      "english": [
+        {
+          "id": "2l9zppgm",
+          "word": "input",
+          "meaning": "input jack/port",
+          "note": "Use this specifically for the input jack or port on a device."
+        }
+      ],
       "examples": [
         {
           "english": "The input jack on this speaker is at the back.",

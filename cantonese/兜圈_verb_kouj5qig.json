@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "to go around in circles",
-      "english": ["circulate", "circle"],
+      "english": [
+        {
+          "id": "m5fk273t",
+          "word": "circulate",
+          "meaning": "move in a circuit",
+          "note": "Use this as the all-purpose spoken choice when a person or thing moves around in circles."
+        },
+        {
+          "id": "64uxfqt9",
+          "word": "circle",
+          "meaning": "move around",
+          "register": "colloquial",
+          "note": "Use this colloquial expression when someone or something moves around a target or goes round repeatedly."
+        }
+      ],
       "examples": [
         {
           "english": "The bus continued to circulate around the roundabout.",

@@ -6,7 +6,28 @@
   "boxes": [
     {
       "meaning": "sturdy, tough",
-      "english": ["tough", "strong", "hearty"],
+      "english": [
+        {
+          "id": "b8rstfyj",
+          "word": "tough",
+          "meaning": "sturdy; durable",
+          "register": "colloquial",
+          "note": "Use 硬淨 for a material that is sturdy or for a person or animal that is physically robust."
+        },
+        {
+          "id": "khlzic3c",
+          "word": "strong",
+          "meaning": "physically powerful",
+          "note": "Use this for someone or something sturdy and able to withstand wear or force, rather than simply powerful."
+        },
+        {
+          "id": "1sycuj4t",
+          "word": "hearty",
+          "meaning": "strong, robust",
+          "register": "colloquial",
+          "note": "Use this for someone or something physically robust and able to withstand wear or force."
+        }
+      ],
       "examples": [
         {
           "english": "These hiking shoes are really tough and will not wear out for years.",

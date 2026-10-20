@@ -6,7 +6,36 @@
   "boxes": [
     {
       "meaning": "disastrous",
-      "english": ["catastrophic", "calamitous", "disastrous", "dismal"],
+      "english": [
+        {
+          "id": "8iaix63t",
+          "word": "catastrophic",
+          "meaning": "disastrous, ruinous",
+          "register": "written",
+          "note": "Choose this for the direct, usually written or technical sense of being catastrophe-related or disastrous."
+        },
+        {
+          "id": "nfqsklqn",
+          "word": "calamitous",
+          "meaning": "disastrous, disastrous",
+          "register": "written",
+          "note": "Use this as the direct, all-purpose description, especially before a noun such as 災難性嘅風暴."
+        },
+        {
+          "id": "vd7yl3ip",
+          "word": "disastrous",
+          "meaning": "calamitous; causing disaster",
+          "register": "written",
+          "note": "Use this as the precise, formal description of something calamitous or likely to cause disaster."
+        },
+        {
+          "id": "x17c1lrb",
+          "word": "dismal",
+          "meaning": "disastrous, calamitous",
+          "register": "formal",
+          "note": "Use this when the result or consequences are genuinely disastrous or calamitous, rather than merely poor."
+        }
+      ],
       "examples": [
         {
           "english": "This accident caused catastrophic consequences.",

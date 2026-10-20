@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "workbench",
-      "english": ["workbench", "worktable", "bench"],
+      "english": [
+        {
+          "id": "ul0vis14",
+          "word": "workbench",
+          "meaning": "carpenter's work table",
+          "note": "This is the all-purpose Cantonese term for a sturdy table used for hands-on work."
+        },
+        {
+          "id": "sf1ty4xl",
+          "word": "worktable",
+          "meaning": "table for work",
+          "note": "This is the all-purpose Cantonese noun for a table designed for doing a particular kind of work."
+        },
+        {
+          "id": "1v79ux3c",
+          "word": "bench",
+          "meaning": "workbench",
+          "note": "Use this for a bench used as a surface for building, repairing, or other manual work."
+        }
+      ],
       "examples": [
         {
           "english": "This workbench is sturdy enough for metalwork.",

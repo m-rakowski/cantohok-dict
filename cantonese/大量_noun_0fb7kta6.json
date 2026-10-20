@@ -6,7 +6,33 @@
   "boxes": [
     {
       "meaning": "large amount",
-      "english": ["gallon", "dose", "quantity", "volume"],
+      "english": [
+        {
+          "id": "bg008r2q",
+          "word": "gallon",
+          "meaning": "gallons, large amount",
+          "register": "written",
+          "note": "Use this for a large quantity of liquid when “gallons” is not meant as a literal measurement."
+        },
+        {
+          "id": "rjxft2ys",
+          "word": "dose",
+          "meaning": "a good amount",
+          "note": "Use this for a good or substantial amount of an abstract thing, such as skepticism."
+        },
+        {
+          "id": "3t3awvkc",
+          "word": "quantity",
+          "meaning": "in large amounts",
+          "note": "Use this when the quantity is notably large or considerable rather than merely unspecified."
+        },
+        {
+          "id": "5dgt6t0r",
+          "word": "volume",
+          "meaning": "large amount",
+          "note": "Use this when the amount is notably large rather than merely specifying its quantity."
+        }
+      ],
       "examples": [
         {
           "english": "The factory consumes gallon after gallon of water every day.",

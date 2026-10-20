@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "record of who is present",
-      "english": ["attendance"],
+      "english": [
+        {
+          "id": "r094d68d",
+          "word": "attendance",
+          "meaning": "record of who is present",
+          "note": "Use this for a list identifying the people who are present."
+        }
+      ],
       "examples": [
         {
           "english": "We’ll check the attendance list before the meeting starts.",

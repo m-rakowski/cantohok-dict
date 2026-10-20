@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "tasty, delicious",
-      "english": ["delicious", "yummy"],
+      "english": [
+        {
+          "id": "djxhmn3u",
+          "word": "delicious",
+          "meaning": "pleasing to taste",
+          "register": "colloquial",
+          "note": "Use this natural alternative when focusing especially on the food's good flavour."
+        },
+        {
+          "id": "ajyvfq19",
+          "word": "yummy",
+          "meaning": "delicious",
+          "note": "Use this for delicious food when you want to emphasize its good taste or flavor."
+        }
+      ],
       "examples": [
         {
           "english": "This soup has a really delicious flavour.",

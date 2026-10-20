@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "not conspicuous",
-      "english": ["hidden", "unobtrusive"],
+      "english": [
+        {
+          "id": "tquxrp3a",
+          "word": "hidden",
+          "meaning": "out of sight",
+          "register": "colloquial",
+          "note": "Use this when something is hidden because it is inconspicuous or not visually noticeable, rather than deliberately concealed."
+        },
+        {
+          "id": "mfx9i7s9",
+          "word": "unobtrusive",
+          "meaning": "discreet, inconspicuous",
+          "note": "Use this especially when something is visually inconspicuous or not noticeable."
+        }
+      ],
       "examples": [
         {
           "english": "I put the switch under the table, where it is hidden and inconspicuous.",

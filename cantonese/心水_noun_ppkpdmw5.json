@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "personal favourite",
-      "english": ["darling", "jam"],
+      "english": [
+        {
+          "id": "mtpjlnmj",
+          "word": "darling",
+          "meaning": "favourite",
+          "register": "colloquial",
+          "note": "Use this for a favourite choice or thing, especially when saying it is one of your personal picks."
+        },
+        {
+          "id": "nnjuvzw8",
+          "word": "jam",
+          "meaning": "my thing; favorite",
+          "note": "Use this for a person or thing that is someone’s particular favorite or preference."
+        }
+      ],
       "examples": [
         {
           "english": "This film is a darling of mine.",

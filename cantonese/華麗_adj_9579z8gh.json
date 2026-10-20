@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "gorgeous, showy",
-      "english": ["ornate", "glitzy", "showy"],
+      "english": [
+        {
+          "id": "4c4k40ts",
+          "word": "ornate",
+          "meaning": "elaborately decorated",
+          "note": "This is the all-purpose choice for richly decorated things and elaborate or florid styles, including writing."
+        },
+        {
+          "id": "hddn4l4x",
+          "word": "glitzy",
+          "meaning": "brilliantly showy",
+          "note": "Choose this when the glitzy style is glamorous, ornate, or luxurious rather than tacky."
+        },
+        {
+          "id": "6yu8kq91",
+          "word": "showy",
+          "meaning": "visually attractive",
+          "note": "Use this for a richly beautiful or ornate visual display, such as flowers, clothing, or decoration."
+        }
+      ],
       "examples": [
         {
           "english": "This piece is written in an ornate style; the wording is elaborate but powerful.",

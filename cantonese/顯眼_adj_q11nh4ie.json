@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "eye-catching, easy to notice",
-      "english": ["prominent", "noticeable", "notable"],
+      "english": [
+        {
+          "id": "fyygpnm9",
+          "word": "prominent",
+          "meaning": "conspicuous; noticeable",
+          "note": "This is the all-purpose choice for something conspicuous or visually noticeable, including a prominent position."
+        },
+        {
+          "id": "kwleg1u2",
+          "word": "noticeable",
+          "meaning": "visible / easy to notice",
+          "note": "Choose this when something is especially conspicuous or stands out visually."
+        },
+        {
+          "id": "4bezzteg",
+          "word": "notable",
+          "meaning": "clearly noticeable",
+          "note": "Use this for something conspicuous or visually prominent that easily attracts notice."
+        }
+      ],
       "examples": [
         {
           "english": "That sign is so big that it is prominent.",

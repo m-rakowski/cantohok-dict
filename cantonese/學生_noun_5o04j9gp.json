@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "student",
-      "english": ["student", "learner", "schoolchild", "pupil", "scholar"],
+      "english": [
+        {
+          "id": "z0zbe07d",
+          "word": "student",
+          "meaning": "school or university student",
+          "note": "This is the all-purpose noun for someone learning a subject or formally attending an educational institution."
+        },
+        {
+          "id": "fwd86lle",
+          "word": "learner",
+          "meaning": "person who is learning",
+          "note": "Use this as the usual noun for someone receiving instruction, especially in a class or course."
+        },
+        {
+          "id": "v63qvr6n",
+          "word": "schoolchild",
+          "meaning": "school-age pupil",
+          "note": "Use 學生 as the all-purpose term for a schoolchild or pupil."
+        },
+        {
+          "id": "n5fv48g3",
+          "word": "pupil",
+          "meaning": "school student",
+          "note": "This is the all-purpose choice for a learner enrolled at a school."
+        },
+        {
+          "id": "a2c2mm7m",
+          "word": "scholar",
+          "meaning": "student with scholarship",
+          "note": "This is the all-purpose word for a student, and it does not by itself imply a scholarship."
+        }
+      ],
       "examples": [
         {
           "english": "That student is studying medicine.",

@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "memory, recollection",
-      "english": ["recall", "remembrance", "memory", "recollection"],
+      "english": [
+        {
+          "id": "z8kdzfef",
+          "word": "recall",
+          "meaning": "memory",
+          "note": "Use this as the all-purpose noun for memory or a recollection."
+        },
+        {
+          "id": "3q84i09u",
+          "word": "remembrance",
+          "meaning": "the act of remembering",
+          "note": "Choose this for the general mental store or state of remembering rather than one particular recollection."
+        },
+        {
+          "id": "yj9dkv2o",
+          "word": "memory",
+          "meaning": "stored memory; recollection",
+          "note": "Use this for a stored recollection or memory of a particular event, rather than for remembering ability."
+        },
+        {
+          "id": "hq8z4pqu",
+          "word": "recollection",
+          "meaning": "memory; ability to remember",
+          "note": "Use this for memory as stored mental content or the span of what someone can remember, rather than for a specific reminiscence."
+        }
+      ],
       "examples": [
         {
           "english": "I still have vivid recall of those events.",

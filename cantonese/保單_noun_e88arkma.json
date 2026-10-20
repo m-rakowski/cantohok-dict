@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "insurance policy",
-      "english": ["policy", "insurance"],
+      "english": [
+        {
+          "id": "82stprk5",
+          "word": "policy",
+          "meaning": "insurance document",
+          "note": "Use this for an insurance policy, whether you mean the contract or the document proving it."
+        },
+        {
+          "id": "t8siwhf0",
+          "word": "insurance",
+          "meaning": "insurance policy",
+          "note": "Use this when you mean the actual insurance policy or policy document rather than insurance coverage in general."
+        }
+      ],
       "examples": [
         {
           "english": "I can't find my insurance policy.",

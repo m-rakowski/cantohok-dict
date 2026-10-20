@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "question closely, interrogate",
-      "english": ["interrogate", "grill", "examine"],
+      "english": [
+        {
+          "id": "8qltja5q",
+          "word": "interrogate",
+          "meaning": "question aggressively",
+          "note": "This is the all-purpose choice for questioning someone closely, persistently, or aggressively."
+        },
+        {
+          "id": "wsdrk6rw",
+          "word": "grill",
+          "meaning": "question harshly",
+          "note": "Use this for a sustained interrogation, especially by police or another authority, without necessarily stressing physical force."
+        },
+        {
+          "id": "53tc4rwu",
+          "word": "examine",
+          "meaning": "question formally",
+          "note": "Use this when interrogating someone, especially a witness, with a series of questions."
+        }
+      ],
       "examples": [
         {
           "english": "They kept trying to interrogate me until I was speechless.",

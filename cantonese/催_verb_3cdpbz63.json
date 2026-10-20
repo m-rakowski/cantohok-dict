@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "to hurry someone, press them to act",
-      "english": ["urge", "rush", "push", "hurry", "pursue"],
+      "english": [
+        {
+          "id": "fu5cxhyl",
+          "word": "urge",
+          "meaning": "press someone to do",
+          "note": "Use this when the pressure involves hurrying or repeatedly pushing someone to act."
+        },
+        {
+          "id": "2mfbxg9u",
+          "word": "rush",
+          "meaning": "hurry someone/something",
+          "note": "Use this when making another person act faster or not delay."
+        },
+        {
+          "id": "3vauo1i4",
+          "word": "push",
+          "meaning": "pressure someone",
+          "note": "Use 催 when repeatedly urging or pressuring someone to act, decide, or provide an answer."
+        },
+        {
+          "id": "wbt4oje1",
+          "word": "hurry",
+          "meaning": "cause to be done quickly",
+          "note": "Use this when urging another person or process to proceed or be completed more quickly."
+        },
+        {
+          "id": "31fcnvyx",
+          "word": "pursue",
+          "meaning": "press; urge",
+          "note": "Use this when pressing or urging someone to act or finish something."
+        }
+      ],
       "examples": [
         {
           "english": "You always urge me to hurry up; I’m almost done.",

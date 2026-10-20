@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "review, commentary",
-      "english": ["review", "comment", "criticism"],
+      "english": [
+        {
+          "id": "q38la1gw",
+          "word": "review",
+          "meaning": "critical review",
+          "note": "This is the all-purpose noun for a critical assessment of a book, film, play, or other work."
+        },
+        {
+          "id": "35ypsh4i",
+          "word": "comment",
+          "meaning": "remark",
+          "note": "Use this for an evaluative comment or for the activity of commenting, especially in public or more formal discussion."
+        },
+        {
+          "id": "s1gfgh0k",
+          "word": "criticism",
+          "meaning": "critical remarks",
+          "note": "Use this for a considered review, commentary, or detailed critical examination rather than a general expression of disapproval."
+        }
+      ],
       "examples": [
         {
           "english": "This review is quite fair.",

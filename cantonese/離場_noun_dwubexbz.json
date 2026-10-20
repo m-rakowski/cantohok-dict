@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "departure",
-      "english": ["exit"],
+      "english": [
+        {
+          "id": "zitpa560",
+          "word": "exit",
+          "meaning": "departure",
+          "note": "Use this for someone's departure from a place, event, stage, or public scene rather than for a physical exit."
+        }
+      ],
       "examples": [
         {
           "english": "The guest's exit came after they finished speaking.",

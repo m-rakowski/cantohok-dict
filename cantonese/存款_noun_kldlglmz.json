@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "bank deposit",
-      "english": ["deposit"],
+      "english": [
+        {
+          "id": "cnfyq5hf",
+          "word": "deposit",
+          "meaning": "bank deposit",
+          "note": "Use this as the all-purpose noun for money kept in a bank account."
+        }
+      ],
       "examples": [
         {
           "english": "My bank deposit still isn't enough to buy a flat.",

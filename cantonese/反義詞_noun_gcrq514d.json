@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "antonym",
-      "english": ["antonym", "opposite"],
+      "english": [
+        {
+          "id": "vgbolz7s",
+          "word": "antonym",
+          "meaning": "opposite-meaning word",
+          "register": "formal",
+          "note": "This is the all-purpose term for a word with the opposite meaning of another word."
+        },
+        {
+          "id": "unk2oyk3",
+          "word": "opposite",
+          "meaning": "antonym",
+          "note": "Use this specifically for a word with the opposite meaning, such as “up” versus “down.”"
+        }
+      ],
       "examples": [
         {
           "english": "The antonym of “high” is “low”.",

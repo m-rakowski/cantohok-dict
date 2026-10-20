@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "in addition, besides",
-      "english": ["additionally", "furthermore"],
+      "english": [
+        {
+          "id": "xb6n81fx",
+          "word": "additionally",
+          "meaning": "in addition; also",
+          "note": "Use this when presenting an additional, separate point or item rather than simply adding emphasis to the same point."
+        },
+        {
+          "id": "dgkaj6ke",
+          "word": "furthermore",
+          "meaning": "in addition; besides",
+          "note": "Use this when introducing a separate additional point, roughly “besides” or “additionally.”"
+        }
+      ],
       "examples": [
         {
           "english": "Additionally, we need to prepare another document.",

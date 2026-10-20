@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "official recognition",
-      "english": ["recognition"],
+      "english": [
+        {
+          "id": "w3ts68gs",
+          "word": "recognition",
+          "meaning": "acceptance as true",
+          "note": "Use this for accepting something as valid or true; in diplomacy, it means officially accepting another government’s status."
+        }
+      ],
       "examples": [
         {
           "english": "The new government won recognition from many countries.",
@@ -17,7 +24,22 @@
     },
     {
       "meaning": "admission that something is true",
-      "english": ["admission", "concession"],
+      "english": [
+        {
+          "id": "x9bcj3ke",
+          "word": "admission",
+          "meaning": "acknowledgement or concession",
+          "register": "written",
+          "note": "Use this when admission means acknowledging that a statement or argument is true or valid."
+        },
+        {
+          "id": "3ctuos38",
+          "word": "concession",
+          "meaning": "admission",
+          "register": "formal",
+          "note": "Use this as the noun for acknowledging that a point is valid, especially in formal or written wording."
+        }
+      ],
       "examples": [
         {
           "english": "He finally made an admission that he was wrong.",

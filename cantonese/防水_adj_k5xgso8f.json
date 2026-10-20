@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "waterproof",
-      "english": ["waterproof", "impervious"],
+      "english": [
+        {
+          "id": "lal0o5aw",
+          "word": "waterproof",
+          "meaning": "waterproof material/item",
+          "note": "This is the all-purpose choice for something resistant or impervious to water."
+        },
+        {
+          "id": "bd8d4q6j",
+          "word": "impervious",
+          "meaning": "impenetrable; waterproof",
+          "note": "Use this specifically for materials, clothing, roofs, or containers that do not let water through."
+        }
+      ],
       "examples": [
         {
           "english": "This jacket is waterproof, so even rain is no problem.",

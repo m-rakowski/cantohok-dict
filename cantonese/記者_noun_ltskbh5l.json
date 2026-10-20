@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "reporter, journalist",
-      "english": ["reporter", "journalist"],
+      "english": [
+        {
+          "id": "tk53cbhq",
+          "word": "reporter",
+          "meaning": "news journalist",
+          "note": "This is the all-purpose choice for a news journalist in print, broadcast, or television news."
+        },
+        {
+          "id": "89td3rlz",
+          "word": "journalist",
+          "meaning": "journalism worker",
+          "note": "This is the all-purpose Cantonese noun for both a journalist and a news reporter."
+        }
+      ],
       "examples": [
         {
           "english": "The reporter will interview the official tonight.",

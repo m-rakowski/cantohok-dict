@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "assumption, hypothesis",
-      "english": ["assumption", "hypothesis", "presupposition", "conjecture"],
+      "english": [
+        {
+          "id": "n2mmgam3",
+          "word": "assumption",
+          "meaning": "presumed belief",
+          "note": "This is the all-purpose noun for a supposition or proposition accepted without proof."
+        },
+        {
+          "id": "tp2ofus6",
+          "word": "hypothesis",
+          "meaning": "scientific hypothesis",
+          "note": "This is the all-purpose choice for both a scientific hypothesis and an assumption made for an argument."
+        },
+        {
+          "id": "d4oz6o8z",
+          "word": "presupposition",
+          "meaning": "prior assumption",
+          "note": "This is the everyday all-purpose noun for a preliminary assumption or conjecture."
+        },
+        {
+          "id": "d92pafnw",
+          "word": "conjecture",
+          "meaning": "hypothesis, supposition",
+          "note": "Use this specifically for a proposed hypothesis or supposition used as a basis for reasoning."
+        }
+      ],
       "examples": [
         {
           "english": "Let’s make an assumption first and see whether the plan will work.",

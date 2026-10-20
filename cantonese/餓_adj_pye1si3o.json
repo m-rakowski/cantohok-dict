@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "affected by hunger",
-      "english": ["hungry"],
+      "english": [
+        {
+          "id": "bvn75uob",
+          "word": "hungry",
+          "meaning": "affected by hunger",
+          "note": "This is the all-purpose everyday choice for being physically hungry."
+        }
+      ],
       "examples": [
         {
           "english": "I'm hungry—when are we eating?",

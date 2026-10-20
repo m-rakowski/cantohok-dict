@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "very attractive, captivating",
-      "english": ["engrossing", "irresistible"],
+      "english": [
+        {
+          "id": "oujcnvg5",
+          "word": "engrossing",
+          "meaning": "absorbing; captivating",
+          "register": "colloquial",
+          "note": "This is the all-purpose colloquial choice for something that completely holds your attention."
+        },
+        {
+          "id": "vcyw0vh3",
+          "word": "irresistible",
+          "meaning": "very attractive",
+          "note": "Use this when irresistible means compellingly attractive or appealing, rather than literally impossible to resist."
+        }
+      ],
       "examples": [
         {
           "english": "This novel is so engrossing that I can’t stop reading it.",

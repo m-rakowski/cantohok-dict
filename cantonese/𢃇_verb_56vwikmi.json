@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "move by sail/boat",
-      "english": ["sail"],
+      "english": [
+        {
+          "id": "khlt10mf",
+          "word": "sail",
+          "meaning": "move by sail/boat",
+          "note": "Use this for the specifically nautical action of sailing or moving a boat by its sails, rather than merely riding in or departing by boat."
+        }
+      ],
       "examples": [
         {
           "english": "The wind is good today, so we sail the sailboat out to sea.",

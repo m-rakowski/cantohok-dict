@@ -6,7 +6,50 @@
   "boxes": [
     {
       "meaning": "company, business",
-      "english": ["company", "firm", "corporation", "enterprise", "work", "outfit", "concern"],
+      "english": [
+        {
+          "id": "dvv1winh",
+          "word": "company",
+          "meaning": "business; corporation",
+          "note": "This is the all-purpose choice for a business or corporation."
+        },
+        {
+          "id": "dimew6d9",
+          "word": "firm",
+          "meaning": "business company",
+          "note": "Use this as the all-purpose word for a business or firm, including a partnership when its legal structure is not the focus."
+        },
+        {
+          "id": "ndoi8ll4",
+          "word": "corporation",
+          "meaning": "company; incorporated body",
+          "note": "This is the all-purpose everyday choice for a corporation or incorporated business."
+        },
+        {
+          "id": "2uoytlf7",
+          "word": "enterprise",
+          "meaning": "business, company",
+          "note": "This is the all-purpose spoken choice for a company or business."
+        },
+        {
+          "id": "ajnehsp2",
+          "word": "work",
+          "meaning": "workplace; job site",
+          "note": "Use 公司 for the company as the workplace or as the employer, especially in office-work contexts."
+        },
+        {
+          "id": "8kzttnuj",
+          "word": "outfit",
+          "meaning": "business/firm",
+          "note": "Use this when “outfit” means a business or firm rather than a group of people generally."
+        },
+        {
+          "id": "u0ck0tig",
+          "word": "concern",
+          "meaning": "business or firm",
+          "note": "Use this only when concern means a business, firm, or company."
+        }
+      ],
       "examples": [
         {
           "english": "That company opened two new branches this year.",

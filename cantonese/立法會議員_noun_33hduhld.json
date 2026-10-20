@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "Legislative Council member",
-      "english": ["legislator", "lawmaker"],
+      "english": [
+        {
+          "id": "6qt96oy3",
+          "word": "legislator",
+          "meaning": "lawmaker",
+          "note": "Use this specifically for a member of Hong Kong's Legislative Council."
+        },
+        {
+          "id": "vgc86fmf",
+          "word": "lawmaker",
+          "meaning": "legislator",
+          "note": "Use this specifically for a member of Hong Kong's Legislative Council."
+        }
+      ],
       "examples": [
         {
           "english": "We can raise this issue with the legislator in the Legislative Council.",

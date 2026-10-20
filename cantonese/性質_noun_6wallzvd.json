@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "nature or properties of a thing",
-      "english": ["quality", "nature", "property", "composition"],
+      "english": [
+        {
+          "id": "kgm6ne6i",
+          "word": "quality",
+          "meaning": "kind or sort",
+          "note": "Use 性質 for the nature or general characteristics of something, especially when contrasting them with its quantity."
+        },
+        {
+          "id": "qhzoi3st",
+          "word": "nature",
+          "meaning": "inherent character",
+          "note": "Use this for the inherent qualities or general character of a thing rather than a person's personality."
+        },
+        {
+          "id": "dmv77pjc",
+          "word": "property",
+          "meaning": "physical property; characteristic",
+          "note": "Use this for an inherent or measurable property of a material, substance, or class of objects."
+        },
+        {
+          "id": "halep8a4",
+          "word": "composition",
+          "meaning": "makeup, nature",
+          "note": "Use this for the inherent nature or general character of a thing or person, rather than its individual components."
+        }
+      ],
       "examples": [
         {
           "english": "The quality and quantity of this product are equally important.",

@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "soak in liquid",
-      "english": ["immerse", "soak", "plunge"],
+      "english": [
+        {
+          "id": "tayr1b41",
+          "word": "immerse",
+          "meaning": "put into liquid",
+          "note": "This is the all-purpose choice for physically putting something into liquid."
+        },
+        {
+          "id": "clt832a6",
+          "word": "soak",
+          "meaning": "immerse to saturate",
+          "note": "This is the all-purpose spoken choice for immersing yourself or an object in liquid."
+        },
+        {
+          "id": "h4tsze8d",
+          "word": "plunge",
+          "meaning": "immerse in liquid",
+          "note": "Use this for putting or immersing something in liquid, especially water."
+        }
+      ],
       "examples": [
         {
           "english": "I immerse the tea bag in hot water.",

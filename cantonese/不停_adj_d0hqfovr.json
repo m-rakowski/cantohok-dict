@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "nonstop, without stopping",
-      "english": ["continual", "continuous", "everlasting"],
+      "english": [
+        {
+          "id": "6z32n45w",
+          "word": "continual",
+          "meaning": "recurring often",
+          "note": "Use this as the all-purpose adjective for something that keeps happening without stopping."
+        },
+        {
+          "id": "asg7rumu",
+          "word": "continuous",
+          "meaning": "without stopping",
+          "note": "Use this as the all-purpose choice when something keeps going without stopping."
+        },
+        {
+          "id": "qlgs0lwa",
+          "word": "everlasting",
+          "meaning": "constant, incessant",
+          "note": "Use this for something that keeps happening without stopping, especially when it is tiresome."
+        }
+      ],
       "examples": [
         {
           "english": "The continual rain lately makes me not even want to go out.",

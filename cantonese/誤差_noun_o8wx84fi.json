@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "measurement discrepancy",
-      "english": ["error"],
+      "english": [
+        {
+          "id": "t54vimyb",
+          "word": "error",
+          "meaning": "measurement discrepancy",
+          "note": "Use this specifically for the discrepancy between a measured or calculated value and the true value."
+        }
+      ],
       "examples": [
         {
           "english": "The error in this instrument is about two percent.",

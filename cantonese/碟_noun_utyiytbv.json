@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "plate, dish",
-      "english": ["dish", "plate"],
+      "english": [
+        {
+          "id": "pcy0krxs",
+          "word": "dish",
+          "meaning": "plate; serving vessel",
+          "note": "This is the all-purpose choice for a physical plate, and in context it can also mean one plateful or serving."
+        },
+        {
+          "id": "9mj32ac1",
+          "word": "plate",
+          "meaning": "flat dish",
+          "note": "Use 碟 as the all-purpose word for an individual eating plate or a plateful of food."
+        }
+      ],
       "examples": [
         {
           "english": "This dish is holding some vegetables.",

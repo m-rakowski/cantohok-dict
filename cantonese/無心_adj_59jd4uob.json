@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "unintentional",
-      "english": ["innocent", "honest"],
+      "english": [
+        {
+          "id": "ib5eobaq",
+          "word": "innocent",
+          "meaning": "unintentional; by mistake",
+          "note": "Use this when the action or mistake was not intentional and the person did not mean any harm."
+        },
+        {
+          "id": "z8os48n4",
+          "word": "honest",
+          "meaning": "well-intentioned, not malicious",
+          "note": "Use this for a mistake or action that was unintentional and not malicious."
+        }
+      ],
       "examples": [
         {
           "english": "It was an innocent mistake—I didn't tear your book on purpose.",

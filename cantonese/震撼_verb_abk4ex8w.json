@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "deeply shock or shake up",
-      "english": ["rock", "shake"],
+      "english": [
+        {
+          "id": "vk45lgju",
+          "word": "rock",
+          "meaning": "strongly affect, shake up",
+          "note": "Use this when an event or piece of news deeply shocks, disturbs, or greatly affects people."
+        },
+        {
+          "id": "ue5g80qy",
+          "word": "shake",
+          "meaning": "emotionally upset",
+          "note": "Use this when an event deeply shocks or emotionally disturbs someone."
+        }
+      ],
       "examples": [
         {
           "english": "This news can rock the whole city.",

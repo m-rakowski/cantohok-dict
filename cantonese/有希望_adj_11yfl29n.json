@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "promising, hopeful",
-      "english": ["encouraging", "hopeful"],
+      "english": [
+        {
+          "id": "m3z4qupr",
+          "word": "encouraging",
+          "meaning": "promising; hopeful",
+          "note": "This is the all-purpose choice for something promising or giving grounds for hope."
+        },
+        {
+          "id": "3fwz6z8t",
+          "word": "hopeful",
+          "meaning": "inspiring hope",
+          "note": "This is the all-purpose choice for a situation or outcome that looks likely to succeed."
+        }
+      ],
       "examples": [
         {
           "english": "This plan looks quite encouraging.",

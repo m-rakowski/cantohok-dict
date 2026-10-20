@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "senior officer, superior",
-      "english": ["officer", "sir"],
+      "english": [
+        {
+          "id": "pd7lvv84",
+          "word": "officer",
+          "meaning": "authority figure / official",
+          "register": "formal",
+          "note": "Use this for a senior or commanding authority figure, especially in a military or official hierarchy."
+        },
+        {
+          "id": "o7e4zq52",
+          "word": "sir",
+          "meaning": "address to military superior",
+          "register": "formal",
+          "note": "Use this formal military term when addressing a superior officer in an explicitly military setting."
+        }
+      ],
       "register": "formal",
       "examples": [
         {

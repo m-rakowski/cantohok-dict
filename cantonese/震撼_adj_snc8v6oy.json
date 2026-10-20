@@ -6,7 +6,51 @@
   "boxes": [
     {
       "meaning": "powerfully striking, shocking",
-      "english": ["breathtaking", "dramatic", "impressive", "spectacular", "shocking", "tremendous", "awesome"],
+      "english": [
+        {
+          "id": "z52a4ccr",
+          "word": "breathtaking",
+          "meaning": "stunningly beautiful",
+          "note": "Choose this for a powerful visual or emotional impact, whether the scene is beautiful or the event is shocking."
+        },
+        {
+          "id": "1seim773",
+          "word": "dramatic",
+          "meaning": "striking, impressive",
+          "note": "Use this when the striking effect is emotionally powerful or shocking rather than merely grand-looking."
+        },
+        {
+          "id": "e8a6daif",
+          "word": "impressive",
+          "meaning": "makes a strong impression",
+          "note": "Use this when the thing makes a particularly powerful emotional or visual impact."
+        },
+        {
+          "id": "m6yzujo5",
+          "word": "spectacular",
+          "meaning": "amazing; striking",
+          "note": "Use this for a spectacular sight or event that has a powerful emotional impact."
+        },
+        {
+          "id": "hp3p682p",
+          "word": "shocking",
+          "meaning": "startling, causing shock",
+          "register": "written",
+          "note": "Use this for a powerful, deeply shocking impact rather than an ordinary surprise."
+        },
+        {
+          "id": "r6kolhkw",
+          "word": "tremendous",
+          "meaning": "awe-inspiring",
+          "note": "Use this when the thing is awe-inspiring or emotionally powerful, not merely large or good."
+        },
+        {
+          "id": "tahzn0oe",
+          "word": "awesome",
+          "meaning": "causing awe; terrifying",
+          "note": "Use this when an impressive sight or experience is awe-inspiring or emotionally overwhelming rather than simply excellent."
+        }
+      ],
       "examples": [
         {
           "english": "That explosion scene was breathtaking.",

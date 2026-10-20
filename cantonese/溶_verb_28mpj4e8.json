@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "melt, dissolve",
-      "english": ["dissolve", "melt", "fuse"],
+      "english": [
+        {
+          "id": "g2p8j0sh",
+          "word": "dissolve",
+          "meaning": "melt into liquid",
+          "note": "Use 溶 as the all-purpose everyday verb for something melting into liquid or disappearing into a liquid."
+        },
+        {
+          "id": "v4bo2h83",
+          "word": "melt",
+          "meaning": "turn to liquid",
+          "note": "This is the all-purpose spoken choice for a solid becoming liquid and for something physically dissolving."
+        },
+        {
+          "id": "jujazbpa",
+          "word": "fuse",
+          "meaning": "melt; liquefy",
+          "note": "Use 溶 when heat turns a solid into a liquid."
+        }
+      ],
       "examples": [
         {
           "english": "The sugar will dissolve as soon as it goes into hot water.",

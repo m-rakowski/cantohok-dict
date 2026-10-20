@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "submerge, flood over",
-      "english": ["engulf", "drown"],
+      "english": [
+        {
+          "id": "7sn5piat",
+          "word": "engulf",
+          "meaning": "surround or submerge",
+          "note": "Use 淹沒 as the all-purpose choice when someone or something is figuratively overwhelmed or literally submerged."
+        },
+        {
+          "id": "q7jud2fa",
+          "word": "drown",
+          "meaning": "be overwhelmed",
+          "register": "written",
+          "note": "Use this for being submerged or inundated by water or, more figuratively, by a mass of things; it is less conversational than the other choice."
+        }
+      ],
       "examples": [
         {
           "english": "Huge waves can engulf the whole beach.",

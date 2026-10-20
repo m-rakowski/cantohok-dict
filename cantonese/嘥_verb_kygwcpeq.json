@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "waste money, time or resources",
-      "english": ["waste", "squander"],
+      "english": [
+        {
+          "id": "1n77o6j5",
+          "word": "waste",
+          "meaning": "spend foolishly",
+          "register": "colloquial",
+          "note": "Use 嘥 as the all-purpose colloquial verb for needlessly squandering money, time, or resources."
+        },
+        {
+          "id": "i140z9ru",
+          "word": "squander",
+          "meaning": "waste, spend carelessly",
+          "note": "This is the all-purpose colloquial choice for wasting money, time, opportunities, or other resources."
+        }
+      ],
       "examples": [
         {
           "english": "I waste money buying useless things.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "first-hand experience",
-      "english": ["experience", "taste"],
+      "english": [
+        {
+          "id": "jkuew9xx",
+          "word": "experience",
+          "meaning": "direct personal experience",
+          "note": "Use this for the personal felt experience of trying, enjoying, or suffering something, rather than the event as a whole."
+        },
+        {
+          "id": "z1ljdrsv",
+          "word": "taste",
+          "meaning": "a taste of",
+          "note": "Use this when “a taste of” means a limited or introductory experience of something."
+        }
+      ],
       "examples": [
         {
           "english": "That night camping, I got to experience how relaxing it was to be without a phone.",

@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "everyone, each person",
-      "english": ["all", "everybody"],
+      "english": [
+        {
+          "id": "nropkg5r",
+          "word": "all",
+          "meaning": "everyone",
+          "note": "Use this when you want to emphasize every individual person rather than the group collectively."
+        },
+        {
+          "id": "ynsx6fwv",
+          "word": "everybody",
+          "meaning": "all people",
+          "register": "colloquial",
+          "note": "Use this when stressing each individual person rather than the group collectively."
+        }
+      ],
       "examples": [
         {
           "english": "All of them say it’s delicious.",

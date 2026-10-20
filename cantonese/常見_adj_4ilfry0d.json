@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "common, often seen",
-      "english": ["usual", "frequent", "common"],
+      "english": [
+        {
+          "id": "w6d20uvm",
+          "word": "usual",
+          "meaning": "typical; most common",
+          "note": "Use this when the emphasis is that something commonly occurs or is frequently seen."
+        },
+        {
+          "id": "v3bryz5k",
+          "word": "frequent",
+          "meaning": "happening often",
+          "note": "Use this when “frequent” means commonly encountered or seen rather than repeatedly done."
+        },
+        {
+          "id": "gs21dw3k",
+          "word": "common",
+          "meaning": "usual, frequent",
+          "note": "Use this as the all-purpose choice for something that happens often or is often encountered."
+        }
+      ],
       "examples": [
         {
           "english": "This kind of skin problem is usual in summer.",

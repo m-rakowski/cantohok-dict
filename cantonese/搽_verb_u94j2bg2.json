@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "apply, smear on",
-      "english": ["spread", "apply", "rub"],
+      "english": [
+        {
+          "id": "h1fn8tpl",
+          "word": "spread",
+          "meaning": "smear on; apply a thin layer",
+          "note": "Use this for applying butter, jam, cream, or another substance in a thin layer."
+        },
+        {
+          "id": "b5gxt2ty",
+          "word": "apply",
+          "meaning": "put on; place with",
+          "note": "Use this for putting cream, ointment, or another substance onto the skin or a surface."
+        },
+        {
+          "id": "6v93dwkm",
+          "word": "rub",
+          "meaning": "rub on; smear",
+          "register": "colloquial",
+          "note": "Use 搽 specifically for spreading a thin layer of a substance such as ointment, oil, or seasoning over something."
+        }
+      ],
       "examples": [
         {
           "english": "I like to spread butter on bread.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "software builder tool",
-      "english": ["builder"],
+      "english": [
+        {
+          "id": "99d1u0gr",
+          "word": "builder",
+          "meaning": "software builder tool",
+          "note": "Use this for software that helps users create or generate a particular kind of output."
+        }
+      ],
       "examples": [
         {
           "english": "This builder can automatically create websites.",

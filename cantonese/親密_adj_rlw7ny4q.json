@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "close, intimate",
-      "english": ["intimate", "close", "tight"],
+      "english": [
+        {
+          "id": "n4clqi1x",
+          "word": "intimate",
+          "meaning": "close friend / familiar",
+          "note": "Use this as the all-purpose choice for a close friendship or a romantic or sexual relationship."
+        },
+        {
+          "id": "sybnxi57",
+          "word": "close",
+          "meaning": "intimate; close friends",
+          "note": "Use 親密 for an intimate personal relationship such as a close friendship."
+        },
+        {
+          "id": "e18y9694",
+          "word": "tight",
+          "meaning": "close-knit; intimate",
+          "note": "Use 親密 for people or relationships that are emotionally close and intimate."
+        }
+      ],
       "examples": [
         {
           "english": "We have been intimate friends since childhood.",

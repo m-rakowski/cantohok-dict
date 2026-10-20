@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "unemployment rate",
-      "english": ["unemployment"],
+      "english": [
+        {
+          "id": "2e7gux4j",
+          "word": "unemployment",
+          "meaning": "unemployment rate",
+          "note": "Use this when unemployment is expressed as a measured percentage or rate in an economy."
+        }
+      ],
       "examples": [
         {
           "english": "The unemployment rate in this area has risen to five percent, and the economy is really struggling.",

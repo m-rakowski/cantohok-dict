@@ -6,7 +6,15 @@
   "boxes": [
     {
       "meaning": "thing rented",
-      "english": ["rental"],
+      "english": [
+        {
+          "id": "3mq35be3",
+          "word": "rental",
+          "meaning": "thing rented",
+          "register": "colloquial",
+          "note": "Use this for the actual item being rented, such as a car or a flat, rather than the payment."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

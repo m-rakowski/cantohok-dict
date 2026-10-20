@@ -6,7 +6,15 @@
   "boxes": [
     {
       "meaning": "cash drawer",
-      "english": ["till"],
+      "english": [
+        {
+          "id": "i7l594gm",
+          "word": "till",
+          "meaning": "cash drawer",
+          "register": "colloquial",
+          "note": "Use this specifically for the removable drawer inside the register, not the whole machine."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

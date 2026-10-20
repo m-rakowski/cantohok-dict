@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "shopping, buying things",
-      "english": ["shopping", "purchase"],
+      "english": [
+        {
+          "id": "fzwy5l4r",
+          "word": "shopping",
+          "meaning": "buying goods/services",
+          "note": "This is the all-purpose colloquial choice for the activity of shopping."
+        },
+        {
+          "id": "1o0zq899",
+          "word": "purchase",
+          "meaning": "buying; a purchase",
+          "note": "Use this as the all-purpose colloquial noun for the act of buying something."
+        }
+      ],
       "examples": [
         {
           "english": "We go shopping on Saturday.",

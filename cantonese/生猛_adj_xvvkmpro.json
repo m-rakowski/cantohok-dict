@@ -6,7 +6,41 @@
   "boxes": [
     {
       "meaning": "lively, full of energy",
-      "english": ["energetic", "blooming", "vigorous", "lively", "hearty"],
+      "english": [
+        {
+          "id": "cgdiba92",
+          "word": "energetic",
+          "meaning": "lively; full of energy",
+          "note": "This is the all-purpose colloquial choice for a lively person, especially a child who is always active."
+        },
+        {
+          "id": "6vqvwfdg",
+          "word": "blooming",
+          "meaning": "healthy, youthful-looking",
+          "register": "colloquial",
+          "note": "This is the all-purpose colloquial choice for a person who looks healthy, vigorous, and full of life."
+        },
+        {
+          "id": "xmeojx8o",
+          "word": "vigorous",
+          "meaning": "physically strong and active",
+          "note": "This is the all-purpose colloquial choice for a person or animal that is physically energetic and strong."
+        },
+        {
+          "id": "7db95hum",
+          "word": "lively",
+          "meaning": "energetic, full of life",
+          "register": "colloquial",
+          "note": "Use this for a person or animal that is especially physically vigorous and full of life."
+        },
+        {
+          "id": "4dt5o2kz",
+          "word": "hearty",
+          "meaning": "energetic, vigorous",
+          "register": "colloquial",
+          "note": "Use this as the all-purpose choice for a person who is vigorous, energetic, or lively."
+        }
+      ],
       "examples": [
         {
           "english": "That little boy runs around every day and is really energetic.",

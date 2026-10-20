@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "strong wind",
-      "english": ["gale", "blow"],
+      "english": [
+        {
+          "id": "eos0wu2d",
+          "word": "gale",
+          "meaning": "strong wind",
+          "note": "This is the all-purpose everyday term for a very strong wind, including a gale."
+        },
+        {
+          "id": "8fssfhtu",
+          "word": "blow",
+          "meaning": "strong wind",
+          "note": "Use 大風 for a strong wind in a weather context."
+        }
+      ],
       "examples": [
         {
           "english": "There’s a gale blowing outside, so be careful when you go out.",

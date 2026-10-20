@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "engine",
-      "english": ["engine", "motor"],
+      "english": [
+        {
+          "id": "z15ucun9",
+          "word": "engine",
+          "meaning": "car engine",
+          "note": "Use this as the all-purpose term, especially for a technical or software engine and in more formal contexts."
+        },
+        {
+          "id": "pa31j2nr",
+          "word": "motor",
+          "meaning": "machine that makes motion",
+          "note": "Use 引擎 when “motor” means an engine, especially a vehicle’s internal-combustion engine, rather than an electric motor."
+        }
+      ],
       "examples": [
         {
           "english": "This search engine is very fast.",

@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "offend",
-      "english": ["insult", "offend", "shock"],
+      "english": [
+        {
+          "id": "ugyztgcm",
+          "word": "insult",
+          "meaning": "verb: offend/rude to",
+          "note": "This is the all-purpose choice for being rude or offending someone, especially when the insult may be unintended."
+        },
+        {
+          "id": "fb4z0itb",
+          "word": "offend",
+          "meaning": "insult, hurt feelings",
+          "note": "This is the all-purpose choice when you offend or insult someone."
+        },
+        {
+          "id": "n5t1iuvn",
+          "word": "shock",
+          "meaning": "offend, scandalize",
+          "note": "Use 得罪 when shocking someone means offending them or causing personal resentment."
+        }
+      ],
       "examples": [
         {
           "english": "I didn't mean to insult you, so please don't take what I just said to heart.",

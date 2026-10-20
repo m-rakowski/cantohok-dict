@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "door bolt",
-      "english": ["bolt"],
+      "english": [
+        {
+          "id": "qr1ndrza",
+          "word": "bolt",
+          "meaning": "door bolt",
+          "note": "Use this for a sliding lock pin or the bar fitted across a door to keep it closed."
+        }
+      ],
       "examples": [
         {
           "english": "Remember to bolt the door before you go out, so nobody can push it open.",

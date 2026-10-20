@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "woodwind instrument",
-      "english": ["flute"],
+      "english": [
+        {
+          "id": "rlw19g2k",
+          "word": "flute",
+          "meaning": "woodwind instrument",
+          "note": "This is the all-purpose word when the exact type of flute is clear from context."
+        }
+      ],
       "examples": [
         {
           "english": "I learned to play the flute when I was young.",

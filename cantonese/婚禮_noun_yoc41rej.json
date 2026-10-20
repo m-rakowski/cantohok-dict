@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "wedding",
-      "english": ["wedding", "marriage"],
+      "english": [
+        {
+          "id": "sedillqt",
+          "word": "wedding",
+          "meaning": "marriage ceremony",
+          "note": "This is the all-purpose Cantonese noun for a marriage ceremony or wedding event."
+        },
+        {
+          "id": "poq6xe8l",
+          "word": "marriage",
+          "meaning": "wedding ceremony",
+          "note": "Use this specifically for the wedding ceremony rather than the ongoing marriage."
+        }
+      ],
       "examples": [
         {
           "english": "We’re going to their wedding next month.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "grief, emotional pain",
-      "english": ["anguish", "loss"],
+      "english": [
+        {
+          "id": "16ksg1kb",
+          "word": "anguish",
+          "meaning": "intense pain or distress",
+          "note": "Use this for deep emotional pain, especially grief or pain caused by a loss or traumatic event."
+        },
+        {
+          "id": "zw4wswuw",
+          "word": "loss",
+          "meaning": "feeling of grief",
+          "note": "Use 傷痛 for the grief or emotional pain caused by losing someone or something."
+        }
+      ],
       "examples": [
         {
           "english": "The anguish in my heart after losing my best friend has never gone away.",

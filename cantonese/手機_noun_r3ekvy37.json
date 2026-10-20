@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "mobile phone",
-      "english": ["mobile phone", "cell"],
+      "english": [
+        {
+          "id": "sazzv5ge",
+          "word": "mobile phone",
+          "meaning": "cellular telephone",
+          "note": "This is the all-purpose everyday word for a mobile phone."
+        },
+        {
+          "id": "mkw57hnd",
+          "word": "cell",
+          "meaning": "mobile phone",
+          "note": "Use this for a mobile phone rather than for a biological or electrical cell."
+        }
+      ],
       "examples": [
         {
           "english": "I only realized when I left home that I had forgotten my mobile phone.",

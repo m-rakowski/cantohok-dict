@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "deadly, fatal",
-      "english": ["deadly", "fatal", "mortal"],
+      "english": [
+        {
+          "id": "umzlq4jh",
+          "word": "deadly",
+          "meaning": "causing death; lethal",
+          "note": "This is the all-purpose adjective for something that can cause death or is lethal."
+        },
+        {
+          "id": "vckaz9f0",
+          "word": "fatal",
+          "meaning": "causing death",
+          "note": "This is the all-purpose choice for something that causes death or disastrous damage, including a fatal wound or mistake."
+        },
+        {
+          "id": "jy4g58q2",
+          "word": "mortal",
+          "meaning": "deadly, fatal",
+          "note": "This is the all-purpose choice for something that causes death, especially a wound or injury."
+        }
+      ],
       "examples": [
         {
           "english": "This kind of venom may be deadly if it touches your skin.",

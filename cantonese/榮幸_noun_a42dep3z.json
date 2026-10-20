@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "honour, privilege",
-      "english": ["privilege", "pleasure"],
+      "english": [
+        {
+          "id": "ulmt9tc2",
+          "word": "privilege",
+          "meaning": "fortunate opportunity",
+          "note": "Use this for the honour or good fortune of having an opportunity to do something, as in ‘It is my privilege’."
+        },
+        {
+          "id": "ybztfijf",
+          "word": "pleasure",
+          "meaning": "thing that gives pleasure",
+          "register": "formal",
+          "note": "Use this formal word for the social sense of being honored, as in being pleased to meet someone."
+        }
+      ],
       "examples": [
         {
           "english": "It is my privilege to represent the company at this event.",

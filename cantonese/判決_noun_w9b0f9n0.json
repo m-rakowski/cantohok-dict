@@ -6,7 +6,28 @@
   "boxes": [
     {
       "meaning": "court verdict",
-      "english": ["verdict", "decision", "opinion"],
+      "english": [
+        {
+          "id": "psu7r9lu",
+          "word": "verdict",
+          "meaning": "jury decision",
+          "note": "Use this specifically for a court's judicial judgment or decision in a case."
+        },
+        {
+          "id": "xkzriet8",
+          "word": "decision",
+          "meaning": "choice or judgement",
+          "register": "formal",
+          "note": "Use this for a court's formal judgment or verdict, not an ordinary personal decision."
+        },
+        {
+          "id": "kd50kk11",
+          "word": "opinion",
+          "meaning": "formal expert judgment",
+          "register": "formal",
+          "note": "Use this specifically for a judge's formal decision rather than a general expert opinion."
+        }
+      ],
       "examples": [
         {
           "english": "The judge read out the verdict today and found the defendant guilty.",

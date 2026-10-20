@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "moderate in eating/drinking",
-      "english": ["temperate"],
+      "english": [
+        {
+          "id": "c5npc2ja",
+          "word": "temperate",
+          "meaning": "moderate in eating/drinking",
+          "note": "Use this when someone shows moderation specifically in eating, drinking, or satisfying their appetites."
+        }
+      ],
       "examples": [
         {
           "english": "They are temperate in what they eat and would not finish a whole box of cookies at once.",

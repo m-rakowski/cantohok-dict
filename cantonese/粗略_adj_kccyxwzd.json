@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "rough, general, not detailed",
-      "english": ["general", "rough"],
+      "english": [
+        {
+          "id": "p2niicoy",
+          "word": "general",
+          "meaning": "overall, not specific",
+          "register": "formal",
+          "note": "Use this when a general account gives only the main points and leaves out minor details."
+        },
+        {
+          "id": "9qgregwt",
+          "word": "rough",
+          "meaning": "approximate; unfinished",
+          "note": "Use this for an approximate, preliminary, or hastily prepared version or estimate."
+        }
+      ],
       "examples": [
         {
           "english": "We only gave a general introduction to the plan.",

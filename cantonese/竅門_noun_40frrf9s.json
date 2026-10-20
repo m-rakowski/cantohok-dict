@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "knack, trick",
-      "english": ["knack", "trick"],
+      "english": [
+        {
+          "id": "0z5rje6t",
+          "word": "knack",
+          "meaning": "skill; aptitude",
+          "note": "Use 竅門 when the knack is a useful method or trick for doing something."
+        },
+        {
+          "id": "2dasleuh",
+          "word": "trick",
+          "meaning": "clever method",
+          "note": "Use this for the clever practical method or knack for doing something."
+        }
+      ],
       "examples": [
         {
           "english": "There’s a knack to making turnip cake: you mustn’t add too much water.",

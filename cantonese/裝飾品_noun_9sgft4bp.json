@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "decorative object",
-      "english": ["decoration", "adornment", "ornament"],
+      "english": [
+        {
+          "id": "62a18ki7",
+          "word": "decoration",
+          "meaning": "ornament, decorative item",
+          "note": "Use this for a decorative object or item added to make something more attractive."
+        },
+        {
+          "id": "uclse9lm",
+          "word": "adornment",
+          "meaning": "decoration; decorative thing",
+          "note": "Use this for a decorative object or item, rather than for the act of decorating."
+        },
+        {
+          "id": "mboq0l75",
+          "word": "ornament",
+          "meaning": "decoration; decorative object",
+          "note": "Use 裝飾品 when the ornament is a physical decorative object."
+        }
+      ],
       "examples": [
         {
           "english": "That decoration on the living-room cabinet is really pretty.",

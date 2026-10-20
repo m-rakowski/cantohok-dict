@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "honest, truthful",
-      "english": ["honest", "truthful", "frank"],
+      "english": [
+        {
+          "id": "cflm7ofg",
+          "word": "honest",
+          "meaning": "truthful, not dishonest",
+          "note": "This is the all-purpose colloquial choice for an honest person and for a candid, straightforward statement."
+        },
+        {
+          "id": "guxecp0a",
+          "word": "truthful",
+          "meaning": "honest, tells the truth",
+          "note": "This is the all-purpose colloquial choice for a person who is honest and tells the truth."
+        },
+        {
+          "id": "3zhx47ks",
+          "word": "frank",
+          "meaning": "bluntly honest",
+          "note": "Use this when frankness is presented more generally as being honest or straightforward."
+        }
+      ],
       "examples": [
         {
           "english": "To be honest, I really don't know.",

@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "dedication, commitment",
-      "english": ["dedication", "devotion", "involvement", "commitment"],
+      "english": [
+        {
+          "id": "qtrlg2u5",
+          "word": "dedication",
+          "meaning": "devotion; commitment",
+          "note": "Use this as the all-purpose noun for sustained personal commitment to a job, cause, or activity."
+        },
+        {
+          "id": "pgms6xan",
+          "word": "devotion",
+          "meaning": "deep loyalty / dedication",
+          "note": "Use this for devotion expressed as deep involvement in an activity, project, or cause rather than loyalty to a person."
+        },
+        {
+          "id": "137zak47",
+          "word": "involvement",
+          "meaning": "being involved; participation",
+          "note": "Use this when involvement implies active commitment or personal investment, not just participation."
+        },
+        {
+          "id": "gvghnh6n",
+          "word": "commitment",
+          "meaning": "devotion to person or cause",
+          "note": "Use 投入 when commitment means wholehearted involvement in a course of action, job, or cause."
+        }
+      ],
       "examples": [
         {
           "english": "I have a lot of dedication to this job.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "wine or cheese cellar",
-      "english": ["cave"],
+      "english": [
+        {
+          "id": "zmkeomfo",
+          "word": "cave",
+          "meaning": "wine or cheese cellar",
+          "note": "Use this specifically for a wine cellar rather than a general storage cellar."
+        }
+      ],
       "examples": [
         {
           "english": "We keep the wine in the cave wine cellar.",

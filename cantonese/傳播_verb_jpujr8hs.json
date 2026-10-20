@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "to spread (news, ideas, disease, signals)",
-      "english": ["disseminate", "broadcast", "transmit", "spread", "travel"],
+      "english": [
+        {
+          "id": "askk8f0z",
+          "word": "disseminate",
+          "meaning": "spread ideas or things",
+          "note": "This is the all-purpose choice for deliberately spreading ideas, information, culture, or similar things."
+        },
+        {
+          "id": "0skmvfd8",
+          "word": "broadcast",
+          "meaning": "broadcast widely",
+          "note": "Use this when the emphasis is on disseminating a message widely rather than airing it through a broadcast medium."
+        },
+        {
+          "id": "j7gw2wpj",
+          "word": "transmit",
+          "meaning": "spread or pass on",
+          "note": "Use this when something spreads or is passed on, especially a disease, virus, or signal, rather than being sent to a specific recipient."
+        },
+        {
+          "id": "b80vkit7",
+          "word": "spread",
+          "meaning": "cause to spread; disseminate",
+          "note": "Use this when a person, group, or medium actively disseminates information, beliefs, or a message."
+        },
+        {
+          "id": "lo7mu45k",
+          "word": "travel",
+          "meaning": "move or pass through",
+          "note": "Use this when sound, information, or another signal travels by being transmitted or propagated."
+        }
+      ],
       "examples": [
         {
           "english": "Schools should do more to disseminate a culture of reading.",

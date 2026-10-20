@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "blood vessel",
-      "english": ["vessel"],
+      "english": [
+        {
+          "id": "oqdu2amn",
+          "word": "vessel",
+          "meaning": "blood vessel",
+          "note": "Use this when the vessel carries blood in an animal, rather than referring to a plant vessel or another fluid channel."
+        }
+      ],
       "examples": [
         {
           "english": "Blood flows through this vessel.",

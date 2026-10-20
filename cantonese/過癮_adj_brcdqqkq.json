@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "satisfying, thrilling",
-      "english": ["exhilarating", "enjoyable"],
+      "english": [
+        {
+          "id": "1vqmgbcq",
+          "word": "exhilarating",
+          "meaning": "thrilling; exciting",
+          "register": "colloquial",
+          "note": "Use this colloquial choice when the thrilling experience is also especially enjoyable or satisfying."
+        },
+        {
+          "id": "ftd60zj5",
+          "word": "enjoyable",
+          "meaning": "pleasant; gives pleasure",
+          "note": "Use this when the enjoyment is especially satisfying, absorbing, or exciting."
+        }
+      ],
       "examples": [
         {
           "english": "Cycling at night with the sea breeze is exhilarating.",

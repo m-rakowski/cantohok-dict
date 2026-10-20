@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "harmful substance",
-      "english": ["poison"],
+      "english": [
+        {
+          "id": "k8ncjtju",
+          "word": "poison",
+          "meaning": "harmful substance",
+          "note": "This is the all-purpose choice for literal poison and, figuratively, something harmful or corrupting."
+        }
+      ],
       "examples": [
         {
           "english": "Be careful, this poison can kill people.",

@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "should, ought to",
-      "english": ["should", "ought to", "shall", "must"],
+      "english": [
+        {
+          "id": "b8d2pov0",
+          "word": "should",
+          "meaning": "obligation / advice",
+          "note": "This is the all-purpose choice for issuing advice or a mild instruction."
+        },
+        {
+          "id": "smosoayb",
+          "word": "ought to",
+          "meaning": "duty or obligation",
+          "note": "This is the all-purpose choice for duty, advice, desirability, and likelihood."
+        },
+        {
+          "id": "gh18qwfj",
+          "word": "shall",
+          "meaning": "legal/forceful obligation",
+          "note": "Use 應該 when shall expresses obligation or what someone is expected to do."
+        },
+        {
+          "id": "sy3tzuzg",
+          "word": "must",
+          "meaning": "have to; be required",
+          "note": "Use 應該 for an obligation framed as what someone ought to do, rather than the stronger requirement expressed by 要."
+        }
+      ],
       "examples": [
         {
           "english": "You should go to bed earlier.",

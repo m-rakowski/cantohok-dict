@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "lamp, light",
-      "english": ["lamp", "light"],
+      "english": [
+        {
+          "id": "z15301fw",
+          "word": "lamp",
+          "meaning": "electric light device",
+          "note": "This is the all-purpose choice for a lamp when the type is clear from context."
+        },
+        {
+          "id": "0aezm8vp",
+          "word": "light",
+          "meaning": "source of light",
+          "note": "Use this for a physical light or lamp as a source of illumination."
+        }
+      ],
       "examples": [
         {
           "english": "I turned on the lamp to read at night.",

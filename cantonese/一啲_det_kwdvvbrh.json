@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "some, a little",
-      "english": ["some", "little"],
+      "english": [
+        {
+          "id": "alj0amhi",
+          "word": "some",
+          "meaning": "some water; some money",
+          "note": "Use this especially when referring to a portion or amount of an uncountable substance such as water or money."
+        },
+        {
+          "id": "wnv5m567",
+          "word": "little",
+          "meaning": "a small amount of",
+          "note": "Use this for a small amount in a positive context, when the exact smallness is less emphatic than with 少少."
+        }
+      ],
       "examples": [
         {
           "english": "I want some water.",

@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "put up with, bear",
-      "english": ["endure", "tolerate", "suffer"],
+      "english": [
+        {
+          "id": "zdq9d69g",
+          "word": "endure",
+          "meaning": "put up with",
+          "note": "This is the all-purpose choice for tolerating something unpleasant or painful."
+        },
+        {
+          "id": "dse7dwsj",
+          "word": "tolerate",
+          "meaning": "bear/endure",
+          "note": "Use this as the all-purpose choice for bearing or enduring something unpleasant."
+        },
+        {
+          "id": "unkfxbpu",
+          "word": "suffer",
+          "meaning": "endure, put up with",
+          "note": "Use this when someone endures or puts up with another person’s insults, behavior, or other unpleasant treatment."
+        }
+      ],
       "examples": [
         {
           "english": "I can't endure this much noise.",

@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "pier, ferry terminal",
-      "english": ["dock", "terminal", "ferry"],
+      "english": [
+        {
+          "id": "bt1bmfen",
+          "word": "dock",
+          "meaning": "harbor pier",
+          "note": "Use this as the all-purpose Cantonese word for a fixed harbor structure where boats load, unload, or moor."
+        },
+        {
+          "id": "2f1edc7u",
+          "word": "terminal",
+          "meaning": "ferry terminal",
+          "note": "Use this for a harbour or ferry terminal rather than an airport or rail terminal."
+        },
+        {
+          "id": "9ig2h3op",
+          "word": "ferry",
+          "meaning": "ferry landing / crossing point",
+          "note": "Use 碼頭 for the pier, wharf, or terminal where people board a ferry."
+        }
+      ],
       "examples": [
         {
           "english": "We’re going to the dock to meet the boat.",

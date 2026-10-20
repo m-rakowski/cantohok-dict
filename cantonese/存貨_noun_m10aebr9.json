@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "stock of goods",
-      "english": ["stock", "store"],
+      "english": [
+        {
+          "id": "zpb85gvz",
+          "word": "stock",
+          "meaning": "goods in inventory",
+          "note": "Use 存貨 as the all-purpose noun for goods kept ready for sale."
+        },
+        {
+          "id": "q9k8xuiv",
+          "word": "store",
+          "meaning": "supply in storage",
+          "note": "Use this for goods or stock held by a business, rather than for the place or a reserve."
+        }
+      ],
       "examples": [
         {
           "english": "This stock hasn’t all been sold yet.",

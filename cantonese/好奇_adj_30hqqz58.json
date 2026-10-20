@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "curious, wanting to know",
-      "english": ["curious", "interested"],
+      "english": [
+        {
+          "id": "aomc7j6n",
+          "word": "curious",
+          "meaning": "inquisitive, nosy",
+          "note": "This is the all-purpose choice for wanting to know, ask questions, or investigate."
+        },
+        {
+          "id": "v2m3oik3",
+          "word": "interested",
+          "meaning": "curious; interested in",
+          "note": "Use this when “interested” specifically means curious and wanting to know more, rather than simply keen on something."
+        }
+      ],
       "examples": [
         {
           "english": "I'm curious why you came back so early.",

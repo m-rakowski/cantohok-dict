@@ -6,7 +6,33 @@
   "boxes": [
     {
       "meaning": "get, obtain",
-      "english": ["get", "access", "acquire", "obtain"],
+      "english": [
+        {
+          "id": "xjp1rz1e",
+          "word": "get",
+          "meaning": "obtain, acquire",
+          "note": "Use this as the all-purpose spoken choice when get means obtain or receive something."
+        },
+        {
+          "id": "t9cgg421",
+          "word": "access",
+          "meaning": "access data",
+          "note": "Use this as the all-purpose colloquial choice when you mean being able to get or access the data."
+        },
+        {
+          "id": "hmxj8re7",
+          "word": "acquire",
+          "meaning": "get; obtain",
+          "register": "colloquial",
+          "note": "Use this for the everyday sense of successfully getting or obtaining something, especially a concrete or desired thing."
+        },
+        {
+          "id": "try6p5wk",
+          "word": "obtain",
+          "meaning": "get; acquire",
+          "note": "This is the all-purpose colloquial choice for successfully getting or securing something."
+        }
+      ],
       "examples": [
         {
           "english": "I finally get a ticket to the concert.",

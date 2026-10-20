@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "roll of something",
-      "english": ["roll"],
+      "english": [
+        {
+          "id": "rrf6s913",
+          "word": "roll",
+          "meaning": "a rolled-up bundle",
+          "note": "This is the all-purpose noun for a rolled-up object such as paper, cloth, wool, or a bundle."
+        }
+      ],
       "examples": [
         {
           "english": "Don't get this roll of paper wet.",
@@ -17,7 +24,14 @@
     },
     {
       "meaning": "volume or section of a book",
-      "english": ["book"],
+      "english": [
+        {
+          "id": "ax5oq06f",
+          "word": "book",
+          "meaning": "section of a book",
+          "note": "Use this for a major division of a long work, especially a book of the Bible or another classical or formal work."
+        }
+      ],
       "examples": [
         {
           "english": "The second volume of this history book mainly covers the Qin dynasty.",

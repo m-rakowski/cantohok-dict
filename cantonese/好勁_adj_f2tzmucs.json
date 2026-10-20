@@ -6,7 +6,39 @@
   "boxes": [
     {
       "meaning": "very strong, impressive",
-      "english": ["overwhelming", "terrific", "ferocious", "grand", "huge"],
+      "english": [
+        {
+          "id": "wjdwqvc1",
+          "word": "overwhelming",
+          "meaning": "overpowering; hugely strong",
+          "note": "This is the all-purpose colloquial choice for something overwhelmingly strong, powerful, great, or intense."
+        },
+        {
+          "id": "3pvi9rea",
+          "word": "terrific",
+          "meaning": "very strong; intense",
+          "note": "This is the all-purpose colloquial choice for something very intense or someone exceptionally capable."
+        },
+        {
+          "id": "ep4ef28b",
+          "word": "ferocious",
+          "meaning": "extreme intensity",
+          "note": "Use this for a general sense of extreme strength or intensity when the violent or threatening aspect is not central."
+        },
+        {
+          "id": "xmzpdnic",
+          "word": "grand",
+          "meaning": "very great, impressive",
+          "register": "colloquial",
+          "note": "This is the all-purpose colloquial choice when “grand” means exceptionally impressive, powerful, or intense."
+        },
+        {
+          "id": "3804027q",
+          "word": "huge",
+          "meaning": "very strong / dedicated",
+          "note": "Use this when “huge” means very powerful, formidable, or strong."
+        }
+      ],
       "examples": [
         {
           "english": "The atmosphere at this game is so overwhelming that I can barely breathe.",

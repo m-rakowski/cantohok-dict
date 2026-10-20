@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "had better, preferably",
-      "english": ["ideally", "preferably"],
+      "english": [
+        {
+          "id": "9ipdfc8f",
+          "word": "ideally",
+          "meaning": "preferably; if possible",
+          "note": "This is the all-purpose spoken choice for saying preferably or if possible."
+        },
+        {
+          "id": "usrlv6ag",
+          "word": "preferably",
+          "meaning": "by preference",
+          "note": "This is the all-purpose choice for recommending the preferred option or way of doing something."
+        }
+      ],
       "examples": [
         {
           "english": "Ideally, you should leave early to avoid traffic.",

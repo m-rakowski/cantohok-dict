@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "very old, ancient",
-      "english": ["ancient", "ageless", "primeval", "antique", "prehistoric"],
+      "english": [
+        {
+          "id": "unbvgpfl",
+          "word": "ancient",
+          "meaning": "very old",
+          "note": "Use 古老 as the all-purpose spoken choice for something that is very old."
+        },
+        {
+          "id": "xiw7zsfi",
+          "word": "ageless",
+          "meaning": "very ancient",
+          "note": "Use this for something extremely ancient, rather than for a person who still looks young."
+        },
+        {
+          "id": "d0xuwh2g",
+          "word": "primeval",
+          "meaning": "ancient; of the earliest times",
+          "note": "Use this as the everyday all-purpose choice for something ancient, without stressing that it belongs to the very first age."
+        },
+        {
+          "id": "lhb3d3oi",
+          "word": "antique",
+          "meaning": "old-fashioned; from former times",
+          "note": "Use 古老 as the all-purpose choice for something belonging to a long-ago period rather than modern times."
+        },
+        {
+          "id": "prahcuo0",
+          "word": "prehistoric",
+          "meaning": "very old; outdated",
+          "note": "Use this when the emphasis is that something is ancient or very old rather than merely unfashionable."
+        }
+      ],
       "examples": [
         {
           "english": "This bridge is really ancient.",

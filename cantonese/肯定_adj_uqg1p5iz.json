@@ -6,7 +6,56 @@
   "boxes": [
     {
       "meaning": "sure, certain",
-      "english": ["sure", "certain", "confident", "convinced", "positive", "satisfied", "definite", "secure"],
+      "english": [
+        {
+          "id": "lvk5t50o",
+          "word": "sure",
+          "meaning": "certain in belief",
+          "note": "This is the all-purpose choice when the speaker is certain that something is true."
+        },
+        {
+          "id": "p0jt0s9w",
+          "word": "certain",
+          "meaning": "confident, sure",
+          "note": "This is the all-purpose choice for being personally confident that something is true."
+        },
+        {
+          "id": "ze3sht8x",
+          "word": "confident",
+          "meaning": "very sure; certain",
+          "note": "This is the all-purpose choice when you are very sure that something is true."
+        },
+        {
+          "id": "x0p4onrz",
+          "word": "convinced",
+          "meaning": "certain; firmly believing",
+          "note": "This is the all-purpose spoken choice for being certain or firmly believing something."
+        },
+        {
+          "id": "3d7vdmxp",
+          "word": "positive",
+          "meaning": "sure, certain",
+          "note": "Use this all-purpose choice when you are certain or fully confident that something is true."
+        },
+        {
+          "id": "2gig1ddr",
+          "word": "satisfied",
+          "meaning": "convinced by evidence",
+          "note": "Use this when satisfied means convinced or sure on the basis of evidence."
+        },
+        {
+          "id": "ybqkkazg",
+          "word": "definite",
+          "meaning": "certain; without doubt",
+          "note": "Use this when stressing that a person is sure or has no doubt, rather than that a matter has been formally settled."
+        },
+        {
+          "id": "3n8gqxy3",
+          "word": "secure",
+          "meaning": "certain; confident",
+          "note": "Use this when secure means confident or certain, as in being sure of a welcome."
+        }
+      ],
       "examples": [
         {
           "english": "I am sure he will come today.",

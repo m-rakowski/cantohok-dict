@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "sweep or brush lightly past",
-      "english": ["skim", "sweep"],
+      "english": [
+        {
+          "id": "az4avdvg",
+          "word": "skim",
+          "meaning": "glide just above surface",
+          "note": "Use this all-purpose verb for something moving lightly over or brushing a surface, including the surface-gliding and surface-brushing senses."
+        },
+        {
+          "id": "l7a1bo91",
+          "word": "sweep",
+          "meaning": "move in an arc",
+          "note": "Use this when wind, an object, or a rapidly moving person or thing passes lightly or swiftly across a place."
+        }
+      ],
       "examples": [
         {
           "english": "I felt the leaves skim my hand as the wind blew.",

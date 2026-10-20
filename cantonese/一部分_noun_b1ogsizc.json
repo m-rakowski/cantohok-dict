@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "a part of a whole",
-      "english": ["subdivision", "proportion", "parcel"],
+      "english": [
+        {
+          "id": "kkbxlnej",
+          "word": "subdivision",
+          "meaning": "divided part",
+          "note": "Use 一部分 as the all-purpose everyday way to refer to one divided piece when the subdivision structure need not be stressed."
+        },
+        {
+          "id": "gjdqxxbo",
+          "word": "proportion",
+          "meaning": "part of a whole",
+          "note": "Use 一部分 for an ordinary quantity or section that is merely part of a whole, not for a calculated ratio."
+        },
+        {
+          "id": "eegyxgo0",
+          "word": "parcel",
+          "meaning": "part; portion",
+          "note": "Use this as the general choice for a part or portion of a whole, especially an abstract one."
+        }
+      ],
       "examples": [
         {
           "english": "This piece is only one subdivision of the whole cake, not the whole thing.",

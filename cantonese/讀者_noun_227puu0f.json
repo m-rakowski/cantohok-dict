@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "reader",
-      "english": ["reader", "audience"],
+      "english": [
+        {
+          "id": "vhyy9i2t",
+          "word": "reader",
+          "meaning": "publication reader",
+          "note": "This is the all-purpose noun for a person who reads, including the audience of a publication."
+        },
+        {
+          "id": "5ga8nkvs",
+          "word": "audience",
+          "meaning": "readership",
+          "note": "Use this for the people who read a book, magazine, or other publication."
+        }
+      ],
       "examples": [
         {
           "english": "Every reader said this article was great.",

@@ -6,7 +6,15 @@
   "boxes": [
     {
       "meaning": "engine ignition timing",
-      "english": ["timing"],
+      "english": [
+        {
+          "id": "q0cjijwr",
+          "word": "timing",
+          "meaning": "engine ignition timing",
+          "register": "written",
+          "note": "Use 點火正時 specifically for the synchronization of spark-plug firing in an internal-combustion engine."
+        }
+      ],
       "register": "written",
       "examples": [
         {

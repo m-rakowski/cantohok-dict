@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "fight, clash with each other",
-      "english": ["exchange", "encounter"],
+      "english": [
+        {
+          "id": "fgk7dvdu",
+          "word": "exchange",
+          "meaning": "exchange blows/fire",
+          "note": "Use this when people exchange blows or engage in physical combat, rather than exchanging fire."
+        },
+        {
+          "id": "h06pilwr",
+          "word": "encounter",
+          "meaning": "engage in conflict",
+          "note": "Use this when the parties actually engage one another in a fight or armed conflict."
+        }
+      ],
       "examples": [
         {
           "english": "The two boxers finally exchange blows.",

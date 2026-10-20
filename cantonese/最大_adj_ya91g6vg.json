@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "biggest, greatest",
-      "english": ["maximum", "main"],
+      "english": [
+        {
+          "id": "0g2t6fta",
+          "word": "maximum",
+          "meaning": "to the highest degree",
+          "note": "This is the all-purpose choice for something occurring or existing to the highest degree, such as maximum effect."
+        },
+        {
+          "id": "7t27zrpt",
+          "word": "main",
+          "meaning": "largest, main part",
+          "note": "Use this when “main” specifically means largest in size, extent, or strength rather than simply most important."
+        }
+      ],
       "examples": [
         {
           "english": "This method can achieve maximum effect.",

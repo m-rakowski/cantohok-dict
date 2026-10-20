@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "good point, strength",
-      "english": ["goodness", "merit", "virtue", "commendation"],
+      "english": [
+        {
+          "id": "azppbgvf",
+          "word": "goodness",
+          "meaning": "quality of being good",
+          "note": "This is the all-purpose noun for a good quality or merit in something or someone."
+        },
+        {
+          "id": "5grcyeld",
+          "word": "merit",
+          "meaning": "deserving praise",
+          "note": "Use 優點 when the merit is a good quality or feature rather than a particular achievement."
+        },
+        {
+          "id": "71ql88jn",
+          "word": "virtue",
+          "meaning": "advantage; good point",
+          "note": "Use 優點 when virtue means a favourable feature or advantage of a person or thing rather than a moral quality."
+        },
+        {
+          "id": "xrblrbzf",
+          "word": "commendation",
+          "meaning": "praiseworthy thing",
+          "note": "Use 優點 for the good quality or merit in a person or thing that earns praise."
+        }
+      ],
       "examples": [
         {
           "english": "The goodness of this phone is that you can use it all day.",

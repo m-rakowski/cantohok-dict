@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "secret, hidden",
-      "english": ["secret", "underground", "secure"],
+      "english": [
+        {
+          "id": "ybl843x0",
+          "word": "secret",
+          "meaning": "hidden",
+          "note": "This is the all-purpose choice for something deliberately kept from other people, including a secret passage."
+        },
+        {
+          "id": "s0ba9aw9",
+          "word": "underground",
+          "meaning": "secret, hidden",
+          "note": "Use 秘密 when the emphasis is simply on something being secret or hidden, without the subcultural sense carried by 地下."
+        },
+        {
+          "id": "uvea3o2y",
+          "word": "secure",
+          "meaning": "private; protected from discovery",
+          "note": "Use this for information or communications kept private and away from discovery."
+        }
+      ],
       "examples": [
         {
           "english": "This is a secret, so don't tell anyone.",

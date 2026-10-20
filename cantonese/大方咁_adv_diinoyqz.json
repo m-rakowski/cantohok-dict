@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "generously",
-      "english": ["generously", "magnanimously"],
+      "english": [
+        {
+          "id": "4rhe6div",
+          "word": "generously",
+          "meaning": "in a generous way",
+          "note": "This is the all-purpose colloquial choice for giving freely or generously."
+        },
+        {
+          "id": "svqwnabj",
+          "word": "magnanimously",
+          "meaning": "in a generous way",
+          "note": "This is the all-purpose choice for acting in a generous, magnanimous way."
+        }
+      ],
       "examples": [
         {
           "english": "They generously treated us to dinner.",

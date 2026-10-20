@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "global, worldwide",
-      "english": ["worldwide", "international"],
+      "english": [
+        {
+          "id": "lxjlaycz",
+          "word": "worldwide",
+          "meaning": "global; across the world",
+          "register": "formal",
+          "note": "Use this for a formal or technical description of a phenomenon affecting the world as a whole."
+        },
+        {
+          "id": "wq37rd89",
+          "word": "international",
+          "meaning": "global; beyond nations",
+          "register": "formal",
+          "note": "Choose this when the emphasis is worldwide scope or something common to people everywhere rather than relations between particular nations."
+        }
+      ],
       "register": "formal",
       "examples": [
         {

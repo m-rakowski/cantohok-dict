@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "ground military force",
-      "english": ["army"],
+      "english": [
+        {
+          "id": "nsto0abj",
+          "word": "army",
+          "meaning": "ground military force",
+          "note": "Use this as the all-purpose military term when the force is specifically the ground branch."
+        }
+      ],
       "examples": [
         {
           "english": "My cousin joined the army.",

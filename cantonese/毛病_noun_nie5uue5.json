@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "fault, bad habit",
-      "english": ["malady"],
+      "english": [
+        {
+          "id": "z15eb5y4",
+          "word": "malady",
+          "meaning": "mental or moral flaw",
+          "note": "Use this for a defect, fault, or problematic mental or moral tendency rather than a bodily illness."
+        }
+      ],
       "examples": [
         {
           "english": "Their malady is that they lose their temper whenever they are under pressure.",
@@ -17,7 +24,14 @@
     },
     {
       "meaning": "health problem",
-      "english": ["complaint"],
+      "english": [
+        {
+          "id": "jl7jy5fd",
+          "word": "complaint",
+          "meaning": "illness or disorder",
+          "note": "Use this when complaint refers to a bodily disorder, illness, or symptom."
+        }
+      ],
       "examples": [
         {
           "english": "I went to the doctor about my complaint of constant dizziness.",

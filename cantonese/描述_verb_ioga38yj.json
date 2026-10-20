@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "describe",
-      "english": ["depict", "portray", "outline"],
+      "english": [
+        {
+          "id": "97n9pmi6",
+          "word": "depict",
+          "meaning": "represent in words/images",
+          "note": "Use this as the everyday all-purpose choice when representing something mainly in words or speech."
+        },
+        {
+          "id": "89237n2l",
+          "word": "portray",
+          "meaning": "describe or present",
+          "note": "This is the all-purpose choice when portraying something in words or conveying its characteristics."
+        },
+        {
+          "id": "x4tegqa7",
+          "word": "outline",
+          "meaning": "describe in outline",
+          "note": "Use this when the focus is describing something rather than summarizing a whole text."
+        }
+      ],
       "examples": [
         {
           "english": "This interview uses simple words to depict life in the fishing village.",

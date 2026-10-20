@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "weekdays Mon–Fri",
-      "english": ["weekday"],
+      "english": [
+        {
+          "id": "dkr14bye",
+          "word": "weekday",
+          "meaning": "weekdays Mon–Fri",
+          "note": "Use this as the all-purpose noun for weekdays in contrast with weekends."
+        }
+      ],
       "examples": [
         {
           "english": "The MTR is less crowded on a weekday; weekends are different.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "foundation makeup",
-      "english": ["base", "foundation"],
+      "english": [
+        {
+          "id": "omdo7b9g",
+          "word": "base",
+          "meaning": "foundation makeup",
+          "note": "Use this specifically for cosmetic foundation applied to the face."
+        },
+        {
+          "id": "ulnbtbbr",
+          "word": "foundation",
+          "meaning": "face makeup",
+          "note": "Use this for cosmetic foundation applied to the face."
+        }
+      ],
       "examples": [
         {
           "english": "I put on base makeup today, and my face looks more even.",

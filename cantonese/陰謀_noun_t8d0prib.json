@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "secret scheme, plot",
-      "english": ["plot", "scheme", "web"],
+      "english": [
+        {
+          "id": "m83c5p77",
+          "word": "plot",
+          "meaning": "secret scheme",
+          "note": "Use this for a secret and usually improper scheme, rather than for an ordinary plan."
+        },
+        {
+          "id": "0z7oprh9",
+          "word": "scheme",
+          "meaning": "plot; secret plan",
+          "note": "Use this when the plan is secret, harmful, or devious."
+        },
+        {
+          "id": "ddcpyz9a",
+          "word": "web",
+          "meaning": "plot, scheme",
+          "note": "Use this for a deliberate, usually harmful plot or scheme rather than a neutral plan."
+        }
+      ],
       "examples": [
         {
           "english": "The plot was exposed, and the main conspirators immediately ran away.",

@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "lazy, sluggish, lounging around",
-      "english": ["inert", "lazy"],
+      "english": [
+        {
+          "id": "rydwtf5y",
+          "word": "inert",
+          "meaning": "sluggish; lethargic",
+          "register": "colloquial",
+          "note": "Use this for a person or animal that is lethargic and moving without energy, rather than completely unable to move."
+        },
+        {
+          "id": "kkp25i69",
+          "word": "lazy",
+          "meaning": "relaxed, leisurely",
+          "note": "Use this for a pleasantly idle, languid, or leisurely mood such as on a lazy Sunday."
+        }
+      ],
       "examples": [
         {
           "english": "This morning, the cat was inert, sprawled on the sofa.",

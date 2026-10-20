@@ -6,7 +6,56 @@
   "boxes": [
     {
       "meaning": "dangerous",
-      "english": ["dangerous", "hazardous", "risky", "unsafe", "treacherous", "dreadful", "adventurous", "nasty"],
+      "english": [
+        {
+          "id": "uoylwkop",
+          "word": "dangerous",
+          "meaning": "full of danger",
+          "note": "This is the all-purpose choice for something full of danger or likely to cause harm."
+        },
+        {
+          "id": "nooucxaq",
+          "word": "hazardous",
+          "meaning": "dangerous; risky",
+          "note": "This is the all-purpose choice for something risky or dangerous."
+        },
+        {
+          "id": "xdqn2e1k",
+          "word": "risky",
+          "meaning": "dangerous; involving risk",
+          "note": "This is the all-purpose choice for something dangerous or involving risk."
+        },
+        {
+          "id": "a1dff7tn",
+          "word": "unsafe",
+          "meaning": "dangerous; not safe",
+          "note": "Use this when emphasizing that something presents danger or an immediate hazard rather than merely lacking safety."
+        },
+        {
+          "id": "xybgqmej",
+          "word": "treacherous",
+          "meaning": "dangerous, unreliable",
+          "note": "Use this for a treacherous situation, route, or object when the main idea is that it is dangerous."
+        },
+        {
+          "id": "ajmueo3w",
+          "word": "dreadful",
+          "meaning": "horrific; alarming",
+          "note": "Use this instead of 恐怖 when the dreadful aspect is that something is dangerous or risky."
+        },
+        {
+          "id": "749po2un",
+          "word": "adventurous",
+          "meaning": "risky, bold, daring",
+          "note": "Use this when the focus is that the idea or action involves danger or is risky, rather than on the person's boldness."
+        },
+        {
+          "id": "703o25cx",
+          "word": "nasty",
+          "meaning": "serious, dangerous illness or accident",
+          "note": "Use this when a nasty situation, route, accident, or illness is dangerous, including a critical condition."
+        }
+      ],
       "examples": [
         {
           "english": "This mountain road is really dangerous to walk on at night.",

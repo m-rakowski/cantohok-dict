@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "school completion certificate",
-      "english": ["certificate"],
+      "english": [
+        {
+          "id": "31fb902g",
+          "word": "certificate",
+          "meaning": "school completion certificate",
+          "note": "Use this specifically for a document showing that someone has completed a course of study."
+        }
+      ],
       "examples": [
         {
           "english": "After we finish the course, the school will give us a certificate.",

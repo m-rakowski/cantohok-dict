@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "healthy, in good health",
-      "english": ["well", "fit"],
+      "english": [
+        {
+          "id": "jvrhqkvl",
+          "word": "well",
+          "meaning": "in good health",
+          "register": "colloquial",
+          "note": "Use this as the all-purpose everyday description of someone being in good health."
+        },
+        {
+          "id": "a90akdob",
+          "word": "fit",
+          "meaning": "physically well",
+          "note": "Use 身體好 for being physically healthy or in good condition; it is the all-purpose choice for this sense."
+        }
+      ],
       "examples": [
         {
           "english": "My grandma is well and does not get tired even after walking for hours.",

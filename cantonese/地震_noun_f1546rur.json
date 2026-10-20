@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "earthquake",
-      "english": ["earthquake", "quake", "tremor"],
+      "english": [
+        {
+          "id": "udkuasjb",
+          "word": "earthquake",
+          "meaning": "ground shaking",
+          "note": "For the literal geological event, 地震 is the all-purpose Cantonese word."
+        },
+        {
+          "id": "viwiehbh",
+          "word": "quake",
+          "meaning": "earthquake",
+          "note": "Use this for an earthquake or ground-shaking event."
+        },
+        {
+          "id": "npnbtimq",
+          "word": "tremor",
+          "meaning": "small earthquake",
+          "note": "Use this specifically for a tremor that is an earthquake."
+        }
+      ],
       "examples": [
         {
           "english": "That earthquake shook the whole house and knocked all the cups onto the floor.",

@@ -6,7 +6,15 @@
   "boxes": [
     {
       "meaning": "close old friend",
-      "english": ["crony"],
+      "english": [
+        {
+          "id": "ooxyxiqa",
+          "word": "crony",
+          "meaning": "close friend",
+          "register": "colloquial",
+          "note": "This is the all-purpose colloquial choice for a close friend."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {
@@ -18,7 +26,29 @@
     },
     {
       "meaning": "friendly address, 'buddy'",
-      "english": ["pal", "dude", "bud"],
+      "english": [
+        {
+          "id": "436ydifq",
+          "word": "pal",
+          "meaning": "friend; buddy",
+          "register": "colloquial",
+          "note": "Pick this for a more familiar, colloquial pal, including a friendly or sarcastic form of address."
+        },
+        {
+          "id": "jqh84133",
+          "word": "dude",
+          "meaning": "vocative address",
+          "register": "colloquial",
+          "note": "Use this for a friendly, somewhat familiar form of address when “dude” is not specifically male."
+        },
+        {
+          "id": "l97gmmke",
+          "word": "bud",
+          "meaning": "informal address to a man",
+          "register": "colloquial",
+          "note": "Use this when addressing a man informally, as in “hey, buddy.”"
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

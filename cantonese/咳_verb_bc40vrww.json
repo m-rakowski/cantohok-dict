@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "to cough",
-      "english": ["cough", "hack"],
+      "english": [
+        {
+          "id": "4itv5ftu",
+          "word": "cough",
+          "meaning": "cough (expel air)",
+          "note": "This is the all-purpose verb for coughing, especially when no expelled substance is specified."
+        },
+        {
+          "id": "jt4e63qm",
+          "word": "hack",
+          "meaning": "cough noisily",
+          "note": "Use this for coughing; the noisy or persistent quality usually comes from the context."
+        }
+      ],
       "examples": [
         {
           "english": "I cough a lot these days.",

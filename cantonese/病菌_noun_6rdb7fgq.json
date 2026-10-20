@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "microorganism; harmful bacterium",
-      "english": ["microbe"],
+      "english": [
+        {
+          "id": "9oijahbc",
+          "word": "microbe",
+          "meaning": "microorganism; harmful bacterium",
+          "note": "Use 病菌 when the microbe is specifically being identified as disease-causing."
+        }
+      ],
       "examples": [
         {
           "english": "The doctor said a microbe had gotten into the wound, so I need antibiotics.",

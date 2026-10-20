@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "slim, slender",
-      "english": ["slim", "slight"],
+      "english": [
+        {
+          "id": "v68xp4fd",
+          "word": "slim",
+          "meaning": "thin, slender person",
+          "note": "This is the all-purpose choice for an attractively slender person."
+        },
+        {
+          "id": "cc1qqi0v",
+          "word": "slight",
+          "meaning": "slender build",
+          "note": "Use this for a person's slim, attractively slender build, especially when describing a woman."
+        }
+      ],
       "examples": [
         {
           "english": "She has a slim figure.",

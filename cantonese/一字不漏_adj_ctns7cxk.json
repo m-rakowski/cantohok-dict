@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "exact copy text",
-      "english": ["verbatim"],
+      "english": [
+        {
+          "id": "niblx9zi",
+          "word": "verbatim",
+          "meaning": "exact copy text",
+          "note": "Use this when stressing that not a single word has been left out in the verbatim copy."
+        }
+      ],
       "examples": [
         {
           "english": "They transcribed the whole recording verbatim without leaving out a single word.",

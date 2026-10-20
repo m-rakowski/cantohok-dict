@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "ending, final part",
-      "english": ["finish", "ending", "conclusion"],
+      "english": [
+        {
+          "id": "io8xjmcz",
+          "word": "finish",
+          "meaning": "end; conclusion",
+          "note": "This is the all-purpose noun for the end or conclusion of something."
+        },
+        {
+          "id": "pxm6jr8t",
+          "word": "ending",
+          "meaning": "final part; story ending",
+          "note": "Use this for the final part of a story, book, film, or other thing."
+        },
+        {
+          "id": "ggz3p5qe",
+          "word": "conclusion",
+          "meaning": "end; finish",
+          "note": "Use this for the ending or final part of an event, story, or activity."
+        }
+      ],
       "examples": [
         {
           "english": "The finish of this movie is quite moving.",

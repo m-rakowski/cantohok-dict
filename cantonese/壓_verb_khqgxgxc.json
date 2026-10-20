@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "press down",
-      "english": ["press", "mash"],
+      "english": [
+        {
+          "id": "d24ncmmi",
+          "word": "press",
+          "meaning": "apply pressure",
+          "note": "This is the all-purpose choice for applying physical pressure, compressing something, or flattening it; actual ironing is usually expressed with 熨."
+        },
+        {
+          "id": "kr8grpdt",
+          "word": "mash",
+          "meaning": "press down hard",
+          "note": "Use this for pressing down hard, including on a pedal."
+        }
+      ],
       "examples": [
         {
           "english": "Use this book to press down the paper so the wind doesn’t blow it away.",

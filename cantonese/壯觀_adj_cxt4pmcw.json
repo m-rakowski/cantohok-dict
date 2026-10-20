@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "spectacular, grand",
-      "english": ["dramatic", "spectacular", "wondrous", "magnificent"],
+      "english": [
+        {
+          "id": "3tyk47g0",
+          "word": "dramatic",
+          "meaning": "striking, impressive",
+          "note": "This is the all-purpose choice for a strikingly grand visual scene or view."
+        },
+        {
+          "id": "jzs50vcx",
+          "word": "spectacular",
+          "meaning": "amazing; striking",
+          "note": "This is the all-purpose choice for something visually grand or spectacular."
+        },
+        {
+          "id": "lcoucvk0",
+          "word": "wondrous",
+          "meaning": "wonderful; amazing",
+          "note": "Use this for a magnificent or awe-inspiring sight, scene, or spectacle rather than for wonderful things generally."
+        },
+        {
+          "id": "h66jbwh9",
+          "word": "magnificent",
+          "meaning": "splendid in appearance",
+          "note": "Use this for a spectacular large-scale sight or scene rather than general excellence."
+        }
+      ],
       "examples": [
         {
           "english": "The view from this mountaintop is truly dramatic.",

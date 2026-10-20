@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "to step on",
-      "english": ["tread"],
+      "english": [
+        {
+          "id": "ko3x5yjk",
+          "word": "tread",
+          "meaning": "step/walk on",
+          "note": "This is the all-purpose spoken choice for stepping or walking on something, trampling, and pressing down with the feet."
+        }
+      ],
       "examples": [
         {
           "english": "Don't tread on the blanket.",
@@ -17,7 +24,22 @@
     },
     {
       "meaning": "to put down, criticize (slang)",
-      "english": ["slam", "knock"],
+      "english": [
+        {
+          "id": "fif6522k",
+          "word": "slam",
+          "meaning": "criticize harshly",
+          "register": "colloquial",
+          "note": "Use this colloquial verb when someone disparages or harshly criticizes a person, especially publicly."
+        },
+        {
+          "id": "ustt5emc",
+          "word": "knock",
+          "meaning": "criticize",
+          "register": "colloquial",
+          "note": "Use this colloquial choice when “knock” means to disparage, put down, or undervalue something."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

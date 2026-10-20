@@ -6,7 +6,33 @@
   "boxes": [
     {
       "meaning": "eye-catching",
-      "english": ["flash", "striking", "showy", "bold"],
+      "english": [
+        {
+          "id": "n2qikou0",
+          "word": "flash",
+          "meaning": "flashy; showy",
+          "note": "Use this as the all-purpose choice for something visually striking and attention-grabbing."
+        },
+        {
+          "id": "oif03rty",
+          "word": "striking",
+          "meaning": "visually impressive",
+          "note": "This is the all-purpose choice for something whose appearance makes a strong visual impression."
+        },
+        {
+          "id": "cowc6i3a",
+          "word": "showy",
+          "meaning": "visually attractive",
+          "note": "This is the all-purpose choice for something that stands out visually, whether attractively or conspicuously."
+        },
+        {
+          "id": "gwp7xiqb",
+          "word": "bold",
+          "meaning": "visually striking",
+          "register": "colloquial",
+          "note": "Use this for something that stands out visually, especially colours, designs, clothes, or signs."
+        }
+      ],
       "examples": [
         {
           "english": "This suit is really flash.",

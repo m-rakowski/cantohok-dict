@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "to remember",
-      "english": ["remember", "recall", "recollect"],
+      "english": [
+        {
+          "id": "4myevemp",
+          "word": "remember",
+          "meaning": "recall from memory",
+          "note": "This is the all-purpose choice for recalling something, keeping it in mind, or remembering to do something."
+        },
+        {
+          "id": "b43o5gt5",
+          "word": "recall",
+          "meaning": "remember, recollect",
+          "note": "This is the all-purpose spoken choice for remembering or recollecting something."
+        },
+        {
+          "id": "ijecoj6w",
+          "word": "recollect",
+          "meaning": "remember, recall",
+          "note": "This is the all-purpose everyday choice for remembering or recalling something."
+        }
+      ],
       "examples": [
         {
           "english": "Do you remember where that restaurant is?",

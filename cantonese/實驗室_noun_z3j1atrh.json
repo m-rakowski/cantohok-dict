@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "laboratory",
-      "english": ["lab", "laboratory"],
+      "english": [
+        {
+          "id": "cubtjrsv",
+          "word": "lab",
+          "meaning": "laboratory",
+          "note": "This is the all-purpose choice for the place where scientific testing or research is done."
+        },
+        {
+          "id": "9a2ynmd2",
+          "word": "laboratory",
+          "meaning": "scientific lab",
+          "note": "This is the all-purpose Cantonese noun for a scientific laboratory."
+        }
+      ],
       "examples": [
         {
           "english": "We are doing tests in the lab.",

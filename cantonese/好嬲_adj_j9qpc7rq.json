@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "very angry",
-      "english": ["furious", "irate"],
+      "english": [
+        {
+          "id": "tup5shje",
+          "word": "furious",
+          "meaning": "very angry",
+          "note": "This is the all-purpose everyday choice for someone who is very angry."
+        },
+        {
+          "id": "7ebkl73i",
+          "word": "irate",
+          "meaning": "extremely angry",
+          "note": "This is the all-purpose spoken choice for saying that someone is extremely angry."
+        }
+      ],
       "examples": [
         {
           "english": "I’m furious that they forgot to buy something for me again.",

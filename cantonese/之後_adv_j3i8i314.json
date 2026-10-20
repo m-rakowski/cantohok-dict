@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "after, afterwards",
-      "english": ["after", "afterwards", "thereafter", "later"],
+      "english": [
+        {
+          "id": "3vsrh6z2",
+          "word": "after",
+          "meaning": "later; following",
+          "note": "This is the all-purpose choice for something happening later in time; it does not specifically mean following someone."
+        },
+        {
+          "id": "fisqf4rq",
+          "word": "afterwards",
+          "meaning": "at a later time",
+          "note": "This is the all-purpose choice for referring to a later time or what happens after something."
+        },
+        {
+          "id": "e1wthtzm",
+          "word": "thereafter",
+          "meaning": "from then on",
+          "note": "This is the all-purpose choice for referring to what happened after that time or event."
+        },
+        {
+          "id": "hpedwlg3",
+          "word": "later",
+          "meaning": "time later / later than",
+          "note": "Use 之後 for something happening afterward, especially after an event or action just mentioned."
+        }
+      ],
       "examples": [
         {
           "english": "We'll go see a movie after eating.",

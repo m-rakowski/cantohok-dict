@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "efficiency",
-      "english": ["efficiency", "performance"],
+      "english": [
+        {
+          "id": "e2uc39ff",
+          "word": "efficiency",
+          "meaning": "effective use of resources",
+          "note": "This is the all-purpose noun for how effectively resources, energy, or time are used."
+        },
+        {
+          "id": "u9knx3as",
+          "word": "performance",
+          "meaning": "performance, efficiency",
+          "note": "Use 效率 when performance means how much useful work is produced with the time or resources used."
+        }
+      ],
       "examples": [
         {
           "english": "This machine's efficiency is really high: it uses little electricity but works fast.",

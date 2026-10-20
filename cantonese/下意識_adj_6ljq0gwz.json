@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "done without thinking",
-      "english": ["subconscious", "automatic", "unconscious"],
+      "english": [
+        {
+          "id": "bszqz2yt",
+          "word": "subconscious",
+          "meaning": "not consciously aware",
+          "note": "This is the all-purpose choice for something happening without conscious awareness, especially a reaction or influence."
+        },
+        {
+          "id": "jgjoy5dq",
+          "word": "automatic",
+          "meaning": "done unconsciously",
+          "note": "Use this for a reaction or action carried out without conscious thought, especially from instinct or habit."
+        },
+        {
+          "id": "aw0a36wl",
+          "word": "unconscious",
+          "meaning": "without awareness",
+          "note": "Use this for a subconscious reaction or a skilled action carried out without conscious control."
+        }
+      ],
       "examples": [
         {
           "english": "When the dog lunged at me, my subconscious reaction was to pull my hand away.",

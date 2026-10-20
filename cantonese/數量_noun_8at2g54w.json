@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "quantity, amount",
-      "english": ["quantity", "number", "volume"],
+      "english": [
+        {
+          "id": "ae8l7hp1",
+          "word": "quantity",
+          "meaning": "an amount",
+          "note": "This is the all-purpose noun for quantity, amount, or number, especially in neutral comparisons and measurements."
+        },
+        {
+          "id": "ctb9v6kn",
+          "word": "number",
+          "meaning": "quantity of countable things",
+          "note": "Use this when referring to how many countable things there are rather than to a numeral itself."
+        },
+        {
+          "id": "lf95r9gv",
+          "word": "volume",
+          "meaning": "quantity amount",
+          "note": "Use this as the all-purpose noun for a neutral quantity or amount."
+        }
+      ],
       "examples": [
         {
           "english": "The quantity of this batch is greater than last month.",

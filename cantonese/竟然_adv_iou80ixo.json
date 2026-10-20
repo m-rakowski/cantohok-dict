@@ -6,7 +6,44 @@
   "boxes": [
     {
       "meaning": "unexpectedly, surprisingly",
-      "english": ["curiously", "surprisingly", "unexpectedly", "startlingly", "incredibly", "remarkably"],
+      "english": [
+        {
+          "id": "kmrvo52y",
+          "word": "curiously",
+          "meaning": "oddly; unexpectedly",
+          "note": "Use this for the unexpectedly or surprisingly part of “curiously,” especially before an unexpected event or fact."
+        },
+        {
+          "id": "ae15r78e",
+          "word": "surprisingly",
+          "meaning": "unexpectedly; unusually",
+          "note": "This is the all-purpose spoken choice for something that happens unexpectedly or unusually."
+        },
+        {
+          "id": "qei4j2gp",
+          "word": "unexpectedly",
+          "meaning": "in an unexpected manner",
+          "note": "This is the all-purpose choice for an outcome that is surprisingly contrary to expectations."
+        },
+        {
+          "id": "op97stej",
+          "word": "startlingly",
+          "meaning": "surprisingly; shockingly",
+          "note": "This is the all-purpose colloquial choice when an event or fact is surprisingly unexpected."
+        },
+        {
+          "id": "ai59p9na",
+          "word": "incredibly",
+          "meaning": "surprisingly, but true",
+          "note": "Use this when highlighting that the stated fact is surprising or hard to believe, but true."
+        },
+        {
+          "id": "ic5kkyeh",
+          "word": "remarkably",
+          "meaning": "sentence adverb: surprisingly",
+          "note": "Use this at the sentence level when highlighting that an event or fact is surprising or unexpected."
+        }
+      ],
       "examples": [
         {
           "english": "They ate the whole plate of food by themselves, curiously enough.",

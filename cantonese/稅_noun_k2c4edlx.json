@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "government tax",
-      "english": ["tax"],
+      "english": [
+        {
+          "id": "e0ufh677",
+          "word": "tax",
+          "meaning": "government tax",
+          "note": "This is the all-purpose rendering for money or goods collected by a government."
+        }
+      ],
       "examples": [
         {
           "english": "This tax is used to maintain public services.",

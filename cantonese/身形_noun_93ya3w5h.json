@@ -6,7 +6,33 @@
   "boxes": [
     {
       "meaning": "body build",
-      "english": ["physique", "figure", "frame", "bulk"],
+      "english": [
+        {
+          "id": "3laywu1z",
+          "word": "physique",
+          "meaning": "body build",
+          "note": "This is the all-purpose everyday choice for someone's overall build or physique."
+        },
+        {
+          "id": "mki922d7",
+          "word": "figure",
+          "meaning": "body shape; figure",
+          "register": "colloquial",
+          "note": "Use this for the shape or build of a person's body, especially in everyday speech."
+        },
+        {
+          "id": "o3ys9ycu",
+          "word": "frame",
+          "meaning": "body build",
+          "note": "Use this for a person's physical build or overall body shape."
+        },
+        {
+          "id": "gnh6g2zc",
+          "word": "bulk",
+          "meaning": "large body",
+          "note": "Use this when the bulk refers specifically to a person's or animal's physical build or body size."
+        }
+      ],
       "examples": [
         {
           "english": "Their physique is big and tall, which is an advantage for security work.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "direction / heading",
-      "english": ["bearing"],
+      "english": [
+        {
+          "id": "p6fvysud",
+          "word": "bearing",
+          "meaning": "direction / heading",
+          "note": "Use this for a technical compass bearing or horizontal angle in navigation and surveying."
+        }
+      ],
       "examples": [
         {
           "english": "The surveyor measured the bearing with an instrument.",

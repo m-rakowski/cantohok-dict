@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "slim, unlikely",
-      "english": ["slim", "faint"],
+      "english": [
+        {
+          "id": "u6gp2drn",
+          "word": "slim",
+          "meaning": "slight chance, small margin",
+          "note": "Use this for a chance or prospect that is very unlikely."
+        },
+        {
+          "id": "ixxheeeh",
+          "word": "faint",
+          "meaning": "slight; tiny",
+          "note": "Use this mainly for a faint chance, hope, or prospect that is very unlikely."
+        }
+      ],
       "examples": [
         {
           "english": "The chances of getting rich through the lottery are slim.",

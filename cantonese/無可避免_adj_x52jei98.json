@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "unavoidable",
-      "english": ["inevitable", "inexorable"],
+      "english": [
+        {
+          "id": "2t7nal4w",
+          "word": "inevitable",
+          "meaning": "unavoidable",
+          "note": "This is the all-purpose choice for something that cannot be avoided or prevented."
+        },
+        {
+          "id": "69gk35cb",
+          "word": "inexorable",
+          "meaning": "inevitable, unstoppable",
+          "note": "This is the all-purpose choice for something that cannot be prevented and will inevitably happen."
+        }
+      ],
       "examples": [
         {
           "english": "This problem is inevitable, so we have to face it.",

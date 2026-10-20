@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "also, and moreover",
-      "english": ["also", "again"],
+      "english": [
+        {
+          "id": "xyd9fldx",
+          "word": "also",
+          "meaning": "in addition; too",
+          "note": "Use 又 for an additional parallel property or action, often in a repeated or paired pattern."
+        },
+        {
+          "id": "bb504j0u",
+          "word": "again",
+          "meaning": "in addition; likewise",
+          "note": "Use 又 when applying a previous point to another case or saying that something is also true."
+        }
+      ],
       "examples": [
         {
           "english": "They are fast and also clever.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "to buy",
-      "english": ["buy", "purchase"],
+      "english": [
+        {
+          "id": "ft9kwa5m",
+          "word": "buy",
+          "meaning": "purchase",
+          "note": "This is the all-purpose verb for ordinary purchases, what money can buy in a given context, and purchases made for a group or organization."
+        },
+        {
+          "id": "a8ex4uz2",
+          "word": "purchase",
+          "meaning": "buy",
+          "note": "This is the all-purpose everyday verb for buying or obtaining something by paying for it."
+        }
+      ],
       "examples": [
         {
           "english": "I want to buy a new book.",

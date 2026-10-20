@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "public, open",
-      "english": ["public", "open"],
+      "english": [
+        {
+          "id": "0our0spq",
+          "word": "public",
+          "meaning": "visible to everyone",
+          "note": "Use this when information or an action is openly visible or known rather than concealed."
+        },
+        {
+          "id": "i5q7ccmr",
+          "word": "open",
+          "meaning": "overt, not hidden",
+          "note": "Use this when information or an action is public rather than concealed."
+        }
+      ],
       "examples": [
         {
           "english": "The report has been made public.",

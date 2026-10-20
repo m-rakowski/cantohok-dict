@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "construction-related",
-      "english": ["structural"],
+      "english": [
+        {
+          "id": "pjjihdex",
+          "word": "structural",
+          "meaning": "construction-related",
+          "note": "Use this specifically for construction or civil-engineering mechanics, rather than structure in general."
+        }
+      ],
       "examples": [
         {
           "english": "A structural safety inspection has to be done before construction on this bridge can start.",

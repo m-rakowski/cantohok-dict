@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "strive for, try to win",
-      "english": ["solicit", "woo", "seek", "fight"],
+      "english": [
+        {
+          "id": "uylq259k",
+          "word": "solicit",
+          "meaning": "seek persistently",
+          "note": "This is the all-purpose choice when someone actively tries to secure an object, result, or opportunity."
+        },
+        {
+          "id": "8ftl97m9",
+          "word": "woo",
+          "meaning": "try to attract support",
+          "note": "This is the all-purpose choice for trying to win support, customers, or approval."
+        },
+        {
+          "id": "i9yzc1we",
+          "word": "seek",
+          "meaning": "strive to gain",
+          "note": "Use this when actively striving to obtain or gain something."
+        },
+        {
+          "id": "zuefp5aq",
+          "word": "fight",
+          "meaning": "fight in battle",
+          "note": "Use this for striving or campaigning to gain a goal, cause, result, or political success."
+        }
+      ],
       "examples": [
         {
           "english": "We will continue to solicit the opportunity to host this event.",

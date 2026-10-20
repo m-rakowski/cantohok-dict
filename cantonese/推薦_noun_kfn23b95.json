@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "recommendation",
-      "english": ["commendation", "recommendation"],
+      "english": [
+        {
+          "id": "jyg5top3",
+          "word": "commendation",
+          "meaning": "praise; recommendation",
+          "note": "Use 推薦 when commendation means a recommendation or endorsement, especially when someone is being put forward favourably."
+        },
+        {
+          "id": "budt9pw8",
+          "word": "recommendation",
+          "meaning": "endorsement / reference",
+          "note": "Use this for a general endorsement or commendation of a person, product, or service."
+        }
+      ],
       "examples": [
         {
           "english": "My friend's commendation convinced me to try that restaurant.",

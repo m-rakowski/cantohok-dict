@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "suggest, recommend",
-      "english": ["suggest", "advise", "recommend"],
+      "english": [
+        {
+          "id": "no1gr9ge",
+          "word": "suggest",
+          "meaning": "propose, recommend",
+          "note": "Use 建議 as the everyday all-purpose verb when explicitly recommending a course of action or option."
+        },
+        {
+          "id": "a7plj210",
+          "word": "advise",
+          "meaning": "give advice",
+          "note": "This is the all-purpose choice for giving someone advice or recommending what to do."
+        },
+        {
+          "id": "xpozvsqb",
+          "word": "recommend",
+          "meaning": "advise",
+          "note": "Use this as the all-purpose verb for advising or suggesting that someone do something."
+        }
+      ],
       "examples": [
         {
           "english": "I suggest you take the MTR there.",

@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "team",
-      "english": ["team", "crew", "company"],
+      "english": [
+        {
+          "id": "l5x0g4gc",
+          "word": "team",
+          "meaning": "group of people",
+          "note": "This is the all-purpose choice for an organized team, especially at work or in a project."
+        },
+        {
+          "id": "be1ti928",
+          "word": "crew",
+          "meaning": "work team",
+          "note": "Use this for a team of people working together toward a task or goal."
+        },
+        {
+          "id": "7vd7mejv",
+          "word": "company",
+          "meaning": "group working together",
+          "note": "Use this for an organized team of people working together toward a common purpose."
+        }
+      ],
       "examples": [
         {
           "english": "Our team has to hand in a report tomorrow.",

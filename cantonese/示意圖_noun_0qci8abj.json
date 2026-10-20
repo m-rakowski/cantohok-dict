@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "explanatory diagram",
-      "english": ["diagram", "scheme", "map"],
+      "english": [
+        {
+          "id": "5vv7qffg",
+          "word": "diagram",
+          "meaning": "technical drawing / schematic",
+          "note": "Use this for a schematic or explanatory drawing showing how parts relate or work."
+        },
+        {
+          "id": "rxpy1jjb",
+          "word": "scheme",
+          "meaning": "diagram; chart",
+          "note": "Use this for a diagram showing how a system or object is arranged or works."
+        },
+        {
+          "id": "fgkrhk71",
+          "word": "map",
+          "meaning": "diagram of system",
+          "note": "Use this for a diagram that lays out a system's structure, components, or relationships rather than a geographical or game area."
+        }
+      ],
       "examples": [
         {
           "english": "Follow this diagram when assembling it, and you won’t connect the wires incorrectly.",

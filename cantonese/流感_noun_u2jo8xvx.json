@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "flu",
-      "english": ["flu", "influenza"],
+      "english": [
+        {
+          "id": "f6n7yjji",
+          "word": "flu",
+          "meaning": "influenza",
+          "note": "This is the all-purpose Cantonese noun for influenza or the flu."
+        },
+        {
+          "id": "v8vmwwmf",
+          "word": "influenza",
+          "meaning": "flu; viral illness",
+          "note": "This is the all-purpose Cantonese word for influenza as a contagious viral illness."
+        }
+      ],
       "examples": [
         {
           "english": "I caught the flu yesterday, so I’m not going to work today.",

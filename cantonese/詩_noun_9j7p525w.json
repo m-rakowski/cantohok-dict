@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "poem, poetry",
-      "english": ["poem", "poetry", "verse"],
+      "english": [
+        {
+          "id": "qfpsjqkw",
+          "word": "poem",
+          "meaning": "literary verse piece",
+          "register": "written",
+          "note": "This is the all-purpose rendering for a literary verse piece."
+        },
+        {
+          "id": "hls8y896",
+          "word": "poetry",
+          "meaning": "verse literature",
+          "note": "Use this shorter form when the context focuses on poems or poetic writing rather than the genre label 詩歌."
+        },
+        {
+          "id": "awdz7yyh",
+          "word": "verse",
+          "meaning": "poetry in general",
+          "note": "詩 is the all-purpose Cantonese noun for poetry in general."
+        }
+      ],
       "examples": [
         {
           "english": "This poem is beautifully written.",

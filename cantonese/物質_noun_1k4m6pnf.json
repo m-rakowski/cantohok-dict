@@ -6,7 +6,28 @@
   "boxes": [
     {
       "meaning": "substance, matter",
-      "english": ["substance", "matter", "material"],
+      "english": [
+        {
+          "id": "32ezxxua",
+          "word": "substance",
+          "meaning": "physical matter",
+          "register": "written",
+          "note": "This is the all-purpose term for physical matter, especially in scientific or explanatory contexts."
+        },
+        {
+          "id": "8xe0c2d4",
+          "word": "matter",
+          "meaning": "substance, material",
+          "register": "formal",
+          "note": "Use this for a physical substance or a kind of material, especially in scientific or technical contexts."
+        },
+        {
+          "id": "77h9tm41",
+          "word": "material",
+          "meaning": "substance, matter",
+          "note": "Use this for the substance or matter that something consists of, especially in scientific or abstract descriptions."
+        }
+      ],
       "examples": [
         {
           "english": "This substance expands when heated.",

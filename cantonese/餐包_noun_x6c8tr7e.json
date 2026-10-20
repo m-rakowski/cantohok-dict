@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "bread roll",
-      "english": ["roll", "bun"],
+      "english": [
+        {
+          "id": "y4ska25i",
+          "word": "roll",
+          "meaning": "bread roll",
+          "note": "Use this for a small bread roll served with a meal, rather than a filled wrap."
+        },
+        {
+          "id": "ccwwi6cx",
+          "word": "bun",
+          "meaning": "sweet bread roll",
+          "note": "Use 餐包 as the general word for a small bread roll, including a sweetened one."
+        }
+      ],
       "examples": [
         {
           "english": "Breakfast comes with a bread roll and scrambled eggs.",

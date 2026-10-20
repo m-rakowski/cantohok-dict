@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "person you don't know",
-      "english": ["stranger"],
+      "english": [
+        {
+          "id": "qethenoo",
+          "word": "stranger",
+          "meaning": "person you don't know",
+          "note": "This is the all-purpose casual way to mean someone you personally do not know."
+        }
+      ],
       "examples": [
         {
           "english": "I don't tell a stranger where I live.",

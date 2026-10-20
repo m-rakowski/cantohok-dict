@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "industrial firefighting team",
-      "english": ["fire brigade"],
+      "english": [
+        {
+          "id": "dwr9zp41",
+          "word": "fire brigade",
+          "meaning": "industrial firefighting team",
+          "note": "Use this for an in-house firefighting team at a factory or industrial site, not the public fire service."
+        }
+      ],
       "examples": [
         {
           "english": "When the alarm rang, the factory's in-house fire brigade immediately took extinguishers to the scene.",

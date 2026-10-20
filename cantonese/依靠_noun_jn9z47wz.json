@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "someone or something to rely on",
-      "english": ["refuge", "recourse"],
+      "english": [
+        {
+          "id": "9x800xt3",
+          "word": "refuge",
+          "meaning": "person or thing relied on",
+          "note": "Use this for a person or thing someone turns to for support or assistance, rather than a literal shelter."
+        },
+        {
+          "id": "lx01o8i9",
+          "word": "recourse",
+          "meaning": "source of help in trouble",
+          "note": "Use this for a person or thing regarded as a source of support in a difficult situation."
+        }
+      ],
       "examples": [
         {
           "english": "During my unemployment, my family were my only refuge.",

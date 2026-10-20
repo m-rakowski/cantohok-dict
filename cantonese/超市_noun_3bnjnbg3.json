@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "supermarket",
-      "english": ["supermarket", "grocery store"],
+      "english": [
+        {
+          "id": "1luyj2ze",
+          "word": "supermarket",
+          "meaning": "large self-service store",
+          "note": "This is the all-purpose colloquial choice for a supermarket in everyday Hong Kong Cantonese."
+        },
+        {
+          "id": "goo7radr",
+          "word": "grocery store",
+          "meaning": "supermarket / grocery shop",
+          "note": "This is the all-purpose everyday choice, especially for a supermarket."
+        }
+      ],
       "examples": [
         {
           "english": "Let's go to the supermarket to buy groceries first.",

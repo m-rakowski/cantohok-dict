@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "short nap",
-      "english": ["doze", "nap"],
+      "english": [
+        {
+          "id": "h8qlr604",
+          "word": "doze",
+          "meaning": "short nap",
+          "register": "written",
+          "note": "This is the all-purpose noun for a light, short nap, especially in writing or careful speech."
+        },
+        {
+          "id": "g6u376j6",
+          "word": "nap",
+          "meaning": "short sleep",
+          "register": "written",
+          "note": "Use this as the all-purpose noun for a short sleep when the afternoon-nap context is not intended."
+        }
+      ],
       "register": "written",
       "examples": [
         {

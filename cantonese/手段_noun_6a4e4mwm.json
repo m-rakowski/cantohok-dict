@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "means, tactic",
-      "english": ["means", "weapon", "tool"],
+      "english": [
+        {
+          "id": "px9tov5a",
+          "word": "means",
+          "meaning": "method / way to achieve",
+          "note": "Use this when the means is a tactic, instrument, or sometimes a morally questionable way of achieving an end."
+        },
+        {
+          "id": "le8hypi9",
+          "word": "weapon",
+          "meaning": "means of harm/control",
+          "note": "Use this for a figurative weapon understood as a method or means of harming, pressuring, or controlling someone."
+        },
+        {
+          "id": "55klwbia",
+          "word": "tool",
+          "meaning": "means or instrument",
+          "note": "Use this for a means or tactic that helps achieve an aim rather than for a physical implement."
+        }
+      ],
       "examples": [
         {
           "english": "They used improper means to force people to submit.",

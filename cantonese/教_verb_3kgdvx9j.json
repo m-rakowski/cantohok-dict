@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "teach",
-      "english": ["teach", "coach", "educate", "instruct", "train"],
+      "english": [
+        {
+          "id": "f6g0xynt",
+          "word": "teach",
+          "meaning": "teach someone",
+          "note": "Use 教 as the all-purpose verb for passing on knowledge, including a threatening 教你... meaning “I’ll teach you a lesson.”"
+        },
+        {
+          "id": "5me26pes",
+          "word": "coach",
+          "meaning": "train; instruct",
+          "note": "Use this as the all-purpose spoken verb for teaching or coaching someone."
+        },
+        {
+          "id": "kq177dgh",
+          "word": "educate",
+          "meaning": "instruct or train",
+          "note": "This is the all-purpose choice for instructing or teaching someone in everyday Cantonese."
+        },
+        {
+          "id": "d050bjqd",
+          "word": "instruct",
+          "meaning": "teach by instructions",
+          "note": "Use 教 when teaching someone how to do something by explaining or showing the steps."
+        },
+        {
+          "id": "5p55q7va",
+          "word": "train",
+          "meaning": "teach / train someone",
+          "note": "Use 教 for the teaching or educating aspect of training someone, rather than the conditioning aspect."
+        }
+      ],
       "examples": [
         {
           "english": "I’ll teach you how to cook this dish.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "have a barbecue",
-      "english": ["barbecue", "grill"],
+      "english": [
+        {
+          "id": "mmo1j6n8",
+          "word": "barbecue",
+          "meaning": "cook on a barbecue",
+          "note": "This is the all-purpose colloquial choice for cooking food over a barbecue or grill."
+        },
+        {
+          "id": "ixnqb9f2",
+          "word": "grill",
+          "meaning": "barbecue / cook on grill",
+          "note": "This is the everyday all-purpose choice for cooking food over a grill or barbecue."
+        }
+      ],
       "examples": [
         {
           "english": "We’re going to barbecue at the beach on Saturday.",

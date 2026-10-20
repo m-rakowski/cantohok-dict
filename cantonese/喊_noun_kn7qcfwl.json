@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "loud cry, shout",
-      "english": ["shout", "cry"],
+      "english": [
+        {
+          "id": "vw5yv31t",
+          "word": "shout",
+          "meaning": "loud cry",
+          "note": "This is the all-purpose noun for a loud cry or outburst."
+        },
+        {
+          "id": "1d3z2clp",
+          "word": "cry",
+          "meaning": "a shout",
+          "note": "This is the all-purpose noun for an individual shout or scream, rather than crying or a general uproar."
+        }
+      ],
       "examples": [
         {
           "english": "The whole stadium let out a shout when the team scored.",

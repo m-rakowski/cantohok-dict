@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "unrealistic, impractical",
-      "english": ["fanciful", "romantic"],
+      "english": [
+        {
+          "id": "a9h5gute",
+          "word": "fanciful",
+          "meaning": "imaginative; unreal",
+          "note": "Use this when the emphasis is that the fanciful idea is impractical or detached from real-world constraints."
+        },
+        {
+          "id": "ibk4ycc4",
+          "word": "romantic",
+          "meaning": "fanciful, unrealistic",
+          "note": "Use this when “romantic” describes ideas or people as impractical or unrealistic."
+        }
+      ],
       "examples": [
         {
           "english": "The idea that one person can handle the whole project is really fanciful.",

@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "fiercely, in a threatening way",
-      "english": ["viciously", "menacingly", "aggressively", "ferociously", "venomously"],
+      "english": [
+        {
+          "id": "vj28kepc",
+          "word": "viciously",
+          "meaning": "ferociously; cruelly",
+          "note": "Use this as the all-purpose spoken choice for attacking, glaring, or acting viciously."
+        },
+        {
+          "id": "mn6cnaso",
+          "word": "menacingly",
+          "meaning": "in a threatening way",
+          "note": "This is the all-purpose choice for doing or saying something in a threatening, fierce manner."
+        },
+        {
+          "id": "a3e8wdsw",
+          "word": "aggressively",
+          "meaning": "in an aggressive way",
+          "note": "Use this when the aggressive manner is openly hostile, harsh, or threatening."
+        },
+        {
+          "id": "jsl77fss",
+          "word": "ferociously",
+          "meaning": "in a vicious manner",
+          "note": "Use 惡狠狠咁 for visibly vicious or aggressively violent behaviour, rather than mere high intensity."
+        },
+        {
+          "id": "wjbez517",
+          "word": "venomously",
+          "meaning": "with venom, bitterly",
+          "note": "Use this when the delivery is especially fierce or aggressively hostile."
+        }
+      ],
       "examples": [
         {
           "english": "They viciously berated the child until he cried.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "count",
-      "english": ["count", "reckon"],
+      "english": [
+        {
+          "id": "ku1oq28e",
+          "word": "count",
+          "meaning": "determine number of",
+          "note": "This is the all-purpose verb for reciting numbers or finding how many items there are."
+        },
+        {
+          "id": "tcchwjhy",
+          "word": "reckon",
+          "meaning": "count; calculate",
+          "note": "Use this specifically for counting or enumerating items one by one."
+        }
+      ],
       "examples": [
         {
           "english": "Let's count how many candies there are.",

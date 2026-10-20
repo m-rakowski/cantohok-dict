@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "chaos, disorder",
-      "english": ["chaos", "confusion", "disorder", "turmoil", "bewilderment"],
+      "english": [
+        {
+          "id": "55cbjojn",
+          "word": "chaos",
+          "meaning": "disorder, confusion",
+          "note": "This is the all-purpose noun for a state of disorder or confusion."
+        },
+        {
+          "id": "eitp8o54",
+          "word": "confusion",
+          "meaning": "state of being confused",
+          "note": "This is the all-purpose noun for a lack of order or clarity, including a confused situation rather than a specific misunderstanding."
+        },
+        {
+          "id": "h2sj6k2j",
+          "word": "disorder",
+          "meaning": "lack of order",
+          "note": "This is the all-purpose noun for a lack of order and for a situation thrown into chaos."
+        },
+        {
+          "id": "q6x6k6ba",
+          "word": "turmoil",
+          "meaning": "state of disorder",
+          "note": "This is the all-purpose choice for a state of disorder or uncertainty."
+        },
+        {
+          "id": "0xw3yjh2",
+          "word": "bewilderment",
+          "meaning": "confusing situation",
+          "note": "Use this for a confusing situation that is chaotic or disordered rather than for someone's inner state."
+        }
+      ],
       "examples": [
         {
           "english": "After the meeting, the scene was complete chaos.",

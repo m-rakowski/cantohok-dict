@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "a long time",
-      "english": ["long", "far", "forever"],
+      "english": [
+        {
+          "id": "3ajrw6y4",
+          "word": "long",
+          "meaning": "for a long time",
+          "note": "This is the all-purpose colloquial choice for meaning ‘for a long time’."
+        },
+        {
+          "id": "7y3jcqqx",
+          "word": "far",
+          "meaning": "far, a great distance",
+          "note": "Use this instead of 好遠 when the great distance is in time rather than space."
+        },
+        {
+          "id": "3uehpni6",
+          "word": "forever",
+          "meaning": "for a very long time",
+          "note": "Use this for a very long wait or duration, especially when “forever” is hyperbole."
+        }
+      ],
       "examples": [
         {
           "english": "I've been waiting for you for a long time.",

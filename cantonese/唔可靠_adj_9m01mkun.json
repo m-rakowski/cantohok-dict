@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "unreliable",
-      "english": ["unreliable", "treacherous", "doubtful"],
+      "english": [
+        {
+          "id": "av0gfy2y",
+          "word": "unreliable",
+          "meaning": "not dependable",
+          "note": "This is the all-purpose choice for a person, thing, or system that is not dependable."
+        },
+        {
+          "id": "df6ux05r",
+          "word": "treacherous",
+          "meaning": "dangerous, unreliable",
+          "note": "Use this for the unreliable side of treacherous, especially when something or someone cannot be trusted to behave dependably."
+        },
+        {
+          "id": "6i3dcqkl",
+          "word": "doubtful",
+          "meaning": "unclear, unreliable",
+          "note": "Use this for information, evidence, or a person that cannot be relied on."
+        }
+      ],
       "examples": [
         {
           "english": "This old computer keeps crashing; it is really unreliable.",

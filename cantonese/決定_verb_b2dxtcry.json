@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "to decide",
-      "english": ["decide", "determine", "choose", "conclude"],
+      "english": [
+        {
+          "id": "kie1k84h",
+          "word": "decide",
+          "meaning": "resolve a matter",
+          "note": "This is the all-purpose choice for making a decision or determining an outcome."
+        },
+        {
+          "id": "mhx4mcoq",
+          "word": "determine",
+          "meaning": "decide to do",
+          "note": "Use this for deciding to do something, or for the general sense of deciding or settling an issue."
+        },
+        {
+          "id": "448vnrj4",
+          "word": "choose",
+          "meaning": "decide to do",
+          "note": "Use this when choosing means deciding to act in a particular way."
+        },
+        {
+          "id": "sg7r3zro",
+          "word": "conclude",
+          "meaning": "infer, decide",
+          "note": "Use this when concluding means reaching a final decision, settling what will happen or what choice to make."
+        }
+      ],
       "examples": [
         {
           "english": "I still need to decide whether to go travelling tomorrow.",

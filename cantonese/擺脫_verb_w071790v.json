@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "get rid of, break free from",
-      "english": ["shed", "rid"],
+      "english": [
+        {
+          "id": "bziueyko",
+          "word": "shed",
+          "meaning": "cast off / lose",
+          "note": "Use this as the all-purpose choice for casting off an unwanted feeling, burden, or attachment."
+        },
+        {
+          "id": "phi21xpd",
+          "word": "rid",
+          "meaning": "free from trouble",
+          "note": "Use this when someone frees themselves or another person from a troublesome situation or burden."
+        }
+      ],
       "examples": [
         {
           "english": "I finally shed this burden.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "things in common",
-      "english": ["similarity", "community"],
+      "english": [
+        {
+          "id": "ajowd8c9",
+          "word": "similarity",
+          "meaning": "shared properties",
+          "note": "Use this when stressing the specific properties or features that two things have in common."
+        },
+        {
+          "id": "bssyf0b8",
+          "word": "community",
+          "meaning": "shared interests/attitudes",
+          "note": "Use this when the emphasis is on the interests, attitudes, or characteristics that people have in common."
+        }
+      ],
       "examples": [
         {
           "english": "What similarity do you share with your older brother?",

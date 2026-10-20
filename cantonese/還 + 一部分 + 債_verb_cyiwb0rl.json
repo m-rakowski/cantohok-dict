@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "pay down debt partly",
-      "english": ["alleviate"],
+      "english": [
+        {
+          "id": "c3fi6gjh",
+          "word": "alleviate",
+          "meaning": "pay down debt partly",
+          "note": "Use this in financial contexts when the payment reduces only part of a debt."
+        }
+      ],
       "examples": [
         {
           "english": "I used this month’s pay to alleviate part of my debt.",

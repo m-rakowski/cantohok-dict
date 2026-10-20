@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "damage, ruin, spoil",
-      "english": ["damage", "shatter", "harm", "destroy", "upset"],
+      "english": [
+        {
+          "id": "qdcl31vp",
+          "word": "damage",
+          "meaning": "harm; damage",
+          "note": "Use this when the damage involves destroying or seriously disrupting a structure, environment, system, or arrangement."
+        },
+        {
+          "id": "oevd3prv",
+          "word": "shatter",
+          "meaning": "destroy or disable",
+          "note": "Use this for destroying, damaging, or making an object or system unusable rather than physically breaking it into pieces."
+        },
+        {
+          "id": "eymjwrlo",
+          "word": "harm",
+          "meaning": "damage; injure",
+          "note": "Use this when the harm damages a system, structure, environment, or relationship, especially through deliberate disruption."
+        },
+        {
+          "id": "20818hfj",
+          "word": "destroy",
+          "meaning": "neutralize or spoil",
+          "note": "Use this when a quality, effect, or condition is spoiled or neutralized rather than an object being smashed."
+        },
+        {
+          "id": "z5c0w2mw",
+          "word": "upset",
+          "meaning": "disturb / upset",
+          "note": "Use this when upsetting something means damaging or adversely affecting an existing balance or system."
+        }
+      ],
       "examples": [
         {
           "english": "Changing things randomly will damage the whole plan.",

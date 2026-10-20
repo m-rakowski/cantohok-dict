@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "confident",
-      "english": ["confident", "self-confident", "comfortable"],
+      "english": [
+        {
+          "id": "bn9iaxkr",
+          "word": "confident",
+          "meaning": "self-assured",
+          "note": "Use this when someone feels confident in their own ability or is sure they can handle something."
+        },
+        {
+          "id": "d3czuurc",
+          "word": "self-confident",
+          "meaning": "confident in own abilities",
+          "note": "Use this when the confidence is about succeeding at a particular task or using a particular ability."
+        },
+        {
+          "id": "zizhw64g",
+          "word": "comfortable",
+          "meaning": "confident, not worried",
+          "note": "Use this when being comfortable means being confident in one's ability or decision."
+        }
+      ],
       "examples": [
         {
           "english": "I'm confident I can handle this exam.",

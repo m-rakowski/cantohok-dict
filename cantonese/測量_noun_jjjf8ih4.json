@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "measurement, measuring",
-      "english": ["measurement", "survey", "determination"],
+      "english": [
+        {
+          "id": "kuvc69yv",
+          "word": "measurement",
+          "meaning": "act of measuring",
+          "note": "Use 測量 as the all-purpose noun for the act of measuring."
+        },
+        {
+          "id": "rvrbxpai",
+          "word": "survey",
+          "meaning": "land survey",
+          "note": "Use this specifically for surveying land or measuring the shape and dimensions of part of the Earth's surface."
+        },
+        {
+          "id": "pwrz262z",
+          "word": "determination",
+          "meaning": "measurement/assessment",
+          "note": "Use this for the scientific or technical measurement of a quantity such as length, volume, or wavelength."
+        }
+      ],
       "examples": [
         {
           "english": "This report includes land measurement.",

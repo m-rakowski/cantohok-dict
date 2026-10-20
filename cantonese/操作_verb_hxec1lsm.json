@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "operate a machine",
-      "english": ["operate", "work"],
+      "english": [
+        {
+          "id": "9l5ecfvu",
+          "word": "operate",
+          "meaning": "run a machine/system",
+          "note": "Use this for controlling or running a machine, device, or system; it is the all-purpose choice in this territory."
+        },
+        {
+          "id": "egjap0xa",
+          "word": "work",
+          "meaning": "operate; manipulate",
+          "note": "Use 操作 when setting a machine, control, or mechanism into action by handling it."
+        }
+      ],
       "examples": [
         {
           "english": "I still don't know how to operate this coffee machine.",

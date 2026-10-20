@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "so-so, mediocre",
-      "english": ["mediocre", "indifferent"],
+      "english": [
+        {
+          "id": "0acjdqon",
+          "word": "mediocre",
+          "meaning": "average; not very good",
+          "register": "colloquial",
+          "note": "This is the all-purpose colloquial choice for something that is only so-so and not very good."
+        },
+        {
+          "id": "rxw6xc10",
+          "word": "indifferent",
+          "meaning": "mediocre; poor",
+          "register": "colloquial",
+          "note": "Use this when indifferent describes quality as only so-so or mediocre, not a person's attitude."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

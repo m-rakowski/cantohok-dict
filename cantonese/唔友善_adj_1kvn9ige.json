@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "unfriendly",
-      "english": ["unfriendly", "sour"],
+      "english": [
+        {
+          "id": "ai9odtx3",
+          "word": "unfriendly",
+          "meaning": "not friendly; hostile",
+          "note": "This is the all-purpose choice for describing a person who is not friendly."
+        },
+        {
+          "id": "ib8ndw15",
+          "word": "sour",
+          "meaning": "unfriendly, hostile",
+          "note": "Use this for a generally unfriendly or hostile attitude rather than specifically a sour-looking face."
+        }
+      ],
       "examples": [
         {
           "english": "That new colleague is unfriendly to people.",

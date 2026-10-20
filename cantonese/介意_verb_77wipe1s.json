@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "mind, be bothered by",
-      "english": ["mind", "resent", "offend"],
+      "english": [
+        {
+          "id": "b8o31sjt",
+          "word": "mind",
+          "meaning": "object to / not mind",
+          "note": "This is the all-purpose choice when “mind” means object to or be bothered by something."
+        },
+        {
+          "id": "yzsfowp5",
+          "word": "resent",
+          "meaning": "feel offended by",
+          "note": "This is the all-purpose choice for saying that someone takes an action personally or is offended by it."
+        },
+        {
+          "id": "amxxlvft",
+          "word": "offend",
+          "meaning": "feel offended",
+          "note": "Use this when someone takes offense or minds what was said or done."
+        }
+      ],
       "examples": [
         {
           "english": "Do you mind if I sit here?",

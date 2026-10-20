@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "by nature, from birth",
-      "english": ["inherently", "intrinsically", "naturally"],
+      "english": [
+        {
+          "id": "6xqhk05v",
+          "word": "inherently",
+          "meaning": "naturally; innately",
+          "note": "Use this when “inherently” specifically means innate or present from birth."
+        },
+        {
+          "id": "ctkzxzu1",
+          "word": "intrinsically",
+          "meaning": "essentially; by nature",
+          "note": "Use this when the intrinsic quality is innate or present from birth, rather than simply belonging to the thing itself."
+        },
+        {
+          "id": "8n9thzkz",
+          "word": "naturally",
+          "meaning": "by nature; inherently",
+          "register": "colloquial",
+          "note": "Use this for an inherent quality or tendency that someone has from birth, rather than for a manner of acting or “of course.”"
+        }
+      ],
       "examples": [
         {
           "english": "They are inherently shy around strangers and always hide when they meet someone new.",

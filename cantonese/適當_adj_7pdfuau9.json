@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "appropriate, proper",
-      "english": ["appropriate", "due"],
+      "english": [
+        {
+          "id": "81rc4rdq",
+          "word": "appropriate",
+          "meaning": "suitable, proper",
+          "register": "formal",
+          "note": "Use this for something proper or appropriate in an official, responsible, or rule-governed context such as an appropriate measure."
+        },
+        {
+          "id": "fvfr0vwx",
+          "word": "due",
+          "meaning": "proper; fitting",
+          "note": "Use this for something that is proper or appropriate in the circumstances."
+        }
+      ],
       "examples": [
         {
           "english": "The school will take appropriate measures to protect the students' safety.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "a gust of wind",
-      "english": ["breeze", "blast"],
+      "english": [
+        {
+          "id": "795jl3wk",
+          "word": "breeze",
+          "meaning": "light gentle wind",
+          "note": "Use this in everyday speech for a passing light gust of wind; 微風 is more exact for a continuously gentle wind."
+        },
+        {
+          "id": "sr58j712",
+          "word": "blast",
+          "meaning": "strong wind gust",
+          "note": "Use this all-purpose noun phrase for a sudden gust of wind."
+        }
+      ],
       "examples": [
         {
           "english": "A breeze blows over, and it feels great.",

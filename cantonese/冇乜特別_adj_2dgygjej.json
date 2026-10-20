@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "nothing special",
-      "english": ["uneventful", "unexceptional"],
+      "english": [
+        {
+          "id": "337809oc",
+          "word": "uneventful",
+          "meaning": "lacking notable events",
+          "note": "This is the everyday all-purpose choice for saying that a day, trip, or event had nothing noteworthy happen."
+        },
+        {
+          "id": "a2gbegmp",
+          "word": "unexceptional",
+          "meaning": "ordinary; not special",
+          "register": "colloquial",
+          "note": "Use this when emphasizing that there is nothing particularly special about it."
+        }
+      ],
       "examples": [
         {
           "english": "Yesterday was uneventful from work to home.",

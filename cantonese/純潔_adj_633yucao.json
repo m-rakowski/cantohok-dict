@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "pure, innocent",
-      "english": ["virginal", "pure"],
+      "english": [
+        {
+          "id": "prp00r67",
+          "word": "virginal",
+          "meaning": "pure, untouched",
+          "note": "Use this for someone or something described as pure, innocent, or untainted."
+        },
+        {
+          "id": "yxsaxa7x",
+          "word": "pure",
+          "meaning": "morally pure; chaste",
+          "register": "formal",
+          "note": "Use this when pure means morally clean, chaste, or sexually innocent."
+        }
+      ],
       "examples": [
         {
           "english": "The child has a virginal heart and has not been tainted by the outside world.",

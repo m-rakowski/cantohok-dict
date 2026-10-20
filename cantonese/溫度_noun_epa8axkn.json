@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "heat or cold measure",
-      "english": ["temperature"],
+      "english": [
+        {
+          "id": "iuvdjbqf",
+          "word": "temperature",
+          "meaning": "heat or cold measure",
+          "note": "This is the all-purpose noun for a measurable degree of heat or cold."
+        }
+      ],
       "examples": [
         {
           "english": "I’m measuring the water temperature with a thermometer.",

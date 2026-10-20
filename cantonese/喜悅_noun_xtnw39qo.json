@@ -6,7 +6,43 @@
   "boxes": [
     {
       "meaning": "joy, delight",
-      "english": ["glee", "elation", "delight", "joy", "triumph"],
+      "english": [
+        {
+          "id": "v1dg1l53",
+          "word": "glee",
+          "meaning": "joy; delight",
+          "register": "written",
+          "note": "This is the all-purpose noun for joy or delight, especially delight at one's own good fortune."
+        },
+        {
+          "id": "30rcn3no",
+          "word": "elation",
+          "meaning": "joy and pride",
+          "register": "formal",
+          "note": "This is the all-purpose noun for the joyful feeling at the heart of both senses, including pride and optimism when the context supplies them."
+        },
+        {
+          "id": "ulmjba4b",
+          "word": "delight",
+          "meaning": "joy; pleasure",
+          "register": "formal",
+          "note": "Use this more formal noun for the feeling of joy or delight itself, especially in written or elevated contexts."
+        },
+        {
+          "id": "njd173gr",
+          "word": "joy",
+          "meaning": "feeling of happiness",
+          "register": "written",
+          "note": "Use this written noun for the inner feeling of intense happiness itself."
+        },
+        {
+          "id": "25ht06as",
+          "word": "triumph",
+          "meaning": "joy at success",
+          "register": "formal",
+          "note": "Use this for the joy or exultation felt after succeeding, rather than for the success itself."
+        }
+      ],
       "examples": [
         {
           "english": "They were full of glee after winning the prize.",

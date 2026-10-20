@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "manage, be in charge of",
-      "english": ["rule", "oversee", "manage"],
+      "english": [
+        {
+          "id": "grprv1xv",
+          "word": "rule",
+          "meaning": "govern; be in charge",
+          "note": "Use this for regulating, managing, or running an organisation, system, or area rather than stressing personal authority."
+        },
+        {
+          "id": "okoxt4fk",
+          "word": "oversee",
+          "meaning": "supervise, manage",
+          "note": "Use this when overseeing means being responsible for running or managing a team, department, or operation."
+        },
+        {
+          "id": "cl3f1z30",
+          "word": "manage",
+          "meaning": "be in charge of",
+          "note": "Use this when managing people, a team, an organization, or other responsibilities under your direction."
+        }
+      ],
       "examples": [
         {
           "english": "The district council manages the whole park instead of letting one person rule.",

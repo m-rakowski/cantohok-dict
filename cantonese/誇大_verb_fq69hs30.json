@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "to exaggerate",
-      "english": ["magnify", "inflate"],
+      "english": [
+        {
+          "id": "x6q7snac",
+          "word": "magnify",
+          "meaning": "exaggerate, overstate",
+          "note": "Use this when making something seem more important, serious, or impressive than it really is."
+        },
+        {
+          "id": "tn31qae4",
+          "word": "inflate",
+          "meaning": "exaggerate",
+          "note": "Use this when someone presents an importance, quality, or problem as greater than it really is."
+        }
+      ],
       "examples": [
         {
           "english": "Don’t magnify the problem; it’s not that serious.",

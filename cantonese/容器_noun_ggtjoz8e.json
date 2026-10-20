@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "container",
-      "english": ["container", "vessel", "holder"],
+      "english": [
+        {
+          "id": "oe4wf1f5",
+          "word": "container",
+          "meaning": "thing that holds/stores",
+          "register": "formal",
+          "note": "This is the all-purpose term for an object used to hold or store things, including data in technical contexts."
+        },
+        {
+          "id": "aoq45x20",
+          "word": "vessel",
+          "meaning": "container / bowl / cup",
+          "note": "Use this as the all-purpose noun for a container holding liquid or another substance."
+        },
+        {
+          "id": "hi2n2apr",
+          "word": "holder",
+          "meaning": "thing that holds",
+          "note": "Use 容器 when the holder is a container that holds contents rather than a stand or rack."
+        }
+      ],
       "examples": [
         {
           "english": "This container can store a lot of data.",

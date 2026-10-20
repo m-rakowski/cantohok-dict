@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "killer, hitman",
-      "english": ["killer", "murderer"],
+      "english": [
+        {
+          "id": "fghsyh9l",
+          "word": "killer",
+          "meaning": "person who kills",
+          "note": "This is the all-purpose noun for a person who kills, especially a professional or deliberate killer."
+        },
+        {
+          "id": "evdyci1p",
+          "word": "murderer",
+          "meaning": "person who commits murder",
+          "note": "This is used for a hitman or professional killer rather than for every murderer."
+        }
+      ],
       "examples": [
         {
           "english": "The killer was finally caught by the police.",

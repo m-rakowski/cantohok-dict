@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "fear, be afraid",
-      "english": ["fear", "scare", "tremble"],
+      "english": [
+        {
+          "id": "qdwqzc9x",
+          "word": "fear",
+          "meaning": "fear that",
+          "note": "This is the all-purpose everyday verb for being afraid of something or expecting something bad with alarm."
+        },
+        {
+          "id": "j4iodqcy",
+          "word": "scare",
+          "meaning": "be scared easily",
+          "note": "Use this for being afraid or for saying that someone is easily frightened, rather than for causing the fear."
+        },
+        {
+          "id": "iz1qwx3n",
+          "word": "tremble",
+          "meaning": "tremble with fear",
+          "note": "Use this when “tremble” means to fear or be afraid, rather than to shake physically."
+        }
+      ],
       "examples": [
         {
           "english": "I fear he won't make it home.",

@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "work, operate",
-      "english": ["function", "tick", "operate", "work"],
+      "english": [
+        {
+          "id": "a97kou8k",
+          "word": "function",
+          "meaning": "work, operate",
+          "note": "Use this as the all-purpose verb for a machine, system, or organization functioning or operating."
+        },
+        {
+          "id": "4vqdzbwe",
+          "word": "tick",
+          "meaning": "function properly",
+          "note": "Use this as the all-purpose verb for a machine or system working."
+        },
+        {
+          "id": "eq9lohu0",
+          "word": "operate",
+          "meaning": "work/act, function",
+          "note": "Use this when a system, process, organization, or mechanism functions or operates by itself."
+        },
+        {
+          "id": "mrjicn2f",
+          "word": "work",
+          "meaning": "function; operate",
+          "note": "Use 運作 when something functions or operates in a particular way."
+        }
+      ],
       "examples": [
         {
           "english": "This machine can function smoothly.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "worn-out, shabby",
-      "english": ["shabby", "worn-out"],
+      "english": [
+        {
+          "id": "l3jn9cil",
+          "word": "shabby",
+          "meaning": "worn and scruffy",
+          "note": "This is the all-purpose colloquial choice for furniture, places, or clothing that looks worn-out and ragged."
+        },
+        {
+          "id": "51iz2zy5",
+          "word": "worn-out",
+          "meaning": "worn out, damaged",
+          "note": "Use this as the all-purpose colloquial choice for a person, object, or machine that is run-down and no longer in good condition."
+        }
+      ],
       "examples": [
         {
           "english": "That old sofa is so shabby that I really don’t want to sit on it.",
@@ -22,7 +35,15 @@
     },
     {
       "meaning": "disabled, badly impaired",
-      "english": ["stricken"],
+      "english": [
+        {
+          "id": "meqkmq36",
+          "word": "stricken",
+          "meaning": "disabled or afflicted",
+          "register": "colloquial",
+          "note": "Use this colloquial adjective for someone left disabled or badly impaired, rather than merely temporarily incapacitated."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

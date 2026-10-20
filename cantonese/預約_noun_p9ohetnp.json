@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "appointment",
-      "english": ["appointment", "consultation"],
+      "english": [
+        {
+          "id": "8p5lglv8",
+          "word": "appointment",
+          "meaning": "meeting; scheduled visit",
+          "note": "Use this for a scheduled appointment with a doctor, professional, or service provider rather than an informal meeting."
+        },
+        {
+          "id": "scijqc30",
+          "word": "consultation",
+          "meaning": "doctor’s appointment",
+          "note": "Use this when the consultation sense focuses on the scheduled appointment rather than the advice session itself."
+        }
+      ],
       "examples": [
         {
           "english": "I made an appointment to see the dentist next week.",

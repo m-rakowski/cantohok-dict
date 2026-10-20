@@ -6,7 +6,28 @@
   "boxes": [
     {
       "meaning": "clichéd, unoriginal",
-      "english": ["canned", "antique", "conventional"],
+      "english": [
+        {
+          "id": "u75ycvtk",
+          "word": "canned",
+          "meaning": "unoriginal, formulaic",
+          "register": "colloquial",
+          "note": "Use 老套 when “canned” means unoriginal, predictable, or formulaic rather than physically preserved in a can."
+        },
+        {
+          "id": "v2s8e7ip",
+          "word": "antique",
+          "meaning": "old-fashioned; from former times",
+          "note": "Use 老套 for a style, idea, or manner that feels unfashionably old-fashioned, often with a mildly negative tone."
+        },
+        {
+          "id": "p3f7p9sy",
+          "word": "conventional",
+          "meaning": "clichéd, unoriginal",
+          "register": "colloquial",
+          "note": "Use this when conventional means clichéd, hackneyed, or unoriginal."
+        }
+      ],
       "examples": [
         {
           "english": "Your marriage-proposal routine is too canned.",

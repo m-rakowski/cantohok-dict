@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "poo, feces",
-      "english": ["stool", "mess"],
+      "english": [
+        {
+          "id": "0rb3l9jn",
+          "word": "stool",
+          "meaning": "feces",
+          "register": "colloquial",
+          "note": "This is the everyday all-purpose word for feces, though it is blunt."
+        },
+        {
+          "id": "f8yrre8f",
+          "word": "mess",
+          "meaning": "excrement; mess",
+          "note": "Use this for excrement, especially when talking about animal mess or faeces."
+        }
+      ],
       "examples": [
         {
           "english": "The child has passed stool.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "slight, minor",
-      "english": ["minor", "slight"],
+      "english": [
+        {
+          "id": "brrxqzqk",
+          "word": "minor",
+          "meaning": "minor injury; not serious",
+          "note": "Use this for an injury or problem that is not serious or dangerous."
+        },
+        {
+          "id": "ldu1czef",
+          "word": "slight",
+          "meaning": "trifling; unimportant",
+          "note": "This is the all-purpose choice for something minor in degree, severity, or effect, rather than merely unimportant."
+        }
+      ],
       "examples": [
         {
           "english": "They only suffered a minor scrape, so there’s no need to worry.",

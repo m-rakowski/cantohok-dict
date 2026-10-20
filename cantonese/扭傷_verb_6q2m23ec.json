@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "sprain",
-      "english": ["wrench", "twist"],
+      "english": [
+        {
+          "id": "s6e878eo",
+          "word": "wrench",
+          "meaning": "injure a joint",
+          "note": "Use this for the everyday joint-injury sense, such as wrenching or spraining an ankle."
+        },
+        {
+          "id": "wkck2mfe",
+          "word": "twist",
+          "meaning": "sprain an ankle",
+          "note": "Use 扭傷 when twisting or bending a body part causes an injury, especially a sprain."
+        }
+      ],
       "examples": [
         {
           "english": "I accidentally wrench my ankle while playing football.",

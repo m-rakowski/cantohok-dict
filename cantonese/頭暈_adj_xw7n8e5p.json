@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "dizzy",
-      "english": ["dizzy", "faint"],
+      "english": [
+        {
+          "id": "v3pzzi1z",
+          "word": "dizzy",
+          "meaning": "feeling lightheaded",
+          "note": "This is the all-purpose everyday choice for feeling lightheaded, unbalanced, or giddy."
+        },
+        {
+          "id": "lkzi2298",
+          "word": "faint",
+          "meaning": "pass out",
+          "note": "Use this as the all-purpose term for feeling faint or light-headed, especially when you may pass out."
+        }
+      ],
       "examples": [
         {
           "english": "I'm still dizzy after riding the roller coaster.",

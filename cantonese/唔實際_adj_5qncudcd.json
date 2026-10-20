@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "impractical, unrealistic",
-      "english": ["impractical", "unfeasible"],
+      "english": [
+        {
+          "id": "z6aq0n8b",
+          "word": "impractical",
+          "meaning": "not practical; not workable",
+          "note": "This is the all-purpose choice for something that is not practical or workable."
+        },
+        {
+          "id": "abz4w8aa",
+          "word": "unfeasible",
+          "meaning": "not feasible; impractical",
+          "note": "Choose this when the idea is impractical or unrealistic rather than simply technically impossible."
+        }
+      ],
       "examples": [
         {
           "english": "Making a living on luck alone is too impractical.",

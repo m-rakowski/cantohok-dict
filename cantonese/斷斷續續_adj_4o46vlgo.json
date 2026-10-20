@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "on and off, broken up",
-      "english": ["staccato", "patchy"],
+      "english": [
+        {
+          "id": "st8qmb1k",
+          "word": "staccato",
+          "meaning": "abruptly disconnected",
+          "note": "This is the all-purpose choice for sounds or speech made up of separated, non-continuous parts."
+        },
+        {
+          "id": "shit5o0v",
+          "word": "patchy",
+          "meaning": "uneven; intermittent",
+          "note": "This is the all-purpose choice when the patchiness means interruptions or gaps over time."
+        }
+      ],
       "examples": [
         {
           "english": "His speech was staccato and hard to follow.",

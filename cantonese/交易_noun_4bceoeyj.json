@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "deal, transaction",
-      "english": ["exchange", "trade", "deal"],
+      "english": [
+        {
+          "id": "p0nuk73y",
+          "word": "exchange",
+          "meaning": "trade; swap",
+          "note": "Use this for an exchange understood as a trade or commercial transaction."
+        },
+        {
+          "id": "5evw8ndd",
+          "word": "trade",
+          "meaning": "buying and selling",
+          "note": "Use this for a particular trade, exchange, or deal, especially in financial or business contexts."
+        },
+        {
+          "id": "frktbol0",
+          "word": "deal",
+          "meaning": "business deal",
+          "note": "Use this specifically for a business transaction or commercial deal, rather than a general agreement."
+        }
+      ],
       "examples": [
         {
           "english": "Both sides think this exchange is fair.",

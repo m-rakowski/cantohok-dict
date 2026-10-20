@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "magazine",
-      "english": ["magazine", "journal"],
+      "english": [
+        {
+          "id": "3pc5675g",
+          "word": "magazine",
+          "meaning": "periodical publication",
+          "note": "This is the all-purpose word for a magazine as a periodical publication."
+        },
+        {
+          "id": "nkrcrdq1",
+          "word": "journal",
+          "meaning": "magazine / academic journal",
+          "note": "Use this for a general magazine or subject-focused periodical rather than a scholarly publication."
+        }
+      ],
       "examples": [
         {
           "english": "I buy that travel magazine every month.",

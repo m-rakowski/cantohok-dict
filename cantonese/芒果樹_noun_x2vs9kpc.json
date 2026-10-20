@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "mango fruit/tree",
-      "english": ["mango"],
+      "english": [
+        {
+          "id": "ifplldpa",
+          "word": "mango",
+          "meaning": "mango fruit/tree",
+          "note": "Use this specifically when referring to the mango tree rather than its fruit."
+        }
+      ],
       "examples": [
         {
           "english": "That mango tree bears fruit every year.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "nature",
-      "english": ["nature", "environment"],
+      "english": [
+        {
+          "id": "vnbphtcp",
+          "word": "nature",
+          "meaning": "natural world",
+          "note": "This is the all-purpose Cantonese noun for the natural world and the physical environment."
+        },
+        {
+          "id": "n10aeovc",
+          "word": "environment",
+          "meaning": "natural world",
+          "note": "Use this when you specifically mean the natural world rather than a person's general surroundings."
+        }
+      ],
       "examples": [
         {
           "english": "Nature is truly beautiful and worth protecting.",

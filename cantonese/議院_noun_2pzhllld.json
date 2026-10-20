@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "legislative house or chamber",
-      "english": ["parliament", "house"],
+      "english": [
+        {
+          "id": "fgv6krco",
+          "word": "parliament",
+          "meaning": "legislature",
+          "register": "formal",
+          "note": "Use this more formal term for a legislative house or parliament, especially when distinguishing houses such as upper and lower chambers."
+        },
+        {
+          "id": "5ejbxd3t",
+          "word": "house",
+          "meaning": "legislative chamber",
+          "register": "formal",
+          "note": "Use this in the legislative context for a parliamentary chamber or the legislative body represented by it."
+        }
+      ],
       "register": "formal",
       "examples": [
         {

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "very large distance",
-      "english": ["mile"],
+      "english": [
+        {
+          "id": "dis27cc2",
+          "word": "mile",
+          "meaning": "very large distance",
+          "note": "Use this for a very large distance rather than a precise measurement."
+        }
+      ],
       "examples": [
         {
           "english": "It’s a good mile from home to the airport.",

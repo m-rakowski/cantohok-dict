@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "people in an area",
-      "english": ["population"],
+      "english": [
+        {
+          "id": "o41qgvvj",
+          "word": "population",
+          "meaning": "people in an area",
+          "note": "This is the all-purpose choice for the people living in an area or the number of those people, with context supplying the distinction."
+        }
+      ],
       "examples": [
         {
           "english": "What’s the population of Hong Kong?",

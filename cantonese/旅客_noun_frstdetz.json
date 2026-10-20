@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "traveller",
-      "english": ["passenger", "pilgrim"],
+      "english": [
+        {
+          "id": "vufsphdu",
+          "word": "passenger",
+          "meaning": "vehicle rider",
+          "register": "formal",
+          "note": "Use this for a passenger viewed as a traveller, especially on longer journeys, at airports, or in formal travel contexts rather than an ordinary local rider."
+        },
+        {
+          "id": "1a57euog",
+          "word": "pilgrim",
+          "meaning": "religious traveler",
+          "note": "Use this only when the broad sense of pilgrim is simply a traveller, without emphasis on religion or a pilgrimage."
+        }
+      ],
       "examples": [
         {
           "english": "Every passenger, please queue at the boarding gate.",

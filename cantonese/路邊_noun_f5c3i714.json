@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "roadside",
-      "english": ["roadside", "wayside"],
+      "english": [
+        {
+          "id": "wbi0hm15",
+          "word": "roadside",
+          "meaning": "area beside a road",
+          "note": "This is the all-purpose noun for the area beside a road."
+        },
+        {
+          "id": "u8pr20dc",
+          "word": "wayside",
+          "meaning": "roadside / by the road",
+          "note": "This is the all-purpose Cantonese noun for the side of a road or path."
+        }
+      ],
       "examples": [
         {
           "english": "I’ll wait for you by the roadside.",

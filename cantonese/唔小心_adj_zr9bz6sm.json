@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "careless",
-      "english": ["negligent", "careless"],
+      "english": [
+        {
+          "id": "kd483ekn",
+          "word": "negligent",
+          "meaning": "careless; inattentive",
+          "register": "colloquial",
+          "note": "Use this colloquial choice when stressing that someone is careless or not careful enough."
+        },
+        {
+          "id": "6w8qtymd",
+          "word": "careless",
+          "meaning": "negligent; inattentive",
+          "note": "Use this when the carelessness concerns a particular action, mistake, or failure to take care."
+        }
+      ],
       "examples": [
         {
           "english": "I was negligent for a moment and broke the cup.",

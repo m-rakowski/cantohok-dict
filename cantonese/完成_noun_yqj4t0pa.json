@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "completion",
-      "english": ["completion", "execution"],
+      "english": [
+        {
+          "id": "hak7q9wi",
+          "word": "completion",
+          "meaning": "making something complete",
+          "register": "written",
+          "note": "This is the all-purpose noun for the act or state of bringing something to completion."
+        },
+        {
+          "id": "dlrr1eda",
+          "word": "execution",
+          "meaning": "successful completion",
+          "note": "Use this when “execution” highlights that a mission or task was successfully accomplished."
+        }
+      ],
       "examples": [
         {
           "english": "The report has reached completion and is waiting for the boss's approval.",

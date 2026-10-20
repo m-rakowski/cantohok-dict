@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "soothe, cheer up",
-      "english": ["soothe", "cheer"],
+      "english": [
+        {
+          "id": "jtw527i1",
+          "word": "soothe",
+          "meaning": "calm or comfort",
+          "register": "colloquial",
+          "note": "This is the all-purpose colloquial choice for soothing someone who is upset, distressed, or crying."
+        },
+        {
+          "id": "d004tu9n",
+          "word": "cheer",
+          "meaning": "gladden, cheer up",
+          "register": "colloquial",
+          "note": "Use this casual verb when you cheer someone up or coax them into a happier mood."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {
@@ -23,7 +38,14 @@
     },
     {
       "meaning": "sweet-talk into agreeing",
-      "english": ["persuade"],
+      "english": [
+        {
+          "id": "v3xwwufi",
+          "word": "persuade",
+          "meaning": "convince to do",
+          "note": "Use this when you get someone to agree by coaxing, sweet-talking, or indulging them rather than by giving reasons."
+        }
+      ],
       "examples": [
         {
           "english": "I had to sweet-talk him for ages before I could persuade him to come with me.",

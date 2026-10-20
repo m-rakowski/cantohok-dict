@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "story",
-      "english": ["story", "tale"],
+      "english": [
+        {
+          "id": "c7o1c7m5",
+          "word": "story",
+          "meaning": "account of events",
+          "note": "Use 故事 as the all-purpose noun for a real or fictional account of events."
+        },
+        {
+          "id": "04cmi5bs",
+          "word": "tale",
+          "meaning": "story, narrative",
+          "note": "This is the all-purpose noun for a story or narrative."
+        }
+      ],
       "examples": [
         {
           "english": "I heard this story when I was little.",

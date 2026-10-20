@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "business, trade",
-      "english": ["business", "trade", "commerce", "operation"],
+      "english": [
+        {
+          "id": "lg5dkjf7",
+          "word": "business",
+          "meaning": "commercial activity",
+          "note": "This is the all-purpose colloquial choice for a commercial venture, commercial activity, its level of trade, or someone's patronage."
+        },
+        {
+          "id": "yy57ossd",
+          "word": "trade",
+          "meaning": "buying and selling",
+          "note": "This is the all-purpose everyday choice for trade as commercial business or commerce generally."
+        },
+        {
+          "id": "h1uk0soh",
+          "word": "commerce",
+          "meaning": "trade, buying and selling",
+          "note": "Use this as the all-purpose colloquial choice for commercial business or trade in general."
+        },
+        {
+          "id": "ky273qa4",
+          "word": "operation",
+          "meaning": "business operation",
+          "note": "Use this when operation means the business itself or a commercial enterprise, rather than how it functions."
+        }
+      ],
       "examples": [
         {
           "english": "The business at this shop is really good.",

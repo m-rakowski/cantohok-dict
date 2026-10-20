@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "light bulb",
-      "english": ["bulb", "lamp"],
+      "english": [
+        {
+          "id": "6c85msi9",
+          "word": "bulb",
+          "meaning": "light bulb",
+          "note": "This is the all-purpose Cantonese noun for an electric light bulb."
+        },
+        {
+          "id": "nhsme0z0",
+          "word": "lamp",
+          "meaning": "electric light device",
+          "note": "Use this for the light bulb itself, rather than the whole lamp or light fitting."
+        }
+      ],
       "examples": [
         {
           "english": "This bulb is about to burn out.",

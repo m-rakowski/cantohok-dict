@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "airline captain",
-      "english": ["captain"],
+      "english": [
+        {
+          "id": "f8v0wg95",
+          "word": "captain",
+          "meaning": "airline captain",
+          "note": "Use 機長 specifically for the pilot in command of an airline flight."
+        }
+      ],
       "examples": [
         {
           "english": "The captain announced that the flight would be delayed by half an hour.",

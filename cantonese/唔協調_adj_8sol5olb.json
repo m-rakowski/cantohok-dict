@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "clashing, not matching",
-      "english": ["jarring", "incongruous"],
+      "english": [
+        {
+          "id": "uxlimuzb",
+          "word": "jarring",
+          "meaning": "clashing, incongruous",
+          "note": "Use 唔協調 when colours, styles, or parts clash or do not match."
+        },
+        {
+          "id": "abppko5o",
+          "word": "incongruous",
+          "meaning": "not fitting or matching",
+          "note": "Use this especially when colours, shapes, designs, or other elements fail to harmonize."
+        }
+      ],
       "examples": [
         {
           "english": "Her orange jacket and purple trousers are really jarring.",

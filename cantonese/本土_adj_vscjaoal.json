@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "local, native to the place",
-      "english": ["aboriginal", "original"],
+      "english": [
+        {
+          "id": "adzr0kh9",
+          "word": "aboriginal",
+          "meaning": "original; primitive",
+          "note": "Use this for something native to a particular territory, especially local plants, animals, or cultural features, not specifically for precolonial peoples."
+        },
+        {
+          "id": "wkh5e0im",
+          "word": "original",
+          "meaning": "native to a place",
+          "note": "Use this when something is native or indigenous to the place being discussed, especially in contrast with foreign varieties."
+        }
+      ],
       "examples": [
         {
           "english": "These aboriginal plants grow well here and do not need to be brought in from elsewhere.",

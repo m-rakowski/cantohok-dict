@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "correct a mistake",
-      "english": ["correct"],
+      "english": [
+        {
+          "id": "30nzykmf",
+          "word": "correct",
+          "meaning": "fix an error",
+          "note": "This is the all-purpose casual choice for making an error or incorrect thing right."
+        }
+      ],
       "examples": [
         {
           "english": "I’ll correct this sentence for you.",
@@ -17,7 +24,38 @@
     },
     {
       "meaning": "change, alter",
-      "english": ["adjust", "modify", "alter", "vary", "change"],
+      "english": [
+        {
+          "id": "oaz5zerm",
+          "word": "adjust",
+          "meaning": "modify to fit",
+          "note": "Use this as the everyday choice when modifying something so that it fits a purpose or preference."
+        },
+        {
+          "id": "3bdcwzg2",
+          "word": "modify",
+          "meaning": "change a part of",
+          "note": "Use 改 as the all-purpose spoken verb when changing part of something."
+        },
+        {
+          "id": "zxj67xhn",
+          "word": "alter",
+          "meaning": "change form/structure",
+          "note": "Use 改 as the all-purpose verb for deliberately changing a form, structure, plan, or arrangement."
+        },
+        {
+          "id": "yrf63n4t",
+          "word": "vary",
+          "meaning": "change something",
+          "note": "Use this when someone deliberately changes or alters something, including changing it to introduce variety."
+        },
+        {
+          "id": "lp1n1xi6",
+          "word": "change",
+          "meaning": "make different",
+          "note": "Use this when someone deliberately makes or alters something into a different form."
+        }
+      ],
       "examples": [
         {
           "english": "I want to adjust the time a little so it is more convenient for everyone.",

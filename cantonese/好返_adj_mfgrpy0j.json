@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "recovered, well again",
-      "english": ["well", "better"],
+      "english": [
+        {
+          "id": "tqm0pen9",
+          "word": "well",
+          "meaning": "in good health",
+          "register": "colloquial",
+          "note": "Use this when someone has recovered from being ill and is well again."
+        },
+        {
+          "id": "zm4ombry",
+          "word": "better",
+          "meaning": "recovered; less ill",
+          "note": "Use this when a person or thing has recovered and is no longer as ill or damaged."
+        }
+      ],
       "examples": [
         {
           "english": "Have you recovered and are you well again after resting for a few days?",

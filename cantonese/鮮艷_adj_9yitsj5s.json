@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "bright, vivid (color)",
-      "english": ["vivid", "lively", "brilliant"],
+      "english": [
+        {
+          "id": "8o8fm0db",
+          "word": "vivid",
+          "meaning": "bright, intense colors",
+          "note": "Use this specifically for colors that are bright, intense, and eye-catching."
+        },
+        {
+          "id": "u0ohmfrr",
+          "word": "lively",
+          "meaning": "bright, vivid",
+          "note": "Use this for colours that are bright, vivid, and eye-catching."
+        },
+        {
+          "id": "kc5r622k",
+          "word": "brilliant",
+          "meaning": "bright color",
+          "note": "Use 鮮艷 for a colour that is both vivid and strongly saturated."
+        }
+      ],
       "examples": [
         {
           "english": "The colors of this dress are very vivid.",

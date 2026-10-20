@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "charge / invoice",
-      "english": ["bill"],
+      "english": [
+        {
+          "id": "a3ojnjfk",
+          "word": "bill",
+          "meaning": "charge / invoice",
+          "note": "Use this when the focus is issuing or sending an invoice or bill rather than collecting the payment."
+        }
+      ],
       "examples": [
         {
           "english": "When will you bill me?",

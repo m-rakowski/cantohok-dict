@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "cruel rule, tyranny",
-      "english": ["oppression", "tyranny"],
+      "english": [
+        {
+          "id": "rv4hqcy2",
+          "word": "oppression",
+          "meaning": "cruel rule",
+          "register": "formal",
+          "note": "Use this specifically for cruel or unjust rule by a government or ruler, rather than oppression in general."
+        },
+        {
+          "id": "n8ds0g1o",
+          "word": "tyranny",
+          "meaning": "cruel absolute rule",
+          "register": "written",
+          "note": "Use this as the all-purpose noun for cruel and unjust absolute rule."
+        }
+      ],
       "examples": [
         {
           "english": "People cannot live peacefully under oppression.",

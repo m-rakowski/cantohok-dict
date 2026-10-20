@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "disability, disadvantage",
-      "english": ["handicap"],
+      "english": [
+        {
+          "id": "brloop20",
+          "word": "handicap",
+          "meaning": "disability, disadvantage",
+          "note": "Use this specifically for a person's physical disability rather than for an obstacle."
+        }
+      ],
       "examples": [
         {
           "english": "He has a physical handicap, but he can still travel on his own.",

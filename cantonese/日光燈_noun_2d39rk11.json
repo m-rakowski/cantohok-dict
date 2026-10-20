@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "daylight lamp",
-      "english": ["daylight"],
+      "english": [
+        {
+          "id": "2kamtudu",
+          "word": "daylight",
+          "meaning": "daylight lamp",
+          "note": "Use this for an artificial lamp intended to resemble daylight, commonly a fluorescent light in Hong Kong."
+        }
+      ],
       "examples": [
         {
           "english": "The office's daylight fluorescent lights are broken, so the whole room is pitch-dark.",

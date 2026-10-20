@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "pub counter",
-      "english": ["bar"],
+      "english": [
+        {
+          "id": "7pxlae7a",
+          "word": "bar",
+          "meaning": "pub counter",
+          "note": "Use this for the physical counter inside a bar, not the venue itself."
+        }
+      ],
       "examples": [
         {
           "english": "Let's sit at the bar and have a drink.",

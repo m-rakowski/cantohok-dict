@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "face, confront",
-      "english": ["face", "confront", "encounter"],
+      "english": [
+        {
+          "id": "0orjnvyv",
+          "word": "face",
+          "meaning": "be confronted with",
+          "note": "This is the all-purpose choice for confronting a situation, accepting an unwelcome fact, or having something difficult ahead."
+        },
+        {
+          "id": "nonm32id",
+          "word": "confront",
+          "meaning": "face in hostility",
+          "note": "This is the all-purpose choice for facing someone or dealing with a problem without necessarily implying an accusation."
+        },
+        {
+          "id": "our2ex2l",
+          "word": "encounter",
+          "meaning": "confront face to face",
+          "note": "Use this when the encounter means confronting someone or something face to face."
+        }
+      ],
       "examples": [
         {
           "english": "Even if the outcome isn't ideal, we still have to face reality.",

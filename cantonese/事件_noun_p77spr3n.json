@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "incident, event",
-      "english": ["incident", "event"],
+      "english": [
+        {
+          "id": "f4s4q9fh",
+          "word": "incident",
+          "meaning": "event, occurrence",
+          "note": "Use this as the all-purpose noun for a distinct event or incident, especially in neutral or reported contexts."
+        },
+        {
+          "id": "96kncrtf",
+          "word": "event",
+          "meaning": "occurrence",
+          "register": "formal",
+          "note": "Use 事件 for a distinct or notable occurrence, especially when it sounds like an incident or a news event."
+        }
+      ],
       "examples": [
         {
           "english": "This incident caused the whole department to stop work.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "guiding spirit or ethos of a group",
-      "english": ["ethos"],
+      "english": [
+        {
+          "id": "bv6rwgp9",
+          "word": "ethos",
+          "meaning": "character, values",
+          "note": "Use this when the ethos is presented as the spirit or guiding character of a movement, group, or people rather than as explicit values."
+        }
+      ],
       "examples": [
         {
           "english": "The whole protest was full of an ethos of solidarity.",
@@ -17,7 +24,20 @@
     },
     {
       "meaning": "energy, liveliness, alert mood",
-      "english": ["spirit", "animation"],
+      "english": [
+        {
+          "id": "uonv2c7m",
+          "word": "spirit",
+          "meaning": "mood, spirits",
+          "note": "Use this for inner energy or morale, a guiding ethos, the underlying meaning of something, or someone's mental state; the exact meaning depends on context."
+        },
+        {
+          "id": "hfdwuve3",
+          "word": "animation",
+          "meaning": "liveliness, energy",
+          "note": "Use this when the liveliness is especially shown in someone’s manner, performance, or delivery."
+        }
+      ],
       "examples": [
         {
           "english": "I have plenty of spirit today, so I don't need coffee.",

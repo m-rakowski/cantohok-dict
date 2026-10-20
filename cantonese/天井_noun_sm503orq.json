@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "open courtyard in a building",
-      "english": ["yard", "court"],
+      "english": [
+        {
+          "id": "cdy1g6of",
+          "word": "yard",
+          "meaning": "house yard",
+          "note": "Use 天井 for an open courtyard or lightwell within or adjoining a house."
+        },
+        {
+          "id": "m42rt6z9",
+          "word": "court",
+          "meaning": "courtyard; enclosed space",
+          "note": "Use this for an open courtyard or enclosed central space in or between buildings, not a dead-end street."
+        }
+      ],
       "examples": [
         {
           "english": "This old house has a yard, so it gets quite bright inside.",

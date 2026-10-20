@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "swear an oath",
-      "english": ["swear", "promise"],
+      "english": [
+        {
+          "id": "73v0gv5v",
+          "word": "swear",
+          "meaning": "insist strongly",
+          "note": "Use this as the all-purpose verb for taking an oath or emphatically saying that something is true."
+        },
+        {
+          "id": "t0aqo38m",
+          "word": "promise",
+          "meaning": "promise, commit",
+          "note": "Use this specifically for making a solemn oath or vow rather than an ordinary promise."
+        }
+      ],
       "examples": [
         {
           "english": "I swear I wasn't lying.",

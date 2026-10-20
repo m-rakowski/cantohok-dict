@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "sharp, keen",
-      "english": ["keen", "acute"],
+      "english": [
+        {
+          "id": "jzawobv7",
+          "word": "keen",
+          "meaning": "sharp-minded",
+          "note": "Use this for a person, mind, judgment, or perception that is mentally sharp."
+        },
+        {
+          "id": "5pke3mv8",
+          "word": "acute",
+          "meaning": "sharp, keen, intense",
+          "note": "Use this when acute means sharp, perceptive, or highly responsive, such as acute hearing, rather than for sheer intensity."
+        }
+      ],
       "examples": [
         {
           "english": "They have such keen powers of observation that they spotted the problem in the photo at once.",

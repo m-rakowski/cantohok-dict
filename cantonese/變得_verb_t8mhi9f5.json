@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "to become (followed by a description)",
-      "english": ["become", "get"],
+      "english": [
+        {
+          "id": "oj29akin",
+          "word": "become",
+          "meaning": "turn into; become",
+          "note": "Use this before an adjective or description when something begins to have a new quality or condition."
+        },
+        {
+          "id": "qbd1pfmm",
+          "word": "get",
+          "meaning": "become",
+          "note": "Use this when get means enter or bring oneself into a new state or condition."
+        }
+      ],
       "examples": [
         {
           "english": "The weather has become cooler.",

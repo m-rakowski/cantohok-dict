@@ -6,7 +6,15 @@
   "boxes": [
     {
       "meaning": "company; incorporated body",
-      "english": ["corporation"],
+      "english": [
+        {
+          "id": "qlp5a6df",
+          "word": "corporation",
+          "meaning": "company; incorporated body",
+          "register": "formal",
+          "note": "Pick this for the precise legal sense of an incorporated body rather than an ordinary business company."
+        }
+      ],
       "register": "formal",
       "examples": [
         {

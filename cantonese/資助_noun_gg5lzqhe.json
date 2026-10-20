@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "financial support, grant",
-      "english": ["subsidy", "sponsorship", "grant"],
+      "english": [
+        {
+          "id": "d7x3sbnz",
+          "word": "subsidy",
+          "meaning": "government financial support",
+          "note": "This is the all-purpose choice for financial support or a grant, especially from the government."
+        },
+        {
+          "id": "hrfpveh0",
+          "word": "sponsorship",
+          "meaning": "sponsoring support/funding",
+          "note": "Use this when the sponsorship specifically means financial aid or funding, especially for a person, project, or research team."
+        },
+        {
+          "id": "nbj0qjvl",
+          "word": "grant",
+          "meaning": "money grant; boon",
+          "note": "Use this for financial support given to a person, student, or organization rather than an official budget allocation."
+        }
+      ],
       "examples": [
         {
           "english": "The government increased its subsidy for small theatre companies this year.",

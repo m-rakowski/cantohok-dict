@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "performer",
-      "english": ["performer", "entertainer"],
+      "english": [
+        {
+          "id": "0urxlv12",
+          "word": "performer",
+          "meaning": "entertainer; stage performer",
+          "note": "Use this as the all-purpose term for someone performing for an audience, especially when the specific type of performer is not stated."
+        },
+        {
+          "id": "dnv1z5c0",
+          "word": "entertainer",
+          "meaning": "performer",
+          "register": "written",
+          "note": "Use this for the performer in a particular show or act, especially when professional status is not the focus."
+        }
+      ],
       "examples": [
         {
           "english": "The performer will go on stage at eight.",

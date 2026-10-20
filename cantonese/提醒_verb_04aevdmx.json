@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "remind or warn someone",
-      "english": ["remind", "alert", "jog", "alarm"],
+      "english": [
+        {
+          "id": "c2ktfkzi",
+          "word": "remind",
+          "meaning": "bring to mind / notice",
+          "note": "This is the all-purpose verb for reminding someone or bringing something to their attention."
+        },
+        {
+          "id": "pvfj8k9i",
+          "word": "alert",
+          "meaning": "warn",
+          "note": "This is the all-purpose choice for giving someone a warning or calling a risk to their attention."
+        },
+        {
+          "id": "z4lbbbq8",
+          "word": "jog",
+          "meaning": "jog memory; remind",
+          "note": "Use this when something helps bring a memory or fact back to mind."
+        },
+        {
+          "id": "lr865li5",
+          "word": "alarm",
+          "meaning": "cause concern",
+          "note": "Use 提醒 when alarming someone means alerting them to danger or reminding them to take necessary action."
+        }
+      ],
       "examples": [
         {
           "english": "Thanks—you remind me that I have to hand in my homework tomorrow.",

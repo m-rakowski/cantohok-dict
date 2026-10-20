@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "national/international leader",
-      "english": ["statesman"],
+      "english": [
+        {
+          "id": "pq4g4p3x",
+          "word": "statesman",
+          "meaning": "national/international leader",
+          "note": "Use this when the person is being described specifically as a leader on the international stage."
+        }
+      ],
       "examples": [
         {
           "english": "Countries around the world are hoping this statesman will step in to mediate.",

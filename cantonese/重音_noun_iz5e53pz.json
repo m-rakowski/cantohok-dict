@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "stress on a syllable",
-      "english": ["emphasis", "accent", "stress"],
+      "english": [
+        {
+          "id": "anp8ccpu",
+          "word": "emphasis",
+          "meaning": "stress on words or syllables",
+          "register": "written",
+          "note": "Use this specifically for prominence placed on a syllable or word in speech."
+        },
+        {
+          "id": "7vuxfa1l",
+          "word": "accent",
+          "meaning": "word stress",
+          "note": "Use this for stress placed on a particular syllable within a word or phrase."
+        },
+        {
+          "id": "eta44u1h",
+          "word": "stress",
+          "meaning": "word stress",
+          "note": "Use this technical term when discussing prominence given to a syllable, word, or phrase in pronunciation."
+        }
+      ],
       "examples": [
         {
           "english": "The teacher told me to put emphasis on the second syllable.",

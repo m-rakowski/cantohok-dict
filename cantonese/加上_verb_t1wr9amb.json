@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "add something extra on top",
-      "english": ["overlay", "accompany"],
+      "english": [
+        {
+          "id": "wen8x1n4",
+          "word": "overlay",
+          "meaning": "add an overlay",
+          "note": "Use this for adding a caption, graphic, filter, or other overlay to an image, video, map, or interface."
+        },
+        {
+          "id": "h0mt9uv7",
+          "word": "accompany",
+          "meaning": "come with, supplement",
+          "note": "Use this when an extra thing is added or supplied alongside something else."
+        }
+      ],
       "examples": [
         {
           "english": "We overlay this video with subtitles, and it is much clearer.",

@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "one way or another, no matter what",
-      "english": ["somehow", "regardless"],
+      "english": [
+        {
+          "id": "k6yw7ahg",
+          "word": "somehow",
+          "meaning": "in some way; by some means",
+          "note": "Use this as the all-purpose spoken equivalent when the speaker means the task must be done one way or another."
+        },
+        {
+          "id": "n8d44xky",
+          "word": "regardless",
+          "meaning": "anyway; still",
+          "register": "colloquial",
+          "note": "Use this for “regardless” in the sense of proceeding whatever the preceding circumstances or discussion may be."
+        }
+      ],
       "examples": [
         {
           "english": "We have to finish it before tonight somehow.",
@@ -22,7 +36,14 @@
     },
     {
       "meaning": "in any way you like",
-      "english": ["anyhow"],
+      "english": [
+        {
+          "id": "ysx85yd7",
+          "word": "anyhow",
+          "meaning": "in any way",
+          "note": "Use this for the “in whatever way” sense, often with 可以 or a verb."
+        }
+      ],
       "examples": [
         {
           "english": "You can choose it anyhow you like.",

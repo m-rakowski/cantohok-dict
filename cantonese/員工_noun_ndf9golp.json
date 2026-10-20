@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "employee, staff",
-      "english": ["staff", "employee", "worker", "personnel"],
+      "english": [
+        {
+          "id": "fabu9kl2",
+          "word": "staff",
+          "meaning": "employees",
+          "note": "This is the all-purpose Cantonese noun for people employed by a company or organisation."
+        },
+        {
+          "id": "qkgdmfwj",
+          "word": "employee",
+          "meaning": "worker for a company",
+          "note": "This is the all-purpose choice for an employee of a company or organization."
+        },
+        {
+          "id": "9voh85ft",
+          "word": "worker",
+          "meaning": "person who works",
+          "note": "Use 員工 when the worker is employed by a company or organization rather than when manual labor is the focus."
+        },
+        {
+          "id": "cjtsqqcm",
+          "word": "personnel",
+          "meaning": "organization staff",
+          "note": "Use this for ordinary employees of a company or organization rather than military personnel or staff in general."
+        }
+      ],
       "examples": [
         {
           "english": "The company hired three new staff.",

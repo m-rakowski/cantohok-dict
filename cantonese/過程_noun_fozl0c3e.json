@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "process, course of events",
-      "english": ["process", "journey", "course"],
+      "english": [
+        {
+          "id": "f714dg06",
+          "word": "process",
+          "meaning": "series of events producing result",
+          "note": "This is the all-purpose noun for a series of events or successive states leading somewhere."
+        },
+        {
+          "id": "047d0ib1",
+          "word": "journey",
+          "meaning": "figurative life process",
+          "note": "Use this for a figurative journey understood as a process of change, development, or struggle."
+        },
+        {
+          "id": "lm3q7n1y",
+          "word": "course",
+          "meaning": "normal sequence",
+          "note": "Use this for the sequence or unfolding process of events."
+        }
+      ],
       "examples": [
         {
           "english": "The process from designing to shipping this product went smoothly.",

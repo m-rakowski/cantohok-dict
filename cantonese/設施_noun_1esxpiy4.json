@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "facilities",
-      "english": ["facility", "facilities"],
+      "english": [
+        {
+          "id": "49oq46cm",
+          "word": "facility",
+          "meaning": "amenities / equipment",
+          "note": "This is the all-purpose noun for a facility, including public amenities, equipment, infrastructure, and purpose-built sites."
+        },
+        {
+          "id": "kjw4is9d",
+          "word": "facilities",
+          "meaning": "amenities / services",
+          "note": "For physical amenities or public facilities in general, use this straightforward noun."
+        }
+      ],
       "examples": [
         {
           "english": "The facility at this sports venue is excellent.",

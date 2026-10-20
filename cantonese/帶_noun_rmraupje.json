@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "strip, band, ribbon",
-      "english": ["band", "ribbon"],
+      "english": [
+        {
+          "id": "aqkdzjr1",
+          "word": "band",
+          "meaning": "clothing band",
+          "note": "Use this for a strip of material that binds, strengthens, or decorates something."
+        },
+        {
+          "id": "ker2im15",
+          "word": "ribbon",
+          "meaning": "narrow strip",
+          "note": "Use this bare noun for a plain narrow strip when it is not specifically decorative or a printer ribbon."
+        }
+      ],
       "examples": [
         {
           "english": "This band is used to tie the parcel securely.",

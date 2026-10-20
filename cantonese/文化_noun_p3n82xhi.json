@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "culture",
-      "english": ["culture", "ethos"],
+      "english": [
+        {
+          "id": "7asyr6k0",
+          "word": "culture",
+          "meaning": "arts and customs",
+          "note": "This is the all-purpose noun for the arts, customs, values, and way of life of a society or group."
+        },
+        {
+          "id": "nimyjq8k",
+          "word": "ethos",
+          "meaning": "character, values",
+          "note": "Use this mainly for the shared ethos of an organization, workplace, or community, as in its way of thinking and doing things."
+        }
+      ],
       "examples": [
         {
           "english": "The culture of this place is very distinctive.",

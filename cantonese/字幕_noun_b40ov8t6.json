@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "subtitles",
-      "english": ["caption", "subtitle"],
+      "english": [
+        {
+          "id": "xfbhrl2d",
+          "word": "caption",
+          "meaning": "subtitles / closed captions",
+          "note": "Use this for text shown on a film, video, or broadcast to represent dialogue or other sounds."
+        },
+        {
+          "id": "ahg6qpwk",
+          "word": "subtitle",
+          "meaning": "film captions",
+          "note": "This is the all-purpose Cantonese word for text showing film or video dialogue on screen."
+        }
+      ],
       "examples": [
         {
           "english": "The caption on the video lets you follow it without sound.",
@@ -22,7 +35,20 @@
     },
     {
       "meaning": "film credits",
-      "english": ["title", "credit"],
+      "english": [
+        {
+          "id": "9lpllvah",
+          "word": "title",
+          "meaning": "film credits",
+          "note": "Use 字幕 for written titles, credits, or captions displayed on a film, video, or performance."
+        },
+        {
+          "id": "y7ttvqt2",
+          "word": "credit",
+          "meaning": "film/TV credits",
+          "note": "In a film or TV context, use this for the names and information shown in the credit sequence, not ordinary dialogue subtitles."
+        }
+      ],
       "examples": [
         {
           "english": "The title credits at the end show the director's name.",

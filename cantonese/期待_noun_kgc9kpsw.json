@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "looking forward to",
-      "english": ["anticipation", "expectation"],
+      "english": [
+        {
+          "id": "vesvy8us",
+          "word": "anticipation",
+          "meaning": "eager waiting",
+          "note": "This is the all-purpose noun for eager anticipation while waiting for something to happen."
+        },
+        {
+          "id": "s1dbylwr",
+          "word": "expectation",
+          "meaning": "anticipation",
+          "note": "Use this when stressing the feeling of looking forward to something that is about to happen."
+        }
+      ],
       "examples": [
         {
           "english": "I’m full of anticipation for tomorrow’s concert.",

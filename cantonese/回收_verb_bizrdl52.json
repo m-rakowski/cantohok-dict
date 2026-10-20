@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "recycle",
-      "english": ["recycle", "reclaim", "salvage"],
+      "english": [
+        {
+          "id": "epsiemyu",
+          "word": "recycle",
+          "meaning": "reprocess materials",
+          "note": "Use this as the all-purpose verb when materials or items are being recycled without stressing the processing or the act of carrying them out."
+        },
+        {
+          "id": "znubgogp",
+          "word": "reclaim",
+          "meaning": "recycle waste",
+          "note": "Use this for recovering or recycling waste and other recyclable materials."
+        },
+        {
+          "id": "5wok2aoi",
+          "word": "salvage",
+          "meaning": "salvage / recover for use",
+          "note": "Use this for reclaiming materials or discarded items so they can be reused, rather than for rescuing people."
+        }
+      ],
       "examples": [
         {
           "english": "We can recycle these plastic bottles.",

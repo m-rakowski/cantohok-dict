@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "discussion",
-      "english": ["discussion", "debate"],
+      "english": [
+        {
+          "id": "9tp1jkew",
+          "word": "discussion",
+          "meaning": "conversation or debate",
+          "note": "This is the all-purpose Cantonese noun for a discussion or debate about a particular topic."
+        },
+        {
+          "id": "mlugheps",
+          "word": "debate",
+          "meaning": "informal discussion",
+          "note": "Use this for an informal, generally civil discussion of different views rather than a formal debate with a vote."
+        }
+      ],
       "examples": [
         {
           "english": "We’ll have a discussion about this tomorrow at the meeting.",

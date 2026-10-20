@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "take back",
-      "english": ["withdraw", "recall"],
+      "english": [
+        {
+          "id": "1say23ka",
+          "word": "withdraw",
+          "meaning": "take back / retract",
+          "register": "colloquial",
+          "note": "Use 收返 as the all-purpose choice when physically pulling something back or taking back something previously given or allowed."
+        },
+        {
+          "id": "3tt15f49",
+          "word": "recall",
+          "meaning": "retract words",
+          "note": "Use this when withdrawing words or taking back an order in ordinary speech."
+        }
+      ],
       "examples": [
         {
           "english": "When a car comes too close, I immediately withdraw my foot.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "economic sector",
-      "english": ["sector"],
+      "english": [
+        {
+          "id": "c68cr8cx",
+          "word": "sector",
+          "meaning": "economic sector",
+          "note": "Use this specifically for the private sector rather than an industry in general."
+        }
+      ],
       "examples": [
         {
           "english": "Many jobs in the private sector require experience.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "homeless wanderer",
-      "english": ["tramp", "gypsy"],
+      "english": [
+        {
+          "id": "cmdwxbpt",
+          "word": "tramp",
+          "meaning": "homeless person",
+          "note": "For a homeless person or vagabond, this is the everyday all-purpose choice."
+        },
+        {
+          "id": "4xvi3gwt",
+          "word": "gypsy",
+          "meaning": "itinerant person",
+          "note": "Use this when the person is portrayed as homeless or living by wandering rather than simply travelling."
+        }
+      ],
       "examples": [
         {
           "english": "That tramp sleeps at the station all the time.",

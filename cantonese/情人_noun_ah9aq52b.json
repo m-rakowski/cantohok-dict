@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "lover, sweetheart",
-      "english": ["lover", "valentine", "flame", "playmate", "love"],
+      "english": [
+        {
+          "id": "qpr890hn",
+          "word": "lover",
+          "meaning": "romantic partner",
+          "note": "This is the all-purpose spoken term for a romantic or sexual lover, especially an affair partner."
+        },
+        {
+          "id": "xtn9dho5",
+          "word": "valentine",
+          "meaning": "romantic partner or sweetheart",
+          "note": "This is the all-purpose everyday noun for the romantic partner or sweetheart sense."
+        },
+        {
+          "id": "rn48lokd",
+          "word": "flame",
+          "meaning": "lover; romantic partner",
+          "note": "Use this for a romantic partner or lover, especially in the sense of an affair."
+        },
+        {
+          "id": "casbt81z",
+          "word": "playmate",
+          "meaning": "lover (euphemistic)",
+          "note": "Use this for the lover sense rather than a companion a person merely plays with."
+        },
+        {
+          "id": "lxrs8804",
+          "word": "love",
+          "meaning": "sweetheart; beloved",
+          "note": "Use this for the person who is someone’s romantic lover or sweetheart."
+        }
+      ],
       "examples": [
         {
           "english": "I don't want people to know I have a lover.",

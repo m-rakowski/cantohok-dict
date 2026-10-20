@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "vicious, spiteful",
-      "english": ["evil", "ill", "venomous"],
+      "english": [
+        {
+          "id": "n080ibxx",
+          "word": "evil",
+          "meaning": "malevolent, intending harm",
+          "note": "Use this when the evil specifically involves deliberate cruelty or a vicious intention to cause harm."
+        },
+        {
+          "id": "1xlt4k58",
+          "word": "ill",
+          "meaning": "evil or harmful",
+          "note": "Use this when the ill quality is specifically malicious, cruel, or poisonous in intent."
+        },
+        {
+          "id": "dy6qpdf5",
+          "word": "venomous",
+          "meaning": "spiteful, hateful",
+          "note": "Use this when emphasizing that someone’s words, attitude, or actions are hateful and malicious rather than merely sharp or unkind."
+        }
+      ],
       "examples": [
         {
           "english": "Their evil words were deliberately meant to hurt people; it was really over the top.",

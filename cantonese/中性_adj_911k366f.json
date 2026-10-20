@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "neither positive nor negative",
-      "english": ["neutral"],
+      "english": [
+        {
+          "id": "4cmuov2h",
+          "word": "neutral",
+          "meaning": "neither positive nor negative",
+          "note": "Use this for a rating, tone, category, or response that is neither positive nor negative."
+        }
+      ],
       "examples": [
         {
           "english": "This rating is neutral: it is neither good nor bad.",

@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "the centre",
-      "english": ["midst", "heart", "middle", "core", "nucleus"],
+      "english": [
+        {
+          "id": "r56c884t",
+          "word": "midst",
+          "meaning": "middle; central place",
+          "note": "Use this when the sense is specifically the central point or focal area of a place or arrangement."
+        },
+        {
+          "id": "h0luoth4",
+          "word": "heart",
+          "meaning": "centre or core",
+          "note": "Use this for the literal or organizational centre rather than the essential core of an issue."
+        },
+        {
+          "id": "ry6w0fpy",
+          "word": "middle",
+          "meaning": "center, midpoint",
+          "note": "Use this for the central point of a circle, place, or other object rather than a section between two ends."
+        },
+        {
+          "id": "vvxyn7j2",
+          "word": "core",
+          "meaning": "center of area",
+          "note": "Use 中心 for the physical centre of a space, shape, or area rather than its important idea."
+        },
+        {
+          "id": "aoqkam17",
+          "word": "nucleus",
+          "meaning": "central core",
+          "note": "Use this for the literal central part or point of something, rather than its organizing core."
+        }
+      ],
       "examples": [
         {
           "english": "A Christmas tree was placed in the midst of the square.",

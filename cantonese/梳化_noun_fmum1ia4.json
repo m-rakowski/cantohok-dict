@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "sofa",
-      "english": ["couch", "sofa"],
+      "english": [
+        {
+          "id": "kw1tb1t3",
+          "word": "couch",
+          "meaning": "sofa",
+          "register": "colloquial",
+          "note": "This is the all-purpose Hong Kong Cantonese word for a sofa or couch."
+        },
+        {
+          "id": "bpcprr0z",
+          "word": "sofa",
+          "meaning": "upholstered seat",
+          "register": "colloquial",
+          "note": "This is the all-purpose everyday word for an upholstered sofa."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

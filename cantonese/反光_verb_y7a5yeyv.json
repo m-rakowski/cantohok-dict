@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "reflect light",
-      "english": ["shine", "glint"],
+      "english": [
+        {
+          "id": "2qgopndv",
+          "word": "shine",
+          "meaning": "reflect light",
+          "note": "Use this specifically when a surface or object reflects light rather than producing it."
+        },
+        {
+          "id": "2vog6lyc",
+          "word": "glint",
+          "meaning": "flash or gleam briefly",
+          "note": "Use this when a shiny surface catches and reflects light, as with a ring or glass."
+        }
+      ],
       "examples": [
         {
           "english": "The glass reflects light so brightly that I can't see clearly, and everything seems to shine.",

@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "to say out loud, put into words",
-      "english": ["reveal", "articulate"],
+      "english": [
+        {
+          "id": "ai2hvn70",
+          "word": "reveal",
+          "meaning": "show / make visible",
+          "register": "colloquial",
+          "note": "Use this as the all-purpose spoken choice when revealing hidden information by telling it."
+        },
+        {
+          "id": "z11z81ic",
+          "word": "articulate",
+          "meaning": "explain/put into words",
+          "note": "Use this when someone succeeds or fails to put a thought, reason, or feeling into words."
+        }
+      ],
       "examples": [
         {
           "english": "They finally reveal that there is a problem with the contract.",

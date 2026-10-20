@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "by itself, on one's own",
-      "english": ["automatically", "independently"],
+      "english": [
+        {
+          "id": "sjfvttcj",
+          "word": "automatically",
+          "meaning": "in an automatic way",
+          "register": "colloquial",
+          "note": "Use this when something happens by itself, without another person making it happen."
+        },
+        {
+          "id": "qebvob8s",
+          "word": "independently",
+          "meaning": "without help",
+          "note": "This is the all-purpose choice for doing something independently or by oneself."
+        }
+      ],
       "examples": [
         {
           "english": "I didn't touch the switch, but the machine automatically turned on by itself.",

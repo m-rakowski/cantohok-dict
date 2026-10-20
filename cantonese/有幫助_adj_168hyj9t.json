@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "helpful",
-      "english": ["helpful", "beneficial"],
+      "english": [
+        {
+          "id": "bt8kbbm5",
+          "word": "helpful",
+          "meaning": "giving help; useful",
+          "note": "Use this when stressing that advice, information, or an action provides help, rather than merely being useful."
+        },
+        {
+          "id": "gwffusyg",
+          "word": "beneficial",
+          "meaning": "helpful; good for",
+          "register": "colloquial",
+          "note": "Choose this when beneficial means that something helps a person, task, or situation."
+        }
+      ],
       "examples": [
         {
           "english": "This information is very helpful for writing your report.",

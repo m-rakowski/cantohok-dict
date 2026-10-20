@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "trade",
-      "english": ["commerce", "trade"],
+      "english": [
+        {
+          "id": "6hrscf8f",
+          "word": "commerce",
+          "meaning": "trade, buying and selling",
+          "register": "formal",
+          "note": "Use this for organized or large-scale trade, especially trade between countries or regions."
+        },
+        {
+          "id": "eia9l6fd",
+          "word": "trade",
+          "meaning": "buying and selling",
+          "register": "formal",
+          "note": "Use this for organized or international trade and commerce, especially in formal or written contexts."
+        }
+      ],
       "register": "formal",
       "examples": [
         {

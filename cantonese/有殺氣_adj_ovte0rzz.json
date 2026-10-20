@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "menacing, murderous-looking",
-      "english": ["menacing", "threatening"],
+      "english": [
+        {
+          "id": "97h5nmzo",
+          "word": "menacing",
+          "meaning": "threatening, ominous",
+          "register": "colloquial",
+          "note": "Use this especially for a hostile, violent-looking person, expression, or atmosphere."
+        },
+        {
+          "id": "o0fi07uy",
+          "word": "threatening",
+          "meaning": "menacing, likely to harm",
+          "note": "Use this for someone or something that visibly feels menacing or gives off a murderous aura, rather than for explicit threats."
+        }
+      ],
       "examples": [
         {
           "english": "When he walked in, he looked really menacing.",

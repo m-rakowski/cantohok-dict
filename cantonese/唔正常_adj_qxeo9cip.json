@@ -6,7 +6,40 @@
   "boxes": [
     {
       "meaning": "not normal, abnormal",
-      "english": ["abnormal", "atypical", "deviant", "faulty", "disorderly"],
+      "english": [
+        {
+          "id": "smej6jey",
+          "word": "abnormal",
+          "meaning": "not normal; irregular",
+          "note": "This is the all-purpose choice for something that is not normal, including unusual behavior or a mental state."
+        },
+        {
+          "id": "eh85xxw7",
+          "word": "atypical",
+          "meaning": "not normal; unusual",
+          "note": "Use this all-purpose choice when something does not conform to what is considered normal, especially with a mildly negative implication."
+        },
+        {
+          "id": "mbyozr6l",
+          "word": "deviant",
+          "meaning": "deviating from norms",
+          "register": "colloquial",
+          "note": "This is the all-purpose casual choice for behaviour that deviates from expectations or social norms."
+        },
+        {
+          "id": "uv0wjy3x",
+          "word": "faulty",
+          "meaning": "defective; not working properly",
+          "note": "Use this when something is functioning or behaving abnormally rather than simply being broken."
+        },
+        {
+          "id": "ilga2x81",
+          "word": "disorderly",
+          "meaning": "not functioning normally",
+          "register": "colloquial",
+          "note": "Use this when a bodily or mental function is not operating normally, rather than when something is merely untidy."
+        }
+      ],
       "examples": [
         {
           "english": "This machine is abnormal.",

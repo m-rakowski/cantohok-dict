@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "sunset",
-      "english": ["sunset", "set", "setting"],
+      "english": [
+        {
+          "id": "pouwtyvk",
+          "word": "sunset",
+          "meaning": "sun goes down",
+          "note": "This is the all-purpose noun for the moment when the sun disappears below the horizon."
+        },
+        {
+          "id": "dkbu7pad",
+          "word": "set",
+          "meaning": "sunset, end of day",
+          "note": "Use this for the sun going down or, by extension, the close of the day."
+        },
+        {
+          "id": "jeq1wxtv",
+          "word": "setting",
+          "meaning": "act of setting",
+          "note": "Use this specifically for the setting of the sun rather than for setting or configuring an object."
+        }
+      ],
       "examples": [
         {
           "english": "The scenery by the sea is prettiest at sunset.",

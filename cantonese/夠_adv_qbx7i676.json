@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "enough, sufficiently",
-      "english": ["enough", "adequately", "sufficiently"],
+      "english": [
+        {
+          "id": "ydvi4nps",
+          "word": "enough",
+          "meaning": "sufficiently",
+          "note": "This is the all-purpose colloquial choice before an adjective or verb to mean sufficiently, as in 夠熟 or 夠食."
+        },
+        {
+          "id": "emygbvoa",
+          "word": "adequately",
+          "meaning": "sufficiently; satisfactorily",
+          "note": "This is the all-purpose colloquial choice for saying that something is sufficient to meet a need or requirement."
+        },
+        {
+          "id": "ju9wnfrg",
+          "word": "sufficiently",
+          "meaning": "enough; adequately",
+          "note": "Use this as the all-purpose spoken equivalent for saying that something is enough or adequate."
+        }
+      ],
       "examples": [
         {
           "english": "This portion of rice is enough to eat.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "number 1000",
-      "english": ["thousand"],
+      "english": [
+        {
+          "id": "yg1ig50m",
+          "word": "thousand",
+          "meaning": "number 1000",
+          "note": "This is the all-purpose form for the standalone number 1,000 and for ordinary counted amounts."
+        }
+      ],
       "examples": [
         {
           "english": "What is one thousand plus five hundred?",

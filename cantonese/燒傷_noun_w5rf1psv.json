@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "injury from heat",
-      "english": ["burn"],
+      "english": [
+        {
+          "id": "s240biqi",
+          "word": "burn",
+          "meaning": "injury from heat",
+          "note": "This is the all-purpose noun for an actual injury caused by heat, fire, or similar physical sources."
+        }
+      ],
       "examples": [
         {
           "english": "I got a burn on my hand from hot water.",

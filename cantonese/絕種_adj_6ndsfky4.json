@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "no living members",
-      "english": ["extinct"],
+      "english": [
+        {
+          "id": "n1b8aknx",
+          "word": "extinct",
+          "meaning": "no living members",
+          "note": "This is the all-purpose choice for an animal or plant species, or a group, with no living members."
+        }
+      ],
       "examples": [
         {
           "english": "This species of sea turtle is now extinct.",

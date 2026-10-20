@@ -6,7 +6,33 @@
   "boxes": [
     {
       "meaning": "surround, enclose",
-      "english": ["enclose", "surround", "circle", "round"],
+      "english": [
+        {
+          "id": "02vxvcz5",
+          "word": "enclose",
+          "meaning": "surround with fence/wall",
+          "note": "Use this as the all-purpose verb for surrounding land or an area with a wall, fence, or similar boundary."
+        },
+        {
+          "id": "gsrk88bo",
+          "word": "surround",
+          "meaning": "enclose, encircle",
+          "register": "colloquial",
+          "note": "Use this colloquial form when people or things physically close in around something, especially to keep it from getting away."
+        },
+        {
+          "id": "re1trksc",
+          "word": "circle",
+          "meaning": "surround",
+          "note": "Use this as the all-purpose spoken verb for surrounding or enclosing something."
+        },
+        {
+          "id": "2yh1pp2v",
+          "word": "round",
+          "meaning": "encircle, surround",
+          "note": "Use 圍住 when something encircles or surrounds something else."
+        }
+      ],
       "examples": [
         {
           "english": "Enclose the garden so the dogs cannot get out.",

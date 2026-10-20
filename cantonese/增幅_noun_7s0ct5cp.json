@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "amount of increase",
-      "english": ["amplification", "increase"],
+      "english": [
+        {
+          "id": "3mto8ohe",
+          "word": "amplification",
+          "meaning": "electrical amplification",
+          "register": "technical",
+          "note": "Use this for the amount of increase in an electrical quantity such as voltage, power, or current."
+        },
+        {
+          "id": "tm9x4xeg",
+          "word": "increase",
+          "meaning": "an increase; a rise",
+          "register": "formal",
+          "note": "Use this as the all-purpose noun for the amount or percentage of an increase."
+        }
+      ],
       "examples": [
         {
           "english": "The voltage amplification of this amplifier is not enough, so the sound cannot come through fully.",

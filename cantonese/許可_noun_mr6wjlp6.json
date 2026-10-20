@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "official permission",
-      "english": ["consent", "permission"],
+      "english": [
+        {
+          "id": "1q2sdvip",
+          "word": "consent",
+          "meaning": "agreement or permission",
+          "register": "formal",
+          "note": "Use this for formal permission or authorization, especially in official or written contexts."
+        },
+        {
+          "id": "jyhp5e7q",
+          "word": "permission",
+          "meaning": "authorisation / consent",
+          "register": "formal",
+          "note": "This is the all-purpose formal noun for authorisation or permission, especially in official contexts."
+        }
+      ],
       "register": "formal",
       "examples": [
         {

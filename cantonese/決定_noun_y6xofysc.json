@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "decision",
-      "english": ["decision", "resolution", "determination", "disposition"],
+      "english": [
+        {
+          "id": "e3jw71rt",
+          "word": "decision",
+          "meaning": "choice or judgement",
+          "note": "This is the all-purpose noun for an act or outcome of deciding, including an ordinary choice or judgment."
+        },
+        {
+          "id": "pr1y89yq",
+          "word": "resolution",
+          "meaning": "decision",
+          "note": "Use 決定 as the all-purpose choice for a firm personal or official decision."
+        },
+        {
+          "id": "xqr3bit4",
+          "word": "determination",
+          "meaning": "decision, conclusion",
+          "note": "Use this for an ordinary decision, conclusion, or resolution reached after consideration."
+        },
+        {
+          "id": "8zhf65vx",
+          "word": "disposition",
+          "meaning": "final decision; outcome",
+          "note": "Use this when the disposition means the final decision or settlement reached by a person or authority."
+        }
+      ],
       "examples": [
         {
           "english": "I finally made a decision.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "religious follower",
-      "english": ["devotee", "disciple"],
+      "english": [
+        {
+          "id": "g6bfex08",
+          "word": "devotee",
+          "meaning": "religious follower",
+          "note": "Use this for someone who believes in or follows a particular religion or god."
+        },
+        {
+          "id": "24thjz3j",
+          "word": "disciple",
+          "meaning": "follower, adherent",
+          "note": "Choose this when the follower is a believer or adherent in a religious context."
+        }
+      ],
       "examples": [
         {
           "english": "They are a devotee of Buddhism.",

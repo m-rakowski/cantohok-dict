@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "generously",
-      "english": ["generously", "magnanimously"],
+      "english": [
+        {
+          "id": "ld0afv41",
+          "word": "generously",
+          "meaning": "in a generous way",
+          "note": "Use this when you want to emphasize notably generous giving, especially in donations or financial support."
+        },
+        {
+          "id": "k6o7e463",
+          "word": "magnanimously",
+          "meaning": "in a generous way",
+          "note": "Use this when the generous action chiefly involves giving freely, especially money, resources, or help."
+        }
+      ],
       "examples": [
         {
           "english": "They generously donated a large sum of money to the charity.",

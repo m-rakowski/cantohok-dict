@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "unsuitable, not right for",
-      "english": ["improper", "unsuitable", "incorrect"],
+      "english": [
+        {
+          "id": "o0h0fvve",
+          "word": "improper",
+          "meaning": "inappropriate",
+          "note": "Use this as the all-purpose colloquial choice when something is unsuitable or simply wrong."
+        },
+        {
+          "id": "wamx7u0m",
+          "word": "unsuitable",
+          "meaning": "not suitable",
+          "note": "This is the all-purpose casual choice for something that is not suitable or not right."
+        },
+        {
+          "id": "qvnm6m8v",
+          "word": "incorrect",
+          "meaning": "wrong; not correct",
+          "note": "Use this when something is not right, suitable, or appropriate rather than simply factually false."
+        }
+      ],
       "examples": [
         {
           "english": "This outfit is improper for me to wear to work.",
@@ -27,7 +46,26 @@
     },
     {
       "meaning": "wrong, incorrect",
-      "english": ["inaccurate", "off", "bad"],
+      "english": [
+        {
+          "id": "ad26a24u",
+          "word": "inaccurate",
+          "meaning": "mistaken or incorrect",
+          "note": "Use this for an answer, claim, or detail that is simply incorrect rather than merely imprecise."
+        },
+        {
+          "id": "fq9a3rsi",
+          "word": "off",
+          "meaning": "wrong; not right",
+          "note": "Use this when something is wrong, inappropriate, or does not seem right."
+        },
+        {
+          "id": "og4d7mso",
+          "word": "bad",
+          "meaning": "incorrect; wrong",
+          "note": "Use 唔啱 when something is wrong, unsuitable, or inappropriate rather than merely generally bad."
+        }
+      ],
       "examples": [
         {
           "english": "Your answer is inaccurate; try again.",
@@ -48,7 +86,14 @@
     },
     {
       "meaning": "morally wrong, improper",
-      "english": ["wrong"],
+      "english": [
+        {
+          "id": "c0qafskl",
+          "word": "wrong",
+          "meaning": "morally bad; immoral",
+          "note": "Use 唔啱 when “wrong” means morally not right or inappropriate rather than factually incorrect."
+        }
+      ],
       "examples": [
         {
           "english": "Talking to elderly people like that is wrong.",

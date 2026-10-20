@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "patchy, covered in patches",
-      "english": ["mottled", "patchy"],
+      "english": [
+        {
+          "id": "ni4ye976",
+          "word": "mottled",
+          "meaning": "patchy/spotted coloring",
+          "register": "colloquial",
+          "note": "Use 一撻撻 as the all-purpose colloquial choice for irregular patches or spots of colour."
+        },
+        {
+          "id": "v6r7cpjw",
+          "word": "patchy",
+          "meaning": "covered with patches",
+          "note": "Use this when something is visibly covered in separate patches or blotches."
+        }
+      ],
       "examples": [
         {
           "english": "The wall is mottled and looks really dirty.",

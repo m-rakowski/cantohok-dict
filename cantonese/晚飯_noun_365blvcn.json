@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "dinner, evening meal",
-      "english": ["dinner", "supper", "tea"],
+      "english": [
+        {
+          "id": "g3dyq77t",
+          "word": "dinner",
+          "meaning": "main meal of the day",
+          "note": "This is the all-purpose choice for an evening dinner, including when that evening meal is the main meal of the day."
+        },
+        {
+          "id": "22ot0f9t",
+          "word": "supper",
+          "meaning": "evening meal",
+          "note": "Use this as the all-purpose term for an ordinary evening meal."
+        },
+        {
+          "id": "zwmfwquw",
+          "word": "tea",
+          "meaning": "supper / evening meal",
+          "note": "Use this when English tea means the main evening meal rather than the drink."
+        }
+      ],
       "examples": [
         {
           "english": "What should we have for dinner?",

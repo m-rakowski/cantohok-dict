@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "magic power; a strong, mysterious pull or charm",
-      "english": ["spell", "magic"],
+      "english": [
+        {
+          "id": "smgpd7uy",
+          "word": "spell",
+          "meaning": "magical influence",
+          "note": "Use this when the emphasis is on the magical power or influence rather than the specific enchantment."
+        },
+        {
+          "id": "c3y1svz3",
+          "word": "magic",
+          "meaning": "supernatural power",
+          "note": "Use this when “magic” means supernatural power or a mysterious force that produces an effect or attraction."
+        }
+      ],
       "examples": [
         {
           "english": "This necklace has so much spell power that I can fly after putting it on.",

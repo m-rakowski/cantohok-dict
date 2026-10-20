@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "delay",
-      "english": ["delay", "wait"],
+      "english": [
+        {
+          "id": "0txlinps",
+          "word": "delay",
+          "meaning": "noun: postponement",
+          "note": "This is the all-purpose noun for an unwanted delay holding up a scheduled event, service, or activity."
+        },
+        {
+          "id": "mrqu05th",
+          "word": "wait",
+          "meaning": "a delay; a wait",
+          "note": "Use this when the wait is a delay to a service, journey, event, or schedule rather than simply time spent waiting."
+        }
+      ],
       "examples": [
         {
           "english": "The flight had a delay because of heavy rain.",

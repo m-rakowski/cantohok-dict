@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "westward",
-      "english": ["west", "westward"],
+      "english": [
+        {
+          "id": "5h7uwldb",
+          "word": "west",
+          "meaning": "toward the west",
+          "note": "This is the all-purpose spoken Cantonese phrase for movement towards the west."
+        },
+        {
+          "id": "ct9y2ldo",
+          "word": "westward",
+          "meaning": "toward the west",
+          "note": "This is the all-purpose way to express movement or orientation toward the west."
+        }
+      ],
       "examples": [
         {
           "english": "Walk west from here for five minutes and you’ll reach the MTR station.",

@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "holiday, time off",
-      "english": ["holiday", "vacation", "recess"],
+      "english": [
+        {
+          "id": "kfbxlw7e",
+          "word": "holiday",
+          "meaning": "time off work",
+          "note": "Use 假期 as the all-purpose noun for time off, including a school break when no school-specific wording is needed."
+        },
+        {
+          "id": "lqhb5o0o",
+          "word": "vacation",
+          "meaning": "time off",
+          "note": "This is the all-purpose choice for a period away from work or school, including an official break."
+        },
+        {
+          "id": "730phcu3",
+          "word": "recess",
+          "meaning": "break, pause",
+          "note": "Use this when the recess is an official school or institutional holiday rather than a short break during an activity."
+        }
+      ],
       "examples": [
         {
           "english": "We have a whole month of holiday in the summer, so we can travel.",

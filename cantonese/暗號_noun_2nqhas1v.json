@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "secret signal or password agreed in advance",
-      "english": ["signal", "password"],
+      "english": [
+        {
+          "id": "nfqlk5w4",
+          "word": "signal",
+          "meaning": "sign or cue",
+          "note": "Use this for a prearranged or secret signal used to give a command or coordinate an action."
+        },
+        {
+          "id": "hquas5hs",
+          "word": "password",
+          "meaning": "access word or code",
+          "note": "Use this for a secret code or spoken password used to identify people or gain entry, rather than a normal login password."
+        }
+      ],
       "examples": [
         {
           "english": "They agreed to give the signal when they saw three people.",

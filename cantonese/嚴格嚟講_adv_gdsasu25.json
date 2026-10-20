@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "strictly speaking, technically",
-      "english": ["technically", "strictly"],
+      "english": [
+        {
+          "id": "npxxb38q",
+          "word": "technically",
+          "meaning": "strictly speaking",
+          "note": "This is the all-purpose choice for correcting a loose description with a precise fact."
+        },
+        {
+          "id": "9utd4qj9",
+          "word": "strictly",
+          "meaning": "in a narrow sense",
+          "note": "Use this when narrowing a statement to its precise or technical sense, especially before an explanation."
+        }
+      ],
       "examples": [
         {
           "english": "Technically, fish ball noodles do not count as soup noodles.",

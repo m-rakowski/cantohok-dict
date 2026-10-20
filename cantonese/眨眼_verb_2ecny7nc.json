@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "blink",
-      "english": ["blink", "bat"],
+      "english": [
+        {
+          "id": "2m0ju0bs",
+          "word": "blink",
+          "meaning": "close eyes quickly",
+          "note": "This is the all-purpose choice for physically closing and reopening your eyes quickly."
+        },
+        {
+          "id": "6efrnn34",
+          "word": "bat",
+          "meaning": "flutter eyelashes",
+          "note": "Use this for blinking or fluttering the eyelashes, especially in the phrase 眨眼."
+        }
+      ],
       "examples": [
         {
           "english": "I blink whenever I get nervous.",

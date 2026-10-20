@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "living, not dead",
-      "english": ["live"],
+      "english": [
+        {
+          "id": "zunatanq",
+          "word": "live",
+          "meaning": "living, not dead",
+          "note": "This is the all-purpose choice for something alive, including a biologically viable virus or vaccine."
+        }
+      ],
       "examples": [
         {
           "english": "This vaccine is live, so it has to go in the fridge.",

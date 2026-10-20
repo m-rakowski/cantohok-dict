@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "girl, young woman",
-      "english": ["girl", "female", "bird"],
+      "english": [
+        {
+          "id": "wdl0salj",
+          "word": "girl",
+          "meaning": "female child",
+          "note": "This is the all-purpose colloquial word for a girl or young woman."
+        },
+        {
+          "id": "er9kvsbm",
+          "word": "female",
+          "meaning": "female person",
+          "note": "This is the all-purpose colloquial choice for a female person, especially a girl or young woman."
+        },
+        {
+          "id": "pbnusn3y",
+          "word": "bird",
+          "meaning": "girl/woman",
+          "register": "colloquial",
+          "note": "Use this for a girl or woman in a neutral way, when the attractive implication is weak or absent."
+        }
+      ],
       "examples": [
         {
           "english": "That girl is really funny.",

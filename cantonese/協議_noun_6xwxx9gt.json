@@ -6,7 +6,28 @@
   "boxes": [
     {
       "meaning": "agreement",
-      "english": ["agreement", "treaty", "arrangement"],
+      "english": [
+        {
+          "id": "gzznin49",
+          "word": "agreement",
+          "meaning": "mutual understanding",
+          "note": "Use 協議 as the all-purpose noun for an arrangement that parties have agreed to follow."
+        },
+        {
+          "id": "t1rjibtp",
+          "word": "treaty",
+          "meaning": "formal international agreement",
+          "register": "formal",
+          "note": "Use this when the agreement is being presented as the result of negotiation and may be less specifically a binding treaty."
+        },
+        {
+          "id": "m3vi4b7y",
+          "word": "arrangement",
+          "meaning": "agreement, deal",
+          "register": "formal",
+          "note": "Use this for a negotiated agreement or deal rather than a plan or physical layout."
+        }
+      ],
       "examples": [
         {
           "english": "We have signed an agreement to work together.",

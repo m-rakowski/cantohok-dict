@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "model, replica",
-      "english": ["model", "replica"],
+      "english": [
+        {
+          "id": "7n2spyly",
+          "word": "model",
+          "meaning": "physical replica",
+          "note": "Use 模型 as the all-purpose noun for a physical replica or a computer/statistical simulation."
+        },
+        {
+          "id": "m7a8jveb",
+          "word": "replica",
+          "meaning": "scale model copy",
+          "note": "Use this for a smaller-scale model of the original, such as a model car or building."
+        }
+      ],
       "examples": [
         {
           "english": "This model was made based on a real bridge.",

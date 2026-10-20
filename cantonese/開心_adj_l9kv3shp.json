@@ -6,7 +6,64 @@
   "boxes": [
     {
       "meaning": "happy, having a good time",
-      "english": ["happy", "glad", "merry", "pleased", "cheerful", "pleasant", "enjoyable", "pleasurable", "bright"],
+      "english": [
+        {
+          "id": "ynkzehny",
+          "word": "happy",
+          "meaning": "feeling joy/contentment",
+          "note": "This is the all-purpose colloquial choice for feeling happy or enjoying oneself."
+        },
+        {
+          "id": "wk9n8iex",
+          "word": "glad",
+          "meaning": "pleased, happy",
+          "note": "This is the all-purpose colloquial choice for feeling pleased or happy."
+        },
+        {
+          "id": "tlnjwer8",
+          "word": "merry",
+          "meaning": "happy, jolly",
+          "note": "This is the all-purpose choice for people who are happy, jolly, or in high spirits."
+        },
+        {
+          "id": "tmbgkmoh",
+          "word": "pleased",
+          "meaning": "happy, content",
+          "note": "This is the all-purpose spoken choice for feeling happy or pleased."
+        },
+        {
+          "id": "13v3pg8g",
+          "word": "cheerful",
+          "meaning": "happy, optimistic",
+          "note": "This is the all-purpose choice for someone who is noticeably happy and cheerful."
+        },
+        {
+          "id": "p7s6frm1",
+          "word": "pleasant",
+          "meaning": "giving pleasure; nice",
+          "register": "colloquial",
+          "note": "Use this when the pleasant experience mainly makes someone feel happy or cheerful."
+        },
+        {
+          "id": "ejiyywob",
+          "word": "enjoyable",
+          "meaning": "pleasant; gives pleasure",
+          "note": "Use this when the focus is on the happiness or good feelings the experience gives someone."
+        },
+        {
+          "id": "a6h4hn26",
+          "word": "pleasurable",
+          "meaning": "giving pleasure",
+          "note": "Choose this when the pleasurable thing mainly makes someone feel happy or is enjoyable as an activity."
+        },
+        {
+          "id": "7o4cwm0j",
+          "word": "bright",
+          "meaning": "feeling cheerful",
+          "register": "colloquial",
+          "note": "Use this for someone who feels happy or whose expression looks happy, such as when saying that someone looks cheerful."
+        }
+      ],
       "examples": [
         {
           "english": "I'm really happy today.",

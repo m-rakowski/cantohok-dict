@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "administrative district",
-      "english": ["district", "region"],
+      "english": [
+        {
+          "id": "tabd8yzv",
+          "word": "district",
+          "meaning": "administrative area",
+          "register": "formal",
+          "note": "Use this when you need to emphasize that the district is an official administrative division."
+        },
+        {
+          "id": "1oi2jcsu",
+          "word": "region",
+          "meaning": "administrative region",
+          "note": "Choose this instead of the broader 地區 when the region is explicitly an official administrative subdivision."
+        }
+      ],
       "examples": [
         {
           "english": "This district is an official administrative division in Hong Kong.",

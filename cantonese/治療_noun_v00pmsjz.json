@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "medical treatment",
-      "english": ["treatment", "cure", "remedy", "therapy", "medicine"],
+      "english": [
+        {
+          "id": "xpjxfhhn",
+          "word": "treatment",
+          "meaning": "medical care",
+          "note": "Use this as the all-purpose noun for medical treatment of an illness or injury."
+        },
+        {
+          "id": "61es52rj",
+          "word": "cure",
+          "meaning": "medical cure",
+          "note": "Use this as the all-purpose noun for medical treatment intended to cure an illness."
+        },
+        {
+          "id": "mislncdt",
+          "word": "remedy",
+          "meaning": "medicine; treatment",
+          "note": "Use this when “remedy” means the treatment or course of care rather than the medicine itself."
+        },
+        {
+          "id": "vdx7ewqs",
+          "word": "therapy",
+          "meaning": "medical treatment",
+          "note": "This is the all-purpose noun for treatment, including psychotherapy when the context makes the type clear."
+        },
+        {
+          "id": "c7a0klri",
+          "word": "medicine",
+          "meaning": "treatment or cure",
+          "note": "Use this for a treatment or cure rather than for the drug itself."
+        }
+      ],
       "examples": [
         {
           "english": "My leg is injured and needs treatment.",

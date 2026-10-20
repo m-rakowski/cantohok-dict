@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "to make up after a quarrel",
-      "english": ["resolve", "heal"],
+      "english": [
+        {
+          "id": "soqwh0pn",
+          "word": "resolve",
+          "meaning": "settle differences",
+          "note": "Use this specifically when people repair a relationship and make peace after falling out."
+        },
+        {
+          "id": "4c32c7yx",
+          "word": "heal",
+          "meaning": "mend a relationship",
+          "note": "Use this when people reconcile and become friendly again after a disagreement."
+        }
+      ],
       "examples": [
         {
           "english": "They finally resolve their differences after their argument.",

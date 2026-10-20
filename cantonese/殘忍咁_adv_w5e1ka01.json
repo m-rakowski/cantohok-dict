@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "cruelly, mercilessly",
-      "english": ["gruesomely", "viciously"],
+      "english": [
+        {
+          "id": "2kkvzc82",
+          "word": "gruesomely",
+          "meaning": "in a gruesome manner",
+          "note": "Use this when the gruesome manner specifically emphasizes cruelty or merciless treatment."
+        },
+        {
+          "id": "x5vqzse7",
+          "word": "viciously",
+          "meaning": "ferociously; cruelly",
+          "note": "Use this when the emphasis is on cruelty toward someone or something."
+        }
+      ],
       "examples": [
         {
           "english": "They treated the prisoners gruesomely, and it was hard to watch.",

@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "shy, easily embarrassed",
-      "english": ["shy", "withdrawn", "timid", "self-conscious"],
+      "english": [
+        {
+          "id": "goic1fvi",
+          "word": "shy",
+          "meaning": "reserved with strangers",
+          "note": "Use this as the all-purpose choice for being socially shy or reserved, especially around unfamiliar people."
+        },
+        {
+          "id": "m3ctz6gh",
+          "word": "withdrawn",
+          "meaning": "introverted, shy",
+          "note": "Use this when the person's withdrawn behavior is specifically due to shyness or embarrassment."
+        },
+        {
+          "id": "fzzd1457",
+          "word": "timid",
+          "meaning": "lacking courage or confidence",
+          "note": "Use this when the timidity is mainly shyness or self-consciousness around other people."
+        },
+        {
+          "id": "f1m2k1hq",
+          "word": "self-conscious",
+          "meaning": "awkward and ill at ease",
+          "note": "Use this when the self-consciousness specifically feels like shyness or embarrassment in front of other people."
+        }
+      ],
       "examples": [
         {
           "english": "I get shy whenever I see strangers.",

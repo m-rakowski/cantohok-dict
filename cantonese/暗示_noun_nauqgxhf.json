@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "hint",
-      "english": ["allusion", "hint", "suggestion"],
+      "english": [
+        {
+          "id": "2diso9ok",
+          "word": "allusion",
+          "meaning": "indirect reference; hint",
+          "note": "Use 暗示 as the all-purpose noun for an indirect hint or reference."
+        },
+        {
+          "id": "9g6riuzq",
+          "word": "hint",
+          "meaning": "suggestion",
+          "note": "Use this when the message is conveyed indirectly rather than stated openly."
+        },
+        {
+          "id": "thiqbkhx",
+          "word": "suggestion",
+          "meaning": "implied idea",
+          "note": "Use this for an implied suggestion or hint that leads someone to infer an idea."
+        }
+      ],
       "examples": [
         {
           "english": "He said the ticket was too expensive; that was actually an allusion telling us not to go.",

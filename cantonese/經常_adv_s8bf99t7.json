@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "often",
-      "english": ["frequently", "often"],
+      "english": [
+        {
+          "id": "8pgyngeu",
+          "word": "frequently",
+          "meaning": "often",
+          "note": "Choose this for a more neutral or formal statement about something happening frequently."
+        },
+        {
+          "id": "ndifx672",
+          "word": "often",
+          "meaning": "frequently; many times",
+          "register": "formal",
+          "note": "Use this more formal choice in writing or careful speech for regular frequent occurrences."
+        }
+      ],
       "examples": [
         {
           "english": "The company frequently arranges training for employees.",

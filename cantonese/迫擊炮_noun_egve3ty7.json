@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "mortar weapon",
-      "english": ["mortar"],
+      "english": [
+        {
+          "id": "bc6915cm",
+          "word": "mortar",
+          "meaning": "mortar weapon",
+          "note": "Use this for the portable indirect-fire weapon, rather than for building material or a grinding vessel."
+        }
+      ],
       "examples": [
         {
           "english": "They suddenly heard mortar fire from the hill and hit the deck.",

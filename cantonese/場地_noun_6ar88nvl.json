@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "venue, site, place used for an activity",
-      "english": ["venue", "premises", "yard"],
+      "english": [
+        {
+          "id": "v9k207sq",
+          "word": "venue",
+          "meaning": "event location",
+          "note": "This is the all-purpose choice for an event venue, and for the physical site where an activity takes place."
+        },
+        {
+          "id": "ltf2kkae",
+          "word": "premises",
+          "meaning": "building site, property",
+          "note": "Use this when focusing on the site or area being used for an activity, event, or business."
+        },
+        {
+          "id": "pvus5qda",
+          "word": "yard",
+          "meaning": "enclosed work yard",
+          "note": "Use 場地 for a designated outdoor work area or yard rather than a residential courtyard."
+        }
+      ],
       "examples": [
         {
           "english": "We’ve already booked the venue for the wedding.",

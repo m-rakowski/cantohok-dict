@@ -6,7 +6,44 @@
   "boxes": [
     {
       "meaning": "appear, show up",
-      "english": ["appear", "arise", "emerge", "occur", "come", "show"],
+      "english": [
+        {
+          "id": "m7fy0tmc",
+          "word": "appear",
+          "meaning": "become visible",
+          "note": "This is the all-purpose choice for something becoming visible or simply showing up."
+        },
+        {
+          "id": "grz61fow",
+          "word": "arise",
+          "meaning": "come up; occur",
+          "note": "Use 出現 as the usual choice when something comes into view, notice, or existence, such as a cloud or a problem."
+        },
+        {
+          "id": "alavphg9",
+          "word": "emerge",
+          "meaning": "come into view",
+          "note": "This is the all-purpose choice when something comes into view or appears."
+        },
+        {
+          "id": "nzp8sg2b",
+          "word": "occur",
+          "meaning": "present itself",
+          "note": "Use this when an opportunity, possibility, or other option presents itself."
+        },
+        {
+          "id": "tbywhyox",
+          "word": "come",
+          "meaning": "appear; emerge",
+          "note": "Use 出現 when something manifests or emerges rather than physically coming."
+        },
+        {
+          "id": "37jj4ygi",
+          "word": "show",
+          "meaning": "be visible, appear",
+          "note": "Use this for something becoming visible, appearing on a screen, or turning up at a place."
+        }
+      ],
       "examples": [
         {
           "english": "They suddenly appear at the door.",

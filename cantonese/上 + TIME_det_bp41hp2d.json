@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "immediately previous",
-      "english": ["last"],
+      "english": [
+        {
+          "id": "wx5siwxt",
+          "word": "last",
+          "meaning": "immediately previous",
+          "note": "This is the all-purpose calendar-time pattern, as in 上年, 上個月, or 上個星期二; 個 is included where natural."
+        }
+      ],
       "examples": [
         {
           "english": "I last saw him on Tuesday.",

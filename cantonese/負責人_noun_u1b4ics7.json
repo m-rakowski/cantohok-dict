@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "person in charge",
-      "english": ["monitor", "lead", "director"],
+      "english": [
+        {
+          "id": "emqu1agh",
+          "word": "monitor",
+          "meaning": "supervisor / person in charge",
+          "note": "Use this for the person responsible for a group, activity, or place."
+        },
+        {
+          "id": "0tfsg5fd",
+          "word": "lead",
+          "meaning": "person in charge",
+          "note": "Use this for the person responsible for a project, team, or work shift."
+        },
+        {
+          "id": "nxljo5tk",
+          "word": "director",
+          "meaning": "person in charge",
+          "note": "This is the all-purpose choice when the person in charge has no more specific title."
+        }
+      ],
       "examples": [
         {
           "english": "The monitor in charge of this event hasn't arrived.",

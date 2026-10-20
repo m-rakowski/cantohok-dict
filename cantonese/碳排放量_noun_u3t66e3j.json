@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "amount of CO2 produced",
-      "english": ["carbon footprint"],
+      "english": [
+        {
+          "id": "icuagpym",
+          "word": "carbon footprint",
+          "meaning": "amount of CO2 produced",
+          "note": "Use this when you want to stress the measurable amount of carbon dioxide emitted rather than the broader footprint label."
+        }
+      ],
       "examples": [
         {
           "english": "This factory’s carbon footprint was twenty percent lower last year than the year before.",

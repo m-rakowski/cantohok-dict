@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "to calculate",
-      "english": ["calculate", "quantify", "evaluate"],
+      "english": [
+        {
+          "id": "zr81pm3l",
+          "word": "calculate",
+          "meaning": "do math",
+          "note": "Use this for more explicit or technical references to calculating a value mathematically."
+        },
+        {
+          "id": "ftkjzwdp",
+          "word": "quantify",
+          "meaning": "determine value",
+          "note": "This is the all-purpose choice when working out the value of a variable or expression."
+        },
+        {
+          "id": "ukaq2qdk",
+          "word": "evaluate",
+          "meaning": "compute value (math)",
+          "note": "Use this for working out the numerical value of a mathematical expression, integral, or similar quantity rather than judging its quality."
+        }
+      ],
       "examples": [
         {
           "english": "The computer will calculate this sum.",

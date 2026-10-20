@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "imply, mean that",
-      "english": ["connote", "imply", "involve"],
+      "english": [
+        {
+          "id": "sfzqjjnq",
+          "word": "connote",
+          "meaning": "imply or suggest",
+          "note": "Use 意味住 as the all-purpose choice when one thing signifies or logically implies another."
+        },
+        {
+          "id": "5b9r2o37",
+          "word": "imply",
+          "meaning": "logically entail",
+          "register": "written",
+          "note": "Use this for a fact or statement that entails or carries another consequence, especially in explanations."
+        },
+        {
+          "id": "2zii4isi",
+          "word": "involve",
+          "meaning": "entail; imply",
+          "note": "Use this when one fact or consequence logically or naturally implies another."
+        }
+      ],
       "examples": [
         {
           "english": "The way they put it can connote that the matter is not over yet.",

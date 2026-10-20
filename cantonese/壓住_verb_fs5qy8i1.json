@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "hold down",
-      "english": ["pin", "pressurize"],
+      "english": [
+        {
+          "id": "0j5c3uc8",
+          "word": "pin",
+          "meaning": "pin down; hold",
+          "note": "Use this for physically holding someone down, especially in a fight or on a mat."
+        },
+        {
+          "id": "ekit4y4b",
+          "word": "pressurize",
+          "meaning": "put under pressure",
+          "note": "Use this for physically pressing or holding something down rather than pressurizing someone figuratively."
+        }
+      ],
       "examples": [
         {
           "english": "In the fight, I pin him to the ground in one move.",
@@ -22,7 +35,14 @@
     },
     {
       "meaning": "hold back, suppress",
-      "english": ["repress"],
+      "english": [
+        {
+          "id": "6neuoix5",
+          "word": "repress",
+          "meaning": "restrain, hold back",
+          "note": "This is the all-purpose colloquial choice for keeping something, such as an emotion or situation, from advancing or coming out."
+        }
+      ],
       "examples": [
         {
           "english": "I firmly repress the anger inside me.",

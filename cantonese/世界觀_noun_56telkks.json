@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "worldview, outlook",
-      "english": ["worldview", "universe"],
+      "english": [
+        {
+          "id": "62qgv6v2",
+          "word": "worldview",
+          "meaning": "view of the world",
+          "note": "This is the all-purpose choice for a person's, group's, or society's overall outlook on the world and reality."
+        },
+        {
+          "id": "d3c0odlp",
+          "word": "universe",
+          "meaning": "one’s world / perspective",
+          "note": "Use this specifically for someone’s worldview or perspective."
+        }
+      ],
       "examples": [
         {
           "english": "The worldview of our two generations is so different that we are always arguing about technology and social issues.",

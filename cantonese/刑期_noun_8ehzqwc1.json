@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "punishment term",
-      "english": ["sentence"],
+      "english": [
+        {
+          "id": "yochlblp",
+          "word": "sentence",
+          "meaning": "punishment term",
+          "note": "Use this when the sentence means the length of a prison term or other custodial term."
+        }
+      ],
       "examples": [
         {
           "english": "They still have six months left on their sentence before they are released.",

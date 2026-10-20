@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "change, alteration",
-      "english": ["edit", "modification", "adjustment"],
+      "english": [
+        {
+          "id": "48yllbb5",
+          "word": "edit",
+          "meaning": "revise text",
+          "note": "Use this as the all-purpose noun for a change made to text, a file, a website, or code."
+        },
+        {
+          "id": "z2v0hhhh",
+          "word": "modification",
+          "meaning": "change / adjustment",
+          "note": "This is the all-purpose choice for a concrete change or alteration, including the resulting changed form."
+        },
+        {
+          "id": "teiuzgie",
+          "word": "adjustment",
+          "meaning": "small change, correction",
+          "note": "Use this for the resulting small alteration or correction rather than for the adjustment process itself."
+        }
+      ],
       "examples": [
         {
           "english": "This document still needs one edit.",

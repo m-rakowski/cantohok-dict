@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "hope, prospect",
-      "english": ["hope", "wish", "expectation"],
+      "english": [
+        {
+          "id": "mewb4xff",
+          "word": "hope",
+          "meaning": "feeling of hope",
+          "note": "This is the all-purpose noun for the feeling that something desired may happen."
+        },
+        {
+          "id": "sb08dngj",
+          "word": "wish",
+          "meaning": "desire; hope",
+          "note": "Use this when the wish is chiefly a hope or expectation that something will happen."
+        },
+        {
+          "id": "cmadj9jp",
+          "word": "expectation",
+          "meaning": "prospect; future hope",
+          "note": "Use this for the future-hope or prospect sense, especially when something good may happen."
+        }
+      ],
       "examples": [
         {
           "english": "We lost the first match, but we still have hope of qualifying.",

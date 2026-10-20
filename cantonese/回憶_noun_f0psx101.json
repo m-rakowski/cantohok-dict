@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "memory, recollection",
-      "english": ["remembrance", "recollection", "retrospection"],
+      "english": [
+        {
+          "id": "gsorg2i5",
+          "word": "remembrance",
+          "meaning": "the act of remembering",
+          "note": "This is the all-purpose noun for a particular memory or a person, event, or thing remembered."
+        },
+        {
+          "id": "dgngk8t0",
+          "word": "recollection",
+          "meaning": "remembering; recalling",
+          "note": "Use this for the act of recalling or a remembered event or experience; it is the all-purpose choice for these senses."
+        },
+        {
+          "id": "io8xfdch",
+          "word": "retrospection",
+          "meaning": "deliberate recall of the past",
+          "note": "Use this everyday noun when the focus is on recalling past experiences or memories."
+        }
+      ],
       "examples": [
         {
           "english": "This photo brings back that remembrance.",

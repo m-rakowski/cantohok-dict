@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "go through, experience",
-      "english": ["undergo", "experience", "have"],
+      "english": [
+        {
+          "id": "o2wtlkf6",
+          "word": "undergo",
+          "meaning": "experience; go through",
+          "note": "Use this as the all-purpose verb for personally experiencing or going through an event or phase."
+        },
+        {
+          "id": "dmoadb3m",
+          "word": "experience",
+          "meaning": "to experience, undergo",
+          "note": "This is the all-purpose choice for undergoing events, periods, or difficult processes."
+        },
+        {
+          "id": "zo1dy0bg",
+          "word": "have",
+          "meaning": "experience, undergo",
+          "note": "Use this when someone experiences or goes through an event or period."
+        }
+      ],
       "examples": [
         {
           "english": "I had to undergo a very difficult phase in my life.",

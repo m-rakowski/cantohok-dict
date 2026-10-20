@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "to make public",
-      "english": ["expose", "uncover"],
+      "english": [
+        {
+          "id": "edfmetb2",
+          "word": "expose",
+          "meaning": "reveal; uncover",
+          "note": "Choose this when the point is to make information, a secret, or a fact public rather than physically uncovering it."
+        },
+        {
+          "id": "v2v5jqd3",
+          "word": "uncover",
+          "meaning": "reveal, disclose",
+          "note": "Use this when the emphasis is on making information openly available rather than discovering it."
+        }
+      ],
       "examples": [
         {
           "english": "They plan to expose this scandal.",

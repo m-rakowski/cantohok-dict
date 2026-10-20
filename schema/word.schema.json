@@ -32,6 +32,7 @@
   "$id": "https://cantohok-dict/schema/word.schema.json",
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "additionalProperties": false,
+  "description": "Legacy: words/<letter>/<word>.json files are kept for reference only and no longer edited. Edit the page files in cantonese/ (page.schema.json). See words/README.md.",
   "properties": {
     "term": { "$ref": "#/$defs/nonEmptyString" },
     "rows": {

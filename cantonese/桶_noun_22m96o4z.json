@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "barrel, drum",
-      "english": ["barrel", "drum"],
+      "english": [
+        {
+          "id": "8bm4prfs",
+          "word": "barrel",
+          "meaning": "wooden cask",
+          "note": "This is the all-purpose choice for an ordinary barrel or for the amount it holds, as in 一桶; it does not specify the historical tun-based measurement."
+        },
+        {
+          "id": "0yi1vb2u",
+          "word": "drum",
+          "meaning": "barrel container",
+          "note": "Use this for a barrel or large cylindrical container holding liquids."
+        }
+      ],
       "examples": [
         {
           "english": "This wooden barrel is leaking.",

@@ -6,7 +6,29 @@
   "boxes": [
     {
       "meaning": "medium, channel",
-      "english": ["conduit", "medium", "vehicle"],
+      "english": [
+        {
+          "id": "tgklm5di",
+          "word": "conduit",
+          "meaning": "means of transmission",
+          "register": "formal",
+          "note": "Use this for a person or thing that serves as the means through which a message or influence is transmitted."
+        },
+        {
+          "id": "oipzhzbh",
+          "word": "medium",
+          "meaning": "means; channel",
+          "register": "written",
+          "note": "Use 媒介 for a communication go-between or, especially in arts writing, the material or method used for expression."
+        },
+        {
+          "id": "uzk0k4zm",
+          "word": "vehicle",
+          "meaning": "medium for expression",
+          "register": "formal",
+          "note": "Use 媒介 for a medium or channel through which talent or views are expressed."
+        }
+      ],
       "examples": [
         {
           "english": "Social media platforms have become an important conduit for spreading news.",

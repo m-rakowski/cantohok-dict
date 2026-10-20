@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "rumor, hint of news",
-      "english": ["whisper", "buzz", "wind"],
+      "english": [
+        {
+          "id": "wv23ldmn",
+          "word": "whisper",
+          "meaning": "rumor; whispers",
+          "note": "Use 風聲 for a rumor or indications that something may be happening."
+        },
+        {
+          "id": "bksbietp",
+          "word": "buzz",
+          "meaning": "rumor / talk",
+          "note": "Choose this when the buzz is a rumour or information circulating behind the scenes rather than simply a hot topic."
+        },
+        {
+          "id": "j1ntgyaw",
+          "word": "wind",
+          "meaning": "news by gossip",
+          "note": "Use this for news or a rumour heard indirectly, as in catching wind of something."
+        }
+      ],
       "examples": [
         {
           "english": "There has been a whisper lately that the company may lay people off.",

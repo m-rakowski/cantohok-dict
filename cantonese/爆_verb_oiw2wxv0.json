@@ -6,7 +6,28 @@
   "boxes": [
     {
       "meaning": "burst, split open",
-      "english": ["burst", "bust", "blow"],
+      "english": [
+        {
+          "id": "vrlrlne5",
+          "word": "burst",
+          "meaning": "break from pressure",
+          "note": "This is the all-purpose choice when something breaks open from internal pressure."
+        },
+        {
+          "id": "68jpe9ql",
+          "word": "bust",
+          "meaning": "break, damage",
+          "register": "colloquial",
+          "note": "Use 爆 for something that cracks, splits, or bursts open, especially under pressure or from heat."
+        },
+        {
+          "id": "8is05y7z",
+          "word": "blow",
+          "meaning": "explode suddenly",
+          "register": "colloquial",
+          "note": "Use this for something bursting, blowing a tire or engine, or suddenly failing, rather than for a deliberate explosion."
+        }
+      ],
       "examples": [
         {
           "english": "The balloon burst on its own.",

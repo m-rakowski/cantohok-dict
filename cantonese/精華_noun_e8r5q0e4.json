@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "best part, essence",
-      "english": ["goodness", "cream"],
+      "english": [
+        {
+          "id": "b3cxakgp",
+          "word": "goodness",
+          "meaning": "nutritious part",
+          "note": "Use this for the nutritious, beneficial, or best part extracted from food or another substance."
+        },
+        {
+          "id": "v4mpwqdg",
+          "word": "cream",
+          "meaning": "best part; elite",
+          "note": "Use this for the best or most valuable part of something, especially a non-human thing."
+        }
+      ],
       "examples": [
         {
           "english": "This propolis extract is packed with goodness for your throat.",

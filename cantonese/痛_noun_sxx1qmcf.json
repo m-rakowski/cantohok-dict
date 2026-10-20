@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "pain, ache",
-      "english": ["pain", "ache"],
+      "english": [
+        {
+          "id": "eqhn3azd",
+          "word": "pain",
+          "meaning": "physical pain, ache",
+          "note": "For bodily pain or an ache, this is the all-purpose Cantonese noun."
+        },
+        {
+          "id": "jd0hp5fd",
+          "word": "ache",
+          "meaning": "dull pain; ache",
+          "note": "This is the all-purpose spoken choice for a continuing minor pain or ache."
+        }
+      ],
       "examples": [
         {
           "english": "My leg still has some pain.",

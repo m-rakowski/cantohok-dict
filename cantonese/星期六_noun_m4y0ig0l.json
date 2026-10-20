@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "day of the week",
-      "english": ["Saturday"],
+      "english": [
+        {
+          "id": "ebrc960t",
+          "word": "Saturday",
+          "meaning": "day of the week",
+          "note": "This is the all-purpose Cantonese way to say Saturday."
+        }
+      ],
       "examples": [
         {
           "english": "We’re going hiking on Saturday.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "fight",
-      "english": ["fight", "tangle"],
+      "english": [
+        {
+          "id": "236mietp",
+          "word": "fight",
+          "meaning": "fight physically",
+          "note": "This is the all-purpose choice for physical fighting; with a named opponent, use it in 同 A 打交."
+        },
+        {
+          "id": "9y90sh5a",
+          "word": "tangle",
+          "meaning": "fight or argue",
+          "note": "Use this when “tangle with someone” specifically means getting into a physical fight."
+        }
+      ],
       "examples": [
         {
           "english": "I won't fight with Ah Ming.",

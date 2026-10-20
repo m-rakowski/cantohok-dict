@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "hotel owner/manager",
-      "english": ["hotelier"],
+      "english": [
+        {
+          "id": "8qhtw2q0",
+          "word": "hotelier",
+          "meaning": "hotel owner/manager",
+          "note": "Use this specifically when the hotelier is the manager rather than the owner."
+        }
+      ],
       "examples": [
         {
           "english": "The hotelier said there were no rooms available and asked us to come another day.",

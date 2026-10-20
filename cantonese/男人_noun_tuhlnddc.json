@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "man",
-      "english": ["man", "fellow", "gentleman", "male"],
+      "english": [
+        {
+          "id": "8l9grqr4",
+          "word": "man",
+          "meaning": "adult male human",
+          "note": "This is the all-purpose noun for an adult male or men collectively, including a male member of a group when the role is clear from context."
+        },
+        {
+          "id": "w6ng53uy",
+          "word": "fellow",
+          "meaning": "man; guy; chap",
+          "note": "Use this for the male-person meaning, rather than for a companion or a generic individual."
+        },
+        {
+          "id": "o6d6uawf",
+          "word": "gentleman",
+          "meaning": "man / polite address",
+          "note": "Use this as the all-purpose word when “gentleman” simply means a man."
+        },
+        {
+          "id": "1oni3l69",
+          "word": "male",
+          "meaning": "male person",
+          "note": "Choose this over 男仔 when the male person is an adult man."
+        }
+      ],
       "examples": [
         {
           "english": "That man is the new colleague.",

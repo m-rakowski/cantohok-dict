@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "habitual tobacco user",
-      "english": ["smoker"],
+      "english": [
+        {
+          "id": "igdjw313",
+          "word": "smoker",
+          "meaning": "habitual tobacco user",
+          "note": "This is the all-purpose everyday description for a person who smokes."
+        }
+      ],
       "examples": [
         {
           "english": "A smoker cannot smoke here.",

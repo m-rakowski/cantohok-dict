@@ -6,7 +6,33 @@
   "boxes": [
     {
       "meaning": "refusal",
-      "english": ["refusal", "rejection", "declination", "decline"],
+      "english": [
+        {
+          "id": "o5ygy4q6",
+          "word": "refusal",
+          "meaning": "act of refusing",
+          "register": "written",
+          "note": "This is the all-purpose noun for the act or decision of refusing, especially in formal or written contexts."
+        },
+        {
+          "id": "1274ffwk",
+          "word": "rejection",
+          "meaning": "act of rejecting",
+          "note": "This is the all-purpose term for the act or decision of refusing something, including an offer."
+        },
+        {
+          "id": "xis14ogr",
+          "word": "declination",
+          "meaning": "refusal; declining",
+          "note": "This is the all-purpose choice for a refusal or someone declining an offer."
+        },
+        {
+          "id": "ngludqxt",
+          "word": "decline",
+          "meaning": "refusal of an offer",
+          "note": "Use this for the act or fact of refusing an offer or request."
+        }
+      ],
       "examples": [
         {
           "english": "The company issued a formal refusal of my application.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "improvised, unplanned",
-      "english": ["improvisational", "spontaneous"],
+      "english": [
+        {
+          "id": "sj113zgl",
+          "word": "improvisational",
+          "meaning": "done as improvisation",
+          "note": "This is the all-purpose choice for something created or performed through improvisation."
+        },
+        {
+          "id": "ia672sul",
+          "word": "spontaneous",
+          "meaning": "done without planning",
+          "note": "Use 即興 when something is done or said without preparation, especially an improvised speech, performance, or remark."
+        }
+      ],
       "examples": [
         {
           "english": "This improvisational performance is full of sparks.",

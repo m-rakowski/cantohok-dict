@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "provincial governor",
-      "english": ["governor", "premier"],
+      "english": [
+        {
+          "id": "psd4b3hm",
+          "word": "governor",
+          "meaning": "provincial leader",
+          "note": "Use this for the chief executive of a province, especially in mainland China."
+        },
+        {
+          "id": "cqlpv1bw",
+          "word": "premier",
+          "meaning": "state or provincial premier",
+          "note": "Use this for the head of a provincial government, especially in Canada or China."
+        }
+      ],
       "examples": [
         {
           "english": "The new governor met reporters at the provincial government today.",

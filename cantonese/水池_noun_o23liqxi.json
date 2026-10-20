@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "small pond or pool",
-      "english": ["pond", "basin"],
+      "english": [
+        {
+          "id": "bnqol9v1",
+          "word": "pond",
+          "meaning": "small body of standing water",
+          "note": "Use this for a small man-made, garden, or ornamental pond rather than a natural or reservoir-like one."
+        },
+        {
+          "id": "iael0r68",
+          "word": "basin",
+          "meaning": "water basin",
+          "note": "Use this for a natural or artificial pool-like depression that contains water, rather than a wash basin."
+        }
+      ],
       "examples": [
         {
           "english": "We keep several goldfish in the pond at home.",

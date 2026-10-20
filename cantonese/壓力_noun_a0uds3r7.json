@@ -6,7 +6,50 @@
   "boxes": [
     {
       "meaning": "pressure, stress",
-      "english": ["pressure", "stress", "burden", "tension", "constraint", "push", "strain"],
+      "english": [
+        {
+          "id": "nlbmiha7",
+          "word": "pressure",
+          "meaning": "physical force on surface",
+          "note": "This is the all-purpose noun for physical pressure, external pressure, psychological stress, and pressure to act quickly."
+        },
+        {
+          "id": "9e6g8oso",
+          "word": "stress",
+          "meaning": "mental pressure",
+          "note": "This is the all-purpose choice for emotional or mental pressure."
+        },
+        {
+          "id": "5apwpk9u",
+          "word": "burden",
+          "meaning": "worry or hardship",
+          "note": "Pick this when the burden is mainly emotional pressure or worry."
+        },
+        {
+          "id": "b7gj85hr",
+          "word": "tension",
+          "meaning": "mental strain",
+          "note": "For mental tension or strain, 壓力 is the all-purpose choice."
+        },
+        {
+          "id": "bcn1huqw",
+          "word": "constraint",
+          "meaning": "pressure, compulsion",
+          "note": "Use this when the constraint is external pressure forcing someone to act, especially in situations like confessing under pressure."
+        },
+        {
+          "id": "8r8dy3cz",
+          "word": "push",
+          "meaning": "pressure to act",
+          "note": "Use this when the push is pressure that makes someone act."
+        },
+        {
+          "id": "q58ec3zy",
+          "word": "strain",
+          "meaning": "pressure, strain",
+          "note": "Use 壓力 when strain means pressure or the state of being under pressure."
+        }
+      ],
       "examples": [
         {
           "english": "The pressure at work has been really intense lately.",

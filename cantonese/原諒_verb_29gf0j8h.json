@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "forgive",
-      "english": ["excuse", "pardon", "forgive", "condone", "remit"],
+      "english": [
+        {
+          "id": "b4aup4i8",
+          "word": "excuse",
+          "meaning": "forgive; pardon",
+          "note": "This is the all-purpose choice for forgiving or pardoning someone."
+        },
+        {
+          "id": "cze4dmc3",
+          "word": "pardon",
+          "meaning": "forgive someone",
+          "note": "This is the all-purpose choice for forgiving a person."
+        },
+        {
+          "id": "mggj0s63",
+          "word": "forgive",
+          "meaning": "pardon a person",
+          "note": "Use 原諒 as the all-purpose everyday verb for pardoning a person or an offence."
+        },
+        {
+          "id": "prgap8a6",
+          "word": "condone",
+          "meaning": "forgive or overlook wrongdoing",
+          "note": "Use this for the forgiveness or excusing side of condoning rather than for permitting the wrongdoing to continue."
+        },
+        {
+          "id": "15yqgelu",
+          "word": "remit",
+          "meaning": "forgive, pardon",
+          "note": "Use this for everyday forgiveness of a person or a wrong."
+        }
+      ],
       "examples": [
         {
           "english": "I hope you can excuse me for being late.",

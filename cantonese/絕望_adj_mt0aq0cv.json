@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "hopeless, in despair",
-      "english": ["desperate", "hopeless"],
+      "english": [
+        {
+          "id": "ik60pixf",
+          "word": "desperate",
+          "meaning": "hopeless, in despair",
+          "note": "Use this when desperate means feeling hopeless or seeing no hope, rather than physically dangerous."
+        },
+        {
+          "id": "6wfjt96u",
+          "word": "hopeless",
+          "meaning": "without hope",
+          "note": "Choose this when hopeless means emotionally despairing rather than merely unlikely to succeed."
+        }
+      ],
       "examples": [
         {
           "english": "They felt desperate after losing so many times.",

@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "extend, make last longer",
-      "english": ["prolong", "extend", "elongate"],
+      "english": [
+        {
+          "id": "zin3cry2",
+          "word": "prolong",
+          "meaning": "extend time",
+          "note": "This is the all-purpose choice for extending a period or duration."
+        },
+        {
+          "id": "x0j9wwik",
+          "word": "extend",
+          "meaning": "prolong time",
+          "note": "Use this when making an event, period, deadline, or other duration last longer."
+        },
+        {
+          "id": "yqao3v9g",
+          "word": "elongate",
+          "meaning": "make longer",
+          "note": "Use this mainly for deliberately extending a period, deadline, or other duration rather than stretching a physical object."
+        }
+      ],
       "examples": [
         {
           "english": "We want to prolong the lease.",

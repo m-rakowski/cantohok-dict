@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "convert source code",
-      "english": ["compile"],
+      "english": [
+        {
+          "id": "o6ij6joz",
+          "word": "compile",
+          "meaning": "convert source code",
+          "note": "Use this specifically when a compiler processes source code into executable code."
+        }
+      ],
       "examples": [
         {
           "english": "This piece of code needs to compile before it can run.",

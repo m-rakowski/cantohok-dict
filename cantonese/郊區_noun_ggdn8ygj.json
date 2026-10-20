@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "suburbs",
-      "english": ["outskirts", "suburbia"],
+      "english": [
+        {
+          "id": "dyrxg9tw",
+          "word": "outskirts",
+          "meaning": "edge of a town",
+          "note": "This is the all-purpose spoken choice for a suburban or outlying area."
+        },
+        {
+          "id": "ckn9btcu",
+          "word": "suburbia",
+          "meaning": "suburban life/area",
+          "note": "This is the all-purpose choice for the suburbs as a general area."
+        }
+      ],
       "examples": [
         {
           "english": "We moved to the outskirts to live, and it’s much quieter there.",

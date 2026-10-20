@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "predict, estimate",
-      "english": ["predict", "estimate"],
+      "english": [
+        {
+          "id": "kntp6o4b",
+          "word": "predict",
+          "meaning": "forecast a future event",
+          "note": "This is the all-purpose everyday choice for predicting an outcome from available information."
+        },
+        {
+          "id": "4l9q5zan",
+          "word": "estimate",
+          "meaning": "roughly calculate",
+          "note": "Use this when emphasizing a rough numerical calculation or forecast from incomplete data."
+        }
+      ],
       "examples": [
         {
           "english": "I predict it will rain tomorrow.",

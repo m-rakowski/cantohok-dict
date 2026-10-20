@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "plain, simple",
-      "english": ["austere", "homely"],
+      "english": [
+        {
+          "id": "pd6hkzpm",
+          "word": "austere",
+          "meaning": "plain, unadorned",
+          "note": "Use this for something plain and unadorned, especially clothing, furnishings, or decoration."
+        },
+        {
+          "id": "s750dwhj",
+          "word": "homely",
+          "meaning": "plain, simple",
+          "note": "Use 樸素 for clothing, appearance, or design that is simple and unadorned rather than unattractive or specifically home-like."
+        }
+      ],
       "examples": [
         {
           "english": "Their clothes are plain and austere, never flashy.",

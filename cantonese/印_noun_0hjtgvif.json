@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "mark or imprint",
-      "english": ["print", "stamp"],
+      "english": [
+        {
+          "id": "uylf5jt4",
+          "word": "print",
+          "meaning": "impression or mark",
+          "note": "Use this for a visible mark or impression left on a surface."
+        },
+        {
+          "id": "sv20zd3u",
+          "word": "stamp",
+          "meaning": "imprint or mark",
+          "note": "Use this for a physical imprint or mark left by stamping, rather than the stamping tool."
+        }
+      ],
       "examples": [
         {
           "english": "The bottom of the cup left a print on the table.",

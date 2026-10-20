@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "visible through a telescope",
-      "english": ["telescopic"],
+      "english": [
+        {
+          "id": "cdqllvnj",
+          "word": "telescopic",
+          "meaning": "visible through a telescope",
+          "note": "Use this when something cannot be seen unless a telescope is used."
+        }
+      ],
       "examples": [
         {
           "english": "That star is telescopic and can only be seen with a telescope.",

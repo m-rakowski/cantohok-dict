@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "difference",
-      "english": ["difference", "distinction", "diversity"],
+      "english": [
+        {
+          "id": "szp3w1z8",
+          "word": "difference",
+          "meaning": "distinct feature",
+          "note": "This is the all-purpose choice for a distinction or a feature that makes two things different."
+        },
+        {
+          "id": "fdkgvgin",
+          "word": "distinction",
+          "meaning": "distinction between things",
+          "note": "Use this as the all-purpose noun for a distinction or difference between two things."
+        },
+        {
+          "id": "v8phu7fx",
+          "word": "diversity",
+          "meaning": "difference; variety",
+          "note": "Use this when diversity focuses on the differences between things rather than variety as a whole."
+        }
+      ],
       "examples": [
         {
           "english": "The biggest difference between these two versions is the price.",

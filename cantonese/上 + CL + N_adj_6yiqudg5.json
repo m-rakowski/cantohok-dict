@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "previous, last (week, month, term)",
-      "english": ["previous", "past"],
+      "english": [
+        {
+          "id": "18xg24ce",
+          "word": "previous",
+          "meaning": "earlier; before",
+          "note": "Use this for the previous item, version, term of office, or other member in an ordered series, such as 上一任總理."
+        },
+        {
+          "id": "4esk0lm7",
+          "word": "past",
+          "meaning": "recent previous time",
+          "note": "Use this for a specifically named previous period, such as 上個月 for ‘last month’ or 上個禮拜 for ‘last week’."
+        }
+      ],
       "examples": [
         {
           "english": "The previous prime minister did quite well.",

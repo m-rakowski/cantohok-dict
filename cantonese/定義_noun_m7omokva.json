@@ -6,7 +6,15 @@
   "boxes": [
     {
       "meaning": "word meaning",
-      "english": ["definition"],
+      "english": [
+        {
+          "id": "1uy7lwds",
+          "word": "definition",
+          "meaning": "word meaning",
+          "register": "formal",
+          "note": "Use this for an explicit, formal definition of a word, concept, or symbol."
+        }
+      ],
       "register": "formal",
       "examples": [
         {

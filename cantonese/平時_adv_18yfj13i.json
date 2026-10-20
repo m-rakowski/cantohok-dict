@@ -6,7 +6,39 @@
   "boxes": [
     {
       "meaning": "usually, normally",
-      "english": ["normally", "ordinarily", "typically", "usually", "regularly"],
+      "english": [
+        {
+          "id": "kytdblag",
+          "word": "normally",
+          "meaning": "usually; most of the time",
+          "register": "colloquial",
+          "note": "Use this for a person's usual routine or what happens in ordinary times, especially in contrast with today."
+        },
+        {
+          "id": "dfecumb7",
+          "word": "ordinarily",
+          "meaning": "usually; as a rule",
+          "note": "Use this when “ordinarily” contrasts with what happens on an unusual or special occasion."
+        },
+        {
+          "id": "l05xdzjk",
+          "word": "typically",
+          "meaning": "usually; in a typical way",
+          "note": "Use this for what someone ordinarily does or what happens in their usual day-to-day circumstances."
+        },
+        {
+          "id": "xmfcklgd",
+          "word": "usually",
+          "meaning": "under normal conditions",
+          "note": "Use this for what happens in ordinary circumstances or as part of someone's normal routine, rather than for a precise frequency estimate."
+        },
+        {
+          "id": "sctztjzp",
+          "word": "regularly",
+          "meaning": "normally; ordinarily",
+          "note": "Use this for what someone normally does in everyday life, especially in contrast with a special occasion or the present situation."
+        }
+      ],
       "examples": [
         {
           "english": "Normally, I finish work at six, but today I have to leave later.",

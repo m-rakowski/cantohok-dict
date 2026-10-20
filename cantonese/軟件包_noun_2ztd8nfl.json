@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "software package",
-      "english": ["package"],
+      "english": [
+        {
+          "id": "3i15prub",
+          "word": "package",
+          "meaning": "software package",
+          "note": "Use this specifically for installable software distributed as a package."
+        }
+      ],
       "examples": [
         {
           "english": "You can install this package directly.",

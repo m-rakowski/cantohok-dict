@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "jogging",
-      "english": ["jog", "jogging"],
+      "english": [
+        {
+          "id": "p8ttebsb",
+          "word": "jog",
+          "meaning": "easy run; exercise trot",
+          "note": "This is the all-purpose noun for an exercise jog or easy run."
+        },
+        {
+          "id": "2gvzik4h",
+          "word": "jogging",
+          "meaning": "slow running for exercise",
+          "note": "Use this as the direct, all-purpose noun for the exercise of jogging."
+        }
+      ],
       "examples": [
         {
           "english": "I go for a jog by the waterfront in the morning.",

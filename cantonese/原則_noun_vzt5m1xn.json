@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "principle",
-      "english": ["principle", "guideline", "canon", "rule"],
+      "english": [
+        {
+          "id": "d60ckcxj",
+          "word": "principle",
+          "meaning": "fundamental principle",
+          "note": "Use 原則 as the all-purpose choice for a guiding belief, a decision rule, or a moral standard."
+        },
+        {
+          "id": "p61g1ed8",
+          "word": "guideline",
+          "meaning": "general rule / principle",
+          "note": "Use this when the guideline is a broad principle or rule rather than a set of instructions."
+        },
+        {
+          "id": "nqrc4kyd",
+          "word": "canon",
+          "meaning": "rule; principle",
+          "note": "Use 原則 as the all-purpose noun for a generally accepted principle or rule."
+        },
+        {
+          "id": "0e6kwv6e",
+          "word": "rule",
+          "meaning": "general principle",
+          "note": "Use this for a general principle that guides what is considered right or appropriate."
+        }
+      ],
       "examples": [
         {
           "english": "I have one principle: I never cheat customers.",

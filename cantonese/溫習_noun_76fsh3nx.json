@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "exam review/study",
-      "english": ["revision"],
+      "english": [
+        {
+          "id": "dmk27pg4",
+          "word": "revision",
+          "meaning": "exam review/study",
+          "note": "Use this for studying previously learned material, especially before an exam."
+        }
+      ],
       "examples": [
         {
           "english": "I need to do revision on all my notes because I have an exam this week.",

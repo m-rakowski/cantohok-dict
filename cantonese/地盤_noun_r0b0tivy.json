@@ -6,7 +6,15 @@
   "boxes": [
     {
       "meaning": "territory, turf",
-      "english": ["territory"],
+      "english": [
+        {
+          "id": "15vk80fu",
+          "word": "territory",
+          "meaning": "animal territory",
+          "register": "colloquial",
+          "note": "Use this colloquial word for an animal's defended area, with a related sense of a person's or group's turf."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {
@@ -18,7 +26,14 @@
     },
     {
       "meaning": "construction site",
-      "english": ["site"],
+      "english": [
+        {
+          "id": "xcce1dwb",
+          "word": "site",
+          "meaning": "place for building/use",
+          "note": "Use this specifically for a construction or development site."
+        }
+      ],
       "examples": [
         {
           "english": "They'll start building on this site next month.",

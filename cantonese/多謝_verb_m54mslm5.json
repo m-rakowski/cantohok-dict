@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "thank",
-      "english": ["thank", "appreciate", "acknowledge"],
+      "english": [
+        {
+          "id": "whnjnvbu",
+          "word": "thank",
+          "meaning": "express gratitude",
+          "note": "This is the all-purpose verb for expressing thanks or gratitude to a person or for something."
+        },
+        {
+          "id": "2bry4xet",
+          "word": "appreciate",
+          "meaning": "be grateful",
+          "register": "colloquial",
+          "note": "This is the all-purpose everyday choice when appreciating someone’s help, effort, or kindness."
+        },
+        {
+          "id": "6c6took9",
+          "word": "acknowledge",
+          "meaning": "show gratitude",
+          "note": "Use this when acknowledging a favour by expressing thanks."
+        }
+      ],
       "examples": [
         {
           "english": "I thank you for buying me lunch.",

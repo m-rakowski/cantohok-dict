@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "TV set",
-      "english": ["television"],
+      "english": [
+        {
+          "id": "830fq568",
+          "word": "television",
+          "meaning": "TV set",
+          "note": "Use this when you mean the physical television set or appliance."
+        }
+      ],
       "examples": [
         {
           "english": "The television set at home is broken, so I can't watch the match.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "wallet, purse",
-      "english": ["wallet", "purse"],
+      "english": [
+        {
+          "id": "ol3w7cng",
+          "word": "wallet",
+          "meaning": "money case",
+          "note": "This is the all-purpose everyday Hong Kong Cantonese word for a physical wallet."
+        },
+        {
+          "id": "olp3mrej",
+          "word": "purse",
+          "meaning": "money bag",
+          "note": "This is the all-purpose Cantonese noun for a small bag or wallet used to carry money."
+        }
+      ],
       "examples": [
         {
           "english": "I lost my wallet; my ID card and several cards were inside.",

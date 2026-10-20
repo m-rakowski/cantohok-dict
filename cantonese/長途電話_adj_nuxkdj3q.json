@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "nonlocal phone call",
-      "english": ["long-distance"],
+      "english": [
+        {
+          "id": "h5r2ou7p",
+          "word": "long-distance",
+          "meaning": "nonlocal phone call",
+          "note": "Use this specifically for a nonlocal or toll telephone call, rather than for distance generally."
+        }
+      ],
       "examples": [
         {
           "english": "I made a long-distance call to my older brother in Canada last night.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "one fourth",
-      "english": ["quarter"],
+      "english": [
+        {
+          "id": "gb5ftfp2",
+          "word": "quarter",
+          "meaning": "one fourth",
+          "note": "This is the all-purpose choice for one of four equal parts."
+        }
+      ],
       "examples": [
         {
           "english": "This slice of cake is a quarter of the whole cake.",

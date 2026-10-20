@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "deserve",
-      "english": ["deserve", "merit"],
+      "english": [
+        {
+          "id": "6jrl1ah7",
+          "word": "deserve",
+          "meaning": "be worthy of",
+          "note": "Use this when the emphasis is that the person is rightfully entitled to receive something."
+        },
+        {
+          "id": "cd9hadgy",
+          "word": "merit",
+          "meaning": "deserve",
+          "note": "Use this when stressing that someone is entitled to receive something because they deserve it."
+        }
+      ],
       "examples": [
         {
           "english": "This overtime pay is what you deserve, so don't be so polite.",

@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "to put into, to hold",
-      "english": ["pack", "contain", "hold"],
+      "english": [
+        {
+          "id": "st411o4g",
+          "word": "pack",
+          "meaning": "put things into a pack",
+          "note": "Use this as the all-purpose verb for putting things into a container or filling it."
+        },
+        {
+          "id": "8rx91kgh",
+          "word": "contain",
+          "meaning": "hold inside",
+          "note": "Use this for a physical container that holds or is filled with something."
+        },
+        {
+          "id": "exv176kb",
+          "word": "hold",
+          "meaning": "contain or store",
+          "note": "Use this when a container or package has the capacity to contain something."
+        }
+      ],
       "examples": [
         {
           "english": "I'll pack your clothes for you first.",
@@ -27,7 +46,14 @@
     },
     {
       "meaning": "to load into equipment",
-      "english": ["load"],
+      "english": [
+        {
+          "id": "nr748cn2",
+          "word": "load",
+          "meaning": "load a gun",
+          "note": "Use this for putting ammunition, film, paper, or another item into equipment so it is ready to use."
+        }
+      ],
       "examples": [
         {
           "english": "We need to load paper into the printer before we can use it.",
@@ -38,7 +64,14 @@
     },
     {
       "meaning": "to install, to fix on",
-      "english": ["mount"],
+      "english": [
+        {
+          "id": "rt48lub5",
+          "word": "mount",
+          "meaning": "attach to support",
+          "note": "Use 裝 when fixing or installing an object onto a support or in a particular place."
+        }
+      ],
       "examples": [
         {
           "english": "The technician will mount a rack on the wall for me.",

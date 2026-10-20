@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "stiff",
-      "english": ["stiff", "wooden"],
+      "english": [
+        {
+          "id": "zcv3twze",
+          "word": "stiff",
+          "meaning": "rigid, hard to bend",
+          "note": "This is the all-purpose choice for something rigid or for muscles that feel tight and stiff."
+        },
+        {
+          "id": "e7p3bt7i",
+          "word": "wooden",
+          "meaning": "stiff, unnatural",
+          "note": "Use this instead of 生硬 when the main point is stiff or awkward physical movement."
+        }
+      ],
       "examples": [
         {
           "english": "My legs are still stiff after exercising.",

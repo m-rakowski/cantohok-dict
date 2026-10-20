@@ -6,7 +6,22 @@
   "boxes": [
     {
       "meaning": "electrical",
-      "english": ["electrical", "electric"],
+      "english": [
+        {
+          "id": "1bmob6fv",
+          "word": "electrical",
+          "meaning": "related to electricity",
+          "register": "formal",
+          "note": "This is the all-purpose adjective for something related to electricity or electronics."
+        },
+        {
+          "id": "gdhs2vi2",
+          "word": "electric",
+          "meaning": "powered by electricity",
+          "register": "written",
+          "note": "Use this for the broader technical or written sense of electrical or relating to electricity, rather than specifically motor-powered."
+        }
+      ],
       "examples": [
         {
           "english": "This factory needs to inspect electrical equipment regularly.",

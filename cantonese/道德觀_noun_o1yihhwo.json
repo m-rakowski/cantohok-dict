@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "moral outlook",
-      "english": ["ethic", "morality"],
+      "english": [
+        {
+          "id": "k6szzxwg",
+          "word": "ethic",
+          "meaning": "code of conduct",
+          "note": "Use this when referring to the moral outlook or guiding principles of a person, culture, or group rather than one action's morality."
+        },
+        {
+          "id": "6fjeib7i",
+          "word": "morality",
+          "meaning": "personal morals",
+          "note": "Use this for a person's guiding beliefs or general view about how people should behave."
+        }
+      ],
       "examples": [
         {
           "english": "Their ethic is very different from ours; they think money is all that matters.",

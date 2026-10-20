@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "experience a feeling",
-      "english": ["experience", "taste"],
+      "english": [
+        {
+          "id": "8vew55x8",
+          "word": "experience",
+          "meaning": "to experience, undergo",
+          "note": "Use this when the experience is an emotion, sensation, or personal feeling."
+        },
+        {
+          "id": "djdnexlj",
+          "word": "taste",
+          "meaning": "taste (experience)",
+          "note": "Use this for experiencing an emotion or sensation rather than sampling food."
+        }
+      ],
       "examples": [
         {
           "english": "Have you had the experience of the pain of losing a loved one?",

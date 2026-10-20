@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "password, secret code",
-      "english": ["password", "combination", "code"],
+      "english": [
+        {
+          "id": "jlanq50y",
+          "word": "password",
+          "meaning": "login password",
+          "note": "This is the all-purpose choice, especially for a computer, phone, account, or network password."
+        },
+        {
+          "id": "2fdwzh9i",
+          "word": "combination",
+          "meaning": "lock code",
+          "note": "Use this for the number or letter code that opens a combination lock or safe."
+        },
+        {
+          "id": "jd0o3662",
+          "word": "code",
+          "meaning": "secret message",
+          "note": "Use this for a secret code or cipher whose meaning is concealed."
+        }
+      ],
       "examples": [
         {
           "english": "I always forget the password when I log into my account.",

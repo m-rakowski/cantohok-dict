@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "show, indicate",
-      "english": ["indicate", "argue"],
+      "english": [
+        {
+          "id": "k0pwunjp",
+          "word": "indicate",
+          "meaning": "suggest by symptoms",
+          "note": "Use this when symptoms or other evidence show that a condition or cause is present."
+        },
+        {
+          "id": "mc2d2039",
+          "word": "argue",
+          "meaning": "reason; imply",
+          "note": "Use 顯示 when evidence indicates or points to a conclusion rather than when people debate."
+        }
+      ],
       "examples": [
         {
           "english": "These symptoms indicate that they may have food poisoning.",

@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "unable to move",
-      "english": ["stuck", "fixed"],
+      "english": [
+        {
+          "id": "j6q1sh8v",
+          "word": "stuck",
+          "meaning": "cannot move",
+          "note": "Use this specifically when a person or object physically cannot move, rather than when a task or program has stopped progressing."
+        },
+        {
+          "id": "ullxml0h",
+          "word": "fixed",
+          "meaning": "unable to move",
+          "register": "colloquial",
+          "note": "Use this when a person or thing is stuck and unable to move."
+        }
+      ],
       "examples": [
         {
           "english": "My foot is stuck in the door and can't move.",

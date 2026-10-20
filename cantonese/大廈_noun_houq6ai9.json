@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "large building",
-      "english": ["building", "block"],
+      "english": [
+        {
+          "id": "uga7dlvl",
+          "word": "building",
+          "meaning": "building, structure",
+          "note": "Use this for a large or multi-storey building such as an apartment or office block."
+        },
+        {
+          "id": "7nn0ogni",
+          "word": "block",
+          "meaning": "building block",
+          "note": "Use this for a block-sized building, especially a block of flats or an office block."
+        }
+      ],
       "examples": [
         {
           "english": "This building has thirty floors.",

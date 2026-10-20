@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "not open for business",
-      "english": ["closed"],
+      "english": [
+        {
+          "id": "4yordw59",
+          "word": "closed",
+          "meaning": "not open for business",
+          "note": "Use this when a business or public venue is not operating or admitting visitors; it is the everyday default for premises being closed."
+        }
+      ],
       "examples": [
         {
           "english": "This shop is closed today.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "spoken, colloquial",
-      "english": ["colloquial", "informal"],
+      "english": [
+        {
+          "id": "825n93h3",
+          "word": "colloquial",
+          "meaning": "informal speech",
+          "note": "Use this when describing language or an expression specifically as spoken-language usage, often before another noun such as 講法 or 表達."
+        },
+        {
+          "id": "nnv9kira",
+          "word": "informal",
+          "meaning": "informal language",
+          "note": "Use this for language or wording associated with everyday speech rather than formal written usage."
+        }
+      ],
       "examples": [
         {
           "english": "“Thanks a lot” is a very common colloquial expression.",

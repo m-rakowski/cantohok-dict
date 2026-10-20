@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "return ticket",
-      "english": ["return"],
+      "english": [
+        {
+          "id": "75cegnoh",
+          "word": "return",
+          "meaning": "return ticket",
+          "note": "Use this for a ticket that includes travel out and back, rather than a one-way ticket."
+        }
+      ],
       "examples": [
         {
           "english": "I want to buy a return ticket, so I won't have to buy another one.",

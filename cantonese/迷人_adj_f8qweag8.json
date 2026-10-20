@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "charming, alluring",
-      "english": ["charming", "beguiling"],
+      "english": [
+        {
+          "id": "rcv046dn",
+          "word": "charming",
+          "meaning": "pleasant, charismatic",
+          "note": "This is the all-purpose choice for someone or something that is charming and appealing."
+        },
+        {
+          "id": "upj5n88n",
+          "word": "beguiling",
+          "meaning": "charming, alluring",
+          "note": "This is the all-purpose choice for someone or something charming and alluring, such as a beguiling look."
+        }
+      ],
       "examples": [
         {
           "english": "Their smile is so charming.",

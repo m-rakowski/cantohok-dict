@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "supermarket",
-      "english": ["supermarket", "market"],
+      "english": [
+        {
+          "id": "6wwjket9",
+          "word": "supermarket",
+          "meaning": "large self-service store",
+          "note": "Use this full form when you want to spell out the term rather than use the common abbreviation 超市."
+        },
+        {
+          "id": "m87i82ts",
+          "word": "market",
+          "meaning": "grocery store",
+          "note": "Use this when the grocery store is specifically a supermarket rather than a street market."
+        }
+      ],
       "examples": [
         {
           "english": "The vegetables at this supermarket are very fresh.",

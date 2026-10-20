@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "consistent, in agreement",
-      "english": ["uniform", "compatible"],
+      "english": [
+        {
+          "id": "z1q54l6n",
+          "word": "uniform",
+          "meaning": "consistent, standard",
+          "note": "Use this when emphasizing consistency with a standard or agreement rather than casual visual sameness."
+        },
+        {
+          "id": "wydevuko",
+          "word": "compatible",
+          "meaning": "consistent with",
+          "note": "Use this when something is consistent with or agrees with an idea, statement, or principle rather than being physically or socially compatible."
+        }
+      ],
       "examples": [
         {
           "english": "The formatting across all the teams must be uniform to meet the standard.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "main landmass",
-      "english": ["continent"],
+      "english": [
+        {
+          "id": "v1evk1aj",
+          "word": "continent",
+          "meaning": "main landmass",
+          "note": "Use this mainly in geographic names and compounds such as 亞洲 or 歐洲, rather than as the default standalone word."
+        }
+      ],
       "examples": [
         {
           "english": "Asia is the largest continent in the world.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "local authority",
-      "english": ["council"],
+      "english": [
+        {
+          "id": "rncg33e7",
+          "word": "council",
+          "meaning": "local authority",
+          "note": "Use this for a local authority understood as the local government administration rather than the council body itself."
+        }
+      ],
       "examples": [
         {
           "english": "The local council needs to improve transport in this area.",

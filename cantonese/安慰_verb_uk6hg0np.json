@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "to comfort someone",
-      "english": ["console", "soothe", "cheer"],
+      "english": [
+        {
+          "id": "5vv75emg",
+          "word": "console",
+          "meaning": "comfort in grief",
+          "note": "This is the all-purpose choice for comforting someone who is grieving, disappointed, or upset."
+        },
+        {
+          "id": "giqzvmg8",
+          "word": "soothe",
+          "meaning": "calm or comfort",
+          "note": "Use this when the emphasis is on comforting someone emotionally rather than calming them physically or behaviourally."
+        },
+        {
+          "id": "bij8rbku",
+          "word": "cheer",
+          "meaning": "comfort, encourage",
+          "note": "Choose this when cheer means offering comfort or consolation to someone who is upset."
+        }
+      ],
       "examples": [
         {
           "english": "I stayed with them all night to console them.",

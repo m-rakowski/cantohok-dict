@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "crack",
-      "english": ["crack", "flaw", "fissure", "split"],
+      "english": [
+        {
+          "id": "l8aud43c",
+          "word": "crack",
+          "meaning": "crack in surface",
+          "note": "This is the all-purpose noun for a crack or narrow fissure in a solid surface or structure."
+        },
+        {
+          "id": "3ri455et",
+          "word": "flaw",
+          "meaning": "crack, break",
+          "note": "Use this for the physical crack, fissure, or gap in an object rather than for a general imperfection."
+        },
+        {
+          "id": "mf7g7j4m",
+          "word": "fissure",
+          "meaning": "crack or split in rock/earth",
+          "note": "This is the all-purpose choice for a long, narrow crack in rock, earth, or a solid object."
+        },
+        {
+          "id": "1vx5qp96",
+          "word": "split",
+          "meaning": "crack, fissure",
+          "note": "This is the all-purpose noun for a crack or narrow fissure in a surface."
+        }
+      ],
       "examples": [
         {
           "english": "There’s a crack in the wall; it looks pretty dangerous.",

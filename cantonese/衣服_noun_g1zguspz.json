@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "clothes",
-      "english": ["clothes", "garment"],
+      "english": [
+        {
+          "id": "4k83u0hs",
+          "word": "clothes",
+          "meaning": "apparel",
+          "note": "This is the all-purpose everyday word for apparel and clothes in general."
+        },
+        {
+          "id": "bk77batj",
+          "word": "garment",
+          "meaning": "item of clothing",
+          "note": "Use this more general term when you want to refer explicitly to clothing rather than the everyday catch-all 衫."
+        }
+      ],
       "examples": [
         {
           "english": "I bought some new clothes today.",

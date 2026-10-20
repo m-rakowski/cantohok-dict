@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "song",
-      "english": ["song", "tune", "selection"],
+      "english": [
+        {
+          "id": "1a0m9rfn",
+          "word": "song",
+          "meaning": "song, sung piece",
+          "note": "This is the all-purpose choice for a musical composition performed by singing."
+        },
+        {
+          "id": "yun04194",
+          "word": "tune",
+          "meaning": "song or short piece",
+          "note": "Use 歌 as the all-purpose spoken choice when the tune means a song."
+        },
+        {
+          "id": "cww0n6x4",
+          "word": "selection",
+          "meaning": "song or music choice",
+          "register": "colloquial",
+          "note": "Use this for a selected song or track being played, rather than for a general choice or assortment."
+        }
+      ],
       "examples": [
         {
           "english": "I really like this song.",

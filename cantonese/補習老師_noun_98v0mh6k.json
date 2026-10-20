@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "private tutor",
-      "english": ["tutor", "instructor"],
+      "english": [
+        {
+          "id": "d2eu33jd",
+          "word": "tutor",
+          "meaning": "private teacher",
+          "note": "This is the all-purpose choice for someone who gives one-to-one or small-group academic tutoring."
+        },
+        {
+          "id": "iyyi46qo",
+          "word": "instructor",
+          "meaning": "teacher; tutor",
+          "note": "Use this specifically for a tutor who gives private or after-school lessons."
+        }
+      ],
       "examples": [
         {
           "english": "My tutor reviews English with me every Saturday.",

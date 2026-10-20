@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "region, area",
-      "english": ["region", "territory", "zone", "district", "area"],
+      "english": [
+        {
+          "id": "ixmj1h1q",
+          "word": "region",
+          "meaning": "area; district",
+          "note": "This is the all-purpose choice for a geographic region or district, including an EU region when administrative precision is not being stressed."
+        },
+        {
+          "id": "0srp39sq",
+          "word": "territory",
+          "meaning": "large region of land",
+          "note": "This is the all-purpose choice for a broad region or an administrative area when no special political nuance is intended."
+        },
+        {
+          "id": "x8hidiat",
+          "word": "zone",
+          "meaning": "region or area",
+          "note": "Use this for a geographical region or area rather than a specially designated zone."
+        },
+        {
+          "id": "c0xtzhu5",
+          "word": "district",
+          "meaning": "region with a feature",
+          "note": "Use this for a broader geographic region, especially when its defining feature matters more than an official boundary."
+        },
+        {
+          "id": "h21e7jtx",
+          "word": "area",
+          "meaning": "geographic region",
+          "note": "Use this for a defined geographic region or district."
+        }
+      ],
       "examples": [
         {
           "english": "This region has had many more tourists lately.",

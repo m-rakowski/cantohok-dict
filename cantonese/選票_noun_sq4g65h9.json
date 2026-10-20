@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "vote slip / ballot paper",
-      "english": ["ballot"],
+      "english": [
+        {
+          "id": "kscu120f",
+          "word": "ballot",
+          "meaning": "vote slip / ballot paper",
+          "note": "Use this for the ballot paper or slip itself, rather than the act of voting."
+        }
+      ],
       "examples": [
         {
           "english": "You have to fill in the ballot before you can vote.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "splash",
-      "english": ["splash", "splatter"],
+      "english": [
+        {
+          "id": "s0jccz26",
+          "word": "splash",
+          "meaning": "splash liquid on",
+          "note": "Use this all-purpose verb when liquid splashes or is splashed onto a person or surface."
+        },
+        {
+          "id": "deu96g78",
+          "word": "splatter",
+          "meaning": "splash out in drops",
+          "note": "This is the all-purpose choice for drops splashing or spattering, without stressing a deliberate cause or a particular target."
+        }
+      ],
       "examples": [
         {
           "english": "Be careful—the wet road may splash you when cars go past.",

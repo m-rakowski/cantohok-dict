@@ -6,7 +6,29 @@
   "boxes": [
     {
       "meaning": "awareness, understanding",
-      "english": ["awareness", "knowledge", "consciousness"],
+      "english": [
+        {
+          "id": "84d9hjam",
+          "word": "awareness",
+          "meaning": "being aware; awareness",
+          "register": "formal",
+          "note": "Use this when awareness emphasizes cognitive understanding or knowledge of something."
+        },
+        {
+          "id": "4jyd3oo7",
+          "word": "knowledge",
+          "meaning": "awareness of fact",
+          "register": "formal",
+          "note": "Use 認知 when the focus is awareness or recognition of a particular fact or situation."
+        },
+        {
+          "id": "xjjyeacb",
+          "word": "consciousness",
+          "meaning": "awareness of a fact",
+          "register": "formal",
+          "note": "Use this when consciousness means cognitive understanding or knowledge of a particular fact or issue."
+        }
+      ],
       "register": "formal",
       "examples": [
         {

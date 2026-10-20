@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "carpenter's work table",
-      "english": ["workbench"],
+      "english": [
+        {
+          "id": "fqns8x7e",
+          "word": "workbench",
+          "meaning": "carpenter's work table",
+          "note": "Use this when the workbench is specifically for carpentry or woodworking rather than general manual work."
+        }
+      ],
       "examples": [
         {
           "english": "I’m sawing a board at the workbench.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "ID card",
-      "english": ["identification", "identity card"],
+      "english": [
+        {
+          "id": "rbd3zczo",
+          "word": "identification",
+          "meaning": "ID; identification card",
+          "note": "This is the everyday choice for a physical identity document or ID card."
+        },
+        {
+          "id": "vay6mhgh",
+          "word": "identity card",
+          "meaning": "official ID card",
+          "note": "This is the all-purpose Cantonese term for an official identity card."
+        }
+      ],
       "examples": [
         {
           "english": "The security guard asked me to show my identification.",

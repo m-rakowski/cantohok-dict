@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "spoken, not written",
-      "english": ["oral", "verbal"],
+      "english": [
+        {
+          "id": "sujzrhwq",
+          "word": "oral",
+          "meaning": "spoken, not written",
+          "note": "Use this as the all-purpose adjective for something spoken rather than written, such as an oral presentation."
+        },
+        {
+          "id": "e8ozpuj3",
+          "word": "verbal",
+          "meaning": "spoken; oral",
+          "note": "This is the all-purpose choice for something spoken or agreed to orally rather than written."
+        }
+      ],
       "examples": [
         {
           "english": "This course requires an oral presentation.",

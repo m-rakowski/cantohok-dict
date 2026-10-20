@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "injure, hurt",
-      "english": ["injure", "wound", "hurt"],
+      "english": [
+        {
+          "id": "ayg767l1",
+          "word": "injure",
+          "meaning": "physically hurt",
+          "note": "Use this as the all-purpose casual verb for physically injuring someone or a body part."
+        },
+        {
+          "id": "pcg3r643",
+          "word": "wound",
+          "meaning": "injure physically",
+          "note": "This is the all-purpose colloquial choice for physically injuring someone, including by cutting or piercing."
+        },
+        {
+          "id": "2sfl0lz5",
+          "word": "hurt",
+          "meaning": "cause physical pain/injury",
+          "note": "Use 整傷 when someone causes physical injury or pain, especially in an everyday spoken context."
+        }
+      ],
       "examples": [
         {
           "english": "It is easy to injure your foot when playing football.",

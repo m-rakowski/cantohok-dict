@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "amount of increase",
-      "english": ["increase", "jump"],
+      "english": [
+        {
+          "id": "syaxem0i",
+          "word": "increase",
+          "meaning": "an increase; a rise",
+          "note": "Use this for the rise in a measured figure such as a price, rate, or percentage."
+        },
+        {
+          "id": "b7ppx8qw",
+          "word": "jump",
+          "meaning": "sudden increase",
+          "note": "Use this for a measurable rise in prices, rates, figures, or similar quantities rather than a physical jump."
+        }
+      ],
       "examples": [
         {
           "english": "How big is this year's rent increase?",

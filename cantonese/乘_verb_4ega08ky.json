@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "do multiplication",
-      "english": ["multiply"],
+      "english": [
+        {
+          "id": "58kiti6z",
+          "word": "multiply",
+          "meaning": "do multiplication",
+          "note": "Use this specifically for performing multiplication in mathematics."
+        }
+      ],
       "examples": [
         {
           "english": "To multiply three by four gives twelve.",

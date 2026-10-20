@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "cook",
-      "english": ["boil", "prepare"],
+      "english": [
+        {
+          "id": "d9o9hdza",
+          "word": "boil",
+          "meaning": "cook in boiling water",
+          "note": "Use this as the all-purpose verb for cooking food in boiling water."
+        },
+        {
+          "id": "gekg0nf5",
+          "word": "prepare",
+          "meaning": "cook or make food",
+          "note": "Use 煮 when preparing food means actually cooking it rather than merely arranging it."
+        }
+      ],
       "examples": [
         {
           "english": "We boil some vegetables in boiling water.",

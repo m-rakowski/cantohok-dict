@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "impression",
-      "english": ["impression", "glimpse"],
+      "english": [
+        {
+          "id": "6pgsq68l",
+          "word": "impression",
+          "meaning": "overall effect",
+          "note": "This is the all-purpose rendering for an overall effect or a vague belief or feeling about something."
+        },
+        {
+          "id": "1biru6o6",
+          "word": "glimpse",
+          "meaning": "faint idea",
+          "note": "Use 印象 when the glimpse means a faint or vague impression rather than a visual look."
+        }
+      ],
       "examples": [
         {
           "english": "That film left quite an impression on me.",

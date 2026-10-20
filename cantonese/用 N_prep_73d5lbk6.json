@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "in a language or key",
-      "english": ["in"],
+      "english": [
+        {
+          "id": "gsws4b8l",
+          "word": "in",
+          "meaning": "in a language or key",
+          "note": "Use this to specify the language, script, tone, or musical key being used."
+        }
+      ],
       "examples": [
         {
           "english": "We chat in Cantonese in everyday life.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "cash withdrawal",
-      "english": ["withdrawal"],
+      "english": [
+        {
+          "id": "4o5d75n4",
+          "word": "withdrawal",
+          "meaning": "cash withdrawal",
+          "note": "Use this for the amount of money taken from a bank account, rather than the act of taking it out."
+        }
+      ],
       "examples": [
         {
           "english": "The withdrawal amount from the bank account was two thousand dollars.",

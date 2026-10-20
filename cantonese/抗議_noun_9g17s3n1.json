@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "protest, formal objection",
-      "english": ["protest", "remonstrance"],
+      "english": [
+        {
+          "id": "8pbqcuh1",
+          "word": "protest",
+          "meaning": "demonstration",
+          "register": "formal",
+          "note": "Use 抗議 as the all-purpose noun for a formal objection or protest, including the disapproval behind a formal objection by a group."
+        },
+        {
+          "id": "ertrv2hj",
+          "word": "remonstrance",
+          "meaning": "formal objection; protest",
+          "note": "Use this as the all-purpose noun for a stated objection or protest."
+        }
+      ],
       "examples": [
         {
           "english": "The union lodged a formal protest with the company over the layoffs.",

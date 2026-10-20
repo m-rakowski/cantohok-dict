@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "rash, careless",
-      "english": ["flighty", "rash"],
+      "english": [
+        {
+          "id": "lbyi8d9u",
+          "word": "flighty",
+          "meaning": "erratic, impulsive",
+          "note": "Use this when the flightiness mainly shows as impulsive, rash, or careless actions."
+        },
+        {
+          "id": "lwsv3umn",
+          "word": "rash",
+          "meaning": "hasty; reckless",
+          "register": "colloquial",
+          "note": "Use this especially when the rash behaviour is careless, impulsive, or socially tactless."
+        }
+      ],
       "examples": [
         {
           "english": "I don't dare let them drive alone; they are too flighty.",

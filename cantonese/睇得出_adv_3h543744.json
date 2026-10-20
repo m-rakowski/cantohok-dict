@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "clearly, you can tell",
-      "english": ["evidently", "visibly"],
+      "english": [
+        {
+          "id": "ksom0z0d",
+          "word": "evidently",
+          "meaning": "obviously, clearly",
+          "note": "Use this as the all-purpose spoken choice when the conclusion can be inferred from the evidence."
+        },
+        {
+          "id": "wvaf0sxi",
+          "word": "visibly",
+          "meaning": "openly; clearly seen",
+          "note": "Use this when the meaning is that someone can tell from visible signs or behavior."
+        }
+      ],
       "examples": [
         {
           "english": "We can evidently tell that he never went out.",

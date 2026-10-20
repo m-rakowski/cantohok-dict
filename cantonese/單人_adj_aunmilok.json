@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "for one person, single",
-      "english": ["individual", "single"],
+      "english": [
+        {
+          "id": "wizvpsza",
+          "word": "individual",
+          "meaning": "for one person",
+          "note": "Use this specifically for facilities, products, or arrangements designed for one person, such as a single room or ticket."
+        },
+        {
+          "id": "ar68xhu2",
+          "word": "single",
+          "meaning": "for one person",
+          "note": "Use this before a noun such as 房 or 床 when something is designed for one person."
+        }
+      ],
       "examples": [
         {
           "english": "This hotel has individual rooms that are suitable for one individual.",

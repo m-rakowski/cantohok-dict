@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "breed, multiply",
-      "english": ["proliferate", "breed", "reproduce"],
+      "english": [
+        {
+          "id": "r26t36s4",
+          "word": "proliferate",
+          "meaning": "increase rapidly; multiply",
+          "note": "Use this for living things multiplying or reproducing in large numbers."
+        },
+        {
+          "id": "r4hhu6g5",
+          "word": "breed",
+          "meaning": "produce offspring",
+          "note": "Use 繁殖 for animals or other organisms producing offspring, not for a place being a source of produce."
+        },
+        {
+          "id": "tueelir8",
+          "word": "reproduce",
+          "meaning": "have offspring",
+          "note": "Use this for the biological reproduction or propagation of organisms, including asexual reproduction."
+        }
+      ],
       "examples": [
         {
           "english": "The mosquitoes at home proliferate rapidly every summer.",

@@ -6,7 +6,32 @@
   "boxes": [
     {
       "meaning": "cowardly, timid",
-      "english": ["cowardly", "timid", "shy", "yellow"],
+      "english": [
+        {
+          "id": "sb2kk7w0",
+          "word": "cowardly",
+          "meaning": "lacking courage",
+          "note": "This is the all-purpose choice for someone who lacks courage or is cowardly."
+        },
+        {
+          "id": "0kmipraz",
+          "word": "timid",
+          "meaning": "lacking courage or confidence",
+          "note": "This is the all-purpose choice for someone who generally lacks courage or confidence."
+        },
+        {
+          "id": "en12tlju",
+          "word": "shy",
+          "meaning": "timid; frightened",
+          "note": "Choose this when “shy” means timid or easily frightened rather than socially reserved."
+        },
+        {
+          "id": "bbai0cj5",
+          "word": "yellow",
+          "meaning": "cowardly",
+          "note": "Use this for someone who lacks courage or acts cowardly."
+        }
+      ],
       "examples": [
         {
           "english": "They're so cowardly they won't even go into a haunted house.",

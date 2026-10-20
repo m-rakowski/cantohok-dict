@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "to end, finish",
-      "english": ["end", "finish"],
+      "english": [
+        {
+          "id": "56e62xlg",
+          "word": "end",
+          "meaning": "to end; come to an end",
+          "note": "This is the all-purpose colloquial choice when something simply finishes or reaches its end."
+        },
+        {
+          "id": "8wtik9q3",
+          "word": "finish",
+          "meaning": "come to an end",
+          "note": "Use 完 when an event, show, meeting, or period itself comes to an end, often with 咗."
+        }
+      ],
       "examples": [
         {
           "english": "The movie is scheduled to end at eight.",

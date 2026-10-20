@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "mediation of a dispute",
-      "english": ["conciliation", "mediation"],
+      "english": [
+        {
+          "id": "sinvcw2k",
+          "word": "conciliation",
+          "meaning": "dispute settlement process",
+          "note": "Use this when a neutral third party helps disputing sides communicate and reach a settlement, especially in a legal or organizational context."
+        },
+        {
+          "id": "s6l0yh6p",
+          "word": "mediation",
+          "meaning": "neutral third-party negotiation",
+          "note": "This is the all-purpose noun for a neutral third party helping people settle their differences."
+        }
+      ],
       "examples": [
         {
           "english": "This labour dispute needs conciliation by the Labour Department.",

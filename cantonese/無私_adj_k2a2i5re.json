@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "unselfish, putting others first",
-      "english": ["altruistic", "selfless", "unselfish"],
+      "english": [
+        {
+          "id": "u2rrq3nd",
+          "word": "altruistic",
+          "meaning": "unselfish; considerate of others",
+          "note": "This is the all-purpose choice for someone who puts others before themselves."
+        },
+        {
+          "id": "gl58tg6y",
+          "word": "selfless",
+          "meaning": "unselfish; concerned for others",
+          "note": "Use this concise adjective when praising someone’s general lack of self-interest, especially in a more elevated context."
+        },
+        {
+          "id": "yds0nyaj",
+          "word": "unselfish",
+          "meaning": "not selfish; generous",
+          "register": "formal",
+          "note": "Use this for a more elevated description of selfless dedication or concern for others."
+        }
+      ],
       "examples": [
         {
           "english": "They donated their savings to help disaster victims; they are truly altruistic.",

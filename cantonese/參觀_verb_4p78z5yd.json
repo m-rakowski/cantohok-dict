@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "visit a place of interest",
-      "english": ["visit", "tour"],
+      "english": [
+        {
+          "id": "aaqnskt2",
+          "word": "visit",
+          "meaning": "go to a place",
+          "note": "Use this specifically for visiting museums, exhibitions, landmarks, and other places of interest."
+        },
+        {
+          "id": "105vqlk6",
+          "word": "tour",
+          "meaning": "tour a place",
+          "note": "Use this when touring an organized site such as a museum, factory, school, or exhibition."
+        }
+      ],
       "examples": [
         {
           "english": "We visit the Hong Kong Museum of History in the morning.",

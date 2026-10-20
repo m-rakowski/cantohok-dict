@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "exam",
-      "english": ["test", "examination"],
+      "english": [
+        {
+          "id": "qt2ky2dl",
+          "word": "test",
+          "meaning": "exam, examination",
+          "note": "This is the all-purpose choice for an academic exam and for an exam-like standardized test."
+        },
+        {
+          "id": "7p1ahnef",
+          "word": "examination",
+          "meaning": "formal test",
+          "note": "This is the all-purpose rendering for a formal school or university test."
+        }
+      ],
       "examples": [
         {
           "english": "I have an English test tomorrow, so I need to study tonight.",

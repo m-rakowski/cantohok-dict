@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "height above sea level",
-      "english": ["altitude"],
+      "english": [
+        {
+          "id": "m4rj99dp",
+          "word": "altitude",
+          "meaning": "height above sea level",
+          "note": "Use 海拔 specifically when the height is measured above sea level."
+        }
+      ],
       "examples": [
         {
           "english": "This plateau has an altitude of three thousand metres above sea level.",

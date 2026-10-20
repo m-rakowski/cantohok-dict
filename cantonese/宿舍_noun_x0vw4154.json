@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "dormitory",
-      "english": ["dormitory", "residence"],
+      "english": [
+        {
+          "id": "0xzowdmp",
+          "word": "dormitory",
+          "meaning": "student or barracks residence",
+          "note": "This is the all-purpose word for student, staff, military, or other communal sleeping accommodation."
+        },
+        {
+          "id": "8z98xt5z",
+          "word": "residence",
+          "meaning": "student accommodation",
+          "note": "Use this for student accommodation rather than a person's ordinary home."
+        }
+      ],
       "examples": [
         {
           "english": "Our dormitory has eight beds.",

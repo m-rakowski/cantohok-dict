@@ -6,7 +6,33 @@
   "boxes": [
     {
       "meaning": "agree, promise",
-      "english": ["undertake", "agree", "accept", "grant"],
+      "english": [
+        {
+          "id": "wjc9s0vq",
+          "word": "undertake",
+          "meaning": "promise to do",
+          "note": "Use this when someone commits or promises to do something."
+        },
+        {
+          "id": "2q584el2",
+          "word": "agree",
+          "meaning": "agree to do something",
+          "register": "colloquial",
+          "note": "Choose this when agreeing to do something or consenting to a request."
+        },
+        {
+          "id": "2uk2dht3",
+          "word": "accept",
+          "meaning": "agree to",
+          "note": "Use it when accepting means agreeing to a request, proposal, condition, or arrangement."
+        },
+        {
+          "id": "1ohmsb7y",
+          "word": "grant",
+          "meaning": "bestow / confer",
+          "note": "Use this when granting means agreeing to a request or wish."
+        }
+      ],
       "examples": [
         {
           "english": "I undertake to help him move house.",

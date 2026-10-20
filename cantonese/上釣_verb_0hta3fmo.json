@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "fish take bait",
-      "english": ["bite"],
+      "english": [
+        {
+          "id": "v364zoox",
+          "word": "bite",
+          "meaning": "fish take bait",
+          "note": "Use this when a fish takes bait and gets hooked, or when a person falls for a lure or deceptive offer."
+        }
+      ],
       "examples": [
         {
           "english": "The fish took the bait with one bite and got hooked.",

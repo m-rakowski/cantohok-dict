@@ -6,7 +6,35 @@
   "boxes": [
     {
       "meaning": "big and muscular in build",
-      "english": ["well-built", "muscular", "strapping", "bulky"],
+      "english": [
+        {
+          "id": "9odx8b0y",
+          "word": "well-built",
+          "meaning": "muscular, athletic build",
+          "register": "colloquial",
+          "note": "Use this colloquial choice when emphasizing that a person has a large, muscular build rather than describing a structure or stressing athletic leanness."
+        },
+        {
+          "id": "u9h589el",
+          "word": "muscular",
+          "meaning": "well-muscled",
+          "note": "This is the all-purpose colloquial choice for a person who is brawny or visibly well-muscled."
+        },
+        {
+          "id": "snrrdp0g",
+          "word": "strapping",
+          "meaning": "sturdy, muscular",
+          "register": "colloquial",
+          "note": "This is the all-purpose colloquial choice for someone who is big, muscular, and robust."
+        },
+        {
+          "id": "z4oscv1g",
+          "word": "bulky",
+          "meaning": "large, big, or heavy",
+          "register": "colloquial",
+          "note": "Use 大隻 for a person or animal that is big-built, muscular, or notably large-bodied rather than for an inanimate object."
+        }
+      ],
       "examples": [
         {
           "english": "His friend is really well-built, with muscles all over.",

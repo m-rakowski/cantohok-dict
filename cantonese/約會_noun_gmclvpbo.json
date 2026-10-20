@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "date, arranged meeting",
-      "english": ["dating", "date", "appointment"],
+      "english": [
+        {
+          "id": "67u7qglo",
+          "word": "dating",
+          "meaning": "romantic seeing someone",
+          "note": "Use this for the individual dates or arranged meetings that make up the dating process."
+        },
+        {
+          "id": "qn2fj884",
+          "word": "date",
+          "meaning": "romantic date",
+          "note": "Use this for a pre-arranged meeting, especially a romantic outing, rather than for the person attending it."
+        },
+        {
+          "id": "dyz2s0he",
+          "word": "appointment",
+          "meaning": "meeting; scheduled visit",
+          "note": "Use this for an arranged personal meeting, especially a date or informal get-together."
+        }
+      ],
       "examples": [
         {
           "english": "While dating, we went for a walk by the waterfront on our first date.",

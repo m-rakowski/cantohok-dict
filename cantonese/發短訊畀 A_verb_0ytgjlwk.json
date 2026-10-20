@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "send a text message",
-      "english": ["text"],
+      "english": [
+        {
+          "id": "cdfgmaob",
+          "word": "text",
+          "meaning": "send a text message",
+          "note": "This is the all-purpose way to say that you send a text to someone."
+        }
+      ],
       "examples": [
         {
           "english": "I’ll text you now.",

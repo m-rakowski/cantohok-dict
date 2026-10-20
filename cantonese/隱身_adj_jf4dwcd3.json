@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "offline / hidden status",
-      "english": ["invisible"],
+      "english": [
+        {
+          "id": "0mlvh8vg",
+          "word": "invisible",
+          "meaning": "offline / hidden status",
+          "note": "Use this for an app or chat status that hides the user while they are still online."
+        }
+      ],
       "examples": [
         {
           "english": "I’m invisible on the app tonight, but I can still see your messages.",

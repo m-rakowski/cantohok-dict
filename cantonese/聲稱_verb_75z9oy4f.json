@@ -6,7 +6,42 @@
   "boxes": [
     {
       "meaning": "claim, assert",
-      "english": ["allege", "profess", "claim", "assert", "maintain"],
+      "english": [
+        {
+          "id": "abxq1ngf",
+          "word": "allege",
+          "meaning": "claim without proof",
+          "register": "formal",
+          "note": "Choose this when you want to explicitly present a claim as an allegation rather than an established fact."
+        },
+        {
+          "id": "7kzy170b",
+          "word": "profess",
+          "meaning": "declare, assert",
+          "register": "formal",
+          "note": "Use this as the all-purpose, formal-leaning verb for declaring or asserting a belief, opinion, or fact."
+        },
+        {
+          "id": "207oaivi",
+          "word": "claim",
+          "meaning": "state without proof",
+          "note": "Use this as the all-purpose verb for stating something as true without proving it."
+        },
+        {
+          "id": "ak7zvkm0",
+          "word": "assert",
+          "meaning": "state firmly",
+          "register": "written",
+          "note": "This is the all-purpose choice for neutrally reporting that someone states a claim or position."
+        },
+        {
+          "id": "9hncat3q",
+          "word": "maintain",
+          "meaning": "assert, claim",
+          "register": "formal",
+          "note": "Use this in more formal contexts when someone asserts or claims that a statement is true."
+        }
+      ],
       "examples": [
         {
           "english": "They allege that they were at home throughout the night of the incident, but they cannot provide any evidence.",

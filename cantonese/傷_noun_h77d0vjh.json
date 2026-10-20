@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "injury, wound",
-      "english": ["injury", "harm"],
+      "english": [
+        {
+          "id": "aceuzvl4",
+          "word": "injury",
+          "meaning": "physical harm",
+          "note": "This is the all-purpose everyday noun for a bodily injury or wound."
+        },
+        {
+          "id": "jp1zlxvo",
+          "word": "harm",
+          "meaning": "physical injury or damage",
+          "note": "Use this for physical injury, such as a wound or bodily hurt; use 損害 for damage to possessions."
+        }
+      ],
       "examples": [
         {
           "english": "I still have some injury in my leg, so walking hurts.",

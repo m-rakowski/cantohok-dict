@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "story collection/book series",
-      "english": ["anthology"],
+      "english": [
+        {
+          "id": "51ddz8wb",
+          "word": "anthology",
+          "meaning": "story collection/book series",
+          "note": "Use this when the anthology is specifically a book or series of unrelated stories."
+        }
+      ],
       "examples": [
         {
           "english": "The stories in this anthology are unrelated, but quite enjoyable.",

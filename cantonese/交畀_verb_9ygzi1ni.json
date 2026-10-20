@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "hand over to someone",
-      "english": ["consign", "deliver"],
+      "english": [
+        {
+          "id": "31nhfjll",
+          "word": "consign",
+          "meaning": "entrust to someone's care",
+          "note": "This is the all-purpose colloquial choice for handing something or someone over to another person’s care or control."
+        },
+        {
+          "id": "temm5dpx",
+          "word": "deliver",
+          "meaning": "hand over",
+          "note": "Use this when handing a person or thing over to another person or authority, especially the police."
+        }
+      ],
       "examples": [
         {
           "english": "I’ll consign this cat to your care for now.",

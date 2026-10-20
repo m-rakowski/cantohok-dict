@@ -6,7 +6,15 @@
   "boxes": [
     {
       "meaning": "program thread/process",
-      "english": ["worker"],
+      "english": [
+        {
+          "id": "l9v0stbj",
+          "word": "worker",
+          "meaning": "program thread/process",
+          "register": "technical",
+          "note": "Use this technical term for a task-running thread within a computer program."
+        }
+      ],
       "register": "technical",
       "examples": [
         {

@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "guilt, remorse",
-      "english": ["guilt", "remorse", "qualm"],
+      "english": [
+        {
+          "id": "1imtekha",
+          "word": "guilt",
+          "meaning": "feeling of remorse",
+          "note": "This is the all-purpose noun for a person's feeling of remorse after doing something wrong."
+        },
+        {
+          "id": "letkh6o9",
+          "word": "remorse",
+          "meaning": "guilt-filled regret",
+          "note": "This is the all-purpose everyday noun for the guilty feeling of remorse."
+        },
+        {
+          "id": "xsjyh20a",
+          "word": "qualm",
+          "meaning": "moral scruple; misgivings",
+          "note": "Use this when the qualm is specifically a pang of guilt or troubled conscience rather than a general reservation."
+        }
+      ],
       "examples": [
         {
           "english": "I still feel guilt about it.",

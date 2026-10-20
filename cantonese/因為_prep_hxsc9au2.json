@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "because of",
-      "english": ["because of", "owing to"],
+      "english": [
+        {
+          "id": "z28as8ml",
+          "word": "because of",
+          "meaning": "on account of; due to",
+          "note": "This is the all-purpose everyday choice for giving the reason something happened."
+        },
+        {
+          "id": "1hb80ds2",
+          "word": "owing to",
+          "meaning": "because of",
+          "note": "This is the all-purpose everyday choice for giving a reason or cause."
+        }
+      ],
       "examples": [
         {
           "english": "I’m not going shopping today because of the rain.",

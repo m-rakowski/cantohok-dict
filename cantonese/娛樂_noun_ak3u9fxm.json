@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "entertainment",
-      "english": ["amusement", "recreation", "entertainment"],
+      "english": [
+        {
+          "id": "g9ed0yzl",
+          "word": "amusement",
+          "meaning": "entertainment",
+          "note": "This is the all-purpose noun for entertainment or an entertaining activity."
+        },
+        {
+          "id": "tc83tsh0",
+          "word": "recreation",
+          "meaning": "leisure activity",
+          "note": "This is the all-purpose choice for an activity that amuses, diverts, or stimulates."
+        },
+        {
+          "id": "ltjkpqoo",
+          "word": "entertainment",
+          "meaning": "amusement / leisure activity",
+          "note": "This is the all-purpose choice for entertainment as an enjoyable leisure activity or diversion."
+        }
+      ],
       "examples": [
         {
           "english": "Watching movies is my greatest amusement.",

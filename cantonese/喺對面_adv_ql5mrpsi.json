@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "across the way, opposite",
-      "english": ["opposite", "across"],
+      "english": [
+        {
+          "id": "b4spgv3t",
+          "word": "opposite",
+          "meaning": "across from",
+          "note": "This is the all-purpose choice for saying that someone or something is across from a reference point."
+        },
+        {
+          "id": "qa6i34hq",
+          "word": "across",
+          "meaning": "on the other side",
+          "note": "Use this for something being located on the other side rather than moving across."
+        }
+      ],
       "examples": [
         {
           "english": "Your office is opposite, so it’s easy for me to walk over.",

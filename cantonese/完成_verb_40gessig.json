@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "to complete, finish",
-      "english": ["accomplish", "complete"],
+      "english": [
+        {
+          "id": "pbuqwnnp",
+          "word": "accomplish",
+          "meaning": "finish successfully",
+          "note": "Use this as the all-purpose choice for finishing or completing something successfully."
+        },
+        {
+          "id": "xmyxgl93",
+          "word": "complete",
+          "meaning": "finish; make done",
+          "note": "Use this for completing a task, goal, project, or other clearly defined undertaking, especially in more polished wording."
+        }
+      ],
       "examples": [
         {
           "english": "We finally accomplish the project.",

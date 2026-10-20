@@ -6,7 +6,39 @@
   "boxes": [
     {
       "meaning": "keep an eye on, look after",
-      "english": ["monitor", "supervise", "oversee", "watch", "look"],
+      "english": [
+        {
+          "id": "10243sqh",
+          "word": "monitor",
+          "meaning": "to supervise / watch over",
+          "note": "This is the all-purpose colloquial choice for watching over or keeping an eye on someone or something."
+        },
+        {
+          "id": "9qm97hqw",
+          "word": "supervise",
+          "meaning": "oversee or direct",
+          "note": "Use this as the all-purpose casual choice when you mean keeping an eye on people or a task."
+        },
+        {
+          "id": "418mmpsp",
+          "word": "oversee",
+          "meaning": "supervise, manage",
+          "register": "colloquial",
+          "note": "This is the all-purpose colloquial choice for keeping an eye on and supervising people or activities."
+        },
+        {
+          "id": "baitdtw5",
+          "word": "watch",
+          "meaning": "look after / guard",
+          "note": "Use 睇住 when you mean keeping an eye on or guarding a person or belonging."
+        },
+        {
+          "id": "z2nia21q",
+          "word": "look",
+          "meaning": "make sure; see to",
+          "note": "Use 睇住 when “look” means to see to something or keep watch to make sure it is handled."
+        }
+      ],
       "examples": [
         {
           "english": "I’m going to take a shower; can you monitor the pot for me?",

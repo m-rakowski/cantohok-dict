@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "tacit understanding between people",
-      "english": ["rapport", "harmony"],
+      "english": [
+        {
+          "id": "7ncit8so",
+          "word": "rapport",
+          "meaning": "close harmonious relationship",
+          "note": "Choose this when the rapport emphasizes mutual understanding and communicating smoothly, often without needing to explain much."
+        },
+        {
+          "id": "zxfzfhmk",
+          "word": "harmony",
+          "meaning": "agreement, accord",
+          "note": "Use this for interpersonal accord based on shared understanding or tacit cooperation."
+        }
+      ],
       "examples": [
         {
           "english": "They have such good rapport that they understand each other with just a glance.",

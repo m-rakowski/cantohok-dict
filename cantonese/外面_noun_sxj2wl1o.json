@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "outside",
-      "english": ["outside", "exterior"],
+      "english": [
+        {
+          "id": "xlmm7x18",
+          "word": "outside",
+          "meaning": "outer surface",
+          "note": "This is the all-purpose choice for an outer surface or the space beyond a boundary."
+        },
+        {
+          "id": "tahr6cae",
+          "word": "exterior",
+          "meaning": "outside; outer surface",
+          "note": "This is the all-purpose spoken choice for the outside of an object or package."
+        }
+      ],
       "examples": [
         {
           "english": "The outside of this shirt is dirty.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "straight, not bent",
-      "english": ["straight", "direct"],
+      "english": [
+        {
+          "id": "jah2g2i9",
+          "word": "straight",
+          "meaning": "not crooked/bent",
+          "note": "Use 直 as the all-purpose choice for something physically straight, and colloquially when “straight” means heterosexual."
+        },
+        {
+          "id": "jetmn5af",
+          "word": "direct",
+          "meaning": "shortest route; straight",
+          "note": "Use this for the literal physical sense of being straight rather than crooked or circuitous."
+        }
+      ],
       "examples": [
         {
           "english": "This line is drawn very straight.",

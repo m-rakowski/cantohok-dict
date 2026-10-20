@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "buyer / client",
-      "english": ["customer"],
+      "english": [
+        {
+          "id": "gxt3sikt",
+          "word": "customer",
+          "meaning": "buyer / client",
+          "note": "This is the all-purpose colloquial choice for a customer or client."
+        }
+      ],
       "examples": [
         {
           "english": "This customer shops with us all the time.",

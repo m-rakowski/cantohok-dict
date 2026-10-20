@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "toxic gas CO",
-      "english": ["carbon monoxide"],
+      "english": [
+        {
+          "id": "xtnvvs4r",
+          "word": "carbon monoxide",
+          "meaning": "toxic gas CO",
+          "note": "This is the all-purpose term for carbon monoxide gas."
+        }
+      ],
       "examples": [
         {
           "english": "The gas stove leaked, and a lot of carbon monoxide built up in the house—it was really dangerous.",

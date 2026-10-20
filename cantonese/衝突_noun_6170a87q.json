@@ -6,7 +6,44 @@
   "boxes": [
     {
       "meaning": "conflict, clash between people",
-      "english": ["conflict", "fight", "violence", "encounter", "fighting", "tangle"],
+      "english": [
+        {
+          "id": "1k2x0ca9",
+          "word": "conflict",
+          "meaning": "clash; armed dispute",
+          "note": "This is the all-purpose noun for a clash or incompatibility, especially between opposing people or groups."
+        },
+        {
+          "id": "jg0hag3d",
+          "word": "fight",
+          "meaning": "struggle or conflict",
+          "note": "Use this for a conflict or clash between people, groups, ideas, or forces rather than a physical brawl."
+        },
+        {
+          "id": "d5q00kbq",
+          "word": "violence",
+          "meaning": "fighting, conflict",
+          "note": "Use this for clashes or fighting between opposing groups, especially when the conflict is ongoing."
+        },
+        {
+          "id": "1rfuw2r3",
+          "word": "encounter",
+          "meaning": "hostile clash",
+          "note": "Use this for an encounter that involves hostility, violence, or a clash."
+        },
+        {
+          "id": "lsssppnk",
+          "word": "fighting",
+          "meaning": "violence; conflict",
+          "note": "Use this for conflict between people or groups rather than a physical fight itself."
+        },
+        {
+          "id": "pdnrk9fa",
+          "word": "tangle",
+          "meaning": "quarrel or fight",
+          "note": "Use this for a conflict or clash, including a serious argument or physical fight."
+        }
+      ],
       "examples": [
         {
           "english": "These two departments are constantly in conflict over resource allocation.",
@@ -42,7 +79,14 @@
     },
     {
       "meaning": "clash of things, such as colours",
-      "english": ["jar"],
+      "english": [
+        {
+          "id": "e67hpgkk",
+          "word": "jar",
+          "meaning": "discord; clash",
+          "note": "Use this when the jar means a clash or contradictory effect between things."
+        }
+      ],
       "examples": [
         {
           "english": "These two colors jar when put together.",

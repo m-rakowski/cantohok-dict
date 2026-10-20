@@ -6,7 +6,38 @@
   "boxes": [
     {
       "meaning": "raise, improve a level or quality",
-      "english": ["elevate", "heighten", "lift", "boost", "raise"],
+      "english": [
+        {
+          "id": "bivoeuzd",
+          "word": "elevate",
+          "meaning": "increase intensity",
+          "note": "Use this as the all-purpose choice when making a value, quality, level, intensity, or degree higher."
+        },
+        {
+          "id": "eia70958",
+          "word": "heighten",
+          "meaning": "make higher; raise",
+          "note": "This is the all-purpose choice for raising a level, amount, quality, or degree."
+        },
+        {
+          "id": "g4orwyg1",
+          "word": "lift",
+          "meaning": "raise; become higher",
+          "note": "This is the all-purpose choice for raising something or making a level, amount, condition, or status higher."
+        },
+        {
+          "id": "oghx6fu2",
+          "word": "boost",
+          "meaning": "increase or improve",
+          "note": "Use this when boosting a level, quality, performance, or standard rather than simply increasing a quantity."
+        },
+        {
+          "id": "tmvgelpq",
+          "word": "raise",
+          "meaning": "increase",
+          "note": "Use this for making a level, amount, or standard higher."
+        }
+      ],
       "examples": [
         {
           "english": "We need to elevate the quality of our service to retain customers.",

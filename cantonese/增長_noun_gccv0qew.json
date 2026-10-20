@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "growth",
-      "english": ["growth", "growing", "increase"],
+      "english": [
+        {
+          "id": "vpumslxs",
+          "word": "growth",
+          "meaning": "increase in size or amount",
+          "note": "Use 增長 as the all-purpose noun for increases in size, amount, value, or strength."
+        },
+        {
+          "id": "qzsocg3u",
+          "word": "growing",
+          "meaning": "growth; increase",
+          "note": "Use 增長 as the all-purpose noun for growth or increase, especially in amounts, numbers, or economies."
+        },
+        {
+          "id": "c8n6444h",
+          "word": "increase",
+          "meaning": "growth; process of rising",
+          "register": "formal",
+          "note": "Use this for the process or continuing growth of a quantity, especially in economic or statistical contexts."
+        }
+      ],
       "examples": [
         {
           "english": "The company’s business showed clear growth this year.",

@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "light, pale (colour)",
-      "english": ["pale"],
+      "english": [
+        {
+          "id": "06tqgf84",
+          "word": "pale",
+          "meaning": "light in color",
+          "note": "Use this as the all-purpose adjective for a light colour, such as pale yellow."
+        }
+      ],
       "examples": [
         {
           "english": "This pale yellow is quite pretty.",
@@ -17,7 +24,14 @@
     },
     {
       "meaning": "shallow",
-      "english": ["shallow"],
+      "english": [
+        {
+          "id": "tdkh63hs",
+          "word": "shallow",
+          "meaning": "not deep",
+          "note": "This is the all-purpose choice for literal physical lack of depth, such as shallow water or a crater."
+        }
+      ],
       "examples": [
         {
           "english": "The water here is shallow, so there’s no need to worry.",

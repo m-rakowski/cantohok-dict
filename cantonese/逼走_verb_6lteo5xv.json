@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "force out, drive away",
-      "english": ["displace", "dislodge"],
+      "english": [
+        {
+          "id": "ngfvjn9m",
+          "word": "displace",
+          "meaning": "force to move away",
+          "register": "colloquial",
+          "note": "Use this as the everyday choice when someone is forced or driven away."
+        },
+        {
+          "id": "ub6pxh2v",
+          "word": "dislodge",
+          "meaning": "force out of place",
+          "note": "Use this when pressure or circumstances force someone out rather than someone simply chasing them away."
+        }
+      ],
       "examples": [
         {
           "english": "A major fire can displace everyone in a village.",

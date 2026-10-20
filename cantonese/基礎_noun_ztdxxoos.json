@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "foundation, basis",
-      "english": ["base", "foundation"],
+      "english": [
+        {
+          "id": "6l5766cb",
+          "word": "base",
+          "meaning": "foundation",
+          "note": "This is the all-purpose choice for an abstract foundation, basis, or essential underlying component."
+        },
+        {
+          "id": "d3fxna8m",
+          "word": "foundation",
+          "meaning": "basis for growth",
+          "note": "This is the all-purpose choice for an abstract foundation or basis that supports further development."
+        }
+      ],
       "examples": [
         {
           "english": "The most important thing in language learning is to build a solid base.",

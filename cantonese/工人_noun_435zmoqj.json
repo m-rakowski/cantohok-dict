@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "worker, labourer",
-      "english": ["worker", "workman", "hand"],
+      "english": [
+        {
+          "id": "xpqd7fji",
+          "word": "worker",
+          "meaning": "person who works",
+          "note": "Use 工人 as the all-purpose term for a person who works, especially a manual worker."
+        },
+        {
+          "id": "g8anxbig",
+          "word": "workman",
+          "meaning": "wage laborer",
+          "note": "This is the all-purpose choice for someone employed for wages, especially in manual work."
+        },
+        {
+          "id": "4os5txng",
+          "word": "hand",
+          "meaning": "worker, laborer",
+          "note": "Use this for a worker or laborer, especially someone hired for manual work."
+        }
+      ],
       "examples": [
         {
           "english": "My dad has been a construction worker for decades.",
@@ -27,7 +46,21 @@
     },
     {
       "meaning": "domestic helper",
-      "english": ["servant", "help"],
+      "english": [
+        {
+          "id": "906t5my6",
+          "word": "servant",
+          "meaning": "household employee",
+          "note": "Use 工人 as the everyday all-purpose term for a paid household worker, especially a domestic helper."
+        },
+        {
+          "id": "pkv1afm2",
+          "word": "help",
+          "meaning": "domestic staff",
+          "register": "colloquial",
+          "note": "Use this in Hong Kong household contexts for a domestic helper, not for a worker in general."
+        }
+      ],
       "examples": [
         {
           "english": "Our servant cooks and cleans for us every day.",

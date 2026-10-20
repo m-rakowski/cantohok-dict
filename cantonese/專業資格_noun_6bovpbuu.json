@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "professional qualification",
-      "english": ["certification"],
+      "english": [
+        {
+          "id": "x84ij3aa",
+          "word": "certification",
+          "meaning": "professional qualification",
+          "note": "Use this for a professional qualification or credential that a person holds."
+        }
+      ],
       "examples": [
         {
           "english": "I have the certification needed to do this job.",

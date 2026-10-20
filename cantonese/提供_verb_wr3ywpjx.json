@@ -6,7 +6,50 @@
   "boxes": [
     {
       "meaning": "provide, supply",
-      "english": ["supply", "furnish", "provide", "offer", "produce", "lend", "bring"],
+      "english": [
+        {
+          "id": "511vwacv",
+          "word": "supply",
+          "meaning": "provide; make available",
+          "note": "Use 提供 as the all-purpose choice for making something available, especially money, information, or a service."
+        },
+        {
+          "id": "liycpo7u",
+          "word": "furnish",
+          "meaning": "provide; give",
+          "note": "Use this as the all-purpose choice for supplying something, especially information, evidence, services, or resources."
+        },
+        {
+          "id": "2blc6i3n",
+          "word": "provide",
+          "meaning": "supply; give",
+          "note": "Use 提供 for explicitly supplying a resource, service, or option in a neutral context."
+        },
+        {
+          "id": "z64qccow",
+          "word": "offer",
+          "meaning": "offer something",
+          "note": "Use this when making a thing, service, resource, or facility available for someone to use or consider."
+        },
+        {
+          "id": "kuoukguf",
+          "word": "produce",
+          "meaning": "present, show",
+          "note": "Use this when making a person, witness, document, or other item available to someone."
+        },
+        {
+          "id": "ecj10pks",
+          "word": "lend",
+          "meaning": "furnish or give",
+          "note": "Use this when “lend” means to furnish or make assistance, resources, or facilities available."
+        },
+        {
+          "id": "upvy8eeg",
+          "word": "bring",
+          "meaning": "provide, add",
+          "note": "Use this when bring means to supply or contribute something such as information, help, or a viewpoint."
+        }
+      ],
       "examples": [
         {
           "english": "The company will supply you with enough information.",

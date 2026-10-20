@@ -6,7 +6,14 @@
   "boxes": [
     {
       "meaning": "quotation mark",
-      "english": ["inverted comma"],
+      "english": [
+        {
+          "id": "8aio8rwa",
+          "word": "inverted comma",
+          "meaning": "quotation mark",
+          "note": "This is the all-purpose Cantonese term for quotation marks when the single-versus-double form is not specified."
+        }
+      ],
       "examples": [
         {
           "english": "The editor said this sentence needs an inverted comma at each end.",

@@ -6,7 +6,26 @@
   "boxes": [
     {
       "meaning": "army, armed forces",
-      "english": ["troop", "army", "service"],
+      "english": [
+        {
+          "id": "ap00fpye",
+          "word": "troop",
+          "meaning": "soldiers, armed forces",
+          "note": "This is the all-purpose choice for soldiers or the armed forces as a whole."
+        },
+        {
+          "id": "3igb8z8i",
+          "word": "army",
+          "meaning": "ground military force",
+          "note": "Use this for a military force when the surrounding context makes its ground role clear, rather than naming the branch precisely."
+        },
+        {
+          "id": "bl46afyn",
+          "word": "service",
+          "meaning": "the armed forces",
+          "note": "Use 軍隊 when service means the armed forces or the military as an institution."
+        }
+      ],
       "examples": [
         {
           "english": "The troop is moving out.",

@@ -6,7 +6,42 @@
   "boxes": [
     {
       "meaning": "tiredness, fatigue",
-      "english": ["exhaustion", "tiredness", "fatigue", "lassitude", "lethargy"],
+      "english": [
+        {
+          "id": "h2ptuurz",
+          "word": "exhaustion",
+          "meaning": "extreme tiredness",
+          "register": "formal",
+          "note": "This is the all-purpose noun for physical or mental tiredness, especially in formal or written contexts."
+        },
+        {
+          "id": "2opdkxbj",
+          "word": "tiredness",
+          "meaning": "state of being tired",
+          "register": "written",
+          "note": "This is the all-purpose noun for the state of being tired, especially in formal or health-related contexts."
+        },
+        {
+          "id": "heluhwdb",
+          "word": "fatigue",
+          "meaning": "exhaustion, tiredness",
+          "register": "formal",
+          "note": "This is the all-purpose noun for exhaustion caused by exertion, especially in formal or written contexts."
+        },
+        {
+          "id": "xmviaasl",
+          "word": "lassitude",
+          "meaning": "fatigue, lack of energy",
+          "register": "formal",
+          "note": "This is the all-purpose noun for fatigue or a general lack of energy."
+        },
+        {
+          "id": "aoht2w9n",
+          "word": "lethargy",
+          "meaning": "drowsiness; extreme fatigue",
+          "note": "Use this when the emphasis is extreme physical or mental fatigue rather than sleepiness."
+        }
+      ],
       "examples": [
         {
           "english": "After working for hours, they felt extreme exhaustion.",

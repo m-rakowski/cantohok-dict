@@ -6,7 +6,21 @@
   "boxes": [
     {
       "meaning": "clothes",
-      "english": ["clothes", "wardrobe"],
+      "english": [
+        {
+          "id": "mr5c9cg9",
+          "word": "clothes",
+          "meaning": "apparel",
+          "register": "colloquial",
+          "note": "Use this colloquial term when referring to everyday clothes specifically as shirts and trousers."
+        },
+        {
+          "id": "i2ldjwjn",
+          "word": "wardrobe",
+          "meaning": "someone's clothes",
+          "note": "Use this for a person's clothes collectively, not for the cupboard that stores them."
+        }
+      ],
       "examples": [
         {
           "english": "It’s cold today, so I wore thick clothes.",

@@ -6,7 +6,20 @@
   "boxes": [
     {
       "meaning": "month",
-      "english": ["month", "moon"],
+      "english": [
+        {
+          "id": "77r3pdp1",
+          "word": "month",
+          "meaning": "calendar month",
+          "note": "Use 月 as the all-purpose noun for a calendar month, especially in names such as 七月 or 十一月."
+        },
+        {
+          "id": "rqhlon2g",
+          "word": "moon",
+          "meaning": "month",
+          "note": "Use this as the ordinary noun for a month, especially in expressions such as 一個月."
+        }
+      ],
       "examples": [
         {
           "english": "July is usually the hottest month in Hong Kong.",

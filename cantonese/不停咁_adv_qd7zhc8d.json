@@ -6,7 +6,29 @@
   "boxes": [
     {
       "meaning": "nonstop, again and again",
-      "english": ["constantly", "endlessly", "repeatedly"],
+      "english": [
+        {
+          "id": "42xsqdh7",
+          "word": "constantly",
+          "meaning": "continuously; persistently",
+          "register": "colloquial",
+          "note": "Use this as the all-purpose choice when something continues without stopping or persists."
+        },
+        {
+          "id": "kdqu1y0w",
+          "word": "endlessly",
+          "meaning": "continuously without limit",
+          "register": "colloquial",
+          "note": "This is the all-purpose choice for something continuing without stopping."
+        },
+        {
+          "id": "sdli22px",
+          "word": "repeatedly",
+          "meaning": "done several times",
+          "register": "colloquial",
+          "note": "Use this when the repetition continues without stopping or with very short pauses."
+        }
+      ],
       "register": "colloquial",
       "examples": [
         {

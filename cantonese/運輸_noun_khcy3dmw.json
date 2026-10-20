@@ -6,7 +6,27 @@
   "boxes": [
     {
       "meaning": "transport of goods or people",
-      "english": ["transport", "transportation", "transit"],
+      "english": [
+        {
+          "id": "pj7ymcub",
+          "word": "transport",
+          "meaning": "transportation; conveyance",
+          "note": "This is the all-purpose noun for the act or process of moving goods or people."
+        },
+        {
+          "id": "7dt64m4l",
+          "word": "transportation",
+          "meaning": "transporting; conveyance",
+          "register": "formal",
+          "note": "Use this for the transporting of people or goods as an activity or service rather than for a vehicle or transport system."
+        },
+        {
+          "id": "rott06bu",
+          "word": "transit",
+          "meaning": "transport of goods or people",
+          "note": "Use this for the conveyance of people or goods as a process or service, especially freight."
+        }
+      ],
       "examples": [
         {
           "english": "The transport of this shipment needs to be arranged carefully.",

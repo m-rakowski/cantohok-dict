@@ -6,7 +6,28 @@
   "boxes": [
     {
       "meaning": "unskilled, not capable",
-      "english": ["untalented", "hopeless", "ineffective"],
+      "english": [
+        {
+          "id": "z39a3c19",
+          "word": "untalented",
+          "meaning": "not talented",
+          "register": "colloquial",
+          "note": "Use this colloquially when “untalented” shades into lacking ability or being unimpressive at something."
+        },
+        {
+          "id": "bwgn12qo",
+          "word": "hopeless",
+          "meaning": "completely inept",
+          "register": "colloquial",
+          "note": "Use this for someone who is hopelessly unskilled or lacks ability in a particular task."
+        },
+        {
+          "id": "fyino3bd",
+          "word": "ineffective",
+          "meaning": "incompetent; not capable",
+          "note": "Use this specifically for a person who lacks the ability or competence to do something."
+        }
+      ],
       "examples": [
         {
           "english": "This chef is really untalented; the food they cook is completely substandard.",
