@@ -1047,8 +1047,8 @@ function diskIsCaseSensitive(): boolean {
 test('two page paths that differ only in letter case', { skip: !diskIsCaseSensitive() }, () => {
   assert.deepEqual(
     checkWith(files => {
-      // Ids are lowercase, so two paths can differ only in case just when the id is the same too.
-      files['cantonese/的士_Noun_ppppppp1.json'] = files[CAB_PAGE].replace('"noun"', '"Noun"')
+      // Ids are lowercase, so two paths can differ only in case just when the id is the same too. The copy carries no entry ids, so the English entry rules stay quiet.
+      files['cantonese/的士_Noun_ppppppp1.json'] = cabPageCopy(files).replace('"noun"', '"Noun"')
     }),
     // Paths are sorted, and "N" sorts before "n". The two files hold one id, so that is reported too.
     [
