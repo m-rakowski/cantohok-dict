@@ -281,10 +281,7 @@ test('bad id shape', () => {
         delete freq.rows.aaaaaaa1
       })(files)
     }),
-    [
-      `${CAB}: /rows/0/id must match pattern "^[a-z0-9]{8}$"`,
-      `${CAB_PAGE}: English entry "aaaaaaa1" is not a row in words/`,
-    ],
+    [`${CAB}: /rows/0/id must match pattern "^[a-z0-9]{8}$"`],
   )
 })
 
@@ -295,11 +292,7 @@ test('duplicate id across files', () => {
         cab.rows[1].id = 'bbbbbbb1'
       }),
     ),
-    [
-      `duplicate id "bbbbbbb1" in ${CAB} and ${THURSDAY}`,
-      `${CAB_PAGE_2}: English entry "aaaaaaa2" is not a row in words/`,
-      'frequency.json: id "aaaaaaa2" is in no word file',
-    ],
+    [`duplicate id "bbbbbbb1" in ${CAB} and ${THURSDAY}`, 'frequency.json: id "aaaaaaa2" is in no word file'],
   )
 })
 
@@ -343,8 +336,6 @@ test('empty rows', () => {
     ),
     [
       `${CAB}: /rows must NOT have fewer than 1 items`,
-      `${CAB_PAGE}: English entry "aaaaaaa1" is not a row in words/`,
-      `${CAB_PAGE_2}: English entry "aaaaaaa2" is not a row in words/`,
       'frequency.json: id "aaaaaaa1" is in no word file',
       'frequency.json: id "aaaaaaa2" is in no word file',
     ],
@@ -797,7 +788,7 @@ test('page with no boxes', () => {
         page.boxes = []
       }),
     ),
-    [`${CAB_PAGE}: /boxes must NOT have fewer than 1 items`, `${CAB}: row "aaaaaaa1" is on no page entry`],
+    [`${CAB_PAGE}: /boxes must NOT have fewer than 1 items`],
   )
 })
 
@@ -808,7 +799,7 @@ test('box with no English word', () => {
         page.boxes[0].english = []
       }),
     ),
-    [`${CAB_PAGE}: /boxes/0/english must NOT have fewer than 1 items`, `${CAB}: row "aaaaaaa1" is on no page entry`],
+    [`${CAB_PAGE}: /boxes/0/english must NOT have fewer than 1 items`],
   )
 })
 
@@ -962,7 +953,7 @@ test('characters that cannot be a file name', () => {
         page.traditional = 'a/b'
       })(files)
     }),
-    [`${path}: ${problem}`, `${path}: English entry "aaaaaaa1" traditional "a/b" differs from ${CAB} ("的士")`],
+    [`${path}: ${problem}`],
   )
 })
 
@@ -1086,7 +1077,6 @@ test('a page that names another page path reports the file name once', () => {
     ),
     [
       'cantonese/車頭_noun_ppppppp2.json: file name does not match 的士 noun ppppppp2 (expected cantonese/的士_noun_ppppppp2.json)',
-      `${CAB_PAGE_2}: English entry "aaaaaaa2" traditional "的士" differs from ${CAB} ("車頭")`,
     ],
   )
 })
@@ -1116,7 +1106,6 @@ test('a schema-invalid page with a changed well-formed id still reports its look
       'pages-by-id.json: "aaaaaaa2" points at "ppppppp2", which is not a page id',
       'pages-by-id.json: "ppppppp2" points at "ppppppp2", which is not a page id',
       'pages-by-id.json: page "ppppppp9" (cantonese/車頭_noun_ppppppp2.json) does not map to itself',
-      `${CAB}: row "aaaaaaa2" is on no page entry`,
     ],
   )
 })
@@ -1175,11 +1164,7 @@ test('no pages and no lookup', () => {
       delete files['pages-by-id.json']
       for (const path of [CAB_PAGE, 'cantonese/車頭_noun_ppppppp2.json', THURSDAY_PAGE]) delete files[path]
     }),
-    [
-      `${CAB}: row "aaaaaaa1" is on no page entry`,
-      `${CAB}: row "aaaaaaa2" is on no page entry`,
-      `${THURSDAY}: row "bbbbbbb1" is on no page entry`,
-    ],
+    [],
   )
 })
 
@@ -1294,10 +1279,7 @@ test('placeholder letter in a box example', () => {
         page.boxes[0].examples[0].english = 'A met B at the airport.'
       }),
     ),
-    [
-      `${CAB_PAGE}: English entry "aaaaaaa1" example differs from ${CAB} (example 1 of the box differs in english)`,
-      `${CAB_PAGE}: box 1 example 1 english has a placeholder letter (B)`,
-    ],
+    [`${CAB_PAGE}: box 1 example 1 english has a placeholder letter (B)`],
   )
 })
 
@@ -1318,8 +1300,6 @@ test('English entry ids are unique across pages', () => {
   assert.deepEqual(errors, [
     `duplicate English entry id "ddddddd1" in ${THURSDAY_PAGE} and ${CAB_PAGE}`,
     `pages-by-id.json: English entry "ddddddd1" (${THURSDAY_PAGE}) maps to "ppppppp1", not to its page "ppppppp3"`,
-    `${THURSDAY_PAGE}: English entry "ddddddd1" is not a row in words/`,
-    `${CAB_PAGE}: English entry "ddddddd1" is not a row in words/`,
   ])
 })
 
@@ -1333,7 +1313,6 @@ test('English entry id equal to a page id', () => {
     [
       `${CAB_PAGE}: English entry id "ppppppp2" is also a page id`,
       `pages-by-id.json: English entry "ppppppp2" (${CAB_PAGE}) maps to "ppppppp2", not to its page "ppppppp1"`,
-      `${CAB_PAGE}: English entry "ppppppp2" is not a row in words/`,
     ],
   )
 })
@@ -1363,34 +1342,6 @@ test('English entry id mapped to another page', () => {
   )
 })
 
-test('a row that no page entry carries', () => {
-  assert.deepEqual(
-    checkWith(
-      editPage(CAB_PAGE_2, page => {
-        page.boxes[0].english = [{ word: 'cab' }]
-      }),
-    ),
-    [`${CAB}: row "aaaaaaa2" is on no page entry`],
-  )
-})
-
-test('an entry id that is not a row', () => {
-  assert.deepEqual(
-    checkWith(files => {
-      editPage(THURSDAY_PAGE, page => {
-        page.boxes[0].english[0].id = 'bbbbbbb9'
-      })(files)
-      editLookup(lookup => {
-        lookup.bbbbbbb9 = 'ppppppp3'
-      })(files)
-    }),
-    [
-      `${THURSDAY}: row "bbbbbbb1" is on no page entry`,
-      `${THURSDAY_PAGE}: English entry "bbbbbbb9" is not a row in words/`,
-    ],
-  )
-})
-
 test('an entry with only a word sits beside a full entry', () => {
   assert.deepEqual(
     checkWith(
@@ -1399,83 +1350,6 @@ test('an entry with only a word sits beside a full entry', () => {
       }),
     ),
     [],
-  )
-})
-
-test('an entry that differs from its row, field by field', () => {
-  assert.deepEqual(
-    checkWith(
-      editPage(CAB_PAGE, page => {
-        page.boxes[0].english[0].word = 'taxicab'
-        page.boxes[0].english[0].meaning = 'a car for hire'
-        delete page.boxes[0].english[0].note
-        page.boxes[0].english[0].register = 'formal'
-        page.jyutping = 'dik1 si3'
-      }),
-    ),
-    [
-      `${CAB_PAGE}: English entry "aaaaaaa1" word "taxicab" differs from ${CAB} ("cab")`,
-      `${CAB_PAGE}: English entry "aaaaaaa1" meaning "a car for hire" differs from ${CAB} ("taxi")`,
-      `${CAB_PAGE}: English entry "aaaaaaa1" note "" differs from ${CAB} ("This is the all-purpose Cantonese noun for a taxi or cab.")`,
-      `${CAB_PAGE}: English entry "aaaaaaa1" register "formal" differs from ${CAB} ("")`,
-      `${CAB_PAGE}: English entry "aaaaaaa1" jyutping "dik1 si3" differs from ${CAB} ("dik1 si2")`,
-    ],
-  )
-})
-
-test('an entry whose page has another part of speech or characters than its row', () => {
-  assert.deepEqual(
-    checkWith(
-      editCabRaw(cab => {
-        cab.rows[0].partOfSpeech = 'verb'
-        cab.rows[0].traditional = '德士'
-      }),
-    ),
-    [
-      `${CAB_PAGE}: English entry "aaaaaaa1" partOfSpeech "noun" differs from ${CAB} ("verb")`,
-      `${CAB_PAGE}: English entry "aaaaaaa1" traditional "的士" differs from ${CAB} ("德士")`,
-    ],
-  )
-})
-
-test('a row part of speech with a slash matches a page with a fullwidth slash', () => {
-  assert.deepEqual(
-    checkWith(files => {
-      files[THURSDAY] = files[THURSDAY].replace('"partOfSpeech": "noun"', '"partOfSpeech": "N/V"')
-      const page = JSON.parse(files[THURSDAY_PAGE])
-      page.partOfSpeech = 'N／V'
-      delete files[THURSDAY_PAGE]
-      files['cantonese/星期四_N／V_ppppppp3.json'] = JSON.stringify(page, null, 2) + '\n'
-    }),
-    [],
-  )
-})
-
-test('entry-to-row rules stay quiet when there are no word files', () => {
-  assert.deepEqual(
-    checkWith(files => {
-      delete files[CAB]
-      delete files[THURSDAY]
-    }),
-    [
-      'frequency.json: id "aaaaaaa1" is in no word file',
-      'frequency.json: id "aaaaaaa2" is in no word file',
-      'frequency.json: id "bbbbbbb1" is in no word file',
-      'frequency.json: "Thursday" has no word file',
-      'frequency.json: "cab" has no word file',
-      'aliases.json: "Thursday" has no word file',
-    ],
-  )
-})
-
-test('frequency.json order must be the index of the row in its word file', () => {
-  assert.deepEqual(
-    checkWith(
-      editFrequency(freq => {
-        freq.rows.aaaaaaa2.order = 0
-      }),
-    ),
-    [`frequency.json: row "aaaaaaa2" order 0 but it is row 1 of ${CAB}`],
   )
 })
 
@@ -1531,121 +1405,14 @@ test('an English word written as a bare string is refused by the schema', () => 
   )
 })
 
-/** Changes the page at `from` (to `to`) and the row's reading or characters, as a test of the slash mapping needs. */
-function moveThursdayPage(files: Record<string, string>, to: string, edit: (page: any) => void): void {
-  const page = JSON.parse(files[THURSDAY_PAGE])
-  edit(page)
-  delete files[THURSDAY_PAGE]
-  files[to] = JSON.stringify(page, null, 2) + '\n'
-}
-
-test('a row character string with a slash matches a page with a fullwidth slash', () => {
-  assert.deepEqual(
-    checkWith(files => {
-      files[THURSDAY] = files[THURSDAY].replace('"星期四"', '"星/期四"')
-      moveThursdayPage(files, 'cantonese/星／期四_noun_ppppppp3.json', page => {
-        page.traditional = '星／期四'
-      })
-    }),
-    [],
-  )
-})
-
-test('a reading is compared exactly, slash included', () => {
-  const reading = 'sing1 kei4 sei3/sing1'
-  assert.deepEqual(
-    checkWith(files => {
-      files[THURSDAY] = files[THURSDAY].replace('"sing1 kei4 sei3"', `"${reading}"`)
-      moveThursdayPage(files, THURSDAY_PAGE, page => {
-        page.jyutping = reading
-      })
-    }),
-    [],
-  )
-  assert.deepEqual(
-    checkWith(files => {
-      files[THURSDAY] = files[THURSDAY].replace('"sing1 kei4 sei3"', `"${reading}"`)
-      moveThursdayPage(files, THURSDAY_PAGE, page => {
-        page.jyutping = reading.replace('/', '／')
-      })
-    }),
-    [
-      `${THURSDAY_PAGE}: English entry "bbbbbbb1" jyutping "sing1 kei4 sei3／sing1" differs from ${THURSDAY} ("${reading}")`,
-    ],
-  )
-})
-
-test('a row with a register whose entry lacks it', () => {
-  assert.deepEqual(
-    checkWith(
-      editPage(CAB_PAGE_2, page => {
-        delete page.boxes[0].english[0].register
-      }),
-    ),
-    [`${CAB_PAGE_2}: English entry "aaaaaaa2" register "" differs from ${CAB} ("colloquial")`],
-  )
-})
-
-test('one broken page hides only its own rows from "row is on no page entry"', () => {
-  assert.deepEqual(
-    checkWith(files => {
-      files[CAB_PAGE] = '{ nope'
-      editPage(THURSDAY_PAGE, page => {
-        page.boxes[0].english[0] = { word: 'Thursday' }
-      })(files)
-    }),
-    [`${CAB_PAGE}: invalid JSON`, `${THURSDAY}: row "bbbbbbb1" is on no page entry`],
-  )
-})
-
-test('the row example must be the box example at the entry position', () => {
+test('a page may drop one of its entries while the row stays in words/', () => {
   assert.deepEqual(
     checkWith(
       editPage(CAB_PAGE, page => {
-        page.boxes[0].examples[0].traditional = '我哋叫咗架的士。'
-        page.boxes[0].examples[0].jyutping = 'ngo5 dei6'
-      }),
-    ),
-    [
-      `${CAB_PAGE}: English entry "aaaaaaa1" example differs from ${CAB} (example 1 of the box differs in traditional, jyutping)`,
-    ],
-  )
-  assert.deepEqual(
-    checkWith(
-      editPage(CAB_PAGE, page => {
+        page.boxes[0].english = [{ word: 'taxi' }]
         page.boxes[0].examples = []
       }),
     ),
-    [
-      `${CAB_PAGE}: English entry "aaaaaaa1" example differs from ${CAB} (the row has an example but the box has no example 1)`,
-    ],
-  )
-})
-
-test('a row without an example needs no box example at its position, and may not have one', () => {
-  assert.deepEqual(
-    checkWith(
-      editPage(CAB_PAGE_2, page => {
-        page.boxes[0].examples = [
-          { english: 'It rode on the cab.', traditional: '佢坐車頭。', jyutping: 'keoi5 co5 ce1 tau4' },
-        ]
-      }),
-    ),
-    [
-      `${CAB_PAGE_2}: English entry "aaaaaaa2" example differs from ${CAB} (the row has no example but example 1 of the box is "It rode on the cab.")`,
-    ],
-  )
-})
-
-test('the example is paired by the entry position in the box', () => {
-  assert.deepEqual(
-    checkWith(
-      editPage(CAB_PAGE, page => {
-        page.boxes[0].english.unshift({ word: 'taxi' })
-      }),
-    ),
-    [
-      `${CAB_PAGE}: English entry "aaaaaaa1" example differs from ${CAB} (the row has an example but the box has no example 2)`,
-    ],
+    [],
   )
 })
