@@ -214,7 +214,7 @@ remember the rule — just let `check` tell you if you got a filename wrong.
 
 ## Building the release files
 
-`pnpm run export` reads everything in `words/`, `frequency.json` and
+`pnpm run export` reads the page files in `cantonese/`, `frequency.json` and
 `aliases.json`, and writes the files people actually download into `dist/`:
 
 - `dictionary.csv` and `dictionary.jsonl` — the whole dictionary, one row per

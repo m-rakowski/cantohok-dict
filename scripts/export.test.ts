@@ -130,3 +130,20 @@ test('toPleco flattens a tab inside a note to a space', () => {
   assert.equal(thursdayLine.split('\t').length, 2, "the note's tab must not add a second tab to the line")
   assert.match(thursdayLine, /This is the all-purpose word for Thursday\./)
 })
+
+test('toCsv picks the example by the search rule: own position if it names the word, else the first that does', () => {
+  const files = validFixture()
+  const path = 'cantonese/的士_noun_ppppppp1.json'
+  const page = JSON.parse(files[path])
+  const [first] = page.boxes[0].examples
+  const other = { english: 'The Cabbage was cheap.', traditional: '椰菜好平。', jyutping: 'je4 coi3 hou2 pea4' }
+  page.boxes[0].examples = [other, first]
+  files[path] = JSON.stringify(page, null, 2) + '\n'
+  const rows = toCsv(loadValidRepo(writeTree(files))).split('\n')
+  const cab = rows.find(line => line.startsWith('aaaaaaa1,'))
+  assert.ok(
+    cab?.includes('We called a cab to the airport.'),
+    'own sentence lacks the word, so the first that has it is used',
+  )
+  assert.ok(!cab?.includes('Cabbage'))
+})

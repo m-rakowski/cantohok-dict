@@ -1,12 +1,12 @@
-// Mints a fresh 8-character id for a brand-new row or page, one that no row
-// or page in the repo already uses. (Two people working on separate branches could still,
+// Mints a fresh 8-character id for a brand-new English entry or page, one that no
+// entry or page in the repo already uses. (Two people working on separate branches could still,
 // very rarely, pick the same one; `pnpm run check` catches that.) Run it with `pnpm run new-id`; it prints one id
 // to the terminal.
 import { randomInt } from 'node:crypto'
-import { readFileSync } from 'node:fs'
+import { existsSync, readFileSync } from 'node:fs'
 import { join } from 'node:path'
-import { listPageFiles, listWordFiles } from './repo.ts'
-import type { WordFile } from './types.ts'
+import { listPageFiles } from './repo.ts'
+import type { PageFile, PageLookup } from './types.ts'
 
 const ALPHABET = 'abcdefghijklmnopqrstuvwxyz0123456789'
 
@@ -25,26 +25,35 @@ export function newId(taken: Set<string>, random: (max: number) => number = rand
 }
 
 /**
- * Every id already used in `root`: each row id in a word file, and each page
- * id in a Cantonese page file, because a page id must never equal a row id. A
- * page file that is not valid JSON, or has no string `id`, is skipped here;
- * `pnpm run check` reports it.
+ * Every id already used in `root`: each page id, each English entry id on a
+ * page, and each key of pages-by-id.json, because a page id must never equal
+ * an entry id. A page file that is not valid JSON, or has no string `id`, is
+ * skipped here; `pnpm run check` reports it. Word files in the legacy words/
+ * folder do not count.
  */
 export function collectTakenIds(root: string): Set<string> {
   const taken = new Set<string>()
-  for (const path of listWordFiles(root)) {
-    const file = JSON.parse(readFileSync(join(root, path), 'utf8')) as WordFile
-    for (const row of file.rows) taken.add(row.id)
+  const lookup = join(root, 'pages-by-id.json')
+  if (existsSync(lookup)) {
+    try {
+      for (const id of Object.keys(JSON.parse(readFileSync(lookup, 'utf8')) as PageLookup)) taken.add(id)
+    } catch {
+      // pnpm run check reports an unreadable lookup
+    }
   }
   for (const path of listPageFiles(root)) {
-    let page: unknown
+    let page: Partial<PageFile> | null
     try {
       page = JSON.parse(readFileSync(join(root, path), 'utf8'))
     } catch {
       continue
     }
-    const id = typeof page === 'object' && page !== null ? (page as { id?: unknown }).id : undefined
-    if (typeof id === 'string') taken.add(id)
+    if (typeof page !== 'object' || page === null) continue
+    if (typeof page.id === 'string') taken.add(page.id)
+    if (!Array.isArray(page.boxes)) continue
+    for (const box of page.boxes)
+      for (const entry of Array.isArray(box?.english) ? box.english : [])
+        if (typeof entry?.id === 'string') taken.add(entry.id)
   }
   return taken
 }
