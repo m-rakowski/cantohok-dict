@@ -26,26 +26,28 @@ test('newId re-rolls when the injected random source produces a taken id first',
   assert.equal(i, sequence.length)
 })
 
-test('collectTakenIds includes page ids', () => {
+test('collectTakenIds: page ids, English entry ids and pages-by-id.json keys; not word files', () => {
   const root = writeTree({
-    'words/c/cab.json': JSON.stringify({ term: 'cab', rows: [{ id: 'aaaaaaa1' }] }),
+    'words/c/cab.json': JSON.stringify({ term: 'cab', rows: [{ id: 'wwwwwww1' }] }),
     'cantonese/的士_noun_cccccccc.json': JSON.stringify({
       id: 'cccccccc',
       traditional: '的士',
       partOfSpeech: 'noun',
       jyutping: 'dik1 si2',
-      boxes: [],
+      boxes: [{ meaning: 'taxi', english: [{ id: 'aaaaaaa1', word: 'cab' }, { word: 'taxi' }], examples: [] }],
     }),
+    'pages-by-id.json': JSON.stringify({ aaaaaaa1: 'cccccccc', cccccccc: 'cccccccc', dddddddd: 'cccccccc' }),
   })
-  assert.deepEqual(collectTakenIds(root), new Set(['aaaaaaa1', 'cccccccc']))
+  assert.deepEqual(collectTakenIds(root), new Set(['aaaaaaa1', 'cccccccc', 'dddddddd']))
 })
 
 test('collectTakenIds skips a page file that is not valid JSON, or has no string id', () => {
   const root = writeTree({
-    'words/c/cab.json': JSON.stringify({ term: 'cab', rows: [{ id: 'aaaaaaa1' }] }),
     'cantonese/壞.json': '{ not json',
     'cantonese/冇.json': JSON.stringify({ traditional: '冇' }),
     'cantonese/空.json': 'null',
+    'cantonese/箱.json': JSON.stringify({ id: 'bbbbbbb1', boxes: [null, { english: 'x' }] }),
+    'pages-by-id.json': '{ not json',
   })
-  assert.deepEqual(collectTakenIds(root), new Set(['aaaaaaa1']))
+  assert.deepEqual(collectTakenIds(root), new Set(['bbbbbbb1']))
 })

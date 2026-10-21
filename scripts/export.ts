@@ -1,21 +1,22 @@
-// Still reads the legacy words/ folder (words/README.md); it is the last
-// script that does, and will move to the page files in cantonese/.
-//
-// Turns everything in words/, frequency.json and aliases.json into the
-// finished files people actually download: a spreadsheet (CSV), a JSON Lines
-// file, an aliases lookup, and a file formatted for the Pleco dictionary
-// app. Run it with `pnpm run export`; the output lands in dist/. You don't
-// need to run this yourself to submit a fix — it only matters when
+// Turns the Cantonese page files in cantonese/, frequency.json and aliases.json
+// into the finished files people actually download: a spreadsheet (CSV), a
+// JSON Lines file, an aliases lookup, and a file formatted for the Pleco
+// dictionary app. Run it with `pnpm run export`; the output lands in dist/.
+// You don't need to run this yourself to submit a fix — it only matters when
 // preparing a release.
+//
+// The `id` column is the English entry's own id. An entry added in the editor
+// has none yet, so its id here is composite, `<page id>:<English word>`
+// (unique on its page), and its shares are 0.
 import { mkdirSync, readFileSync, writeFileSync } from 'node:fs'
 import { join } from 'node:path'
 import { stringify } from 'csv-stringify/sync'
 import { checkRepo } from './check.ts'
-import { listWordFiles } from './repo.ts'
-import type { AliasesFile, FrequencyFile, Row, WordFile } from './types.ts'
+import { listPageFiles } from './repo.ts'
+import type { AliasesFile, Example, FrequencyFile, PageFile, Row } from './types.ts'
 
 export interface Repo {
-  words: WordFile[]
+  pages: PageFile[]
   frequency: FrequencyFile
   aliases: AliasesFile
 }
@@ -26,21 +27,74 @@ export function loadValidRepo(root: string): Repo {
   if (errors.length) throw new Error(`the repo has problems:\n${errors.join('\n')}`)
   const read = (path: string) => JSON.parse(readFileSync(join(root, path), 'utf8'))
   return {
-    words: listWordFiles(root).map(path => read(path) as WordFile),
+    pages: listPageFiles(root).map(path => read(path) as PageFile),
     frequency: read('frequency.json') as FrequencyFile,
     aliases: read('aliases.json') as AliasesFile,
   }
 }
 
-function orderedWords(repo: Repo): WordFile[] {
-  return [...repo.words].sort(
-    (a, b) =>
-      repo.frequency.words[a.term] - repo.frequency.words[b.term] || (a.term < b.term ? -1 : a.term > b.term ? 1 : 0),
-  )
+/** One exported line: a row plus the English word it belongs to. */
+interface ExportRow extends Row {
+  term: string
+  pageId: string
+  /** The entry's running place on its page (box order, then position in the box), the last tie-break. */
+  sequence: number
 }
 
-function eachRow(repo: Repo): Array<{ word: WordFile; row: Row }> {
-  return orderedWords(repo).flatMap(word => word.rows.map(row => ({ word, row })))
+const escapeRegExp = (text: string): string => text.replace(/[.*+?^${}()|[\]\\]/gu, '\\$&')
+
+/**
+ * The sentence shown with an English entry: the one at the entry's own
+ * position if its English contains the word (case-insensitive, whole word),
+ * else the first sentence that does, else the one at its own position (which
+ * may not exist).
+ */
+function chooseExample(examples: Example[], position: number, word: string): Example | undefined {
+  const contains = new RegExp(`(^|[^\\p{L}])${escapeRegExp(word)}([^\\p{L}]|$)`, 'iu')
+  const own = examples[position]
+  if (own && contains.test(own.english)) return own
+  return examples.find(example => contains.test(example.english)) ?? own
+}
+
+/** A word's rank in frequency.json, or undefined when it has none (those words sort after every ranked one). */
+const rankOf = (repo: Repo, term: string): number | undefined =>
+  Object.hasOwn(repo.frequency.words, term) ? repo.frequency.words[term] : undefined
+
+const byText = (a: string, b: string): number => (a < b ? -1 : a > b ? 1 : 0)
+
+function eachRow(repo: Repo): ExportRow[] {
+  const rows: ExportRow[] = []
+  for (const page of repo.pages) {
+    // The running place on the page: box order, then position in the box.
+    const entries = page.boxes.flatMap(box => box.english.map((entry, position) => ({ box, entry, position })))
+    entries.forEach(({ box, entry, position }, sequence) => {
+      const row: ExportRow = {
+        id: entry.id ?? `${page.id}:${entry.word}`,
+        term: entry.word,
+        pageId: page.id,
+        sequence,
+        partOfSpeech: page.partOfSpeech,
+        meaning: entry.meaning ?? box.meaning,
+        traditional: page.traditional,
+        jyutping: page.jyutping,
+        note: entry.note ?? '',
+      }
+      if (entry.register !== undefined) row.register = entry.register
+      const example = chooseExample(box.examples, position, entry.word)
+      if (example) row.example = example
+      rows.push(row)
+    })
+  }
+  const orderOf = (row: ExportRow): number =>
+    Object.hasOwn(repo.frequency.rows, row.id) ? repo.frequency.rows[row.id].order : Infinity
+  return rows.sort(
+    (a, b) =>
+      (rankOf(repo, a.term) ?? Infinity) - (rankOf(repo, b.term) ?? Infinity) ||
+      byText(a.term, b.term) ||
+      (orderOf(a) === orderOf(b) ? 0 : orderOf(a) < orderOf(b) ? -1 : 1) ||
+      byText(a.pageId, b.pageId) ||
+      a.sequence - b.sequence,
+  )
 }
 
 const CSV_COLUMNS = [
@@ -62,9 +116,9 @@ const CSV_COLUMNS = [
  * Both CSVs start with a UTF-8 BOM (an invisible marker): without it, Excel guesses a legacy encoding and shows the Chinese as garbled text.
  */
 export function toCsv(repo: Repo): string {
-  const records = eachRow(repo).map(({ word, row }) => ({
+  const records = eachRow(repo).map(row => ({
     id: row.id,
-    term: word.term,
+    term: row.term,
     partOfSpeech: row.partOfSpeech,
     meaning: row.meaning,
     traditional: row.traditional,
@@ -82,12 +136,14 @@ export function toCsv(repo: Repo): string {
 export function toJsonl(repo: Repo): string {
   return (
     eachRow(repo)
-      .map(({ word, row }) => {
-        const shares = repo.frequency.rows[row.id]
+      .map(row => {
+        const shares = Object.hasOwn(repo.frequency.rows, row.id)
+          ? repo.frequency.rows[row.id]
+          : { meaningShare: 0, share: 0 }
         const out: Record<string, unknown> = {
           id: row.id,
-          term: word.term,
-          rank: repo.frequency.words[word.term],
+          term: row.term,
+          ...(rankOf(repo, row.term) === undefined ? {} : { rank: rankOf(repo, row.term) }),
           partOfSpeech: row.partOfSpeech,
           meaning: row.meaning,
           meaningShare: shares.meaningShare,
@@ -143,7 +199,7 @@ const flat = (value: string): string => value.replace(/[\t\r\n]+/gu, ' ').trim()
 
 /** Builds the cantohok-en-yue.txt contents: the whole dictionary formatted for the Pleco app to import as a user dictionary. */
 export function toPleco(repo: Repo): string {
-  const lines = eachRow(repo).map(({ word, row }) => {
+  const lines = eachRow(repo).map(row => {
     const pos = POS_ABBREVIATION[row.partOfSpeech] ?? row.partOfSpeech
     const label = row.register ? `${pos}, ${row.register}` : pos
     const parts = [`${BOLD(flat(row.traditional))}  ${toneMarks(flat(row.jyutping))}  ${ITALIC(label)}`, flat(row.note)]
@@ -155,7 +211,7 @@ export function toPleco(repo: Repo): string {
         ITALIC(flat(row.example.english)),
       )
     }
-    return `${flat(word.term)}\t${parts.join(NL)}`
+    return `${flat(row.term)}\t${parts.join(NL)}`
   })
   return BOM + lines.join('\n') + '\n'
 }
@@ -171,6 +227,6 @@ if (import.meta.main) {
     ['cantohok-en-yue.txt', toPleco(repo)],
   ]
   for (const [name, contents] of outputs) writeFileSync(join(root, 'dist', name), contents)
-  const rows = repo.words.reduce((sum, word) => sum + word.rows.length, 0)
-  console.log(`exported ${repo.words.length} words, ${rows} rows to dist/`)
+  const rows = eachRow(repo)
+  console.log(`exported ${new Set(rows.map(row => row.term)).size} words, ${rows.length} rows to dist/`)
 }

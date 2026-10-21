@@ -214,7 +214,7 @@ remember the rule — just let `check` tell you if you got a filename wrong.
 
 ## Building the release files
 
-`pnpm run export` reads everything in `words/`, `frequency.json` and
+`pnpm run export` reads the page files in `cantonese/`, `frequency.json` and
 `aliases.json`, and writes the files people actually download into `dist/`:
 
 - `dictionary.csv` and `dictionary.jsonl` — the whole dictionary, one row per
@@ -224,6 +224,9 @@ remember the rule — just let `check` tell you if you got a filename wrong.
 - `cantohok-en-yue.txt` — a dictionary file formatted for the Pleco app. In
   Pleco: Manage Dictionaries → Add User → Create New → language English →
   open it → Import Entries → pick this file → UTF-8.
+
+In these files an English entry added in the editor has no `id` yet, so its
+`id` is composite, `<page id>:<English word>`, and its shares are 0.
 
 You don't need to run this yourself to contribute a fix — it only matters if
 you're preparing a release.
