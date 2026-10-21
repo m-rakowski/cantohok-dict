@@ -159,12 +159,7 @@ test('invalid JSON', () => {
     checkWith(files => {
       files[CAB] = '{ nope'
     }),
-    [
-      `${CAB}: invalid JSON`,
-      'frequency.json: id "aaaaaaa1" is in no word file',
-      'frequency.json: id "aaaaaaa2" is in no word file',
-      'frequency.json: "cab" has no word file',
-    ],
+    [`${CAB}: invalid JSON`],
   )
 })
 
@@ -201,12 +196,7 @@ test('blank term ("")', () => {
         cab.term = ''
       }),
     ),
-    [
-      `${CAB}: /term must match pattern "\\S"`,
-      'frequency.json: id "aaaaaaa1" is in no word file',
-      'frequency.json: id "aaaaaaa2" is in no word file',
-      'frequency.json: "cab" has no word file',
-    ],
+    [`${CAB}: /term must match pattern "\\S"`],
   )
 })
 
@@ -217,12 +207,7 @@ test('blank term (whitespace only)', () => {
         cab.term = ' '
       }),
     ),
-    [
-      `${CAB}: /term must match pattern "\\S"`,
-      'frequency.json: id "aaaaaaa1" is in no word file',
-      'frequency.json: id "aaaaaaa2" is in no word file',
-      'frequency.json: "cab" has no word file',
-    ],
+    [`${CAB}: /term must match pattern "\\S"`],
   )
 })
 
@@ -292,7 +277,10 @@ test('duplicate id across files', () => {
         cab.rows[1].id = 'bbbbbbb1'
       }),
     ),
-    [`duplicate id "bbbbbbb1" in ${CAB} and ${THURSDAY}`, 'frequency.json: id "aaaaaaa2" is in no word file'],
+    [
+      `duplicate id "bbbbbbb1" in ${CAB} and ${THURSDAY}`,
+      `${CAB}: meaning "noun · taxi" has rows with different meaningShare (80, 100)`,
+    ],
   )
 })
 
@@ -334,11 +322,7 @@ test('empty rows', () => {
         cab.rows = []
       }),
     ),
-    [
-      `${CAB}: /rows must NOT have fewer than 1 items`,
-      'frequency.json: id "aaaaaaa1" is in no word file',
-      'frequency.json: id "aaaaaaa2" is in no word file',
-    ],
+    [`${CAB}: /rows must NOT have fewer than 1 items`],
   )
 })
 
@@ -360,7 +344,7 @@ test('frequency.json entry for an id in no word file', () => {
         freq.rows.zzzzzzz9 = { meaningShare: 1, share: 1, order: 0 }
       }),
     ),
-    ['frequency.json: id "zzzzzzz9" is in no word file'],
+    ['frequency.json: id "zzzzzzz9" is in no page entry or word file'],
   )
 })
 
@@ -404,7 +388,7 @@ test('frequency.json rank for a term with no word file', () => {
         freq.words.bus = 5
       }),
     ),
-    ['frequency.json: "bus" has no word file'],
+    [`frequency.json: "bus" is no page entry's word and has no word file`],
   )
 })
 
@@ -455,7 +439,7 @@ test('aliases.json key with no word file', () => {
       aliases.bus = ['taxi-like-thing']
       files['aliases.json'] = JSON.stringify(aliases, null, 2) + '\n'
     }),
-    ['aliases.json: "bus" has no word file'],
+    [`aliases.json: "bus" is no page entry's word and has no word file`],
   )
 })
 
@@ -1413,6 +1397,30 @@ test('a page may drop one of its entries while the row stays in words/', () => {
         page.boxes[0].examples = []
       }),
     ),
+    [],
+  )
+})
+
+test('a page-only word needs no word file: its entry id, rank and alias are accepted', () => {
+  assert.deepEqual(
+    checkWith(files => {
+      const page = JSON.parse(files['cantonese/星期四_noun_ppppppp3.json'])
+      page.boxes[0].english.push({
+        id: 'ddddddd1',
+        word: 'Friday',
+        meaning: 'day of the week',
+        note: 'This is the all-purpose word for Friday.',
+      })
+      files['cantonese/星期四_noun_ppppppp3.json'] = JSON.stringify(page, null, 2) + '\n'
+      const lookup = JSON.parse(files['pages-by-id.json'])
+      lookup.ddddddd1 = 'ppppppp3'
+      files['pages-by-id.json'] = JSON.stringify(lookup, null, 2) + '\n'
+      const freq = JSON.parse(files['frequency.json'])
+      freq.rows.ddddddd1 = { meaningShare: 100, share: 100, order: 1 }
+      freq.words.Friday = 950
+      files['frequency.json'] = JSON.stringify(freq, null, 2) + '\n'
+      files['aliases.json'] = JSON.stringify({ Thursday: ['thursdays'], Friday: ['fridays'] }, null, 2) + '\n'
+    }),
     [],
   )
 })

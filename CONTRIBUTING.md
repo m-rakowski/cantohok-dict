@@ -225,6 +225,9 @@ remember the rule — just let `check` tell you if you got a filename wrong.
   Pleco: Manage Dictionaries → Add User → Create New → language English →
   open it → Import Entries → pick this file → UTF-8.
 
+In these files an English entry added in the editor has no `id` yet, so its
+`id` is composite, `<page id>:<English word>`, and its shares are 0.
+
 You don't need to run this yourself to contribute a fix — it only matters if
 you're preparing a release.
 

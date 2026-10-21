@@ -39,11 +39,14 @@
 //   pages-by-id.json that maps to the page holding the entry.
 // - frequency.json and aliases.json must exist.
 // - Every row's id must have a matching entry in frequency.json's "rows",
-//   and every id listed there must belong to a real row. Each of those
+//   and every id listed there must belong to a real row or to an English
+//   entry on a page (a page-only word needs no word file). Each of those
 //   entries carries an integer "order".
 // - Every word's term must have a rank in frequency.json's "words", and
-//   every term listed there must belong to a real word file.
-// - Every term used as a key in aliases.json must belong to a real word file.
+//   every term listed there must be some page entry's word or a legacy word
+//   file's term.
+// - Every term used as a key in aliases.json must likewise be some page
+//   entry's word or a legacy word file's term.
 // - Rows in the same word's file that share the same partOfSpeech and
 //   meaning (so, the same sense of the word) must all list the same
 //   meaningShare number in frequency.json.
@@ -175,6 +178,18 @@ interface CheckedPage {
   valid: boolean
   /** The ids of its English entries, read even when the page fails the schema; empty when the file is not JSON. */
   entryIds: string[]
+  /** The English words of its entries, read the same way. */
+  entryWords: string[]
+}
+
+/** English words of entries in a parsed page, ignoring anything of the wrong shape (the schema reports those). */
+function rawEntryWords(json: unknown): string[] {
+  if (!isObject(json) || !Array.isArray(json.boxes)) return []
+  const words: string[] = []
+  for (const box of json.boxes)
+    if (isObject(box) && Array.isArray(box.english))
+      for (const entry of box.english) if (isObject(entry) && isFilled(entry.word)) words.push(entry.word)
+  return words
 }
 
 /** Ids of English entries in a parsed page, ignoring anything of the wrong shape (the schema reports those). */
@@ -216,7 +231,7 @@ function checkPages(root: string, errors: string[]): CheckedPage[] {
     }
     const json = parseJson(root, path, errors)
     if (json === INVALID) {
-      pages.push({ path, id: null, file: null, valid: false, entryIds: [] })
+      pages.push({ path, id: null, file: null, valid: false, entryIds: [], entryWords: [] })
       continue
     }
     const valid = runSchema(path, json, validatePage, errors)
@@ -235,7 +250,14 @@ function checkPages(root: string, errors: string[]): CheckedPage[] {
       nameOk = !problem && id !== null && pagePath(traditional, partOfSpeech, id) === path
     }
     names.push({ path, nameOk })
-    pages.push({ path, id, file: valid ? (json as unknown as PageFile) : null, valid, entryIds: rawEntryIds(json) })
+    pages.push({
+      path,
+      id,
+      file: valid ? (json as unknown as PageFile) : null,
+      valid,
+      entryIds: rawEntryIds(json),
+      entryWords: rawEntryWords(json),
+    })
   }
   errors.push(...casePathDuplicates(names))
   return pages
@@ -337,7 +359,12 @@ function readTopLevelFile(root: string, path: string, validate: ValidateFunction
   return runSchema(path, json, validate, errors) ? json : null
 }
 
-function checkFrequency(root: string, words: CheckedWord[], errors: string[]): FrequencyFile | null {
+function checkFrequency(
+  root: string,
+  words: CheckedWord[],
+  pages: CheckedPage[],
+  errors: string[],
+): FrequencyFile | null {
   const json = readTopLevelFile(root, 'frequency.json', validateFrequency, errors) as FrequencyFile | null
   if (!json) return null
 
@@ -347,23 +374,27 @@ function checkFrequency(root: string, words: CheckedWord[], errors: string[]): F
     for (const id of rowIds)
       if (!Object.hasOwn(json.rows, id)) errors.push(`frequency.json: no entry for id "${id}" (${path})`)
   }
+  const entryIds = new Set(pages.flatMap(page => page.entryIds))
   for (const id of Object.keys(json.rows))
-    if (!idPath.has(id)) errors.push(`frequency.json: id "${id}" is in no word file`)
+    if (!idPath.has(id) && !entryIds.has(id)) errors.push(`frequency.json: id "${id}" is in no page entry or word file`)
 
   const termPath = new Map(words.map(({ term, path }) => [term, path]))
   for (const { term, path } of words)
     if (!Object.hasOwn(json.words, term)) errors.push(`frequency.json: no rank for "${term}" (${path})`)
+  const entryWords = new Set(pages.flatMap(page => page.entryWords))
   for (const term of Object.keys(json.words))
-    if (!termPath.has(term)) errors.push(`frequency.json: "${term}" has no word file`)
+    if (!termPath.has(term) && !entryWords.has(term))
+      errors.push(`frequency.json: "${term}" is no page entry's word and has no word file`)
 
   return json
 }
 
-function checkAliases(root: string, words: CheckedWord[], errors: string[]): void {
+function checkAliases(root: string, words: CheckedWord[], pages: CheckedPage[], errors: string[]): void {
   const json = readTopLevelFile(root, 'aliases.json', validateAliases, errors) as AliasesFile | null
   if (!json) return
-  const terms = new Set(words.map(word => word.term))
-  for (const term of Object.keys(json)) if (!terms.has(term)) errors.push(`aliases.json: "${term}" has no word file`)
+  const terms = new Set([...words.map(word => word.term), ...pages.flatMap(page => page.entryWords)])
+  for (const term of Object.keys(json))
+    if (!terms.has(term)) errors.push(`aliases.json: "${term}" is no page entry's word and has no word file`)
 }
 
 function checkMeaningShare(words: CheckedWord[], frequency: FrequencyFile | null, errors: string[]): void {
@@ -428,9 +459,9 @@ export function checkRepo(root: string): string[] {
   checkPageReadings(pages, errors)
   checkPageLookup(root, pages, words, errors)
   const beforeFrequency = errors.length
-  const frequency = checkFrequency(root, words, errors)
+  const frequency = checkFrequency(root, words, pages, errors)
   const frequencyClean = errors.length === beforeFrequency
-  checkAliases(root, words, errors)
+  checkAliases(root, words, pages, errors)
   // meaningShare compares rows via the ids frequency.json maps them by, so it
   // only runs once that map is known complete (no missing/orphaned entries) —
   // otherwise a row whose id has no frequency.json entry, or a duplicate id

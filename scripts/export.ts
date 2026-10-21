@@ -4,6 +4,10 @@
 // dictionary app. Run it with `pnpm run export`; the output lands in dist/.
 // You don't need to run this yourself to submit a fix — it only matters when
 // preparing a release.
+//
+// The `id` column is the English entry's own id. An entry added in the editor
+// has none yet, so its id here is composite, `<page id>:<English word>`
+// (unique on its page), and its shares are 0.
 import { mkdirSync, readFileSync, writeFileSync } from 'node:fs'
 import { join } from 'node:path'
 import { stringify } from 'csv-stringify/sync'
@@ -33,7 +37,8 @@ export function loadValidRepo(root: string): Repo {
 interface ExportRow extends Row {
   term: string
   pageId: string
-  position: number
+  /** The entry's running place on its page (box order, then position in the box), the last tie-break. */
+  sequence: number
 }
 
 const escapeRegExp = (text: string): string => text.replace(/[.*+?^${}()|[\]\\]/gu, '\\$&')
@@ -51,37 +56,44 @@ function chooseExample(examples: Example[], position: number, word: string): Exa
   return examples.find(example => contains.test(example.english)) ?? own
 }
 
+/** A word's rank in frequency.json, or undefined when it has none (those words sort after every ranked one). */
+const rankOf = (repo: Repo, term: string): number | undefined =>
+  Object.hasOwn(repo.frequency.words, term) ? repo.frequency.words[term] : undefined
+
 const byText = (a: string, b: string): number => (a < b ? -1 : a > b ? 1 : 0)
 
 function eachRow(repo: Repo): ExportRow[] {
   const rows: ExportRow[] = []
-  for (const page of repo.pages)
-    for (const box of page.boxes)
-      box.english.forEach((entry, position) => {
-        const row: ExportRow = {
-          id: entry.id ?? page.id,
-          term: entry.word,
-          pageId: page.id,
-          position,
-          partOfSpeech: page.partOfSpeech,
-          meaning: entry.meaning ?? box.meaning,
-          traditional: page.traditional,
-          jyutping: page.jyutping,
-          note: entry.note ?? '',
-        }
-        if (entry.register !== undefined) row.register = entry.register
-        const example = chooseExample(box.examples, position, entry.word)
-        if (example) row.example = example
-        rows.push(row)
-      })
-  const orderOf = (row: ExportRow): number => repo.frequency.rows[row.id]?.order ?? Infinity
+  for (const page of repo.pages) {
+    // The running place on the page: box order, then position in the box.
+    const entries = page.boxes.flatMap(box => box.english.map((entry, position) => ({ box, entry, position })))
+    entries.forEach(({ box, entry, position }, sequence) => {
+      const row: ExportRow = {
+        id: entry.id ?? `${page.id}:${entry.word}`,
+        term: entry.word,
+        pageId: page.id,
+        sequence,
+        partOfSpeech: page.partOfSpeech,
+        meaning: entry.meaning ?? box.meaning,
+        traditional: page.traditional,
+        jyutping: page.jyutping,
+        note: entry.note ?? '',
+      }
+      if (entry.register !== undefined) row.register = entry.register
+      const example = chooseExample(box.examples, position, entry.word)
+      if (example) row.example = example
+      rows.push(row)
+    })
+  }
+  const orderOf = (row: ExportRow): number =>
+    Object.hasOwn(repo.frequency.rows, row.id) ? repo.frequency.rows[row.id].order : Infinity
   return rows.sort(
     (a, b) =>
-      (repo.frequency.words[a.term] ?? Infinity) - (repo.frequency.words[b.term] ?? Infinity) ||
+      (rankOf(repo, a.term) ?? Infinity) - (rankOf(repo, b.term) ?? Infinity) ||
       byText(a.term, b.term) ||
       (orderOf(a) === orderOf(b) ? 0 : orderOf(a) < orderOf(b) ? -1 : 1) ||
       byText(a.pageId, b.pageId) ||
-      a.position - b.position,
+      a.sequence - b.sequence,
   )
 }
 
@@ -125,11 +137,13 @@ export function toJsonl(repo: Repo): string {
   return (
     eachRow(repo)
       .map(row => {
-        const shares = repo.frequency.rows[row.id]
+        const shares = Object.hasOwn(repo.frequency.rows, row.id)
+          ? repo.frequency.rows[row.id]
+          : { meaningShare: 0, share: 0 }
         const out: Record<string, unknown> = {
           id: row.id,
           term: row.term,
-          rank: repo.frequency.words[row.term],
+          ...(rankOf(repo, row.term) === undefined ? {} : { rank: rankOf(repo, row.term) }),
           partOfSpeech: row.partOfSpeech,
           meaning: row.meaning,
           meaningShare: shares.meaningShare,
