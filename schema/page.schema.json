@@ -51,7 +51,9 @@
   "additionalProperties": false,
   "properties": {
     "id": { "pattern": "^[a-z0-9]{8}$", "type": "string" },
-    "partOfSpeech": { "$ref": "#/$defs/nonEmptyString" },
+    "partOfSpeech": {
+      "enum": ["noun", "verb", "adj", "adv", "prep", "pron", "det", "conj", "num", "name", "intj", "phrase", "postp"]
+    },
     "traditional": { "$ref": "#/$defs/nonEmptyString" },
     "jyutping": { "$ref": "#/$defs/nonEmptyString" },
     "boxes": {

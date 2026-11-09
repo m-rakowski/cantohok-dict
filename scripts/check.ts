@@ -15,6 +15,10 @@
 // - Every Cantonese page file (cantonese/<traditional>_<partOfSpeech>_<id>.json)
 //   must be valid JSON and match schema/page.schema.json: at least one box,
 //   every box with at least one English word, and no id on a box.
+// - A page's "partOfSpeech" must be one of 13 values: noun, verb, adj
+//   (adjective), adv (adverb), prep (preposition), pron (pronoun), det
+//   (determiner), conj (conjunction), num (number), name (a proper noun),
+//   intj (interjection), phrase, postp (postposition).
 // - A page file's name must match its "traditional", "partOfSpeech" and "id"
 //   (cantonese/的士_noun_abcd1234.json); characters that cannot appear in a file name are reported
 //   instead of being turned into a path.

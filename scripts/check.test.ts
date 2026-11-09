@@ -1010,6 +1010,28 @@ test('a page file inside a subfolder of cantonese/', () => {
   )
 })
 
+test('a page with partOfSpeech "intj" passes', () => {
+  assert.deepEqual(
+    checkWith(files => {
+      files['cantonese/車頭_intj_ppppppp2.json'] = files[CAB_PAGE_2].replace('"noun"', '"intj"')
+      delete files[CAB_PAGE_2]
+    }),
+    [],
+  )
+})
+
+test('a page with partOfSpeech outside the allowed list', () => {
+  assert.deepEqual(
+    checkWith(files => {
+      files[CAB_PAGE_2] = files[CAB_PAGE_2].replace('"noun"', '"particle"')
+    }),
+    [
+      `${CAB_PAGE_2}: /partOfSpeech must be equal to one of the allowed values`,
+      `${CAB_PAGE_2}: file name does not match 車頭 particle ppppppp2 (expected cantonese/車頭_particle_ppppppp2.json)`,
+    ],
+  )
+})
+
 /** True when the temp disk holds `a` and `A` as two files (false on default macOS and Windows). */
 function diskIsCaseSensitive(): boolean {
   const dir = mkdtempSync(join(tmpdir(), 'case-'))
