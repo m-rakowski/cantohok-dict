@@ -15,6 +15,10 @@
 // - Every Cantonese page file (cantonese/<traditional>_<partOfSpeech>_<id>.json)
 //   must be valid JSON and match schema/page.schema.json: at least one box,
 //   every box with at least one English word, and no id on a box.
+// - A page's "partOfSpeech" must be one of 13 values: noun, verb, adj
+//   (adjective), adv (adverb), prep (preposition), pron (pronoun), det
+//   (determiner), conj (conjunction), num (number), name (a proper noun),
+//   intj (interjection), phrase, postp (postposition).
 // - A page file's name must match its "traditional", "partOfSpeech" and "id"
 //   (cantonese/的士_noun_abcd1234.json); characters that cannot appear in a file name are reported
 //   instead of being turned into a path.
@@ -87,6 +91,8 @@ import pageLookupSchema from '../schema/pages-by-id.schema.json' with { type: 'j
 const ajv = new Ajv2020({ allErrors: true })
 const validateWord = ajv.compile(wordSchema)
 const validatePage = ajv.compile(pageSchema)
+/** The allowed `partOfSpeech` values, read from the page schema so the list lives in one place. */
+const ALLOWED_PARTS_OF_SPEECH: readonly string[] = pageSchema.properties.partOfSpeech.enum
 const validateFrequency = ajv.compile(frequencySchema)
 const validateAliases = ajv.compile(aliasesSchema)
 const validatePageLookup = ajv.compile(pageLookupSchema)
@@ -100,7 +106,9 @@ function formatSchemaError(path: string, error: ErrorObject): string {
   const extra =
     error.keyword === 'additionalProperties'
       ? ` "${(error.params as { additionalProperty: string }).additionalProperty}"`
-      : ''
+      : error.keyword === 'enum'
+        ? `: ${(error.params as { allowedValues: string[] }).allowedValues.join(', ')}`
+        : ''
   return `${path}: ${where} ${error.message}${extra}`
 }
 
@@ -239,7 +247,14 @@ function checkPages(root: string, errors: string[]): CheckedPage[] {
     // An id of the wrong shape is already reported by the schema and cannot
     // be a key in the lookup, so it counts as no usable id.
     const id = isObject(json) && isFilled(json.id) && ID_PATTERN.test(json.id) ? json.id : null
-    if (isObject(json) && isFilled(json.traditional) && isFilled(json.partOfSpeech)) {
+    // A partOfSpeech outside the allowed list is already reported by the
+    // schema; a file-name message for it would ask for a name that fails too.
+    if (
+      isObject(json) &&
+      isFilled(json.traditional) &&
+      isFilled(json.partOfSpeech) &&
+      ALLOWED_PARTS_OF_SPEECH.includes(json.partOfSpeech)
+    ) {
       const { traditional, partOfSpeech } = json
       const problem = pageNameProblem(traditional, partOfSpeech)
       if (problem) errors.push(`${path}: ${problem}`)
