@@ -130,7 +130,11 @@ part of speech and one reading. Here is `cantonese/揮手_verb_vonj8c12.json`:
 
 - A page has an `id` (8 lowercase letters or digits), the `traditional`
   characters, a `partOfSpeech`, the reading in `jyutping`, and at least one
-  box. Boxes have no `id` of their own.
+  box. `partOfSpeech` is one of: `noun`, `verb`, `adj` (adjective), `adv`
+  (adverb), `prep` (preposition), `pron` (pronoun), `det` (determiner), `conj`
+  (conjunction), `num` (number), `name` (a proper noun), `intj` (interjection),
+  `phrase`, `postp` (postposition). Any other value fails `pnpm run check`.
+- Boxes have no `id` of their own.
 - A box has a list of `english` entries (at least one), a short `meaning`, and
   a list of `examples` (it may be empty). `note` and `register` are optional.
 - An English entry is an object. Only `word` is required; `id`, `meaning`,
