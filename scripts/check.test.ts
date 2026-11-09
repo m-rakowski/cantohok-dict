@@ -1043,13 +1043,17 @@ function diskIsCaseSensitive(): boolean {
 test('two page paths that differ only in letter case', { skip: !diskIsCaseSensitive() }, () => {
   assert.deepEqual(
     checkWith(files => {
-      // Ids are lowercase, so two paths can differ only in case just when the id is the same too. The copy carries no entry ids, so the English entry rules stay quiet.
-      files['cantonese/的士_Noun_ppppppp1.json'] = cabPageCopy(files).replace('"noun"', '"Noun"')
+      // Ids are lowercase and the part of speech must be one of the allowed lowercase values, so two paths can differ only in case in the characters, and only when the id is the same too. The first page is the cab page with "T恤" as its characters; the copy carries no entry ids, so the English entry rules stay quiet.
+      const upper = JSON.parse(files[CAB_PAGE])
+      upper.traditional = 'T恤'
+      files['cantonese/T恤_noun_ppppppp1.json'] = JSON.stringify(upper, null, 2) + '\n'
+      files['cantonese/t恤_noun_ppppppp1.json'] = cabPageCopy(files).replace('"的士"', '"t恤"')
+      delete files[CAB_PAGE]
     }),
-    // Paths are sorted, and "N" sorts before "n". The two files hold one id, so that is reported too.
+    // Paths are sorted, and "T" sorts before "t". The two files hold one id, so that is reported too.
     [
-      'cantonese/的士_noun_ppppppp1.json: duplicates cantonese/的士_Noun_ppppppp1.json when letter case is ignored',
-      'duplicate page id "ppppppp1" in cantonese/的士_Noun_ppppppp1.json and cantonese/的士_noun_ppppppp1.json',
+      'cantonese/t恤_noun_ppppppp1.json: duplicates cantonese/T恤_noun_ppppppp1.json when letter case is ignored',
+      'duplicate page id "ppppppp1" in cantonese/T恤_noun_ppppppp1.json and cantonese/t恤_noun_ppppppp1.json',
     ],
   )
 })
