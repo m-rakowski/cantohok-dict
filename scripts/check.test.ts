@@ -1026,8 +1026,7 @@ test('a page with partOfSpeech outside the allowed list', () => {
       files[CAB_PAGE_2] = files[CAB_PAGE_2].replace('"noun"', '"particle"')
     }),
     [
-      `${CAB_PAGE_2}: /partOfSpeech must be equal to one of the allowed values`,
-      `${CAB_PAGE_2}: file name does not match 車頭 particle ppppppp2 (expected cantonese/車頭_particle_ppppppp2.json)`,
+      `${CAB_PAGE_2}: /partOfSpeech must be equal to one of the allowed values: noun, verb, adj, adv, prep, pron, det, conj, num, name, intj, phrase, postp`,
     ],
   )
 })

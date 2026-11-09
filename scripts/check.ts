@@ -91,6 +91,8 @@ import pageLookupSchema from '../schema/pages-by-id.schema.json' with { type: 'j
 const ajv = new Ajv2020({ allErrors: true })
 const validateWord = ajv.compile(wordSchema)
 const validatePage = ajv.compile(pageSchema)
+/** The allowed `partOfSpeech` values, read from the page schema so the list lives in one place. */
+const ALLOWED_PARTS_OF_SPEECH: readonly string[] = pageSchema.properties.partOfSpeech.enum
 const validateFrequency = ajv.compile(frequencySchema)
 const validateAliases = ajv.compile(aliasesSchema)
 const validatePageLookup = ajv.compile(pageLookupSchema)
@@ -104,7 +106,9 @@ function formatSchemaError(path: string, error: ErrorObject): string {
   const extra =
     error.keyword === 'additionalProperties'
       ? ` "${(error.params as { additionalProperty: string }).additionalProperty}"`
-      : ''
+      : error.keyword === 'enum'
+        ? `: ${(error.params as { allowedValues: string[] }).allowedValues.join(', ')}`
+        : ''
   return `${path}: ${where} ${error.message}${extra}`
 }
 
@@ -243,7 +247,14 @@ function checkPages(root: string, errors: string[]): CheckedPage[] {
     // An id of the wrong shape is already reported by the schema and cannot
     // be a key in the lookup, so it counts as no usable id.
     const id = isObject(json) && isFilled(json.id) && ID_PATTERN.test(json.id) ? json.id : null
-    if (isObject(json) && isFilled(json.traditional) && isFilled(json.partOfSpeech)) {
+    // A partOfSpeech outside the allowed list is already reported by the
+    // schema; a file-name message for it would ask for a name that fails too.
+    if (
+      isObject(json) &&
+      isFilled(json.traditional) &&
+      isFilled(json.partOfSpeech) &&
+      ALLOWED_PARTS_OF_SPEECH.includes(json.partOfSpeech)
+    ) {
       const { traditional, partOfSpeech } = json
       const problem = pageNameProblem(traditional, partOfSpeech)
       if (problem) errors.push(`${path}: ${problem}`)
