@@ -34,7 +34,9 @@ test('collectTakenIds: page ids, English entry ids and pages-by-id.json keys; no
       traditional: '的士',
       partOfSpeech: 'noun',
       jyutping: 'dik1 si2',
-      boxes: [{ meaning: 'taxi', english: [{ id: 'aaaaaaa1', word: 'cab' }, { word: 'taxi' }], examples: [] }],
+      meaning: 'taxi',
+      english: [{ id: 'aaaaaaa1', word: 'cab' }, { word: 'taxi' }],
+      examples: [],
     }),
     'pages-by-id.json': JSON.stringify({ aaaaaaa1: 'cccccccc', cccccccc: 'cccccccc', dddddddd: 'cccccccc' }),
   })
@@ -46,7 +48,7 @@ test('collectTakenIds skips a page file that is not valid JSON, or has no string
     'cantonese/壞.json': '{ not json',
     'cantonese/冇.json': JSON.stringify({ traditional: '冇' }),
     'cantonese/空.json': 'null',
-    'cantonese/箱.json': JSON.stringify({ id: 'bbbbbbb1', boxes: [null, { english: 'x' }] }),
+    'cantonese/箱.json': JSON.stringify({ id: 'bbbbbbb1', english: [null, 'x'] }),
     'pages-by-id.json': '{ not json',
   })
   assert.deepEqual(collectTakenIds(root), new Set(['bbbbbbb1']))

@@ -29,7 +29,7 @@ export interface WordFile {
 export type PageExample = Example
 
 /**
- * One English word in a box. An entry with an `id` is the page's copy of that
+ * One English word on a page. An entry with an `id` is the page's copy of that
  * row in words/ (and `meaning`, `note` and `register` repeat the row's); an
  * entry with only a `word` is one an editor added.
  */
@@ -41,22 +41,20 @@ export interface EnglishEntry {
   register?: string
 }
 
-/** One group of English words that share a meaning, shown as one box on a page. */
-export interface Box {
-  english: EnglishEntry[]
-  meaning: string
-  examples: PageExample[]
-  note?: string
-  register?: string
-}
-
-/** A Cantonese word page: cantonese/<traditional>_<partOfSpeech>_<id>.json. It has one reading, shared by all its boxes. */
+/**
+ * A Cantonese word page: cantonese/<traditional>_<partOfSpeech>_<id>.json. It has one reading and exactly one
+ * meaning; a second meaning of the same word is a second page file.
+ */
 export interface PageFile {
   id: string
   traditional: string
   partOfSpeech: string
   jyutping: string
-  boxes: Box[]
+  meaning: string
+  english: EnglishEntry[]
+  examples: PageExample[]
+  note?: string
+  register?: string
 }
 
 /** The link lookup (pages-by-id.json): every English row id and every page id, mapped to a page id. */

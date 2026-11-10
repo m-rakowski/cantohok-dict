@@ -66,26 +66,22 @@ export function validFixture(): Record<string, string> {
     'cantonese/的士_noun_ppppppp1.json': `{
   "id": "ppppppp1",
   "partOfSpeech": "noun",
+  "meaning": "taxi",
+  "english": [
+    {
+      "id": "aaaaaaa1",
+      "word": "cab",
+      "meaning": "taxi",
+      "note": "This is the all-purpose Cantonese noun for a taxi or cab."
+    }
+  ],
   "traditional": "的士",
   "jyutping": "dik1 si2",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "taxi",
-      "english": [
-        {
-          "id": "aaaaaaa1",
-          "word": "cab",
-          "meaning": "taxi",
-          "note": "This is the all-purpose Cantonese noun for a taxi or cab."
-        }
-      ],
-      "examples": [
-        {
-          "english": "We called a cab to the airport.",
-          "traditional": "我哋叫咗部的士去機場。",
-          "jyutping": "ngo5 dei6 giu3 zo2 bou6 dik1 si2 heoi3 gei1 coeng4"
-        }
-      ]
+      "english": "We called a cab to the airport.",
+      "traditional": "我哋叫咗部的士去機場。",
+      "jyutping": "ngo5 dei6 giu3 zo2 bou6 dik1 si2 heoi3 gei1 coeng4"
     }
   ]
 }
@@ -93,45 +89,37 @@ export function validFixture(): Record<string, string> {
     'cantonese/車頭_noun_ppppppp2.json': `{
   "id": "ppppppp2",
   "partOfSpeech": "noun",
+  "meaning": "taxi",
+  "english": [
+    {
+      "id": "aaaaaaa2",
+      "word": "cab",
+      "meaning": "taxi",
+      "register": "colloquial",
+      "note": "Use this colloquial term for the cab or front section of a truck."
+    }
+  ],
   "traditional": "車頭",
   "jyutping": "ce1 tau4",
-  "boxes": [
-    {
-      "meaning": "taxi",
-      "english": [
-        {
-          "id": "aaaaaaa2",
-          "word": "cab",
-          "meaning": "taxi",
-          "register": "colloquial",
-          "note": "Use this colloquial term for the cab or front section of a truck."
-        }
-      ],
-      "register": "colloquial",
-      "examples": []
-    }
-  ]
+  "register": "colloquial",
+  "examples": []
 }
 `,
     'cantonese/星期四_noun_ppppppp3.json': `{
   "id": "ppppppp3",
   "partOfSpeech": "noun",
+  "meaning": "day of the week",
+  "english": [
+    {
+      "id": "bbbbbbb1",
+      "word": "Thursday",
+      "meaning": "day of the week",
+      "note": "This is the all-purpose word for Thursday."
+    }
+  ],
   "traditional": "星期四",
   "jyutping": "sing1 kei4 sei3",
-  "boxes": [
-    {
-      "meaning": "day of the week",
-      "english": [
-        {
-          "id": "bbbbbbb1",
-          "word": "Thursday",
-          "meaning": "day of the week",
-          "note": "This is the all-purpose word for Thursday."
-        }
-      ],
-      "examples": []
-    }
-  ]
+  "examples": []
 }
 `,
     'pages-by-id.json': `{

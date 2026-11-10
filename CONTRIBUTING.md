@@ -10,10 +10,10 @@ files are laid out and the steps to change them.
   reference only (`words/README.md`). Edit the page files in `cantonese/`.
 - `cantonese/<characters>_<part of speech>_<id>.json` — one file per Cantonese
   word page, such as `cantonese/揮手_verb_vonj8c12.json`. A page has one
-  reading, in `jyutping` beside `traditional`. It holds exactly what the site
-  shows for that word, with the boxes in the order they appear on the page.
-  Each box holds one or more English words that mean the same thing, a short
-  meaning, its examples, and an optional `note`.
+  reading, in `jyutping` beside `traditional`, and exactly one meaning. It holds
+  exactly what the site shows for that word and meaning: one or more English
+  words that mean the same thing, a short meaning, its examples, and an
+  optional `note`.
   Add a note only to warn about something the examples cannot show. The
   page's `id` never changes: if you rename the file (say, to fix the
   characters), keep the `id` as it is. Every file must be named after the
@@ -97,46 +97,43 @@ What each field means:
 ## What one page looks like
 
 A page file holds everything the site shows for one Cantonese word with one
-part of speech and one reading. Here is `cantonese/揮手_verb_vonj8c12.json`:
+part of speech, one reading and one meaning. Here is
+`cantonese/揮手_verb_vonj8c12.json`:
 
 ```json
 {
   "id": "vonj8c12",
   "partOfSpeech": "verb",
+  "meaning": "wave your hand hello/goodbye",
+  "english": [
+    {
+      "id": "i0dcd0tv",
+      "word": "wave",
+      "meaning": "wave your hand hello/goodbye",
+      "note": "This is the all-purpose choice for waving your hand in greeting or goodbye, including a farewell signal."
+    }
+  ],
   "traditional": "揮手",
   "jyutping": "fai1 sau2",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "wave your hand hello/goodbye",
-      "english": [
-        {
-          "id": "i0dcd0tv",
-          "word": "wave",
-          "meaning": "wave your hand hello/goodbye",
-          "note": "This is the all-purpose choice for waving your hand in greeting or goodbye, including a farewell signal."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I wave to him when I leave.",
-          "traditional": "我走嗰陣同佢揮手。",
-          "jyutping": "ngo5 zau2 go2 zan6 tung4 keoi5 fai1 sau2"
-        }
-      ]
+      "english": "I wave to him when I leave.",
+      "traditional": "我走嗰陣同佢揮手。",
+      "jyutping": "ngo5 zau2 go2 zan6 tung4 keoi5 fai1 sau2"
     }
   ]
 }
 ```
 
 - A page has an `id` (8 lowercase letters or digits), the `traditional`
-  characters, a `partOfSpeech`, the reading in `jyutping`, and at least one
-  box. `partOfSpeech` is one of: `noun`, `verb`, `adj` (adjective), `adv`
-  (adverb), `prep` (preposition), `pron` (pronoun), `det` (determiner), `conj`
-  (conjunction), `num` (number), `name` (a proper noun), `intj` (interjection),
-  `phrase`, `postp` (postposition). Any other value fails `pnpm run check`.
-- Boxes have no `id` of their own.
-- A box has a list of `english` entries (at least one), a short `meaning`, and
-  a list of `examples` (it may be empty). `note` and `register` are optional.
+  characters, a `partOfSpeech`, the reading in `jyutping`, a short `meaning`,
+  a list of `english` entries (at least one), and a list of `examples` (it may
+  be empty). `note` and `register` are optional. There is no `boxes` list: a
+  page with one is refused. `partOfSpeech` is one of: `noun`, `verb`, `adj`
+  (adjective), `adv` (adverb), `prep` (preposition), `pron` (pronoun), `det`
+  (determiner), `conj` (conjunction), `num` (number), `name` (a proper noun),
+  `intj` (interjection), `phrase`, `postp` (postposition). Any other value
+  fails `pnpm run check`.
 - An English entry is an object. Only `word` is required; `id`, `meaning`,
   `note` and `register` are optional. The page files are what the site shows
   and can be edited freely: an entry's `id`, `meaning` and `note` came from the
@@ -145,22 +142,22 @@ part of speech and one reading. Here is `cantonese/揮手_verb_vonj8c12.json`:
   page's `id`, and each maps to its page in `pages-by-id.json`.
 - Different parts of speech are different pages: 建議 as a verb and 建議 as
   a noun are two files. So are different readings: 片 read `pin3` and 片 read
-  `pin2` are two files, each with its own `id`. A second meaning of the same
-  word and reading is another box on the same page, never a second file. Two
-  pages may not have the same characters, part of speech and reading.
+  `pin2` are two files, each with its own `id`. So are different meanings: a
+  second meaning of the same word, part of speech and reading is a second page
+  file with its own `id` (from `pnpm run new-id`) and a line mapping that `id`
+  to itself in `pages-by-id.json`. Two pages may not have the same characters,
+  part of speech, reading and meaning.
 - To correct a reading, change the page's `jyutping`. If a page with the right
-  reading already exists for the same characters and part of speech, the check
-  refuses the change as a duplicate: move the boxes to that page instead, and
-  in `pages-by-id.json` point the rows those boxes show at it. If the page
-  holds boxes that need different readings, move each such box to the page
-  with its reading (if there is none, make one with an id from
-  `pnpm run new-id`) and point its rows there the same way. If a page is left
-  with no boxes, delete its file but keep its line in `pages-by-id.json`,
-  pointing its `id` at the page that took its boxes, so old links still work.
+  reading and the same meaning already exists for the same characters and part
+  of speech, the check refuses the change as a duplicate: move the English
+  entries to that page instead, and in `pages-by-id.json` point the rows those
+  entries show at it. If you delete a page, keep its line in
+  `pages-by-id.json`, pointing its `id` at the page that took its entries, so
+  old links still work.
 - The file name is made from the characters, the part of speech and the `id`,
   so the characters and the part of speech cannot hold `\ : * ? " < > |`. For a `/` in the characters, write `／` (U+FF0F, the fullwidth slash).
-- You can add, remove, merge and reorder boxes, and put several English words
-  or several examples in one box.
+- You can add, remove, merge and reorder English entries, and put several
+  examples on a page.
 - A `note` is held to the same rules as a note on a row (it must read on its
   own), and an English example must name real people and things rather than
   placeholder letters.

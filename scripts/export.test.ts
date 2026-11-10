@@ -136,15 +136,20 @@ const ex = (english: string, traditional: string, jyutping: string) => ({ englis
 /**
  * A fixture whose pages differ from its word files: the word files know only the
  * three original rows, while the pages also hold entries an editor added (no id),
- * a second box, a box register, and a frequency `order` that disagrees with the
+ * a second page for the same word, a page register, and a frequency `order` that disagrees with the
  * order of the word file. Only an export that reads the pages gets all of it right.
  */
 function pagesFixture(): Record<string, string> {
   const files = validFixture()
   const write = (path: string, value: unknown) => (files[path] = JSON.stringify(value, null, 2) + '\n')
   const thursday = JSON.parse(files['cantonese/星期四_noun_ppppppp3.json'])
-  thursday.boxes[0].examples = [ex('See you on Thursday.', '星期四見。', 'sing1 kei4 sei3 gin3')]
-  thursday.boxes.push({
+  thursday.examples = [ex('See you on Thursday.', '星期四見。', 'sing1 kei4 sei3 gin3')]
+  write('cantonese/星期四_noun_ppppppp3.json', thursday)
+  write('cantonese/星期四_noun_ppppppp4.json', {
+    id: 'ppppppp4',
+    partOfSpeech: 'noun',
+    traditional: '星期四',
+    jyutping: 'sing1 kei4 sei3',
     meaning: 'weekday name',
     register: 'formal',
     english: [{ word: 'Thurs', register: 'abbreviation', note: 'Short for Thursday.' }, { word: 'Thursday' }],
@@ -153,17 +158,18 @@ function pagesFixture(): Record<string, string> {
       ex('Thursday is busy.', '星期四好忙。', 'sing1 kei4 sei3 hou2 mong4'),
     ],
   })
-  delete files['cantonese/星期四_noun_ppppppp3.json']
-  write('cantonese/星期四_noun_ppppppp3.json', thursday)
   write('cantonese/週四_noun_ppppppp0.json', {
     id: 'ppppppp0',
     partOfSpeech: 'noun',
     traditional: '週四',
     jyutping: 'zau1 sei3',
-    boxes: [{ meaning: 'fourth weekday', english: [{ word: 'Thursday', note: 'Used in writing.' }], examples: [] }],
+    meaning: 'fourth weekday',
+    english: [{ word: 'Thursday', note: 'Used in writing.' }],
+    examples: [],
   })
   const lookup = JSON.parse(files['pages-by-id.json'])
   lookup.ppppppp0 = 'ppppppp0'
+  lookup.ppppppp4 = 'ppppppp4'
   write('pages-by-id.json', lookup)
   const freq = JSON.parse(files['frequency.json'])
   freq.rows.aaaaaaa1.order = 1
@@ -195,7 +201,7 @@ test('toJsonl reads the pages: order, id-less entries, fallbacks and the example
     },
     {
       // no order: sorted by page id (ppppppp0 before ppppppp3); composite id, zero shares,
-      // meaning from the box, no register (the box's "formal" is not the entry's)
+      // meaning from the page, no register (the page's "formal" is not the entry's)
       id: 'ppppppp0:Thursday',
       ...thursday,
       meaning: 'fourth weekday',
@@ -207,7 +213,7 @@ test('toJsonl reads the pages: order, id-less entries, fallbacks and the example
     },
     {
       // own position (1) names the word, so it wins over the earlier sentence that also does
-      id: 'ppppppp3:Thursday',
+      id: 'ppppppp4:Thursday',
       ...thursday,
       meaning: 'weekday name',
       meaningShare: 0,
@@ -249,7 +255,7 @@ test('toJsonl reads the pages: order, id-less entries, fallbacks and the example
     },
     {
       // a word with no rank sorts after every ranked word, and has no rank field
-      id: 'ppppppp3:Thurs',
+      id: 'ppppppp4:Thurs',
       term: 'Thurs',
       partOfSpeech: 'noun',
       meaning: 'weekday name',
@@ -272,10 +278,10 @@ test('toCsv: id-less entries get composite ids, and the rows come out in the sam
   assert.deepEqual(ids, [
     'bbbbbbb1',
     'ppppppp0:Thursday',
-    'ppppppp3:Thursday',
+    'ppppppp4:Thursday',
     'aaaaaaa2',
     'aaaaaaa1',
-    'ppppppp3:Thurs',
+    'ppppppp4:Thurs',
   ])
 })
 
@@ -289,9 +295,9 @@ test('toCsv picks the example by the search rule: own position if it names the w
   const files = validFixture()
   const path = 'cantonese/的士_noun_ppppppp1.json'
   const page = JSON.parse(files[path])
-  const [first] = page.boxes[0].examples
+  const [first] = page.examples
   const other = { english: 'The Cabbage was cheap.', traditional: '椰菜好平。', jyutping: 'je4 coi3 hou2 peng4' }
-  page.boxes[0].examples = [other, first]
+  page.examples = [other, first]
   files[path] = JSON.stringify(page, null, 2) + '\n'
   const rows = toCsv(loadValidRepo(writeTree(files))).split('\n')
   const cab = rows.find(line => line.startsWith('aaaaaaa1,'))
