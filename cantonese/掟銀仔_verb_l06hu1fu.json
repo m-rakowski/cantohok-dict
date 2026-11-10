@@ -1,28 +1,24 @@
 {
   "id": "l06hu1fu",
   "partOfSpeech": "verb",
+  "meaning": "toss a coin",
+  "english": [
+    {
+      "id": "q4bb9raa",
+      "word": "flip",
+      "meaning": "toss a coin",
+      "register": "colloquial",
+      "note": "Use this specifically when tossing a coin to make a decision."
+    }
+  ],
   "traditional": "掟銀仔",
   "jyutping": "deng3 ngan2 zai2",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "toss a coin",
-      "english": [
-        {
-          "id": "q4bb9raa",
-          "word": "flip",
-          "meaning": "toss a coin",
-          "register": "colloquial",
-          "note": "Use this specifically when tossing a coin to make a decision."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "Let's flip a coin to see who gets the takeaway.",
-          "traditional": "不如掟銀仔，睇下邊個去買外賣。",
-          "jyutping": "bat1 jyu4 deng3 ngan2 zai2 tai2 haa5 bin1 go3 heoi3 maai5 ngoi6 maai6"
-        }
-      ]
+      "english": "Let's flip a coin to see who gets the takeaway.",
+      "traditional": "不如掟銀仔，睇下邊個去買外賣。",
+      "jyutping": "bat1 jyu4 deng3 ngan2 zai2 tai2 haa5 bin1 go3 heoi3 maai5 ngoi6 maai6"
     }
   ]
 }

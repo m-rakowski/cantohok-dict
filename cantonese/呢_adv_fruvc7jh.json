@@ -1,28 +1,24 @@
 {
   "id": "fruvc7jh",
   "partOfSpeech": "adv",
+  "meaning": "this person here",
+  "english": [
+    {
+      "id": "yh6fvpkb",
+      "word": "here",
+      "meaning": "this person here",
+      "register": "colloquial",
+      "note": "Put 呢 after a person's name to single that person out familiarly as “X here.”"
+    }
+  ],
   "traditional": "呢",
   "jyutping": "ne1",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "this person here",
-      "english": [
-        {
-          "id": "yh6fvpkb",
-          "word": "here",
-          "meaning": "this person here",
-          "register": "colloquial",
-          "note": "Put 呢 after a person's name to single that person out familiarly as “X here.”"
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "Ming here is still waiting.",
-          "traditional": "阿明呢，仲喺度等緊。",
-          "jyutping": "aa3 ming4 ne1 zung6 hai2 dou6 dang2 gan2"
-        }
-      ]
+      "english": "Ming here is still waiting.",
+      "traditional": "阿明呢，仲喺度等緊。",
+      "jyutping": "aa3 ming4 ne1 zung6 hai2 dou6 dang2 gan2"
     }
   ]
 }

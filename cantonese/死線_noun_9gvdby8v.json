@@ -1,28 +1,24 @@
 {
   "id": "9gvdby8v",
   "partOfSpeech": "noun",
+  "meaning": "time limit / due date",
+  "english": [
+    {
+      "id": "t63ro8du",
+      "word": "deadline",
+      "meaning": "time limit / due date",
+      "register": "colloquial",
+      "note": "Use 死線 as the everyday all-purpose term for a task's final cutoff."
+    }
+  ],
   "traditional": "死線",
   "jyutping": "sei2 sin3",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "time limit / due date",
-      "english": [
-        {
-          "id": "t63ro8du",
-          "word": "deadline",
-          "meaning": "time limit / due date",
-          "register": "colloquial",
-          "note": "Use 死線 as the everyday all-purpose term for a task's final cutoff."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "The deadline for this report is tomorrow.",
-          "traditional": "呢份報告嘅死線係聽日",
-          "jyutping": "ni1 fan6 bou3 gou3 ge3 sei2 sin3 hai6 ting1 jat6"
-        }
-      ]
+      "english": "The deadline for this report is tomorrow.",
+      "traditional": "呢份報告嘅死線係聽日",
+      "jyutping": "ni1 fan6 bou3 gou3 ge3 sei2 sin3 hai6 ting1 jat6"
     }
   ]
 }

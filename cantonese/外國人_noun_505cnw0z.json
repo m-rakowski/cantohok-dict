@@ -1,37 +1,33 @@
 {
   "id": "505cnw0z",
   "partOfSpeech": "noun",
+  "meaning": "foreigner",
+  "english": [
+    {
+      "id": "p475fqkq",
+      "word": "foreigner",
+      "meaning": "person from another country",
+      "note": "This is the neutral, all-purpose choice for a person from another country."
+    },
+    {
+      "id": "tsprjk5y",
+      "word": "stranger",
+      "meaning": "outsider; foreigner",
+      "note": "Use this specifically for a person from another country, not merely someone you do not know."
+    }
+  ],
   "traditional": "外國人",
   "jyutping": "ngoi6 gwok3 jan4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "foreigner",
-      "english": [
-        {
-          "id": "p475fqkq",
-          "word": "foreigner",
-          "meaning": "person from another country",
-          "note": "This is the neutral, all-purpose choice for a person from another country."
-        },
-        {
-          "id": "tsprjk5y",
-          "word": "stranger",
-          "meaning": "outsider; foreigner",
-          "note": "Use this specifically for a person from another country, not merely someone you do not know."
-        }
-      ],
-      "examples": [
-        {
-          "english": "That foreigner can speak Cantonese.",
-          "traditional": "嗰個外國人識講廣東話。",
-          "jyutping": "go2 go3 ngoi6 gwok3 jan4 sik1 gong2 gwong2 dung1 waa2"
-        },
-        {
-          "english": "That stranger is from Canada.",
-          "traditional": "嗰個外國人係由加拿大嚟嘅。",
-          "jyutping": "go2 go3 ngoi6 gwok3 jan4 hai6 jau4 gaa1 naa4 daai6 lai4 ge3"
-        }
-      ]
+      "english": "That foreigner can speak Cantonese.",
+      "traditional": "嗰個外國人識講廣東話。",
+      "jyutping": "go2 go3 ngoi6 gwok3 jan4 sik1 gong2 gwong2 dung1 waa2"
+    },
+    {
+      "english": "That stranger is from Canada.",
+      "traditional": "嗰個外國人係由加拿大嚟嘅。",
+      "jyutping": "go2 go3 ngoi6 gwok3 jan4 hai6 jau4 gaa1 naa4 daai6 lai4 ge3"
     }
   ]
 }

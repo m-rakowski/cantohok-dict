@@ -1,37 +1,33 @@
 {
   "id": "pkfnraf0",
   "partOfSpeech": "noun",
+  "meaning": "echo",
+  "english": [
+    {
+      "id": "gqqaqls7",
+      "word": "echo",
+      "meaning": "reflected sound",
+      "note": "This is the all-purpose noun for a reflected sound and, figuratively, an utterance that repeats what was just said."
+    },
+    {
+      "id": "f0w95bzt",
+      "word": "reverberation",
+      "meaning": "echo",
+      "note": "Use 回聲 as the everyday default for a literal echo or overlapping echoes."
+    }
+  ],
   "traditional": "回聲",
   "jyutping": "wui4 seng1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "echo",
-      "english": [
-        {
-          "id": "gqqaqls7",
-          "word": "echo",
-          "meaning": "reflected sound",
-          "note": "This is the all-purpose noun for a reflected sound and, figuratively, an utterance that repeats what was just said."
-        },
-        {
-          "id": "f0w95bzt",
-          "word": "reverberation",
-          "meaning": "echo",
-          "note": "Use 回聲 as the everyday default for a literal echo or overlapping echoes."
-        }
-      ],
-      "examples": [
-        {
-          "english": "When we shouted in the valley, we heard an echo a moment later.",
-          "traditional": "山谷入面喊一聲，過咗陣又聽到回聲。",
-          "jyutping": "saan1 guk1 jap6 min6 haam3 jat1 sing1 gwo3 zo2 zan6 jau6 teng1 dou3 wui4 seng1"
-        },
-        {
-          "english": "When we spoke in the cave, the reverberation rang out several times.",
-          "traditional": "我哋喺山洞入面講一句，回聲響咗幾次。",
-          "jyutping": "ngo5 dei6 hai2 saan1 dung6 jap6 min6 gong2 jat1 geoi3 wui4 seng1 hoeng2 zo2 gei2 ci3"
-        }
-      ]
+      "english": "When we shouted in the valley, we heard an echo a moment later.",
+      "traditional": "山谷入面喊一聲，過咗陣又聽到回聲。",
+      "jyutping": "saan1 guk1 jap6 min6 haam3 jat1 sing1 gwo3 zo2 zan6 jau6 teng1 dou3 wui4 seng1"
+    },
+    {
+      "english": "When we spoke in the cave, the reverberation rang out several times.",
+      "traditional": "我哋喺山洞入面講一句，回聲響咗幾次。",
+      "jyutping": "ngo5 dei6 hai2 saan1 dung6 jap6 min6 gong2 jat1 geoi3 wui4 seng1 hoeng2 zo2 gei2 ci3"
     }
   ]
 }

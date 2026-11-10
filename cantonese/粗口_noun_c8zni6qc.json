@@ -1,52 +1,48 @@
 {
   "id": "c8zni6qc",
   "partOfSpeech": "noun",
+  "meaning": "swear words",
+  "english": [
+    {
+      "id": "olfna2kn",
+      "word": "curse",
+      "meaning": "swear word / vulgar insult",
+      "register": "colloquial",
+      "note": "Use this for a swear word or vulgar expression, rather than for a supernatural curse."
+    },
+    {
+      "id": "16j9a66k",
+      "word": "abuse",
+      "meaning": "insults",
+      "register": "colloquial",
+      "note": "Use this for abusive or profane language, especially when people are swearing at one another."
+    },
+    {
+      "id": "v6iqcc5p",
+      "word": "language",
+      "meaning": "profanity",
+      "register": "colloquial",
+      "note": "Use this specifically for profanity or swear words."
+    }
+  ],
   "traditional": "粗口",
   "jyutping": "cou1 hau2",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "swear words",
-      "english": [
-        {
-          "id": "olfna2kn",
-          "word": "curse",
-          "meaning": "swear word / vulgar insult",
-          "register": "colloquial",
-          "note": "Use this for a swear word or vulgar expression, rather than for a supernatural curse."
-        },
-        {
-          "id": "16j9a66k",
-          "word": "abuse",
-          "meaning": "insults",
-          "register": "colloquial",
-          "note": "Use this for abusive or profane language, especially when people are swearing at one another."
-        },
-        {
-          "id": "v6iqcc5p",
-          "word": "language",
-          "meaning": "profanity",
-          "register": "colloquial",
-          "note": "Use this specifically for profanity or swear words."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "They can't help but say a curse word whenever they get angry.",
-          "traditional": "佢一嬲就忍唔住講粗口。",
-          "jyutping": "keoi5 jat1 nau1 zau6 jan2 m4 zyu6 gong2 cou1 hau2"
-        },
-        {
-          "english": "They hurl abuse at each other whenever they argue.",
-          "traditional": "佢哋一嘈交就互相講粗口。",
-          "jyutping": "keoi5 dei6 jat1 cou4 gaau1 zau6 wu6 soeng1 gong2 cou1 hau2"
-        },
-        {
-          "english": "They use bad language all the time, making everyone uncomfortable.",
-          "traditional": "佢成日講粗口，搞到人哋好尷尬。",
-          "jyutping": "keoi5 seng4 jat6 gong2 cou1 hau2 gaau2 dou3 jan4 dei6 hou2 gaam1 gaai3"
-        }
-      ]
+      "english": "They can't help but say a curse word whenever they get angry.",
+      "traditional": "佢一嬲就忍唔住講粗口。",
+      "jyutping": "keoi5 jat1 nau1 zau6 jan2 m4 zyu6 gong2 cou1 hau2"
+    },
+    {
+      "english": "They hurl abuse at each other whenever they argue.",
+      "traditional": "佢哋一嘈交就互相講粗口。",
+      "jyutping": "keoi5 dei6 jat1 cou4 gaau1 zau6 wu6 soeng1 gong2 cou1 hau2"
+    },
+    {
+      "english": "They use bad language all the time, making everyone uncomfortable.",
+      "traditional": "佢成日講粗口，搞到人哋好尷尬。",
+      "jyutping": "keoi5 seng4 jat6 gong2 cou1 hau2 gaau2 dou3 jan4 dei6 hou2 gaam1 gaai3"
     }
   ]
 }

@@ -1,38 +1,34 @@
 {
   "id": "ybzrdj0q",
   "partOfSpeech": "adj",
+  "meaning": "abnormal, unusual",
+  "english": [
+    {
+      "id": "33yz3fac",
+      "word": "deviant",
+      "meaning": "deviating from norms",
+      "note": "Use this when the behaviour is notably abnormal or unlike what is usual, without necessarily implying immorality."
+    },
+    {
+      "id": "g2pke9b0",
+      "word": "abnormal",
+      "meaning": "not normal; irregular",
+      "register": "formal",
+      "note": "Use this for a situation, pattern, or behavior that departs markedly from what is expected or usual."
+    }
+  ],
   "traditional": "反常",
   "jyutping": "faan2 soeng4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "abnormal, unusual",
-      "english": [
-        {
-          "id": "33yz3fac",
-          "word": "deviant",
-          "meaning": "deviating from norms",
-          "note": "Use this when the behaviour is notably abnormal or unlike what is usual, without necessarily implying immorality."
-        },
-        {
-          "id": "g2pke9b0",
-          "word": "abnormal",
-          "meaning": "not normal; irregular",
-          "register": "formal",
-          "note": "Use this for a situation, pattern, or behavior that departs markedly from what is expected or usual."
-        }
-      ],
-      "examples": [
-        {
-          "english": "They are usually very punctual, so being late today is really deviant.",
-          "traditional": "平時好準時嘅佢今日竟然遲到，真係反常。",
-          "jyutping": "ping4 si4 hou2 zeon2 si4 ge3 keoi5 gam1 jat6 ging2 jin4 ci4 dou3 zan1 hai6 faan2 soeng4"
-        },
-        {
-          "english": "It is abnormal for this winter to be so warm.",
-          "traditional": "今年冬天咁熱，真係反常。",
-          "jyutping": "gam1 nin4 dung1 tin1 gam3 jit6 zan1 hai6 faan2 soeng4"
-        }
-      ]
+      "english": "They are usually very punctual, so being late today is really deviant.",
+      "traditional": "平時好準時嘅佢今日竟然遲到，真係反常。",
+      "jyutping": "ping4 si4 hou2 zeon2 si4 ge3 keoi5 gam1 jat6 ging2 jin4 ci4 dou3 zan1 hai6 faan2 soeng4"
+    },
+    {
+      "english": "It is abnormal for this winter to be so warm.",
+      "traditional": "今年冬天咁熱，真係反常。",
+      "jyutping": "gam1 nin4 dung1 tin1 gam3 jit6 zan1 hai6 faan2 soeng4"
     }
   ]
 }

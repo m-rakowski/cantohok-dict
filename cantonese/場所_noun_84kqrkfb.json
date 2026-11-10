@@ -1,28 +1,24 @@
 {
   "id": "84kqrkfb",
   "partOfSpeech": "noun",
+  "meaning": "place for something",
+  "english": [
+    {
+      "id": "5som8pt3",
+      "word": "venue",
+      "meaning": "place for something",
+      "register": "formal",
+      "note": "Use this in formal contexts for a place officially recognized or designated as suitable for an activity or occurrence."
+    }
+  ],
   "traditional": "場所",
   "jyutping": "coeng4 so2",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "place for something",
-      "english": [
-        {
-          "id": "5som8pt3",
-          "word": "venue",
-          "meaning": "place for something",
-          "register": "formal",
-          "note": "Use this in formal contexts for a place officially recognized or designated as suitable for an activity or occurrence."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "This venue has been approved for the awards ceremony.",
-          "traditional": "呢個場所已獲批准用作頒獎典禮場地。",
-          "jyutping": "ni1 go3 coeng4 so2 ji5 wok6 pai1 zeon2 jung6 zok3 baan1 zoeng2 din2 lai5 coeng4 dei6"
-        }
-      ]
+      "english": "This venue has been approved for the awards ceremony.",
+      "traditional": "呢個場所已獲批准用作頒獎典禮場地。",
+      "jyutping": "ni1 go3 coeng4 so2 ji5 wok6 pai1 zeon2 jung6 zok3 baan1 zoeng2 din2 lai5 coeng4 dei6"
     }
   ]
 }

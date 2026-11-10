@@ -1,28 +1,24 @@
 {
   "id": "muhq4y1n",
   "partOfSpeech": "noun",
+  "meaning": "thing rented",
+  "english": [
+    {
+      "id": "3mq35be3",
+      "word": "rental",
+      "meaning": "thing rented",
+      "register": "colloquial",
+      "note": "Use this for the actual item being rented, such as a car or a flat, rather than the payment."
+    }
+  ],
   "traditional": "租返嚟嘅 + N",
   "jyutping": "zou1 faan1 lai4 ge3 N",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "thing rented",
-      "english": [
-        {
-          "id": "3mq35be3",
-          "word": "rental",
-          "meaning": "thing rented",
-          "register": "colloquial",
-          "note": "Use this for the actual item being rented, such as a car or a flat, rather than the payment."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "I have to return the rental car tomorrow.",
-          "traditional": "我聽日要還租返嚟嘅架車。",
-          "jyutping": "ngo5 ting1 jat6 jiu3 waan4 zou1 faan1 lai4 ge3 gaa3 ce1"
-        }
-      ]
+      "english": "I have to return the rental car tomorrow.",
+      "traditional": "我聽日要還租返嚟嘅架車。",
+      "jyutping": "ngo5 ting1 jat6 jiu3 waan4 zou1 faan1 lai4 ge3 gaa3 ce1"
     }
   ]
 }

@@ -1,28 +1,24 @@
 {
   "id": "4jnv2zrh",
   "partOfSpeech": "noun",
+  "meaning": "fighter repelling attack",
+  "english": [
+    {
+      "id": "8oen0827",
+      "word": "defender",
+      "meaning": "fighter repelling attack",
+      "register": "written",
+      "note": "Use this for an individual fighter whose role is to repel an attack rather than for a sports player."
+    }
+  ],
   "traditional": "防衛者",
   "jyutping": "fong4 wai6 ze2",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "fighter repelling attack",
-      "english": [
-        {
-          "id": "8oen0827",
-          "word": "defender",
-          "meaning": "fighter repelling attack",
-          "register": "written",
-          "note": "Use this for an individual fighter whose role is to repel an attack rather than for a sports player."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "This defender successfully repelled the enemy forces.",
-          "traditional": "呢名防衛者成功擊退敵軍。",
-          "jyutping": "ni1 meng2 fong4 wai6 ze2 sing4 gung1 gik1 teoi3 dik6 gwan1"
-        }
-      ]
+      "english": "This defender successfully repelled the enemy forces.",
+      "traditional": "呢名防衛者成功擊退敵軍。",
+      "jyutping": "ni1 meng2 fong4 wai6 ze2 sing4 gung1 gik1 teoi3 dik6 gwan1"
     }
   ]
 }

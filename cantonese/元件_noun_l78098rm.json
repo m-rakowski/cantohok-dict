@@ -1,28 +1,24 @@
 {
   "id": "l78098rm",
   "partOfSpeech": "noun",
+  "meaning": "part; component part",
+  "english": [
+    {
+      "id": "ov8sg8zw",
+      "word": "component",
+      "meaning": "part; component part",
+      "register": "formal",
+      "note": "Use this mainly for an electronic or technical component such as a resistor or circuit element."
+    }
+  ],
   "traditional": "元件",
   "jyutping": "jyun4 gin6",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "part; component part",
-      "english": [
-        {
-          "id": "ov8sg8zw",
-          "word": "component",
-          "meaning": "part; component part",
-          "register": "formal",
-          "note": "Use this mainly for an electronic or technical component such as a resistor or circuit element."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "Each component on this circuit board is neatly arranged.",
-          "traditional": "呢塊電路板上面嘅每個元件都排列得好整齊。",
-          "jyutping": "ni1 faai3 din6 lou6 baan2 soeng6 min6 ge3 mui5 go3 jyun4 gin6 dou1 paai4 lit6 dak1 hou2 zing2 cai4"
-        }
-      ]
+      "english": "Each component on this circuit board is neatly arranged.",
+      "traditional": "呢塊電路板上面嘅每個元件都排列得好整齊。",
+      "jyutping": "ni1 faai3 din6 lou6 baan2 soeng6 min6 ge3 mui5 go3 jyun4 gin6 dou1 paai4 lit6 dak1 hou2 zing2 cai4"
     }
   ]
 }

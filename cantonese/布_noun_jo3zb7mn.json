@@ -1,38 +1,34 @@
 {
   "id": "jo3zb7mn",
   "partOfSpeech": "noun",
+  "meaning": "cloth, fabric",
+  "english": [
+    {
+      "id": "oax69adg",
+      "word": "cloth",
+      "meaning": "fabric/material",
+      "note": "This is the all-purpose noun for cloth or fabric in general."
+    },
+    {
+      "id": "3kuriyqy",
+      "word": "fabric",
+      "meaning": "cloth material",
+      "register": "colloquial",
+      "note": "Use this casual shorter word when referring to the physical cloth itself."
+    }
+  ],
   "traditional": "布",
   "jyutping": "bou3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "cloth, fabric",
-      "english": [
-        {
-          "id": "oax69adg",
-          "word": "cloth",
-          "meaning": "fabric/material",
-          "note": "This is the all-purpose noun for cloth or fabric in general."
-        },
-        {
-          "id": "3kuriyqy",
-          "word": "fabric",
-          "meaning": "cloth material",
-          "register": "colloquial",
-          "note": "Use this casual shorter word when referring to the physical cloth itself."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I bought some cloth to make curtains.",
-          "traditional": "我買咗塊布返去整窗簾。",
-          "jyutping": "ngo5 maai5 zo2 faai3 bou3 faan1 heoi3 zing2 coeng1 lim4"
-        },
-        {
-          "english": "I want to buy some fabric to make curtains.",
-          "traditional": "我想買塊布返去整窗簾。",
-          "jyutping": "ngo5 soeng2 maai5 faai3 bou3 faan1 heoi3 zing2 coeng1 lim2"
-        }
-      ]
+      "english": "I bought some cloth to make curtains.",
+      "traditional": "我買咗塊布返去整窗簾。",
+      "jyutping": "ngo5 maai5 zo2 faai3 bou3 faan1 heoi3 zing2 coeng1 lim4"
+    },
+    {
+      "english": "I want to buy some fabric to make curtains.",
+      "traditional": "我想買塊布返去整窗簾。",
+      "jyutping": "ngo5 soeng2 maai5 faai3 bou3 faan1 heoi3 zing2 coeng1 lim2"
     }
   ]
 }

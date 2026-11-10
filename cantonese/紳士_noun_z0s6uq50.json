@@ -1,28 +1,24 @@
 {
   "id": "z0s6uq50",
   "partOfSpeech": "noun",
+  "meaning": "well-mannered man",
+  "english": [
+    {
+      "id": "gx1kbss7",
+      "word": "gentleman",
+      "meaning": "well-mannered man",
+      "register": "formal",
+      "note": "Use this when you specifically mean a well-mannered, refined, or charming man rather than just any man."
+    }
+  ],
   "traditional": "紳士",
   "jyutping": "san1 si6",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "well-mannered man",
-      "english": [
-        {
-          "id": "gx1kbss7",
-          "word": "gentleman",
-          "meaning": "well-mannered man",
-          "register": "formal",
-          "note": "Use this when you specifically mean a well-mannered, refined, or charming man rather than just any man."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "He is such a gentleman.",
-          "traditional": "佢咁有風度，真係紳士。",
-          "jyutping": "keoi5 gam3 jau5 fung1 dou6 zan1 hai6 san1 si6"
-        }
-      ]
+      "english": "He is such a gentleman.",
+      "traditional": "佢咁有風度，真係紳士。",
+      "jyutping": "keoi5 gam3 jau5 fung1 dou6 zan1 hai6 san1 si6"
     }
   ]
 }

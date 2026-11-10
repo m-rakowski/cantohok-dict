@@ -1,28 +1,24 @@
 {
   "id": "2zbco3hy",
   "partOfSpeech": "adj",
+  "meaning": "letter salutation",
+  "english": [
+    {
+      "id": "j4l1rhoj",
+      "word": "dear",
+      "meaning": "letter salutation",
+      "register": "formal",
+      "note": "Use 尊敬 in the formal salutation 尊敬嘅先生 or 尊敬嘅女士 rather than for an ordinary affectionate address."
+    }
+  ],
   "traditional": "尊敬",
   "jyutping": "zyun1 ging3",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "letter salutation",
-      "english": [
-        {
-          "id": "j4l1rhoj",
-          "word": "dear",
-          "meaning": "letter salutation",
-          "register": "formal",
-          "note": "Use 尊敬 in the formal salutation 尊敬嘅先生 or 尊敬嘅女士 rather than for an ordinary affectionate address."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "Dear Sir, hello.",
-          "traditional": "尊敬嘅先生，您好。",
-          "jyutping": "zyun1 ging3 ge3 sin1 saang1 nei5 hou2"
-        }
-      ]
+      "english": "Dear Sir, hello.",
+      "traditional": "尊敬嘅先生，您好。",
+      "jyutping": "zyun1 ging3 ge3 sin1 saang1 nei5 hou2"
     }
   ]
 }

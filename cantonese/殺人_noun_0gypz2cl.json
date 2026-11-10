@@ -1,37 +1,33 @@
 {
   "id": "0gypz2cl",
   "partOfSpeech": "noun",
+  "meaning": "killing, murder",
+  "english": [
+    {
+      "id": "btvfnasm",
+      "word": "murder",
+      "meaning": "unlawful killing",
+      "note": "Use 殺人 as the all-purpose spoken expression for an unlawful killing when the context makes the meaning clear."
+    },
+    {
+      "id": "dnofp3tx",
+      "word": "killing",
+      "meaning": "act of killing",
+      "note": "This is the all-purpose choice for the act of killing in general."
+    }
+  ],
   "traditional": "殺人",
   "jyutping": "saat3 jan4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "killing, murder",
-      "english": [
-        {
-          "id": "btvfnasm",
-          "word": "murder",
-          "meaning": "unlawful killing",
-          "note": "Use 殺人 as the all-purpose spoken expression for an unlawful killing when the context makes the meaning clear."
-        },
-        {
-          "id": "dnofp3tx",
-          "word": "killing",
-          "meaning": "act of killing",
-          "note": "This is the all-purpose choice for the act of killing in general."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This case is a murder case, and the police are still investigating.",
-          "traditional": "呢單案係殺人案，警方仲調查緊。",
-          "jyutping": "ni1 daan1 on3 hai6 saat3 jan4 on3 ging2 fong1 zung6 tiu4 caa4 gan2"
-        },
-        {
-          "english": "Killing isn't a way to solve problems.",
-          "traditional": "殺人唔係解決問題嘅方法。",
-          "jyutping": "saat3 jan4 m4 hai6 gaai2 kyut3 man6 tai4 ge3 fong1 faat3"
-        }
-      ]
+      "english": "This case is a murder case, and the police are still investigating.",
+      "traditional": "呢單案係殺人案，警方仲調查緊。",
+      "jyutping": "ni1 daan1 on3 hai6 saat3 jan4 on3 ging2 fong1 zung6 tiu4 caa4 gan2"
+    },
+    {
+      "english": "Killing isn't a way to solve problems.",
+      "traditional": "殺人唔係解決問題嘅方法。",
+      "jyutping": "saat3 jan4 m4 hai6 gaai2 kyut3 man6 tai4 ge3 fong1 faat3"
     }
   ]
 }

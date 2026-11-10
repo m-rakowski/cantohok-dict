@@ -1,37 +1,33 @@
 {
   "id": "kjjp03zs",
   "partOfSpeech": "verb",
+  "meaning": "resign from a job",
+  "english": [
+    {
+      "id": "lt03hagl",
+      "word": "resign",
+      "meaning": "leave a job",
+      "note": "This is the all-purpose choice for voluntarily leaving a job, including resigning in protest."
+    },
+    {
+      "id": "im06kgn1",
+      "word": "quit",
+      "meaning": "resign from job",
+      "note": "Choose this when someone resigns from a job, office, or position rather than merely stopping a task."
+    }
+  ],
   "traditional": "辭職",
   "jyutping": "ci4 zik1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "resign from a job",
-      "english": [
-        {
-          "id": "lt03hagl",
-          "word": "resign",
-          "meaning": "leave a job",
-          "note": "This is the all-purpose choice for voluntarily leaving a job, including resigning in protest."
-        },
-        {
-          "id": "im06kgn1",
-          "word": "quit",
-          "meaning": "resign from job",
-          "note": "Choose this when someone resigns from a job, office, or position rather than merely stopping a task."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I decided to resign and stop working at this company.",
-          "traditional": "我決定辭職，唔再喺呢間公司做。",
-          "jyutping": "ngo5 kyut3 ding6 ci4 zik1 m4 zoi3 hai2 ni1 gaan1 gung1 si1 zou6"
-        },
-        {
-          "english": "I’m going to quit my job next month.",
-          "traditional": "我下個月會辭職。",
-          "jyutping": "ngo5 haa6 go3 jyut6 wui5 ci4 zik1"
-        }
-      ]
+      "english": "I decided to resign and stop working at this company.",
+      "traditional": "我決定辭職，唔再喺呢間公司做。",
+      "jyutping": "ngo5 kyut3 ding6 ci4 zik1 m4 zoi3 hai2 ni1 gaan1 gung1 si1 zou6"
+    },
+    {
+      "english": "I’m going to quit my job next month.",
+      "traditional": "我下個月會辭職。",
+      "jyutping": "ngo5 haa6 go3 jyut6 wui5 ci4 zik1"
     }
   ]
 }

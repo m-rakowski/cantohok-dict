@@ -1,40 +1,36 @@
 {
   "id": "ma9ygeqf",
   "partOfSpeech": "verb",
+  "meaning": "to run away, flee",
+  "english": [
+    {
+      "id": "8dhxhj5b",
+      "word": "bolt",
+      "meaning": "suddenly run away",
+      "register": "colloquial",
+      "note": "This is the all-purpose colloquial choice for suddenly fleeing or making off."
+    },
+    {
+      "id": "te8d2ht6",
+      "word": "flee",
+      "meaning": "run away, escape",
+      "register": "colloquial",
+      "note": "This is the colloquial all-purpose choice for running away or escaping, including fleeing from a place."
+    }
+  ],
   "traditional": "走佬",
   "jyutping": "zau2 lou2",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "to run away, flee",
-      "english": [
-        {
-          "id": "8dhxhj5b",
-          "word": "bolt",
-          "meaning": "suddenly run away",
-          "register": "colloquial",
-          "note": "This is the all-purpose colloquial choice for suddenly fleeing or making off."
-        },
-        {
-          "id": "te8d2ht6",
-          "word": "flee",
-          "meaning": "run away, escape",
-          "register": "colloquial",
-          "note": "This is the colloquial all-purpose choice for running away or escaping, including fleeing from a place."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "As soon as they see the police, the thieves bolt.",
-          "traditional": "一見到差人，啲賊就走佬。",
-          "jyutping": "jat1 gin3 dou2 caai1 jan4 di1 caak2 zau6 zau2 lou2"
-        },
-        {
-          "english": "Those people flee as soon as they see the police.",
-          "traditional": "嗰班人一見到差人就走佬喇。",
-          "jyutping": "go2 baan1 jan4 jat1 gin3 dou2 caai1 jan4 zau6 zau2 lou2 laa3"
-        }
-      ]
+      "english": "As soon as they see the police, the thieves bolt.",
+      "traditional": "一見到差人，啲賊就走佬。",
+      "jyutping": "jat1 gin3 dou2 caai1 jan4 di1 caak2 zau6 zau2 lou2"
+    },
+    {
+      "english": "Those people flee as soon as they see the police.",
+      "traditional": "嗰班人一見到差人就走佬喇。",
+      "jyutping": "go2 baan1 jan4 jat1 gin3 dou2 caai1 jan4 zau6 zau2 lou2 laa3"
     }
   ]
 }

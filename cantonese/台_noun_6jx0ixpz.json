@@ -1,26 +1,22 @@
 {
   "id": "6jx0ixpz",
   "partOfSpeech": "noun",
+  "meaning": "theatre stage",
+  "english": [
+    {
+      "id": "s5owlo1g",
+      "word": "stage",
+      "meaning": "theatre stage",
+      "note": "Use this for a physical platform or event stage when the performance context is already clear."
+    }
+  ],
   "traditional": "台",
   "jyutping": "toi4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "theatre stage",
-      "english": [
-        {
-          "id": "s5owlo1g",
-          "word": "stage",
-          "meaning": "theatre stage",
-          "note": "Use this for a physical platform or event stage when the performance context is already clear."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The stage still isn't ready, and the concert is about to start.",
-          "traditional": "個台仲未起好，演唱會就快開始喇。",
-          "jyutping": "go3 toi4 zung6 mei6 hei2 hou2 jin2 coeng3 wui2 zau6 faai3 hoi1 ci2 laa3"
-        }
-      ]
+      "english": "The stage still isn't ready, and the concert is about to start.",
+      "traditional": "個台仲未起好，演唱會就快開始喇。",
+      "jyutping": "go3 toi4 zung6 mei6 hei2 hou2 jin2 coeng3 wui2 zau6 faai3 hoi1 ci2 laa3"
     }
   ]
 }

@@ -1,28 +1,24 @@
 {
   "id": "epb084tf",
   "partOfSpeech": "noun",
+  "meaning": "death notice",
+  "english": [
+    {
+      "id": "h7sl9mbe",
+      "word": "obituary",
+      "meaning": "death notice",
+      "register": "formal",
+      "note": "This is the all-purpose Cantonese noun for a published notice of someone's death."
+    }
+  ],
   "traditional": "訃聞",
   "jyutping": "fu6 man4",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "death notice",
-      "english": [
-        {
-          "id": "h7sl9mbe",
-          "word": "obituary",
-          "meaning": "death notice",
-          "register": "formal",
-          "note": "This is the all-purpose Cantonese noun for a published notice of someone's death."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The newspaper published an obituary today.",
-          "traditional": "報紙今日刊登咗一則訃聞。",
-          "jyutping": "bou3 zi2 gam1 jat6 hon1 dang1 zo2 jat1 zak1 fu6 man4"
-        }
-      ]
+      "english": "The newspaper published an obituary today.",
+      "traditional": "報紙今日刊登咗一則訃聞。",
+      "jyutping": "bou3 zi2 gam1 jat6 hon1 dang1 zo2 jat1 zak1 fu6 man4"
     }
   ]
 }

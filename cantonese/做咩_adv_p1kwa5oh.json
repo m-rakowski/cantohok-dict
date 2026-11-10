@@ -1,28 +1,24 @@
 {
   "id": "p1kwa5oh",
   "partOfSpeech": "adv",
+  "meaning": "for what reason",
+  "english": [
+    {
+      "id": "et0x9bk1",
+      "word": "why",
+      "meaning": "for what reason",
+      "register": "colloquial",
+      "note": "Use this casual, often more emphatic alternative when asking why someone is doing something or why a situation is so."
+    }
+  ],
   "traditional": "做咩",
   "jyutping": "zou6 me1",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "for what reason",
-      "english": [
-        {
-          "id": "et0x9bk1",
-          "word": "why",
-          "meaning": "for what reason",
-          "register": "colloquial",
-          "note": "Use this casual, often more emphatic alternative when asking why someone is doing something or why a situation is so."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "Why are you still not leaving?",
-          "traditional": "做咩你仲唔走呀？",
-          "jyutping": "zou6 me1 nei5 zung6 m4 zau2 aa3"
-        }
-      ]
+      "english": "Why are you still not leaving?",
+      "traditional": "做咩你仲唔走呀？",
+      "jyutping": "zou6 me1 nei5 zung6 m4 zau2 aa3"
     }
   ]
 }

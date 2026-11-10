@@ -1,28 +1,24 @@
 {
   "id": "rxjin1jt",
   "partOfSpeech": "verb",
+  "meaning": "profess faith",
+  "english": [
+    {
+      "id": "b54tkf2d",
+      "word": "confess",
+      "meaning": "profess faith",
+      "register": "formal",
+      "note": "Use this when publicly professing or acknowledging one's religious faith, rather than merely believing it privately."
+    }
+  ],
   "traditional": "宣認",
   "jyutping": "syun1 jing6",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "profess faith",
-      "english": [
-        {
-          "id": "b54tkf2d",
-          "word": "confess",
-          "meaning": "profess faith",
-          "register": "formal",
-          "note": "Use this when publicly professing or acknowledging one's religious faith, rather than merely believing it privately."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "We confess our faith during worship.",
-          "traditional": "我哋喺崇拜入面宣認信仰。",
-          "jyutping": "ngo5 dei6 hai2 sung4 baai3 jap6 min6 syun1 jing6 seon3 joeng5"
-        }
-      ]
+      "english": "We confess our faith during worship.",
+      "traditional": "我哋喺崇拜入面宣認信仰。",
+      "jyutping": "ngo5 dei6 hai2 sung4 baai3 jap6 min6 syun1 jing6 seon3 joeng5"
     }
   ]
 }

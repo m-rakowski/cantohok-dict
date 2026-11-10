@@ -1,37 +1,33 @@
 {
   "id": "tkbj103t",
   "partOfSpeech": "verb",
+  "meaning": "step back",
+  "english": [
+    {
+      "id": "vs70g1nc",
+      "word": "retreat",
+      "meaning": "withdraw, go back",
+      "note": "Use this as the everyday choice when a person or group physically moves back from a position."
+    },
+    {
+      "id": "x7rewzya",
+      "word": "back",
+      "meaning": "reverse; back up",
+      "note": "Use this when a person or non-vehicle moves backward; use 倒車 for reversing a vehicle."
+    }
+  ],
   "traditional": "退後",
   "jyutping": "teoi3 hau6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "step back",
-      "english": [
-        {
-          "id": "vs70g1nc",
-          "word": "retreat",
-          "meaning": "withdraw, go back",
-          "note": "Use this as the everyday choice when a person or group physically moves back from a position."
-        },
-        {
-          "id": "x7rewzya",
-          "word": "back",
-          "meaning": "reverse; back up",
-          "note": "Use this when a person or non-vehicle moves backward; use 倒車 for reversing a vehicle."
-        }
-      ],
-      "examples": [
-        {
-          "english": "You are standing too close, so retreat a little.",
-          "traditional": "你企得太埋喇，退後少少啦。",
-          "jyutping": "nei5 kei5 dak1 taai3 maai4 laa3 teoi3 hau6 siu2 siu2 laa1"
-        },
-        {
-          "english": "Back up a little so I can get through.",
-          "traditional": "你退後少少，等我行過去。",
-          "jyutping": "nei5 teoi3 hau6 siu2 siu2 dang2 ngo5 haang4 gwo3 heoi3"
-        }
-      ]
+      "english": "You are standing too close, so retreat a little.",
+      "traditional": "你企得太埋喇，退後少少啦。",
+      "jyutping": "nei5 kei5 dak1 taai3 maai4 laa3 teoi3 hau6 siu2 siu2 laa1"
+    },
+    {
+      "english": "Back up a little so I can get through.",
+      "traditional": "你退後少少，等我行過去。",
+      "jyutping": "nei5 teoi3 hau6 siu2 siu2 dang2 ngo5 haang4 gwo3 heoi3"
     }
   ]
 }

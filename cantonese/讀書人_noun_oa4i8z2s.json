@@ -1,28 +1,24 @@
 {
   "id": "oa4i8z2s",
   "partOfSpeech": "noun",
+  "meaning": "learned person",
+  "english": [
+    {
+      "id": "o5urue0f",
+      "word": "intellectual",
+      "meaning": "learned person",
+      "register": "formal",
+      "note": "Use this for a learned or well-educated person, especially in a traditional or literary context."
+    }
+  ],
   "traditional": "讀書人",
   "jyutping": "duk6 syu1 jan4",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "learned person",
-      "english": [
-        {
-          "id": "o5urue0f",
-          "word": "intellectual",
-          "meaning": "learned person",
-          "register": "formal",
-          "note": "Use this for a learned or well-educated person, especially in a traditional or literary context."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "In olden times, people respected a learned intellectual。",
-          "traditional": "讀書人",
-          "jyutping": "duk6 syu1 jan4"
-        }
-      ]
+      "english": "In olden times, people respected a learned intellectual。",
+      "traditional": "讀書人",
+      "jyutping": "duk6 syu1 jan4"
     }
   ]
 }

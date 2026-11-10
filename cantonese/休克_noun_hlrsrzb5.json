@@ -1,28 +1,24 @@
 {
   "id": "hlrsrzb5",
   "partOfSpeech": "noun",
+  "meaning": "medical shock",
+  "english": [
+    {
+      "id": "ybihr61k",
+      "word": "shock",
+      "meaning": "medical shock",
+      "register": "formal",
+      "note": "Use this medical term for circulatory shock as a medical emergency."
+    }
+  ],
   "traditional": "休克",
   "jyutping": "jau1 hak1",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "medical shock",
-      "english": [
-        {
-          "id": "ybihr61k",
-          "word": "shock",
-          "meaning": "medical shock",
-          "register": "formal",
-          "note": "Use this medical term for circulatory shock as a medical emergency."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The patient lost too much blood and went into shock.",
-          "traditional": "病人失血過多，已經休克。",
-          "jyutping": "beng6 jan4 sat1 hyut3 gwo3 do1 ji5 ging1 jau1 hak1"
-        }
-      ]
+      "english": "The patient lost too much blood and went into shock.",
+      "traditional": "病人失血過多，已經休克。",
+      "jyutping": "beng6 jan4 sat1 hyut3 gwo3 do1 ji5 ging1 jau1 hak1"
     }
   ]
 }

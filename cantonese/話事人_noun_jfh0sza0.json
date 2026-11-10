@@ -1,28 +1,24 @@
 {
   "id": "jfh0sza0",
   "partOfSpeech": "noun",
+  "meaning": "person in control",
+  "english": [
+    {
+      "id": "8sxxj9ad",
+      "word": "master",
+      "meaning": "person in control",
+      "register": "colloquial",
+      "note": "Use this colloquial term for the person in charge who makes the decisions, rather than for an owner or an expert."
+    }
+  ],
   "traditional": "話事人",
   "jyutping": "waa6 si6 jan4",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "person in control",
-      "english": [
-        {
-          "id": "8sxxj9ad",
-          "word": "master",
-          "meaning": "person in control",
-          "register": "colloquial",
-          "note": "Use this colloquial term for the person in charge who makes the decisions, rather than for an owner or an expert."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "The master in charge says this shop will be closed tomorrow.",
-          "traditional": "呢間舖頭個話事人話聽日唔開門。",
-          "jyutping": "ni1 gaan1 pou3 tau4 go3 waa6 si6 jan4 waa6 ting1 jat6 m4 hoi1 mun4"
-        }
-      ]
+      "english": "The master in charge says this shop will be closed tomorrow.",
+      "traditional": "呢間舖頭個話事人話聽日唔開門。",
+      "jyutping": "ni1 gaan1 pou3 tau4 go3 waa6 si6 jan4 waa6 ting1 jat6 m4 hoi1 mun4"
     }
   ]
 }

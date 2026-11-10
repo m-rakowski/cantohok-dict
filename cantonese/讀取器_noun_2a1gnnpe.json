@@ -1,28 +1,24 @@
 {
   "id": "2a1gnnpe",
   "partOfSpeech": "noun",
+  "meaning": "device that reads",
+  "english": [
+    {
+      "id": "9kc1e55t",
+      "word": "reader",
+      "meaning": "device that reads",
+      "register": "technical",
+      "note": "Use this for a device that reads or retrieves data, especially in technical contexts."
+    }
+  ],
   "traditional": "讀取器",
   "jyutping": "duk6 ceoi2 hei3",
-  "boxes": [
+  "register": "technical",
+  "examples": [
     {
-      "meaning": "device that reads",
-      "english": [
-        {
-          "id": "9kc1e55t",
-          "word": "reader",
-          "meaning": "device that reads",
-          "register": "technical",
-          "note": "Use this for a device that reads or retrieves data, especially in technical contexts."
-        }
-      ],
-      "register": "technical",
-      "examples": [
-        {
-          "english": "The reader can retrieve the data on this card immediately.",
-          "traditional": "部讀取器可以即刻讀取張卡嘅資料。",
-          "jyutping": "bou6 duk6 ceoi2 hei3 ho2 ji5 zik1 hak1 duk6 ceoi2 zoeng1 kaat1 ge3 zi1 liu2"
-        }
-      ]
+      "english": "The reader can retrieve the data on this card immediately.",
+      "traditional": "部讀取器可以即刻讀取張卡嘅資料。",
+      "jyutping": "bou6 duk6 ceoi2 hei3 ho2 ji5 zik1 hak1 duk6 ceoi2 zoeng1 kaat1 ge3 zi1 liu2"
     }
   ]
 }

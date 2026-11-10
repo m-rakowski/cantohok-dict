@@ -1,28 +1,24 @@
 {
   "id": "ytlw9k81",
   "partOfSpeech": "verb",
+  "meaning": "state clearly",
+  "english": [
+    {
+      "id": "t8jcyaf5",
+      "word": "specify",
+      "meaning": "state clearly",
+      "register": "written",
+      "note": "Use this mainly when listing detailed requirements, terms, or conditions in writing."
+    }
+  ],
   "traditional": "列明",
   "jyutping": "lit6 ming4",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "state clearly",
-      "english": [
-        {
-          "id": "t8jcyaf5",
-          "word": "specify",
-          "meaning": "state clearly",
-          "register": "written",
-          "note": "Use this mainly when listing detailed requirements, terms, or conditions in writing."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "The contract will specify all the payment terms.",
-          "traditional": "合約會列明所有付款條件。",
-          "jyutping": "hap6 joek3 wui6 lit6 ming4 so2 jau5 fu6 fun2 tiu4 gin6"
-        }
-      ]
+      "english": "The contract will specify all the payment terms.",
+      "traditional": "合約會列明所有付款條件。",
+      "jyutping": "hap6 joek3 wui6 lit6 ming4 so2 jau5 fu6 fun2 tiu4 gin6"
     }
   ]
 }

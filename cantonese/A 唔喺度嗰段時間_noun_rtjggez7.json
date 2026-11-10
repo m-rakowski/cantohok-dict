@@ -1,28 +1,24 @@
 {
   "id": "rtjggez7",
   "partOfSpeech": "noun",
+  "meaning": "time away",
+  "english": [
+    {
+      "id": "l2wrgz8j",
+      "word": "absence",
+      "meaning": "time away",
+      "register": "colloquial",
+      "note": "Use this noun-like time expression for the period when A is away, rather than for the state of being absent itself."
+    }
+  ],
   "traditional": "A 唔喺度嗰段時間",
   "jyutping": "A m4 hai2 dou6 go2 dyun6 si4 gaan3",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "time away",
-      "english": [
-        {
-          "id": "l2wrgz8j",
-          "word": "absence",
-          "meaning": "time away",
-          "register": "colloquial",
-          "note": "Use this noun-like time expression for the period when A is away, rather than for the state of being absent itself."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "During Ming's absence, we all missed him.",
-          "traditional": "阿明唔喺度嗰段時間，我哋都好掛住佢。",
-          "jyutping": "aa3 ming4 m4 hai2 dou6 go2 dyun6 si4 gaan3 ngo5 dei6 dou1 hou2 gwaa3 zyu6 keoi5"
-        }
-      ]
+      "english": "During Ming's absence, we all missed him.",
+      "traditional": "阿明唔喺度嗰段時間，我哋都好掛住佢。",
+      "jyutping": "aa3 ming4 m4 hai2 dou6 go2 dyun6 si4 gaan3 ngo5 dei6 dou1 hou2 gwaa3 zyu6 keoi5"
     }
   ]
 }

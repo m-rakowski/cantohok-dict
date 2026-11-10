@@ -1,37 +1,33 @@
 {
   "id": "5x4monli",
   "partOfSpeech": "verb",
+  "meaning": "sentence in court",
+  "english": [
+    {
+      "id": "18infn0j",
+      "word": "sentence",
+      "meaning": "to sentence someone",
+      "note": "This is the all-purpose Cantonese verb for a court sentencing someone to punishment."
+    },
+    {
+      "id": "8m6btq0n",
+      "word": "condemn",
+      "meaning": "sentence to punishment",
+      "note": "Use this specifically when a court sentences someone to a punishment."
+    }
+  ],
   "traditional": "判刑",
   "jyutping": "pun3 cing4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "sentence in court",
-      "english": [
-        {
-          "id": "18infn0j",
-          "word": "sentence",
-          "meaning": "to sentence someone",
-          "note": "This is the all-purpose Cantonese verb for a court sentencing someone to punishment."
-        },
-        {
-          "id": "8m6btq0n",
-          "word": "condemn",
-          "meaning": "sentence to punishment",
-          "note": "Use this specifically when a court sentences someone to a punishment."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The judge will sentence him only after hearing both sides.",
-          "traditional": "法官聽完雙方陳詞之後，先至判刑。",
-          "jyutping": "faat3 gun1 teng1 jyun4 soeng1 fong1 can4 ci4 zi1 hau6 sin1 zi3 pun3 cing4"
-        },
-        {
-          "english": "If they are found guilty, the court will condemn them to three years in prison.",
-          "traditional": "如果罪名成立，法庭會判刑三年。",
-          "jyutping": "jyu4 gwo2 zeoi6 ming4 sing4 lap6 faat3 ting4 wui5 pun3 cing4 saam1 nin4"
-        }
-      ]
+      "english": "The judge will sentence him only after hearing both sides.",
+      "traditional": "法官聽完雙方陳詞之後，先至判刑。",
+      "jyutping": "faat3 gun1 teng1 jyun4 soeng1 fong1 can4 ci4 zi1 hau6 sin1 zi3 pun3 cing4"
+    },
+    {
+      "english": "If they are found guilty, the court will condemn them to three years in prison.",
+      "traditional": "如果罪名成立，法庭會判刑三年。",
+      "jyutping": "jyu4 gwo2 zeoi6 ming4 sing4 lap6 faat3 ting4 wui5 pun3 cing4 saam1 nin4"
     }
   ]
 }

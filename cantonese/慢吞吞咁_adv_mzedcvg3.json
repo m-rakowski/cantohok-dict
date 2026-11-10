@@ -1,50 +1,46 @@
 {
   "id": "mzedcvg3",
   "partOfSpeech": "adv",
+  "meaning": "very slowly, sluggishly",
+  "english": [
+    {
+      "id": "vhstmne8",
+      "word": "tediously",
+      "meaning": "in a wearisome way",
+      "register": "colloquial",
+      "note": "Use this when the wearisome quality comes specifically from moving or progressing very slowly."
+    },
+    {
+      "id": "svgdtsp8",
+      "word": "ponderously",
+      "meaning": "very slowly, heavily",
+      "note": "This is the all-purpose choice when someone moves very slowly and sluggishly."
+    },
+    {
+      "id": "sfa4otwm",
+      "word": "indolently",
+      "meaning": "lazily; in a sluggish way",
+      "register": "colloquial",
+      "note": "Use this for sluggish, slow-moving behavior, especially when the action takes a long time."
+    }
+  ],
   "traditional": "慢吞吞咁",
   "jyutping": "maan6 tan1 tan1 gam3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "very slowly, sluggishly",
-      "english": [
-        {
-          "id": "vhstmne8",
-          "word": "tediously",
-          "meaning": "in a wearisome way",
-          "register": "colloquial",
-          "note": "Use this when the wearisome quality comes specifically from moving or progressing very slowly."
-        },
-        {
-          "id": "svgdtsp8",
-          "word": "ponderously",
-          "meaning": "very slowly, heavily",
-          "note": "This is the all-purpose choice when someone moves very slowly and sluggishly."
-        },
-        {
-          "id": "sfa4otwm",
-          "word": "indolently",
-          "meaning": "lazily; in a sluggish way",
-          "register": "colloquial",
-          "note": "Use this for sluggish, slow-moving behavior, especially when the action takes a long time."
-        }
-      ],
-      "examples": [
-        {
-          "english": "They packed their things tediously slowly, making us leave late.",
-          "traditional": "佢慢吞吞咁執嘢，搞到我哋遲咗出門口。",
-          "jyutping": "keoi5 maan6 tan1 tan1 gam3 zap1 je5 gaau2 dou3 ngo5 dei6 ci4 zo2 ceot1 mun4 hau2"
-        },
-        {
-          "english": "They walked in ponderously, keeping everyone waiting.",
-          "traditional": "佢慢吞吞咁行入嚟，搞到成班人等佢。",
-          "jyutping": "keoi5 maan6 tan1 tan1 gam3 haang4 jap6 lai4 gaau2 dou3 sing4 baan1 jan4 dang2 keoi5"
-        },
-        {
-          "english": "They indolently ate breakfast and ended up late for work.",
-          "traditional": "佢慢吞吞咁食早餐，搞到返工遲到。",
-          "jyutping": "keoi5 maan6 tan1 tan1 gam3 sik6 zou2 caan1 gaau2 dou3 faan1 gung1 ci4 dou3"
-        }
-      ]
+      "english": "They packed their things tediously slowly, making us leave late.",
+      "traditional": "佢慢吞吞咁執嘢，搞到我哋遲咗出門口。",
+      "jyutping": "keoi5 maan6 tan1 tan1 gam3 zap1 je5 gaau2 dou3 ngo5 dei6 ci4 zo2 ceot1 mun4 hau2"
+    },
+    {
+      "english": "They walked in ponderously, keeping everyone waiting.",
+      "traditional": "佢慢吞吞咁行入嚟，搞到成班人等佢。",
+      "jyutping": "keoi5 maan6 tan1 tan1 gam3 haang4 jap6 lai4 gaau2 dou3 sing4 baan1 jan4 dang2 keoi5"
+    },
+    {
+      "english": "They indolently ate breakfast and ended up late for work.",
+      "traditional": "佢慢吞吞咁食早餐，搞到返工遲到。",
+      "jyutping": "keoi5 maan6 tan1 tan1 gam3 sik6 zou2 caan1 gaau2 dou3 faan1 gung1 ci4 dou3"
     }
   ]
 }

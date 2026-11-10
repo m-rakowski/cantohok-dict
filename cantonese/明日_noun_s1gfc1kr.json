@@ -1,28 +1,24 @@
 {
   "id": "s1gfc1kr",
   "partOfSpeech": "noun",
+  "meaning": "the next day (noun)",
+  "english": [
+    {
+      "id": "1ap8j03i",
+      "word": "tomorrow",
+      "meaning": "the next day (noun)",
+      "register": "written",
+      "note": "Use this mainly in formal or written contexts for the day after today."
+    }
+  ],
   "traditional": "明日",
   "jyutping": "ming4 jat6",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "the next day (noun)",
-      "english": [
-        {
-          "id": "1ap8j03i",
-          "word": "tomorrow",
-          "meaning": "the next day (noun)",
-          "register": "written",
-          "note": "Use this mainly in formal or written contexts for the day after today."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "The results will be announced tomorrow.",
-          "traditional": "明日將公布結果。",
-          "jyutping": "ming4 jat6 zoeng1 gung1 bou3 git3 gwo2"
-        }
-      ]
+      "english": "The results will be announced tomorrow.",
+      "traditional": "明日將公布結果。",
+      "jyutping": "ming4 jat6 zoeng1 gung1 bou3 git3 gwo2"
     }
   ]
 }

@@ -1,37 +1,33 @@
 {
   "id": "j971fx0l",
   "partOfSpeech": "verb",
+  "meaning": "beat or slap against something",
+  "english": [
+    {
+      "id": "zbd83w6b",
+      "word": "slap",
+      "meaning": "slap against",
+      "note": "Use this when an object or natural force repeatedly strikes against another surface, such as rain hitting a window."
+    },
+    {
+      "id": "clthh5j7",
+      "word": "thump",
+      "meaning": "make thumping sound",
+      "note": "Use this when an animal or object repeatedly hits a surface and thereby makes a thumping sound."
+    }
+  ],
   "traditional": "拍打",
   "jyutping": "paak3 daa2",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "beat or slap against something",
-      "english": [
-        {
-          "id": "zbd83w6b",
-          "word": "slap",
-          "meaning": "slap against",
-          "note": "Use this when an object or natural force repeatedly strikes against another surface, such as rain hitting a window."
-        },
-        {
-          "id": "clthh5j7",
-          "word": "thump",
-          "meaning": "make thumping sound",
-          "note": "Use this when an animal or object repeatedly hits a surface and thereby makes a thumping sound."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The heavy rain continued to slap against the window.",
-          "traditional": "大雨不停咁拍打住窗。",
-          "jyutping": "daai6 jyu5 bat1 ting4 gam3 paak3 daa2 zyu6 coeng1"
-        },
-        {
-          "english": "The waves thump against the seawall again and again.",
-          "traditional": "海浪一下下咁拍打住堤岸。",
-          "jyutping": "hoi2 long6 jat1 haa5 haa5 gam3 paak3 daa2 zyu6 tai4 ngon6"
-        }
-      ]
+      "english": "The heavy rain continued to slap against the window.",
+      "traditional": "大雨不停咁拍打住窗。",
+      "jyutping": "daai6 jyu5 bat1 ting4 gam3 paak3 daa2 zyu6 coeng1"
+    },
+    {
+      "english": "The waves thump against the seawall again and again.",
+      "traditional": "海浪一下下咁拍打住堤岸。",
+      "jyutping": "hoi2 long6 jat1 haa5 haa5 gam3 paak3 daa2 zyu6 tai4 ngon6"
     }
   ]
 }

@@ -1,28 +1,24 @@
 {
   "id": "nhgoo829",
   "partOfSpeech": "adj",
+  "meaning": "preventing illness",
+  "english": [
+    {
+      "id": "zd3alypq",
+      "word": "preventive",
+      "meaning": "preventing illness",
+      "register": "formal",
+      "note": "Use this for medical or health-related measures intended to prevent illness rather than treat it."
+    }
+  ],
   "traditional": "預防性",
   "jyutping": "jyu6 fong4 sing3",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "preventing illness",
-      "english": [
-        {
-          "id": "zd3alypq",
-          "word": "preventive",
-          "meaning": "preventing illness",
-          "register": "formal",
-          "note": "Use this for medical or health-related measures intended to prevent illness rather than treat it."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The doctor prescribed preventive medicine to reduce my chance of getting sick.",
-          "traditional": "醫生叫我食預防性藥物，減低發病機會。",
-          "jyutping": "ji1 saang1 giu3 ngo5 sik6 jyu6 fong4 sing3 joek6 mat6 gaam2 dai1 faat3 beng6 gei1 wui6"
-        }
-      ]
+      "english": "The doctor prescribed preventive medicine to reduce my chance of getting sick.",
+      "traditional": "醫生叫我食預防性藥物，減低發病機會。",
+      "jyutping": "ji1 saang1 giu3 ngo5 sik6 jyu6 fong4 sing3 joek6 mat6 gaam2 dai1 faat3 beng6 gei1 wui6"
     }
   ]
 }

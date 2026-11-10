@@ -1,48 +1,44 @@
 {
   "id": "kgjyxdbs",
   "partOfSpeech": "verb",
+  "meaning": "surround",
+  "english": [
+    {
+      "id": "gwcz8q66",
+      "word": "surround",
+      "meaning": "enclose, encircle",
+      "note": "This is the all-purpose verb for surrounding something, including figurative cases and situations where escape is blocked."
+    },
+    {
+      "id": "1g6qgaqs",
+      "word": "engulf",
+      "meaning": "surround or submerge",
+      "note": "Use 包圍 specifically when engulf means surrounding something without necessarily covering or submerging it."
+    },
+    {
+      "id": "35mc0tse",
+      "word": "encompass",
+      "meaning": "include, cover",
+      "note": "Use this when something physically surrounds or encircles something else."
+    }
+  ],
   "traditional": "包圍",
   "jyutping": "baau1 wai4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "surround",
-      "english": [
-        {
-          "id": "gwcz8q66",
-          "word": "surround",
-          "meaning": "enclose, encircle",
-          "note": "This is the all-purpose verb for surrounding something, including figurative cases and situations where escape is blocked."
-        },
-        {
-          "id": "1g6qgaqs",
-          "word": "engulf",
-          "meaning": "surround or submerge",
-          "note": "Use 包圍 specifically when engulf means surrounding something without necessarily covering or submerging it."
-        },
-        {
-          "id": "35mc0tse",
-          "word": "encompass",
-          "meaning": "include, cover",
-          "note": "Use this when something physically surrounds or encircles something else."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The police surround the suspect, leaving them nowhere to go.",
-          "traditional": "警察包圍咗疑犯，佢冇路走。",
-          "jyutping": "ging2 caat3 baau1 wai4 zo2 ji4 faan6 keoi5 mou5 lou6 zau2"
-        },
-        {
-          "english": "A large group of reporters began to engulf the singer, leaving him unable to move.",
-          "traditional": "一大班記者喺門口包圍住個歌手，搞到佢行唔到。",
-          "jyutping": "jat1 daai6 baan1 gei3 ze2 hai2 mun4 hau2 baau1 wai4 zyu6 go3 go1 sau2 gaau2 dou3 keoi5 haang4 m4 dou3"
-        },
-        {
-          "english": "Tall buildings on all sides encompass the park.",
-          "traditional": "包圍",
-          "jyutping": "baau1 wai4"
-        }
-      ]
+      "english": "The police surround the suspect, leaving them nowhere to go.",
+      "traditional": "警察包圍咗疑犯，佢冇路走。",
+      "jyutping": "ging2 caat3 baau1 wai4 zo2 ji4 faan6 keoi5 mou5 lou6 zau2"
+    },
+    {
+      "english": "A large group of reporters began to engulf the singer, leaving him unable to move.",
+      "traditional": "一大班記者喺門口包圍住個歌手，搞到佢行唔到。",
+      "jyutping": "jat1 daai6 baan1 gei3 ze2 hai2 mun4 hau2 baau1 wai4 zyu6 go3 go1 sau2 gaau2 dou3 keoi5 haang4 m4 dou3"
+    },
+    {
+      "english": "Tall buildings on all sides encompass the park.",
+      "traditional": "包圍",
+      "jyutping": "baau1 wai4"
     }
   ]
 }

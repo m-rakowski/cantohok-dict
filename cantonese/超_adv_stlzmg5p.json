@@ -1,40 +1,36 @@
 {
   "id": "stlzmg5p",
   "partOfSpeech": "adv",
+  "meaning": "super, extremely",
+  "english": [
+    {
+      "id": "mzov7iuh",
+      "word": "extra",
+      "meaning": "extra- / especially",
+      "register": "colloquial",
+      "note": "Use this informal intensifier before an adjective for an emphatic “super-” sense, especially in casual speech."
+    },
+    {
+      "id": "r7rz9n51",
+      "word": "extremely",
+      "meaning": "to an extreme degree",
+      "register": "colloquial",
+      "note": "Use this casual, emphatic choice for a youthful ‘super-’ tone."
+    }
+  ],
   "traditional": "超",
   "jyutping": "ciu1",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "super, extremely",
-      "english": [
-        {
-          "id": "mzov7iuh",
-          "word": "extra",
-          "meaning": "extra- / especially",
-          "register": "colloquial",
-          "note": "Use this informal intensifier before an adjective for an emphatic “super-” sense, especially in casual speech."
-        },
-        {
-          "id": "r7rz9n51",
-          "word": "extremely",
-          "meaning": "to an extreme degree",
-          "register": "colloquial",
-          "note": "Use this casual, emphatic choice for a youthful ‘super-’ tone."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "You look extra beautiful today.",
-          "traditional": "你今日超靚喎。",
-          "jyutping": "nei5 gam1 jat6 ciu1 leng3 wo3"
-        },
-        {
-          "english": "This movie is extremely entertaining.",
-          "traditional": "呢套戲超好睇。",
-          "jyutping": "ni1 tou3 hei3 ciu1 hou2 tai2"
-        }
-      ]
+      "english": "You look extra beautiful today.",
+      "traditional": "你今日超靚喎。",
+      "jyutping": "nei5 gam1 jat6 ciu1 leng3 wo3"
+    },
+    {
+      "english": "This movie is extremely entertaining.",
+      "traditional": "呢套戲超好睇。",
+      "jyutping": "ni1 tou3 hei3 ciu1 hou2 tai2"
     }
   ]
 }

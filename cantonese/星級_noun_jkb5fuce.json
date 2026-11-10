@@ -1,26 +1,22 @@
 {
   "id": "jkb5fuce",
   "partOfSpeech": "noun",
+  "meaning": "rating star",
+  "english": [
+    {
+      "id": "ejmsgdri",
+      "word": "star",
+      "meaning": "rating star",
+      "note": "Use this specifically for a hotel, film, or other quality rating expressed in stars."
+    }
+  ],
   "traditional": "星級",
   "jyutping": "sing1 kap1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "rating star",
-      "english": [
-        {
-          "id": "ejmsgdri",
-          "word": "star",
-          "meaning": "rating star",
-          "note": "Use this specifically for a hotel, film, or other quality rating expressed in stars."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This hotel has a star rating of five.",
-          "traditional": "呢間酒店有五星級。",
-          "jyutping": "ne1 gaan1 zau2 dim3 jau5 ng5 sing1 kap1"
-        }
-      ]
+      "english": "This hotel has a star rating of five.",
+      "traditional": "呢間酒店有五星級。",
+      "jyutping": "ne1 gaan1 zau2 dim3 jau5 ng5 sing1 kap1"
     }
   ]
 }

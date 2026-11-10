@@ -1,39 +1,35 @@
 {
   "id": "f4xw0dhb",
   "partOfSpeech": "noun",
+  "meaning": "mention",
+  "english": [
+    {
+      "id": "xr6m9cdk",
+      "word": "mention",
+      "meaning": "brief reference",
+      "register": "written",
+      "note": "Use this as the formal noun for a brief reference; everyday speech usually recasts the idea as a verb."
+    },
+    {
+      "id": "8s7ynti4",
+      "word": "remark",
+      "meaning": "remark; mention",
+      "register": "formal",
+      "note": "Use this for the fact or act of mentioning something, especially in formal or written contexts rather than for a conversational comment."
+    }
+  ],
   "traditional": "提及",
   "jyutping": "tai4 kap6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "mention",
-      "english": [
-        {
-          "id": "xr6m9cdk",
-          "word": "mention",
-          "meaning": "brief reference",
-          "register": "written",
-          "note": "Use this as the formal noun for a brief reference; everyday speech usually recasts the idea as a verb."
-        },
-        {
-          "id": "8s7ynti4",
-          "word": "remark",
-          "meaning": "remark; mention",
-          "register": "formal",
-          "note": "Use this for the fact or act of mentioning something, especially in formal or written contexts rather than for a conversational comment."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This report makes only a brief mention of the incident.",
-          "traditional": "呢份報告對事件只有簡短嘅提及。",
-          "jyutping": "ni1 fan6 bou3 gou3 deoi3 si6 gin6 zi2 jau5 gaan2 dyun2 ge3 tai4 kap6"
-        },
-        {
-          "english": "The report makes a remark about this issue.",
-          "traditional": "份報告入面提及咗呢個問題。",
-          "jyutping": "fan6 bou3 gou3 jap6 min6 tai4 kap6 zo2 ni1 go3 man6 tai4"
-        }
-      ]
+      "english": "This report makes only a brief mention of the incident.",
+      "traditional": "呢份報告對事件只有簡短嘅提及。",
+      "jyutping": "ni1 fan6 bou3 gou3 deoi3 si6 gin6 zi2 jau5 gaan2 dyun2 ge3 tai4 kap6"
+    },
+    {
+      "english": "The report makes a remark about this issue.",
+      "traditional": "份報告入面提及咗呢個問題。",
+      "jyutping": "fan6 bou3 gou3 jap6 min6 tai4 kap6 zo2 ni1 go3 man6 tai4"
     }
   ]
 }

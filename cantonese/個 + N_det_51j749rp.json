@@ -1,26 +1,22 @@
 {
   "id": "51j749rp",
   "partOfSpeech": "det",
+  "meaning": "indefinite article",
+  "english": [
+    {
+      "id": "r7d6kskw",
+      "word": "a",
+      "meaning": "indefinite article",
+      "note": "Use this as the all-purpose spoken Cantonese pattern for an unspecified singular person or thing, with the appropriate classifier replacing 個 when needed."
+    }
+  ],
   "traditional": "個 + N",
   "jyutping": "go3 N",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "indefinite article",
-      "english": [
-        {
-          "id": "r7d6kskw",
-          "word": "a",
-          "meaning": "indefinite article",
-          "note": "Use this as the all-purpose spoken Cantonese pattern for an unspecified singular person or thing, with the appropriate classifier replacing 個 when needed."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I want to buy a popsicle.",
-          "traditional": "我想買個雪糕。",
-          "jyutping": "ngo5 soeng2 maai5 go3 syut3 gou1"
-        }
-      ]
+      "english": "I want to buy a popsicle.",
+      "traditional": "我想買個雪糕。",
+      "jyutping": "ngo5 soeng2 maai5 go3 syut3 gou1"
     }
   ]
 }

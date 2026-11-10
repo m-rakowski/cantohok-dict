@@ -1,28 +1,24 @@
 {
   "id": "ar5qh0dt",
   "partOfSpeech": "noun",
+  "meaning": "collection of literary works",
+  "english": [
+    {
+      "id": "7qjbsg6h",
+      "word": "anthology",
+      "meaning": "collection of literary works",
+      "register": "written",
+      "note": "This is the all-purpose choice for a collection of literary works, especially selected works by different authors."
+    }
+  ],
   "traditional": "選集",
   "jyutping": "syun2 zaap6",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "collection of literary works",
-      "english": [
-        {
-          "id": "7qjbsg6h",
-          "word": "anthology",
-          "meaning": "collection of literary works",
-          "register": "written",
-          "note": "This is the all-purpose choice for a collection of literary works, especially selected works by different authors."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "This anthology includes fine works by different poets.",
-          "traditional": "呢本選集收錄咗唔同詩人嘅佳作。",
-          "jyutping": "ne1 bun2 syun2 zaap6 sau1 luk6 zo2 m4 tung4 si1 jan4 ge3 gaai1 zok3"
-        }
-      ]
+      "english": "This anthology includes fine works by different poets.",
+      "traditional": "呢本選集收錄咗唔同詩人嘅佳作。",
+      "jyutping": "ne1 bun2 syun2 zaap6 sau1 luk6 zo2 m4 tung4 si1 jan4 ge3 gaai1 zok3"
     }
   ]
 }

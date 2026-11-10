@@ -1,37 +1,33 @@
 {
   "id": "0eav9glh",
   "partOfSpeech": "noun",
+  "meaning": "can, tin",
+  "english": [
+    {
+      "id": "w67xnx5a",
+      "word": "can",
+      "meaning": "metal container",
+      "note": "This is the all-purpose noun for a can or metal container, especially when naming its contents."
+    },
+    {
+      "id": "u8rp17jy",
+      "word": "tin",
+      "meaning": "food can / tin",
+      "note": "This is the all-purpose everyday word for a metal can or tin used as a container."
+    }
+  ],
   "traditional": "罐",
   "jyutping": "gun3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "can, tin",
-      "english": [
-        {
-          "id": "w67xnx5a",
-          "word": "can",
-          "meaning": "metal container",
-          "note": "This is the all-purpose noun for a can or metal container, especially when naming its contents."
-        },
-        {
-          "id": "u8rp17jy",
-          "word": "tin",
-          "meaning": "food can / tin",
-          "note": "This is the all-purpose everyday word for a metal can or tin used as a container."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This can of soda is mine.",
-          "traditional": "呢罐汽水係我嘅。",
-          "jyutping": "nei1 gun3 hei3 seoi2 hai6 ngo5 ge3"
-        },
-        {
-          "english": "This tin of dace with black beans has never been opened.",
-          "traditional": "呢罐豆豉鯪魚未開過。",
-          "jyutping": "ni1 gun3 dau6 si6 ling4 jyu2 mei6 hoi1 gwo3"
-        }
-      ]
+      "english": "This can of soda is mine.",
+      "traditional": "呢罐汽水係我嘅。",
+      "jyutping": "nei1 gun3 hei3 seoi2 hai6 ngo5 ge3"
+    },
+    {
+      "english": "This tin of dace with black beans has never been opened.",
+      "traditional": "呢罐豆豉鯪魚未開過。",
+      "jyutping": "ni1 gun3 dau6 si6 ling4 jyu2 mei6 hoi1 gwo3"
     }
   ]
 }

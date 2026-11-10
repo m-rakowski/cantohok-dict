@@ -1,60 +1,56 @@
 {
   "id": "cbh50xde",
   "partOfSpeech": "noun",
+  "meaning": "official approval",
+  "english": [
+    {
+      "id": "qwejhgdm",
+      "word": "permission",
+      "meaning": "authorisation / consent",
+      "note": "Use this when permission means official approval that must be obtained from an authority."
+    },
+    {
+      "id": "ikw413je",
+      "word": "grant",
+      "meaning": "a grant; giving",
+      "note": "Use this for the approval or granting of permission, such as permission for a project."
+    },
+    {
+      "id": "f2hzoeqh",
+      "word": "approval",
+      "meaning": "permission / agreement",
+      "register": "formal",
+      "note": "Use this for official or administrative authorization, such as approval of an application or purchase order."
+    },
+    {
+      "id": "oy4h5uel",
+      "word": "nod",
+      "meaning": "approval",
+      "note": "Use this when the approval is an official authorization, especially for a plan or application."
+    }
+  ],
   "traditional": "批准",
   "jyutping": "pai1 zeon2",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "official approval",
-      "english": [
-        {
-          "id": "qwejhgdm",
-          "word": "permission",
-          "meaning": "authorisation / consent",
-          "note": "Use this when permission means official approval that must be obtained from an authority."
-        },
-        {
-          "id": "ikw413je",
-          "word": "grant",
-          "meaning": "a grant; giving",
-          "note": "Use this for the approval or granting of permission, such as permission for a project."
-        },
-        {
-          "id": "f2hzoeqh",
-          "word": "approval",
-          "meaning": "permission / agreement",
-          "register": "formal",
-          "note": "Use this for official or administrative authorization, such as approval of an application or purchase order."
-        },
-        {
-          "id": "oy4h5uel",
-          "word": "nod",
-          "meaning": "approval",
-          "note": "Use this when the approval is an official authorization, especially for a plan or application."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This application is still waiting for the supervisor's permission.",
-          "traditional": "呢份申請仲等緊上級批准。",
-          "jyutping": "nei1 fan6 san1 cing2 zung6 dang2 gan2 soeng6 kap1 pai1 zeon2"
-        },
-        {
-          "english": "I finally got the grant for my project approved.",
-          "traditional": "我個計劃終於獲得批准喇。",
-          "jyutping": "ngo5 go3 gai3 waak6 zung1 jyu1 wok6 dak1 pai1 zeon2 laa3"
-        },
-        {
-          "english": "The department has given approval to my purchase order.",
-          "traditional": "部門已經批准咗我張採購單。",
-          "jyutping": "bou6 mun4 ji5 ging1 pai1 zeon2 zo2 ngo5 zoeng1 coi2 kau3 daan1"
-        },
-        {
-          "english": "This application is still waiting for the official nod.",
-          "traditional": "呢份申請仲等緊批准。",
-          "jyutping": "ni1 fan6 san1 cing2 zung6 dang2 gan2 pai1 zeon2"
-        }
-      ]
+      "english": "This application is still waiting for the supervisor's permission.",
+      "traditional": "呢份申請仲等緊上級批准。",
+      "jyutping": "nei1 fan6 san1 cing2 zung6 dang2 gan2 soeng6 kap1 pai1 zeon2"
+    },
+    {
+      "english": "I finally got the grant for my project approved.",
+      "traditional": "我個計劃終於獲得批准喇。",
+      "jyutping": "ngo5 go3 gai3 waak6 zung1 jyu1 wok6 dak1 pai1 zeon2 laa3"
+    },
+    {
+      "english": "The department has given approval to my purchase order.",
+      "traditional": "部門已經批准咗我張採購單。",
+      "jyutping": "bou6 mun4 ji5 ging1 pai1 zeon2 zo2 ngo5 zoeng1 coi2 kau3 daan1"
+    },
+    {
+      "english": "This application is still waiting for the official nod.",
+      "traditional": "呢份申請仲等緊批准。",
+      "jyutping": "ni1 fan6 san1 cing2 zung6 dang2 gan2 pai1 zeon2"
     }
   ]
 }

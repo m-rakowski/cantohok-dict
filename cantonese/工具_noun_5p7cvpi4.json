@@ -1,70 +1,66 @@
 {
   "id": "5p7cvpi4",
   "partOfSpeech": "noun",
+  "meaning": "tool",
+  "english": [
+    {
+      "id": "b76l5amw",
+      "word": "tool",
+      "meaning": "physical implement",
+      "note": "This is the all-purpose choice for a physical implement, trade equipment, or a software tool."
+    },
+    {
+      "id": "o0izi1h5",
+      "word": "instrument",
+      "meaning": "tool / implement",
+      "note": "This is the all-purpose choice for a hand tool or implement used to do a task."
+    },
+    {
+      "id": "fyrp88c9",
+      "word": "implement",
+      "meaning": "tool, instrument",
+      "note": "This is the all-purpose choice for a tool or instrument used to do a job."
+    },
+    {
+      "id": "3kc3m3lq",
+      "word": "equipment",
+      "meaning": "tools, gear, equipment",
+      "note": "Use this when the equipment specifically consists of tools, such as gardening or repair tools."
+    },
+    {
+      "id": "37unyn2c",
+      "word": "utensil",
+      "meaning": "small tool or implement",
+      "note": "Use this for a small practical tool or implement rather than something specifically used for cooking or eating."
+    }
+  ],
   "traditional": "工具",
   "jyutping": "gung1 geoi6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "tool",
-      "english": [
-        {
-          "id": "b76l5amw",
-          "word": "tool",
-          "meaning": "physical implement",
-          "note": "This is the all-purpose choice for a physical implement, trade equipment, or a software tool."
-        },
-        {
-          "id": "o0izi1h5",
-          "word": "instrument",
-          "meaning": "tool / implement",
-          "note": "This is the all-purpose choice for a hand tool or implement used to do a task."
-        },
-        {
-          "id": "fyrp88c9",
-          "word": "implement",
-          "meaning": "tool, instrument",
-          "note": "This is the all-purpose choice for a tool or instrument used to do a job."
-        },
-        {
-          "id": "3kc3m3lq",
-          "word": "equipment",
-          "meaning": "tools, gear, equipment",
-          "note": "Use this when the equipment specifically consists of tools, such as gardening or repair tools."
-        },
-        {
-          "id": "37unyn2c",
-          "word": "utensil",
-          "meaning": "small tool or implement",
-          "note": "Use this for a small practical tool or implement rather than something specifically used for cooking or eating."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This software tool can help me check for vulnerabilities in the code.",
-          "traditional": "呢個工具可以幫我檢查程式漏洞。",
-          "jyutping": "ni1 go3 gung1 geoi6 ho2 ji5 bong1 ngo5 gim2 caa4 cing4 sik1 lau6 dung6"
-        },
-        {
-          "english": "You definitely need to use the right instrument for the job.",
-          "traditional": "做嘢一定要用啱工具。",
-          "jyutping": "zou6 je5 jat1 ding6 jiu3 jung6 ngaam1 gung1 geoi6"
-        },
-        {
-          "english": "This tool is the implement I use for bicycle repairs.",
-          "traditional": "呢件工具係我整架單車時用嘅。",
-          "jyutping": "ni1 gin6 gung1 geoi6 hai6 ngo5 zing2 gaa3 daan1 ce1 si4 jung6 ge3"
-        },
-        {
-          "english": "This set of equipment is really handy for fixing things.",
-          "traditional": "呢套工具整嘢好好用。",
-          "jyutping": "ni1 tou3 gung1 geoi6 zing2 je5 hou2 hou2 jung6"
-        },
-        {
-          "english": "This little utensil is very handy for opening cans.",
-          "traditional": "呢件小工具用嚟開罐頭就最方便。",
-          "jyutping": "ne1 gin6 siu2 gung1 geoi6 jung6 lei4 hoi1 gun3 tau2 zau6 zeoi3 fong1 bin6"
-        }
-      ]
+      "english": "This software tool can help me check for vulnerabilities in the code.",
+      "traditional": "呢個工具可以幫我檢查程式漏洞。",
+      "jyutping": "ni1 go3 gung1 geoi6 ho2 ji5 bong1 ngo5 gim2 caa4 cing4 sik1 lau6 dung6"
+    },
+    {
+      "english": "You definitely need to use the right instrument for the job.",
+      "traditional": "做嘢一定要用啱工具。",
+      "jyutping": "zou6 je5 jat1 ding6 jiu3 jung6 ngaam1 gung1 geoi6"
+    },
+    {
+      "english": "This tool is the implement I use for bicycle repairs.",
+      "traditional": "呢件工具係我整架單車時用嘅。",
+      "jyutping": "ni1 gin6 gung1 geoi6 hai6 ngo5 zing2 gaa3 daan1 ce1 si4 jung6 ge3"
+    },
+    {
+      "english": "This set of equipment is really handy for fixing things.",
+      "traditional": "呢套工具整嘢好好用。",
+      "jyutping": "ni1 tou3 gung1 geoi6 zing2 je5 hou2 hou2 jung6"
+    },
+    {
+      "english": "This little utensil is very handy for opening cans.",
+      "traditional": "呢件小工具用嚟開罐頭就最方便。",
+      "jyutping": "ne1 gin6 siu2 gung1 geoi6 jung6 lei4 hoi1 gun3 tau2 zau6 zeoi3 fong1 bin6"
     }
   ]
 }

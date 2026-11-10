@@ -1,28 +1,24 @@
 {
   "id": "ko90mzhi",
   "partOfSpeech": "noun",
+  "meaning": "driving permit document",
+  "english": [
+    {
+      "id": "xatp2yyj",
+      "word": "driver's license",
+      "meaning": "driving permit document",
+      "register": "colloquial",
+      "note": "This is the all-purpose colloquial term when the context clearly means a driving licence rather than a vehicle licence plate."
+    }
+  ],
   "traditional": "車牌",
   "jyutping": "ce1 paai4",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "driving permit document",
-      "english": [
-        {
-          "id": "xatp2yyj",
-          "word": "driver's license",
-          "meaning": "driving permit document",
-          "register": "colloquial",
-          "note": "This is the all-purpose colloquial term when the context clearly means a driving licence rather than a vehicle licence plate."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "I always carry my driver's license when I go out driving.",
-          "traditional": "我出街揸車一定會帶住車牌。",
-          "jyutping": "ngo5 ceot1 gaai1 zaa1 ce1 jat1 ding6 wui5 daai3 zyu6 ce1 paai4"
-        }
-      ]
+      "english": "I always carry my driver's license when I go out driving.",
+      "traditional": "我出街揸車一定會帶住車牌。",
+      "jyutping": "ngo5 ceot1 gaai1 zaa1 ce1 jat1 ding6 wui5 daai3 zyu6 ce1 paai4"
     }
   ]
 }

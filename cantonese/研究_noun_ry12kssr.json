@@ -1,37 +1,33 @@
 {
   "id": "ry12kssr",
   "partOfSpeech": "noun",
+  "meaning": "research, study",
+  "english": [
+    {
+      "id": "rfatlrjh",
+      "word": "study",
+      "meaning": "careful examination",
+      "note": "Use this for a careful examination or investigation of a person, topic, or problem."
+    },
+    {
+      "id": "gm7wiax8",
+      "word": "investigation",
+      "meaning": "inquiry; inquiry process",
+      "note": "Use this when the investigation means patient or systematic research, especially in an academic or technical context."
+    }
+  ],
   "traditional": "研究",
   "jyutping": "jin4 gau3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "research, study",
-      "english": [
-        {
-          "id": "rfatlrjh",
-          "word": "study",
-          "meaning": "careful examination",
-          "note": "Use this for a careful examination or investigation of a person, topic, or problem."
-        },
-        {
-          "id": "gm7wiax8",
-          "word": "investigation",
-          "meaning": "inquiry; inquiry process",
-          "note": "Use this when the investigation means patient or systematic research, especially in an academic or technical context."
-        }
-      ],
-      "examples": [
-        {
-          "english": "We need to do a study first before drawing a conclusion.",
-          "traditional": "我哋要先做研究，先至可以落結論。",
-          "jyutping": "ngo5 dei6 jiu3 sin1 zou6 jin4 gau3 sin1 zi3 ho2 ji5 lok6 git3 leon4"
-        },
-        {
-          "english": "This topic deserves a thorough investigation.",
-          "traditional": "呢個課題值得慢慢研究。",
-          "jyutping": "ni1 go3 fo3 tai4 zik6 dak1 maan6 maan6 jin4 gau3"
-        }
-      ]
+      "english": "We need to do a study first before drawing a conclusion.",
+      "traditional": "我哋要先做研究，先至可以落結論。",
+      "jyutping": "ngo5 dei6 jiu3 sin1 zou6 jin4 gau3 sin1 zi3 ho2 ji5 lok6 git3 leon4"
+    },
+    {
+      "english": "This topic deserves a thorough investigation.",
+      "traditional": "呢個課題值得慢慢研究。",
+      "jyutping": "ni1 go3 fo3 tai4 zik6 dak1 maan6 maan6 jin4 gau3"
     }
   ]
 }

@@ -1,59 +1,55 @@
 {
   "id": "75br7rui",
   "partOfSpeech": "noun",
+  "meaning": "equipment, facilities",
+  "english": [
+    {
+      "id": "63nz03n5",
+      "word": "facility",
+      "meaning": "amenities / equipment",
+      "note": "Use this when the facility specifically means the equipment or apparatus needed to provide a service."
+    },
+    {
+      "id": "eq2wtpiv",
+      "word": "equipment",
+      "meaning": "tools, gear, equipment",
+      "note": "Use this for installed or organizational equipment such as office, factory, or venue equipment rather than portable gear."
+    },
+    {
+      "id": "34u1mhll",
+      "word": "plant",
+      "meaning": "industrial equipment",
+      "note": "Use this in an industrial context for the machinery and other equipment used in production or construction."
+    },
+    {
+      "id": "v8kwbyos",
+      "word": "hardware",
+      "meaning": "equipment",
+      "note": "Use this for equipment in general, including equipment used by the military."
+    }
+  ],
   "traditional": "設備",
   "jyutping": "cit3 bei6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "equipment, facilities",
-      "english": [
-        {
-          "id": "63nz03n5",
-          "word": "facility",
-          "meaning": "amenities / equipment",
-          "note": "Use this when the facility specifically means the equipment or apparatus needed to provide a service."
-        },
-        {
-          "id": "eq2wtpiv",
-          "word": "equipment",
-          "meaning": "tools, gear, equipment",
-          "note": "Use this for installed or organizational equipment such as office, factory, or venue equipment rather than portable gear."
-        },
-        {
-          "id": "34u1mhll",
-          "word": "plant",
-          "meaning": "industrial equipment",
-          "note": "Use this in an industrial context for the machinery and other equipment used in production or construction."
-        },
-        {
-          "id": "v8kwbyos",
-          "word": "hardware",
-          "meaning": "equipment",
-          "note": "Use this for equipment in general, including equipment used by the military."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The facility—the gym equipment—is brand new.",
-          "traditional": "呢間健身室嘅設備好新。",
-          "jyutping": "nei1 gaan1 gin6 san1 sat1 ge3 cit3 bei6 hou2 san1"
-        },
-        {
-          "english": "All the office equipment has been upgraded.",
-          "traditional": "辦公室啲設備全部更新咗。",
-          "jyutping": "baan6 gung1 sat1 di1 cit3 bei6 cyun4 bou6 gang1 san1 zo2"
-        },
-        {
-          "english": "This plant equipment needs regular inspection.",
-          "traditional": "呢啲設備要定期檢查。",
-          "jyutping": "ni1 di1 cit3 bei6 jiu3 ding6 kei4 gim2 caa4"
-        },
-        {
-          "english": "This gym has pretty good hardware.",
-          "traditional": "呢間健身室嘅設備幾齊全。",
-          "jyutping": "ne1 gaan1 gin6 san1 sat1 ge3 cit3 bei6 gei2 cai4 cyun4"
-        }
-      ]
+      "english": "The facility—the gym equipment—is brand new.",
+      "traditional": "呢間健身室嘅設備好新。",
+      "jyutping": "nei1 gaan1 gin6 san1 sat1 ge3 cit3 bei6 hou2 san1"
+    },
+    {
+      "english": "All the office equipment has been upgraded.",
+      "traditional": "辦公室啲設備全部更新咗。",
+      "jyutping": "baan6 gung1 sat1 di1 cit3 bei6 cyun4 bou6 gang1 san1 zo2"
+    },
+    {
+      "english": "This plant equipment needs regular inspection.",
+      "traditional": "呢啲設備要定期檢查。",
+      "jyutping": "ni1 di1 cit3 bei6 jiu3 ding6 kei4 gim2 caa4"
+    },
+    {
+      "english": "This gym has pretty good hardware.",
+      "traditional": "呢間健身室嘅設備幾齊全。",
+      "jyutping": "ne1 gaan1 gin6 san1 sat1 ge3 cit3 bei6 gei2 cai4 cyun4"
     }
   ]
 }

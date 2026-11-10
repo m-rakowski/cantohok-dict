@@ -1,37 +1,33 @@
 {
   "id": "zs8umxjv",
   "partOfSpeech": "noun",
+  "meaning": "ignorance",
+  "english": [
+    {
+      "id": "kswz91fe",
+      "word": "ignorance",
+      "meaning": "lack of knowledge",
+      "note": "This is the all-purpose noun for ignorance or a lack of knowledge, often with a mildly negative tone."
+    },
+    {
+      "id": "e5ftg7vf",
+      "word": "blindness",
+      "meaning": "lack of judgment",
+      "note": "Use this for metaphorical blindness meaning ignorance or lack of intellectual judgment, not loss of eyesight."
+    }
+  ],
   "traditional": "無知",
   "jyutping": "mou4 zi1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "ignorance",
-      "english": [
-        {
-          "id": "kswz91fe",
-          "word": "ignorance",
-          "meaning": "lack of knowledge",
-          "note": "This is the all-purpose noun for ignorance or a lack of knowledge, often with a mildly negative tone."
-        },
-        {
-          "id": "e5ftg7vf",
-          "word": "blindness",
-          "meaning": "lack of judgment",
-          "note": "Use this for metaphorical blindness meaning ignorance or lack of intellectual judgment, not loss of eyesight."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Their ignorance of social manners often offends people.",
-          "traditional": "佢對人情世故嘅無知，成日得罪人。",
-          "jyutping": "keoi5 deoi3 jan4 cing4 sai3 gu3 ge3 mou4 zi1 seng4 jat6 dak1 zeoi6 jan4"
-        },
-        {
-          "english": "Their blindness is really worrying.",
-          "traditional": "佢咁無知，真係令人擔心。",
-          "jyutping": "keoi5 gam3 mou4 zi1 zan1 hai6 ling6 jan4 daam1 sam1"
-        }
-      ]
+      "english": "Their ignorance of social manners often offends people.",
+      "traditional": "佢對人情世故嘅無知，成日得罪人。",
+      "jyutping": "keoi5 deoi3 jan4 cing4 sai3 gu3 ge3 mou4 zi1 seng4 jat6 dak1 zeoi6 jan4"
+    },
+    {
+      "english": "Their blindness is really worrying.",
+      "traditional": "佢咁無知，真係令人擔心。",
+      "jyutping": "keoi5 gam3 mou4 zi1 zan1 hai6 ling6 jan4 daam1 sam1"
     }
   ]
 }

@@ -1,28 +1,24 @@
 {
   "id": "8azk9a7y",
   "partOfSpeech": "adj",
+  "meaning": "included as an attachment",
+  "english": [
+    {
+      "id": "tzr5p51z",
+      "word": "attached",
+      "meaning": "included as an attachment",
+      "register": "written",
+      "note": "Use this attributive construction for a file or document included with an email or other message."
+    }
+  ],
   "traditional": "隨附 + 嘅",
   "jyutping": "ceoi4 fu6 ge3",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "included as an attachment",
-      "english": [
-        {
-          "id": "tzr5p51z",
-          "word": "attached",
-          "meaning": "included as an attachment",
-          "register": "written",
-          "note": "Use this attributive construction for a file or document included with an email or other message."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "Please check the file attached to this email.",
-          "traditional": "呢封電郵隨附嘅檔案請查收。",
-          "jyutping": "ni1 fung1 din6 jau4 ceoi4 fu6 ge3 dong2 on3 cing2 caa4 sau1"
-        }
-      ]
+      "english": "Please check the file attached to this email.",
+      "traditional": "呢封電郵隨附嘅檔案請查收。",
+      "jyutping": "ni1 fung1 din6 jau4 ceoi4 fu6 ge3 dong2 on3 cing2 caa4 sau1"
     }
   ]
 }

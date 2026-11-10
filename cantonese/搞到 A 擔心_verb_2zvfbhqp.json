@@ -1,28 +1,24 @@
 {
   "id": "2zvfbhqp",
   "partOfSpeech": "verb",
+  "meaning": "worry someone",
+  "english": [
+    {
+      "id": "2lqfzyc0",
+      "word": "concern",
+      "meaning": "worry someone",
+      "register": "colloquial",
+      "note": "Use this colloquial causative pattern when something makes A worried."
+    }
+  ],
   "traditional": "搞到 A 擔心",
   "jyutping": "gaau2 dou3 A daam1 sam1",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "worry someone",
-      "english": [
-        {
-          "id": "2lqfzyc0",
-          "word": "concern",
-          "meaning": "worry someone",
-          "register": "colloquial",
-          "note": "Use this colloquial causative pattern when something makes A worried."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "This news appears to concern me, so I'm worried.",
-          "traditional": "呢個消息搞到我擔心。",
-          "jyutping": "ni1 go3 siu1 sik1 gaau2 dou3 ngo5 daam1 sam1"
-        }
-      ]
+      "english": "This news appears to concern me, so I'm worried.",
+      "traditional": "呢個消息搞到我擔心。",
+      "jyutping": "ni1 go3 siu1 sik1 gaau2 dou3 ngo5 daam1 sam1"
     }
   ]
 }

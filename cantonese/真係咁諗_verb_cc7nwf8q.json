@@ -1,28 +1,24 @@
 {
   "id": "cc7nwf8q",
   "partOfSpeech": "verb",
+  "meaning": "really mean",
+  "english": [
+    {
+      "id": "pvifm7gc",
+      "word": "mean",
+      "meaning": "really mean",
+      "register": "colloquial",
+      "note": "Use this when asking or stating whether someone sincerely holds the view they expressed."
+    }
+  ],
   "traditional": "真係咁諗",
   "jyutping": "zan1 hai6 gam3 nam2",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "really mean",
-      "english": [
-        {
-          "id": "pvifm7gc",
-          "word": "mean",
-          "meaning": "really mean",
-          "register": "colloquial",
-          "note": "Use this when asking or stating whether someone sincerely holds the view they expressed."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "Do you really mean that?",
-          "traditional": "你真係咁諗㗎？",
-          "jyutping": "nei5 zan1 hai6 gam3 nam2 gaa3"
-        }
-      ]
+      "english": "Do you really mean that?",
+      "traditional": "你真係咁諗㗎？",
+      "jyutping": "nei5 zan1 hai6 gam3 nam2 gaa3"
     }
   ]
 }

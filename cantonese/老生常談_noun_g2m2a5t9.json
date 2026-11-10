@@ -1,38 +1,34 @@
 {
   "id": "g2m2a5t9",
   "partOfSpeech": "noun",
+  "meaning": "cliché, tired old talk",
+  "english": [
+    {
+      "id": "nwray26d",
+      "word": "truism",
+      "meaning": "cliché, banal statement",
+      "note": "Use this as the usual choice for a hackneyed or banal statement."
+    },
+    {
+      "id": "cunifvfu",
+      "word": "prose",
+      "meaning": "dull, plain speech/writing",
+      "register": "formal",
+      "note": "Use this for dull discourse made up of trite or commonplace remarks rather than specifically for its writing style."
+    }
+  ],
   "traditional": "老生常談",
   "jyutping": "lou5 sang1 soeng4 taam4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "cliché, tired old talk",
-      "english": [
-        {
-          "id": "nwray26d",
-          "word": "truism",
-          "meaning": "cliché, banal statement",
-          "note": "Use this as the usual choice for a hackneyed or banal statement."
-        },
-        {
-          "id": "cunifvfu",
-          "word": "prose",
-          "meaning": "dull, plain speech/writing",
-          "register": "formal",
-          "note": "Use this for dull discourse made up of trite or commonplace remarks rather than specifically for its writing style."
-        }
-      ],
-      "examples": [
-        {
-          "english": "What they said is just a truism, with nothing new about it.",
-          "traditional": "佢講嗰番嘢只係老生常談，冇乜新意。",
-          "jyutping": "keoi5 gong2 go2 faan1 je5 zi2 hai6 lou5 sang1 soeng4 taam4 mou5 mat1 san1 ji3"
-        },
-        {
-          "english": "The speech consisted of nothing but commonplace prose and had no original ideas.",
-          "traditional": "該番演說盡是老生常談，內容毫無新意。",
-          "jyutping": "goi1 faan1 jin2 syut3 zeon6 si6 lou5 sang1 soeng4 taam4 noi6 jung4 hou4 mou4 san1 ji3"
-        }
-      ]
+      "english": "What they said is just a truism, with nothing new about it.",
+      "traditional": "佢講嗰番嘢只係老生常談，冇乜新意。",
+      "jyutping": "keoi5 gong2 go2 faan1 je5 zi2 hai6 lou5 sang1 soeng4 taam4 mou5 mat1 san1 ji3"
+    },
+    {
+      "english": "The speech consisted of nothing but commonplace prose and had no original ideas.",
+      "traditional": "該番演說盡是老生常談，內容毫無新意。",
+      "jyutping": "goi1 faan1 jin2 syut3 zeon6 si6 lou5 sang1 soeng4 taam4 noi6 jung4 hou4 mou4 san1 ji3"
     }
   ]
 }

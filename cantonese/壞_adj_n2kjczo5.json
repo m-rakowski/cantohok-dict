@@ -1,89 +1,67 @@
 {
   "id": "n2kjczo5",
   "partOfSpeech": "adj",
-  "traditional": "壞",
-  "jyutping": "waai6",
-  "boxes": [
+  "meaning": "broken, not working",
+  "english": [
     {
-      "meaning": "broken, not working",
-      "english": [
-        {
-          "id": "7phtv8mx",
-          "word": "faulty",
-          "meaning": "defective; not working properly",
-          "note": "Use this especially for a physical object, machine, or system that is broken or not working."
-        },
-        {
-          "id": "i0111cw9",
-          "word": "damaged",
-          "meaning": "suffered damage",
-          "note": "Use this especially when the damaged object is faulty or no longer working, such as a machine."
-        },
-        {
-          "id": "6877l44r",
-          "word": "down",
-          "meaning": "out of order",
-          "note": "Use 壞 as the all-purpose choice when a system or machine is not functioning; for an aircraft, it covers mechanical failure only."
-        },
-        {
-          "id": "2pfbby1c",
-          "word": "corrupt",
-          "meaning": "damaged; invalid data",
-          "register": "colloquial",
-          "note": "Use this for a damaged or invalid file, text, or other digital or technical item, often said as 壞咗."
-        },
-        {
-          "id": "oeuxalov",
-          "word": "wrong",
-          "meaning": "not working; faulty",
-          "note": "Use 壞 when something is not working or is out of order."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The photocopier is faulty and cannot print documents.",
-          "traditional": "部影印機壞咗，印唔到文件。",
-          "jyutping": "bou6 jing2 jan3 gei1 waai6 zo2 jan3 m4 dou3 man4 gin6"
-        },
-        {
-          "english": "The fan is damaged and won't turn on.",
-          "traditional": "部風扇壞咗，開唔到。",
-          "jyutping": "bou6 fung1 sin3 waai6 zo2 hoi1 m4 dou2"
-        },
-        {
-          "english": "The air conditioner is down and won't turn on.",
-          "traditional": "部冷氣壞咗，開唔到。",
-          "jyutping": "bou6 laang5 hei3 waai6 zo2 hoi1 m4 dou2"
-        },
-        {
-          "english": "The file is corrupt, so I can't open it.",
-          "traditional": "個檔案壞咗，開唔到。",
-          "jyutping": "go3 dong2 on3 waai6 zo2 hoi1 m4 dou2"
-        },
-        {
-          "english": "Something is wrong with the air conditioner.",
-          "traditional": "部冷氣壞咗。",
-          "jyutping": "bou6 laang5 hei3 waai6 zo2"
-        }
-      ]
+      "id": "7phtv8mx",
+      "word": "faulty",
+      "meaning": "defective; not working properly",
+      "note": "Use this especially for a physical object, machine, or system that is broken or not working."
     },
     {
-      "meaning": "bad, harmful",
-      "english": [
-        {
-          "id": "blto0c4d",
-          "word": "bad",
-          "meaning": "harmful; unhealthy",
-          "note": "Use 壞 for something intrinsically harmful, evil, broken, spoiled, fake, or for a child who is being naughty."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Smoking has a bad effect on your health.",
-          "traditional": "食煙對身體有壞影響。",
-          "jyutping": "sik6 jin1 deoi3 san1 tai2 jau5 waai6 jing2 hoeng2"
-        }
-      ]
+      "id": "i0111cw9",
+      "word": "damaged",
+      "meaning": "suffered damage",
+      "note": "Use this especially when the damaged object is faulty or no longer working, such as a machine."
+    },
+    {
+      "id": "6877l44r",
+      "word": "down",
+      "meaning": "out of order",
+      "note": "Use 壞 as the all-purpose choice when a system or machine is not functioning; for an aircraft, it covers mechanical failure only."
+    },
+    {
+      "id": "2pfbby1c",
+      "word": "corrupt",
+      "meaning": "damaged; invalid data",
+      "register": "colloquial",
+      "note": "Use this for a damaged or invalid file, text, or other digital or technical item, often said as 壞咗."
+    },
+    {
+      "id": "oeuxalov",
+      "word": "wrong",
+      "meaning": "not working; faulty",
+      "note": "Use 壞 when something is not working or is out of order."
+    }
+  ],
+  "traditional": "壞",
+  "jyutping": "waai6",
+  "examples": [
+    {
+      "english": "The photocopier is faulty and cannot print documents.",
+      "traditional": "部影印機壞咗，印唔到文件。",
+      "jyutping": "bou6 jing2 jan3 gei1 waai6 zo2 jan3 m4 dou3 man4 gin6"
+    },
+    {
+      "english": "The fan is damaged and won't turn on.",
+      "traditional": "部風扇壞咗，開唔到。",
+      "jyutping": "bou6 fung1 sin3 waai6 zo2 hoi1 m4 dou2"
+    },
+    {
+      "english": "The air conditioner is down and won't turn on.",
+      "traditional": "部冷氣壞咗，開唔到。",
+      "jyutping": "bou6 laang5 hei3 waai6 zo2 hoi1 m4 dou2"
+    },
+    {
+      "english": "The file is corrupt, so I can't open it.",
+      "traditional": "個檔案壞咗，開唔到。",
+      "jyutping": "go3 dong2 on3 waai6 zo2 hoi1 m4 dou2"
+    },
+    {
+      "english": "Something is wrong with the air conditioner.",
+      "traditional": "部冷氣壞咗。",
+      "jyutping": "bou6 laang5 hei3 waai6 zo2"
     }
   ]
 }

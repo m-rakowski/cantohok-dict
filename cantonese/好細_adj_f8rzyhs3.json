@@ -1,38 +1,34 @@
 {
   "id": "f8rzyhs3",
   "partOfSpeech": "adj",
+  "meaning": "very small",
+  "english": [
+    {
+      "id": "241xcovg",
+      "word": "tiny",
+      "meaning": "very small",
+      "note": "This is the all-purpose conversational choice for saying that something is tiny."
+    },
+    {
+      "id": "grmunmvw",
+      "word": "microscopic",
+      "meaning": "very small",
+      "register": "colloquial",
+      "note": "This is the all-purpose colloquial choice for saying that something is very small."
+    }
+  ],
   "traditional": "好細",
   "jyutping": "hou2 sai3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "very small",
-      "english": [
-        {
-          "id": "241xcovg",
-          "word": "tiny",
-          "meaning": "very small",
-          "note": "This is the all-purpose conversational choice for saying that something is tiny."
-        },
-        {
-          "id": "grmunmvw",
-          "word": "microscopic",
-          "meaning": "very small",
-          "register": "colloquial",
-          "note": "This is the all-purpose colloquial choice for saying that something is very small."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This room is tiny.",
-          "traditional": "呢間房好細。",
-          "jyutping": "ni1 gaan1 fong2 hou2 sai3"
-        },
-        {
-          "english": "My room is microscopic; after putting in a bed, there is no space left.",
-          "traditional": "我間房好細，擺張床之後就冇位喇。",
-          "jyutping": "ngo5 gaan1 fong4 hou2 sai3 baai2 zoeng1 cong4 zi1 hau6 zau6 mou5 wai2 laa3"
-        }
-      ]
+      "english": "This room is tiny.",
+      "traditional": "呢間房好細。",
+      "jyutping": "ni1 gaan1 fong2 hou2 sai3"
+    },
+    {
+      "english": "My room is microscopic; after putting in a bed, there is no space left.",
+      "traditional": "我間房好細，擺張床之後就冇位喇。",
+      "jyutping": "ngo5 gaan1 fong4 hou2 sai3 baai2 zoeng1 cong4 zi1 hau6 zau6 mou5 wai2 laa3"
     }
   ]
 }

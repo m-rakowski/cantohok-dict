@@ -1,28 +1,24 @@
 {
   "id": "w651rktq",
   "partOfSpeech": "verb",
+  "meaning": "breathe in gas/smoke",
+  "english": [
+    {
+      "id": "g4i4wemv",
+      "word": "inhale",
+      "meaning": "breathe in gas/smoke",
+      "register": "formal",
+      "note": "Use this more formal or technical verb when describing gas, smoke, or medication entering the lungs."
+    }
+  ],
   "traditional": "吸入",
   "jyutping": "kap1 jap6",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "breathe in gas/smoke",
-      "english": [
-        {
-          "id": "g4i4wemv",
-          "word": "inhale",
-          "meaning": "breathe in gas/smoke",
-          "register": "formal",
-          "note": "Use this more formal or technical verb when describing gas, smoke, or medication entering the lungs."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "During the lung-function test, you have to inhale the specified gas.",
-          "traditional": "做肺功能測試時，要吸入指定氣體。",
-          "jyutping": "zou6 fai3 gung1 nang4 cak1 si3 si4 jiu3 kap1 jap6 zi2 ding6 hei3 tai2"
-        }
-      ]
+      "english": "During the lung-function test, you have to inhale the specified gas.",
+      "traditional": "做肺功能測試時，要吸入指定氣體。",
+      "jyutping": "zou6 fai3 gung1 nang4 cak1 si3 si4 jiu3 kap1 jap6 zi2 ding6 hei3 tai2"
     }
   ]
 }

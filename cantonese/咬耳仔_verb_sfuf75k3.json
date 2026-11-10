@@ -1,28 +1,24 @@
 {
   "id": "sfuf75k3",
   "partOfSpeech": "verb",
+  "meaning": "speak softly",
+  "english": [
+    {
+      "id": "7feh80jk",
+      "word": "whisper",
+      "meaning": "speak softly",
+      "register": "colloquial",
+      "note": "Use this when people whisper close to one another or exchange something conspiratorially, rather than simply speaking quietly."
+    }
+  ],
   "traditional": "咬耳仔",
   "jyutping": "ngaau5 ji5 zai2",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "speak softly",
-      "english": [
-        {
-          "id": "7feh80jk",
-          "word": "whisper",
-          "meaning": "speak softly",
-          "register": "colloquial",
-          "note": "Use this when people whisper close to one another or exchange something conspiratorially, rather than simply speaking quietly."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "Those two whisper in the corner, and I have no idea what they are saying.",
-          "traditional": "嗰兩個喺角落咬耳仔，唔知講緊乜。",
-          "jyutping": "go2 loeng5 go3 hai2 gok3 lok6 ngaau5 ji5 zai2 m4 zi1 gong2 gan2 mat1"
-        }
-      ]
+      "english": "Those two whisper in the corner, and I have no idea what they are saying.",
+      "traditional": "嗰兩個喺角落咬耳仔，唔知講緊乜。",
+      "jyutping": "go2 loeng5 go3 hai2 gok3 lok6 ngaau5 ji5 zai2 m4 zi1 gong2 gan2 mat1"
     }
   ]
 }

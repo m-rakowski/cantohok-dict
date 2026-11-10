@@ -1,28 +1,24 @@
 {
   "id": "aypzmek6",
   "partOfSpeech": "name",
+  "meaning": "Mediterranean region",
+  "english": [
+    {
+      "id": "2u11aegi",
+      "word": "Mediterranean",
+      "meaning": "Mediterranean region",
+      "register": "written",
+      "note": "Use this when referring more formally or precisely to the Mediterranean geographical region."
+    }
+  ],
   "traditional": "地中海地區",
   "jyutping": "dei6 zung1 hoi2 dei6 keoi1",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "Mediterranean region",
-      "english": [
-        {
-          "id": "2u11aegi",
-          "word": "Mediterranean",
-          "meaning": "Mediterranean region",
-          "register": "written",
-          "note": "Use this when referring more formally or precisely to the Mediterranean geographical region."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "The Mediterranean region includes Southern Europe, North Africa, and West Asia.",
-          "traditional": "地中海地區包括南歐、北非以及西亞。",
-          "jyutping": "dei6 zung1 hoi2 dei6 keoi1 baau1 gwaat3 naam4 au1 bak1 fei1 ji5 kap6 sai1 aa3"
-        }
-      ]
+      "english": "The Mediterranean region includes Southern Europe, North Africa, and West Asia.",
+      "traditional": "地中海地區包括南歐、北非以及西亞。",
+      "jyutping": "dei6 zung1 hoi2 dei6 keoi1 baau1 gwaat3 naam4 au1 bak1 fei1 ji5 kap6 sai1 aa3"
     }
   ]
 }

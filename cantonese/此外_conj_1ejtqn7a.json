@@ -1,28 +1,24 @@
 {
   "id": "1ejtqn7a",
   "partOfSpeech": "conj",
+  "meaning": "in addition; besides",
+  "english": [
+    {
+      "id": "nx9r675p",
+      "word": "plus",
+      "meaning": "in addition; besides",
+      "register": "written",
+      "note": "Use this formal connector for introducing a separate additional point in writing."
+    }
+  ],
   "traditional": "此外",
   "jyutping": "ci2 ngoi6",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "in addition; besides",
-      "english": [
-        {
-          "id": "nx9r675p",
-          "word": "plus",
-          "meaning": "in addition; besides",
-          "register": "written",
-          "note": "Use this formal connector for introducing a separate additional point in writing."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "Plus, this report will also analyze the issue of costs.",
-          "traditional": "此外，今次報告亦會分析成本問題。",
-          "jyutping": "ci2 ngoi6 gam1 ci3 bou3 gou3 jik6 wui5 fan1 sik1 sing4 bun2 man6 tai4"
-        }
-      ]
+      "english": "Plus, this report will also analyze the issue of costs.",
+      "traditional": "此外，今次報告亦會分析成本問題。",
+      "jyutping": "ci2 ngoi6 gam1 ci3 bou3 gou3 jik6 wui5 fan1 sik1 sing4 bun2 man6 tai4"
     }
   ]
 }

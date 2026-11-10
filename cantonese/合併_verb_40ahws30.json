@@ -1,28 +1,24 @@
 {
   "id": "40ahws30",
   "partOfSpeech": "verb",
+  "meaning": "make one / merge",
+  "english": [
+    {
+      "id": "c4tqiami",
+      "word": "unify",
+      "meaning": "make one / merge",
+      "register": "formal",
+      "note": "Use this when formally merging organisations, companies, regions, or other established units."
+    }
+  ],
   "traditional": "合併",
   "jyutping": "hap6 bing3",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "make one / merge",
-      "english": [
-        {
-          "id": "c4tqiami",
-          "word": "unify",
-          "meaning": "make one / merge",
-          "register": "formal",
-          "note": "Use this when formally merging organisations, companies, regions, or other established units."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The board decided to unify the two companies.",
-          "traditional": "董事會決定將兩間公司合併。",
-          "jyutping": "dung2 si6 wui6 kyut3 ding6 zoeng1 loeng5 gaan1 gung1 si1 hap6 bing3"
-        }
-      ]
+      "english": "The board decided to unify the two companies.",
+      "traditional": "董事會決定將兩間公司合併。",
+      "jyutping": "dung2 si6 wui6 kyut3 ding6 zoeng1 loeng5 gaan1 gung1 si1 hap6 bing3"
     }
   ]
 }

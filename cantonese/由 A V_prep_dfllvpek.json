@@ -1,28 +1,24 @@
 {
   "id": "dfllvpek",
   "partOfSpeech": "prep",
+  "meaning": "done by someone",
+  "english": [
+    {
+      "id": "659k4r0b",
+      "word": "by",
+      "meaning": "done by someone",
+      "register": "formal",
+      "note": "Use this formal passive construction to identify A as the agent, including the creator of a work."
+    }
+  ],
   "traditional": "由 A V",
   "jyutping": "jau4 A V",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "done by someone",
-      "english": [
-        {
-          "id": "659k4r0b",
-          "word": "by",
-          "meaning": "done by someone",
-          "register": "formal",
-          "note": "Use this formal passive construction to identify A as the agent, including the creator of a work."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "This work was created by a local artist.",
-          "traditional": "呢幅作品由本地藝術家創作。",
-          "jyutping": "ni1 fuk1 zok3 ban2 jau4 bun2 dei6 ngai6 seot6 gaa1 cong3 zok3"
-        }
-      ]
+      "english": "This work was created by a local artist.",
+      "traditional": "呢幅作品由本地藝術家創作。",
+      "jyutping": "ni1 fuk1 zok3 ban2 jau4 bun2 dei6 ngai6 seot6 gaa1 cong3 zok3"
     }
   ]
 }

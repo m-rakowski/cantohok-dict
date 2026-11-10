@@ -1,37 +1,33 @@
 {
   "id": "tsj6f72v",
   "partOfSpeech": "noun",
+  "meaning": "blank space",
+  "english": [
+    {
+      "id": "exdmsgqk",
+      "word": "blankness",
+      "meaning": "being blank; emptiness",
+      "note": "This is the all-purpose noun for a blank or empty area, state, or stretch of thought."
+    },
+    {
+      "id": "q2xrx9x6",
+      "word": "space",
+      "meaning": "blank gap in text",
+      "note": "Use this for a blank gap in written or digital text."
+    }
+  ],
   "traditional": "空白",
   "jyutping": "hung1 baak6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "blank space",
-      "english": [
-        {
-          "id": "exdmsgqk",
-          "word": "blankness",
-          "meaning": "being blank; emptiness",
-          "note": "This is the all-purpose noun for a blank or empty area, state, or stretch of thought."
-        },
-        {
-          "id": "q2xrx9x6",
-          "word": "space",
-          "meaning": "blank gap in text",
-          "note": "Use this for a blank gap in written or digital text."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I stared at the blank paper, and the blankness left me unsure what to write.",
-          "traditional": "我望住張白紙，一片空白，一時間都唔知寫乜好。",
-          "jyutping": "ngo5 mong6 zyu6 zoeng1 baak6 zi2 jat1 pin3 hung1 baak6 jat1 si4 gaan1 dou1 m4 zi1 se2 mat1 hou2"
-        },
-        {
-          "english": "You need to leave a space here before you can type.",
-          "traditional": "呢度要留一格空白先可以輸入。",
-          "jyutping": "ni1 dou6 jiu3 lau4 jat1 gaak3 hung1 baak6 sin1 ho2 ji5 syu1 jap6"
-        }
-      ]
+      "english": "I stared at the blank paper, and the blankness left me unsure what to write.",
+      "traditional": "我望住張白紙，一片空白，一時間都唔知寫乜好。",
+      "jyutping": "ngo5 mong6 zyu6 zoeng1 baak6 zi2 jat1 pin3 hung1 baak6 jat1 si4 gaan1 dou1 m4 zi1 se2 mat1 hou2"
+    },
+    {
+      "english": "You need to leave a space here before you can type.",
+      "traditional": "呢度要留一格空白先可以輸入。",
+      "jyutping": "ni1 dou6 jiu3 lau4 jat1 gaak3 hung1 baak6 sin1 ho2 ji5 syu1 jap6"
     }
   ]
 }

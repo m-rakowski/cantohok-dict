@@ -1,40 +1,36 @@
 {
   "id": "4ez916zi",
   "partOfSpeech": "verb",
+  "meaning": "not allow in",
+  "english": [
+    {
+      "id": "o7b9fsoz",
+      "word": "bar",
+      "meaning": "ban or exclude",
+      "register": "colloquial",
+      "note": "Use this when someone is barred specifically from entering a place."
+    },
+    {
+      "id": "pyahkytu",
+      "word": "forbid",
+      "meaning": "bar from; forbid entry",
+      "register": "colloquial",
+      "note": "Use this specifically when the prohibition bars someone from entering a place."
+    }
+  ],
   "traditional": "唔畀入",
   "jyutping": "m4 bei2 jap6",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "not allow in",
-      "english": [
-        {
-          "id": "o7b9fsoz",
-          "word": "bar",
-          "meaning": "ban or exclude",
-          "register": "colloquial",
-          "note": "Use this when someone is barred specifically from entering a place."
-        },
-        {
-          "id": "pyahkytu",
-          "word": "forbid",
-          "meaning": "bar from; forbid entry",
-          "register": "colloquial",
-          "note": "Use this specifically when the prohibition bars someone from entering a place."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "The security guards bar us from entering.",
-          "traditional": "門口保安唔畀我哋入。",
-          "jyutping": "mun4 hau2 bou2 on1 m4 bei2 ngo5 dei6 jap6"
-        },
-        {
-          "english": "The sign at the entrance is there to forbid people from coming in.",
-          "traditional": "門口貼住張紙，唔畀入。",
-          "jyutping": "mun4 hau2 tip3 zyu6 zoeng1 zi2 m4 bei2 jap6"
-        }
-      ]
+      "english": "The security guards bar us from entering.",
+      "traditional": "門口保安唔畀我哋入。",
+      "jyutping": "mun4 hau2 bou2 on1 m4 bei2 ngo5 dei6 jap6"
+    },
+    {
+      "english": "The sign at the entrance is there to forbid people from coming in.",
+      "traditional": "門口貼住張紙，唔畀入。",
+      "jyutping": "mun4 hau2 tip3 zyu6 zoeng1 zi2 m4 bei2 jap6"
     }
   ]
 }

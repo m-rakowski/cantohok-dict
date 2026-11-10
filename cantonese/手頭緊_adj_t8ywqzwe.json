@@ -1,38 +1,34 @@
 {
   "id": "t8ywqzwe",
   "partOfSpeech": "adj",
+  "meaning": "short of money",
+  "english": [
+    {
+      "id": "p6accsln",
+      "word": "tight",
+      "meaning": "money is tight",
+      "note": "Use 手頭緊 when someone has little money available, not when they are stingy."
+    },
+    {
+      "id": "m89kt41z",
+      "word": "short",
+      "meaning": "short of money",
+      "register": "colloquial",
+      "note": "Use 手頭緊 specifically when someone is short of money or has little cash available."
+    }
+  ],
   "traditional": "手頭緊",
   "jyutping": "sau2 tau4 gan2",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "short of money",
-      "english": [
-        {
-          "id": "p6accsln",
-          "word": "tight",
-          "meaning": "money is tight",
-          "note": "Use 手頭緊 when someone has little money available, not when they are stingy."
-        },
-        {
-          "id": "m89kt41z",
-          "word": "short",
-          "meaning": "short of money",
-          "register": "colloquial",
-          "note": "Use 手頭緊 specifically when someone is short of money or has little cash available."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I'm tight on cash lately, so I'll pay you back later.",
-          "traditional": "我最近手頭緊，遲啲先還錢。",
-          "jyutping": "ngo5 zeoi3 gan6 sau2 tau4 gan2 ci4 di1 sin1 waan4 cin2"
-        },
-        {
-          "english": "I'm short of cash lately, so I'll pay you back later.",
-          "traditional": "我最近手頭緊，遲啲先還錢。",
-          "jyutping": "ngo5 zeoi3 gan6 sau2 tau4 gan2 ci4 di1 sin1 waan4 cin2"
-        }
-      ]
+      "english": "I'm tight on cash lately, so I'll pay you back later.",
+      "traditional": "我最近手頭緊，遲啲先還錢。",
+      "jyutping": "ngo5 zeoi3 gan6 sau2 tau4 gan2 ci4 di1 sin1 waan4 cin2"
+    },
+    {
+      "english": "I'm short of cash lately, so I'll pay you back later.",
+      "traditional": "我最近手頭緊，遲啲先還錢。",
+      "jyutping": "ngo5 zeoi3 gan6 sau2 tau4 gan2 ci4 di1 sin1 waan4 cin2"
     }
   ]
 }

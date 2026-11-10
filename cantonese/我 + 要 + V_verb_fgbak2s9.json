@@ -1,28 +1,24 @@
 {
   "id": "fgbak2s9",
   "partOfSpeech": "verb",
+  "meaning": "demand forcefully",
+  "english": [
+    {
+      "id": "4ufskouj",
+      "word": "demand",
+      "meaning": "demand forcefully",
+      "register": "colloquial",
+      "note": "Use this casual pattern to insist that you or someone else will do something, with the demanding force supplied by context and intonation."
+    }
+  ],
   "traditional": "我 + 要 + V",
   "jyutping": "ngo5 jiu3 V",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "demand forcefully",
-      "english": [
-        {
-          "id": "4ufskouj",
-          "word": "demand",
-          "meaning": "demand forcefully",
-          "register": "colloquial",
-          "note": "Use this casual pattern to insist that you or someone else will do something, with the demanding force supplied by context and intonation."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "I demand to drive there myself today.",
-          "traditional": "我今日要自己揸車去。",
-          "jyutping": "ngo5 gam1 jat6 jiu3 zi6 gei2 zaa1 ce1 heoi3"
-        }
-      ]
+      "english": "I demand to drive there myself today.",
+      "traditional": "我今日要自己揸車去。",
+      "jyutping": "ngo5 gam1 jat6 jiu3 zi6 gei2 zaa1 ce1 heoi3"
     }
   ]
 }

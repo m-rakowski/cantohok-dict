@@ -1,37 +1,33 @@
 {
   "id": "8gyzg2ht",
   "partOfSpeech": "noun",
+  "meaning": "hiking",
+  "english": [
+    {
+      "id": "ckzwhxr0",
+      "word": "hike",
+      "meaning": "long walk",
+      "note": "This is the all-purpose choice for a recreational hike, especially one on hills or trails."
+    },
+    {
+      "id": "ks0p95iy",
+      "word": "hiking",
+      "meaning": "walking for pleasure",
+      "note": "This is the all-purpose casual term for walking in the countryside for pleasure or sport."
+    }
+  ],
   "traditional": "行山",
   "jyutping": "haang4 saan1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "hiking",
-      "english": [
-        {
-          "id": "ckzwhxr0",
-          "word": "hike",
-          "meaning": "long walk",
-          "note": "This is the all-purpose choice for a recreational hike, especially one on hills or trails."
-        },
-        {
-          "id": "ks0p95iy",
-          "word": "hiking",
-          "meaning": "walking for pleasure",
-          "note": "This is the all-purpose casual term for walking in the countryside for pleasure or sport."
-        }
-      ],
-      "examples": [
-        {
-          "english": "We are going on a hike on Sunday.",
-          "traditional": "我哋星期日去行山。",
-          "jyutping": "ngo5 dei6 sing1 kei4 jat6 heoi3 haang4 saan1"
-        },
-        {
-          "english": "We’re going hiking in Lantau on Sunday.",
-          "traditional": "我哋星期日去大嶼山行山。",
-          "jyutping": "ngo5 dei6 sing1 kei4 jat6 heoi3 daai6 jyu4 saan1 haang4 saan1"
-        }
-      ]
+      "english": "We are going on a hike on Sunday.",
+      "traditional": "我哋星期日去行山。",
+      "jyutping": "ngo5 dei6 sing1 kei4 jat6 heoi3 haang4 saan1"
+    },
+    {
+      "english": "We’re going hiking in Lantau on Sunday.",
+      "traditional": "我哋星期日去大嶼山行山。",
+      "jyutping": "ngo5 dei6 sing1 kei4 jat6 heoi3 daai6 jyu4 saan1 haang4 saan1"
     }
   ]
 }

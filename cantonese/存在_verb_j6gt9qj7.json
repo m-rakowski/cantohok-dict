@@ -1,28 +1,24 @@
 {
   "id": "j6gt9qj7",
   "partOfSpeech": "verb",
+  "meaning": "be real; have existence",
+  "english": [
+    {
+      "id": "syx4dnak",
+      "word": "exist",
+      "meaning": "be real; have existence",
+      "register": "formal",
+      "note": "Use this as the direct, more formal choice for saying that something has real existence or is present as a fact."
+    }
+  ],
   "traditional": "存在",
   "jyutping": "cyun4 zoi6",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "be real; have existence",
-      "english": [
-        {
-          "id": "syx4dnak",
-          "word": "exist",
-          "meaning": "be real; have existence",
-          "register": "formal",
-          "note": "Use this as the direct, more formal choice for saying that something has real existence or is present as a fact."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "This problem continues to exist.",
-          "traditional": "呢個問題一直存在。",
-          "jyutping": "ni1 go3 man6 tai4 jat1 zik6 cyun4 zoi6"
-        }
-      ]
+      "english": "This problem continues to exist.",
+      "traditional": "呢個問題一直存在。",
+      "jyutping": "ni1 go3 man6 tai4 jat1 zik6 cyun4 zoi6"
     }
   ]
 }

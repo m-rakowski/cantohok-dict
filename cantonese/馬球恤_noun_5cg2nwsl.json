@@ -1,28 +1,24 @@
 {
   "id": "5cg2nwsl",
   "partOfSpeech": "noun",
+  "meaning": "polo shirt",
+  "english": [
+    {
+      "id": "kdkxa3z2",
+      "word": "polo",
+      "meaning": "polo shirt",
+      "register": "colloquial",
+      "note": "Use this for the clothing item, especially the casual polo-collar shirt."
+    }
+  ],
   "traditional": "馬球恤",
   "jyutping": "maa5 kau4 seot1",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "polo shirt",
-      "english": [
-        {
-          "id": "kdkxa3z2",
-          "word": "polo",
-          "meaning": "polo shirt",
-          "register": "colloquial",
-          "note": "Use this for the clothing item, especially the casual polo-collar shirt."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "I want to buy a polo shirt to wear to work.",
-          "traditional": "我想買件馬球恤返工着。",
-          "jyutping": "ngo5 soeng2 maai5 gin6 maa5 kau4 seot1 faan1 gung1 zoek6"
-        }
-      ]
+      "english": "I want to buy a polo shirt to wear to work.",
+      "traditional": "我想買件馬球恤返工着。",
+      "jyutping": "ngo5 soeng2 maai5 gin6 maa5 kau4 seot1 faan1 gung1 zoek6"
     }
   ]
 }

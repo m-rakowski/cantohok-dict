@@ -1,37 +1,33 @@
 {
   "id": "11yfl29n",
   "partOfSpeech": "adj",
+  "meaning": "promising, hopeful",
+  "english": [
+    {
+      "id": "m3z4qupr",
+      "word": "encouraging",
+      "meaning": "promising; hopeful",
+      "note": "This is the all-purpose choice for something promising or giving grounds for hope."
+    },
+    {
+      "id": "3fwz6z8t",
+      "word": "hopeful",
+      "meaning": "inspiring hope",
+      "note": "This is the all-purpose choice for a situation or outcome that looks likely to succeed."
+    }
+  ],
   "traditional": "有希望",
   "jyutping": "jau5 hei1 mong6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "promising, hopeful",
-      "english": [
-        {
-          "id": "m3z4qupr",
-          "word": "encouraging",
-          "meaning": "promising; hopeful",
-          "note": "This is the all-purpose choice for something promising or giving grounds for hope."
-        },
-        {
-          "id": "3fwz6z8t",
-          "word": "hopeful",
-          "meaning": "inspiring hope",
-          "note": "This is the all-purpose choice for a situation or outcome that looks likely to succeed."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This plan looks quite encouraging.",
-          "traditional": "呢個計劃睇落幾有希望。",
-          "jyutping": "ni1 go3 gai3 waak6 tai2 lok6 gei2 jau5 hei1 mong6"
-        },
-        {
-          "english": "The plan looks quite hopeful.",
-          "traditional": "個計劃睇落幾有希望。",
-          "jyutping": "go3 gai3 waak6 tai2 lok6 gei2 jau5 hei1 mong6"
-        }
-      ]
+      "english": "This plan looks quite encouraging.",
+      "traditional": "呢個計劃睇落幾有希望。",
+      "jyutping": "ni1 go3 gai3 waak6 tai2 lok6 gei2 jau5 hei1 mong6"
+    },
+    {
+      "english": "The plan looks quite hopeful.",
+      "traditional": "個計劃睇落幾有希望。",
+      "jyutping": "go3 gai3 waak6 tai2 lok6 gei2 jau5 hei1 mong6"
     }
   ]
 }

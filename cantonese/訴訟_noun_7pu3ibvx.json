@@ -1,28 +1,24 @@
 {
   "id": "7pu3ibvx",
   "partOfSpeech": "noun",
+  "meaning": "court case",
+  "english": [
+    {
+      "id": "rh8mirnr",
+      "word": "lawsuit",
+      "meaning": "court case",
+      "register": "written",
+      "note": "Use this in formal or legal language when referring to a lawsuit or litigation."
+    }
+  ],
   "traditional": "訴訟",
   "jyutping": "sou3 zung6",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "court case",
-      "english": [
-        {
-          "id": "rh8mirnr",
-          "word": "lawsuit",
-          "meaning": "court case",
-          "register": "written",
-          "note": "Use this in formal or legal language when referring to a lawsuit or litigation."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "That lawsuit has entered the final trial stage.",
-          "traditional": "該宗訴訟已進入最後審訊階段。",
-          "jyutping": "goi1 zung1 sou3 zung6 ji5 zeon3 jap6 zeoi3 hau6 sam2 seon3 gaai1 dyun6"
-        }
-      ]
+      "english": "That lawsuit has entered the final trial stage.",
+      "traditional": "該宗訴訟已進入最後審訊階段。",
+      "jyutping": "goi1 zung1 sou3 zung6 ji5 zeon3 jap6 zeoi3 hau6 sam2 seon3 gaai1 dyun6"
     }
   ]
 }

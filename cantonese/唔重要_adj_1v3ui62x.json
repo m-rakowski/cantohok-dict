@@ -1,81 +1,77 @@
 {
   "id": "1v3ui62x",
   "partOfSpeech": "adj",
+  "meaning": "not important",
+  "english": [
+    {
+      "id": "m2ku7861",
+      "word": "unimportant",
+      "meaning": "not important; negligible",
+      "note": "Use this as the all-purpose way to say that something is not important or noteworthy."
+    },
+    {
+      "id": "nh8olo6j",
+      "word": "trivial",
+      "meaning": "unimportant; of little value",
+      "note": "This is the all-purpose choice for something unimportant or of little significance."
+    },
+    {
+      "id": "i4wxdy6j",
+      "word": "negligible",
+      "meaning": "too small to matter",
+      "note": "This is the all-purpose choice for something too unimportant to matter."
+    },
+    {
+      "id": "ia1p9rft",
+      "word": "petty",
+      "meaning": "unimportant; trivial",
+      "note": "Use this for a fault, issue, or detail that lacks importance, rather than for a person's character."
+    },
+    {
+      "id": "90srzwb7",
+      "word": "little",
+      "meaning": "insignificant; minor",
+      "note": "Use this when little means unimportant or of little significance rather than physically small."
+    },
+    {
+      "id": "ikb4ztc0",
+      "word": "slight",
+      "meaning": "trifling; unimportant",
+      "note": "Choose this when slight means unimportant or insignificant, such as an error that does not matter."
+    }
+  ],
   "traditional": "唔重要",
   "jyutping": "m4 zung6 jiu3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "not important",
-      "english": [
-        {
-          "id": "m2ku7861",
-          "word": "unimportant",
-          "meaning": "not important; negligible",
-          "note": "Use this as the all-purpose way to say that something is not important or noteworthy."
-        },
-        {
-          "id": "nh8olo6j",
-          "word": "trivial",
-          "meaning": "unimportant; of little value",
-          "note": "This is the all-purpose choice for something unimportant or of little significance."
-        },
-        {
-          "id": "i4wxdy6j",
-          "word": "negligible",
-          "meaning": "too small to matter",
-          "note": "This is the all-purpose choice for something too unimportant to matter."
-        },
-        {
-          "id": "ia1p9rft",
-          "word": "petty",
-          "meaning": "unimportant; trivial",
-          "note": "Use this for a fault, issue, or detail that lacks importance, rather than for a person's character."
-        },
-        {
-          "id": "90srzwb7",
-          "word": "little",
-          "meaning": "insignificant; minor",
-          "note": "Use this when little means unimportant or of little significance rather than physically small."
-        },
-        {
-          "id": "ikb4ztc0",
-          "word": "slight",
-          "meaning": "trifling; unimportant",
-          "note": "Choose this when slight means unimportant or insignificant, such as an error that does not matter."
-        }
-      ],
-      "examples": [
-        {
-          "english": "These little things are unimportant.",
-          "traditional": "呢啲小事唔重要。",
-          "jyutping": "nei1 di1 siu2 si6 m4 zung6 jiu3"
-        },
-        {
-          "english": "These details are trivial, so there is no need to think about them anymore.",
-          "traditional": "呢啲細節唔重要，唔使再諗喇。",
-          "jyutping": "ni1 di1 sai3 zit3 m4 zung6 jiu3 m4 sai2 zoi3 nam2 laa3"
-        },
-        {
-          "english": "These minor issues are negligible to the outcome.",
-          "traditional": "呢啲小問題對個結果唔重要。",
-          "jyutping": "ni1 di1 siu2 man6 tai4 deoi3 go3 git3 gwo2 m4 zung6 jiu3"
-        },
-        {
-          "english": "This detail is petty, so there’s no need to spend more time arguing about it.",
-          "traditional": "呢個細節唔重要，唔使再花時間爭拗。",
-          "jyutping": "ni1 go3 sai3 zit3 m4 zung6 jiu3 m4 sai2 zoi3 faa1 si4 gaan1 zang1 aau3"
-        },
-        {
-          "english": "That little detail isn't important.",
-          "traditional": "呢個細節唔重要。",
-          "jyutping": "ni1 go3 sai3 zit3 m4 zung6 jiu3"
-        },
-        {
-          "english": "It's just a slight error, so don't worry—it doesn't matter.",
-          "traditional": "呢個小錯誤唔重要，唔使擔心。",
-          "jyutping": "ni1 go3 siu2 co3 ng6 m4 zung6 jiu3 m4 sai2 daam1 sam1"
-        }
-      ]
+      "english": "These little things are unimportant.",
+      "traditional": "呢啲小事唔重要。",
+      "jyutping": "nei1 di1 siu2 si6 m4 zung6 jiu3"
+    },
+    {
+      "english": "These details are trivial, so there is no need to think about them anymore.",
+      "traditional": "呢啲細節唔重要，唔使再諗喇。",
+      "jyutping": "ni1 di1 sai3 zit3 m4 zung6 jiu3 m4 sai2 zoi3 nam2 laa3"
+    },
+    {
+      "english": "These minor issues are negligible to the outcome.",
+      "traditional": "呢啲小問題對個結果唔重要。",
+      "jyutping": "ni1 di1 siu2 man6 tai4 deoi3 go3 git3 gwo2 m4 zung6 jiu3"
+    },
+    {
+      "english": "This detail is petty, so there’s no need to spend more time arguing about it.",
+      "traditional": "呢個細節唔重要，唔使再花時間爭拗。",
+      "jyutping": "ni1 go3 sai3 zit3 m4 zung6 jiu3 m4 sai2 zoi3 faa1 si4 gaan1 zang1 aau3"
+    },
+    {
+      "english": "That little detail isn't important.",
+      "traditional": "呢個細節唔重要。",
+      "jyutping": "ni1 go3 sai3 zit3 m4 zung6 jiu3"
+    },
+    {
+      "english": "It's just a slight error, so don't worry—it doesn't matter.",
+      "traditional": "呢個小錯誤唔重要，唔使擔心。",
+      "jyutping": "ni1 go3 siu2 co3 ng6 m4 zung6 jiu3 m4 sai2 daam1 sam1"
     }
   ]
 }

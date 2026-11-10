@@ -1,28 +1,24 @@
 {
   "id": "86whi123",
   "partOfSpeech": "adv",
+  "meaning": "day before today",
+  "english": [
+    {
+      "id": "sofhkcff",
+      "word": "yesterday",
+      "meaning": "day before today",
+      "register": "colloquial",
+      "note": "This is the all-purpose everyday choice for “yesterday” in spoken Hong Kong Cantonese."
+    }
+  ],
   "traditional": "琴日",
   "jyutping": "kam4 jat6",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "day before today",
-      "english": [
-        {
-          "id": "sofhkcff",
-          "word": "yesterday",
-          "meaning": "day before today",
-          "register": "colloquial",
-          "note": "This is the all-purpose everyday choice for “yesterday” in spoken Hong Kong Cantonese."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "Yesterday I went to the wet market to buy ingredients.",
-          "traditional": "琴日我去咗街市買餸。",
-          "jyutping": "kam4 jat6 ngo5 heoi3 zo2 gaai1 si5 maai5 sung3"
-        }
-      ]
+      "english": "Yesterday I went to the wet market to buy ingredients.",
+      "traditional": "琴日我去咗街市買餸。",
+      "jyutping": "kam4 jat6 ngo5 heoi3 zo2 gaai1 si5 maai5 sung3"
     }
   ]
 }

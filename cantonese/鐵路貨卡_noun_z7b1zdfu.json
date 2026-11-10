@@ -1,26 +1,22 @@
 {
   "id": "z7b1zdfu",
   "partOfSpeech": "noun",
+  "meaning": "railway van",
+  "english": [
+    {
+      "id": "vfepll4y",
+      "word": "van",
+      "meaning": "railway van",
+      "note": "Use this specifically for an enclosed freight vehicle running on a railway."
+    }
+  ],
   "traditional": "鐵路貨卡",
   "jyutping": "tit3 lou6 fo3 kaat1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "railway van",
-      "english": [
-        {
-          "id": "vfepll4y",
-          "word": "van",
-          "meaning": "railway van",
-          "note": "Use this specifically for an enclosed freight vehicle running on a railway."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This railway van is full of freight.",
-          "traditional": "呢架鐵路貨卡入面全部都係貨。",
-          "jyutping": "ni1 gaa3 tit3 lou6 fo3 kaat1 jap6 min6 cyun4 bou6 dou1 hai6 fo3"
-        }
-      ]
+      "english": "This railway van is full of freight.",
+      "traditional": "呢架鐵路貨卡入面全部都係貨。",
+      "jyutping": "ni1 gaa3 tit3 lou6 fo3 kaat1 jap6 min6 cyun4 bou6 dou1 hai6 fo3"
     }
   ]
 }

@@ -1,37 +1,33 @@
 {
   "id": "dh3yb77u",
   "partOfSpeech": "det",
+  "meaning": "his, its",
+  "english": [
+    {
+      "id": "d5a3w4a4",
+      "word": "his",
+      "meaning": "possessive determiner",
+      "note": "This is the all-purpose possessive used before a noun to mean belonging to him."
+    },
+    {
+      "id": "58c4yoqq",
+      "word": "its",
+      "meaning": "possessive determiner",
+      "note": "This is the all-purpose spoken Cantonese equivalent for something belonging to it."
+    }
+  ],
   "traditional": "佢嘅",
   "jyutping": "keoi5 ge3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "his, its",
-      "english": [
-        {
-          "id": "d5a3w4a4",
-          "word": "his",
-          "meaning": "possessive determiner",
-          "note": "This is the all-purpose possessive used before a noun to mean belonging to him."
-        },
-        {
-          "id": "58c4yoqq",
-          "word": "its",
-          "meaning": "possessive determiner",
-          "note": "This is the all-purpose spoken Cantonese equivalent for something belonging to it."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I found his wallet.",
-          "traditional": "我搵到佢嘅銀包喇。",
-          "jyutping": "ngo5 wan2 dou2 keoi5 ge3 ngan4 baau1 laa3"
-        },
-        {
-          "english": "The camera got smashed, and even its lens cracked.",
-          "traditional": "呢部相機跌爛咗，連佢嘅鏡頭都裂埋。",
-          "jyutping": "ni1 bou6 soeng1 gei1 dit3 laan6 zo2 lin4 keoi5 ge3 geng3 tau4 dou1 lit6 maai4"
-        }
-      ]
+      "english": "I found his wallet.",
+      "traditional": "我搵到佢嘅銀包喇。",
+      "jyutping": "ngo5 wan2 dou2 keoi5 ge3 ngan4 baau1 laa3"
+    },
+    {
+      "english": "The camera got smashed, and even its lens cracked.",
+      "traditional": "呢部相機跌爛咗，連佢嘅鏡頭都裂埋。",
+      "jyutping": "ni1 bou6 soeng1 gei1 dit3 laan6 zo2 lin4 keoi5 ge3 geng3 tau4 dou1 lit6 maai4"
     }
   ]
 }

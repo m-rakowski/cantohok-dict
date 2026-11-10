@@ -1,39 +1,35 @@
 {
   "id": "od2nefvg",
   "partOfSpeech": "noun",
+  "meaning": "joy, festive happiness",
+  "english": [
+    {
+      "id": "3hi130j9",
+      "word": "cheerfulness",
+      "meaning": "being cheerful; joy",
+      "register": "formal",
+      "note": "Choose this for a more festive or shared atmosphere of joy rather than an individual’s general happiness."
+    },
+    {
+      "id": "1ynachvz",
+      "word": "joy",
+      "meaning": "feeling of happiness",
+      "register": "written",
+      "note": "Use this for joyful cheerfulness with a festive or collective atmosphere rather than a private feeling."
+    }
+  ],
   "traditional": "歡樂",
   "jyutping": "fun1 lok6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "joy, festive happiness",
-      "english": [
-        {
-          "id": "3hi130j9",
-          "word": "cheerfulness",
-          "meaning": "being cheerful; joy",
-          "register": "formal",
-          "note": "Choose this for a more festive or shared atmosphere of joy rather than an individual’s general happiness."
-        },
-        {
-          "id": "1ynachvz",
-          "word": "joy",
-          "meaning": "feeling of happiness",
-          "register": "written",
-          "note": "Use this for joyful cheerfulness with a festive or collective atmosphere rather than a private feeling."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The whole venue was full of cheerfulness.",
-          "traditional": "成個會場都充滿歡樂。",
-          "jyutping": "seng4 go3 wui6 coeng4 dou1 cung1 mun5 fun1 lok6"
-        },
-        {
-          "english": "The joy of the festival spread throughout the city.",
-          "traditional": "節日嘅歡樂氣氛感染咗全城。",
-          "jyutping": "zit3 jat6 ge3 fun1 lok6 hei3 fan1 gam2 jim5 zo2 cyun4 sing4"
-        }
-      ]
+      "english": "The whole venue was full of cheerfulness.",
+      "traditional": "成個會場都充滿歡樂。",
+      "jyutping": "seng4 go3 wui6 coeng4 dou1 cung1 mun5 fun1 lok6"
+    },
+    {
+      "english": "The joy of the festival spread throughout the city.",
+      "traditional": "節日嘅歡樂氣氛感染咗全城。",
+      "jyutping": "zit3 jat6 ge3 fun1 lok6 hei3 fan1 gam2 jim5 zo2 cyun4 sing4"
     }
   ]
 }

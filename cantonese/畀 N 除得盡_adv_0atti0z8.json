@@ -1,26 +1,22 @@
 {
   "id": "0atti0z8",
   "partOfSpeech": "adv",
+  "meaning": "exactly divisible",
+  "english": [
+    {
+      "id": "hsmjep3s",
+      "word": "evenly",
+      "meaning": "exactly divisible",
+      "note": "Use this mathematical construction to say that a number can be divided by N with no remainder."
+    }
+  ],
   "traditional": "畀 N 除得盡",
   "jyutping": "bei2 N ceoi4 dak1 zeon6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "exactly divisible",
-      "english": [
-        {
-          "id": "hsmjep3s",
-          "word": "evenly",
-          "meaning": "exactly divisible",
-          "note": "Use this mathematical construction to say that a number can be divided by N with no remainder."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Twenty-four can be divided evenly by six.",
-          "traditional": "二十四畀六除得盡。",
-          "jyutping": "ji6 sap6 sei3 bei2 luk6 ceoi4 dak1 zeon6"
-        }
-      ]
+      "english": "Twenty-four can be divided evenly by six.",
+      "traditional": "二十四畀六除得盡。",
+      "jyutping": "ji6 sap6 sei3 bei2 luk6 ceoi4 dak1 zeon6"
     }
   ]
 }

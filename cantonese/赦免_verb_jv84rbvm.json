@@ -1,28 +1,24 @@
 {
   "id": "jv84rbvm",
   "partOfSpeech": "verb",
+  "meaning": "grant a pardon",
+  "english": [
+    {
+      "id": "lg1m2y1j",
+      "word": "pardon",
+      "meaning": "grant a pardon",
+      "register": "formal",
+      "note": "Use this for officially pardoning someone for a crime, especially in formal or written contexts."
+    }
+  ],
   "traditional": "赦免",
   "jyutping": "se3 min5",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "grant a pardon",
-      "english": [
-        {
-          "id": "lg1m2y1j",
-          "word": "pardon",
-          "meaning": "grant a pardon",
-          "register": "formal",
-          "note": "Use this for officially pardoning someone for a crime, especially in formal or written contexts."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The government announced that it would pardon those prisoners.",
-          "traditional": "政府宣布赦免嗰批囚犯。",
-          "jyutping": "zing3 fu2 syun1 bou3 se3 min5 go2 pai1 cau4 faan6"
-        }
-      ]
+      "english": "The government announced that it would pardon those prisoners.",
+      "traditional": "政府宣布赦免嗰批囚犯。",
+      "jyutping": "zing3 fu2 syun1 bou3 se3 min5 go2 pai1 cau4 faan6"
     }
   ]
 }

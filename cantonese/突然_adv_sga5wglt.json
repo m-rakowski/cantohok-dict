@@ -1,48 +1,44 @@
 {
   "id": "sga5wglt",
   "partOfSpeech": "adv",
+  "meaning": "suddenly",
+  "english": [
+    {
+      "id": "ccuyu89t",
+      "word": "suddenly",
+      "meaning": "happening with no warning",
+      "note": "This is the all-purpose choice for something happening quickly and with little or no warning."
+    },
+    {
+      "id": "0lxlhelx",
+      "word": "abruptly",
+      "meaning": "suddenly, without warning",
+      "note": "This is the all-purpose choice for something happening suddenly and without warning."
+    },
+    {
+      "id": "cbuq5jix",
+      "word": "sharply",
+      "meaning": "suddenly, abruptly",
+      "note": "This is the all-purpose Cantonese choice for an abrupt or sudden reaction."
+    }
+  ],
   "traditional": "突然",
   "jyutping": "dat6 jin4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "suddenly",
-      "english": [
-        {
-          "id": "ccuyu89t",
-          "word": "suddenly",
-          "meaning": "happening with no warning",
-          "note": "This is the all-purpose choice for something happening quickly and with little or no warning."
-        },
-        {
-          "id": "0lxlhelx",
-          "word": "abruptly",
-          "meaning": "suddenly, without warning",
-          "note": "This is the all-purpose choice for something happening suddenly and without warning."
-        },
-        {
-          "id": "cbuq5jix",
-          "word": "sharply",
-          "meaning": "suddenly, abruptly",
-          "note": "This is the all-purpose Cantonese choice for an abrupt or sudden reaction."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I suddenly forgot to bring my keys.",
-          "traditional": "我突然唔記得帶鎖匙。",
-          "jyutping": "ngo5 dat6 jin4 m4 gei3 dak1 daai3 so2 si4"
-        },
-        {
-          "english": "They left abruptly, and nobody knew what was going on.",
-          "traditional": "佢突然走咗，大家都唔知咩事。",
-          "jyutping": "keoi5 dat6 jin4 zau2 zo2 daai6 gaa1 dou1 m4 zi1 me1 si6"
-        },
-        {
-          "english": "They sharply stopped talking, and everyone froze.",
-          "traditional": "佢突然間唔出聲，成班人都呆咗。",
-          "jyutping": "keoi5 dat6 jin4 gaan1 m4 ceot1 seng1 sing4 baan1 jan4 dou1 ngoi4 zo2"
-        }
-      ]
+      "english": "I suddenly forgot to bring my keys.",
+      "traditional": "我突然唔記得帶鎖匙。",
+      "jyutping": "ngo5 dat6 jin4 m4 gei3 dak1 daai3 so2 si4"
+    },
+    {
+      "english": "They left abruptly, and nobody knew what was going on.",
+      "traditional": "佢突然走咗，大家都唔知咩事。",
+      "jyutping": "keoi5 dat6 jin4 zau2 zo2 daai6 gaa1 dou1 m4 zi1 me1 si6"
+    },
+    {
+      "english": "They sharply stopped talking, and everyone froze.",
+      "traditional": "佢突然間唔出聲，成班人都呆咗。",
+      "jyutping": "keoi5 dat6 jin4 gaan1 m4 ceot1 seng1 sing4 baan1 jan4 dou1 ngoi4 zo2"
     }
   ]
 }

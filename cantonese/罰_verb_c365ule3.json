@@ -1,37 +1,33 @@
 {
   "id": "c365ule3",
   "partOfSpeech": "verb",
+  "meaning": "punish, fine",
+  "english": [
+    {
+      "id": "qzbf250f",
+      "word": "punish",
+      "meaning": "punish as penalty",
+      "note": "Use this as the all-purpose verb for imposing a penalty or disciplinary punishment."
+    },
+    {
+      "id": "dajal0oy",
+      "word": "slap",
+      "meaning": "impose a penalty",
+      "note": "Use this for imposing an official punishment or fine on someone, rather than for a physical hit."
+    }
+  ],
   "traditional": "罰",
   "jyutping": "fat6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "punish, fine",
-      "english": [
-        {
-          "id": "qzbf250f",
-          "word": "punish",
-          "meaning": "punish as penalty",
-          "note": "Use this as the all-purpose verb for imposing a penalty or disciplinary punishment."
-        },
-        {
-          "id": "dajal0oy",
-          "word": "slap",
-          "meaning": "impose a penalty",
-          "note": "Use this for imposing an official punishment or fine on someone, rather than for a physical hit."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The teacher said they would definitely punish you by making you stay after school.",
-          "traditional": "老師話今次一定要罰你留堂。",
-          "jyutping": "lou5 si1 waa6 gam1 ci3 jat1 ding6 jiu3 fat6 nei5 lau4 tong4"
-        },
-        {
-          "english": "The government decided to slap that restaurant with a five-thousand-dollar fine.",
-          "traditional": "政府決定罰嗰間餐廳五千蚊。",
-          "jyutping": "zing3 fu2 kyut3 ding6 fat6 go2 gaan1 caan1 teng1 ng5 cin1 man1"
-        }
-      ]
+      "english": "The teacher said they would definitely punish you by making you stay after school.",
+      "traditional": "老師話今次一定要罰你留堂。",
+      "jyutping": "lou5 si1 waa6 gam1 ci3 jat1 ding6 jiu3 fat6 nei5 lau4 tong4"
+    },
+    {
+      "english": "The government decided to slap that restaurant with a five-thousand-dollar fine.",
+      "traditional": "政府決定罰嗰間餐廳五千蚊。",
+      "jyutping": "zing3 fu2 kyut3 ding6 fat6 go2 gaan1 caan1 teng1 ng5 cin1 man1"
     }
   ]
 }

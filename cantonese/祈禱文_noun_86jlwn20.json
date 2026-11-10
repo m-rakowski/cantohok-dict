@@ -1,28 +1,24 @@
 {
   "id": "86jlwn20",
   "partOfSpeech": "noun",
+  "meaning": "prayer words",
+  "english": [
+    {
+      "id": "g66dz2jo",
+      "word": "prayer",
+      "meaning": "prayer words",
+      "register": "written",
+      "note": "Use this for the particular wording or written text of a prayer."
+    }
+  ],
   "traditional": "祈禱文",
   "jyutping": "kei4 tou2 man4",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "prayer words",
-      "english": [
-        {
-          "id": "g66dz2jo",
-          "word": "prayer",
-          "meaning": "prayer words",
-          "register": "written",
-          "note": "Use this for the particular wording or written text of a prayer."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "This prayer text is the one the church requires us to read.",
-          "traditional": "呢段祈禱文係教會指定要讀嘅。",
-          "jyutping": "ni1 dyun6 kei4 tou2 man4 hai6 gaau3 wui6 zi2 ding6 jiu3 duk6 ge3"
-        }
-      ]
+      "english": "This prayer text is the one the church requires us to read.",
+      "traditional": "呢段祈禱文係教會指定要讀嘅。",
+      "jyutping": "ni1 dyun6 kei4 tou2 man4 hai6 gaau3 wui6 zi2 ding6 jiu3 duk6 ge3"
     }
   ]
 }

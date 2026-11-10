@@ -1,40 +1,36 @@
 {
   "id": "4vcpqn0e",
   "partOfSpeech": "noun",
+  "meaning": "dental crown",
+  "english": [
+    {
+      "id": "dnz7r1eb",
+      "word": "crown",
+      "meaning": "tooth cap",
+      "register": "formal",
+      "note": "Use this technical dental term for a prosthetic cap fitted over a tooth."
+    },
+    {
+      "id": "zc05gz5h",
+      "word": "cap",
+      "meaning": "tooth crown",
+      "register": "formal",
+      "note": "Use this specifically for a dental crown covering a tooth."
+    }
+  ],
   "traditional": "牙冠",
   "jyutping": "ngaa4 gun1",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "dental crown",
-      "english": [
-        {
-          "id": "dnz7r1eb",
-          "word": "crown",
-          "meaning": "tooth cap",
-          "register": "formal",
-          "note": "Use this technical dental term for a prosthetic cap fitted over a tooth."
-        },
-        {
-          "id": "zc05gz5h",
-          "word": "cap",
-          "meaning": "tooth crown",
-          "register": "formal",
-          "note": "Use this specifically for a dental crown covering a tooth."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The dentist said I need to have a crown replaced.",
-          "traditional": "牙醫話要幫我換個牙冠。",
-          "jyutping": "ngaa4 ji1 waa6 jiu3 bong1 ngo5 wun6 go3 ngaa4 gun1"
-        },
-        {
-          "english": "The dentist says this tooth needs a cap.",
-          "traditional": "牙醫話呢隻牙要裝牙冠。",
-          "jyutping": "ngaa4 ji1 waa6 ni1 zek3 ngaa4 jiu3 zong1 ngaa4 gun1"
-        }
-      ]
+      "english": "The dentist said I need to have a crown replaced.",
+      "traditional": "牙醫話要幫我換個牙冠。",
+      "jyutping": "ngaa4 ji1 waa6 jiu3 bong1 ngo5 wun6 go3 ngaa4 gun1"
+    },
+    {
+      "english": "The dentist says this tooth needs a cap.",
+      "traditional": "牙醫話呢隻牙要裝牙冠。",
+      "jyutping": "ngaa4 ji1 waa6 ni1 zek3 ngaa4 jiu3 zong1 ngaa4 gun1"
     }
   ]
 }

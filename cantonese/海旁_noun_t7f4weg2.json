@@ -1,38 +1,34 @@
 {
   "id": "t7f4weg2",
   "partOfSpeech": "noun",
+  "meaning": "waterfront, seafront",
+  "english": [
+    {
+      "id": "6885s66i",
+      "word": "waterfront",
+      "meaning": "shore area",
+      "register": "colloquial",
+      "note": "This is the all-purpose Cantonese choice for the land or area beside the water."
+    },
+    {
+      "id": "grmy10i9",
+      "word": "seaside",
+      "meaning": "coast, seaside area",
+      "note": "Use this especially for an urban waterfront or seafront promenade rather than a beach or open coast in general."
+    }
+  ],
   "traditional": "海旁",
   "jyutping": "hoi2 pong4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "waterfront, seafront",
-      "english": [
-        {
-          "id": "6885s66i",
-          "word": "waterfront",
-          "meaning": "shore area",
-          "register": "colloquial",
-          "note": "This is the all-purpose Cantonese choice for the land or area beside the water."
-        },
-        {
-          "id": "grmy10i9",
-          "word": "seaside",
-          "meaning": "coast, seaside area",
-          "note": "Use this especially for an urban waterfront or seafront promenade rather than a beach or open coast in general."
-        }
-      ],
-      "examples": [
-        {
-          "english": "We took a slow walk along the waterfront after dinner, watching the boats across the way.",
-          "traditional": "我哋食完飯沿住海旁慢慢行，望住對面啲船。",
-          "jyutping": "ngo5 dei6 sik6 jyun4 faan6 jyun4 zyu6 hoi2 pong4 maan6 maan2 hang4 mong6 zyu6 deoi3 min6 di1 syun4"
-        },
-        {
-          "english": "The night view along this seaside promenade is beautiful.",
-          "traditional": "呢條海旁長廊夜景好靚。",
-          "jyutping": "ni1 tiu4 hoi2 pong4 coeng4 long4 je6 ging2 hou2 leng3"
-        }
-      ]
+      "english": "We took a slow walk along the waterfront after dinner, watching the boats across the way.",
+      "traditional": "我哋食完飯沿住海旁慢慢行，望住對面啲船。",
+      "jyutping": "ngo5 dei6 sik6 jyun4 faan6 jyun4 zyu6 hoi2 pong4 maan6 maan2 hang4 mong6 zyu6 deoi3 min6 di1 syun4"
+    },
+    {
+      "english": "The night view along this seaside promenade is beautiful.",
+      "traditional": "呢條海旁長廊夜景好靚。",
+      "jyutping": "ni1 tiu4 hoi2 pong4 coeng4 long4 je6 ging2 hou2 leng3"
     }
   ]
 }

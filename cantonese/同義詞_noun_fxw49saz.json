@@ -1,26 +1,22 @@
 {
   "id": "fxw49saz",
   "partOfSpeech": "noun",
+  "meaning": "word with same meaning",
+  "english": [
+    {
+      "id": "yd7ukizz",
+      "word": "synonym",
+      "meaning": "word with same meaning",
+      "note": "This is the all-purpose term for a word or phrase with the same meaning as another."
+    }
+  ],
   "traditional": "同義詞",
   "jyutping": "tung4 ji6 ci4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "word with same meaning",
-      "english": [
-        {
-          "id": "yd7ukizz",
-          "word": "synonym",
-          "meaning": "word with same meaning",
-          "note": "This is the all-purpose term for a word or phrase with the same meaning as another."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The teacher asked us to find a synonym for “fast.”",
-          "traditional": "老師叫我哋搵出「快」嘅同義詞。",
-          "jyutping": "lou5 si1 giu3 ngo5 dei6 wan2 ceot1 faai3 ge3 tung4 ji6 ci4"
-        }
-      ]
+      "english": "The teacher asked us to find a synonym for “fast.”",
+      "traditional": "老師叫我哋搵出「快」嘅同義詞。",
+      "jyutping": "lou5 si1 giu3 ngo5 dei6 wan2 ceot1 faai3 ge3 tung4 ji6 ci4"
     }
   ]
 }

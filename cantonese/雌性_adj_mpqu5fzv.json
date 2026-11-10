@@ -1,28 +1,24 @@
 {
   "id": "mpqu5fzv",
   "partOfSpeech": "adj",
+  "meaning": "female (sex/gender)",
+  "english": [
+    {
+      "id": "0uqgv2wy",
+      "word": "female",
+      "meaning": "female (sex/gender)",
+      "register": "formal",
+      "note": "Use this for the biological female sex of animals and other organisms rather than for ordinary descriptions of people."
+    }
+  ],
   "traditional": "雌性",
   "jyutping": "ci1 sing3",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "female (sex/gender)",
-      "english": [
-        {
-          "id": "0uqgv2wy",
-          "word": "female",
-          "meaning": "female (sex/gender)",
-          "register": "formal",
-          "note": "Use this for the biological female sex of animals and other organisms rather than for ordinary descriptions of people."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "Female rabbits are usually smaller than male rabbits.",
-          "traditional": "雌性兔通常比雄性兔細隻。",
-          "jyutping": "ci1 sing3 tou3 tung1 soeng4 bei2 hung4 sing3 tou3 sai3 zek3"
-        }
-      ]
+      "english": "Female rabbits are usually smaller than male rabbits.",
+      "traditional": "雌性兔通常比雄性兔細隻。",
+      "jyutping": "ci1 sing3 tou3 tung1 soeng4 bei2 hung4 sing3 tou3 sai3 zek3"
     }
   ]
 }

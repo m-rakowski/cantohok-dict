@@ -1,37 +1,33 @@
 {
   "id": "rlhncx65",
   "partOfSpeech": "noun",
+  "meaning": "mouth, beak",
+  "english": [
+    {
+      "id": "t37tpf2i",
+      "word": "mouth",
+      "meaning": "creature's mouth",
+      "note": "Use this colloquial alternative for the visible mouth of a person or animal, rather than for an aperture."
+    },
+    {
+      "id": "0q88yrfe",
+      "word": "beak",
+      "meaning": "animal snout-like beak",
+      "note": "Use 嘴 as the all-purpose spoken word for an animal's beak or a person's mouth."
+    }
+  ],
   "traditional": "嘴",
   "jyutping": "zeoi2",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "mouth, beak",
-      "english": [
-        {
-          "id": "t37tpf2i",
-          "word": "mouth",
-          "meaning": "creature's mouth",
-          "note": "Use this colloquial alternative for the visible mouth of a person or animal, rather than for an aperture."
-        },
-        {
-          "id": "0q88yrfe",
-          "word": "beak",
-          "meaning": "animal snout-like beak",
-          "note": "Use 嘴 as the all-purpose spoken word for an animal's beak or a person's mouth."
-        }
-      ],
-      "examples": [
-        {
-          "english": "You have a grain of rice at the corner of your mouth.",
-          "traditional": "你嘴角有粒飯。",
-          "jyutping": "nei5 zeoi2 gok3 jau5 lap1 faan6"
-        },
-        {
-          "english": "The duck's beak is flat.",
-          "traditional": "隻鴨個嘴扁扁哋。",
-          "jyutping": "zek3 aap3 go3 zeoi2 bin2 bin2 dei2"
-        }
-      ]
+      "english": "You have a grain of rice at the corner of your mouth.",
+      "traditional": "你嘴角有粒飯。",
+      "jyutping": "nei5 zeoi2 gok3 jau5 lap1 faan6"
+    },
+    {
+      "english": "The duck's beak is flat.",
+      "traditional": "隻鴨個嘴扁扁哋。",
+      "jyutping": "zek3 aap3 go3 zeoi2 bin2 bin2 dei2"
     }
   ]
 }

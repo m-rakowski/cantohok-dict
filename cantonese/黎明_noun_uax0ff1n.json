@@ -1,28 +1,24 @@
 {
   "id": "uax0ff1n",
   "partOfSpeech": "noun",
+  "meaning": "morning twilight",
+  "english": [
+    {
+      "id": "itb18r28",
+      "word": "dawn",
+      "meaning": "morning twilight",
+      "register": "formal",
+      "note": "Use this more formal term when referring specifically to the twilight immediately before sunrise."
+    }
+  ],
   "traditional": "黎明",
   "jyutping": "lai4 ming4",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "morning twilight",
-      "english": [
-        {
-          "id": "itb18r28",
-          "word": "dawn",
-          "meaning": "morning twilight",
-          "register": "formal",
-          "note": "Use this more formal term when referring specifically to the twilight immediately before sunrise."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "At dawn, the sky is still gray-blue.",
-          "traditional": "黎明時分，天空仲係一片灰藍。",
-          "jyutping": "lai4 ming4 si4 fan1 tin1 hung1 zung6 hai6 jat1 pin3 fui1 laam4"
-        }
-      ]
+      "english": "At dawn, the sky is still gray-blue.",
+      "traditional": "黎明時分，天空仲係一片灰藍。",
+      "jyutping": "lai4 ming4 si4 fan1 tin1 hung1 zung6 hai6 jat1 pin3 fui1 laam4"
     }
   ]
 }

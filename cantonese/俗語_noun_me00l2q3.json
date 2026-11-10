@@ -1,28 +1,24 @@
 {
   "id": "me00l2q3",
   "partOfSpeech": "noun",
+  "meaning": "saying expressing wisdom",
+  "english": [
+    {
+      "id": "6nt7jixq",
+      "word": "proverb",
+      "meaning": "saying expressing wisdom",
+      "register": "colloquial",
+      "note": "This is the all-purpose choice for a familiar folk-style proverb in everyday Cantonese."
+    }
+  ],
   "traditional": "俗語",
   "jyutping": "zuk6 jyu5",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "saying expressing wisdom",
-      "english": [
-        {
-          "id": "6nt7jixq",
-          "word": "proverb",
-          "meaning": "saying expressing wisdom",
-          "register": "colloquial",
-          "note": "This is the all-purpose choice for a familiar folk-style proverb in everyday Cantonese."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "The proverb says, “If you can eat salted fish, you can handle thirst.”",
-          "traditional": "俗語話，食得鹹魚抵得渴。",
-          "jyutping": "zuk6 jyu5 waa6 sik6 dak1 haam4 jyu4 dai2 dak1 hot3"
-        }
-      ]
+      "english": "The proverb says, “If you can eat salted fish, you can handle thirst.”",
+      "traditional": "俗語話，食得鹹魚抵得渴。",
+      "jyutping": "zuk6 jyu5 waa6 sik6 dak1 haam4 jyu4 dai2 dak1 hot3"
     }
   ]
 }

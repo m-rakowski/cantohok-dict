@@ -1,28 +1,24 @@
 {
   "id": "jth79k2s",
   "partOfSpeech": "verb",
+  "meaning": "decide; settle",
+  "english": [
+    {
+      "id": "tmsdyued",
+      "word": "determine",
+      "meaning": "decide; settle",
+      "register": "formal",
+      "note": "Use this specifically when a court or other authority formally rules on a case or issue."
+    }
+  ],
   "traditional": "裁定",
   "jyutping": "coi4 ding6",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "decide; settle",
-      "english": [
-        {
-          "id": "tmsdyued",
-          "word": "determine",
-          "meaning": "decide; settle",
-          "register": "formal",
-          "note": "Use this specifically when a court or other authority formally rules on a case or issue."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The court will determine whether the defendant is guilty.",
-          "traditional": "法庭將裁定被告是否有罪。",
-          "jyutping": "faat3 ting4 zoeng1 coi4 ding6 bei6 gou3 si6 fau2 jau5 zeoi6"
-        }
-      ]
+      "english": "The court will determine whether the defendant is guilty.",
+      "traditional": "法庭將裁定被告是否有罪。",
+      "jyutping": "faat3 ting4 zoeng1 coi4 ding6 bei6 gou3 si6 fau2 jau5 zeoi6"
     }
   ]
 }

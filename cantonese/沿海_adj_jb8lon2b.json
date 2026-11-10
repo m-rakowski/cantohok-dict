@@ -1,28 +1,24 @@
 {
   "id": "jb8lon2b",
   "partOfSpeech": "adj",
+  "meaning": "near the coast",
+  "english": [
+    {
+      "id": "3ae0zx6x",
+      "word": "coastal",
+      "meaning": "near the coast",
+      "register": "written",
+      "note": "Use this for the broader formal or written sense of relating to or extending along the coast."
+    }
+  ],
   "traditional": "沿海",
   "jyutping": "jyun4 hoi2",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "near the coast",
-      "english": [
-        {
-          "id": "3ae0zx6x",
-          "word": "coastal",
-          "meaning": "near the coast",
-          "register": "written",
-          "note": "Use this for the broader formal or written sense of relating to or extending along the coast."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "The coastal region will build a large wind farm.",
-          "traditional": "沿海地區將興建大型風力發電站。",
-          "jyutping": "jyun4 hoi2 dei6 keoi1 zoeng1 hing1 gin3 daai6 jing4 fung1 lik6 faat3 din6 zaam6"
-        }
-      ]
+      "english": "The coastal region will build a large wind farm.",
+      "traditional": "沿海地區將興建大型風力發電站。",
+      "jyutping": "jyun4 hoi2 dei6 keoi1 zoeng1 hing1 gin3 daai6 jing4 fung1 lik6 faat3 din6 zaam6"
     }
   ]
 }

@@ -1,113 +1,67 @@
 {
   "id": "w5u0rr24",
   "partOfSpeech": "noun",
-  "traditional": "寶貝",
-  "jyutping": "bou2 bui3",
-  "boxes": [
+  "meaning": "darling (term of endearment)",
+  "english": [
     {
-      "meaning": "darling (term of endearment)",
-      "english": [
-        {
-          "id": "1zytam2w",
-          "word": "sweetheart",
-          "meaning": "term of endearment",
-          "register": "colloquial",
-          "note": "Use this as the usual all-purpose term of endearment for a lover or child."
-        },
-        {
-          "id": "6cocd6gy",
-          "word": "darling",
-          "meaning": "sweetheart / dear person",
-          "note": "This is the all-purpose affectionate noun, used for a loved person and sometimes a cherished animal or thing."
-        },
-        {
-          "id": "czse04sz",
-          "word": "honey",
-          "meaning": "term of affection",
-          "note": "Use 寶貝 as a familiar term of affection for a loved one."
-        },
-        {
-          "id": "1jw0pv29",
-          "word": "sweet",
-          "meaning": "sweetheart; term of affection",
-          "note": "Use this as a familiar term of affection for a sweetheart."
-        },
-        {
-          "id": "odlxrw2s",
-          "word": "sugar",
-          "meaning": "term of endearment",
-          "note": "Use 寶貝 as an affectionate form of address for a loved one, rather than for actual sugar."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Sweetheart, what do you want to eat today?",
-          "traditional": "寶貝，你今日想食乜呀？",
-          "jyutping": "bou2 bui3 nei5 gam1 jat6 soeng2 sik6 mat1 aa3"
-        },
-        {
-          "english": "Darling, it’s time to eat.",
-          "traditional": "寶貝，食飯喇。",
-          "jyutping": "bou2 bui3 sik6 faan6 laa3"
-        },
-        {
-          "english": "Honey, have you eaten today?",
-          "traditional": "寶貝，你今日食咗飯未呀？",
-          "jyutping": "bou2 bui3 nei5 gam1 jat6 sik6 zo2 faan6 mei6 aa3"
-        },
-        {
-          "english": "Sweet, you worked hard today.",
-          "traditional": "寶貝，你今日做嘢辛苦喇。",
-          "jyutping": "bou2 bui3 nei5 gam1 jat6 zou6 je5 san1 fu2 laa3"
-        },
-        {
-          "english": "Sugar, are you tired today?",
-          "traditional": "寶貝，你今日攰唔攰呀？",
-          "jyutping": "bou2 bui3 nei5 gam1 jat6 gui6 m4 gui6 aa3"
-        }
-      ]
+      "id": "1zytam2w",
+      "word": "sweetheart",
+      "meaning": "term of endearment",
+      "register": "colloquial",
+      "note": "Use this as the usual all-purpose term of endearment for a lover or child."
     },
     {
-      "meaning": "treasured person or thing",
-      "english": [
-        {
-          "id": "tryw0381",
-          "word": "pearl",
-          "meaning": "something precious",
-          "register": "colloquial",
-          "note": "Use this for a person or thing cherished as precious, rather than for the gemstone or a useful tip."
-        },
-        {
-          "id": "a3cof0ka",
-          "word": "treasure",
-          "meaning": "something valued",
-          "register": "colloquial",
-          "note": "Use this for a person or thing that is especially cherished or precious to someone."
-        },
-        {
-          "id": "opumqvap",
-          "word": "jewel",
-          "meaning": "valuable thing",
-          "note": "Use this for a person or thing regarded as especially precious or valued."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The old watch Mum left me is my pearl.",
-          "traditional": "阿媽留畀我嗰隻舊手錶係我嘅寶貝。",
-          "jyutping": "aa3 maa1 lau4 bei2 ngo5 go2 zek3 gau6 sau2 biu1 hai6 ngo5 ge3 bou2 bui3"
-        },
-        {
-          "english": "You are my most beloved treasure.",
-          "traditional": "你係我最鍾意嘅寶貝。",
-          "jyutping": "nei5 hai6 ngo5 zeoi3 zung1 ji3 ge3 bou2 bui3"
-        },
-        {
-          "english": "You are my most precious jewel.",
-          "traditional": "你係我最珍惜嘅寶貝。",
-          "jyutping": "nei5 hai6 ngo5 zeoi3 zan1 sik1 ge3 bou2 bui3"
-        }
-      ]
+      "id": "6cocd6gy",
+      "word": "darling",
+      "meaning": "sweetheart / dear person",
+      "note": "This is the all-purpose affectionate noun, used for a loved person and sometimes a cherished animal or thing."
+    },
+    {
+      "id": "czse04sz",
+      "word": "honey",
+      "meaning": "term of affection",
+      "note": "Use 寶貝 as a familiar term of affection for a loved one."
+    },
+    {
+      "id": "1jw0pv29",
+      "word": "sweet",
+      "meaning": "sweetheart; term of affection",
+      "note": "Use this as a familiar term of affection for a sweetheart."
+    },
+    {
+      "id": "odlxrw2s",
+      "word": "sugar",
+      "meaning": "term of endearment",
+      "note": "Use 寶貝 as an affectionate form of address for a loved one, rather than for actual sugar."
+    }
+  ],
+  "traditional": "寶貝",
+  "jyutping": "bou2 bui3",
+  "examples": [
+    {
+      "english": "Sweetheart, what do you want to eat today?",
+      "traditional": "寶貝，你今日想食乜呀？",
+      "jyutping": "bou2 bui3 nei5 gam1 jat6 soeng2 sik6 mat1 aa3"
+    },
+    {
+      "english": "Darling, it’s time to eat.",
+      "traditional": "寶貝，食飯喇。",
+      "jyutping": "bou2 bui3 sik6 faan6 laa3"
+    },
+    {
+      "english": "Honey, have you eaten today?",
+      "traditional": "寶貝，你今日食咗飯未呀？",
+      "jyutping": "bou2 bui3 nei5 gam1 jat6 sik6 zo2 faan6 mei6 aa3"
+    },
+    {
+      "english": "Sweet, you worked hard today.",
+      "traditional": "寶貝，你今日做嘢辛苦喇。",
+      "jyutping": "bou2 bui3 nei5 gam1 jat6 zou6 je5 san1 fu2 laa3"
+    },
+    {
+      "english": "Sugar, are you tired today?",
+      "traditional": "寶貝，你今日攰唔攰呀？",
+      "jyutping": "bou2 bui3 nei5 gam1 jat6 gui6 m4 gui6 aa3"
     }
   ]
 }

@@ -1,28 +1,24 @@
 {
   "id": "o3q51unr",
   "partOfSpeech": "noun",
+  "meaning": "short purpose outing",
+  "english": [
+    {
+      "id": "rzaqbsus",
+      "word": "trip",
+      "meaning": "short purpose outing",
+      "register": "colloquial",
+      "note": "Use this for a short trip made to accomplish a particular errand or purpose."
+    }
+  ],
   "traditional": "一轉",
   "jyutping": "jat1 zyun3",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "short purpose outing",
-      "english": [
-        {
-          "id": "rzaqbsus",
-          "word": "trip",
-          "meaning": "short purpose outing",
-          "register": "colloquial",
-          "note": "Use this for a short trip made to accomplish a particular errand or purpose."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "I'll make a quick trip to the convenience store later.",
-          "traditional": "我陣間去便利店一轉。",
-          "jyutping": "ngo5 zan6 gaan1 heoi3 bin6 lei6 dim3 jat1 zyun3"
-        }
-      ]
+      "english": "I'll make a quick trip to the convenience store later.",
+      "traditional": "我陣間去便利店一轉。",
+      "jyutping": "ngo5 zan6 gaan1 heoi3 bin6 lei6 dim3 jat1 zyun3"
     }
   ]
 }

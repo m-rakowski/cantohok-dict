@@ -1,28 +1,24 @@
 {
   "id": "swpipp32",
   "partOfSpeech": "prep",
+  "meaning": "recipient / target",
+  "english": [
+    {
+      "id": "kbqandbs",
+      "word": "to",
+      "meaning": "recipient / target",
+      "register": "colloquial",
+      "note": "Use 畀 + N for the recipient of a transfer, as in 畀本書佢."
+    }
+  ],
   "traditional": "畀 + N",
   "jyutping": "bei2 N",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "recipient / target",
-      "english": [
-        {
-          "id": "kbqandbs",
-          "word": "to",
-          "meaning": "recipient / target",
-          "register": "colloquial",
-          "note": "Use 畀 + N for the recipient of a transfer, as in 畀本書佢."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "I will give the document to you tomorrow.",
-          "traditional": "我聽日畀份文件你。",
-          "jyutping": "ngo5 ting1 jat6 bei2 fan6 man4 gin6 nei5"
-        }
-      ]
+      "english": "I will give the document to you tomorrow.",
+      "traditional": "我聽日畀份文件你。",
+      "jyutping": "ngo5 ting1 jat6 bei2 fan6 man4 gin6 nei5"
     }
   ]
 }

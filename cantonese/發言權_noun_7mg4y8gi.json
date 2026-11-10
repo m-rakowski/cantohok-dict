@@ -1,37 +1,33 @@
 {
   "id": "7mg4y8gi",
   "partOfSpeech": "noun",
+  "meaning": "right to have a say",
+  "english": [
+    {
+      "id": "zsdc70rk",
+      "word": "voice",
+      "meaning": "vote; expressed choice",
+      "note": "Use this when “voice” means the right or ability to express an opinion and have it considered, rather than a ballot."
+    },
+    {
+      "id": "7u1ti8n8",
+      "word": "say",
+      "meaning": "a say",
+      "note": "Use this when the focus is on having the right or opportunity to speak in a discussion or decision."
+    }
+  ],
   "traditional": "發言權",
   "jyutping": "faat3 jin4 kyun4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "right to have a say",
-      "english": [
-        {
-          "id": "zsdc70rk",
-          "word": "voice",
-          "meaning": "vote; expressed choice",
-          "note": "Use this when “voice” means the right or ability to express an opinion and have it considered, rather than a ballot."
-        },
-        {
-          "id": "7u1ti8n8",
-          "word": "say",
-          "meaning": "a say",
-          "note": "Use this when the focus is on having the right or opportunity to speak in a discussion or decision."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Those residents finally have a voice.",
-          "traditional": "嗰班街坊終於有發言權喇。",
-          "jyutping": "go2 baan1 gaai1 fong1 zung1 jyu1 jau5 faat3 jin4 kyun4 laa3"
-        },
-        {
-          "english": "At this meeting, everyone has the right to speak and have a say.",
-          "traditional": "今次開會，人人都有發言權。",
-          "jyutping": "gam1 ci3 hoi1 wui6 jan4 jan4 dou1 jau5 faat3 jin4 kyun4"
-        }
-      ]
+      "english": "Those residents finally have a voice.",
+      "traditional": "嗰班街坊終於有發言權喇。",
+      "jyutping": "go2 baan1 gaai1 fong1 zung1 jyu1 jau5 faat3 jin4 kyun4 laa3"
+    },
+    {
+      "english": "At this meeting, everyone has the right to speak and have a say.",
+      "traditional": "今次開會，人人都有發言權。",
+      "jyutping": "gam1 ci3 hoi1 wui6 jan4 jan4 dou1 jau5 faat3 jin4 kyun4"
     }
   ]
 }

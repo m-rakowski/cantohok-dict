@@ -1,26 +1,22 @@
 {
   "id": "h24kpgww",
   "partOfSpeech": "verb",
+  "meaning": "fail to hit",
+  "english": [
+    {
+      "id": "nxl5kezo",
+      "word": "miss",
+      "meaning": "fail to hit",
+      "note": "Use this physical-action pattern for failing to hit a target, as in 射唔中 or 打唔中."
+    }
+  ],
   "traditional": "V 唔中 A",
   "jyutping": "V m4 zung3 A",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "fail to hit",
-      "english": [
-        {
-          "id": "nxl5kezo",
-          "word": "miss",
-          "meaning": "fail to hit",
-          "note": "Use this physical-action pattern for failing to hit a target, as in 射唔中 or 打唔中."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I miss the target.",
-          "traditional": "我射唔中個靶。",
-          "jyutping": "ngo5 se6 m4 zung3 go3 baa2"
-        }
-      ]
+      "english": "I miss the target.",
+      "traditional": "我射唔中個靶。",
+      "jyutping": "ngo5 se6 m4 zung3 go3 baa2"
     }
   ]
 }

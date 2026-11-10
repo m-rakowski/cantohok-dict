@@ -1,28 +1,24 @@
 {
   "id": "4wcvlruc",
   "partOfSpeech": "verb",
+  "meaning": "move sideways; slant",
+  "english": [
+    {
+      "id": "8rdp96lw",
+      "word": "skew",
+      "meaning": "move sideways; slant",
+      "register": "colloquial",
+      "note": "Use this when an object lies or ends up slanting to one side."
+    }
+  ],
   "traditional": "A 歪咗一邊",
   "jyutping": "A waai1 zo2 jat1 bin1",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "move sideways; slant",
-      "english": [
-        {
-          "id": "8rdp96lw",
-          "word": "skew",
-          "meaning": "move sideways; slant",
-          "register": "colloquial",
-          "note": "Use this when an object lies or ends up slanting to one side."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "The uneven table made the glass skew to one side.",
-          "traditional": "張枱唔平，塊玻璃歪咗一邊。",
-          "jyutping": "zoeng1 ci4 m4 ping4 faai3 bo1 lei4 waai1 zo2 jat1 bin1"
-        }
-      ]
+      "english": "The uneven table made the glass skew to one side.",
+      "traditional": "張枱唔平，塊玻璃歪咗一邊。",
+      "jyutping": "zoeng1 ci4 m4 ping4 faai3 bo1 lei4 waai1 zo2 jat1 bin1"
     }
   ]
 }

@@ -1,37 +1,33 @@
 {
   "id": "qagweqyf",
   "partOfSpeech": "adv",
+  "meaning": "also, and moreover",
+  "english": [
+    {
+      "id": "xyd9fldx",
+      "word": "also",
+      "meaning": "in addition; too",
+      "note": "Use 又 for an additional parallel property or action, often in a repeated or paired pattern."
+    },
+    {
+      "id": "bb504j0u",
+      "word": "again",
+      "meaning": "in addition; likewise",
+      "note": "Use 又 when applying a previous point to another case or saying that something is also true."
+    }
+  ],
   "traditional": "又",
   "jyutping": "jau6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "also, and moreover",
-      "english": [
-        {
-          "id": "xyd9fldx",
-          "word": "also",
-          "meaning": "in addition; too",
-          "note": "Use 又 for an additional parallel property or action, often in a repeated or paired pattern."
-        },
-        {
-          "id": "bb504j0u",
-          "word": "again",
-          "meaning": "in addition; likewise",
-          "note": "Use 又 when applying a previous point to another case or saying that something is also true."
-        }
-      ],
-      "examples": [
-        {
-          "english": "They are fast and also clever.",
-          "traditional": "佢又快又醒。",
-          "jyutping": "keoi5 jau6 faai3 jau6 sing2"
-        },
-        {
-          "english": "He has to go to work, and I have to go to work again as well.",
-          "traditional": "佢要返工，我又要返工。",
-          "jyutping": "keoi5 jiu3 faan1 gung1 ngo5 jau6 jiu3 faan1 gung1"
-        }
-      ]
+      "english": "They are fast and also clever.",
+      "traditional": "佢又快又醒。",
+      "jyutping": "keoi5 jau6 faai3 jau6 sing2"
+    },
+    {
+      "english": "He has to go to work, and I have to go to work again as well.",
+      "traditional": "佢要返工，我又要返工。",
+      "jyutping": "keoi5 jiu3 faan1 gung1 ngo5 jau6 jiu3 faan1 gung1"
     }
   ]
 }

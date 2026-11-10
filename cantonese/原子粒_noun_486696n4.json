@@ -1,28 +1,24 @@
 {
   "id": "486696n4",
   "partOfSpeech": "noun",
+  "meaning": "semiconductor device",
+  "english": [
+    {
+      "id": "kja9j78l",
+      "word": "transistor",
+      "meaning": "semiconductor device",
+      "register": "colloquial",
+      "note": "Use this colloquial, older Hong Kong term in informal speech for the component."
+    }
+  ],
   "traditional": "原子粒",
   "jyutping": "jyun4 zi2 nap1",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "semiconductor device",
-      "english": [
-        {
-          "id": "kja9j78l",
-          "word": "transistor",
-          "meaning": "semiconductor device",
-          "register": "colloquial",
-          "note": "Use this colloquial, older Hong Kong term in informal speech for the component."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "When the transistor broke, the radio had no sound.",
-          "traditional": "原子粒壞咗，部收音機就冇聲。",
-          "jyutping": "jyun4 zi2 nap1 waai6 zo2 bou6 sau1 jam1 gei1 zau6 mou5 seng1"
-        }
-      ]
+      "english": "When the transistor broke, the radio had no sound.",
+      "traditional": "原子粒壞咗，部收音機就冇聲。",
+      "jyutping": "jyun4 zi2 nap1 waai6 zo2 bou6 sau1 jam1 gei1 zau6 mou5 seng1"
     }
   ]
 }

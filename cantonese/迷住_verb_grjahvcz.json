@@ -1,38 +1,34 @@
 {
   "id": "grjahvcz",
   "partOfSpeech": "verb",
+  "meaning": "captivate, fascinate",
+  "english": [
+    {
+      "id": "4ka0hypn",
+      "word": "fascinate",
+      "meaning": "attract interest",
+      "register": "colloquial",
+      "note": "Use this when someone is strongly captivated or enchanted by something."
+    },
+    {
+      "id": "p3tcbjrj",
+      "word": "spell",
+      "meaning": "bewitch, fascinate",
+      "note": "Use this when someone or something fascinates or bewitches a person and holds their attention."
+    }
+  ],
   "traditional": "迷住",
   "jyutping": "mai4 zyu6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "captivate, fascinate",
-      "english": [
-        {
-          "id": "4ka0hypn",
-          "word": "fascinate",
-          "meaning": "attract interest",
-          "register": "colloquial",
-          "note": "Use this when someone is strongly captivated or enchanted by something."
-        },
-        {
-          "id": "p3tcbjrj",
-          "word": "spell",
-          "meaning": "bewitch, fascinate",
-          "note": "Use this when someone or something fascinates or bewitches a person and holds their attention."
-        }
-      ],
-      "examples": [
-        {
-          "english": "That cat can fascinate everyone in the room.",
-          "traditional": "嗰隻貓一出場就迷住晒全場嘅人。",
-          "jyutping": "go2 zek3 maau1 jat1 ceot1 coeng4 zau6 mai4 zyu6 saai3 cyun4 coeng4 ge3 jan4"
-        },
-        {
-          "english": "This movie really has me under a spell.",
-          "traditional": "呢套戲真係迷住咗我。",
-          "jyutping": "ni1 tou3 hei3 zan1 hai6 mai4 zyu6 zo2 ngo5"
-        }
-      ]
+      "english": "That cat can fascinate everyone in the room.",
+      "traditional": "嗰隻貓一出場就迷住晒全場嘅人。",
+      "jyutping": "go2 zek3 maau1 jat1 ceot1 coeng4 zau6 mai4 zyu6 saai3 cyun4 coeng4 ge3 jan4"
+    },
+    {
+      "english": "This movie really has me under a spell.",
+      "traditional": "呢套戲真係迷住咗我。",
+      "jyutping": "ni1 tou3 hei3 zan1 hai6 mai4 zyu6 zo2 ngo5"
     }
   ]
 }

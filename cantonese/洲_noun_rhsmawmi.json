@@ -1,26 +1,22 @@
 {
   "id": "rhsmawmi",
   "partOfSpeech": "noun",
+  "meaning": "main landmass",
+  "english": [
+    {
+      "id": "v1evk1aj",
+      "word": "continent",
+      "meaning": "main landmass",
+      "note": "Use this mainly in geographic names and compounds such as 亞洲 or 歐洲, rather than as the default standalone word."
+    }
+  ],
   "traditional": "洲",
   "jyutping": "zau1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "main landmass",
-      "english": [
-        {
-          "id": "v1evk1aj",
-          "word": "continent",
-          "meaning": "main landmass",
-          "note": "Use this mainly in geographic names and compounds such as 亞洲 or 歐洲, rather than as the default standalone word."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Asia is the largest continent in the world.",
-          "traditional": "亞洲係世界上最大嘅洲。",
-          "jyutping": "aa3 zau1 hai6 sai3 gaai3 soeng6 zeoi3 daai6 ge3 zau1"
-        }
-      ]
+      "english": "Asia is the largest continent in the world.",
+      "traditional": "亞洲係世界上最大嘅洲。",
+      "jyutping": "aa3 zau1 hai6 sai3 gaai3 soeng6 zeoi3 daai6 ge3 zau1"
     }
   ]
 }

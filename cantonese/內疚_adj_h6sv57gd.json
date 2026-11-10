@@ -1,37 +1,33 @@
 {
   "id": "h6sv57gd",
   "partOfSpeech": "adj",
+  "meaning": "feeling guilty",
+  "english": [
+    {
+      "id": "wj6jd4ia",
+      "word": "remorseful",
+      "meaning": "feeling remorse",
+      "note": "This is the all-purpose choice for describing someone who feels guilty and remorseful about what they did."
+    },
+    {
+      "id": "hecme31x",
+      "word": "guilty",
+      "meaning": "feeling guilt",
+      "note": "Use this for an inward feeling of guilt or remorse, especially a guilty conscience."
+    }
+  ],
   "traditional": "內疚",
   "jyutping": "noi6 gau3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "feeling guilty",
-      "english": [
-        {
-          "id": "wj6jd4ia",
-          "word": "remorseful",
-          "meaning": "feeling remorse",
-          "note": "This is the all-purpose choice for describing someone who feels guilty and remorseful about what they did."
-        },
-        {
-          "id": "hecme31x",
-          "word": "guilty",
-          "meaning": "feeling guilt",
-          "note": "Use this for an inward feeling of guilt or remorse, especially a guilty conscience."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I still feel remorseful whenever I think about that.",
-          "traditional": "我到而家諗起嗰件事都仲覺得好內疚。",
-          "jyutping": "ngo5 dou3 ji4 gaa1 nam2 hei2 go2 gin6 si6 dou1 zung6 gok3 dak1 hou2 noi6 gau3"
-        },
-        {
-          "english": "I still feel guilty about that.",
-          "traditional": "我到而家仲對嗰件事好內疚。",
-          "jyutping": "ngo5 dou3 ji4 gaa1 zung6 deoi3 go2 gin6 si6 hou2 noi6 gau3"
-        }
-      ]
+      "english": "I still feel remorseful whenever I think about that.",
+      "traditional": "我到而家諗起嗰件事都仲覺得好內疚。",
+      "jyutping": "ngo5 dou3 ji4 gaa1 nam2 hei2 go2 gin6 si6 dou1 zung6 gok3 dak1 hou2 noi6 gau3"
+    },
+    {
+      "english": "I still feel guilty about that.",
+      "traditional": "我到而家仲對嗰件事好內疚。",
+      "jyutping": "ngo5 dou3 ji4 gaa1 zung6 deoi3 go2 gin6 si6 hou2 noi6 gau3"
     }
   ]
 }

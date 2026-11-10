@@ -1,26 +1,22 @@
 {
   "id": "40nlfpys",
   "partOfSpeech": "noun",
+  "meaning": "position fix",
+  "english": [
+    {
+      "id": "lsqyf5x8",
+      "word": "fix",
+      "meaning": "position fix",
+      "note": "Use this in navigation, tracking, or other technical contexts for determining a location."
+    }
+  ],
   "traditional": "定位",
   "jyutping": "ding6 wai6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "position fix",
-      "english": [
-        {
-          "id": "lsqyf5x8",
-          "word": "fix",
-          "meaning": "position fix",
-          "note": "Use this in navigation, tracking, or other technical contexts for determining a location."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The phone is out of battery, so it can’t fix our location.",
-          "traditional": "部手機冇電，做唔到定位。",
-          "jyutping": "bou6 sau2 gei1 mou5 din6 zou6 m4 dou2 ding6 wai6"
-        }
-      ]
+      "english": "The phone is out of battery, so it can’t fix our location.",
+      "traditional": "部手機冇電，做唔到定位。",
+      "jyutping": "bou6 sau2 gei1 mou5 din6 zou6 m4 dou2 ding6 wai6"
     }
   ]
 }

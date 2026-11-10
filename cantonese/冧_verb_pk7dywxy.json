@@ -1,28 +1,24 @@
 {
   "id": "pk7dywxy",
   "partOfSpeech": "verb",
+  "meaning": "fall over",
+  "english": [
+    {
+      "id": "iln71the",
+      "word": "topple",
+      "meaning": "fall over",
+      "register": "colloquial",
+      "note": "Use this when an object or pile topples or collapses by itself."
+    }
+  ],
   "traditional": "冧",
   "jyutping": "lam3",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "fall over",
-      "english": [
-        {
-          "id": "iln71the",
-          "word": "topple",
-          "meaning": "fall over",
-          "register": "colloquial",
-          "note": "Use this when an object or pile topples or collapses by itself."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "The stack of books could topple over at any moment.",
-          "traditional": "疊書擺得唔穩，隨時會冧晒。",
-          "jyutping": "dip6 syu1 baai2 dak1 m4 wan2 ceoi4 si4 wui5 lam3 saai3"
-        }
-      ]
+      "english": "The stack of books could topple over at any moment.",
+      "traditional": "疊書擺得唔穩，隨時會冧晒。",
+      "jyutping": "dip6 syu1 baai2 dak1 m4 wan2 ceoi4 si4 wui5 lam3 saai3"
     }
   ]
 }

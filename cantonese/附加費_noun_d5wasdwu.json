@@ -1,37 +1,33 @@
 {
   "id": "d5wasdwu",
   "partOfSpeech": "noun",
+  "meaning": "surcharge, extra fee",
+  "english": [
+    {
+      "id": "xkzcs8qx",
+      "word": "extra",
+      "meaning": "something additional",
+      "note": "Use this specifically when the extra is an additional charge on a bill."
+    },
+    {
+      "id": "817wa9r7",
+      "word": "fee",
+      "meaning": "charge for privilege",
+      "note": "Use this when the fee is an extra surcharge added because of a privilege, special condition, or service."
+    }
+  ],
   "traditional": "附加費",
   "jyutping": "fu6 gaa1 fai3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "surcharge, extra fee",
-      "english": [
-        {
-          "id": "xkzcs8qx",
-          "word": "extra",
-          "meaning": "something additional",
-          "note": "Use this specifically when the extra is an additional charge on a bill."
-        },
-        {
-          "id": "817wa9r7",
-          "word": "fee",
-          "meaning": "charge for privilege",
-          "note": "Use this when the fee is an extra surcharge added because of a privilege, special condition, or service."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Why is there an extra charge on the bill?",
-          "traditional": "張單點解有附加費㗎？",
-          "jyutping": "zoeng1 daan1 dim2 gaai2 jau5 fu6 gaa1 fai3 gaa3"
-        },
-        {
-          "english": "There is an additional fee for nighttime delivery.",
-          "traditional": "夜間送貨要收附加費㗎。",
-          "jyutping": "je6 gaan1 sung3 fo3 jiu3 sau1 fu6 gaa1 fai3 gaa3"
-        }
-      ]
+      "english": "Why is there an extra charge on the bill?",
+      "traditional": "張單點解有附加費㗎？",
+      "jyutping": "zoeng1 daan1 dim2 gaai2 jau5 fu6 gaa1 fai3 gaa3"
+    },
+    {
+      "english": "There is an additional fee for nighttime delivery.",
+      "traditional": "夜間送貨要收附加費㗎。",
+      "jyutping": "je6 gaan1 sung3 fo3 jiu3 sau1 fu6 gaa1 fai3 gaa3"
     }
   ]
 }

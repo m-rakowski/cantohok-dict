@@ -1,40 +1,36 @@
 {
   "id": "9ulrplwj",
   "partOfSpeech": "adj",
+  "meaning": "nationwide",
+  "english": [
+    {
+      "id": "gm61mf0w",
+      "word": "countrywide",
+      "meaning": "throughout a country",
+      "register": "formal",
+      "note": "Use this as the all-purpose adjective for something extending throughout an entire country."
+    },
+    {
+      "id": "26m9fzrd",
+      "word": "nationwide",
+      "meaning": "across the whole country",
+      "register": "formal",
+      "note": "Use this more formal adjective when explicitly describing an event, issue, or organization as national in scope."
+    }
+  ],
   "traditional": "全國性",
   "jyutping": "cyun4 gwok3 sing3",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "nationwide",
-      "english": [
-        {
-          "id": "gm61mf0w",
-          "word": "countrywide",
-          "meaning": "throughout a country",
-          "register": "formal",
-          "note": "Use this as the all-purpose adjective for something extending throughout an entire country."
-        },
-        {
-          "id": "26m9fzrd",
-          "word": "nationwide",
-          "meaning": "across the whole country",
-          "register": "formal",
-          "note": "Use this more formal adjective when explicitly describing an event, issue, or organization as national in scope."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "This is a countrywide reform that will be rolled out across all the provinces at the same time.",
-          "traditional": "呢項改革係全國性嘅，會喺各省同步推行。",
-          "jyutping": "ni1 hong6 goi2 gaak3 hai6 cyun4 gwok3 sing3 ge3 wui5 hai2 gok3 saang2 tung4 bou6 teoi1 hang4"
-        },
-        {
-          "english": "This is a nationwide public-welfare event.",
-          "traditional": "呢個係一場全國性嘅公益活動。",
-          "jyutping": "nei1 go3 hai6 jat1 coeng4 cyun4 gwok3 sing3 ge3 gung1 jik1 wut6 dung6"
-        }
-      ]
+      "english": "This is a countrywide reform that will be rolled out across all the provinces at the same time.",
+      "traditional": "呢項改革係全國性嘅，會喺各省同步推行。",
+      "jyutping": "ni1 hong6 goi2 gaak3 hai6 cyun4 gwok3 sing3 ge3 wui5 hai2 gok3 saang2 tung4 bou6 teoi1 hang4"
+    },
+    {
+      "english": "This is a nationwide public-welfare event.",
+      "traditional": "呢個係一場全國性嘅公益活動。",
+      "jyutping": "nei1 go3 hai6 jat1 coeng4 cyun4 gwok3 sing3 ge3 gung1 jik1 wut6 dung6"
     }
   ]
 }

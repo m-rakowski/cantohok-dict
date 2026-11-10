@@ -1,28 +1,24 @@
 {
   "id": "gvlumber",
   "partOfSpeech": "noun",
+  "meaning": "new resident / colonist",
+  "english": [
+    {
+      "id": "u0v8b0sc",
+      "word": "settler",
+      "meaning": "new resident / colonist",
+      "register": "written",
+      "note": "Use this for a pioneer who opens up and settles previously undeveloped or uninhabited land, rather than for an ordinary new resident."
+    }
+  ],
   "traditional": "拓荒者",
   "jyutping": "tok3 fong1 ze2",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "new resident / colonist",
-      "english": [
-        {
-          "id": "u0v8b0sc",
-          "word": "settler",
-          "meaning": "new resident / colonist",
-          "register": "written",
-          "note": "Use this for a pioneer who opens up and settles previously undeveloped or uninhabited land, rather than for an ordinary new resident."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "The settler opened up a patch of wilderness.",
-          "traditional": "拓荒者開闢咗一片荒地。",
-          "jyutping": "tok3 fong1 ze2 hoi1 pik1 zo2 jat1 pin3 fong1 dei6"
-        }
-      ]
+      "english": "The settler opened up a patch of wilderness.",
+      "traditional": "拓荒者開闢咗一片荒地。",
+      "jyutping": "tok3 fong1 ze2 hoi1 pik1 zo2 jat1 pin3 fong1 dei6"
     }
   ]
 }

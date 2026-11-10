@@ -1,28 +1,24 @@
 {
   "id": "i4k02m78",
   "partOfSpeech": "noun",
+  "meaning": "science of weather",
+  "english": [
+    {
+      "id": "bre35dnl",
+      "word": "meteorology",
+      "meaning": "science of weather",
+      "register": "formal",
+      "note": "This is the all-purpose term for the science of weather and atmospheric phenomena."
+    }
+  ],
   "traditional": "氣象學",
   "jyutping": "hei3 zoeng6 hok6",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "science of weather",
-      "english": [
-        {
-          "id": "bre35dnl",
-          "word": "meteorology",
-          "meaning": "science of weather",
-          "register": "formal",
-          "note": "This is the all-purpose term for the science of weather and atmospheric phenomena."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "I’m studying meteorology because I want to work in weather forecasting someday.",
-          "traditional": "我讀緊氣象學，想將來做天氣預報。",
-          "jyutping": "ngo5 duk6 gan2 hei3 zoeng6 hok6 soeng2 zoeng1 loi4 zou6 tin1 hei3 jyu6 bou3"
-        }
-      ]
+      "english": "I’m studying meteorology because I want to work in weather forecasting someday.",
+      "traditional": "我讀緊氣象學，想將來做天氣預報。",
+      "jyutping": "ngo5 duk6 gan2 hei3 zoeng6 hok6 soeng2 zoeng1 loi4 zou6 tin1 hei3 jyu6 bou3"
     }
   ]
 }

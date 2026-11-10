@@ -1,28 +1,24 @@
 {
   "id": "oj8cqdy9",
   "partOfSpeech": "noun",
+  "meaning": "predetermined fate",
+  "english": [
+    {
+      "id": "e50qya0i",
+      "word": "destiny",
+      "meaning": "predetermined fate",
+      "register": "written",
+      "note": "Use this when the destiny is specifically understood as ordained by Heaven or a divine power."
+    }
+  ],
   "traditional": "天命",
   "jyutping": "tin1 ming6",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "predetermined fate",
-      "english": [
-        {
-          "id": "e50qya0i",
-          "word": "destiny",
-          "meaning": "predetermined fate",
-          "register": "written",
-          "note": "Use this when the destiny is specifically understood as ordained by Heaven or a divine power."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "Ancient people believed an emperor's accession was ordained by Heaven, his destiny.",
-          "traditional": "古人相信皇帝登基係天命所歸。",
-          "jyutping": "gu2 jan4 soeng1 seon3 wong4 dai3 dang1 gei1 hai6 tin1 ming6 so2 gwai1"
-        }
-      ]
+      "english": "Ancient people believed an emperor's accession was ordained by Heaven, his destiny.",
+      "traditional": "古人相信皇帝登基係天命所歸。",
+      "jyutping": "gu2 jan4 soeng1 seon3 wong4 dai3 dang1 gei1 hai6 tin1 ming6 so2 gwai1"
     }
   ]
 }

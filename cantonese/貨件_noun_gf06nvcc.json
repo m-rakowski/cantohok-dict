@@ -1,26 +1,22 @@
 {
   "id": "gf06nvcc",
   "partOfSpeech": "noun",
+  "meaning": "goods shipment",
+  "english": [
+    {
+      "id": "fexfz0vc",
+      "word": "consignment",
+      "meaning": "goods shipment",
+      "note": "This is the all-purpose logistics term for a consignment of goods being sent or in transit."
+    }
+  ],
   "traditional": "貨件",
   "jyutping": "fo3 gin2",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "goods shipment",
-      "english": [
-        {
-          "id": "fexfz0vc",
-          "word": "consignment",
-          "meaning": "goods shipment",
-          "note": "This is the all-purpose logistics term for a consignment of goods being sent or in transit."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This consignment has already been sent and should arrive tomorrow.",
-          "traditional": "呢批貨件已經寄出，聽日應該送到。",
-          "jyutping": "ni1 pai1 fo3 gin2 ji5 ging1 gei3 ceot1 ting1 jat6 jing1 goi1 sung3 dou3"
-        }
-      ]
+      "english": "This consignment has already been sent and should arrive tomorrow.",
+      "traditional": "呢批貨件已經寄出，聽日應該送到。",
+      "jyutping": "ni1 pai1 fo3 gin2 ji5 ging1 gei3 ceot1 ting1 jat6 jing1 goi1 sung3 dou3"
     }
   ]
 }

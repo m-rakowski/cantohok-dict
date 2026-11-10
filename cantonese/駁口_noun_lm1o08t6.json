@@ -1,28 +1,24 @@
 {
   "id": "lm1o08t6",
   "partOfSpeech": "noun",
+  "meaning": "fixed connection",
+  "english": [
+    {
+      "id": "n8e654yo",
+      "word": "joint",
+      "meaning": "fixed connection",
+      "register": "colloquial",
+      "note": "Use this for a fixed structural connection, especially where pipes or other components are joined together."
+    }
+  ],
   "traditional": "駁口",
   "jyutping": "bok3 hau2",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "fixed connection",
-      "english": [
-        {
-          "id": "n8e654yo",
-          "word": "joint",
-          "meaning": "fixed connection",
-          "register": "colloquial",
-          "note": "Use this for a fixed structural connection, especially where pipes or other components are joined together."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "This pipe joint is leaking.",
-          "traditional": "呢個水喉駁口漏水。",
-          "jyutping": "ni1 go3 seoi2 hau4 bok3 hau2 lau6 seoi2"
-        }
-      ]
+      "english": "This pipe joint is leaking.",
+      "traditional": "呢個水喉駁口漏水。",
+      "jyutping": "ni1 go3 seoi2 hau4 bok3 hau2 lau6 seoi2"
     }
   ]
 }

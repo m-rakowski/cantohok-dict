@@ -1,37 +1,33 @@
 {
   "id": "iloiontw",
   "partOfSpeech": "noun",
+  "meaning": "stubborn old person",
+  "english": [
+    {
+      "id": "110fx23l",
+      "word": "buzzard",
+      "meaning": "cantankerous old man",
+      "note": "Use this only for the North American insulting sense of a cantankerous, stubborn old man, not for either bird."
+    },
+    {
+      "id": "tpc0f1a7",
+      "word": "dinosaur",
+      "meaning": "old-fashioned person",
+      "note": "Use this specifically for an old-fashioned person who stubbornly refuses to change, rather than a general old-fashioned person or thing."
+    }
+  ],
   "traditional": "老頑固",
   "jyutping": "lou5 waan4 gu3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "stubborn old person",
-      "english": [
-        {
-          "id": "110fx23l",
-          "word": "buzzard",
-          "meaning": "cantankerous old man",
-          "note": "Use this only for the North American insulting sense of a cantankerous, stubborn old man, not for either bird."
-        },
-        {
-          "id": "tpc0f1a7",
-          "word": "dinosaur",
-          "meaning": "old-fashioned person",
-          "note": "Use this specifically for an old-fashioned person who stubbornly refuses to change, rather than a general old-fashioned person or thing."
-        }
-      ],
-      "examples": [
-        {
-          "english": "That old buzzard is being stubborn again.",
-          "traditional": "嗰個老頑固又唔肯聽人勸喇。",
-          "jyutping": "go2 go3 lou5 waan4 gu3 jau6 m4 hang2 teng1 jan4 hyun3 laa3"
-        },
-        {
-          "english": "My uncle is a dinosaur and refuses to switch to electronic payments.",
-          "traditional": "我叔叔係個老頑固，點講都唔肯轉用電子支付。",
-          "jyutping": "ngo5 suk1 suk1 hai6 go3 lou5 waan4 gu3 dim2 gong2 dou1 m4 hang2 zyun2 jung6 din6 zi2 zi1 fu6"
-        }
-      ]
+      "english": "That old buzzard is being stubborn again.",
+      "traditional": "嗰個老頑固又唔肯聽人勸喇。",
+      "jyutping": "go2 go3 lou5 waan4 gu3 jau6 m4 hang2 teng1 jan4 hyun3 laa3"
+    },
+    {
+      "english": "My uncle is a dinosaur and refuses to switch to electronic payments.",
+      "traditional": "我叔叔係個老頑固，點講都唔肯轉用電子支付。",
+      "jyutping": "ngo5 suk1 suk1 hai6 go3 lou5 waan4 gu3 dim2 gong2 dou1 m4 hang2 zyun2 jung6 din6 zi2 zi1 fu6"
     }
   ]
 }

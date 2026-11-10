@@ -1,37 +1,33 @@
 {
   "id": "umcx9bly",
   "partOfSpeech": "noun",
+  "meaning": "prime minister, head of government",
+  "english": [
+    {
+      "id": "1zgvsavk",
+      "word": "chancellor",
+      "meaning": "head of government",
+      "note": "Use this for the head of government in a German-speaking country, rather than for an ordinary government minister."
+    },
+    {
+      "id": "vyhlawpd",
+      "word": "prime minister",
+      "meaning": "head of government",
+      "note": "Use 總理 especially for the Chinese premier and for prime ministers of many republics."
+    }
+  ],
   "traditional": "總理",
   "jyutping": "zung2 lei5",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "prime minister, head of government",
-      "english": [
-        {
-          "id": "1zgvsavk",
-          "word": "chancellor",
-          "meaning": "head of government",
-          "note": "Use this for the head of government in a German-speaking country, rather than for an ordinary government minister."
-        },
-        {
-          "id": "vyhlawpd",
-          "word": "prime minister",
-          "meaning": "head of government",
-          "note": "Use 總理 especially for the Chinese premier and for prime ministers of many republics."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The German chancellor is visiting Hong Kong today.",
-          "traditional": "德國總理今日訪港。",
-          "jyutping": "dak1 gwok3 zung2 lei5 gam1 jat6 fong2 gong2"
-        },
-        {
-          "english": "Chinese prime minister Li Qiang announced a new policy at the press conference.",
-          "traditional": "總理",
-          "jyutping": "zung2 lei5"
-        }
-      ]
+      "english": "The German chancellor is visiting Hong Kong today.",
+      "traditional": "德國總理今日訪港。",
+      "jyutping": "dak1 gwok3 zung2 lei5 gam1 jat6 fong2 gong2"
+    },
+    {
+      "english": "Chinese prime minister Li Qiang announced a new policy at the press conference.",
+      "traditional": "總理",
+      "jyutping": "zung2 lei5"
     }
   ]
 }

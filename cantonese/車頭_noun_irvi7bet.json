@@ -1,28 +1,24 @@
 {
   "id": "irvi7bet",
   "partOfSpeech": "noun",
+  "meaning": "truck/train driver compartment",
+  "english": [
+    {
+      "id": "6z63cooo",
+      "word": "cab",
+      "meaning": "truck/train driver compartment",
+      "register": "colloquial",
+      "note": "Use this colloquial term for the cab or front section of a truck, not normally for a train cab."
+    }
+  ],
   "traditional": "車頭",
   "jyutping": "ce1 tau4",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "truck/train driver compartment",
-      "english": [
-        {
-          "id": "6z63cooo",
-          "word": "cab",
-          "meaning": "truck/train driver compartment",
-          "register": "colloquial",
-          "note": "Use this colloquial term for the cab or front section of a truck, not normally for a train cab."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "The driver is sitting in the cab of the truck.",
-          "traditional": "個司機坐喺貨車車頭。",
-          "jyutping": "go3 si1 gei1 co5 hai2 fo3 ce1 ce1 tau4"
-        }
-      ]
+      "english": "The driver is sitting in the cab of the truck.",
+      "traditional": "個司機坐喺貨車車頭。",
+      "jyutping": "go3 si1 gei1 co5 hai2 fo3 ce1 ce1 tau4"
     }
   ]
 }

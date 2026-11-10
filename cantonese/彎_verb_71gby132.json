@@ -1,37 +1,33 @@
 {
   "id": "71gby132",
   "partOfSpeech": "verb",
+  "meaning": "bend, curve",
+  "english": [
+    {
+      "id": "bo9ecqdc",
+      "word": "bow",
+      "meaning": "bend or curve",
+      "note": "Use this for something physically bending or curving, especially when it sags downward under weight."
+    },
+    {
+      "id": "qwq43dcx",
+      "word": "bend",
+      "meaning": "become curved",
+      "note": "Use 彎 when something becomes curved or is described as having curved."
+    }
+  ],
   "traditional": "彎",
   "jyutping": "waan1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "bend, curve",
-      "english": [
-        {
-          "id": "bo9ecqdc",
-          "word": "bow",
-          "meaning": "bend or curve",
-          "note": "Use this for something physically bending or curving, especially when it sags downward under weight."
-        },
-        {
-          "id": "qwq43dcx",
-          "word": "bend",
-          "meaning": "become curved",
-          "note": "Use 彎 when something becomes curved or is described as having curved."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This shelf will bow downward with so much stuff on it.",
-          "traditional": "呢個層架擺得太多嘢，會向下彎。",
-          "jyutping": "ni1 go3 cang4 gaa3 baai2 dak1 taai3 do1 je5 wui5 hoeng3 haa6 waan1"
-        },
-        {
-          "english": "It is easy to bend this wire.",
-          "traditional": "呢條鐵線好容易彎。",
-          "jyutping": "ni1 tiu4 tit3 sin3 hou2 jung4 ji6 waan1"
-        }
-      ]
+      "english": "This shelf will bow downward with so much stuff on it.",
+      "traditional": "呢個層架擺得太多嘢，會向下彎。",
+      "jyutping": "ni1 go3 cang4 gaa3 baai2 dak1 taai3 do1 je5 wui5 hoeng3 haa6 waan1"
+    },
+    {
+      "english": "It is easy to bend this wire.",
+      "traditional": "呢條鐵線好容易彎。",
+      "jyutping": "ni1 tiu4 tit3 sin3 hou2 jung4 ji6 waan1"
     }
   ]
 }

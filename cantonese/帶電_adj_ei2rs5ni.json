@@ -1,37 +1,33 @@
 {
   "id": "ei2rs5ni",
   "partOfSpeech": "adj",
+  "meaning": "electrically live",
+  "english": [
+    {
+      "id": "i3aytnwy",
+      "word": "live",
+      "meaning": "electrically charged",
+      "note": "Use this specifically for a wire or other object that is electrically live and dangerous to touch."
+    },
+    {
+      "id": "nxij3clg",
+      "word": "alive",
+      "meaning": "electrified; live",
+      "note": "Use this specifically for a wire or device that is carrying an electrical current."
+    }
+  ],
   "traditional": "帶電",
   "jyutping": "daai3 din6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "electrically live",
-      "english": [
-        {
-          "id": "i3aytnwy",
-          "word": "live",
-          "meaning": "electrically charged",
-          "note": "Use this specifically for a wire or other object that is electrically live and dangerous to touch."
-        },
-        {
-          "id": "nxij3clg",
-          "word": "alive",
-          "meaning": "electrified; live",
-          "note": "Use this specifically for a wire or device that is carrying an electrical current."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This wire is still live, so don't touch it.",
-          "traditional": "呢條電線仲帶電，唔好掂。",
-          "jyutping": "ni1 tiu4 din6 sin3 zung6 daai3 din6 m4 hou2 dim3"
-        },
-        {
-          "english": "Be careful, that wire is still alive.",
-          "traditional": "小心，條電線仲帶電。",
-          "jyutping": "siu2 sam1 tiu4 din6 sin3 zung6 daai3 din6"
-        }
-      ]
+      "english": "This wire is still live, so don't touch it.",
+      "traditional": "呢條電線仲帶電，唔好掂。",
+      "jyutping": "ni1 tiu4 din6 sin3 zung6 daai3 din6 m4 hou2 dim3"
+    },
+    {
+      "english": "Be careful, that wire is still alive.",
+      "traditional": "小心，條電線仲帶電。",
+      "jyutping": "siu2 sam1 tiu4 din6 sin3 zung6 daai3 din6"
     }
   ]
 }

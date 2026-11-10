@@ -1,46 +1,24 @@
 {
   "id": "hioozzd9",
   "partOfSpeech": "adj",
+  "meaning": "playing favourites, biased",
+  "english": [
+    {
+      "id": "mx1khp1g",
+      "word": "partial",
+      "meaning": "biased, unfair",
+      "register": "colloquial",
+      "note": "Use this when someone unfairly favors a particular person or side, especially in a dispute or competition."
+    }
+  ],
   "traditional": "偏心",
   "jyutping": "pin1 sam1",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "playing favourites, biased",
-      "english": [
-        {
-          "id": "mx1khp1g",
-          "word": "partial",
-          "meaning": "biased, unfair",
-          "register": "colloquial",
-          "note": "Use this when someone unfairly favors a particular person or side, especially in a dispute or competition."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "Mum is always partial to my younger brother.",
-          "traditional": "阿媽成日偏心細佬。",
-          "jyutping": "aa3 maa1 seng4 jat6 pin1 sam1 sai3 lou2"
-        }
-      ]
-    },
-    {
-      "meaning": "off-centre (technical)",
-      "english": [
-        {
-          "id": "942uyd31",
-          "word": "eccentric",
-          "meaning": "not concentric",
-          "note": "Use this in geometry or engineering when an object or centre is offset rather than aligned."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This shaft is slightly eccentric, so it vibrates when it turns.",
-          "traditional": "呢條軸心有啲偏心，轉起上嚟會震。",
-          "jyutping": "ne1 tiu4 zuk6 sam1 jau5 di1 pin1 sam1 zyun2 hei2 soeng5 lai4 wui5 zan3"
-        }
-      ]
+      "english": "Mum is always partial to my younger brother.",
+      "traditional": "阿媽成日偏心細佬。",
+      "jyutping": "aa3 maa1 seng4 jat6 pin1 sam1 sai3 lou2"
     }
   ]
 }

@@ -1,26 +1,22 @@
 {
   "id": "9oge4pos",
   "partOfSpeech": "adv",
+  "meaning": "nearest following",
+  "english": [
+    {
+      "id": "dxn7xc56",
+      "word": "next",
+      "meaning": "nearest following",
+      "note": "Use this for the next item, person, or position in an ordered sequence, not for the next occasion."
+    }
+  ],
   "traditional": "下一個",
   "jyutping": "haa6 jat1 go3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "nearest following",
-      "english": [
-        {
-          "id": "dxn7xc56",
-          "word": "next",
-          "meaning": "nearest following",
-          "note": "Use this for the next item, person, or position in an ordered sequence, not for the next occasion."
-        }
-      ],
-      "examples": [
-        {
-          "english": "What’s the next question?",
-          "traditional": "下一個問題係乜嘢？",
-          "jyutping": "haa6 jat1 go3 man6 tai4 hai6 mat1 je5"
-        }
-      ]
+      "english": "What’s the next question?",
+      "traditional": "下一個問題係乜嘢？",
+      "jyutping": "haa6 jat1 go3 man6 tai4 hai6 mat1 je5"
     }
   ]
 }

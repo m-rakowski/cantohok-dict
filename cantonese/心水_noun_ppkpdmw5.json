@@ -1,38 +1,34 @@
 {
   "id": "ppkpdmw5",
   "partOfSpeech": "noun",
+  "meaning": "personal favourite",
+  "english": [
+    {
+      "id": "mtpjlnmj",
+      "word": "darling",
+      "meaning": "favourite",
+      "register": "colloquial",
+      "note": "Use this for a favourite choice or thing, especially when saying it is one of your personal picks."
+    },
+    {
+      "id": "nnjuvzw8",
+      "word": "jam",
+      "meaning": "my thing; favorite",
+      "note": "Use this for a person or thing that is someone’s particular favorite or preference."
+    }
+  ],
   "traditional": "心水",
   "jyutping": "sam1 seoi2",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "personal favourite",
-      "english": [
-        {
-          "id": "mtpjlnmj",
-          "word": "darling",
-          "meaning": "favourite",
-          "register": "colloquial",
-          "note": "Use this for a favourite choice or thing, especially when saying it is one of your personal picks."
-        },
-        {
-          "id": "nnjuvzw8",
-          "word": "jam",
-          "meaning": "my thing; favorite",
-          "note": "Use this for a person or thing that is someone’s particular favorite or preference."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This film is a darling of mine.",
-          "traditional": "呢套戲係我嘅心水。",
-          "jyutping": "nei1 tou3 hei3 hai6 ngo5 ge3 sam1 seoi2"
-        },
-        {
-          "english": "This restaurant is my jam.",
-          "traditional": "呢間餐廳係我心水。",
-          "jyutping": "nei1 gaan1 caan1 teng1 hai6 ngo5 sam1 seoi2"
-        }
-      ]
+      "english": "This film is a darling of mine.",
+      "traditional": "呢套戲係我嘅心水。",
+      "jyutping": "nei1 tou3 hei3 hai6 ngo5 ge3 sam1 seoi2"
+    },
+    {
+      "english": "This restaurant is my jam.",
+      "traditional": "呢間餐廳係我心水。",
+      "jyutping": "nei1 gaan1 caan1 teng1 hai6 ngo5 sam1 seoi2"
     }
   ]
 }

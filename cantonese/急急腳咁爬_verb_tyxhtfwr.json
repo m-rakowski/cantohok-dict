@@ -1,28 +1,24 @@
 {
   "id": "tyxhtfwr",
   "partOfSpeech": "verb",
+  "meaning": "move quickly, clamber",
+  "english": [
+    {
+      "id": "a9wetjvb",
+      "word": "scramble",
+      "meaning": "move quickly, clamber",
+      "register": "colloquial",
+      "note": "Use this when someone hurries to a place by crawling or clambering with their limbs, rather than simply walking quickly."
+    }
+  ],
   "traditional": "急急腳咁爬",
   "jyutping": "gap1 gap1 goek3 gam3 paa4",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "move quickly, clamber",
-      "english": [
-        {
-          "id": "a9wetjvb",
-          "word": "scramble",
-          "meaning": "move quickly, clamber",
-          "register": "colloquial",
-          "note": "Use this when someone hurries to a place by crawling or clambering with their limbs, rather than simply walking quickly."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "The cat had to scramble up to the windowsill when it saw the dog.",
-          "traditional": "隻貓見到狗，就急急腳咁爬上窗台。",
-          "jyutping": "zek3 maau1 gin3 dou2 gau2 zau6 gap1 gap1 goek3 gam3 paa4 soeng5 coeng1 toi1"
-        }
-      ]
+      "english": "The cat had to scramble up to the windowsill when it saw the dog.",
+      "traditional": "隻貓見到狗，就急急腳咁爬上窗台。",
+      "jyutping": "zek3 maau1 gin3 dou2 gau2 zau6 gap1 gap1 goek3 gam3 paa4 soeng5 coeng1 toi1"
     }
   ]
 }

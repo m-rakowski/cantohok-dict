@@ -1,28 +1,24 @@
 {
   "id": "mfgpvn5x",
   "partOfSpeech": "noun",
+  "meaning": "roof of mouth",
+  "english": [
+    {
+      "id": "yuyb0yo1",
+      "word": "palate",
+      "meaning": "roof of mouth",
+      "register": "formal",
+      "note": "Use this technical anatomical term for the palate-like roof of the mouth in certain invertebrates."
+    }
+  ],
   "traditional": "口蓋",
   "jyutping": "hau2 goi3",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "roof of mouth",
-      "english": [
-        {
-          "id": "yuyb0yo1",
-          "word": "palate",
-          "meaning": "roof of mouth",
-          "register": "formal",
-          "note": "Use this technical anatomical term for the palate-like roof of the mouth in certain invertebrates."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The palate of this snail is somewhat similar in structure to the upper palate of vertebrates.",
-          "traditional": "呢種螺嘅口蓋，結構上同脊椎動物嘅上顎有啲相似。",
-          "jyutping": "nei1 zung2 lo4 ge3 hau2 goi3 git3 kau3 soeng6 tung4 zek3 zeoi1 dung6 mat6 ge3 soeng6 ngok6 jau5 di1 soeng1 ci5"
-        }
-      ]
+      "english": "The palate of this snail is somewhat similar in structure to the upper palate of vertebrates.",
+      "traditional": "呢種螺嘅口蓋，結構上同脊椎動物嘅上顎有啲相似。",
+      "jyutping": "nei1 zung2 lo4 ge3 hau2 goi3 git3 kau3 soeng6 tung4 zek3 zeoi1 dung6 mat6 ge3 soeng6 ngok6 jau5 di1 soeng1 ci5"
     }
   ]
 }

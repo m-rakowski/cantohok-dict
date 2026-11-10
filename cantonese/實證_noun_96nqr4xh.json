@@ -1,28 +1,24 @@
 {
   "id": "96nqr4xh",
   "partOfSpeech": "noun",
+  "meaning": "scientific evidence",
+  "english": [
+    {
+      "id": "lmmzzmum",
+      "word": "evidence",
+      "meaning": "scientific evidence",
+      "register": "formal",
+      "note": "Use this for empirical evidence supporting a scientific or objectively testable conclusion."
+    }
+  ],
   "traditional": "實證",
   "jyutping": "sat6 zing3",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "scientific evidence",
-      "english": [
-        {
-          "id": "lmmzzmum",
-          "word": "evidence",
-          "meaning": "scientific evidence",
-          "register": "formal",
-          "note": "Use this for empirical evidence supporting a scientific or objectively testable conclusion."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "This study provides evidence supporting the treatment’s effectiveness.",
-          "traditional": "呢項研究提供咗支持療效嘅實證。",
-          "jyutping": "ni1 hong6 jin4 gau3 tai4 gung1 zo2 zi1 ci4 liu4 haau6 ge3 sat6 zing3"
-        }
-      ]
+      "english": "This study provides evidence supporting the treatment’s effectiveness.",
+      "traditional": "呢項研究提供咗支持療效嘅實證。",
+      "jyutping": "ni1 hong6 jin4 gau3 tai4 gung1 zo2 zi1 ci4 liu4 haau6 ge3 sat6 zing3"
     }
   ]
 }

@@ -1,40 +1,36 @@
 {
   "id": "uflgnbtl",
   "partOfSpeech": "noun",
+  "meaning": "young man, youth",
+  "english": [
+    {
+      "id": "23c7g89b",
+      "word": "youth",
+      "meaning": "young person",
+      "register": "colloquial",
+      "note": "This is the all-purpose colloquial term for a young person, including a young man."
+    },
+    {
+      "id": "m4jbljzy",
+      "word": "dude",
+      "meaning": "young man",
+      "register": "colloquial",
+      "note": "Use this when “dude” means a young man being described rather than addressed."
+    }
+  ],
   "traditional": "後生仔",
   "jyutping": "hau6 saang1 zai2",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "young man, youth",
-      "english": [
-        {
-          "id": "23c7g89b",
-          "word": "youth",
-          "meaning": "young person",
-          "register": "colloquial",
-          "note": "This is the all-purpose colloquial term for a young person, including a young man."
-        },
-        {
-          "id": "m4jbljzy",
-          "word": "dude",
-          "meaning": "young man",
-          "register": "colloquial",
-          "note": "Use this when “dude” means a young man being described rather than addressed."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "That youth always helps the old lady carry groceries.",
-          "traditional": "嗰個後生仔成日幫阿婆拎餸。",
-          "jyutping": "go2 go3 hau6 saang1 zai2 seng4 jat6 bong1 aa3 po4 ling1 sung3"
-        },
-        {
-          "english": "That young dude always helps old ladies carry things.",
-          "traditional": "嗰個後生仔成日幫阿婆拎嘢。",
-          "jyutping": "go2 go3 hau6 saang1 zai2 seng4 jat6 bong1 aa3 po4 ling1 je5"
-        }
-      ]
+      "english": "That youth always helps the old lady carry groceries.",
+      "traditional": "嗰個後生仔成日幫阿婆拎餸。",
+      "jyutping": "go2 go3 hau6 saang1 zai2 seng4 jat6 bong1 aa3 po4 ling1 sung3"
+    },
+    {
+      "english": "That young dude always helps old ladies carry things.",
+      "traditional": "嗰個後生仔成日幫阿婆拎嘢。",
+      "jyutping": "go2 go3 hau6 saang1 zai2 seng4 jat6 bong1 aa3 po4 ling1 je5"
     }
   ]
 }

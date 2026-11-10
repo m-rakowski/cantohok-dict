@@ -1,49 +1,45 @@
 {
   "id": "fjja45pr",
   "partOfSpeech": "noun",
+  "meaning": "soil, earth, mud",
+  "english": [
+    {
+      "id": "2n8msjkr",
+      "word": "dirt",
+      "meaning": "soil, earth",
+      "note": "This is the all-purpose choice for soil or loose earth."
+    },
+    {
+      "id": "9gvnuq9z",
+      "word": "mud",
+      "meaning": "wet earth",
+      "note": "This is the all-purpose choice for wet earth, and in construction contexts it can also mean wet concrete mix."
+    },
+    {
+      "id": "lc7u4p6d",
+      "word": "earth",
+      "meaning": "soil",
+      "register": "colloquial",
+      "note": "Use 泥 for soil or earth used for growing plants, especially when it is loose or muddy."
+    }
+  ],
   "traditional": "泥",
   "jyutping": "nai4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "soil, earth, mud",
-      "english": [
-        {
-          "id": "2n8msjkr",
-          "word": "dirt",
-          "meaning": "soil, earth",
-          "note": "This is the all-purpose choice for soil or loose earth."
-        },
-        {
-          "id": "9gvnuq9z",
-          "word": "mud",
-          "meaning": "wet earth",
-          "note": "This is the all-purpose choice for wet earth, and in construction contexts it can also mean wet concrete mix."
-        },
-        {
-          "id": "lc7u4p6d",
-          "word": "earth",
-          "meaning": "soil",
-          "register": "colloquial",
-          "note": "Use 泥 for soil or earth used for growing plants, especially when it is loose or muddy."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The dirt in the garden is all wet.",
-          "traditional": "花園啲泥濕晒。",
-          "jyutping": "faa1 jyun4 di1 nai4 sap1 saai3"
-        },
-        {
-          "english": "After the rain, the whole road was covered in mud.",
-          "traditional": "落完大雨，條路成地都係泥。",
-          "jyutping": "lok6 jyun4 daai6 jyu5 tiu4 lou6 sing4 dei6 dou1 hai6 nai4"
-        },
-        {
-          "english": "You need earth to grow flowers well.",
-          "traditional": "種花要用泥先至生得靚。",
-          "jyutping": "zung3 faa1 jiu3 jung6 nai4 sin1 zi3 saang1 dak1 leng3"
-        }
-      ]
+      "english": "The dirt in the garden is all wet.",
+      "traditional": "花園啲泥濕晒。",
+      "jyutping": "faa1 jyun4 di1 nai4 sap1 saai3"
+    },
+    {
+      "english": "After the rain, the whole road was covered in mud.",
+      "traditional": "落完大雨，條路成地都係泥。",
+      "jyutping": "lok6 jyun4 daai6 jyu5 tiu4 lou6 sing4 dei6 dou1 hai6 nai4"
+    },
+    {
+      "english": "You need earth to grow flowers well.",
+      "traditional": "種花要用泥先至生得靚。",
+      "jyutping": "zung3 faa1 jiu3 jung6 nai4 sin1 zi3 saang1 dak1 leng3"
     }
   ]
 }

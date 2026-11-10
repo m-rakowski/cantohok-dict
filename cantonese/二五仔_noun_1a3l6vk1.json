@@ -1,52 +1,48 @@
 {
   "id": "1a3l6vk1",
   "partOfSpeech": "noun",
+  "meaning": "traitor, snitch",
+  "english": [
+    {
+      "id": "nge99inv",
+      "word": "rat",
+      "meaning": "informant, snitch",
+      "register": "colloquial",
+      "note": "Pick 二五仔 for someone who betrays others or informs on them, with a strongly derogatory tone."
+    },
+    {
+      "id": "gh5pas94",
+      "word": "grass",
+      "meaning": "informer, snitch",
+      "register": "colloquial",
+      "note": "Use 二五仔 for a betrayer or snitch within a group, especially in colloquial speech about criminals or rivals."
+    },
+    {
+      "id": "j8yw5l05",
+      "word": "snake",
+      "meaning": "informer, rat",
+      "register": "colloquial",
+      "note": "Use this Hong Kong term for an informer, snitch, or traitor rather than for a generally deceitful person."
+    }
+  ],
   "traditional": "二五仔",
   "jyutping": "ji6 ng5 zai2",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "traitor, snitch",
-      "english": [
-        {
-          "id": "nge99inv",
-          "word": "rat",
-          "meaning": "informant, snitch",
-          "register": "colloquial",
-          "note": "Pick 二五仔 for someone who betrays others or informs on them, with a strongly derogatory tone."
-        },
-        {
-          "id": "gh5pas94",
-          "word": "grass",
-          "meaning": "informer, snitch",
-          "register": "colloquial",
-          "note": "Use 二五仔 for a betrayer or snitch within a group, especially in colloquial speech about criminals or rivals."
-        },
-        {
-          "id": "j8yw5l05",
-          "word": "snake",
-          "meaning": "informer, rat",
-          "register": "colloquial",
-          "note": "Use this Hong Kong term for an informer, snitch, or traitor rather than for a generally deceitful person."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "They informed the cops—what a rat.",
-          "traditional": "佢竟然向差佬報料，真係二五仔。",
-          "jyutping": "keoi5 ging2 jin4 hoeng3 caa1 lou2 bou3 liu2 zan1 hai6 ji6 ng5 zai2"
-        },
-        {
-          "english": "That grass betrayed us.",
-          "traditional": "嗰條二五仔出賣咗我哋。",
-          "jyutping": "go2 tiu4 ji6 ng5 zai2 ceot1 maai6 zo2 ngo5 dei6"
-        },
-        {
-          "english": "They took the money and then turned snake, ratting us out.",
-          "traditional": "佢收咗錢，轉頭就做二五仔，告咗我哋。",
-          "jyutping": "keoi5 sau1 zo2 cin2 zyun2 tau4 zau6 zou6 ji6 ng5 zai2 gou3 zo2 ngo5 dei6"
-        }
-      ]
+      "english": "They informed the cops—what a rat.",
+      "traditional": "佢竟然向差佬報料，真係二五仔。",
+      "jyutping": "keoi5 ging2 jin4 hoeng3 caa1 lou2 bou3 liu2 zan1 hai6 ji6 ng5 zai2"
+    },
+    {
+      "english": "That grass betrayed us.",
+      "traditional": "嗰條二五仔出賣咗我哋。",
+      "jyutping": "go2 tiu4 ji6 ng5 zai2 ceot1 maai6 zo2 ngo5 dei6"
+    },
+    {
+      "english": "They took the money and then turned snake, ratting us out.",
+      "traditional": "佢收咗錢，轉頭就做二五仔，告咗我哋。",
+      "jyutping": "keoi5 sau1 zo2 cin2 zyun2 tau4 zau6 zou6 ji6 ng5 zai2 gou3 zo2 ngo5 dei6"
     }
   ]
 }

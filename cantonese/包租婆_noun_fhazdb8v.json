@@ -1,28 +1,24 @@
 {
   "id": "fhazdb8v",
   "partOfSpeech": "noun",
+  "meaning": "female landlord",
+  "english": [
+    {
+      "id": "u6nm82br",
+      "word": "landlady",
+      "meaning": "female landlord",
+      "register": "colloquial",
+      "note": "This is the colloquial all-purpose choice for a woman who rents out property, especially to tenants."
+    }
+  ],
   "traditional": "包租婆",
   "jyutping": "baau1 zou1 po4",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "female landlord",
-      "english": [
-        {
-          "id": "u6nm82br",
-          "word": "landlady",
-          "meaning": "female landlord",
-          "register": "colloquial",
-          "note": "This is the colloquial all-purpose choice for a woman who rents out property, especially to tenants."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "The landlady came to collect the rent again.",
-          "traditional": "包租婆又嚟催租喇。",
-          "jyutping": "baau1 zou1 po4 jau6 lai4 ceoi1 zou1 laa3"
-        }
-      ]
+      "english": "The landlady came to collect the rent again.",
+      "traditional": "包租婆又嚟催租喇。",
+      "jyutping": "baau1 zou1 po4 jau6 lai4 ceoi1 zou1 laa3"
     }
   ]
 }

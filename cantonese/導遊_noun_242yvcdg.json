@@ -1,37 +1,33 @@
 {
   "id": "242yvcdg",
   "partOfSpeech": "noun",
+  "meaning": "tour guide",
+  "english": [
+    {
+      "id": "mh0h83eg",
+      "word": "guide",
+      "meaning": "person who shows around",
+      "note": "This is the all-purpose noun for a person hired to show visitors around and explain a place."
+    },
+    {
+      "id": "v8mhrlhy",
+      "word": "tour guide",
+      "meaning": "person who leads tours",
+      "note": "This is the all-purpose Cantonese noun for a person who guides and provides information on an organised tour."
+    }
+  ],
   "traditional": "導遊",
   "jyutping": "dou6 jau4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "tour guide",
-      "english": [
-        {
-          "id": "mh0h83eg",
-          "word": "guide",
-          "meaning": "person who shows around",
-          "note": "This is the all-purpose noun for a person hired to show visitors around and explain a place."
-        },
-        {
-          "id": "v8mhrlhy",
-          "word": "tour guide",
-          "meaning": "person who leads tours",
-          "note": "This is the all-purpose Cantonese noun for a person who guides and provides information on an organised tour."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This guide explains everything very clearly.",
-          "traditional": "呢個導遊講解得好清楚。",
-          "jyutping": "ni1 go3 dou6 jau4 gong2 gaai2 dak1 hou2 cing1 co2"
-        },
-        {
-          "english": "The tour guide explained everything very clearly on this trip.",
-          "traditional": "今次旅行團嘅導遊講解得好清楚。",
-          "jyutping": "gam1 ci3 leoi5 hang4 tyun4 ge3 dou6 jau4 gong2 gaai2 dak1 hou2 cing1 co2"
-        }
-      ]
+      "english": "This guide explains everything very clearly.",
+      "traditional": "呢個導遊講解得好清楚。",
+      "jyutping": "ni1 go3 dou6 jau4 gong2 gaai2 dak1 hou2 cing1 co2"
+    },
+    {
+      "english": "The tour guide explained everything very clearly on this trip.",
+      "traditional": "今次旅行團嘅導遊講解得好清楚。",
+      "jyutping": "gam1 ci3 leoi5 hang4 tyun4 ge3 dou6 jau4 gong2 gaai2 dak1 hou2 cing1 co2"
     }
   ]
 }

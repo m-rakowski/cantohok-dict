@@ -1,28 +1,24 @@
 {
   "id": "jalnp8zx",
   "partOfSpeech": "noun",
+  "meaning": "single person",
+  "english": [
+    {
+      "id": "tjo0cnu1",
+      "word": "individual",
+      "meaning": "single person",
+      "register": "written",
+      "note": "Use this for an individual as a distinct unit, especially in technical or academic contexts."
+    }
+  ],
   "traditional": "個體",
   "jyutping": "go3 tai2",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "single person",
-      "english": [
-        {
-          "id": "tjo0cnu1",
-          "word": "individual",
-          "meaning": "single person",
-          "register": "written",
-          "note": "Use this for an individual as a distinct unit, especially in technical or academic contexts."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "Each individual in this experiment will be recorded separately.",
-          "traditional": "喺呢個實驗入面，每個個體都會獨立記錄。",
-          "jyutping": "hai2 ni1 go3 sat6 jim6 jap6 min6 mui5 go3 go3 tai2 dou1 wui5 duk6 lap6 gei3 luk6"
-        }
-      ]
+      "english": "Each individual in this experiment will be recorded separately.",
+      "traditional": "喺呢個實驗入面，每個個體都會獨立記錄。",
+      "jyutping": "hai2 ni1 go3 sat6 jim6 jap6 min6 mui5 go3 go3 tai2 dou1 wui5 duk6 lap6 gei3 luk6"
     }
   ]
 }

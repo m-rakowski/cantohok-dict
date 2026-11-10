@@ -1,38 +1,34 @@
 {
   "id": "5q7kbqck",
   "partOfSpeech": "noun",
+  "meaning": "a large heap of things",
+  "english": [
+    {
+      "id": "dp8w0ch6",
+      "word": "thicket",
+      "meaning": "dense mass of things",
+      "note": "Use this for a dense mass or overwhelming quantity of things, such as paperwork, problems, or tasks."
+    },
+    {
+      "id": "fwb844kh",
+      "word": "abundance",
+      "meaning": "large quantity",
+      "register": "colloquial",
+      "note": "Use this casual expression for a conspicuously large heap or pile of items."
+    }
+  ],
   "traditional": "一大堆 + N",
   "jyutping": "jat1 daai6 deoi1 N",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "a large heap of things",
-      "english": [
-        {
-          "id": "dp8w0ch6",
-          "word": "thicket",
-          "meaning": "dense mass of things",
-          "note": "Use this for a dense mass or overwhelming quantity of things, such as paperwork, problems, or tasks."
-        },
-        {
-          "id": "fwb844kh",
-          "word": "abundance",
-          "meaning": "large quantity",
-          "register": "colloquial",
-          "note": "Use this casual expression for a conspicuously large heap or pile of items."
-        }
-      ],
-      "examples": [
-        {
-          "english": "There's a thicket of paperwork on the desk waiting for me to deal with.",
-          "traditional": "枱面有一大堆文件等住我處理。",
-          "jyutping": "ci4 min6 jau5 jat1 daai6 deoi1 man4 gin6 dang2 zyu6 ngo5 cyu2 lei5"
-        },
-        {
-          "english": "There is an abundance of documents piled on the desk.",
-          "traditional": "張枱上面擺住一大堆文件。",
-          "jyutping": "zoeng1 toi2 soeng6 min6 baai2 zyu6 jat1 daai6 deoi1 man4 gin6"
-        }
-      ]
+      "english": "There's a thicket of paperwork on the desk waiting for me to deal with.",
+      "traditional": "枱面有一大堆文件等住我處理。",
+      "jyutping": "ci4 min6 jau5 jat1 daai6 deoi1 man4 gin6 dang2 zyu6 ngo5 cyu2 lei5"
+    },
+    {
+      "english": "There is an abundance of documents piled on the desk.",
+      "traditional": "張枱上面擺住一大堆文件。",
+      "jyutping": "zoeng1 toi2 soeng6 min6 baai2 zyu6 jat1 daai6 deoi1 man4 gin6"
     }
   ]
 }

@@ -1,26 +1,22 @@
 {
   "id": "n7g2ei3q",
   "partOfSpeech": "noun",
+  "meaning": "course section",
+  "english": [
+    {
+      "id": "jivmbiv6",
+      "word": "unit",
+      "meaning": "course section",
+      "note": "Use 單元 for a self-contained topic or module in a course, and in technical contexts for a functional computer module."
+    }
+  ],
   "traditional": "單元",
   "jyutping": "daan1 jyun4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "course section",
-      "english": [
-        {
-          "id": "jivmbiv6",
-          "word": "unit",
-          "meaning": "course section",
-          "note": "Use 單元 for a self-contained topic or module in a course, and in technical contexts for a functional computer module."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This course has a unit on computer security.",
-          "traditional": "呢個課程有一個講電腦保安嘅單元。",
-          "jyutping": "ni1 go3 fo3 cing4 jau5 jat1 go3 gong2 din6 nou5 bou2 on1 ge3 daan1 jyun4"
-        }
-      ]
+      "english": "This course has a unit on computer security.",
+      "traditional": "呢個課程有一個講電腦保安嘅單元。",
+      "jyutping": "ni1 go3 fo3 cing4 jau5 jat1 go3 gong2 din6 nou5 bou2 on1 ge3 daan1 jyun4"
     }
   ]
 }

@@ -1,40 +1,36 @@
 {
   "id": "f6nx1s7g",
   "partOfSpeech": "verb",
+  "meaning": "can't manage, can't handle",
+  "english": [
+    {
+      "id": "td07a4qm",
+      "word": "flunk",
+      "meaning": "fail a challenge",
+      "register": "colloquial",
+      "note": "Use this when someone cannot handle or complete a non-academic challenge or task, rather than when they fail an exam."
+    },
+    {
+      "id": "4kde3pne",
+      "word": "struggle",
+      "meaning": "have difficulty",
+      "register": "colloquial",
+      "note": "Use this for struggling because you cannot manage or cope with something."
+    }
+  ],
   "traditional": "搞唔掂",
   "jyutping": "gaau2 m4 dim6",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "can't manage, can't handle",
-      "english": [
-        {
-          "id": "td07a4qm",
-          "word": "flunk",
-          "meaning": "fail a challenge",
-          "register": "colloquial",
-          "note": "Use this when someone cannot handle or complete a non-academic challenge or task, rather than when they fail an exam."
-        },
-        {
-          "id": "4kde3pne",
-          "word": "struggle",
-          "meaning": "have difficulty",
-          "register": "colloquial",
-          "note": "Use this for struggling because you cannot manage or cope with something."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "I flunk at handling this report because it’s too hard.",
-          "traditional": "呢份報告太難，我搞唔掂。",
-          "jyutping": "ni1 fan6 bou3 gou3 taai3 naan4 ngo5 gaau2 m4 dim6"
-        },
-        {
-          "english": "I really struggle to cope with this report.",
-          "traditional": "呢份報告太長，我真係搞唔掂。",
-          "jyutping": "ni1 fan6 bou3 gou3 taai3 coeng4 ngo5 zan1 hai6 gaau2 m4 dim6"
-        }
-      ]
+      "english": "I flunk at handling this report because it’s too hard.",
+      "traditional": "呢份報告太難，我搞唔掂。",
+      "jyutping": "ni1 fan6 bou3 gou3 taai3 naan4 ngo5 gaau2 m4 dim6"
+    },
+    {
+      "english": "I really struggle to cope with this report.",
+      "traditional": "呢份報告太長，我真係搞唔掂。",
+      "jyutping": "ni1 fan6 bou3 gou3 taai3 coeng4 ngo5 zan1 hai6 gaau2 m4 dim6"
     }
   ]
 }

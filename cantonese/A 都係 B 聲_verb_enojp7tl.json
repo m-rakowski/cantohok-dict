@@ -1,28 +1,24 @@
 {
   "id": "enojp7tl",
   "partOfSpeech": "verb",
+  "meaning": "echo / ring with sound",
+  "english": [
+    {
+      "id": "xph66k8v",
+      "word": "resound",
+      "meaning": "echo / ring with sound",
+      "register": "colloquial",
+      "note": "Use this colloquial construction when a place is filled with a particular kind of noise, rather than emphasizing acoustic echo."
+    }
+  ],
   "traditional": "A 都係 B 聲",
   "jyutping": "A dou1 hai6 B sing1",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "echo / ring with sound",
-      "english": [
-        {
-          "id": "xph66k8v",
-          "word": "resound",
-          "meaning": "echo / ring with sound",
-          "register": "colloquial",
-          "note": "Use this colloquial construction when a place is filled with a particular kind of noise, rather than emphasizing acoustic echo."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "The whole stadium seems to resound with cheers, and my ears are practically ringing.",
-          "traditional": "成個球場都係加油聲，搞到我耳仔都震埋。",
-          "jyutping": "sing4 go3 kau4 coeng4 dou1 hai6 gaa1 jau2 seng1 gaau2 dou3 ngo5 ji5 zai2 dou1 zan3 maai4"
-        }
-      ]
+      "english": "The whole stadium seems to resound with cheers, and my ears are practically ringing.",
+      "traditional": "成個球場都係加油聲，搞到我耳仔都震埋。",
+      "jyutping": "sing4 go3 kau4 coeng4 dou1 hai6 gaa1 jau2 seng1 gaau2 dou3 ngo5 ji5 zai2 dou1 zan3 maai4"
     }
   ]
 }

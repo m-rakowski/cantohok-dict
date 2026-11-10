@@ -1,28 +1,24 @@
 {
   "id": "3kcnbtyb",
   "partOfSpeech": "noun",
+  "meaning": "derogatory insinuation",
+  "english": [
+    {
+      "id": "4k444rh8",
+      "word": "innuendo",
+      "meaning": "derogatory insinuation",
+      "register": "colloquial",
+      "note": "Use this for a colloquial veiled dig or mocking insinuation aimed at someone."
+    }
+  ],
   "traditional": "暗寸",
   "jyutping": "am3 cyun3",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "derogatory insinuation",
-      "english": [
-        {
-          "id": "4k444rh8",
-          "word": "innuendo",
-          "meaning": "derogatory insinuation",
-          "register": "colloquial",
-          "note": "Use this for a colloquial veiled dig or mocking insinuation aimed at someone."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "You don't have to throw that innuendo at me.",
-          "traditional": "你唔使咁暗寸我喎。",
-          "jyutping": "nei5 m4 sai2 gam3 am3 cyun3 ngo5 wo3"
-        }
-      ]
+      "english": "You don't have to throw that innuendo at me.",
+      "traditional": "你唔使咁暗寸我喎。",
+      "jyutping": "nei5 m4 sai2 gam3 am3 cyun3 ngo5 wo3"
     }
   ]
 }

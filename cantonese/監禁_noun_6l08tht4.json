@@ -1,40 +1,36 @@
 {
   "id": "6l08tht4",
   "partOfSpeech": "noun",
+  "meaning": "imprisonment",
+  "english": [
+    {
+      "id": "fir1wtid",
+      "word": "imprisonment",
+      "meaning": "being in prison",
+      "register": "formal",
+      "note": "Use this formal term when referring specifically to confinement as a legal punishment, especially in written or official contexts."
+    },
+    {
+      "id": "lmd4wszz",
+      "word": "prison",
+      "meaning": "being in prison",
+      "register": "formal",
+      "note": "This refers to the state or experience of being confined, especially in legal or formal contexts."
+    }
+  ],
   "traditional": "監禁",
   "jyutping": "gaam1 gam3",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "imprisonment",
-      "english": [
-        {
-          "id": "fir1wtid",
-          "word": "imprisonment",
-          "meaning": "being in prison",
-          "register": "formal",
-          "note": "Use this formal term when referring specifically to confinement as a legal punishment, especially in written or official contexts."
-        },
-        {
-          "id": "lmd4wszz",
-          "word": "prison",
-          "meaning": "being in prison",
-          "register": "formal",
-          "note": "This refers to the state or experience of being confined, especially in legal or formal contexts."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The court sentenced them to three years' imprisonment.",
-          "traditional": "法庭判佢監禁三年。",
-          "jyutping": "faat3 ting4 pun3 keoi5 gaam1 gam3 saam1 nin4"
-        },
-        {
-          "english": "The court sentenced them to three years in prison.",
-          "traditional": "法庭判處佢監禁三年。",
-          "jyutping": "faat3 ting4 pun3 cyu3 keoi5 gaam1 gam3 saam1 nin4"
-        }
-      ]
+      "english": "The court sentenced them to three years' imprisonment.",
+      "traditional": "法庭判佢監禁三年。",
+      "jyutping": "faat3 ting4 pun3 keoi5 gaam1 gam3 saam1 nin4"
+    },
+    {
+      "english": "The court sentenced them to three years in prison.",
+      "traditional": "法庭判處佢監禁三年。",
+      "jyutping": "faat3 ting4 pun3 cyu3 keoi5 gaam1 gam3 saam1 nin4"
     }
   ]
 }

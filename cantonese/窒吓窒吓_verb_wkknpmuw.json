@@ -1,40 +1,36 @@
 {
   "id": "wkknpmuw",
   "partOfSpeech": "verb",
+  "meaning": "speak haltingly",
+  "english": [
+    {
+      "id": "j01lxekv",
+      "word": "stammer",
+      "meaning": "speech stammering",
+      "register": "colloquial",
+      "note": "Use this when emphasizing the broken, halting delivery, as in someone speaking with repeated hesitations."
+    },
+    {
+      "id": "1rd6zb98",
+      "word": "falter",
+      "meaning": "speak hesitantly",
+      "register": "colloquial",
+      "note": "Use this for faltering speech that comes out haltingly or with repeated pauses."
+    }
+  ],
   "traditional": "窒吓窒吓",
   "jyutping": "zat6 haa2 zat6 haa2",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "speak haltingly",
-      "english": [
-        {
-          "id": "j01lxekv",
-          "word": "stammer",
-          "meaning": "speech stammering",
-          "register": "colloquial",
-          "note": "Use this when emphasizing the broken, halting delivery, as in someone speaking with repeated hesitations."
-        },
-        {
-          "id": "1rd6zb98",
-          "word": "falter",
-          "meaning": "speak hesitantly",
-          "register": "colloquial",
-          "note": "Use this for faltering speech that comes out haltingly or with repeated pauses."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "They stammer when answering questions, making everyone wait a long time.",
-          "traditional": "佢答問題嗰陣窒吓窒吓咁，搞到大家等咗好耐。",
-          "jyutping": "keoi5 daap3 man6 tai4 go2 zan6 zat6 haa2 zat6 haa2 gam3 gaau2 dou3 daai6 gaa1 dang2 zo2 hou2 noi6"
-        },
-        {
-          "english": "When pressed, they began to falter, barely finishing a sentence.",
-          "traditional": "佢一畀人追問，就窒吓窒吓咁答，成句都講唔完整。",
-          "jyutping": "keoi5 jat1 bei2 jan4 zeoi1 man6 zau6 zat6 haa2 zat6 haa2 gam3 daap3 sing4 geoi3 dou1 gong2 m4 jyun4 zing2"
-        }
-      ]
+      "english": "They stammer when answering questions, making everyone wait a long time.",
+      "traditional": "佢答問題嗰陣窒吓窒吓咁，搞到大家等咗好耐。",
+      "jyutping": "keoi5 daap3 man6 tai4 go2 zan6 zat6 haa2 zat6 haa2 gam3 gaau2 dou3 daai6 gaa1 dang2 zo2 hou2 noi6"
+    },
+    {
+      "english": "When pressed, they began to falter, barely finishing a sentence.",
+      "traditional": "佢一畀人追問，就窒吓窒吓咁答，成句都講唔完整。",
+      "jyutping": "keoi5 jat1 bei2 jan4 zeoi1 man6 zau6 zat6 haa2 zat6 haa2 gam3 daap3 sing4 geoi3 dou1 gong2 m4 jyun4 zing2"
     }
   ]
 }

@@ -1,37 +1,33 @@
 {
   "id": "jebh0oft",
   "partOfSpeech": "verb",
+  "meaning": "show, indicate",
+  "english": [
+    {
+      "id": "k0pwunjp",
+      "word": "indicate",
+      "meaning": "suggest by symptoms",
+      "note": "Use this when symptoms or other evidence show that a condition or cause is present."
+    },
+    {
+      "id": "mc2d2039",
+      "word": "argue",
+      "meaning": "reason; imply",
+      "note": "Use 顯示 when evidence indicates or points to a conclusion rather than when people debate."
+    }
+  ],
   "traditional": "顯示",
   "jyutping": "hin2 si6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "show, indicate",
-      "english": [
-        {
-          "id": "k0pwunjp",
-          "word": "indicate",
-          "meaning": "suggest by symptoms",
-          "note": "Use this when symptoms or other evidence show that a condition or cause is present."
-        },
-        {
-          "id": "mc2d2039",
-          "word": "argue",
-          "meaning": "reason; imply",
-          "note": "Use 顯示 when evidence indicates or points to a conclusion rather than when people debate."
-        }
-      ],
-      "examples": [
-        {
-          "english": "These symptoms indicate that they may have food poisoning.",
-          "traditional": "呢啲症狀顯示佢可能食物中毒。",
-          "jyutping": "ni1 di1 zing3 zong6 hin2 si6 keoi5 ho2 nang4 sik6 mat6 zung1 duk6"
-        },
-        {
-          "english": "This result indicates that we can argue our method is right.",
-          "traditional": "呢個結果顯示我哋可以話我哋嘅方法係啱嘅。",
-          "jyutping": "ni1 go3 git3 gwo2 hin2 si6 ngo5 dei6 ho2 ji5 waa6 ngo5 dei6 ge3 fong1 faat3 hai6 ngaam1 ge3"
-        }
-      ]
+      "english": "These symptoms indicate that they may have food poisoning.",
+      "traditional": "呢啲症狀顯示佢可能食物中毒。",
+      "jyutping": "ni1 di1 zing3 zong6 hin2 si6 keoi5 ho2 nang4 sik6 mat6 zung1 duk6"
+    },
+    {
+      "english": "This result indicates that we can argue our method is right.",
+      "traditional": "呢個結果顯示我哋可以話我哋嘅方法係啱嘅。",
+      "jyutping": "ni1 go3 git3 gwo2 hin2 si6 ngo5 dei6 ho2 ji5 waa6 ngo5 dei6 ge3 fong1 faat3 hai6 ngaam1 ge3"
     }
   ]
 }

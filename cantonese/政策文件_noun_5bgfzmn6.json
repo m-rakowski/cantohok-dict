@@ -1,28 +1,24 @@
 {
   "id": "5bgfzmn6",
   "partOfSpeech": "noun",
+  "meaning": "policy document",
+  "english": [
+    {
+      "id": "sowpf3p6",
+      "word": "policy",
+      "meaning": "policy document",
+      "register": "written",
+      "note": "Use this when policy means the document that sets out an official policy."
+    }
+  ],
   "traditional": "政策文件",
   "jyutping": "zing3 caak3 man4 gin6",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "policy document",
-      "english": [
-        {
-          "id": "sowpf3p6",
-          "word": "policy",
-          "meaning": "policy document",
-          "register": "written",
-          "note": "Use this when policy means the document that sets out an official policy."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "Please read this policy document first.",
-          "traditional": "請先睇吓呢份政策文件。",
-          "jyutping": "cing2 sin1 tai2 haa5 ni1 fan6 zing3 caak3 man4 gin6"
-        }
-      ]
+      "english": "Please read this policy document first.",
+      "traditional": "請先睇吓呢份政策文件。",
+      "jyutping": "cing2 sin1 tai2 haa5 ni1 fan6 zing3 caak3 man4 gin6"
     }
   ]
 }

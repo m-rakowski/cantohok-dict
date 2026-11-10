@@ -1,38 +1,34 @@
 {
   "id": "ixz850ub",
   "partOfSpeech": "noun",
+  "meaning": "transfer, shifting",
+  "english": [
+    {
+      "id": "e39ttoko",
+      "word": "transfer",
+      "meaning": "the act of transfer",
+      "register": "formal",
+      "note": "Use 轉移 as the all-purpose noun for the act of moving or conveying something from one place, person, or thing to another."
+    },
+    {
+      "id": "2psnm98x",
+      "word": "diversion",
+      "meaning": "diversion; redirecting",
+      "note": "Use this abstract noun for the shifting or redirecting of attention, activity, or resources."
+    }
+  ],
   "traditional": "轉移",
   "jyutping": "zyun2 ji4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "transfer, shifting",
-      "english": [
-        {
-          "id": "e39ttoko",
-          "word": "transfer",
-          "meaning": "the act of transfer",
-          "register": "formal",
-          "note": "Use 轉移 as the all-purpose noun for the act of moving or conveying something from one place, person, or thing to another."
-        },
-        {
-          "id": "2psnm98x",
-          "word": "diversion",
-          "meaning": "diversion; redirecting",
-          "note": "Use this abstract noun for the shifting or redirecting of attention, activity, or resources."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The transfer of these files has been completed.",
-          "traditional": "呢批檔案嘅轉移已經完成。",
-          "jyutping": "ni1 pai1 dong2 ngon3 ge3 zyun2 ji4 ji5 ging1 jyun4 sing4"
-        },
-        {
-          "english": "The diversion of everyone's attention is part of the plan.",
-          "traditional": "轉移大家注意力係呢個計劃嘅一部分。",
-          "jyutping": "zyun2 ji4 daai6 gaa1 zyu3 ji3 lik6 hai6 ni1 go3 gai3 waak6 ge3 jat1 bou6 fan6"
-        }
-      ]
+      "english": "The transfer of these files has been completed.",
+      "traditional": "呢批檔案嘅轉移已經完成。",
+      "jyutping": "ni1 pai1 dong2 ngon3 ge3 zyun2 ji4 ji5 ging1 jyun4 sing4"
+    },
+    {
+      "english": "The diversion of everyone's attention is part of the plan.",
+      "traditional": "轉移大家注意力係呢個計劃嘅一部分。",
+      "jyutping": "zyun2 ji4 daai6 gaa1 zyu3 ji3 lik6 hai6 ni1 go3 gai3 waak6 ge3 jat1 bou6 fan6"
     }
   ]
 }

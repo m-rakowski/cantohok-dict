@@ -1,28 +1,24 @@
 {
   "id": "0d30iuad",
   "partOfSpeech": "det",
+  "meaning": "interrogative determiner",
+  "english": [
+    {
+      "id": "ecwzdlb1",
+      "word": "what",
+      "meaning": "interrogative determiner",
+      "register": "colloquial",
+      "note": "Use this shorter colloquial form in combinations such as 乜人, 乜事, or 乜色."
+    }
+  ],
   "traditional": "乜",
   "jyutping": "mat1",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "interrogative determiner",
-      "english": [
-        {
-          "id": "ecwzdlb1",
-          "word": "what",
-          "meaning": "interrogative determiner",
-          "register": "colloquial",
-          "note": "Use this shorter colloquial form in combinations such as 乜人, 乜事, or 乜色."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "What kind of person would believe him?",
-          "traditional": "乜人會信佢㗎？",
-          "jyutping": "mat1 jan4 wui5 seon3 keoi5 gaa3"
-        }
-      ]
+      "english": "What kind of person would believe him?",
+      "traditional": "乜人會信佢㗎？",
+      "jyutping": "mat1 jan4 wui5 seon3 keoi5 gaa3"
     }
   ]
 }

@@ -1,37 +1,33 @@
 {
   "id": "lpxzdw2m",
   "partOfSpeech": "noun",
+  "meaning": "volume, size of an object",
+  "english": [
+    {
+      "id": "6tqoiefj",
+      "word": "bulk",
+      "meaning": "large body",
+      "note": "Use this for the physical volume or bulk of an object or structure, rather than a person's body."
+    },
+    {
+      "id": "6nnhemfj",
+      "word": "volume",
+      "meaning": "space measurement",
+      "note": "Use this specifically for three-dimensional space measured in cubic units."
+    }
+  ],
   "traditional": "體積",
   "jyutping": "tai2 zik1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "volume, size of an object",
-      "english": [
-        {
-          "id": "6tqoiefj",
-          "word": "bulk",
-          "meaning": "large body",
-          "note": "Use this for the physical volume or bulk of an object or structure, rather than a person's body."
-        },
-        {
-          "id": "6nnhemfj",
-          "word": "volume",
-          "meaning": "space measurement",
-          "note": "Use this specifically for three-dimensional space measured in cubic units."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The bulk of this piece of furniture is too large to fit in the lift.",
-          "traditional": "呢件傢俬體積太大，搬唔入升降機。",
-          "jyutping": "ne1 gin6 gaa1 si1 tai2 zik1 taai3 daai6 bun1 m4 jap6 sing1 gong3 gei1"
-        },
-        {
-          "english": "The volume of this box is too large to fit in the car.",
-          "traditional": "呢個箱嘅體積太大，架車擺唔落。",
-          "jyutping": "ni1 go3 soeng1 ge3 tai2 zik1 taai3 daai6 gaa3 ce1 baai2 m4 lok6"
-        }
-      ]
+      "english": "The bulk of this piece of furniture is too large to fit in the lift.",
+      "traditional": "呢件傢俬體積太大，搬唔入升降機。",
+      "jyutping": "ne1 gin6 gaa1 si1 tai2 zik1 taai3 daai6 bun1 m4 jap6 sing1 gong3 gei1"
+    },
+    {
+      "english": "The volume of this box is too large to fit in the car.",
+      "traditional": "呢個箱嘅體積太大，架車擺唔落。",
+      "jyutping": "ni1 go3 soeng1 ge3 tai2 zik1 taai3 daai6 gaa3 ce1 baai2 m4 lok6"
     }
   ]
 }

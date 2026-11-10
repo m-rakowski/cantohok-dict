@@ -1,28 +1,24 @@
 {
   "id": "ryx294ps",
   "partOfSpeech": "noun",
+  "meaning": "pizza slice",
+  "english": [
+    {
+      "id": "mvz16blp",
+      "word": "slice",
+      "meaning": "pizza slice",
+      "register": "colloquial",
+      "note": "Use this for one sector-shaped serving of pizza rather than a generic thin slice."
+    }
+  ],
   "traditional": "一件薄餅",
   "jyutping": "jat1 gin6 bok6 beng2",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "pizza slice",
-      "english": [
-        {
-          "id": "mvz16blp",
-          "word": "slice",
-          "meaning": "pizza slice",
-          "register": "colloquial",
-          "note": "Use this for one sector-shaped serving of pizza rather than a generic thin slice."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "I want a slice of pizza.",
-          "traditional": "我想要一件薄餅。",
-          "jyutping": "ngo5 soeng2 jiu3 jat1 gin6 bok6 beng2"
-        }
-      ]
+      "english": "I want a slice of pizza.",
+      "traditional": "我想要一件薄餅。",
+      "jyutping": "ngo5 soeng2 jiu3 jat1 gin6 bok6 beng2"
     }
   ]
 }

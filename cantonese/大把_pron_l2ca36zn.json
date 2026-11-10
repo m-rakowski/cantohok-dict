@@ -1,28 +1,24 @@
 {
   "id": "l2ca36zn",
   "partOfSpeech": "pron",
+  "meaning": "more than enough",
+  "english": [
+    {
+      "id": "j63tefbt",
+      "word": "plenty",
+      "meaning": "more than enough",
+      "register": "colloquial",
+      "note": "This is the all-purpose colloquial choice for saying there is more than enough of something."
+    }
+  ],
   "traditional": "大把",
   "jyutping": "daai6 baa2",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "more than enough",
-      "english": [
-        {
-          "id": "j63tefbt",
-          "word": "plenty",
-          "meaning": "more than enough",
-          "register": "colloquial",
-          "note": "This is the all-purpose colloquial choice for saying there is more than enough of something."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "There is plenty of parking space here.",
-          "traditional": "呢度大把位泊車。",
-          "jyutping": "nei1 dou6 daai6 baa2 wai2 paak3 ce1"
-        }
-      ]
+      "english": "There is plenty of parking space here.",
+      "traditional": "呢度大把位泊車。",
+      "jyutping": "nei1 dou6 daai6 baa2 wai2 paak3 ce1"
     }
   ]
 }

@@ -1,37 +1,33 @@
 {
   "id": "f02ay4uh",
   "partOfSpeech": "noun",
+  "meaning": "chest of drawers",
+  "english": [
+    {
+      "id": "stxcwb2y",
+      "word": "chest of drawers",
+      "meaning": "dresser / chest of drawers",
+      "note": "This is the all-purpose everyday term for a piece of furniture with stacked drawers for storing clothes."
+    },
+    {
+      "id": "mnj4r2ss",
+      "word": "chest",
+      "meaning": "chest of drawers",
+      "note": "Use this specifically for a chest of drawers, not for a general storage box."
+    }
+  ],
   "traditional": "五斗櫃",
   "jyutping": "ng5 dau2 gwai6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "chest of drawers",
-      "english": [
-        {
-          "id": "stxcwb2y",
-          "word": "chest of drawers",
-          "meaning": "dresser / chest of drawers",
-          "note": "This is the all-purpose everyday term for a piece of furniture with stacked drawers for storing clothes."
-        },
-        {
-          "id": "mnj4r2ss",
-          "word": "chest",
-          "meaning": "chest of drawers",
-          "note": "Use this specifically for a chest of drawers, not for a general storage box."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I folded the clothes and put them all in the chest of drawers.",
-          "traditional": "我將啲衫摺好，放晒入五斗櫃。",
-          "jyutping": "ngo5 zoeng1 di1 saam1 zip3 hou2 fong3 saai3 jap6 ng5 dau2 gwai6"
-        },
-        {
-          "english": "I folded the clothes and put them in the chest of drawers.",
-          "traditional": "我將啲衫摺好，放入五斗櫃度。",
-          "jyutping": "ngo5 zoeng1 di1 saam1 zip3 hou2 fong3 jap6 ng5 dau2 gwai6 dou6"
-        }
-      ]
+      "english": "I folded the clothes and put them all in the chest of drawers.",
+      "traditional": "我將啲衫摺好，放晒入五斗櫃。",
+      "jyutping": "ngo5 zoeng1 di1 saam1 zip3 hou2 fong3 saai3 jap6 ng5 dau2 gwai6"
+    },
+    {
+      "english": "I folded the clothes and put them in the chest of drawers.",
+      "traditional": "我將啲衫摺好，放入五斗櫃度。",
+      "jyutping": "ngo5 zoeng1 di1 saam1 zip3 hou2 fong3 jap6 ng5 dau2 gwai6 dou6"
     }
   ]
 }

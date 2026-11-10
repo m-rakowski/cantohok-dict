@@ -1,26 +1,22 @@
 {
   "id": "8c4wibng",
   "partOfSpeech": "adj",
+  "meaning": "meat-free",
+  "english": [
+    {
+      "id": "kt9ftn4q",
+      "word": "vegetarian",
+      "meaning": "meat-free",
+      "note": "Use this when you want to state literally that a food contains no meat, without necessarily calling it vegetarian."
+    }
+  ],
   "traditional": "無肉",
   "jyutping": "mou4 juk6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "meat-free",
-      "english": [
-        {
-          "id": "kt9ftn4q",
-          "word": "vegetarian",
-          "meaning": "meat-free",
-          "note": "Use this when you want to state literally that a food contains no meat, without necessarily calling it vegetarian."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This soup is vegetarian.",
-          "traditional": "呢個湯無肉㗎。",
-          "jyutping": "ni1 go3 tong1 mou4 juk6 gaa3"
-        }
-      ]
+      "english": "This soup is vegetarian.",
+      "traditional": "呢個湯無肉㗎。",
+      "jyutping": "ni1 go3 tong1 mou4 juk6 gaa3"
     }
   ]
 }

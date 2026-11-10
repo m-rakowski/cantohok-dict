@@ -1,37 +1,33 @@
 {
   "id": "ysc87if8",
   "partOfSpeech": "verb",
+  "meaning": "wait",
+  "english": [
+    {
+      "id": "544si626",
+      "word": "wait",
+      "meaning": "delay / remain in readiness",
+      "note": "This is the all-purpose everyday verb for delaying or staying until someone or something arrives."
+    },
+    {
+      "id": "51njaq73",
+      "word": "await",
+      "meaning": "wait for",
+      "note": "This is the all-purpose colloquial choice when a person or group waits for someone or something, or simply stays waiting."
+    }
+  ],
   "traditional": "等",
   "jyutping": "dang2",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "wait",
-      "english": [
-        {
-          "id": "544si626",
-          "word": "wait",
-          "meaning": "delay / remain in readiness",
-          "note": "This is the all-purpose everyday verb for delaying or staying until someone or something arrives."
-        },
-        {
-          "id": "51njaq73",
-          "word": "await",
-          "meaning": "wait for",
-          "note": "This is the all-purpose colloquial choice when a person or group waits for someone or something, or simply stays waiting."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Wait for me a moment first.",
-          "traditional": "等我一陣先。",
-          "jyutping": "dang2 ngo5 jat1 zan6 sin1"
-        },
-        {
-          "english": "I await you at the entrance.",
-          "traditional": "我喺門口等你。",
-          "jyutping": "ngo5 hai2 mun4 hau2 dang2 nei5"
-        }
-      ]
+      "english": "Wait for me a moment first.",
+      "traditional": "等我一陣先。",
+      "jyutping": "dang2 ngo5 jat1 zan6 sin1"
+    },
+    {
+      "english": "I await you at the entrance.",
+      "traditional": "我喺門口等你。",
+      "jyutping": "ngo5 hai2 mun4 hau2 dang2 nei5"
     }
   ]
 }

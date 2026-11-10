@@ -1,37 +1,33 @@
 {
   "id": "ezm9e7p3",
   "partOfSpeech": "noun",
+  "meaning": "taxi",
+  "english": [
+    {
+      "id": "3tlllsxk",
+      "word": "taxi",
+      "meaning": "public hire vehicle",
+      "note": "This is the all-purpose Cantonese word for a taxi."
+    },
+    {
+      "id": "uh3hv1q3",
+      "word": "cab",
+      "meaning": "taxi",
+      "note": "This is the all-purpose Cantonese noun for a taxi or cab."
+    }
+  ],
   "traditional": "的士",
   "jyutping": "dik1 si2",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "taxi",
-      "english": [
-        {
-          "id": "3tlllsxk",
-          "word": "taxi",
-          "meaning": "public hire vehicle",
-          "note": "This is the all-purpose Cantonese word for a taxi."
-        },
-        {
-          "id": "uh3hv1q3",
-          "word": "cab",
-          "meaning": "taxi",
-          "note": "This is the all-purpose Cantonese noun for a taxi or cab."
-        }
-      ],
-      "examples": [
-        {
-          "english": "We called a taxi to the airport.",
-          "traditional": "我哋叫咗的士去機場。",
-          "jyutping": "ngo5 dei6 giu3 zo2 dik1 si2 heoi3 gei1 coeng4"
-        },
-        {
-          "english": "We called a cab to the airport.",
-          "traditional": "我哋叫咗部的士去機場。",
-          "jyutping": "ngo5 dei6 giu3 zo2 bou6 dik1 si2 heoi3 gei1 coeng4"
-        }
-      ]
+      "english": "We called a taxi to the airport.",
+      "traditional": "我哋叫咗的士去機場。",
+      "jyutping": "ngo5 dei6 giu3 zo2 dik1 si2 heoi3 gei1 coeng4"
+    },
+    {
+      "english": "We called a cab to the airport.",
+      "traditional": "我哋叫咗部的士去機場。",
+      "jyutping": "ngo5 dei6 giu3 zo2 bou6 dik1 si2 heoi3 gei1 coeng4"
     }
   ]
 }

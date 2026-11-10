@@ -1,28 +1,24 @@
 {
   "id": "da67w9or",
   "partOfSpeech": "verb",
+  "meaning": "command, instruct",
+  "english": [
+    {
+      "id": "76ut8r4k",
+      "word": "order",
+      "meaning": "command, instruct",
+      "register": "formal",
+      "note": "Use this for an official, authoritative, or forceful command rather than an ordinary spoken instruction."
+    }
+  ],
   "traditional": "命令",
   "jyutping": "ming6 ling6",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "command, instruct",
-      "english": [
-        {
-          "id": "76ut8r4k",
-          "word": "order",
-          "meaning": "command, instruct",
-          "register": "formal",
-          "note": "Use this for an official, authoritative, or forceful command rather than an ordinary spoken instruction."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The officer issued an order for us to evacuate immediately.",
-          "traditional": "長官命令我哋即刻撤離。",
-          "jyutping": "coeng4 gun1 ming6 ling6 ngo5 dei6 zik1 hak1 cit3 lei4"
-        }
-      ]
+      "english": "The officer issued an order for us to evacuate immediately.",
+      "traditional": "長官命令我哋即刻撤離。",
+      "jyutping": "coeng4 gun1 ming6 ling6 ngo5 dei6 zik1 hak1 cit3 lei4"
     }
   ]
 }

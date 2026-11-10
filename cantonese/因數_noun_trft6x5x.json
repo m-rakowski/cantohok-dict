@@ -1,26 +1,22 @@
 {
   "id": "trft6x5x",
   "partOfSpeech": "noun",
+  "meaning": "number that divides",
+  "english": [
+    {
+      "id": "u7y5oapl",
+      "word": "factor",
+      "meaning": "number that divides",
+      "note": "Use this specifically in mathematics for a number that divides another number exactly."
+    }
+  ],
   "traditional": "因數",
   "jyutping": "jan1 sou3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "number that divides",
-      "english": [
-        {
-          "id": "u7y5oapl",
-          "word": "factor",
-          "meaning": "number that divides",
-          "note": "Use this specifically in mathematics for a number that divides another number exactly."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Three is a factor of twelve.",
-          "traditional": "三係十二嘅因數。",
-          "jyutping": "saam1 hai6 sap6 ji6 ge3 jan1 sou3"
-        }
-      ]
+      "english": "Three is a factor of twelve.",
+      "traditional": "三係十二嘅因數。",
+      "jyutping": "saam1 hai6 sap6 ji6 ge3 jan1 sou3"
     }
   ]
 }

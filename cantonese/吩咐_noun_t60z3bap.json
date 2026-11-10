@@ -1,37 +1,33 @@
 {
   "id": "t60z3bap",
   "partOfSpeech": "noun",
+  "meaning": "instructions, orders from someone",
+  "english": [
+    {
+      "id": "yi16e3z0",
+      "word": "behest",
+      "meaning": "command; authoritative request",
+      "note": "This is the all-purpose everyday choice for someone's instruction or bidding, especially in phrases like 按照 A 嘅吩咐."
+    },
+    {
+      "id": "q6h6kkst",
+      "word": "bidding",
+      "meaning": "command; orders",
+      "note": "Use this for someone's instructions or orders, especially in the natural phrase 聽從某人的吩咐."
+    }
+  ],
   "traditional": "吩咐",
   "jyutping": "fan1 fu3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "instructions, orders from someone",
-      "english": [
-        {
-          "id": "yi16e3z0",
-          "word": "behest",
-          "meaning": "command; authoritative request",
-          "note": "This is the all-purpose everyday choice for someone's instruction or bidding, especially in phrases like 按照 A 嘅吩咐."
-        },
-        {
-          "id": "q6h6kkst",
-          "word": "bidding",
-          "meaning": "command; orders",
-          "note": "Use this for someone's instructions or orders, especially in the natural phrase 聽從某人的吩咐."
-        }
-      ],
-      "examples": [
-        {
-          "english": "At my boss's behest, I handed in a report before finishing work today.",
-          "traditional": "按照老闆嘅吩咐，我今日收工前交咗份報告。",
-          "jyutping": "on3 ziu3 lou5 baan2 ge3 fan1 fu3 ngo5 gam1 jat6 sau1 gung1 cin4 gaau1 zo2 fan6 bou3 gou3"
-        },
-        {
-          "english": "I will follow the manager's bidding and deliver the goods on time.",
-          "traditional": "我會聽從經理嘅吩咐，準時交貨。",
-          "jyutping": "ngo5 wui5 ting1 cung4 ging1 lei5 ge3 fan1 fu3 zeon2 si4 gaau1 fo3"
-        }
-      ]
+      "english": "At my boss's behest, I handed in a report before finishing work today.",
+      "traditional": "按照老闆嘅吩咐，我今日收工前交咗份報告。",
+      "jyutping": "on3 ziu3 lou5 baan2 ge3 fan1 fu3 ngo5 gam1 jat6 sau1 gung1 cin4 gaau1 zo2 fan6 bou3 gou3"
+    },
+    {
+      "english": "I will follow the manager's bidding and deliver the goods on time.",
+      "traditional": "我會聽從經理嘅吩咐，準時交貨。",
+      "jyutping": "ngo5 wui5 ting1 cung4 ging1 lei5 ge3 fan1 fu3 zeon2 si4 gaau1 fo3"
     }
   ]
 }

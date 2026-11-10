@@ -1,37 +1,33 @@
 {
   "id": "t884pq54",
   "partOfSpeech": "verb",
+  "meaning": "to win, earn (respect, applause)",
+  "english": [
+    {
+      "id": "3x4glub4",
+      "word": "merit",
+      "meaning": "deserve",
+      "note": "Use this when the emphasis is on earning or winning an actual response, reward, or recognition, such as applause."
+    },
+    {
+      "id": "pwvusn2z",
+      "word": "earn",
+      "meaning": "deserve through effort",
+      "note": "Use this for gaining recognition, success, or a reward through effort rather than simply receiving pay."
+    }
+  ],
   "traditional": "贏得",
   "jyutping": "jeng4 dak1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "to win, earn (respect, applause)",
-      "english": [
-        {
-          "id": "3x4glub4",
-          "word": "merit",
-          "meaning": "deserve",
-          "note": "Use this when the emphasis is on earning or winning an actual response, reward, or recognition, such as applause."
-        },
-        {
-          "id": "pwvusn2z",
-          "word": "earn",
-          "meaning": "deserve through effort",
-          "note": "Use this for gaining recognition, success, or a reward through effort rather than simply receiving pay."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Their speech did enough to merit a round of applause from the whole audience.",
-          "traditional": "佢嗰場演講贏得全場掌聲。",
-          "jyutping": "keoi5 go2 coeng4 jin2 gong2 jeng4 dak1 cyun4 coeng4 zoeng2 sing1"
-        },
-        {
-          "english": "They earn everyone's respect through their own hard work.",
-          "traditional": "佢靠自己努力贏得大家嘅尊重。",
-          "jyutping": "keoi5 kaau3 zi6 gei2 nou5 lik6 jeng4 dak1 daai6 gaa1 ge3 zyun1 zung6"
-        }
-      ]
+      "english": "Their speech did enough to merit a round of applause from the whole audience.",
+      "traditional": "佢嗰場演講贏得全場掌聲。",
+      "jyutping": "keoi5 go2 coeng4 jin2 gong2 jeng4 dak1 cyun4 coeng4 zoeng2 sing1"
+    },
+    {
+      "english": "They earn everyone's respect through their own hard work.",
+      "traditional": "佢靠自己努力贏得大家嘅尊重。",
+      "jyutping": "keoi5 kaau3 zi6 gei2 nou5 lik6 jeng4 dak1 daai6 gaa1 ge3 zyun1 zung6"
     }
   ]
 }

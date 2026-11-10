@@ -1,26 +1,22 @@
 {
   "id": "lfoykgc5",
   "partOfSpeech": "noun",
+  "meaning": "group of items",
+  "english": [
+    {
+      "id": "5a55nmfs",
+      "word": "batch",
+      "meaning": "group of items",
+      "note": "This is the all-purpose choice for a group or lot of similar things."
+    }
+  ],
   "traditional": "一批",
   "jyutping": "jat1 pai1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "group of items",
-      "english": [
-        {
-          "id": "5a55nmfs",
-          "word": "batch",
-          "meaning": "group of items",
-          "note": "This is the all-purpose choice for a group or lot of similar things."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This batch of documents has to be mailed today.",
-          "traditional": "呢一批文件要今日寄出。",
-          "jyutping": "ni1 jat1 pai1 man4 gin6 jiu3 gam1 jat6 gei3 ceot1"
-        }
-      ]
+      "english": "This batch of documents has to be mailed today.",
+      "traditional": "呢一批文件要今日寄出。",
+      "jyutping": "ni1 jat1 pai1 man4 gin6 jiu3 gam1 jat6 gei3 ceot1"
     }
   ]
 }

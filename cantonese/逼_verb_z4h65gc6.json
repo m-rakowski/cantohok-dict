@@ -1,84 +1,80 @@
 {
   "id": "z4h65gc6",
   "partOfSpeech": "verb",
+  "meaning": "force, pressure someone to do",
+  "english": [
+    {
+      "id": "ymlic9yr",
+      "word": "force",
+      "meaning": "force, make do",
+      "note": "This is the all-purpose choice for making someone act, and it also covers causing a reluctant reaction such as a laugh or smile."
+    },
+    {
+      "id": "rgtj7d1q",
+      "word": "compel",
+      "meaning": "force, coerce",
+      "register": "colloquial",
+      "note": "Use this as the all-purpose spoken choice when a person or circumstance forces someone to act."
+    },
+    {
+      "id": "xo4d808u",
+      "word": "oblige",
+      "meaning": "compel; require",
+      "note": "This is the all-purpose spoken choice when someone is forced or pressured to do something."
+    },
+    {
+      "id": "6tdtf35j",
+      "word": "press",
+      "meaning": "push back, thrust",
+      "register": "colloquial",
+      "note": "Use this when pressing means forcing, driving someone back, or putting strong pressure on someone to accept or do something."
+    },
+    {
+      "id": "x39r3yv7",
+      "word": "drive",
+      "meaning": "force someone to do",
+      "note": "Use this when someone is compelled or pushed hard to do something through pressure or force."
+    },
+    {
+      "id": "9r0icgwf",
+      "word": "cause",
+      "meaning": "cause to do",
+      "register": "colloquial",
+      "note": "Use this when causing someone to do something is forceful or coercive, making them act against their will."
+    }
+  ],
   "traditional": "逼",
   "jyutping": "bik1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "force, pressure someone to do",
-      "english": [
-        {
-          "id": "ymlic9yr",
-          "word": "force",
-          "meaning": "force, make do",
-          "note": "This is the all-purpose choice for making someone act, and it also covers causing a reluctant reaction such as a laugh or smile."
-        },
-        {
-          "id": "rgtj7d1q",
-          "word": "compel",
-          "meaning": "force, coerce",
-          "register": "colloquial",
-          "note": "Use this as the all-purpose spoken choice when a person or circumstance forces someone to act."
-        },
-        {
-          "id": "xo4d808u",
-          "word": "oblige",
-          "meaning": "compel; require",
-          "note": "This is the all-purpose spoken choice when someone is forced or pressured to do something."
-        },
-        {
-          "id": "6tdtf35j",
-          "word": "press",
-          "meaning": "push back, thrust",
-          "register": "colloquial",
-          "note": "Use this when pressing means forcing, driving someone back, or putting strong pressure on someone to accept or do something."
-        },
-        {
-          "id": "x39r3yv7",
-          "word": "drive",
-          "meaning": "force someone to do",
-          "note": "Use this when someone is compelled or pushed hard to do something through pressure or force."
-        },
-        {
-          "id": "9r0icgwf",
-          "word": "cause",
-          "meaning": "cause to do",
-          "register": "colloquial",
-          "note": "Use this when causing someone to do something is forceful or coercive, making them act against their will."
-        }
-      ],
-      "examples": [
-        {
-          "english": "They force me to agree immediately.",
-          "traditional": "佢哋逼我即刻答應。",
-          "jyutping": "keoi5 dei6 bik1 ngo5 zik1 hak1 daap3 jing3"
-        },
-        {
-          "english": "They compel me to hand in the report today.",
-          "traditional": "佢逼我今日一定要交份報告。",
-          "jyutping": "keoi5 bik1 ngo5 gam1 jat6 jat1 ding6 jiu3 gaau1 fan6 bou3 gou3"
-        },
-        {
-          "english": "My boss used pressure to oblige me to work late today.",
-          "traditional": "老闆逼我今日返工返到好夜。",
-          "jyutping": "lou5 baan2 bik1 ngo5 gam1 jat6 faan1 gung1 faan1 dou3 hou2 je6"
-        },
-        {
-          "english": "Don’t press me to agree right away.",
-          "traditional": "你唔好逼我即刻答應。",
-          "jyutping": "nei5 m4 hou2 bik1 ngo5 zik1 hak1 daap3 jing3"
-        },
-        {
-          "english": "My boss can drive me to work overtime every night.",
-          "traditional": "個老闆逼我晚晚加班。",
-          "jyutping": "go3 lou5 baan2 bik1 ngo5 maan5 maan5 gaa1 baan1"
-        },
-        {
-          "english": "Their threats can cause me to apologize immediately.",
-          "traditional": "佢哋啲威脅逼我即刻道歉。",
-          "jyutping": "keoi5 dei6 di1 wai1 hip3 bik1 ngo5 zik1 hak1 dou6 hip3"
-        }
-      ]
+      "english": "They force me to agree immediately.",
+      "traditional": "佢哋逼我即刻答應。",
+      "jyutping": "keoi5 dei6 bik1 ngo5 zik1 hak1 daap3 jing3"
+    },
+    {
+      "english": "They compel me to hand in the report today.",
+      "traditional": "佢逼我今日一定要交份報告。",
+      "jyutping": "keoi5 bik1 ngo5 gam1 jat6 jat1 ding6 jiu3 gaau1 fan6 bou3 gou3"
+    },
+    {
+      "english": "My boss used pressure to oblige me to work late today.",
+      "traditional": "老闆逼我今日返工返到好夜。",
+      "jyutping": "lou5 baan2 bik1 ngo5 gam1 jat6 faan1 gung1 faan1 dou3 hou2 je6"
+    },
+    {
+      "english": "Don’t press me to agree right away.",
+      "traditional": "你唔好逼我即刻答應。",
+      "jyutping": "nei5 m4 hou2 bik1 ngo5 zik1 hak1 daap3 jing3"
+    },
+    {
+      "english": "My boss can drive me to work overtime every night.",
+      "traditional": "個老闆逼我晚晚加班。",
+      "jyutping": "go3 lou5 baan2 bik1 ngo5 maan5 maan5 gaa1 baan1"
+    },
+    {
+      "english": "Their threats can cause me to apologize immediately.",
+      "traditional": "佢哋啲威脅逼我即刻道歉。",
+      "jyutping": "keoi5 dei6 di1 wai1 hip3 bik1 ngo5 zik1 hak1 dou6 hip3"
     }
   ]
 }

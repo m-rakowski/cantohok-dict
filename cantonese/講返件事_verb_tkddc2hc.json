@@ -1,28 +1,24 @@
 {
   "id": "tkddc2hc",
   "partOfSpeech": "verb",
+  "meaning": "describe an event",
+  "english": [
+    {
+      "id": "c5dulfup",
+      "word": "report",
+      "meaning": "describe an event",
+      "register": "colloquial",
+      "note": "For simply recounting an event, this is the all-purpose spoken choice."
+    }
+  ],
   "traditional": "講返件事",
   "jyutping": "gong2 faan1 gin6 si6",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "describe an event",
-      "english": [
-        {
-          "id": "c5dulfup",
-          "word": "report",
-          "meaning": "describe an event",
-          "register": "colloquial",
-          "note": "For simply recounting an event, this is the all-purpose spoken choice."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "Let me report what happened to you first.",
-          "traditional": "等我講返件事畀你聽先。",
-          "jyutping": "dang2 ngo5 gong2 faan1 gin6 si6 bei2 nei5 teng1 sin1"
-        }
-      ]
+      "english": "Let me report what happened to you first.",
+      "traditional": "等我講返件事畀你聽先。",
+      "jyutping": "dang2 ngo5 gong2 faan1 gin6 si6 bei2 nei5 teng1 sin1"
     }
   ]
 }

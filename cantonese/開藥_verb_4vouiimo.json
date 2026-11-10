@@ -1,26 +1,22 @@
 {
   "id": "4vouiimo",
   "partOfSpeech": "verb",
+  "meaning": "order medicine",
+  "english": [
+    {
+      "id": "5h0lk11t",
+      "word": "prescribe",
+      "meaning": "order medicine",
+      "note": "Use this as the everyday medical sense when a doctor orders medicine for a patient."
+    }
+  ],
   "traditional": "開藥",
   "jyutping": "hoi1 joek6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "order medicine",
-      "english": [
-        {
-          "id": "5h0lk11t",
-          "word": "prescribe",
-          "meaning": "order medicine",
-          "note": "Use this as the everyday medical sense when a doctor orders medicine for a patient."
-        }
-      ],
-      "examples": [
-        {
-          "english": "After looking at my report, the doctor will prescribe medicine for me.",
-          "traditional": "醫生睇完我份報告，就會幫我開藥。",
-          "jyutping": "ji1 sang1 tai2 jyun4 ngo5 fan6 bou3 gou3 zau6 wui5 bong1 ngo5 hoi1 joek6"
-        }
-      ]
+      "english": "After looking at my report, the doctor will prescribe medicine for me.",
+      "traditional": "醫生睇完我份報告，就會幫我開藥。",
+      "jyutping": "ji1 sang1 tai2 jyun4 ngo5 fan6 bou3 gou3 zau6 wui5 bong1 ngo5 hoi1 joek6"
     }
   ]
 }

@@ -1,28 +1,24 @@
 {
   "id": "dkft24qm",
   "partOfSpeech": "noun",
+  "meaning": "business partnership",
+  "english": [
+    {
+      "id": "3rfmbukw",
+      "word": "firm",
+      "meaning": "business partnership",
+      "register": "formal",
+      "note": "Use this when referring specifically to the business name or trading name under which the firm operates."
+    }
+  ],
   "traditional": "商號",
   "jyutping": "soeng1 hou6",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "business partnership",
-      "english": [
-        {
-          "id": "3rfmbukw",
-          "word": "firm",
-          "meaning": "business partnership",
-          "register": "formal",
-          "note": "Use this when referring specifically to the business name or trading name under which the firm operates."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "Please enter the trading name of the firm on the form.",
-          "traditional": "請喺表格填上商號名稱。",
-          "jyutping": "cing2 hai2 biu2 gaak3 tin4 soeng6 soeng1 hou6 ming4 cing1"
-        }
-      ]
+      "english": "Please enter the trading name of the firm on the form.",
+      "traditional": "請喺表格填上商號名稱。",
+      "jyutping": "cing2 hai2 biu2 gaak3 tin4 soeng6 soeng1 hou6 ming4 cing1"
     }
   ]
 }

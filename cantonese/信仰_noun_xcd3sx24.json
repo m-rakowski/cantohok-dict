@@ -1,38 +1,34 @@
 {
   "id": "xcd3sx24",
   "partOfSpeech": "noun",
+  "meaning": "religious faith",
+  "english": [
+    {
+      "id": "0kn0i6fm",
+      "word": "belief",
+      "meaning": "religious faith",
+      "note": "Use this specifically for religious faith or a religion someone follows."
+    },
+    {
+      "id": "fnr5800l",
+      "word": "faith",
+      "meaning": "religion or creed",
+      "register": "formal",
+      "note": "Use 信仰 for a religious or spiritual belief system such as the Christian faith."
+    }
+  ],
   "traditional": "信仰",
   "jyutping": "seon3 joeng5",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "religious faith",
-      "english": [
-        {
-          "id": "0kn0i6fm",
-          "word": "belief",
-          "meaning": "religious faith",
-          "note": "Use this specifically for religious faith or a religion someone follows."
-        },
-        {
-          "id": "fnr5800l",
-          "word": "faith",
-          "meaning": "religion or creed",
-          "register": "formal",
-          "note": "Use 信仰 for a religious or spiritual belief system such as the Christian faith."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I respect everyone's belief.",
-          "traditional": "我尊重每個人嘅信仰。",
-          "jyutping": "ngo5 zyun1 zung6 mui5 go3 jan4 ge3 seon3 joeng5"
-        },
-        {
-          "english": "His faith is Christianity.",
-          "traditional": "佢嘅信仰係基督教。",
-          "jyutping": "keoi5 ge3 seon3 joeng5 hai6 gei1 duk1 gaau3"
-        }
-      ]
+      "english": "I respect everyone's belief.",
+      "traditional": "我尊重每個人嘅信仰。",
+      "jyutping": "ngo5 zyun1 zung6 mui5 go3 jan4 ge3 seon3 joeng5"
+    },
+    {
+      "english": "His faith is Christianity.",
+      "traditional": "佢嘅信仰係基督教。",
+      "jyutping": "keoi5 ge3 seon3 joeng5 hai6 gei1 duk1 gaau3"
     }
   ]
 }

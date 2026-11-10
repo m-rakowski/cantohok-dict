@@ -1,28 +1,24 @@
 {
   "id": "6iokk6t4",
   "partOfSpeech": "verb",
+  "meaning": "become quiet",
+  "english": [
+    {
+      "id": "abx5sf76",
+      "word": "hush",
+      "meaning": "become quiet",
+      "register": "colloquial",
+      "note": "This is the all-purpose choice for something or someone becoming quiet."
+    }
+  ],
   "traditional": "靜落嚟",
   "jyutping": "zing6 lok6 lai4",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "become quiet",
-      "english": [
-        {
-          "id": "abx5sf76",
-          "word": "hush",
-          "meaning": "become quiet",
-          "register": "colloquial",
-          "note": "This is the all-purpose choice for something or someone becoming quiet."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "Let’s wait for everyone to hush before starting the meeting.",
-          "traditional": "等大家靜落嚟先再開會。",
-          "jyutping": "dang2 daai6 gaa1 zing6 lok6 lai4 sin1 zoi3 hoi1 wui2"
-        }
-      ]
+      "english": "Let’s wait for everyone to hush before starting the meeting.",
+      "traditional": "等大家靜落嚟先再開會。",
+      "jyutping": "dang2 daai6 gaa1 zing6 lok6 lai4 sin1 zoi3 hoi1 wui2"
     }
   ]
 }

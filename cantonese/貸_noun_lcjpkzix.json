@@ -1,28 +1,24 @@
 {
   "id": "lcjpkzix",
   "partOfSpeech": "noun",
+  "meaning": "act of lending",
+  "english": [
+    {
+      "id": "8j53e1m4",
+      "word": "loan",
+      "meaning": "act of lending",
+      "register": "written",
+      "note": "Use this formal term for the act or instance of lending itself, rather than the money borrowed."
+    }
+  ],
   "traditional": "貸",
   "jyutping": "taai3",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "act of lending",
-      "english": [
-        {
-          "id": "8j53e1m4",
-          "word": "loan",
-          "meaning": "act of lending",
-          "register": "written",
-          "note": "Use this formal term for the act or instance of lending itself, rather than the money borrowed."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "The bank has decided to loan out this money.",
-          "traditional": "銀行已經決定貸出呢筆錢。",
-          "jyutping": "ngan4 hong4 ji5 ging1 kyut3 ding6 taai3 ceot1 ni1 bat1 cin2"
-        }
-      ]
+      "english": "The bank has decided to loan out this money.",
+      "traditional": "銀行已經決定貸出呢筆錢。",
+      "jyutping": "ngan4 hong4 ji5 ging1 kyut3 ding6 taai3 ceot1 ni1 bat1 cin2"
     }
   ]
 }

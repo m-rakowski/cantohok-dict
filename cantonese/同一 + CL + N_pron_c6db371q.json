@@ -1,26 +1,22 @@
 {
   "id": "c6db371q",
   "partOfSpeech": "pron",
+  "meaning": "the same thing; ditto",
+  "english": [
+    {
+      "id": "c2apt30y",
+      "word": "same",
+      "meaning": "the same thing; ditto",
+      "note": "Use this for the exact identical person or thing, especially when a classifier and noun are stated."
+    }
+  ],
   "traditional": "同一 + CL + N",
   "jyutping": "tung4 jat1 CL N",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "the same thing; ditto",
-      "english": [
-        {
-          "id": "c2apt30y",
-          "word": "same",
-          "meaning": "the same thing; ditto",
-          "note": "Use this for the exact identical person or thing, especially when a classifier and noun are stated."
-        }
-      ],
-      "examples": [
-        {
-          "english": "We are wearing the same shirt.",
-          "traditional": "我哋著緊同一件衫。",
-          "jyutping": "ngo5 dei6 zoek6 gan2 tung4 jat1 gin6 saam1"
-        }
-      ]
+      "english": "We are wearing the same shirt.",
+      "traditional": "我哋著緊同一件衫。",
+      "jyutping": "ngo5 dei6 zoek6 gan2 tung4 jat1 gin6 saam1"
     }
   ]
 }

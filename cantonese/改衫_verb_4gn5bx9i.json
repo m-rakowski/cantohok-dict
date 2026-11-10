@@ -1,37 +1,33 @@
 {
   "id": "4gn5bx9i",
   "partOfSpeech": "verb",
+  "meaning": "alter clothes",
+  "english": [
+    {
+      "id": "01lo66qn",
+      "word": "tailor",
+      "meaning": "alter clothes",
+      "note": "This is the all-purpose choice for altering or repairing existing clothes; making a new garment from scratch is usually expressed differently."
+    },
+    {
+      "id": "l6yz6v49",
+      "word": "alter",
+      "meaning": "alter clothes",
+      "note": "Use 改衫 specifically when a tailor alters clothing so that it fits."
+    }
+  ],
   "traditional": "改衫",
   "jyutping": "goi2 saam1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "alter clothes",
-      "english": [
-        {
-          "id": "01lo66qn",
-          "word": "tailor",
-          "meaning": "alter clothes",
-          "note": "This is the all-purpose choice for altering or repairing existing clothes; making a new garment from scratch is usually expressed differently."
-        },
-        {
-          "id": "l6yz6v49",
-          "word": "alter",
-          "meaning": "alter clothes",
-          "note": "Use 改衫 specifically when a tailor alters clothing so that it fits."
-        }
-      ],
-      "examples": [
-        {
-          "english": "These trousers are too long, so I need to tailor them.",
-          "traditional": "條褲太長，我要拎去改衫。",
-          "jyutping": "tiu4 fu3 taai3 coeng4 ngo5 jiu3 ling1 heoi3 goi2 saam1"
-        },
-        {
-          "english": "I need to take these trousers to a tailor to alter them so they fit.",
-          "traditional": "呢條褲要拎去改衫，先至啱身。",
-          "jyutping": "ni1 tiu4 fu3 jiu3 ling1 heoi3 goi2 saam1 sin1 zi3 ngaam1 san1"
-        }
-      ]
+      "english": "These trousers are too long, so I need to tailor them.",
+      "traditional": "條褲太長，我要拎去改衫。",
+      "jyutping": "tiu4 fu3 taai3 coeng4 ngo5 jiu3 ling1 heoi3 goi2 saam1"
+    },
+    {
+      "english": "I need to take these trousers to a tailor to alter them so they fit.",
+      "traditional": "呢條褲要拎去改衫，先至啱身。",
+      "jyutping": "ni1 tiu4 fu3 jiu3 ling1 heoi3 goi2 saam1 sin1 zi3 ngaam1 san1"
     }
   ]
 }

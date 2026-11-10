@@ -1,37 +1,33 @@
 {
   "id": "hbveypup",
   "partOfSpeech": "noun",
+  "meaning": "farming, agriculture",
+  "english": [
+    {
+      "id": "pm3rtwrd",
+      "word": "agriculture",
+      "meaning": "farming",
+      "note": "This is the all-purpose noun for agriculture, including crop growing and livestock farming."
+    },
+    {
+      "id": "uyl9iyw6",
+      "word": "farming",
+      "meaning": "agriculture",
+      "note": "This is the all-purpose noun for the business or sector of cultivating land and raising livestock."
+    }
+  ],
   "traditional": "農業",
   "jyutping": "nung4 jip6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "farming, agriculture",
-      "english": [
-        {
-          "id": "pm3rtwrd",
-          "word": "agriculture",
-          "meaning": "farming",
-          "note": "This is the all-purpose noun for agriculture, including crop growing and livestock farming."
-        },
-        {
-          "id": "uyl9iyw6",
-          "word": "farming",
-          "meaning": "agriculture",
-          "note": "This is the all-purpose noun for the business or sector of cultivating land and raising livestock."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This village mainly relies on agriculture for its livelihood.",
-          "traditional": "呢個村主要靠農業維生。",
-          "jyutping": "ni1 go3 cyun1 zyu2 jiu3 kaau3 nung4 jip6 wai4 sang1"
-        },
-        {
-          "english": "Farming isn't easy these days.",
-          "traditional": "農業而家都唔容易做。",
-          "jyutping": "nung4 jip6 ji4 gaa1 dou1 m4 jung4 ji6 zou6"
-        }
-      ]
+      "english": "This village mainly relies on agriculture for its livelihood.",
+      "traditional": "呢個村主要靠農業維生。",
+      "jyutping": "ni1 go3 cyun1 zyu2 jiu3 kaau3 nung4 jip6 wai4 sang1"
+    },
+    {
+      "english": "Farming isn't easy these days.",
+      "traditional": "農業而家都唔容易做。",
+      "jyutping": "nung4 jip6 ji4 gaa1 dou1 m4 jung4 ji6 zou6"
     }
   ]
 }

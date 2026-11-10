@@ -1,28 +1,24 @@
 {
   "id": "r91mgehz",
   "partOfSpeech": "noun",
+  "meaning": "gun, firearm",
+  "english": [
+    {
+      "id": "h45avh7y",
+      "word": "firearm",
+      "meaning": "gun, firearm",
+      "register": "formal",
+      "note": "Use this more formal term in legal, official, or technical contexts referring to firearms generally."
+    }
+  ],
   "traditional": "槍械",
   "jyutping": "coeng1 haai6",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "gun, firearm",
-      "english": [
-        {
-          "id": "h45avh7y",
-          "word": "firearm",
-          "meaning": "gun, firearm",
-          "register": "formal",
-          "note": "Use this more formal term in legal, official, or technical contexts referring to firearms generally."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The police are investigating a case of illegal firearm possession.",
-          "traditional": "警方正調查非法管有槍械嘅案件。",
-          "jyutping": "ging2 fong1 zing3 tiu4 caa4 fei1 faat3 gun2 jau5 coeng1 haai6 ge3 on3 gin6"
-        }
-      ]
+      "english": "The police are investigating a case of illegal firearm possession.",
+      "traditional": "警方正調查非法管有槍械嘅案件。",
+      "jyutping": "ging2 fong1 zing3 tiu4 caa4 fei1 faat3 gun2 jau5 coeng1 haai6 ge3 on3 gin6"
     }
   ]
 }

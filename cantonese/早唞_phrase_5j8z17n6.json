@@ -1,28 +1,24 @@
 {
   "id": "5j8z17n6",
   "partOfSpeech": "phrase",
+  "meaning": "farewell in the evening",
+  "english": [
+    {
+      "id": "1oxnl9hv",
+      "word": "good night",
+      "meaning": "farewell in the evening",
+      "register": "colloquial",
+      "note": "Use this as the all-purpose spoken Hong Kong farewell before sleep or at night."
+    }
+  ],
   "traditional": "早唞",
   "jyutping": "zou2 tau2",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "farewell in the evening",
-      "english": [
-        {
-          "id": "1oxnl9hv",
-          "word": "good night",
-          "meaning": "farewell in the evening",
-          "register": "colloquial",
-          "note": "Use this as the all-purpose spoken Hong Kong farewell before sleep or at night."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "Ming, I have to get up early tomorrow, good night!",
-          "traditional": "阿明，我聽日要早起，早唞呀！",
-          "jyutping": "aa3 ming4 ngo5 ting1 jat6 jiu3 zou2 hei2 zou2 tau2 aa3"
-        }
-      ]
+      "english": "Ming, I have to get up early tomorrow, good night!",
+      "traditional": "阿明，我聽日要早起，早唞呀！",
+      "jyutping": "aa3 ming4 ngo5 ting1 jat6 jiu3 zou2 hei2 zou2 tau2 aa3"
     }
   ]
 }

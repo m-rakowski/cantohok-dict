@@ -1,26 +1,22 @@
 {
   "id": "ojvrayjq",
   "partOfSpeech": "noun",
+  "meaning": "correct spelling",
+  "english": [
+    {
+      "id": "liy6aj1h",
+      "word": "spelling",
+      "meaning": "correct spelling",
+      "note": "This is the all-purpose noun when you mean how a particular word is spelled or whether its spelling is correct."
+    }
+  ],
   "traditional": "串法",
   "jyutping": "cyun3 faat3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "correct spelling",
-      "english": [
-        {
-          "id": "liy6aj1h",
-          "word": "spelling",
-          "meaning": "correct spelling",
-          "note": "This is the all-purpose noun when you mean how a particular word is spelled or whether its spelling is correct."
-        }
-      ],
-      "examples": [
-        {
-          "english": "What’s the spelling of this word?",
-          "traditional": "呢個字嘅串法係點？",
-          "jyutping": "nei1 go3 zi6 ge3 cyun3 faat3 hai6 dim2"
-        }
-      ]
+      "english": "What’s the spelling of this word?",
+      "traditional": "呢個字嘅串法係點？",
+      "jyutping": "nei1 go3 zi6 ge3 cyun3 faat3 hai6 dim2"
     }
   ]
 }

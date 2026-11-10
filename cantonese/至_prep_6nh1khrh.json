@@ -1,28 +1,24 @@
 {
   "id": "6nh1khrh",
   "partOfSpeech": "prep",
+  "meaning": "up to time of",
+  "english": [
+    {
+      "id": "iwqivvuy",
+      "word": "until",
+      "meaning": "up to time of",
+      "register": "formal",
+      "note": "Use this mainly in formal or written wording for an endpoint in time or at a place."
+    }
+  ],
   "traditional": "至",
   "jyutping": "zi3",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "up to time of",
-      "english": [
-        {
-          "id": "iwqivvuy",
-          "word": "until",
-          "meaning": "up to time of",
-          "register": "formal",
-          "note": "Use this mainly in formal or written wording for an endpoint in time or at a place."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The event will be postponed until next week.",
-          "traditional": "活動將延至下星期舉行。",
-          "jyutping": "wut6 dung6 zoeng1 jin4 zi3 haa6 sing1 kei4 geoi2 hang4"
-        }
-      ]
+      "english": "The event will be postponed until next week.",
+      "traditional": "活動將延至下星期舉行。",
+      "jyutping": "wut6 dung6 zoeng1 jin4 zi3 haa6 sing1 kei4 geoi2 hang4"
     }
   ]
 }

@@ -1,28 +1,24 @@
 {
   "id": "6cgiwily",
   "partOfSpeech": "noun",
+  "meaning": "season",
+  "english": [
+    {
+      "id": "u2tv7ui9",
+      "word": "autumn",
+      "meaning": "season",
+      "register": "formal",
+      "note": "Use this more formal term in seasonal classifications, forecasts, and written contexts."
+    }
+  ],
   "traditional": "秋季",
   "jyutping": "cau1 gwai3",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "season",
-      "english": [
-        {
-          "id": "u2tv7ui9",
-          "word": "autumn",
-          "meaning": "season",
-          "register": "formal",
-          "note": "Use this more formal term in seasonal classifications, forecasts, and written contexts."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The autumn forecast shows that temperatures will drop over the next few days.",
-          "traditional": "秋季預測顯示，未來幾日氣溫會下降。",
-          "jyutping": "cau1 gwai3 jyu6 cak1 hin2 si6 mei6 loi4 gei2 jat6 hei3 wan1 wui5 haa6 gong3"
-        }
-      ]
+      "english": "The autumn forecast shows that temperatures will drop over the next few days.",
+      "traditional": "秋季預測顯示，未來幾日氣溫會下降。",
+      "jyutping": "cau1 gwai3 jyu6 cak1 hin2 si6 mei6 loi4 gei2 jat6 hei3 wan1 wui5 haa6 gong3"
     }
   ]
 }

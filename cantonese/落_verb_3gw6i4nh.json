@@ -1,37 +1,33 @@
 {
   "id": "3gw6i4nh",
   "partOfSpeech": "verb",
+  "meaning": "go down, fall",
+  "english": [
+    {
+      "id": "2m9u7dn7",
+      "word": "descend",
+      "meaning": "go down / fall",
+      "note": "This is the all-purpose choice for physically going down, including moving down a route or slope."
+    },
+    {
+      "id": "8lf3xq8i",
+      "word": "dip",
+      "meaning": "sink or slope down",
+      "note": "Use 落 as the all-purpose verb for something going down, including a figure or rate falling slightly and the sun or a slope descending."
+    }
+  ],
   "traditional": "落",
   "jyutping": "lok6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "go down, fall",
-      "english": [
-        {
-          "id": "2m9u7dn7",
-          "word": "descend",
-          "meaning": "go down / fall",
-          "note": "This is the all-purpose choice for physically going down, including moving down a route or slope."
-        },
-        {
-          "id": "8lf3xq8i",
-          "word": "dip",
-          "meaning": "sink or slope down",
-          "note": "Use 落 as the all-purpose verb for something going down, including a figure or rate falling slightly and the sun or a slope descending."
-        }
-      ],
-      "examples": [
-        {
-          "english": "We descend the mountain along this slope.",
-          "traditional": "我哋沿住呢條斜路落山。",
-          "jyutping": "ngo5 dei6 jyun4 zyu6 ni1 tiu4 ce4 lou6 lok6 saan1"
-        },
-        {
-          "english": "The temperature will dip a little tonight.",
-          "traditional": "今晚氣溫會落少少。",
-          "jyutping": "gam1 maan5 hei3 wan1 wui5 lok6 siu2 siu2"
-        }
-      ]
+      "english": "We descend the mountain along this slope.",
+      "traditional": "我哋沿住呢條斜路落山。",
+      "jyutping": "ngo5 dei6 jyun4 zyu6 ni1 tiu4 ce4 lou6 lok6 saan1"
+    },
+    {
+      "english": "The temperature will dip a little tonight.",
+      "traditional": "今晚氣溫會落少少。",
+      "jyutping": "gam1 maan5 hei3 wan1 wui5 lok6 siu2 siu2"
     }
   ]
 }

@@ -1,37 +1,33 @@
 {
   "id": "cse67quc",
   "partOfSpeech": "adj",
+  "meaning": "spicy",
+  "english": [
+    {
+      "id": "fgqhxa3r",
+      "word": "spicy",
+      "meaning": "hot and burning",
+      "note": "This is the all-purpose spoken choice for food that gives a hot, burning sensation."
+    },
+    {
+      "id": "4n37xrha",
+      "word": "hot",
+      "meaning": "spicy",
+      "note": "Use this instead of 熱 when the heat is the spicy pungency of food or chilies."
+    }
+  ],
   "traditional": "辣",
   "jyutping": "laat6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "spicy",
-      "english": [
-        {
-          "id": "fgqhxa3r",
-          "word": "spicy",
-          "meaning": "hot and burning",
-          "note": "This is the all-purpose spoken choice for food that gives a hot, burning sensation."
-        },
-        {
-          "id": "4n37xrha",
-          "word": "hot",
-          "meaning": "spicy",
-          "note": "Use this instead of 熱 when the heat is the spicy pungency of food or chilies."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This dish is so spicy that it makes me sweat.",
-          "traditional": "呢碗辣到我出晒汗。",
-          "jyutping": "ni1 wun2 laat6 dou3 ngo5 ceot1 saai3 hon6"
-        },
-        {
-          "english": "This curry is really hot.",
-          "traditional": "呢碗咖喱真係好辣。",
-          "jyutping": "ni1 wun2 gaa3 lei1 zan1 hai6 hou2 laat6"
-        }
-      ]
+      "english": "This dish is so spicy that it makes me sweat.",
+      "traditional": "呢碗辣到我出晒汗。",
+      "jyutping": "ni1 wun2 laat6 dou3 ngo5 ceot1 saai3 hon6"
+    },
+    {
+      "english": "This curry is really hot.",
+      "traditional": "呢碗咖喱真係好辣。",
+      "jyutping": "ni1 wun2 gaa3 lei1 zan1 hai6 hou2 laat6"
     }
   ]
 }

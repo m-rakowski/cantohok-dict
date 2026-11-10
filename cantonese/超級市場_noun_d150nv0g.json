@@ -1,37 +1,33 @@
 {
   "id": "d150nv0g",
   "partOfSpeech": "noun",
+  "meaning": "supermarket",
+  "english": [
+    {
+      "id": "6wwjket9",
+      "word": "supermarket",
+      "meaning": "large self-service store",
+      "note": "Use this full form when you want to spell out the term rather than use the common abbreviation 超市."
+    },
+    {
+      "id": "m87i82ts",
+      "word": "market",
+      "meaning": "grocery store",
+      "note": "Use this when the grocery store is specifically a supermarket rather than a street market."
+    }
+  ],
   "traditional": "超級市場",
   "jyutping": "ciu1 kap1 si5 coeng4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "supermarket",
-      "english": [
-        {
-          "id": "6wwjket9",
-          "word": "supermarket",
-          "meaning": "large self-service store",
-          "note": "Use this full form when you want to spell out the term rather than use the common abbreviation 超市."
-        },
-        {
-          "id": "m87i82ts",
-          "word": "market",
-          "meaning": "grocery store",
-          "note": "Use this when the grocery store is specifically a supermarket rather than a street market."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The vegetables at this supermarket are very fresh.",
-          "traditional": "呢間超級市場啲菜好新鮮。",
-          "jyutping": "ni1 gaan1 ciu1 kap1 si5 coeng4 di1 coi3 hou2 san1 sin1"
-        },
-        {
-          "english": "I usually buy groceries at the supermarket instead of the market.",
-          "traditional": "我平時去超級市場買餸，唔去街市。",
-          "jyutping": "ngo5 ping4 si4 heoi3 ciu1 kap1 si5 coeng4 maai5 sung3 m4 heoi3 gaai1 si5"
-        }
-      ]
+      "english": "The vegetables at this supermarket are very fresh.",
+      "traditional": "呢間超級市場啲菜好新鮮。",
+      "jyutping": "ni1 gaan1 ciu1 kap1 si5 coeng4 di1 coi3 hou2 san1 sin1"
+    },
+    {
+      "english": "I usually buy groceries at the supermarket instead of the market.",
+      "traditional": "我平時去超級市場買餸，唔去街市。",
+      "jyutping": "ngo5 ping4 si4 heoi3 ciu1 kap1 si5 coeng4 maai5 sung3 m4 heoi3 gaai1 si5"
     }
   ]
 }

@@ -1,28 +1,24 @@
 {
   "id": "geejxiyx",
   "partOfSpeech": "noun",
+  "meaning": "meal prayer",
+  "english": [
+    {
+      "id": "2gqqtd43",
+      "word": "grace",
+      "meaning": "meal prayer",
+      "register": "religious",
+      "note": "Use this for the prayer of thanks said in connection with a meal."
+    }
+  ],
   "traditional": "謝飯祈禱",
   "jyutping": "ze6 faan6 kei4 tou2",
-  "boxes": [
+  "register": "religious",
+  "examples": [
     {
-      "meaning": "meal prayer",
-      "english": [
-        {
-          "id": "2gqqtd43",
-          "word": "grace",
-          "meaning": "meal prayer",
-          "register": "religious",
-          "note": "Use this for the prayer of thanks said in connection with a meal."
-        }
-      ],
-      "register": "religious",
-      "examples": [
-        {
-          "english": "Before the meal, we say grace together.",
-          "traditional": "食飯之前，我哋一齊做謝飯祈禱。",
-          "jyutping": "sik6 faan6 zi1 cin4 ngo5 dei6 jat1 cai4 zou6 ze6 faan6 kei4 tou2"
-        }
-      ]
+      "english": "Before the meal, we say grace together.",
+      "traditional": "食飯之前，我哋一齊做謝飯祈禱。",
+      "jyutping": "sik6 faan6 zi1 cin4 ngo5 dei6 jat1 cai4 zou6 ze6 faan6 kei4 tou2"
     }
   ]
 }

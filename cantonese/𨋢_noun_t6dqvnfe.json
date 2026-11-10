@@ -1,38 +1,34 @@
 {
   "id": "t6dqvnfe",
   "partOfSpeech": "noun",
+  "meaning": "lift, elevator",
+  "english": [
+    {
+      "id": "t6mhy13x",
+      "word": "elevator",
+      "meaning": "lift for people/goods",
+      "register": "colloquial",
+      "note": "This is the all-purpose colloquial Hong Kong Cantonese word for a lift carrying people or goods."
+    },
+    {
+      "id": "w4fn9dpp",
+      "word": "lift",
+      "meaning": "elevator",
+      "note": "This is the all-purpose spoken Hong Kong noun for an elevator."
+    }
+  ],
   "traditional": "𨋢",
   "jyutping": "lip1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "lift, elevator",
-      "english": [
-        {
-          "id": "t6mhy13x",
-          "word": "elevator",
-          "meaning": "lift for people/goods",
-          "register": "colloquial",
-          "note": "This is the all-purpose colloquial Hong Kong Cantonese word for a lift carrying people or goods."
-        },
-        {
-          "id": "w4fn9dpp",
-          "word": "lift",
-          "meaning": "elevator",
-          "note": "This is the all-purpose spoken Hong Kong noun for an elevator."
-        }
-      ],
-      "examples": [
-        {
-          "english": "We took the elevator to the tenth floor.",
-          "traditional": "我哋搭𨋢上十樓。",
-          "jyutping": "ngo5 dei6 daap3 lip1 soeng5 sap6 lau4"
-        },
-        {
-          "english": "The lift is broken, so we have to take the stairs.",
-          "traditional": "部𨋢壞咗，我哋要行樓梯。",
-          "jyutping": "bou6 lip1 waai6 zo2 ngo5 dei6 jiu3 haang4 lau4 tai1"
-        }
-      ]
+      "english": "We took the elevator to the tenth floor.",
+      "traditional": "我哋搭𨋢上十樓。",
+      "jyutping": "ngo5 dei6 daap3 lip1 soeng5 sap6 lau4"
+    },
+    {
+      "english": "The lift is broken, so we have to take the stairs.",
+      "traditional": "部𨋢壞咗，我哋要行樓梯。",
+      "jyutping": "bou6 lip1 waai6 zo2 ngo5 dei6 jiu3 haang4 lau4 tai1"
     }
   ]
 }

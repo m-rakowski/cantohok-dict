@@ -1,28 +1,24 @@
 {
   "id": "48ujz9d5",
   "partOfSpeech": "noun",
+  "meaning": "moving emotional quality",
+  "english": [
+    {
+      "id": "07fuu69h",
+      "word": "pathos",
+      "meaning": "moving emotional quality",
+      "register": "written",
+      "note": "Use this when the pathos specifically comes from sadness, pity, or a tragic situation."
+    }
+  ],
   "traditional": "悲情",
   "jyutping": "bei1 cing4",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "moving emotional quality",
-      "english": [
-        {
-          "id": "07fuu69h",
-          "word": "pathos",
-          "meaning": "moving emotional quality",
-          "register": "written",
-          "note": "Use this when the pathos specifically comes from sadness, pity, or a tragic situation."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "The pathos of a family separated during war moved countless viewers.",
-          "traditional": "悲情",
-          "jyutping": "bei1 cing4"
-        }
-      ]
+      "english": "The pathos of a family separated during war moved countless viewers.",
+      "traditional": "悲情",
+      "jyutping": "bei1 cing4"
     }
   ]
 }

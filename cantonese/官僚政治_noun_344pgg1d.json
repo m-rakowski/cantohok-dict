@@ -1,28 +1,24 @@
 {
   "id": "344pgg1d",
   "partOfSpeech": "noun",
+  "meaning": "government by officials",
+  "english": [
+    {
+      "id": "c15qtjah",
+      "word": "bureaucracy",
+      "meaning": "government by officials",
+      "register": "formal",
+      "note": "Use this specifically for government conducted by officials and bureaucratic administrators rather than elected representatives."
+    }
+  ],
   "traditional": "官僚政治",
   "jyutping": "gun1 liu4 zing3 zi6",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "government by officials",
-      "english": [
-        {
-          "id": "c15qtjah",
-          "word": "bureaucracy",
-          "meaning": "government by officials",
-          "register": "formal",
-          "note": "Use this specifically for government conducted by officials and bureaucratic administrators rather than elected representatives."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "This place is governed by bureaucracy, not elected representatives.",
-          "traditional": "呢個地方由官僚政治主導，唔係由民選代表決定。",
-          "jyutping": "ni1 go3 dei6 fong1 jau4 gun1 liu4 zing3 zi6 zyu2 dou6 m4 hai6 jau4 man4 syun2 doi6 biu2 kyut3 ding6"
-        }
-      ]
+      "english": "This place is governed by bureaucracy, not elected representatives.",
+      "traditional": "呢個地方由官僚政治主導，唔係由民選代表決定。",
+      "jyutping": "ni1 go3 dei6 fong1 jau4 gun1 liu4 zing3 zi6 zyu2 dou6 m4 hai6 jau4 man4 syun2 doi6 biu2 kyut3 ding6"
     }
   ]
 }

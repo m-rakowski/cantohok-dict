@@ -1,37 +1,33 @@
 {
   "id": "m41e8nm1",
   "partOfSpeech": "verb",
+  "meaning": "to observe",
+  "english": [
+    {
+      "id": "dfpigjvy",
+      "word": "observe",
+      "meaning": "watch carefully",
+      "note": "Use this as the all-purpose verb for deliberately watching or examining something carefully."
+    },
+    {
+      "id": "97i4rpfu",
+      "word": "notice",
+      "meaning": "notice, observe",
+      "note": "Use this for deliberately observing something, especially over a period of time."
+    }
+  ],
   "traditional": "觀察",
   "jyutping": "gun1 caat3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "to observe",
-      "english": [
-        {
-          "id": "dfpigjvy",
-          "word": "observe",
-          "meaning": "watch carefully",
-          "note": "Use this as the all-purpose verb for deliberately watching or examining something carefully."
-        },
-        {
-          "id": "97i4rpfu",
-          "word": "notice",
-          "meaning": "notice, observe",
-          "note": "Use this for deliberately observing something, especially over a period of time."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I carefully observe the little bird.",
-          "traditional": "我細心觀察隻雀仔。",
-          "jyutping": "ngo5 sai3 sam1 gun1 caat3 zek3 zoek3 zai2"
-        },
-        {
-          "english": "After observing the bird all morning, I notice that it is unusually noisy.",
-          "traditional": "我觀察隻雀仔成個朝早，發現佢特別嘈。",
-          "jyutping": "ngo5 gun1 caat3 zek3 zoek3 zai2 seng4 go3 ziu1 zou2 faat3 jin6 keoi5 dak6 bit6 cou4"
-        }
-      ]
+      "english": "I carefully observe the little bird.",
+      "traditional": "我細心觀察隻雀仔。",
+      "jyutping": "ngo5 sai3 sam1 gun1 caat3 zek3 zoek3 zai2"
+    },
+    {
+      "english": "After observing the bird all morning, I notice that it is unusually noisy.",
+      "traditional": "我觀察隻雀仔成個朝早，發現佢特別嘈。",
+      "jyutping": "ngo5 gun1 caat3 zek3 zoek3 zai2 seng4 go3 ziu1 zou2 faat3 jin6 keoi5 dak6 bit6 cou4"
     }
   ]
 }

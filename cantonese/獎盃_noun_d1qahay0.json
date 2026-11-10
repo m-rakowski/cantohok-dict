@@ -1,37 +1,33 @@
 {
   "id": "d1qahay0",
   "partOfSpeech": "noun",
+  "meaning": "trophy, award cup",
+  "english": [
+    {
+      "id": "dd0r75h3",
+      "word": "trophy",
+      "meaning": "award cup/shield",
+      "note": "This is the all-purpose choice for an award received for winning a competition or achievement."
+    },
+    {
+      "id": "fbozeg6w",
+      "word": "award",
+      "meaning": "prize, medal, honor",
+      "note": "Use this when the award is specifically a trophy or cup."
+    }
+  ],
   "traditional": "獎盃",
   "jyutping": "zoeng2 bui1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "trophy, award cup",
-      "english": [
-        {
-          "id": "dd0r75h3",
-          "word": "trophy",
-          "meaning": "award cup/shield",
-          "note": "This is the all-purpose choice for an award received for winning a competition or achievement."
-        },
-        {
-          "id": "fbozeg6w",
-          "word": "award",
-          "meaning": "prize, medal, honor",
-          "note": "Use this when the award is specifically a trophy or cup."
-        }
-      ],
-      "examples": [
-        {
-          "english": "We finally won the trophy in this competition.",
-          "traditional": "今次比賽我哋終於攞到獎盃喇。",
-          "jyutping": "gam1 ci3 bei2 coi3 ngo5 dei6 zung1 jyu1 lo2 dou3 zoeng2 bui1 laa3"
-        },
-        {
-          "english": "We brought the award home.",
-          "traditional": "我哋拎獎盃返屋企啦",
-          "jyutping": "ngo5 dei6 ling1 zoeng2 bui1 faan1 uk1 kei2 laa1"
-        }
-      ]
+      "english": "We finally won the trophy in this competition.",
+      "traditional": "今次比賽我哋終於攞到獎盃喇。",
+      "jyutping": "gam1 ci3 bei2 coi3 ngo5 dei6 zung1 jyu1 lo2 dou3 zoeng2 bui1 laa3"
+    },
+    {
+      "english": "We brought the award home.",
+      "traditional": "我哋拎獎盃返屋企啦",
+      "jyutping": "ngo5 dei6 ling1 zoeng2 bui1 faan1 uk1 kei2 laa1"
     }
   ]
 }

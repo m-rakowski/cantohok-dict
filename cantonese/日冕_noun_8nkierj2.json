@@ -1,28 +1,24 @@
 {
   "id": "8nkierj2",
   "partOfSpeech": "noun",
+  "meaning": "sun's outer atmosphere",
+  "english": [
+    {
+      "id": "du3n7m1x",
+      "word": "corona",
+      "meaning": "sun's outer atmosphere",
+      "register": "written",
+      "note": "Use this specialized astronomical term for the Sun's or another star's outer atmosphere."
+    }
+  ],
   "traditional": "日冕",
   "jyutping": "jat6 min5",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "sun's outer atmosphere",
-      "english": [
-        {
-          "id": "du3n7m1x",
-          "word": "corona",
-          "meaning": "sun's outer atmosphere",
-          "register": "written",
-          "note": "Use this specialized astronomical term for the Sun's or another star's outer atmosphere."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "The corona is the Sun’s outer atmosphere.",
-          "traditional": "日冕係太陽最外層嘅大氣。",
-          "jyutping": "jat6 min5 hai6 taai3 joeng4 zeoi3 ngoi6 cang4 ge3 daai6 hei3"
-        }
-      ]
+      "english": "The corona is the Sun’s outer atmosphere.",
+      "traditional": "日冕係太陽最外層嘅大氣。",
+      "jyutping": "jat6 min5 hai6 taai3 joeng4 zeoi3 ngoi6 cang4 ge3 daai6 hei3"
     }
   ]
 }

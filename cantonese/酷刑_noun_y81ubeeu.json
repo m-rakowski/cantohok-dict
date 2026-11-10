@@ -1,28 +1,24 @@
 {
   "id": "y81ubeeu",
   "partOfSpeech": "noun",
+  "meaning": "torture, severe suffering",
+  "english": [
+    {
+      "id": "0hy6ev6s",
+      "word": "torment",
+      "meaning": "torture, severe suffering",
+      "register": "formal",
+      "note": "Use this specifically for deliberate physical torture, especially by authorities or with an instrument."
+    }
+  ],
   "traditional": "酷刑",
   "jyutping": "huk6 jing4",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "torture, severe suffering",
-      "english": [
-        {
-          "id": "0hy6ev6s",
-          "word": "torment",
-          "meaning": "torture, severe suffering",
-          "register": "formal",
-          "note": "Use this specifically for deliberate physical torture, especially by authorities or with an instrument."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The report says the authorities inflicted torment through torture on the prisoner.",
-          "traditional": "酷刑",
-          "jyutping": "huk6 jing4"
-        }
-      ]
+      "english": "The report says the authorities inflicted torment through torture on the prisoner.",
+      "traditional": "酷刑",
+      "jyutping": "huk6 jing4"
     }
   ]
 }

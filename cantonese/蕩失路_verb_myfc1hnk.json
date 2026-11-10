@@ -1,28 +1,24 @@
 {
   "id": "myfc1hnk",
   "partOfSpeech": "verb",
+  "meaning": "lose one's way",
+  "english": [
+    {
+      "id": "y2gkd8ya",
+      "word": "lose",
+      "meaning": "lose one's way",
+      "register": "colloquial",
+      "note": "Use this specifically when someone gets lost and cannot find the way."
+    }
+  ],
   "traditional": "蕩失路",
   "jyutping": "dong6 sat1 lou6",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "lose one's way",
-      "english": [
-        {
-          "id": "y2gkd8ya",
-          "word": "lose",
-          "meaning": "lose one's way",
-          "register": "colloquial",
-          "note": "Use this specifically when someone gets lost and cannot find the way."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "I lose my way every time I walk around that area.",
-          "traditional": "我每次去嗰頭行吓行吓都蕩失路。",
-          "jyutping": "ngo5 mui5 ci3 heoi3 go2 tau4 haang4 haa5 haang4 haa5 dou1 dong6 sat1 lou6"
-        }
-      ]
+      "english": "I lose my way every time I walk around that area.",
+      "traditional": "我每次去嗰頭行吓行吓都蕩失路。",
+      "jyutping": "ngo5 mui5 ci3 heoi3 go2 tau4 haang4 haa5 haang4 haa5 dou1 dong6 sat1 lou6"
     }
   ]
 }

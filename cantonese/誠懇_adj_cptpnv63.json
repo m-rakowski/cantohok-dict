@@ -1,37 +1,33 @@
 {
   "id": "cptpnv63",
   "partOfSpeech": "adj",
+  "meaning": "sincere",
+  "english": [
+    {
+      "id": "mon3b9vb",
+      "word": "earnest",
+      "meaning": "serious, sincere",
+      "note": "Use this when earnest emphasizes warm, honest sincerity rather than diligence or a serious manner."
+    },
+    {
+      "id": "ozan2ksh",
+      "word": "sincere",
+      "meaning": "genuine, heartfelt",
+      "note": "Use this for a person's manner, request, apology, or communication that is openly honest and earnest."
+    }
+  ],
   "traditional": "誠懇",
   "jyutping": "sing4 han2",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "sincere",
-      "english": [
-        {
-          "id": "mon3b9vb",
-          "word": "earnest",
-          "meaning": "serious, sincere",
-          "note": "Use this when earnest emphasizes warm, honest sincerity rather than diligence or a serious manner."
-        },
-        {
-          "id": "ozan2ksh",
-          "word": "sincere",
-          "meaning": "genuine, heartfelt",
-          "note": "Use this for a person's manner, request, apology, or communication that is openly honest and earnest."
-        }
-      ],
-      "examples": [
-        {
-          "english": "They apologized to me with an earnest tone, and I accepted it.",
-          "traditional": "佢用誠懇嘅態度向我道歉，我接受咗。",
-          "jyutping": "keoi5 jung6 sing4 han2 ge3 taai3 dou6 hoeng3 ngo5 dou6 hip3 ngo5 zip3 sau6 zo2"
-        },
-        {
-          "english": "I make a sincere request for one more chance.",
-          "traditional": "我誠懇咁請你再畀我一次機會。",
-          "jyutping": "ngo5 sing4 han2 gam3 ceng2 nei5 zoi3 bei2 ngo5 jat1 ci3 gei1 wui6"
-        }
-      ]
+      "english": "They apologized to me with an earnest tone, and I accepted it.",
+      "traditional": "佢用誠懇嘅態度向我道歉，我接受咗。",
+      "jyutping": "keoi5 jung6 sing4 han2 ge3 taai3 dou6 hoeng3 ngo5 dou6 hip3 ngo5 zip3 sau6 zo2"
+    },
+    {
+      "english": "I make a sincere request for one more chance.",
+      "traditional": "我誠懇咁請你再畀我一次機會。",
+      "jyutping": "ngo5 sing4 han2 gam3 ceng2 nei5 zoi3 bei2 ngo5 jat1 ci3 gei1 wui6"
     }
   ]
 }

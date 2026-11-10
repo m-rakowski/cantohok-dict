@@ -1,28 +1,24 @@
 {
   "id": "8zx9gk0a",
   "partOfSpeech": "noun",
+  "meaning": "amphibian",
+  "english": [
+    {
+      "id": "4ibl77cb",
+      "word": "frog",
+      "meaning": "amphibian",
+      "register": "colloquial",
+      "note": "This is a less common colloquial alternative for the same general frog sense."
+    }
+  ],
   "traditional": "蛤𧊅",
   "jyutping": "gaap3 gwaai2",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "amphibian",
-      "english": [
-        {
-          "id": "4ibl77cb",
-          "word": "frog",
-          "meaning": "amphibian",
-          "register": "colloquial",
-          "note": "This is a less common colloquial alternative for the same general frog sense."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "The kids caught a frog by the field.",
-          "traditional": "細路仔喺田邊捉到隻蛤𧊅。",
-          "jyutping": "sai3 lou6 zai2 hai2 tin4 bin1 zuk1 dou2 zek3 gaap3 gwaai2"
-        }
-      ]
+      "english": "The kids caught a frog by the field.",
+      "traditional": "細路仔喺田邊捉到隻蛤𧊅。",
+      "jyutping": "sai3 lou6 zai2 hai2 tin4 bin1 zuk1 dou2 zek3 gaap3 gwaai2"
     }
   ]
 }

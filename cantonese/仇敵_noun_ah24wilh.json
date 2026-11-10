@@ -1,28 +1,24 @@
 {
   "id": "ah24wilh",
   "partOfSpeech": "noun",
+  "meaning": "hostile person / opponent",
+  "english": [
+    {
+      "id": "l0bfgl1t",
+      "word": "enemy",
+      "meaning": "hostile person / opponent",
+      "register": "written",
+      "note": "Choose this for a bitter, sworn, or particularly hated enemy rather than an ordinary opponent."
+    }
+  ],
   "traditional": "仇敵",
   "jyutping": "sau4 dik6",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "hostile person / opponent",
-      "english": [
-        {
-          "id": "l0bfgl1t",
-          "word": "enemy",
-          "meaning": "hostile person / opponent",
-          "register": "written",
-          "note": "Choose this for a bitter, sworn, or particularly hated enemy rather than an ordinary opponent."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "They regard our family as their sworn enemy.",
-          "traditional": "佢哋視我哋一家為仇敵。",
-          "jyutping": "keoi5 dei6 si6 ngo5 dei6 jat1 gaa1 wai4 sau4 dik6"
-        }
-      ]
+      "english": "They regard our family as their sworn enemy.",
+      "traditional": "佢哋視我哋一家為仇敵。",
+      "jyutping": "keoi5 dei6 si6 ngo5 dei6 jat1 gaa1 wai4 sau4 dik6"
     }
   ]
 }

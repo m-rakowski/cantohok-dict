@@ -1,28 +1,24 @@
 {
   "id": "mh1y6f8u",
   "partOfSpeech": "noun",
+  "meaning": "regular hangout",
+  "english": [
+    {
+      "id": "5tz2jkej",
+      "word": "haunt",
+      "meaning": "regular hangout",
+      "register": "colloquial",
+      "note": "Use this when referring to a familiar usual place, especially one already known to the listener."
+    }
+  ],
   "traditional": "老地方",
   "jyutping": "lou5 dei6 fong1",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "regular hangout",
-      "english": [
-        {
-          "id": "5tz2jkej",
-          "word": "haunt",
-          "meaning": "regular hangout",
-          "register": "colloquial",
-          "note": "Use this when referring to a familiar usual place, especially one already known to the listener."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "See you at the usual haunt at seven tonight.",
-          "traditional": "今晚七點，老地方見。",
-          "jyutping": "gam1 maan5 cat1 dim2 lou5 dei6 fong1 gin3"
-        }
-      ]
+      "english": "See you at the usual haunt at seven tonight.",
+      "traditional": "今晚七點，老地方見。",
+      "jyutping": "gam1 maan5 cat1 dim2 lou5 dei6 fong1 gin3"
     }
   ]
 }

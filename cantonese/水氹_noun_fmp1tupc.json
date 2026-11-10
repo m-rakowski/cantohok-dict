@@ -1,28 +1,24 @@
 {
   "id": "fmp1tupc",
   "partOfSpeech": "noun",
+  "meaning": "small stagnant water",
+  "english": [
+    {
+      "id": "www4k0lg",
+      "word": "pool",
+      "meaning": "small stagnant water",
+      "register": "colloquial",
+      "note": "Use this for a small puddle or a patch of standing water."
+    }
+  ],
   "traditional": "水氹",
   "jyutping": "seoi2 tam5",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "small stagnant water",
-      "english": [
-        {
-          "id": "www4k0lg",
-          "word": "pool",
-          "meaning": "small stagnant water",
-          "register": "colloquial",
-          "note": "Use this for a small puddle or a patch of standing water."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "There’s still a pool by the roadside after the rain.",
-          "traditional": "落完雨，條街邊仲有個水氹。",
-          "jyutping": "lok6 jyun4 jyu5 tiu4 gaai1 bin1 zung6 jau5 go3 seoi2 tam5"
-        }
-      ]
+      "english": "There’s still a pool by the roadside after the rain.",
+      "traditional": "落完雨，條街邊仲有個水氹。",
+      "jyutping": "lok6 jyun4 jyu5 tiu4 gaai1 bin1 zung6 jau5 go3 seoi2 tam5"
     }
   ]
 }

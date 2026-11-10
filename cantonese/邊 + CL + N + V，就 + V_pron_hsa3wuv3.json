@@ -1,26 +1,22 @@
 {
   "id": "hsa3wuv3",
   "partOfSpeech": "pron",
+  "meaning": "depending on which one",
+  "english": [
+    {
+      "id": "143exdxf",
+      "word": "whichever",
+      "meaning": "depending on which one",
+      "note": "Use this pattern when the action or result depends on which option meets a condition."
+    }
+  ],
   "traditional": "邊 + CL + N + V，就 + V",
   "jyutping": "bin1 CL N V zau6 V",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "depending on which one",
-      "english": [
-        {
-          "id": "143exdxf",
-          "word": "whichever",
-          "meaning": "depending on which one",
-          "note": "Use this pattern when the action or result depends on which option meets a condition."
-        }
-      ],
-      "examples": [
-        {
-          "english": "We’ll go into whichever restaurant has a free table.",
-          "traditional": "邊間餐廳有位，就入邊間。",
-          "jyutping": "bin1 gaan1 caan1 teng1 jau5 wai2 zau6 jap6 bin1 gaan1"
-        }
-      ]
+      "english": "We’ll go into whichever restaurant has a free table.",
+      "traditional": "邊間餐廳有位，就入邊間。",
+      "jyutping": "bin1 gaan1 caan1 teng1 jau5 wai2 zau6 jap6 bin1 gaan1"
     }
   ]
 }

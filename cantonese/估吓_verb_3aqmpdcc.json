@@ -1,28 +1,24 @@
 {
   "id": "3aqmpdcc",
   "partOfSpeech": "verb",
+  "meaning": "venture; risk",
+  "english": [
+    {
+      "id": "nobk1lwc",
+      "word": "hazard",
+      "meaning": "venture; risk",
+      "register": "colloquial",
+      "note": "Use this specifically for tentatively hazarding a guess, rather than for risking an action or object."
+    }
+  ],
   "traditional": "估吓",
   "jyutping": "gu2 haa5",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "venture; risk",
-      "english": [
-        {
-          "id": "nobk1lwc",
-          "word": "hazard",
-          "meaning": "venture; risk",
-          "register": "colloquial",
-          "note": "Use this specifically for tentatively hazarding a guess, rather than for risking an action or object."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "This question is so hard, so I’ll just hazard a guess.",
-          "traditional": "呢題咁難，我唯有估吓喇。",
-          "jyutping": "nei1 tai4 gam3 naan4 ngo5 wai4 jau5 gu2 haa5 laa3"
-        }
-      ]
+      "english": "This question is so hard, so I’ll just hazard a guess.",
+      "traditional": "呢題咁難，我唯有估吓喇。",
+      "jyutping": "nei1 tai4 gam3 naan4 ngo5 wai4 jau5 gu2 haa5 laa3"
     }
   ]
 }

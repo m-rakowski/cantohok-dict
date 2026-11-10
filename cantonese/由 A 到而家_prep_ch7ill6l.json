@@ -1,28 +1,24 @@
 {
   "id": "ch7ill6l",
   "partOfSpeech": "prep",
+  "meaning": "from then until now",
+  "english": [
+    {
+      "id": "51m7bowb",
+      "word": "since",
+      "meaning": "from then until now",
+      "register": "colloquial",
+      "note": "Use this when you want to state explicitly that the period continues from A up to now."
+    }
+  ],
   "traditional": "由 A 到而家",
   "jyutping": "jau4 A dou3 ji4 gaa1",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "from then until now",
-      "english": [
-        {
-          "id": "51m7bowb",
-          "word": "since",
-          "meaning": "from then until now",
-          "register": "colloquial",
-          "note": "Use this when you want to state explicitly that the period continues from A up to now."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "I haven’t eaten since this morning.",
-          "traditional": "由朝早到而家，我都未食飯。",
-          "jyutping": "jau4 ziu1 zou2 dou3 ji4 gaa1 ngo5 dou1 mei6 sik6 faan6"
-        }
-      ]
+      "english": "I haven’t eaten since this morning.",
+      "traditional": "由朝早到而家，我都未食飯。",
+      "jyutping": "jau4 ziu1 zou2 dou3 ji4 gaa1 ngo5 dou1 mei6 sik6 faan6"
     }
   ]
 }

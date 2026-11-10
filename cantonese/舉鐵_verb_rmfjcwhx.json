@@ -1,28 +1,24 @@
 {
   "id": "rmfjcwhx",
   "partOfSpeech": "verb",
+  "meaning": "weight-train",
+  "english": [
+    {
+      "id": "1008fptm",
+      "word": "lift",
+      "meaning": "weight-train",
+      "register": "colloquial",
+      "note": "Use this colloquial gym expression specifically for training with weights."
+    }
+  ],
   "traditional": "舉鐵",
   "jyutping": "geoi2 tit3",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "weight-train",
-      "english": [
-        {
-          "id": "1008fptm",
-          "word": "lift",
-          "meaning": "weight-train",
-          "register": "colloquial",
-          "note": "Use this colloquial gym expression specifically for training with weights."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "I lift weights at the gym three times a week.",
-          "traditional": "我每個星期去健身室舉鐵三次。",
-          "jyutping": "ngo5 mui5 go3 sing1 kei4 heoi3 gin6 san1 sat1 geoi2 tit3 saam1 ci3"
-        }
-      ]
+      "english": "I lift weights at the gym three times a week.",
+      "traditional": "我每個星期去健身室舉鐵三次。",
+      "jyutping": "ngo5 mui5 go3 sing1 kei4 heoi3 gin6 san1 sat1 geoi2 tit3 saam1 ci3"
     }
   ]
 }

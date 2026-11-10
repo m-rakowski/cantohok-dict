@@ -1,38 +1,34 @@
 {
   "id": "l9dgcef1",
   "partOfSpeech": "noun",
+  "meaning": "punishment, penalty",
+  "english": [
+    {
+      "id": "capcl1yw",
+      "word": "punishment",
+      "meaning": "penalty for wrongdoing",
+      "register": "formal",
+      "note": "Use this for a formal or legal penalty, especially one imposed for a crime, rather than ordinary discipline."
+    },
+    {
+      "id": "pxp0bn04",
+      "word": "sentence",
+      "meaning": "punishment term",
+      "note": "Use this for the punishment imposed by a criminal court, rather than the length of time served."
+    }
+  ],
   "traditional": "刑罰",
   "jyutping": "jing4 fat6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "punishment, penalty",
-      "english": [
-        {
-          "id": "capcl1yw",
-          "word": "punishment",
-          "meaning": "penalty for wrongdoing",
-          "register": "formal",
-          "note": "Use this for a formal or legal penalty, especially one imposed for a crime, rather than ordinary discipline."
-        },
-        {
-          "id": "pxp0bn04",
-          "word": "sentence",
-          "meaning": "punishment term",
-          "note": "Use this for the punishment imposed by a criminal court, rather than the length of time served."
-        }
-      ],
-      "examples": [
-        {
-          "english": "If you break the law, you have to face punishment.",
-          "traditional": "犯法就要接受刑罰。",
-          "jyutping": "faan6 faat3 zau6 jiu3 zip3 sau6 jing4 fat6"
-        },
-        {
-          "english": "The court imposed a sentence on him that included a five-thousand-dollar fine.",
-          "traditional": "法庭判處佢刑罰，包括五千蚊罰款。",
-          "jyutping": "faat3 ting4 pun3 cyu2 keoi5 jing4 fat6 baau1 kut3 ng5 cin1 man1 fat6 fun2"
-        }
-      ]
+      "english": "If you break the law, you have to face punishment.",
+      "traditional": "犯法就要接受刑罰。",
+      "jyutping": "faan6 faat3 zau6 jiu3 zip3 sau6 jing4 fat6"
+    },
+    {
+      "english": "The court imposed a sentence on him that included a five-thousand-dollar fine.",
+      "traditional": "法庭判處佢刑罰，包括五千蚊罰款。",
+      "jyutping": "faat3 ting4 pun3 cyu2 keoi5 jing4 fat6 baau1 kut3 ng5 cin1 man1 fat6 fun2"
     }
   ]
 }

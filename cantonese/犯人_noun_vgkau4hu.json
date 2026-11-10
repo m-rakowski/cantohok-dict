@@ -1,59 +1,55 @@
 {
   "id": "vgkau4hu",
   "partOfSpeech": "noun",
+  "meaning": "criminal, prisoner",
+  "english": [
+    {
+      "id": "xrrm4np8",
+      "word": "criminal",
+      "meaning": "person who breaks the law",
+      "note": "This is the all-purpose spoken choice for a person who has committed a crime."
+    },
+    {
+      "id": "hb1ufisi",
+      "word": "prisoner",
+      "meaning": "jail inmate",
+      "note": "This is the all-purpose casual choice for someone being held in a police or prison context, though it can also mean a criminal or suspect."
+    },
+    {
+      "id": "97hspfxl",
+      "word": "offender",
+      "meaning": "lawbreaker, criminal",
+      "note": "Use this as the usual spoken noun for someone who has broken the law."
+    },
+    {
+      "id": "8dg7r98v",
+      "word": "convict",
+      "meaning": "convicted criminal",
+      "note": "This is the everyday all-purpose term for a person convicted of a crime, especially one in custody."
+    }
+  ],
   "traditional": "犯人",
   "jyutping": "faan6 jan4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "criminal, prisoner",
-      "english": [
-        {
-          "id": "xrrm4np8",
-          "word": "criminal",
-          "meaning": "person who breaks the law",
-          "note": "This is the all-purpose spoken choice for a person who has committed a crime."
-        },
-        {
-          "id": "hb1ufisi",
-          "word": "prisoner",
-          "meaning": "jail inmate",
-          "note": "This is the all-purpose casual choice for someone being held in a police or prison context, though it can also mean a criminal or suspect."
-        },
-        {
-          "id": "97hspfxl",
-          "word": "offender",
-          "meaning": "lawbreaker, criminal",
-          "note": "Use this as the usual spoken noun for someone who has broken the law."
-        },
-        {
-          "id": "8dg7r98v",
-          "word": "convict",
-          "meaning": "convicted criminal",
-          "note": "This is the everyday all-purpose term for a person convicted of a crime, especially one in custody."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The police finally caught that criminal.",
-          "traditional": "警方終於捉到嗰個犯人喇。",
-          "jyutping": "ging2 fong1 zung1 jyu1 zuk1 dou2 go2 go3 faan6 jan4 laa3"
-        },
-        {
-          "english": "They are still a prisoner and cannot be released on bail yet.",
-          "traditional": "佢而家仲係犯人，未可以保釋。",
-          "jyutping": "keoi5 ji4 gaa1 zung6 hai6 faan6 jan4 mei6 ho2 ji5 bou2 sik1"
-        },
-        {
-          "english": "The police caught the offender.",
-          "traditional": "警方捉到個犯人喇。",
-          "jyutping": "ging2 fong1 zuk1 dou3 go3 faan6 jan4 laa3"
-        },
-        {
-          "english": "The police escorted the convict back to prison.",
-          "traditional": "警方將個犯人押返監獄。",
-          "jyutping": "ging2 fong1 zoeng1 go3 faan6 jan4 aat3 faan2 gaam1 juk6"
-        }
-      ]
+      "english": "The police finally caught that criminal.",
+      "traditional": "警方終於捉到嗰個犯人喇。",
+      "jyutping": "ging2 fong1 zung1 jyu1 zuk1 dou2 go2 go3 faan6 jan4 laa3"
+    },
+    {
+      "english": "They are still a prisoner and cannot be released on bail yet.",
+      "traditional": "佢而家仲係犯人，未可以保釋。",
+      "jyutping": "keoi5 ji4 gaa1 zung6 hai6 faan6 jan4 mei6 ho2 ji5 bou2 sik1"
+    },
+    {
+      "english": "The police caught the offender.",
+      "traditional": "警方捉到個犯人喇。",
+      "jyutping": "ging2 fong1 zuk1 dou3 go3 faan6 jan4 laa3"
+    },
+    {
+      "english": "The police escorted the convict back to prison.",
+      "traditional": "警方將個犯人押返監獄。",
+      "jyutping": "ging2 fong1 zoeng1 go3 faan6 jan4 aat3 faan2 gaam1 juk6"
     }
   ]
 }

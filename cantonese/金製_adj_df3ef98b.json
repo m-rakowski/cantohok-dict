@@ -1,28 +1,24 @@
 {
   "id": "df3ef98b",
   "partOfSpeech": "adj",
+  "meaning": "made of gold",
+  "english": [
+    {
+      "id": "1ecpipda",
+      "word": "golden",
+      "meaning": "made of gold",
+      "register": "written",
+      "note": "Use 金製 when an object is physically made of gold rather than merely gold-colored."
+    }
+  ],
   "traditional": "金製",
   "jyutping": "gam1 zai3",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "made of gold",
-      "english": [
-        {
-          "id": "1ecpipda",
-          "word": "golden",
-          "meaning": "made of gold",
-          "register": "written",
-          "note": "Use 金製 when an object is physically made of gold rather than merely gold-colored."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "The museum is displaying a golden crown.",
-          "traditional": "博物館展出一頂金製王冠。",
-          "jyutping": "bok3 mat6 gun2 zin2 ceot1 jat1 deng2 gam1 zai3 wong4 gun1"
-        }
-      ]
+      "english": "The museum is displaying a golden crown.",
+      "traditional": "博物館展出一頂金製王冠。",
+      "jyutping": "bok3 mat6 gun2 zin2 ceot1 jat1 deng2 gam1 zai3 wong4 gun1"
     }
   ]
 }

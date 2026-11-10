@@ -1,40 +1,36 @@
 {
   "id": "o5aki042",
   "partOfSpeech": "verb",
+  "meaning": "defeat",
+  "english": [
+    {
+      "id": "awt1u65m",
+      "word": "demolish",
+      "meaning": "defeat utterly",
+      "register": "colloquial",
+      "note": "Use this for defeating an opponent decisively, rather than for refuting an argument or consuming something."
+    },
+    {
+      "id": "1r0r3t9o",
+      "word": "delete",
+      "meaning": "defeat in slang",
+      "register": "colloquial",
+      "note": "Use this for defeating or overpowering someone rather than deleting a file."
+    }
+  ],
   "traditional": "打低",
   "jyutping": "daa2 dai1",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "defeat",
-      "english": [
-        {
-          "id": "awt1u65m",
-          "word": "demolish",
-          "meaning": "defeat utterly",
-          "register": "colloquial",
-          "note": "Use this for defeating an opponent decisively, rather than for refuting an argument or consuming something."
-        },
-        {
-          "id": "1r0r3t9o",
-          "word": "delete",
-          "meaning": "defeat in slang",
-          "register": "colloquial",
-          "note": "Use this for defeating or overpowering someone rather than deleting a file."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "We demolish our opponents in this match.",
-          "traditional": "我哋今場波打低對手。",
-          "jyutping": "ngo5 dei6 gam1 coeng4 bo1 daa2 dai1 deoi3 sau2"
-        },
-        {
-          "english": "In this match, our captain alone could delete all three opponents.",
-          "traditional": "喺呢場波，我哋隊長一個人就打低晒對面三個。",
-          "jyutping": "hai2 ni1 coeng4 bo1 ngo5 dei6 deoi6 zoeng2 jat1 go3 jan4 zau6 daa2 dai1 saai3 deoi3 min6 saam1 go3"
-        }
-      ]
+      "english": "We demolish our opponents in this match.",
+      "traditional": "我哋今場波打低對手。",
+      "jyutping": "ngo5 dei6 gam1 coeng4 bo1 daa2 dai1 deoi3 sau2"
+    },
+    {
+      "english": "In this match, our captain alone could delete all three opponents.",
+      "traditional": "喺呢場波，我哋隊長一個人就打低晒對面三個。",
+      "jyutping": "hai2 ni1 coeng4 bo1 ngo5 dei6 deoi6 zoeng2 jat1 go3 jan4 zau6 daa2 dai1 saai3 deoi3 min6 saam1 go3"
     }
   ]
 }

@@ -1,28 +1,24 @@
 {
   "id": "4mlh0905",
   "partOfSpeech": "noun",
+  "meaning": "country of one's ancestors",
+  "english": [
+    {
+      "id": "4ylp22f3",
+      "word": "motherland",
+      "meaning": "country of one's ancestors",
+      "register": "formal",
+      "note": "This is the all-purpose rendering for the country of one's ancestors, especially in formal or national contexts."
+    }
+  ],
   "traditional": "祖國",
   "jyutping": "zou2 gwok3",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "country of one's ancestors",
-      "english": [
-        {
-          "id": "4ylp22f3",
-          "word": "motherland",
-          "meaning": "country of one's ancestors",
-          "register": "formal",
-          "note": "This is the all-purpose rendering for the country of one's ancestors, especially in formal or national contexts."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "We should respect our motherland.",
-          "traditional": "我哋應該尊重自己嘅祖國。",
-          "jyutping": "ngo5 dei6 jing1 goi1 zyun1 zung6 zi6 gei2 ge3 zou2 gwok3"
-        }
-      ]
+      "english": "We should respect our motherland.",
+      "traditional": "我哋應該尊重自己嘅祖國。",
+      "jyutping": "ngo5 dei6 jing1 goi1 zyun1 zung6 zi6 gei2 ge3 zou2 gwok3"
     }
   ]
 }

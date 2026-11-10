@@ -1,37 +1,33 @@
 {
   "id": "8mwrzh0q",
   "partOfSpeech": "adj",
+  "meaning": "chaotic, a total mess",
+  "english": [
+    {
+      "id": "97zrvoaf",
+      "word": "haphazard",
+      "meaning": "random, chaotic, unplanned",
+      "note": "This is the all-purpose choice for things that are chaotic, disorganized, or inconsistent."
+    },
+    {
+      "id": "xdl20zdr",
+      "word": "inchoate",
+      "meaning": "chaotic, disordered",
+      "note": "Use this for something generally chaotic, disordered, or confused rather than merely unfinished."
+    }
+  ],
   "traditional": "亂七八糟",
   "jyutping": "lyun6 cat1 baat3 zou1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "chaotic, a total mess",
-      "english": [
-        {
-          "id": "97zrvoaf",
-          "word": "haphazard",
-          "meaning": "random, chaotic, unplanned",
-          "note": "This is the all-purpose choice for things that are chaotic, disorganized, or inconsistent."
-        },
-        {
-          "id": "xdl20zdr",
-          "word": "inchoate",
-          "meaning": "chaotic, disordered",
-          "note": "Use this for something generally chaotic, disordered, or confused rather than merely unfinished."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Your room is really haphazard, with clothes scattered everywhere.",
-          "traditional": "你間房真係亂七八糟，啲衫周圍都係。",
-          "jyutping": "nei5 gaan1 fong4 zan1 hai6 lyun6 cat1 baat3 zou1 di1 saam1 zau1 wai4 dou1 hai6"
-        },
-        {
-          "english": "After we moved, the whole flat was chaotic and inchoate.",
-          "traditional": "搬完屋之後，成間屋亂七八糟。",
-          "jyutping": "bun1 jyun4 uk1 zi1 hau6 sing4 gaan1 uk1 lyun6 cat1 baat3 zou1"
-        }
-      ]
+      "english": "Your room is really haphazard, with clothes scattered everywhere.",
+      "traditional": "你間房真係亂七八糟，啲衫周圍都係。",
+      "jyutping": "nei5 gaan1 fong4 zan1 hai6 lyun6 cat1 baat3 zou1 di1 saam1 zau1 wai4 dou1 hai6"
+    },
+    {
+      "english": "After we moved, the whole flat was chaotic and inchoate.",
+      "traditional": "搬完屋之後，成間屋亂七八糟。",
+      "jyutping": "bun1 jyun4 uk1 zi1 hau6 sing4 gaan1 uk1 lyun6 cat1 baat3 zou1"
     }
   ]
 }

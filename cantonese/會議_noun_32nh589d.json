@@ -1,59 +1,55 @@
 {
   "id": "32nh589d",
   "partOfSpeech": "noun",
+  "meaning": "meeting, conference",
+  "english": [
+    {
+      "id": "a0c6oz5n",
+      "word": "conference",
+      "meaning": "conference / meeting",
+      "note": "This is the all-purpose noun for a formal conference or organized meeting."
+    },
+    {
+      "id": "v3h9hkkg",
+      "word": "conferencing",
+      "meaning": "formal group discussion",
+      "note": "This is the all-purpose noun for a formal discussion involving multiple participants."
+    },
+    {
+      "id": "qth8h76b",
+      "word": "convention",
+      "meaning": "meeting, gathering",
+      "note": "Choose this when the convention is being understood specifically as a meeting for discussion or deliberation rather than as a large event."
+    },
+    {
+      "id": "azwn55hb",
+      "word": "session",
+      "meaning": "court or council sitting",
+      "note": "Use 會議 for an individual official meeting of a council or other body, rather than its overall term."
+    }
+  ],
   "traditional": "會議",
   "jyutping": "wui6 ji5",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "meeting, conference",
-      "english": [
-        {
-          "id": "a0c6oz5n",
-          "word": "conference",
-          "meaning": "conference / meeting",
-          "note": "This is the all-purpose noun for a formal conference or organized meeting."
-        },
-        {
-          "id": "v3h9hkkg",
-          "word": "conferencing",
-          "meaning": "formal group discussion",
-          "note": "This is the all-purpose noun for a formal discussion involving multiple participants."
-        },
-        {
-          "id": "qth8h76b",
-          "word": "convention",
-          "meaning": "meeting, gathering",
-          "note": "Choose this when the convention is being understood specifically as a meeting for discussion or deliberation rather than as a large event."
-        },
-        {
-          "id": "azwn55hb",
-          "word": "session",
-          "meaning": "court or council sitting",
-          "note": "Use 會議 for an individual official meeting of a council or other body, rather than its overall term."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Several industry experts are speakers at this conference.",
-          "traditional": "今次會議有幾位業界專家做講者。",
-          "jyutping": "gam1 ci3 wui6 ji5 jau5 gei2 wai2 jip6 gaai3 zyun1 gaa1 zou6 gong2 ze2"
-        },
-        {
-          "english": "Tomorrow's conferencing will involve more than ten departments discussing things together.",
-          "traditional": "聽日個會議會有十幾個部門一齊傾。",
-          "jyutping": "ting1 jat6 go3 wui6 ji5 wui5 jau5 sap6 gei2 go3 bou6 mun4 jat1 cai4 king1"
-        },
-        {
-          "english": "This convention is mainly to discuss the new proposal.",
-          "traditional": "呢次會議主要係商量新方案。",
-          "jyutping": "ni1 ci3 wui6 ji5 zyu2 jiu3 hai6 soeng1 loeng4 san1 fong1 on3"
-        },
-        {
-          "english": "The committee held a session today to discuss the new proposal.",
-          "traditional": "委員會今日召開會議，討論新方案。",
-          "jyutping": "wai2 jyun4 wui2 gam1 jat6 ziu6 hoi1 wui6 ji5 tou2 leon6 san1 fong1 on3"
-        }
-      ]
+      "english": "Several industry experts are speakers at this conference.",
+      "traditional": "今次會議有幾位業界專家做講者。",
+      "jyutping": "gam1 ci3 wui6 ji5 jau5 gei2 wai2 jip6 gaai3 zyun1 gaa1 zou6 gong2 ze2"
+    },
+    {
+      "english": "Tomorrow's conferencing will involve more than ten departments discussing things together.",
+      "traditional": "聽日個會議會有十幾個部門一齊傾。",
+      "jyutping": "ting1 jat6 go3 wui6 ji5 wui5 jau5 sap6 gei2 go3 bou6 mun4 jat1 cai4 king1"
+    },
+    {
+      "english": "This convention is mainly to discuss the new proposal.",
+      "traditional": "呢次會議主要係商量新方案。",
+      "jyutping": "ni1 ci3 wui6 ji5 zyu2 jiu3 hai6 soeng1 loeng4 san1 fong1 on3"
+    },
+    {
+      "english": "The committee held a session today to discuss the new proposal.",
+      "traditional": "委員會今日召開會議，討論新方案。",
+      "jyutping": "wai2 jyun4 wui2 gam1 jat6 ziu6 hoi1 wui6 ji5 tou2 leon6 san1 fong1 on3"
     }
   ]
 }

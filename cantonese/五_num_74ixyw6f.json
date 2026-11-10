@@ -1,26 +1,22 @@
 {
   "id": "74ixyw6f",
   "partOfSpeech": "num",
+  "meaning": "number 5",
+  "english": [
+    {
+      "id": "fot0dpgp",
+      "word": "five",
+      "meaning": "number 5",
+      "note": "This is the all-purpose Cantonese word for the number 5 itself."
+    }
+  ],
   "traditional": "五",
   "jyutping": "ng5",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "number 5",
-      "english": [
-        {
-          "id": "fot0dpgp",
-          "word": "five",
-          "meaning": "number 5",
-          "note": "This is the all-purpose Cantonese word for the number 5 itself."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I have five dollars.",
-          "traditional": "我有五蚊。",
-          "jyutping": "ngo5 jau5 ng5 man1"
-        }
-      ]
+      "english": "I have five dollars.",
+      "traditional": "我有五蚊。",
+      "jyutping": "ngo5 jau5 ng5 man1"
     }
   ]
 }

@@ -1,28 +1,24 @@
 {
   "id": "kydjyzy6",
   "partOfSpeech": "verb",
+  "meaning": "eat/drink down",
+  "english": [
+    {
+      "id": "lpii5r8m",
+      "word": "swallow",
+      "meaning": "eat/drink down",
+      "register": "colloquial",
+      "note": "Use this when you want to emphasize that something is swallowed down into the stomach."
+    }
+  ],
   "traditional": "吞落肚",
   "jyutping": "tan1 lok6 tou5",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "eat/drink down",
-      "english": [
-        {
-          "id": "lpii5r8m",
-          "word": "swallow",
-          "meaning": "eat/drink down",
-          "register": "colloquial",
-          "note": "Use this when you want to emphasize that something is swallowed down into the stomach."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "This pill is so big—how am I supposed to swallow it?",
-          "traditional": "呢粒藥咁大粒，我點吞落肚呀？",
-          "jyutping": "nei1 nap1 joek6 gam3 daai6 nap1 ngo5 dim2 tan1 lok6 tou5 aa3"
-        }
-      ]
+      "english": "This pill is so big—how am I supposed to swallow it?",
+      "traditional": "呢粒藥咁大粒，我點吞落肚呀？",
+      "jyutping": "nei1 nap1 joek6 gam3 daai6 nap1 ngo5 dim2 tan1 lok6 tou5 aa3"
     }
   ]
 }

@@ -1,38 +1,34 @@
 {
   "id": "gx8o70tg",
   "partOfSpeech": "noun",
+  "meaning": "petrol, gasoline",
+  "english": [
+    {
+      "id": "iyshbj2q",
+      "word": "petrol",
+      "meaning": "gasoline / motor fuel",
+      "register": "formal",
+      "note": "Use this mainly in formal, technical, or written contexts rather than everyday conversation."
+    },
+    {
+      "id": "jlsara2o",
+      "word": "gas",
+      "meaning": "gasoline",
+      "note": "Use this for gasoline or petrol for vehicles."
+    }
+  ],
   "traditional": "汽油",
   "jyutping": "hei3 jau4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "petrol, gasoline",
-      "english": [
-        {
-          "id": "iyshbj2q",
-          "word": "petrol",
-          "meaning": "gasoline / motor fuel",
-          "register": "formal",
-          "note": "Use this mainly in formal, technical, or written contexts rather than everyday conversation."
-        },
-        {
-          "id": "jlsara2o",
-          "word": "gas",
-          "meaning": "gasoline",
-          "note": "Use this for gasoline or petrol for vehicles."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Petrol prices will be increased next month.",
-          "traditional": "汽油價格下月將會上調。",
-          "jyutping": "hei3 jau4 gaa3 gaak3 haa6 jyut6 zoeng1 wui5 soeng5 tiu4"
-        },
-        {
-          "english": "This car needs gas before it can go.",
-          "traditional": "呢架車要入汽油先行得。",
-          "jyutping": "nei1 gaa3 ce1 jiu3 jap6 hei3 jau4 sin1 haang4 dak1"
-        }
-      ]
+      "english": "Petrol prices will be increased next month.",
+      "traditional": "汽油價格下月將會上調。",
+      "jyutping": "hei3 jau4 gaa3 gaak3 haa6 jyut6 zoeng1 wui5 soeng5 tiu4"
+    },
+    {
+      "english": "This car needs gas before it can go.",
+      "traditional": "呢架車要入汽油先行得。",
+      "jyutping": "nei1 gaa3 ce1 jiu3 jap6 hei3 jau4 sin1 haang4 dak1"
     }
   ]
 }

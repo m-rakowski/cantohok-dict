@@ -1,40 +1,36 @@
 {
   "id": "rlyxkqsu",
   "partOfSpeech": "noun",
+  "meaning": "family, people at home",
+  "english": [
+    {
+      "id": "ynva52kb",
+      "word": "household",
+      "meaning": "family/people in a home",
+      "register": "colloquial",
+      "note": "Use this colloquial form when you mean the people who live in the home, rather than the unit itself."
+    },
+    {
+      "id": "2ryn8ong",
+      "word": "folk",
+      "meaning": "one’s parents/relatives",
+      "register": "colloquial",
+      "note": "Use this for one's family or the people from one's household, including one's folks back home."
+    }
+  ],
   "traditional": "屋企人",
   "jyutping": "uk1 kei2 jan4",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "family, people at home",
-      "english": [
-        {
-          "id": "ynva52kb",
-          "word": "household",
-          "meaning": "family/people in a home",
-          "register": "colloquial",
-          "note": "Use this colloquial form when you mean the people who live in the home, rather than the unit itself."
-        },
-        {
-          "id": "2ryn8ong",
-          "word": "folk",
-          "meaning": "one’s parents/relatives",
-          "register": "colloquial",
-          "note": "Use this for one's family or the people from one's household, including one's folks back home."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "Everyone in my household supports me.",
-          "traditional": "我屋企人都支持我。",
-          "jyutping": "ngo5 uk1 kei2 jan4 dou1 zi1 ci4 ngo5"
-        },
-        {
-          "english": "My folk are still waiting for me back home.",
-          "traditional": "我屋企人仲喺鄉下等緊我。",
-          "jyutping": "ngo5 uk1 kei2 jan4 zung6 hai2 hoeng1 haa6 dang2 gan2 ngo5"
-        }
-      ]
+      "english": "Everyone in my household supports me.",
+      "traditional": "我屋企人都支持我。",
+      "jyutping": "ngo5 uk1 kei2 jan4 dou1 zi1 ci4 ngo5"
+    },
+    {
+      "english": "My folk are still waiting for me back home.",
+      "traditional": "我屋企人仲喺鄉下等緊我。",
+      "jyutping": "ngo5 uk1 kei2 jan4 zung6 hai2 hoeng1 haa6 dang2 gan2 ngo5"
     }
   ]
 }

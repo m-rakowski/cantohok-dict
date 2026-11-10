@@ -1,28 +1,24 @@
 {
   "id": "5z946mg9",
   "partOfSpeech": "noun",
+  "meaning": "stain, grime",
+  "english": [
+    {
+      "id": "m9oga9cq",
+      "word": "dirt",
+      "meaning": "stain, grime",
+      "register": "formal",
+      "note": "Use this for accumulated grime or a dirty foreign substance rather than one isolated stain."
+    }
+  ],
   "traditional": "污垢",
   "jyutping": "wu1 gau3",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "stain, grime",
-      "english": [
-        {
-          "id": "m9oga9cq",
-          "word": "dirt",
-          "meaning": "stain, grime",
-          "register": "formal",
-          "note": "Use this for accumulated grime or a dirty foreign substance rather than one isolated stain."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "This machine has accumulated a lot of dirt.",
-          "traditional": "呢部機積咗好多污垢。",
-          "jyutping": "ni1 bou6 gei1 zik1 zo2 hou2 do1 wu1 gau3"
-        }
-      ]
+      "english": "This machine has accumulated a lot of dirt.",
+      "traditional": "呢部機積咗好多污垢。",
+      "jyutping": "ni1 bou6 gei1 zik1 zo2 hou2 do1 wu1 gau3"
     }
   ]
 }

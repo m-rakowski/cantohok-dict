@@ -1,51 +1,47 @@
 {
   "id": "4soauqmt",
   "partOfSpeech": "adj",
+  "meaning": "eternal",
+  "english": [
+    {
+      "id": "ioj2efjs",
+      "word": "eternal",
+      "meaning": "lasting forever",
+      "register": "formal",
+      "note": "This is the all-purpose choice for something that lasts forever, especially in formal or abstract contexts."
+    },
+    {
+      "id": "a6f9wktg",
+      "word": "timeless",
+      "meaning": "eternal",
+      "register": "written",
+      "note": "Use this as the all-purpose choice for something eternal or lasting forever."
+    },
+    {
+      "id": "uu8tj2lx",
+      "word": "permanent",
+      "meaning": "eternal",
+      "register": "written",
+      "note": "Use this for an eternal or timeless quality, especially in abstract, emotional, or philosophical contexts."
+    }
+  ],
   "traditional": "永恆",
   "jyutping": "wing5 hang4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "eternal",
-      "english": [
-        {
-          "id": "ioj2efjs",
-          "word": "eternal",
-          "meaning": "lasting forever",
-          "register": "formal",
-          "note": "This is the all-purpose choice for something that lasts forever, especially in formal or abstract contexts."
-        },
-        {
-          "id": "a6f9wktg",
-          "word": "timeless",
-          "meaning": "eternal",
-          "register": "written",
-          "note": "Use this as the all-purpose choice for something eternal or lasting forever."
-        },
-        {
-          "id": "uu8tj2lx",
-          "word": "permanent",
-          "meaning": "eternal",
-          "register": "written",
-          "note": "Use this for an eternal or timeless quality, especially in abstract, emotional, or philosophical contexts."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This love is eternal.",
-          "traditional": "呢份愛係永恆嘅。",
-          "jyutping": "ni1 fan6 oi3 hai6 wing5 hang4 ge3"
-        },
-        {
-          "english": "Love is timeless.",
-          "traditional": "愛係永恆嘅。",
-          "jyutping": "oi3 hai6 wing5 hang4 ge3"
-        },
-        {
-          "english": "True love can be permanent.",
-          "traditional": "真愛可以永恆。",
-          "jyutping": "zan1 oi3 ho2 ji5 wing5 hang4"
-        }
-      ]
+      "english": "This love is eternal.",
+      "traditional": "呢份愛係永恆嘅。",
+      "jyutping": "ni1 fan6 oi3 hai6 wing5 hang4 ge3"
+    },
+    {
+      "english": "Love is timeless.",
+      "traditional": "愛係永恆嘅。",
+      "jyutping": "oi3 hai6 wing5 hang4 ge3"
+    },
+    {
+      "english": "True love can be permanent.",
+      "traditional": "真愛可以永恆。",
+      "jyutping": "zan1 oi3 ho2 ji5 wing5 hang4"
     }
   ]
 }

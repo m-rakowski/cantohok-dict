@@ -1,37 +1,33 @@
 {
   "id": "9qazyyzc",
   "partOfSpeech": "verb",
+  "meaning": "to officiate a wedding",
+  "english": [
+    {
+      "id": "quby0bf1",
+      "word": "wed",
+      "meaning": "marry someone",
+      "note": "Use this when a priest, celebrant, or other official performs the marriage ceremony for the couple."
+    },
+    {
+      "id": "gl2i8kr5",
+      "word": "marry",
+      "meaning": "perform a wedding",
+      "note": "Use 證婚 when an officiant performs or solemnizes the wedding ceremony."
+    }
+  ],
   "traditional": "證婚",
   "jyutping": "zing3 fan1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "to officiate a wedding",
-      "english": [
-        {
-          "id": "quby0bf1",
-          "word": "wed",
-          "meaning": "marry someone",
-          "note": "Use this when a priest, celebrant, or other official performs the marriage ceremony for the couple."
-        },
-        {
-          "id": "gl2i8kr5",
-          "word": "marry",
-          "meaning": "perform a wedding",
-          "note": "Use 證婚 when an officiant performs or solemnizes the wedding ceremony."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The pastor will wed the couple tomorrow.",
-          "traditional": "牧師聽日會幫佢哋證婚。",
-          "jyutping": "muk6 si1 ting1 jat6 wui5 bong1 keoi5 dei6 zing3 fan1"
-        },
-        {
-          "english": "The pastor will marry us tomorrow, so don’t worry.",
-          "traditional": "聽日由牧師幫我哋證婚，唔使擔心。",
-          "jyutping": "ting1 jat6 jau4 muk6 si1 bong1 ngo5 dei6 zing3 fan1 m4 sai2 daam1 sam1"
-        }
-      ]
+      "english": "The pastor will wed the couple tomorrow.",
+      "traditional": "牧師聽日會幫佢哋證婚。",
+      "jyutping": "muk6 si1 ting1 jat6 wui5 bong1 keoi5 dei6 zing3 fan1"
+    },
+    {
+      "english": "The pastor will marry us tomorrow, so don’t worry.",
+      "traditional": "聽日由牧師幫我哋證婚，唔使擔心。",
+      "jyutping": "ting1 jat6 jau4 muk6 si1 bong1 ngo5 dei6 zing3 fan1 m4 sai2 daam1 sam1"
     }
   ]
 }

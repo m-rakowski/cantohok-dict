@@ -1,37 +1,33 @@
 {
   "id": "q0pwjw8p",
   "partOfSpeech": "noun",
+  "meaning": "respect",
+  "english": [
+    {
+      "id": "vvx9g7du",
+      "word": "veneration",
+      "meaning": "deep respect; reverence",
+      "note": "This is the all-purpose noun for the act or state of showing deep respect, including respect for a person."
+    },
+    {
+      "id": "d9lfabjs",
+      "word": "respect",
+      "meaning": "admiration / high regard",
+      "note": "Use 尊敬 for strong admiration or esteem directed toward a person, rather than the broader consideration expressed by 尊重."
+    }
+  ],
   "traditional": "尊敬",
   "jyutping": "zyun1 ging3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "respect",
-      "english": [
-        {
-          "id": "vvx9g7du",
-          "word": "veneration",
-          "meaning": "deep respect; reverence",
-          "note": "This is the all-purpose noun for the act or state of showing deep respect, including respect for a person."
-        },
-        {
-          "id": "d9lfabjs",
-          "word": "respect",
-          "meaning": "admiration / high regard",
-          "note": "Use 尊敬 for strong admiration or esteem directed toward a person, rather than the broader consideration expressed by 尊重."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Our veneration for our mentor has never faded.",
-          "traditional": "我哋對恩師一直心存尊敬。",
-          "jyutping": "ngo5 dei6 deoi3 jan1 si1 jat1 zik6 sam1 cyun4 zyun1 ging3"
-        },
-        {
-          "english": "I have always had a lot of respect for my teacher.",
-          "traditional": "我一直都好尊敬我班老師。",
-          "jyutping": "ngo5 jat1 zik6 dou1 hou2 zyun1 ging3 ngo5 baan1 lou5 si1"
-        }
-      ]
+      "english": "Our veneration for our mentor has never faded.",
+      "traditional": "我哋對恩師一直心存尊敬。",
+      "jyutping": "ngo5 dei6 deoi3 jan1 si1 jat1 zik6 sam1 cyun4 zyun1 ging3"
+    },
+    {
+      "english": "I have always had a lot of respect for my teacher.",
+      "traditional": "我一直都好尊敬我班老師。",
+      "jyutping": "ngo5 jat1 zik6 dou1 hou2 zyun1 ging3 ngo5 baan1 lou5 si1"
     }
   ]
 }

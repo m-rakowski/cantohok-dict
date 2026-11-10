@@ -1,28 +1,24 @@
 {
   "id": "rxdf9fh9",
   "partOfSpeech": "noun",
+  "meaning": "traffic speeder",
+  "english": [
+    {
+      "id": "a07sgl82",
+      "word": "speeder",
+      "meaning": "traffic speeder",
+      "register": "colloquial",
+      "note": "This is the all-purpose choice for a driver who exceeds the legal speed limit."
+    }
+  ],
   "traditional": "超速司機",
   "jyutping": "ciu1 cuk1 si1 gei1",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "traffic speeder",
-      "english": [
-        {
-          "id": "a07sgl82",
-          "word": "speeder",
-          "meaning": "traffic speeder",
-          "register": "colloquial",
-          "note": "This is the all-purpose choice for a driver who exceeds the legal speed limit."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "The speeder was stopped by the police.",
-          "traditional": "嗰個超速司機俾警察截咗。",
-          "jyutping": "go2 go3 ciu1 cuk1 si1 gei1 bei2 ging2 caat3 zit6 zo2"
-        }
-      ]
+      "english": "The speeder was stopped by the police.",
+      "traditional": "嗰個超速司機俾警察截咗。",
+      "jyutping": "go2 go3 ciu1 cuk1 si1 gei1 bei2 ging2 caat3 zit6 zo2"
     }
   ]
 }

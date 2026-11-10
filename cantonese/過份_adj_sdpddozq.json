@@ -1,28 +1,24 @@
 {
   "id": "sdpddozq",
   "partOfSpeech": "adj",
+  "meaning": "too much",
+  "english": [
+    {
+      "id": "x1ea04aa",
+      "word": "excessive",
+      "meaning": "too much",
+      "register": "colloquial",
+      "note": "Use this when the excess is unacceptable, unreasonable, or goes beyond what is appropriate."
+    }
+  ],
   "traditional": "過份",
   "jyutping": "gwo3 fan6",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "too much",
-      "english": [
-        {
-          "id": "x1ea04aa",
-          "word": "excessive",
-          "meaning": "too much",
-          "register": "colloquial",
-          "note": "Use this when the excess is unacceptable, unreasonable, or goes beyond what is appropriate."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "Your demand that I hand in the homework today is excessive.",
-          "traditional": "你要求我即日交功課，真係過份喎。",
-          "jyutping": "nei5 jiu3 kau4 ngo5 zik1 jat6 gaau1 gung1 fo3 zan1 hai6 gwo3 fan6 wo3"
-        }
-      ]
+      "english": "Your demand that I hand in the homework today is excessive.",
+      "traditional": "你要求我即日交功課，真係過份喎。",
+      "jyutping": "nei5 jiu3 kau4 ngo5 zik1 jat6 gaau1 gung1 fo3 zan1 hai6 gwo3 fan6 wo3"
     }
   ]
 }

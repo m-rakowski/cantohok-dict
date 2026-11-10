@@ -1,37 +1,33 @@
 {
   "id": "jolhhrbf",
   "partOfSpeech": "noun",
+  "meaning": "water splash, spray",
+  "english": [
+    {
+      "id": "4yt1h6pf",
+      "word": "plume",
+      "meaning": "water spray",
+      "note": "Use this for water or fine spray thrown upward, rather than for smoke."
+    },
+    {
+      "id": "9o2n6qlk",
+      "word": "wake",
+      "meaning": "water disturbance",
+      "note": "Use this for the visible splash or disturbed water made by a person or animal moving through water."
+    }
+  ],
   "traditional": "水花",
   "jyutping": "seoi2 faa1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "water splash, spray",
-      "english": [
-        {
-          "id": "4yt1h6pf",
-          "word": "plume",
-          "meaning": "water spray",
-          "note": "Use this for water or fine spray thrown upward, rather than for smoke."
-        },
-        {
-          "id": "9o2n6qlk",
-          "word": "wake",
-          "meaning": "water disturbance",
-          "note": "Use this for the visible splash or disturbed water made by a person or animal moving through water."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The speedboat left a plume of spray behind it.",
-          "traditional": "快艇駛過，船尾濺起一大片水花。",
-          "jyutping": "faai3 teng5 sai2 gwo3 syun4 mei5 zin3 hei2 jat1 daai6 pin3 seoi2 faa1"
-        },
-        {
-          "english": "They swam very fast, sending up lots of splashes in their wake.",
-          "traditional": "佢游水游得好快，後面濺起好多水花。",
-          "jyutping": "keoi5 jau4 seoi2 jau4 dak1 hou2 faai3 hau6 min6 zin3 hei2 hou2 do1 seoi2 faa1"
-        }
-      ]
+      "english": "The speedboat left a plume of spray behind it.",
+      "traditional": "快艇駛過，船尾濺起一大片水花。",
+      "jyutping": "faai3 teng5 sai2 gwo3 syun4 mei5 zin3 hei2 jat1 daai6 pin3 seoi2 faa1"
+    },
+    {
+      "english": "They swam very fast, sending up lots of splashes in their wake.",
+      "traditional": "佢游水游得好快，後面濺起好多水花。",
+      "jyutping": "keoi5 jau4 seoi2 jau4 dak1 hou2 faai3 hau6 min6 zin3 hei2 hou2 do1 seoi2 faa1"
     }
   ]
 }

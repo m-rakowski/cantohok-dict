@@ -1,28 +1,24 @@
 {
   "id": "kc68kz70",
   "partOfSpeech": "noun",
+  "meaning": "early part of day",
+  "english": [
+    {
+      "id": "6kj64hdf",
+      "word": "morning",
+      "meaning": "early part of day",
+      "register": "colloquial",
+      "note": "This is the all-purpose colloquial choice for an everyday morning, especially the earlier part of the day."
+    }
+  ],
   "traditional": "朝頭早",
   "jyutping": "ziu1 tau4 zou2",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "early part of day",
-      "english": [
-        {
-          "id": "6kj64hdf",
-          "word": "morning",
-          "meaning": "early part of day",
-          "register": "colloquial",
-          "note": "This is the all-purpose colloquial choice for an everyday morning, especially the earlier part of the day."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "I go to the wet market first thing in the morning to buy groceries.",
-          "traditional": "朝頭早我就去街市買餸。",
-          "jyutping": "ziu1 tau4 zou2 ngo5 zau6 heoi3 gaai1 si5 maai5 sung3"
-        }
-      ]
+      "english": "I go to the wet market first thing in the morning to buy groceries.",
+      "traditional": "朝頭早我就去街市買餸。",
+      "jyutping": "ziu1 tau4 zou2 ngo5 zau6 heoi3 gaai1 si5 maai5 sung3"
     }
   ]
 }

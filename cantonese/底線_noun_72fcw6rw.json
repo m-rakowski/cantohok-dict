@@ -1,46 +1,22 @@
 {
   "id": "72fcw6rw",
   "partOfSpeech": "noun",
+  "meaning": "underline",
+  "english": [
+    {
+      "id": "ahzk6p7e",
+      "word": "underline",
+      "meaning": "line under text",
+      "note": "This is the all-purpose noun for a line placed under text for emphasis, italics, or a hyperlink."
+    }
+  ],
   "traditional": "底線",
   "jyutping": "dai2 sin3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "underline",
-      "english": [
-        {
-          "id": "ahzk6p7e",
-          "word": "underline",
-          "meaning": "line under text",
-          "note": "This is the all-purpose noun for a line placed under text for emphasis, italics, or a hyperlink."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Adding an underline to this text makes it easier to see that it is a key point.",
-          "traditional": "呢段字加條底線，就容易睇到係重點。",
-          "jyutping": "ni1 dyun6 zi6 gaa1 tiu4 dai2 sin3 zau6 jung4 ji6 tai2 dou2 hai6 zung6 dim2"
-        }
-      ]
-    },
-    {
-      "meaning": "bottom line, lowest limit",
-      "english": [
-        {
-          "id": "tmuf7qjd",
-          "word": "minimum",
-          "meaning": "lowest limit",
-          "register": "colloquial",
-          "note": "Use this for the lowest acceptable boundary, especially a personal, practical, or negotiable limit."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "This price is my minimum.",
-          "traditional": "呢個價錢係我嘅底線喇。",
-          "jyutping": "ni1 go3 gaa3 cin2 hai6 ngo5 ge3 dai2 sin3 laa3"
-        }
-      ]
+      "english": "Adding an underline to this text makes it easier to see that it is a key point.",
+      "traditional": "呢段字加條底線，就容易睇到係重點。",
+      "jyutping": "ni1 dyun6 zi6 gaa1 tiu4 dai2 sin3 zau6 jung4 ji6 tai2 dou2 hai6 zung6 dim2"
     }
   ]
 }

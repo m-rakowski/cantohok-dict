@@ -1,28 +1,24 @@
 {
   "id": "kvezvsyx",
   "partOfSpeech": "noun",
+  "meaning": "plural noun form",
+  "english": [
+    {
+      "id": "r34ds2cp",
+      "word": "plural",
+      "meaning": "plural noun form",
+      "register": "formal",
+      "note": "Use this when referring specifically to the form of a word used for more than one."
+    }
+  ],
   "traditional": "複數形式",
   "jyutping": "fuk1 sou3 jing4 sik1",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "plural noun form",
-      "english": [
-        {
-          "id": "r34ds2cp",
-          "word": "plural",
-          "meaning": "plural noun form",
-          "register": "formal",
-          "note": "Use this when referring specifically to the form of a word used for more than one."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The plural form of this noun is different from the singular form.",
-          "traditional": "呢個名詞嘅複數形式同單數形式唔同。",
-          "jyutping": "ni1 go3 ming4 ci4 ge3 fuk1 sou3 jing4 sik1 tung4 daan1 sou3 jing4 sik1 m4 tung4"
-        }
-      ]
+      "english": "The plural form of this noun is different from the singular form.",
+      "traditional": "呢個名詞嘅複數形式同單數形式唔同。",
+      "jyutping": "ni1 go3 ming4 ci4 ge3 fuk1 sou3 jing4 sik1 tung4 daan1 sou3 jing4 sik1 m4 tung4"
     }
   ]
 }

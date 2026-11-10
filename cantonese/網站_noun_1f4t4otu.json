@@ -1,37 +1,33 @@
 {
   "id": "1f4t4otu",
   "partOfSpeech": "noun",
+  "meaning": "website",
+  "english": [
+    {
+      "id": "j0kb7yh5",
+      "word": "site",
+      "meaning": "website",
+      "note": "Use this for an internet website, not a physical location."
+    },
+    {
+      "id": "njttsz8u",
+      "word": "website",
+      "meaning": "collection of web pages",
+      "note": "This is the all-purpose Cantonese noun for a website as a collection of web pages."
+    }
+  ],
   "traditional": "網站",
   "jyutping": "mong5 zaam6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "website",
-      "english": [
-        {
-          "id": "j0kb7yh5",
-          "word": "site",
-          "meaning": "website",
-          "note": "Use this for an internet website, not a physical location."
-        },
-        {
-          "id": "njttsz8u",
-          "word": "website",
-          "meaning": "collection of web pages",
-          "note": "This is the all-purpose Cantonese noun for a website as a collection of web pages."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I found that recipe on this site.",
-          "traditional": "我喺呢個網站搵到嗰份食譜。",
-          "jyutping": "ngo5 hai2 ni1 go3 mong5 zaam6 wan2 dou2 go2 fan6 sik6 pou2"
-        },
-        {
-          "english": "This website has lots of travel information.",
-          "traditional": "呢個網站有好多旅遊資料。",
-          "jyutping": "ni1 go3 mong5 zaam6 jau5 hou2 do1 leoi5 jau4 zi1 liu2"
-        }
-      ]
+      "english": "I found that recipe on this site.",
+      "traditional": "我喺呢個網站搵到嗰份食譜。",
+      "jyutping": "ngo5 hai2 ni1 go3 mong5 zaam6 wan2 dou2 go2 fan6 sik6 pou2"
+    },
+    {
+      "english": "This website has lots of travel information.",
+      "traditional": "呢個網站有好多旅遊資料。",
+      "jyutping": "ni1 go3 mong5 zaam6 jau5 hou2 do1 leoi5 jau4 zi1 liu2"
     }
   ]
 }

@@ -1,38 +1,34 @@
 {
   "id": "ejsjlter",
   "partOfSpeech": "noun",
+  "meaning": "row, line",
+  "english": [
+    {
+      "id": "nvoxxw6o",
+      "word": "row",
+      "meaning": "line of things",
+      "note": "Use 行 for a table row and for a row of planted crops or trees, rather than the usual 排 for seats and general objects."
+    },
+    {
+      "id": "ezl0lhzm",
+      "word": "line",
+      "meaning": "row of text",
+      "register": "written",
+      "note": "Use this for a line of written text and, especially in written or literary contexts, a line of poetry."
+    }
+  ],
   "traditional": "行",
   "jyutping": "hong4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "row, line",
-      "english": [
-        {
-          "id": "nvoxxw6o",
-          "word": "row",
-          "meaning": "line of things",
-          "note": "Use 行 for a table row and for a row of planted crops or trees, rather than the usual 排 for seats and general objects."
-        },
-        {
-          "id": "ezl0lhzm",
-          "word": "line",
-          "meaning": "row of text",
-          "register": "written",
-          "note": "Use this for a line of written text and, especially in written or literary contexts, a line of poetry."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The first row of this table is for names.",
-          "traditional": "呢張表格嘅第一行係姓名。",
-          "jyutping": "ni1 zoeng1 biu2 gaak3 ge3 dai6 jat1 hong4 hai6 sing3 meng4"
-        },
-        {
-          "english": "Please fill in the answer on this line.",
-          "traditional": "請喺呢一行填答案。",
-          "jyutping": "cing2 hai2 ni1 jat1 hong4 tin4 daap3 on3"
-        }
-      ]
+      "english": "The first row of this table is for names.",
+      "traditional": "呢張表格嘅第一行係姓名。",
+      "jyutping": "ni1 zoeng1 biu2 gaak3 ge3 dai6 jat1 hong4 hai6 sing3 meng4"
+    },
+    {
+      "english": "Please fill in the answer on this line.",
+      "traditional": "請喺呢一行填答案。",
+      "jyutping": "cing2 hai2 ni1 jat1 hong4 tin4 daap3 on3"
     }
   ]
 }

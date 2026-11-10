@@ -1,37 +1,33 @@
 {
   "id": "zs81eg1e",
   "partOfSpeech": "noun",
+  "meaning": "fruit juice",
+  "english": [
+    {
+      "id": "r82kpoyb",
+      "word": "juice",
+      "meaning": "fruit/plant liquid",
+      "note": "This is the all-purpose noun for liquid fruit juice and a juice drink ordered or served as a beverage."
+    },
+    {
+      "id": "12na563s",
+      "word": "nectar",
+      "meaning": "delicious sweet drink",
+      "note": "Use this when the nectar is a sweetened fruit juice, rather than for nectar as a general poetic description of any drink."
+    }
+  ],
   "traditional": "果汁",
   "jyutping": "gwo2 zap1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "fruit juice",
-      "english": [
-        {
-          "id": "r82kpoyb",
-          "word": "juice",
-          "meaning": "fruit/plant liquid",
-          "note": "This is the all-purpose noun for liquid fruit juice and a juice drink ordered or served as a beverage."
-        },
-        {
-          "id": "12na563s",
-          "word": "nectar",
-          "meaning": "delicious sweet drink",
-          "note": "Use this when the nectar is a sweetened fruit juice, rather than for nectar as a general poetic description of any drink."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I want a glass of juice.",
-          "traditional": "我想要一杯果汁。",
-          "jyutping": "ngo5 soeng2 jiu3 jat1 bui1 gwo2 zap1"
-        },
-        {
-          "english": "The kids love drinking nectar.",
-          "traditional": "小朋友最鍾意飲果汁。",
-          "jyutping": "siu2 pang4 jau5 zeoi3 zung1 ji3 jam2 gwo2 zap1"
-        }
-      ]
+      "english": "I want a glass of juice.",
+      "traditional": "我想要一杯果汁。",
+      "jyutping": "ngo5 soeng2 jiu3 jat1 bui1 gwo2 zap1"
+    },
+    {
+      "english": "The kids love drinking nectar.",
+      "traditional": "小朋友最鍾意飲果汁。",
+      "jyutping": "siu2 pang4 jau5 zeoi3 zung1 ji3 jam2 gwo2 zap1"
     }
   ]
 }

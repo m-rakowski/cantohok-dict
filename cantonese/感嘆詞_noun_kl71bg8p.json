@@ -1,28 +1,24 @@
 {
   "id": "kl71bg8p",
   "partOfSpeech": "noun",
+  "meaning": "grammar exclamation",
+  "english": [
+    {
+      "id": "66q7jx6l",
+      "word": "interjection",
+      "meaning": "grammar exclamation",
+      "register": "formal",
+      "note": "This is the all-purpose grammatical term for an exclamation or filled pause such as an emotional utterance."
+    }
+  ],
   "traditional": "感嘆詞",
   "jyutping": "gam2 taan3 ci4",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "grammar exclamation",
-      "english": [
-        {
-          "id": "66q7jx6l",
-          "word": "interjection",
-          "meaning": "grammar exclamation",
-          "register": "formal",
-          "note": "This is the all-purpose grammatical term for an exclamation or filled pause such as an emotional utterance."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "“Aiya” is an interjection expressing surprise。",
-          "traditional": "感嘆詞",
-          "jyutping": "gam2 taan3 ci4"
-        }
-      ]
+      "english": "“Aiya” is an interjection expressing surprise。",
+      "traditional": "感嘆詞",
+      "jyutping": "gam2 taan3 ci4"
     }
   ]
 }

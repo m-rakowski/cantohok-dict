@@ -1,37 +1,33 @@
 {
   "id": "xh8ma9s7",
   "partOfSpeech": "adv",
+  "meaning": "eastward",
+  "english": [
+    {
+      "id": "wqnrp3rb",
+      "word": "east",
+      "meaning": "eastward",
+      "note": "This is the all-purpose way to say that something moves or points eastward."
+    },
+    {
+      "id": "qi0zwwgh",
+      "word": "eastward",
+      "meaning": "towards the east",
+      "note": "This is the all-purpose way to say that someone or something is moving towards the east."
+    }
+  ],
   "traditional": "向東",
   "jyutping": "hoeng3 dung1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "eastward",
-      "english": [
-        {
-          "id": "wqnrp3rb",
-          "word": "east",
-          "meaning": "eastward",
-          "note": "This is the all-purpose way to say that something moves or points eastward."
-        },
-        {
-          "id": "qi0zwwgh",
-          "word": "eastward",
-          "meaning": "towards the east",
-          "note": "This is the all-purpose way to say that someone or something is moving towards the east."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The car goes east.",
-          "traditional": "架車向東行。",
-          "jyutping": "gaa3 ce1 hoeng3 dung1 haang4"
-        },
-        {
-          "english": "We walked eastward, and in another ten minutes we’ll reach the beach.",
-          "traditional": "我哋向東行，行多十分鐘就到海邊。",
-          "jyutping": "ngo5 dei6 hoeng3 dung1 haang4 haang4 do1 sap6 fan1 zung1 zau6 dou3 hoi2 bin1"
-        }
-      ]
+      "english": "The car goes east.",
+      "traditional": "架車向東行。",
+      "jyutping": "gaa3 ce1 hoeng3 dung1 haang4"
+    },
+    {
+      "english": "We walked eastward, and in another ten minutes we’ll reach the beach.",
+      "traditional": "我哋向東行，行多十分鐘就到海邊。",
+      "jyutping": "ngo5 dei6 hoeng3 dung1 haang4 haang4 do1 sap6 fan1 zung1 zau6 dou3 hoi2 bin1"
     }
   ]
 }

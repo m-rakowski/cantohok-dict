@@ -1,26 +1,22 @@
 {
   "id": "rl37fsob",
   "partOfSpeech": "noun",
+  "meaning": "stovetop",
+  "english": [
+    {
+      "id": "atu6fr93",
+      "word": "stove",
+      "meaning": "stovetop",
+      "note": "Use this for the stovetop or individual hotplate area rather than the whole cooker."
+    }
+  ],
   "traditional": "爐頭",
   "jyutping": "lou4 tau4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "stovetop",
-      "english": [
-        {
-          "id": "atu6fr93",
-          "word": "stove",
-          "meaning": "stovetop",
-          "note": "Use this for the stovetop or individual hotplate area rather than the whole cooker."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This stove burner isn't hot enough to cook the steak through.",
-          "traditional": "呢個爐頭唔夠熱，煎唔熟塊扒。",
-          "jyutping": "ni1 go3 lou4 tau4 m4 gau3 jit6 zin1 m4 suk6 faai3 paa4"
-        }
-      ]
+      "english": "This stove burner isn't hot enough to cook the steak through.",
+      "traditional": "呢個爐頭唔夠熱，煎唔熟塊扒。",
+      "jyutping": "ni1 go3 lou4 tau4 m4 gau3 jit6 zin1 m4 suk6 faai3 paa4"
     }
   ]
 }

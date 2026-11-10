@@ -1,37 +1,33 @@
 {
   "id": "zf5yo0oq",
   "partOfSpeech": "pron",
+  "meaning": "they, them",
+  "english": [
+    {
+      "id": "hzviutgp",
+      "word": "they",
+      "meaning": "third-person plural pronoun",
+      "note": "This is the all-purpose spoken Cantonese equivalent for a previously mentioned group."
+    },
+    {
+      "id": "mfeigwym",
+      "word": "them",
+      "meaning": "plural standalone pronoun",
+      "note": "Use this as the all-purpose standalone pronoun when “them” refers to more than one person."
+    }
+  ],
   "traditional": "佢哋",
   "jyutping": "keoi5 dei6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "they, them",
-      "english": [
-        {
-          "id": "hzviutgp",
-          "word": "they",
-          "meaning": "third-person plural pronoun",
-          "note": "This is the all-purpose spoken Cantonese equivalent for a previously mentioned group."
-        },
-        {
-          "id": "mfeigwym",
-          "word": "them",
-          "meaning": "plural standalone pronoun",
-          "note": "Use this as the all-purpose standalone pronoun when “them” refers to more than one person."
-        }
-      ],
-      "examples": [
-        {
-          "english": "They just left.",
-          "traditional": "佢哋啱啱走咗。",
-          "jyutping": "keoi5 dei6 ngaam1 ngaam1 zau2 zo2"
-        },
-        {
-          "english": "They said they would come tonight, but I don't believe them.",
-          "traditional": "佢哋話今晚會嚟，但我唔信佢哋。",
-          "jyutping": "keoi5 dei6 waa6 gam1 maan5 wui5 lai4 daan6 ngo5 m4 seon3 keoi5 dei6"
-        }
-      ]
+      "english": "They just left.",
+      "traditional": "佢哋啱啱走咗。",
+      "jyutping": "keoi5 dei6 ngaam1 ngaam1 zau2 zo2"
+    },
+    {
+      "english": "They said they would come tonight, but I don't believe them.",
+      "traditional": "佢哋話今晚會嚟，但我唔信佢哋。",
+      "jyutping": "keoi5 dei6 waa6 gam1 maan5 wui5 lai4 daan6 ngo5 m4 seon3 keoi5 dei6"
     }
   ]
 }

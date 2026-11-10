@@ -1,28 +1,24 @@
 {
   "id": "fefqm2al",
   "partOfSpeech": "verb",
+  "meaning": "make an exact copy",
+  "english": [
+    {
+      "id": "7fo9at93",
+      "word": "clone",
+      "meaning": "make an exact copy",
+      "register": "technical",
+      "note": "Use this specifically for biological or genetic cloning when the scientific distinction matters."
+    }
+  ],
   "traditional": "克隆",
   "jyutping": "hak1 lung4",
-  "boxes": [
+  "register": "technical",
+  "examples": [
     {
-      "meaning": "make an exact copy",
-      "english": [
-        {
-          "id": "7fo9at93",
-          "word": "clone",
-          "meaning": "make an exact copy",
-          "register": "technical",
-          "note": "Use this specifically for biological or genetic cloning when the scientific distinction matters."
-        }
-      ],
-      "register": "technical",
-      "examples": [
-        {
-          "english": "Scientists successfully clone a sheep.",
-          "traditional": "科學家成功克隆咗一隻羊。",
-          "jyutping": "fo1 hok6 gaa1 sing4 gung1 hak1 lung4 zo2 jat1 zek3 joeng4"
-        }
-      ]
+      "english": "Scientists successfully clone a sheep.",
+      "traditional": "科學家成功克隆咗一隻羊。",
+      "jyutping": "fo1 hok6 gaa1 sing4 gung1 hak1 lung4 zo2 jat1 zek3 joeng4"
     }
   ]
 }

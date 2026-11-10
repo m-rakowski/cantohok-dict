@@ -1,28 +1,24 @@
 {
   "id": "a2sbqtkz",
   "partOfSpeech": "noun",
+  "meaning": "devotional contemplation",
+  "english": [
+    {
+      "id": "jg7lato3",
+      "word": "meditation",
+      "meaning": "devotional contemplation",
+      "register": "formal",
+      "note": "Use this when the meditation is explicitly religious or devotional."
+    }
+  ],
   "traditional": "默想",
   "jyutping": "mak6 soeng2",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "devotional contemplation",
-      "english": [
-        {
-          "id": "jg7lato3",
-          "word": "meditation",
-          "meaning": "devotional contemplation",
-          "register": "formal",
-          "note": "Use this when the meditation is explicitly religious or devotional."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "After praying, the congregation practises religious meditation together.",
-          "traditional": "禱告之後，教友一齊默想。",
-          "jyutping": "tou2 gou3 zi1 hau6 gaau3 jau5 jat1 cai4 mak6 soeng2"
-        }
-      ]
+      "english": "After praying, the congregation practises religious meditation together.",
+      "traditional": "禱告之後，教友一齊默想。",
+      "jyutping": "tou2 gou3 zi1 hau6 gaau3 jau5 jat1 cai4 mak6 soeng2"
     }
   ]
 }

@@ -1,28 +1,24 @@
 {
   "id": "nwuvbdmt",
   "partOfSpeech": "noun",
+  "meaning": "entertainment show",
+  "english": [
+    {
+      "id": "0i4y9fzz",
+      "word": "show",
+      "meaning": "entertainment show",
+      "register": "colloquial",
+      "note": "Use 騷 for a live entertainment show or performance rather than a broadcast program."
+    }
+  ],
   "traditional": "騷",
   "jyutping": "sou1",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "entertainment show",
-      "english": [
-        {
-          "id": "0i4y9fzz",
-          "word": "show",
-          "meaning": "entertainment show",
-          "register": "colloquial",
-          "note": "Use 騷 for a live entertainment show or performance rather than a broadcast program."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "Tonight's show has a live band.",
-          "traditional": "今晚嗰場騷有現場樂隊。",
-          "jyutping": "gam1 maan5 go2 coeng4 sou1 jau5 jin6 coeng4 ngok6 deoi6"
-        }
-      ]
+      "english": "Tonight's show has a live band.",
+      "traditional": "今晚嗰場騷有現場樂隊。",
+      "jyutping": "gam1 maan5 go2 coeng4 sou1 jau5 jin6 coeng4 ngok6 deoi6"
     }
   ]
 }

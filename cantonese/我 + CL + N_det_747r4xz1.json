@@ -1,28 +1,24 @@
 {
   "id": "747r4xz1",
   "partOfSpeech": "det",
+  "meaning": "belonging to me",
+  "english": [
+    {
+      "id": "szp9g7cj",
+      "word": "my",
+      "meaning": "belonging to me",
+      "register": "colloquial",
+      "note": "Use this compact pattern before a countable noun when the classifier construction naturally carries the possessive meaning."
+    }
+  ],
   "traditional": "我 + CL + N",
   "jyutping": "ngo5 CL N",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "belonging to me",
-      "english": [
-        {
-          "id": "szp9g7cj",
-          "word": "my",
-          "meaning": "belonging to me",
-          "register": "colloquial",
-          "note": "Use this compact pattern before a countable noun when the classifier construction naturally carries the possessive meaning."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "My car broke down.",
-          "traditional": "我架車壞咗。",
-          "jyutping": "ngo5 gaa3 ce1 waai6 zo2"
-        }
-      ]
+      "english": "My car broke down.",
+      "traditional": "我架車壞咗。",
+      "jyutping": "ngo5 gaa3 ce1 waai6 zo2"
     }
   ]
 }

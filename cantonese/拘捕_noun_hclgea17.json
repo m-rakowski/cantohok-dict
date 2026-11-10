@@ -1,28 +1,24 @@
 {
   "id": "hclgea17",
   "partOfSpeech": "noun",
+  "meaning": "legal arrest",
+  "english": [
+    {
+      "id": "ctnx3yas",
+      "word": "arrest",
+      "meaning": "legal arrest",
+      "register": "formal",
+      "note": "This is the all-purpose noun for the legal arrest of a suspect."
+    }
+  ],
   "traditional": "拘捕",
   "jyutping": "keoi1 bou6",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "legal arrest",
-      "english": [
-        {
-          "id": "ctnx3yas",
-          "word": "arrest",
-          "meaning": "legal arrest",
-          "register": "formal",
-          "note": "This is the all-purpose noun for the legal arrest of a suspect."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The police carried out the formal arrest of that suspect.",
-          "traditional": "警方正式拘捕咗嗰名疑犯。",
-          "jyutping": "ging2 fong1 zing3 sik1 keoi1 bou6 zo2 go2 meng4 ji4 faan6"
-        }
-      ]
+      "english": "The police carried out the formal arrest of that suspect.",
+      "traditional": "警方正式拘捕咗嗰名疑犯。",
+      "jyutping": "ging2 fong1 zing3 sik1 keoi1 bou6 zo2 go2 meng4 ji4 faan6"
     }
   ]
 }

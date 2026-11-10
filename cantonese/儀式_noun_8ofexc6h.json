@@ -1,48 +1,44 @@
 {
   "id": "8ofexc6h",
   "partOfSpeech": "noun",
+  "meaning": "ceremony, ritual",
+  "english": [
+    {
+      "id": "ymhpqzx8",
+      "word": "rite",
+      "meaning": "religious ceremony",
+      "note": "This is the all-purpose choice for a formal religious ceremony or ritual."
+    },
+    {
+      "id": "nnrox773",
+      "word": "ritual",
+      "meaning": "rite; repeated set of actions",
+      "note": "This is the all-purpose choice for a rite or a repeated set of actions, especially in a religious context."
+    },
+    {
+      "id": "fgy3sqw4",
+      "word": "ceremony",
+      "meaning": "formal event",
+      "note": "This is the all-purpose choice for a ritual and for a ceremony in general, especially when the focus is on the actions or ritual itself."
+    }
+  ],
   "traditional": "儀式",
   "jyutping": "ji4 sik1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "ceremony, ritual",
-      "english": [
-        {
-          "id": "ymhpqzx8",
-          "word": "rite",
-          "meaning": "religious ceremony",
-          "note": "This is the all-purpose choice for a formal religious ceremony or ritual."
-        },
-        {
-          "id": "nnrox773",
-          "word": "ritual",
-          "meaning": "rite; repeated set of actions",
-          "note": "This is the all-purpose choice for a rite or a repeated set of actions, especially in a religious context."
-        },
-        {
-          "id": "fgy3sqw4",
-          "word": "ceremony",
-          "meaning": "formal event",
-          "note": "This is the all-purpose choice for a ritual and for a ceremony in general, especially when the focus is on the actions or ritual itself."
-        }
-      ],
-      "examples": [
-        {
-          "english": "A solemn rite is being held in the church.",
-          "traditional": "教堂入面而家舉行緊莊嚴嘅儀式。",
-          "jyutping": "gaau3 tong4 jap6 min6 ji4 gaa1 geoi2 hang4 gan2 zong1 jim4 ge3 ji4 sik1"
-        },
-        {
-          "english": "My mother takes me to the temple every Ching Ming Festival to attend a ritual.",
-          "traditional": "媽媽每年清明節都帶我去寺廟參加儀式。",
-          "jyutping": "maa1 maa1 mui5 nin4 cing1 ming4 zit3 dou1 daai3 ngo5 heoi3 zi6 miu2 caam1 gaa1 ji4 sik1"
-        },
-        {
-          "english": "After the wedding ceremony was over, everyone took pictures together.",
-          "traditional": "婚禮儀式完成之後，大家一齊影相。",
-          "jyutping": "fan1 lai5 ji4 sik1 jyun4 sing4 zi1 hau6 daai6 gaa1 jat1 cai4 jing2 soeng2"
-        }
-      ]
+      "english": "A solemn rite is being held in the church.",
+      "traditional": "教堂入面而家舉行緊莊嚴嘅儀式。",
+      "jyutping": "gaau3 tong4 jap6 min6 ji4 gaa1 geoi2 hang4 gan2 zong1 jim4 ge3 ji4 sik1"
+    },
+    {
+      "english": "My mother takes me to the temple every Ching Ming Festival to attend a ritual.",
+      "traditional": "媽媽每年清明節都帶我去寺廟參加儀式。",
+      "jyutping": "maa1 maa1 mui5 nin4 cing1 ming4 zit3 dou1 daai3 ngo5 heoi3 zi6 miu2 caam1 gaa1 ji4 sik1"
+    },
+    {
+      "english": "After the wedding ceremony was over, everyone took pictures together.",
+      "traditional": "婚禮儀式完成之後，大家一齊影相。",
+      "jyutping": "fan1 lai5 ji4 sik1 jyun4 sing4 zi1 hau6 daai6 gaa1 jat1 cai4 jing2 soeng2"
     }
   ]
 }

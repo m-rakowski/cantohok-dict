@@ -1,37 +1,33 @@
 {
   "id": "8a4eq8tl",
   "partOfSpeech": "noun",
+  "meaning": "percentage",
+  "english": [
+    {
+      "id": "wsa26p44",
+      "word": "percentage",
+      "meaning": "part of 100",
+      "note": "This is the all-purpose choice for a part or rate expressed out of 100."
+    },
+    {
+      "id": "ipd1v2f3",
+      "word": "percent",
+      "meaning": "percentage; per hundred",
+      "note": "Use 百分比 when referring to a percentage as a ratio or measured figure rather than stating the number itself."
+    }
+  ],
   "traditional": "百分比",
   "jyutping": "baak3 fan6 bei2",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "percentage",
-      "english": [
-        {
-          "id": "wsa26p44",
-          "word": "percentage",
-          "meaning": "part of 100",
-          "note": "This is the all-purpose choice for a part or rate expressed out of 100."
-        },
-        {
-          "id": "ipd1v2f3",
-          "word": "percent",
-          "meaning": "percentage; per hundred",
-          "note": "Use 百分比 when referring to a percentage as a ratio or measured figure rather than stating the number itself."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The percentage of students who passed the exam has gone up.",
-          "traditional": "今次考試合格嘅學生百分比高咗。",
-          "jyutping": "gam1 ci3 haau2 si3 hap6 gaak3 ge3 hok6 saang1 baak3 fan6 bei2 gou1 zo2"
-        },
-        {
-          "english": "This chart clearly shows what percent each age group makes up.",
-          "traditional": "呢張圖清楚咁顯示各年齡層佔嘅百分比。",
-          "jyutping": "ni1 zoeng1 tou4 cing1 co2 gam3 hin2 si6 gok3 nin4 ling4 cang4 zim3 ge3 baak3 fan6 bei2"
-        }
-      ]
+      "english": "The percentage of students who passed the exam has gone up.",
+      "traditional": "今次考試合格嘅學生百分比高咗。",
+      "jyutping": "gam1 ci3 haau2 si3 hap6 gaak3 ge3 hok6 saang1 baak3 fan6 bei2 gou1 zo2"
+    },
+    {
+      "english": "This chart clearly shows what percent each age group makes up.",
+      "traditional": "呢張圖清楚咁顯示各年齡層佔嘅百分比。",
+      "jyutping": "ni1 zoeng1 tou4 cing1 co2 gam3 hin2 si6 gok3 nin4 ling4 cang4 zim3 ge3 baak3 fan6 bei2"
     }
   ]
 }

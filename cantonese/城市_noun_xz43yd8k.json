@@ -1,37 +1,33 @@
 {
   "id": "xz43yd8k",
   "partOfSpeech": "noun",
+  "meaning": "city",
+  "english": [
+    {
+      "id": "bn8akmlz",
+      "word": "city",
+      "meaning": "large settlement",
+      "note": "This is the all-purpose noun for a city or large settlement."
+    },
+    {
+      "id": "xq3p8jmp",
+      "word": "town",
+      "meaning": "the city / this town",
+      "note": "Use 城市 for a major city, especially the city where the speaker is located, rather than for an ordinary small town."
+    }
+  ],
   "traditional": "城市",
   "jyutping": "sing4 si5",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "city",
-      "english": [
-        {
-          "id": "bn8akmlz",
-          "word": "city",
-          "meaning": "large settlement",
-          "note": "This is the all-purpose noun for a city or large settlement."
-        },
-        {
-          "id": "xq3p8jmp",
-          "word": "town",
-          "meaning": "the city / this town",
-          "note": "Use 城市 for a major city, especially the city where the speaker is located, rather than for an ordinary small town."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I live in the city, so getting to work is much more convenient.",
-          "traditional": "我住喺城市入面，返工方便好多。",
-          "jyutping": "ngo5 zyu6 hai2 sing4 si5 jap6 min6 faan1 gung1 fong1 bin6 hou2 do1"
-        },
-        {
-          "english": "I just arrived in this town, and I think the night views are beautiful.",
-          "traditional": "我啱啱到呢個城市，覺得夜景好靚。",
-          "jyutping": "ngo5 ngaam1 ngaam1 dou3 ni1 go3 sing4 si5 gok3 dak1 je6 ging2 hou2 leng3"
-        }
-      ]
+      "english": "I live in the city, so getting to work is much more convenient.",
+      "traditional": "我住喺城市入面，返工方便好多。",
+      "jyutping": "ngo5 zyu6 hai2 sing4 si5 jap6 min6 faan1 gung1 fong1 bin6 hou2 do1"
+    },
+    {
+      "english": "I just arrived in this town, and I think the night views are beautiful.",
+      "traditional": "我啱啱到呢個城市，覺得夜景好靚。",
+      "jyutping": "ngo5 ngaam1 ngaam1 dou3 ni1 go3 sing4 si5 gok3 dak1 je6 ging2 hou2 leng3"
     }
   ]
 }

@@ -1,37 +1,33 @@
 {
   "id": "8zygpmot",
   "partOfSpeech": "noun",
+  "meaning": "one box or square in a grid, comic panel",
+  "english": [
+    {
+      "id": "3wmadsqr",
+      "word": "panel",
+      "meaning": "comic panel",
+      "note": "Use 格 for one framed drawing or unit in a comic, rather than the whole comic strip."
+    },
+    {
+      "id": "91wr3h0h",
+      "word": "square",
+      "meaning": "board-game square / cell",
+      "note": "Use this for one cell or position on a board or grid."
+    }
+  ],
   "traditional": "格",
   "jyutping": "gaak3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "one box or square in a grid, comic panel",
-      "english": [
-        {
-          "id": "3wmadsqr",
-          "word": "panel",
-          "meaning": "comic panel",
-          "note": "Use 格 for one framed drawing or unit in a comic, rather than the whole comic strip."
-        },
-        {
-          "id": "91wr3h0h",
-          "word": "square",
-          "meaning": "board-game square / cell",
-          "note": "Use this for one cell or position on a board or grid."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This panel is the funniest.",
-          "traditional": "呢格畫得最搞笑。",
-          "jyutping": "ni1 gaak3 waak6 dak1 zeoi3 gaau2 siu3"
-        },
-        {
-          "english": "The piece can’t move to this square.",
-          "traditional": "隻棋唔可以行呢格。",
-          "jyutping": "zek3 kei4 m4 ho2 ji5 haang4 ni1 gaak3"
-        }
-      ]
+      "english": "This panel is the funniest.",
+      "traditional": "呢格畫得最搞笑。",
+      "jyutping": "ni1 gaak3 waak6 dak1 zeoi3 gaau2 siu3"
+    },
+    {
+      "english": "The piece can’t move to this square.",
+      "traditional": "隻棋唔可以行呢格。",
+      "jyutping": "zek3 kei4 m4 ho2 ji5 haang4 ni1 gaak3"
     }
   ]
 }

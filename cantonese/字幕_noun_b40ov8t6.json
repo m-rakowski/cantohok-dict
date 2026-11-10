@@ -1,66 +1,33 @@
 {
   "id": "b40ov8t6",
   "partOfSpeech": "noun",
-  "traditional": "字幕",
-  "jyutping": "zi6 mok6",
-  "boxes": [
+  "meaning": "subtitles",
+  "english": [
     {
-      "meaning": "subtitles",
-      "english": [
-        {
-          "id": "xfbhrl2d",
-          "word": "caption",
-          "meaning": "subtitles / closed captions",
-          "note": "Use this for text shown on a film, video, or broadcast to represent dialogue or other sounds."
-        },
-        {
-          "id": "ahg6qpwk",
-          "word": "subtitle",
-          "meaning": "film captions",
-          "note": "This is the all-purpose Cantonese word for text showing film or video dialogue on screen."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The caption on the video lets you follow it without sound.",
-          "traditional": "條片有字幕，冇聲都睇得明。",
-          "jyutping": "tiu4 pin3 jau5 zi6 mok6 mou5 sing1 dou1 tai2 dak1 ming4"
-        },
-        {
-          "english": "I usually turn on the subtitle option when I watch movies.",
-          "traditional": "我睇戲嗰陣通常會開字幕。",
-          "jyutping": "ngo5 tai2 hei3 go2 zan6 tung1 soeng4 wui5 hoi1 zi6 mok6"
-        }
-      ]
+      "id": "xfbhrl2d",
+      "word": "caption",
+      "meaning": "subtitles / closed captions",
+      "note": "Use this for text shown on a film, video, or broadcast to represent dialogue or other sounds."
     },
     {
-      "meaning": "film credits",
-      "english": [
-        {
-          "id": "9lpllvah",
-          "word": "title",
-          "meaning": "film credits",
-          "note": "Use 字幕 for written titles, credits, or captions displayed on a film, video, or performance."
-        },
-        {
-          "id": "y7ttvqt2",
-          "word": "credit",
-          "meaning": "film/TV credits",
-          "note": "In a film or TV context, use this for the names and information shown in the credit sequence, not ordinary dialogue subtitles."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The title credits at the end show the director's name.",
-          "traditional": "片尾字幕寫住導演個名。",
-          "jyutping": "pin3 mei5 zi6 mok6 se2 zyu6 dou6 jin2 go3 meng4"
-        },
-        {
-          "english": "The credit sequence at the end of the film lists all the crew members' names.",
-          "traditional": "套戲尾段嘅字幕列晒幕後工作人員個名。",
-          "jyutping": "tou3 hei3 mei5 dyun6 ge3 zi6 mok6 lit6 saai3 mok6 hau6 gung1 zok3 jan4 jyun4 go3 meng2"
-        }
-      ]
+      "id": "ahg6qpwk",
+      "word": "subtitle",
+      "meaning": "film captions",
+      "note": "This is the all-purpose Cantonese word for text showing film or video dialogue on screen."
+    }
+  ],
+  "traditional": "字幕",
+  "jyutping": "zi6 mok6",
+  "examples": [
+    {
+      "english": "The caption on the video lets you follow it without sound.",
+      "traditional": "條片有字幕，冇聲都睇得明。",
+      "jyutping": "tiu4 pin3 jau5 zi6 mok6 mou5 sing1 dou1 tai2 dak1 ming4"
+    },
+    {
+      "english": "I usually turn on the subtitle option when I watch movies.",
+      "traditional": "我睇戲嗰陣通常會開字幕。",
+      "jyutping": "ngo5 tai2 hei3 go2 zan6 tung1 soeng4 wui5 hoi1 zi6 mok6"
     }
   ]
 }

@@ -1,38 +1,34 @@
 {
   "id": "ut6pqq8k",
   "partOfSpeech": "noun",
+  "meaning": "government official",
+  "english": [
+    {
+      "id": "ufom72ee",
+      "word": "officer",
+      "meaning": "authority figure / official",
+      "register": "formal",
+      "note": "This is the all-purpose choice for a government or other public official."
+    },
+    {
+      "id": "w0i1gcyp",
+      "word": "official",
+      "meaning": "official; authority figure",
+      "note": "This is the all-purpose choice for a person holding a government or other official post."
+    }
+  ],
   "traditional": "官員",
   "jyutping": "gun1 jyun4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "government official",
-      "english": [
-        {
-          "id": "ufom72ee",
-          "word": "officer",
-          "meaning": "authority figure / official",
-          "register": "formal",
-          "note": "This is the all-purpose choice for a government or other public official."
-        },
-        {
-          "id": "w0i1gcyp",
-          "word": "official",
-          "meaning": "official; authority figure",
-          "note": "This is the all-purpose choice for a person holding a government or other official post."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The government officer will meet the media today.",
-          "traditional": "政府官員今日會見傳媒。",
-          "jyutping": "zing3 fu2 gun1 jyun4 gam1 jat6 wui6 gin3 cyun4 mui4"
-        },
-        {
-          "english": "That official is meeting reporters today.",
-          "traditional": "嗰位官員今日會見記者。",
-          "jyutping": "go2 wai2 gun1 jyun4 gam1 jat6 wui5 gin3 gei3 ze2"
-        }
-      ]
+      "english": "The government officer will meet the media today.",
+      "traditional": "政府官員今日會見傳媒。",
+      "jyutping": "zing3 fu2 gun1 jyun4 gam1 jat6 wui6 gin3 cyun4 mui4"
+    },
+    {
+      "english": "That official is meeting reporters today.",
+      "traditional": "嗰位官員今日會見記者。",
+      "jyutping": "go2 wai2 gun1 jyun4 gam1 jat6 wui5 gin3 gei3 ze2"
     }
   ]
 }

@@ -1,28 +1,24 @@
 {
   "id": "48ifuh8b",
   "partOfSpeech": "noun",
+  "meaning": "disease isolation",
+  "english": [
+    {
+      "id": "zr7mpd08",
+      "word": "quarantine",
+      "meaning": "disease isolation",
+      "register": "formal",
+      "note": "Use this for official or institutional disease-control quarantine, especially at borders or under government orders."
+    }
+  ],
   "traditional": "檢疫",
   "jyutping": "gim2 jik6",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "disease isolation",
-      "english": [
-        {
-          "id": "zr7mpd08",
-          "word": "quarantine",
-          "meaning": "disease isolation",
-          "register": "formal",
-          "note": "Use this for official or institutional disease-control quarantine, especially at borders or under government orders."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "This shipment of imported poultry must undergo quarantine.",
-          "traditional": "檢疫",
-          "jyutping": "gim2 jik6"
-        }
-      ]
+      "english": "This shipment of imported poultry must undergo quarantine.",
+      "traditional": "檢疫",
+      "jyutping": "gim2 jik6"
     }
   ]
 }

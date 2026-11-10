@@ -1,37 +1,33 @@
 {
   "id": "4h603egv",
   "partOfSpeech": "adj",
+  "meaning": "desolate, bleak",
+  "english": [
+    {
+      "id": "9mpemdzu",
+      "word": "solitary",
+      "meaning": "deserted; empty",
+      "note": "Use this for a place that is desolate, deserted, and shows few or no signs of habitation."
+    },
+    {
+      "id": "rvo5utlc",
+      "word": "barren",
+      "meaning": "infertile land",
+      "note": "Use this for a desolate, bleak landscape, including barren land viewed as empty and unattractive rather than technically infertile."
+    }
+  ],
   "traditional": "荒涼",
   "jyutping": "fong1 loeng4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "desolate, bleak",
-      "english": [
-        {
-          "id": "9mpemdzu",
-          "word": "solitary",
-          "meaning": "deserted; empty",
-          "note": "Use this for a place that is desolate, deserted, and shows few or no signs of habitation."
-        },
-        {
-          "id": "rvo5utlc",
-          "word": "barren",
-          "meaning": "infertile land",
-          "note": "Use this for a desolate, bleak landscape, including barren land viewed as empty and unattractive rather than technically infertile."
-        }
-      ],
-      "examples": [
-        {
-          "english": "That solitary beach does not even have a house in sight.",
-          "traditional": "嗰片荒涼嘅沙灘，連間屋都冇。",
-          "jyutping": "go2 pin3 fong1 loeng4 ge3 saa1 taan1 lin4 gaan1 uk1 dou1 mou5"
-        },
-        {
-          "english": "This desert is barren and looks uninhabited.",
-          "traditional": "呢片沙漠荒涼得好似冇人住咁。",
-          "jyutping": "nei1 pin3 saa1 mok6 fong1 loeng4 dak1 hou2 ci5 mou5 jan4 zyu6 gam2"
-        }
-      ]
+      "english": "That solitary beach does not even have a house in sight.",
+      "traditional": "嗰片荒涼嘅沙灘，連間屋都冇。",
+      "jyutping": "go2 pin3 fong1 loeng4 ge3 saa1 taan1 lin4 gaan1 uk1 dou1 mou5"
+    },
+    {
+      "english": "This desert is barren and looks uninhabited.",
+      "traditional": "呢片沙漠荒涼得好似冇人住咁。",
+      "jyutping": "nei1 pin3 saa1 mok6 fong1 loeng4 dak1 hou2 ci5 mou5 jan4 zyu6 gam2"
     }
   ]
 }

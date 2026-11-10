@@ -1,28 +1,24 @@
 {
   "id": "xnuk7bmp",
   "partOfSpeech": "noun",
+  "meaning": "supervisor",
+  "english": [
+    {
+      "id": "i5u5e5bd",
+      "word": "boss",
+      "meaning": "supervisor",
+      "register": "colloquial",
+      "note": "This is the all-purpose colloquial word for a boss or person in charge."
+    }
+  ],
   "traditional": "老細",
   "jyutping": "lou5 sai3",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "supervisor",
-      "english": [
-        {
-          "id": "i5u5e5bd",
-          "word": "boss",
-          "meaning": "supervisor",
-          "register": "colloquial",
-          "note": "This is the all-purpose colloquial word for a boss or person in charge."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "My boss told me to come to work early today.",
-          "traditional": "我個老細今日叫我早啲返工。",
-          "jyutping": "ngo5 go3 lou5 sai3 gam1 jat6 giu3 ngo5 zou2 di1 faan1 gung1"
-        }
-      ]
+      "english": "My boss told me to come to work early today.",
+      "traditional": "我個老細今日叫我早啲返工。",
+      "jyutping": "ngo5 go3 lou5 sai3 gam1 jat6 giu3 ngo5 zou2 di1 faan1 gung1"
     }
   ]
 }

@@ -1,37 +1,33 @@
 {
   "id": "kpna2to7",
   "partOfSpeech": "adv",
+  "meaning": "angrily",
+  "english": [
+    {
+      "id": "f65luzcu",
+      "word": "angrily",
+      "meaning": "in an angry way",
+      "note": "This is the all-purpose choice for doing or saying something while angry."
+    },
+    {
+      "id": "elgwxd39",
+      "word": "furiously",
+      "meaning": "angrily",
+      "note": "This is the all-purpose colloquial choice when someone does something angrily."
+    }
+  ],
   "traditional": "嬲住",
   "jyutping": "nau1 zyu6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "angrily",
-      "english": [
-        {
-          "id": "f65luzcu",
-          "word": "angrily",
-          "meaning": "in an angry way",
-          "note": "This is the all-purpose choice for doing or saying something while angry."
-        },
-        {
-          "id": "elgwxd39",
-          "word": "furiously",
-          "meaning": "angrily",
-          "note": "This is the all-purpose colloquial choice when someone does something angrily."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I angrily scolded him and told him not to be late again.",
-          "traditional": "我嬲住鬧佢，叫佢唔好再遲到。",
-          "jyutping": "ngo5 nau1 zyu6 naau6 keoi5 giu3 keoi5 m4 hou2 zoi3 ci4 dou3"
-        },
-        {
-          "english": "They furiously scolded me, saying I shouldn't have done that.",
-          "traditional": "佢嬲住鬧我，話我唔應該咁做。",
-          "jyutping": "keoi5 nau1 zyu6 naau6 ngo5 waa6 ngo5 m4 jing1 goi1 gam3 zou6"
-        }
-      ]
+      "english": "I angrily scolded him and told him not to be late again.",
+      "traditional": "我嬲住鬧佢，叫佢唔好再遲到。",
+      "jyutping": "ngo5 nau1 zyu6 naau6 keoi5 giu3 keoi5 m4 hou2 zoi3 ci4 dou3"
+    },
+    {
+      "english": "They furiously scolded me, saying I shouldn't have done that.",
+      "traditional": "佢嬲住鬧我，話我唔應該咁做。",
+      "jyutping": "keoi5 nau1 zyu6 naau6 ngo5 waa6 ngo5 m4 jing1 goi1 gam3 zou6"
     }
   ]
 }

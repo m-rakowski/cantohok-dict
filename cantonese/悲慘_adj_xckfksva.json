@@ -1,38 +1,34 @@
 {
   "id": "xckfksva",
   "partOfSpeech": "adj",
+  "meaning": "tragic, miserable",
+  "english": [
+    {
+      "id": "3w6wsf2h",
+      "word": "mournful",
+      "meaning": "tragic, sad",
+      "note": "Use this for a tragic situation or event that is likely to make people mourn."
+    },
+    {
+      "id": "gwqr84uc",
+      "word": "miserable",
+      "meaning": "in a state of misery",
+      "register": "written",
+      "note": "Use 悲慘 for a tragic or bleak state in formal or written contexts rather than everyday 慘."
+    }
+  ],
   "traditional": "悲慘",
   "jyutping": "bei1 caam2",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "tragic, miserable",
-      "english": [
-        {
-          "id": "3w6wsf2h",
-          "word": "mournful",
-          "meaning": "tragic, sad",
-          "note": "Use this for a tragic situation or event that is likely to make people mourn."
-        },
-        {
-          "id": "gwqr84uc",
-          "word": "miserable",
-          "meaning": "in a state of misery",
-          "register": "written",
-          "note": "Use 悲慘 for a tragic or bleak state in formal or written contexts rather than everyday 慘."
-        }
-      ],
-      "examples": [
-        {
-          "english": "So many people died in that accident; it was truly mournful。",
-          "traditional": "悲慘",
-          "jyutping": "bei1 caam2"
-        },
-        {
-          "english": "War has forced countless families into a miserable situation.",
-          "traditional": "戰亂令無數家庭陷入悲慘境地。",
-          "jyutping": "zin3 lyun6 ling6 mou4 sou3 gaa1 ting4 ham6 jap6 bei1 caam2 ging2 dei6"
-        }
-      ]
+      "english": "So many people died in that accident; it was truly mournful。",
+      "traditional": "悲慘",
+      "jyutping": "bei1 caam2"
+    },
+    {
+      "english": "War has forced countless families into a miserable situation.",
+      "traditional": "戰亂令無數家庭陷入悲慘境地。",
+      "jyutping": "zin3 lyun6 ling6 mou4 sou3 gaa1 ting4 ham6 jap6 bei1 caam2 ging2 dei6"
     }
   ]
 }

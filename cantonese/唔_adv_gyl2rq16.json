@@ -1,28 +1,24 @@
 {
   "id": "gyl2rq16",
   "partOfSpeech": "adv",
+  "meaning": "verb negator",
+  "english": [
+    {
+      "id": "gckwl7vs",
+      "word": "not",
+      "meaning": "verb negator",
+      "register": "colloquial",
+      "note": "Use 唔 as the all-purpose casual negator before verbs and predicates."
+    }
+  ],
   "traditional": "唔",
   "jyutping": "m4",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "verb negator",
-      "english": [
-        {
-          "id": "gckwl7vs",
-          "word": "not",
-          "meaning": "verb negator",
-          "register": "colloquial",
-          "note": "Use 唔 as the all-purpose casual negator before verbs and predicates."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "I do not eat spicy food.",
-          "traditional": "我唔食辣。",
-          "jyutping": "ngo5 m4 sik6 laat6"
-        }
-      ]
+      "english": "I do not eat spicy food.",
+      "traditional": "我唔食辣。",
+      "jyutping": "ngo5 m4 sik6 laat6"
     }
   ]
 }

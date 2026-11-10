@@ -1,28 +1,24 @@
 {
   "id": "ydu3g2ia",
   "partOfSpeech": "noun",
+  "meaning": "combat sport",
+  "english": [
+    {
+      "id": "oru5pvgl",
+      "word": "boxing",
+      "meaning": "combat sport",
+      "register": "colloquial",
+      "note": "Use this casual expression when referring to boxing as an activity or sport people practise or watch."
+    }
+  ],
   "traditional": "打拳",
   "jyutping": "daa2 kyun4",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "combat sport",
-      "english": [
-        {
-          "id": "oru5pvgl",
-          "word": "boxing",
-          "meaning": "combat sport",
-          "register": "colloquial",
-          "note": "Use this casual expression when referring to boxing as an activity or sport people practise or watch."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "I used to go boxing with my friends when I was little.",
-          "traditional": "我細個嗰陣成日同朋友一齊打拳。",
-          "jyutping": "ngo5 sai3 go3 go2 zan6 seng4 jat6 tung4 pang4 jau5 jat1 cai4 daa2 kyun4"
-        }
-      ]
+      "english": "I used to go boxing with my friends when I was little.",
+      "traditional": "我細個嗰陣成日同朋友一齊打拳。",
+      "jyutping": "ngo5 sai3 go3 go2 zan6 seng4 jat6 tung4 pang4 jau5 jat1 cai4 daa2 kyun4"
     }
   ]
 }

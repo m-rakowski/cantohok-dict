@@ -1,28 +1,24 @@
 {
   "id": "abmnwej8",
   "partOfSpeech": "noun",
+  "meaning": "wife of one's child",
+  "english": [
+    {
+      "id": "6e35p3h1",
+      "word": "daughter-in-law",
+      "meaning": "wife of one's child",
+      "register": "written",
+      "note": "This is an older written synonym, mainly encountered in formal or literary contexts."
+    }
+  ],
   "traditional": "新婦",
   "jyutping": "san1 pou5",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "wife of one's child",
-      "english": [
-        {
-          "id": "6e35p3h1",
-          "word": "daughter-in-law",
-          "meaning": "wife of one's child",
-          "register": "written",
-          "note": "This is an older written synonym, mainly encountered in formal or literary contexts."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "The marriage document states the daughter-in-law's name.",
-          "traditional": "婚書上寫明新婦姓名。",
-          "jyutping": "fan1 syu1 soeng6 se2 ming4 san1 pou5 sing3 ming4"
-        }
-      ]
+      "english": "The marriage document states the daughter-in-law's name.",
+      "traditional": "婚書上寫明新婦姓名。",
+      "jyutping": "fan1 syu1 soeng6 se2 ming4 san1 pou5 sing3 ming4"
     }
   ]
 }

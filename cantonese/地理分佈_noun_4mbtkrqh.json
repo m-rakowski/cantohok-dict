@@ -1,28 +1,24 @@
 {
   "id": "4mbtkrqh",
   "partOfSpeech": "noun",
+  "meaning": "distribution by area",
+  "english": [
+    {
+      "id": "bj1bcrum",
+      "word": "geography",
+      "meaning": "distribution by area",
+      "register": "formal",
+      "note": "Use this for the geographic distribution of something across an area, mainly in technical or written contexts."
+    }
+  ],
   "traditional": "地理分佈",
   "jyutping": "dei6 lei5 fan1 bou3",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "distribution by area",
-      "english": [
-        {
-          "id": "bj1bcrum",
-          "word": "geography",
-          "meaning": "distribution by area",
-          "register": "formal",
-          "note": "Use this for the geographic distribution of something across an area, mainly in technical or written contexts."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The geography of this plant is mainly concentrated in Southeast Asia.",
-          "traditional": "呢種植物嘅地理分佈主要集中喺東南亞。",
-          "jyutping": "ne1 zung2 zik6 mat6 ge3 dei6 lei5 fan1 bou3 zyu2 jiu3 zaap6 zung1 hai2 dung1 naam4 aa3"
-        }
-      ]
+      "english": "The geography of this plant is mainly concentrated in Southeast Asia.",
+      "traditional": "呢種植物嘅地理分佈主要集中喺東南亞。",
+      "jyutping": "ne1 zung2 zik6 mat6 ge3 dei6 lei5 fan1 bou3 zyu2 jiu3 zaap6 zung1 hai2 dung1 naam4 aa3"
     }
   ]
 }

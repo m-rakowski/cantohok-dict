@@ -1,59 +1,55 @@
 {
   "id": "ltcyydzh",
   "partOfSpeech": "verb",
+  "meaning": "to pollute, contaminate",
+  "english": [
+    {
+      "id": "s2ukybaf",
+      "word": "pollute",
+      "meaning": "make harmful, contaminate",
+      "note": "This is the all-purpose choice for making a river, environment, sky, or other place harmful or less suitable through contamination or an unwanted factor."
+    },
+    {
+      "id": "wbiyyzlo",
+      "word": "contaminate",
+      "meaning": "make dirty or unsafe",
+      "note": "Use 污染 as the all-purpose term, especially for water, food, the environment, or an abstract taint."
+    },
+    {
+      "id": "jipehrv2",
+      "word": "poison",
+      "meaning": "contaminate, pollute",
+      "note": "This is the all-purpose choice for polluting or contaminating water, land, or other things."
+    },
+    {
+      "id": "7ghbnmrg",
+      "word": "infect",
+      "meaning": "contaminate with pathogen",
+      "note": "Use 污染 when a pathogen makes an object, food, water, or another substance contaminated rather than infecting a person."
+    }
+  ],
   "traditional": "污染",
   "jyutping": "wu1 jim5",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "to pollute, contaminate",
-      "english": [
-        {
-          "id": "s2ukybaf",
-          "word": "pollute",
-          "meaning": "make harmful, contaminate",
-          "note": "This is the all-purpose choice for making a river, environment, sky, or other place harmful or less suitable through contamination or an unwanted factor."
-        },
-        {
-          "id": "wbiyyzlo",
-          "word": "contaminate",
-          "meaning": "make dirty or unsafe",
-          "note": "Use 污染 as the all-purpose term, especially for water, food, the environment, or an abstract taint."
-        },
-        {
-          "id": "jipehrv2",
-          "word": "poison",
-          "meaning": "contaminate, pollute",
-          "note": "This is the all-purpose choice for polluting or contaminating water, land, or other things."
-        },
-        {
-          "id": "7ghbnmrg",
-          "word": "infect",
-          "meaning": "contaminate with pathogen",
-          "note": "Use 污染 when a pathogen makes an object, food, water, or another substance contaminated rather than infecting a person."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The factory's wastewater is enough to pollute the river.",
-          "traditional": "間廠啲廢水夠晒污染條河。",
-          "jyutping": "gaan1 cong2 di1 fai3 seoi2 gau3 saai3 wu1 jim5 tiu4 ho4"
-        },
-        {
-          "english": "The chemicals could contaminate the river.",
-          "traditional": "啲化學品可能會污染條河。",
-          "jyutping": "di1 faa3 hok6 ban2 ho2 nang4 wui5 wu1 jim5 tiu4 ho4"
-        },
-        {
-          "english": "The factory may poison the river.",
-          "traditional": "間工廠可能會污染條河。",
-          "jyutping": "gaan1 gung1 cong2 ho2 nang4 wui5 wu1 jim5 tiu4 ho4"
-        },
-        {
-          "english": "If raw-meat juice splashes into the salad, it can infect the whole dish.",
-          "traditional": "生肉汁一濺入沙律，就會污染成碟食物。",
-          "jyutping": "saang1 juk6 zap1 jat1 zin3 jap6 saa1 leot2 zau6 wui5 wu1 jim5 sing4 dip6 sik6 mat6"
-        }
-      ]
+      "english": "The factory's wastewater is enough to pollute the river.",
+      "traditional": "間廠啲廢水夠晒污染條河。",
+      "jyutping": "gaan1 cong2 di1 fai3 seoi2 gau3 saai3 wu1 jim5 tiu4 ho4"
+    },
+    {
+      "english": "The chemicals could contaminate the river.",
+      "traditional": "啲化學品可能會污染條河。",
+      "jyutping": "di1 faa3 hok6 ban2 ho2 nang4 wui5 wu1 jim5 tiu4 ho4"
+    },
+    {
+      "english": "The factory may poison the river.",
+      "traditional": "間工廠可能會污染條河。",
+      "jyutping": "gaan1 gung1 cong2 ho2 nang4 wui5 wu1 jim5 tiu4 ho4"
+    },
+    {
+      "english": "If raw-meat juice splashes into the salad, it can infect the whole dish.",
+      "traditional": "生肉汁一濺入沙律，就會污染成碟食物。",
+      "jyutping": "saang1 juk6 zap1 jat1 zin3 jap6 saa1 leot2 zau6 wui5 wu1 jim5 sing4 dip6 sik6 mat6"
     }
   ]
 }

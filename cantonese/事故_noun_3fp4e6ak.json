@@ -1,26 +1,22 @@
 {
   "id": "3fp4e6ak",
   "partOfSpeech": "noun",
+  "meaning": "problem, accident, disruption",
+  "english": [
+    {
+      "id": "ejcfrjse",
+      "word": "incident",
+      "meaning": "problem, accident, disruption",
+      "note": "Use this for an adverse operational incident such as a workplace or software-related disruption, rather than a neutral occurrence."
+    }
+  ],
   "traditional": "事故",
   "jyutping": "si6 gu3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "problem, accident, disruption",
-      "english": [
-        {
-          "id": "ejcfrjse",
-          "word": "incident",
-          "meaning": "problem, accident, disruption",
-          "note": "Use this for an adverse operational incident such as a workplace or software-related disruption, rather than a neutral occurrence."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This system incident kept the whole website inaccessible all morning.",
-          "traditional": "今次系統事故令成個網站成朝都入唔到。",
-          "jyutping": "gam1 ci3 hai6 tung2 si6 gu3 ling6 seng4 go3 mong5 zaam6 seng4 ziu1 dou1 jap6 m4 dou2"
-        }
-      ]
+      "english": "This system incident kept the whole website inaccessible all morning.",
+      "traditional": "今次系統事故令成個網站成朝都入唔到。",
+      "jyutping": "gam1 ci3 hai6 tung2 si6 gu3 ling6 seng4 go3 mong5 zaam6 seng4 ziu1 dou1 jap6 m4 dou2"
     }
   ]
 }

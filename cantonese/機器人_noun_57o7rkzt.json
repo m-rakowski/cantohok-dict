@@ -1,26 +1,22 @@
 {
   "id": "57o7rkzt",
   "partOfSpeech": "noun",
+  "meaning": "humanoid mechanical being",
+  "english": [
+    {
+      "id": "2n0icsgt",
+      "word": "robot",
+      "meaning": "humanoid mechanical being",
+      "note": "This is the all-purpose choice for a physical robot, especially a programmable machine that carries out tasks."
+    }
+  ],
   "traditional": "機器人",
   "jyutping": "gei1 hei3 jan4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "humanoid mechanical being",
-      "english": [
-        {
-          "id": "2n0icsgt",
-          "word": "robot",
-          "meaning": "humanoid mechanical being",
-          "note": "This is the all-purpose choice for a physical robot, especially a programmable machine that carries out tasks."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This robot can pick orders by itself.",
-          "traditional": "呢部機器人可以自己執貨。",
-          "jyutping": "nei1 bou6 gei1 hei3 jan4 ho2 ji5 zi6 gei2 zap1 fo3"
-        }
-      ]
+      "english": "This robot can pick orders by itself.",
+      "traditional": "呢部機器人可以自己執貨。",
+      "jyutping": "nei1 bou6 gei1 hei3 jan4 ho2 ji5 zi6 gei2 zap1 fo3"
     }
   ]
 }

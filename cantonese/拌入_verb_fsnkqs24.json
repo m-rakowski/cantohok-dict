@@ -1,28 +1,24 @@
 {
   "id": "fsnkqs24",
   "partOfSpeech": "verb",
+  "meaning": "gently mix in",
+  "english": [
+    {
+      "id": "o8egcmt1",
+      "word": "fold",
+      "meaning": "gently mix in",
+      "register": "written",
+      "note": "Use this in recipes when gently folding one ingredient into another mixture."
+    }
+  ],
   "traditional": "拌入",
   "jyutping": "bun6 jap6",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "gently mix in",
-      "english": [
-        {
-          "id": "o8egcmt1",
-          "word": "fold",
-          "meaning": "gently mix in",
-          "register": "written",
-          "note": "Use this in recipes when gently folding one ingredient into another mixture."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "Gently fold the meringue into the batter.",
-          "traditional": "將蛋白霜輕輕拌入麵糊。",
-          "jyutping": "zoeng1 daan6 baak6 soeng1 hing1 hing1 bun6 jap6 min6 wu4"
-        }
-      ]
+      "english": "Gently fold the meringue into the batter.",
+      "traditional": "將蛋白霜輕輕拌入麵糊。",
+      "jyutping": "zoeng1 daan6 baak6 soeng1 hing1 hing1 bun6 jap6 min6 wu4"
     }
   ]
 }

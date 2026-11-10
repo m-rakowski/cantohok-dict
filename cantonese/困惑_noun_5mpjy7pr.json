@@ -1,40 +1,36 @@
 {
   "id": "5mpjy7pr",
   "partOfSpeech": "noun",
+  "meaning": "confusion, perplexity",
+  "english": [
+    {
+      "id": "h5hrsmzi",
+      "word": "bewilderment",
+      "meaning": "state of confusion",
+      "register": "formal",
+      "note": "This is the all-purpose noun for a person's state of confusion or perplexity."
+    },
+    {
+      "id": "x93zutla",
+      "word": "puzzle",
+      "meaning": "confusion, bewilderment",
+      "register": "formal",
+      "note": "Use this for the state of bewilderment or confusion caused by something hard to understand."
+    }
+  ],
   "traditional": "困惑",
   "jyutping": "kwan3 waak6",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "confusion, perplexity",
-      "english": [
-        {
-          "id": "h5hrsmzi",
-          "word": "bewilderment",
-          "meaning": "state of confusion",
-          "register": "formal",
-          "note": "This is the all-purpose noun for a person's state of confusion or perplexity."
-        },
-        {
-          "id": "x93zutla",
-          "word": "puzzle",
-          "meaning": "confusion, bewilderment",
-          "register": "formal",
-          "note": "Use this for the state of bewilderment or confusion caused by something hard to understand."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "This result leaves me in bewilderment.",
-          "traditional": "呢個結果令我感到困惑。",
-          "jyutping": "ni1 go3 git3 gwo2 ling6 ngo5 gam2 dou3 kwan3 waak6"
-        },
-        {
-          "english": "This result is a puzzle to me and leaves me confused.",
-          "traditional": "呢個結果令我感到困惑。",
-          "jyutping": "ni1 go3 git3 gwo2 ling6 ngo5 gam2 dou3 kwan3 waak6"
-        }
-      ]
+      "english": "This result leaves me in bewilderment.",
+      "traditional": "呢個結果令我感到困惑。",
+      "jyutping": "ni1 go3 git3 gwo2 ling6 ngo5 gam2 dou3 kwan3 waak6"
+    },
+    {
+      "english": "This result is a puzzle to me and leaves me confused.",
+      "traditional": "呢個結果令我感到困惑。",
+      "jyutping": "ni1 go3 git3 gwo2 ling6 ngo5 gam2 dou3 kwan3 waak6"
     }
   ]
 }

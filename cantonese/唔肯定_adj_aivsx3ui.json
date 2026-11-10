@@ -1,59 +1,55 @@
 {
   "id": "aivsx3ui",
   "partOfSpeech": "adj",
+  "meaning": "not sure",
+  "english": [
+    {
+      "id": "dbtl4kic",
+      "word": "uncertain",
+      "meaning": "unsure, not certain",
+      "note": "This is the all-purpose choice for being unsure or lacking certainty about an answer, fact, or outcome."
+    },
+    {
+      "id": "vp8yy0a0",
+      "word": "doubtful",
+      "meaning": "uncertain outcome",
+      "note": "This is the all-purpose choice for something whose truth, outcome, or clarity is not certain."
+    },
+    {
+      "id": "omimukvz",
+      "word": "unsure",
+      "meaning": "uncertain, not sure",
+      "note": "This is the all-purpose choice for being uncertain or not sure about something."
+    },
+    {
+      "id": "xpeaicbj",
+      "word": "unclear",
+      "meaning": "not sure about",
+      "note": "Use this when the speaker is personally uncertain or does not know exactly what something means."
+    }
+  ],
   "traditional": "唔肯定",
   "jyutping": "m4 hang2 ding6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "not sure",
-      "english": [
-        {
-          "id": "dbtl4kic",
-          "word": "uncertain",
-          "meaning": "unsure, not certain",
-          "note": "This is the all-purpose choice for being unsure or lacking certainty about an answer, fact, or outcome."
-        },
-        {
-          "id": "vp8yy0a0",
-          "word": "doubtful",
-          "meaning": "uncertain outcome",
-          "note": "This is the all-purpose choice for something whose truth, outcome, or clarity is not certain."
-        },
-        {
-          "id": "omimukvz",
-          "word": "unsure",
-          "meaning": "uncertain, not sure",
-          "note": "This is the all-purpose choice for being uncertain or not sure about something."
-        },
-        {
-          "id": "xpeaicbj",
-          "word": "unclear",
-          "meaning": "not sure about",
-          "note": "Use this when the speaker is personally uncertain or does not know exactly what something means."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I'm uncertain whether they'll come back tomorrow.",
-          "traditional": "我唔肯定佢聽日會唔會返嚟。",
-          "jyutping": "ngo5 m4 hang2 ding6 keoi5 ting1 jat6 wui5 m4 wui5 faan1 lei4"
-        },
-        {
-          "english": "I'm still doubtful whether they will come back tomorrow.",
-          "traditional": "我而家都唔肯定佢聽日會唔會返嚟。",
-          "jyutping": "ngo5 ji4 gaa1 dou1 m4 hang2 ding6 keoi5 ting1 jat6 wui5 m4 wui5 faan1 lai4"
-        },
-        {
-          "english": "I'm unsure whether he'll come back today.",
-          "traditional": "我唔肯定佢今日會唔會返嚟。",
-          "jyutping": "ngo5 m4 hang2 ding6 keoi5 gam1 jat6 wui5 m4 wui5 faan1 lai4"
-        },
-        {
-          "english": "I'm unclear about what this character means.",
-          "traditional": "我唔肯定呢個字點解。",
-          "jyutping": "ngo5 m4 hang2 ding6 ni1 go3 zi6 dim2 gaai2"
-        }
-      ]
+      "english": "I'm uncertain whether they'll come back tomorrow.",
+      "traditional": "我唔肯定佢聽日會唔會返嚟。",
+      "jyutping": "ngo5 m4 hang2 ding6 keoi5 ting1 jat6 wui5 m4 wui5 faan1 lei4"
+    },
+    {
+      "english": "I'm still doubtful whether they will come back tomorrow.",
+      "traditional": "我而家都唔肯定佢聽日會唔會返嚟。",
+      "jyutping": "ngo5 ji4 gaa1 dou1 m4 hang2 ding6 keoi5 ting1 jat6 wui5 m4 wui5 faan1 lai4"
+    },
+    {
+      "english": "I'm unsure whether he'll come back today.",
+      "traditional": "我唔肯定佢今日會唔會返嚟。",
+      "jyutping": "ngo5 m4 hang2 ding6 keoi5 gam1 jat6 wui5 m4 wui5 faan1 lai4"
+    },
+    {
+      "english": "I'm unclear about what this character means.",
+      "traditional": "我唔肯定呢個字點解。",
+      "jyutping": "ngo5 m4 hang2 ding6 ni1 go3 zi6 dim2 gaai2"
     }
   ]
 }

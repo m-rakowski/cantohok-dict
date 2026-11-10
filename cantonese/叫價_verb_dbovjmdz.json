@@ -1,26 +1,22 @@
 {
   "id": "dbovjmdz",
   "partOfSpeech": "verb",
+  "meaning": "make a bid in auction",
+  "english": [
+    {
+      "id": "z7k7iapp",
+      "word": "bid",
+      "meaning": "make a bid in auction",
+      "note": "Use this when an auction participant is calling out a bid, rather than simply stating an offered price."
+    }
+  ],
   "traditional": "叫價",
   "jyutping": "giu3 gaa3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "make a bid in auction",
-      "english": [
-        {
-          "id": "z7k7iapp",
-          "word": "bid",
-          "meaning": "make a bid in auction",
-          "note": "Use this when an auction participant is calling out a bid, rather than simply stating an offered price."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I bid fifty thousand for this item.",
-          "traditional": "呢件貨我叫價五萬。",
-          "jyutping": "ni1 gin6 fo3 ngo5 giu3 gaa3 ng5 maan6"
-        }
-      ]
+      "english": "I bid fifty thousand for this item.",
+      "traditional": "呢件貨我叫價五萬。",
+      "jyutping": "ni1 gin6 fo3 ngo5 giu3 gaa3 ng5 maan6"
     }
   ]
 }

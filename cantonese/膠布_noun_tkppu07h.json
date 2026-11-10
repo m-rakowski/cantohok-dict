@@ -1,49 +1,45 @@
 {
   "id": "tkppu07h",
   "partOfSpeech": "noun",
+  "meaning": "sticking plaster",
+  "english": [
+    {
+      "id": "gjiqee51",
+      "word": "plaster",
+      "meaning": "adhesive bandage",
+      "note": "This is the everyday all-purpose term for a small sticking plaster."
+    },
+    {
+      "id": "swvfe8nz",
+      "word": "bandage",
+      "meaning": "wound dressing",
+      "note": "Use this for the adhesive-strip type of wound dressing rather than a bandage wrapped around the body."
+    },
+    {
+      "id": "isbkav1l",
+      "word": "patch",
+      "meaning": "wound dressing",
+      "register": "colloquial",
+      "note": "Use this for an adhesive strip or plaster covering a wound rather than for a general repair patch."
+    }
+  ],
   "traditional": "膠布",
   "jyutping": "gaau1 bou3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "sticking plaster",
-      "english": [
-        {
-          "id": "gjiqee51",
-          "word": "plaster",
-          "meaning": "adhesive bandage",
-          "note": "This is the everyday all-purpose term for a small sticking plaster."
-        },
-        {
-          "id": "swvfe8nz",
-          "word": "bandage",
-          "meaning": "wound dressing",
-          "note": "Use this for the adhesive-strip type of wound dressing rather than a bandage wrapped around the body."
-        },
-        {
-          "id": "isbkav1l",
-          "word": "patch",
-          "meaning": "wound dressing",
-          "register": "colloquial",
-          "note": "Use this for an adhesive strip or plaster covering a wound rather than for a general repair patch."
-        }
-      ],
-      "examples": [
-        {
-          "english": "You’ve cut your finger; just put on a plaster.",
-          "traditional": "你個手指損咗，貼塊膠布就得喇。",
-          "jyutping": "nei5 go3 sau2 zi2 syun2 zo2 tip3 faai3 gaau1 bou3 zau6 dak1 laa3"
-        },
-        {
-          "english": "My blister burst, so just put on a bandage and it’ll be fine.",
-          "traditional": "我個水泡穿咗，貼塊膠布就得啦。",
-          "jyutping": "ngo5 go3 seoi2 paau1 cyun1 zo2 tip3 faai3 gaau1 bou3 zau6 dak1 laa1"
-        },
-        {
-          "english": "I only cut my finger a little; a patch will do.",
-          "traditional": "手指損咗少少，貼塊膠布就得喇。",
-          "jyutping": "sau2 zi2 syun2 zo2 siu2 siu2 tip3 faai3 gaau1 bou3 zau6 dak1 laa3"
-        }
-      ]
+      "english": "You’ve cut your finger; just put on a plaster.",
+      "traditional": "你個手指損咗，貼塊膠布就得喇。",
+      "jyutping": "nei5 go3 sau2 zi2 syun2 zo2 tip3 faai3 gaau1 bou3 zau6 dak1 laa3"
+    },
+    {
+      "english": "My blister burst, so just put on a bandage and it’ll be fine.",
+      "traditional": "我個水泡穿咗，貼塊膠布就得啦。",
+      "jyutping": "ngo5 go3 seoi2 paau1 cyun1 zo2 tip3 faai3 gaau1 bou3 zau6 dak1 laa1"
+    },
+    {
+      "english": "I only cut my finger a little; a patch will do.",
+      "traditional": "手指損咗少少，貼塊膠布就得喇。",
+      "jyutping": "sau2 zi2 syun2 zo2 siu2 siu2 tip3 faai3 gaau1 bou3 zau6 dak1 laa3"
     }
   ]
 }

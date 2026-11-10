@@ -1,28 +1,24 @@
 {
   "id": "pdynkscv",
   "partOfSpeech": "noun",
+  "meaning": "math equation",
+  "english": [
+    {
+      "id": "5keualgg",
+      "word": "equation",
+      "meaning": "math equation",
+      "register": "formal",
+      "note": "Use this more technical term when emphasizing that the two sides of a mathematical statement are equal, rather than focusing on solving for an unknown."
+    }
+  ],
   "traditional": "等式",
   "jyutping": "dang2 sik1",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "math equation",
-      "english": [
-        {
-          "id": "5keualgg",
-          "word": "equation",
-          "meaning": "math equation",
-          "register": "formal",
-          "note": "Use this more technical term when emphasizing that the two sides of a mathematical statement are equal, rather than focusing on solving for an unknown."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "Both sides of this equation are equal.",
-          "traditional": "呢個等式兩邊都係相等嘅。",
-          "jyutping": "ni1 go3 dang2 sik1 loeng5 bin1 dou1 hai6 soeng1 dang2 ge3"
-        }
-      ]
+      "english": "Both sides of this equation are equal.",
+      "traditional": "呢個等式兩邊都係相等嘅。",
+      "jyutping": "ni1 go3 dang2 sik1 loeng5 bin1 dou1 hai6 soeng1 dang2 ge3"
     }
   ]
 }

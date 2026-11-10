@@ -1,37 +1,33 @@
 {
   "id": "klvmjt7k",
   "partOfSpeech": "adj",
+  "meaning": "international",
+  "english": [
+    {
+      "id": "14d39xku",
+      "word": "international",
+      "meaning": "between nations",
+      "note": "This is the all-purpose choice for things involving or extending across nations, including international organizations and cooperation."
+    },
+    {
+      "id": "1afozpie",
+      "word": "foreign",
+      "meaning": "relating to other countries",
+      "note": "Use this for matters involving or relating to different countries, especially institutions, relations, and policy."
+    }
+  ],
   "traditional": "國際",
   "jyutping": "gwok3 zai3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "international",
-      "english": [
-        {
-          "id": "14d39xku",
-          "word": "international",
-          "meaning": "between nations",
-          "note": "This is the all-purpose choice for things involving or extending across nations, including international organizations and cooperation."
-        },
-        {
-          "id": "1afozpie",
-          "word": "foreign",
-          "meaning": "relating to other countries",
-          "note": "Use this for matters involving or relating to different countries, especially institutions, relations, and policy."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This international organization has members in many countries.",
-          "traditional": "呢個國際組織喺好多國家都有成員",
-          "jyutping": "ni1 go3 gwok3 zai3 zou2 zik1 hai2 hou2 do1 gwok3 gaa1 dou1 jau5 sing4 jyun4"
-        },
-        {
-          "english": "They handle foreign relations for the government.",
-          "traditional": "佢哋幫政府處理國際關係。",
-          "jyutping": "keoi5 dei6 bong1 zing3 fu2 cyu2 lei5 gwok3 zai3 gwaan1 hai6"
-        }
-      ]
+      "english": "This international organization has members in many countries.",
+      "traditional": "呢個國際組織喺好多國家都有成員",
+      "jyutping": "ni1 go3 gwok3 zai3 zou2 zik1 hai2 hou2 do1 gwok3 gaa1 dou1 jau5 sing4 jyun4"
+    },
+    {
+      "english": "They handle foreign relations for the government.",
+      "traditional": "佢哋幫政府處理國際關係。",
+      "jyutping": "keoi5 dei6 bong1 zing3 fu2 cyu2 lei5 gwok3 zai3 gwaan1 hai6"
     }
   ]
 }

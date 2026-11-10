@@ -1,48 +1,44 @@
 {
   "id": "4bceoeyj",
   "partOfSpeech": "noun",
+  "meaning": "deal, transaction",
+  "english": [
+    {
+      "id": "p0nuk73y",
+      "word": "exchange",
+      "meaning": "trade; swap",
+      "note": "Use this for an exchange understood as a trade or commercial transaction."
+    },
+    {
+      "id": "5evw8ndd",
+      "word": "trade",
+      "meaning": "buying and selling",
+      "note": "Use this for a particular trade, exchange, or deal, especially in financial or business contexts."
+    },
+    {
+      "id": "frktbol0",
+      "word": "deal",
+      "meaning": "business deal",
+      "note": "Use this specifically for a business transaction or commercial deal, rather than a general agreement."
+    }
+  ],
   "traditional": "交易",
   "jyutping": "gaau1 jik6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "deal, transaction",
-      "english": [
-        {
-          "id": "p0nuk73y",
-          "word": "exchange",
-          "meaning": "trade; swap",
-          "note": "Use this for an exchange understood as a trade or commercial transaction."
-        },
-        {
-          "id": "5evw8ndd",
-          "word": "trade",
-          "meaning": "buying and selling",
-          "note": "Use this for a particular trade, exchange, or deal, especially in financial or business contexts."
-        },
-        {
-          "id": "frktbol0",
-          "word": "deal",
-          "meaning": "business deal",
-          "note": "Use this specifically for a business transaction or commercial deal, rather than a general agreement."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Both sides think this exchange is fair.",
-          "traditional": "呢單交易雙方都覺得公平。",
-          "jyutping": "ni1 daan1 gaau1 jik6 soeng1 fong1 dou1 gok3 dak1 gung1 ping4"
-        },
-        {
-          "english": "This trade has already been completed.",
-          "traditional": "呢宗交易已經完成咗。",
-          "jyutping": "ni1 zung1 gaau1 jik6 ji5 ging1 jyun4 sing4 zo2"
-        },
-        {
-          "english": "This deal won’t be completed until next week.",
-          "traditional": "呢單交易要下星期先完成。",
-          "jyutping": "ni1 daan1 gaau1 jik6 jiu3 haa6 sing1 kei4 sin1 jyun4 sing4"
-        }
-      ]
+      "english": "Both sides think this exchange is fair.",
+      "traditional": "呢單交易雙方都覺得公平。",
+      "jyutping": "ni1 daan1 gaau1 jik6 soeng1 fong1 dou1 gok3 dak1 gung1 ping4"
+    },
+    {
+      "english": "This trade has already been completed.",
+      "traditional": "呢宗交易已經完成咗。",
+      "jyutping": "ni1 zung1 gaau1 jik6 ji5 ging1 jyun4 sing4 zo2"
+    },
+    {
+      "english": "This deal won’t be completed until next week.",
+      "traditional": "呢單交易要下星期先完成。",
+      "jyutping": "ni1 daan1 gaau1 jik6 jiu3 haa6 sing1 kei4 sin1 jyun4 sing4"
     }
   ]
 }

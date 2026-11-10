@@ -1,26 +1,22 @@
 {
   "id": "14503y8z",
   "partOfSpeech": "noun",
+  "meaning": "hospital ward",
+  "english": [
+    {
+      "id": "9byz0ppo",
+      "word": "ward",
+      "meaning": "hospital ward",
+      "note": "Use this in a hospital context for the all-purpose Cantonese equivalent of a ward."
+    }
+  ],
   "traditional": "病房",
   "jyutping": "beng6 fong2",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "hospital ward",
-      "english": [
-        {
-          "id": "9byz0ppo",
-          "word": "ward",
-          "meaning": "hospital ward",
-          "note": "Use this in a hospital context for the all-purpose Cantonese equivalent of a ward."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This ward has six beds.",
-          "traditional": "呢間病房有六張床。",
-          "jyutping": "ni1 gaan1 beng6 fong2 jau5 luk6 zoeng1 cong4"
-        }
-      ]
+      "english": "This ward has six beds.",
+      "traditional": "呢間病房有六張床。",
+      "jyutping": "ni1 gaan1 beng6 fong2 jau5 luk6 zoeng1 cong4"
     }
   ]
 }

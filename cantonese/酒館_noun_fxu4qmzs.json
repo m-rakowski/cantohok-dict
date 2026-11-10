@@ -1,38 +1,34 @@
 {
   "id": "fxu4qmzs",
   "partOfSpeech": "noun",
+  "meaning": "tavern, old-style pub",
+  "english": [
+    {
+      "id": "68yo1nry",
+      "word": "saloon",
+      "meaning": "tavern / bar",
+      "note": "Use this for the old-fashioned tavern sense, especially in a historical or Old West setting."
+    },
+    {
+      "id": "7wkoukhq",
+      "word": "pub",
+      "meaning": "public house",
+      "register": "written",
+      "note": "Use this for a tavern-like or more traditional pub rather than the usual modern bar."
+    }
+  ],
   "traditional": "酒館",
   "jyutping": "zau2 gun2",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "tavern, old-style pub",
-      "english": [
-        {
-          "id": "68yo1nry",
-          "word": "saloon",
-          "meaning": "tavern / bar",
-          "note": "Use this for the old-fashioned tavern sense, especially in a historical or Old West setting."
-        },
-        {
-          "id": "7wkoukhq",
-          "word": "pub",
-          "meaning": "public house",
-          "register": "written",
-          "note": "Use this for a tavern-like or more traditional pub rather than the usual modern bar."
-        }
-      ],
-      "examples": [
-        {
-          "english": "That old saloon has a history of hundreds of years, and minstrels still sing there at night.",
-          "traditional": "嗰間酒館有成百年歷史，夜晚仲有吟遊詩人唱歌。",
-          "jyutping": "go2 gaan1 zau2 gun2 jau5 sing4 baak3 nin4 lik6 si2 je6 maan5 zung6 jau5 jam4 jau4 si1 jan4 coeng3 go1"
-        },
-        {
-          "english": "That tavern-like pub has a great atmosphere and live music.",
-          "traditional": "嗰間酒館好有風味，仲有現場音樂。",
-          "jyutping": "go2 gaan1 zau2 gun2 hou2 jau5 fung1 mei6 zung6 jau5 jin6 coeng4 jam1 ngok6"
-        }
-      ]
+      "english": "That old saloon has a history of hundreds of years, and minstrels still sing there at night.",
+      "traditional": "嗰間酒館有成百年歷史，夜晚仲有吟遊詩人唱歌。",
+      "jyutping": "go2 gaan1 zau2 gun2 jau5 sing4 baak3 nin4 lik6 si2 je6 maan5 zung6 jau5 jam4 jau4 si1 jan4 coeng3 go1"
+    },
+    {
+      "english": "That tavern-like pub has a great atmosphere and live music.",
+      "traditional": "嗰間酒館好有風味，仲有現場音樂。",
+      "jyutping": "go2 gaan1 zau2 gun2 hou2 jau5 fung1 mei6 zung6 jau5 jin6 coeng4 jam1 ngok6"
     }
   ]
 }

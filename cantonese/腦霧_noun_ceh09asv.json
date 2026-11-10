@@ -1,28 +1,24 @@
 {
   "id": "ceh09asv",
   "partOfSpeech": "noun",
+  "meaning": "mental fog",
+  "english": [
+    {
+      "id": "5u6peggo",
+      "word": "fog",
+      "meaning": "mental fog",
+      "register": "colloquial",
+      "note": "Use 腦霧 specifically for mental sluggishness and confusion, not physical fog."
+    }
+  ],
   "traditional": "腦霧",
   "jyutping": "nou5 mou6",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "mental fog",
-      "english": [
-        {
-          "id": "5u6peggo",
-          "word": "fog",
-          "meaning": "mental fog",
-          "register": "colloquial",
-          "note": "Use 腦霧 specifically for mental sluggishness and confusion, not physical fog."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "I have brain fog all day today, so I am working slowly.",
-          "traditional": "我今日成日腦霧，做嘢好慢。",
-          "jyutping": "ngo5 gam1 jat6 seng4 jat6 nou5 mou6 zou6 je5 hou2 maan6"
-        }
-      ]
+      "english": "I have brain fog all day today, so I am working slowly.",
+      "traditional": "我今日成日腦霧，做嘢好慢。",
+      "jyutping": "ngo5 gam1 jat6 seng4 jat6 nou5 mou6 zou6 je5 hou2 maan6"
     }
   ]
 }

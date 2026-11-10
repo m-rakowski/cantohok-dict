@@ -1,28 +1,24 @@
 {
   "id": "qog065xg",
   "partOfSpeech": "noun",
+  "meaning": "person being interviewed",
+  "english": [
+    {
+      "id": "53zlvv05",
+      "word": "interviewee",
+      "meaning": "person being interviewed",
+      "register": "colloquial",
+      "note": "Use this straightforward spoken description when you want to make clear that the person is the one answering the questions."
+    }
+  ],
   "traditional": "接受訪問嘅人",
   "jyutping": "zip3 sau6 fong2 man6 ge3 jan4",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "person being interviewed",
-      "english": [
-        {
-          "id": "53zlvv05",
-          "word": "interviewee",
-          "meaning": "person being interviewed",
-          "register": "colloquial",
-          "note": "Use this straightforward spoken description when you want to make clear that the person is the one answering the questions."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "The interviewee has to fill out this form first.",
-          "traditional": "接受訪問嘅人要先填呢份表。",
-          "jyutping": "zip3 sau6 fong2 man6 ge3 jan4 jiu3 sin1 tin4 ni1 fan6 biu2"
-        }
-      ]
+      "english": "The interviewee has to fill out this form first.",
+      "traditional": "接受訪問嘅人要先填呢份表。",
+      "jyutping": "zip3 sau6 fong2 man6 ge3 jan4 jiu3 sin1 tin4 ni1 fan6 biu2"
     }
   ]
 }

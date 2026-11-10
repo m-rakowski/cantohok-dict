@@ -1,26 +1,22 @@
 {
   "id": "ojamopg1",
   "partOfSpeech": "verb",
+  "meaning": "stress syllable",
+  "english": [
+    {
+      "id": "r4rjl1tt",
+      "word": "stress",
+      "meaning": "stress syllable",
+      "note": "Use this specifically when giving extra prominence to a syllable in pronunciation, rather than emphasising an argument."
+    }
+  ],
   "traditional": "重讀",
   "jyutping": "zung6 duk6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "stress syllable",
-      "english": [
-        {
-          "id": "r4rjl1tt",
-          "word": "stress",
-          "meaning": "stress syllable",
-          "note": "Use this specifically when giving extra prominence to a syllable in pronunciation, rather than emphasising an argument."
-        }
-      ],
-      "examples": [
-        {
-          "english": "You need to stress the second syllable of this word.",
-          "traditional": "呢個字嘅第二個音節要重讀。",
-          "jyutping": "ni1 go3 zi6 ge3 dai6 ji6 go3 jam1 zit3 jiu3 zung6 duk6"
-        }
-      ]
+      "english": "You need to stress the second syllable of this word.",
+      "traditional": "呢個字嘅第二個音節要重讀。",
+      "jyutping": "ni1 go3 zi6 ge3 dai6 ji6 go3 jam1 zit3 jiu3 zung6 duk6"
     }
   ]
 }

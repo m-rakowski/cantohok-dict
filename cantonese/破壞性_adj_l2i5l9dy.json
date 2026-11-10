@@ -1,28 +1,24 @@
 {
   "id": "l2i5l9dy",
   "partOfSpeech": "adj",
+  "meaning": "causing damage",
+  "english": [
+    {
+      "id": "m1mgj18u",
+      "word": "destructive",
+      "meaning": "causing damage",
+      "register": "written",
+      "note": "This is the all-purpose adjective for something that causes destruction or damage, especially before a noun."
+    }
+  ],
   "traditional": "破壞性",
   "jyutping": "po3 waai6 sing3",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "causing damage",
-      "english": [
-        {
-          "id": "m1mgj18u",
-          "word": "destructive",
-          "meaning": "causing damage",
-          "register": "written",
-          "note": "This is the all-purpose adjective for something that causes destruction or damage, especially before a noun."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "This weapon is very destructive.",
-          "traditional": "呢種武器嘅破壞性好大。",
-          "jyutping": "ni1 zung2 mou5 hei3 ge3 po3 waai6 sing3 hou2 daai6"
-        }
-      ]
+      "english": "This weapon is very destructive.",
+      "traditional": "呢種武器嘅破壞性好大。",
+      "jyutping": "ni1 zung2 mou5 hei3 ge3 po3 waai6 sing3 hou2 daai6"
     }
   ]
 }

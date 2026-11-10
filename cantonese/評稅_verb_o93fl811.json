@@ -1,28 +1,24 @@
 {
   "id": "o93fl811",
   "partOfSpeech": "verb",
+  "meaning": "tax authority calculates tax",
+  "english": [
+    {
+      "id": "fgm22kzy",
+      "word": "assess",
+      "meaning": "tax authority calculates tax",
+      "register": "formal",
+      "note": "Use this specifically when the tax authority calculates the tax a person or organization owes."
+    }
+  ],
   "traditional": "評稅",
   "jyutping": "ping4 seoi3",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "tax authority calculates tax",
-      "english": [
-        {
-          "id": "fgm22kzy",
-          "word": "assess",
-          "meaning": "tax authority calculates tax",
-          "register": "formal",
-          "note": "Use this specifically when the tax authority calculates the tax a person or organization owes."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The tax authority carries out an annual process to assess the tax due.",
-          "traditional": "稅務局每年都會評稅。",
-          "jyutping": "seoi3 mou6 guk6 mui5 nin4 dou1 wui5 ping4 seoi3"
-        }
-      ]
+      "english": "The tax authority carries out an annual process to assess the tax due.",
+      "traditional": "稅務局每年都會評稅。",
+      "jyutping": "seoi3 mou6 guk6 mui5 nin4 dou1 wui5 ping4 seoi3"
     }
   ]
 }

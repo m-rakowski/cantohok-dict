@@ -1,28 +1,24 @@
 {
   "id": "aisda2tt",
   "partOfSpeech": "adj",
+  "meaning": "lacking meaning",
+  "english": [
+    {
+      "id": "xyqx8xpb",
+      "word": "meaningless",
+      "meaning": "lacking meaning",
+      "register": "colloquial",
+      "note": "Use this especially when a word, statement, or sign conveys no meaning; it can also suggest that something is uninteresting."
+    }
+  ],
   "traditional": "冇意思",
   "jyutping": "mou5 ji3 si1",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "lacking meaning",
-      "english": [
-        {
-          "id": "xyqx8xpb",
-          "word": "meaningless",
-          "meaning": "lacking meaning",
-          "register": "colloquial",
-          "note": "Use this especially when a word, statement, or sign conveys no meaning; it can also suggest that something is uninteresting."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "This string of symbols is really meaningless to me.",
-          "traditional": "你寫呢串符號出嚟，對我嚟講真係冇意思。",
-          "jyutping": "nei5 se2 ne1 cyun3 fu4 hou6 ceot1 lai4 deoi3 ngo5 lai4 gong2 zan1 hai6 mou5 ji3 si1"
-        }
-      ]
+      "english": "This string of symbols is really meaningless to me.",
+      "traditional": "你寫呢串符號出嚟，對我嚟講真係冇意思。",
+      "jyutping": "nei5 se2 ne1 cyun3 fu4 hou6 ceot1 lai4 deoi3 ngo5 lai4 gong2 zan1 hai6 mou5 ji3 si1"
     }
   ]
 }

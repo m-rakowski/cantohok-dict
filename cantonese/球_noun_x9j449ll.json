@@ -1,37 +1,33 @@
 {
   "id": "x9j449ll",
   "partOfSpeech": "noun",
+  "meaning": "ball",
+  "english": [
+    {
+      "id": "66smsrvx",
+      "word": "sphere",
+      "meaning": "round object; ball",
+      "note": "This is the all-purpose choice for a round object or ball, rather than its surface."
+    },
+    {
+      "id": "mfw6117p",
+      "word": "ball",
+      "meaning": "sports ball",
+      "note": "球 is the all-purpose noun for a spherical object, including a sports ball when the sporting context is not being emphasized."
+    }
+  ],
   "traditional": "球",
   "jyutping": "kau4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "ball",
-      "english": [
-        {
-          "id": "66smsrvx",
-          "word": "sphere",
-          "meaning": "round object; ball",
-          "note": "This is the all-purpose choice for a round object or ball, rather than its surface."
-        },
-        {
-          "id": "mfw6117p",
-          "word": "ball",
-          "meaning": "sports ball",
-          "note": "球 is the all-purpose noun for a spherical object, including a sports ball when the sporting context is not being emphasized."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This ball is a solid sphere.",
-          "traditional": "呢個球係實心嘅。",
-          "jyutping": "ni1 go3 kau4 hai6 sat6 sam1 ge3"
-        },
-        {
-          "english": "This ball is too light.",
-          "traditional": "呢個球太輕喇。",
-          "jyutping": "nei1 go3 kau4 taai3 hing1 laa3"
-        }
-      ]
+      "english": "This ball is a solid sphere.",
+      "traditional": "呢個球係實心嘅。",
+      "jyutping": "ni1 go3 kau4 hai6 sat6 sam1 ge3"
+    },
+    {
+      "english": "This ball is too light.",
+      "traditional": "呢個球太輕喇。",
+      "jyutping": "nei1 go3 kau4 taai3 hing1 laa3"
     }
   ]
 }

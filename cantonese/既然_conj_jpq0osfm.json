@@ -1,37 +1,33 @@
 {
   "id": "jpq0osfm",
   "partOfSpeech": "conj",
+  "meaning": "since, given that",
+  "english": [
+    {
+      "id": "k93kq1t6",
+      "word": "since",
+      "meaning": "because",
+      "note": "Use this when “since” means because and the reason is presented as an already accepted fact, often with a resulting action or conclusion."
+    },
+    {
+      "id": "p0ho8jsp",
+      "word": "if",
+      "meaning": "given that",
+      "note": "Use this when the condition is already known to be true and you are reasoning from it."
+    }
+  ],
   "traditional": "既然",
   "jyutping": "gei3 jin4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "since, given that",
-      "english": [
-        {
-          "id": "k93kq1t6",
-          "word": "since",
-          "meaning": "because",
-          "note": "Use this when “since” means because and the reason is presented as an already accepted fact, often with a resulting action or conclusion."
-        },
-        {
-          "id": "p0ho8jsp",
-          "word": "if",
-          "meaning": "given that",
-          "note": "Use this when the condition is already known to be true and you are reasoning from it."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Since you’re already here, come in and sit for a bit.",
-          "traditional": "既然你都到咗，就入嚟坐吓啦。",
-          "jyutping": "gei3 jin4 nei5 dou1 dou3 zo2 zau6 jap6 lai4 co5 haa5 laa1"
-        },
-        {
-          "english": "Since you’re already here, it would be a waste if you left without staying a little longer.",
-          "traditional": "既然你都到咗，如果唔玩多陣先走，就好嘥喎。",
-          "jyutping": "gei3 jin4 nei5 dou1 dou3 zo2 jyu4 gwo2 m4 waan2 do1 zan6 sin1 zau2 zau6 hou2 saai1 wo3"
-        }
-      ]
+      "english": "Since you’re already here, come in and sit for a bit.",
+      "traditional": "既然你都到咗，就入嚟坐吓啦。",
+      "jyutping": "gei3 jin4 nei5 dou1 dou3 zo2 zau6 jap6 lai4 co5 haa5 laa1"
+    },
+    {
+      "english": "Since you’re already here, it would be a waste if you left without staying a little longer.",
+      "traditional": "既然你都到咗，如果唔玩多陣先走，就好嘥喎。",
+      "jyutping": "gei3 jin4 nei5 dou1 dou3 zo2 jyu4 gwo2 m4 waan2 do1 zan6 sin1 zau2 zau6 hou2 saai1 wo3"
     }
   ]
 }

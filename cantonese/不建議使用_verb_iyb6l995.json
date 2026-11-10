@@ -1,26 +1,22 @@
 {
   "id": "iyb6l995",
   "partOfSpeech": "verb",
+  "meaning": "mark as obsolete",
+  "english": [
+    {
+      "id": "4akqrb1i",
+      "word": "deprecate",
+      "meaning": "mark as obsolete",
+      "note": "Use this for a function, command, or technique that still works but is no longer recommended."
+    }
+  ],
   "traditional": "不建議使用",
   "jyutping": "bat1 gin3 ji5 si2 jung6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "mark as obsolete",
-      "english": [
-        {
-          "id": "4akqrb1i",
-          "word": "deprecate",
-          "meaning": "mark as obsolete",
-          "note": "Use this for a function, command, or technique that still works but is no longer recommended."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This command still works, but the developers deprecate its use.",
-          "traditional": "呢個指令仲用得，但官方已經標明不建議使用。",
-          "jyutping": "ni1 go3 zi2 ling6 zung6 jung6 dak1 daan6 gun1 fong1 ji5 ging1 biu1 ming4 bat1 gin3 ji5 si2 jung6"
-        }
-      ]
+      "english": "This command still works, but the developers deprecate its use.",
+      "traditional": "呢個指令仲用得，但官方已經標明不建議使用。",
+      "jyutping": "ni1 go3 zi2 ling6 zung6 jung6 dak1 daan6 gun1 fong1 ji5 ging1 biu1 ming4 bat1 gin3 ji5 si2 jung6"
     }
   ]
 }

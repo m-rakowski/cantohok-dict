@@ -1,28 +1,24 @@
 {
   "id": "6dppidh9",
   "partOfSpeech": "noun",
+  "meaning": "time limit / due date",
+  "english": [
+    {
+      "id": "jx9c89oc",
+      "word": "deadline",
+      "meaning": "time limit / due date",
+      "register": "formal",
+      "note": "Use 限期 for a stated formal time limit, rather than the more colloquial 死線."
+    }
+  ],
   "traditional": "限期",
   "jyutping": "haan6 kei4",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "time limit / due date",
-      "english": [
-        {
-          "id": "jx9c89oc",
-          "word": "deadline",
-          "meaning": "time limit / due date",
-          "register": "formal",
-          "note": "Use 限期 for a stated formal time limit, rather than the more colloquial 死線."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "Please submit the application before the deadline.",
-          "traditional": "請於限期前提交申請",
-          "jyutping": "cing2 jyu1 haan6 kei4 cin4 tai4 gaau1 san1 cing2"
-        }
-      ]
+      "english": "Please submit the application before the deadline.",
+      "traditional": "請於限期前提交申請",
+      "jyutping": "cing2 jyu1 haan6 kei4 cin4 tai4 gaau1 san1 cing2"
     }
   ]
 }

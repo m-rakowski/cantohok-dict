@@ -1,37 +1,33 @@
 {
   "id": "e20c3oqs",
   "partOfSpeech": "verb",
+  "meaning": "be made up of A",
+  "english": [
+    {
+      "id": "nkdntq6a",
+      "word": "comprise",
+      "meaning": "consist of; include",
+      "note": "Use this when emphasizing what something is made up of as a whole, especially when listing its constituent parts."
+    },
+    {
+      "id": "q8205ny7",
+      "word": "compose",
+      "meaning": "make up; constitute",
+      "note": "Use this pattern to state what parts or members make up a whole."
+    }
+  ],
   "traditional": "由 A 組成",
   "jyutping": "jau4 A zou2 sing4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "be made up of A",
-      "english": [
-        {
-          "id": "nkdntq6a",
-          "word": "comprise",
-          "meaning": "consist of; include",
-          "note": "Use this when emphasizing what something is made up of as a whole, especially when listing its constituent parts."
-        },
-        {
-          "id": "q8205ny7",
-          "word": "compose",
-          "meaning": "make up; constitute",
-          "note": "Use this pattern to state what parts or members make up a whole."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Devices like this can comprise a sensor, a battery, and a display.",
-          "traditional": "呢類裝置可以由感應器、電池同顯示屏組成。",
-          "jyutping": "nei1 leoi6 zong1 zi3 ho2 ji5 jau4 gam2 jing3 hei3 din6 ci4 tung4 hin2 si6 ping4 zou2 sing4"
-        },
-        {
-          "english": "Five people compose this band.",
-          "traditional": "呢隊樂隊由五個人組成。",
-          "jyutping": "ni1 deoi6 ngok6 deoi6 jau4 ng5 go3 jan4 zou2 sing4"
-        }
-      ]
+      "english": "Devices like this can comprise a sensor, a battery, and a display.",
+      "traditional": "呢類裝置可以由感應器、電池同顯示屏組成。",
+      "jyutping": "nei1 leoi6 zong1 zi3 ho2 ji5 jau4 gam2 jing3 hei3 din6 ci4 tung4 hin2 si6 ping4 zou2 sing4"
+    },
+    {
+      "english": "Five people compose this band.",
+      "traditional": "呢隊樂隊由五個人組成。",
+      "jyutping": "ni1 deoi6 ngok6 deoi6 jau4 ng5 go3 jan4 zou2 sing4"
     }
   ]
 }

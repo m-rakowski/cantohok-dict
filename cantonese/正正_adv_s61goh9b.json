@@ -1,37 +1,33 @@
 {
   "id": "s61goh9b",
   "partOfSpeech": "adv",
+  "meaning": "exactly, precisely",
+  "english": [
+    {
+      "id": "zqbah9x9",
+      "word": "exactly",
+      "meaning": "precisely",
+      "note": "This is the all-purpose choice for precise identification or for stressing that something is exactly so."
+    },
+    {
+      "id": "06fftmza",
+      "word": "precisely",
+      "meaning": "exactly; accurately",
+      "note": "This is the all-purpose spoken choice for exactness and emphatic focus, especially before the thing being highlighted."
+    }
+  ],
   "traditional": "正正",
   "jyutping": "zing3 zing3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "exactly, precisely",
-      "english": [
-        {
-          "id": "zqbah9x9",
-          "word": "exactly",
-          "meaning": "precisely",
-          "note": "This is the all-purpose choice for precise identification or for stressing that something is exactly so."
-        },
-        {
-          "id": "06fftmza",
-          "word": "precisely",
-          "meaning": "exactly; accurately",
-          "note": "This is the all-purpose spoken choice for exactness and emphatic focus, especially before the thing being highlighted."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This is exactly the answer I wanted.",
-          "traditional": "正正係我想要嘅答案。",
-          "jyutping": "zing3 zing3 hai6 ngo5 soeng2 jiu3 ge3 daap3 on3"
-        },
-        {
-          "english": "That is precisely the book I wanted.",
-          "traditional": "正正係我想要嗰本書。",
-          "jyutping": "zing3 zing3 hai6 ngo5 soeng2 jiu3 go2 bun2 syu1"
-        }
-      ]
+      "english": "This is exactly the answer I wanted.",
+      "traditional": "正正係我想要嘅答案。",
+      "jyutping": "zing3 zing3 hai6 ngo5 soeng2 jiu3 ge3 daap3 on3"
+    },
+    {
+      "english": "That is precisely the book I wanted.",
+      "traditional": "正正係我想要嗰本書。",
+      "jyutping": "zing3 zing3 hai6 ngo5 soeng2 jiu3 go2 bun2 syu1"
     }
   ]
 }

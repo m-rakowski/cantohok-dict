@@ -1,28 +1,24 @@
 {
   "id": "ywu78st9",
   "partOfSpeech": "adj",
+  "meaning": "thoughtful; introspective",
+  "english": [
+    {
+      "id": "8rvfkiyi",
+      "word": "reflective",
+      "meaning": "thoughtful; introspective",
+      "register": "written",
+      "note": "Use this for the quieter meaning of being absorbed in deep thought rather than emotionally looking back."
+    }
+  ],
   "traditional": "沉思",
   "jyutping": "cam4 si1",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "thoughtful; introspective",
-      "english": [
-        {
-          "id": "8rvfkiyi",
-          "word": "reflective",
-          "meaning": "thoughtful; introspective",
-          "register": "written",
-          "note": "Use this for the quieter meaning of being absorbed in deep thought rather than emotionally looking back."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "They sat by the window, reflective.",
-          "traditional": "佢坐喺窗前，陷入沉思。",
-          "jyutping": "keoi5 co5 hai2 coeng1 cin4 ham6 jap6 cam4 si1"
-        }
-      ]
+      "english": "They sat by the window, reflective.",
+      "traditional": "佢坐喺窗前，陷入沉思。",
+      "jyutping": "keoi5 co5 hai2 coeng1 cin4 ham6 jap6 cam4 si1"
     }
   ]
 }

@@ -1,26 +1,22 @@
 {
   "id": "jea345da",
   "partOfSpeech": "noun",
+  "meaning": "signal filter",
+  "english": [
+    {
+      "id": "1pd5lnr5",
+      "word": "filter",
+      "meaning": "signal filter",
+      "note": "Use this specifically for an electronic or software filter that removes noise or selected frequencies from a signal."
+    }
+  ],
   "traditional": "濾波器",
   "jyutping": "leoi6 bo1 hei3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "signal filter",
-      "english": [
-        {
-          "id": "1pd5lnr5",
-          "word": "filter",
-          "meaning": "signal filter",
-          "note": "Use this specifically for an electronic or software filter that removes noise or selected frequencies from a signal."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This filter can remove the noise from the recording.",
-          "traditional": "呢個濾波器可以隔走錄音入面嘅噪音。",
-          "jyutping": "ni1 go3 leoi6 bo1 hei3 ho2 ji5 gaak3 zau2 luk6 jam1 jap6 min6 ge3 cou3 jam1"
-        }
-      ]
+      "english": "This filter can remove the noise from the recording.",
+      "traditional": "呢個濾波器可以隔走錄音入面嘅噪音。",
+      "jyutping": "ni1 go3 leoi6 bo1 hei3 ho2 ji5 gaak3 zau2 luk6 jam1 jap6 min6 ge3 cou3 jam1"
     }
   ]
 }

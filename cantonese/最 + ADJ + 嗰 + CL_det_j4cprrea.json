@@ -1,26 +1,22 @@
 {
   "id": "j4cprrea",
   "partOfSpeech": "det",
+  "meaning": "substantive superlative/ordinal",
+  "english": [
+    {
+      "id": "au4c5kic",
+      "word": "the",
+      "meaning": "substantive superlative/ordinal",
+      "note": "Use this for a superlative, before an overt noun or alone when the noun is understood, as in 最好嗰個."
+    }
+  ],
   "traditional": "最 + ADJ + 嗰 + CL",
   "jyutping": "zeoi3 ADJ go2 CL",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "substantive superlative/ordinal",
-      "english": [
-        {
-          "id": "au4c5kic",
-          "word": "the",
-          "meaning": "substantive superlative/ordinal",
-          "note": "Use this for a superlative, before an overt noun or alone when the noun is understood, as in 最好嗰個."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I want the best one.",
-          "traditional": "我要最好嗰個。",
-          "jyutping": "ngo5 jiu3 zeoi3 hou2 go2 go3"
-        }
-      ]
+      "english": "I want the best one.",
+      "traditional": "我要最好嗰個。",
+      "jyutping": "ngo5 jiu3 zeoi3 hou2 go2 go3"
     }
   ]
 }

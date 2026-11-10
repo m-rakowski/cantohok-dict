@@ -1,37 +1,33 @@
 {
   "id": "ilkwmbwx",
   "partOfSpeech": "verb",
+  "meaning": "twist",
+  "english": [
+    {
+      "id": "btetofyk",
+      "word": "twist",
+      "meaning": "turn by twisting",
+      "note": "This is the all-purpose colloquial verb for physically twisting something, including rope, a knob, or material into a shape."
+    },
+    {
+      "id": "ekpewfow",
+      "word": "wrench",
+      "meaning": "pull or twist violently",
+      "note": "Use this when the forceful action is specifically a twisting movement rather than a hard pull."
+    }
+  ],
   "traditional": "扭",
   "jyutping": "nau2",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "twist",
-      "english": [
-        {
-          "id": "btetofyk",
-          "word": "twist",
-          "meaning": "turn by twisting",
-          "note": "This is the all-purpose colloquial verb for physically twisting something, including rope, a knob, or material into a shape."
-        },
-        {
-          "id": "ekpewfow",
-          "word": "wrench",
-          "meaning": "pull or twist violently",
-          "note": "Use this when the forceful action is specifically a twisting movement rather than a hard pull."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I twist the bottle cap tight first.",
-          "traditional": "我扭實個樽蓋先。",
-          "jyutping": "ngo5 nau2 sat6 go3 zeon1 goi3 sin1"
-        },
-        {
-          "english": "They wrench the jar lid open.",
-          "traditional": "佢用力一扭個樽蓋，個樽蓋就開咗。",
-          "jyutping": "keoi5 jung6 lik6 jat1 nau2 go3 zeon1 goi3 go3 zeon1 goi3 zau6 hoi1 zo2"
-        }
-      ]
+      "english": "I twist the bottle cap tight first.",
+      "traditional": "我扭實個樽蓋先。",
+      "jyutping": "ngo5 nau2 sat6 go3 zeon1 goi3 sin1"
+    },
+    {
+      "english": "They wrench the jar lid open.",
+      "traditional": "佢用力一扭個樽蓋，個樽蓋就開咗。",
+      "jyutping": "keoi5 jung6 lik6 jat1 nau2 go3 zeon1 goi3 go3 zeon1 goi3 zau6 hoi1 zo2"
     }
   ]
 }

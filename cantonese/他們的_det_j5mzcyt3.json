@@ -1,28 +1,24 @@
 {
   "id": "j5mzcyt3",
   "partOfSpeech": "det",
+  "meaning": "plural possessive determiner",
+  "english": [
+    {
+      "id": "dw9ah9hx",
+      "word": "their",
+      "meaning": "plural possessive determiner",
+      "register": "written",
+      "note": "A speaker picks this formal written rendering in official or literary Chinese rather than everyday conversation."
+    }
+  ],
   "traditional": "他們的",
   "jyutping": "taa1 mun4 dik1",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "plural possessive determiner",
-      "english": [
-        {
-          "id": "dw9ah9hx",
-          "word": "their",
-          "meaning": "plural possessive determiner",
-          "register": "written",
-          "note": "A speaker picks this formal written rendering in official or literary Chinese rather than everyday conversation."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "The committee has approved their plan.",
-          "traditional": "委員會已批准他們的計劃。",
-          "jyutping": "wai2 jyun4 wui6 ji5 pai1 zeon2 taa1 mun4 dik1 gai3 waak6"
-        }
-      ]
+      "english": "The committee has approved their plan.",
+      "traditional": "委員會已批准他們的計劃。",
+      "jyutping": "wai2 jyun4 wui6 ji5 pai1 zeon2 taa1 mun4 dik1 gai3 waak6"
     }
   ]
 }

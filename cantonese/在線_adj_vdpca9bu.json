@@ -1,28 +1,24 @@
 {
   "id": "vdpca9bu",
   "partOfSpeech": "adj",
+  "meaning": "connected to the Internet",
+  "english": [
+    {
+      "id": "sr3sjcwm",
+      "word": "online",
+      "meaning": "connected to the Internet",
+      "register": "formal",
+      "note": "Use this for a computer or device that is actively connected to the Internet or another communications network."
+    }
+  ],
   "traditional": "在線",
   "jyutping": "zoi6 sin3",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "connected to the Internet",
-      "english": [
-        {
-          "id": "sr3sjcwm",
-          "word": "online",
-          "meaning": "connected to the Internet",
-          "register": "formal",
-          "note": "Use this for a computer or device that is actively connected to the Internet or another communications network."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The computer is currently online and can receive messages.",
-          "traditional": "部電腦而家在線，可以接收訊息。",
-          "jyutping": "bou6 din6 nou5 ji4 gaa1 zoi6 sin3 ho2 ji5 zip3 sau1 seon3 sik1"
-        }
-      ]
+      "english": "The computer is currently online and can receive messages.",
+      "traditional": "部電腦而家在線，可以接收訊息。",
+      "jyutping": "bou6 din6 nou5 ji4 gaa1 zoi6 sin3 ho2 ji5 zip3 sau1 seon3 sik1"
     }
   ]
 }

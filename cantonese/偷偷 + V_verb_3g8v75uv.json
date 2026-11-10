@@ -1,28 +1,24 @@
 {
   "id": "3g8v75uv",
   "partOfSpeech": "verb",
+  "meaning": "do secretly",
+  "english": [
+    {
+      "id": "n5fu3o0v",
+      "word": "steal",
+      "meaning": "do secretly",
+      "register": "colloquial",
+      "note": "Use this pattern for doing an action secretly, such as 偷偷望 for stealing glances or 偷偷行過去 for moving unnoticed."
+    }
+  ],
   "traditional": "偷偷 + V",
   "jyutping": "tau1 tau1 V",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "do secretly",
-      "english": [
-        {
-          "id": "n5fu3o0v",
-          "word": "steal",
-          "meaning": "do secretly",
-          "register": "colloquial",
-          "note": "Use this pattern for doing an action secretly, such as 偷偷望 for stealing glances or 偷偷行過去 for moving unnoticed."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "I managed to steal a glance at the answers.",
-          "traditional": "我偷偷望咗眼答案。",
-          "jyutping": "ngo5 tau1 tau1 mong6 zo2 ngaan5 daap3 on3"
-        }
-      ]
+      "english": "I managed to steal a glance at the answers.",
+      "traditional": "我偷偷望咗眼答案。",
+      "jyutping": "ngo5 tau1 tau1 mong6 zo2 ngaan5 daap3 on3"
     }
   ]
 }

@@ -1,70 +1,66 @@
 {
   "id": "r40zeypm",
   "partOfSpeech": "noun",
+  "meaning": "alcohol, liquor",
+  "english": [
+    {
+      "id": "60gkhtdq",
+      "word": "alcohol",
+      "meaning": "alcoholic drink",
+      "note": "This is the all-purpose choice when you mean alcoholic drinks generally."
+    },
+    {
+      "id": "fumrv412",
+      "word": "drink",
+      "meaning": "alcohol",
+      "note": "Use this for an alcoholic drink being served or for alcoholic beverages in general."
+    },
+    {
+      "id": "9iyyg96k",
+      "word": "bottle",
+      "meaning": "alcohol",
+      "note": "Use this for intoxicating liquor or alcohol in general, especially when the container is not important."
+    },
+    {
+      "id": "5b9j9rme",
+      "word": "sauce",
+      "meaning": "alcohol, booze",
+      "note": "Use this when “sauce” is slang for alcohol or booze."
+    },
+    {
+      "id": "ge2cp35r",
+      "word": "wine",
+      "meaning": "fruit/other fermented wine",
+      "note": "Use this broader noun for an alcoholic drink such as rice wine, fruit wine, or plum wine when the exact type is clear from context."
+    }
+  ],
   "traditional": "酒",
   "jyutping": "zau2",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "alcohol, liquor",
-      "english": [
-        {
-          "id": "60gkhtdq",
-          "word": "alcohol",
-          "meaning": "alcoholic drink",
-          "note": "This is the all-purpose choice when you mean alcoholic drinks generally."
-        },
-        {
-          "id": "fumrv412",
-          "word": "drink",
-          "meaning": "alcohol",
-          "note": "Use this for an alcoholic drink being served or for alcoholic beverages in general."
-        },
-        {
-          "id": "9iyyg96k",
-          "word": "bottle",
-          "meaning": "alcohol",
-          "note": "Use this for intoxicating liquor or alcohol in general, especially when the container is not important."
-        },
-        {
-          "id": "5b9j9rme",
-          "word": "sauce",
-          "meaning": "alcohol, booze",
-          "note": "Use this when “sauce” is slang for alcohol or booze."
-        },
-        {
-          "id": "ge2cp35r",
-          "word": "wine",
-          "meaning": "fruit/other fermented wine",
-          "note": "Use this broader noun for an alcoholic drink such as rice wine, fruit wine, or plum wine when the exact type is clear from context."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Drink alcohol in moderation.",
-          "traditional": "飲酒要適量。",
-          "jyutping": "jam2 zau2 jiu3 sik1 loeng6"
-        },
-        {
-          "english": "Let's order an alcoholic drink with dinner.",
-          "traditional": "食飯嗰陣叫支酒啦。",
-          "jyutping": "sik6 faan6 go2 zan6 giu3 zi1 zau2 laa1"
-        },
-        {
-          "english": "We’re having a bottle tonight, so don’t drive.",
-          "traditional": "今晚飲酒，唔好揸車。",
-          "jyutping": "gam1 maan5 jam2 zau2 m4 hou2 zaa1 ce1"
-        },
-        {
-          "english": "Let’s go out for some sauce tonight.",
-          "traditional": "今晚一齊去飲酒啦。",
-          "jyutping": "gam1 maan5 jat1 cai4 heoi3 jam2 zau2 laa1"
-        },
-        {
-          "english": "Plum wine tastes best when served cold.",
-          "traditional": "梅酒凍飲先好飲。",
-          "jyutping": "mui4 zau2 dung3 jam2 sin1 hou2 jam2"
-        }
-      ]
+      "english": "Drink alcohol in moderation.",
+      "traditional": "飲酒要適量。",
+      "jyutping": "jam2 zau2 jiu3 sik1 loeng6"
+    },
+    {
+      "english": "Let's order an alcoholic drink with dinner.",
+      "traditional": "食飯嗰陣叫支酒啦。",
+      "jyutping": "sik6 faan6 go2 zan6 giu3 zi1 zau2 laa1"
+    },
+    {
+      "english": "We’re having a bottle tonight, so don’t drive.",
+      "traditional": "今晚飲酒，唔好揸車。",
+      "jyutping": "gam1 maan5 jam2 zau2 m4 hou2 zaa1 ce1"
+    },
+    {
+      "english": "Let’s go out for some sauce tonight.",
+      "traditional": "今晚一齊去飲酒啦。",
+      "jyutping": "gam1 maan5 jat1 cai4 heoi3 jam2 zau2 laa1"
+    },
+    {
+      "english": "Plum wine tastes best when served cold.",
+      "traditional": "梅酒凍飲先好飲。",
+      "jyutping": "mui4 zau2 dung3 jam2 sin1 hou2 jam2"
     }
   ]
 }

@@ -1,28 +1,24 @@
 {
   "id": "a7smec95",
   "partOfSpeech": "noun",
+  "meaning": "for someone’s benefit",
+  "english": [
+    {
+      "id": "jev6h6wx",
+      "word": "behalf",
+      "meaning": "for someone’s benefit",
+      "register": "formal",
+      "note": "Use this for someone’s or a community’s general welfare, especially in formal or written contexts."
+    }
+  ],
   "traditional": "福祉",
   "jyutping": "fuk1 zi2",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "for someone’s benefit",
-      "english": [
-        {
-          "id": "jev6h6wx",
-          "word": "behalf",
-          "meaning": "for someone’s benefit",
-          "register": "formal",
-          "note": "Use this for someone’s or a community’s general welfare, especially in formal or written contexts."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "On behalf of the public, the government should put citizens’ welfare first.",
-          "traditional": "政府應該以市民福祉為重。",
-          "jyutping": "zing3 fu2 jing1 goi1 ji5 si5 man4 fuk1 zi2 wai4 zung6"
-        }
-      ]
+      "english": "On behalf of the public, the government should put citizens’ welfare first.",
+      "traditional": "政府應該以市民福祉為重。",
+      "jyutping": "zing3 fu2 jing1 goi1 ji5 si5 man4 fuk1 zi2 wai4 zung6"
     }
   ]
 }

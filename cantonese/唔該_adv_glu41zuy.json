@@ -1,38 +1,34 @@
 {
   "id": "glu41zuy",
   "partOfSpeech": "adv",
+  "meaning": "please",
+  "english": [
+    {
+      "id": "hgio9p2h",
+      "word": "please",
+      "meaning": "polite request marker",
+      "note": "Use 唔該 as the all-purpose colloquial polite request marker."
+    },
+    {
+      "id": "25n20q1z",
+      "word": "kindly",
+      "meaning": "please, politely",
+      "register": "colloquial",
+      "note": "Use this casual request marker before an action when kindly means please."
+    }
+  ],
   "traditional": "唔該",
   "jyutping": "m4 goi1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "please",
-      "english": [
-        {
-          "id": "hgio9p2h",
-          "word": "please",
-          "meaning": "polite request marker",
-          "note": "Use 唔該 as the all-purpose colloquial polite request marker."
-        },
-        {
-          "id": "25n20q1z",
-          "word": "kindly",
-          "meaning": "please, politely",
-          "register": "colloquial",
-          "note": "Use this casual request marker before an action when kindly means please."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Please help me open the door.",
-          "traditional": "唔該你幫我開門。",
-          "jyutping": "m4 goi1 nei5 bong1 ngo5 hoi1 mun4"
-        },
-        {
-          "english": "Could you kindly keep an eye on my seat for me?",
-          "traditional": "唔該你幫我睇住個位。",
-          "jyutping": "m4 goi1 nei5 bong1 ngo5 tai2 zyu6 go3 wai2"
-        }
-      ]
+      "english": "Please help me open the door.",
+      "traditional": "唔該你幫我開門。",
+      "jyutping": "m4 goi1 nei5 bong1 ngo5 hoi1 mun4"
+    },
+    {
+      "english": "Could you kindly keep an eye on my seat for me?",
+      "traditional": "唔該你幫我睇住個位。",
+      "jyutping": "m4 goi1 nei5 bong1 ngo5 tai2 zyu6 go3 wai2"
     }
   ]
 }

@@ -1,40 +1,36 @@
 {
   "id": "ivq3qodj",
   "partOfSpeech": "noun",
+  "meaning": "big fuss, over-the-top production",
+  "english": [
+    {
+      "id": "95u8bea5",
+      "word": "production",
+      "meaning": "big fuss",
+      "register": "colloquial",
+      "note": "Use 大龍鳳 when someone turns a simple matter into an elaborate fuss or spectacle."
+    },
+    {
+      "id": "empes7ml",
+      "word": "circus",
+      "meaning": "noisy chaos",
+      "register": "colloquial",
+      "note": "Use this for a noisy or elaborate spectacle or fuss rather than a literal circus."
+    }
+  ],
   "traditional": "大龍鳳",
   "jyutping": "daai6 lung4 fung6",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "big fuss, over-the-top production",
-      "english": [
-        {
-          "id": "95u8bea5",
-          "word": "production",
-          "meaning": "big fuss",
-          "register": "colloquial",
-          "note": "Use 大龍鳳 when someone turns a simple matter into an elaborate fuss or spectacle."
-        },
-        {
-          "id": "empes7ml",
-          "word": "circus",
-          "meaning": "noisy chaos",
-          "register": "colloquial",
-          "note": "Use this for a noisy or elaborate spectacle or fuss rather than a literal circus."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "You don't need to make such a production out of setting a table.",
-          "traditional": "你唔使為咗擺張枱搞咁大龍鳳。",
-          "jyutping": "nei5 m4 sai2 wai6 zo2 baai2 zoeng1 toi2 gaau2 gam3 daai6 lung4 fung6"
-        },
-        {
-          "english": "You don’t need to make such a circus out of it.",
-          "traditional": "你哋唔使搞咁大龍鳳。",
-          "jyutping": "nei5 dei6 m4 sai2 gaau2 gam3 daai6 lung4 fung6"
-        }
-      ]
+      "english": "You don't need to make such a production out of setting a table.",
+      "traditional": "你唔使為咗擺張枱搞咁大龍鳳。",
+      "jyutping": "nei5 m4 sai2 wai6 zo2 baai2 zoeng1 toi2 gaau2 gam3 daai6 lung4 fung6"
+    },
+    {
+      "english": "You don’t need to make such a circus out of it.",
+      "traditional": "你哋唔使搞咁大龍鳳。",
+      "jyutping": "nei5 dei6 m4 sai2 gaau2 gam3 daai6 lung4 fung6"
     }
   ]
 }

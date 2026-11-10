@@ -1,28 +1,24 @@
 {
   "id": "w812xsvu",
   "partOfSpeech": "noun",
+  "meaning": "official register",
+  "english": [
+    {
+      "id": "k9cdhrtj",
+      "word": "roll",
+      "meaning": "official register",
+      "register": "formal",
+      "note": "Use this for an official register or formal list of names or records."
+    }
+  ],
   "traditional": "名冊",
   "jyutping": "ming4 caak3",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "official register",
-      "english": [
-        {
-          "id": "k9cdhrtj",
-          "word": "roll",
-          "meaning": "official register",
-          "register": "formal",
-          "note": "Use this for an official register or formal list of names or records."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "Please sign the official roll.",
-          "traditional": "請喺名冊上簽名。",
-          "jyutping": "cing2 hai2 ming4 caak3 soeng6 cim1 meng4"
-        }
-      ]
+      "english": "Please sign the official roll.",
+      "traditional": "請喺名冊上簽名。",
+      "jyutping": "cing2 hai2 ming4 caak3 soeng6 cim1 meng4"
     }
   ]
 }

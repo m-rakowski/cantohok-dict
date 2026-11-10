@@ -1,28 +1,24 @@
 {
   "id": "qnula0ep",
   "partOfSpeech": "adj",
+  "meaning": "pictorial, visual",
+  "english": [
+    {
+      "id": "das68pa9",
+      "word": "graphic",
+      "meaning": "pictorial, visual",
+      "register": "written",
+      "note": "Use this as the all-purpose choice for a pictorial or visual design or system."
+    }
+  ],
   "traditional": "圖像式",
   "jyutping": "tou4 zoeng6 sik1",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "pictorial, visual",
-      "english": [
-        {
-          "id": "das68pa9",
-          "word": "graphic",
-          "meaning": "pictorial, visual",
-          "register": "written",
-          "note": "Use this as the all-purpose choice for a pictorial or visual design or system."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "This graphic interface is easy to understand at a glance.",
-          "traditional": "呢個圖像式介面一睇就明。",
-          "jyutping": "ni1 go3 tou4 zoeng6 sik1 gaai3 min6 jat1 tai2 zau6 ming4"
-        }
-      ]
+      "english": "This graphic interface is easy to understand at a glance.",
+      "traditional": "呢個圖像式介面一睇就明。",
+      "jyutping": "ni1 go3 tou4 zoeng6 sik1 gaai3 min6 jat1 tai2 zau6 ming4"
     }
   ]
 }

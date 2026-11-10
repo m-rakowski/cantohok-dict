@@ -1,37 +1,33 @@
 {
   "id": "rge1o0l4",
   "partOfSpeech": "noun",
+  "meaning": "seawater",
+  "english": [
+    {
+      "id": "xneuqlmi",
+      "word": "seawater",
+      "meaning": "salt water from the sea",
+      "note": "This is the all-purpose noun for the saltwater of the sea or ocean."
+    },
+    {
+      "id": "3tyq36p1",
+      "word": "ocean",
+      "meaning": "ocean water",
+      "note": "Use this when you mean the water itself rather than the body of water."
+    }
+  ],
   "traditional": "海水",
   "jyutping": "hoi2 seoi2",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "seawater",
-      "english": [
-        {
-          "id": "xneuqlmi",
-          "word": "seawater",
-          "meaning": "salt water from the sea",
-          "note": "This is the all-purpose noun for the saltwater of the sea or ocean."
-        },
-        {
-          "id": "3tyq36p1",
-          "word": "ocean",
-          "meaning": "ocean water",
-          "note": "Use this when you mean the water itself rather than the body of water."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The seawater is cold, so don’t go into the water yet.",
-          "traditional": "海水好凍，唔好落水住。",
-          "jyutping": "hoi2 seoi2 hou2 dung3 m4 hou2 lok6 seoi2 zyu6"
-        },
-        {
-          "english": "The ocean water here is freezing cold.",
-          "traditional": "呢度嘅海水凍到入骨。",
-          "jyutping": "ni1 dou6 ge3 hoi2 seoi2 dung3 dou3 jap6 gwat1"
-        }
-      ]
+      "english": "The seawater is cold, so don’t go into the water yet.",
+      "traditional": "海水好凍，唔好落水住。",
+      "jyutping": "hoi2 seoi2 hou2 dung3 m4 hou2 lok6 seoi2 zyu6"
+    },
+    {
+      "english": "The ocean water here is freezing cold.",
+      "traditional": "呢度嘅海水凍到入骨。",
+      "jyutping": "ni1 dou6 ge3 hoi2 seoi2 dung3 dou3 jap6 gwat1"
     }
   ]
 }

@@ -1,28 +1,24 @@
 {
   "id": "whkmaphx",
   "partOfSpeech": "noun",
+  "meaning": "married man",
+  "english": [
+    {
+      "id": "9e4q93d6",
+      "word": "husband",
+      "meaning": "married man",
+      "register": "written",
+      "note": "This is chosen mainly in formal or written language rather than everyday conversation."
+    }
+  ],
   "traditional": "丈夫",
   "jyutping": "zoeng6 fu1",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "married man",
-      "english": [
-        {
-          "id": "9e4q93d6",
-          "word": "husband",
-          "meaning": "married man",
-          "register": "written",
-          "note": "This is chosen mainly in formal or written language rather than everyday conversation."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "The woman attended the wedding ceremony with her husband.",
-          "traditional": "該名女子與丈夫一同出席婚禮。",
-          "jyutping": "goi1 ming4 neoi5 zi2 jyu5 zoeng6 fu1 jat1 tung4 ceot1 zik6 fan1 lai5"
-        }
-      ]
+      "english": "The woman attended the wedding ceremony with her husband.",
+      "traditional": "該名女子與丈夫一同出席婚禮。",
+      "jyutping": "goi1 ming4 neoi5 zi2 jyu5 zoeng6 fu1 jat1 tung4 ceot1 zik6 fan1 lai5"
     }
   ]
 }

@@ -1,37 +1,33 @@
 {
   "id": "22m96o4z",
   "partOfSpeech": "noun",
+  "meaning": "barrel, drum",
+  "english": [
+    {
+      "id": "8bm4prfs",
+      "word": "barrel",
+      "meaning": "wooden cask",
+      "note": "This is the all-purpose choice for an ordinary barrel or for the amount it holds, as in 一桶; it does not specify the historical tun-based measurement."
+    },
+    {
+      "id": "0yi1vb2u",
+      "word": "drum",
+      "meaning": "barrel container",
+      "note": "Use this for a barrel or large cylindrical container holding liquids."
+    }
+  ],
   "traditional": "桶",
   "jyutping": "tung2",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "barrel, drum",
-      "english": [
-        {
-          "id": "8bm4prfs",
-          "word": "barrel",
-          "meaning": "wooden cask",
-          "note": "This is the all-purpose choice for an ordinary barrel or for the amount it holds, as in 一桶; it does not specify the historical tun-based measurement."
-        },
-        {
-          "id": "0yi1vb2u",
-          "word": "drum",
-          "meaning": "barrel container",
-          "note": "Use this for a barrel or large cylindrical container holding liquids."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This wooden barrel is leaking.",
-          "traditional": "呢個木桶漏緊水呀。",
-          "jyutping": "ni1 go3 muk6 tung2 lau6 gan2 seoi2 aa3"
-        },
-        {
-          "english": "This drum is full of cooking oil.",
-          "traditional": "呢桶食油滿晒。",
-          "jyutping": "ni1 tung2 sik6 jau4 mun5 saai3"
-        }
-      ]
+      "english": "This wooden barrel is leaking.",
+      "traditional": "呢個木桶漏緊水呀。",
+      "jyutping": "ni1 go3 muk6 tung2 lau6 gan2 seoi2 aa3"
+    },
+    {
+      "english": "This drum is full of cooking oil.",
+      "traditional": "呢桶食油滿晒。",
+      "jyutping": "ni1 tung2 sik6 jau4 mun5 saai3"
     }
   ]
 }

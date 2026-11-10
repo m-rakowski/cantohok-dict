@@ -1,49 +1,45 @@
 {
   "id": "i88g0sv5",
   "partOfSpeech": "adj",
+  "meaning": "icy cold",
+  "english": [
+    {
+      "id": "flj37yon",
+      "word": "freezing",
+      "meaning": "very cold",
+      "note": "Use this as the all-purpose spoken way to describe something very cold."
+    },
+    {
+      "id": "10futx7j",
+      "word": "icy",
+      "meaning": "cold, frosty",
+      "note": "This is the all-purpose spoken choice for something intensely cold or frosty, without specifically saying that it is coated in ice."
+    },
+    {
+      "id": "yndj6xl0",
+      "word": "clammy",
+      "meaning": "cold and damp",
+      "register": "colloquial",
+      "note": "Use this when the coldness of the hands is more noticeable and the dampness is understood from context."
+    }
+  ],
   "traditional": "凍冰冰",
   "jyutping": "dung3 bing1 bing1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "icy cold",
-      "english": [
-        {
-          "id": "flj37yon",
-          "word": "freezing",
-          "meaning": "very cold",
-          "note": "Use this as the all-purpose spoken way to describe something very cold."
-        },
-        {
-          "id": "10futx7j",
-          "word": "icy",
-          "meaning": "cold, frosty",
-          "note": "This is the all-purpose spoken choice for something intensely cold or frosty, without specifically saying that it is coated in ice."
-        },
-        {
-          "id": "yndj6xl0",
-          "word": "clammy",
-          "meaning": "cold and damp",
-          "register": "colloquial",
-          "note": "Use this when the coldness of the hands is more noticeable and the dampness is understood from context."
-        }
-      ],
-      "examples": [
-        {
-          "english": "It’s freezing today, so remember to wear an extra layer when you go out.",
-          "traditional": "今日凍冰冰，出街記得着多件衫。",
-          "jyutping": "gam1 jat6 dung3 bing1 bing1 ceot1 gaai1 gei3 dak1 zoek3 do1 gin6 saam1"
-        },
-        {
-          "english": "This glass of water is icy, and it feels great to drink.",
-          "traditional": "呢杯水凍冰冰嘅，飲落去好過癮。",
-          "jyutping": "ne1 bui1 seoi2 dung3 bing1 bing1 ge3 jam2 lok6 heoi3 hou2 gwo3 jan5"
-        },
-        {
-          "english": "My hands felt clammy while I was waiting for the bus this morning.",
-          "traditional": "朝早等巴士嗰陣，我對手凍冰冰嘅。",
-          "jyutping": "ziu1 zou2 dang2 baa1 si2 go2 zan6 ngo5 deoi3 sau2 dung3 bing1 bing1 ge3"
-        }
-      ]
+      "english": "It’s freezing today, so remember to wear an extra layer when you go out.",
+      "traditional": "今日凍冰冰，出街記得着多件衫。",
+      "jyutping": "gam1 jat6 dung3 bing1 bing1 ceot1 gaai1 gei3 dak1 zoek3 do1 gin6 saam1"
+    },
+    {
+      "english": "This glass of water is icy, and it feels great to drink.",
+      "traditional": "呢杯水凍冰冰嘅，飲落去好過癮。",
+      "jyutping": "ne1 bui1 seoi2 dung3 bing1 bing1 ge3 jam2 lok6 heoi3 hou2 gwo3 jan5"
+    },
+    {
+      "english": "My hands felt clammy while I was waiting for the bus this morning.",
+      "traditional": "朝早等巴士嗰陣，我對手凍冰冰嘅。",
+      "jyutping": "ziu1 zou2 dang2 baa1 si2 go2 zan6 ngo5 deoi3 sau2 dung3 bing1 bing1 ge3"
     }
   ]
 }

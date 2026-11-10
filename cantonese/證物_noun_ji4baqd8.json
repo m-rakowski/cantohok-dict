@@ -1,26 +1,22 @@
 {
   "id": "ji4baqd8",
   "partOfSpeech": "noun",
+  "meaning": "court evidence",
+  "english": [
+    {
+      "id": "x0lhz2db",
+      "word": "evidence",
+      "meaning": "court evidence",
+      "note": "Use this specifically for a physical object or exhibit submitted as evidence in court."
+    }
+  ],
   "traditional": "證物",
   "jyutping": "zing3 mat6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "court evidence",
-      "english": [
-        {
-          "id": "x0lhz2db",
-          "word": "evidence",
-          "meaning": "court evidence",
-          "note": "Use this specifically for a physical object or exhibit submitted as evidence in court."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The court listed this knife as evidence.",
-          "traditional": "法庭將呢把刀列為證物。",
-          "jyutping": "faat3 ting4 zoeng1 ni1 baa2 dou1 lit6 wai4 zing3 mat6"
-        }
-      ]
+      "english": "The court listed this knife as evidence.",
+      "traditional": "法庭將呢把刀列為證物。",
+      "jyutping": "faat3 ting4 zoeng1 ni1 baa2 dou1 lit6 wai4 zing3 mat6"
     }
   ]
 }

@@ -1,28 +1,24 @@
 {
   "id": "wi7c9ame",
   "partOfSpeech": "noun",
+  "meaning": "grape alcoholic drink",
+  "english": [
+    {
+      "id": "bu5b6bon",
+      "word": "wine",
+      "meaning": "grape alcoholic drink",
+      "register": "written",
+      "note": "Use this precise term for grape wine, including when you do not want to specify its colour."
+    }
+  ],
   "traditional": "葡萄酒",
   "jyutping": "pou4 tou4 zau2",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "grape alcoholic drink",
-      "english": [
-        {
-          "id": "bu5b6bon",
-          "word": "wine",
-          "meaning": "grape alcoholic drink",
-          "register": "written",
-          "note": "Use this precise term for grape wine, including when you do not want to specify its colour."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "The alcohol content of grape wine varies.",
-          "traditional": "葡萄酒嘅酒精濃度各有唔同。",
-          "jyutping": "pou4 tou4 zau2 ge3 zau2 zing1 nung4 dou6 gok3 jau5 m4 tung4"
-        }
-      ]
+      "english": "The alcohol content of grape wine varies.",
+      "traditional": "葡萄酒嘅酒精濃度各有唔同。",
+      "jyutping": "pou4 tou4 zau2 ge3 zau2 zing1 nung4 dou6 gok3 jau5 m4 tung4"
     }
   ]
 }

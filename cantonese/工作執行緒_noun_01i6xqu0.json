@@ -1,28 +1,24 @@
 {
   "id": "01i6xqu0",
   "partOfSpeech": "noun",
+  "meaning": "program thread/process",
+  "english": [
+    {
+      "id": "l9v0stbj",
+      "word": "worker",
+      "meaning": "program thread/process",
+      "register": "technical",
+      "note": "Use this technical term for a task-running thread within a computer program."
+    }
+  ],
   "traditional": "工作執行緒",
   "jyutping": "gung1 zok3 zap1 hang4 seoi5",
-  "boxes": [
+  "register": "technical",
+  "examples": [
     {
-      "meaning": "program thread/process",
-      "english": [
-        {
-          "id": "l9v0stbj",
-          "word": "worker",
-          "meaning": "program thread/process",
-          "register": "technical",
-          "note": "Use this technical term for a task-running thread within a computer program."
-        }
-      ],
-      "register": "technical",
-      "examples": [
-        {
-          "english": "This worker thread handles downloads in the background.",
-          "traditional": "呢個工作執行緒會喺背景處理下載。",
-          "jyutping": "ni1 go3 gung1 zok3 zap1 hang4 seoi5 wui5 hai2 bui3 ging2 cyu5 lei5 haa6 zoi3"
-        }
-      ]
+      "english": "This worker thread handles downloads in the background.",
+      "traditional": "呢個工作執行緒會喺背景處理下載。",
+      "jyutping": "ni1 go3 gung1 zok3 zap1 hang4 seoi5 wui5 hai2 bui3 ging2 cyu5 lei5 haa6 zoi3"
     }
   ]
 }

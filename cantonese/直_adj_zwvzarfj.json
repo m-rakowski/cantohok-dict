@@ -1,37 +1,33 @@
 {
   "id": "zwvzarfj",
   "partOfSpeech": "adj",
+  "meaning": "straight, not bent",
+  "english": [
+    {
+      "id": "jah2g2i9",
+      "word": "straight",
+      "meaning": "not crooked/bent",
+      "note": "Use 直 as the all-purpose choice for something physically straight, and colloquially when “straight” means heterosexual."
+    },
+    {
+      "id": "jetmn5af",
+      "word": "direct",
+      "meaning": "shortest route; straight",
+      "note": "Use this for the literal physical sense of being straight rather than crooked or circuitous."
+    }
+  ],
   "traditional": "直",
   "jyutping": "zik6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "straight, not bent",
-      "english": [
-        {
-          "id": "jah2g2i9",
-          "word": "straight",
-          "meaning": "not crooked/bent",
-          "note": "Use 直 as the all-purpose choice for something physically straight, and colloquially when “straight” means heterosexual."
-        },
-        {
-          "id": "jetmn5af",
-          "word": "direct",
-          "meaning": "shortest route; straight",
-          "note": "Use this for the literal physical sense of being straight rather than crooked or circuitous."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This line is drawn very straight.",
-          "traditional": "呢條線畫得好直。",
-          "jyutping": "ni1 tiu4 sin3 waak6 dak1 hou2 zik6"
-        },
-        {
-          "english": "This road is straight and direct, so there’s no need to take a detour.",
-          "traditional": "呢條路好直，唔使兜路。",
-          "jyutping": "ni1 tiu4 lou6 hou2 zik6 m4 sai2 dau1 lou6"
-        }
-      ]
+      "english": "This line is drawn very straight.",
+      "traditional": "呢條線畫得好直。",
+      "jyutping": "ni1 tiu4 sin3 waak6 dak1 hou2 zik6"
+    },
+    {
+      "english": "This road is straight and direct, so there’s no need to take a detour.",
+      "traditional": "呢條路好直，唔使兜路。",
+      "jyutping": "ni1 tiu4 lou6 hou2 zik6 m4 sai2 dau1 lou6"
     }
   ]
 }

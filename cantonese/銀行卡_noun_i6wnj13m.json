@@ -1,26 +1,22 @@
 {
   "id": "i6wnj13m",
   "partOfSpeech": "noun",
+  "meaning": "bank card",
+  "english": [
+    {
+      "id": "b28tkktn",
+      "word": "card",
+      "meaning": "bank card",
+      "note": "Use this specifically for a bank-issued card rather than a plain card or a business card."
+    }
+  ],
   "traditional": "銀行卡",
   "jyutping": "ngan4 hong4 kaat1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "bank card",
-      "english": [
-        {
-          "id": "b28tkktn",
-          "word": "card",
-          "meaning": "bank card",
-          "note": "Use this specifically for a bank-issued card rather than a plain card or a business card."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The ATM swallowed my bank card.",
-          "traditional": "我張銀行卡畀提款機食咗。",
-          "jyutping": "ngo5 zoeng1 ngan4 hong4 kaat1 bei2 tai4 fun2 gei1 sik6 zo2"
-        }
-      ]
+      "english": "The ATM swallowed my bank card.",
+      "traditional": "我張銀行卡畀提款機食咗。",
+      "jyutping": "ngo5 zoeng1 ngan4 hong4 kaat1 bei2 tai4 fun2 gei1 sik6 zo2"
     }
   ]
 }

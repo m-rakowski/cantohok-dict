@@ -1,26 +1,22 @@
 {
   "id": "o0x7huma",
   "partOfSpeech": "det",
+  "meaning": "the two together",
+  "english": [
+    {
+      "id": "vr37eknc",
+      "word": "both",
+      "meaning": "the two together",
+      "note": "Use this when the two individuals or items are named explicitly rather than referred to as a pair."
+    }
+  ],
   "traditional": "A 同 B 都",
   "jyutping": "A tung4 B dou1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "the two together",
-      "english": [
-        {
-          "id": "vr37eknc",
-          "word": "both",
-          "meaning": "the two together",
-          "note": "Use this when the two individuals or items are named explicitly rather than referred to as a pair."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Both Ming and Fong like drinking tea.",
-          "traditional": "阿明同阿芳都鍾意飲茶。",
-          "jyutping": "aa3 ming4 tung4 aa3 fong1 dou1 zung1 ji3 jam2 caa4"
-        }
-      ]
+      "english": "Both Ming and Fong like drinking tea.",
+      "traditional": "阿明同阿芳都鍾意飲茶。",
+      "jyutping": "aa3 ming4 tung4 aa3 fong1 dou1 zung1 ji3 jam2 caa4"
     }
   ]
 }

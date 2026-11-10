@@ -1,28 +1,24 @@
 {
   "id": "82bnlaf6",
   "partOfSpeech": "verb",
+  "meaning": "break into crumbs",
+  "english": [
+    {
+      "id": "maboasbb",
+      "word": "crumble",
+      "meaning": "break into crumbs",
+      "register": "colloquial",
+      "note": "Use this when someone deliberately breaks something into small crumbs or pieces."
+    }
+  ],
   "traditional": "整碎",
   "jyutping": "zing2 seoi3",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "break into crumbs",
-      "english": [
-        {
-          "id": "maboasbb",
-          "word": "crumble",
-          "meaning": "break into crumbs",
-          "register": "colloquial",
-          "note": "Use this when someone deliberately breaks something into small crumbs or pieces."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "Please don't crumble the biscuit.",
-          "traditional": "你唔好將塊餅整碎呀。",
-          "jyutping": "nei5 m4 hou2 zoeng1 faai3 beng2 zing2 seoi3 aa3"
-        }
-      ]
+      "english": "Please don't crumble the biscuit.",
+      "traditional": "你唔好將塊餅整碎呀。",
+      "jyutping": "nei5 m4 hou2 zoeng1 faai3 beng2 zing2 seoi3 aa3"
     }
   ]
 }

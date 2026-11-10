@@ -1,28 +1,24 @@
 {
   "id": "j5phfxk7",
   "partOfSpeech": "noun",
+  "meaning": "person who commits murder",
+  "english": [
+    {
+      "id": "m2y673np",
+      "word": "murderer",
+      "meaning": "person who commits murder",
+      "register": "formal",
+      "note": "A speaker uses this more explicitly when stressing that the person is legally or factually a murderer."
+    }
+  ],
   "traditional": "殺人犯",
   "jyutping": "saat3 jan4 faan6",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "person who commits murder",
-      "english": [
-        {
-          "id": "m2y673np",
-          "word": "murderer",
-          "meaning": "person who commits murder",
-          "register": "formal",
-          "note": "A speaker uses this more explicitly when stressing that the person is legally or factually a murderer."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The court ruled that he was a murderer.",
-          "traditional": "法庭裁定佢係殺人犯。",
-          "jyutping": "faat3 ting4 coi4 ding6 keoi5 hai6 saat3 jan4 faan6"
-        }
-      ]
+      "english": "The court ruled that he was a murderer.",
+      "traditional": "法庭裁定佢係殺人犯。",
+      "jyutping": "faat3 ting4 coi4 ding6 keoi5 hai6 saat3 jan4 faan6"
     }
   ]
 }

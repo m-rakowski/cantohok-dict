@@ -1,26 +1,22 @@
 {
   "id": "dhe36n4d",
   "partOfSpeech": "prep",
+  "meaning": "as ... as comparison",
+  "english": [
+    {
+      "id": "hy65vg0d",
+      "word": "as",
+      "meaning": "as ... as comparison",
+      "note": "Use this for a positive equality comparison, where A is as ADJ as B."
+    }
+  ],
   "traditional": "A 同 B 一樣 + ADJ",
   "jyutping": "A tung4 B jat1 joeng6 ADJ",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "as ... as comparison",
-      "english": [
-        {
-          "id": "hy65vg0d",
-          "word": "as",
-          "meaning": "as ... as comparison",
-          "note": "Use this for a positive equality comparison, where A is as ADJ as B."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I am as tall as you are.",
-          "traditional": "我同你一樣高。",
-          "jyutping": "ngo5 tung4 nei5 jat1 joeng6 gou1"
-        }
-      ]
+      "english": "I am as tall as you are.",
+      "traditional": "我同你一樣高。",
+      "jyutping": "ngo5 tung4 nei5 jat1 joeng6 gou1"
     }
   ]
 }

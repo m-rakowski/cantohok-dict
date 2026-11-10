@@ -1,38 +1,34 @@
 {
   "id": "0dbqlkhf",
   "partOfSpeech": "adj",
+  "meaning": "stuffy, muggy",
+  "english": [
+    {
+      "id": "noirzy1x",
+      "word": "stuffy",
+      "meaning": "poorly ventilated",
+      "note": "Use 焗 as the all-purpose choice for air or a room that feels poorly ventilated."
+    },
+    {
+      "id": "ipym7kwt",
+      "word": "humid",
+      "meaning": "damp air / moist",
+      "register": "colloquial",
+      "note": "Use this for hot, close, muggy humidity that feels stuffy, especially when describing the weather or a room."
+    }
+  ],
   "traditional": "焗",
   "jyutping": "guk6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "stuffy, muggy",
-      "english": [
-        {
-          "id": "noirzy1x",
-          "word": "stuffy",
-          "meaning": "poorly ventilated",
-          "note": "Use 焗 as the all-purpose choice for air or a room that feels poorly ventilated."
-        },
-        {
-          "id": "ipym7kwt",
-          "word": "humid",
-          "meaning": "damp air / moist",
-          "register": "colloquial",
-          "note": "Use this for hot, close, muggy humidity that feels stuffy, especially when describing the weather or a room."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The room is really stuffy today; let’s open a window.",
-          "traditional": "今日間房好焗，開吓窗先啦。",
-          "jyutping": "gam1 jat6 gaan1 fong4 hou2 guk6 hoi1 haa5 coeng1 sin1 laa1"
-        },
-        {
-          "english": "The weather is really humid today.",
-          "traditional": "今日天氣好焗。",
-          "jyutping": "gam1 jat6 tin1 hei3 hou2 guk6"
-        }
-      ]
+      "english": "The room is really stuffy today; let’s open a window.",
+      "traditional": "今日間房好焗，開吓窗先啦。",
+      "jyutping": "gam1 jat6 gaan1 fong4 hou2 guk6 hoi1 haa5 coeng1 sin1 laa1"
+    },
+    {
+      "english": "The weather is really humid today.",
+      "traditional": "今日天氣好焗。",
+      "jyutping": "gam1 jat6 tin1 hei3 hou2 guk6"
     }
   ]
 }

@@ -1,37 +1,33 @@
 {
   "id": "ocvqo35y",
   "partOfSpeech": "noun",
+  "meaning": "electric wire, cable",
+  "english": [
+    {
+      "id": "lzzdiupr",
+      "word": "wire",
+      "meaning": "electrical wire",
+      "note": "For an electrical wire, 電線 is the all-purpose everyday choice."
+    },
+    {
+      "id": "lr401dp3",
+      "word": "cable",
+      "meaning": "electrical/data cable",
+      "note": "Use 電線 as the everyday all-purpose word for an electrical or general hookup cable."
+    }
+  ],
   "traditional": "電線",
   "jyutping": "din6 sin3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "electric wire, cable",
-      "english": [
-        {
-          "id": "lzzdiupr",
-          "word": "wire",
-          "meaning": "electrical wire",
-          "note": "For an electrical wire, 電線 is the all-purpose everyday choice."
-        },
-        {
-          "id": "lr401dp3",
-          "word": "cable",
-          "meaning": "electrical/data cable",
-          "note": "Use 電線 as the everyday all-purpose word for an electrical or general hookup cable."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This wire has come loose, so don’t touch it.",
-          "traditional": "呢條電線甩咗，唔好掂。",
-          "jyutping": "ni1 tiu4 din6 sin3 lat1 zo2 m4 hou2 dim3"
-        },
-        {
-          "english": "This cable seems loose; help me plug it in securely.",
-          "traditional": "呢條電線好似鬆咗，幫我插實啲。",
-          "jyutping": "ni1 tiu4 din6 sin3 hou2 ci5 sung1 zo2 bong1 ngo5 caap3 sat6 di1"
-        }
-      ]
+      "english": "This wire has come loose, so don’t touch it.",
+      "traditional": "呢條電線甩咗，唔好掂。",
+      "jyutping": "ni1 tiu4 din6 sin3 lat1 zo2 m4 hou2 dim3"
+    },
+    {
+      "english": "This cable seems loose; help me plug it in securely.",
+      "traditional": "呢條電線好似鬆咗，幫我插實啲。",
+      "jyutping": "ni1 tiu4 din6 sin3 hou2 ci5 sung1 zo2 bong1 ngo5 caap3 sat6 di1"
     }
   ]
 }

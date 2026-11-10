@@ -1,44 +1,22 @@
 {
   "id": "z6un6jco",
   "partOfSpeech": "det",
+  "meaning": "a single",
+  "english": [
+    {
+      "id": "g6o5qwd7",
+      "word": "one",
+      "meaning": "a single",
+      "note": "This is the all-purpose numeral for saying that there is a single item, normally followed by the appropriate classifier and noun."
+    }
+  ],
   "traditional": "一",
   "jyutping": "jat1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "a single",
-      "english": [
-        {
-          "id": "g6o5qwd7",
-          "word": "one",
-          "meaning": "a single",
-          "note": "This is the all-purpose numeral for saying that there is a single item, normally followed by the appropriate classifier and noun."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I bought one bottle of water.",
-          "traditional": "我買咗一支水。",
-          "jyutping": "ngo5 maai5 zo2 jat1 zi1 seoi2"
-        }
-      ]
-    },
-    {
-      "meaning": "one before hundred/thousand",
-      "english": [
-        {
-          "id": "5ms80yww",
-          "word": "a",
-          "meaning": "one before hundred/thousand",
-          "note": "Use 一 before score and quantity units such as hundred, thousand, dozen, or million."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Is a hundred dollars enough?",
-          "traditional": "一百蚊夠唔夠呀？",
-          "jyutping": "jat1 baak3 man1 gau3 m4 gau3 aa3"
-        }
-      ]
+      "english": "I bought one bottle of water.",
+      "traditional": "我買咗一支水。",
+      "jyutping": "ngo5 maai5 zo2 jat1 zi1 seoi2"
     }
   ]
 }

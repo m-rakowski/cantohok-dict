@@ -1,48 +1,44 @@
 {
   "id": "koz4v5x8",
   "partOfSpeech": "noun",
+  "meaning": "terrain, lay of the land",
+  "english": [
+    {
+      "id": "rk3aul4a",
+      "word": "terrain",
+      "meaning": "area of land; landscape",
+      "note": "Use this as the all-purpose term for the physical features and layout of an area of land."
+    },
+    {
+      "id": "qq7mtlsc",
+      "word": "topography",
+      "meaning": "land features",
+      "note": "Use this as the all-purpose everyday word for the physical features and shape of a place’s land."
+    },
+    {
+      "id": "yjoo8u1y",
+      "word": "ground",
+      "meaning": "terrain",
+      "note": "Use this for the shape and features of an area of terrain."
+    }
+  ],
   "traditional": "地形",
   "jyutping": "dei6 jing4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "terrain, lay of the land",
-      "english": [
-        {
-          "id": "rk3aul4a",
-          "word": "terrain",
-          "meaning": "area of land; landscape",
-          "note": "Use this as the all-purpose term for the physical features and layout of an area of land."
-        },
-        {
-          "id": "qq7mtlsc",
-          "word": "topography",
-          "meaning": "land features",
-          "note": "Use this as the all-purpose everyday word for the physical features and shape of a place’s land."
-        },
-        {
-          "id": "yjoo8u1y",
-          "word": "ground",
-          "meaning": "terrain",
-          "note": "Use this for the shape and features of an area of terrain."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The terrain in this area is complicated, so be careful when hiking.",
-          "traditional": "呢區地形好複雜，行山要小心。",
-          "jyutping": "ne1 keoi1 dei6 jing4 hou2 fuk1 zaap6 haang4 saan1 jiu3 siu2 sam1"
-        },
-        {
-          "english": "The topography of this place is very complex.",
-          "traditional": "呢個地方嘅地形好複雜。",
-          "jyutping": "nei1 go3 dei6 fong1 ge3 dei6 jing4 hou2 fuk1 zaap6"
-        },
-        {
-          "english": "The ground here is rugged, so drive carefully.",
-          "traditional": "呢區地形崎嶇，揸車要小心。",
-          "jyutping": "ni1 keoi1 dei6 jing4 kei1 keoi1 zaa1 ce1 jiu3 siu2 sam1"
-        }
-      ]
+      "english": "The terrain in this area is complicated, so be careful when hiking.",
+      "traditional": "呢區地形好複雜，行山要小心。",
+      "jyutping": "ne1 keoi1 dei6 jing4 hou2 fuk1 zaap6 haang4 saan1 jiu3 siu2 sam1"
+    },
+    {
+      "english": "The topography of this place is very complex.",
+      "traditional": "呢個地方嘅地形好複雜。",
+      "jyutping": "nei1 go3 dei6 fong1 ge3 dei6 jing4 hou2 fuk1 zaap6"
+    },
+    {
+      "english": "The ground here is rugged, so drive carefully.",
+      "traditional": "呢區地形崎嶇，揸車要小心。",
+      "jyutping": "ni1 keoi1 dei6 jing4 kei1 keoi1 zaa1 ce1 jiu3 siu2 sam1"
     }
   ]
 }

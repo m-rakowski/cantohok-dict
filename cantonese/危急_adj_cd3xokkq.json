@@ -1,37 +1,33 @@
 {
   "id": "cd3xokkq",
   "partOfSpeech": "adj",
+  "meaning": "critical, urgent",
+  "english": [
+    {
+      "id": "ndrrnkf1",
+      "word": "acute",
+      "meaning": "urgent, severe",
+      "note": "Use this for an urgent and critical situation, especially when immediate medical attention is needed."
+    },
+    {
+      "id": "t7ixq2eu",
+      "word": "critical",
+      "meaning": "in serious condition",
+      "note": "Use this for a patient in a critical condition or a situation that is dangerously close to going out of control."
+    }
+  ],
   "traditional": "危急",
   "jyutping": "ngai4 gap1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "critical, urgent",
-      "english": [
-        {
-          "id": "ndrrnkf1",
-          "word": "acute",
-          "meaning": "urgent, severe",
-          "note": "Use this for an urgent and critical situation, especially when immediate medical attention is needed."
-        },
-        {
-          "id": "t7ixq2eu",
-          "word": "critical",
-          "meaning": "in serious condition",
-          "note": "Use this for a patient in a critical condition or a situation that is dangerously close to going out of control."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The patient's condition is acute and they need to be taken to hospital immediately.",
-          "traditional": "病人而家情況危急，要即刻送院。",
-          "jyutping": "beng6 jan4 ji4 gaa1 cing4 fong3 ngai4 gap1 jiu3 zik1 hak1 sung3 jyun2"
-        },
-        {
-          "english": "The patient's condition is critical, so they need to be taken to hospital immediately.",
-          "traditional": "個病人情況危急，要即刻送院。",
-          "jyutping": "go3 beng6 jan4 cing4 fong3 ngai4 gap1 jiu3 zik1 hak1 sung3 jyun2"
-        }
-      ]
+      "english": "The patient's condition is acute and they need to be taken to hospital immediately.",
+      "traditional": "病人而家情況危急，要即刻送院。",
+      "jyutping": "beng6 jan4 ji4 gaa1 cing4 fong3 ngai4 gap1 jiu3 zik1 hak1 sung3 jyun2"
+    },
+    {
+      "english": "The patient's condition is critical, so they need to be taken to hospital immediately.",
+      "traditional": "個病人情況危急，要即刻送院。",
+      "jyutping": "go3 beng6 jan4 cing4 fong3 ngai4 gap1 jiu3 zik1 hak1 sung3 jyun2"
     }
   ]
 }

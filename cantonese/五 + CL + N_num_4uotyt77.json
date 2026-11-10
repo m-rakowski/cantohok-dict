@@ -1,26 +1,22 @@
 {
   "id": "4uotyt77",
   "partOfSpeech": "num",
+  "meaning": "five of something",
+  "english": [
+    {
+      "id": "p1q8i4j1",
+      "word": "five",
+      "meaning": "five of something",
+      "note": "Use this when counting five items, choosing the appropriate classifier for CL."
+    }
+  ],
   "traditional": "五 + CL + N",
   "jyutping": "ng5 CL N",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "five of something",
-      "english": [
-        {
-          "id": "p1q8i4j1",
-          "word": "five",
-          "meaning": "five of something",
-          "note": "Use this when counting five items, choosing the appropriate classifier for CL."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I bought five books.",
-          "traditional": "我買咗五本書。",
-          "jyutping": "ngo5 maai5 zo2 ng5 bun2 syu1"
-        }
-      ]
+      "english": "I bought five books.",
+      "traditional": "我買咗五本書。",
+      "jyutping": "ngo5 maai5 zo2 ng5 bun2 syu1"
     }
   ]
 }

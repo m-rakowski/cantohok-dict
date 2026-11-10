@@ -1,28 +1,24 @@
 {
   "id": "9iw0utoa",
   "partOfSpeech": "intj",
+  "meaning": "OK / accepted",
+  "english": [
+    {
+      "id": "xx29k6sa",
+      "word": "alright",
+      "meaning": "OK / accepted",
+      "register": "colloquial",
+      "note": "Use this familiar loanword when you want a neutral, modern-sounding acknowledgement."
+    }
+  ],
   "traditional": "OK",
   "jyutping": "ou1 kei1",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "OK / accepted",
-      "english": [
-        {
-          "id": "xx29k6sa",
-          "word": "alright",
-          "meaning": "OK / accepted",
-          "register": "colloquial",
-          "note": "Use this familiar loanword when you want a neutral, modern-sounding acknowledgement."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "Alright, I’ll wait downstairs at five.",
-          "traditional": "OK，五點鐘喺樓下等。",
-          "jyutping": "ou1 kei1 ng5 dim2 zung1 hai2 lau4 haa6 dang2"
-        }
-      ]
+      "english": "Alright, I’ll wait downstairs at five.",
+      "traditional": "OK，五點鐘喺樓下等。",
+      "jyutping": "ou1 kei1 ng5 dim2 zung1 hai2 lau4 haa6 dang2"
     }
   ]
 }

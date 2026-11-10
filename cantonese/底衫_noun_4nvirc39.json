@@ -1,28 +1,24 @@
 {
   "id": "4nvirc39",
   "partOfSpeech": "noun",
+  "meaning": "clothes worn next to skin",
+  "english": [
+    {
+      "id": "8gwqi8ag",
+      "word": "underwear",
+      "meaning": "clothes worn next to skin",
+      "register": "colloquial",
+      "note": "Use this for the upper-body underwear or undershirt part of the clothing worn next to the skin."
+    }
+  ],
   "traditional": "底衫",
   "jyutping": "dai2 saam1",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "clothes worn next to skin",
-      "english": [
-        {
-          "id": "8gwqi8ag",
-          "word": "underwear",
-          "meaning": "clothes worn next to skin",
-          "register": "colloquial",
-          "note": "Use this for the upper-body underwear or undershirt part of the clothing worn next to the skin."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "It's so hot, your underwear is completely soaked.",
-          "traditional": "咁熱，你件底衫都濕晒喇。",
-          "jyutping": "gam3 jit6 nei5 gin6 dai2 saam1 dou1 sap1 saai3 laa3"
-        }
-      ]
+      "english": "It's so hot, your underwear is completely soaked.",
+      "traditional": "咁熱，你件底衫都濕晒喇。",
+      "jyutping": "gam3 jit6 nei5 gin6 dai2 saam1 dou1 sap1 saai3 laa3"
     }
   ]
 }

@@ -1,38 +1,34 @@
 {
   "id": "egx9ndyk",
   "partOfSpeech": "verb",
+  "meaning": "to help bring about a deal",
+  "english": [
+    {
+      "id": "ss7oiicl",
+      "word": "facilitate",
+      "meaning": "help bring about",
+      "register": "written",
+      "note": "Use this when someone or something helps bring about a specific result, such as an agreement or cooperation."
+    },
+    {
+      "id": "9qa84cn4",
+      "word": "conclude",
+      "meaning": "bring about, effect",
+      "note": "Use this when someone brings about a result or helps bring an agreement or deal into existence, rather than simply finishing it."
+    }
+  ],
   "traditional": "促成",
   "jyutping": "cuk1 sing4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "to help bring about a deal",
-      "english": [
-        {
-          "id": "ss7oiicl",
-          "word": "facilitate",
-          "meaning": "help bring about",
-          "register": "written",
-          "note": "Use this when someone or something helps bring about a specific result, such as an agreement or cooperation."
-        },
-        {
-          "id": "9qa84cn4",
-          "word": "conclude",
-          "meaning": "bring about, effect",
-          "note": "Use this when someone brings about a result or helps bring an agreement or deal into existence, rather than simply finishing it."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The mediator helped facilitate the signing of the agreement.",
-          "traditional": "調解員從中促成雙方簽約。",
-          "jyutping": "tiu4 gaai2 jyun4 cung4 zung1 cuk1 sing4 soeng1 fong1 cim1 joek3"
-        },
-        {
-          "english": "He helped conclude this deal.",
-          "traditional": "呢單生意係佢從中促成嘅。",
-          "jyutping": "ni1 daan1 sang1 ji3 hai6 keoi5 cung4 zung1 cuk1 sing4 ge3"
-        }
-      ]
+      "english": "The mediator helped facilitate the signing of the agreement.",
+      "traditional": "調解員從中促成雙方簽約。",
+      "jyutping": "tiu4 gaai2 jyun4 cung4 zung1 cuk1 sing4 soeng1 fong1 cim1 joek3"
+    },
+    {
+      "english": "He helped conclude this deal.",
+      "traditional": "呢單生意係佢從中促成嘅。",
+      "jyutping": "ni1 daan1 sang1 ji3 hai6 keoi5 cung4 zung1 cuk1 sing4 ge3"
     }
   ]
 }

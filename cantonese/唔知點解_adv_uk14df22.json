@@ -1,28 +1,24 @@
 {
   "id": "uk14df22",
   "partOfSpeech": "adv",
+  "meaning": "for no known reason",
+  "english": [
+    {
+      "id": "1daxvsqq",
+      "word": "inexplicably",
+      "meaning": "for no known reason",
+      "register": "colloquial",
+      "note": "Use this when you want to emphasize that the reason is unknown to the speaker."
+    }
+  ],
   "traditional": "唔知點解",
   "jyutping": "m4 zi1 dim2 gaai2",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "for no known reason",
-      "english": [
-        {
-          "id": "1daxvsqq",
-          "word": "inexplicably",
-          "meaning": "for no known reason",
-          "register": "colloquial",
-          "note": "Use this when you want to emphasize that the reason is unknown to the speaker."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "He inexplicably didn't go to work today.",
-          "traditional": "唔知點解佢今日冇返工。",
-          "jyutping": "m4 zi1 dim2 gaai2 keoi5 gam1 jat6 mou5 faan1 gung1"
-        }
-      ]
+      "english": "He inexplicably didn't go to work today.",
+      "traditional": "唔知點解佢今日冇返工。",
+      "jyutping": "m4 zi1 dim2 gaai2 keoi5 gam1 jat6 mou5 faan1 gung1"
     }
   ]
 }

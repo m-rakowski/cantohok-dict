@@ -1,28 +1,24 @@
 {
   "id": "z3riclyp",
   "partOfSpeech": "adj",
+  "meaning": "providing a description",
+  "english": [
+    {
+      "id": "p91ptqq0",
+      "word": "descriptive",
+      "meaning": "providing a description",
+      "register": "formal written",
+      "note": "This is the all-purpose formal term, especially in written or technical contexts, for something descriptive rather than prescriptive."
+    }
+  ],
   "traditional": "描述性",
   "jyutping": "miu4 seot6 sing3",
-  "boxes": [
+  "register": "formal written",
+  "examples": [
     {
-      "meaning": "providing a description",
-      "english": [
-        {
-          "id": "p91ptqq0",
-          "word": "descriptive",
-          "meaning": "providing a description",
-          "register": "formal written",
-          "note": "This is the all-purpose formal term, especially in written or technical contexts, for something descriptive rather than prescriptive."
-        }
-      ],
-      "register": "formal written",
-      "examples": [
-        {
-          "english": "This paper uses a descriptive approach to analyse Cantonese grammar.",
-          "traditional": "呢篇論文採用描述性方法分析粵語語法。",
-          "jyutping": "ni1 pin1 leon6 man4 coi2 jung6 miu4 seot6 sing3 fong1 faat3 fan1 sik1 jyut6 jyu5 jyu5 faat3"
-        }
-      ]
+      "english": "This paper uses a descriptive approach to analyse Cantonese grammar.",
+      "traditional": "呢篇論文採用描述性方法分析粵語語法。",
+      "jyutping": "ni1 pin1 leon6 man4 coi2 jung6 miu4 seot6 sing3 fong1 faat3 fan1 sik1 jyut6 jyu5 jyu5 faat3"
     }
   ]
 }

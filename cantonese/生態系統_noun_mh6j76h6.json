@@ -1,37 +1,33 @@
 {
   "id": "mh6j76h6",
   "partOfSpeech": "noun",
+  "meaning": "ecosystem",
+  "english": [
+    {
+      "id": "20csibpj",
+      "word": "ecosystem",
+      "meaning": "ecological system",
+      "note": "This is the all-purpose rendering for an ecological system made up of organisms and their environment."
+    },
+    {
+      "id": "382ge80p",
+      "word": "ecology",
+      "meaning": "system of relationships",
+      "note": "Use this when the ecology is viewed specifically as an interconnected system of organisms and their environment."
+    }
+  ],
   "traditional": "生態系統",
   "jyutping": "sang1 taai3 hai6 tung2",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "ecosystem",
-      "english": [
-        {
-          "id": "20csibpj",
-          "word": "ecosystem",
-          "meaning": "ecological system",
-          "note": "This is the all-purpose rendering for an ecological system made up of organisms and their environment."
-        },
-        {
-          "id": "382ge80p",
-          "word": "ecology",
-          "meaning": "system of relationships",
-          "note": "Use this when the ecology is viewed specifically as an interconnected system of organisms and their environment."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This wetland's ecosystem is very fragile.",
-          "traditional": "呢個濕地嘅生態系統好脆弱。",
-          "jyutping": "nei1 go3 sap1 dei6 ge3 sang1 taai3 hai6 tung2 hou2 ceoi3 joek6"
-        },
-        {
-          "english": "This wetland's ecology is very fragile.",
-          "traditional": "呢個濕地嘅生態系統好脆弱。",
-          "jyutping": "ni1 go3 sap1 dei6 ge3 sang1 taai3 hai6 tung2 hou2 ceoi3 joek6"
-        }
-      ]
+      "english": "This wetland's ecosystem is very fragile.",
+      "traditional": "呢個濕地嘅生態系統好脆弱。",
+      "jyutping": "nei1 go3 sap1 dei6 ge3 sang1 taai3 hai6 tung2 hou2 ceoi3 joek6"
+    },
+    {
+      "english": "This wetland's ecology is very fragile.",
+      "traditional": "呢個濕地嘅生態系統好脆弱。",
+      "jyutping": "ni1 go3 sap1 dei6 ge3 sang1 taai3 hai6 tung2 hou2 ceoi3 joek6"
     }
   ]
 }

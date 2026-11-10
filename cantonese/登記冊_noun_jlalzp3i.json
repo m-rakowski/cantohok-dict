@@ -1,26 +1,22 @@
 {
   "id": "jlalzp3i",
   "partOfSpeech": "noun",
+  "meaning": "attendance list",
+  "english": [
+    {
+      "id": "ncb4hxdy",
+      "word": "register",
+      "meaning": "attendance list",
+      "note": "Use this for a physical or formal record of names, events, or transactions rather than the act itself."
+    }
+  ],
   "traditional": "登記冊",
   "jyutping": "dang1 gei3 caak3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "attendance list",
-      "english": [
-        {
-          "id": "ncb4hxdy",
-          "word": "register",
-          "meaning": "attendance list",
-          "note": "Use this for a physical or formal record of names, events, or transactions rather than the act itself."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Please sign the register.",
-          "traditional": "請喺登記冊上簽名。",
-          "jyutping": "cing2 hai2 dang1 gei3 caak3 soeng6 cim1 meng2"
-        }
-      ]
+      "english": "Please sign the register.",
+      "traditional": "請喺登記冊上簽名。",
+      "jyutping": "cing2 hai2 dang1 gei3 caak3 soeng6 cim1 meng2"
     }
   ]
 }

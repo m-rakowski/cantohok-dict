@@ -1,28 +1,24 @@
 {
   "id": "grm83miy",
   "partOfSpeech": "verb",
+  "meaning": "inform or notify",
+  "english": [
+    {
+      "id": "khfayo9a",
+      "word": "advise",
+      "meaning": "inform or notify",
+      "register": "colloquial",
+      "note": "Use this casual construction when the sense is simply telling A information B rather than issuing a formal notice."
+    }
+  ],
   "traditional": "話畀 A 知 B",
   "jyutping": "waa6 bei2 A zi1 B",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "inform or notify",
-      "english": [
-        {
-          "id": "khfayo9a",
-          "word": "advise",
-          "meaning": "inform or notify",
-          "register": "colloquial",
-          "note": "Use this casual construction when the sense is simply telling A information B rather than issuing a formal notice."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "I advise you that you do not have to work tomorrow.",
-          "traditional": "我話畀你知，聽日唔使返工。",
-          "jyutping": "ngo5 waa6 bei2 nei5 zi1 ting1 jat6 m4 sai2 faan1 gung1"
-        }
-      ]
+      "english": "I advise you that you do not have to work tomorrow.",
+      "traditional": "我話畀你知，聽日唔使返工。",
+      "jyutping": "ngo5 waa6 bei2 nei5 zi1 ting1 jat6 m4 sai2 faan1 gung1"
     }
   ]
 }

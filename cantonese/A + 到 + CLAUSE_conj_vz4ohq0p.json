@@ -1,28 +1,24 @@
 {
   "id": "vz4ohq0p",
   "partOfSpeech": "conj",
+  "meaning": "result clause",
+  "english": [
+    {
+      "id": "v37bxruf",
+      "word": "that",
+      "meaning": "result clause",
+      "register": "colloquial",
+      "note": "Use this colloquial result construction when the first part is so extreme that it produces the following result."
+    }
+  ],
   "traditional": "A + 到 + CLAUSE",
   "jyutping": "A dou3 CLAUSE",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "result clause",
-      "english": [
-        {
-          "id": "v37bxruf",
-          "word": "that",
-          "meaning": "result clause",
-          "register": "colloquial",
-          "note": "Use this colloquial result construction when the first part is so extreme that it produces the following result."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "I was so tired that I couldn't walk.",
-          "traditional": "我攰到行唔郁。",
-          "jyutping": "ngo5 gui6 dou3 haang4 m4 juk1"
-        }
-      ]
+      "english": "I was so tired that I couldn't walk.",
+      "traditional": "我攰到行唔郁。",
+      "jyutping": "ngo5 gui6 dou3 haang4 m4 juk1"
     }
   ]
 }

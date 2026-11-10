@@ -1,37 +1,33 @@
 {
   "id": "amf487lq",
   "partOfSpeech": "noun",
+  "meaning": "spring water",
+  "english": [
+    {
+      "id": "clwm817t",
+      "word": "fountain",
+      "meaning": "natural spring",
+      "note": "Use this for naturally flowing spring water rather than an artificial ornamental fountain."
+    },
+    {
+      "id": "drguxwdx",
+      "word": "spring",
+      "meaning": "natural water source",
+      "note": "Use this for water that naturally flows or sprays from the ground."
+    }
+  ],
   "traditional": "泉水",
   "jyutping": "cyun4 seoi2",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "spring water",
-      "english": [
-        {
-          "id": "clwm817t",
-          "word": "fountain",
-          "meaning": "natural spring",
-          "note": "Use this for naturally flowing spring water rather than an artificial ornamental fountain."
-        },
-        {
-          "id": "drguxwdx",
-          "word": "spring",
-          "meaning": "natural water source",
-          "note": "Use this for water that naturally flows or sprays from the ground."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The fountain here is natural spring water flowing out of the mountain.",
-          "traditional": "呢度嘅泉水係由山入面流出嚟嘅。",
-          "jyutping": "nei1 dou6 ge3 cyun4 seoi2 hai6 jau4 saan1 jap6 min6 lau4 ceot1 lei4 ge3"
-        },
-        {
-          "english": "Spring water flows out from the foot of the mountain.",
-          "traditional": "泉水從山腳流出嚟。",
-          "jyutping": "cyun4 seoi2 cung4 saan1 goek3 lau4 ceot1 lai4"
-        }
-      ]
+      "english": "The fountain here is natural spring water flowing out of the mountain.",
+      "traditional": "呢度嘅泉水係由山入面流出嚟嘅。",
+      "jyutping": "nei1 dou6 ge3 cyun4 seoi2 hai6 jau4 saan1 jap6 min6 lau4 ceot1 lei4 ge3"
+    },
+    {
+      "english": "Spring water flows out from the foot of the mountain.",
+      "traditional": "泉水從山腳流出嚟。",
+      "jyutping": "cyun4 seoi2 cung4 saan1 goek3 lau4 ceot1 lai4"
     }
   ]
 }

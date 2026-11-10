@@ -1,28 +1,24 @@
 {
   "id": "pr9fvbej",
   "partOfSpeech": "adv",
+  "meaning": "apparently / according to report",
+  "english": [
+    {
+      "id": "x1o7wev4",
+      "word": "credibly",
+      "meaning": "apparently / according to report",
+      "register": "colloquial",
+      "note": "Use this when reporting something said by a source that the speaker considers reliable, rather than describing how an action is performed."
+    }
+  ],
   "traditional": "聽可靠消息講",
   "jyutping": "teng1 ho2 kaau3 siu1 sik1 gong2",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "apparently / according to report",
-      "english": [
-        {
-          "id": "x1o7wev4",
-          "word": "credibly",
-          "meaning": "apparently / according to report",
-          "register": "colloquial",
-          "note": "Use this when reporting something said by a source that the speaker considers reliable, rather than describing how an action is performed."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "Credibly, the company will move next month.",
-          "traditional": "聽可靠消息講，間公司下個月會搬。",
-          "jyutping": "teng1 ho2 kaau3 siu1 sik1 gong2 gaan1 gung1 si1 haa6 go3 jyut6 wui5 bun1"
-        }
-      ]
+      "english": "Credibly, the company will move next month.",
+      "traditional": "聽可靠消息講，間公司下個月會搬。",
+      "jyutping": "teng1 ho2 kaau3 siu1 sik1 gong2 gaan1 gung1 si1 haa6 go3 jyut6 wui5 bun1"
     }
   ]
 }

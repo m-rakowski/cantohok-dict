@@ -1,28 +1,24 @@
 {
   "id": "5cd016kf",
   "partOfSpeech": "noun",
+  "meaning": "organic compounds",
+  "english": [
+    {
+      "id": "jtpbik6v",
+      "word": "alcohol",
+      "meaning": "organic compounds",
+      "register": "written",
+      "note": "Use this written technical term for the chemical class of organic compounds containing a hydroxyl group."
+    }
+  ],
   "traditional": "醇",
   "jyutping": "seon4",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "organic compounds",
-      "english": [
-        {
-          "id": "jtpbik6v",
-          "word": "alcohol",
-          "meaning": "organic compounds",
-          "register": "written",
-          "note": "Use this written technical term for the chemical class of organic compounds containing a hydroxyl group."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "Ethanol is a common alcohol compound.",
-          "traditional": "乙醇係一種常見嘅醇類化合物。",
-          "jyutping": "jyut6 seon4 hai6 jat1 zung2 soeng4 gin3 ge3 seon4 leoi6 faa3 hap6 mat6"
-        }
-      ]
+      "english": "Ethanol is a common alcohol compound.",
+      "traditional": "乙醇係一種常見嘅醇類化合物。",
+      "jyutping": "jyut6 seon4 hai6 jat1 zung2 soeng4 gin3 ge3 seon4 leoi6 faa3 hap6 mat6"
     }
   ]
 }

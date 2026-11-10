@@ -1,28 +1,24 @@
 {
   "id": "bqi3n32v",
   "partOfSpeech": "verb",
+  "meaning": "clean after toilet use",
+  "english": [
+    {
+      "id": "szr8bay0",
+      "word": "wipe",
+      "meaning": "clean after toilet use",
+      "register": "colloquial",
+      "note": "Use this specifically for cleaning yourself after using the toilet."
+    }
+  ],
   "traditional": "抹屁股",
   "jyutping": "mut3 pei3 gu2",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "clean after toilet use",
-      "english": [
-        {
-          "id": "szr8bay0",
-          "word": "wipe",
-          "meaning": "clean after toilet use",
-          "register": "colloquial",
-          "note": "Use this specifically for cleaning yourself after using the toilet."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "After using the toilet, you have to wipe your own butt.",
-          "traditional": "去完廁所要自己抹屁股。",
-          "jyutping": "heoi3 jyun4 ci3 so2 jiu3 zi6 gei2 mut3 pei3 gu2"
-        }
-      ]
+      "english": "After using the toilet, you have to wipe your own butt.",
+      "traditional": "去完廁所要自己抹屁股。",
+      "jyutping": "heoi3 jyun4 ci3 so2 jiu3 zi6 gei2 mut3 pei3 gu2"
     }
   ]
 }

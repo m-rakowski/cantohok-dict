@@ -1,28 +1,24 @@
 {
   "id": "fykuub4v",
   "partOfSpeech": "noun",
+  "meaning": "unsteady flash of light",
+  "english": [
+    {
+      "id": "0x158wep",
+      "word": "flicker",
+      "meaning": "unsteady flash of light",
+      "register": "written",
+      "note": "Use this for the unsteady shimmering of a light, especially in a more formal description such as a candle's flicker."
+    }
+  ],
   "traditional": "閃爍",
   "jyutping": "sim2 soek3",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "unsteady flash of light",
-      "english": [
-        {
-          "id": "0x158wep",
-          "word": "flicker",
-          "meaning": "unsteady flash of light",
-          "register": "written",
-          "note": "Use this for the unsteady shimmering of a light, especially in a more formal description such as a candle's flicker."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "The candlelight's flicker is unsteady in the wind.",
-          "traditional": "燭光喺風中閃爍不定。",
-          "jyutping": "zuk1 gwong1 hai2 fung1 zung1 sim2 soek3 bat1 ding6"
-        }
-      ]
+      "english": "The candlelight's flicker is unsteady in the wind.",
+      "traditional": "燭光喺風中閃爍不定。",
+      "jyutping": "zuk1 gwong1 hai2 fung1 zung1 sim2 soek3 bat1 ding6"
     }
   ]
 }

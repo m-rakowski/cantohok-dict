@@ -1,64 +1,60 @@
 {
   "id": "rgxvyj0j",
   "partOfSpeech": "adj",
+  "meaning": "crazy, mad",
+  "english": [
+    {
+      "id": "xe706b0g",
+      "word": "insane",
+      "meaning": "mentally ill; mad",
+      "register": "colloquial",
+      "note": "This is the all-purpose casual choice for a person or idea described as crazy, though it is not normally praise."
+    },
+    {
+      "id": "17sf2j1p",
+      "word": "daft",
+      "meaning": "crazy, insane",
+      "register": "colloquial",
+      "note": "Use this for someone who seems crazy, insane, or mentally unbalanced rather than merely foolish."
+    },
+    {
+      "id": "75cp47a7",
+      "word": "ridiculous",
+      "meaning": "foolish, absurd",
+      "register": "colloquial",
+      "note": "Use this colloquial choice for something absurd or crazy-sounding, especially when reacting strongly to it."
+    },
+    {
+      "id": "o2ipcd2c",
+      "word": "weird",
+      "meaning": "strange person",
+      "register": "colloquial",
+      "note": "Use this colloquially for a person or their behaviour when it seems crazy or way out of line, not for a merely unusual situation."
+    }
+  ],
   "traditional": "黐線",
   "jyutping": "ci1 sin3",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "crazy, mad",
-      "english": [
-        {
-          "id": "xe706b0g",
-          "word": "insane",
-          "meaning": "mentally ill; mad",
-          "register": "colloquial",
-          "note": "This is the all-purpose casual choice for a person or idea described as crazy, though it is not normally praise."
-        },
-        {
-          "id": "17sf2j1p",
-          "word": "daft",
-          "meaning": "crazy, insane",
-          "register": "colloquial",
-          "note": "Use this for someone who seems crazy, insane, or mentally unbalanced rather than merely foolish."
-        },
-        {
-          "id": "75cp47a7",
-          "word": "ridiculous",
-          "meaning": "foolish, absurd",
-          "register": "colloquial",
-          "note": "Use this colloquial choice for something absurd or crazy-sounding, especially when reacting strongly to it."
-        },
-        {
-          "id": "o2ipcd2c",
-          "word": "weird",
-          "meaning": "strange person",
-          "register": "colloquial",
-          "note": "Use this colloquially for a person or their behaviour when it seems crazy or way out of line, not for a merely unusual situation."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "You’re insane if you think you can build a house in a week.",
-          "traditional": "你話要一個禮拜內起好間屋，真係黐線喎。",
-          "jyutping": "nei5 waa6 jiu3 jat1 go3 lai5 baai3 noi6 hei2 hou2 gaan1 uk1 zan1 hai6 ci1 sin3 wo3"
-        },
-        {
-          "english": "You're daft—you're actually brave enough to go over there when it's so dangerous?",
-          "traditional": "你黐線㗎，咁危險都夠膽行過去？",
-          "jyutping": "nei5 ci1 sin3 gaa3 gam3 ngai4 him2 dou1 gau3 daam2 haang4 gwo3 heoi3"
-        },
-        {
-          "english": "You say you can buy a flat for one dollar? That's ridiculous.",
-          "traditional": "你話一蚊買到樓？黐線㗎？",
-          "jyutping": "nei5 waa6 jat1 man1 maai5 dou2 lau4 ci1 sin3 gaa3"
-        },
-        {
-          "english": "You’re really weird for yelling at people like that.",
-          "traditional": "你咁樣鬧人，真係黐線㗎。",
-          "jyutping": "nei5 gam2 joeng2 naau6 jan4 zan1 hai6 ci1 sin3 gaa3"
-        }
-      ]
+      "english": "You’re insane if you think you can build a house in a week.",
+      "traditional": "你話要一個禮拜內起好間屋，真係黐線喎。",
+      "jyutping": "nei5 waa6 jiu3 jat1 go3 lai5 baai3 noi6 hei2 hou2 gaan1 uk1 zan1 hai6 ci1 sin3 wo3"
+    },
+    {
+      "english": "You're daft—you're actually brave enough to go over there when it's so dangerous?",
+      "traditional": "你黐線㗎，咁危險都夠膽行過去？",
+      "jyutping": "nei5 ci1 sin3 gaa3 gam3 ngai4 him2 dou1 gau3 daam2 haang4 gwo3 heoi3"
+    },
+    {
+      "english": "You say you can buy a flat for one dollar? That's ridiculous.",
+      "traditional": "你話一蚊買到樓？黐線㗎？",
+      "jyutping": "nei5 waa6 jat1 man1 maai5 dou2 lau4 ci1 sin3 gaa3"
+    },
+    {
+      "english": "You’re really weird for yelling at people like that.",
+      "traditional": "你咁樣鬧人，真係黐線㗎。",
+      "jyutping": "nei5 gam2 joeng2 naau6 jan4 zan1 hai6 ci1 sin3 gaa3"
     }
   ]
 }

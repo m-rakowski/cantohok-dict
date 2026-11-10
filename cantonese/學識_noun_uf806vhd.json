@@ -1,37 +1,33 @@
 {
   "id": "uf806vhd",
   "partOfSpeech": "noun",
+  "meaning": "knowledge a person has acquired",
+  "english": [
+    {
+      "id": "fwumxfo5",
+      "word": "learning",
+      "meaning": "knowledge, scholarship",
+      "note": "Use this for a person's accumulated knowledge or breadth of knowledge."
+    },
+    {
+      "id": "4yo3tyud",
+      "word": "education",
+      "meaning": "learning / schooling background",
+      "note": "Use 學識 when you mean the knowledge and learning a person has acquired rather than their educational credentials."
+    }
+  ],
   "traditional": "學識",
   "jyutping": "hok6 sik1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "knowledge a person has acquired",
-      "english": [
-        {
-          "id": "fwumxfo5",
-          "word": "learning",
-          "meaning": "knowledge, scholarship",
-          "note": "Use this for a person's accumulated knowledge or breadth of knowledge."
-        },
-        {
-          "id": "4yo3tyud",
-          "word": "education",
-          "meaning": "learning / schooling background",
-          "note": "Use 學識 when you mean the knowledge and learning a person has acquired rather than their educational credentials."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Their learning is broad, and they read all kinds of books.",
-          "traditional": "佢學識好廣，乜書都睇。",
-          "jyutping": "keoi5 hok6 sik1 hou2 gwong2 mat1 syu1 dou1 tai2"
-        },
-        {
-          "english": "They have a broad education and can talk about anything.",
-          "traditional": "佢學識好廣，乜嘢都識講。",
-          "jyutping": "keoi5 hok6 sik1 hou2 gwong2 mat1 je5 dou1 sik1 gong2"
-        }
-      ]
+      "english": "Their learning is broad, and they read all kinds of books.",
+      "traditional": "佢學識好廣，乜書都睇。",
+      "jyutping": "keoi5 hok6 sik1 hou2 gwong2 mat1 syu1 dou1 tai2"
+    },
+    {
+      "english": "They have a broad education and can talk about anything.",
+      "traditional": "佢學識好廣，乜嘢都識講。",
+      "jyutping": "keoi5 hok6 sik1 hou2 gwong2 mat1 je5 dou1 sik1 gong2"
     }
   ]
 }

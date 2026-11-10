@@ -1,28 +1,24 @@
 {
   "id": "ezyrjceo",
   "partOfSpeech": "adj",
+  "meaning": "obtainable",
+  "english": [
+    {
+      "id": "ae8y2jh0",
+      "word": "available",
+      "meaning": "obtainable",
+      "register": "colloquial",
+      "note": "Use this when an item is available to buy, rather than merely usable or currently in stock."
+    }
+  ],
   "traditional": "有得買",
   "jyutping": "jau5 dak1 maai5",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "obtainable",
-      "english": [
-        {
-          "id": "ae8y2jh0",
-          "word": "available",
-          "meaning": "obtainable",
-          "register": "colloquial",
-          "note": "Use this when an item is available to buy, rather than merely usable or currently in stock."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "This phone is available to buy now.",
-          "traditional": "呢款手機而家有得買。",
-          "jyutping": "ni1 fun2 sau2 gei1 ji4 gaa1 jau5 dak1 maai5"
-        }
-      ]
+      "english": "This phone is available to buy now.",
+      "traditional": "呢款手機而家有得買。",
+      "jyutping": "ni1 fun2 sau2 gei1 ji4 gaa1 jau5 dak1 maai5"
     }
   ]
 }

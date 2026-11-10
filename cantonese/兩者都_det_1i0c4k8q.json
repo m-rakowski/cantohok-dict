@@ -1,28 +1,24 @@
 {
   "id": "1i0c4k8q",
   "partOfSpeech": "det",
+  "meaning": "the two together",
+  "english": [
+    {
+      "id": "j2zxprpy",
+      "word": "both",
+      "meaning": "the two together",
+      "register": "formal",
+      "note": "Use this mainly in formal or written contexts for two previously mentioned alternatives or entities."
+    }
+  ],
   "traditional": "兩者都",
   "jyutping": "loeng5 ze2 dou1",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "the two together",
-      "english": [
-        {
-          "id": "j2zxprpy",
-          "word": "both",
-          "meaning": "the two together",
-          "register": "formal",
-          "note": "Use this mainly in formal or written contexts for two previously mentioned alternatives or entities."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "Both have their own advantages.",
-          "traditional": "兩者都各有優點。",
-          "jyutping": "loeng5 ze2 dou1 gok3 jau5 jau1 dim2"
-        }
-      ]
+      "english": "Both have their own advantages.",
+      "traditional": "兩者都各有優點。",
+      "jyutping": "loeng5 ze2 dou1 gok3 jau5 jau1 dim2"
     }
   ]
 }

@@ -1,28 +1,24 @@
 {
   "id": "9oque5cp",
   "partOfSpeech": "pron",
+  "meaning": "anyone/anything",
+  "english": [
+    {
+      "id": "g8wi9678",
+      "word": "any",
+      "meaning": "anyone/anything",
+      "register": "colloquial",
+      "note": "Use this casual pattern for any person when the sentence says that whoever it is can or will do something."
+    }
+  ],
   "traditional": "邊個都 + V",
   "jyutping": "bin1 go3 dou1 V",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "anyone/anything",
-      "english": [
-        {
-          "id": "g8wi9678",
-          "word": "any",
-          "meaning": "anyone/anything",
-          "register": "colloquial",
-          "note": "Use this casual pattern for any person when the sentence says that whoever it is can or will do something."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "Any person can come in.",
-          "traditional": "邊個都可以入嚟。",
-          "jyutping": "bin1 go3 dou1 ho2 ji5 jap6 lei4"
-        }
-      ]
+      "english": "Any person can come in.",
+      "traditional": "邊個都可以入嚟。",
+      "jyutping": "bin1 go3 dou1 ho2 ji5 jap6 lei4"
     }
   ]
 }

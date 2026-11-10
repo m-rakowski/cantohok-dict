@@ -1,37 +1,33 @@
 {
   "id": "b4ukyzzo",
   "partOfSpeech": "noun",
+  "meaning": "ATM",
+  "english": [
+    {
+      "id": "q9xhhck3",
+      "word": "cashpoint",
+      "meaning": "ATM",
+      "note": "This is the all-purpose everyday term for an ATM."
+    },
+    {
+      "id": "nzrb1oq5",
+      "word": "teller",
+      "meaning": "ATM",
+      "note": "This is the all-purpose Hong Kong Cantonese term for an ATM."
+    }
+  ],
   "traditional": "提款機",
   "jyutping": "tai4 fun2 gei1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "ATM",
-      "english": [
-        {
-          "id": "q9xhhck3",
-          "word": "cashpoint",
-          "meaning": "ATM",
-          "note": "This is the all-purpose everyday term for an ATM."
-        },
-        {
-          "id": "nzrb1oq5",
-          "word": "teller",
-          "meaning": "ATM",
-          "note": "This is the all-purpose Hong Kong Cantonese term for an ATM."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I’ll go to the cashpoint to withdraw money first.",
-          "traditional": "我去提款機撳錢先。",
-          "jyutping": "ngo5 heoi3 tai4 fun2 gei1 gam6 cin2 sin1"
-        },
-        {
-          "english": "I used the automated teller to withdraw money.",
-          "traditional": "我去提款機攞錢。",
-          "jyutping": "ngo5 heoi3 tai4 fun2 gei1 lo2 cin2"
-        }
-      ]
+      "english": "I’ll go to the cashpoint to withdraw money first.",
+      "traditional": "我去提款機撳錢先。",
+      "jyutping": "ngo5 heoi3 tai4 fun2 gei1 gam6 cin2 sin1"
+    },
+    {
+      "english": "I used the automated teller to withdraw money.",
+      "traditional": "我去提款機攞錢。",
+      "jyutping": "ngo5 heoi3 tai4 fun2 gei1 lo2 cin2"
     }
   ]
 }

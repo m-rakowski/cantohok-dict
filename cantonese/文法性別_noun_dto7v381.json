@@ -1,28 +1,24 @@
 {
   "id": "dto7v381",
   "partOfSpeech": "noun",
+  "meaning": "grammatical gender",
+  "english": [
+    {
+      "id": "2x57pna1",
+      "word": "gender",
+      "meaning": "grammatical gender",
+      "register": "written",
+      "note": "Use this in linguistics when gender is a grammatical category of nouns or pronouns."
+    }
+  ],
   "traditional": "文法性別",
   "jyutping": "man4 faat3 sing3 bit6",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "grammatical gender",
-      "english": [
-        {
-          "id": "2x57pna1",
-          "word": "gender",
-          "meaning": "grammatical gender",
-          "register": "written",
-          "note": "Use this in linguistics when gender is a grammatical category of nouns or pronouns."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "This language has no grammatical gender distinction.",
-          "traditional": "呢種語言冇文法性別之分。",
-          "jyutping": "ni1 zung2 jyu5 jin4 mou5 man4 faat3 sing3 bit6 zi1 fan1"
-        }
-      ]
+      "english": "This language has no grammatical gender distinction.",
+      "traditional": "呢種語言冇文法性別之分。",
+      "jyutping": "ni1 zung2 jyu5 jin4 mou5 man4 faat3 sing3 bit6 zi1 fan1"
     }
   ]
 }

@@ -1,28 +1,24 @@
 {
   "id": "39jmhzka",
   "partOfSpeech": "noun",
+  "meaning": "train (rail vehicle)",
+  "english": [
+    {
+      "id": "ma3cv1dv",
+      "word": "train",
+      "meaning": "train (rail vehicle)",
+      "register": "formal",
+      "note": "Use this formal term for a coupled carriage set or for a railway train in official contexts."
+    }
+  ],
   "traditional": "列車",
   "jyutping": "lit6 ce1",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "train (rail vehicle)",
-      "english": [
-        {
-          "id": "ma3cv1dv",
-          "word": "train",
-          "meaning": "train (rail vehicle)",
-          "register": "formal",
-          "note": "Use this formal term for a coupled carriage set or for a railway train in official contexts."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "Please note that the train is about to depart.",
-          "traditional": "請留意，列車即將開出。",
-          "jyutping": "cing2 lau4 ji3 lit6 ce1 zik1 zoeng1 hoi1 ceot1"
-        }
-      ]
+      "english": "Please note that the train is about to depart.",
+      "traditional": "請留意，列車即將開出。",
+      "jyutping": "cing2 lau4 ji3 lit6 ce1 zik1 zoeng1 hoi1 ceot1"
     }
   ]
 }

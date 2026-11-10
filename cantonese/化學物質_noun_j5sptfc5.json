@@ -1,28 +1,24 @@
 {
   "id": "j5sptfc5",
   "partOfSpeech": "noun",
+  "meaning": "chemical substance",
+  "english": [
+    {
+      "id": "x0t4ks61",
+      "word": "chemical",
+      "meaning": "chemical substance",
+      "register": "formal",
+      "note": "Use this more precise term in technical or scientific contexts when referring to a substance itself rather than a commercial chemical product."
+    }
+  ],
   "traditional": "化學物質",
   "jyutping": "faa3 hok6 mat6 zat1",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "chemical substance",
-      "english": [
-        {
-          "id": "x0t4ks61",
-          "word": "chemical",
-          "meaning": "chemical substance",
-          "register": "formal",
-          "note": "Use this more precise term in technical or scientific contexts when referring to a substance itself rather than a commercial chemical product."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The lab must first verify the composition of this chemical.",
-          "traditional": "實驗室要先確認呢種化學物質嘅成分",
-          "jyutping": "sat6 jim6 sat1 jiu3 sin1 kok3 jan6 ni1 zung2 faa3 hok6 mat6 zat1 ge3 sing4 fan6"
-        }
-      ]
+      "english": "The lab must first verify the composition of this chemical.",
+      "traditional": "實驗室要先確認呢種化學物質嘅成分",
+      "jyutping": "sat6 jim6 sat1 jiu3 sin1 kok3 jan6 ni1 zung2 faa3 hok6 mat6 zat1 ge3 sing4 fan6"
     }
   ]
 }

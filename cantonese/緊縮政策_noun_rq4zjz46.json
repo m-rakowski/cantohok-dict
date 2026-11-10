@@ -1,28 +1,24 @@
 {
   "id": "rq4zjz46",
   "partOfSpeech": "noun",
+  "meaning": "government spending cuts",
+  "english": [
+    {
+      "id": "b3f3otiy",
+      "word": "austerity",
+      "meaning": "government spending cuts",
+      "register": "formal",
+      "note": "This is the standard economic and government-policy term for austerity involving spending cuts or tax increases."
+    }
+  ],
   "traditional": "緊縮政策",
   "jyutping": "gan2 suk1 zing3 caak3",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "government spending cuts",
-      "english": [
-        {
-          "id": "b3f3otiy",
-          "word": "austerity",
-          "meaning": "government spending cuts",
-          "register": "formal",
-          "note": "This is the standard economic and government-policy term for austerity involving spending cuts or tax increases."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The government introduced austerity, cutting spending and raising taxes.",
-          "traditional": "政府推出緊縮政策，削減開支之餘仲加稅。",
-          "jyutping": "zing3 fu2 teoi1 ceot1 gan2 suk1 zing3 caak3 soek3 gaam2 hoi1 zi1 zi1 jyu4 zung6 gaa1 seoi3"
-        }
-      ]
+      "english": "The government introduced austerity, cutting spending and raising taxes.",
+      "traditional": "政府推出緊縮政策，削減開支之餘仲加稅。",
+      "jyutping": "zing3 fu2 teoi1 ceot1 gan2 suk1 zing3 caak3 soek3 gaam2 hoi1 zi1 zi1 jyu4 zung6 gaa1 seoi3"
     }
   ]
 }

@@ -1,26 +1,22 @@
 {
   "id": "2s6qej0o",
   "partOfSpeech": "noun",
+  "meaning": "trial run",
+  "english": [
+    {
+      "id": "tlf1z3cj",
+      "word": "pilot",
+      "meaning": "trial run",
+      "note": "Use this for something conducted as a test or trial before wider implementation."
+    }
+  ],
   "traditional": "試驗",
   "jyutping": "si3 jim6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "trial run",
-      "english": [
-        {
-          "id": "tlf1z3cj",
-          "word": "pilot",
-          "meaning": "trial run",
-          "note": "Use this for something conducted as a test or trial before wider implementation."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This pilot project isn't finished yet; it still needs to be tested a few more times.",
-          "traditional": "呢個試驗計劃仲未完成，仲要再試多次。",
-          "jyutping": "ni1 go3 si3 jim6 gai3 waak6 zung6 mei6 jyun4 sing4 zung6 jiu3 zoi3 si3 do1 ci3"
-        }
-      ]
+      "english": "This pilot project isn't finished yet; it still needs to be tested a few more times.",
+      "traditional": "呢個試驗計劃仲未完成，仲要再試多次。",
+      "jyutping": "ni1 go3 si3 jim6 gai3 waak6 zung6 mei6 jyun4 sing4 zung6 jiu3 zoi3 si3 do1 ci3"
     }
   ]
 }

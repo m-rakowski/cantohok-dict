@@ -1,37 +1,33 @@
 {
   "id": "7tb7qhky",
   "partOfSpeech": "verb",
+  "meaning": "book in advance",
+  "english": [
+    {
+      "id": "385nt0sr",
+      "word": "reserve",
+      "meaning": "book in advance",
+      "note": "Use this as the all-purpose verb for booking something in advance, especially an appointment or service."
+    },
+    {
+      "id": "ierlsann",
+      "word": "schedule",
+      "meaning": "book / reserve time",
+      "note": "Use this when reserving an appointment, place, or time in advance rather than merely planning it."
+    }
+  ],
   "traditional": "預約",
   "jyutping": "jyu6 joek3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "book in advance",
-      "english": [
-        {
-          "id": "385nt0sr",
-          "word": "reserve",
-          "meaning": "book in advance",
-          "note": "Use this as the all-purpose verb for booking something in advance, especially an appointment or service."
-        },
-        {
-          "id": "ierlsann",
-          "word": "schedule",
-          "meaning": "book / reserve time",
-          "note": "Use this when reserving an appointment, place, or time in advance rather than merely planning it."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I want to reserve an appointment to see the dentist next week.",
-          "traditional": "我想預約下星期睇牙。",
-          "jyutping": "ngo5 soeng2 jyu6 joek3 haa6 sing1 kei4 tai2 ngaa4"
-        },
-        {
-          "english": "I want to schedule a dentist appointment for next week.",
-          "traditional": "我想預約下星期嘅牙醫。",
-          "jyutping": "ngo5 soeng2 jyu6 joek3 haa6 sing1 kei4 ge3 ngaa4 ji1"
-        }
-      ]
+      "english": "I want to reserve an appointment to see the dentist next week.",
+      "traditional": "我想預約下星期睇牙。",
+      "jyutping": "ngo5 soeng2 jyu6 joek3 haa6 sing1 kei4 tai2 ngaa4"
+    },
+    {
+      "english": "I want to schedule a dentist appointment for next week.",
+      "traditional": "我想預約下星期嘅牙醫。",
+      "jyutping": "ngo5 soeng2 jyu6 joek3 haa6 sing1 kei4 ge3 ngaa4 ji1"
     }
   ]
 }

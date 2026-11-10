@@ -1,37 +1,33 @@
 {
   "id": "hoql2j3b",
   "partOfSpeech": "noun",
+  "meaning": "trade jargon",
+  "english": [
+    {
+      "id": "85q7no5l",
+      "word": "slang",
+      "meaning": "jargon of a field",
+      "note": "Use this specifically for jargon used within a profession, trade, or specialist field."
+    },
+    {
+      "id": "6vkg94p0",
+      "word": "jargon",
+      "meaning": "group language/register",
+      "note": "Use this when the language marks membership in a particular group, rather than merely belonging to a technical field."
+    }
+  ],
   "traditional": "行話",
   "jyutping": "hong4 waa2",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "trade jargon",
-      "english": [
-        {
-          "id": "85q7no5l",
-          "word": "slang",
-          "meaning": "jargon of a field",
-          "note": "Use this specifically for jargon used within a profession, trade, or specialist field."
-        },
-        {
-          "id": "6vkg94p0",
-          "word": "jargon",
-          "meaning": "group language/register",
-          "note": "Use this when the language marks membership in a particular group, rather than merely belonging to a technical field."
-        }
-      ],
-      "examples": [
-        {
-          "english": "After working on construction sites for a while, you naturally understand a lot of trade slang.",
-          "traditional": "做地盤耐咗，就自然聽得明好多行話。",
-          "jyutping": "zou6 dei6 pun4 noi6 zo2 zau6 zi6 jin4 teng1 dak1 ming4 hou2 do1 hong4 waa2"
-        },
-        {
-          "english": "This is our industry's jargon, so customers may not understand it.",
-          "traditional": "呢啲係我哋行內嘅行話，客人未必聽得明。",
-          "jyutping": "ni1 di1 hai6 ngo5 dei6 hong6 noi6 ge3 hong4 waa2 haak3 jan4 mei6 bit1 ting1 dak1 ming4"
-        }
-      ]
+      "english": "After working on construction sites for a while, you naturally understand a lot of trade slang.",
+      "traditional": "做地盤耐咗，就自然聽得明好多行話。",
+      "jyutping": "zou6 dei6 pun4 noi6 zo2 zau6 zi6 jin4 teng1 dak1 ming4 hou2 do1 hong4 waa2"
+    },
+    {
+      "english": "This is our industry's jargon, so customers may not understand it.",
+      "traditional": "呢啲係我哋行內嘅行話，客人未必聽得明。",
+      "jyutping": "ni1 di1 hai6 ngo5 dei6 hong6 noi6 ge3 hong4 waa2 haak3 jan4 mei6 bit1 ting1 dak1 ming4"
     }
   ]
 }

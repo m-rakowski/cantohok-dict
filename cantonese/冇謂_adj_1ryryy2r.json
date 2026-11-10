@@ -1,38 +1,34 @@
 {
   "id": "1ryryy2r",
   "partOfSpeech": "adj",
+  "meaning": "pointless, not worth it",
+  "english": [
+    {
+      "id": "dx8vpfr3",
+      "word": "unnecessary",
+      "meaning": "not needed; not necessary",
+      "register": "colloquial",
+      "note": "Use 冇謂 for an unnecessary action, argument, or effort that is pointless or not worth doing."
+    },
+    {
+      "id": "by9zraj6",
+      "word": "dumb",
+      "meaning": "pointless; silly",
+      "note": "Use this for an idea, action, or situation that is pointless or not worth doing, rather than for a person who is stupid."
+    }
+  ],
   "traditional": "冇謂",
   "jyutping": "mou5 wai6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "pointless, not worth it",
-      "english": [
-        {
-          "id": "dx8vpfr3",
-          "word": "unnecessary",
-          "meaning": "not needed; not necessary",
-          "register": "colloquial",
-          "note": "Use 冇謂 for an unnecessary action, argument, or effort that is pointless or not worth doing."
-        },
-        {
-          "id": "by9zraj6",
-          "word": "dumb",
-          "meaning": "pointless; silly",
-          "note": "Use this for an idea, action, or situation that is pointless or not worth doing, rather than for a person who is stupid."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Arguing with them over this is really unnecessary.",
-          "traditional": "同佢拗呢啲嘢真係冇謂。",
-          "jyutping": "tung4 keoi5 aau2 ni1 di1 je5 zan1 hai6 mou5 wai6"
-        },
-        {
-          "english": "Arguing with someone over a little money is really dumb.",
-          "traditional": "為咗少少錢同人嘈交，真係冇謂。",
-          "jyutping": "wai6 zo2 siu2 siu2 cin2 tung4 jan4 cou4 gaau1 zan1 hai6 mou5 wai6"
-        }
-      ]
+      "english": "Arguing with them over this is really unnecessary.",
+      "traditional": "同佢拗呢啲嘢真係冇謂。",
+      "jyutping": "tung4 keoi5 aau2 ni1 di1 je5 zan1 hai6 mou5 wai6"
+    },
+    {
+      "english": "Arguing with someone over a little money is really dumb.",
+      "traditional": "為咗少少錢同人嘈交，真係冇謂。",
+      "jyutping": "wai6 zo2 siu2 siu2 cin2 tung4 jan4 cou4 gaau1 zan1 hai6 mou5 wai6"
     }
   ]
 }

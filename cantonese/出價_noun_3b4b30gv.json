@@ -1,48 +1,44 @@
 {
   "id": "3b4b30gv",
   "partOfSpeech": "noun",
+  "meaning": "bid, price offered",
+  "english": [
+    {
+      "id": "uqp9eec3",
+      "word": "bidding",
+      "meaning": "placing a bid",
+      "note": "Use this as the all-purpose noun for the act of making or submitting a bid."
+    },
+    {
+      "id": "171k0vhc",
+      "word": "offer",
+      "meaning": "proposal / offer",
+      "note": "Use this when the offer is specifically a price or amount proposed in a sale or negotiation."
+    },
+    {
+      "id": "b2spz9gy",
+      "word": "proposal",
+      "meaning": "business offer",
+      "note": "Use this for a business offer or bid, especially an amount offered in a transaction."
+    }
+  ],
   "traditional": "出價",
   "jyutping": "ceot1 gaa3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "bid, price offered",
-      "english": [
-        {
-          "id": "uqp9eec3",
-          "word": "bidding",
-          "meaning": "placing a bid",
-          "note": "Use this as the all-purpose noun for the act of making or submitting a bid."
-        },
-        {
-          "id": "171k0vhc",
-          "word": "offer",
-          "meaning": "proposal / offer",
-          "note": "Use this when the offer is specifically a price or amount proposed in a sale or negotiation."
-        },
-        {
-          "id": "b2spz9gy",
-          "word": "proposal",
-          "meaning": "business offer",
-          "note": "Use this for a business offer or bid, especially an amount offered in a transaction."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The buyers' bidding on the painting was very aggressive.",
-          "traditional": "幾個買家對幅畫嘅出價都好進取。",
-          "jyutping": "gei2 go3 maai5 gaa1 deoi3 fuk1 waa2 ge3 ceot1 gaa3 dou1 hou2 zeon3 ceoi2"
-        },
-        {
-          "english": "Your offer is too low.",
-          "traditional": "你個出價太低喇。",
-          "jyutping": "nei5 go3 ceot1 gaa3 taai3 dai1 laa3"
-        },
-        {
-          "english": "This company's proposal was higher than we expected.",
-          "traditional": "呢間公司嘅出價高過我哋預期。",
-          "jyutping": "ni1 gaan1 gung1 si1 ge3 ceot1 gaa3 gou1 gwo3 ngo5 dei6 jyu6 kei4"
-        }
-      ]
+      "english": "The buyers' bidding on the painting was very aggressive.",
+      "traditional": "幾個買家對幅畫嘅出價都好進取。",
+      "jyutping": "gei2 go3 maai5 gaa1 deoi3 fuk1 waa2 ge3 ceot1 gaa3 dou1 hou2 zeon3 ceoi2"
+    },
+    {
+      "english": "Your offer is too low.",
+      "traditional": "你個出價太低喇。",
+      "jyutping": "nei5 go3 ceot1 gaa3 taai3 dai1 laa3"
+    },
+    {
+      "english": "This company's proposal was higher than we expected.",
+      "traditional": "呢間公司嘅出價高過我哋預期。",
+      "jyutping": "ni1 gaan1 gung1 si1 ge3 ceot1 gaa3 gou1 gwo3 ngo5 dei6 jyu6 kei4"
     }
   ]
 }

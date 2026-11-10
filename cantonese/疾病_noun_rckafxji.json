@@ -1,28 +1,24 @@
 {
   "id": "rckafxji",
   "partOfSpeech": "noun",
+  "meaning": "physical illness",
+  "english": [
+    {
+      "id": "bn04zzzh",
+      "word": "disease",
+      "meaning": "physical illness",
+      "register": "formal, written",
+      "note": "Use 疾病 instead of 病 mainly in formal or written contexts when referring to a disease as a medical condition."
+    }
+  ],
   "traditional": "疾病",
   "jyutping": "zat6 beng6",
-  "boxes": [
+  "register": "formal, written",
+  "examples": [
     {
-      "meaning": "physical illness",
-      "english": [
-        {
-          "id": "bn04zzzh",
-          "word": "disease",
-          "meaning": "physical illness",
-          "register": "formal, written",
-          "note": "Use 疾病 instead of 病 mainly in formal or written contexts when referring to a disease as a medical condition."
-        }
-      ],
-      "register": "formal, written",
-      "examples": [
-        {
-          "english": "Preventing disease is more important than treating disease.",
-          "traditional": "預防疾病比治療疾病重要。",
-          "jyutping": "jyu6 fong4 zat6 beng6 bei2 zi6 liu4 zat6 beng6 zung6 jiu3"
-        }
-      ]
+      "english": "Preventing disease is more important than treating disease.",
+      "traditional": "預防疾病比治療疾病重要。",
+      "jyutping": "jyu6 fong4 zat6 beng6 bei2 zi6 liu4 zat6 beng6 zung6 jiu3"
     }
   ]
 }

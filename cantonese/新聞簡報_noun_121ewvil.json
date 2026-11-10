@@ -1,28 +1,24 @@
 {
   "id": "121ewvil",
   "partOfSpeech": "noun",
+  "meaning": "short news report",
+  "english": [
+    {
+      "id": "g95x8ker",
+      "word": "brief",
+      "meaning": "short news report",
+      "register": "formal",
+      "note": "Use this for a short news report or news item, especially in a media context."
+    }
+  ],
   "traditional": "新聞簡報",
   "jyutping": "san1 man4 gaan2 bou3",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "short news report",
-      "english": [
-        {
-          "id": "g95x8ker",
-          "word": "brief",
-          "meaning": "short news report",
-          "register": "formal",
-          "note": "Use this for a short news report or news item, especially in a media context."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The TV station will broadcast a brief news report this afternoon.",
-          "traditional": "電視台下午會播出一節新聞簡報。",
-          "jyutping": "din6 si6 toi4 haa6 ng5 wui5 bo3 ceot1 jat1 zit3 san1 man4 gaan2 bou3"
-        }
-      ]
+      "english": "The TV station will broadcast a brief news report this afternoon.",
+      "traditional": "電視台下午會播出一節新聞簡報。",
+      "jyutping": "din6 si6 toi4 haa6 ng5 wui5 bo3 ceot1 jat1 zit3 san1 man4 gaan2 bou3"
     }
   ]
 }

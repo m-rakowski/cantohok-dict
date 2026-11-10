@@ -1,28 +1,24 @@
 {
   "id": "x6wkwj9c",
   "partOfSpeech": "noun",
+  "meaning": "cylindrical machine part",
+  "english": [
+    {
+      "id": "3ayq3zzs",
+      "word": "drum",
+      "meaning": "cylindrical machine part",
+      "register": "formal",
+      "note": "Use this specifically for the photosensitive drum unit inside a printer."
+    }
+  ],
   "traditional": "感光鼓",
   "jyutping": "gam2 gwong1 gu2",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "cylindrical machine part",
-      "english": [
-        {
-          "id": "3ayq3zzs",
-          "word": "drum",
-          "meaning": "cylindrical machine part",
-          "register": "formal",
-          "note": "Use this specifically for the photosensitive drum unit inside a printer."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The printer's drum needs to be replaced.",
-          "traditional": "打印機內嘅感光鼓需要更換。",
-          "jyutping": "daa2 jan3 gei1 noi6 ge3 gam2 gwong1 gu2 seoi1 jiu3 gang1 wun6"
-        }
-      ]
+      "english": "The printer's drum needs to be replaced.",
+      "traditional": "打印機內嘅感光鼓需要更換。",
+      "jyutping": "daa2 jan3 gei1 noi6 ge3 gam2 gwong1 gu2 seoi1 jiu3 gang1 wun6"
     }
   ]
 }

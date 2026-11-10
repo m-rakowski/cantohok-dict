@@ -1,26 +1,22 @@
 {
   "id": "zhito9co",
   "partOfSpeech": "noun",
+  "meaning": "music for one performer",
+  "english": [
+    {
+      "id": "fhaw5dep",
+      "word": "solo",
+      "meaning": "music for one performer",
+      "note": "Use this when the one performer is singing rather than playing an instrument."
+    }
+  ],
   "traditional": "獨唱",
   "jyutping": "duk6 coeng3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "music for one performer",
-      "english": [
-        {
-          "id": "fhaw5dep",
-          "word": "solo",
-          "meaning": "music for one performer",
-          "note": "Use this when the one performer is singing rather than playing an instrument."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The finale was her solo.",
-          "traditional": "壓軸係佢嘅獨唱。",
-          "jyutping": "aat3 zuk6 hai6 keoi5 ge3 duk6 coeng3"
-        }
-      ]
+      "english": "The finale was her solo.",
+      "traditional": "壓軸係佢嘅獨唱。",
+      "jyutping": "aat3 zuk6 hai6 keoi5 ge3 duk6 coeng3"
     }
   ]
 }

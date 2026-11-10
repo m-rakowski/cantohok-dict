@@ -1,26 +1,22 @@
 {
   "id": "64xwnpzw",
   "partOfSpeech": "noun",
+  "meaning": "shoreline",
+  "english": [
+    {
+      "id": "5t138avu",
+      "word": "coast",
+      "meaning": "shoreline",
+      "note": "Use this shorter form when the context clearly identifies the shore as a sea coast rather than a riverbank or lakeshore."
+    }
+  ],
   "traditional": "岸",
   "jyutping": "ngon6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "shoreline",
-      "english": [
-        {
-          "id": "5t138avu",
-          "word": "coast",
-          "meaning": "shoreline",
-          "note": "Use this shorter form when the context clearly identifies the shore as a sea coast rather than a riverbank or lakeshore."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The coast of this island is beautiful.",
-          "traditional": "呢個海島嘅岸好靚。",
-          "jyutping": "ni1 go3 hoi2 dou2 ge3 ngon6 hou2 leng3"
-        }
-      ]
+      "english": "The coast of this island is beautiful.",
+      "traditional": "呢個海島嘅岸好靚。",
+      "jyutping": "ni1 go3 hoi2 dou2 ge3 ngon6 hou2 leng3"
     }
   ]
 }

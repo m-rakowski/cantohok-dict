@@ -1,49 +1,45 @@
 {
   "id": "42nitvbb",
   "partOfSpeech": "adj",
+  "meaning": "annoyed, frustrated",
+  "english": [
+    {
+      "id": "xnntqrn7",
+      "word": "frustrated",
+      "meaning": "angry/discouraged by inability",
+      "note": "This is the all-purpose casual choice when frustration comes with irritation or anger."
+    },
+    {
+      "id": "5jq6mtvj",
+      "word": "provocative",
+      "meaning": "exasperating; irritating",
+      "note": "This is the all-purpose choice for something that makes people frustrated or fed up."
+    },
+    {
+      "id": "khk17k0w",
+      "word": "annoyed",
+      "meaning": "troubled; irritated",
+      "register": "colloquial",
+      "note": "Use this for exasperation caused by a frustrating or repeatedly irritating situation."
+    }
+  ],
   "traditional": "激氣",
   "jyutping": "gik1 hei3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "annoyed, frustrated",
-      "english": [
-        {
-          "id": "xnntqrn7",
-          "word": "frustrated",
-          "meaning": "angry/discouraged by inability",
-          "note": "This is the all-purpose casual choice when frustration comes with irritation or anger."
-        },
-        {
-          "id": "5jq6mtvj",
-          "word": "provocative",
-          "meaning": "exasperating; irritating",
-          "note": "This is the all-purpose choice for something that makes people frustrated or fed up."
-        },
-        {
-          "id": "khk17k0w",
-          "word": "annoyed",
-          "meaning": "troubled; irritated",
-          "register": "colloquial",
-          "note": "Use this for exasperation caused by a frustrating or repeatedly irritating situation."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I’m really frustrated; the computer froze again.",
-          "traditional": "我真係激氣，部電腦又死機喇。",
-          "jyutping": "ngo5 zan1 hai6 gik1 hei3 bou6 din6 nou5 jau6 sei2 gei1 laa3"
-        },
-        {
-          "english": "They are late to every meeting, which is really provocative.",
-          "traditional": "佢次次開會都遲到，真係激氣。",
-          "jyutping": "keoi5 ci3 ci3 hoi1 wui2 dou1 ci4 dou3 zan1 hai6 gik1 hei3"
-        },
-        {
-          "english": "The program keeps crashing, which has really annoyed me.",
-          "traditional": "個程式成日死機，搞到我真係激氣。",
-          "jyutping": "go3 cing4 sik1 seng4 jat6 sei2 gei1 gaau2 dou3 ngo5 zan1 hai6 gik1 hei3"
-        }
-      ]
+      "english": "I’m really frustrated; the computer froze again.",
+      "traditional": "我真係激氣，部電腦又死機喇。",
+      "jyutping": "ngo5 zan1 hai6 gik1 hei3 bou6 din6 nou5 jau6 sei2 gei1 laa3"
+    },
+    {
+      "english": "They are late to every meeting, which is really provocative.",
+      "traditional": "佢次次開會都遲到，真係激氣。",
+      "jyutping": "keoi5 ci3 ci3 hoi1 wui2 dou1 ci4 dou3 zan1 hai6 gik1 hei3"
+    },
+    {
+      "english": "The program keeps crashing, which has really annoyed me.",
+      "traditional": "個程式成日死機，搞到我真係激氣。",
+      "jyutping": "go3 cing4 sik1 seng4 jat6 sei2 gei1 gaau2 dou3 ngo5 zan1 hai6 gik1 hei3"
     }
   ]
 }

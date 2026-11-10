@@ -1,37 +1,33 @@
 {
   "id": "j2sys266",
   "partOfSpeech": "noun",
+  "meaning": "skylark (bird)",
+  "english": [
+    {
+      "id": "0yzpha5c",
+      "word": "lark",
+      "meaning": "small singing bird",
+      "note": "Use 雲雀 as the ordinary Cantonese name for the small singing bird, rather than for the other meanings."
+    },
+    {
+      "id": "du3zxri8",
+      "word": "skylark",
+      "meaning": "bird species",
+      "note": "This is the all-purpose Cantonese name for the skylark species."
+    }
+  ],
   "traditional": "雲雀",
   "jyutping": "wan4 zoek3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "skylark (bird)",
-      "english": [
-        {
-          "id": "0yzpha5c",
-          "word": "lark",
-          "meaning": "small singing bird",
-          "note": "Use 雲雀 as the ordinary Cantonese name for the small singing bird, rather than for the other meanings."
-        },
-        {
-          "id": "du3zxri8",
-          "word": "skylark",
-          "meaning": "bird species",
-          "note": "This is the all-purpose Cantonese name for the skylark species."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The lark singing outside the window really cheers me up in the morning.",
-          "traditional": "雲雀喺窗外唱歌，朝早聽到好精神。",
-          "jyutping": "wan4 zoek3 hai2 coeng1 ngoi6 coeng3 go1 ziu1 zou2 teng1 dou3 hou2 zing1 san4"
-        },
-        {
-          "english": "When we went to the countryside, we saw a skylark singing as it flew.",
-          "traditional": "雲雀",
-          "jyutping": "wan4 zoek3"
-        }
-      ]
+      "english": "The lark singing outside the window really cheers me up in the morning.",
+      "traditional": "雲雀喺窗外唱歌，朝早聽到好精神。",
+      "jyutping": "wan4 zoek3 hai2 coeng1 ngoi6 coeng3 go1 ziu1 zou2 teng1 dou3 hou2 zing1 san4"
+    },
+    {
+      "english": "When we went to the countryside, we saw a skylark singing as it flew.",
+      "traditional": "雲雀",
+      "jyutping": "wan4 zoek3"
     }
   ]
 }

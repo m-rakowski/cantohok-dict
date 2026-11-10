@@ -1,28 +1,24 @@
 {
   "id": "kmuz2o8x",
   "partOfSpeech": "adj",
+  "meaning": "looking backward",
+  "english": [
+    {
+      "id": "uvgrlcvh",
+      "word": "retrospective",
+      "meaning": "looking backward",
+      "register": "colloquial",
+      "note": "Use this instead of 回顧性 when “looking backwards” is literal, such as a person or animal looking behind itself."
+    }
+  ],
   "traditional": "向後望嘅 N",
   "jyutping": "hoeng3 hau6 mong6 ge3 N",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "looking backward",
-      "english": [
-        {
-          "id": "uvgrlcvh",
-          "word": "retrospective",
-          "meaning": "looking backward",
-          "register": "colloquial",
-          "note": "Use this instead of 回顧性 when “looking backwards” is literal, such as a person or animal looking behind itself."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "The dog by the door gives a retrospective glance as it walks.",
-          "traditional": "門口嗰隻向後望嘅狗一路行，一路望返轉頭。",
-          "jyutping": "mun4 hau2 go2 zek3 hoeng3 hau6 mong6 ge3 gau2 jat1 lou6 haang4 jat1 lou6 mong6 faan1 zyun2 tau4"
-        }
-      ]
+      "english": "The dog by the door gives a retrospective glance as it walks.",
+      "traditional": "門口嗰隻向後望嘅狗一路行，一路望返轉頭。",
+      "jyutping": "mun4 hau2 go2 zek3 hoeng3 hau6 mong6 ge3 gau2 jat1 lou6 haang4 jat1 lou6 mong6 faan1 zyun2 tau4"
     }
   ]
 }

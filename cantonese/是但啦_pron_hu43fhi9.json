@@ -1,28 +1,24 @@
 {
   "id": "hu43fhi9",
   "partOfSpeech": "pron",
+  "meaning": "anything; I don't care",
+  "english": [
+    {
+      "id": "az6s20tn",
+      "word": "whatever",
+      "meaning": "anything; I don't care",
+      "register": "colloquial",
+      "note": "Use this when “whatever” means that the speaker does not care which option is chosen."
+    }
+  ],
   "traditional": "是但啦",
   "jyutping": "si6 daan6 laa1",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "anything; I don't care",
-      "english": [
-        {
-          "id": "az6s20tn",
-          "word": "whatever",
-          "meaning": "anything; I don't care",
-          "register": "colloquial",
-          "note": "Use this when “whatever” means that the speaker does not care which option is chosen."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "Choose whatever.",
-          "traditional": "你揀是但啦。",
-          "jyutping": "nei5 gaan2 si6 daan6 laa1"
-        }
-      ]
+      "english": "Choose whatever.",
+      "traditional": "你揀是但啦。",
+      "jyutping": "nei5 gaan2 si6 daan6 laa1"
     }
   ]
 }

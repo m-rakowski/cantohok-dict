@@ -1,28 +1,24 @@
 {
   "id": "o1rsfny2",
   "partOfSpeech": "noun",
+  "meaning": "adult female bovine",
+  "english": [
+    {
+      "id": "ah0xsokw",
+      "word": "cow",
+      "meaning": "adult female bovine",
+      "register": "colloquial",
+      "note": "Use this colloquial term for an adult female cow in everyday speech."
+    }
+  ],
   "traditional": "牛乸",
   "jyutping": "ngau4 naa2",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "adult female bovine",
-      "english": [
-        {
-          "id": "ah0xsokw",
-          "word": "cow",
-          "meaning": "adult female bovine",
-          "register": "colloquial",
-          "note": "Use this colloquial term for an adult female cow in everyday speech."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "That cow just had a calf.",
-          "traditional": "嗰隻牛乸啱啱生咗仔。",
-          "jyutping": "go2 zek3 ngau4 naa2 ngaam1 ngaam1 saang1 zo2 zai2"
-        }
-      ]
+      "english": "That cow just had a calf.",
+      "traditional": "嗰隻牛乸啱啱生咗仔。",
+      "jyutping": "go2 zek3 ngau4 naa2 ngaam1 ngaam1 saang1 zo2 zai2"
     }
   ]
 }

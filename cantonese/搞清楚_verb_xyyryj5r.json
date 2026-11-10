@@ -1,38 +1,34 @@
 {
   "id": "xyyryj5r",
   "partOfSpeech": "verb",
+  "meaning": "figure out, make clear",
+  "english": [
+    {
+      "id": "l7no5n56",
+      "word": "determine",
+      "meaning": "find out; ascertain",
+      "note": "This is the all-purpose choice when you figure something out or establish the facts."
+    },
+    {
+      "id": "45lpk0n0",
+      "word": "clear",
+      "meaning": "clarify / resolve",
+      "register": "colloquial",
+      "note": "Use this when you clarify a matter or resolve uncertainty, rather than physically removing something."
+    }
+  ],
   "traditional": "搞清楚",
   "jyutping": "gaau2 cing1 co2",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "figure out, make clear",
-      "english": [
-        {
-          "id": "l7no5n56",
-          "word": "determine",
-          "meaning": "find out; ascertain",
-          "note": "This is the all-purpose choice when you figure something out or establish the facts."
-        },
-        {
-          "id": "45lpk0n0",
-          "word": "clear",
-          "meaning": "clarify / resolve",
-          "register": "colloquial",
-          "note": "Use this when you clarify a matter or resolve uncertainty, rather than physically removing something."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I still haven't been able to determine why this happened.",
-          "traditional": "我仲未搞清楚件事點解會咁。",
-          "jyutping": "ngo5 zung6 mei6 gaau2 cing1 co2 gin6 si6 dim2 gaai2 wui5 gam2"
-        },
-        {
-          "english": "I want to clear up what happened first.",
-          "traditional": "我想搞清楚件事先。",
-          "jyutping": "ngo5 soeng2 gaau2 cing1 co2 gin6 si6 sin1"
-        }
-      ]
+      "english": "I still haven't been able to determine why this happened.",
+      "traditional": "我仲未搞清楚件事點解會咁。",
+      "jyutping": "ngo5 zung6 mei6 gaau2 cing1 co2 gin6 si6 dim2 gaai2 wui5 gam2"
+    },
+    {
+      "english": "I want to clear up what happened first.",
+      "traditional": "我想搞清楚件事先。",
+      "jyutping": "ngo5 soeng2 gaau2 cing1 co2 gin6 si6 sin1"
     }
   ]
 }

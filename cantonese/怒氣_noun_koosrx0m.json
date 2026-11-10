@@ -1,28 +1,24 @@
 {
   "id": "koosrx0m",
   "partOfSpeech": "noun",
+  "meaning": "feeling of anger",
+  "english": [
+    {
+      "id": "u7dlnnkb",
+      "word": "anger",
+      "meaning": "feeling of anger",
+      "register": "formal",
+      "note": "Choose this when you want to name the feeling of anger explicitly rather than describe someone as being angry."
+    }
+  ],
   "traditional": "怒氣",
   "jyutping": "nou6 hei3",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "feeling of anger",
-      "english": [
-        {
-          "id": "u7dlnnkb",
-          "word": "anger",
-          "meaning": "feeling of anger",
-          "register": "formal",
-          "note": "Choose this when you want to name the feeling of anger explicitly rather than describe someone as being angry."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "They tried to suppress the anger inside them.",
-          "traditional": "佢強忍住心入面嘅怒氣。",
-          "jyutping": "keoi5 koeng4 jan2 zyu6 sam1 jap6 min6 ge3 nou6 hei3"
-        }
-      ]
+      "english": "They tried to suppress the anger inside them.",
+      "traditional": "佢強忍住心入面嘅怒氣。",
+      "jyutping": "keoi5 koeng4 jan2 zyu6 sam1 jap6 min6 ge3 nou6 hei3"
     }
   ]
 }

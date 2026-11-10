@@ -1,28 +1,24 @@
 {
   "id": "u5s35d2d",
   "partOfSpeech": "noun",
+  "meaning": "absence of justice",
+  "english": [
+    {
+      "id": "m0dd6516",
+      "word": "injustice",
+      "meaning": "absence of justice",
+      "register": "formal",
+      "note": "Use this for institutional, official, or legal injustice rather than an everyday complaint."
+    }
+  ],
   "traditional": "不公",
   "jyutping": "bat1 gung1",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "absence of justice",
-      "english": [
-        {
-          "id": "m0dd6516",
-          "word": "injustice",
-          "meaning": "absence of justice",
-          "register": "formal",
-          "note": "Use this for institutional, official, or legal injustice rather than an everyday complaint."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The court’s ruling was criticised as an injustice.",
-          "traditional": "法庭嘅判決被批評為不公。",
-          "jyutping": "faat3 ting4 ge3 pun3 kyut3 bei6 pai1 ping4 wai4 bat1 gung1"
-        }
-      ]
+      "english": "The court’s ruling was criticised as an injustice.",
+      "traditional": "法庭嘅判決被批評為不公。",
+      "jyutping": "faat3 ting4 ge3 pun3 kyut3 bei6 pai1 ping4 wai4 bat1 gung1"
     }
   ]
 }

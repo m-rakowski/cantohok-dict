@@ -1,55 +1,22 @@
 {
   "id": "ausmhqik",
   "partOfSpeech": "noun",
+  "meaning": "water jug for pouring",
+  "english": [
+    {
+      "id": "wif4gufk",
+      "word": "kettle",
+      "meaning": "boiling vessel",
+      "note": "Use this when presenting the kettle as a general water vessel rather than specifically as a household boiling appliance."
+    }
+  ],
   "traditional": "水壺",
   "jyutping": "seoi2 wu4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "water jug for pouring",
-      "english": [
-        {
-          "id": "wif4gufk",
-          "word": "kettle",
-          "meaning": "boiling vessel",
-          "note": "Use this when presenting the kettle as a general water vessel rather than specifically as a household boiling appliance."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The kettle on the table is for pouring water.",
-          "traditional": "枱面嗰個水壺係用嚟斟水嘅。",
-          "jyutping": "toi2 min6 go2 go3 seoi2 wu4 hai6 jung6 lai4 zam1 seoi2 ge3"
-        }
-      ]
-    },
-    {
-      "meaning": "water bottle you carry",
-      "english": [
-        {
-          "id": "iy7bexg8",
-          "word": "jug",
-          "meaning": "pitcher/container",
-          "note": "Use this when the jug is specifically for holding or serving water."
-        },
-        {
-          "id": "4ntbl32c",
-          "word": "canteen",
-          "meaning": "water bottle",
-          "note": "Use this for the portable flask or water container carried by a soldier or camper."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Remember to bring the water jug hiking; there is no water to buy on the mountain.",
-          "traditional": "記得帶埋個水壺去行山，山上冇水買。",
-          "jyutping": "gei3 dak1 daai3 maai4 go3 seoi2 wu4 heoi3 haang4 saan1 saan1 soeng6 mou5 seoi2 maai5"
-        },
-        {
-          "english": "Remember to bring your canteen when you go hiking.",
-          "traditional": "行山記得帶埋水壺。",
-          "jyutping": "haang4 saan1 gei3 dak1 daai3 maai4 seoi2 wu4"
-        }
-      ]
+      "english": "The kettle on the table is for pouring water.",
+      "traditional": "枱面嗰個水壺係用嚟斟水嘅。",
+      "jyutping": "toi2 min6 go2 go3 seoi2 wu4 hai6 jung6 lai4 zam1 seoi2 ge3"
     }
   ]
 }

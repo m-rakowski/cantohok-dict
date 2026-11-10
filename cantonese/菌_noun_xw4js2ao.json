@@ -1,28 +1,24 @@
 {
   "id": "xw4js2ao",
   "partOfSpeech": "noun",
+  "meaning": "tiny living organism",
+  "english": [
+    {
+      "id": "9dueecrp",
+      "word": "microorganism",
+      "meaning": "tiny living organism",
+      "register": "colloquial",
+      "note": "Use this colloquial term when talking generally about microbes or germs rather than identifying the organism scientifically."
+    }
+  ],
   "traditional": "菌",
   "jyutping": "kwan2",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "tiny living organism",
-      "english": [
-        {
-          "id": "9dueecrp",
-          "word": "microorganism",
-          "meaning": "tiny living organism",
-          "register": "colloquial",
-          "note": "Use this colloquial term when talking generally about microbes or germs rather than identifying the organism scientifically."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "These raw oysters may contain a microorganism.",
-          "traditional": "呢啲生蠔未煮熟，入面可能有菌。",
-          "jyutping": "ni1 di1 saang1 hou4 mei6 zyu2 suk6 jap6 min6 ho2 nang4 jau5 kwan2"
-        }
-      ]
+      "english": "These raw oysters may contain a microorganism.",
+      "traditional": "呢啲生蠔未煮熟，入面可能有菌。",
+      "jyutping": "ni1 di1 saang1 hou4 mei6 zyu2 suk6 jap6 min6 ho2 nang4 jau5 kwan2"
     }
   ]
 }

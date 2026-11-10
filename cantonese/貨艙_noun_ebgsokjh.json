@@ -1,37 +1,33 @@
 {
   "id": "ebgsokjh",
   "partOfSpeech": "noun",
+  "meaning": "cargo hold",
+  "english": [
+    {
+      "id": "o2ewdic0",
+      "word": "hold",
+      "meaning": "ship or plane cargo area",
+      "note": "Use this for the cargo compartment of a ship or aircraft."
+    },
+    {
+      "id": "fcpuf005",
+      "word": "bay",
+      "meaning": "recess / compartment",
+      "note": "Use this for the cargo bay of a ship or aircraft, not for a general architectural recess."
+    }
+  ],
   "traditional": "貨艙",
   "jyutping": "fo3 cong1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "cargo hold",
-      "english": [
-        {
-          "id": "o2ewdic0",
-          "word": "hold",
-          "meaning": "ship or plane cargo area",
-          "note": "Use this for the cargo compartment of a ship or aircraft."
-        },
-        {
-          "id": "fcpuf005",
-          "word": "bay",
-          "meaning": "recess / compartment",
-          "note": "Use this for the cargo bay of a ship or aircraft, not for a general architectural recess."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The plane's cargo hold is not full yet.",
-          "traditional": "架飛機嘅貨艙仲未裝滿。",
-          "jyutping": "gaa3 fei1 gei1 ge3 fo3 cong1 zung6 mei6 zong1 mun5"
-        },
-        {
-          "english": "The aircraft's cargo bay is already full of goods.",
-          "traditional": "架飛機嘅貨艙已經載滿貨喇。",
-          "jyutping": "gaa3 fei1 gei1 ge3 fo3 cong1 ji5 ging1 zoi3 mun5 fo3 laa3"
-        }
-      ]
+      "english": "The plane's cargo hold is not full yet.",
+      "traditional": "架飛機嘅貨艙仲未裝滿。",
+      "jyutping": "gaa3 fei1 gei1 ge3 fo3 cong1 zung6 mei6 zong1 mun5"
+    },
+    {
+      "english": "The aircraft's cargo bay is already full of goods.",
+      "traditional": "架飛機嘅貨艙已經載滿貨喇。",
+      "jyutping": "gaa3 fei1 gei1 ge3 fo3 cong1 ji5 ging1 zoi3 mun5 fo3 laa3"
     }
   ]
 }

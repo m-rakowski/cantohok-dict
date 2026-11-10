@@ -1,37 +1,33 @@
 {
   "id": "6mzbaryw",
   "partOfSpeech": "verb",
+  "meaning": "complain, report someone",
+  "english": [
+    {
+      "id": "c7sd5ei6",
+      "word": "complain",
+      "meaning": "make a complaint",
+      "note": "Use this when making a complaint to an authority, organization, or the police."
+    },
+    {
+      "id": "5h2vgpo2",
+      "word": "report",
+      "meaning": "report someone",
+      "note": "Use this when reporting someone as a formal complaint, especially to a boss, company, or organization."
+    }
+  ],
   "traditional": "投訴",
   "jyutping": "tau4 sou3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "complain, report someone",
-      "english": [
-        {
-          "id": "c7sd5ei6",
-          "word": "complain",
-          "meaning": "make a complaint",
-          "note": "Use this when making a complaint to an authority, organization, or the police."
-        },
-        {
-          "id": "5h2vgpo2",
-          "word": "report",
-          "meaning": "report someone",
-          "note": "Use this when reporting someone as a formal complaint, especially to a boss, company, or organization."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I will complain to the Consumer Council that the shop is overcharging.",
-          "traditional": "我會向消費者委員會投訴間店舖亂收費。",
-          "jyutping": "ngo5 wui5 hoeng3 siu1 fai3 ze2 wai2 jyun4 wui2 tau4 sou3 gaan1 dim3 pou3 lyun6 sau1 fai3"
-        },
-        {
-          "english": "I want to report that employee to the company.",
-          "traditional": "我要向公司投訴嗰個職員。",
-          "jyutping": "ngo5 jiu3 hoeng3 gung1 si1 tau4 sou3 go2 go3 zik1 jyun4"
-        }
-      ]
+      "english": "I will complain to the Consumer Council that the shop is overcharging.",
+      "traditional": "我會向消費者委員會投訴間店舖亂收費。",
+      "jyutping": "ngo5 wui5 hoeng3 siu1 fai3 ze2 wai2 jyun4 wui2 tau4 sou3 gaan1 dim3 pou3 lyun6 sau1 fai3"
+    },
+    {
+      "english": "I want to report that employee to the company.",
+      "traditional": "我要向公司投訴嗰個職員。",
+      "jyutping": "ngo5 jiu3 hoeng3 gung1 si1 tau4 sou3 go2 go3 zik1 jyun4"
     }
   ]
 }

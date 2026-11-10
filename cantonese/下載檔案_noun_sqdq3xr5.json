@@ -1,26 +1,22 @@
 {
   "id": "sqdq3xr5",
   "partOfSpeech": "noun",
+  "meaning": "downloaded file",
+  "english": [
+    {
+      "id": "93tr82fq",
+      "word": "download",
+      "meaning": "downloaded file",
+      "note": "Use this when you mean the file itself rather than the transfer process."
+    }
+  ],
   "traditional": "下載檔案",
   "jyutping": "haa6 zoi3 dong2 ngon3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "downloaded file",
-      "english": [
-        {
-          "id": "93tr82fq",
-          "word": "download",
-          "meaning": "downloaded file",
-          "note": "Use this when you mean the file itself rather than the transfer process."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I deleted the download file.",
-          "traditional": "我刪咗個下載檔案。",
-          "jyutping": "ngo5 saan1 zo2 go3 haa6 zoi3 dong2 ngon3"
-        }
-      ]
+      "english": "I deleted the download file.",
+      "traditional": "我刪咗個下載檔案。",
+      "jyutping": "ngo5 saan1 zo2 go3 haa6 zoi3 dong2 ngon3"
     }
   ]
 }

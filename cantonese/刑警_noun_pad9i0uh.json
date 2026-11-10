@@ -1,28 +1,24 @@
 {
   "id": "pad9i0uh",
   "partOfSpeech": "noun",
+  "meaning": "police investigator",
+  "english": [
+    {
+      "id": "ge7eb65j",
+      "word": "detective",
+      "meaning": "police investigator",
+      "register": "formal",
+      "note": "Use this more official-sounding term when stressing that the detective investigates criminal cases."
+    }
+  ],
   "traditional": "刑警",
   "jyutping": "jing4 ging2",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "police investigator",
-      "english": [
-        {
-          "id": "ge7eb65j",
-          "word": "detective",
-          "meaning": "police investigator",
-          "register": "formal",
-          "note": "Use this more official-sounding term when stressing that the detective investigates criminal cases."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The detective is responsible for investigating this murder case.",
-          "traditional": "刑警負責調查呢宗謀殺案。",
-          "jyutping": "jing4 ging2 fu6 zaak3 diu6 caa4 ni1 zung1 mau4 saat3 on3"
-        }
-      ]
+      "english": "The detective is responsible for investigating this murder case.",
+      "traditional": "刑警負責調查呢宗謀殺案。",
+      "jyutping": "jing4 ging2 fu6 zaak3 diu6 caa4 ni1 zung1 mau4 saat3 on3"
     }
   ]
 }

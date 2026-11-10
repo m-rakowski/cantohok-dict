@@ -1,37 +1,33 @@
 {
   "id": "4mlq60o8",
   "partOfSpeech": "noun",
+  "meaning": "time, occasion",
+  "english": [
+    {
+      "id": "wvj6zxie",
+      "word": "occasion",
+      "meaning": "instance; occurrence",
+      "note": "Use this for a particular time when something happened or a particular instance, as in 今次 or 嗰次."
+    },
+    {
+      "id": "mkcyb7if",
+      "word": "time",
+      "meaning": "occasion or instance",
+      "note": "Use this for one occurrence or instance, as in 一次 or 再一次, rather than for duration."
+    }
+  ],
   "traditional": "次",
   "jyutping": "ci3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "time, occasion",
-      "english": [
-        {
-          "id": "wvj6zxie",
-          "word": "occasion",
-          "meaning": "instance; occurrence",
-          "note": "Use this for a particular time when something happened or a particular instance, as in 今次 or 嗰次."
-        },
-        {
-          "id": "mkcyb7if",
-          "word": "time",
-          "meaning": "occasion or instance",
-          "note": "Use this for one occurrence or instance, as in 一次 or 再一次, rather than for duration."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I was really scared on that occasion.",
-          "traditional": "嗰次我真係嚇親。",
-          "jyutping": "go2 ci3 ngo5 zan1 hai6 haak3 can1"
-        },
-        {
-          "english": "The first time I went to Japan, I joined a tour.",
-          "traditional": "我第一次去日本係跟團。",
-          "jyutping": "ngo5 dai6 jat1 ci3 heoi3 jat6 bun2 hai6 gan1 tyun4"
-        }
-      ]
+      "english": "I was really scared on that occasion.",
+      "traditional": "嗰次我真係嚇親。",
+      "jyutping": "go2 ci3 ngo5 zan1 hai6 haak3 can1"
+    },
+    {
+      "english": "The first time I went to Japan, I joined a tour.",
+      "traditional": "我第一次去日本係跟團。",
+      "jyutping": "ngo5 dai6 jat1 ci3 heoi3 jat6 bun2 hai6 gan1 tyun4"
     }
   ]
 }

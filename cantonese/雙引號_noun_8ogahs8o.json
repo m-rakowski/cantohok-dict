@@ -1,26 +1,22 @@
 {
   "id": "8ogahs8o",
   "partOfSpeech": "noun",
+  "meaning": "quotation mark",
+  "english": [
+    {
+      "id": "ukkt2n3f",
+      "word": "inverted comma",
+      "meaning": "quotation mark",
+      "note": "Use this when the quotation marks are specifically double marks such as “ ”."
+    }
+  ],
   "traditional": "雙引號",
   "jyutping": "soeng1 jan5 hou2",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "quotation mark",
-      "english": [
-        {
-          "id": "ukkt2n3f",
-          "word": "inverted comma",
-          "meaning": "quotation mark",
-          "note": "Use this when the quotation marks are specifically double marks such as “ ”."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The editor told me to put the book title between double quotation marks; each one is an inverted comma.",
-          "traditional": "編輯叫我用雙引號括住書名。",
-          "jyutping": "pin1 cap1 giu3 ngo5 jung6 soeng1 jan5 hou2 kut3 zyu6 syu1 meng2"
-        }
-      ]
+      "english": "The editor told me to put the book title between double quotation marks; each one is an inverted comma.",
+      "traditional": "編輯叫我用雙引號括住書名。",
+      "jyutping": "pin1 cap1 giu3 ngo5 jung6 soeng1 jan5 hou2 kut3 zyu6 syu1 meng2"
     }
   ]
 }

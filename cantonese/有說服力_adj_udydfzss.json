@@ -1,48 +1,44 @@
 {
   "id": "udydfzss",
   "partOfSpeech": "adj",
+  "meaning": "convincing",
+  "english": [
+    {
+      "id": "16uxmvz8",
+      "word": "cogent",
+      "meaning": "convincing; well-reasoned",
+      "note": "This is the all-purpose choice for an argument or explanation that is convincing."
+    },
+    {
+      "id": "6boc7w42",
+      "word": "eloquent",
+      "meaning": "fluent and persuasive",
+      "note": "Use this when the speaker's eloquence is especially persuasive or convincing."
+    },
+    {
+      "id": "ygh7046p",
+      "word": "potent",
+      "meaning": "persuasive, influential",
+      "note": "Use this specifically for an argument, explanation, or person that is persuasive or convincing."
+    }
+  ],
   "traditional": "有說服力",
   "jyutping": "jau5 seoi3 fuk6 lik6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "convincing",
-      "english": [
-        {
-          "id": "16uxmvz8",
-          "word": "cogent",
-          "meaning": "convincing; well-reasoned",
-          "note": "This is the all-purpose choice for an argument or explanation that is convincing."
-        },
-        {
-          "id": "6boc7w42",
-          "word": "eloquent",
-          "meaning": "fluent and persuasive",
-          "note": "Use this when the speaker's eloquence is especially persuasive or convincing."
-        },
-        {
-          "id": "ygh7046p",
-          "word": "potent",
-          "meaning": "persuasive, influential",
-          "note": "Use this specifically for an argument, explanation, or person that is persuasive or convincing."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This explanation is cogent, so everyone accepted it.",
-          "traditional": "呢個解釋好有說服力，大家都接受咗。",
-          "jyutping": "ni1 go3 gaai2 sik1 hou2 jau5 seoi3 fuk6 lik6 daai6 gaa1 dou1 zip3 sau6 zo2"
-        },
-        {
-          "english": "They are eloquent and finally convinced everyone to support the plan.",
-          "traditional": "佢句句有說服力，終於說服大家支持個計劃。",
-          "jyutping": "keoi5 geoi3 geoi3 jau5 seoi3 fuk6 lik6 zung1 jyu1 seoi3 fuk6 daai6 gaa1 zi1 ci4 go3 gai3 waak6"
-        },
-        {
-          "english": "Their explanation was potent enough to convince everyone.",
-          "traditional": "佢個解釋好有說服力，大家聽完都信服。",
-          "jyutping": "keoi5 go3 gaai2 sik1 hou2 jau5 seoi3 fuk6 lik6 daai6 gaa1 teng1 jyun4 dou1 seon3 fuk6"
-        }
-      ]
+      "english": "This explanation is cogent, so everyone accepted it.",
+      "traditional": "呢個解釋好有說服力，大家都接受咗。",
+      "jyutping": "ni1 go3 gaai2 sik1 hou2 jau5 seoi3 fuk6 lik6 daai6 gaa1 dou1 zip3 sau6 zo2"
+    },
+    {
+      "english": "They are eloquent and finally convinced everyone to support the plan.",
+      "traditional": "佢句句有說服力，終於說服大家支持個計劃。",
+      "jyutping": "keoi5 geoi3 geoi3 jau5 seoi3 fuk6 lik6 zung1 jyu1 seoi3 fuk6 daai6 gaa1 zi1 ci4 go3 gai3 waak6"
+    },
+    {
+      "english": "Their explanation was potent enough to convince everyone.",
+      "traditional": "佢個解釋好有說服力，大家聽完都信服。",
+      "jyutping": "keoi5 go3 gaai2 sik1 hou2 jau5 seoi3 fuk6 lik6 daai6 gaa1 teng1 jyun4 dou1 seon3 fuk6"
     }
   ]
 }

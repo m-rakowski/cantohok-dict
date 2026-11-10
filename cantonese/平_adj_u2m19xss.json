@@ -1,37 +1,33 @@
 {
   "id": "u2m19xss",
   "partOfSpeech": "adj",
+  "meaning": "cheap",
+  "english": [
+    {
+      "id": "6i0v03b2",
+      "word": "cheap",
+      "meaning": "low price",
+      "note": "This is the all-purpose choice for something that has a low price."
+    },
+    {
+      "id": "rpj5yd20",
+      "word": "inexpensive",
+      "meaning": "cheap / low cost",
+      "note": "This is the all-purpose choice for something that costs little or is reasonably priced."
+    }
+  ],
   "traditional": "平",
   "jyutping": "peng4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "cheap",
-      "english": [
-        {
-          "id": "6i0v03b2",
-          "word": "cheap",
-          "meaning": "low price",
-          "note": "This is the all-purpose choice for something that has a low price."
-        },
-        {
-          "id": "rpj5yd20",
-          "word": "inexpensive",
-          "meaning": "cheap / low cost",
-          "note": "This is the all-purpose choice for something that costs little or is reasonably priced."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The clothes in this shop are really cheap.",
-          "traditional": "呢間舖頭啲衫好平。",
-          "jyutping": "ni1 gaan1 pou3 tau4 di1 saam1 hou2 peng4"
-        },
-        {
-          "english": "The clothes in this shop are quite inexpensive.",
-          "traditional": "呢間舖啲衫幾平㗎。",
-          "jyutping": "ni1 gaan1 pou3 di1 saam1 gei2 peng4 gaa3"
-        }
-      ]
+      "english": "The clothes in this shop are really cheap.",
+      "traditional": "呢間舖頭啲衫好平。",
+      "jyutping": "ni1 gaan1 pou3 tau4 di1 saam1 hou2 peng4"
+    },
+    {
+      "english": "The clothes in this shop are quite inexpensive.",
+      "traditional": "呢間舖啲衫幾平㗎。",
+      "jyutping": "ni1 gaan1 pou3 di1 saam1 gei2 peng4 gaa3"
     }
   ]
 }

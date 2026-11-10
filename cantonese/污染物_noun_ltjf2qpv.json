@@ -1,28 +1,24 @@
 {
   "id": "ltjf2qpv",
   "partOfSpeech": "noun",
+  "meaning": "polluting substance",
+  "english": [
+    {
+      "id": "wttove6e",
+      "word": "pollutant",
+      "meaning": "polluting substance",
+      "register": "formal",
+      "note": "This is the all-purpose term for a substance that pollutes air, water, soil, or other things."
+    }
+  ],
   "traditional": "污染物",
   "jyutping": "wu1 jim5 mat6",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "polluting substance",
-      "english": [
-        {
-          "id": "wttove6e",
-          "word": "pollutant",
-          "meaning": "polluting substance",
-          "register": "formal",
-          "note": "This is the all-purpose term for a substance that pollutes air, water, soil, or other things."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "A pollutant in the air can harm people's health.",
-          "traditional": "空氣入面有一種污染物會危害健康。",
-          "jyutping": "hung1 hei3 jap6 min6 jau5 jat1 zung2 wu1 jim5 mat6 wui5 ngai4 hoi6 gin6 hong1"
-        }
-      ]
+      "english": "A pollutant in the air can harm people's health.",
+      "traditional": "空氣入面有一種污染物會危害健康。",
+      "jyutping": "hung1 hei3 jap6 min6 jau5 jat1 zung2 wu1 jim5 mat6 wui5 ngai4 hoi6 gin6 hong1"
     }
   ]
 }

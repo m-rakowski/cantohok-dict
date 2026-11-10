@@ -1,28 +1,24 @@
 {
   "id": "44pgdkwc",
   "partOfSpeech": "adj",
+  "meaning": "afraid; frightened",
+  "english": [
+    {
+      "id": "opozgpvz",
+      "word": "scared",
+      "meaning": "afraid; frightened",
+      "register": "colloquial",
+      "note": "Use this for someone who is timid or easily frightened rather than for a single moment of fear."
+    }
+  ],
   "traditional": "驚青",
   "jyutping": "geng1 ceng1",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "afraid; frightened",
-      "english": [
-        {
-          "id": "opozgpvz",
-          "word": "scared",
-          "meaning": "afraid; frightened",
-          "register": "colloquial",
-          "note": "Use this for someone who is timid or easily frightened rather than for a single moment of fear."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "They've always been scared of everything.",
-          "traditional": "佢由細到大都好驚青。",
-          "jyutping": "keoi5 jau4 sai3 dou3 daai6 dou1 hou2 geng1 ceng1"
-        }
-      ]
+      "english": "They've always been scared of everything.",
+      "traditional": "佢由細到大都好驚青。",
+      "jyutping": "keoi5 jau4 sai3 dou3 daai6 dou1 hou2 geng1 ceng1"
     }
   ]
 }

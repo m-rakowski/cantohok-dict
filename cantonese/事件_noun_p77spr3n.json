@@ -1,38 +1,34 @@
 {
   "id": "p77spr3n",
   "partOfSpeech": "noun",
+  "meaning": "incident, event",
+  "english": [
+    {
+      "id": "f4s4q9fh",
+      "word": "incident",
+      "meaning": "event, occurrence",
+      "note": "Use this as the all-purpose noun for a distinct event or incident, especially in neutral or reported contexts."
+    },
+    {
+      "id": "96kncrtf",
+      "word": "event",
+      "meaning": "occurrence",
+      "register": "formal",
+      "note": "Use 事件 for a distinct or notable occurrence, especially when it sounds like an incident or a news event."
+    }
+  ],
   "traditional": "事件",
   "jyutping": "si6 gin6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "incident, event",
-      "english": [
-        {
-          "id": "f4s4q9fh",
-          "word": "incident",
-          "meaning": "event, occurrence",
-          "note": "Use this as the all-purpose noun for a distinct event or incident, especially in neutral or reported contexts."
-        },
-        {
-          "id": "96kncrtf",
-          "word": "event",
-          "meaning": "occurrence",
-          "register": "formal",
-          "note": "Use 事件 for a distinct or notable occurrence, especially when it sounds like an incident or a news event."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This incident caused the whole department to stop work.",
-          "traditional": "呢宗事件搞到成個部門停工。",
-          "jyutping": "ni1 zung1 si6 gin6 gaau2 dou3 seng4 go3 bou6 mun4 ting4 gung1"
-        },
-        {
-          "english": "This event attracted a lot of attention.",
-          "traditional": "呢宗事件引起咗好大關注。",
-          "jyutping": "ni1 zung1 si6 gin6 jan5 hei2 zo2 hou2 daai6 gwaan1 zyu3"
-        }
-      ]
+      "english": "This incident caused the whole department to stop work.",
+      "traditional": "呢宗事件搞到成個部門停工。",
+      "jyutping": "ni1 zung1 si6 gin6 gaau2 dou3 seng4 go3 bou6 mun4 ting4 gung1"
+    },
+    {
+      "english": "This event attracted a lot of attention.",
+      "traditional": "呢宗事件引起咗好大關注。",
+      "jyutping": "ni1 zung1 si6 gin6 jan5 hei2 zo2 hou2 daai6 gwaan1 zyu3"
     }
   ]
 }

@@ -1,26 +1,22 @@
 {
   "id": "5afmta0l",
   "partOfSpeech": "verb",
+  "meaning": "strike with foot",
+  "english": [
+    {
+      "id": "rol0xzgq",
+      "word": "kick",
+      "meaning": "strike with foot",
+      "note": "This is the all-purpose choice for striking something with the foot, including kicking a ball; add a directional complement when its destination matters."
+    }
+  ],
   "traditional": "踢",
   "jyutping": "tek3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "strike with foot",
-      "english": [
-        {
-          "id": "rol0xzgq",
-          "word": "kick",
-          "meaning": "strike with foot",
-          "note": "This is the all-purpose choice for striking something with the foot, including kicking a ball; add a directional complement when its destination matters."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I kick the ball into the goal.",
-          "traditional": "我一腳踢個波入龍門。",
-          "jyutping": "ngo5 jat1 goek3 tek3 go3 bo1 jap6 lung4 mun4"
-        }
-      ]
+      "english": "I kick the ball into the goal.",
+      "traditional": "我一腳踢個波入龍門。",
+      "jyutping": "ngo5 jat1 goek3 tek3 go3 bo1 jap6 lung4 mun4"
     }
   ]
 }

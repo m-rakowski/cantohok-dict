@@ -1,28 +1,24 @@
 {
   "id": "bra0fyi7",
   "partOfSpeech": "noun",
+  "meaning": "state of being married",
+  "english": [
+    {
+      "id": "dny5cr6z",
+      "word": "marriage",
+      "meaning": "state of being married",
+      "register": "formal",
+      "note": "This is the all-purpose noun for the state or institution of marriage."
+    }
+  ],
   "traditional": "婚姻",
   "jyutping": "fan1 jan1",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "state of being married",
-      "english": [
-        {
-          "id": "dny5cr6z",
-          "word": "marriage",
-          "meaning": "state of being married",
-          "register": "formal",
-          "note": "This is the all-purpose noun for the state or institution of marriage."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "This marriage has lasted for more than ten years.",
-          "traditional": "呢段婚姻維持咗十幾年。",
-          "jyutping": "nei1 dyun6 fan1 jan1 wai4 ci4 zo2 sap6 gei2 nin4"
-        }
-      ]
+      "english": "This marriage has lasted for more than ten years.",
+      "traditional": "呢段婚姻維持咗十幾年。",
+      "jyutping": "nei1 dyun6 fan1 jan1 wai4 ci4 zo2 sap6 gei2 nin4"
     }
   ]
 }

@@ -1,28 +1,24 @@
 {
   "id": "7i1k3jmd",
   "partOfSpeech": "noun",
+  "meaning": "house by doors",
+  "english": [
+    {
+      "id": "s055lafh",
+      "word": "door",
+      "meaning": "house by doors",
+      "register": "formal",
+      "note": "Use 戶 for the household or house metonym, especially in formal or fixed expressions, rather than for a physical door."
+    }
+  ],
   "traditional": "戶",
   "jyutping": "wu6",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "house by doors",
-      "english": [
-        {
-          "id": "s055lafh",
-          "word": "door",
-          "meaning": "house by doors",
-          "register": "formal",
-          "note": "Use 戶 for the household or house metonym, especially in formal or fixed expressions, rather than for a physical door."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "Every household must keep the passage in front of its door clear.",
-          "traditional": "每戶門前都要保持通道暢通。",
-          "jyutping": "mui5 wu6 mun4 cin4 dou1 jiu3 bou2 ci4 tung1 dou6 coeng3 tung1"
-        }
-      ]
+      "english": "Every household must keep the passage in front of its door clear.",
+      "traditional": "每戶門前都要保持通道暢通。",
+      "jyutping": "mui5 wu6 mun4 cin4 dou1 jiu3 bou2 ci4 tung1 dou6 coeng3 tung1"
     }
   ]
 }

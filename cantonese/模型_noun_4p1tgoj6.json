@@ -1,37 +1,33 @@
 {
   "id": "4p1tgoj6",
   "partOfSpeech": "noun",
+  "meaning": "model, replica",
+  "english": [
+    {
+      "id": "7n2spyly",
+      "word": "model",
+      "meaning": "physical replica",
+      "note": "Use 模型 as the all-purpose noun for a physical replica or a computer/statistical simulation."
+    },
+    {
+      "id": "m7a8jveb",
+      "word": "replica",
+      "meaning": "scale model copy",
+      "note": "Use this for a smaller-scale model of the original, such as a model car or building."
+    }
+  ],
   "traditional": "模型",
   "jyutping": "mou4 jing4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "model, replica",
-      "english": [
-        {
-          "id": "7n2spyly",
-          "word": "model",
-          "meaning": "physical replica",
-          "note": "Use 模型 as the all-purpose noun for a physical replica or a computer/statistical simulation."
-        },
-        {
-          "id": "m7a8jveb",
-          "word": "replica",
-          "meaning": "scale model copy",
-          "note": "Use this for a smaller-scale model of the original, such as a model car or building."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This model was made based on a real bridge.",
-          "traditional": "呢個模型係照住真橋整㗎。",
-          "jyutping": "ni1 go3 mou4 jing4 hai6 ziu3 zyu6 zan1 kiu4 zing2 gaa3"
-        },
-        {
-          "english": "I bought a replica model of a sports car to put on my desk.",
-          "traditional": "我買咗架跑車模型擺喺書枱上。",
-          "jyutping": "ngo5 maai5 zo2 gaa3 paau2 ce1 mou4 jing4 baai2 hai2 syu1 ci4 soeng6"
-        }
-      ]
+      "english": "This model was made based on a real bridge.",
+      "traditional": "呢個模型係照住真橋整㗎。",
+      "jyutping": "ni1 go3 mou4 jing4 hai6 ziu3 zyu6 zan1 kiu4 zing2 gaa3"
+    },
+    {
+      "english": "I bought a replica model of a sports car to put on my desk.",
+      "traditional": "我買咗架跑車模型擺喺書枱上。",
+      "jyutping": "ngo5 maai5 zo2 gaa3 paau2 ce1 mou4 jing4 baai2 hai2 syu1 ci4 soeng6"
     }
   ]
 }

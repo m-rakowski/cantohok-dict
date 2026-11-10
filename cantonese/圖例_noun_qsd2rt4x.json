@@ -1,28 +1,24 @@
 {
   "id": "qsd2rt4x",
   "partOfSpeech": "noun",
+  "meaning": "map key",
+  "english": [
+    {
+      "id": "j89dmulz",
+      "word": "legend",
+      "meaning": "map key",
+      "register": "written",
+      "note": "Use this specifically for the key explaining symbols or colours on a map or chart."
+    }
+  ],
   "traditional": "圖例",
   "jyutping": "tou4 lai6",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "map key",
-      "english": [
-        {
-          "id": "j89dmulz",
-          "word": "legend",
-          "meaning": "map key",
-          "register": "written",
-          "note": "Use this specifically for the key explaining symbols or colours on a map or chart."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "Please check the legend first; different colours represent different routes.",
-          "traditional": "請先睇圖例，唔同顏色代表唔同路線。",
-          "jyutping": "cing2 sin1 tai2 tou4 lai6 m4 tung4 ngaan4 sik1 doi6 biu2 m4 tung4 lou6 sin3"
-        }
-      ]
+      "english": "Please check the legend first; different colours represent different routes.",
+      "traditional": "請先睇圖例，唔同顏色代表唔同路線。",
+      "jyutping": "cing2 sin1 tai2 tou4 lai6 m4 tung4 ngaan4 sik1 doi6 biu2 m4 tung4 lou6 sin3"
     }
   ]
 }

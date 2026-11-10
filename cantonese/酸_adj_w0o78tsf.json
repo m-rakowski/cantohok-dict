@@ -1,37 +1,33 @@
 {
   "id": "w0o78tsf",
   "partOfSpeech": "adj",
+  "meaning": "sour",
+  "english": [
+    {
+      "id": "92e989rz",
+      "word": "sour",
+      "meaning": "acidic taste",
+      "note": "This is the all-purpose choice for an acidic taste, or for food that has spoiled and smells or tastes sour rather than strongly rancid."
+    },
+    {
+      "id": "a0vdezvo",
+      "word": "acidic",
+      "meaning": "low pH; sour/acidic",
+      "note": "This is the all-purpose choice for something that tastes sour or is generally acidic."
+    }
+  ],
   "traditional": "酸",
   "jyutping": "syun1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "sour",
-      "english": [
-        {
-          "id": "92e989rz",
-          "word": "sour",
-          "meaning": "acidic taste",
-          "note": "This is the all-purpose choice for an acidic taste, or for food that has spoiled and smells or tastes sour rather than strongly rancid."
-        },
-        {
-          "id": "a0vdezvo",
-          "word": "acidic",
-          "meaning": "low pH; sour/acidic",
-          "note": "This is the all-purpose choice for something that tastes sour or is generally acidic."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This lemon tea is very sour.",
-          "traditional": "呢杯檸檬茶好酸。",
-          "jyutping": "ni1 bui1 ning4 mung1 caa4 hou2 syun1"
-        },
-        {
-          "english": "This lemon is so acidic that it makes me wince.",
-          "traditional": "呢隻檸檬酸到我皺晒眉。",
-          "jyutping": "ni1 zek3 ning4 mung1 syun1 dou3 ngo5 zau3 saai3 mei4"
-        }
-      ]
+      "english": "This lemon tea is very sour.",
+      "traditional": "呢杯檸檬茶好酸。",
+      "jyutping": "ni1 bui1 ning4 mung1 caa4 hou2 syun1"
+    },
+    {
+      "english": "This lemon is so acidic that it makes me wince.",
+      "traditional": "呢隻檸檬酸到我皺晒眉。",
+      "jyutping": "ni1 zek3 ning4 mung1 syun1 dou3 ngo5 zau3 saai3 mei4"
     }
   ]
 }

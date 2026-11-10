@@ -1,28 +1,24 @@
 {
   "id": "w56kwakb",
   "partOfSpeech": "adj",
+  "meaning": "extremely hungry",
+  "english": [
+    {
+      "id": "l2mri0a8",
+      "word": "starving",
+      "meaning": "extremely hungry",
+      "register": "colloquial",
+      "note": "Use this for the straightforward statement that you are extremely hungry, without the dramatic hyperbole of 餓死喇."
+    }
+  ],
   "traditional": "好肚餓",
   "jyutping": "hou2 tou5 ngo6",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "extremely hungry",
-      "english": [
-        {
-          "id": "l2mri0a8",
-          "word": "starving",
-          "meaning": "extremely hungry",
-          "register": "colloquial",
-          "note": "Use this for the straightforward statement that you are extremely hungry, without the dramatic hyperbole of 餓死喇."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "I'm starving right now and want a bowl of noodles.",
-          "traditional": "我而家好肚餓，想食碗麵。",
-          "jyutping": "ngo5 ji4 gaa1 hou2 tou5 ngo6 soeng2 sik6 wun2 min6"
-        }
-      ]
+      "english": "I'm starving right now and want a bowl of noodles.",
+      "traditional": "我而家好肚餓，想食碗麵。",
+      "jyutping": "ngo5 ji4 gaa1 hou2 tou5 ngo6 soeng2 sik6 wun2 min6"
     }
   ]
 }

@@ -1,26 +1,22 @@
 {
   "id": "cocxp9pl",
   "partOfSpeech": "noun",
+  "meaning": "coronavirus, esp. SARS-CoV-2",
+  "english": [
+    {
+      "id": "fce5acll",
+      "word": "corona",
+      "meaning": "coronavirus, esp. SARS-CoV-2",
+      "note": "Use this for the SARS-CoV-2 virus itself rather than the illness it causes."
+    }
+  ],
   "traditional": "新冠病毒",
   "jyutping": "san1 gun1 beng6 duk6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "coronavirus, esp. SARS-CoV-2",
-      "english": [
-        {
-          "id": "fce5acll",
-          "word": "corona",
-          "meaning": "coronavirus, esp. SARS-CoV-2",
-          "note": "Use this for the SARS-CoV-2 virus itself rather than the illness it causes."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The corona virus can spread through droplets.",
-          "traditional": "新冠病毒可以透過飛沫傳播。",
-          "jyutping": "san1 gun1 beng6 duk6 ho2 ji5 tau3 gwo3 fei1 mut6 cyun4 bo3"
-        }
-      ]
+      "english": "The corona virus can spread through droplets.",
+      "traditional": "新冠病毒可以透過飛沫傳播。",
+      "jyutping": "san1 gun1 beng6 duk6 ho2 ji5 tau3 gwo3 fei1 mut6 cyun4 bo3"
     }
   ]
 }

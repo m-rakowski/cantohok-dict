@@ -1,28 +1,24 @@
 {
   "id": "60pfxl36",
   "partOfSpeech": "noun",
+  "meaning": "marine algae",
+  "english": [
+    {
+      "id": "eoh7qk4g",
+      "word": "seaweed",
+      "meaning": "marine algae",
+      "register": "colloquial",
+      "note": "In casual speech, use this for seaweed in a general, non-technical sense, especially seaweed seen in the sea or on a beach."
+    }
+  ],
   "traditional": "海草",
   "jyutping": "hoi2 cou2",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "marine algae",
-      "english": [
-        {
-          "id": "eoh7qk4g",
-          "word": "seaweed",
-          "meaning": "marine algae",
-          "register": "colloquial",
-          "note": "In casual speech, use this for seaweed in a general, non-technical sense, especially seaweed seen in the sea or on a beach."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "The seaweed has all washed ashore, and the whole beach is covered with it.",
-          "traditional": "啲海草沖晒上岸，成個沙灘都係。",
-          "jyutping": "di1 hoi2 cou2 cung1 saai3 soeng5 ngon6 seng4 go3 saa1 taan1 dou1 hai6"
-        }
-      ]
+      "english": "The seaweed has all washed ashore, and the whole beach is covered with it.",
+      "traditional": "啲海草沖晒上岸，成個沙灘都係。",
+      "jyutping": "di1 hoi2 cou2 cung1 saai3 soeng5 ngon6 seng4 go3 saa1 taan1 dou1 hai6"
     }
   ]
 }

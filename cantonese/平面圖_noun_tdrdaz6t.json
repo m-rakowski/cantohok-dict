@@ -1,26 +1,22 @@
 {
   "id": "tdrdaz6t",
   "partOfSpeech": "noun",
+  "meaning": "floor plan / layout",
+  "english": [
+    {
+      "id": "qdily6xj",
+      "word": "plan",
+      "meaning": "floor plan / layout",
+      "note": "Use this specifically for a top-down floor plan showing a building's internal layout."
+    }
+  ],
   "traditional": "平面圖",
   "jyutping": "ping4 min6 tou4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "floor plan / layout",
-      "english": [
-        {
-          "id": "qdily6xj",
-          "word": "plan",
-          "meaning": "floor plan / layout",
-          "note": "Use this specifically for a top-down floor plan showing a building's internal layout."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The plan shows where the kitchen is.",
-          "traditional": "份平面圖標明廚房位置。",
-          "jyutping": "fan6 ping4 min6 tou4 biu1 ming4 cyu4 fong2 wai6 zi3"
-        }
-      ]
+      "english": "The plan shows where the kitchen is.",
+      "traditional": "份平面圖標明廚房位置。",
+      "jyutping": "fan6 ping4 min6 tou4 biu1 ming4 cyu4 fong2 wai6 zi3"
     }
   ]
 }

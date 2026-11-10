@@ -1,59 +1,55 @@
 {
   "id": "u4628vzb",
   "partOfSpeech": "noun",
+  "meaning": "journey by vehicle",
+  "english": [
+    {
+      "id": "qf0t164n",
+      "word": "drive",
+      "meaning": "a car journey",
+      "note": "Use this as the all-purpose noun for a journey in a car or other vehicle."
+    },
+    {
+      "id": "ve49v3uv",
+      "word": "ride",
+      "meaning": "a ride; act of riding",
+      "note": "Use 車程 as the all-purpose noun for a ride understood as a vehicle journey or trip."
+    },
+    {
+      "id": "hoz0fu46",
+      "word": "journey",
+      "meaning": "trip; voyage",
+      "note": "Use this specifically for the time or distance travelled in a vehicle, such as a train journey."
+    },
+    {
+      "id": "ehu0xyk2",
+      "word": "lift",
+      "meaning": "ride; free ride",
+      "note": "Use this for the vehicle-journey or trip aspect of a lift."
+    }
+  ],
   "traditional": "車程",
   "jyutping": "ce1 cing4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "journey by vehicle",
-      "english": [
-        {
-          "id": "qf0t164n",
-          "word": "drive",
-          "meaning": "a car journey",
-          "note": "Use this as the all-purpose noun for a journey in a car or other vehicle."
-        },
-        {
-          "id": "ve49v3uv",
-          "word": "ride",
-          "meaning": "a ride; act of riding",
-          "note": "Use 車程 as the all-purpose noun for a ride understood as a vehicle journey or trip."
-        },
-        {
-          "id": "hoz0fu46",
-          "word": "journey",
-          "meaning": "trip; voyage",
-          "note": "Use this specifically for the time or distance travelled in a vehicle, such as a train journey."
-        },
-        {
-          "id": "ehu0xyk2",
-          "word": "lift",
-          "meaning": "ride; free ride",
-          "note": "Use this for the vehicle-journey or trip aspect of a lift."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The drive to Sha Tin takes about half an hour.",
-          "traditional": "今次去沙田嘅車程大概半個鐘。",
-          "jyutping": "gam1 ci3 heoi3 saa1 tin4 ge3 ce1 cing4 daai6 goi3 bun3 go3 zung1"
-        },
-        {
-          "english": "This ride is really comfortable.",
-          "traditional": "呢段車程好舒服。",
-          "jyutping": "ni1 dyun6 ce1 cing4 hou2 syu1 fuk6"
-        },
-        {
-          "english": "The journey from Hong Kong to Guangzhou takes about two hours.",
-          "traditional": "由香港去廣州嘅車程大約兩個鐘。",
-          "jyutping": "jau4 hoeng1 gong2 heoi3 gwong2 zau1 ge3 ce1 cing4 daai6 joek3 loeng5 go3 zung1"
-        },
-        {
-          "english": "How long is the lift to the airport from here?",
-          "traditional": "由呢度去機場嘅車程要幾耐？",
-          "jyutping": "jau4 ni1 dou6 heoi3 gei1 coeng4 ge3 ce1 cing4 jiu3 gei2 noi6"
-        }
-      ]
+      "english": "The drive to Sha Tin takes about half an hour.",
+      "traditional": "今次去沙田嘅車程大概半個鐘。",
+      "jyutping": "gam1 ci3 heoi3 saa1 tin4 ge3 ce1 cing4 daai6 goi3 bun3 go3 zung1"
+    },
+    {
+      "english": "This ride is really comfortable.",
+      "traditional": "呢段車程好舒服。",
+      "jyutping": "ni1 dyun6 ce1 cing4 hou2 syu1 fuk6"
+    },
+    {
+      "english": "The journey from Hong Kong to Guangzhou takes about two hours.",
+      "traditional": "由香港去廣州嘅車程大約兩個鐘。",
+      "jyutping": "jau4 hoeng1 gong2 heoi3 gwong2 zau1 ge3 ce1 cing4 daai6 joek3 loeng5 go3 zung1"
+    },
+    {
+      "english": "How long is the lift to the airport from here?",
+      "traditional": "由呢度去機場嘅車程要幾耐？",
+      "jyutping": "jau4 ni1 dou6 heoi3 gei1 coeng4 ge3 ce1 cing4 jiu3 gei2 noi6"
     }
   ]
 }

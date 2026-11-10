@@ -1,28 +1,24 @@
 {
   "id": "z6ee3s78",
   "partOfSpeech": "noun",
+  "meaning": "meeting presiding officer",
+  "english": [
+    {
+      "id": "vg8o79lm",
+      "word": "chairman",
+      "meaning": "meeting presiding officer",
+      "register": "formal",
+      "note": "Use 議長 for the presiding officer of a formal deliberative meeting or assembly, rather than an ordinary meeting chair."
+    }
+  ],
   "traditional": "議長",
   "jyutping": "ji5 zoeng2",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "meeting presiding officer",
-      "english": [
-        {
-          "id": "vg8o79lm",
-          "word": "chairman",
-          "meaning": "meeting presiding officer",
-          "register": "formal",
-          "note": "Use 議長 for the presiding officer of a formal deliberative meeting or assembly, rather than an ordinary meeting chair."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The chairman announced a recess.",
-          "traditional": "議長宣布休會。",
-          "jyutping": "ji5 zoeng2 syun1 bou3 jau1 wui6"
-        }
-      ]
+      "english": "The chairman announced a recess.",
+      "traditional": "議長宣布休會。",
+      "jyutping": "ji5 zoeng2 syun1 bou3 jau1 wui6"
     }
   ]
 }

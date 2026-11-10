@@ -1,81 +1,77 @@
 {
   "id": "b5onvsra",
   "partOfSpeech": "adj",
+  "meaning": "special, unusual",
+  "english": [
+    {
+      "id": "mpqwai47",
+      "word": "special",
+      "meaning": "unique; unusual",
+      "note": "This is the all-purpose choice for something unusual, distinctive, or set apart from the ordinary."
+    },
+    {
+      "id": "h85drpp2",
+      "word": "extraordinary",
+      "meaning": "out of the ordinary",
+      "note": "This is the all-purpose choice for something unusual or out of the ordinary, including 特別嘅情況."
+    },
+    {
+      "id": "me90spx5",
+      "word": "remarkable",
+      "meaning": "unusual; uncommon",
+      "note": "Use this for something unusual or distinctive without necessarily saying that it is excellent."
+    },
+    {
+      "id": "ejc3zmkl",
+      "word": "exceptional",
+      "meaning": "unusual; not ordinary",
+      "note": "Use this when something is unusual, distinctive, or not ordinary, rather than simply very good."
+    },
+    {
+      "id": "lb8ji6cd",
+      "word": "particular",
+      "meaning": "special; especially in 'no particular'",
+      "note": "Use this when particular means special or distinguished, as in negative phrases meaning “nothing special.”"
+    },
+    {
+      "id": "aj1y3gby",
+      "word": "different",
+      "meaning": "unusual, not typical",
+      "note": "Use this when ‘different’ means unusual or distinctive, especially when the difference stands out as notable or special."
+    }
+  ],
   "traditional": "特別",
   "jyutping": "dak6 bit6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "special, unusual",
-      "english": [
-        {
-          "id": "mpqwai47",
-          "word": "special",
-          "meaning": "unique; unusual",
-          "note": "This is the all-purpose choice for something unusual, distinctive, or set apart from the ordinary."
-        },
-        {
-          "id": "h85drpp2",
-          "word": "extraordinary",
-          "meaning": "out of the ordinary",
-          "note": "This is the all-purpose choice for something unusual or out of the ordinary, including 特別嘅情況."
-        },
-        {
-          "id": "me90spx5",
-          "word": "remarkable",
-          "meaning": "unusual; uncommon",
-          "note": "Use this for something unusual or distinctive without necessarily saying that it is excellent."
-        },
-        {
-          "id": "ejc3zmkl",
-          "word": "exceptional",
-          "meaning": "unusual; not ordinary",
-          "note": "Use this when something is unusual, distinctive, or not ordinary, rather than simply very good."
-        },
-        {
-          "id": "lb8ji6cd",
-          "word": "particular",
-          "meaning": "special; especially in 'no particular'",
-          "note": "Use this when particular means special or distinguished, as in negative phrases meaning “nothing special.”"
-        },
-        {
-          "id": "aj1y3gby",
-          "word": "different",
-          "meaning": "unusual, not typical",
-          "note": "Use this when ‘different’ means unusual or distinctive, especially when the difference stands out as notable or special."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Today's cake tastes really special.",
-          "traditional": "今日份蛋糕味道好特別。",
-          "jyutping": "gam1 jat6 fan6 daan6 gou1 mei6 dou6 hou2 dak6 bit6"
-        },
-        {
-          "english": "This situation is truly extraordinary.",
-          "traditional": "呢個情況真係特別。",
-          "jyutping": "ni1 go3 cing4 fong3 zan1 hai6 dak6 bit6"
-        },
-        {
-          "english": "The decor of this restaurant is remarkable—it is really unusual.",
-          "traditional": "呢間餐廳嘅裝修好特別。",
-          "jyutping": "ni1 gaan1 caan1 teng1 ge3 zong1 sau1 hou2 dak6 bit6"
-        },
-        {
-          "english": "The design of this gift is exceptional.",
-          "traditional": "呢份禮物個設計好特別。",
-          "jyutping": "ne1 fan2 lai5 mat6 go3 cit3 gai3 hou2 dak6 bit6"
-        },
-        {
-          "english": "This movie isn't anything particular; once you've watched it, that's it.",
-          "traditional": "呢套戲冇乜特別，睇完就算。",
-          "jyutping": "ni1 tou3 hei3 mou5 mat1 dak6 bit6 tai2 jyun4 zau6 syun3"
-        },
-        {
-          "english": "Their look today is very different.",
-          "traditional": "佢今日個造型好特別。",
-          "jyutping": "keoi5 gam1 jat6 go3 zou6 jing4 hou2 dak6 bit6"
-        }
-      ]
+      "english": "Today's cake tastes really special.",
+      "traditional": "今日份蛋糕味道好特別。",
+      "jyutping": "gam1 jat6 fan6 daan6 gou1 mei6 dou6 hou2 dak6 bit6"
+    },
+    {
+      "english": "This situation is truly extraordinary.",
+      "traditional": "呢個情況真係特別。",
+      "jyutping": "ni1 go3 cing4 fong3 zan1 hai6 dak6 bit6"
+    },
+    {
+      "english": "The decor of this restaurant is remarkable—it is really unusual.",
+      "traditional": "呢間餐廳嘅裝修好特別。",
+      "jyutping": "ni1 gaan1 caan1 teng1 ge3 zong1 sau1 hou2 dak6 bit6"
+    },
+    {
+      "english": "The design of this gift is exceptional.",
+      "traditional": "呢份禮物個設計好特別。",
+      "jyutping": "ne1 fan2 lai5 mat6 go3 cit3 gai3 hou2 dak6 bit6"
+    },
+    {
+      "english": "This movie isn't anything particular; once you've watched it, that's it.",
+      "traditional": "呢套戲冇乜特別，睇完就算。",
+      "jyutping": "ni1 tou3 hei3 mou5 mat1 dak6 bit6 tai2 jyun4 zau6 syun3"
+    },
+    {
+      "english": "Their look today is very different.",
+      "traditional": "佢今日個造型好特別。",
+      "jyutping": "keoi5 gam1 jat6 go3 zou6 jing4 hou2 dak6 bit6"
     }
   ]
 }

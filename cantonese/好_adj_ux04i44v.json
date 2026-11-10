@@ -1,92 +1,88 @@
 {
   "id": "ux04i44v",
   "partOfSpeech": "adj",
+  "meaning": "good, nice",
+  "english": [
+    {
+      "id": "lhp3q8vv",
+      "word": "good",
+      "meaning": "moral; benevolent",
+      "note": "This is the all-purpose choice for moral, beneficial, favorable, pleasant, or broadly positive evaluations."
+    },
+    {
+      "id": "877ro5em",
+      "word": "great",
+      "meaning": "excellent",
+      "note": "Use this as the all-purpose spoken choice for something being excellent or wonderful."
+    },
+    {
+      "id": "zijk292m",
+      "word": "nice",
+      "meaning": "pleasant, agreeable",
+      "note": "This is the all-purpose choice for something pleasant or satisfactory, a generally good or decent person, or a favorable assessment."
+    },
+    {
+      "id": "2bmynbsz",
+      "word": "lovely",
+      "meaning": "beautiful, delightful",
+      "note": "Use 好 as the all-purpose choice for something generally pleasant, nice, or desirable."
+    },
+    {
+      "id": "poof7ajo",
+      "word": "grand",
+      "meaning": "good; fine; okay",
+      "note": "For the approval sense, this is the all-purpose colloquial adjective meaning fine, good, or lovely."
+    },
+    {
+      "id": "2x09ocyw",
+      "word": "pleasant",
+      "meaning": "giving pleasure; nice",
+      "note": "Use this broad everyday choice when pleasant simply means nice or good in context."
+    },
+    {
+      "id": "r3vrecv0",
+      "word": "beautiful",
+      "meaning": "excellent; very good",
+      "note": "Use this for a person or thing that is good, excellent, or admirable, especially for their character."
+    }
+  ],
   "traditional": "好",
   "jyutping": "hou2",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "good, nice",
-      "english": [
-        {
-          "id": "lhp3q8vv",
-          "word": "good",
-          "meaning": "moral; benevolent",
-          "note": "This is the all-purpose choice for moral, beneficial, favorable, pleasant, or broadly positive evaluations."
-        },
-        {
-          "id": "877ro5em",
-          "word": "great",
-          "meaning": "excellent",
-          "note": "Use this as the all-purpose spoken choice for something being excellent or wonderful."
-        },
-        {
-          "id": "zijk292m",
-          "word": "nice",
-          "meaning": "pleasant, agreeable",
-          "note": "This is the all-purpose choice for something pleasant or satisfactory, a generally good or decent person, or a favorable assessment."
-        },
-        {
-          "id": "2bmynbsz",
-          "word": "lovely",
-          "meaning": "beautiful, delightful",
-          "note": "Use 好 as the all-purpose choice for something generally pleasant, nice, or desirable."
-        },
-        {
-          "id": "poof7ajo",
-          "word": "grand",
-          "meaning": "good; fine; okay",
-          "note": "For the approval sense, this is the all-purpose colloquial adjective meaning fine, good, or lovely."
-        },
-        {
-          "id": "2x09ocyw",
-          "word": "pleasant",
-          "meaning": "giving pleasure; nice",
-          "note": "Use this broad everyday choice when pleasant simply means nice or good in context."
-        },
-        {
-          "id": "r3vrecv0",
-          "word": "beautiful",
-          "meaning": "excellent; very good",
-          "note": "Use this for a person or thing that is good, excellent, or admirable, especially for their character."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This approach is good for everyone.",
-          "traditional": "呢個做法對大家都好。",
-          "jyutping": "ni1 go3 zou6 faat3 deoi3 daai6 gaa1 dou1 hou2"
-        },
-        {
-          "english": "Your report is really great.",
-          "traditional": "你份報告真係好喎。",
-          "jyutping": "nei5 fan6 bou3 gou3 zan1 hai6 hou2 wo3"
-        },
-        {
-          "english": "The food at this restaurant is nice.",
-          "traditional": "呢間餐廳啲嘢食好。",
-          "jyutping": "ni1 gaan1 caan1 teng1 di1 je5 sik6 hou2"
-        },
-        {
-          "english": "This café has a lovely atmosphere.",
-          "traditional": "呢間咖啡店環境好舒服。",
-          "jyutping": "nei1 gaan1 gaa3 fe1 dim3 waan4 ging2 hou2 syu1 fuk6"
-        },
-        {
-          "english": "This arrangement is grand.",
-          "traditional": "呢個安排好喎。",
-          "jyutping": "ni1 go3 on1 paai4 hou2 wo3"
-        },
-        {
-          "english": "The weather is pleasant today, so it’s perfect for a hike.",
-          "traditional": "今日天氣好，最啱去郊遊。",
-          "jyutping": "gam1 jat6 tin1 hei3 hou2 zeoi3 ngaam1 heoi3 gaau1 jau4"
-        },
-        {
-          "english": "I think they are beautiful.",
-          "traditional": "我覺得佢個人真係好。",
-          "jyutping": "ngo5 gok3 dak1 keoi5 go3 jan4 zan1 hai6 hou2"
-        }
-      ]
+      "english": "This approach is good for everyone.",
+      "traditional": "呢個做法對大家都好。",
+      "jyutping": "ni1 go3 zou6 faat3 deoi3 daai6 gaa1 dou1 hou2"
+    },
+    {
+      "english": "Your report is really great.",
+      "traditional": "你份報告真係好喎。",
+      "jyutping": "nei5 fan6 bou3 gou3 zan1 hai6 hou2 wo3"
+    },
+    {
+      "english": "The food at this restaurant is nice.",
+      "traditional": "呢間餐廳啲嘢食好。",
+      "jyutping": "ni1 gaan1 caan1 teng1 di1 je5 sik6 hou2"
+    },
+    {
+      "english": "This café has a lovely atmosphere.",
+      "traditional": "呢間咖啡店環境好舒服。",
+      "jyutping": "nei1 gaan1 gaa3 fe1 dim3 waan4 ging2 hou2 syu1 fuk6"
+    },
+    {
+      "english": "This arrangement is grand.",
+      "traditional": "呢個安排好喎。",
+      "jyutping": "ni1 go3 on1 paai4 hou2 wo3"
+    },
+    {
+      "english": "The weather is pleasant today, so it’s perfect for a hike.",
+      "traditional": "今日天氣好，最啱去郊遊。",
+      "jyutping": "gam1 jat6 tin1 hei3 hou2 zeoi3 ngaam1 heoi3 gaau1 jau4"
+    },
+    {
+      "english": "I think they are beautiful.",
+      "traditional": "我覺得佢個人真係好。",
+      "jyutping": "ngo5 gok3 dak1 keoi5 go3 jan4 zan1 hai6 hou2"
     }
   ]
 }

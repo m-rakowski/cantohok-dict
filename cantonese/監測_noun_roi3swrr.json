@@ -1,28 +1,24 @@
 {
   "id": "roi3swrr",
   "partOfSpeech": "noun",
+  "meaning": "disease monitoring",
+  "english": [
+    {
+      "id": "8wyz07hg",
+      "word": "surveillance",
+      "meaning": "disease monitoring",
+      "register": "formal",
+      "note": "Use this formal term for ongoing monitoring of disease occurrence, especially in public-health contexts."
+    }
+  ],
   "traditional": "監測",
   "jyutping": "gaam1 cak1",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "disease monitoring",
-      "english": [
-        {
-          "id": "8wyz07hg",
-          "word": "surveillance",
-          "meaning": "disease monitoring",
-          "register": "formal",
-          "note": "Use this formal term for ongoing monitoring of disease occurrence, especially in public-health contexts."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The Department of Health conducts ongoing surveillance of flu cases to detect outbreaks early.",
-          "traditional": "衞生署持續監測流感個案，及早發現爆發。",
-          "jyutping": "wai6 sang1 cyu5 ci4 zuk6 gaam1 cak1 lau4 gam2 go3 on3 kap6 zou2 faat3 jin6 baau3 faat3"
-        }
-      ]
+      "english": "The Department of Health conducts ongoing surveillance of flu cases to detect outbreaks early.",
+      "traditional": "衞生署持續監測流感個案，及早發現爆發。",
+      "jyutping": "wai6 sang1 cyu5 ci4 zuk6 gaam1 cak1 lau4 gam2 go3 on3 kap6 zou2 faat3 jin6 baau3 faat3"
     }
   ]
 }

@@ -1,48 +1,44 @@
 {
   "id": "6efsr1zg",
   "partOfSpeech": "noun",
+  "meaning": "activity, event",
+  "english": [
+    {
+      "id": "fmw7b4iv",
+      "word": "activity",
+      "meaning": "state of being active",
+      "note": "Use 活動 as the all-purpose noun for active goings-on, a general activity, or a leisure activity."
+    },
+    {
+      "id": "yq8mik35",
+      "word": "function",
+      "meaning": "social event, formal gathering",
+      "note": "Use 活動 for an organised official, work-related, or public event."
+    },
+    {
+      "id": "aaoy1v1z",
+      "word": "event",
+      "meaning": "social event",
+      "note": "Use 活動 for a prearranged social activity or function."
+    }
+  ],
   "traditional": "活動",
   "jyutping": "wut6 dung6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "activity, event",
-      "english": [
-        {
-          "id": "fmw7b4iv",
-          "word": "activity",
-          "meaning": "state of being active",
-          "note": "Use 活動 as the all-purpose noun for active goings-on, a general activity, or a leisure activity."
-        },
-        {
-          "id": "yq8mik35",
-          "word": "function",
-          "meaning": "social event, formal gathering",
-          "note": "Use 活動 for an organised official, work-related, or public event."
-        },
-        {
-          "id": "aaoy1v1z",
-          "word": "event",
-          "meaning": "social event",
-          "note": "Use 活動 for a prearranged social activity or function."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This activity is suitable for the whole family.",
-          "traditional": "呢個活動幾啱一家大細參加。",
-          "jyutping": "ni1 go3 wut6 dung6 gei2 ngaam1 jat1 gaa1 daai6 sai3 caam1 gaa1"
-        },
-        {
-          "english": "The company has a charity function next week.",
-          "traditional": "公司下星期有個慈善活動。",
-          "jyutping": "gung1 si1 haa6 sing1 kei4 jau5 go3 ci4 sin6 wut6 dung6"
-        },
-        {
-          "english": "Tonight's event has singing and dancing.",
-          "traditional": "今晚個社區活動有唱歌同跳舞。",
-          "jyutping": "gam1 maan5 go3 se5 keoi1 wut6 dung6 jau5 coeng3 go1 tung4 tiu3 mou5"
-        }
-      ]
+      "english": "This activity is suitable for the whole family.",
+      "traditional": "呢個活動幾啱一家大細參加。",
+      "jyutping": "ni1 go3 wut6 dung6 gei2 ngaam1 jat1 gaa1 daai6 sai3 caam1 gaa1"
+    },
+    {
+      "english": "The company has a charity function next week.",
+      "traditional": "公司下星期有個慈善活動。",
+      "jyutping": "gung1 si1 haa6 sing1 kei4 jau5 go3 ci4 sin6 wut6 dung6"
+    },
+    {
+      "english": "Tonight's event has singing and dancing.",
+      "traditional": "今晚個社區活動有唱歌同跳舞。",
+      "jyutping": "gam1 maan5 go3 se5 keoi1 wut6 dung6 jau5 coeng3 go1 tung4 tiu3 mou5"
     }
   ]
 }

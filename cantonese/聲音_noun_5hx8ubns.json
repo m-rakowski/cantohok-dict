@@ -1,55 +1,33 @@
 {
   "id": "5hx8ubns",
   "partOfSpeech": "noun",
-  "traditional": "聲音",
-  "jyutping": "sing1 jam1",
-  "boxes": [
+  "meaning": "sound, noise",
+  "english": [
     {
-      "meaning": "sound, noise",
-      "english": [
-        {
-          "id": "13nvaac4",
-          "word": "sound",
-          "meaning": "noise heard by ear",
-          "note": "This is the all-purpose choice for a sound or noise heard by the ear."
-        },
-        {
-          "id": "12ul4jk5",
-          "word": "noise",
-          "meaning": "any sound",
-          "note": "Use this for the neutral sense of any sound, without implying that it is unpleasant."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I heard the sound coming from the kitchen.",
-          "traditional": "我聽到廚房傳嚟嘅聲音。",
-          "jyutping": "ngo5 teng1 dou2 cyu4 fong2 cyun4 lei4 ge3 sing1 jam1"
-        },
-        {
-          "english": "I heard a noise outside the door.",
-          "traditional": "我聽到門外有聲音。",
-          "jyutping": "ngo5 teng1 dou2 mun4 ngoi6 jau5 sing1 jam1"
-        }
-      ]
+      "id": "13nvaac4",
+      "word": "sound",
+      "meaning": "noise heard by ear",
+      "note": "This is the all-purpose choice for a sound or noise heard by the ear."
     },
     {
-      "meaning": "a person's voice",
-      "english": [
-        {
-          "id": "r5pi9oi4",
-          "word": "voice",
-          "meaning": "human speech sound",
-          "note": "This is the all-purpose choice for a human voice as a sound and, in context, the usable power of speaking."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Your voice sounds really nice.",
-          "traditional": "你嘅聲音幾好聽喎。",
-          "jyutping": "nei5 ge3 sing1 jam1 gei2 hou2 teng1 wo3"
-        }
-      ]
+      "id": "12ul4jk5",
+      "word": "noise",
+      "meaning": "any sound",
+      "note": "Use this for the neutral sense of any sound, without implying that it is unpleasant."
+    }
+  ],
+  "traditional": "聲音",
+  "jyutping": "sing1 jam1",
+  "examples": [
+    {
+      "english": "I heard the sound coming from the kitchen.",
+      "traditional": "我聽到廚房傳嚟嘅聲音。",
+      "jyutping": "ngo5 teng1 dou2 cyu4 fong2 cyun4 lei4 ge3 sing1 jam1"
+    },
+    {
+      "english": "I heard a noise outside the door.",
+      "traditional": "我聽到門外有聲音。",
+      "jyutping": "ngo5 teng1 dou2 mun4 ngoi6 jau5 sing1 jam1"
     }
   ]
 }

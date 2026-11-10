@@ -1,28 +1,24 @@
 {
   "id": "p0tij7og",
   "partOfSpeech": "noun",
+  "meaning": "actors",
+  "english": [
+    {
+      "id": "yz4gicz7",
+      "word": "cast",
+      "meaning": "actors",
+      "register": "colloquial",
+      "note": "Use this colloquial entertainment term for the group of actors in a production."
+    }
+  ],
   "traditional": "卡士",
   "jyutping": "kaa1 si2",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "actors",
-      "english": [
-        {
-          "id": "yz4gicz7",
-          "word": "cast",
-          "meaning": "actors",
-          "register": "colloquial",
-          "note": "Use this colloquial entertainment term for the group of actors in a production."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "The cast of this movie is excellent.",
-          "traditional": "呢套戲個卡士好勁。",
-          "jyutping": "ni1 tou3 hei3 go3 kaa1 si2 hou2 ging6"
-        }
-      ]
+      "english": "The cast of this movie is excellent.",
+      "traditional": "呢套戲個卡士好勁。",
+      "jyutping": "ni1 tou3 hei3 go3 kaa1 si2 hou2 ging6"
     }
   ]
 }

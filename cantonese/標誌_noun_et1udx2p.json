@@ -1,37 +1,33 @@
 {
   "id": "et1udx2p",
   "partOfSpeech": "noun",
+  "meaning": "logo, symbol",
+  "english": [
+    {
+      "id": "7d5f6oqc",
+      "word": "logo",
+      "meaning": "company logo",
+      "note": "This is the all-purpose choice for a visual symbol identifying a company or organization."
+    },
+    {
+      "id": "40uej92i",
+      "word": "symbol",
+      "meaning": "representative thing",
+      "note": "Use 標誌 for a recognizable emblem, landmark, or public sign that represents a group, place, or idea."
+    }
+  ],
   "traditional": "標誌",
   "jyutping": "biu1 zi3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "logo, symbol",
-      "english": [
-        {
-          "id": "7d5f6oqc",
-          "word": "logo",
-          "meaning": "company logo",
-          "note": "This is the all-purpose choice for a visual symbol identifying a company or organization."
-        },
-        {
-          "id": "40uej92i",
-          "word": "symbol",
-          "meaning": "representative thing",
-          "note": "Use 標誌 for a recognizable emblem, landmark, or public sign that represents a group, place, or idea."
-        }
-      ],
-      "examples": [
-        {
-          "english": "You can tell which company it is just by looking at this logo.",
-          "traditional": "呢個標誌一睇就知係邊間公司嘅。",
-          "jyutping": "nei1 go3 biu1 zi3 jat1 tai2 zau6 zi1 hai6 bin1 gaan1 gung1 si1 ge3"
-        },
-        {
-          "english": "That clock tower is a symbol of this city.",
-          "traditional": "嗰座鐘樓係呢個城市嘅標誌。",
-          "jyutping": "go2 zo6 zung1 lau4 hai6 ni1 go3 sing4 si5 ge3 biu1 zi3"
-        }
-      ]
+      "english": "You can tell which company it is just by looking at this logo.",
+      "traditional": "呢個標誌一睇就知係邊間公司嘅。",
+      "jyutping": "nei1 go3 biu1 zi3 jat1 tai2 zau6 zi1 hai6 bin1 gaan1 gung1 si1 ge3"
+    },
+    {
+      "english": "That clock tower is a symbol of this city.",
+      "traditional": "嗰座鐘樓係呢個城市嘅標誌。",
+      "jyutping": "go2 zo6 zung1 lau4 hai6 ni1 go3 sing4 si5 ge3 biu1 zi3"
     }
   ]
 }

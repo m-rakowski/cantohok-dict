@@ -1,28 +1,24 @@
 {
   "id": "09fcr4s6",
   "partOfSpeech": "verb",
+  "meaning": "burn in extreme heat",
+  "english": [
+    {
+      "id": "b1k2qafy",
+      "word": "fry",
+      "meaning": "burn in extreme heat",
+      "register": "colloquial",
+      "note": "Use 熱死 when someone suffers unbearably in excessive heat, often as colloquial exaggeration."
+    }
+  ],
   "traditional": "熱死",
   "jyutping": "jit6 sei2",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "burn in extreme heat",
-      "english": [
-        {
-          "id": "b1k2qafy",
-          "word": "fry",
-          "meaning": "burn in extreme heat",
-          "register": "colloquial",
-          "note": "Use 熱死 when someone suffers unbearably in excessive heat, often as colloquial exaggeration."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "It’s so hot today, I could fry.",
-          "traditional": "今日咁熱，我真係熱死喇。",
-          "jyutping": "gam1 jat6 gam3 jit6 ngo5 zan1 hai6 jit6 sei2 laa3"
-        }
-      ]
+      "english": "It’s so hot today, I could fry.",
+      "traditional": "今日咁熱，我真係熱死喇。",
+      "jyutping": "gam1 jat6 gam3 jit6 ngo5 zan1 hai6 jit6 sei2 laa3"
     }
   ]
 }

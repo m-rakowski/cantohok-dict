@@ -1,59 +1,55 @@
 {
   "id": "3l3fnuj4",
   "partOfSpeech": "verb",
+  "meaning": "should, ought to",
+  "english": [
+    {
+      "id": "b8d2pov0",
+      "word": "should",
+      "meaning": "obligation / advice",
+      "note": "This is the all-purpose choice for issuing advice or a mild instruction."
+    },
+    {
+      "id": "smosoayb",
+      "word": "ought to",
+      "meaning": "duty or obligation",
+      "note": "This is the all-purpose choice for duty, advice, desirability, and likelihood."
+    },
+    {
+      "id": "gh18qwfj",
+      "word": "shall",
+      "meaning": "legal/forceful obligation",
+      "note": "Use 應該 when shall expresses obligation or what someone is expected to do."
+    },
+    {
+      "id": "sy3tzuzg",
+      "word": "must",
+      "meaning": "have to; be required",
+      "note": "Use 應該 for an obligation framed as what someone ought to do, rather than the stronger requirement expressed by 要."
+    }
+  ],
   "traditional": "應該",
   "jyutping": "jing1 goi1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "should, ought to",
-      "english": [
-        {
-          "id": "b8d2pov0",
-          "word": "should",
-          "meaning": "obligation / advice",
-          "note": "This is the all-purpose choice for issuing advice or a mild instruction."
-        },
-        {
-          "id": "smosoayb",
-          "word": "ought to",
-          "meaning": "duty or obligation",
-          "note": "This is the all-purpose choice for duty, advice, desirability, and likelihood."
-        },
-        {
-          "id": "gh18qwfj",
-          "word": "shall",
-          "meaning": "legal/forceful obligation",
-          "note": "Use 應該 when shall expresses obligation or what someone is expected to do."
-        },
-        {
-          "id": "sy3tzuzg",
-          "word": "must",
-          "meaning": "have to; be required",
-          "note": "Use 應該 for an obligation framed as what someone ought to do, rather than the stronger requirement expressed by 要."
-        }
-      ],
-      "examples": [
-        {
-          "english": "You should go to bed earlier.",
-          "traditional": "你應該早啲瞓。",
-          "jyutping": "nei5 jing1 goi1 zou2 di1 fan3"
-        },
-        {
-          "english": "It ought to rain tonight, so remember to bring an umbrella.",
-          "traditional": "今晚應該會落雨，記得帶遮。",
-          "jyutping": "gam1 maan5 jing1 goi1 wui5 lok6 jyu5 gei3 dak1 daai3 ze1"
-        },
-        {
-          "english": "You shall submit the report today.",
-          "traditional": "你今日應該交份報告。",
-          "jyutping": "nei5 gam1 jat6 jing1 goi1 gaau1 fan6 bou3 gou3"
-        },
-        {
-          "english": "You must apologize to him.",
-          "traditional": "你應該同佢道歉。",
-          "jyutping": "nei5 jing1 goi1 tung4 keoi5 dou6 hip3"
-        }
-      ]
+      "english": "You should go to bed earlier.",
+      "traditional": "你應該早啲瞓。",
+      "jyutping": "nei5 jing1 goi1 zou2 di1 fan3"
+    },
+    {
+      "english": "It ought to rain tonight, so remember to bring an umbrella.",
+      "traditional": "今晚應該會落雨，記得帶遮。",
+      "jyutping": "gam1 maan5 jing1 goi1 wui5 lok6 jyu5 gei3 dak1 daai3 ze1"
+    },
+    {
+      "english": "You shall submit the report today.",
+      "traditional": "你今日應該交份報告。",
+      "jyutping": "nei5 gam1 jat6 jing1 goi1 gaau1 fan6 bou3 gou3"
+    },
+    {
+      "english": "You must apologize to him.",
+      "traditional": "你應該同佢道歉。",
+      "jyutping": "nei5 jing1 goi1 tung4 keoi5 dou6 hip3"
     }
   ]
 }

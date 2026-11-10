@@ -1,38 +1,34 @@
 {
   "id": "drbusk4o",
   "partOfSpeech": "noun",
+  "meaning": "machine, device",
+  "english": [
+    {
+      "id": "vfujsuyu",
+      "word": "machine",
+      "meaning": "mechanical device",
+      "note": "This is the all-purpose colloquial word for a machine, and it can also mean a computer when the context is clear."
+    },
+    {
+      "id": "owpvs5qy",
+      "word": "device",
+      "meaning": "piece of equipment",
+      "register": "colloquial",
+      "note": "Use 機 for an everyday mechanical or electrical machine when the exact technical term is unimportant."
+    }
+  ],
   "traditional": "機",
   "jyutping": "gei1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "machine, device",
-      "english": [
-        {
-          "id": "vfujsuyu",
-          "word": "machine",
-          "meaning": "mechanical device",
-          "note": "This is the all-purpose colloquial word for a machine, and it can also mean a computer when the context is clear."
-        },
-        {
-          "id": "owpvs5qy",
-          "word": "device",
-          "meaning": "piece of equipment",
-          "register": "colloquial",
-          "note": "Use 機 for an everyday mechanical or electrical machine when the exact technical term is unimportant."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This machine won't move.",
-          "traditional": "呢部機郁唔到喎。",
-          "jyutping": "ni1 bou6 gei1 juk1 m4 dou2 wo3"
-        },
-        {
-          "english": "The device suddenly won't turn on.",
-          "traditional": "部機突然唔著喇。",
-          "jyutping": "bou6 gei1 dat6 jin4 m4 zoek6 laa3"
-        }
-      ]
+      "english": "This machine won't move.",
+      "traditional": "呢部機郁唔到喎。",
+      "jyutping": "ni1 bou6 gei1 juk1 m4 dou2 wo3"
+    },
+    {
+      "english": "The device suddenly won't turn on.",
+      "traditional": "部機突然唔著喇。",
+      "jyutping": "bou6 gei1 dat6 jin4 m4 zoek6 laa3"
     }
   ]
 }

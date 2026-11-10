@@ -1,35 +1,31 @@
 {
   "id": "n6vg2jno",
   "partOfSpeech": "verb",
+  "meaning": "appoint to a position",
+  "english": [
+    {
+      "id": "hopjvm5r",
+      "word": "appoint",
+      "meaning": "name to a job",
+      "register": "formal",
+      "note": "Use this for a formal appointment that entrusts someone with a position or authority."
+    },
+    {
+      "id": "v1gt0m4f",
+      "word": "name",
+      "meaning": "appoint to a role",
+      "register": "formal",
+      "note": "Use this in formal contexts when officially appointing someone to a position or role."
+    }
+  ],
   "traditional": "委任",
   "jyutping": "wai2 jam6",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "appoint to a position",
-      "english": [
-        {
-          "id": "hopjvm5r",
-          "word": "appoint",
-          "meaning": "name to a job",
-          "register": "formal",
-          "note": "Use this for a formal appointment that entrusts someone with a position or authority."
-        },
-        {
-          "id": "v1gt0m4f",
-          "word": "name",
-          "meaning": "appoint to a role",
-          "register": "formal",
-          "note": "Use this in formal contexts when officially appointing someone to a position or role."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The government makes a formal decision to appoint him as committee chair.",
-          "traditional": "政府正式委任佢做委員會主席。",
-          "jyutping": "zing3 fu2 zing3 sik1 wai2 jam6 keoi5 zou6 wai2 jyun4 wui2 zyu2 zik6"
-        }
-      ]
+      "english": "The government makes a formal decision to appoint him as committee chair.",
+      "traditional": "政府正式委任佢做委員會主席。",
+      "jyutping": "zing3 fu2 zing3 sik1 wai2 jam6 keoi5 zou6 wai2 jyun4 wui2 zyu2 zik6"
     }
   ]
 }

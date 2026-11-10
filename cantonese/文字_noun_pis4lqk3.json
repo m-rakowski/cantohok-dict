@@ -1,55 +1,22 @@
 {
   "id": "pis4lqk3",
   "partOfSpeech": "noun",
+  "meaning": "written text",
+  "english": [
+    {
+      "id": "zjudpx6n",
+      "word": "text",
+      "meaning": "written passage",
+      "note": "This is the all-purpose choice for written text or wording in general."
+    }
+  ],
   "traditional": "文字",
   "jyutping": "man4 zi6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "written text",
-      "english": [
-        {
-          "id": "zjudpx6n",
-          "word": "text",
-          "meaning": "written passage",
-          "note": "This is the all-purpose choice for written text or wording in general."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I’ve read this text three times and still don’t understand it.",
-          "traditional": "呢段文字我睇咗三次都仲係唔明。",
-          "jyutping": "ni1 dyun6 man4 zi6 ngo5 tai2 zo2 saam1 ci3 dou1 zung6 hai6 m4 ming4"
-        }
-      ]
-    },
-    {
-      "meaning": "writing system, script",
-      "english": [
-        {
-          "id": "tzk45znq",
-          "word": "writing",
-          "meaning": "writing system",
-          "note": "Use this for the script or written-language system itself, rather than for a particular written work."
-        },
-        {
-          "id": "8axxpdi8",
-          "word": "script",
-          "meaning": "writing system",
-          "note": "Use this for a writing system when the language or people using it makes that meaning clear."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This writing system is hard to learn.",
-          "traditional": "呢套文字好難學。",
-          "jyutping": "ni1 tou3 man4 zi6 hou2 naan4 hok6"
-        },
-        {
-          "english": "This script is still used in Japanese.",
-          "traditional": "呢種文字喺日文入面仲用緊。",
-          "jyutping": "ni1 zung2 man4 zi6 hai2 jat6 man4 jap6 min6 zung6 jung6 gan2"
-        }
-      ]
+      "english": "I’ve read this text three times and still don’t understand it.",
+      "traditional": "呢段文字我睇咗三次都仲係唔明。",
+      "jyutping": "ni1 dyun6 man4 zi6 ngo5 tai2 zo2 saam1 ci3 dou1 zung6 hai6 m4 ming4"
     }
   ]
 }

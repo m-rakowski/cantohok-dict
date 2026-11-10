@@ -1,28 +1,24 @@
 {
   "id": "tehd49tk",
   "partOfSpeech": "noun",
+  "meaning": "textual context",
+  "english": [
+    {
+      "id": "4c7wzlh5",
+      "word": "context",
+      "meaning": "textual context",
+      "register": "formal",
+      "note": "Use this for the linguistic context that determines the meaning of a word or passage."
+    }
+  ],
   "traditional": "語境",
   "jyutping": "jyu5 ging2",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "textual context",
-      "english": [
-        {
-          "id": "4c7wzlh5",
-          "word": "context",
-          "meaning": "textual context",
-          "register": "formal",
-          "note": "Use this for the linguistic context that determines the meaning of a word or passage."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The context of this word in this sentence is very important.",
-          "traditional": "呢個字喺呢句入面嘅語境好重要。",
-          "jyutping": "ni1 go3 zi6 hai2 ni1 geoi3 jap6 min6 ge3 jyu5 ging2 hou2 zung6 jiu3"
-        }
-      ]
+      "english": "The context of this word in this sentence is very important.",
+      "traditional": "呢個字喺呢句入面嘅語境好重要。",
+      "jyutping": "ni1 go3 zi6 hai2 ni1 geoi3 jap6 min6 ge3 jyu5 ging2 hou2 zung6 jiu3"
     }
   ]
 }

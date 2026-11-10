@@ -1,33 +1,29 @@
 {
   "id": "s6tsszxf",
   "partOfSpeech": "verb",
+  "meaning": "inform on, report",
+  "english": [
+    {
+      "id": "xyj0sivq",
+      "word": "inform",
+      "meaning": "inform on, report",
+      "register": "colloquial",
+      "note": "Use this colloquial word when someone rats on or denounces another person."
+    },
+    {
+      "word": "tell on",
+      "meaning": "inform on, report",
+      "register": "colloquial"
+    }
+  ],
   "traditional": "篤灰",
   "jyutping": "duk1 fui1",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "inform on, report",
-      "english": [
-        {
-          "id": "xyj0sivq",
-          "word": "inform",
-          "meaning": "inform on, report",
-          "register": "colloquial",
-          "note": "Use this colloquial word when someone rats on or denounces another person."
-        },
-        {
-          "word": "tell on",
-          "meaning": "inform on, report",
-          "register": "colloquial"
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "They actually inform on me, so the boss chews me out.",
-          "traditional": "佢竟然篤灰，搞到我畀老闆鬧。",
-          "jyutping": "keoi5 ging2 jin4 duk1 fui1 gaau2 dou3 ngo5 bei2 lou5 baan2 naau6"
-        }
-      ]
+      "english": "They actually inform on me, so the boss chews me out.",
+      "traditional": "佢竟然篤灰，搞到我畀老闆鬧。",
+      "jyutping": "keoi5 ging2 jin4 duk1 fui1 gaau2 dou3 ngo5 bei2 lou5 baan2 naau6"
     }
   ]
 }

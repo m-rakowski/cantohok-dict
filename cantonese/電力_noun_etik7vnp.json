@@ -1,37 +1,33 @@
 {
   "id": "etik7vnp",
   "partOfSpeech": "noun",
+  "meaning": "electric power, electricity supply",
+  "english": [
+    {
+      "id": "cds0ujro",
+      "word": "power",
+      "meaning": "electricity",
+      "note": "Use 電力 for electricity or an electricity supply, especially when discussing power cuts or equipment."
+    },
+    {
+      "id": "bl8gvc72",
+      "word": "electricity",
+      "meaning": "electrical power",
+      "note": "Use 電力 for electrical power or the electricity supplied by the utility."
+    }
+  ],
   "traditional": "電力",
   "jyutping": "din6 lik6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "electric power, electricity supply",
-      "english": [
-        {
-          "id": "cds0ujro",
-          "word": "power",
-          "meaning": "electricity",
-          "note": "Use 電力 for electricity or an electricity supply, especially when discussing power cuts or equipment."
-        },
-        {
-          "id": "bl8gvc72",
-          "word": "electricity",
-          "meaning": "electrical power",
-          "note": "Use 電力 for electrical power or the electricity supplied by the utility."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This machine cannot work without power.",
-          "traditional": "呢部機冇電力就開唔到。",
-          "jyutping": "ni1 bou6 gei1 mou5 din6 lik6 zau6 hoi1 m4 dou2"
-        },
-        {
-          "english": "The electricity supply is very stable this month.",
-          "traditional": "今個月電力供應好穩定。",
-          "jyutping": "gam1 go3 jyut6 din6 lik6 gung1 jing3 hou2 wan2 ding6"
-        }
-      ]
+      "english": "This machine cannot work without power.",
+      "traditional": "呢部機冇電力就開唔到。",
+      "jyutping": "ni1 bou6 gei1 mou5 din6 lik6 zau6 hoi1 m4 dou2"
+    },
+    {
+      "english": "The electricity supply is very stable this month.",
+      "traditional": "今個月電力供應好穩定。",
+      "jyutping": "gam1 go3 jyut6 din6 lik6 gung1 jing3 hou2 wan2 ding6"
     }
   ]
 }

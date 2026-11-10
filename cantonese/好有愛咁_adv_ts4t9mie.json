@@ -1,40 +1,36 @@
 {
   "id": "ts4t9mie",
   "partOfSpeech": "adv",
+  "meaning": "lovingly",
+  "english": [
+    {
+      "id": "3pbd1rub",
+      "word": "lovingly",
+      "meaning": "affectionately",
+      "register": "colloquial",
+      "note": "This is the all-purpose colloquial choice for doing something with affection and care."
+    },
+    {
+      "id": "bat27r9w",
+      "word": "affectionately",
+      "meaning": "in an affectionate way",
+      "register": "colloquial",
+      "note": "This is the casual all-purpose choice for doing or saying something in a loving, affectionate way."
+    }
+  ],
   "traditional": "好有愛咁",
   "jyutping": "hou2 jau5 oi3 gam2",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "lovingly",
-      "english": [
-        {
-          "id": "3pbd1rub",
-          "word": "lovingly",
-          "meaning": "affectionately",
-          "register": "colloquial",
-          "note": "This is the all-purpose colloquial choice for doing something with affection and care."
-        },
-        {
-          "id": "bat27r9w",
-          "word": "affectionately",
-          "meaning": "in an affectionate way",
-          "register": "colloquial",
-          "note": "This is the casual all-purpose choice for doing or saying something in a loving, affectionate way."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "They lovingly take care of stray cats.",
-          "traditional": "佢好有愛咁照顧啲流浪貓。",
-          "jyutping": "keoi5 hou2 jau5 oi3 gam2 ziu3 gu3 di1 lau4 long6 maau1"
-        },
-        {
-          "english": "I affectionately call him my boy.",
-          "traditional": "我好有愛咁叫佢做阿仔。",
-          "jyutping": "ngo5 hou2 jau5 oi3 gam2 giu3 keoi5 zou6 aa3 zai2"
-        }
-      ]
+      "english": "They lovingly take care of stray cats.",
+      "traditional": "佢好有愛咁照顧啲流浪貓。",
+      "jyutping": "keoi5 hou2 jau5 oi3 gam2 ziu3 gu3 di1 lau4 long6 maau1"
+    },
+    {
+      "english": "I affectionately call him my boy.",
+      "traditional": "我好有愛咁叫佢做阿仔。",
+      "jyutping": "ngo5 hou2 jau5 oi3 gam2 giu3 keoi5 zou6 aa3 zai2"
     }
   ]
 }

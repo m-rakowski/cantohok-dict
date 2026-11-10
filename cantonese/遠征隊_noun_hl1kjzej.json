@@ -1,28 +1,24 @@
 {
   "id": "hl1kjzej",
   "partOfSpeech": "noun",
+  "meaning": "group on expedition",
+  "english": [
+    {
+      "id": "84inv0rv",
+      "word": "expedition",
+      "meaning": "group on expedition",
+      "register": "formal",
+      "note": "Use this when referring to the team or group of people making the expedition rather than to the journey itself."
+    }
+  ],
   "traditional": "遠征隊",
   "jyutping": "jyun5 zing1 deoi6",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "group on expedition",
-      "english": [
-        {
-          "id": "84inv0rv",
-          "word": "expedition",
-          "meaning": "group on expedition",
-          "register": "formal",
-          "note": "Use this when referring to the team or group of people making the expedition rather than to the journey itself."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "That expedition team is made up of ten scientists.",
-          "traditional": "嗰支遠征隊由十個科學家組成。",
-          "jyutping": "go2 zi1 jyun5 zing1 deoi6 jau4 sap6 go3 fo1 hok6 gaa1 zou2 sing4"
-        }
-      ]
+      "english": "That expedition team is made up of ten scientists.",
+      "traditional": "嗰支遠征隊由十個科學家組成。",
+      "jyutping": "go2 zi1 jyun5 zing1 deoi6 jau4 sap6 go3 fo1 hok6 gaa1 zou2 sing4"
     }
   ]
 }

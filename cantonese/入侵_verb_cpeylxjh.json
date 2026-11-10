@@ -1,55 +1,22 @@
 {
   "id": "cpeylxjh",
   "partOfSpeech": "verb",
+  "meaning": "to invade",
+  "english": [
+    {
+      "id": "txuikuhe",
+      "word": "invade",
+      "meaning": "enter by force",
+      "note": "This is the all-purpose choice for hostile entry into a country, territory, organization, or system."
+    }
+  ],
   "traditional": "入侵",
   "jyutping": "jap6 cam1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "to invade",
-      "english": [
-        {
-          "id": "txuikuhe",
-          "word": "invade",
-          "meaning": "enter by force",
-          "note": "This is the all-purpose choice for hostile entry into a country, territory, organization, or system."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The enemy army may invade our country.",
-          "traditional": "敵軍可能入侵我國。",
-          "jyutping": "dik6 gwan1 ho2 nang4 jap6 cam1 ngo5 gwok3"
-        }
-      ]
-    },
-    {
-      "meaning": "to hack into a system",
-      "english": [
-        {
-          "id": "ce2dt8fs",
-          "word": "hack",
-          "meaning": "hack an account",
-          "note": "This is the all-purpose choice for gaining unauthorized access to a computer system, website, network, or account."
-        },
-        {
-          "id": "7k1xfv4z",
-          "word": "compromise",
-          "meaning": "breach security",
-          "note": "Use this when someone gains unauthorized access to a computer system or network."
-        }
-      ],
-      "examples": [
-        {
-          "english": "They used a program to hack into the company website and even changed the homepage.",
-          "traditional": "佢哋用程式入侵咗公司個網站，仲改埋首頁。",
-          "jyutping": "keoi5 dei6 jung6 cing4 sik1 jap6 cam1 zo2 gung1 si1 go3 mong5 zaam6 zung6 goi2 maai4 sau2 jip6"
-        },
-        {
-          "english": "The hackers successfully compromise the company’s network, causing data to leak.",
-          "traditional": "黑客成功入侵公司個網絡，搞到資料外洩。",
-          "jyutping": "hak1 haak3 sing4 gung1 jap6 cam1 gung1 si1 go3 mong5 lok6 gaau2 dou3 zi1 liu2 ngoi6 sit3"
-        }
-      ]
+      "english": "The enemy army may invade our country.",
+      "traditional": "敵軍可能入侵我國。",
+      "jyutping": "dik6 gwan1 ho2 nang4 jap6 cam1 ngo5 gwok3"
     }
   ]
 }

@@ -1,37 +1,33 @@
 {
   "id": "scuchjfw",
   "partOfSpeech": "noun",
+  "meaning": "torment, suffering",
+  "english": [
+    {
+      "id": "t3p7wlhu",
+      "word": "torment",
+      "meaning": "torture, severe suffering",
+      "note": "This is the all-purpose choice for severe torment or suffering, especially when someone is being put through it."
+    },
+    {
+      "id": "h85rieyr",
+      "word": "hell",
+      "meaning": "extremely painful to",
+      "note": "Use 折磨 when the thing is experienced as a severe torment, especially physical harm."
+    }
+  ],
   "traditional": "折磨",
   "jyutping": "zit3 mo4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "torment, suffering",
-      "english": [
-        {
-          "id": "t3p7wlhu",
-          "word": "torment",
-          "meaning": "torture, severe suffering",
-          "note": "This is the all-purpose choice for severe torment or suffering, especially when someone is being put through it."
-        },
-        {
-          "id": "h85rieyr",
-          "word": "hell",
-          "meaning": "extremely painful to",
-          "note": "Use 折磨 when the thing is experienced as a severe torment, especially physical harm."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The constant pain from this illness is torment for me.",
-          "traditional": "折磨",
-          "jyutping": "zit3 mo4"
-        },
-        {
-          "english": "This headache is hell—it keeps me from sleeping.",
-          "traditional": "呢種頭痛真係折磨，搞到我瞓唔到。",
-          "jyutping": "ni1 zung2 tau4 tung3 zan1 hai6 zit3 mo4 gaau2 dou3 ngo5 fan3 m4 dou2"
-        }
-      ]
+      "english": "The constant pain from this illness is torment for me.",
+      "traditional": "折磨",
+      "jyutping": "zit3 mo4"
+    },
+    {
+      "english": "This headache is hell—it keeps me from sleeping.",
+      "traditional": "呢種頭痛真係折磨，搞到我瞓唔到。",
+      "jyutping": "ni1 zung2 tau4 tung3 zan1 hai6 zit3 mo4 gaau2 dou3 ngo5 fan3 m4 dou2"
     }
   ]
 }

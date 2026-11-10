@@ -1,28 +1,24 @@
 {
   "id": "l8ggx1i9",
   "partOfSpeech": "pron",
+  "meaning": "indefinite person",
+  "english": [
+    {
+      "id": "lfrom8c4",
+      "word": "someone",
+      "meaning": "indefinite person",
+      "register": "formal",
+      "note": "Use this for a particular but unidentified person when the wording is more formal or written than everyday conversation."
+    }
+  ],
   "traditional": "某人",
   "jyutping": "mau5 jan4",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "indefinite person",
-      "english": [
-        {
-          "id": "lfrom8c4",
-          "word": "someone",
-          "meaning": "indefinite person",
-          "register": "formal",
-          "note": "Use this for a particular but unidentified person when the wording is more formal or written than everyday conversation."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "Someone has been arrested by the police.",
-          "traditional": "某人已被警方拘捕。",
-          "jyutping": "mau5 jan4 ji5 bei6 ging2 fong1 keoi1 bou6"
-        }
-      ]
+      "english": "Someone has been arrested by the police.",
+      "traditional": "某人已被警方拘捕。",
+      "jyutping": "mau5 jan4 ji5 bei6 ging2 fong1 keoi1 bou6"
     }
   ]
 }

@@ -1,28 +1,24 @@
 {
   "id": "3x3qj5hi",
   "partOfSpeech": "noun",
+  "meaning": "mother’s husband",
+  "english": [
+    {
+      "id": "oebqto4q",
+      "word": "stepfather",
+      "meaning": "mother’s husband",
+      "register": "formal",
+      "note": "Use this more formal term, especially in writing or official contexts, for the same family relationship."
+    }
+  ],
   "traditional": "繼父",
   "jyutping": "gai3 fu6",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "mother’s husband",
-      "english": [
-        {
-          "id": "oebqto4q",
-          "word": "stepfather",
-          "meaning": "mother’s husband",
-          "register": "formal",
-          "note": "Use this more formal term, especially in writing or official contexts, for the same family relationship."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The application form must include the stepfather's name.",
-          "traditional": "申請表上必須填寫繼父嘅姓名。",
-          "jyutping": "san1 cing2 biu2 soeng6 bit1 seoi1 tin4 se2 gai3 fu6 ge3 sing3 ming4"
-        }
-      ]
+      "english": "The application form must include the stepfather's name.",
+      "traditional": "申請表上必須填寫繼父嘅姓名。",
+      "jyutping": "san1 cing2 biu2 soeng6 bit1 seoi1 tin4 se2 gai3 fu6 ge3 sing3 ming4"
     }
   ]
 }

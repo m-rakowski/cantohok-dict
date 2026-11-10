@@ -1,26 +1,22 @@
 {
   "id": "45g6ulsn",
   "partOfSpeech": "noun",
+  "meaning": "measurement reading",
+  "english": [
+    {
+      "id": "sxffmjph",
+      "word": "reading",
+      "meaning": "measurement reading",
+      "note": "Use this for the value shown by a meter, gauge, or other measuring device."
+    }
+  ],
   "traditional": "讀數",
   "jyutping": "duk6 sou3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "measurement reading",
-      "english": [
-        {
-          "id": "sxffmjph",
-          "word": "reading",
-          "meaning": "measurement reading",
-          "note": "Use this for the value shown by a meter, gauge, or other measuring device."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The meter reading is wrong.",
-          "traditional": "個電錶嘅讀數唔啱。",
-          "jyutping": "go3 din6 biu1 ge3 duk6 sou3 m4 ngaam1"
-        }
-      ]
+      "english": "The meter reading is wrong.",
+      "traditional": "個電錶嘅讀數唔啱。",
+      "jyutping": "go3 din6 biu1 ge3 duk6 sou3 m4 ngaam1"
     }
   ]
 }

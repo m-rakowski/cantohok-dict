@@ -1,28 +1,24 @@
 {
   "id": "lnvv6f52",
   "partOfSpeech": "noun",
+  "meaning": "catastrophe",
+  "english": [
+    {
+      "id": "30k114nt",
+      "word": "disaster",
+      "meaning": "catastrophe",
+      "register": "formal",
+      "note": "Use 災害 for an official or damage-focused disaster rather than the everyday all-purpose term."
+    }
+  ],
   "traditional": "災害",
   "jyutping": "zoi1 hoi6",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "catastrophe",
-      "english": [
-        {
-          "id": "30k114nt",
-          "word": "disaster",
-          "meaning": "catastrophe",
-          "register": "formal",
-          "note": "Use 災害 for an official or damage-focused disaster rather than the everyday all-purpose term."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "This disaster caused many deaths.",
-          "traditional": "呢場災害造成多人死亡。",
-          "jyutping": "ni1 coeng4 zoi1 hoi6 zou6 sing4 do1 jan4 sei2 mong4"
-        }
-      ]
+      "english": "This disaster caused many deaths.",
+      "traditional": "呢場災害造成多人死亡。",
+      "jyutping": "ni1 coeng4 zoi1 hoi6 zou6 sing4 do1 jan4 sei2 mong4"
     }
   ]
 }

@@ -1,28 +1,24 @@
 {
   "id": "h4pxh3ce",
   "partOfSpeech": "verb",
+  "meaning": "say not true",
+  "english": [
+    {
+      "id": "cue7on9c",
+      "word": "deny",
+      "meaning": "say not true",
+      "register": "colloquial",
+      "note": "Use this for a casual personal denial or for disowning someone, something, or responsibility."
+    }
+  ],
   "traditional": "唔認",
   "jyutping": "m4 jing6",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "say not true",
-      "english": [
-        {
-          "id": "cue7on9c",
-          "word": "deny",
-          "meaning": "say not true",
-          "register": "colloquial",
-          "note": "Use this for a casual personal denial or for disowning someone, something, or responsibility."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "You broke the phone and still deny it?",
-          "traditional": "你整爛部電話都唔認？",
-          "jyutping": "nei5 zing2 laan6 bou6 din6 waa2 dou1 m4 jing6"
-        }
-      ]
+      "english": "You broke the phone and still deny it?",
+      "traditional": "你整爛部電話都唔認？",
+      "jyutping": "nei5 zing2 laan6 bou6 din6 waa2 dou1 m4 jing6"
     }
   ]
 }

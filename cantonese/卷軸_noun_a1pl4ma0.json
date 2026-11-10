@@ -1,28 +1,24 @@
 {
   "id": "a1pl4ma0",
   "partOfSpeech": "noun",
+  "meaning": "rolled manuscript",
+  "english": [
+    {
+      "id": "m6kzdwuw",
+      "word": "scroll",
+      "meaning": "rolled manuscript",
+      "register": "written",
+      "note": "Use this for a rolled manuscript or other written scroll, rather than digital scrolling."
+    }
+  ],
   "traditional": "卷軸",
   "jyutping": "gyun2 zuk6",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "rolled manuscript",
-      "english": [
-        {
-          "id": "m6kzdwuw",
-          "word": "scroll",
-          "meaning": "rolled manuscript",
-          "register": "written",
-          "note": "Use this for a rolled manuscript or other written scroll, rather than digital scrolling."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "The museum houses a precious scroll.",
-          "traditional": "博物館入面收藏住一卷珍貴嘅卷軸。",
-          "jyutping": "bok3 mat6 gun2 jap6 min6 sau1 cong4 zyu6 jat1 gyun2 zan1 gwai3 ge3 gyun2 zuk6"
-        }
-      ]
+      "english": "The museum houses a precious scroll.",
+      "traditional": "博物館入面收藏住一卷珍貴嘅卷軸。",
+      "jyutping": "bok3 mat6 gun2 jap6 min6 sau1 cong4 zyu6 jat1 gyun2 zan1 gwai3 ge3 gyun2 zuk6"
     }
   ]
 }

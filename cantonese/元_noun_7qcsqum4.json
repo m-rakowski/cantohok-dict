@@ -1,28 +1,24 @@
 {
   "id": "7qcsqum4",
   "partOfSpeech": "noun",
+  "meaning": "currency unit",
+  "english": [
+    {
+      "id": "w4hmwwjv",
+      "word": "dollar",
+      "meaning": "currency unit",
+      "register": "formal",
+      "note": "Use this formal currency-unit term in standard currency names, prices, and financial contexts rather than the everyday 蚊."
+    }
+  ],
   "traditional": "元",
   "jyutping": "jyun4",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "currency unit",
-      "english": [
-        {
-          "id": "w4hmwwjv",
-          "word": "dollar",
-          "meaning": "currency unit",
-          "register": "formal",
-          "note": "Use this formal currency-unit term in standard currency names, prices, and financial contexts rather than the everyday 蚊."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "Hong Kong's legal currency is the Hong Kong dollar.",
-          "traditional": "香港嘅法定貨幣係港元。",
-          "jyutping": "hoeng1 gong2 ge3 faat3 ding6 fo3 bai6 hai6 gong2 jyun4"
-        }
-      ]
+      "english": "Hong Kong's legal currency is the Hong Kong dollar.",
+      "traditional": "香港嘅法定貨幣係港元。",
+      "jyutping": "hoeng1 gong2 ge3 faat3 ding6 fo3 bai6 hai6 gong2 jyun4"
     }
   ]
 }

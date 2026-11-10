@@ -1,28 +1,24 @@
 {
   "id": "kk7xhr01",
   "partOfSpeech": "adj",
+  "meaning": "abnormal behavior or mental state",
+  "english": [
+    {
+      "id": "s6q25i76",
+      "word": "abnormal",
+      "meaning": "abnormal behavior or mental state",
+      "register": "formal",
+      "note": "Use this specifically for a mental state regarded as seriously abnormal, rather than for an ordinary irregularity."
+    }
+  ],
   "traditional": "精神失常",
   "jyutping": "zing1 san4 sat1 soeng4",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "abnormal behavior or mental state",
-      "english": [
-        {
-          "id": "s6q25i76",
-          "word": "abnormal",
-          "meaning": "abnormal behavior or mental state",
-          "register": "formal",
-          "note": "Use this specifically for a mental state regarded as seriously abnormal, rather than for an ordinary irregularity."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The doctor said he was mentally abnormal.",
-          "traditional": "醫生話佢精神失常。",
-          "jyutping": "ji1 sang1 waa6 keoi5 zing1 san4 sat1 soeng4"
-        }
-      ]
+      "english": "The doctor said he was mentally abnormal.",
+      "traditional": "醫生話佢精神失常。",
+      "jyutping": "ji1 sang1 waa6 keoi5 zing1 san4 sat1 soeng4"
     }
   ]
 }

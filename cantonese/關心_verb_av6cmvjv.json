@@ -1,37 +1,33 @@
 {
   "id": "av6cmvjv",
   "partOfSpeech": "verb",
+  "meaning": "care about someone",
+  "english": [
+    {
+      "id": "v7i68adl",
+      "word": "care",
+      "meaning": "not mind; not care",
+      "note": "Use this when caring about someone or something means showing concern for their welfare or feelings."
+    },
+    {
+      "id": "6whmikyc",
+      "word": "concern",
+      "meaning": "be interested in",
+      "note": "Use this all-purpose verb when someone cares about a person or their welfare."
+    }
+  ],
   "traditional": "關心",
   "jyutping": "gwaan1 sam1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "care about someone",
-      "english": [
-        {
-          "id": "v7i68adl",
-          "word": "care",
-          "meaning": "not mind; not care",
-          "note": "Use this when caring about someone or something means showing concern for their welfare or feelings."
-        },
-        {
-          "id": "6whmikyc",
-          "word": "concern",
-          "meaning": "be interested in",
-          "note": "Use this all-purpose verb when someone cares about a person or their welfare."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I really care about your feelings.",
-          "traditional": "我好關心你嘅感受。",
-          "jyutping": "ngo5 hou2 gwaan1 sam1 nei5 ge3 gam2 sau6"
-        },
-        {
-          "english": "I concern myself with my mum's health every day.",
-          "traditional": "我每日都關心阿媽嘅健康。",
-          "jyutping": "ngo5 mui5 jat6 dou1 gwaan1 sam1 aa3 maa1 ge3 gin6 hong1"
-        }
-      ]
+      "english": "I really care about your feelings.",
+      "traditional": "我好關心你嘅感受。",
+      "jyutping": "ngo5 hou2 gwaan1 sam1 nei5 ge3 gam2 sau6"
+    },
+    {
+      "english": "I concern myself with my mum's health every day.",
+      "traditional": "我每日都關心阿媽嘅健康。",
+      "jyutping": "ngo5 mui5 jat6 dou1 gwaan1 sam1 aa3 maa1 ge3 gin6 hong1"
     }
   ]
 }

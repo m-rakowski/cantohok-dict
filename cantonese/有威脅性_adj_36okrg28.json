@@ -1,38 +1,34 @@
 {
   "id": "36okrg28",
   "partOfSpeech": "adj",
+  "meaning": "threatening",
+  "english": [
+    {
+      "id": "1iqz0mjn",
+      "word": "threatening",
+      "meaning": "menacing, likely to harm",
+      "note": "This is the all-purpose choice for something or someone presenting a threat, including threatening behaviour or language."
+    },
+    {
+      "id": "g9l9pchr",
+      "word": "menacing",
+      "meaning": "threatening, ominous",
+      "register": "formal",
+      "note": "Use this when explicitly stressing that something poses a threat or danger."
+    }
+  ],
   "traditional": "有威脅性",
   "jyutping": "jau5 wai1 hip3 sing3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "threatening",
-      "english": [
-        {
-          "id": "1iqz0mjn",
-          "word": "threatening",
-          "meaning": "menacing, likely to harm",
-          "note": "This is the all-purpose choice for something or someone presenting a threat, including threatening behaviour or language."
-        },
-        {
-          "id": "g9l9pchr",
-          "word": "menacing",
-          "meaning": "threatening, ominous",
-          "register": "formal",
-          "note": "Use this when explicitly stressing that something poses a threat or danger."
-        }
-      ],
-      "examples": [
-        {
-          "english": "That person is threatening, so don't go so close.",
-          "traditional": "嗰個人有威脅性，唔好行咁近。",
-          "jyutping": "go2 go3 jan4 jau5 wai1 hip3 sing3 m4 hou2 haang4 gam3 gan6"
-        },
-        {
-          "english": "This virus is highly menacing to public health.",
-          "traditional": "呢種病毒對公共衞生有好大威脅性。",
-          "jyutping": "ni1 zung2 beng6 duk6 deoi3 gung1 gung6 wai6 sang1 jau5 hou2 daai6 wai1 hip3 sing3"
-        }
-      ]
+      "english": "That person is threatening, so don't go so close.",
+      "traditional": "嗰個人有威脅性，唔好行咁近。",
+      "jyutping": "go2 go3 jan4 jau5 wai1 hip3 sing3 m4 hou2 haang4 gam3 gan6"
+    },
+    {
+      "english": "This virus is highly menacing to public health.",
+      "traditional": "呢種病毒對公共衞生有好大威脅性。",
+      "jyutping": "ni1 zung2 beng6 duk6 deoi3 gung1 gung6 wai6 sang1 jau5 hou2 daai6 wai1 hip3 sing3"
     }
   ]
 }

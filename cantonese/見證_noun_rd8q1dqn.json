@@ -1,37 +1,33 @@
 {
   "id": "rd8q1dqn",
   "partOfSpeech": "noun",
+  "meaning": "proof, testimony",
+  "english": [
+    {
+      "id": "57qgygjq",
+      "word": "testimony",
+      "meaning": "evidence, proof",
+      "note": "Use this when something serves as a sign or testimony to an achievement or fact."
+    },
+    {
+      "id": "eho43cxb",
+      "word": "testament",
+      "meaning": "proof; evidence",
+      "note": "Use this when something serves as visible evidence or an illustration of another quality, as in the aqueducts being a testament to engineering skill."
+    }
+  ],
   "traditional": "見證",
   "jyutping": "gin3 zing3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "proof, testimony",
-      "english": [
-        {
-          "id": "57qgygjq",
-          "word": "testimony",
-          "meaning": "evidence, proof",
-          "note": "Use this when something serves as a sign or testimony to an achievement or fact."
-        },
-        {
-          "id": "eho43cxb",
-          "word": "testament",
-          "meaning": "proof; evidence",
-          "note": "Use this when something serves as visible evidence or an illustration of another quality, as in the aqueducts being a testament to engineering skill."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Winning this award is testimony to years of hard work.",
-          "traditional": "佢攞到呢個獎，係多年努力嘅見證。",
-          "jyutping": "keoi5 lo2 dou3 ni1 go3 zoeng2 hai6 do1 nin4 nou5 lik6 ge3 gin3 zing3"
-        },
-        {
-          "english": "This ancient bridge is a testament to the craftsmen's superb skills.",
-          "traditional": "呢座古橋係工匠精湛技術嘅見證。",
-          "jyutping": "ni1 zo6 gu2 kiu4 hai6 gung1 zoeng6 zing1 zaam3 gei6 seot6 ge3 gin3 zing3"
-        }
-      ]
+      "english": "Winning this award is testimony to years of hard work.",
+      "traditional": "佢攞到呢個獎，係多年努力嘅見證。",
+      "jyutping": "keoi5 lo2 dou3 ni1 go3 zoeng2 hai6 do1 nin4 nou5 lik6 ge3 gin3 zing3"
+    },
+    {
+      "english": "This ancient bridge is a testament to the craftsmen's superb skills.",
+      "traditional": "呢座古橋係工匠精湛技術嘅見證。",
+      "jyutping": "ni1 zo6 gu2 kiu4 hai6 gung1 zoeng6 zing1 zaam3 gei6 seot6 ge3 gin3 zing3"
     }
   ]
 }

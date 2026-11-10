@@ -1,37 +1,33 @@
 {
   "id": "kpmbep3o",
   "partOfSpeech": "adj",
+  "meaning": "hostile",
+  "english": [
+    {
+      "id": "wtk5xlcs",
+      "word": "hostile",
+      "meaning": "enemy-like, unfriendly",
+      "note": "This is the all-purpose choice for a person, group, or force showing ill will or an enemy-like attitude."
+    },
+    {
+      "id": "eztbv55p",
+      "word": "confrontational",
+      "meaning": "hostile, in-your-face",
+      "note": "Use this when the confrontational quality is mainly a hostile attitude rather than active provocation."
+    }
+  ],
   "traditional": "有敵意",
   "jyutping": "jau5 dik6 ji3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "hostile",
-      "english": [
-        {
-          "id": "wtk5xlcs",
-          "word": "hostile",
-          "meaning": "enemy-like, unfriendly",
-          "note": "This is the all-purpose choice for a person, group, or force showing ill will or an enemy-like attitude."
-        },
-        {
-          "id": "eztbv55p",
-          "word": "confrontational",
-          "meaning": "hostile, in-your-face",
-          "note": "Use this when the confrontational quality is mainly a hostile attitude rather than active provocation."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Those people are very hostile toward new immigrants.",
-          "traditional": "嗰班人對新移民好有敵意。",
-          "jyutping": "go2 baan1 jan4 deoi3 san1 ji4 man4 hou2 jau5 dik6 ji3"
-        },
-        {
-          "english": "Their tone was confrontational; I was only asking the time.",
-          "traditional": "佢語氣有敵意，我只係問句時間啫。",
-          "jyutping": "keoi5 jyu5 hei3 jau5 dik6 ji3 ngo5 zi2 hai6 man6 geoi3 si4 gaan3 ze1"
-        }
-      ]
+      "english": "Those people are very hostile toward new immigrants.",
+      "traditional": "嗰班人對新移民好有敵意。",
+      "jyutping": "go2 baan1 jan4 deoi3 san1 ji4 man4 hou2 jau5 dik6 ji3"
+    },
+    {
+      "english": "Their tone was confrontational; I was only asking the time.",
+      "traditional": "佢語氣有敵意，我只係問句時間啫。",
+      "jyutping": "keoi5 jyu5 hei3 jau5 dik6 ji3 ngo5 zi2 hai6 man6 geoi3 si4 gaan3 ze1"
     }
   ]
 }

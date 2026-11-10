@@ -1,26 +1,22 @@
 {
   "id": "q3q4apnw",
   "partOfSpeech": "det",
+  "meaning": "distributive determiner",
+  "english": [
+    {
+      "id": "c6ye65e9",
+      "word": "each",
+      "meaning": "distributive determiner",
+      "note": "This is the all-purpose spoken construction for distributing something over individual items, as in 每隻碗 for “each bowl.”"
+    }
+  ],
   "traditional": "每 + CL + N",
   "jyutping": "mui5 CL N",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "distributive determiner",
-      "english": [
-        {
-          "id": "c6ye65e9",
-          "word": "each",
-          "meaning": "distributive determiner",
-          "note": "This is the all-purpose spoken construction for distributing something over individual items, as in 每隻碗 for “each bowl.”"
-        }
-      ],
-      "examples": [
-        {
-          "english": "Each bowl is clean now.",
-          "traditional": "每隻碗都洗乾淨喇。",
-          "jyutping": "mui5 zek3 wun2 dou1 sai2 gon1 zeng6 laa3"
-        }
-      ]
+      "english": "Each bowl is clean now.",
+      "traditional": "每隻碗都洗乾淨喇。",
+      "jyutping": "mui5 zek3 wun2 dou1 sai2 gon1 zeng6 laa3"
     }
   ]
 }

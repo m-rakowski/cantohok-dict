@@ -1,37 +1,33 @@
 {
   "id": "plz2t7te",
   "partOfSpeech": "noun",
+  "meaning": "farm",
+  "english": [
+    {
+      "id": "gab2y115",
+      "word": "homestead",
+      "meaning": "farmhouse and land",
+      "note": "Use this for a farm property including its house, surrounding land, and buildings."
+    },
+    {
+      "id": "a6a9rn0w",
+      "word": "farm",
+      "meaning": "agricultural place",
+      "note": "A speaker picks this for a farm presented as an estate or farmstead, often including buildings or visitor facilities."
+    }
+  ],
   "traditional": "農莊",
   "jyutping": "nung4 zong1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "farm",
-      "english": [
-        {
-          "id": "gab2y115",
-          "word": "homestead",
-          "meaning": "farmhouse and land",
-          "note": "Use this for a farm property including its house, surrounding land, and buildings."
-        },
-        {
-          "id": "a6a9rn0w",
-          "word": "farm",
-          "meaning": "agricultural place",
-          "note": "A speaker picks this for a farm presented as an estate or farmstead, often including buildings or visitor facilities."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Our homestead has a house, a chicken shed, and a large field.",
-          "traditional": "我哋個農莊有間屋，仲有雞舍同一大片田。",
-          "jyutping": "ngo5 dei6 go3 nung4 zong1 jau5 gaan1 uk1 zung6 jau5 gai1 se3 tung4 jat1 daai6 pin3 tin4"
-        },
-        {
-          "english": "This farm has guesthouses and a restaurant.",
-          "traditional": "呢個農莊有民宿同餐廳。",
-          "jyutping": "nei1 go3 nung4 zong1 jau5 man4 suk1 tung4 caan1 teng1"
-        }
-      ]
+      "english": "Our homestead has a house, a chicken shed, and a large field.",
+      "traditional": "我哋個農莊有間屋，仲有雞舍同一大片田。",
+      "jyutping": "ngo5 dei6 go3 nung4 zong1 jau5 gaan1 uk1 zung6 jau5 gai1 se3 tung4 jat1 daai6 pin3 tin4"
+    },
+    {
+      "english": "This farm has guesthouses and a restaurant.",
+      "traditional": "呢個農莊有民宿同餐廳。",
+      "jyutping": "nei1 go3 nung4 zong1 jau5 man4 suk1 tung4 caan1 teng1"
     }
   ]
 }

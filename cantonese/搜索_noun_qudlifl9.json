@@ -1,28 +1,24 @@
 {
   "id": "qudlifl9",
   "partOfSpeech": "noun",
+  "meaning": "attempt to find",
+  "english": [
+    {
+      "id": "axobaf07",
+      "word": "search",
+      "meaning": "attempt to find",
+      "register": "formal",
+      "note": "This is the all-purpose noun for an attempt to find something."
+    }
+  ],
   "traditional": "搜索",
   "jyutping": "sau1 sok3",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "attempt to find",
-      "english": [
-        {
-          "id": "axobaf07",
-          "word": "search",
-          "meaning": "attempt to find",
-          "register": "formal",
-          "note": "This is the all-purpose noun for an attempt to find something."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The police launched a search for the missing person.",
-          "traditional": "警方展開搜索，尋找失蹤人士。",
-          "jyutping": "ging2 fong1 zin2 hoi1 sau1 sok3 cam4 zaau2 sat1 zung1 jan4 si6"
-        }
-      ]
+      "english": "The police launched a search for the missing person.",
+      "traditional": "警方展開搜索，尋找失蹤人士。",
+      "jyutping": "ging2 fong1 zin2 hoi1 sau1 sok3 cam4 zaau2 sat1 zung1 jan4 si6"
     }
   ]
 }

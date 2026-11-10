@@ -1,28 +1,24 @@
 {
   "id": "6m4zsxbi",
   "partOfSpeech": "noun",
+  "meaning": "streetcar / trolley",
+  "english": [
+    {
+      "id": "3geeykln",
+      "word": "tram",
+      "meaning": "streetcar / trolley",
+      "register": "formal",
+      "note": "Use this formal, explicit term when distinguishing a tram from other kinds of 電車."
+    }
+  ],
   "traditional": "有軌電車",
   "jyutping": "jau5 gwai2 din6 ce1",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "streetcar / trolley",
-      "english": [
-        {
-          "id": "3geeykln",
-          "word": "tram",
-          "meaning": "streetcar / trolley",
-          "register": "formal",
-          "note": "Use this formal, explicit term when distinguishing a tram from other kinds of 電車."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "This type of tram mainly operates in urban areas.",
-          "traditional": "呢種有軌電車主要喺市區行駛。",
-          "jyutping": "ni1 zung2 jau5 gwai2 din6 ce1 zyu2 jiu3 hai2 si5 keoi1 haang4 sai2"
-        }
-      ]
+      "english": "This type of tram mainly operates in urban areas.",
+      "traditional": "呢種有軌電車主要喺市區行駛。",
+      "jyutping": "ni1 zung2 jau5 gwai2 din6 ce1 zyu2 jiu3 hai2 si5 keoi1 haang4 sai2"
     }
   ]
 }

@@ -1,28 +1,24 @@
 {
   "id": "x13p0bl9",
   "partOfSpeech": "noun",
+  "meaning": "clearing forests",
+  "english": [
+    {
+      "id": "zpscg0ai",
+      "word": "deforestation",
+      "meaning": "clearing forests",
+      "register": "written",
+      "note": "This is the all-purpose noun for destroying forests, especially in environmental or informational contexts."
+    }
+  ],
   "traditional": "森林砍伐",
   "jyutping": "sam1 lam4 ham2 fat6",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "clearing forests",
-      "english": [
-        {
-          "id": "zpscg0ai",
-          "word": "deforestation",
-          "meaning": "clearing forests",
-          "register": "written",
-          "note": "This is the all-purpose noun for destroying forests, especially in environmental or informational contexts."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "Deforestation causes serious damage to the environment.",
-          "traditional": "森林砍伐對環境破壞好大。",
-          "jyutping": "sam1 lam4 ham2 fat6 deoi3 waan4 ging2 po3 waai6 hou2 daai6"
-        }
-      ]
+      "english": "Deforestation causes serious damage to the environment.",
+      "traditional": "森林砍伐對環境破壞好大。",
+      "jyutping": "sam1 lam4 ham2 fat6 deoi3 waan4 ging2 po3 waai6 hou2 daai6"
     }
   ]
 }

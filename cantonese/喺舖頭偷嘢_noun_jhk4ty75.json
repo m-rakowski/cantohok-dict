@@ -1,28 +1,24 @@
 {
   "id": "jhk4ty75",
   "partOfSpeech": "noun",
+  "meaning": "stealing from a shop",
+  "english": [
+    {
+      "id": "qlwfcfje",
+      "word": "shoplifting",
+      "meaning": "stealing from a shop",
+      "register": "colloquial",
+      "note": "This is the all-purpose colloquial way to refer to the act of stealing goods in a shop."
+    }
+  ],
   "traditional": "喺舖頭偷嘢",
   "jyutping": "hai2 pou3 tau2 tau1 je5",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "stealing from a shop",
-      "english": [
-        {
-          "id": "qlwfcfje",
-          "word": "shoplifting",
-          "meaning": "stealing from a shop",
-          "register": "colloquial",
-          "note": "This is the all-purpose colloquial way to refer to the act of stealing goods in a shop."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "Shoplifting is a crime.",
-          "traditional": "喺舖頭偷嘢係犯法㗎。",
-          "jyutping": "hai2 pou3 tau2 tau1 je5 hai6 faan6 faat3 gaa3"
-        }
-      ]
+      "english": "Shoplifting is a crime.",
+      "traditional": "喺舖頭偷嘢係犯法㗎。",
+      "jyutping": "hai2 pou3 tau2 tau1 je5 hai6 faan6 faat3 gaa3"
     }
   ]
 }

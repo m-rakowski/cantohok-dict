@@ -1,48 +1,44 @@
 {
   "id": "i7jydpl0",
   "partOfSpeech": "noun",
+  "meaning": "property owner, landlord",
+  "english": [
+    {
+      "id": "tt7mkf95",
+      "word": "landlord",
+      "meaning": "property owner/renter",
+      "note": "This is the all-purpose Cantonese word for a landlord who leases out a flat, shop, or other property."
+    },
+    {
+      "id": "51ka6tde",
+      "word": "landlady",
+      "meaning": "female landlord",
+      "note": "Use this when referring to the female landlord in her capacity as the property owner; it does not specify that the owner is a woman."
+    },
+    {
+      "id": "mkms2x4e",
+      "word": "owner",
+      "meaning": "person who owns something",
+      "note": "Use this for the owner of a property or business, especially in Hong Kong property contexts."
+    }
+  ],
   "traditional": "業主",
   "jyutping": "jip6 zyu2",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "property owner, landlord",
-      "english": [
-        {
-          "id": "tt7mkf95",
-          "word": "landlord",
-          "meaning": "property owner/renter",
-          "note": "This is the all-purpose Cantonese word for a landlord who leases out a flat, shop, or other property."
-        },
-        {
-          "id": "51ka6tde",
-          "word": "landlady",
-          "meaning": "female landlord",
-          "note": "Use this when referring to the female landlord in her capacity as the property owner; it does not specify that the owner is a woman."
-        },
-        {
-          "id": "mkms2x4e",
-          "word": "owner",
-          "meaning": "person who owns something",
-          "note": "Use this for the owner of a property or business, especially in Hong Kong property contexts."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I’ve already paid the rent to the landlord.",
-          "traditional": "我已經交咗租畀業主。",
-          "jyutping": "ngo5 ji5 ging1 gaau1 zo2 zou1 bei2 jip6 zyu2"
-        },
-        {
-          "english": "The landlady decided not to renew the lease for this shop.",
-          "traditional": "呢間舖嘅業主決定唔續租畀人。",
-          "jyutping": "ni1 gaan1 pou3 ge3 jip6 zyu2 kyut3 ding6 m4 zuk6 zou1 bei2 jan4"
-        },
-        {
-          "english": "The owner has already signed a new lease with the tenant.",
-          "traditional": "業主已經同租客簽咗新約。",
-          "jyutping": "jip6 zyu2 ji5 ging1 tung4 zou1 haak3 cim1 zo2 san1 joek3"
-        }
-      ]
+      "english": "I’ve already paid the rent to the landlord.",
+      "traditional": "我已經交咗租畀業主。",
+      "jyutping": "ngo5 ji5 ging1 gaau1 zo2 zou1 bei2 jip6 zyu2"
+    },
+    {
+      "english": "The landlady decided not to renew the lease for this shop.",
+      "traditional": "呢間舖嘅業主決定唔續租畀人。",
+      "jyutping": "ni1 gaan1 pou3 ge3 jip6 zyu2 kyut3 ding6 m4 zuk6 zou1 bei2 jan4"
+    },
+    {
+      "english": "The owner has already signed a new lease with the tenant.",
+      "traditional": "業主已經同租客簽咗新約。",
+      "jyutping": "jip6 zyu2 ji5 ging1 tung4 zou1 haak3 cim1 zo2 san1 joek3"
     }
   ]
 }

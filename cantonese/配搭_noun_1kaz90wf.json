@@ -1,38 +1,34 @@
 {
   "id": "1kaz90wf",
   "partOfSpeech": "noun",
+  "meaning": "combination, pairing",
+  "english": [
+    {
+      "id": "s51j4cgr",
+      "word": "combination",
+      "meaning": "joining together",
+      "register": "colloquial",
+      "note": "Use this for a pleasing or suitable combination of things such as colours, flavours, or clothes."
+    },
+    {
+      "id": "ups7gh3y",
+      "word": "collocation",
+      "meaning": "word pairing",
+      "note": "This is the all-purpose noun for a general combination or juxtaposition of things, including words or sounds."
+    }
+  ],
   "traditional": "配搭",
   "jyutping": "pui3 daap3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "combination, pairing",
-      "english": [
-        {
-          "id": "s51j4cgr",
-          "word": "combination",
-          "meaning": "joining together",
-          "register": "colloquial",
-          "note": "Use this for a pleasing or suitable combination of things such as colours, flavours, or clothes."
-        },
-        {
-          "id": "ups7gh3y",
-          "word": "collocation",
-          "meaning": "word pairing",
-          "note": "This is the all-purpose noun for a general combination or juxtaposition of things, including words or sounds."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The combination of this outfit looks great.",
-          "traditional": "呢套衫嘅配搭好靚。",
-          "jyutping": "ni1 tou3 saam1 ge3 pui3 daap3 hou2 leng3"
-        },
-        {
-          "english": "The collocation of these two colours looks pretty good.",
-          "traditional": "呢兩隻色嘅配搭幾好睇。",
-          "jyutping": "ni1 loeng5 zek3 sik1 ge3 pui3 daap3 gei2 hou2 tai2"
-        }
-      ]
+      "english": "The combination of this outfit looks great.",
+      "traditional": "呢套衫嘅配搭好靚。",
+      "jyutping": "ni1 tou3 saam1 ge3 pui3 daap3 hou2 leng3"
+    },
+    {
+      "english": "The collocation of these two colours looks pretty good.",
+      "traditional": "呢兩隻色嘅配搭幾好睇。",
+      "jyutping": "ni1 loeng5 zek3 sik1 ge3 pui3 daap3 gei2 hou2 tai2"
     }
   ]
 }

@@ -1,70 +1,34 @@
 {
   "id": "y304c0on",
   "partOfSpeech": "noun",
-  "traditional": "日頭",
-  "jyutping": "jat6 tau4",
-  "boxes": [
+  "meaning": "daytime",
+  "english": [
     {
-      "meaning": "daytime",
-      "english": [
-        {
-          "id": "ntt506lr",
-          "word": "daytime",
-          "meaning": "daylight hours",
-          "note": "This is the all-purpose colloquial noun for the time between sunrise and sunset."
-        },
-        {
-          "id": "xz79evn3",
-          "word": "daylight",
-          "meaning": "daytime",
-          "register": "colloquial",
-          "note": "Use this colloquial noun for the daytime period rather than for the light itself."
-        }
-      ],
-      "examples": [
-        {
-          "english": "It’s so hot in the daytime, so remember to drink more water.",
-          "traditional": "日頭咁熱，記得飲多啲水。",
-          "jyutping": "jat6 tau4 gam3 jit6 gei3 dak1 jam2 do1 di1 seoi2"
-        },
-        {
-          "english": "It's still daylight, so there's no need to turn on the lights so early.",
-          "traditional": "而家仲係日頭，唔使咁早開燈。",
-          "jyutping": "ji4 gaa1 zung6 hai6 jat6 tau4 m4 sai2 gam3 zou2 hoi1 dang1"
-        }
-      ]
+      "id": "ntt506lr",
+      "word": "daytime",
+      "meaning": "daylight hours",
+      "note": "This is the all-purpose colloquial noun for the time between sunrise and sunset."
     },
     {
-      "meaning": "the sun, sunshine",
-      "english": [
-        {
-          "id": "hbw0vdkn",
-          "word": "sun",
-          "meaning": "a star, solar-system centre",
-          "register": "colloquial",
-          "note": "Use 日頭 in casual speech when referring to the sun overhead, especially in weather or daylight contexts."
-        },
-        {
-          "id": "90gw5i00",
-          "word": "day",
-          "meaning": "daylight",
-          "register": "colloquial",
-          "note": "Use 日頭 for the daylight portion of a day, especially when contrasting it with nighttime."
-        }
-      ],
+      "id": "xz79evn3",
+      "word": "daylight",
+      "meaning": "daytime",
       "register": "colloquial",
-      "examples": [
-        {
-          "english": "The sun is really strong today.",
-          "traditional": "今日個日頭好曬。",
-          "jyutping": "gam1 jat6 go3 jat6 tau4 hou2 saai3"
-        },
-        {
-          "english": "The sun is so strong during the day, so don’t go out.",
-          "traditional": "日頭咁猛，唔好出街。",
-          "jyutping": "jat6 tau4 gam3 maang5 m4 hou2 ceot1 gaai1"
-        }
-      ]
+      "note": "Use this colloquial noun for the daytime period rather than for the light itself."
+    }
+  ],
+  "traditional": "日頭",
+  "jyutping": "jat6 tau4",
+  "examples": [
+    {
+      "english": "It’s so hot in the daytime, so remember to drink more water.",
+      "traditional": "日頭咁熱，記得飲多啲水。",
+      "jyutping": "jat6 tau4 gam3 jit6 gei3 dak1 jam2 do1 di1 seoi2"
+    },
+    {
+      "english": "It's still daylight, so there's no need to turn on the lights so early.",
+      "traditional": "而家仲係日頭，唔使咁早開燈。",
+      "jyutping": "ji4 gaa1 zung6 hai6 jat6 tau4 m4 sai2 gam3 zou2 hoi1 dang1"
     }
   ]
 }

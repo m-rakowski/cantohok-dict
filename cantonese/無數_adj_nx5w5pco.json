@@ -1,38 +1,34 @@
 {
   "id": "nx5w5pco",
   "partOfSpeech": "adj",
+  "meaning": "countless",
+  "english": [
+    {
+      "id": "3irs3ly0",
+      "word": "myriad",
+      "meaning": "countless; very many",
+      "note": "This is the all-purpose choice for saying that there are countless or very many things."
+    },
+    {
+      "id": "aozlj5wk",
+      "word": "countless",
+      "meaning": "too many to count",
+      "register": "written",
+      "note": "Use this compact form especially in written or more formal descriptions, often before a noun."
+    }
+  ],
   "traditional": "無數",
   "jyutping": "mou4 sou3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "countless",
-      "english": [
-        {
-          "id": "3irs3ly0",
-          "word": "myriad",
-          "meaning": "countless; very many",
-          "note": "This is the all-purpose choice for saying that there are countless or very many things."
-        },
-        {
-          "id": "aozlj5wk",
-          "word": "countless",
-          "meaning": "too many to count",
-          "register": "written",
-          "note": "Use this compact form especially in written or more formal descriptions, often before a noun."
-        }
-      ],
-      "examples": [
-        {
-          "english": "There are myriad books in this library.",
-          "traditional": "呢間圖書館入面有無數本書。",
-          "jyutping": "ne1 gaan1 tou4 syu1 gun2 jap6 min6 jau5 mou4 sou3 bun2 syu1"
-        },
-        {
-          "english": "Countless citizens were affected.",
-          "traditional": "無數市民受到影響。",
-          "jyutping": "mou4 sou3 si5 man4 sau6 dou2 jing2 hoeng2"
-        }
-      ]
+      "english": "There are myriad books in this library.",
+      "traditional": "呢間圖書館入面有無數本書。",
+      "jyutping": "ne1 gaan1 tou4 syu1 gun2 jap6 min6 jau5 mou4 sou3 bun2 syu1"
+    },
+    {
+      "english": "Countless citizens were affected.",
+      "traditional": "無數市民受到影響。",
+      "jyutping": "mou4 sou3 si5 man4 sau6 dou2 jing2 hoeng2"
     }
   ]
 }

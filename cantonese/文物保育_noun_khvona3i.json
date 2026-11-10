@@ -1,28 +1,24 @@
 {
   "id": "khvona3i",
   "partOfSpeech": "noun",
+  "meaning": "art and heritage preservation",
+  "english": [
+    {
+      "id": "v70rke3t",
+      "word": "conservation",
+      "meaning": "art and heritage preservation",
+      "register": "formal",
+      "note": "Use this specifically for the preservation and care of cultural heritage, historic buildings, and artifacts."
+    }
+  ],
   "traditional": "文物保育",
   "jyutping": "man4 mat6 bou2 juk6",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "art and heritage preservation",
-      "english": [
-        {
-          "id": "v70rke3t",
-          "word": "conservation",
-          "meaning": "art and heritage preservation",
-          "register": "formal",
-          "note": "Use this specifically for the preservation and care of cultural heritage, historic buildings, and artifacts."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The conservation work on this historic building is excellent.",
-          "traditional": "呢座古蹟嘅文物保育工作做得好好。",
-          "jyutping": "ni1 zo6 gu2 zik1 ge3 man4 mat6 bou2 juk6 gung1 zok3 zou6 dak1 hou2 hou2"
-        }
-      ]
+      "english": "The conservation work on this historic building is excellent.",
+      "traditional": "呢座古蹟嘅文物保育工作做得好好。",
+      "jyutping": "ni1 zo6 gu2 zik1 ge3 man4 mat6 bou2 juk6 gung1 zok3 zou6 dak1 hou2 hou2"
     }
   ]
 }

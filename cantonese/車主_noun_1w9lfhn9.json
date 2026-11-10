@@ -1,26 +1,22 @@
 {
   "id": "1w9lfhn9",
   "partOfSpeech": "noun",
+  "meaning": "person who owns something",
+  "english": [
+    {
+      "id": "rzdua4lf",
+      "word": "owner",
+      "meaning": "person who owns something",
+      "note": "Use this specifically for the owner of a car or other vehicle."
+    }
+  ],
   "traditional": "車主",
   "jyutping": "ce1 zyu2",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "person who owns something",
-      "english": [
-        {
-          "id": "rzdua4lf",
-          "word": "owner",
-          "meaning": "person who owns something",
-          "note": "Use this specifically for the owner of a car or other vehicle."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The owner says they weren't driving the car.",
-          "traditional": "車主話部車唔係佢揸。",
-          "jyutping": "ce1 zyu2 waa6 bou6 ce1 m4 hai6 keoi5 zaa1"
-        }
-      ]
+      "english": "The owner says they weren't driving the car.",
+      "traditional": "車主話部車唔係佢揸。",
+      "jyutping": "ce1 zyu2 waa6 bou6 ce1 m4 hai6 keoi5 zaa1"
     }
   ]
 }

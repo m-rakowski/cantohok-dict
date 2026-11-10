@@ -1,40 +1,36 @@
 {
   "id": "9i5115sx",
   "partOfSpeech": "noun",
+  "meaning": "regret, remorse",
+  "english": [
+    {
+      "id": "mbqucls2",
+      "word": "regret",
+      "meaning": "feeling of regret",
+      "register": "formal",
+      "note": "Use this for remorse over one's own past action, especially in formal or written contexts."
+    },
+    {
+      "id": "hd1phwjh",
+      "word": "remorse",
+      "meaning": "guilt-filled regret",
+      "register": "formal",
+      "note": "Use this more formal term when stressing whether someone shows or has any remorse, especially in official or legal contexts."
+    }
+  ],
   "traditional": "悔意",
   "jyutping": "fui3 ji3",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "regret, remorse",
-      "english": [
-        {
-          "id": "mbqucls2",
-          "word": "regret",
-          "meaning": "feeling of regret",
-          "register": "formal",
-          "note": "Use this for remorse over one's own past action, especially in formal or written contexts."
-        },
-        {
-          "id": "hd1phwjh",
-          "word": "remorse",
-          "meaning": "guilt-filled regret",
-          "register": "formal",
-          "note": "Use this more formal term when stressing whether someone shows or has any remorse, especially in official or legal contexts."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "He expressed regret for his actions in the letter.",
-          "traditional": "佢喺封信入面表達咗對自己所作所為嘅悔意。",
-          "jyutping": "keoi5 hai2 fung1 seon3 jap6 min6 biu2 daat6 zo2 deoi3 zi6 gei2 so2 zok3 so2 wai4 ge3 fui3 ji3"
-        },
-        {
-          "english": "The defendant showed no remorse in court.",
-          "traditional": "悔意",
-          "jyutping": "fui3 ji3"
-        }
-      ]
+      "english": "He expressed regret for his actions in the letter.",
+      "traditional": "佢喺封信入面表達咗對自己所作所為嘅悔意。",
+      "jyutping": "keoi5 hai2 fung1 seon3 jap6 min6 biu2 daat6 zo2 deoi3 zi6 gei2 so2 zok3 so2 wai4 ge3 fui3 ji3"
+    },
+    {
+      "english": "The defendant showed no remorse in court.",
+      "traditional": "悔意",
+      "jyutping": "fui3 ji3"
     }
   ]
 }

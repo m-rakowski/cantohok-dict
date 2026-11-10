@@ -1,26 +1,22 @@
 {
   "id": "eo0mnye9",
   "partOfSpeech": "noun",
+  "meaning": "maple tree",
+  "english": [
+    {
+      "id": "kmvwycxk",
+      "word": "maple",
+      "meaning": "maple tree",
+      "note": "This is the all-purpose rendering for the maple tree itself."
+    }
+  ],
   "traditional": "楓樹",
   "jyutping": "fung1 syu6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "maple tree",
-      "english": [
-        {
-          "id": "kmvwycxk",
-          "word": "maple",
-          "meaning": "maple tree",
-          "note": "This is the all-purpose rendering for the maple tree itself."
-        }
-      ],
-      "examples": [
-        {
-          "english": "That maple turns red in autumn.",
-          "traditional": "公園入面嗰棵楓樹秋天會變紅。",
-          "jyutping": "gung1 jyun4 jap6 min6 go2 fo2 fung1 syu6 cau1 tin1 wui5 bin3 hung4"
-        }
-      ]
+      "english": "That maple turns red in autumn.",
+      "traditional": "公園入面嗰棵楓樹秋天會變紅。",
+      "jyutping": "gung1 jyun4 jap6 min6 go2 fo2 fung1 syu6 cau1 tin1 wui5 bin3 hung4"
     }
   ]
 }

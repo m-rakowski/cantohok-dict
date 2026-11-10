@@ -1,26 +1,22 @@
 {
   "id": "k2u6hmre",
   "partOfSpeech": "noun",
+  "meaning": "math multiplication result",
+  "english": [
+    {
+      "id": "sbxcjv0w",
+      "word": "product",
+      "meaning": "math multiplication result",
+      "note": "Use 積 specifically for the result of multiplying numbers in mathematics."
+    }
+  ],
   "traditional": "積",
   "jyutping": "zik1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "math multiplication result",
-      "english": [
-        {
-          "id": "sbxcjv0w",
-          "word": "product",
-          "meaning": "math multiplication result",
-          "note": "Use 積 specifically for the result of multiplying numbers in mathematics."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The product of three times four is twelve.",
-          "traditional": "三乘四嘅積係十二。",
-          "jyutping": "saam1 sing4 sei3 ge3 zik1 hai6 sap6 ji6"
-        }
-      ]
+      "english": "The product of three times four is twelve.",
+      "traditional": "三乘四嘅積係十二。",
+      "jyutping": "saam1 sing4 sei3 ge3 zik1 hai6 sap6 ji6"
     }
   ]
 }

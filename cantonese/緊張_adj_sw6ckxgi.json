@@ -1,106 +1,66 @@
 {
   "id": "sw6ckxgi",
   "partOfSpeech": "adj",
+  "meaning": "nervous, tense",
+  "english": [
+    {
+      "id": "heabvbd4",
+      "word": "nervous",
+      "meaning": "edgy, easily alarmed",
+      "note": "This is the all-purpose choice for feeling nervous, tense, or on edge."
+    },
+    {
+      "id": "qt4bdfqi",
+      "word": "tense",
+      "meaning": "anxious",
+      "note": "This is the all-purpose choice for feeling stressed, anxious, or not relaxed."
+    },
+    {
+      "id": "s89lzry0",
+      "word": "shaky",
+      "meaning": "nervous, anxious",
+      "note": "Use this for a person who is nervous or anxious, rather than for something physically unstable."
+    },
+    {
+      "id": "j7j838sn",
+      "word": "anxious",
+      "meaning": "nervous and worried",
+      "note": "Use this when anxiety is felt as nervous tension, especially before an event or while waiting."
+    },
+    {
+      "id": "klkklw91",
+      "word": "taut",
+      "meaning": "tense, anxious",
+      "note": "Use this for a person who is anxious or under stress, rather than for a physically stretched object."
+    }
+  ],
   "traditional": "緊張",
   "jyutping": "gan2 zoeng1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "nervous, tense",
-      "english": [
-        {
-          "id": "heabvbd4",
-          "word": "nervous",
-          "meaning": "edgy, easily alarmed",
-          "note": "This is the all-purpose choice for feeling nervous, tense, or on edge."
-        },
-        {
-          "id": "qt4bdfqi",
-          "word": "tense",
-          "meaning": "anxious",
-          "note": "This is the all-purpose choice for feeling stressed, anxious, or not relaxed."
-        },
-        {
-          "id": "s89lzry0",
-          "word": "shaky",
-          "meaning": "nervous, anxious",
-          "note": "Use this for a person who is nervous or anxious, rather than for something physically unstable."
-        },
-        {
-          "id": "j7j838sn",
-          "word": "anxious",
-          "meaning": "nervous and worried",
-          "note": "Use this when anxiety is felt as nervous tension, especially before an event or while waiting."
-        },
-        {
-          "id": "klkklw91",
-          "word": "taut",
-          "meaning": "tense, anxious",
-          "note": "Use this for a person who is anxious or under stress, rather than for a physically stretched object."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I have to go onstage in a moment, so I’m a bit nervous now.",
-          "traditional": "我一陣要上台，依家有啲緊張。",
-          "jyutping": "ngo5 jat1 zan6 jiu3 soeng5 toi4 ji1 gaa1 jau5 di1 gan2 zoeng1"
-        },
-        {
-          "english": "I was really tense during my first job interview.",
-          "traditional": "我第一次見工嗰陣真係好緊張。",
-          "jyutping": "ngo5 dai6 jat1 ci3 gin3 gung1 go2 zan6 zan1 hai6 hou2 gan2 zoeng1"
-        },
-        {
-          "english": "I get shaky as soon as I go on stage.",
-          "traditional": "我一上台就好緊張。",
-          "jyutping": "ngo5 jat1 soeng5 toi1 zau6 hou2 gan2 zoeng1"
-        },
-        {
-          "english": "I get really anxious before an interview.",
-          "traditional": "面試前我成個人都好緊張。",
-          "jyutping": "min6 si3 cin4 ngo5 seng4 go3 jan4 dou1 hou2 gan2 zoeng1"
-        },
-        {
-          "english": "I was taut with nerves as soon as I went on stage, and I couldn’t speak fluently.",
-          "traditional": "我一上台就緊張，講嘢都唔流利。",
-          "jyutping": "ngo5 jat1 soeng5 toi1 zau6 gan2 zoeng1 gong2 je5 dou1 m4 lau4 lei6"
-        }
-      ]
+      "english": "I have to go onstage in a moment, so I’m a bit nervous now.",
+      "traditional": "我一陣要上台，依家有啲緊張。",
+      "jyutping": "ngo5 jat1 zan6 jiu3 soeng5 toi4 ji1 gaa1 jau5 di1 gan2 zoeng1"
     },
     {
-      "meaning": "overprotective, touchy about something",
-      "english": [
-        {
-          "id": "0btxv4n4",
-          "word": "precious",
-          "meaning": "very protective; touchy about",
-          "note": "Use this with an object such as a person’s work when someone is unusually protective or touchy about it."
-        }
-      ],
-      "examples": [
-        {
-          "english": "They’re precious about their painting and won’t let anyone touch it.",
-          "traditional": "佢對自己幅畫好緊張，唔畀人掂。",
-          "jyutping": "keoi5 deoi3 zi6 gei2 fuk1 waa2 hou2 gan2 zoeng1 m4 bei2 jan4 dim3"
-        }
-      ]
+      "english": "I was really tense during my first job interview.",
+      "traditional": "我第一次見工嗰陣真係好緊張。",
+      "jyutping": "ngo5 dai6 jat1 ci3 gin3 gung1 go2 zan6 zan1 hai6 hou2 gan2 zoeng1"
     },
     {
-      "meaning": "strained (relationship)",
-      "english": [
-        {
-          "id": "z6wdcrwt",
-          "word": "stormy",
-          "meaning": "troubled, quarrelsome",
-          "note": "Use this for a stormy relationship or other troubled interpersonal situation marked by tension and quarrelling."
-        }
-      ],
-      "examples": [
-        {
-          "english": "My relationship with them is stormy right now.",
-          "traditional": "我同佢嘅關係而家好緊張。",
-          "jyutping": "ngo5 tung4 keoi5 ge3 gwaan1 hai6 ji4 gaa1 hou2 gan2 zoeng1"
-        }
-      ]
+      "english": "I get shaky as soon as I go on stage.",
+      "traditional": "我一上台就好緊張。",
+      "jyutping": "ngo5 jat1 soeng5 toi1 zau6 hou2 gan2 zoeng1"
+    },
+    {
+      "english": "I get really anxious before an interview.",
+      "traditional": "面試前我成個人都好緊張。",
+      "jyutping": "min6 si3 cin4 ngo5 seng4 go3 jan4 dou1 hou2 gan2 zoeng1"
+    },
+    {
+      "english": "I was taut with nerves as soon as I went on stage, and I couldn’t speak fluently.",
+      "traditional": "我一上台就緊張，講嘢都唔流利。",
+      "jyutping": "ngo5 jat1 soeng5 toi1 zau6 gan2 zoeng1 gong2 je5 dou1 m4 lau4 lei6"
     }
   ]
 }

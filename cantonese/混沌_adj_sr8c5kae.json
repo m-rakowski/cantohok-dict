@@ -1,28 +1,24 @@
 {
   "id": "sr8c5kae",
   "partOfSpeech": "adj",
+  "meaning": "chaos-theory sensitive",
+  "english": [
+    {
+      "id": "3huj8l4f",
+      "word": "chaotic",
+      "meaning": "chaos-theory sensitive",
+      "register": "written",
+      "note": "Use this technical term for a system whose outcomes are highly sensitive to its starting conditions."
+    }
+  ],
   "traditional": "混沌",
   "jyutping": "wan6 deon6",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "chaos-theory sensitive",
-      "english": [
-        {
-          "id": "3huj8l4f",
-          "word": "chaotic",
-          "meaning": "chaos-theory sensitive",
-          "register": "written",
-          "note": "Use this technical term for a system whose outcomes are highly sensitive to its starting conditions."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "This phenomenon is highly sensitive to its starting conditions, so it is a chaotic system.",
-          "traditional": "呢種現象對初始條件極度敏感，屬於混沌系統。",
-          "jyutping": "ni1 zung2 jin6 zoeng6 deoi3 co1 ci2 tiu4 gin6 gik6 dou6 man5 gam2 suk6 jyu1 wan6 deon6 hai6 tung2"
-        }
-      ]
+      "english": "This phenomenon is highly sensitive to its starting conditions, so it is a chaotic system.",
+      "traditional": "呢種現象對初始條件極度敏感，屬於混沌系統。",
+      "jyutping": "ni1 zung2 jin6 zoeng6 deoi3 co1 ci2 tiu4 gin6 gik6 dou6 man5 gam2 suk6 jyu1 wan6 deon6 hai6 tung2"
     }
   ]
 }

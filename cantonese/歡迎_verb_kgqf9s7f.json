@@ -1,37 +1,33 @@
 {
   "id": "kgqf9s7f",
   "partOfSpeech": "verb",
+  "meaning": "welcome",
+  "english": [
+    {
+      "id": "hctfml49",
+      "word": "welcome",
+      "meaning": "welcome suggestions",
+      "note": "This is the all-purpose choice when you are glad to accept suggestions, ideas, or other input."
+    },
+    {
+      "id": "uevp51y3",
+      "word": "greet",
+      "meaning": "welcome someone",
+      "note": "Use this when you mean warmly welcoming someone rather than simply saying hello."
+    }
+  ],
   "traditional": "歡迎",
   "jyutping": "fun1 jing4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "welcome",
-      "english": [
-        {
-          "id": "hctfml49",
-          "word": "welcome",
-          "meaning": "welcome suggestions",
-          "note": "This is the all-purpose choice when you are glad to accept suggestions, ideas, or other input."
-        },
-        {
-          "id": "uevp51y3",
-          "word": "greet",
-          "meaning": "welcome someone",
-          "note": "Use this when you mean warmly welcoming someone rather than simply saying hello."
-        }
-      ],
-      "examples": [
-        {
-          "english": "We welcome any new ideas you have.",
-          "traditional": "你有咩新諗法，我哋都歡迎。",
-          "jyutping": "nei5 jau5 me1 san1 nam2 faat3 ngo5 dei6 dou1 fun1 jing4"
-        },
-        {
-          "english": "We greet the new colleague warmly at the door.",
-          "traditional": "我哋喺門口歡迎新同事。",
-          "jyutping": "ngo5 dei6 hai2 mun4 hau2 fun1 jing4 san1 tung4 si6"
-        }
-      ]
+      "english": "We welcome any new ideas you have.",
+      "traditional": "你有咩新諗法，我哋都歡迎。",
+      "jyutping": "nei5 jau5 me1 san1 nam2 faat3 ngo5 dei6 dou1 fun1 jing4"
+    },
+    {
+      "english": "We greet the new colleague warmly at the door.",
+      "traditional": "我哋喺門口歡迎新同事。",
+      "jyutping": "ngo5 dei6 hai2 mun4 hau2 fun1 jing4 san1 tung4 si6"
     }
   ]
 }

@@ -1,28 +1,24 @@
 {
   "id": "6pyw7zvv",
   "partOfSpeech": "noun",
+  "meaning": "biological evolution",
+  "english": [
+    {
+      "id": "k01ugjor",
+      "word": "evolution",
+      "meaning": "biological evolution",
+      "register": "written",
+      "note": "Use 演化 instead of 進化 mainly in scientific or formal descriptions of biological evolution."
+    }
+  ],
   "traditional": "演化",
   "jyutping": "jin2 faa3",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "biological evolution",
-      "english": [
-        {
-          "id": "k01ugjor",
-          "word": "evolution",
-          "meaning": "biological evolution",
-          "register": "written",
-          "note": "Use 演化 instead of 進化 mainly in scientific or formal descriptions of biological evolution."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "Fossil records help us study the evolution of species.",
-          "traditional": "化石記錄有助研究物種嘅演化。",
-          "jyutping": "faa3 sek6 gei3 luk6 jau5 zo6 jin4 gau3 mat6 zung2 ge3 jin2 faa3"
-        }
-      ]
+      "english": "Fossil records help us study the evolution of species.",
+      "traditional": "化石記錄有助研究物種嘅演化。",
+      "jyutping": "faa3 sek6 gei3 luk6 jau5 zo6 jin4 gau3 mat6 zung2 ge3 jin2 faa3"
     }
   ]
 }

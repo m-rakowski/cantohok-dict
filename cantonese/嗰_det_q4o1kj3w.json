@@ -1,28 +1,24 @@
 {
   "id": "q4o1kj3w",
   "partOfSpeech": "det",
+  "meaning": "that determiner",
+  "english": [
+    {
+      "id": "iu1boer3",
+      "word": "that",
+      "meaning": "that determiner",
+      "register": "colloquial",
+      "note": "This is the all-purpose colloquial choice for an indicated or contrasted person, thing, or idea, especially one farther away than 呢."
+    }
+  ],
   "traditional": "嗰",
   "jyutping": "go2",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "that determiner",
-      "english": [
-        {
-          "id": "iu1boer3",
-          "word": "that",
-          "meaning": "that determiner",
-          "register": "colloquial",
-          "note": "This is the all-purpose colloquial choice for an indicated or contrasted person, thing, or idea, especially one farther away than 呢."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "I don't want that one.",
-          "traditional": "我唔要嗰本。",
-          "jyutping": "ngo5 m4 jiu3 go2 bun2"
-        }
-      ]
+      "english": "I don't want that one.",
+      "traditional": "我唔要嗰本。",
+      "jyutping": "ngo5 m4 jiu3 go2 bun2"
     }
   ]
 }

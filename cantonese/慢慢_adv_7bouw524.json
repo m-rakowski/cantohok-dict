@@ -1,55 +1,33 @@
 {
   "id": "7bouw524",
   "partOfSpeech": "adv",
-  "traditional": "慢慢",
-  "jyutping": "maan6 maan6",
-  "boxes": [
+  "meaning": "slowly",
+  "english": [
     {
+      "id": "fq82auip",
+      "word": "slow",
       "meaning": "slowly",
-      "english": [
-        {
-          "id": "fq82auip",
-          "word": "slow",
-          "meaning": "slowly",
-          "note": "This is the all-purpose adverb for doing something slowly."
-        },
-        {
-          "id": "rdpk7574",
-          "word": "slowly",
-          "meaning": "at a slow pace",
-          "note": "This is the all-purpose choice for doing something at a slow pace."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Take it slow; there’s no need to rush.",
-          "traditional": "你慢慢食，唔使急。",
-          "jyutping": "nei5 maan6 maan6 sik6 m4 sai2 gap1"
-        },
-        {
-          "english": "Walk slowly; there's no need to hurry.",
-          "traditional": "你慢慢行，唔使急。",
-          "jyutping": "nei5 maan6 maan6 haang4 m4 sai2 gap1"
-        }
-      ]
+      "note": "This is the all-purpose adverb for doing something slowly."
     },
     {
-      "meaning": "gradually",
-      "english": [
-        {
-          "id": "voxc09ux",
-          "word": "gradually",
-          "meaning": "slowly; in stages",
-          "note": "This is the all-purpose choice for something changing or progressing gradually."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The weather is gradually getting colder again.",
-          "traditional": "天氣慢慢凍返喇。",
-          "jyutping": "tin1 hei3 maan6 maan6 dung3 faan1 laa3"
-        }
-      ]
+      "id": "rdpk7574",
+      "word": "slowly",
+      "meaning": "at a slow pace",
+      "note": "This is the all-purpose choice for doing something at a slow pace."
+    }
+  ],
+  "traditional": "慢慢",
+  "jyutping": "maan6 maan6",
+  "examples": [
+    {
+      "english": "Take it slow; there’s no need to rush.",
+      "traditional": "你慢慢食，唔使急。",
+      "jyutping": "nei5 maan6 maan6 sik6 m4 sai2 gap1"
+    },
+    {
+      "english": "Walk slowly; there's no need to hurry.",
+      "traditional": "你慢慢行，唔使急。",
+      "jyutping": "nei5 maan6 maan6 haang4 m4 sai2 gap1"
     }
   ]
 }

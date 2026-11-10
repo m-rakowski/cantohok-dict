@@ -1,28 +1,24 @@
 {
   "id": "rf90hnra",
   "partOfSpeech": "verb",
+  "meaning": "burgle",
+  "english": [
+    {
+      "id": "lz65zs82",
+      "word": "rob",
+      "meaning": "burgle",
+      "register": "colloquial",
+      "note": "Use this specifically when someone enters a building to steal rather than confronting a victim."
+    }
+  ],
   "traditional": "入屋偷嘢",
   "jyutping": "jap6 uk1 tau1 je5",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "burgle",
-      "english": [
-        {
-          "id": "lz65zs82",
-          "word": "rob",
-          "meaning": "burgle",
-          "register": "colloquial",
-          "note": "Use this specifically when someone enters a building to steal rather than confronting a victim."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "Someone broke into the house to rob it last night.",
-          "traditional": "尋晚有人入屋偷嘢。",
-          "jyutping": "cam4 maan5 jau5 jan4 jap6 uk1 tau1 je5"
-        }
-      ]
+      "english": "Someone broke into the house to rob it last night.",
+      "traditional": "尋晚有人入屋偷嘢。",
+      "jyutping": "cam4 maan5 jau5 jan4 jap6 uk1 tau1 je5"
     }
   ]
 }

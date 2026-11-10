@@ -1,26 +1,22 @@
 {
   "id": "1w42fvzl",
   "partOfSpeech": "conj",
+  "meaning": "that-clause after verb",
+  "english": [
+    {
+      "id": "r1p3emlp",
+      "word": "that",
+      "meaning": "that-clause after verb",
+      "note": "Use 話 after a reporting verb or noun when the following clause gives what was said or reported."
+    }
+  ],
   "traditional": "話",
   "jyutping": "waa6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "that-clause after verb",
-      "english": [
-        {
-          "id": "r1p3emlp",
-          "word": "that",
-          "meaning": "that-clause after verb",
-          "note": "Use 話 after a reporting verb or noun when the following clause gives what was said or reported."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I heard that he isn't going to work tomorrow.",
-          "traditional": "我聽人講話佢聽日唔返工。",
-          "jyutping": "ngo5 teng1 jan4 gong2 waa6 keoi5 ting1 jat6 m4 faan1 gung1"
-        }
-      ]
+      "english": "I heard that he isn't going to work tomorrow.",
+      "traditional": "我聽人講話佢聽日唔返工。",
+      "jyutping": "ngo5 teng1 jan4 gong2 waa6 keoi5 ting1 jat6 m4 faan1 gung1"
     }
   ]
 }

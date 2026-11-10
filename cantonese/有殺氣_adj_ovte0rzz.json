@@ -1,38 +1,34 @@
 {
   "id": "ovte0rzz",
   "partOfSpeech": "adj",
+  "meaning": "menacing, murderous-looking",
+  "english": [
+    {
+      "id": "97h5nmzo",
+      "word": "menacing",
+      "meaning": "threatening, ominous",
+      "register": "colloquial",
+      "note": "Use this especially for a hostile, violent-looking person, expression, or atmosphere."
+    },
+    {
+      "id": "o0fi07uy",
+      "word": "threatening",
+      "meaning": "menacing, likely to harm",
+      "note": "Use this for someone or something that visibly feels menacing or gives off a murderous aura, rather than for explicit threats."
+    }
+  ],
   "traditional": "有殺氣",
   "jyutping": "jau5 saat3 hei3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "menacing, murderous-looking",
-      "english": [
-        {
-          "id": "97h5nmzo",
-          "word": "menacing",
-          "meaning": "threatening, ominous",
-          "register": "colloquial",
-          "note": "Use this especially for a hostile, violent-looking person, expression, or atmosphere."
-        },
-        {
-          "id": "o0fi07uy",
-          "word": "threatening",
-          "meaning": "menacing, likely to harm",
-          "note": "Use this for someone or something that visibly feels menacing or gives off a murderous aura, rather than for explicit threats."
-        }
-      ],
-      "examples": [
-        {
-          "english": "When he walked in, he looked really menacing.",
-          "traditional": "佢一行入嚟，個樣好有殺氣。",
-          "jyutping": "keoi5 jat1 hang4 jap6 lei4 go3 joeng2 hou2 jau5 saat3 hei3"
-        },
-        {
-          "english": "That dog is staring at me and looks threatening.",
-          "traditional": "嗰隻狗望住我，幾有殺氣。",
-          "jyutping": "go2 zek3 gau2 mong6 zyu6 ngo5 gei2 jau5 saat3 hei3"
-        }
-      ]
+      "english": "When he walked in, he looked really menacing.",
+      "traditional": "佢一行入嚟，個樣好有殺氣。",
+      "jyutping": "keoi5 jat1 hang4 jap6 lei4 go3 joeng2 hou2 jau5 saat3 hei3"
+    },
+    {
+      "english": "That dog is staring at me and looks threatening.",
+      "traditional": "嗰隻狗望住我，幾有殺氣。",
+      "jyutping": "go2 zek3 gau2 mong6 zyu6 ngo5 gei2 jau5 saat3 hei3"
     }
   ]
 }

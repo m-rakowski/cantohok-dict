@@ -1,37 +1,33 @@
 {
   "id": "8gm319w4",
   "partOfSpeech": "verb",
+  "meaning": "to interpret orally",
+  "english": [
+    {
+      "id": "a8pfzmmn",
+      "word": "interpret",
+      "meaning": "explain or translate meaning",
+      "note": "Use this specifically for conveying spoken or signed language between languages, especially in real time."
+    },
+    {
+      "id": "y4kodkdd",
+      "word": "translate",
+      "meaning": "interpret / render in another language",
+      "note": "Use this specifically when someone interprets spoken language for others rather than translating written text."
+    }
+  ],
   "traditional": "口譯",
   "jyutping": "hau2 jik6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "to interpret orally",
-      "english": [
-        {
-          "id": "a8pfzmmn",
-          "word": "interpret",
-          "meaning": "explain or translate meaning",
-          "note": "Use this specifically for conveying spoken or signed language between languages, especially in real time."
-        },
-        {
-          "id": "y4kodkdd",
-          "word": "translate",
-          "meaning": "interpret / render in another language",
-          "note": "Use this specifically when someone interprets spoken language for others rather than translating written text."
-        }
-      ],
-      "examples": [
-        {
-          "english": "There will be a foreign guest at the meeting tomorrow, so please interpret for us.",
-          "traditional": "聽日個會有外國嘉賓，麻煩你幫手口譯。",
-          "jyutping": "ting1 jat6 go3 wui6 jau5 ngoi6 gwok3 gaa1 ban1 maa4 faan4 nei5 bong1 sau2 hau2 jik6"
-        },
-        {
-          "english": "Someone will translate for us at tomorrow’s meeting, so don’t worry.",
-          "traditional": "聽日個會有人做口譯，唔使擔心。",
-          "jyutping": "teng1 jat6 go3 wui6 jau5 jan4 zou6 hau2 jik6 m4 sai2 daam1 sam1"
-        }
-      ]
+      "english": "There will be a foreign guest at the meeting tomorrow, so please interpret for us.",
+      "traditional": "聽日個會有外國嘉賓，麻煩你幫手口譯。",
+      "jyutping": "ting1 jat6 go3 wui6 jau5 ngoi6 gwok3 gaa1 ban1 maa4 faan4 nei5 bong1 sau2 hau2 jik6"
+    },
+    {
+      "english": "Someone will translate for us at tomorrow’s meeting, so don’t worry.",
+      "traditional": "聽日個會有人做口譯，唔使擔心。",
+      "jyutping": "teng1 jat6 go3 wui6 jau5 jan4 zou6 hau2 jik6 m4 sai2 daam1 sam1"
     }
   ]
 }

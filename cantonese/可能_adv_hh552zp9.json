@@ -1,59 +1,55 @@
 {
   "id": "hh552zp9",
   "partOfSpeech": "adv",
+  "meaning": "maybe, possibly",
+  "english": [
+    {
+      "id": "wddxcmnj",
+      "word": "maybe",
+      "meaning": "perhaps; possibly",
+      "note": "This is the all-purpose choice for ordinary spoken “maybe,” including both possibility and a neutral noncommittal reply."
+    },
+    {
+      "id": "c2a7auor",
+      "word": "perhaps",
+      "meaning": "possibly",
+      "note": "Use this when you want to emphasize possibility or uncertainty, especially before 會 or a verb."
+    },
+    {
+      "id": "rqy0435j",
+      "word": "possibly",
+      "meaning": "perhaps, maybe",
+      "note": "This is the neutral, all-purpose choice for saying that something may be true or may happen."
+    },
+    {
+      "id": "eawkocyp",
+      "word": "potentially",
+      "meaning": "with possibility",
+      "note": "This is the all-purpose choice for saying that something may happen or may have a given result."
+    }
+  ],
   "traditional": "可能",
   "jyutping": "ho2 nang4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "maybe, possibly",
-      "english": [
-        {
-          "id": "wddxcmnj",
-          "word": "maybe",
-          "meaning": "perhaps; possibly",
-          "note": "This is the all-purpose choice for ordinary spoken “maybe,” including both possibility and a neutral noncommittal reply."
-        },
-        {
-          "id": "c2a7auor",
-          "word": "perhaps",
-          "meaning": "possibly",
-          "note": "Use this when you want to emphasize possibility or uncertainty, especially before 會 or a verb."
-        },
-        {
-          "id": "rqy0435j",
-          "word": "possibly",
-          "meaning": "perhaps, maybe",
-          "note": "This is the neutral, all-purpose choice for saying that something may be true or may happen."
-        },
-        {
-          "id": "eawkocyp",
-          "word": "potentially",
-          "meaning": "with possibility",
-          "note": "This is the all-purpose choice for saying that something may happen or may have a given result."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Maybe he won't go to work today.",
-          "traditional": "可能佢今日唔返工。",
-          "jyutping": "ho2 nang4 keoi5 gam1 jat6 m4 faan1 gung1"
-        },
-        {
-          "english": "Perhaps they will be late.",
-          "traditional": "可能佢會遲到。",
-          "jyutping": "ho2 nang4 keoi5 wui5 ci4 dou3"
-        },
-        {
-          "english": "It could possibly rain tomorrow.",
-          "traditional": "可能聽日會落雨。",
-          "jyutping": "ho2 nang4 ting1 jat6 wui5 lok6 jyu5"
-        },
-        {
-          "english": "This decision could potentially affect the whole plan.",
-          "traditional": "呢個決定可能會影響成個計劃。",
-          "jyutping": "ni1 go3 kyut3 ding6 ho2 nang4 wui5 jing2 hoeng2 sing4 go3 gai3 waak6"
-        }
-      ]
+      "english": "Maybe he won't go to work today.",
+      "traditional": "可能佢今日唔返工。",
+      "jyutping": "ho2 nang4 keoi5 gam1 jat6 m4 faan1 gung1"
+    },
+    {
+      "english": "Perhaps they will be late.",
+      "traditional": "可能佢會遲到。",
+      "jyutping": "ho2 nang4 keoi5 wui5 ci4 dou3"
+    },
+    {
+      "english": "It could possibly rain tomorrow.",
+      "traditional": "可能聽日會落雨。",
+      "jyutping": "ho2 nang4 ting1 jat6 wui5 lok6 jyu5"
+    },
+    {
+      "english": "This decision could potentially affect the whole plan.",
+      "traditional": "呢個決定可能會影響成個計劃。",
+      "jyutping": "ni1 go3 kyut3 ding6 ho2 nang4 wui5 jing2 hoeng2 sing4 go3 gai3 waak6"
     }
   ]
 }

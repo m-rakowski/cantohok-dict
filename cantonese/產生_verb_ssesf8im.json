@@ -1,59 +1,55 @@
 {
   "id": "ssesf8im",
   "partOfSpeech": "verb",
+  "meaning": "produce, give rise to",
+  "english": [
+    {
+      "id": "iffehm4c",
+      "word": "generate",
+      "meaning": "bring about, cause",
+      "note": "Use this for bringing something into existence, especially an abstract result or heat and energy; it is more about producing a result than causing an event."
+    },
+    {
+      "id": "311zks8y",
+      "word": "engender",
+      "meaning": "cause, bring about",
+      "note": "Use this for producing an abstract result or for something coming into existence."
+    },
+    {
+      "id": "lvik4evc",
+      "word": "accrue",
+      "meaning": "arise from growth/result",
+      "note": "Use this when something arises as a result, especially when money lent produces interest."
+    },
+    {
+      "id": "hrcs9tco",
+      "word": "produce",
+      "meaning": "make, manufacture",
+      "note": "Use this when something generates or brings about an effect, substance, or result rather than manufacturing an object."
+    }
+  ],
   "traditional": "產生",
   "jyutping": "caan2 sang1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "produce, give rise to",
-      "english": [
-        {
-          "id": "iffehm4c",
-          "word": "generate",
-          "meaning": "bring about, cause",
-          "note": "Use this for bringing something into existence, especially an abstract result or heat and energy; it is more about producing a result than causing an event."
-        },
-        {
-          "id": "311zks8y",
-          "word": "engender",
-          "meaning": "cause, bring about",
-          "note": "Use this for producing an abstract result or for something coming into existence."
-        },
-        {
-          "id": "lvik4evc",
-          "word": "accrue",
-          "meaning": "arise from growth/result",
-          "note": "Use this when something arises as a result, especially when money lent produces interest."
-        },
-        {
-          "id": "hrcs9tco",
-          "word": "produce",
-          "meaning": "make, manufacture",
-          "note": "Use this when something generates or brings about an effect, substance, or result rather than manufacturing an object."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This chemical reaction will generate heat.",
-          "traditional": "呢個化學反應會產生熱力。",
-          "jyutping": "nei1 go3 faa3 hok6 faan2 jing3 wui5 caan2 sang1 jit6 lik6"
-        },
-        {
-          "english": "This decision may engender a series of problems.",
-          "traditional": "呢個決定可能產生一連串問題。",
-          "jyutping": "nei1 go3 kyut3 ding6 ho2 nang4 caan2 sang1 jat1 lin4 cyun3 man6 tai4"
-        },
-        {
-          "english": "The money I put in the bank will accrue interest every month.",
-          "traditional": "放喺銀行嗰筆錢每個月都會產生利息。",
-          "jyutping": "fong3 hai2 ngan4 hong4 go2 bat1 cin4 mui5 go3 jyut6 dou1 wui5 caan2 sang1 lei6 sik1"
-        },
-        {
-          "english": "This chemical reaction will produce heat.",
-          "traditional": "呢個化學反應會產生熱力。",
-          "jyutping": "ni1 go3 faa3 hok6 faan2 jing3 wui5 caan2 sang1 jit6 lik6"
-        }
-      ]
+      "english": "This chemical reaction will generate heat.",
+      "traditional": "呢個化學反應會產生熱力。",
+      "jyutping": "nei1 go3 faa3 hok6 faan2 jing3 wui5 caan2 sang1 jit6 lik6"
+    },
+    {
+      "english": "This decision may engender a series of problems.",
+      "traditional": "呢個決定可能產生一連串問題。",
+      "jyutping": "nei1 go3 kyut3 ding6 ho2 nang4 caan2 sang1 jat1 lin4 cyun3 man6 tai4"
+    },
+    {
+      "english": "The money I put in the bank will accrue interest every month.",
+      "traditional": "放喺銀行嗰筆錢每個月都會產生利息。",
+      "jyutping": "fong3 hai2 ngan4 hong4 go2 bat1 cin4 mui5 go3 jyut6 dou1 wui5 caan2 sang1 lei6 sik1"
+    },
+    {
+      "english": "This chemical reaction will produce heat.",
+      "traditional": "呢個化學反應會產生熱力。",
+      "jyutping": "ni1 go3 faa3 hok6 faan2 jing3 wui5 caan2 sang1 jit6 lik6"
     }
   ]
 }

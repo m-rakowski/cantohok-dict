@@ -1,28 +1,24 @@
 {
   "id": "9t6kmtnv",
   "partOfSpeech": "adv",
+  "meaning": "sentence adverb: regrettably",
+  "english": [
+    {
+      "id": "b2coz9sw",
+      "word": "unfortunately",
+      "meaning": "sentence adverb: regrettably",
+      "register": "colloquial",
+      "note": "Use this colloquially to introduce the particularly bad or unfortunate point about a situation."
+    }
+  ],
   "traditional": "慘在",
   "jyutping": "caam2 zoi6",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "sentence adverb: regrettably",
-      "english": [
-        {
-          "id": "b2coz9sw",
-          "word": "unfortunately",
-          "meaning": "sentence adverb: regrettably",
-          "register": "colloquial",
-          "note": "Use this colloquially to introduce the particularly bad or unfortunate point about a situation."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "The trip itself was quite enjoyable; unfortunately, the camera went missing.",
-          "traditional": "今次旅行本身幾開心，慘在部相機唔見咗。",
-          "jyutping": "gam1 ci3 leoi5 hang4 bun2 san1 gei2 hoi1 sam1 caam2 zoi6 bou6 soeng2 gei1 m4 gin3 zo2"
-        }
-      ]
+      "english": "The trip itself was quite enjoyable; unfortunately, the camera went missing.",
+      "traditional": "今次旅行本身幾開心，慘在部相機唔見咗。",
+      "jyutping": "gam1 ci3 leoi5 hang4 bun2 san1 gei2 hoi1 sam1 caam2 zoi6 bou6 soeng2 gei1 m4 gin3 zo2"
     }
   ]
 }

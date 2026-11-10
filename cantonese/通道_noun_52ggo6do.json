@@ -1,59 +1,55 @@
 {
   "id": "52ggo6do",
   "partOfSpeech": "noun",
+  "meaning": "passage, aisle",
+  "english": [
+    {
+      "id": "0q24cynf",
+      "word": "aisle",
+      "meaning": "row passage",
+      "note": "This is the all-purpose noun for a passage between rows of seats or shelves."
+    },
+    {
+      "id": "uyqn6ohj",
+      "word": "passage",
+      "meaning": "corridor; passageway",
+      "note": "Use this as the all-purpose noun for a passageway or corridor."
+    },
+    {
+      "id": "w6qqtio4",
+      "word": "approach",
+      "meaning": "access way",
+      "note": "Use 通道 for a passage or access way leading to a building or place."
+    },
+    {
+      "id": "3nf8dsnc",
+      "word": "corridor",
+      "meaning": "passageway between places",
+      "note": "Use this for a route or strip of land whose main function is to connect two places, rather than for an indoor hallway."
+    }
+  ],
   "traditional": "通道",
   "jyutping": "tung1 dou6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "passage, aisle",
-      "english": [
-        {
-          "id": "0q24cynf",
-          "word": "aisle",
-          "meaning": "row passage",
-          "note": "This is the all-purpose noun for a passage between rows of seats or shelves."
-        },
-        {
-          "id": "uyqn6ohj",
-          "word": "passage",
-          "meaning": "corridor; passageway",
-          "note": "Use this as the all-purpose noun for a passageway or corridor."
-        },
-        {
-          "id": "w6qqtio4",
-          "word": "approach",
-          "meaning": "access way",
-          "note": "Use 通道 for a passage or access way leading to a building or place."
-        },
-        {
-          "id": "3nf8dsnc",
-          "word": "corridor",
-          "meaning": "passageway between places",
-          "note": "Use this for a route or strip of land whose main function is to connect two places, rather than for an indoor hallway."
-        }
-      ],
-      "examples": [
-        {
-          "english": "There are shelves with goods on both sides of this aisle.",
-          "traditional": "呢條通道兩邊都有貨架。",
-          "jyutping": "nei1 tiu4 tung1 dou6 loeng5 bin1 dou1 jau5 fo3 gaa2"
-        },
-        {
-          "english": "The passage is too narrow to get the car through.",
-          "traditional": "條通道太窄，推唔到架車入去。",
-          "jyutping": "tiu4 tung1 dou6 taai3 zaak3 teoi1 m4 dou2 gaa3 ce1 jap6 heoi3"
-        },
-        {
-          "english": "The approach to the venue is on the right.",
-          "traditional": "去會場嘅通道喺右手邊。",
-          "jyutping": "heoi3 wui6 coeng4 ge3 tung1 dou6 hai2 jau6 sau2 bin1"
-        },
-        {
-          "english": "This corridor links the two border crossings.",
-          "traditional": "呢條通道連接兩個邊境口岸。",
-          "jyutping": "ni1 tiu4 tung1 dou6 lin4 zip3 loeng5 go3 bin1 ging2 hau2 ngon6"
-        }
-      ]
+      "english": "There are shelves with goods on both sides of this aisle.",
+      "traditional": "呢條通道兩邊都有貨架。",
+      "jyutping": "nei1 tiu4 tung1 dou6 loeng5 bin1 dou1 jau5 fo3 gaa2"
+    },
+    {
+      "english": "The passage is too narrow to get the car through.",
+      "traditional": "條通道太窄，推唔到架車入去。",
+      "jyutping": "tiu4 tung1 dou6 taai3 zaak3 teoi1 m4 dou2 gaa3 ce1 jap6 heoi3"
+    },
+    {
+      "english": "The approach to the venue is on the right.",
+      "traditional": "去會場嘅通道喺右手邊。",
+      "jyutping": "heoi3 wui6 coeng4 ge3 tung1 dou6 hai2 jau6 sau2 bin1"
+    },
+    {
+      "english": "This corridor links the two border crossings.",
+      "traditional": "呢條通道連接兩個邊境口岸。",
+      "jyutping": "ni1 tiu4 tung1 dou6 lin4 zip3 loeng5 go3 bin1 ging2 hau2 ngon6"
     }
   ]
 }

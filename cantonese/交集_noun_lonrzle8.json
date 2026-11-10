@@ -1,37 +1,33 @@
 {
   "id": "lonrzle8",
   "partOfSpeech": "noun",
+  "meaning": "overlap, shared part of sets",
+  "english": [
+    {
+      "id": "tjl7u3qp",
+      "word": "overlap",
+      "meaning": "shared area / overlap",
+      "note": "Use this for the shared part of sets, groups, or categories, especially in mathematical or analytical contexts."
+    },
+    {
+      "id": "is4hgg63",
+      "word": "intersection",
+      "meaning": "geometric intersection",
+      "note": "Use this for the common set of points or elements in mathematical objects or sets, rather than a single named crossing point."
+    }
+  ],
   "traditional": "交集",
   "jyutping": "gaau1 zaap6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "overlap, shared part of sets",
-      "english": [
-        {
-          "id": "tjl7u3qp",
-          "word": "overlap",
-          "meaning": "shared area / overlap",
-          "note": "Use this for the shared part of sets, groups, or categories, especially in mathematical or analytical contexts."
-        },
-        {
-          "id": "is4hgg63",
-          "word": "intersection",
-          "meaning": "geometric intersection",
-          "note": "Use this for the common set of points or elements in mathematical objects or sets, rather than a single named crossing point."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The overlap between these two sets is the elements they share.",
-          "traditional": "呢兩個集合嘅交集就係大家都有嘅元素。",
-          "jyutping": "nei1 loeng5 go3 zaap6 hap6 ge3 gaau1 zaap6 zau6 hai6 daai6 gaa1 dou1 jau5 ge3 jyun4 sou3"
-        },
-        {
-          "english": "The intersection of these two sets has only three elements.",
-          "traditional": "呢兩個集合嘅交集只有三個元素。",
-          "jyutping": "ni1 loeng5 go3 zaap6 hap6 ge3 gaau1 zaap6 zi2 jau5 saam1 go3 jyun4 sou3"
-        }
-      ]
+      "english": "The overlap between these two sets is the elements they share.",
+      "traditional": "呢兩個集合嘅交集就係大家都有嘅元素。",
+      "jyutping": "nei1 loeng5 go3 zaap6 hap6 ge3 gaau1 zaap6 zau6 hai6 daai6 gaa1 dou1 jau5 ge3 jyun4 sou3"
+    },
+    {
+      "english": "The intersection of these two sets has only three elements.",
+      "traditional": "呢兩個集合嘅交集只有三個元素。",
+      "jyutping": "ni1 loeng5 go3 zaap6 hap6 ge3 gaau1 zaap6 zi2 jau5 saam1 go3 jyun4 sou3"
     }
   ]
 }

@@ -1,28 +1,24 @@
 {
   "id": "lbh0g8d6",
   "partOfSpeech": "noun",
+  "meaning": "weekdays Mon–Fri",
+  "english": [
+    {
+      "id": "9d0lw3m6",
+      "word": "weekday",
+      "meaning": "weekdays Mon–Fri",
+      "register": "formal",
+      "note": "Use this when the focus is on workdays, especially in schedules or workplace contexts."
+    }
+  ],
   "traditional": "工作日",
   "jyutping": "gung1 zok3 jat6",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "weekdays Mon–Fri",
-      "english": [
-        {
-          "id": "9d0lw3m6",
-          "word": "weekday",
-          "meaning": "weekdays Mon–Fri",
-          "register": "formal",
-          "note": "Use this when the focus is on workdays, especially in schedules or workplace contexts."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The application will be processed on the next weekday.",
-          "traditional": "申請會喺下一個工作日處理。",
-          "jyutping": "san1 cing2 wui5 hai2 haa6 jat1 go3 gung1 zok3 jat6 cyu2 lei5"
-        }
-      ]
+      "english": "The application will be processed on the next weekday.",
+      "traditional": "申請會喺下一個工作日處理。",
+      "jyutping": "san1 cing2 wui5 hai2 haa6 jat1 go3 gung1 zok3 jat6 cyu2 lei5"
     }
   ]
 }

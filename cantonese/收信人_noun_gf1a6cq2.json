@@ -1,26 +1,22 @@
 {
   "id": "gf1a6cq2",
   "partOfSpeech": "noun",
+  "meaning": "intended recipient",
+  "english": [
+    {
+      "id": "n6h0figk",
+      "word": "addressee",
+      "meaning": "intended recipient",
+      "note": "Use this specifically for the person or organization to whom a letter is addressed."
+    }
+  ],
   "traditional": "收信人",
   "jyutping": "sau1 seon3 jan4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "intended recipient",
-      "english": [
-        {
-          "id": "n6h0figk",
-          "word": "addressee",
-          "meaning": "intended recipient",
-          "note": "Use this specifically for the person or organization to whom a letter is addressed."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The addressee of this letter is my mother.",
-          "traditional": "封信嘅收信人係我阿媽。",
-          "jyutping": "fung1 seon3 ge3 sau1 seon3 jan4 hai6 ngo5 aa3 maa1"
-        }
-      ]
+      "english": "The addressee of this letter is my mother.",
+      "traditional": "封信嘅收信人係我阿媽。",
+      "jyutping": "fung1 seon3 ge3 sau1 seon3 jan4 hai6 ngo5 aa3 maa1"
     }
   ]
 }

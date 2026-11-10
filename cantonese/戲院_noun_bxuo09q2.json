@@ -1,37 +1,33 @@
 {
   "id": "bxuo09q2",
   "partOfSpeech": "noun",
+  "meaning": "cinema",
+  "english": [
+    {
+      "id": "uttfmc7m",
+      "word": "cinema",
+      "meaning": "movie theatre",
+      "note": "This is the all-purpose noun for a movie theatre or movie house."
+    },
+    {
+      "id": "e4jyj2yk",
+      "word": "movie",
+      "meaning": "movie theatre",
+      "note": "Use 戲院 when referring to the cinema or movie theatre as a place."
+    }
+  ],
   "traditional": "戲院",
   "jyutping": "hei3 jyun2",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "cinema",
-      "english": [
-        {
-          "id": "uttfmc7m",
-          "word": "cinema",
-          "meaning": "movie theatre",
-          "note": "This is the all-purpose noun for a movie theatre or movie house."
-        },
-        {
-          "id": "e4jyj2yk",
-          "word": "movie",
-          "meaning": "movie theatre",
-          "note": "Use 戲院 when referring to the cinema or movie theatre as a place."
-        }
-      ],
-      "examples": [
-        {
-          "english": "We’re going to the cinema tonight to watch a movie.",
-          "traditional": "我哋今晚去戲院睇戲。",
-          "jyutping": "ngo5 dei6 gam1 maan5 heoi3 hei3 jyun2 tai2 hei3"
-        },
-        {
-          "english": "We’ll wait for you at the movie theatre entrance.",
-          "traditional": "我哋喺戲院門口等你。",
-          "jyutping": "ngo5 dei6 hai2 hei3 jyun2 mun4 hau2 dang2 nei5"
-        }
-      ]
+      "english": "We’re going to the cinema tonight to watch a movie.",
+      "traditional": "我哋今晚去戲院睇戲。",
+      "jyutping": "ngo5 dei6 gam1 maan5 heoi3 hei3 jyun2 tai2 hei3"
+    },
+    {
+      "english": "We’ll wait for you at the movie theatre entrance.",
+      "traditional": "我哋喺戲院門口等你。",
+      "jyutping": "ngo5 dei6 hai2 hei3 jyun2 mun4 hau2 dang2 nei5"
     }
   ]
 }

@@ -1,28 +1,24 @@
 {
   "id": "sykkn5ys",
   "partOfSpeech": "noun",
+  "meaning": "act of burning",
+  "english": [
+    {
+      "id": "bx1k0b0i",
+      "word": "burn",
+      "meaning": "act of burning",
+      "register": "formal",
+      "note": "Use this for the act or operation of burning something, especially in official, environmental, or technical contexts."
+    }
+  ],
   "traditional": "焚燒",
   "jyutping": "fan4 siu1",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "act of burning",
-      "english": [
-        {
-          "id": "bx1k0b0i",
-          "word": "burn",
-          "meaning": "act of burning",
-          "register": "formal",
-          "note": "Use this for the act or operation of burning something, especially in official, environmental, or technical contexts."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The government will burn this batch of medical waste centrally.",
-          "traditional": "政府會將呢批醫療廢物集中焚燒。",
-          "jyutping": "zing3 fu2 wui5 zoeng1 ni1 pai1 ji1 liu4 fai3 mat6 zaap6 zung1 fan4 siu1"
-        }
-      ]
+      "english": "The government will burn this batch of medical waste centrally.",
+      "traditional": "政府會將呢批醫療廢物集中焚燒。",
+      "jyutping": "zing3 fu2 wui5 zoeng1 ni1 pai1 ji1 liu4 fai3 mat6 zaap6 zung1 fan4 siu1"
     }
   ]
 }

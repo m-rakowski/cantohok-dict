@@ -1,26 +1,22 @@
 {
   "id": "qs1yd8c1",
   "partOfSpeech": "noun",
+  "meaning": "blood test",
+  "english": [
+    {
+      "id": "1x127z7h",
+      "word": "blood",
+      "meaning": "blood test",
+      "note": "Use this for a blood test, not for the blood sample itself."
+    }
+  ],
   "traditional": "驗血",
   "jyutping": "jim6 hyut3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "blood test",
-      "english": [
-        {
-          "id": "1x127z7h",
-          "word": "blood",
-          "meaning": "blood test",
-          "note": "Use this for a blood test, not for the blood sample itself."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The doctor told me to go back tomorrow for a blood test.",
-          "traditional": "醫生叫我聽日返去驗血。",
-          "jyutping": "ji1 sang1 giu3 ngo5 teng1 jat6 faan1 heoi3 jim6 hyut3"
-        }
-      ]
+      "english": "The doctor told me to go back tomorrow for a blood test.",
+      "traditional": "醫生叫我聽日返去驗血。",
+      "jyutping": "ji1 sang1 giu3 ngo5 teng1 jat6 faan1 heoi3 jim6 hyut3"
     }
   ]
 }

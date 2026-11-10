@@ -1,52 +1,48 @@
 {
   "id": "bdw7szj6",
   "partOfSpeech": "verb",
+  "meaning": "damage, harm",
+  "english": [
+    {
+      "id": "hauii8p8",
+      "word": "damage",
+      "meaning": "harm; damage",
+      "register": "formal",
+      "note": "Use this mainly for harming the value, quality, interests, health, or soundness of something rather than physically breaking it."
+    },
+    {
+      "id": "6xt92yd7",
+      "word": "impair",
+      "meaning": "weaken; damage",
+      "register": "formal",
+      "note": "Use this when the emphasis is on damaging a person, interest, function, or resource."
+    },
+    {
+      "id": "yw2cn6lb",
+      "word": "harm",
+      "meaning": "damage; injure",
+      "register": "formal",
+      "note": "Use this formal choice for damage to rights, interests, reputation, or other abstract matters."
+    }
+  ],
   "traditional": "損害",
   "jyutping": "syun2 hoi6",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "damage, harm",
-      "english": [
-        {
-          "id": "hauii8p8",
-          "word": "damage",
-          "meaning": "harm; damage",
-          "register": "formal",
-          "note": "Use this mainly for harming the value, quality, interests, health, or soundness of something rather than physically breaking it."
-        },
-        {
-          "id": "6xt92yd7",
-          "word": "impair",
-          "meaning": "weaken; damage",
-          "register": "formal",
-          "note": "Use this when the emphasis is on damaging a person, interest, function, or resource."
-        },
-        {
-          "id": "yw2cn6lb",
-          "word": "harm",
-          "meaning": "damage; injure",
-          "register": "formal",
-          "note": "Use this formal choice for damage to rights, interests, reputation, or other abstract matters."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "This policy will damage the interests of small businesses.",
-          "traditional": "呢項政策會損害小商戶嘅利益。",
-          "jyutping": "ni1 hong6 zing3 caak3 wui5 syun2 hoi6 siu2 soeng1 wu6 ge3 lei6 jik1"
-        },
-        {
-          "english": "Long-term pollution can impair human health.",
-          "traditional": "長期污染會損害人體健康。",
-          "jyutping": "coeng4 kei4 wu1 jim5 wui5 syun2 hoi6 jan4 tai2 gin6 hong1"
-        },
-        {
-          "english": "This policy may harm citizens’ rights and interests.",
-          "traditional": "呢項政策可能損害市民權益。",
-          "jyutping": "ni1 hong6 zing3 caak3 ho2 nang4 syun2 hoi6 si5 man4 kyun4 jik1"
-        }
-      ]
+      "english": "This policy will damage the interests of small businesses.",
+      "traditional": "呢項政策會損害小商戶嘅利益。",
+      "jyutping": "ni1 hong6 zing3 caak3 wui5 syun2 hoi6 siu2 soeng1 wu6 ge3 lei6 jik1"
+    },
+    {
+      "english": "Long-term pollution can impair human health.",
+      "traditional": "長期污染會損害人體健康。",
+      "jyutping": "coeng4 kei4 wu1 jim5 wui5 syun2 hoi6 jan4 tai2 gin6 hong1"
+    },
+    {
+      "english": "This policy may harm citizens’ rights and interests.",
+      "traditional": "呢項政策可能損害市民權益。",
+      "jyutping": "ni1 hong6 zing3 caak3 ho2 nang4 syun2 hoi6 si5 man4 kyun4 jik1"
     }
   ]
 }

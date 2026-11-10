@@ -1,37 +1,33 @@
 {
   "id": "0gjbtprv",
   "partOfSpeech": "noun",
+  "meaning": "public transport",
+  "english": [
+    {
+      "id": "9djj6bk6",
+      "word": "transit",
+      "meaning": "public transit",
+      "note": "This is the all-purpose choice for public transit available to ordinary passengers."
+    },
+    {
+      "id": "jkp3ivrw",
+      "word": "public transport",
+      "meaning": "public transport",
+      "note": "This is the all-purpose choice for public transport when referring to the buses, trains, ferries, and other services people use."
+    }
+  ],
   "traditional": "公共交通工具",
   "jyutping": "gung1 gung6 gaau1 tung1 gung1 geoi6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "public transport",
-      "english": [
-        {
-          "id": "9djj6bk6",
-          "word": "transit",
-          "meaning": "public transit",
-          "note": "This is the all-purpose choice for public transit available to ordinary passengers."
-        },
-        {
-          "id": "jkp3ivrw",
-          "word": "public transport",
-          "meaning": "public transport",
-          "note": "This is the all-purpose choice for public transport when referring to the buses, trains, ferries, and other services people use."
-        }
-      ],
-      "examples": [
-        {
-          "english": "On weekdays, I usually take public transit to work, so I don't have to drive.",
-          "traditional": "平日返工，我多數搭公共交通工具，唔使自己揸車。",
-          "jyutping": "ping4 jat6 faan1 gung1 ngo5 do1 sou3 daap3 gung1 gung6 gaau1 tung1 gung1 geoi6 m4 sai2 zi6 gei2 zaa1 ce1"
-        },
-        {
-          "english": "I take public transport to work every day instead of driving.",
-          "traditional": "我平日返工都係搭公共交通工具，唔使自己揸車。",
-          "jyutping": "ngo5 ping4 jat6 faan1 gung1 dou1 hai6 daap3 gung1 gung6 gaau1 tung1 gung1 geoi6 m4 sai2 zi6 gei2 zaa1 ce1"
-        }
-      ]
+      "english": "On weekdays, I usually take public transit to work, so I don't have to drive.",
+      "traditional": "平日返工，我多數搭公共交通工具，唔使自己揸車。",
+      "jyutping": "ping4 jat6 faan1 gung1 ngo5 do1 sou3 daap3 gung1 gung6 gaau1 tung1 gung1 geoi6 m4 sai2 zi6 gei2 zaa1 ce1"
+    },
+    {
+      "english": "I take public transport to work every day instead of driving.",
+      "traditional": "我平日返工都係搭公共交通工具，唔使自己揸車。",
+      "jyutping": "ngo5 ping4 jat6 faan1 gung1 dou1 hai6 daap3 gung1 gung6 gaau1 tung1 gung1 geoi6 m4 sai2 zi6 gei2 zaa1 ce1"
     }
   ]
 }

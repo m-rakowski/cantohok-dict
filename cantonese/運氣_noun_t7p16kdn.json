@@ -1,37 +1,33 @@
 {
   "id": "t7p16kdn",
   "partOfSpeech": "noun",
+  "meaning": "luck",
+  "english": [
+    {
+      "id": "fp6c9aj1",
+      "word": "luck",
+      "meaning": "chance, fate",
+      "note": "This is the all-purpose noun for luck, chance, or how successful an attempt turns out to be."
+    },
+    {
+      "id": "eywg89ag",
+      "word": "chance",
+      "meaning": "luck, random occurrence",
+      "note": "Use this for chance as luck or an outcome that depends on luck."
+    }
+  ],
   "traditional": "運氣",
   "jyutping": "wan6 hei3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "luck",
-      "english": [
-        {
-          "id": "fp6c9aj1",
-          "word": "luck",
-          "meaning": "chance, fate",
-          "note": "This is the all-purpose noun for luck, chance, or how successful an attempt turns out to be."
-        },
-        {
-          "id": "eywg89ag",
-          "word": "chance",
-          "meaning": "luck, random occurrence",
-          "note": "Use this for chance as luck or an outcome that depends on luck."
-        }
-      ],
-      "examples": [
-        {
-          "english": "It was pure luck that I got it right this time, even though it was so difficult.",
-          "traditional": "今次真係運氣好，咁難都畀我撞中。",
-          "jyutping": "gam1 ci3 zan1 hai6 wan6 hei3 hou2 gam2 naan4 dou1 bei2 ngo5 zong6 zung3"
-        },
-        {
-          "english": "Whether we win this time depends on chance.",
-          "traditional": "今次贏唔贏要靠運氣。",
-          "jyutping": "gam1 ci3 jeng4 m4 jeng4 jiu3 kaau3 wan6 hei3"
-        }
-      ]
+      "english": "It was pure luck that I got it right this time, even though it was so difficult.",
+      "traditional": "今次真係運氣好，咁難都畀我撞中。",
+      "jyutping": "gam1 ci3 zan1 hai6 wan6 hei3 hou2 gam2 naan4 dou1 bei2 ngo5 zong6 zung3"
+    },
+    {
+      "english": "Whether we win this time depends on chance.",
+      "traditional": "今次贏唔贏要靠運氣。",
+      "jyutping": "gam1 ci3 jeng4 m4 jeng4 jiu3 kaau3 wan6 hei3"
     }
   ]
 }

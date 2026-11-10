@@ -1,40 +1,36 @@
 {
   "id": "s5fb0hgw",
   "partOfSpeech": "verb",
+  "meaning": "to condemn publicly",
+  "english": [
+    {
+      "id": "733mgfpw",
+      "word": "proscribe",
+      "meaning": "denounce as unacceptable",
+      "register": "formal",
+      "note": "Use this for publicly condemning a word, practice, or action as unacceptable rather than simply imposing a ban."
+    },
+    {
+      "id": "g6gx5hwk",
+      "word": "denounce",
+      "meaning": "criticize publicly",
+      "register": "formal",
+      "note": "Use this for strong moral condemnation, especially in official or public statements."
+    }
+  ],
   "traditional": "譴責",
   "jyutping": "hin2 zaak3",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "to condemn publicly",
-      "english": [
-        {
-          "id": "733mgfpw",
-          "word": "proscribe",
-          "meaning": "denounce as unacceptable",
-          "register": "formal",
-          "note": "Use this for publicly condemning a word, practice, or action as unacceptable rather than simply imposing a ban."
-        },
-        {
-          "id": "g6gx5hwk",
-          "word": "denounce",
-          "meaning": "criticize publicly",
-          "register": "formal",
-          "note": "Use this for strong moral condemnation, especially in official or public statements."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The school issued a statement to proscribe cheating in exams.",
-          "traditional": "校方發表聲明，譴責考試出貓呢種行為。",
-          "jyutping": "haau6 fong1 faat3 biu2 sing1 ming4 hin2 zaak3 haau2 si3 ceot1 maau1 ne1 zung2 hang4 wai4"
-        },
-        {
-          "english": "The United Nations issued a statement to denounce the attack.",
-          "traditional": "聯合國發表聲明，譴責呢次襲擊。",
-          "jyutping": "lyun4 hap6 gwok3 faat3 biu2 sing1 ming4 hin2 zaak3 ni1 ci3 zaap6 gik1"
-        }
-      ]
+      "english": "The school issued a statement to proscribe cheating in exams.",
+      "traditional": "校方發表聲明，譴責考試出貓呢種行為。",
+      "jyutping": "haau6 fong1 faat3 biu2 sing1 ming4 hin2 zaak3 haau2 si3 ceot1 maau1 ne1 zung2 hang4 wai4"
+    },
+    {
+      "english": "The United Nations issued a statement to denounce the attack.",
+      "traditional": "聯合國發表聲明，譴責呢次襲擊。",
+      "jyutping": "lyun4 hap6 gwok3 faat3 biu2 sing1 ming4 hin2 zaak3 ni1 ci3 zaap6 gik1"
     }
   ]
 }

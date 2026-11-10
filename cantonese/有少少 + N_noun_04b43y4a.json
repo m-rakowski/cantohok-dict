@@ -1,28 +1,24 @@
 {
   "id": "04b43y4a",
   "partOfSpeech": "noun",
+  "meaning": "small amount",
+  "english": [
+    {
+      "id": "2je4kdlg",
+      "word": "hint",
+      "meaning": "small amount",
+      "register": "colloquial",
+      "note": "Use this spoken construction for a barely detectable amount or quality, such as a hint of irony."
+    }
+  ],
   "traditional": "有少少 + N",
   "jyutping": "jau5 siu2 siu2 N",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "small amount",
-      "english": [
-        {
-          "id": "2je4kdlg",
-          "word": "hint",
-          "meaning": "small amount",
-          "register": "colloquial",
-          "note": "Use this spoken construction for a barely detectable amount or quality, such as a hint of irony."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "This coffee has a hint of bitterness.",
-          "traditional": "呢杯咖啡有少少苦味。",
-          "jyutping": "ne1 bui1 gaa3 fe1 jau5 siu2 siu2 fu2 mei6"
-        }
-      ]
+      "english": "This coffee has a hint of bitterness.",
+      "traditional": "呢杯咖啡有少少苦味。",
+      "jyutping": "ne1 bui1 gaa3 fe1 jau5 siu2 siu2 fu2 mei6"
     }
   ]
 }

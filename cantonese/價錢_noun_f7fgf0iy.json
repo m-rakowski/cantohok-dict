@@ -1,37 +1,33 @@
 {
   "id": "f7fgf0iy",
   "partOfSpeech": "noun",
+  "meaning": "price",
+  "english": [
+    {
+      "id": "nqba42ni",
+      "word": "price",
+      "meaning": "cost of something",
+      "note": "This is the all-purpose everyday word for the cost of something or an action."
+    },
+    {
+      "id": "rwophbkf",
+      "word": "cost",
+      "meaning": "price; expense",
+      "note": "Use this for the price of an item or service, rather than its wider expense or resource cost."
+    }
+  ],
   "traditional": "價錢",
   "jyutping": "gaa3 cin4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "price",
-      "english": [
-        {
-          "id": "nqba42ni",
-          "word": "price",
-          "meaning": "cost of something",
-          "note": "This is the all-purpose everyday word for the cost of something or an action."
-        },
-        {
-          "id": "rwophbkf",
-          "word": "cost",
-          "meaning": "price; expense",
-          "note": "Use this for the price of an item or service, rather than its wider expense or resource cost."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The price of this shirt is a bit high.",
-          "traditional": "呢件衫嘅價錢有啲高。",
-          "jyutping": "ni1 gin6 saam1 ge3 gaa3 cin4 jau5 di1 gou1"
-        },
-        {
-          "english": "The cost of this phone is quite reasonable.",
-          "traditional": "呢部手機嘅價錢幾合理。",
-          "jyutping": "ni1 bou6 sau2 gei1 ge3 gaa3 cin4 gei2 hap6 lei5"
-        }
-      ]
+      "english": "The price of this shirt is a bit high.",
+      "traditional": "呢件衫嘅價錢有啲高。",
+      "jyutping": "ni1 gin6 saam1 ge3 gaa3 cin4 jau5 di1 gou1"
+    },
+    {
+      "english": "The cost of this phone is quite reasonable.",
+      "traditional": "呢部手機嘅價錢幾合理。",
+      "jyutping": "ni1 bou6 sau2 gei1 ge3 gaa3 cin4 gei2 hap6 lei5"
     }
   ]
 }

@@ -1,28 +1,24 @@
 {
   "id": "6gdaa8xw",
   "partOfSpeech": "adv",
+  "meaning": "considerably",
+  "english": [
+    {
+      "id": "bsgqha0i",
+      "word": "substantially",
+      "meaning": "considerably",
+      "register": "colloquial",
+      "note": "Use this colloquial comparative construction when something is considerably more or less than before or than something else."
+    }
+  ],
   "traditional": "A + 好多",
   "jyutping": "A hou2 do1",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "considerably",
-      "english": [
-        {
-          "id": "bsgqha0i",
-          "word": "substantially",
-          "meaning": "considerably",
-          "register": "colloquial",
-          "note": "Use this colloquial comparative construction when something is considerably more or less than before or than something else."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "This year’s rent is substantially more expensive than last year’s.",
-          "traditional": "今年啲租比舊年貴好多。",
-          "jyutping": "gam1 nin4 di1 zou1 bei2 gau6 nin2 gwai3 hou2 do1"
-        }
-      ]
+      "english": "This year’s rent is substantially more expensive than last year’s.",
+      "traditional": "今年啲租比舊年貴好多。",
+      "jyutping": "gam1 nin4 di1 zou1 bei2 gau6 nin2 gwai3 hou2 do1"
     }
   ]
 }

@@ -1,37 +1,33 @@
 {
   "id": "a5awtbvl",
   "partOfSpeech": "noun",
+  "meaning": "human life",
+  "english": [
+    {
+      "id": "hvh1ngej",
+      "word": "life",
+      "meaning": "a person's life",
+      "note": "Use this when counting, losing, or saving individual human or animal lives."
+    },
+    {
+      "id": "9ha9w3vt",
+      "word": "soul",
+      "meaning": "a person; a life",
+      "note": "Use this when the sense focuses on individual human lives, especially lives lost or at risk."
+    }
+  ],
   "traditional": "人命",
   "jyutping": "jan4 meng6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "human life",
-      "english": [
-        {
-          "id": "hvh1ngej",
-          "word": "life",
-          "meaning": "a person's life",
-          "note": "Use this when counting, losing, or saving individual human or animal lives."
-        },
-        {
-          "id": "9ha9w3vt",
-          "word": "soul",
-          "meaning": "a person; a life",
-          "note": "Use this when the sense focuses on individual human lives, especially lives lost or at risk."
-        }
-      ],
-      "examples": [
-        {
-          "english": "When fighting the fire, the priority is to save human life.",
-          "traditional": "救火嗰陣，最緊要係保住人命。",
-          "jyutping": "gau3 fo2 go2 zan6 zeoi3 gan2 jiu3 hai6 bou2 zyu6 jan4 meng6"
-        },
-        {
-          "english": "During a fire, saving even one soul matters most.",
-          "traditional": "火警嗰陣，救一條人命最緊要。",
-          "jyutping": "fo2 ging2 go2 zan6 gau3 jat1 tiu4 jan4 meng6 zeoi3 gan2 jiu3"
-        }
-      ]
+      "english": "When fighting the fire, the priority is to save human life.",
+      "traditional": "救火嗰陣，最緊要係保住人命。",
+      "jyutping": "gau3 fo2 go2 zan6 zeoi3 gan2 jiu3 hai6 bou2 zyu6 jan4 meng6"
+    },
+    {
+      "english": "During a fire, saving even one soul matters most.",
+      "traditional": "火警嗰陣，救一條人命最緊要。",
+      "jyutping": "fo2 ging2 go2 zan6 gau3 jat1 tiu4 jan4 meng6 zeoi3 gan2 jiu3"
     }
   ]
 }

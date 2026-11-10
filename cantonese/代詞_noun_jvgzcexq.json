@@ -1,26 +1,22 @@
 {
   "id": "jvgzcexq",
   "partOfSpeech": "noun",
+  "meaning": "grammar word class",
+  "english": [
+    {
+      "id": "aqbc0k7z",
+      "word": "pronoun",
+      "meaning": "grammar word class",
+      "note": "This is the all-purpose Cantonese term for a pronoun, including a person's preferred pronouns."
+    }
+  ],
   "traditional": "代詞",
   "jyutping": "doi6 ci4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "grammar word class",
-      "english": [
-        {
-          "id": "aqbc0k7z",
-          "word": "pronoun",
-          "meaning": "grammar word class",
-          "note": "This is the all-purpose Cantonese term for a pronoun, including a person's preferred pronouns."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The teacher said that a pronoun can replace a noun.",
-          "traditional": "老師話，代詞可以代替名詞。",
-          "jyutping": "lou5 si1 waa6 doi6 ci4 ho2 ji5 doi6 tai3 ming4 ci4"
-        }
-      ]
+      "english": "The teacher said that a pronoun can replace a noun.",
+      "traditional": "老師話，代詞可以代替名詞。",
+      "jyutping": "lou5 si1 waa6 doi6 ci4 ho2 ji5 doi6 tai3 ming4 ci4"
     }
   ]
 }

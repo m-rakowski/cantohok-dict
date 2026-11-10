@@ -1,50 +1,46 @@
 {
   "id": "7vtw6rpj",
   "partOfSpeech": "noun",
+  "meaning": "free time slot",
+  "english": [
+    {
+      "id": "l2te483b",
+      "word": "availability",
+      "meaning": "being free/available",
+      "register": "colloquial",
+      "note": "Use this for a specific free slot in someone’s schedule."
+    },
+    {
+      "id": "92sb4tls",
+      "word": "gap",
+      "meaning": "empty time slot",
+      "register": "colloquial",
+      "note": "Use this for a free period or open slot in a schedule rather than a physical opening."
+    },
+    {
+      "id": "kfv3njk2",
+      "word": "opening",
+      "meaning": "available time slot",
+      "note": "Use 空檔 for an available opening in a schedule or a period when someone is free."
+    }
+  ],
   "traditional": "空檔",
   "jyutping": "hung1 dong3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "free time slot",
-      "english": [
-        {
-          "id": "l2te483b",
-          "word": "availability",
-          "meaning": "being free/available",
-          "register": "colloquial",
-          "note": "Use this for a specific free slot in someone’s schedule."
-        },
-        {
-          "id": "92sb4tls",
-          "word": "gap",
-          "meaning": "empty time slot",
-          "register": "colloquial",
-          "note": "Use this for a free period or open slot in a schedule rather than a physical opening."
-        },
-        {
-          "id": "kfv3njk2",
-          "word": "opening",
-          "meaning": "available time slot",
-          "note": "Use 空檔 for an available opening in a schedule or a period when someone is free."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Do you have any availability tomorrow?",
-          "traditional": "你聽日有冇空檔？",
-          "jyutping": "nei5 ting1 jat6 jau5 mou5 hung1 dong3"
-        },
-        {
-          "english": "I have a gap at three this afternoon, so I can see you.",
-          "traditional": "我下晝三點有個空檔，可以見你。",
-          "jyutping": "ngo5 haa6 zau3 saam1 dim2 jau5 go3 hung1 dong3 ho2 ji5 gin3 nei5"
-        },
-        {
-          "english": "Do you have an opening next week?",
-          "traditional": "你下個禮拜有冇空檔？",
-          "jyutping": "nei5 haa6 go3 lai5 baai3 jau5 mou5 hung1 dong3"
-        }
-      ]
+      "english": "Do you have any availability tomorrow?",
+      "traditional": "你聽日有冇空檔？",
+      "jyutping": "nei5 ting1 jat6 jau5 mou5 hung1 dong3"
+    },
+    {
+      "english": "I have a gap at three this afternoon, so I can see you.",
+      "traditional": "我下晝三點有個空檔，可以見你。",
+      "jyutping": "ngo5 haa6 zau3 saam1 dim2 jau5 go3 hung1 dong3 ho2 ji5 gin3 nei5"
+    },
+    {
+      "english": "Do you have an opening next week?",
+      "traditional": "你下個禮拜有冇空檔？",
+      "jyutping": "nei5 haa6 go3 lai5 baai3 jau5 mou5 hung1 dong3"
     }
   ]
 }

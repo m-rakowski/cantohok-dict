@@ -1,28 +1,24 @@
 {
   "id": "kk38nl6k",
   "partOfSpeech": "verb",
+  "meaning": "call a program",
+  "english": [
+    {
+      "id": "c4de0zhe",
+      "word": "invoke",
+      "meaning": "call a program",
+      "register": "technical",
+      "note": "Use this in computing when causing a program, function, or subroutine to run."
+    }
+  ],
   "traditional": "呼叫",
   "jyutping": "fu1 giu3",
-  "boxes": [
+  "register": "technical",
+  "examples": [
     {
-      "meaning": "call a program",
-      "english": [
-        {
-          "id": "c4de0zhe",
-          "word": "invoke",
-          "meaning": "call a program",
-          "register": "technical",
-          "note": "Use this in computing when causing a program, function, or subroutine to run."
-        }
-      ],
-      "register": "technical",
-      "examples": [
-        {
-          "english": "The program uses a command to invoke this function.",
-          "traditional": "個程式用指令呼叫呢個函數。",
-          "jyutping": "go3 cing4 sik1 jung6 zi2 ling6 fu1 giu3 ni1 go3 haam4 sou3"
-        }
-      ]
+      "english": "The program uses a command to invoke this function.",
+      "traditional": "個程式用指令呼叫呢個函數。",
+      "jyutping": "go3 cing4 sik1 jung6 zi2 ling6 fu1 giu3 ni1 go3 haam4 sou3"
     }
   ]
 }

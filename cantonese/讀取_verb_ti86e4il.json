@@ -1,26 +1,22 @@
 {
   "id": "ti86e4il",
   "partOfSpeech": "verb",
+  "meaning": "fetch / bring back",
+  "english": [
+    {
+      "id": "qxmp4hch",
+      "word": "retrieve",
+      "meaning": "fetch / bring back",
+      "note": "Use this mainly for retrieving or reading a file, record, or other data in a computing context."
+    }
+  ],
   "traditional": "讀取",
   "jyutping": "duk6 ceoi2",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "fetch / bring back",
-      "english": [
-        {
-          "id": "qxmp4hch",
-          "word": "retrieve",
-          "meaning": "fetch / bring back",
-          "note": "Use this mainly for retrieving or reading a file, record, or other data in a computing context."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The system is still trying to retrieve the data from your Octopus card.",
-          "traditional": "讀取",
-          "jyutping": "duk6 ceoi2"
-        }
-      ]
+      "english": "The system is still trying to retrieve the data from your Octopus card.",
+      "traditional": "讀取",
+      "jyutping": "duk6 ceoi2"
     }
   ]
 }

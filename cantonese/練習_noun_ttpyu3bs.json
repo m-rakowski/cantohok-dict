@@ -1,48 +1,44 @@
 {
   "id": "ttpyu3bs",
   "partOfSpeech": "noun",
+  "meaning": "practice, exercise",
+  "english": [
+    {
+      "id": "qhgiypwh",
+      "word": "practice",
+      "meaning": "skill practice",
+      "note": "This is the all-purpose choice for repeated skill work or an organized practice session."
+    },
+    {
+      "id": "yqq3uhy8",
+      "word": "exercise",
+      "meaning": "skill practice",
+      "note": "Use 練習 for a task or activity designed to develop a skill, such as a writing exercise."
+    },
+    {
+      "id": "k9lqclys",
+      "word": "drill",
+      "meaning": "practice exercise",
+      "note": "Use this for a general practice exercise rather than a formal simulated operation."
+    }
+  ],
   "traditional": "練習",
   "jyutping": "lin6 zaap6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "practice, exercise",
-      "english": [
-        {
-          "id": "qhgiypwh",
-          "word": "practice",
-          "meaning": "skill practice",
-          "note": "This is the all-purpose choice for repeated skill work or an organized practice session."
-        },
-        {
-          "id": "yqq3uhy8",
-          "word": "exercise",
-          "meaning": "skill practice",
-          "note": "Use 練習 for a task or activity designed to develop a skill, such as a writing exercise."
-        },
-        {
-          "id": "k9lqclys",
-          "word": "drill",
-          "meaning": "practice exercise",
-          "note": "Use this for a general practice exercise rather than a formal simulated operation."
-        }
-      ],
-      "examples": [
-        {
-          "english": "We have basketball practice tonight.",
-          "traditional": "我哋今晚有籃球練習。",
-          "jyutping": "ngo5 dei6 gam1 maan5 jau5 laam4 kau4 lin6 zaap6"
-        },
-        {
-          "english": "This is a writing exercise that can improve your writing.",
-          "traditional": "呢個係寫作練習，可以幫你改善文筆。",
-          "jyutping": "ni1 go3 hai6 se2 zok3 lin6 zaap6 ho2 ji5 bong1 nei5 goi2 sin6 man4 bat1"
-        },
-        {
-          "english": "I do English drill every day.",
-          "traditional": "我每日都做英文練習。",
-          "jyutping": "ngo5 mui5 jat6 dou1 zou6 jing1 man4 lin6 zaap6"
-        }
-      ]
+      "english": "We have basketball practice tonight.",
+      "traditional": "我哋今晚有籃球練習。",
+      "jyutping": "ngo5 dei6 gam1 maan5 jau5 laam4 kau4 lin6 zaap6"
+    },
+    {
+      "english": "This is a writing exercise that can improve your writing.",
+      "traditional": "呢個係寫作練習，可以幫你改善文筆。",
+      "jyutping": "ni1 go3 hai6 se2 zok3 lin6 zaap6 ho2 ji5 bong1 nei5 goi2 sin6 man4 bat1"
+    },
+    {
+      "english": "I do English drill every day.",
+      "traditional": "我每日都做英文練習。",
+      "jyutping": "ngo5 mui5 jat6 dou1 zou6 jing1 man4 lin6 zaap6"
     }
   ]
 }

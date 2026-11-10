@@ -1,26 +1,22 @@
 {
   "id": "ovcth48g",
   "partOfSpeech": "noun",
+  "meaning": "software accessibility features",
+  "english": [
+    {
+      "id": "2gfuvad1",
+      "word": "accessibility",
+      "meaning": "software accessibility features",
+      "note": "Use this specifically for software features designed to help users with impairments."
+    }
+  ],
   "traditional": "無障礙功能",
   "jyutping": "mou4 zoeng3 ngoi6 gung1 nang4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "software accessibility features",
-      "english": [
-        {
-          "id": "2gfuvad1",
-          "word": "accessibility",
-          "meaning": "software accessibility features",
-          "note": "Use this specifically for software features designed to help users with impairments."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This program's accessibility features are well designed, so people with visual impairments can use it too.",
-          "traditional": "呢個程式嘅無障礙功能做得幾好，視障人士都用到。",
-          "jyutping": "ni1 go3 cing4 sik1 ge3 mou4 zoeng3 ngoi6 gung1 nang4 zou6 dak1 gei2 hou2 si6 zoeng3 jan4 si6 dou1 jung6 dou2"
-        }
-      ]
+      "english": "This program's accessibility features are well designed, so people with visual impairments can use it too.",
+      "traditional": "呢個程式嘅無障礙功能做得幾好，視障人士都用到。",
+      "jyutping": "ni1 go3 cing4 sik1 ge3 mou4 zoeng3 ngoi6 gung1 nang4 zou6 dak1 gei2 hou2 si6 zoeng3 jan4 si6 dou1 jung6 dou2"
     }
   ]
 }

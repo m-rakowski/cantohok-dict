@@ -1,38 +1,34 @@
 {
   "id": "ou9qdkbm",
   "partOfSpeech": "adv",
+  "meaning": "can't help doing",
+  "english": [
+    {
+      "id": "1j7aeoya",
+      "word": "irresistibly",
+      "meaning": "in an irresistible way",
+      "note": "This is the all-purpose colloquial choice when someone cannot resist doing V or reacting in a certain way."
+    },
+    {
+      "id": "stl0au3b",
+      "word": "involuntarily",
+      "meaning": "without conscious control",
+      "register": "colloquial",
+      "note": "Use this for an action caused by an irresistible urge, especially laughing, crying, or speaking."
+    }
+  ],
   "traditional": "忍唔住 + V",
   "jyutping": "jan2 m4 zyu6 V",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "can't help doing",
-      "english": [
-        {
-          "id": "1j7aeoya",
-          "word": "irresistibly",
-          "meaning": "in an irresistible way",
-          "note": "This is the all-purpose colloquial choice when someone cannot resist doing V or reacting in a certain way."
-        },
-        {
-          "id": "stl0au3b",
-          "word": "involuntarily",
-          "meaning": "without conscious control",
-          "register": "colloquial",
-          "note": "Use this for an action caused by an irresistible urge, especially laughing, crying, or speaking."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Seeing his funny face, I irresistibly burst out laughing.",
-          "traditional": "睇到佢個樣咁搞笑，我忍唔住笑咗出聲。",
-          "jyutping": "tai2 dou3 keoi5 go3 joeng2 gam3 gaau2 siu3 ngo5 jan2 m4 zyu6 siu3 zo2 ceot1 seng1"
-        },
-        {
-          "english": "I involuntarily burst out laughing.",
-          "traditional": "我忍唔住笑咗出聲。",
-          "jyutping": "ngo5 jan2 m4 zyu6 siu3 zo2 ceot1 seng1"
-        }
-      ]
+      "english": "Seeing his funny face, I irresistibly burst out laughing.",
+      "traditional": "睇到佢個樣咁搞笑，我忍唔住笑咗出聲。",
+      "jyutping": "tai2 dou3 keoi5 go3 joeng2 gam3 gaau2 siu3 ngo5 jan2 m4 zyu6 siu3 zo2 ceot1 seng1"
+    },
+    {
+      "english": "I involuntarily burst out laughing.",
+      "traditional": "我忍唔住笑咗出聲。",
+      "jyutping": "ngo5 jan2 m4 zyu6 siu3 zo2 ceot1 seng1"
     }
   ]
 }

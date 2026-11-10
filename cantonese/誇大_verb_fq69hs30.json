@@ -1,37 +1,33 @@
 {
   "id": "fq69hs30",
   "partOfSpeech": "verb",
+  "meaning": "to exaggerate",
+  "english": [
+    {
+      "id": "x6q7snac",
+      "word": "magnify",
+      "meaning": "exaggerate, overstate",
+      "note": "Use this when making something seem more important, serious, or impressive than it really is."
+    },
+    {
+      "id": "tn31qae4",
+      "word": "inflate",
+      "meaning": "exaggerate",
+      "note": "Use this when someone presents an importance, quality, or problem as greater than it really is."
+    }
+  ],
   "traditional": "誇大",
   "jyutping": "kwaa1 daai6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "to exaggerate",
-      "english": [
-        {
-          "id": "x6q7snac",
-          "word": "magnify",
-          "meaning": "exaggerate, overstate",
-          "note": "Use this when making something seem more important, serious, or impressive than it really is."
-        },
-        {
-          "id": "tn31qae4",
-          "word": "inflate",
-          "meaning": "exaggerate",
-          "note": "Use this when someone presents an importance, quality, or problem as greater than it really is."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Don’t magnify the problem; it’s not that serious.",
-          "traditional": "你唔好誇大件事，冇咁嚴重㗎。",
-          "jyutping": "nei5 m4 hou2 kwaa1 daai6 gin6 si6 mou5 gam3 jim4 zung6 gaa3"
-        },
-        {
-          "english": "They always inflate the seriousness of things, making everything sound like the end of the world.",
-          "traditional": "佢成日誇大件事，講到好似世界末日咁。",
-          "jyutping": "keoi5 seng4 jat6 kwaa1 daai6 gin6 si6 gong2 dou3 hou2 ci5 sai3 gaai3 mut6 jat6 gam3"
-        }
-      ]
+      "english": "Don’t magnify the problem; it’s not that serious.",
+      "traditional": "你唔好誇大件事，冇咁嚴重㗎。",
+      "jyutping": "nei5 m4 hou2 kwaa1 daai6 gin6 si6 mou5 gam3 jim4 zung6 gaa3"
+    },
+    {
+      "english": "They always inflate the seriousness of things, making everything sound like the end of the world.",
+      "traditional": "佢成日誇大件事，講到好似世界末日咁。",
+      "jyutping": "keoi5 seng4 jat6 kwaa1 daai6 gin6 si6 gong2 dou3 hou2 ci5 sai3 gaai3 mut6 jat6 gam3"
     }
   ]
 }

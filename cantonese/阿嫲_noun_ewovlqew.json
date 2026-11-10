@@ -1,28 +1,24 @@
 {
   "id": "ewovlqew",
   "partOfSpeech": "noun",
+  "meaning": "grandmother",
+  "english": [
+    {
+      "id": "msq1s1ks",
+      "word": "grandma",
+      "meaning": "grandmother",
+      "register": "colloquial",
+      "note": "This is the all-purpose colloquial choice for a paternal grandmother, especially when addressing her or speaking familiarly."
+    }
+  ],
   "traditional": "阿嫲",
   "jyutping": "aa3 maa4",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "grandmother",
-      "english": [
-        {
-          "id": "msq1s1ks",
-          "word": "grandma",
-          "meaning": "grandmother",
-          "register": "colloquial",
-          "note": "This is the all-purpose colloquial choice for a paternal grandmother, especially when addressing her or speaking familiarly."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "Grandma, have you eaten yet?",
-          "traditional": "阿嫲，你食咗飯未呀？",
-          "jyutping": "aa3 maa4 nei5 sik6 zo2 faan6 mei6 aa3"
-        }
-      ]
+      "english": "Grandma, have you eaten yet?",
+      "traditional": "阿嫲，你食咗飯未呀？",
+      "jyutping": "aa3 maa4 nei5 sik6 zo2 faan6 mei6 aa3"
     }
   ]
 }

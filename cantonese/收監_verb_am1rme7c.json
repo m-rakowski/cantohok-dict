@@ -1,40 +1,36 @@
 {
   "id": "am1rme7c",
   "partOfSpeech": "verb",
+  "meaning": "put in prison",
+  "english": [
+    {
+      "id": "qoh68i0l",
+      "word": "imprison",
+      "meaning": "put in prison",
+      "register": "formal",
+      "note": "Use this for formally putting someone in prison, especially in legal or news contexts."
+    },
+    {
+      "id": "fcvco87o",
+      "word": "commit",
+      "meaning": "imprison",
+      "register": "formal",
+      "note": "Use 收監 when authorities place someone in prison, especially in legal or official contexts."
+    }
+  ],
   "traditional": "收監",
   "jyutping": "sau1 gaam1",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "put in prison",
-      "english": [
-        {
-          "id": "qoh68i0l",
-          "word": "imprison",
-          "meaning": "put in prison",
-          "register": "formal",
-          "note": "Use this for formally putting someone in prison, especially in legal or news contexts."
-        },
-        {
-          "id": "fcvco87o",
-          "word": "commit",
-          "meaning": "imprison",
-          "register": "formal",
-          "note": "Use 收監 when authorities place someone in prison, especially in legal or official contexts."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The court ordered the authorities to imprison him for five years.",
-          "traditional": "法庭判佢收監五年。",
-          "jyutping": "faat3 ting4 pun3 keoi5 sau1 gaam1 ng5 nin4"
-        },
-        {
-          "english": "The court will formally commit the prisoner to prison today.",
-          "traditional": "法院今日正式將犯人收監。",
-          "jyutping": "faat3 jyun2 gam1 jat6 zing3 sik1 zoeng1 faan6 jan4 sau1 gaam1"
-        }
-      ]
+      "english": "The court ordered the authorities to imprison him for five years.",
+      "traditional": "法庭判佢收監五年。",
+      "jyutping": "faat3 ting4 pun3 keoi5 sau1 gaam1 ng5 nin4"
+    },
+    {
+      "english": "The court will formally commit the prisoner to prison today.",
+      "traditional": "法院今日正式將犯人收監。",
+      "jyutping": "faat3 jyun2 gam1 jat6 zing3 sik1 zoeng1 faan6 jan4 sau1 gaam1"
     }
   ]
 }

@@ -1,26 +1,22 @@
 {
   "id": "d18d65mk",
   "partOfSpeech": "noun",
+  "meaning": "boxing match",
+  "english": [
+    {
+      "id": "rlqkfuc4",
+      "word": "fight",
+      "meaning": "boxing match",
+      "note": "Use this for a boxing or other martial-arts match held in a ring."
+    }
+  ],
   "traditional": "擂台賽",
   "jyutping": "leoi4 toi4 coi3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "boxing match",
-      "english": [
-        {
-          "id": "rlqkfuc4",
-          "word": "fight",
-          "meaning": "boxing match",
-          "note": "Use this for a boxing or other martial-arts match held in a ring."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Tonight's fight starts at eight.",
-          "traditional": "今晚嘅擂台賽八點開波。",
-          "jyutping": "gam1 maan5 ge3 leoi4 toi4 coi3 baat3 dim2 hoi1 bo1"
-        }
-      ]
+      "english": "Tonight's fight starts at eight.",
+      "traditional": "今晚嘅擂台賽八點開波。",
+      "jyutping": "gam1 maan5 ge3 leoi4 toi4 coi3 baat3 dim2 hoi1 bo1"
     }
   ]
 }

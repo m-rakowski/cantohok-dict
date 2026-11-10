@@ -1,62 +1,22 @@
 {
   "id": "tdlk4fez",
   "partOfSpeech": "noun",
+  "meaning": "hour",
+  "english": [
+    {
+      "id": "9aevdkzd",
+      "word": "hour",
+      "meaning": "sixty minutes",
+      "note": "This is the all-purpose casual choice for a duration such as 一個鐘."
+    }
+  ],
   "traditional": "鐘",
   "jyutping": "zung1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "hour",
-      "english": [
-        {
-          "id": "9aevdkzd",
-          "word": "hour",
-          "meaning": "sixty minutes",
-          "note": "This is the all-purpose casual choice for a duration such as 一個鐘."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I waited for you for a whole hour.",
-          "traditional": "我等咗你成個鐘。",
-          "jyutping": "ngo5 dang2 zo2 nei5 seng4 go3 zung1"
-        }
-      ]
-    },
-    {
-      "meaning": "bell",
-      "english": [
-        {
-          "id": "74s7av56",
-          "word": "bell",
-          "meaning": "ringing instrument",
-          "note": "This is the all-purpose noun for a physical ringing bell."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This bell rings as soon as you strike it.",
-          "traditional": "呢個鐘一敲就響。",
-          "jyutping": "ni1 go3 zung1 jat1 haau1 zau6 hoeng2"
-        }
-      ]
-    },
-    {
-      "meaning": "clock",
-      "english": [
-        {
-          "id": "mao56pci",
-          "word": "clock",
-          "meaning": "timekeeping device",
-          "note": "This is the all-purpose colloquial word for a clock when the context makes the meaning clear."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The clock in the living room is five minutes slow.",
-          "traditional": "客廳嗰個鐘慢咗五分鐘。",
-          "jyutping": "haak3 teng1 go2 go3 zung1 maan6 zo2 ng5 fan1 zung1"
-        }
-      ]
+      "english": "I waited for you for a whole hour.",
+      "traditional": "我等咗你成個鐘。",
+      "jyutping": "ngo5 dang2 zo2 nei5 seng4 go3 zung1"
     }
   ]
 }

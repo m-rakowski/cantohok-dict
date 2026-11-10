@@ -1,26 +1,22 @@
 {
   "id": "7udfnpzf",
   "partOfSpeech": "noun",
+  "meaning": "file transfer to device",
+  "english": [
+    {
+      "id": "6zbyly51",
+      "word": "download",
+      "meaning": "file transfer to device",
+      "note": "This is the all-purpose choice for the download or file-transfer process."
+    }
+  ],
   "traditional": "下載",
   "jyutping": "haa6 zoi3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "file transfer to device",
-      "english": [
-        {
-          "id": "6zbyly51",
-          "word": "download",
-          "meaning": "file transfer to device",
-          "note": "This is the all-purpose choice for the download or file-transfer process."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The download is still running.",
-          "traditional": "我而家仲下載緊個更新。",
-          "jyutping": "ngo5 ji4 gaa1 zung6 haa6 zoi3 gan2 go3 gang1 san1"
-        }
-      ]
+      "english": "The download is still running.",
+      "traditional": "我而家仲下載緊個更新。",
+      "jyutping": "ngo5 ji4 gaa1 zung6 haa6 zoi3 gan2 go3 gang1 san1"
     }
   ]
 }

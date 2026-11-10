@@ -1,40 +1,36 @@
 {
   "id": "iwavveha",
   "partOfSpeech": "noun",
+  "meaning": "jail, prison",
+  "english": [
+    {
+      "id": "qbtixxln",
+      "word": "prison",
+      "meaning": "jail, prison",
+      "register": "colloquial",
+      "note": "A Hong Kong speaker uses this colloquial word for the jail itself, especially in casual speech."
+    },
+    {
+      "id": "507cgxof",
+      "word": "joint",
+      "meaning": "jail, prison",
+      "register": "colloquial",
+      "note": "Use this for the prison or jail sense, especially in colloquial speech."
+    }
+  ],
   "traditional": "監倉",
   "jyutping": "gaam1 cong1",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "jail, prison",
-      "english": [
-        {
-          "id": "qbtixxln",
-          "word": "prison",
-          "meaning": "jail, prison",
-          "register": "colloquial",
-          "note": "A Hong Kong speaker uses this colloquial word for the jail itself, especially in casual speech."
-        },
-        {
-          "id": "507cgxof",
-          "word": "joint",
-          "meaning": "jail, prison",
-          "register": "colloquial",
-          "note": "Use this for the prison or jail sense, especially in colloquial speech."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "They have been in prison for several months.",
-          "traditional": "佢入咗監倉幾個月喇。",
-          "jyutping": "keoi5 jap6 zo2 gaam1 cong1 gei2 go3 jyut6 laa3"
-        },
-        {
-          "english": "He got hauled off to the joint.",
-          "traditional": "佢畀人拉咗入監倉。",
-          "jyutping": "keoi5 bei2 jan4 laai1 zo2 jap6 gaam1 cong1"
-        }
-      ]
+      "english": "They have been in prison for several months.",
+      "traditional": "佢入咗監倉幾個月喇。",
+      "jyutping": "keoi5 jap6 zo2 gaam1 cong1 gei2 go3 jyut6 laa3"
+    },
+    {
+      "english": "He got hauled off to the joint.",
+      "traditional": "佢畀人拉咗入監倉。",
+      "jyutping": "keoi5 bei2 jan4 laai1 zo2 jap6 gaam1 cong1"
     }
   ]
 }

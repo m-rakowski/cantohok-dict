@@ -1,80 +1,36 @@
 {
   "id": "cd8aykwc",
   "partOfSpeech": "noun",
+  "meaning": "boss, top figure",
+  "english": [
+    {
+      "id": "1cs53kyz",
+      "word": "chief",
+      "meaning": "leader; head of group",
+      "register": "colloquial",
+      "note": "Use 大佬 for an informal boss or leader, and also as a rough or jocular form of address."
+    },
+    {
+      "id": "7d95m85i",
+      "word": "daddy",
+      "meaning": "important man, doyen",
+      "register": "colloquial",
+      "note": "Use this colloquial word for the leading or most influential man in a group or field, rather than for an ordinary father."
+    }
+  ],
   "traditional": "大佬",
   "jyutping": "daai6 lou2",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "boss, top figure",
-      "english": [
-        {
-          "id": "1cs53kyz",
-          "word": "chief",
-          "meaning": "leader; head of group",
-          "register": "colloquial",
-          "note": "Use 大佬 for an informal boss or leader, and also as a rough or jocular form of address."
-        },
-        {
-          "id": "7d95m85i",
-          "word": "daddy",
-          "meaning": "important man, doyen",
-          "register": "colloquial",
-          "note": "Use this colloquial word for the leading or most influential man in a group or field, rather than for an ordinary father."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "Chief, what are we going to do about this?",
-          "traditional": "大佬，呢單嘢點搞呀？",
-          "jyutping": "daai6 lou2 ni1 daan1 je5 dim2 gaau2 aa3"
-        },
-        {
-          "english": "Among these chefs, he’s the daddy.",
-          "traditional": "喺呢班廚師入面，佢先係大佬。",
-          "jyutping": "hai2 ni1 baan1 cyu4 si1 jap6 min6 keoi5 sin1 hai6 daai6 lou2"
-        }
-      ]
+      "english": "Chief, what are we going to do about this?",
+      "traditional": "大佬，呢單嘢點搞呀？",
+      "jyutping": "daai6 lou2 ni1 daan1 je5 dim2 gaau2 aa3"
     },
     {
-      "meaning": "game boss",
-      "english": [
-        {
-          "id": "3yzk4l4z",
-          "word": "boss",
-          "meaning": "video game final enemy",
-          "register": "colloquial",
-          "note": "In gaming talk, this refers to the powerful enemy or final boss that must be defeated."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "The boss in this level is really hard to beat.",
-          "traditional": "呢關個大佬真係好難打。",
-          "jyutping": "ni1 gwaan1 go3 daai6 lou2 zan1 hai6 hou2 naan4 daa2"
-        }
-      ]
-    },
-    {
-      "meaning": "informal address to a man",
-      "english": [
-        {
-          "id": "zn416aez",
-          "word": "brother",
-          "meaning": "informal address to a man",
-          "register": "colloquial",
-          "note": "Use 大佬 as an informal form of address to a man, not as the ordinary word for a biological brother."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "Brother, could you let me get by?",
-          "traditional": "大佬，借過吓呀！",
-          "jyutping": "daai6 lou2 ze3 gwo3 haa5 aa3"
-        }
-      ]
+      "english": "Among these chefs, he’s the daddy.",
+      "traditional": "喺呢班廚師入面，佢先係大佬。",
+      "jyutping": "hai2 ni1 baan1 cyu4 si1 jap6 min6 keoi5 sin1 hai6 daai6 lou2"
     }
   ]
 }

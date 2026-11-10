@@ -1,28 +1,24 @@
 {
   "id": "x76y71vz",
   "partOfSpeech": "noun",
+  "meaning": "streetcar / trolley",
+  "english": [
+    {
+      "id": "qivuyqrw",
+      "word": "tram",
+      "meaning": "streetcar / trolley",
+      "register": "colloquial",
+      "note": "Use this colloquial nickname when referring specifically to Hong Kong’s trams."
+    }
+  ],
   "traditional": "叮叮",
   "jyutping": "ding1 ding1",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "streetcar / trolley",
-      "english": [
-        {
-          "id": "qivuyqrw",
-          "word": "tram",
-          "meaning": "streetcar / trolley",
-          "register": "colloquial",
-          "note": "Use this colloquial nickname when referring specifically to Hong Kong’s trams."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "The tram is here; let’s get on.",
-          "traditional": "叮叮嚟喇，我哋上車啦。",
-          "jyutping": "ding1 ding1 lei4 laa3 ngo5 dei6 soeng5 ce1 laa1"
-        }
-      ]
+      "english": "The tram is here; let’s get on.",
+      "traditional": "叮叮嚟喇，我哋上車啦。",
+      "jyutping": "ding1 ding1 lei4 laa3 ngo5 dei6 soeng5 ce1 laa1"
     }
   ]
 }

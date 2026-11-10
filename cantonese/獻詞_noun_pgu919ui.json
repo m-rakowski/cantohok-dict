@@ -1,28 +1,24 @@
 {
   "id": "pgu919ui",
   "partOfSpeech": "noun",
+  "meaning": "book dedication",
+  "english": [
+    {
+      "id": "k3uszqnr",
+      "word": "dedication",
+      "meaning": "book dedication",
+      "register": "written",
+      "note": "Use this only for a written dedication addressed to someone at the front of a book or other work."
+    }
+  ],
   "traditional": "獻詞",
   "jyutping": "hin3 ci4",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "book dedication",
-      "english": [
-        {
-          "id": "k3uszqnr",
-          "word": "dedication",
-          "meaning": "book dedication",
-          "register": "written",
-          "note": "Use this only for a written dedication addressed to someone at the front of a book or other work."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "There is a dedication at the front of this book to my mentor.",
-          "traditional": "呢本書前面有一段獻詞，送畀我恩師。",
-          "jyutping": "ni1 bun2 syu1 cin4 min6 jau5 jat1 dyun6 hin3 ci4 sung3 bei2 ngo5 jan1 si1"
-        }
-      ]
+      "english": "There is a dedication at the front of this book to my mentor.",
+      "traditional": "呢本書前面有一段獻詞，送畀我恩師。",
+      "jyutping": "ni1 bun2 syu1 cin4 min6 jau5 jat1 dyun6 hin3 ci4 sung3 bei2 ngo5 jan1 si1"
     }
   ]
 }

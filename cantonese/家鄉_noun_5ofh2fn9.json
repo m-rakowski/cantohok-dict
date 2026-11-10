@@ -1,38 +1,34 @@
 {
   "id": "5ofh2fn9",
   "partOfSpeech": "noun",
+  "meaning": "hometown",
+  "english": [
+    {
+      "id": "g159c4bn",
+      "word": "hometown",
+      "meaning": "native place / home town",
+      "register": "formal",
+      "note": "Use this more formal or general term for the place someone regards as their native home."
+    },
+    {
+      "id": "hldbvttr",
+      "word": "home",
+      "meaning": "native land; homeland",
+      "note": "Use this for one's native land or hometown rather than the house one currently lives in."
+    }
+  ],
   "traditional": "家鄉",
   "jyutping": "gaa1 hoeng1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "hometown",
-      "english": [
-        {
-          "id": "g159c4bn",
-          "word": "hometown",
-          "meaning": "native place / home town",
-          "register": "formal",
-          "note": "Use this more formal or general term for the place someone regards as their native home."
-        },
-        {
-          "id": "hldbvttr",
-          "word": "home",
-          "meaning": "native land; homeland",
-          "note": "Use this for one's native land or hometown rather than the house one currently lives in."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I have always missed my hometown.",
-          "traditional": "我一直都好掛住家鄉。",
-          "jyutping": "ngo5 jat1 zik6 dou1 hou2 gwaa3 zyu6 gaa1 hoeng1"
-        },
-        {
-          "english": "When I retire, I'll go back home to live in my hometown.",
-          "traditional": "我一退休就返家鄉住。",
-          "jyutping": "ngo5 jat1 teoi3 jau1 zau6 faan1 gaa1 hoeng1 zyu6"
-        }
-      ]
+      "english": "I have always missed my hometown.",
+      "traditional": "我一直都好掛住家鄉。",
+      "jyutping": "ngo5 jat1 zik6 dou1 hou2 gwaa3 zyu6 gaa1 hoeng1"
+    },
+    {
+      "english": "When I retire, I'll go back home to live in my hometown.",
+      "traditional": "我一退休就返家鄉住。",
+      "jyutping": "ngo5 jat1 teoi3 jau1 zau6 faan1 gaa1 hoeng1 zyu6"
     }
   ]
 }

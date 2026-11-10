@@ -1,49 +1,45 @@
 {
   "id": "u94j2bg2",
   "partOfSpeech": "verb",
+  "meaning": "apply, smear on",
+  "english": [
+    {
+      "id": "h1fn8tpl",
+      "word": "spread",
+      "meaning": "smear on; apply a thin layer",
+      "note": "Use this for applying butter, jam, cream, or another substance in a thin layer."
+    },
+    {
+      "id": "b5gxt2ty",
+      "word": "apply",
+      "meaning": "put on; place with",
+      "note": "Use this for putting cream, ointment, or another substance onto the skin or a surface."
+    },
+    {
+      "id": "6v93dwkm",
+      "word": "rub",
+      "meaning": "rub on; smear",
+      "register": "colloquial",
+      "note": "Use 搽 specifically for spreading a thin layer of a substance such as ointment, oil, or seasoning over something."
+    }
+  ],
   "traditional": "搽",
   "jyutping": "caa4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "apply, smear on",
-      "english": [
-        {
-          "id": "h1fn8tpl",
-          "word": "spread",
-          "meaning": "smear on; apply a thin layer",
-          "note": "Use this for applying butter, jam, cream, or another substance in a thin layer."
-        },
-        {
-          "id": "b5gxt2ty",
-          "word": "apply",
-          "meaning": "put on; place with",
-          "note": "Use this for putting cream, ointment, or another substance onto the skin or a surface."
-        },
-        {
-          "id": "6v93dwkm",
-          "word": "rub",
-          "meaning": "rub on; smear",
-          "register": "colloquial",
-          "note": "Use 搽 specifically for spreading a thin layer of a substance such as ointment, oil, or seasoning over something."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I like to spread butter on bread.",
-          "traditional": "我鍾意喺麵包上面搽牛油。",
-          "jyutping": "ngo5 zung1 ji3 hai2 min6 baau1 soeng6 min6 caa4 ngau4 jau4"
-        },
-        {
-          "english": "Remember to apply this ointment before bed.",
-          "traditional": "記住瞓覺前搽呢支藥膏。",
-          "jyutping": "gei3 zyu6 fan3 gaau3 cin4 caa4 ni1 zi1 joek6 gou1"
-        },
-        {
-          "english": "Rub a little ointment on the wound first.",
-          "traditional": "你搽少少藥膏喺傷口度先。",
-          "jyutping": "nei5 caa4 siu2 siu2 joek6 gou1 hai2 soeng1 hau2 dou6 sin1"
-        }
-      ]
+      "english": "I like to spread butter on bread.",
+      "traditional": "我鍾意喺麵包上面搽牛油。",
+      "jyutping": "ngo5 zung1 ji3 hai2 min6 baau1 soeng6 min6 caa4 ngau4 jau4"
+    },
+    {
+      "english": "Remember to apply this ointment before bed.",
+      "traditional": "記住瞓覺前搽呢支藥膏。",
+      "jyutping": "gei3 zyu6 fan3 gaau3 cin4 caa4 ni1 zi1 joek6 gou1"
+    },
+    {
+      "english": "Rub a little ointment on the wound first.",
+      "traditional": "你搽少少藥膏喺傷口度先。",
+      "jyutping": "nei5 caa4 siu2 siu2 joek6 gou1 hai2 soeng1 hau2 dou6 sin1"
     }
   ]
 }

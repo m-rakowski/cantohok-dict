@@ -1,38 +1,34 @@
 {
   "id": "dpcerny7",
   "partOfSpeech": "adj",
+  "meaning": "academic, scholarly",
+  "english": [
+    {
+      "id": "uqeb2tbr",
+      "word": "academic",
+      "meaning": "of a school/university",
+      "note": "This is the all-purpose choice for something belonging to scholarly or higher-education contexts."
+    },
+    {
+      "id": "96jhxwzg",
+      "word": "scholarly",
+      "meaning": "scholar-like; academic",
+      "register": "formal",
+      "note": "Use this mainly for writing, discussion, or other work that has an academic character."
+    }
+  ],
   "traditional": "學術性",
   "jyutping": "hok6 seot6 sing3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "academic, scholarly",
-      "english": [
-        {
-          "id": "uqeb2tbr",
-          "word": "academic",
-          "meaning": "of a school/university",
-          "note": "This is the all-purpose choice for something belonging to scholarly or higher-education contexts."
-        },
-        {
-          "id": "96jhxwzg",
-          "word": "scholarly",
-          "meaning": "scholar-like; academic",
-          "register": "formal",
-          "note": "Use this mainly for writing, discussion, or other work that has an academic character."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This paper is highly academic.",
-          "traditional": "呢篇論文學術性好高。",
-          "jyutping": "ni1 pin1 leon6 man4 hok6 seot6 sing3 hou2 gou1"
-        },
-        {
-          "english": "This article is too scholarly for general readers to understand.",
-          "traditional": "呢篇文章太學術性，一般讀者未必睇得明。",
-          "jyutping": "ne1 pin1 man4 zoeng1 taai3 hok6 seot6 sing3 jat1 bun1 duk6 ze2 mei6 bit1 tai2 dak1 ming4"
-        }
-      ]
+      "english": "This paper is highly academic.",
+      "traditional": "呢篇論文學術性好高。",
+      "jyutping": "ni1 pin1 leon6 man4 hok6 seot6 sing3 hou2 gou1"
+    },
+    {
+      "english": "This article is too scholarly for general readers to understand.",
+      "traditional": "呢篇文章太學術性，一般讀者未必睇得明。",
+      "jyutping": "ne1 pin1 man4 zoeng1 taai3 hok6 seot6 sing3 jat1 bun1 duk6 ze2 mei6 bit1 tai2 dak1 ming4"
     }
   ]
 }

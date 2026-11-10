@@ -1,38 +1,34 @@
 {
   "id": "3fx8m7ww",
   "partOfSpeech": "noun",
+  "meaning": "studying, learning",
+  "english": [
+    {
+      "id": "6rqa0a8j",
+      "word": "study",
+      "meaning": "learning; study",
+      "register": "formal",
+      "note": "This is the all-purpose noun for the mental effort or process of learning."
+    },
+    {
+      "id": "9e0ux9zm",
+      "word": "learning",
+      "meaning": "act of learning",
+      "note": "This is the all-purpose choice for the act or process of learning."
+    }
+  ],
   "traditional": "學習",
   "jyutping": "hok6 zaap6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "studying, learning",
-      "english": [
-        {
-          "id": "6rqa0a8j",
-          "word": "study",
-          "meaning": "learning; study",
-          "register": "formal",
-          "note": "This is the all-purpose noun for the mental effort or process of learning."
-        },
-        {
-          "id": "9e0ux9zm",
-          "word": "learning",
-          "meaning": "act of learning",
-          "note": "This is the all-purpose choice for the act or process of learning."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I think study requires perseverance.",
-          "traditional": "我認為學習需要恆心。",
-          "jyutping": "ngo5 jan6 wai4 hok6 zaap6 seoi1 jiu3 hang4 sam1"
-        },
-        {
-          "english": "Daily learning helps me improve.",
-          "traditional": "我每日都學習新嘢。",
-          "jyutping": "ngo5 mui5 jat6 dou1 hok6 zaap6 san1 je5"
-        }
-      ]
+      "english": "I think study requires perseverance.",
+      "traditional": "我認為學習需要恆心。",
+      "jyutping": "ngo5 jan6 wai4 hok6 zaap6 seoi1 jiu3 hang4 sam1"
+    },
+    {
+      "english": "Daily learning helps me improve.",
+      "traditional": "我每日都學習新嘢。",
+      "jyutping": "ngo5 mui5 jat6 dou1 hok6 zaap6 san1 je5"
     }
   ]
 }

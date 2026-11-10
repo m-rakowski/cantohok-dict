@@ -1,28 +1,24 @@
 {
   "id": "j3bjhcuc",
   "partOfSpeech": "verb",
+  "meaning": "make simpler",
+  "english": [
+    {
+      "id": "ygh1bpi9",
+      "word": "simplify",
+      "meaning": "make simpler",
+      "register": "formal",
+      "note": "Use this formal verb for deliberately reducing complexity, especially in technical, administrative, or written contexts."
+    }
+  ],
   "traditional": "簡化",
   "jyutping": "gaan2 faa3",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "make simpler",
-      "english": [
-        {
-          "id": "ygh1bpi9",
-          "word": "simplify",
-          "meaning": "make simpler",
-          "register": "formal",
-          "note": "Use this formal verb for deliberately reducing complexity, especially in technical, administrative, or written contexts."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The government plans to simplify the application process.",
-          "traditional": "政府計劃簡化申請程序。",
-          "jyutping": "zing3 fu2 gai3 waak6 gaan2 faa3 san1 cing2 cing4 zeoi6"
-        }
-      ]
+      "english": "The government plans to simplify the application process.",
+      "traditional": "政府計劃簡化申請程序。",
+      "jyutping": "zing3 fu2 gai3 waak6 gaan2 faa3 san1 cing2 cing4 zeoi6"
     }
   ]
 }

@@ -1,28 +1,24 @@
 {
   "id": "ye7s1688",
   "partOfSpeech": "verb",
+  "meaning": "forecast a future event",
+  "english": [
+    {
+      "id": "lx22bhq8",
+      "word": "predict",
+      "meaning": "forecast a future event",
+      "register": "formal",
+      "note": "Use this for foretelling a future event as a prophecy, especially in a mystical or religious context."
+    }
+  ],
   "traditional": "預言",
   "jyutping": "jyu6 jin4",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "forecast a future event",
-      "english": [
-        {
-          "id": "lx22bhq8",
-          "word": "predict",
-          "meaning": "forecast a future event",
-          "register": "formal",
-          "note": "Use this for foretelling a future event as a prophecy, especially in a mystical or religious context."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "That prophet can predict when the end of the world will come.",
-          "traditional": "嗰位先知可以預言世界末日幾時到。",
-          "jyutping": "go2 wai2 sin1 zi1 ho2 ji5 jyu6 jin4 sai3 gaai3 mut6 jat6 gei2 si4 dou3"
-        }
-      ]
+      "english": "That prophet can predict when the end of the world will come.",
+      "traditional": "嗰位先知可以預言世界末日幾時到。",
+      "jyutping": "go2 wai2 sin1 zi1 ho2 ji5 jyu6 jin4 sai3 gaai3 mut6 jat6 gei2 si4 dou3"
     }
   ]
 }

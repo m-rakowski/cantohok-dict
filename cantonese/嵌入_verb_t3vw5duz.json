@@ -1,26 +1,22 @@
 {
   "id": "t3vw5duz",
   "partOfSpeech": "verb",
+  "meaning": "insert into file",
+  "english": [
+    {
+      "id": "6fk9gpf0",
+      "word": "embed",
+      "meaning": "insert into file",
+      "note": "Use this technical term when placing a chart, video, or other content inside a document or data file."
+    }
+  ],
   "traditional": "嵌入",
   "jyutping": "ham6 jap6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "insert into file",
-      "english": [
-        {
-          "id": "6fk9gpf0",
-          "word": "embed",
-          "meaning": "insert into file",
-          "note": "Use this technical term when placing a chart, video, or other content inside a document or data file."
-        }
-      ],
-      "examples": [
-        {
-          "english": "You can embed the video in the report without opening a separate link.",
-          "traditional": "你可以將條片嵌入份報告，唔使另外開個連結。",
-          "jyutping": "nei5 ho2 ji5 zoeng1 tiu4 pin3 ham6 jap6 fan6 bou3 gou3 m4 sai2 ling6 ngoi6 hoi1 go3 lin4 git3"
-        }
-      ]
+      "english": "You can embed the video in the report without opening a separate link.",
+      "traditional": "你可以將條片嵌入份報告，唔使另外開個連結。",
+      "jyutping": "nei5 ho2 ji5 zoeng1 tiu4 pin3 ham6 jap6 fan6 bou3 gou3 m4 sai2 ling6 ngoi6 hoi1 go3 lin4 git3"
     }
   ]
 }

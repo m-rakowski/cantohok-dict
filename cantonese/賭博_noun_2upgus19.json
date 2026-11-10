@@ -1,28 +1,24 @@
 {
   "id": "2upgus19",
   "partOfSpeech": "noun",
+  "meaning": "betting / gambling",
+  "english": [
+    {
+      "id": "j1125hay",
+      "word": "gambling",
+      "meaning": "betting / gambling",
+      "register": "formal",
+      "note": "Use this as the more formal or general noun for gambling, especially in writing or official contexts."
+    }
+  ],
   "traditional": "賭博",
   "jyutping": "dou2 bok3",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "betting / gambling",
-      "english": [
-        {
-          "id": "j1125hay",
-          "word": "gambling",
-          "meaning": "betting / gambling",
-          "register": "formal",
-          "note": "Use this as the more formal or general noun for gambling, especially in writing or official contexts."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The government has stepped up its crackdown on online gambling.",
-          "traditional": "政府加強打擊網上賭博。",
-          "jyutping": "zing3 fu2 gaa1 koeng4 daa2 gik1 mong5 soeng6 dou2 bok3"
-        }
-      ]
+      "english": "The government has stepped up its crackdown on online gambling.",
+      "traditional": "政府加強打擊網上賭博。",
+      "jyutping": "zing3 fu2 gaa1 koeng4 daa2 gik1 mong5 soeng6 dou2 bok3"
     }
   ]
 }

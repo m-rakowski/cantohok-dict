@@ -1,28 +1,24 @@
 {
   "id": "xbkrl4s2",
   "partOfSpeech": "noun",
+  "meaning": "inquiry; inquiry process",
+  "english": [
+    {
+      "id": "80dfvdf2",
+      "word": "investigation",
+      "meaning": "inquiry; inquiry process",
+      "register": "formal",
+      "note": "Use this specifically for a police or criminal investigation rather than a general inquiry."
+    }
+  ],
   "traditional": "偵查",
   "jyutping": "zing1 caa4",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "inquiry; inquiry process",
-      "english": [
-        {
-          "id": "80dfvdf2",
-          "word": "investigation",
-          "meaning": "inquiry; inquiry process",
-          "register": "formal",
-          "note": "Use this specifically for a police or criminal investigation rather than a general inquiry."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The police are conducting an investigation into the case.",
-          "traditional": "警方正就案件進行偵查。",
-          "jyutping": "ging2 fong1 zing3 zau6 on3 gin6 zeon3 hang4 zing1 caa4"
-        }
-      ]
+      "english": "The police are conducting an investigation into the case.",
+      "traditional": "警方正就案件進行偵查。",
+      "jyutping": "ging2 fong1 zing3 zau6 on3 gin6 zeon3 hang4 zing1 caa4"
     }
   ]
 }

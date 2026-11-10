@@ -1,60 +1,56 @@
 {
   "id": "2ozs4r1x",
   "partOfSpeech": "verb",
+  "meaning": "check, look into",
+  "english": [
+    {
+      "id": "mk9x58n3",
+      "word": "check",
+      "meaning": "inspect, examine",
+      "note": "This is the all-purpose choice for inspecting or looking into something, such as checking your car oil."
+    },
+    {
+      "id": "xndxd2kf",
+      "word": "exam",
+      "meaning": "examine (short form)",
+      "note": "This is the all-purpose verb for examining or checking something."
+    },
+    {
+      "id": "33t8ir7n",
+      "word": "investigate",
+      "meaning": "look into, inquire into",
+      "register": "colloquial",
+      "note": "This is the casual all-purpose choice for looking into or checking something."
+    },
+    {
+      "id": "kqu64pv8",
+      "word": "dig",
+      "meaning": "investigate",
+      "note": "Use 查 when “dig” means to investigate or research, including looking for evidence or information."
+    }
+  ],
   "traditional": "查",
   "jyutping": "caa4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "check, look into",
-      "english": [
-        {
-          "id": "mk9x58n3",
-          "word": "check",
-          "meaning": "inspect, examine",
-          "note": "This is the all-purpose choice for inspecting or looking into something, such as checking your car oil."
-        },
-        {
-          "id": "xndxd2kf",
-          "word": "exam",
-          "meaning": "examine (short form)",
-          "note": "This is the all-purpose verb for examining or checking something."
-        },
-        {
-          "id": "33t8ir7n",
-          "word": "investigate",
-          "meaning": "look into, inquire into",
-          "register": "colloquial",
-          "note": "This is the casual all-purpose choice for looking into or checking something."
-        },
-        {
-          "id": "kqu64pv8",
-          "word": "dig",
-          "meaning": "investigate",
-          "note": "Use 查 when “dig” means to investigate or research, including looking for evidence or information."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I want to check the car's oil.",
-          "traditional": "我想查吓架車嘅油。",
-          "jyutping": "ngo5 soeng2 caa4 haa5 gaa3 ce1 ge3 jau4"
-        },
-        {
-          "english": "Can you exam the paper to see whether any questions were missed?",
-          "traditional": "你幫我查吓份卷有冇漏題。",
-          "jyutping": "nei5 bong1 ngo5 caa4 haa5 fan6 gyun2 jau5 mou5 lau6 tai4"
-        },
-        {
-          "english": "Let me investigate first; maybe the machine is just out of power.",
-          "traditional": "等我查吓先，可能部機只係冇電。",
-          "jyutping": "dang2 ngo5 caa4 haa5 sin1 ho2 nang4 bou6 gei1 zi2 hai6 mou5 din6"
-        },
-        {
-          "english": "I’ll dig into this matter and get to the bottom of it.",
-          "traditional": "我會查清楚件事。",
-          "jyutping": "ngo5 wui5 caa4 cing1 co2 gin6 si6"
-        }
-      ]
+      "english": "I want to check the car's oil.",
+      "traditional": "我想查吓架車嘅油。",
+      "jyutping": "ngo5 soeng2 caa4 haa5 gaa3 ce1 ge3 jau4"
+    },
+    {
+      "english": "Can you exam the paper to see whether any questions were missed?",
+      "traditional": "你幫我查吓份卷有冇漏題。",
+      "jyutping": "nei5 bong1 ngo5 caa4 haa5 fan6 gyun2 jau5 mou5 lau6 tai4"
+    },
+    {
+      "english": "Let me investigate first; maybe the machine is just out of power.",
+      "traditional": "等我查吓先，可能部機只係冇電。",
+      "jyutping": "dang2 ngo5 caa4 haa5 sin1 ho2 nang4 bou6 gei1 zi2 hai6 mou5 din6"
+    },
+    {
+      "english": "I’ll dig into this matter and get to the bottom of it.",
+      "traditional": "我會查清楚件事。",
+      "jyutping": "ngo5 wui5 caa4 cing1 co2 gin6 si6"
     }
   ]
 }

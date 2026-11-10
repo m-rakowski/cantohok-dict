@@ -1,26 +1,22 @@
 {
   "id": "20faodfb",
   "partOfSpeech": "noun",
+  "meaning": "road/air traffic",
+  "english": [
+    {
+      "id": "jpp00vah",
+      "word": "traffic",
+      "meaning": "road/air traffic",
+      "note": "Use this specifically for the flow or volume of vehicles on a road."
+    }
+  ],
   "traditional": "車流",
   "jyutping": "ce1 lau4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "road/air traffic",
-      "english": [
-        {
-          "id": "jpp00vah",
-          "word": "traffic",
-          "meaning": "road/air traffic",
-          "note": "Use this specifically for the flow or volume of vehicles on a road."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The traffic is heavy, so drive carefully.",
-          "traditional": "車流好密，揸車要小心。",
-          "jyutping": "ce1 lau4 hou2 mat6 zaa1 ce1 jiu3 siu2 sam1"
-        }
-      ]
+      "english": "The traffic is heavy, so drive carefully.",
+      "traditional": "車流好密，揸車要小心。",
+      "jyutping": "ce1 lau4 hou2 mat6 zaa1 ce1 jiu3 siu2 sam1"
     }
   ]
 }

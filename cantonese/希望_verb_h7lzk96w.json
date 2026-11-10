@@ -1,48 +1,44 @@
 {
   "id": "h7lzk96w",
   "partOfSpeech": "verb",
+  "meaning": "to hope, wish",
+  "english": [
+    {
+      "id": "9jp86wwj",
+      "word": "hope",
+      "meaning": "want something to happen",
+      "note": "This is the all-purpose verb for optimistically wanting or expecting something to happen or to obtain something."
+    },
+    {
+      "id": "p65q6l7c",
+      "word": "pray",
+      "meaning": "wish strongly",
+      "note": "Use this for strongly hoping that an outcome will happen, rather than addressing a deity or pleading with a person."
+    },
+    {
+      "id": "diq96qy0",
+      "word": "wish",
+      "meaning": "wish for impossible",
+      "note": "Use this when expressing hope for a particular outcome, especially one that may be unlikely."
+    }
+  ],
   "traditional": "希望",
   "jyutping": "hei1 mong6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "to hope, wish",
-      "english": [
-        {
-          "id": "9jp86wwj",
-          "word": "hope",
-          "meaning": "want something to happen",
-          "note": "This is the all-purpose verb for optimistically wanting or expecting something to happen or to obtain something."
-        },
-        {
-          "id": "p65q6l7c",
-          "word": "pray",
-          "meaning": "wish strongly",
-          "note": "Use this for strongly hoping that an outcome will happen, rather than addressing a deity or pleading with a person."
-        },
-        {
-          "id": "diq96qy0",
-          "word": "wish",
-          "meaning": "wish for impossible",
-          "note": "Use this when expressing hope for a particular outcome, especially one that may be unlikely."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I hope it won't rain tomorrow.",
-          "traditional": "我希望聽日唔好落雨。",
-          "jyutping": "ngo5 hei1 mong6 ting1 jat6 m4 hou2 lok6 jyu5"
-        },
-        {
-          "english": "I pray it won't rain tomorrow.",
-          "traditional": "我希望聽日唔好落雨。",
-          "jyutping": "ngo5 hei1 mong6 ting1 jat6 m4 hou2 lok6 jyu5"
-        },
-        {
-          "english": "I wish it wouldn’t rain tomorrow.",
-          "traditional": "我希望聽日唔好落雨。",
-          "jyutping": "ngo5 hei1 mong6 ting1 jat6 m4 hou2 lok6 jyu5"
-        }
-      ]
+      "english": "I hope it won't rain tomorrow.",
+      "traditional": "我希望聽日唔好落雨。",
+      "jyutping": "ngo5 hei1 mong6 ting1 jat6 m4 hou2 lok6 jyu5"
+    },
+    {
+      "english": "I pray it won't rain tomorrow.",
+      "traditional": "我希望聽日唔好落雨。",
+      "jyutping": "ngo5 hei1 mong6 ting1 jat6 m4 hou2 lok6 jyu5"
+    },
+    {
+      "english": "I wish it wouldn’t rain tomorrow.",
+      "traditional": "我希望聽日唔好落雨。",
+      "jyutping": "ngo5 hei1 mong6 ting1 jat6 m4 hou2 lok6 jyu5"
     }
   ]
 }

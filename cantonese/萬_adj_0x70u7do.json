@@ -1,28 +1,24 @@
 {
   "id": "0x70u7do",
   "partOfSpeech": "adj",
+  "meaning": "countless; very many",
+  "english": [
+    {
+      "id": "ufskl9gt",
+      "word": "myriad",
+      "meaning": "countless; very many",
+      "register": "written",
+      "note": "Use this before a classifier or noun for an emphatic large number, often with a written or literary feel rather than as a general equivalent of countless."
+    }
+  ],
   "traditional": "萬",
   "jyutping": "maan6",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "countless; very many",
-      "english": [
-        {
-          "id": "ufskl9gt",
-          "word": "myriad",
-          "meaning": "countless; very many",
-          "register": "written",
-          "note": "Use this before a classifier or noun for an emphatic large number, often with a written or literary feel rather than as a general equivalent of countless."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "The event drew myriad people.",
-          "traditional": "盛會吸引萬人到場。",
-          "jyutping": "sing6 wui6 kap1 jan5 maan6 jan4 dou3 coeng4"
-        }
-      ]
+      "english": "The event drew myriad people.",
+      "traditional": "盛會吸引萬人到場。",
+      "jyutping": "sing6 wui6 kap1 jan5 maan6 jan4 dou3 coeng4"
     }
   ]
 }

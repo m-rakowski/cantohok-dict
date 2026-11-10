@@ -1,37 +1,33 @@
 {
   "id": "x4qowwct",
   "partOfSpeech": "noun",
+  "meaning": "barbecue grill",
+  "english": [
+    {
+      "id": "fqcevwgj",
+      "word": "grill",
+      "meaning": "barbecue grill",
+      "note": "This is the all-purpose noun for a cooking appliance, covering both a barbecue grill and a broiler."
+    },
+    {
+      "id": "q50fahvy",
+      "word": "barbecue",
+      "meaning": "grilling apparatus",
+      "note": "Use this specifically for the grill or barbecue apparatus."
+    }
+  ],
   "traditional": "燒烤爐",
   "jyutping": "siu1 haau1 lou4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "barbecue grill",
-      "english": [
-        {
-          "id": "fqcevwgj",
-          "word": "grill",
-          "meaning": "barbecue grill",
-          "note": "This is the all-purpose noun for a cooking appliance, covering both a barbecue grill and a broiler."
-        },
-        {
-          "id": "q50fahvy",
-          "word": "barbecue",
-          "meaning": "grilling apparatus",
-          "note": "Use this specifically for the grill or barbecue apparatus."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I'm using the grill to cook chicken wings.",
-          "traditional": "我用燒烤爐整緊雞翼。",
-          "jyutping": "ngo5 jung6 siu1 haau1 lou4 zing2 gan2 gai1 jik6"
-        },
-        {
-          "english": "This barbecue grill is completely rusty, so don’t use it again.",
-          "traditional": "呢個燒烤爐生晒鏽，唔好再用喇。",
-          "jyutping": "ni1 go3 siu1 haau1 lou4 sang1 saai3 sau3 m4 hou2 zoi3 jung6 laa3"
-        }
-      ]
+      "english": "I'm using the grill to cook chicken wings.",
+      "traditional": "我用燒烤爐整緊雞翼。",
+      "jyutping": "ngo5 jung6 siu1 haau1 lou4 zing2 gan2 gai1 jik6"
+    },
+    {
+      "english": "This barbecue grill is completely rusty, so don’t use it again.",
+      "traditional": "呢個燒烤爐生晒鏽，唔好再用喇。",
+      "jyutping": "ni1 go3 siu1 haau1 lou4 sang1 saai3 sau3 m4 hou2 zoi3 jung6 laa3"
     }
   ]
 }

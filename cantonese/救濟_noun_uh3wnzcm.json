@@ -1,28 +1,24 @@
 {
   "id": "uh3wnzcm",
   "partOfSpeech": "noun",
+  "meaning": "charity handout",
+  "english": [
+    {
+      "id": "kpo44y81",
+      "word": "handout",
+      "meaning": "charity handout",
+      "register": "formal",
+      "note": "Use this for financial or material relief given to people in need, especially in an official or charitable context."
+    }
+  ],
   "traditional": "救濟",
   "jyutping": "gau3 zai3",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "charity handout",
-      "english": [
-        {
-          "id": "kpo44y81",
-          "word": "handout",
-          "meaning": "charity handout",
-          "register": "formal",
-          "note": "Use this for financial or material relief given to people in need, especially in an official or charitable context."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The government provided a handout to families affected by the disaster.",
-          "traditional": "政府向受災家庭提供救濟。",
-          "jyutping": "zing3 fu2 hoeng3 sau6 zoi1 gaa1 ting4 tai4 gung1 gau3 zai3"
-        }
-      ]
+      "english": "The government provided a handout to families affected by the disaster.",
+      "traditional": "政府向受災家庭提供救濟。",
+      "jyutping": "zing3 fu2 hoeng3 sau6 zoi1 gaa1 ting4 tai4 gung1 gau3 zai3"
     }
   ]
 }

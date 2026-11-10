@@ -1,37 +1,33 @@
 {
   "id": "7nn2cihh",
   "partOfSpeech": "noun",
+  "meaning": "assessment, evaluation",
+  "english": [
+    {
+      "id": "c91mbwuh",
+      "word": "assessment",
+      "meaning": "evaluation; judgment",
+      "note": "This is the all-purpose noun for an appraisal or evaluation."
+    },
+    {
+      "id": "uv29wdda",
+      "word": "evaluation",
+      "meaning": "assessment / performance review",
+      "note": "This is the all-purpose choice for assessing a result, situation, or performance."
+    }
+  ],
   "traditional": "評估",
   "jyutping": "ping4 gu2",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "assessment, evaluation",
-      "english": [
-        {
-          "id": "c91mbwuh",
-          "word": "assessment",
-          "meaning": "evaluation; judgment",
-          "note": "This is the all-purpose noun for an appraisal or evaluation."
-        },
-        {
-          "id": "uv29wdda",
-          "word": "evaluation",
-          "meaning": "assessment / performance review",
-          "note": "This is the all-purpose choice for assessing a result, situation, or performance."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The company carried out a risk assessment before deciding to invest.",
-          "traditional": "公司做咗風險評估，先至決定投資。",
-          "jyutping": "gung1 si1 zou6 zo2 fung1 him2 ping4 gu2 sin1 zi3 kyut3 ding6 tau4 zi1"
-        },
-        {
-          "english": "The management completed an evaluation of the situation after the typhoon.",
-          "traditional": "管理層完成咗對颱風過後情況嘅評估。",
-          "jyutping": "gun2 lei5 cang4 jyun4 sing4 zo2 deoi3 toi4 fung1 gwo3 hau6 cing4 fong3 ge3 ping4 gu2"
-        }
-      ]
+      "english": "The company carried out a risk assessment before deciding to invest.",
+      "traditional": "公司做咗風險評估，先至決定投資。",
+      "jyutping": "gung1 si1 zou6 zo2 fung1 him2 ping4 gu2 sin1 zi3 kyut3 ding6 tau4 zi1"
+    },
+    {
+      "english": "The management completed an evaluation of the situation after the typhoon.",
+      "traditional": "管理層完成咗對颱風過後情況嘅評估。",
+      "jyutping": "gun2 lei5 cang4 jyun4 sing4 zo2 deoi3 toi4 fung1 gwo3 hau6 cing4 fong3 ge3 ping4 gu2"
     }
   ]
 }

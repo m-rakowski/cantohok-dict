@@ -1,37 +1,33 @@
 {
   "id": "ywm1m8p5",
   "partOfSpeech": "verb",
+  "meaning": "lower, reduce",
+  "english": [
+    {
+      "id": "m4vn3xnc",
+      "word": "detract",
+      "meaning": "take away, diminish",
+      "note": "Use this as the all-purpose choice when something diminishes the effect, value, or importance of something else."
+    },
+    {
+      "id": "tql9vb3a",
+      "word": "reduce",
+      "meaning": "make smaller / less",
+      "note": "Use this for lowering a level, intensity, risk, cost, or similar measurable property rather than simply reducing a quantity."
+    }
+  ],
   "traditional": "減低",
   "jyutping": "gaam2 dai1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "lower, reduce",
-      "english": [
-        {
-          "id": "m4vn3xnc",
-          "word": "detract",
-          "meaning": "take away, diminish",
-          "note": "Use this as the all-purpose choice when something diminishes the effect, value, or importance of something else."
-        },
-        {
-          "id": "tql9vb3a",
-          "word": "reduce",
-          "meaning": "make smaller / less",
-          "note": "Use this for lowering a level, intensity, risk, cost, or similar measurable property rather than simply reducing a quantity."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This small flaw does detract from the appeal of the work.",
-          "traditional": "呢個小瑕疵的確減低咗件作品嘅吸引力。",
-          "jyutping": "ni1 go3 siu2 haa4 ci1 dik1 kok3 gaam2 dai1 zo2 gin6 zok3 ban2 ge3 kap1 jan5 lik6"
-        },
-        {
-          "english": "Closing the door when the air conditioner is on can reduce electricity consumption.",
-          "traditional": "開冷氣嗰陣閂門，可以減低耗電量。",
-          "jyutping": "hoi1 laang5 hei3 go2 zan6 saan1 mun4 ho2 ji5 gaam2 dai1 hou3 din6 loeng6"
-        }
-      ]
+      "english": "This small flaw does detract from the appeal of the work.",
+      "traditional": "呢個小瑕疵的確減低咗件作品嘅吸引力。",
+      "jyutping": "ni1 go3 siu2 haa4 ci1 dik1 kok3 gaam2 dai1 zo2 gin6 zok3 ban2 ge3 kap1 jan5 lik6"
+    },
+    {
+      "english": "Closing the door when the air conditioner is on can reduce electricity consumption.",
+      "traditional": "開冷氣嗰陣閂門，可以減低耗電量。",
+      "jyutping": "hoi1 laang5 hei3 go2 zan6 saan1 mun4 ho2 ji5 gaam2 dai1 hou3 din6 loeng6"
     }
   ]
 }

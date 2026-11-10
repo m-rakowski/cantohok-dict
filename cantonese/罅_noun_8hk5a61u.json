@@ -1,37 +1,33 @@
 {
   "id": "8hk5a61u",
   "partOfSpeech": "noun",
+  "meaning": "crack, gap",
+  "english": [
+    {
+      "id": "pcmcata4",
+      "word": "gap",
+      "meaning": "break/opening in something",
+      "note": "This is the all-purpose noun for a physical crack or opening, especially one made by breaking or parting."
+    },
+    {
+      "id": "y0ez2gn2",
+      "word": "rift",
+      "meaning": "chasm; fissure",
+      "note": "Use this for a physical gap, fissure, or opening, especially in a wall or the ground."
+    }
+  ],
   "traditional": "罅",
   "jyutping": "laa3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "crack, gap",
-      "english": [
-        {
-          "id": "pcmcata4",
-          "word": "gap",
-          "meaning": "break/opening in something",
-          "note": "This is the all-purpose noun for a physical crack or opening, especially one made by breaking or parting."
-        },
-        {
-          "id": "y0ez2gn2",
-          "word": "rift",
-          "meaning": "chasm; fissure",
-          "note": "Use this for a physical gap, fissure, or opening, especially in a wall or the ground."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The cup broke, and there's a gap on the edge.",
-          "traditional": "個杯跌爛咗，邊位有條罅。",
-          "jyutping": "go3 bui1 dit3 laan6 zo2 bin1 wai2 jau5 tiu4 laa3"
-        },
-        {
-          "english": "There is a rift in the wall, and the wind outside keeps coming in.",
-          "traditional": "道牆有條罅，出面啲風不停咁入嚟。",
-          "jyutping": "dou6 coeng4 jau5 tiu4 laa3 ceot1 min6 di1 fung1 bat1 ting4 gam3 jap6 lai4"
-        }
-      ]
+      "english": "The cup broke, and there's a gap on the edge.",
+      "traditional": "個杯跌爛咗，邊位有條罅。",
+      "jyutping": "go3 bui1 dit3 laan6 zo2 bin1 wai2 jau5 tiu4 laa3"
+    },
+    {
+      "english": "There is a rift in the wall, and the wind outside keeps coming in.",
+      "traditional": "道牆有條罅，出面啲風不停咁入嚟。",
+      "jyutping": "dou6 coeng4 jau5 tiu4 laa3 ceot1 min6 di1 fung1 bat1 ting4 gam3 jap6 lai4"
     }
   ]
 }

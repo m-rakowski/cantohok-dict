@@ -1,38 +1,34 @@
 {
   "id": "gb4e17ir",
   "partOfSpeech": "verb",
+  "meaning": "join forces",
+  "english": [
+    {
+      "id": "eizzzta7",
+      "word": "ally",
+      "meaning": "unite by marriage/treaty",
+      "register": "colloquial",
+      "note": "Use this colloquial choice when the parties join forces to achieve something together."
+    },
+    {
+      "id": "jwxcbftl",
+      "word": "associate",
+      "meaning": "associate with; ally oneself",
+      "note": "Use this when people actively join forces as partners or allies, rather than merely socializing."
+    }
+  ],
   "traditional": "聯手",
   "jyutping": "lyun4 sau2",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "join forces",
-      "english": [
-        {
-          "id": "eizzzta7",
-          "word": "ally",
-          "meaning": "unite by marriage/treaty",
-          "register": "colloquial",
-          "note": "Use this colloquial choice when the parties join forces to achieve something together."
-        },
-        {
-          "id": "jwxcbftl",
-          "word": "associate",
-          "meaning": "associate with; ally oneself",
-          "note": "Use this when people actively join forces as partners or allies, rather than merely socializing."
-        }
-      ],
-      "examples": [
-        {
-          "english": "We plan to ally and open a new shop.",
-          "traditional": "我哋打算聯手開間新店。",
-          "jyutping": "ngo5 dei6 daa2 syun3 lyun4 sau2 hoi1 gaan1 san1 dim3"
-        },
-        {
-          "english": "The two companies associate with each other to organize a charity event.",
-          "traditional": "兩間公司聯手搞慈善活動。",
-          "jyutping": "loeng5 gaan1 gung1 si1 lyun4 sau2 gaau2 ci4 sin6 wut6 dung6"
-        }
-      ]
+      "english": "We plan to ally and open a new shop.",
+      "traditional": "我哋打算聯手開間新店。",
+      "jyutping": "ngo5 dei6 daa2 syun3 lyun4 sau2 hoi1 gaan1 san1 dim3"
+    },
+    {
+      "english": "The two companies associate with each other to organize a charity event.",
+      "traditional": "兩間公司聯手搞慈善活動。",
+      "jyutping": "loeng5 gaan1 gung1 si1 lyun4 sau2 gaau2 ci4 sin6 wut6 dung6"
     }
   ]
 }

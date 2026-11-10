@@ -1,28 +1,24 @@
 {
   "id": "hu6vt9h3",
   "partOfSpeech": "noun",
+  "meaning": "wave curl",
+  "english": [
+    {
+      "id": "2k3my75e",
+      "word": "curl",
+      "meaning": "wave curl",
+      "register": "written",
+      "note": "Use this specialised surfing term for the concave, curling part of a breaking wave."
+    }
+  ],
   "traditional": "卷浪",
   "jyutping": "gyun2 long6",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "wave curl",
-      "english": [
-        {
-          "id": "2k3my75e",
-          "word": "curl",
-          "meaning": "wave curl",
-          "register": "written",
-          "note": "Use this specialised surfing term for the concave, curling part of a breaking wave."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "The surfer rode the curl into the barrel.",
-          "traditional": "衝浪者沿住卷浪滑入浪洞。",
-          "jyutping": "cung1 long6 ze2 jyun4 zyu6 gyun2 long6 waat6 jap6 long6 dung6"
-        }
-      ]
+      "english": "The surfer rode the curl into the barrel.",
+      "traditional": "衝浪者沿住卷浪滑入浪洞。",
+      "jyutping": "cung1 long6 ze2 jyun4 zyu6 gyun2 long6 waat6 jap6 long6 dung6"
     }
   ]
 }

@@ -1,28 +1,24 @@
 {
   "id": "00wnza77",
   "partOfSpeech": "noun",
+  "meaning": "astronomical alignment",
+  "english": [
+    {
+      "id": "mpkitvbo",
+      "word": "conjunction",
+      "meaning": "astronomical alignment",
+      "register": "formal",
+      "note": "Use this for the astronomical alignment of two celestial bodies."
+    }
+  ],
   "traditional": "會合",
   "jyutping": "wui6 hap6",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "astronomical alignment",
-      "english": [
-        {
-          "id": "mpkitvbo",
-          "word": "conjunction",
-          "meaning": "astronomical alignment",
-          "register": "formal",
-          "note": "Use this for the astronomical alignment of two celestial bodies."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The Observatory says the conjunction of Jupiter and Saturn can be observed tonight.",
-          "traditional": "天文台話，木星同土星嘅會合今晚可以觀測到。",
-          "jyutping": "tin1 man4 toi4 waa6 muk6 sing1 tung4 tou2 sing1 ge3 wui6 hap6 gam1 maan5 ho2 ji5 gun1 cak1 dou3"
-        }
-      ]
+      "english": "The Observatory says the conjunction of Jupiter and Saturn can be observed tonight.",
+      "traditional": "天文台話，木星同土星嘅會合今晚可以觀測到。",
+      "jyutping": "tin1 man4 toi4 waa6 muk6 sing1 tung4 tou2 sing1 ge3 wui6 hap6 gam1 maan5 ho2 ji5 gun1 cak1 dou3"
     }
   ]
 }

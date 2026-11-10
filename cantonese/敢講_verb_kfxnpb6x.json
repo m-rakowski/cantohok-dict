@@ -1,28 +1,24 @@
 {
   "id": "kfxnpb6x",
   "partOfSpeech": "verb",
+  "meaning": "I bet / be sure",
+  "english": [
+    {
+      "id": "y90z7c9v",
+      "word": "bet",
+      "meaning": "I bet / be sure",
+      "register": "colloquial",
+      "note": "Use this for a confident prediction or emphatic ‘I bet...’ assertion rather than an actual wager."
+    }
+  ],
   "traditional": "敢講",
   "jyutping": "gam2 gong2",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "I bet / be sure",
-      "english": [
-        {
-          "id": "y90z7c9v",
-          "word": "bet",
-          "meaning": "I bet / be sure",
-          "register": "colloquial",
-          "note": "Use this for a confident prediction or emphatic ‘I bet...’ assertion rather than an actual wager."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "I bet he’ll be late today.",
-          "traditional": "敢講佢今日一定遲到。",
-          "jyutping": "gam2 gong2 keoi5 gam1 jat6 jat1 ding6 ci4 dou3"
-        }
-      ]
+      "english": "I bet he’ll be late today.",
+      "traditional": "敢講佢今日一定遲到。",
+      "jyutping": "gam2 gong2 keoi5 gam1 jat6 jat1 ding6 ci4 dou3"
     }
   ]
 }

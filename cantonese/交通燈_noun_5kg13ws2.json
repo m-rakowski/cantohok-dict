@@ -1,38 +1,34 @@
 {
   "id": "5kg13ws2",
   "partOfSpeech": "noun",
+  "meaning": "traffic light",
+  "english": [
+    {
+      "id": "x3dy5jx6",
+      "word": "traffic light",
+      "meaning": "road signal",
+      "register": "formal",
+      "note": "Speakers use this term especially in official, technical, or more formal contexts."
+    },
+    {
+      "id": "10euahrn",
+      "word": "signal",
+      "meaning": "traffic or device signal",
+      "note": "Use this specifically for a traffic signal or traffic light rather than for a signal in general."
+    }
+  ],
   "traditional": "交通燈",
   "jyutping": "gaau1 tung1 dang1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "traffic light",
-      "english": [
-        {
-          "id": "x3dy5jx6",
-          "word": "traffic light",
-          "meaning": "road signal",
-          "register": "formal",
-          "note": "Speakers use this term especially in official, technical, or more formal contexts."
-        },
-        {
-          "id": "10euahrn",
-          "word": "signal",
-          "meaning": "traffic or device signal",
-          "note": "Use this specifically for a traffic signal or traffic light rather than for a signal in general."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This section of the road is temporarily closed because of a faulty traffic light.",
-          "traditional": "因為交通燈故障，呢段路要暫時封閉。",
-          "jyutping": "jan1 wai6 gaau1 tung1 dang1 gu3 zoeng3 ni1 dyun6 lou6 jiu3 zaam6 si4 fung1 bai3"
-        },
-        {
-          "english": "The traffic signal ahead turned red, so we’ll stop first.",
-          "traditional": "前面個交通燈轉咗紅，我哋停低先。",
-          "jyutping": "cin4 min6 go3 gaau1 tung1 dang1 zyun2 zo2 hung4 ngo5 dei6 ting4 dai1 sin1"
-        }
-      ]
+      "english": "This section of the road is temporarily closed because of a faulty traffic light.",
+      "traditional": "因為交通燈故障，呢段路要暫時封閉。",
+      "jyutping": "jan1 wai6 gaau1 tung1 dang1 gu3 zoeng3 ni1 dyun6 lou6 jiu3 zaam6 si4 fung1 bai3"
+    },
+    {
+      "english": "The traffic signal ahead turned red, so we’ll stop first.",
+      "traditional": "前面個交通燈轉咗紅，我哋停低先。",
+      "jyutping": "cin4 min6 go3 gaau1 tung1 dang1 zyun2 zo2 hung4 ngo5 dei6 ting4 dai1 sin1"
     }
   ]
 }

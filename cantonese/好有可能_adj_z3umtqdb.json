@@ -1,37 +1,33 @@
 {
   "id": "z3umtqdb",
   "partOfSpeech": "adj",
+  "meaning": "very likely",
+  "english": [
+    {
+      "id": "mj8own3i",
+      "word": "likely",
+      "meaning": "probable",
+      "note": "This is the all-purpose spoken choice for saying that something is probable or has a better-than-even chance of happening."
+    },
+    {
+      "id": "b7ad5ifz",
+      "word": "probable",
+      "meaning": "likely, probably true",
+      "note": "This is the all-purpose choice for saying that something is likely to be true or likely to happen."
+    }
+  ],
   "traditional": "好有可能",
   "jyutping": "hou2 jau5 ho2 nang4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "very likely",
-      "english": [
-        {
-          "id": "mj8own3i",
-          "word": "likely",
-          "meaning": "probable",
-          "note": "This is the all-purpose spoken choice for saying that something is probable or has a better-than-even chance of happening."
-        },
-        {
-          "id": "b7ad5ifz",
-          "word": "probable",
-          "meaning": "likely, probably true",
-          "note": "This is the all-purpose choice for saying that something is likely to be true or likely to happen."
-        }
-      ],
-      "examples": [
-        {
-          "english": "We are likely to close this deal after talking it through.",
-          "traditional": "我哋好有可能傾掂呢單生意。",
-          "jyutping": "ngo5 dei6 hou2 jau5 ho2 nang4 keng1 dim6 ni1 daan1 saang1 ji3"
-        },
-        {
-          "english": "It is probable that this news is true.",
-          "traditional": "呢個消息好有可能係真㗎。",
-          "jyutping": "ni1 go3 siu1 sik1 hou2 jau5 ho2 nang4 hai6 zan1 gaa3"
-        }
-      ]
+      "english": "We are likely to close this deal after talking it through.",
+      "traditional": "我哋好有可能傾掂呢單生意。",
+      "jyutping": "ngo5 dei6 hou2 jau5 ho2 nang4 keng1 dim6 ni1 daan1 saang1 ji3"
+    },
+    {
+      "english": "It is probable that this news is true.",
+      "traditional": "呢個消息好有可能係真㗎。",
+      "jyutping": "ni1 go3 siu1 sik1 hou2 jau5 ho2 nang4 hai6 zan1 gaa3"
     }
   ]
 }

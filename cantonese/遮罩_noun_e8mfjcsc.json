@@ -1,26 +1,22 @@
 {
   "id": "e8mfjcsc",
   "partOfSpeech": "noun",
+  "meaning": "image mask",
+  "english": [
+    {
+      "id": "1fxy7r16",
+      "word": "mask",
+      "meaning": "image mask",
+      "note": "Use this technical term for an image-editing mask that hides part of an image or controls transparency."
+    }
+  ],
   "traditional": "遮罩",
   "jyutping": "ze1 zaau3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "image mask",
-      "english": [
-        {
-          "id": "1fxy7r16",
-          "word": "mask",
-          "meaning": "image mask",
-          "note": "Use this technical term for an image-editing mask that hides part of an image or controls transparency."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Add a mask when editing the picture to hide the unwanted part.",
-          "traditional": "做相嗰陣加個遮罩，就可以遮住唔想要嘅部分。",
-          "jyutping": "zou6 soeng2 go2 zan6 gaa1 go3 ze1 zaau3 zau6 ho2 ji5 ze1 zyu6 m4 soeng2 jiu3 ge3 bou6 fan6"
-        }
-      ]
+      "english": "Add a mask when editing the picture to hide the unwanted part.",
+      "traditional": "做相嗰陣加個遮罩，就可以遮住唔想要嘅部分。",
+      "jyutping": "zou6 soeng2 go2 zan6 gaa1 go3 ze1 zaau3 zau6 ho2 ji5 ze1 zyu6 m4 soeng2 jiu3 ge3 bou6 fan6"
     }
   ]
 }

@@ -1,28 +1,24 @@
 {
   "id": "ooho8v75",
   "partOfSpeech": "noun",
+  "meaning": "doctor’s appointment",
+  "english": [
+    {
+      "id": "grb0eapv",
+      "word": "consultation",
+      "meaning": "doctor’s appointment",
+      "register": "formal",
+      "note": "This is the all-purpose term for seeking advice or having a professional consultation, especially in formal contexts."
+    }
+  ],
   "traditional": "諮詢",
   "jyutping": "zi1 seon1",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "doctor’s appointment",
-      "english": [
-        {
-          "id": "grb0eapv",
-          "word": "consultation",
-          "meaning": "doctor’s appointment",
-          "register": "formal",
-          "note": "This is the all-purpose term for seeking advice or having a professional consultation, especially in formal contexts."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "I’m going to the hospital tomorrow for a consultation with a specialist.",
-          "traditional": "我聽日去醫院諮詢專科醫生。",
-          "jyutping": "ngo5 ting1 jat6 heoi3 ji1 jyun2 zi1 seon1 zyun1 fo1 ji1 sang1"
-        }
-      ]
+      "english": "I’m going to the hospital tomorrow for a consultation with a specialist.",
+      "traditional": "我聽日去醫院諮詢專科醫生。",
+      "jyutping": "ngo5 ting1 jat6 heoi3 ji1 jyun2 zi1 seon1 zyun1 fo1 ji1 sang1"
     }
   ]
 }

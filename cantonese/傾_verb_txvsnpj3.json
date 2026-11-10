@@ -1,84 +1,44 @@
 {
   "id": "txvsnpj3",
   "partOfSpeech": "verb",
+  "meaning": "to talk, chat",
+  "english": [
+    {
+      "id": "oah15kpa",
+      "word": "talk",
+      "meaning": "speak; communicate by speech",
+      "note": "Use this for an interactive conversation or a discussion, especially when people sit down to chat or work something out together."
+    },
+    {
+      "id": "v8js55gx",
+      "word": "discuss",
+      "meaning": "talk over a topic",
+      "note": "This is the all-purpose casual choice for talking over a topic with someone."
+    },
+    {
+      "id": "2aijj8px",
+      "word": "chat",
+      "meaning": "have informal conversation",
+      "note": "Use this shorter form for informal conversation when the context already makes the meaning clear."
+    }
+  ],
   "traditional": "傾",
   "jyutping": "king1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "to talk, chat",
-      "english": [
-        {
-          "id": "oah15kpa",
-          "word": "talk",
-          "meaning": "speak; communicate by speech",
-          "note": "Use this for an interactive conversation or a discussion, especially when people sit down to chat or work something out together."
-        },
-        {
-          "id": "v8js55gx",
-          "word": "discuss",
-          "meaning": "talk over a topic",
-          "note": "This is the all-purpose casual choice for talking over a topic with someone."
-        },
-        {
-          "id": "2aijj8px",
-          "word": "chat",
-          "meaning": "have informal conversation",
-          "note": "Use this shorter form for informal conversation when the context already makes the meaning clear."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Let's sit down and talk first.",
-          "traditional": "我哋坐低傾吓先。",
-          "jyutping": "ngo5 dei6 co5 dai1 king1 haa5 sin1"
-        },
-        {
-          "english": "We’ll discuss our travel plans tonight.",
-          "traditional": "我哋今晚傾下旅行安排。",
-          "jyutping": "ngo5 dei6 gam1 maan5 king1 haa5 leoi5 hang4 on1 paai4"
-        },
-        {
-          "english": "Let’s chat after work.",
-          "traditional": "放工後一齊傾吓啦。",
-          "jyutping": "fong3 gung1 hau6 jat1 cai4 king1 haa5 laa1"
-        }
-      ]
+      "english": "Let's sit down and talk first.",
+      "traditional": "我哋坐低傾吓先。",
+      "jyutping": "ngo5 dei6 co5 dai1 king1 haa5 sin1"
     },
     {
-      "meaning": "to negotiate",
-      "english": [
-        {
-          "id": "zpetkaf5",
-          "word": "negotiate",
-          "meaning": "discuss terms",
-          "note": "This is the all-purpose spoken choice for discussing terms or working toward an agreement."
-        }
-      ],
-      "examples": [
-        {
-          "english": "We need to negotiate the price with the customer.",
-          "traditional": "我哋要同客人傾價錢。",
-          "jyutping": "ngo5 dei6 jiu3 tung4 haak3 jan4 king1 gaa3 cin2"
-        }
-      ]
+      "english": "We’ll discuss our travel plans tonight.",
+      "traditional": "我哋今晚傾下旅行安排。",
+      "jyutping": "ngo5 dei6 gam1 maan5 king1 haa5 leoi5 hang4 on1 paai4"
     },
     {
-      "meaning": "to lean, tilt",
-      "english": [
-        {
-          "id": "irixgjso",
-          "word": "lean",
-          "meaning": "slant; tilt",
-          "note": "Use 傾 for the all-purpose physical sense of tilting or leaning away from vertical."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The table has started to lean to the right.",
-          "traditional": "張枱向右邊傾咗。",
-          "jyutping": "zoeng1 toi2 hoeng3 jau6 bin1 king1 zo2"
-        }
-      ]
+      "english": "Let’s chat after work.",
+      "traditional": "放工後一齊傾吓啦。",
+      "jyutping": "fong3 gung1 hau6 jat1 cai4 king1 haa5 laa1"
     }
   ]
 }

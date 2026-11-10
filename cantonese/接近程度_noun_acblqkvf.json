@@ -1,38 +1,34 @@
 {
   "id": "acblqkvf",
   "partOfSpeech": "noun",
+  "meaning": "closeness, nearness",
+  "english": [
+    {
+      "id": "g6p2arv7",
+      "word": "closeness",
+      "meaning": "physical/proximity closeness",
+      "note": "Use 接近程度 as the all-purpose noun for physical or general proximity."
+    },
+    {
+      "id": "56pw96t9",
+      "word": "proximity",
+      "meaning": "nearness, closeness",
+      "register": "formal",
+      "note": "Use this when discussing proximity explicitly as a measurable or technical degree rather than making a simple everyday statement."
+    }
+  ],
   "traditional": "接近程度",
   "jyutping": "zip3 gan6 cing4 dou6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "closeness, nearness",
-      "english": [
-        {
-          "id": "g6p2arv7",
-          "word": "closeness",
-          "meaning": "physical/proximity closeness",
-          "note": "Use 接近程度 as the all-purpose noun for physical or general proximity."
-        },
-        {
-          "id": "56pw96t9",
-          "word": "proximity",
-          "meaning": "nearness, closeness",
-          "register": "formal",
-          "note": "Use this when discussing proximity explicitly as a measurable or technical degree rather than making a simple everyday statement."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The closeness of the two buildings made it easy for the fire to spread.",
-          "traditional": "兩座大廈之間嘅接近程度，令火勢好容易蔓延。",
-          "jyutping": "loeng5 zo6 daai6 haa6 zi1 gaan1 ge3 zip3 gan6 cing4 dou6 ling6 fo2 sai3 hou2 jung4 ji6 maan6 jin4"
-        },
-        {
-          "english": "The report compared the proximity of the two areas.",
-          "traditional": "份報告比較咗兩個地區嘅接近程度。",
-          "jyutping": "fan2 bou3 gou3 bei2 gaau3 zo2 loeng5 go3 dei6 keoi1 ge3 zip3 gan6 cing4 dou6"
-        }
-      ]
+      "english": "The closeness of the two buildings made it easy for the fire to spread.",
+      "traditional": "兩座大廈之間嘅接近程度，令火勢好容易蔓延。",
+      "jyutping": "loeng5 zo6 daai6 haa6 zi1 gaan1 ge3 zip3 gan6 cing4 dou6 ling6 fo2 sai3 hou2 jung4 ji6 maan6 jin4"
+    },
+    {
+      "english": "The report compared the proximity of the two areas.",
+      "traditional": "份報告比較咗兩個地區嘅接近程度。",
+      "jyutping": "fan2 bou3 gou3 bei2 gaau3 zo2 loeng5 go3 dei6 keoi1 ge3 zip3 gan6 cing4 dou6"
     }
   ]
 }

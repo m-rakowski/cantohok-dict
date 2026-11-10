@@ -1,26 +1,22 @@
 {
   "id": "gnd35hvu",
   "partOfSpeech": "noun",
+  "meaning": "phone extension number",
+  "english": [
+    {
+      "id": "qjx0g9id",
+      "word": "extension",
+      "meaning": "phone extension number",
+      "note": "Use this specifically for a telephone extension number or the phone connected to it."
+    }
+  ],
   "traditional": "分機",
   "jyutping": "fan1 gei1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "phone extension number",
-      "english": [
-        {
-          "id": "qjx0g9id",
-          "word": "extension",
-          "meaning": "phone extension number",
-          "note": "Use this specifically for a telephone extension number or the phone connected to it."
-        }
-      ],
-      "examples": [
-        {
-          "english": "When you call the office, dial my extension.",
-          "traditional": "你打去公司搵我，就撳我個分機。",
-          "jyutping": "nei5 daa2 heoi3 gung1 si1 wan2 ngo5 zau6 gam6 ngo5 go3 fan1 gei1"
-        }
-      ]
+      "english": "When you call the office, dial my extension.",
+      "traditional": "你打去公司搵我，就撳我個分機。",
+      "jyutping": "nei5 daa2 heoi3 gung1 si1 wan2 ngo5 zau6 gam6 ngo5 go3 fan1 gei1"
     }
   ]
 }

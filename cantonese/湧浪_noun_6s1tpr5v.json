@@ -1,28 +1,24 @@
 {
   "id": "6s1tpr5v",
   "partOfSpeech": "noun",
+  "meaning": "sea swell",
+  "english": [
+    {
+      "id": "agedtjh7",
+      "word": "surge",
+      "meaning": "sea swell",
+      "register": "written",
+      "note": "Use this for a swell or heave of the sea rather than a general increase or an electrical spike."
+    }
+  ],
   "traditional": "湧浪",
   "jyutping": "jung2 long6",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "sea swell",
-      "english": [
-        {
-          "id": "agedtjh7",
-          "word": "surge",
-          "meaning": "sea swell",
-          "register": "written",
-          "note": "Use this for a swell or heave of the sea rather than a general increase or an electrical spike."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "As the typhoon approached, a large surge rose on the sea.",
-          "traditional": "颱風逼近，海面湧起一個大湧浪。",
-          "jyutping": "toi4 fung1 bik1 gan6 hoi2 min6 jung2 hei2 jat1 go3 daai6 jung2 long6"
-        }
-      ]
+      "english": "As the typhoon approached, a large surge rose on the sea.",
+      "traditional": "颱風逼近，海面湧起一個大湧浪。",
+      "jyutping": "toi4 fung1 bik1 gan6 hoi2 min6 jung2 hei2 jat1 go3 daai6 jung2 long6"
     }
   ]
 }

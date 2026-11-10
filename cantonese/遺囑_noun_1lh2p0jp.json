@@ -1,28 +1,24 @@
 {
   "id": "1lh2p0jp",
   "partOfSpeech": "noun",
+  "meaning": "legal will",
+  "english": [
+    {
+      "id": "m3yh3mvx",
+      "word": "will",
+      "meaning": "legal will",
+      "register": "formal",
+      "note": "Use this for the formal legal document stating how a person's property should be distributed after death."
+    }
+  ],
   "traditional": "遺囑",
   "jyutping": "wai4 zuk1",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "legal will",
-      "english": [
-        {
-          "id": "m3yh3mvx",
-          "word": "will",
-          "meaning": "legal will",
-          "register": "formal",
-          "note": "Use this for the formal legal document stating how a person's property should be distributed after death."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "Grandpa made a will before he died, specifying who would get the flat.",
-          "traditional": "爺爺生前立咗遺囑，講明間屋留畀邊個。",
-          "jyutping": "je4 je4 sang1 cin4 lap6 zo2 wai4 zuk1 gong2 ming4 gaan1 uk1 lau4 bei2 bin1 go3"
-        }
-      ]
+      "english": "Grandpa made a will before he died, specifying who would get the flat.",
+      "traditional": "爺爺生前立咗遺囑，講明間屋留畀邊個。",
+      "jyutping": "je4 je4 sang1 cin4 lap6 zo2 wai4 zuk1 gong2 ming4 gaan1 uk1 lau4 bei2 bin1 go3"
     }
   ]
 }

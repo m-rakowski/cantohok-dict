@@ -1,37 +1,33 @@
 {
   "id": "jf4cma61",
   "partOfSpeech": "verb",
+  "meaning": "play, have fun",
+  "english": [
+    {
+      "id": "qqey4ip7",
+      "word": "play",
+      "meaning": "have fun",
+      "note": "This is the all-purpose colloquial choice for having fun or fooling around, and it can also mean casually playing an instrument as a hobby."
+    },
+    {
+      "id": "7kvosysh",
+      "word": "frolic",
+      "meaning": "behave playfully",
+      "note": "This is the all-purpose colloquial choice when people or animals are having carefree, playful fun."
+    }
+  ],
   "traditional": "玩",
   "jyutping": "waan2",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "play, have fun",
-      "english": [
-        {
-          "id": "qqey4ip7",
-          "word": "play",
-          "meaning": "have fun",
-          "note": "This is the all-purpose colloquial choice for having fun or fooling around, and it can also mean casually playing an instrument as a hobby."
-        },
-        {
-          "id": "7kvosysh",
-          "word": "frolic",
-          "meaning": "behave playfully",
-          "note": "This is the all-purpose colloquial choice when people or animals are having carefree, playful fun."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I play the guitar when I have free time.",
-          "traditional": "我得閒就玩吓結他。",
-          "jyutping": "ngo5 dak1 haan4 zau6 waan2 haa5 git3 taa1"
-        },
-        {
-          "english": "The children frolic happily on the beach.",
-          "traditional": "啲細路喺沙灘度玩得好開心。",
-          "jyutping": "di1 sai3 lou6 hai2 saa1 taan1 dou6 waan2 dak1 hou2 hoi1 sam1"
-        }
-      ]
+      "english": "I play the guitar when I have free time.",
+      "traditional": "我得閒就玩吓結他。",
+      "jyutping": "ngo5 dak1 haan4 zau6 waan2 haa5 git3 taa1"
+    },
+    {
+      "english": "The children frolic happily on the beach.",
+      "traditional": "啲細路喺沙灘度玩得好開心。",
+      "jyutping": "di1 sai3 lou6 hai2 saa1 taan1 dou6 waan2 dak1 hou2 hoi1 sam1"
     }
   ]
 }

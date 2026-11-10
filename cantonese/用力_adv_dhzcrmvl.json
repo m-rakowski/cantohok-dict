@@ -1,37 +1,33 @@
 {
   "id": "dhzcrmvl",
   "partOfSpeech": "adv",
+  "meaning": "with force, hard",
+  "english": [
+    {
+      "id": "rxiy4znz",
+      "word": "hard",
+      "meaning": "with much force or effort",
+      "note": "This is the all-purpose choice when an action is done with much force or effort."
+    },
+    {
+      "id": "r4h4s3uf",
+      "word": "forcefully",
+      "meaning": "vigorously / powerfully",
+      "note": "Use this specifically when someone applies physical force, such as pushing, pulling, or hitting."
+    }
+  ],
   "traditional": "用力",
   "jyutping": "jung6 lik6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "with force, hard",
-      "english": [
-        {
-          "id": "rxiy4znz",
-          "word": "hard",
-          "meaning": "with much force or effort",
-          "note": "This is the all-purpose choice when an action is done with much force or effort."
-        },
-        {
-          "id": "r4h4s3uf",
-          "word": "forcefully",
-          "meaning": "vigorously / powerfully",
-          "note": "Use this specifically when someone applies physical force, such as pushing, pulling, or hitting."
-        }
-      ],
-      "examples": [
-        {
-          "english": "You need to push hard when you open the door.",
-          "traditional": "你推門嗰陣要用力啲。",
-          "jyutping": "nei5 teoi1 mun4 go2 zan6 jiu3 jung6 lik6 di1"
-        },
-        {
-          "english": "You need to pull the rope forcefully to open the box.",
-          "traditional": "你要用力拉條繩，先可以拉開個箱。",
-          "jyutping": "nei5 jiu3 jung6 lik6 laai1 tiu4 sing4 sin1 ho2 ji5 laai1 hoi1 go3 soeng1"
-        }
-      ]
+      "english": "You need to push hard when you open the door.",
+      "traditional": "你推門嗰陣要用力啲。",
+      "jyutping": "nei5 teoi1 mun4 go2 zan6 jiu3 jung6 lik6 di1"
+    },
+    {
+      "english": "You need to pull the rope forcefully to open the box.",
+      "traditional": "你要用力拉條繩，先可以拉開個箱。",
+      "jyutping": "nei5 jiu3 jung6 lik6 laai1 tiu4 sing4 sin1 ho2 ji5 laai1 hoi1 go3 soeng1"
     }
   ]
 }

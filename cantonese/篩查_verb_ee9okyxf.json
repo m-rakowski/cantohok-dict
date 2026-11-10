@@ -1,28 +1,24 @@
 {
   "id": "ee9okyxf",
   "partOfSpeech": "verb",
+  "meaning": "medical screening",
+  "english": [
+    {
+      "id": "pm5y4lm4",
+      "word": "screen",
+      "meaning": "medical screening",
+      "register": "formal",
+      "note": "Use this specifically for medical or laboratory screening to detect a disease or condition."
+    }
+  ],
   "traditional": "篩查",
   "jyutping": "sai1 caa4",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "medical screening",
-      "english": [
-        {
-          "id": "pm5y4lm4",
-          "word": "screen",
-          "meaning": "medical screening",
-          "register": "formal",
-          "note": "Use this specifically for medical or laboratory screening to detect a disease or condition."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The doctor arranged to screen me for cancer.",
-          "traditional": "醫生安排我做篩查，睇吓有冇癌症。",
-          "jyutping": "ji1 saang1 on1 paai4 ngo5 zou6 sai1 caa4 tai2 haa5 jau5 mou5 ngaam4 zing3"
-        }
-      ]
+      "english": "The doctor arranged to screen me for cancer.",
+      "traditional": "醫生安排我做篩查，睇吓有冇癌症。",
+      "jyutping": "ji1 saang1 on1 paai4 ngo5 zou6 sai1 caa4 tai2 haa5 jau5 mou5 ngaam4 zing3"
     }
   ]
 }

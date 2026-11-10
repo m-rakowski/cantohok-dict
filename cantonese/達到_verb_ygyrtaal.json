@@ -1,37 +1,33 @@
 {
   "id": "ygyrtaal",
   "partOfSpeech": "verb",
+  "meaning": "reach, achieve",
+  "english": [
+    {
+      "id": "6zx2pk51",
+      "word": "attain",
+      "meaning": "achieve; obtain by effort",
+      "note": "This is the all-purpose choice for attaining a level, standard, result, or objective."
+    },
+    {
+      "id": "8gvpdmse",
+      "word": "achieve",
+      "meaning": "attain or obtain",
+      "note": "Use this when the objective is a level, target, result, or standard that is reached."
+    }
+  ],
   "traditional": "達到",
   "jyutping": "daat6 dou3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "reach, achieve",
-      "english": [
-        {
-          "id": "6zx2pk51",
-          "word": "attain",
-          "meaning": "achieve; obtain by effort",
-          "note": "This is the all-purpose choice for attaining a level, standard, result, or objective."
-        },
-        {
-          "id": "8gvpdmse",
-          "word": "achieve",
-          "meaning": "attain or obtain",
-          "note": "Use this when the objective is a level, target, result, or standard that is reached."
-        }
-      ],
-      "examples": [
-        {
-          "english": "We put in a lot of effort and finally attain our goal.",
-          "traditional": "我哋努力咗好耐，終於達到目標喇。",
-          "jyutping": "ngo5 dei6 nou5 lik6 zo2 hou2 noi6 zung1 jyu1 daat6 dou3 muk6 biu1 laa3"
-        },
-        {
-          "english": "I’m studying hard to achieve a score of eighty in this exam.",
-          "traditional": "我努力溫書，想喺今次考試達到八十分。",
-          "jyutping": "ngo5 nou5 lik6 wan1 syu1 soeng2 hai2 gam1 ci3 haau2 si3 daat6 dou3 baat3 sap6 fan1"
-        }
-      ]
+      "english": "We put in a lot of effort and finally attain our goal.",
+      "traditional": "我哋努力咗好耐，終於達到目標喇。",
+      "jyutping": "ngo5 dei6 nou5 lik6 zo2 hou2 noi6 zung1 jyu1 daat6 dou3 muk6 biu1 laa3"
+    },
+    {
+      "english": "I’m studying hard to achieve a score of eighty in this exam.",
+      "traditional": "我努力溫書，想喺今次考試達到八十分。",
+      "jyutping": "ngo5 nou5 lik6 wan1 syu1 soeng2 hai2 gam1 ci3 haau2 si3 daat6 dou3 baat3 sap6 fan1"
     }
   ]
 }

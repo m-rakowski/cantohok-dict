@@ -1,26 +1,22 @@
 {
   "id": "zbcyh8uc",
   "partOfSpeech": "noun",
+  "meaning": "software builder tool",
+  "english": [
+    {
+      "id": "99d1u0gr",
+      "word": "builder",
+      "meaning": "software builder tool",
+      "note": "Use this for software that helps users create or generate a particular kind of output."
+    }
+  ],
   "traditional": "建構工具",
   "jyutping": "gin3 kau3 gung1 geoi6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "software builder tool",
-      "english": [
-        {
-          "id": "99d1u0gr",
-          "word": "builder",
-          "meaning": "software builder tool",
-          "note": "Use this for software that helps users create or generate a particular kind of output."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This builder can automatically create websites.",
-          "traditional": "呢個建構工具可以自動整網站。",
-          "jyutping": "nei1 go3 gin3 kau3 gung1 geoi6 ho2 ji5 zi6 dung6 zing2 mong5 zaam6"
-        }
-      ]
+      "english": "This builder can automatically create websites.",
+      "traditional": "呢個建構工具可以自動整網站。",
+      "jyutping": "nei1 go3 gin3 kau3 gung1 geoi6 ho2 ji5 zi6 dung6 zing2 mong5 zaam6"
     }
   ]
 }

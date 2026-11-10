@@ -1,28 +1,24 @@
 {
   "id": "sv7h98tn",
   "partOfSpeech": "verb",
+  "meaning": "feel pain; hurt",
+  "english": [
+    {
+      "id": "pvhii3ms",
+      "word": "ache",
+      "meaning": "feel pain; hurt",
+      "register": "colloquial",
+      "note": "Use this causative construction when something is the source of another person's or body part's pain."
+    }
+  ],
   "traditional": "搞到 A 好痛",
   "jyutping": "gaau2 dou3 A hou2 tung3",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "feel pain; hurt",
-      "english": [
-        {
-          "id": "pvhii3ms",
-          "word": "ache",
-          "meaning": "feel pain; hurt",
-          "register": "colloquial",
-          "note": "Use this causative construction when something is the source of another person's or body part's pain."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "These new shoes make my feet ache.",
-          "traditional": "呢對新鞋搞到我對腳好痛。",
-          "jyutping": "ni1 deoi3 san1 haai4 gaau2 dou3 ngo5 deoi3 goek3 hou2 tung3"
-        }
-      ]
+      "english": "These new shoes make my feet ache.",
+      "traditional": "呢對新鞋搞到我對腳好痛。",
+      "jyutping": "ni1 deoi3 san1 haai4 gaau2 dou3 ngo5 deoi3 goek3 hou2 tung3"
     }
   ]
 }

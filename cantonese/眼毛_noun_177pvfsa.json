@@ -1,28 +1,24 @@
 {
   "id": "177pvfsa",
   "partOfSpeech": "noun",
+  "meaning": "hair on eyelid edge",
+  "english": [
+    {
+      "id": "aufvt20x",
+      "word": "eyelash",
+      "meaning": "hair on eyelid edge",
+      "register": "colloquial",
+      "note": "This is a colloquial shortened form used for the same eyelid hair."
+    }
+  ],
   "traditional": "眼毛",
   "jyutping": "ngaan5 mou4",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "hair on eyelid edge",
-      "english": [
-        {
-          "id": "aufvt20x",
-          "word": "eyelash",
-          "meaning": "hair on eyelid edge",
-          "register": "colloquial",
-          "note": "This is a colloquial shortened form used for the same eyelid hair."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "Your eyelash is really long.",
-          "traditional": "你條眼毛好長喎。",
-          "jyutping": "nei5 tiu4 ngaan5 mou4 hou2 coeng4 wo3"
-        }
-      ]
+      "english": "Your eyelash is really long.",
+      "traditional": "你條眼毛好長喎。",
+      "jyutping": "nei5 tiu4 ngaan5 mou4 hou2 coeng4 wo3"
     }
   ]
 }

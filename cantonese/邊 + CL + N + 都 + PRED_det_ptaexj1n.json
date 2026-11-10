@@ -1,26 +1,22 @@
 {
   "id": "ptaexj1n",
   "partOfSpeech": "det",
+  "meaning": "no matter which",
+  "english": [
+    {
+      "id": "sr3xctlc",
+      "word": "whichever",
+      "meaning": "no matter which",
+      "note": "This is the all-purpose casual choice for any or either item, and it also works for no-matter-which when 都 completes the clause."
+    }
+  ],
   "traditional": "邊 + CL + N + 都 + PRED",
   "jyutping": "bin1 CL N dou1 PRED",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "no matter which",
-      "english": [
-        {
-          "id": "sr3xctlc",
-          "word": "whichever",
-          "meaning": "no matter which",
-          "note": "This is the all-purpose casual choice for any or either item, and it also works for no-matter-which when 都 completes the clause."
-        }
-      ],
-      "examples": [
-        {
-          "english": "You can pick whichever book suits you.",
-          "traditional": "邊本書都啱你。",
-          "jyutping": "bin1 bun2 syu1 dou1 ngaam1 nei5"
-        }
-      ]
+      "english": "You can pick whichever book suits you.",
+      "traditional": "邊本書都啱你。",
+      "jyutping": "bin1 bun2 syu1 dou1 ngaam1 nei5"
     }
   ]
 }

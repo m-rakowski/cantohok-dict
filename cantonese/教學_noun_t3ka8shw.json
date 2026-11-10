@@ -1,59 +1,55 @@
 {
   "id": "t3ka8shw",
   "partOfSpeech": "noun",
+  "meaning": "teaching",
+  "english": [
+    {
+      "id": "qmpwap3s",
+      "word": "teaching",
+      "meaning": "the profession/activity of teaching",
+      "note": "This is the all-purpose choice for the activity or profession of teaching."
+    },
+    {
+      "id": "yskxyf3y",
+      "word": "coaching",
+      "meaning": "instruction; tutoring",
+      "note": "Use this when the coaching is framed as teaching or instruction, especially in an educational setting."
+    },
+    {
+      "id": "bsmuyhwu",
+      "word": "instruction",
+      "meaning": "teaching; education",
+      "note": "Use this as the all-purpose noun for teaching or educational instruction."
+    },
+    {
+      "id": "u4bfsd5a",
+      "word": "tuition",
+      "meaning": "teaching; instruction",
+      "note": "Use this for the teaching or instruction provided by a teacher, not the fee or the private class itself."
+    }
+  ],
   "traditional": "教學",
   "jyutping": "gaau3 hok6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "teaching",
-      "english": [
-        {
-          "id": "qmpwap3s",
-          "word": "teaching",
-          "meaning": "the profession/activity of teaching",
-          "note": "This is the all-purpose choice for the activity or profession of teaching."
-        },
-        {
-          "id": "yskxyf3y",
-          "word": "coaching",
-          "meaning": "instruction; tutoring",
-          "note": "Use this when the coaching is framed as teaching or instruction, especially in an educational setting."
-        },
-        {
-          "id": "bsmuyhwu",
-          "word": "instruction",
-          "meaning": "teaching; education",
-          "note": "Use this as the all-purpose noun for teaching or educational instruction."
-        },
-        {
-          "id": "u4bfsd5a",
-          "word": "tuition",
-          "meaning": "teaching; instruction",
-          "note": "Use this for the teaching or instruction provided by a teacher, not the fee or the private class itself."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The teaching quality at this school is quite high.",
-          "traditional": "呢間學校嘅教學質素幾高。",
-          "jyutping": "ni1 gaan1 hok6 haau6 ge3 gaau3 hok6 zat1 sou3 gei2 gou1"
-        },
-        {
-          "english": "The coaching in this course is very clear.",
-          "traditional": "呢個課程嘅教學好清晰。",
-          "jyutping": "ni1 go3 fo3 cing4 ge3 gaau3 hok6 hou2 cing1 sik1"
-        },
-        {
-          "english": "The instruction in this lesson is easy to understand.",
-          "traditional": "呢段教學好易明。",
-          "jyutping": "ni1 dyun6 gaau3 hok6 hou2 ji6 ming4"
-        },
-        {
-          "english": "This teacher's tuition is very lively, and the students are all highly engaged.",
-          "traditional": "呢位老師嘅教學好生動，學生都聽得好投入。",
-          "jyutping": "ni1 wai6 lou5 si1 ge3 gaau3 hok6 hou2 saang1 dung6 hok6 saang1 dou1 teng1 dak1 hou2 tau4 jap6"
-        }
-      ]
+      "english": "The teaching quality at this school is quite high.",
+      "traditional": "呢間學校嘅教學質素幾高。",
+      "jyutping": "ni1 gaan1 hok6 haau6 ge3 gaau3 hok6 zat1 sou3 gei2 gou1"
+    },
+    {
+      "english": "The coaching in this course is very clear.",
+      "traditional": "呢個課程嘅教學好清晰。",
+      "jyutping": "ni1 go3 fo3 cing4 ge3 gaau3 hok6 hou2 cing1 sik1"
+    },
+    {
+      "english": "The instruction in this lesson is easy to understand.",
+      "traditional": "呢段教學好易明。",
+      "jyutping": "ni1 dyun6 gaau3 hok6 hou2 ji6 ming4"
+    },
+    {
+      "english": "This teacher's tuition is very lively, and the students are all highly engaged.",
+      "traditional": "呢位老師嘅教學好生動，學生都聽得好投入。",
+      "jyutping": "ni1 wai6 lou5 si1 ge3 gaau3 hok6 hou2 saang1 dung6 hok6 saang1 dou1 teng1 dak1 hou2 tau4 jap6"
     }
   ]
 }

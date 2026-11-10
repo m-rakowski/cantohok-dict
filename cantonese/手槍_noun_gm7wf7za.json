@@ -1,26 +1,22 @@
 {
   "id": "gm7wf7za",
   "partOfSpeech": "noun",
+  "meaning": "handgun",
+  "english": [
+    {
+      "id": "bccme4iv",
+      "word": "gun",
+      "meaning": "handgun",
+      "note": "Use this instead of 槍 when you specifically mean a handgun or pistol."
+    }
+  ],
   "traditional": "手槍",
   "jyutping": "sau2 coeng1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "handgun",
-      "english": [
-        {
-          "id": "bccme4iv",
-          "word": "gun",
-          "meaning": "handgun",
-          "note": "Use this instead of 槍 when you specifically mean a handgun or pistol."
-        }
-      ],
-      "examples": [
-        {
-          "english": "They keep a gun tucked in their waistband.",
-          "traditional": "佢腰間藏住一把手槍。",
-          "jyutping": "keoi5 jiu1 gaan1 cong4 zyu6 jat1 baa2 sau2 coeng1"
-        }
-      ]
+      "english": "They keep a gun tucked in their waistband.",
+      "traditional": "佢腰間藏住一把手槍。",
+      "jyutping": "keoi5 jiu1 gaan1 cong4 zyu6 jat1 baa2 sau2 coeng1"
     }
   ]
 }

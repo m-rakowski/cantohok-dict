@@ -1,28 +1,24 @@
 {
   "id": "crzl3599",
   "partOfSpeech": "noun",
+  "meaning": "drug user",
+  "english": [
+    {
+      "id": "e3c2vbbl",
+      "word": "user",
+      "meaning": "drug user",
+      "register": "formal",
+      "note": "Use this for a person who uses drugs, especially illegal drugs."
+    }
+  ],
   "traditional": "吸毒者",
   "jyutping": "kap1 duk6 ze2",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "drug user",
-      "english": [
-        {
-          "id": "e3c2vbbl",
-          "word": "user",
-          "meaning": "drug user",
-          "register": "formal",
-          "note": "Use this for a person who uses drugs, especially illegal drugs."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "A drug user can receive drug-treatment support.",
-          "traditional": "吸毒者可以接受戒毒支援。",
-          "jyutping": "kap1 duk6 ze2 ho2 ji5 zip3 sau6 gaai3 duk6 zi1 jyun4"
-        }
-      ]
+      "english": "A drug user can receive drug-treatment support.",
+      "traditional": "吸毒者可以接受戒毒支援。",
+      "jyutping": "kap1 duk6 ze2 ho2 ji5 zip3 sau6 gaai3 duk6 zi1 jyun4"
     }
   ]
 }

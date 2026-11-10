@@ -1,37 +1,33 @@
 {
   "id": "6yiqudg5",
   "partOfSpeech": "adj",
+  "meaning": "previous, last (week, month, term)",
+  "english": [
+    {
+      "id": "18xg24ce",
+      "word": "previous",
+      "meaning": "earlier; before",
+      "note": "Use this for the previous item, version, term of office, or other member in an ordered series, such as 上一任總理."
+    },
+    {
+      "id": "4esk0lm7",
+      "word": "past",
+      "meaning": "recent previous time",
+      "note": "Use this for a specifically named previous period, such as 上個月 for ‘last month’ or 上個禮拜 for ‘last week’."
+    }
+  ],
   "traditional": "上 + CL + N",
   "jyutping": "soeng6 CL N",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "previous, last (week, month, term)",
-      "english": [
-        {
-          "id": "18xg24ce",
-          "word": "previous",
-          "meaning": "earlier; before",
-          "note": "Use this for the previous item, version, term of office, or other member in an ordered series, such as 上一任總理."
-        },
-        {
-          "id": "4esk0lm7",
-          "word": "past",
-          "meaning": "recent previous time",
-          "note": "Use this for a specifically named previous period, such as 上個月 for ‘last month’ or 上個禮拜 for ‘last week’."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The previous prime minister did quite well.",
-          "traditional": "上一任總理做得幾好。",
-          "jyutping": "soeng6 jat1 jam6 zung2 lei5 zou6 dak1 gei2 hou2"
-        },
-        {
-          "english": "I went to Macao during the past week.",
-          "traditional": "上個禮拜我去咗澳門。",
-          "jyutping": "soeng6 go3 lai5 baai3 ngo5 heoi3 zo2 ou3 mun4"
-        }
-      ]
+      "english": "The previous prime minister did quite well.",
+      "traditional": "上一任總理做得幾好。",
+      "jyutping": "soeng6 jat1 jam6 zung2 lei5 zou6 dak1 gei2 hou2"
+    },
+    {
+      "english": "I went to Macao during the past week.",
+      "traditional": "上個禮拜我去咗澳門。",
+      "jyutping": "soeng6 go3 lai5 baai3 ngo5 heoi3 zo2 ou3 mun4"
     }
   ]
 }

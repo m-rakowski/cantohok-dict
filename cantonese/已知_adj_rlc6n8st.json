@@ -1,28 +1,24 @@
 {
   "id": "rlc6n8st",
   "partOfSpeech": "adj",
+  "meaning": "known/familiar/established",
+  "english": [
+    {
+      "id": "v0m634ob",
+      "word": "known",
+      "meaning": "known/familiar/established",
+      "register": "written",
+      "note": "Use this in written or technical contexts for information or facts that have been established or researched."
+    }
+  ],
   "traditional": "已知",
   "jyutping": "ji5 zi1",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "known/familiar/established",
-      "english": [
-        {
-          "id": "v0m634ob",
-          "word": "known",
-          "meaning": "known/familiar/established",
-          "register": "written",
-          "note": "Use this in written or technical contexts for information or facts that have been established or researched."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "This experiment currently has only three known results.",
-          "traditional": "呢個實驗目前只有三個已知結果。",
-          "jyutping": "ni1 go3 sat6 jim6 muk6 cin4 zi2 jau5 saam1 go3 ji5 zi1 git3 gwo2"
-        }
-      ]
+      "english": "This experiment currently has only three known results.",
+      "traditional": "呢個實驗目前只有三個已知結果。",
+      "jyutping": "ni1 go3 sat6 jim6 muk6 cin4 zi2 jau5 saam1 go3 ji5 zi1 git3 gwo2"
     }
   ]
 }

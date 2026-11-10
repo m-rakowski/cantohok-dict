@@ -1,28 +1,24 @@
 {
   "id": "pf6e3rtf",
   "partOfSpeech": "noun",
+  "meaning": "doer, agent",
+  "english": [
+    {
+      "id": "1dkkubhb",
+      "word": "actor",
+      "meaning": "doer, agent",
+      "register": "formal",
+      "note": "Use this mainly in formal or analytical contexts for a person or entity that carries out an action."
+    }
+  ],
   "traditional": "行動者",
   "jyutping": "hang4 dung6 ze2",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "doer, agent",
-      "english": [
-        {
-          "id": "1dkkubhb",
-          "word": "actor",
-          "meaning": "doer, agent",
-          "register": "formal",
-          "note": "Use this mainly in formal or analytical contexts for a person or entity that carries out an action."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "In this model, a person is not a passive recipient but an actor.",
-          "traditional": "喺呢個模型入面，人唔係被動接受者，而係行動者。",
-          "jyutping": "hai2 ni1 go3 mou4 jing4 jap6 min6 jan4 m4 hai6 bei6 dung6 zip3 sau6 ze2 ji4 hai6 hang4 dung6 ze2"
-        }
-      ]
+      "english": "In this model, a person is not a passive recipient but an actor.",
+      "traditional": "喺呢個模型入面，人唔係被動接受者，而係行動者。",
+      "jyutping": "hai2 ni1 go3 mou4 jing4 jap6 min6 jan4 m4 hai6 bei6 dung6 zip3 sau6 ze2 ji4 hai6 hang4 dung6 ze2"
     }
   ]
 }

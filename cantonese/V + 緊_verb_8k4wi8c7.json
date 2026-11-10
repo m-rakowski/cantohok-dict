@@ -1,28 +1,24 @@
 {
   "id": "8k4wi8c7",
   "partOfSpeech": "verb",
+  "meaning": "continuous auxiliary",
+  "english": [
+    {
+      "id": "ljbly9yu",
+      "word": "be",
+      "meaning": "continuous auxiliary",
+      "register": "colloquial",
+      "note": "Put 緊 after the verb to express an action that is in progress, rather than translating English is separately."
+    }
+  ],
   "traditional": "V + 緊",
   "jyutping": "V gan2",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "continuous auxiliary",
-      "english": [
-        {
-          "id": "ljbly9yu",
-          "word": "be",
-          "meaning": "continuous auxiliary",
-          "register": "colloquial",
-          "note": "Put 緊 after the verb to express an action that is in progress, rather than translating English is separately."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "I happen to be watching TV right now.",
-          "traditional": "我而家睇緊電視。",
-          "jyutping": "ngo5 ji4 gaa1 tai2 gan2 din6 si6"
-        }
-      ]
+      "english": "I happen to be watching TV right now.",
+      "traditional": "我而家睇緊電視。",
+      "jyutping": "ngo5 ji4 gaa1 tai2 gan2 din6 si6"
     }
   ]
 }

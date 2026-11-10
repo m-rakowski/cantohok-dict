@@ -1,37 +1,33 @@
 {
   "id": "gv4mxfpp",
   "partOfSpeech": "noun",
+  "meaning": "suburbs, city outskirts",
+  "english": [
+    {
+      "id": "ll780ird",
+      "word": "outskirts",
+      "meaning": "edge of a town",
+      "note": "Use this when specifically referring to the outskirts of a city or town rather than a general suburban district."
+    },
+    {
+      "id": "b9mt9f3i",
+      "word": "suburb",
+      "meaning": "city outskirts residential area",
+      "note": "This is the all-purpose term for a residential area on the outskirts of a city."
+    }
+  ],
   "traditional": "市郊",
   "jyutping": "si5 gaau1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "suburbs, city outskirts",
-      "english": [
-        {
-          "id": "ll780ird",
-          "word": "outskirts",
-          "meaning": "edge of a town",
-          "note": "Use this when specifically referring to the outskirts of a city or town rather than a general suburban district."
-        },
-        {
-          "id": "b9mt9f3i",
-          "word": "suburb",
-          "meaning": "city outskirts residential area",
-          "note": "This is the all-purpose term for a residential area on the outskirts of a city."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This hotel is on the outskirts of the city, and it takes half an hour to get downtown.",
-          "traditional": "呢間酒店喺市郊，入城要搭半個鐘頭車。",
-          "jyutping": "ne1 gaan1 zau2 dim3 hai2 si5 gaau1 jap6 seng2 jiu3 daap3 bun3 go3 zung1 tau4 ce1"
-        },
-        {
-          "english": "We moved to a suburb where there are schools, markets, and restaurants nearby, so life is quite convenient.",
-          "traditional": "我哋搬咗去市郊住，附近有學校、街市同餐廳，生活都幾方便。",
-          "jyutping": "ngo5 dei6 bun1 zo2 heoi3 si5 gaau1 zyu6 fu6 gan6 jau5 hok6 haau6 gaai1 si5 tung4 caan1 teng1 saang1 wut6 dou1 gei2 fong1 bin6"
-        }
-      ]
+      "english": "This hotel is on the outskirts of the city, and it takes half an hour to get downtown.",
+      "traditional": "呢間酒店喺市郊，入城要搭半個鐘頭車。",
+      "jyutping": "ne1 gaan1 zau2 dim3 hai2 si5 gaau1 jap6 seng2 jiu3 daap3 bun3 go3 zung1 tau4 ce1"
+    },
+    {
+      "english": "We moved to a suburb where there are schools, markets, and restaurants nearby, so life is quite convenient.",
+      "traditional": "我哋搬咗去市郊住，附近有學校、街市同餐廳，生活都幾方便。",
+      "jyutping": "ngo5 dei6 bun1 zo2 heoi3 si5 gaau1 zyu6 fu6 gan6 jau5 hok6 haau6 gaai1 si5 tung4 caan1 teng1 saang1 wut6 dou1 gei2 fong1 bin6"
     }
   ]
 }

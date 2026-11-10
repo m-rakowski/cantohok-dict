@@ -1,26 +1,22 @@
 {
   "id": "o9cryvfr",
   "partOfSpeech": "adj",
+  "meaning": "relating to a genome",
+  "english": [
+    {
+      "id": "oe92zy8s",
+      "word": "genomic",
+      "meaning": "relating to a genome",
+      "note": "Use this compact noun modifier inside technical compounds such as genomic data, rather than as a standalone predicate."
+    }
+  ],
   "traditional": "基因組",
   "jyutping": "gei1 jan1 zou2",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "relating to a genome",
-      "english": [
-        {
-          "id": "oe92zy8s",
-          "word": "genomic",
-          "meaning": "relating to a genome",
-          "note": "Use this compact noun modifier inside technical compounds such as genomic data, rather than as a standalone predicate."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The genomic data hasn’t been organized yet.",
-          "traditional": "基因組數據仲未整理好。",
-          "jyutping": "gei1 jan1 zou2 sou3 geoi3 zung6 mei6 zing2 lei5 hou2"
-        }
-      ]
+      "english": "The genomic data hasn’t been organized yet.",
+      "traditional": "基因組數據仲未整理好。",
+      "jyutping": "gei1 jan1 zou2 sou3 geoi3 zung6 mei6 zing2 lei5 hou2"
     }
   ]
 }

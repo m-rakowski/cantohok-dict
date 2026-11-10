@@ -1,37 +1,33 @@
 {
   "id": "4msk03id",
   "partOfSpeech": "verb",
+  "meaning": "sign a contract",
+  "english": [
+    {
+      "id": "6es1nt2r",
+      "word": "contract",
+      "meaning": "make a contract",
+      "note": "Use 簽約 when the parties formally make an agreement by signing a contract."
+    },
+    {
+      "id": "ks41wmkr",
+      "word": "sign",
+      "meaning": "sign a player",
+      "note": "Use this for signing a contractual deal, with a team or record label, or engaging a player or performer under contract."
+    }
+  ],
   "traditional": "簽約",
   "jyutping": "cim1 joek3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "sign a contract",
-      "english": [
-        {
-          "id": "6es1nt2r",
-          "word": "contract",
-          "meaning": "make a contract",
-          "note": "Use 簽約 when the parties formally make an agreement by signing a contract."
-        },
-        {
-          "id": "ks41wmkr",
-          "word": "sign",
-          "meaning": "sign a player",
-          "note": "Use this for signing a contractual deal, with a team or record label, or engaging a player or performer under contract."
-        }
-      ],
-      "examples": [
-        {
-          "english": "We will contract with a new supplier next month.",
-          "traditional": "我哋下個月同新供應商簽約。",
-          "jyutping": "ngo5 dei6 haa6 go3 jyut6 tung4 san1 gung1 jing3 soeng1 cim1 joek3"
-        },
-        {
-          "english": "The team is finally going to sign him.",
-          "traditional": "支球隊終於要同佢簽約喇。",
-          "jyutping": "zi1 kau4 deoi6 zung1 jyu1 jiu3 tung4 keoi5 cim1 joek3 laa3"
-        }
-      ]
+      "english": "We will contract with a new supplier next month.",
+      "traditional": "我哋下個月同新供應商簽約。",
+      "jyutping": "ngo5 dei6 haa6 go3 jyut6 tung4 san1 gung1 jing3 soeng1 cim1 joek3"
+    },
+    {
+      "english": "The team is finally going to sign him.",
+      "traditional": "支球隊終於要同佢簽約喇。",
+      "jyutping": "zi1 kau4 deoi6 zung1 jyu1 jiu3 tung4 keoi5 cim1 joek3 laa3"
     }
   ]
 }

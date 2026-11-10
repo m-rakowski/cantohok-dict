@@ -1,37 +1,33 @@
 {
   "id": "a8nkm4n8",
   "partOfSpeech": "noun",
+  "meaning": "surface, outside",
+  "english": [
+    {
+      "id": "fj4kadrj",
+      "word": "surface",
+      "meaning": "top side; water surface",
+      "note": "This is the all-purpose noun for an object's external surface or a general flat surface."
+    },
+    {
+      "id": "3onmg6nb",
+      "word": "exterior",
+      "meaning": "outside; outer surface",
+      "note": "Use this when you mean the object's visible or physical outer surface specifically."
+    }
+  ],
   "traditional": "表面",
   "jyutping": "biu2 min6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "surface, outside",
-      "english": [
-        {
-          "id": "fj4kadrj",
-          "word": "surface",
-          "meaning": "top side; water surface",
-          "note": "This is the all-purpose noun for an object's external surface or a general flat surface."
-        },
-        {
-          "id": "3onmg6nb",
-          "word": "exterior",
-          "meaning": "outside; outer surface",
-          "note": "Use this when you mean the object's visible or physical outer surface specifically."
-        }
-      ],
-      "examples": [
-        {
-          "english": "There is some water on the surface of the table.",
-          "traditional": "張枱表面有啲水。",
-          "jyutping": "zoeng1 toi2 biu2 min6 jau5 di1 seoi2"
-        },
-        {
-          "english": "The exterior of the table has lots of scratches.",
-          "traditional": "張枱表面有好多刮痕。",
-          "jyutping": "zoeng1 ci4 biu2 min6 jau5 hou2 do1 gwaat3 han4"
-        }
-      ]
+      "english": "There is some water on the surface of the table.",
+      "traditional": "張枱表面有啲水。",
+      "jyutping": "zoeng1 toi2 biu2 min6 jau5 di1 seoi2"
+    },
+    {
+      "english": "The exterior of the table has lots of scratches.",
+      "traditional": "張枱表面有好多刮痕。",
+      "jyutping": "zoeng1 ci4 biu2 min6 jau5 hou2 do1 gwaat3 han4"
     }
   ]
 }

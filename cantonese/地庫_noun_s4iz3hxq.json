@@ -1,37 +1,33 @@
 {
   "id": "s4iz3hxq",
   "partOfSpeech": "noun",
+  "meaning": "basement",
+  "english": [
+    {
+      "id": "dsjm1xea",
+      "word": "basement",
+      "meaning": "floor below ground",
+      "note": "This is the all-purpose Cantonese noun for a floor or level of a building below ground."
+    },
+    {
+      "id": "ak8hoad6",
+      "word": "cellar",
+      "meaning": "basement",
+      "note": "Use this for the basement level or underground part of a building, rather than a storage cellar."
+    }
+  ],
   "traditional": "地庫",
   "jyutping": "dei6 fu3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "basement",
-      "english": [
-        {
-          "id": "dsjm1xea",
-          "word": "basement",
-          "meaning": "floor below ground",
-          "note": "This is the all-purpose Cantonese noun for a floor or level of a building below ground."
-        },
-        {
-          "id": "ak8hoad6",
-          "word": "cellar",
-          "meaning": "basement",
-          "note": "Use this for the basement level or underground part of a building, rather than a storage cellar."
-        }
-      ],
-      "examples": [
-        {
-          "english": "We parked our car in the basement.",
-          "traditional": "我哋架車泊咗喺地庫。",
-          "jyutping": "ngo5 dei6 gaa3 ce1 paak3 zo2 hai2 dei6 fu3"
-        },
-        {
-          "english": "We parked our car in the mall's cellar.",
-          "traditional": "我哋架車泊喺商場地庫。",
-          "jyutping": "ngo5 dei6 gaa3 ce1 paak3 hai2 soeng1 coeng4 dei6 fu3"
-        }
-      ]
+      "english": "We parked our car in the basement.",
+      "traditional": "我哋架車泊咗喺地庫。",
+      "jyutping": "ngo5 dei6 gaa3 ce1 paak3 zo2 hai2 dei6 fu3"
+    },
+    {
+      "english": "We parked our car in the mall's cellar.",
+      "traditional": "我哋架車泊喺商場地庫。",
+      "jyutping": "ngo5 dei6 gaa3 ce1 paak3 hai2 soeng1 coeng4 dei6 fu3"
     }
   ]
 }

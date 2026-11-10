@@ -1,37 +1,33 @@
 {
   "id": "e6ao7r2h",
   "partOfSpeech": "noun",
+  "meaning": "weather",
+  "english": [
+    {
+      "id": "s5scma0w",
+      "word": "weather",
+      "meaning": "atmospheric conditions",
+      "note": "This is the all-purpose Cantonese word for atmospheric conditions, including in questions about today's weather."
+    },
+    {
+      "id": "6kwwm9w6",
+      "word": "sky",
+      "meaning": "sky conditions",
+      "note": "Use this when the descriptive sky sense is really about the weather or atmospheric conditions."
+    }
+  ],
   "traditional": "天氣",
   "jyutping": "tin1 hei3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "weather",
-      "english": [
-        {
-          "id": "s5scma0w",
-          "word": "weather",
-          "meaning": "atmospheric conditions",
-          "note": "This is the all-purpose Cantonese word for atmospheric conditions, including in questions about today's weather."
-        },
-        {
-          "id": "6kwwm9w6",
-          "word": "sky",
-          "meaning": "sky conditions",
-          "note": "Use this when the descriptive sky sense is really about the weather or atmospheric conditions."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The weather is pretty nice today.",
-          "traditional": "今日天氣幾好喎。",
-          "jyutping": "gam1 jat6 tin1 hei3 gei2 hou2 wo3"
-        },
-        {
-          "english": "The sky is so muggy today that I’m sweating all over.",
-          "traditional": "今日天氣咁焗，我成身都係汗。",
-          "jyutping": "gam1 jat6 tin1 hei3 gam2 guk6 ngo5 seng4 san1 dou1 hai6 hon6"
-        }
-      ]
+      "english": "The weather is pretty nice today.",
+      "traditional": "今日天氣幾好喎。",
+      "jyutping": "gam1 jat6 tin1 hei3 gei2 hou2 wo3"
+    },
+    {
+      "english": "The sky is so muggy today that I’m sweating all over.",
+      "traditional": "今日天氣咁焗，我成身都係汗。",
+      "jyutping": "gam1 jat6 tin1 hei3 gam2 guk6 ngo5 seng4 san1 dou1 hai6 hon6"
     }
   ]
 }

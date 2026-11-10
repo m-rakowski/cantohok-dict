@@ -1,28 +1,24 @@
 {
   "id": "cow7kb96",
   "partOfSpeech": "noun",
+  "meaning": "required school content",
+  "english": [
+    {
+      "id": "snb91jk6",
+      "word": "curriculum",
+      "meaning": "required school content",
+      "register": "formal",
+      "note": "Use this when referring specifically to the prescribed curriculum standards or framework that schools must follow."
+    }
+  ],
   "traditional": "課程綱要",
   "jyutping": "fo3 cing4 gong1 jiu3",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "required school content",
-      "english": [
-        {
-          "id": "snb91jk6",
-          "word": "curriculum",
-          "meaning": "required school content",
-          "register": "formal",
-          "note": "Use this when referring specifically to the prescribed curriculum standards or framework that schools must follow."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The Education Bureau has announced the new curriculum standards.",
-          "traditional": "教育局已經公布新嘅課程綱要。",
-          "jyutping": "gaau3 juk6 guk6 ji5 ging1 gung1 bou3 san1 ge3 fo3 cing4 gong1 jiu3"
-        }
-      ]
+      "english": "The Education Bureau has announced the new curriculum standards.",
+      "traditional": "教育局已經公布新嘅課程綱要。",
+      "jyutping": "gaau3 juk6 guk6 ji5 ging1 gung1 bou3 san1 ge3 fo3 cing4 gong1 jiu3"
     }
   ]
 }

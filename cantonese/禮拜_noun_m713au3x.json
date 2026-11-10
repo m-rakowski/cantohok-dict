@@ -1,28 +1,24 @@
 {
   "id": "m713au3x",
   "partOfSpeech": "noun",
+  "meaning": "seven-day period",
+  "english": [
+    {
+      "id": "ric7eani",
+      "word": "week",
+      "meaning": "seven-day period",
+      "register": "colloquial",
+      "note": "Use this colloquial alternative for the same seven-day period."
+    }
+  ],
   "traditional": "禮拜",
   "jyutping": "lai5 baai3",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "seven-day period",
-      "english": [
-        {
-          "id": "ric7eani",
-          "word": "week",
-          "meaning": "seven-day period",
-          "register": "colloquial",
-          "note": "Use this colloquial alternative for the same seven-day period."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "We’re going traveling next week.",
-          "traditional": "我哋下個禮拜去旅行。",
-          "jyutping": "ngo5 dei6 haa6 go3 lai5 baai3 heoi3 leoi5 hang4"
-        }
-      ]
+      "english": "We’re going traveling next week.",
+      "traditional": "我哋下個禮拜去旅行。",
+      "jyutping": "ngo5 dei6 haa6 go3 lai5 baai3 heoi3 leoi5 hang4"
     }
   ]
 }

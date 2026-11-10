@@ -1,48 +1,44 @@
 {
   "id": "own1v1q2",
   "partOfSpeech": "noun",
+  "meaning": "horse-drawn carriage",
+  "english": [
+    {
+      "id": "izad0apw",
+      "word": "carriage",
+      "meaning": "horse-drawn carriage",
+      "note": "This is the all-purpose Cantonese noun for a horse-drawn carriage."
+    },
+    {
+      "id": "agfaxt0t",
+      "word": "chariot",
+      "meaning": "ceremonial carriage",
+      "note": "This is the all-purpose choice for a horse-drawn ceremonial or pleasure carriage when battle is not the focus."
+    },
+    {
+      "id": "vvinajxx",
+      "word": "wagon",
+      "meaning": "horse-drawn goods vehicle",
+      "note": "Use this for the all-purpose horse-drawn vehicle, including a wagon used to carry goods."
+    }
+  ],
   "traditional": "馬車",
   "jyutping": "maa5 ce1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "horse-drawn carriage",
-      "english": [
-        {
-          "id": "izad0apw",
-          "word": "carriage",
-          "meaning": "horse-drawn carriage",
-          "note": "This is the all-purpose Cantonese noun for a horse-drawn carriage."
-        },
-        {
-          "id": "agfaxt0t",
-          "word": "chariot",
-          "meaning": "ceremonial carriage",
-          "note": "This is the all-purpose choice for a horse-drawn ceremonial or pleasure carriage when battle is not the focus."
-        },
-        {
-          "id": "vvinajxx",
-          "word": "wagon",
-          "meaning": "horse-drawn goods vehicle",
-          "note": "Use this for the all-purpose horse-drawn vehicle, including a wagon used to carry goods."
-        }
-      ],
-      "examples": [
-        {
-          "english": "We took a carriage to visit the castle.",
-          "traditional": "我哋坐馬車去參觀城堡。",
-          "jyutping": "ngo5 dei6 zo6 maa5 ce1 heoi3 caam1 gun1 sing4 bou2"
-        },
-        {
-          "english": "We took a chariot around the old city, and it felt romantic.",
-          "traditional": "我哋坐馬車遊古城，感覺好浪漫。",
-          "jyutping": "ngo5 dei6 zo6 maa5 ce1 jau4 gu2 sing4 gam2 gok3 hou2 long6 maan6"
-        },
-        {
-          "english": "In ancient times, people used a horse-drawn wagon to carry goods.",
-          "traditional": "古代人會用馬車運貨。",
-          "jyutping": "gu2 doi6 jan4 wui5 jung6 maa5 ce1 wan6 fo3"
-        }
-      ]
+      "english": "We took a carriage to visit the castle.",
+      "traditional": "我哋坐馬車去參觀城堡。",
+      "jyutping": "ngo5 dei6 zo6 maa5 ce1 heoi3 caam1 gun1 sing4 bou2"
+    },
+    {
+      "english": "We took a chariot around the old city, and it felt romantic.",
+      "traditional": "我哋坐馬車遊古城，感覺好浪漫。",
+      "jyutping": "ngo5 dei6 zo6 maa5 ce1 jau4 gu2 sing4 gam2 gok3 hou2 long6 maan6"
+    },
+    {
+      "english": "In ancient times, people used a horse-drawn wagon to carry goods.",
+      "traditional": "古代人會用馬車運貨。",
+      "jyutping": "gu2 doi6 jan4 wui5 jung6 maa5 ce1 wan6 fo3"
     }
   ]
 }

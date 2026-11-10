@@ -1,28 +1,24 @@
 {
   "id": "3cwgpy3f",
   "partOfSpeech": "noun",
+  "meaning": "ATM",
+  "english": [
+    {
+      "id": "r3ui7hx2",
+      "word": "cashpoint",
+      "meaning": "ATM",
+      "register": "colloquial",
+      "note": "A speaker picks this colloquial term when stressing that the machine is used to take out money."
+    }
+  ],
   "traditional": "撳錢機",
   "jyutping": "gam6 cin2 gei1",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "ATM",
-      "english": [
-        {
-          "id": "r3ui7hx2",
-          "word": "cashpoint",
-          "meaning": "ATM",
-          "register": "colloquial",
-          "note": "A speaker picks this colloquial term when stressing that the machine is used to take out money."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "This cashpoint is broken, let’s go to another one.",
-          "traditional": "呢部撳錢機壞咗，去第二部啦。",
-          "jyutping": "ni1 bou6 gam6 cin2 gei1 waai6 zo2 heoi3 dai6 ji6 bou6 laa1"
-        }
-      ]
+      "english": "This cashpoint is broken, let’s go to another one.",
+      "traditional": "呢部撳錢機壞咗，去第二部啦。",
+      "jyutping": "ni1 bou6 gam6 cin2 gei1 waai6 zo2 heoi3 dai6 ji6 bou6 laa1"
     }
   ]
 }

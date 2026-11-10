@@ -1,28 +1,24 @@
 {
   "id": "uowj7kam",
   "partOfSpeech": "noun",
+  "meaning": "currency piece",
+  "english": [
+    {
+      "id": "3furtsjc",
+      "word": "coin",
+      "meaning": "currency piece",
+      "register": "colloquial",
+      "note": "This is the all-purpose colloquial choice for an individual coin in everyday Hong Kong speech."
+    }
+  ],
   "traditional": "銀仔",
   "jyutping": "ngan4 zai2",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "currency piece",
-      "english": [
-        {
-          "id": "3furtsjc",
-          "word": "coin",
-          "meaning": "currency piece",
-          "register": "colloquial",
-          "note": "This is the all-purpose colloquial choice for an individual coin in everyday Hong Kong speech."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "I found a coin under the sofa.",
-          "traditional": "我搵到一個銀仔喺梳化底。",
-          "jyutping": "ngo5 wan2 dou2 jat1 go3 ngan4 zai2 hai2 so1 faa2 dai2"
-        }
-      ]
+      "english": "I found a coin under the sofa.",
+      "traditional": "我搵到一個銀仔喺梳化底。",
+      "jyutping": "ngo5 wan2 dou2 jat1 go3 ngan4 zai2 hai2 so1 faa2 dai2"
     }
   ]
 }

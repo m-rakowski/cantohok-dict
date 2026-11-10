@@ -1,40 +1,36 @@
 {
   "id": "b8lmozh3",
   "partOfSpeech": "verb",
+  "meaning": "make prettier",
+  "english": [
+    {
+      "id": "jwspx0hj",
+      "word": "beautify",
+      "meaning": "make beautiful",
+      "register": "colloquial",
+      "note": "Use 整靚 as the all-purpose colloquial way to make a person, object, or place look better."
+    },
+    {
+      "id": "2mx76o1t",
+      "word": "adorn",
+      "meaning": "decorate; make beautiful",
+      "register": "colloquial",
+      "note": "Use this colloquial phrase when emphasizing the result of making something look prettier."
+    }
+  ],
   "traditional": "整靚",
   "jyutping": "zing2 leng3",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "make prettier",
-      "english": [
-        {
-          "id": "jwspx0hj",
-          "word": "beautify",
-          "meaning": "make beautiful",
-          "register": "colloquial",
-          "note": "Use 整靚 as the all-purpose colloquial way to make a person, object, or place look better."
-        },
-        {
-          "id": "2mx76o1t",
-          "word": "adorn",
-          "meaning": "decorate; make beautiful",
-          "register": "colloquial",
-          "note": "Use this colloquial phrase when emphasizing the result of making something look prettier."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "I’ll beautify the flat a bit.",
-          "traditional": "我幫間屋整靚啲。",
-          "jyutping": "ngo5 bong1 gaan1 uk1 zing2 leng3 di1"
-        },
-        {
-          "english": "I use a few lamps to adorn the whole living room, and it looks much prettier.",
-          "traditional": "我用幾盞燈將成個客廳整靚晒。",
-          "jyutping": "ngo5 jung6 gei2 zaan2 dang1 zoeng1 sing4 go3 haak3 teng1 zing2 leng3 saai3"
-        }
-      ]
+      "english": "I’ll beautify the flat a bit.",
+      "traditional": "我幫間屋整靚啲。",
+      "jyutping": "ngo5 bong1 gaan1 uk1 zing2 leng3 di1"
+    },
+    {
+      "english": "I use a few lamps to adorn the whole living room, and it looks much prettier.",
+      "traditional": "我用幾盞燈將成個客廳整靚晒。",
+      "jyutping": "ngo5 jung6 gei2 zaan2 dang1 zoeng1 sing4 go3 haak3 teng1 zing2 leng3 saai3"
     }
   ]
 }

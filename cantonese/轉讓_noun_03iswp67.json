@@ -1,28 +1,24 @@
 {
   "id": "03iswp67",
   "partOfSpeech": "noun",
+  "meaning": "government grant / transfer",
+  "english": [
+    {
+      "id": "d0219z3h",
+      "word": "grant",
+      "meaning": "government grant / transfer",
+      "register": "formal",
+      "note": "Use this for the legal transfer or conveyance of property, especially when the grant is documented by deed or writing."
+    }
+  ],
   "traditional": "轉讓",
   "jyutping": "zyun2 joeng6",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "government grant / transfer",
-      "english": [
-        {
-          "id": "d0219z3h",
-          "word": "grant",
-          "meaning": "government grant / transfer",
-          "register": "formal",
-          "note": "Use this for the legal transfer or conveyance of property, especially when the grant is documented by deed or writing."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The deed states the grant of the property to the buyer.",
-          "traditional": "份契約列明物業轉讓予買家。",
-          "jyutping": "fan6 kai3 joek3 lit6 ming4 mat6 jip6 zyun2 joeng6 jyu5 maai5 gaa1"
-        }
-      ]
+      "english": "The deed states the grant of the property to the buyer.",
+      "traditional": "份契約列明物業轉讓予買家。",
+      "jyutping": "fan6 kai3 joek3 lit6 ming4 mat6 jip6 zyun2 joeng6 jyu5 maai5 gaa1"
     }
   ]
 }

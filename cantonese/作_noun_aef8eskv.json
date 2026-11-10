@@ -1,28 +1,24 @@
 {
   "id": "aef8eskv",
   "partOfSpeech": "noun",
+  "meaning": "artistic work",
+  "english": [
+    {
+      "id": "2g3oituj",
+      "word": "piece",
+      "meaning": "artistic work",
+      "register": "written",
+      "note": "Use 作 for an artistic or literary work in formal or written contexts."
+    }
+  ],
   "traditional": "作",
   "jyutping": "zok3",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "artistic work",
-      "english": [
-        {
-          "id": "2g3oituj",
-          "word": "piece",
-          "meaning": "artistic work",
-          "register": "written",
-          "note": "Use 作 for an artistic or literary work in formal or written contexts."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "This piece explores city life.",
-          "traditional": "呢部作探討城市生活。",
-          "jyutping": "ni1 bou6 zok3 taam3 tou2 sing4 si5 saang1 wut6"
-        }
-      ]
+      "english": "This piece explores city life.",
+      "traditional": "呢部作探討城市生活。",
+      "jyutping": "ni1 bou6 zok3 taam3 tou2 sing4 si5 saang1 wut6"
     }
   ]
 }

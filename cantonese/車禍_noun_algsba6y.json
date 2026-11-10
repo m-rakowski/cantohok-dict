@@ -1,37 +1,33 @@
 {
   "id": "algsba6y",
   "partOfSpeech": "noun",
+  "meaning": "car accident",
+  "english": [
+    {
+      "id": "32f2h4wq",
+      "word": "crash",
+      "meaning": "vehicle accident",
+      "note": "This is the all-purpose everyday noun for a vehicle crash, especially a car accident."
+    },
+    {
+      "id": "pc3olk3b",
+      "word": "accident",
+      "meaning": "vehicle crash",
+      "note": "Use this specifically for a crash or collision involving a vehicle or other transport."
+    }
+  ],
   "traditional": "車禍",
   "jyutping": "ce1 wo6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "car accident",
-      "english": [
-        {
-          "id": "32f2h4wq",
-          "word": "crash",
-          "meaning": "vehicle accident",
-          "note": "This is the all-purpose everyday noun for a vehicle crash, especially a car accident."
-        },
-        {
-          "id": "pc3olk3b",
-          "word": "accident",
-          "meaning": "vehicle crash",
-          "note": "Use this specifically for a crash or collision involving a vehicle or other transport."
-        }
-      ],
-      "examples": [
-        {
-          "english": "That car suddenly lost control, hit the car next to it, and caused a crash.",
-          "traditional": "嗰架車突然失控，撞到隔離架車，成咗一宗車禍。",
-          "jyutping": "go2 gaa3 ce1 dat6 jin4 sat1 hung3 zong6 dou2 gaak3 lei4 gaa3 ce1 sing4 zo2 jat1 zung1 ce1 wo6"
-        },
-        {
-          "english": "The car was in an accident yesterday.",
-          "traditional": "琴日架車出咗車禍。",
-          "jyutping": "kam4 jat6 gaa3 ce1 ceot1 zo2 ce1 wo6"
-        }
-      ]
+      "english": "That car suddenly lost control, hit the car next to it, and caused a crash.",
+      "traditional": "嗰架車突然失控，撞到隔離架車，成咗一宗車禍。",
+      "jyutping": "go2 gaa3 ce1 dat6 jin4 sat1 hung3 zong6 dou2 gaak3 lei4 gaa3 ce1 sing4 zo2 jat1 zung1 ce1 wo6"
+    },
+    {
+      "english": "The car was in an accident yesterday.",
+      "traditional": "琴日架車出咗車禍。",
+      "jyutping": "kam4 jat6 gaa3 ce1 ceot1 zo2 ce1 wo6"
     }
   ]
 }

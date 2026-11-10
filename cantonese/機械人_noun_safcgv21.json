@@ -1,26 +1,22 @@
 {
   "id": "safcgv21",
   "partOfSpeech": "noun",
+  "meaning": "humanoid mechanical being",
+  "english": [
+    {
+      "id": "b573fu1p",
+      "word": "robot",
+      "meaning": "humanoid mechanical being",
+      "note": "Use this for a humanoid or creature-like mechanical being, with emphasis on its mechanical nature."
+    }
+  ],
   "traditional": "機械人",
   "jyutping": "gei1 haai6 jan4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "humanoid mechanical being",
-      "english": [
-        {
-          "id": "b573fu1p",
-          "word": "robot",
-          "meaning": "humanoid mechanical being",
-          "note": "Use this for a humanoid or creature-like mechanical being, with emphasis on its mechanical nature."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The robot in the movie knows how to smile.",
-          "traditional": "電影入面個機械人識得笑。",
-          "jyutping": "din6 jing2 jap6 min6 go3 gei1 haai6 jan4 sik1 dak1 siu3"
-        }
-      ]
+      "english": "The robot in the movie knows how to smile.",
+      "traditional": "電影入面個機械人識得笑。",
+      "jyutping": "din6 jing2 jap6 min6 go3 gei1 haai6 jan4 sik1 dak1 siu3"
     }
   ]
 }

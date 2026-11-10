@@ -1,28 +1,24 @@
 {
   "id": "xuu8l6t2",
   "partOfSpeech": "noun",
+  "meaning": "hospital patient not admitted",
+  "english": [
+    {
+      "id": "79fjppez",
+      "word": "outpatient",
+      "meaning": "hospital patient not admitted",
+      "register": "formal",
+      "note": "This is the all-purpose term for a patient treated at a hospital or clinic without being admitted overnight."
+    }
+  ],
   "traditional": "門診病人",
   "jyutping": "mun4 can2 beng6 jan4",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "hospital patient not admitted",
-      "english": [
-        {
-          "id": "79fjppez",
-          "word": "outpatient",
-          "meaning": "hospital patient not admitted",
-          "register": "formal",
-          "note": "This is the all-purpose term for a patient treated at a hospital or clinic without being admitted overnight."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "This outpatient can go home after the examination and does not need to stay in the hospital.",
-          "traditional": "呢位門診病人做完檢查就可以返屋企，唔使留院。",
-          "jyutping": "ne1 wai6 mun4 can2 beng6 jan4 zou6 jyun4 gim2 caa4 zau6 ho2 ji5 faan1 uk1 kei2 m4 sai2 lau4 jyun2"
-        }
-      ]
+      "english": "This outpatient can go home after the examination and does not need to stay in the hospital.",
+      "traditional": "呢位門診病人做完檢查就可以返屋企，唔使留院。",
+      "jyutping": "ne1 wai6 mun4 can2 beng6 jan4 zou6 jyun4 gim2 caa4 zau6 ho2 ji5 faan1 uk1 kei2 m4 sai2 lau4 jyun2"
     }
   ]
 }

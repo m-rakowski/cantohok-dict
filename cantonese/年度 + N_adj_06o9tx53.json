@@ -1,28 +1,24 @@
 {
   "id": "06o9tx53",
   "partOfSpeech": "adj",
+  "meaning": "once every year",
+  "english": [
+    {
+      "id": "191v7bpt",
+      "word": "annual",
+      "meaning": "once every year",
+      "register": "written",
+      "note": "Use this mainly in official, institutional, or document labels such as annual reports and annual meetings."
+    }
+  ],
   "traditional": "年度 + N",
   "jyutping": "nin4 dou6 N",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "once every year",
-      "english": [
-        {
-          "id": "191v7bpt",
-          "word": "annual",
-          "meaning": "once every year",
-          "register": "written",
-          "note": "Use this mainly in official, institutional, or document labels such as annual reports and annual meetings."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "The annual report must be submitted by Friday.",
-          "traditional": "年度報告要喺星期五前交。",
-          "jyutping": "nin4 dou6 bou3 gou3 jiu3 hai2 sing1 kei4 ng5 cin4 gaau1"
-        }
-      ]
+      "english": "The annual report must be submitted by Friday.",
+      "traditional": "年度報告要喺星期五前交。",
+      "jyutping": "nin4 dou6 bou3 gou3 jiu3 hai2 sing1 kei4 ng5 cin4 gaau1"
     }
   ]
 }

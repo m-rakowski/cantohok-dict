@@ -1,37 +1,33 @@
 {
   "id": "6qi0n3cf",
   "partOfSpeech": "noun",
+  "meaning": "potato chips",
+  "english": [
+    {
+      "id": "xmjz82gp",
+      "word": "crisp",
+      "meaning": "potato crisp / chips",
+      "note": "Use this as the all-purpose everyday noun for potato crisps."
+    },
+    {
+      "id": "6ykifn0m",
+      "word": "chip",
+      "meaning": "french fries",
+      "note": "Use this for thin, crisp pieces of fried potato; it is the everyday all-purpose choice for this food."
+    }
+  ],
   "traditional": "薯片",
   "jyutping": "syu4 pin2",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "potato chips",
-      "english": [
-        {
-          "id": "xmjz82gp",
-          "word": "crisp",
-          "meaning": "potato crisp / chips",
-          "note": "Use this as the all-purpose everyday noun for potato crisps."
-        },
-        {
-          "id": "6ykifn0m",
-          "word": "chip",
-          "meaning": "french fries",
-          "note": "Use this for thin, crisp pieces of fried potato; it is the everyday all-purpose choice for this food."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I always have to eat a crisp while watching a movie.",
-          "traditional": "我睇戲一定要食一塊薯片。",
-          "jyutping": "ngo5 tai2 hei3 jat1 ding6 jiu3 sik6 jat1 faai3 syu4 pin2"
-        },
-        {
-          "english": "This chip is really crispy.",
-          "traditional": "呢塊薯片好脆。",
-          "jyutping": "ni1 faai3 syu4 pin2 hou2 ceoi3"
-        }
-      ]
+      "english": "I always have to eat a crisp while watching a movie.",
+      "traditional": "我睇戲一定要食一塊薯片。",
+      "jyutping": "ngo5 tai2 hei3 jat1 ding6 jiu3 sik6 jat1 faai3 syu4 pin2"
+    },
+    {
+      "english": "This chip is really crispy.",
+      "traditional": "呢塊薯片好脆。",
+      "jyutping": "ni1 faai3 syu4 pin2 hou2 ceoi3"
     }
   ]
 }

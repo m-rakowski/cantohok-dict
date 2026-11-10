@@ -1,28 +1,24 @@
 {
   "id": "yfbwtnwf",
   "partOfSpeech": "noun",
+  "meaning": "court evidence",
+  "english": [
+    {
+      "id": "19h95cqf",
+      "word": "evidence",
+      "meaning": "court evidence",
+      "register": "formal",
+      "note": "Use this formal legal phrase for evidence or testimony formally presented in court."
+    }
+  ],
   "traditional": "呈堂證供",
   "jyutping": "cing4 tong4 zing3 gung3",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "court evidence",
-      "english": [
-        {
-          "id": "19h95cqf",
-          "word": "evidence",
-          "meaning": "court evidence",
-          "register": "formal",
-          "note": "Use this formal legal phrase for evidence or testimony formally presented in court."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "This recording will become evidence presented in court.",
-          "traditional": "呢段錄音將會成為呈堂證供。",
-          "jyutping": "ni1 dyun6 luk6 jam1 zoeng1 wui5 sing4 wai4 cing4 tong4 zing3 gung3"
-        }
-      ]
+      "english": "This recording will become evidence presented in court.",
+      "traditional": "呢段錄音將會成為呈堂證供。",
+      "jyutping": "ni1 dyun6 luk6 jam1 zoeng1 wui5 sing4 wai4 cing4 tong4 zing3 gung3"
     }
   ]
 }

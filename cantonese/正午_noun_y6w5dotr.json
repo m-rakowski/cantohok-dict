@@ -1,28 +1,24 @@
 {
   "id": "y6w5dotr",
   "partOfSpeech": "noun",
+  "meaning": "midday",
+  "english": [
+    {
+      "id": "oj69d73y",
+      "word": "noon",
+      "meaning": "midday",
+      "register": "formal",
+      "note": "Use this for the exact midday point, especially in formal or written contexts."
+    }
+  ],
   "traditional": "正午",
   "jyutping": "zing3 ng5",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "midday",
-      "english": [
-        {
-          "id": "oj69d73y",
-          "word": "noon",
-          "meaning": "midday",
-          "register": "formal",
-          "note": "Use this for the exact midday point, especially in formal or written contexts."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The event will begin at noon.",
-          "traditional": "活動將於正午開始。",
-          "jyutping": "wut6 dung6 zoeng1 jyu1 zing3 ng5 hoi1 ci2"
-        }
-      ]
+      "english": "The event will begin at noon.",
+      "traditional": "活動將於正午開始。",
+      "jyutping": "wut6 dung6 zoeng1 jyu1 zing3 ng5 hoi1 ci2"
     }
   ]
 }

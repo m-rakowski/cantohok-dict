@@ -1,28 +1,24 @@
 {
   "id": "qq0p01cv",
   "partOfSpeech": "noun",
+  "meaning": "money-motivated person",
+  "english": [
+    {
+      "id": "jn6go60v",
+      "word": "mercenary",
+      "meaning": "money-motivated person",
+      "register": "colloquial",
+      "note": "For the general money-motivated-person sense, this is the all-purpose choice rather than a military term."
+    }
+  ],
   "traditional": "見錢開眼嘅人",
   "jyutping": "gin3 cin2 hoi1 ngaan5 ge3 jan4",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "money-motivated person",
-      "english": [
-        {
-          "id": "jn6go60v",
-          "word": "mercenary",
-          "meaning": "money-motivated person",
-          "register": "colloquial",
-          "note": "For the general money-motivated-person sense, this is the all-purpose choice rather than a military term."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "They’re a mercenary sort of person who does everything for money.",
-          "traditional": "見錢開眼嘅人",
-          "jyutping": "gin3 cin2 hoi1 ngaan5 ge3 jan4"
-        }
-      ]
+      "english": "They’re a mercenary sort of person who does everything for money.",
+      "traditional": "見錢開眼嘅人",
+      "jyutping": "gin3 cin2 hoi1 ngaan5 ge3 jan4"
     }
   ]
 }

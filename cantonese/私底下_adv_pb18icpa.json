@@ -1,28 +1,24 @@
 {
   "id": "pb18icpa",
   "partOfSpeech": "adv",
+  "meaning": "in private",
+  "english": [
+    {
+      "id": "emxxkaoe",
+      "word": "privately",
+      "meaning": "in private",
+      "register": "colloquial",
+      "note": "This is the usual colloquial choice for doing or saying something in private; it is the all-purpose one."
+    }
+  ],
   "traditional": "私底下",
   "jyutping": "si1 dai2 haa6",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "in private",
-      "english": [
-        {
-          "id": "emxxkaoe",
-          "word": "privately",
-          "meaning": "in private",
-          "register": "colloquial",
-          "note": "This is the usual colloquial choice for doing or saying something in private; it is the all-purpose one."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "We privately agreed it first and only announced it on stage.",
-          "traditional": "我哋私底下傾好咗先，出場先宣布。",
-          "jyutping": "ngo5 dei6 si1 dai2 haa6 king1 hou2 zo2 sin1 ceot1 coeng4 sin1 syun1 bou3"
-        }
-      ]
+      "english": "We privately agreed it first and only announced it on stage.",
+      "traditional": "我哋私底下傾好咗先，出場先宣布。",
+      "jyutping": "ngo5 dei6 si1 dai2 haa6 king1 hou2 zo2 sin1 ceot1 coeng4 sin1 syun1 bou3"
     }
   ]
 }

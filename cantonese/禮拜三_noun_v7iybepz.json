@@ -1,28 +1,24 @@
 {
   "id": "v7iybepz",
   "partOfSpeech": "noun",
+  "meaning": "day of the week",
+  "english": [
+    {
+      "id": "ums980hr",
+      "word": "Wednesday",
+      "meaning": "day of the week",
+      "register": "colloquial",
+      "note": "Use this common colloquial alternative to 星期三 in everyday conversation."
+    }
+  ],
   "traditional": "禮拜三",
   "jyutping": "lai5 baai3 saam1",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "day of the week",
-      "english": [
-        {
-          "id": "ums980hr",
-          "word": "Wednesday",
-          "meaning": "day of the week",
-          "register": "colloquial",
-          "note": "Use this common colloquial alternative to 星期三 in everyday conversation."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "Let's have lunch together on Wednesday.",
-          "traditional": "禮拜三得閒一齊食飯啦。",
-          "jyutping": "lai5 baai3 saam1 dak1 haan4 jat1 cai4 sik6 faan6 laa1"
-        }
-      ]
+      "english": "Let's have lunch together on Wednesday.",
+      "traditional": "禮拜三得閒一齊食飯啦。",
+      "jyutping": "lai5 baai3 saam1 dak1 haan4 jat1 cai4 sik6 faan6 laa1"
     }
   ]
 }

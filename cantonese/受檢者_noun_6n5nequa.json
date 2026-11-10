@@ -1,28 +1,24 @@
 {
   "id": "6n5nequa",
   "partOfSpeech": "noun",
+  "meaning": "patient being examined",
+  "english": [
+    {
+      "id": "8esq6e6g",
+      "word": "examinee",
+      "meaning": "patient being examined",
+      "register": "formal",
+      "note": "Use this formal term when referring precisely to the person undergoing a medical or other examination."
+    }
+  ],
   "traditional": "受檢者",
   "jyutping": "sau6 gim2 ze2",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "patient being examined",
-      "english": [
-        {
-          "id": "8esq6e6g",
-          "word": "examinee",
-          "meaning": "patient being examined",
-          "register": "formal",
-          "note": "Use this formal term when referring precisely to the person undergoing a medical or other examination."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The report clearly records the examinee's physical condition.",
-          "traditional": "份報告列明受檢者嘅身體狀況。",
-          "jyutping": "fan6 bou3 gou3 lit6 ming4 sau6 gim2 ze2 ge3 san1 tai2 zong6 fong3"
-        }
-      ]
+      "english": "The report clearly records the examinee's physical condition.",
+      "traditional": "份報告列明受檢者嘅身體狀況。",
+      "jyutping": "fan6 bou3 gou3 lit6 ming4 sau6 gim2 ze2 ge3 san1 tai2 zong6 fong3"
     }
   ]
 }

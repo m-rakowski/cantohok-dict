@@ -1,40 +1,36 @@
 {
   "id": "tntkyn7e",
   "partOfSpeech": "adj",
+  "meaning": "currently in force",
+  "english": [
+    {
+      "id": "mkf4jcuh",
+      "word": "active",
+      "meaning": "in operation",
+      "register": "written",
+      "note": "Use this mainly for a law, rule, or system that is currently in force rather than merely proposed or obsolete."
+    },
+    {
+      "id": "0g0m1tnw",
+      "word": "current",
+      "meaning": "current; in circulation",
+      "register": "written",
+      "note": "Pick this for a rule, policy, or system that is currently in force."
+    }
+  ],
   "traditional": "現行",
   "jyutping": "jin6 hang4",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "currently in force",
-      "english": [
-        {
-          "id": "mkf4jcuh",
-          "word": "active",
-          "meaning": "in operation",
-          "register": "written",
-          "note": "Use this mainly for a law, rule, or system that is currently in force rather than merely proposed or obsolete."
-        },
-        {
-          "id": "0g0m1tnw",
-          "word": "current",
-          "meaning": "current; in circulation",
-          "register": "written",
-          "note": "Pick this for a rule, policy, or system that is currently in force."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "This law is currently active, not just a proposal.",
-          "traditional": "呢條係現行法例，唔係新建議。",
-          "jyutping": "ni1 tiu4 hai6 jin6 hang4 faat3 lai6 m4 hai6 san1 gin3 ji5"
-        },
-        {
-          "english": "The current regulations ban smoking indoors.",
-          "traditional": "現行條例禁止室內吸煙。",
-          "jyutping": "jin6 hang4 tiu4 lai6 gam3 zi2 sat1 noi6 kap1 jin1"
-        }
-      ]
+      "english": "This law is currently active, not just a proposal.",
+      "traditional": "呢條係現行法例，唔係新建議。",
+      "jyutping": "ni1 tiu4 hai6 jin6 hang4 faat3 lai6 m4 hai6 san1 gin3 ji5"
+    },
+    {
+      "english": "The current regulations ban smoking indoors.",
+      "traditional": "現行條例禁止室內吸煙。",
+      "jyutping": "jin6 hang4 tiu4 lai6 gam3 zi2 sat1 noi6 kap1 jin1"
     }
   ]
 }

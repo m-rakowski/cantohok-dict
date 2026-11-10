@@ -1,28 +1,24 @@
 {
   "id": "ub3ek72f",
   "partOfSpeech": "noun",
+  "meaning": "police inspector",
+  "english": [
+    {
+      "id": "9rnywb80",
+      "word": "inspector",
+      "meaning": "police inspector",
+      "register": "colloquial",
+      "note": "Use this colloquial or older term when referring to a police inspector rather than a general inspector."
+    }
+  ],
   "traditional": "幫辦",
   "jyutping": "bong1 baan2",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "police inspector",
-      "english": [
-        {
-          "id": "9rnywb80",
-          "word": "inspector",
-          "meaning": "police inspector",
-          "register": "colloquial",
-          "note": "Use this colloquial or older term when referring to a police inspector rather than a general inspector."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "The inspector used to patrol around here all the time.",
-          "traditional": "幫辦以前成日喺呢頭巡邏。",
-          "jyutping": "bong1 baan2 ji5 cin4 seng4 jat6 hai2 ni1 tau4 ceon4 lo4"
-        }
-      ]
+      "english": "The inspector used to patrol around here all the time.",
+      "traditional": "幫辦以前成日喺呢頭巡邏。",
+      "jyutping": "bong1 baan2 ji5 cin4 seng4 jat6 hai2 ni1 tau4 ceon4 lo4"
     }
   ]
 }

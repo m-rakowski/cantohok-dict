@@ -1,28 +1,24 @@
 {
   "id": "gyy9lnux",
   "partOfSpeech": "adj",
+  "meaning": "test result positive",
+  "english": [
+    {
+      "id": "4fl1e8wg",
+      "word": "positive",
+      "meaning": "test result positive",
+      "register": "formal",
+      "note": "Use this technical term for a test result or reaction showing the feature being tested for is present, not for general favorable results."
+    }
+  ],
   "traditional": "陽性",
   "jyutping": "joeng4 sing3",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "test result positive",
-      "english": [
-        {
-          "id": "4fl1e8wg",
-          "word": "positive",
-          "meaning": "test result positive",
-          "register": "formal",
-          "note": "Use this technical term for a test result or reaction showing the feature being tested for is present, not for general favorable results."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The pregnancy test result is positive.",
-          "traditional": "驗孕結果呈陽性。",
-          "jyutping": "jim6 jan6 git3 gwo2 cing4 joeng4 sing3"
-        }
-      ]
+      "english": "The pregnancy test result is positive.",
+      "traditional": "驗孕結果呈陽性。",
+      "jyutping": "jim6 jan6 git3 gwo2 cing4 joeng4 sing3"
     }
   ]
 }

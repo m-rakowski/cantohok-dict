@@ -1,26 +1,22 @@
 {
   "id": "73d5lbk6",
   "partOfSpeech": "prep",
+  "meaning": "in a language or key",
+  "english": [
+    {
+      "id": "gsws4b8l",
+      "word": "in",
+      "meaning": "in a language or key",
+      "note": "Use this to specify the language, script, tone, or musical key being used."
+    }
+  ],
   "traditional": "用 N",
   "jyutping": "jung6 N",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "in a language or key",
-      "english": [
-        {
-          "id": "gsws4b8l",
-          "word": "in",
-          "meaning": "in a language or key",
-          "note": "Use this to specify the language, script, tone, or musical key being used."
-        }
-      ],
-      "examples": [
-        {
-          "english": "We chat in Cantonese in everyday life.",
-          "traditional": "我哋平時用廣東話傾偈。",
-          "jyutping": "ngo5 dei6 ping4 si4 jung6 gwong2 dung1 waa2 king1 gai2"
-        }
-      ]
+      "english": "We chat in Cantonese in everyday life.",
+      "traditional": "我哋平時用廣東話傾偈。",
+      "jyutping": "ngo5 dei6 ping4 si4 jung6 gwong2 dung1 waa2 king1 gai2"
     }
   ]
 }

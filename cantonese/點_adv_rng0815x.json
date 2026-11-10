@@ -1,28 +1,24 @@
 {
   "id": "rng0815x",
   "partOfSpeech": "adv",
+  "meaning": "in what state",
+  "english": [
+    {
+      "id": "ql0awfnq",
+      "word": "how",
+      "meaning": "in what state",
+      "register": "colloquial",
+      "note": "Use 點 in casual questions about someone's state or condition, as in 你點呀？."
+    }
+  ],
   "traditional": "點",
   "jyutping": "dim2",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "in what state",
-      "english": [
-        {
-          "id": "ql0awfnq",
-          "word": "how",
-          "meaning": "in what state",
-          "register": "colloquial",
-          "note": "Use 點 in casual questions about someone's state or condition, as in 你點呀？."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "How are you feeling today?",
-          "traditional": "你今日點呀？",
-          "jyutping": "nei5 gam1 jat6 dim2 aa3"
-        }
-      ]
+      "english": "How are you feeling today?",
+      "traditional": "你今日點呀？",
+      "jyutping": "nei5 gam1 jat6 dim2 aa3"
     }
   ]
 }

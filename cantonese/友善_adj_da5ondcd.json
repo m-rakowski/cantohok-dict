@@ -1,48 +1,44 @@
 {
   "id": "da5ondcd",
   "partOfSpeech": "adj",
+  "meaning": "friendly, kind",
+  "english": [
+    {
+      "id": "9kwlnkyb",
+      "word": "friendly",
+      "meaning": "warm and approachable",
+      "note": "This is the all-purpose choice for a person’s warm character or a friendly manner, such as a smile."
+    },
+    {
+      "id": "tvxf867c",
+      "word": "kind",
+      "meaning": "kind; kind-hearted",
+      "note": "Use this for the friendly, approachable side of being kind."
+    },
+    {
+      "id": "9wjofvn5",
+      "word": "nice",
+      "meaning": "friendly, kind person",
+      "note": "Choose this when “nice” specifically describes someone as friendly and well-disposed toward others."
+    }
+  ],
   "traditional": "友善",
   "jyutping": "jau5 sin6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "friendly, kind",
-      "english": [
-        {
-          "id": "9kwlnkyb",
-          "word": "friendly",
-          "meaning": "warm and approachable",
-          "note": "This is the all-purpose choice for a person’s warm character or a friendly manner, such as a smile."
-        },
-        {
-          "id": "tvxf867c",
-          "word": "kind",
-          "meaning": "kind; kind-hearted",
-          "note": "Use this for the friendly, approachable side of being kind."
-        },
-        {
-          "id": "9wjofvn5",
-          "word": "nice",
-          "meaning": "friendly, kind person",
-          "note": "Choose this when “nice” specifically describes someone as friendly and well-disposed toward others."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Their smile is very friendly.",
-          "traditional": "佢個笑容好友善。",
-          "jyutping": "keoi5 go3 siu3 jung4 hou2 jau5 sin6"
-        },
-        {
-          "english": "They’re very kind to the neighbors.",
-          "traditional": "佢對街坊好友善。",
-          "jyutping": "keoi5 deoi3 gaai1 fong1 hou2 jau5 sin6"
-        },
-        {
-          "english": "The new neighbour is very nice to people.",
-          "traditional": "新鄰居對人好友善。",
-          "jyutping": "san1 leon4 geoi1 deoi3 jan4 hou2 jau5 sin6"
-        }
-      ]
+      "english": "Their smile is very friendly.",
+      "traditional": "佢個笑容好友善。",
+      "jyutping": "keoi5 go3 siu3 jung4 hou2 jau5 sin6"
+    },
+    {
+      "english": "They’re very kind to the neighbors.",
+      "traditional": "佢對街坊好友善。",
+      "jyutping": "keoi5 deoi3 gaai1 fong1 hou2 jau5 sin6"
+    },
+    {
+      "english": "The new neighbour is very nice to people.",
+      "traditional": "新鄰居對人好友善。",
+      "jyutping": "san1 leon4 geoi1 deoi3 jan4 hou2 jau5 sin6"
     }
   ]
 }

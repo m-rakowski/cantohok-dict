@@ -1,70 +1,66 @@
 {
   "id": "yd00n8xp",
   "partOfSpeech": "verb",
+  "meaning": "shake, vibrate, tremble",
+  "english": [
+    {
+      "id": "t2p80clj",
+      "word": "vibrate",
+      "meaning": "move rapidly to and fro",
+      "note": "This is the all-purpose choice for something physically shaking with rapid small movements."
+    },
+    {
+      "id": "9dz7x3dm",
+      "word": "quiver",
+      "meaning": "tremble, shake",
+      "note": "This is the all-purpose colloquial choice for a hand, limb, object, or other thing moving with a slight tremor."
+    },
+    {
+      "id": "cv0fi4y0",
+      "word": "tremble",
+      "meaning": "shake; quiver",
+      "note": "Use this mainly when an object or surface is shaking or vibrating, rather than a person visibly quivering."
+    },
+    {
+      "id": "3nqyuv0y",
+      "word": "bump",
+      "meaning": "move with jolting motion",
+      "note": "Use 震 for a vehicle or object that jolts along a rough surface rather than hitting another object."
+    },
+    {
+      "id": "ftgk087a",
+      "word": "resonate",
+      "meaning": "vibrate or sound in response",
+      "note": "Use this for a physical object vibrating or making a sound in response to another sound or vibration."
+    }
+  ],
   "traditional": "震",
   "jyutping": "zan3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "shake, vibrate, tremble",
-      "english": [
-        {
-          "id": "t2p80clj",
-          "word": "vibrate",
-          "meaning": "move rapidly to and fro",
-          "note": "This is the all-purpose choice for something physically shaking with rapid small movements."
-        },
-        {
-          "id": "9dz7x3dm",
-          "word": "quiver",
-          "meaning": "tremble, shake",
-          "note": "This is the all-purpose colloquial choice for a hand, limb, object, or other thing moving with a slight tremor."
-        },
-        {
-          "id": "cv0fi4y0",
-          "word": "tremble",
-          "meaning": "shake; quiver",
-          "note": "Use this mainly when an object or surface is shaking or vibrating, rather than a person visibly quivering."
-        },
-        {
-          "id": "3nqyuv0y",
-          "word": "bump",
-          "meaning": "move with jolting motion",
-          "note": "Use 震 for a vehicle or object that jolts along a rough surface rather than hitting another object."
-        },
-        {
-          "id": "ftgk087a",
-          "word": "resonate",
-          "meaning": "vibrate or sound in response",
-          "note": "Use this for a physical object vibrating or making a sound in response to another sound or vibration."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I can feel my phone vibrate under the pillow.",
-          "traditional": "我隔住個枕頭都感覺到部手機震。",
-          "jyutping": "ngo5 gaak3 zyu6 go3 zam2 tau4 dou1 gam2 gok3 dou3 bou6 sau2 gei1 zan3"
-        },
-        {
-          "english": "I felt my hand quiver and couldn't hold the glass steady.",
-          "traditional": "我隻手震，拎唔穩杯水。",
-          "jyutping": "ngo5 zek3 sau2 zan3 ling1 m4 wan2 bui1 seoi2"
-        },
-        {
-          "english": "The shaking table makes me tremble, so don't move it.",
-          "traditional": "張枱震緊，唔好郁住。",
-          "jyutping": "zoeng1 toi2 zan3 gan2 m4 hou2 juk1 zyu6"
-        },
-        {
-          "english": "The car continued to bump along the rough road.",
-          "traditional": "架車喺爛路度一路震。",
-          "jyutping": "gaa3 ce1 hai2 laan6 lou6 dou6 jat1 lou6 zan3"
-        },
-        {
-          "english": "The table starts to resonate when the tuning fork rings.",
-          "traditional": "音叉一響，張枱都震埋。",
-          "jyutping": "jam1 caa1 jat1 hoeng2 zoeng1 ci4 dou1 zan3 maai4"
-        }
-      ]
+      "english": "I can feel my phone vibrate under the pillow.",
+      "traditional": "我隔住個枕頭都感覺到部手機震。",
+      "jyutping": "ngo5 gaak3 zyu6 go3 zam2 tau4 dou1 gam2 gok3 dou3 bou6 sau2 gei1 zan3"
+    },
+    {
+      "english": "I felt my hand quiver and couldn't hold the glass steady.",
+      "traditional": "我隻手震，拎唔穩杯水。",
+      "jyutping": "ngo5 zek3 sau2 zan3 ling1 m4 wan2 bui1 seoi2"
+    },
+    {
+      "english": "The shaking table makes me tremble, so don't move it.",
+      "traditional": "張枱震緊，唔好郁住。",
+      "jyutping": "zoeng1 toi2 zan3 gan2 m4 hou2 juk1 zyu6"
+    },
+    {
+      "english": "The car continued to bump along the rough road.",
+      "traditional": "架車喺爛路度一路震。",
+      "jyutping": "gaa3 ce1 hai2 laan6 lou6 dou6 jat1 lou6 zan3"
+    },
+    {
+      "english": "The table starts to resonate when the tuning fork rings.",
+      "traditional": "音叉一響，張枱都震埋。",
+      "jyutping": "jam1 caa1 jat1 hoeng2 zoeng1 ci4 dou1 zan3 maai4"
     }
   ]
 }

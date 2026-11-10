@@ -1,26 +1,22 @@
 {
   "id": "b0cts9at",
   "partOfSpeech": "noun",
+  "meaning": "buyer / client",
+  "english": [
+    {
+      "id": "gxt3sikt",
+      "word": "customer",
+      "meaning": "buyer / client",
+      "note": "This is the all-purpose colloquial choice for a customer or client."
+    }
+  ],
   "traditional": "客",
   "jyutping": "haak3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "buyer / client",
-      "english": [
-        {
-          "id": "gxt3sikt",
-          "word": "customer",
-          "meaning": "buyer / client",
-          "note": "This is the all-purpose colloquial choice for a customer or client."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This customer shops with us all the time.",
-          "traditional": "呢個客成日幫襯我哋。",
-          "jyutping": "ni1 go3 haak3 sing4 jat6 bong1 can3 ngo5 dei6"
-        }
-      ]
+      "english": "This customer shops with us all the time.",
+      "traditional": "呢個客成日幫襯我哋。",
+      "jyutping": "ni1 go3 haak3 sing4 jat6 bong1 can3 ngo5 dei6"
     }
   ]
 }

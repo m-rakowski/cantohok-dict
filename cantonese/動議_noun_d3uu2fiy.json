@@ -1,28 +1,24 @@
 {
   "id": "d3uu2fiy",
   "partOfSpeech": "noun",
+  "meaning": "proposal at meeting",
+  "english": [
+    {
+      "id": "yoyb584m",
+      "word": "motion",
+      "meaning": "proposal at meeting",
+      "register": "formal",
+      "note": "Use this for a proposal formally put before a meeting for discussion or decision."
+    }
+  ],
   "traditional": "動議",
   "jyutping": "dung6 ji5",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "proposal at meeting",
-      "english": [
-        {
-          "id": "yoyb584m",
-          "word": "motion",
-          "meaning": "proposal at meeting",
-          "register": "formal",
-          "note": "Use this for a proposal formally put before a meeting for discussion or decision."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The chair put forward a motion to postpone the vote.",
-          "traditional": "主席提出咗一項動議，要求延後表決。",
-          "jyutping": "zyu2 zik6 tai4 ceot1 zo2 jat1 hong6 dung6 ji5 jiu1 kau4 jin4 hau6 biu2 kyut3"
-        }
-      ]
+      "english": "The chair put forward a motion to postpone the vote.",
+      "traditional": "主席提出咗一項動議，要求延後表決。",
+      "jyutping": "zyu2 zik6 tai4 ceot1 zo2 jat1 hong6 dung6 ji5 jiu1 kau4 jin4 hau6 biu2 kyut3"
     }
   ]
 }

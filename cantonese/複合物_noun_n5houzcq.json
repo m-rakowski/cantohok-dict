@@ -1,28 +1,24 @@
 {
   "id": "n5houzcq",
   "partOfSpeech": "noun",
+  "meaning": "thing made by combining",
+  "english": [
+    {
+      "id": "tt6nj2gj",
+      "word": "compound",
+      "meaning": "thing made by combining",
+      "register": "technical",
+      "note": "Use this as the general choice for a composite thing made from several components, outside the specifically chemical sense."
+    }
+  ],
   "traditional": "複合物",
   "jyutping": "fuk1 hap6 mat6",
-  "boxes": [
+  "register": "technical",
+  "examples": [
     {
-      "meaning": "thing made by combining",
-      "english": [
-        {
-          "id": "tt6nj2gj",
-          "word": "compound",
-          "meaning": "thing made by combining",
-          "register": "technical",
-          "note": "Use this as the general choice for a composite thing made from several components, outside the specifically chemical sense."
-        }
-      ],
-      "register": "technical",
-      "examples": [
-        {
-          "english": "This compound is made from several materials.",
-          "traditional": "呢件複合物係由幾種材料整成嘅。",
-          "jyutping": "ni1 gin6 fuk1 hap6 mat6 hai6 jau4 gei2 zung2 coi4 liu6 zing2 sing4 ge3"
-        }
-      ]
+      "english": "This compound is made from several materials.",
+      "traditional": "呢件複合物係由幾種材料整成嘅。",
+      "jyutping": "ni1 gin6 fuk1 hap6 mat6 hai6 jau4 gei2 zung2 coi4 liu6 zing2 sing4 ge3"
     }
   ]
 }

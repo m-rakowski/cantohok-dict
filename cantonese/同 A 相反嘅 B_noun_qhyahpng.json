@@ -1,26 +1,22 @@
 {
   "id": "qhyahpng",
   "partOfSpeech": "noun",
+  "meaning": "opposite thing/person",
+  "english": [
+    {
+      "id": "flexx6tk",
+      "word": "opposite",
+      "meaning": "opposite thing/person",
+      "note": "This is the all-purpose pattern for a person or thing that is substantively different from A."
+    }
+  ],
   "traditional": "同 A 相反嘅 B",
   "jyutping": "tung4 A soeng1 faan2 ge3 B",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "opposite thing/person",
-      "english": [
-        {
-          "id": "flexx6tk",
-          "word": "opposite",
-          "meaning": "opposite thing/person",
-          "note": "This is the all-purpose pattern for a person or thing that is substantively different from A."
-        }
-      ],
-      "examples": [
-        {
-          "english": "He is the opposite of me.",
-          "traditional": "佢係同我相反嘅人。",
-          "jyutping": "keoi5 hai6 tung4 ngo5 soeng1 faan2 ge3 jan4"
-        }
-      ]
+      "english": "He is the opposite of me.",
+      "traditional": "佢係同我相反嘅人。",
+      "jyutping": "keoi5 hai6 tung4 ngo5 soeng1 faan2 ge3 jan4"
     }
   ]
 }

@@ -1,37 +1,33 @@
 {
   "id": "ge49z9qt",
   "partOfSpeech": "adv",
+  "meaning": "only, just",
+  "english": [
+    {
+      "id": "c35jc4io",
+      "word": "merely",
+      "meaning": "only; just",
+      "note": "Use this when merely limits or softens an action, opinion, or situation rather than stressing strict numerical exclusivity."
+    },
+    {
+      "id": "nyvsi4wa",
+      "word": "literally",
+      "meaning": "just, merely",
+      "note": "Use this when “literally” means merely or just, especially to downplay how simple an action is."
+    }
+  ],
   "traditional": "只係",
   "jyutping": "zi2 hai6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "only, just",
-      "english": [
-        {
-          "id": "c35jc4io",
-          "word": "merely",
-          "meaning": "only; just",
-          "note": "Use this when merely limits or softens an action, opinion, or situation rather than stressing strict numerical exclusivity."
-        },
-        {
-          "id": "nyvsi4wa",
-          "word": "literally",
-          "meaning": "just, merely",
-          "note": "Use this when “literally” means merely or just, especially to downplay how simple an action is."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I was merely asking; you don't have to get so angry.",
-          "traditional": "我只係問吓啫，你唔使咁嬲。",
-          "jyutping": "ngo5 zi2 hai6 man6 haa5 ze1 nei5 m4 sai2 gam3 nau1"
-        },
-        {
-          "english": "I literally just asked, that’s all.",
-          "traditional": "我只係問吓啫。",
-          "jyutping": "ngo5 zi2 hai6 man6 haa5 ze1"
-        }
-      ]
+      "english": "I was merely asking; you don't have to get so angry.",
+      "traditional": "我只係問吓啫，你唔使咁嬲。",
+      "jyutping": "ngo5 zi2 hai6 man6 haa5 ze1 nei5 m4 sai2 gam3 nau1"
+    },
+    {
+      "english": "I literally just asked, that’s all.",
+      "traditional": "我只係問吓啫。",
+      "jyutping": "ngo5 zi2 hai6 man6 haa5 ze1"
     }
   ]
 }

@@ -1,28 +1,24 @@
 {
   "id": "kpn0b0nz",
   "partOfSpeech": "noun",
+  "meaning": "animal (bird)",
+  "english": [
+    {
+      "id": "u501dkh4",
+      "word": "bird",
+      "meaning": "animal (bird)",
+      "register": "colloquial",
+      "note": "This is the all-purpose colloquial word for a bird or birds in general."
+    }
+  ],
   "traditional": "雀仔",
   "jyutping": "zoek3 zai2",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "animal (bird)",
-      "english": [
-        {
-          "id": "u501dkh4",
-          "word": "bird",
-          "meaning": "animal (bird)",
-          "register": "colloquial",
-          "note": "This is the all-purpose colloquial word for a bird or birds in general."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "This bird sings by the window every day.",
-          "traditional": "呢隻雀仔成日喺窗邊唱歌。",
-          "jyutping": "ni1 zek3 zoek3 zai2 seng4 jat6 hai2 coeng1 bin1 coeng3 go1"
-        }
-      ]
+      "english": "This bird sings by the window every day.",
+      "traditional": "呢隻雀仔成日喺窗邊唱歌。",
+      "jyutping": "ni1 zek3 zoek3 zai2 seng4 jat6 hai2 coeng1 bin1 coeng3 go1"
     }
   ]
 }

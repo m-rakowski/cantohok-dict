@@ -1,30 +1,26 @@
 {
   "id": "llicqa6t",
   "partOfSpeech": "noun",
+  "meaning": "barbecue meat",
+  "english": [
+    {
+      "id": "oltfk719",
+      "word": "barbecue",
+      "meaning": "barbecue meat",
+      "note": "In Hong Kong food-shop usage, this means prepared roasted or barbecued meat rather than the outdoor event."
+    },
+    {
+      "word": "siu mei",
+      "meaning": "Cantonese roast meats"
+    }
+  ],
   "traditional": "燒味",
   "jyutping": "siu1 mei6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "barbecue meat",
-      "english": [
-        {
-          "id": "oltfk719",
-          "word": "barbecue",
-          "meaning": "barbecue meat",
-          "note": "In Hong Kong food-shop usage, this means prepared roasted or barbecued meat rather than the outdoor event."
-        },
-        {
-          "word": "siu mei",
-          "meaning": "Cantonese roast meats"
-        }
-      ],
-      "examples": [
-        {
-          "english": "Two pounds of barbecue, please.",
-          "traditional": "斬兩斤燒味，唔該。",
-          "jyutping": "zaam2 loeng5 gan1 siu1 mei6 m4 goi1"
-        }
-      ]
+      "english": "Two pounds of barbecue, please.",
+      "traditional": "斬兩斤燒味，唔該。",
+      "jyutping": "zaam2 loeng5 gan1 siu1 mei6 m4 goi1"
     }
   ]
 }

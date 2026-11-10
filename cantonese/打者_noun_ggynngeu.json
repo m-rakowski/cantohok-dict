@@ -1,26 +1,22 @@
 {
   "id": "ggynngeu",
   "partOfSpeech": "noun",
+  "meaning": "baseball hitter",
+  "english": [
+    {
+      "id": "welfriw4",
+      "word": "batter",
+      "meaning": "baseball hitter",
+      "note": "Use this for the baseball player currently facing the pitcher and trying to hit the ball."
+    }
+  ],
   "traditional": "打者",
   "jyutping": "daa2 ze2",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "baseball hitter",
-      "english": [
-        {
-          "id": "welfriw4",
-          "word": "batter",
-          "meaning": "baseball hitter",
-          "note": "Use this for the baseball player currently facing the pitcher and trying to hit the ball."
-        }
-      ],
-      "examples": [
-        {
-          "english": "It was the batter's turn to step up, and the whole team cheered.",
-          "traditional": "輪到打者入場，成隊人都大聲打氣。",
-          "jyutping": "leon4 dou3 daa2 ze2 jap6 coeng4 sing4 deoi6 jan4 dou1 daai6 seng1 daa2 hei3"
-        }
-      ]
+      "english": "It was the batter's turn to step up, and the whole team cheered.",
+      "traditional": "輪到打者入場，成隊人都大聲打氣。",
+      "jyutping": "leon4 dou3 daa2 ze2 jap6 coeng4 sing4 deoi6 jan4 dou1 daai6 seng1 daa2 hei3"
     }
   ]
 }

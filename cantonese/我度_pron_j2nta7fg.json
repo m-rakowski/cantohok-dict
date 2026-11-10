@@ -1,28 +1,24 @@
 {
   "id": "j2nta7fg",
   "partOfSpeech": "pron",
+  "meaning": "my place, informal",
+  "english": [
+    {
+      "id": "u37es9rg",
+      "word": "mine",
+      "meaning": "my place, informal",
+      "register": "colloquial",
+      "note": "Use this colloquial form specifically for “my place” or “my home,” especially in location expressions such as 喺我度."
+    }
+  ],
   "traditional": "我度",
   "jyutping": "ngo5 dou6",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "my place, informal",
-      "english": [
-        {
-          "id": "u37es9rg",
-          "word": "mine",
-          "meaning": "my place, informal",
-          "register": "colloquial",
-          "note": "Use this colloquial form specifically for “my place” or “my home,” especially in location expressions such as 喺我度."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "Come to mine for dinner tonight.",
-          "traditional": "你今晚嚟我度食飯啦。",
-          "jyutping": "nei5 gam1 maan5 lai4 ngo5 dou6 sik6 faan6 laa1"
-        }
-      ]
+      "english": "Come to mine for dinner tonight.",
+      "traditional": "你今晚嚟我度食飯啦。",
+      "jyutping": "nei5 gam1 maan5 lai4 ngo5 dou6 sik6 faan6 laa1"
     }
   ]
 }

@@ -1,40 +1,36 @@
 {
   "id": "z8u1ihip",
   "partOfSpeech": "noun",
+  "meaning": "body tremor",
+  "english": [
+    {
+      "id": "ph6xo4sq",
+      "word": "tremor",
+      "meaning": "medical shaking",
+      "register": "formal",
+      "note": "Use this for a medical tremor affecting the body, especially in formal or clinical contexts."
+    },
+    {
+      "id": "ieykqyq3",
+      "word": "shake",
+      "meaning": "tremor; spasm",
+      "register": "formal",
+      "note": "Use this for an involuntary tremor or spasm, especially in medical or descriptive contexts."
+    }
+  ],
   "traditional": "震顫",
   "jyutping": "zan3 zin3",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "body tremor",
-      "english": [
-        {
-          "id": "ph6xo4sq",
-          "word": "tremor",
-          "meaning": "medical shaking",
-          "register": "formal",
-          "note": "Use this for a medical tremor affecting the body, especially in formal or clinical contexts."
-        },
-        {
-          "id": "ieykqyq3",
-          "word": "shake",
-          "meaning": "tremor; spasm",
-          "register": "formal",
-          "note": "Use this for an involuntary tremor or spasm, especially in medical or descriptive contexts."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The doctor said this tremor was caused by medication.",
-          "traditional": "醫生話呢種震顫係藥物引起嘅。",
-          "jyutping": "ji1 sang1 waa6 ni1 zung2 zan3 zin3 hai6 joek6 mat6 jan5 hei2 ge3"
-        },
-        {
-          "english": "The patient's hand shows a tremor and starts to shake.",
-          "traditional": "病人隻手出現震顫，開始不停咁郁。",
-          "jyutping": "beng6 jan4 zek3 sau2 ceot1 jin6 zan3 zin3 hoi1 ci2 bat1 ting4 gam3 juk1"
-        }
-      ]
+      "english": "The doctor said this tremor was caused by medication.",
+      "traditional": "醫生話呢種震顫係藥物引起嘅。",
+      "jyutping": "ji1 sang1 waa6 ni1 zung2 zan3 zin3 hai6 joek6 mat6 jan5 hei2 ge3"
+    },
+    {
+      "english": "The patient's hand shows a tremor and starts to shake.",
+      "traditional": "病人隻手出現震顫，開始不停咁郁。",
+      "jyutping": "beng6 jan4 zek3 sau2 ceot1 jin6 zan3 zin3 hoi1 ci2 bat1 ting4 gam3 juk1"
     }
   ]
 }

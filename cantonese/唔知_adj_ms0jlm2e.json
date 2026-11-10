@@ -1,37 +1,33 @@
 {
   "id": "ms0jlm2e",
   "partOfSpeech": "adj",
+  "meaning": "don't know, unaware",
+  "english": [
+    {
+      "id": "xqmbubrr",
+      "word": "ignorant",
+      "meaning": "unaware, not knowing",
+      "note": "Use this as the everyday all-purpose choice when someone is unaware of a fact or situation."
+    },
+    {
+      "id": "mdxty43a",
+      "word": "unaware",
+      "meaning": "not knowing",
+      "note": "Use 唔知 as the all-purpose everyday choice when someone lacks information or is unaware of a fact."
+    }
+  ],
   "traditional": "唔知",
   "jyutping": "m4 zi1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "don't know, unaware",
-      "english": [
-        {
-          "id": "xqmbubrr",
-          "word": "ignorant",
-          "meaning": "unaware, not knowing",
-          "note": "Use this as the everyday all-purpose choice when someone is unaware of a fact or situation."
-        },
-        {
-          "id": "mdxty43a",
-          "word": "unaware",
-          "meaning": "not knowing",
-          "note": "Use 唔知 as the all-purpose everyday choice when someone lacks information or is unaware of a fact."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I am ignorant of whether he took leave today.",
-          "traditional": "我唔知佢今日請咗假。",
-          "jyutping": "ngo5 m4 zi1 keoi5 gam1 jat6 ceng2 zo2 gaa2"
-        },
-        {
-          "english": "I was unaware that he took today off.",
-          "traditional": "我唔知佢今日請咗假。",
-          "jyutping": "ngo5 m4 zi1 keoi5 gam1 jat6 ceng2 zo2 gaa2"
-        }
-      ]
+      "english": "I am ignorant of whether he took leave today.",
+      "traditional": "我唔知佢今日請咗假。",
+      "jyutping": "ngo5 m4 zi1 keoi5 gam1 jat6 ceng2 zo2 gaa2"
+    },
+    {
+      "english": "I was unaware that he took today off.",
+      "traditional": "我唔知佢今日請咗假。",
+      "jyutping": "ngo5 m4 zi1 keoi5 gam1 jat6 ceng2 zo2 gaa2"
     }
   ]
 }

@@ -1,37 +1,33 @@
 {
   "id": "aumfn2kk",
   "partOfSpeech": "noun",
+  "meaning": "spokesperson",
+  "english": [
+    {
+      "id": "zgek2qt2",
+      "word": "spokesman",
+      "meaning": "person speaking for group",
+      "note": "Use this as the all-purpose term for an official or designated person who speaks for another person or a group."
+    },
+    {
+      "id": "v2xf30l9",
+      "word": "spokeswoman",
+      "meaning": "female spokesperson",
+      "note": "Use this gender-neutral form when the speaker's being a woman is already clear from context."
+    }
+  ],
   "traditional": "發言人",
   "jyutping": "faat3 jin4 jan4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "spokesperson",
-      "english": [
-        {
-          "id": "zgek2qt2",
-          "word": "spokesman",
-          "meaning": "person speaking for group",
-          "note": "Use this as the all-purpose term for an official or designated person who speaks for another person or a group."
-        },
-        {
-          "id": "v2xf30l9",
-          "word": "spokeswoman",
-          "meaning": "female spokesperson",
-          "note": "Use this gender-neutral form when the speaker's being a woman is already clear from context."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The company's spokesman explained the incident at the press conference.",
-          "traditional": "公司嘅發言人喺記者會上即場交代事件。",
-          "jyutping": "gung1 si1 ge3 faat3 jin4 jan4 hai2 gei3 ze2 wui2 soeng6 zik1 coeng4 gaau1 doi6 si6 gin6"
-        },
-        {
-          "english": "That woman is the company's spokeswoman, and she handles media questions.",
-          "traditional": "嗰位女士係公司嘅發言人，專門回應傳媒提問。",
-          "jyutping": "go2 wai6 neoi5 si6 hai6 gung1 si1 ge3 faat3 jin4 jan4 zyun1 mun4 wui4 jing3 cyun4 mui4 tai4 man6"
-        }
-      ]
+      "english": "The company's spokesman explained the incident at the press conference.",
+      "traditional": "公司嘅發言人喺記者會上即場交代事件。",
+      "jyutping": "gung1 si1 ge3 faat3 jin4 jan4 hai2 gei3 ze2 wui2 soeng6 zik1 coeng4 gaau1 doi6 si6 gin6"
+    },
+    {
+      "english": "That woman is the company's spokeswoman, and she handles media questions.",
+      "traditional": "嗰位女士係公司嘅發言人，專門回應傳媒提問。",
+      "jyutping": "go2 wai6 neoi5 si6 hai6 gung1 si1 ge3 faat3 jin4 jan4 zyun1 mun4 wui4 jing3 cyun4 mui4 tai4 man6"
     }
   ]
 }

@@ -1,28 +1,24 @@
 {
   "id": "dtg2jkin",
   "partOfSpeech": "adj",
+  "meaning": "highly skilled",
+  "english": [
+    {
+      "id": "0bju0k29",
+      "word": "adept",
+      "meaning": "highly skilled",
+      "register": "written",
+      "note": "Use this for thorough mastery of a named subject, skill, language, or field, especially in more formal contexts."
+    }
+  ],
   "traditional": "精通",
   "jyutping": "zing1 tung1",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "highly skilled",
-      "english": [
-        {
-          "id": "0bju0k29",
-          "word": "adept",
-          "meaning": "highly skilled",
-          "register": "written",
-          "note": "Use this for thorough mastery of a named subject, skill, language, or field, especially in more formal contexts."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "They are adept in several foreign languages.",
-          "traditional": "佢精通幾種外語。",
-          "jyutping": "keoi5 zing1 tung1 gei2 zung2 ngoi6 jyu5"
-        }
-      ]
+      "english": "They are adept in several foreign languages.",
+      "traditional": "佢精通幾種外語。",
+      "jyutping": "keoi5 zing1 tung1 gei2 zung2 ngoi6 jyu5"
     }
   ]
 }

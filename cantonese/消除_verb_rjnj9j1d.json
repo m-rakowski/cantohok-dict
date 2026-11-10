@@ -1,28 +1,24 @@
 {
   "id": "rjnj9j1d",
   "partOfSpeech": "verb",
+  "meaning": "remove completely",
+  "english": [
+    {
+      "id": "tvrxx7gj",
+      "word": "eliminate",
+      "meaning": "remove completely",
+      "register": "formal",
+      "note": "This is the all-purpose choice for completely removing a problem, effect, or unwanted thing."
+    }
+  ],
   "traditional": "消除",
   "jyutping": "siu1 ceoi4",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "remove completely",
-      "english": [
-        {
-          "id": "tvrxx7gj",
-          "word": "eliminate",
-          "meaning": "remove completely",
-          "register": "formal",
-          "note": "This is the all-purpose choice for completely removing a problem, effect, or unwanted thing."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "This method can eliminate the noise.",
-          "traditional": "呢個方法可以消除噪音。",
-          "jyutping": "ni1 go3 fong1 faat3 ho2 ji5 siu1 ceoi4 cou3 jam1"
-        }
-      ]
+      "english": "This method can eliminate the noise.",
+      "traditional": "呢個方法可以消除噪音。",
+      "jyutping": "ni1 go3 fong1 faat3 ho2 ji5 siu1 ceoi4 cou3 jam1"
     }
   ]
 }

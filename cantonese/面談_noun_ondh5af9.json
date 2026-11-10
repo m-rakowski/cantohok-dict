@@ -1,28 +1,24 @@
 {
   "id": "ondh5af9",
   "partOfSpeech": "noun",
+  "meaning": "journalist interview",
+  "english": [
+    {
+      "id": "f1lrhej7",
+      "word": "interview",
+      "meaning": "journalist interview",
+      "register": "formal",
+      "note": "Use 面談 for a journalist interview framed specifically as a face-to-face discussion rather than the usual media term 訪問."
+    }
+  ],
   "traditional": "面談",
   "jyutping": "min6 taam4",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "journalist interview",
-      "english": [
-        {
-          "id": "f1lrhej7",
-          "word": "interview",
-          "meaning": "journalist interview",
-          "register": "formal",
-          "note": "Use 面談 for a journalist interview framed specifically as a face-to-face discussion rather than the usual media term 訪問."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The reporter had a formal face-to-face interview with the mayor.",
-          "traditional": "記者同市長正式面談。",
-          "jyutping": "gei3 ze2 tung4 si5 zoeng2 zing3 sik1 min6 taam4"
-        }
-      ]
+      "english": "The reporter had a formal face-to-face interview with the mayor.",
+      "traditional": "記者同市長正式面談。",
+      "jyutping": "gei3 ze2 tung4 si5 zoeng2 zing3 sik1 min6 taam4"
     }
   ]
 }

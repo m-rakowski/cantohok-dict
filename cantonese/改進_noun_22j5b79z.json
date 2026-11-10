@@ -1,38 +1,34 @@
 {
   "id": "22j5b79z",
   "partOfSpeech": "noun",
+  "meaning": "improvement",
+  "english": [
+    {
+      "id": "53y1lhwq",
+      "word": "elaboration",
+      "meaning": "improvement by refining",
+      "note": "Use this as the all-purpose noun for improvement through refining or successive work."
+    },
+    {
+      "id": "r5zgs5uo",
+      "word": "improvement",
+      "meaning": "an improvement",
+      "register": "formal",
+      "note": "Use this for a concrete improvement made to a product, design, system, or edition."
+    }
+  ],
   "traditional": "改進",
   "jyutping": "goi2 zeon3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "improvement",
-      "english": [
-        {
-          "id": "53y1lhwq",
-          "word": "elaboration",
-          "meaning": "improvement by refining",
-          "note": "Use this as the all-purpose noun for improvement through refining or successive work."
-        },
-        {
-          "id": "r5zgs5uo",
-          "word": "improvement",
-          "meaning": "an improvement",
-          "register": "formal",
-          "note": "Use this for a concrete improvement made to a product, design, system, or edition."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This textbook became much easier to understand after several rounds of elaboration.",
-          "traditional": "呢套教材經過幾次改進，終於易明好多。",
-          "jyutping": "ne1 tou3 gaau3 coi4 ging1 gwo3 gei2 ci3 goi2 zeon3 zung1 jyu1 ji6 ming4 hou2 do1"
-        },
-        {
-          "english": "This version is much more stable after the improvement.",
-          "traditional": "呢個版本經過改進，穩定咗好多。",
-          "jyutping": "ni1 go3 baan2 bun2 ging1 gwo3 goi2 zeon3 wan2 ding6 zo2 hou2 do1"
-        }
-      ]
+      "english": "This textbook became much easier to understand after several rounds of elaboration.",
+      "traditional": "呢套教材經過幾次改進，終於易明好多。",
+      "jyutping": "ne1 tou3 gaau3 coi4 ging1 gwo3 gei2 ci3 goi2 zeon3 zung1 jyu1 ji6 ming4 hou2 do1"
+    },
+    {
+      "english": "This version is much more stable after the improvement.",
+      "traditional": "呢個版本經過改進，穩定咗好多。",
+      "jyutping": "ni1 go3 baan2 bun2 ging1 gwo3 goi2 zeon3 wan2 ding6 zo2 hou2 do1"
     }
   ]
 }

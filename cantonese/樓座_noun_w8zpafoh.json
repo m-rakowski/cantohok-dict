@@ -1,28 +1,24 @@
 {
   "id": "w8zpafoh",
   "partOfSpeech": "noun",
+  "meaning": "theatre balcony",
+  "english": [
+    {
+      "id": "skg8jii8",
+      "word": "balcony",
+      "meaning": "theatre balcony",
+      "register": "written",
+      "note": "Use this specifically for the upper-tier or balcony section of a theatre."
+    }
+  ],
   "traditional": "樓座",
   "jyutping": "lau4 zo6",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "theatre balcony",
-      "english": [
-        {
-          "id": "skg8jii8",
-          "word": "balcony",
-          "meaning": "theatre balcony",
-          "register": "written",
-          "note": "Use this specifically for the upper-tier or balcony section of a theatre."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "We bought balcony seats to watch the opera.",
-          "traditional": "我哋買咗樓座嘅飛睇歌劇。",
-          "jyutping": "ngo5 dei6 maai5 zo2 lau4 zo6 ge3 fei1 tai2 go1 kek6"
-        }
-      ]
+      "english": "We bought balcony seats to watch the opera.",
+      "traditional": "我哋買咗樓座嘅飛睇歌劇。",
+      "jyutping": "ngo5 dei6 maai5 zo2 lau4 zo6 ge3 fei1 tai2 go1 kek6"
     }
   ]
 }

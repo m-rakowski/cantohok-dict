@@ -1,128 +1,77 @@
 {
   "id": "ud1x9mop",
   "partOfSpeech": "verb",
+  "meaning": "need to, have to",
+  "english": [
+    {
+      "id": "660oxe24",
+      "word": "need",
+      "meaning": "need; require",
+      "note": "This is the all-purpose spoken choice for both needing something and needing to do something."
+    },
+    {
+      "id": "0bptlp7f",
+      "word": "must",
+      "meaning": "have to; be required",
+      "note": "Use 要 as the all-purpose spoken way to say that someone is required to do something."
+    },
+    {
+      "id": "p61krlr8",
+      "word": "require",
+      "meaning": "need, need as necessary",
+      "note": "This is the all-purpose colloquial choice for saying that something is needed or that someone must do something."
+    },
+    {
+      "id": "ny09dnuh",
+      "word": "have to",
+      "meaning": "obligation / necessity",
+      "note": "This is the all-purpose everyday choice for saying that someone must or needs to do something."
+    },
+    {
+      "id": "clhi8xzl",
+      "word": "want",
+      "meaning": "desire, need",
+      "note": "Use 要 when want means need, request, require, or be advised to do something."
+    },
+    {
+      "id": "milm6wgm",
+      "word": "ought to",
+      "meaning": "duty or obligation",
+      "note": "Use 要 when the duty sounds firm or close to an instruction rather than neutral advice."
+    }
+  ],
   "traditional": "要",
   "jyutping": "jiu3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "need to, have to",
-      "english": [
-        {
-          "id": "660oxe24",
-          "word": "need",
-          "meaning": "need; require",
-          "note": "This is the all-purpose spoken choice for both needing something and needing to do something."
-        },
-        {
-          "id": "0bptlp7f",
-          "word": "must",
-          "meaning": "have to; be required",
-          "note": "Use 要 as the all-purpose spoken way to say that someone is required to do something."
-        },
-        {
-          "id": "p61krlr8",
-          "word": "require",
-          "meaning": "need, need as necessary",
-          "note": "This is the all-purpose colloquial choice for saying that something is needed or that someone must do something."
-        },
-        {
-          "id": "ny09dnuh",
-          "word": "have to",
-          "meaning": "obligation / necessity",
-          "note": "This is the all-purpose everyday choice for saying that someone must or needs to do something."
-        },
-        {
-          "id": "clhi8xzl",
-          "word": "want",
-          "meaning": "desire, need",
-          "note": "Use 要 when want means need, request, require, or be advised to do something."
-        },
-        {
-          "id": "milm6wgm",
-          "word": "ought to",
-          "meaning": "duty or obligation",
-          "note": "Use 要 when the duty sounds firm or close to an instruction rather than neutral advice."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I need to go to work today.",
-          "traditional": "我今日要返工",
-          "jyutping": "ngo5 gam1 jat6 jiu3 faan1 gung1"
-        },
-        {
-          "english": "You must remember to bring an umbrella, or you'll get soaked.",
-          "traditional": "你要記得帶遮，唔係會濕晒。",
-          "jyutping": "nei5 jiu3 gei3 dak1 daai3 ze1 m4 hai6 wui5 sap1 saai3"
-        },
-        {
-          "english": "You require this form to be handed in today.",
-          "traditional": "你要今日交呢份表。",
-          "jyutping": "nei5 jiu3 gam1 jat6 gaau1 ni1 fan6 biu2"
-        },
-        {
-          "english": "I have to go to work tomorrow.",
-          "traditional": "我聽日要返工。",
-          "jyutping": "ngo5 ting1 jat6 jiu3 faan1 gung1"
-        },
-        {
-          "english": "I want to take today off because I have something to do.",
-          "traditional": "今日我有事，要請假。",
-          "jyutping": "gam1 jat6 ngo5 jau5 si6 jiu3 cing2 gaa3"
-        },
-        {
-          "english": "You ought to get to work on time tomorrow; don't be late again.",
-          "traditional": "你聽日要準時返工，唔好再遲到。",
-          "jyutping": "nei5 ting1 jat6 jiu3 zeon2 si4 faan1 gung1 m4 hou2 zoi3 ci4 dou3"
-        }
-      ]
+      "english": "I need to go to work today.",
+      "traditional": "我今日要返工",
+      "jyutping": "ngo5 gam1 jat6 jiu3 faan1 gung1"
     },
     {
-      "meaning": "to cost",
-      "english": [
-        {
-          "id": "im7jyvdv",
-          "word": "cost",
-          "meaning": "price required",
-          "note": "Use 要 as the all-purpose choice when something requires a stated amount of money or costs someone money."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The cost of this phone is three thousand dollars.",
-          "traditional": "呢部手機要三千蚊。",
-          "jyutping": "ni1 bou6 sau2 gei1 jiu3 saam1 cin1 man1"
-        }
-      ]
+      "english": "You must remember to bring an umbrella, or you'll get soaked.",
+      "traditional": "你要記得帶遮，唔係會濕晒。",
+      "jyutping": "nei5 jiu3 gei3 dak1 daai3 ze1 m4 hai6 wui5 sap1 saai3"
     },
     {
-      "meaning": "to want, to ask for something",
-      "english": [
-        {
-          "id": "h38sueax",
-          "word": "request",
-          "meaning": "ask for something",
-          "note": "This is the all-purpose colloquial choice when asking for an item or service."
-        },
-        {
-          "id": "jh2aarzq",
-          "word": "ask",
-          "meaning": "ask for something",
-          "note": "Use 要 when asking for an item or service, or when something is required or demanded, rather than when asking someone to perform an action."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I’d like to request a cup of iced lemon tea.",
-          "traditional": "我想要一杯凍檸茶。",
-          "jyutping": "ngo5 soeng2 jiu3 jat1 bui1 dung3 ling4 caa4"
-        },
-        {
-          "english": "I want to ask for a glass of iced lemon tea.",
-          "traditional": "我想要一杯凍檸茶。",
-          "jyutping": "ngo5 soeng2 jiu3 jat1 bui1 dung3 ling4 caa4"
-        }
-      ]
+      "english": "You require this form to be handed in today.",
+      "traditional": "你要今日交呢份表。",
+      "jyutping": "nei5 jiu3 gam1 jat6 gaau1 ni1 fan6 biu2"
+    },
+    {
+      "english": "I have to go to work tomorrow.",
+      "traditional": "我聽日要返工。",
+      "jyutping": "ngo5 ting1 jat6 jiu3 faan1 gung1"
+    },
+    {
+      "english": "I want to take today off because I have something to do.",
+      "traditional": "今日我有事，要請假。",
+      "jyutping": "gam1 jat6 ngo5 jau5 si6 jiu3 cing2 gaa3"
+    },
+    {
+      "english": "You ought to get to work on time tomorrow; don't be late again.",
+      "traditional": "你聽日要準時返工，唔好再遲到。",
+      "jyutping": "nei5 ting1 jat6 jiu3 zeon2 si4 faan1 gung1 m4 hou2 zoi3 ci4 dou3"
     }
   ]
 }

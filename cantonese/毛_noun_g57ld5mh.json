@@ -1,48 +1,44 @@
 {
   "id": "g57ld5mh",
   "partOfSpeech": "noun",
+  "meaning": "fur, body hair",
+  "english": [
+    {
+      "id": "41xwdz8m",
+      "word": "fur",
+      "meaning": "animal fur",
+      "note": "This is the all-purpose everyday word for an animal's hair or fur coat."
+    },
+    {
+      "id": "xwv0m7ll",
+      "word": "hair",
+      "meaning": "body hair",
+      "note": "Use 毛 for body hair or an animal's coat rather than the hair on the human head."
+    },
+    {
+      "id": "94zj7i3c",
+      "word": "coat",
+      "meaning": "animal fur/feathers",
+      "note": "Use this for the fur or feathers covering an animal, rather than for a garment."
+    }
+  ],
   "traditional": "毛",
   "jyutping": "mou4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "fur, body hair",
-      "english": [
-        {
-          "id": "41xwdz8m",
-          "word": "fur",
-          "meaning": "animal fur",
-          "note": "This is the all-purpose everyday word for an animal's hair or fur coat."
-        },
-        {
-          "id": "xwv0m7ll",
-          "word": "hair",
-          "meaning": "body hair",
-          "note": "Use 毛 for body hair or an animal's coat rather than the hair on the human head."
-        },
-        {
-          "id": "94zj7i3c",
-          "word": "coat",
-          "meaning": "animal fur/feathers",
-          "note": "Use this for the fur or feathers covering an animal, rather than for a garment."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The cat has shed so much fur that it’s all over the house.",
-          "traditional": "隻貓甩咗好多毛，搞到成屋都係。",
-          "jyutping": "zek3 maau1 lat1 zo2 hou2 do1 mou4 gaau2 dou2 seng4 uk1 dou1 hai6"
-        },
-        {
-          "english": "This dog is covered in hair.",
-          "traditional": "呢隻狗成身都係毛。",
-          "jyutping": "ni1 zek3 gau2 seng4 san1 dou1 hai6 mou4"
-        },
-        {
-          "english": "That cat has a thick coat.",
-          "traditional": "嗰隻貓嘅毛好厚。",
-          "jyutping": "go2 zek3 maau1 ge3 mou4 hou2 hau5"
-        }
-      ]
+      "english": "The cat has shed so much fur that it’s all over the house.",
+      "traditional": "隻貓甩咗好多毛，搞到成屋都係。",
+      "jyutping": "zek3 maau1 lat1 zo2 hou2 do1 mou4 gaau2 dou2 seng4 uk1 dou1 hai6"
+    },
+    {
+      "english": "This dog is covered in hair.",
+      "traditional": "呢隻狗成身都係毛。",
+      "jyutping": "ni1 zek3 gau2 seng4 san1 dou1 hai6 mou4"
+    },
+    {
+      "english": "That cat has a thick coat.",
+      "traditional": "嗰隻貓嘅毛好厚。",
+      "jyutping": "go2 zek3 maau1 ge3 mou4 hou2 hau5"
     }
   ]
 }

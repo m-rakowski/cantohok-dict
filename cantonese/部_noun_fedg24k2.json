@@ -1,28 +1,24 @@
 {
   "id": "fedg24k2",
   "partOfSpeech": "noun",
+  "meaning": "government office; organization unit",
+  "english": [
+    {
+      "id": "q4ekuf86",
+      "word": "department",
+      "meaning": "government office; organization unit",
+      "register": "formal",
+      "note": "部 is a shorter, more institutional form used especially in names or compounds for an organizational department rather than as the usual standalone choice."
+    }
+  ],
   "traditional": "部",
   "jyutping": "bou6",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "government office; organization unit",
-      "english": [
-        {
-          "id": "q4ekuf86",
-          "word": "department",
-          "meaning": "government office; organization unit",
-          "register": "formal",
-          "note": "部 is a shorter, more institutional form used especially in names or compounds for an organizational department rather than as the usual standalone choice."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "Each government department has to follow the new guidelines.",
-          "traditional": "政府各部都要跟新指引辦事。",
-          "jyutping": "zing3 fu2 gok3 bou6 dou1 jiu3 gan1 san1 zi2 jan5 baan6 si6"
-        }
-      ]
+      "english": "Each government department has to follow the new guidelines.",
+      "traditional": "政府各部都要跟新指引辦事。",
+      "jyutping": "zing3 fu2 gok3 bou6 dou1 jiu3 gan1 san1 zi2 jan5 baan6 si6"
     }
   ]
 }

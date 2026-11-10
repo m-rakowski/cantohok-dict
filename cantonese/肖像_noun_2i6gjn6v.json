@@ -1,39 +1,35 @@
 {
   "id": "2i6gjn6v",
   "partOfSpeech": "noun",
+  "meaning": "portrait of a person",
+  "english": [
+    {
+      "id": "lm62nk7y",
+      "word": "likeness",
+      "meaning": "portrait, image",
+      "register": "written",
+      "note": "Use this for a portrait or depicted image rather than abstract resemblance."
+    },
+    {
+      "id": "zrf3gdb2",
+      "word": "portrayal",
+      "meaning": "representation; description",
+      "register": "formal",
+      "note": "Use this when a portrayal is a visual portrait, especially an image of a person."
+    }
+  ],
   "traditional": "肖像",
   "jyutping": "ciu3 zoeng6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "portrait of a person",
-      "english": [
-        {
-          "id": "lm62nk7y",
-          "word": "likeness",
-          "meaning": "portrait, image",
-          "register": "written",
-          "note": "Use this for a portrait or depicted image rather than abstract resemblance."
-        },
-        {
-          "id": "zrf3gdb2",
-          "word": "portrayal",
-          "meaning": "representation; description",
-          "register": "formal",
-          "note": "Use this when a portrayal is a visual portrait, especially an image of a person."
-        }
-      ],
-      "examples": [
-        {
-          "english": "A likeness of a famous person is hanging in the museum.",
-          "traditional": "博物館入面掛咗一幅名人肖像。",
-          "jyutping": "bok3 mat6 gun2 jap6 min6 gwaa3 zo2 jat1 fuk1 ming4 jan4 ciu3 zoeng6"
-        },
-        {
-          "english": "The museum has a portrayal of the queen painted by a famous artist.",
-          "traditional": "博物館收藏咗一幅名畫家為皇后畫嘅肖像。",
-          "jyutping": "bok3 mat6 gun2 sau1 cong4 zo2 jat1 fuk1 ming4 waa2 gaa1 wai6 wong4 hau6 waa6 ge3 ciu3 zoeng6"
-        }
-      ]
+      "english": "A likeness of a famous person is hanging in the museum.",
+      "traditional": "博物館入面掛咗一幅名人肖像。",
+      "jyutping": "bok3 mat6 gun2 jap6 min6 gwaa3 zo2 jat1 fuk1 ming4 jan4 ciu3 zoeng6"
+    },
+    {
+      "english": "The museum has a portrayal of the queen painted by a famous artist.",
+      "traditional": "博物館收藏咗一幅名畫家為皇后畫嘅肖像。",
+      "jyutping": "bok3 mat6 gun2 sau1 cong4 zo2 jat1 fuk1 ming4 waa2 gaa1 wai6 wong4 hau6 waa6 ge3 ciu3 zoeng6"
     }
   ]
 }

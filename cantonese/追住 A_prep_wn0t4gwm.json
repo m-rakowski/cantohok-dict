@@ -1,28 +1,24 @@
 {
   "id": "wn0t4gwm",
   "partOfSpeech": "prep",
+  "meaning": "looking for",
+  "english": [
+    {
+      "id": "poeawjdd",
+      "word": "after",
+      "meaning": "looking for",
+      "register": "colloquial",
+      "note": "Use this for actively chasing or pursuing a person or thing, especially in speech."
+    }
+  ],
   "traditional": "追住 A",
   "jyutping": "zeoi1 zyu6 A",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "looking for",
-      "english": [
-        {
-          "id": "poeawjdd",
-          "word": "after",
-          "meaning": "looking for",
-          "register": "colloquial",
-          "note": "Use this for actively chasing or pursuing a person or thing, especially in speech."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "I went after the thief.",
-          "traditional": "我一路追住個賊。",
-          "jyutping": "ngo5 jat1 lou6 zeoi1 zyu6 go3 caak6"
-        }
-      ]
+      "english": "I went after the thief.",
+      "traditional": "我一路追住個賊。",
+      "jyutping": "ngo5 jat1 lou6 zeoi1 zyu6 go3 caak6"
     }
   ]
 }

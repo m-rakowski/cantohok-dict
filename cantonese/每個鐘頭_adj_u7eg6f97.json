@@ -1,28 +1,24 @@
 {
   "id": "u7eg6f97",
   "partOfSpeech": "adj",
+  "meaning": "every hour",
+  "english": [
+    {
+      "id": "jyqn9zhz",
+      "word": "hourly",
+      "meaning": "every hour",
+      "register": "colloquial",
+      "note": "This is the all-purpose colloquial way to say that something happens once every hour."
+    }
+  ],
   "traditional": "每個鐘頭",
   "jyutping": "mui5 go3 zung1 tau4",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "every hour",
-      "english": [
-        {
-          "id": "jyqn9zhz",
-          "word": "hourly",
-          "meaning": "every hour",
-          "register": "colloquial",
-          "note": "This is the all-purpose colloquial way to say that something happens once every hour."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "This bus runs hourly.",
-          "traditional": "呢部巴士每個鐘頭有一班。",
-          "jyutping": "ni1 bou6 baa1 si6 mui5 go3 zung1 tau4 jau5 jat1 baan1"
-        }
-      ]
+      "english": "This bus runs hourly.",
+      "traditional": "呢部巴士每個鐘頭有一班。",
+      "jyutping": "ni1 bou6 baa1 si6 mui5 go3 zung1 tau4 jau5 jat1 baan1"
     }
   ]
 }

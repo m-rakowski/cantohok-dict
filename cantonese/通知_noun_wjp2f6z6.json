@@ -1,37 +1,33 @@
 {
   "id": "wjp2f6z6",
   "partOfSpeech": "noun",
+  "meaning": "notice, notification",
+  "english": [
+    {
+      "id": "lucuh2rx",
+      "word": "announcement",
+      "meaning": "notice / official announcement",
+      "note": "This is the all-purpose noun for a notice or announcement sent or given to people."
+    },
+    {
+      "id": "6ax9v70l",
+      "word": "notice",
+      "meaning": "formal warning",
+      "note": "Use 通知 for a neutral advance, formal, or employment-related notification rather than for a posted sign or a warning itself."
+    }
+  ],
   "traditional": "通知",
   "jyutping": "tung1 zi1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "notice, notification",
-      "english": [
-        {
-          "id": "lucuh2rx",
-          "word": "announcement",
-          "meaning": "notice / official announcement",
-          "note": "This is the all-purpose noun for a notice or announcement sent or given to people."
-        },
-        {
-          "id": "6ax9v70l",
-          "word": "notice",
-          "meaning": "formal warning",
-          "note": "Use 通知 for a neutral advance, formal, or employment-related notification rather than for a posted sign or a warning itself."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The company sent an announcement that we’re off tomorrow.",
-          "traditional": "公司出咗通知，聽日放假。",
-          "jyutping": "gung1 si1 ceot1 zo2 tung1 zi1 ting1 jat6 fong3 gaa3"
-        },
-        {
-          "english": "The company has already given me notice that my contract will end next month.",
-          "traditional": "公司已經通知我，下個月會完約。",
-          "jyutping": "gung1 si1 ji5 ging1 tung1 zi1 ngo5 haa6 go3 jyut6 wui5 jyun4 joek3"
-        }
-      ]
+      "english": "The company sent an announcement that we’re off tomorrow.",
+      "traditional": "公司出咗通知，聽日放假。",
+      "jyutping": "gung1 si1 ceot1 zo2 tung1 zi1 ting1 jat6 fong3 gaa3"
+    },
+    {
+      "english": "The company has already given me notice that my contract will end next month.",
+      "traditional": "公司已經通知我，下個月會完約。",
+      "jyutping": "gung1 si1 ji5 ging1 tung1 zi1 ngo5 haa6 go3 jyut6 wui5 jyun4 joek3"
     }
   ]
 }

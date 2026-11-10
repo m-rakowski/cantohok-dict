@@ -1,37 +1,33 @@
 {
   "id": "90jqizu7",
   "partOfSpeech": "noun",
+  "meaning": "misunderstanding",
+  "english": [
+    {
+      "id": "rdpl2wbo",
+      "word": "confusion",
+      "meaning": "state of being confused",
+      "note": "Use this when the confusion is a particular misunderstanding or an individual mistaking one thing for another, rather than general disorder."
+    },
+    {
+      "id": "nrdbmp0v",
+      "word": "misunderstanding",
+      "meaning": "mistaken interpretation",
+      "note": "This is the all-purpose choice for a mistaken interpretation or misconception."
+    }
+  ],
   "traditional": "誤會",
   "jyutping": "ng6 wui6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "misunderstanding",
-      "english": [
-        {
-          "id": "rdpl2wbo",
-          "word": "confusion",
-          "meaning": "state of being confused",
-          "note": "Use this when the confusion is a particular misunderstanding or an individual mistaking one thing for another, rather than general disorder."
-        },
-        {
-          "id": "nrdbmp0v",
-          "word": "misunderstanding",
-          "meaning": "mistaken interpretation",
-          "note": "This is the all-purpose choice for a mistaken interpretation or misconception."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The confusion is that you thought I meant you; I wasn’t talking about you.",
-          "traditional": "你誤會喇，我唔係話你。",
-          "jyutping": "nei5 ng6 wui6 laa3 ngo5 m4 hai6 waa6 nei5"
-        },
-        {
-          "english": "The misunderstanding is that you thought I was scolding you.",
-          "traditional": "呢個誤會係你以為我鬧緊你。",
-          "jyutping": "nei1 go3 ng6 wui6 hai6 nei5 ji5 wai4 ngo5 naau6 gan2 nei5"
-        }
-      ]
+      "english": "The confusion is that you thought I meant you; I wasn’t talking about you.",
+      "traditional": "你誤會喇，我唔係話你。",
+      "jyutping": "nei5 ng6 wui6 laa3 ngo5 m4 hai6 waa6 nei5"
+    },
+    {
+      "english": "The misunderstanding is that you thought I was scolding you.",
+      "traditional": "呢個誤會係你以為我鬧緊你。",
+      "jyutping": "nei1 go3 ng6 wui6 hai6 nei5 ji5 wai4 ngo5 naau6 gan2 nei5"
     }
   ]
 }

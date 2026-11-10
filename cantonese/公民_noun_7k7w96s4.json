@@ -1,28 +1,24 @@
 {
   "id": "7k7w96s4",
   "partOfSpeech": "noun",
+  "meaning": "legal member of a state",
+  "english": [
+    {
+      "id": "zihe6uvm",
+      "word": "citizen",
+      "meaning": "legal member of a state",
+      "register": "formal",
+      "note": "This is the all-purpose term for a legally recognized citizen, especially in official or civic contexts."
+    }
+  ],
   "traditional": "公民",
   "jyutping": "gung1 man4",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "legal member of a state",
-      "english": [
-        {
-          "id": "zihe6uvm",
-          "word": "citizen",
-          "meaning": "legal member of a state",
-          "register": "formal",
-          "note": "This is the all-purpose term for a legally recognized citizen, especially in official or civic contexts."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "A citizen has the right to vote and the duty to obey the law.",
-          "traditional": "公民有權投票，亦有責任守法。",
-          "jyutping": "gung1 man4 jau5 kyun4 tau4 piu3 jik6 jau5 zaak3 jam6 sau2 faat3"
-        }
-      ]
+      "english": "A citizen has the right to vote and the duty to obey the law.",
+      "traditional": "公民有權投票，亦有責任守法。",
+      "jyutping": "gung1 man4 jau5 kyun4 tau4 piu3 jik6 jau5 zaak3 jam6 sau2 faat3"
     }
   ]
 }

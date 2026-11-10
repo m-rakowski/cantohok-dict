@@ -1,37 +1,33 @@
 {
   "id": "lzu99tw9",
   "partOfSpeech": "noun",
+  "meaning": "footstep",
+  "english": [
+    {
+      "id": "22dvhe5d",
+      "word": "tread",
+      "meaning": "footstep",
+      "note": "This is the all-purpose choice for a physical footstep or someone's manner of walking."
+    },
+    {
+      "id": "tn07btpa",
+      "word": "pace",
+      "meaning": "step",
+      "note": "Use 腳步 for an actual footstep or step taken while walking."
+    }
+  ],
   "traditional": "腳步",
   "jyutping": "goek3 bou6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "footstep",
-      "english": [
-        {
-          "id": "22dvhe5d",
-          "word": "tread",
-          "meaning": "footstep",
-          "note": "This is the all-purpose choice for a physical footstep or someone's manner of walking."
-        },
-        {
-          "id": "tn07btpa",
-          "word": "pace",
-          "meaning": "step",
-          "note": "Use 腳步 for an actual footstep or step taken while walking."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Your tread is so heavy that the whole floor can hear you.",
-          "traditional": "你行路咁大腳步，成層樓都聽到。",
-          "jyutping": "nei5 haang4 lou6 gam3 daai6 goek3 bou6 sing4 cang4 lau4 dou1 teng1 dou3"
-        },
-        {
-          "english": "I heard the pace of their footsteps as they approached.",
-          "traditional": "我聽到佢行近嘅腳步聲。",
-          "jyutping": "ngo5 teng1 dou2 keoi5 haang4 gan6 ge3 goek3 bou6 seng1"
-        }
-      ]
+      "english": "Your tread is so heavy that the whole floor can hear you.",
+      "traditional": "你行路咁大腳步，成層樓都聽到。",
+      "jyutping": "nei5 haang4 lou6 gam3 daai6 goek3 bou6 sing4 cang4 lau4 dou1 teng1 dou3"
+    },
+    {
+      "english": "I heard the pace of their footsteps as they approached.",
+      "traditional": "我聽到佢行近嘅腳步聲。",
+      "jyutping": "ngo5 teng1 dou2 keoi5 haang4 gan6 ge3 goek3 bou6 seng1"
     }
   ]
 }

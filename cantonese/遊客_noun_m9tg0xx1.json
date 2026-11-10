@@ -1,37 +1,33 @@
 {
   "id": "m9tg0xx1",
   "partOfSpeech": "noun",
+  "meaning": "tourist",
+  "english": [
+    {
+      "id": "11mczy70",
+      "word": "tourist",
+      "meaning": "leisure visitor",
+      "note": "This is the all-purpose noun for someone travelling for pleasure."
+    },
+    {
+      "id": "4f1876wa",
+      "word": "visitor",
+      "meaning": "person visiting a place",
+      "note": "Use this for a sightseer or tourist visiting a place, especially as part of a trip."
+    }
+  ],
   "traditional": "遊客",
   "jyutping": "jau4 haak3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "tourist",
-      "english": [
-        {
-          "id": "11mczy70",
-          "word": "tourist",
-          "meaning": "leisure visitor",
-          "note": "This is the all-purpose noun for someone travelling for pleasure."
-        },
-        {
-          "id": "4f1876wa",
-          "word": "visitor",
-          "meaning": "person visiting a place",
-          "note": "Use this for a sightseer or tourist visiting a place, especially as part of a trip."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This tourist came to Hong Kong to take photos.",
-          "traditional": "呢個遊客嚟香港影相。",
-          "jyutping": "ni1 go3 jau4 haak3 lei4 hoeng1 gong2 jing2 soeng2"
-        },
-        {
-          "english": "A visitor is taking photos here.",
-          "traditional": "有位遊客喺度影緊相。",
-          "jyutping": "jau5 wai2 jau4 haak3 hai2 dou6 jing2 gan2 soeng2"
-        }
-      ]
+      "english": "This tourist came to Hong Kong to take photos.",
+      "traditional": "呢個遊客嚟香港影相。",
+      "jyutping": "ni1 go3 jau4 haak3 lei4 hoeng1 gong2 jing2 soeng2"
+    },
+    {
+      "english": "A visitor is taking photos here.",
+      "traditional": "有位遊客喺度影緊相。",
+      "jyutping": "jau5 wai2 jau4 haak3 hai2 dou6 jing2 gan2 soeng2"
     }
   ]
 }

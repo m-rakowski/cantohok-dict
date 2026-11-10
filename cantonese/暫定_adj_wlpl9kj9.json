@@ -1,28 +1,24 @@
 {
   "id": "wlpl9kj9",
   "partOfSpeech": "adj",
+  "meaning": "provisional; usable draft",
+  "english": [
+    {
+      "id": "b92z1ivm",
+      "word": "working",
+      "meaning": "provisional; usable draft",
+      "register": "formal",
+      "note": "Use this for a provisional version or draft that is usable for now but not final."
+    }
+  ],
   "traditional": "暫定",
   "jyutping": "zaam6 ding6",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "provisional; usable draft",
-      "english": [
-        {
-          "id": "b92z1ivm",
-          "word": "working",
-          "meaning": "provisional; usable draft",
-          "register": "formal",
-          "note": "Use this for a provisional version or draft that is usable for now but not final."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The working date for the meeting is provisionally set as the first of next month.",
-          "traditional": "會議日期暫定為下個月一號。",
-          "jyutping": "wui2 ji5 jat6 kei4 zaam6 ding6 wai4 haa6 go3 jyut6 jat1 hou6"
-        }
-      ]
+      "english": "The working date for the meeting is provisionally set as the first of next month.",
+      "traditional": "會議日期暫定為下個月一號。",
+      "jyutping": "wui2 ji5 jat6 kei4 zaam6 ding6 wai4 haa6 go3 jyut6 jat1 hou6"
     }
   ]
 }

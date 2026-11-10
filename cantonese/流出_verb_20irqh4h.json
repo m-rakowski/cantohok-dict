@@ -1,37 +1,33 @@
 {
   "id": "20irqh4h",
   "partOfSpeech": "verb",
+  "meaning": "flow out",
+  "english": [
+    {
+      "id": "xysn0u7l",
+      "word": "stream",
+      "meaning": "pour out in a stream",
+      "note": "Use 流出 when blood or another liquid is specifically coming out of a wound, container, or other opening."
+    },
+    {
+      "id": "3zzp3y1q",
+      "word": "issue",
+      "meaning": "flow out",
+      "note": "Use this when liquid or another substance flows out from a source."
+    }
+  ],
   "traditional": "流出",
   "jyutping": "lau4 ceot1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "flow out",
-      "english": [
-        {
-          "id": "xysn0u7l",
-          "word": "stream",
-          "meaning": "pour out in a stream",
-          "note": "Use 流出 when blood or another liquid is specifically coming out of a wound, container, or other opening."
-        },
-        {
-          "id": "3zzp3y1q",
-          "word": "issue",
-          "meaning": "flow out",
-          "note": "Use this when liquid or another substance flows out from a source."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Blood continued to stream out of their wound.",
-          "traditional": "佢個傷口仲有血流出嚟。",
-          "jyutping": "keoi5 go3 soeng1 hau2 zung6 jau5 hyut3 lau4 ceot1 lei4"
-        },
-        {
-          "english": "The issue is that water is flowing out of the bottle.",
-          "traditional": "個問題係樽入面啲水流出嚟。",
-          "jyutping": "go3 man6 tai4 hai6 zeon1 jap6 min6 di1 seoi2 lau4 ceot1 lei4"
-        }
-      ]
+      "english": "Blood continued to stream out of their wound.",
+      "traditional": "佢個傷口仲有血流出嚟。",
+      "jyutping": "keoi5 go3 soeng1 hau2 zung6 jau5 hyut3 lau4 ceot1 lei4"
+    },
+    {
+      "english": "The issue is that water is flowing out of the bottle.",
+      "traditional": "個問題係樽入面啲水流出嚟。",
+      "jyutping": "go3 man6 tai4 hai6 zeon1 jap6 min6 di1 seoi2 lau4 ceot1 lei4"
     }
   ]
 }

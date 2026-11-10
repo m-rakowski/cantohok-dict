@@ -1,50 +1,46 @@
 {
   "id": "d67uf7su",
   "partOfSpeech": "verb",
+  "meaning": "twinkle, flicker",
+  "english": [
+    {
+      "id": "vlf8emp6",
+      "word": "shimmer",
+      "meaning": "shine faintly",
+      "register": "formal",
+      "note": "Use this more formal or written verb for faint, flickering light or reflected glints."
+    },
+    {
+      "id": "z3d38xis",
+      "word": "glint",
+      "meaning": "flash or gleam briefly",
+      "note": "Use this when the light glints or flickers repeatedly rather than just once."
+    },
+    {
+      "id": "cqj07z9u",
+      "word": "blink",
+      "meaning": "shine or twinkle",
+      "register": "written",
+      "note": "Use this mainly for stars or lights that twinkle or glimmer rather than for a regular warning flash."
+    }
+  ],
   "traditional": "閃爍",
   "jyutping": "sim2 soek3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "twinkle, flicker",
-      "english": [
-        {
-          "id": "vlf8emp6",
-          "word": "shimmer",
-          "meaning": "shine faintly",
-          "register": "formal",
-          "note": "Use this more formal or written verb for faint, flickering light or reflected glints."
-        },
-        {
-          "id": "z3d38xis",
-          "word": "glint",
-          "meaning": "flash or gleam briefly",
-          "note": "Use this when the light glints or flickers repeatedly rather than just once."
-        },
-        {
-          "id": "cqj07z9u",
-          "word": "blink",
-          "meaning": "shine or twinkle",
-          "register": "written",
-          "note": "Use this mainly for stars or lights that twinkle or glimmer rather than for a regular warning flash."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Moonlight falls on the lake, making it shimmer with faint light.",
-          "traditional": "月光落喺湖面，泛起閃爍嘅微光。",
-          "jyutping": "jyut6 gwong1 lok6 hai2 wu4 min6 faan3 hei2 sim2 soek3 ge3 mei4 gwong1"
-        },
-        {
-          "english": "The sign would glint repeatedly at night.",
-          "traditional": "個招牌喺夜晚不停閃爍。",
-          "jyutping": "go3 ziu1 paai4 hai2 je6 maan5 bat1 ting4 sim2 soek3"
-        },
-        {
-          "english": "The stars blink in the night sky and look beautiful.",
-          "traditional": "夜空嘅星星閃爍，好靚。",
-          "jyutping": "je6 hung1 ge3 sing1 sing1 sim2 soek3 hou2 leng3"
-        }
-      ]
+      "english": "Moonlight falls on the lake, making it shimmer with faint light.",
+      "traditional": "月光落喺湖面，泛起閃爍嘅微光。",
+      "jyutping": "jyut6 gwong1 lok6 hai2 wu4 min6 faan3 hei2 sim2 soek3 ge3 mei4 gwong1"
+    },
+    {
+      "english": "The sign would glint repeatedly at night.",
+      "traditional": "個招牌喺夜晚不停閃爍。",
+      "jyutping": "go3 ziu1 paai4 hai2 je6 maan5 bat1 ting4 sim2 soek3"
+    },
+    {
+      "english": "The stars blink in the night sky and look beautiful.",
+      "traditional": "夜空嘅星星閃爍，好靚。",
+      "jyutping": "je6 hung1 ge3 sing1 sing1 sim2 soek3 hou2 leng3"
     }
   ]
 }

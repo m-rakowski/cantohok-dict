@@ -1,26 +1,22 @@
 {
   "id": "4jwlj2nt",
   "partOfSpeech": "noun",
+  "meaning": "news briefing",
+  "english": [
+    {
+      "id": "kqf7u3dz",
+      "word": "update",
+      "meaning": "news briefing",
+      "note": "Use this for a briefing about the latest situation or news, rather than for a software change."
+    }
+  ],
   "traditional": "最新消息",
   "jyutping": "zeoi3 san1 siu1 sik1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "news briefing",
-      "english": [
-        {
-          "id": "kqf7u3dz",
-          "word": "update",
-          "meaning": "news briefing",
-          "note": "Use this for a briefing about the latest situation or news, rather than for a software change."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Do you have the latest update?",
-          "traditional": "有冇最新消息呀？",
-          "jyutping": "jau5 mou5 zeoi3 san1 siu1 sik1 aa3"
-        }
-      ]
+      "english": "Do you have the latest update?",
+      "traditional": "有冇最新消息呀？",
+      "jyutping": "jau5 mou5 zeoi3 san1 siu1 sik1 aa3"
     }
   ]
 }

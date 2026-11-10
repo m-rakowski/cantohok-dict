@@ -1,28 +1,24 @@
 {
   "id": "c52p3vqt",
   "partOfSpeech": "phrase",
+  "meaning": "farewell in the evening",
+  "english": [
+    {
+      "id": "9ox3rian",
+      "word": "good night",
+      "meaning": "farewell in the evening",
+      "register": "formal/written",
+      "note": "Choose this in writing, formal contexts, or when intentionally using the standard “good night”; everyday speech usually prefers 早唞."
+    }
+  ],
   "traditional": "晚安",
   "jyutping": "maan5 on1",
-  "boxes": [
+  "register": "formal/written",
+  "examples": [
     {
-      "meaning": "farewell in the evening",
-      "english": [
-        {
-          "id": "9ox3rian",
-          "word": "good night",
-          "meaning": "farewell in the evening",
-          "register": "formal/written",
-          "note": "Choose this in writing, formal contexts, or when intentionally using the standard “good night”; everyday speech usually prefers 早唞."
-        }
-      ],
-      "register": "formal/written",
-      "examples": [
-        {
-          "english": "Colleagues, the meeting ends here; good night, everyone.",
-          "traditional": "各位同事，會議到此結束，祝大家晚安。",
-          "jyutping": "gok3 wai2 tung4 si6 wui6 ji5 dou3 ci2 git3 cuk1 zuk1 daai6 gaa1 maan5 on1"
-        }
-      ]
+      "english": "Colleagues, the meeting ends here; good night, everyone.",
+      "traditional": "各位同事，會議到此結束，祝大家晚安。",
+      "jyutping": "gok3 wai2 tung4 si6 wui6 ji5 dou3 ci2 git3 cuk1 zuk1 daai6 gaa1 maan5 on1"
     }
   ]
 }

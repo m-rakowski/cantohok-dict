@@ -1,70 +1,66 @@
 {
   "id": "6yh18so8",
   "partOfSpeech": "noun",
+  "meaning": "country, nation",
+  "english": [
+    {
+      "id": "ycvcsk2m",
+      "word": "country",
+      "meaning": "nation; state",
+      "note": "This is the all-purpose choice for a sovereign nation or state."
+    },
+    {
+      "id": "ajbppxr4",
+      "word": "nation",
+      "meaning": "sovereign state",
+      "note": "This is the all-purpose Cantonese noun for a sovereign state or country."
+    },
+    {
+      "id": "zuwm0psn",
+      "word": "polity",
+      "meaning": "political unit; state",
+      "note": "Use this when the polity means a nation-state or country rather than a governing system."
+    },
+    {
+      "id": "btr946pf",
+      "word": "state",
+      "meaning": "country, government",
+      "note": "Use this for a sovereign country or the national government and its affairs, rather than a local authority."
+    },
+    {
+      "id": "reiysltp",
+      "word": "land",
+      "meaning": "country or region",
+      "note": "Use this when “land” means a country or nation, not merely an area."
+    }
+  ],
   "traditional": "國家",
   "jyutping": "gwok3 gaa1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "country, nation",
-      "english": [
-        {
-          "id": "ycvcsk2m",
-          "word": "country",
-          "meaning": "nation; state",
-          "note": "This is the all-purpose choice for a sovereign nation or state."
-        },
-        {
-          "id": "ajbppxr4",
-          "word": "nation",
-          "meaning": "sovereign state",
-          "note": "This is the all-purpose Cantonese noun for a sovereign state or country."
-        },
-        {
-          "id": "zuwm0psn",
-          "word": "polity",
-          "meaning": "political unit; state",
-          "note": "Use this when the polity means a nation-state or country rather than a governing system."
-        },
-        {
-          "id": "btr946pf",
-          "word": "state",
-          "meaning": "country, government",
-          "note": "Use this for a sovereign country or the national government and its affairs, rather than a local authority."
-        },
-        {
-          "id": "reiysltp",
-          "word": "land",
-          "meaning": "country or region",
-          "note": "Use this when “land” means a country or nation, not merely an area."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The laws in this country are very strict.",
-          "traditional": "呢個國家嘅法律好嚴。",
-          "jyutping": "ni1 go3 gwok3 gaa1 ge3 faat3 leot6 hou2 jim4"
-        },
-        {
-          "english": "This nation has its own currency.",
-          "traditional": "呢個國家有自己嘅貨幣。",
-          "jyutping": "ni1 go3 gwok3 gaa1 jau5 zi6 gei2 ge3 fo3 bai6"
-        },
-        {
-          "english": "The people of this polity live quite peacefully.",
-          "traditional": "呢個國家嘅人民生活得幾安穩。",
-          "jyutping": "nei1 go3 gwok3 gaa1 ge3 jan4 man4 sang1 wut6 dak1 gei2 on1 wan2"
-        },
-        {
-          "english": "The state is putting a lot of resources into education.",
-          "traditional": "國家投放好多資源喺教育。",
-          "jyutping": "gwok3 gaa1 tau4 fong3 hou2 do1 zi1 jyun4 hai2 gaau3 juk6"
-        },
-        {
-          "english": "Every land has its own culture.",
-          "traditional": "每個國家都有自己嘅文化。",
-          "jyutping": "mui5 go3 gwok3 gaa1 dou1 jau5 zi6 gei2 ge3 man4 faa3"
-        }
-      ]
+      "english": "The laws in this country are very strict.",
+      "traditional": "呢個國家嘅法律好嚴。",
+      "jyutping": "ni1 go3 gwok3 gaa1 ge3 faat3 leot6 hou2 jim4"
+    },
+    {
+      "english": "This nation has its own currency.",
+      "traditional": "呢個國家有自己嘅貨幣。",
+      "jyutping": "ni1 go3 gwok3 gaa1 jau5 zi6 gei2 ge3 fo3 bai6"
+    },
+    {
+      "english": "The people of this polity live quite peacefully.",
+      "traditional": "呢個國家嘅人民生活得幾安穩。",
+      "jyutping": "nei1 go3 gwok3 gaa1 ge3 jan4 man4 sang1 wut6 dak1 gei2 on1 wan2"
+    },
+    {
+      "english": "The state is putting a lot of resources into education.",
+      "traditional": "國家投放好多資源喺教育。",
+      "jyutping": "gwok3 gaa1 tau4 fong3 hou2 do1 zi1 jyun4 hai2 gaau3 juk6"
+    },
+    {
+      "english": "Every land has its own culture.",
+      "traditional": "每個國家都有自己嘅文化。",
+      "jyutping": "mui5 go3 gwok3 gaa1 dou1 jau5 zi6 gei2 ge3 man4 faa3"
     }
   ]
 }

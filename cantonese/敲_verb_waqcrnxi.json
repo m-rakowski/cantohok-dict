@@ -1,37 +1,33 @@
 {
   "id": "waqcrnxi",
   "partOfSpeech": "verb",
+  "meaning": "knock, rap",
+  "english": [
+    {
+      "id": "wvpoxqdz",
+      "word": "knock",
+      "meaning": "rap on wood",
+      "note": "This is the all-purpose choice for physically rapping or knocking on something, especially a door or wood."
+    },
+    {
+      "id": "i5vttcpu",
+      "word": "rap",
+      "meaning": "knock sharply",
+      "note": "Use this for striking or knocking something sharply, especially with the knuckles."
+    }
+  ],
   "traditional": "敲",
   "jyutping": "haau1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "knock, rap",
-      "english": [
-        {
-          "id": "wvpoxqdz",
-          "word": "knock",
-          "meaning": "rap on wood",
-          "note": "This is the all-purpose choice for physically rapping or knocking on something, especially a door or wood."
-        },
-        {
-          "id": "i5vttcpu",
-          "word": "rap",
-          "meaning": "knock sharply",
-          "note": "Use this for striking or knocking something sharply, especially with the knuckles."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Please knock on the door before coming in.",
-          "traditional": "請敲門先入嚟。",
-          "jyutping": "cing2 haau1 mun4 sin1 jap6 lei4"
-        },
-        {
-          "english": "Rap on the door first.",
-          "traditional": "你敲下門先啦。",
-          "jyutping": "nei5 haau1 haa5 mun4 sin1 laa1"
-        }
-      ]
+      "english": "Please knock on the door before coming in.",
+      "traditional": "請敲門先入嚟。",
+      "jyutping": "cing2 haau1 mun4 sin1 jap6 lei4"
+    },
+    {
+      "english": "Rap on the door first.",
+      "traditional": "你敲下門先啦。",
+      "jyutping": "nei5 haau1 haa5 mun4 sin1 laa1"
     }
   ]
 }

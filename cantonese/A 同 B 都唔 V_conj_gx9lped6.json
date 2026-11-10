@@ -1,26 +1,22 @@
 {
   "id": "gx9lped6",
   "partOfSpeech": "conj",
+  "meaning": "neither ... nor",
+  "english": [
+    {
+      "id": "sh7lk3h6",
+      "word": "neither",
+      "meaning": "neither ... nor",
+      "note": "This is the all-purpose spoken Cantonese pattern for saying that neither A nor B does or has the stated predicate."
+    }
+  ],
   "traditional": "A 同 B 都唔 V",
   "jyutping": "A tung4 B dou1 m4 V",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "neither ... nor",
-      "english": [
-        {
-          "id": "sh7lk3h6",
-          "word": "neither",
-          "meaning": "neither ... nor",
-          "note": "This is the all-purpose spoken Cantonese pattern for saying that neither A nor B does or has the stated predicate."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Neither my older brother nor I eat spicy food.",
-          "traditional": "我同阿哥都唔食辣嘢。",
-          "jyutping": "ngo5 tung4 aa3 go1 dou1 m4 sik6 laat6 je5"
-        }
-      ]
+      "english": "Neither my older brother nor I eat spicy food.",
+      "traditional": "我同阿哥都唔食辣嘢。",
+      "jyutping": "ngo5 tung4 aa3 go1 dou1 m4 sik6 laat6 je5"
     }
   ]
 }

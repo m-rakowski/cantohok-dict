@@ -1,38 +1,34 @@
 {
   "id": "xmtx7wki",
   "partOfSpeech": "adj",
+  "meaning": "unable to move",
+  "english": [
+    {
+      "id": "j6q1sh8v",
+      "word": "stuck",
+      "meaning": "cannot move",
+      "note": "Use this specifically when a person or object physically cannot move, rather than when a task or program has stopped progressing."
+    },
+    {
+      "id": "ullxml0h",
+      "word": "fixed",
+      "meaning": "unable to move",
+      "register": "colloquial",
+      "note": "Use this when a person or thing is stuck and unable to move."
+    }
+  ],
   "traditional": "郁唔到",
   "jyutping": "juk1 m4 dou2",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "unable to move",
-      "english": [
-        {
-          "id": "j6q1sh8v",
-          "word": "stuck",
-          "meaning": "cannot move",
-          "note": "Use this specifically when a person or object physically cannot move, rather than when a task or program has stopped progressing."
-        },
-        {
-          "id": "ullxml0h",
-          "word": "fixed",
-          "meaning": "unable to move",
-          "register": "colloquial",
-          "note": "Use this when a person or thing is stuck and unable to move."
-        }
-      ],
-      "examples": [
-        {
-          "english": "My foot is stuck in the door and can't move.",
-          "traditional": "我隻腳畀道門夾住，郁唔到。",
-          "jyutping": "ngo5 zek3 goek3 bei2 dou6 mun4 gaap3 zyu6 juk1 m4 dou2"
-        },
-        {
-          "english": "The car is fixed in the mud and can't move.",
-          "traditional": "部車卡咗喺泥度，郁唔到。",
-          "jyutping": "bou6 ce1 kaat1 zo2 hai2 nai4 dou6 juk1 m4 dou2"
-        }
-      ]
+      "english": "My foot is stuck in the door and can't move.",
+      "traditional": "我隻腳畀道門夾住，郁唔到。",
+      "jyutping": "ngo5 zek3 goek3 bei2 dou6 mun4 gaap3 zyu6 juk1 m4 dou2"
+    },
+    {
+      "english": "The car is fixed in the mud and can't move.",
+      "traditional": "部車卡咗喺泥度，郁唔到。",
+      "jyutping": "bou6 ce1 kaat1 zo2 hai2 nai4 dou6 juk1 m4 dou2"
     }
   ]
 }

@@ -1,28 +1,24 @@
 {
   "id": "iwuusuu7",
   "partOfSpeech": "conj",
+  "meaning": "concessive conjunction",
+  "english": [
+    {
+      "id": "cjja9mcm",
+      "word": "although",
+      "meaning": "concessive conjunction",
+      "register": "formal",
+      "note": "Choose this mainly in formal or written contexts rather than everyday conversation."
+    }
+  ],
   "traditional": "儘管",
   "jyutping": "zeon6 gun2",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "concessive conjunction",
-      "english": [
-        {
-          "id": "cjja9mcm",
-          "word": "although",
-          "meaning": "concessive conjunction",
-          "register": "formal",
-          "note": "Choose this mainly in formal or written contexts rather than everyday conversation."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "Although the weather was bad, the project was completed on schedule.",
-          "traditional": "儘管天氣惡劣，工程仍然如期完成。",
-          "jyutping": "zeon6 gun2 tin1 hei3 ngok3 lyut6 gung1 cing4 jing4 jin4 jyu4 kei4 jyun4 sing4"
-        }
-      ]
+      "english": "Although the weather was bad, the project was completed on schedule.",
+      "traditional": "儘管天氣惡劣，工程仍然如期完成。",
+      "jyutping": "zeon6 gun2 tin1 hei3 ngok3 lyut6 gung1 cing4 jing4 jin4 jyu4 kei4 jyun4 sing4"
     }
   ]
 }

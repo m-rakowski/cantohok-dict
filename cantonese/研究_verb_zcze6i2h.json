@@ -1,37 +1,33 @@
 {
   "id": "zcze6i2h",
   "partOfSpeech": "verb",
+  "meaning": "research, examine carefully",
+  "english": [
+    {
+      "id": "a5u34tne",
+      "word": "research",
+      "meaning": "do research",
+      "note": "This is the all-purpose choice for studying or investigating a subject, including both careful inquiry and extensive research."
+    },
+    {
+      "id": "f3xr6v2q",
+      "word": "study",
+      "meaning": "examine carefully",
+      "note": "Use 研究 when carefully examining something in detail, such as a map, rather than learning a subject."
+    }
+  ],
   "traditional": "研究",
   "jyutping": "jin4 gau3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "research, examine carefully",
-      "english": [
-        {
-          "id": "a5u34tne",
-          "word": "research",
-          "meaning": "do research",
-          "note": "This is the all-purpose choice for studying or investigating a subject, including both careful inquiry and extensive research."
-        },
-        {
-          "id": "f3xr6v2q",
-          "word": "study",
-          "meaning": "examine carefully",
-          "note": "Use 研究 when carefully examining something in detail, such as a map, rather than learning a subject."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I need to research how to make this dish.",
-          "traditional": "我而家要研究下點樣整呢個菜。",
-          "jyutping": "ngo5 ji4 gaa1 jiu3 jin4 gau3 haa5 dim2 joeng2 zing2 ni1 go3 coi3"
-        },
-        {
-          "english": "I study the map to find the fastest route.",
-          "traditional": "我研究吓張地圖，睇下點行最快。",
-          "jyutping": "ngo5 jin4 gau3 haa5 zoeng1 dei6 tou4 tai2 haa5 dim2 haang4 zeoi3 faai3"
-        }
-      ]
+      "english": "I need to research how to make this dish.",
+      "traditional": "我而家要研究下點樣整呢個菜。",
+      "jyutping": "ngo5 ji4 gaa1 jiu3 jin4 gau3 haa5 dim2 joeng2 zing2 ni1 go3 coi3"
+    },
+    {
+      "english": "I study the map to find the fastest route.",
+      "traditional": "我研究吓張地圖，睇下點行最快。",
+      "jyutping": "ngo5 jin4 gau3 haa5 zoeng1 dei6 tou4 tai2 haa5 dim2 haang4 zeoi3 faai3"
     }
   ]
 }

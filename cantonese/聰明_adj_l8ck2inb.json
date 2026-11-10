@@ -1,48 +1,44 @@
 {
   "id": "l8ck2inb",
   "partOfSpeech": "adj",
+  "meaning": "smart, clever",
+  "english": [
+    {
+      "id": "obsrvqr9",
+      "word": "intelligent",
+      "meaning": "smart, clever",
+      "note": "This is the all-purpose choice for a person who is smart or clever."
+    },
+    {
+      "id": "oxsiodli",
+      "word": "intellectual",
+      "meaning": "intelligent person",
+      "note": "This is the all-purpose everyday adjective for a person who is intellectually capable or clever."
+    },
+    {
+      "id": "o0qdi3bb",
+      "word": "clever",
+      "meaning": "intelligent, quick to learn",
+      "note": "Choose this for intellectual ability, especially learning and understanding quickly, rather than practical skill."
+    }
+  ],
   "traditional": "聰明",
   "jyutping": "cung1 ming4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "smart, clever",
-      "english": [
-        {
-          "id": "obsrvqr9",
-          "word": "intelligent",
-          "meaning": "smart, clever",
-          "note": "This is the all-purpose choice for a person who is smart or clever."
-        },
-        {
-          "id": "oxsiodli",
-          "word": "intellectual",
-          "meaning": "intelligent person",
-          "note": "This is the all-purpose everyday adjective for a person who is intellectually capable or clever."
-        },
-        {
-          "id": "o0qdi3bb",
-          "word": "clever",
-          "meaning": "intelligent, quick to learn",
-          "note": "Choose this for intellectual ability, especially learning and understanding quickly, rather than practical skill."
-        }
-      ],
-      "examples": [
-        {
-          "english": "They are really intelligent.",
-          "traditional": "佢真係好聰明。",
-          "jyutping": "keoi5 zan1 hai6 hou2 cung1 ming4"
-        },
-        {
-          "english": "She is very intellectual and learns everything quickly。",
-          "traditional": "聰明",
-          "jyutping": "cung1 ming4"
-        },
-        {
-          "english": "My little sister is very clever at learning new things.",
-          "traditional": "阿妹學嘢好聰明。",
-          "jyutping": "aa3 mui6 hok6 je5 hou2 cung1 ming4"
-        }
-      ]
+      "english": "They are really intelligent.",
+      "traditional": "佢真係好聰明。",
+      "jyutping": "keoi5 zan1 hai6 hou2 cung1 ming4"
+    },
+    {
+      "english": "She is very intellectual and learns everything quickly。",
+      "traditional": "聰明",
+      "jyutping": "cung1 ming4"
+    },
+    {
+      "english": "My little sister is very clever at learning new things.",
+      "traditional": "阿妹學嘢好聰明。",
+      "jyutping": "aa3 mui6 hok6 je5 hou2 cung1 ming4"
     }
   ]
 }

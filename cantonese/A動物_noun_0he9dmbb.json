@@ -1,28 +1,24 @@
 {
   "id": "0he9dmbb",
   "partOfSpeech": "noun",
+  "meaning": "type of person",
+  "english": [
+    {
+      "id": "susztsjr",
+      "word": "animal",
+      "meaning": "type of person",
+      "register": "written",
+      "note": "Use this mainly in established descriptive compounds such as 政治動物 for a person defined by the preceding type or quality."
+    }
+  ],
   "traditional": "A動物",
   "jyutping": "A dung6 mat6",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "type of person",
-      "english": [
-        {
-          "id": "susztsjr",
-          "word": "animal",
-          "meaning": "type of person",
-          "register": "written",
-          "note": "Use this mainly in established descriptive compounds such as 政治動物 for a person defined by the preceding type or quality."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "They are a complete political animal.",
-          "traditional": "佢係個十足嘅政治動物。",
-          "jyutping": "keoi5 hai6 go3 sap6 zuk1 ge3 zing3 zi6 dung6 mat6"
-        }
-      ]
+      "english": "They are a complete political animal.",
+      "traditional": "佢係個十足嘅政治動物。",
+      "jyutping": "keoi5 hai6 go3 sap6 zuk1 ge3 zing3 zi6 dung6 mat6"
     }
   ]
 }

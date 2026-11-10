@@ -1,28 +1,24 @@
 {
   "id": "v0210b83",
   "partOfSpeech": "noun",
+  "meaning": "machine feed part",
+  "english": [
+    {
+      "id": "5z5f6sbi",
+      "word": "feed",
+      "meaning": "machine feed part",
+      "register": "technical",
+      "note": "Use this technical noun for the machine part that feeds paper or other material into a process."
+    }
+  ],
   "traditional": "送料器",
   "jyutping": "sung3 liu6 hei3",
-  "boxes": [
+  "register": "technical",
+  "examples": [
     {
-      "meaning": "machine feed part",
-      "english": [
-        {
-          "id": "5z5f6sbi",
-          "word": "feed",
-          "meaning": "machine feed part",
-          "register": "technical",
-          "note": "Use this technical noun for the machine part that feeds paper or other material into a process."
-        }
-      ],
-      "register": "technical",
-      "examples": [
-        {
-          "english": "The feed in the printing machine is jammed, so the paper cannot go in.",
-          "traditional": "部印刷機嘅送料器卡住咗，張紙入唔到去。",
-          "jyutping": "bou6 jan3 caat3 gei1 ge3 sung3 liu6 hei3 kaa1 zyu6 zo2 zoeng1 zi2 jap6 m4 dou2 heoi3"
-        }
-      ]
+      "english": "The feed in the printing machine is jammed, so the paper cannot go in.",
+      "traditional": "部印刷機嘅送料器卡住咗，張紙入唔到去。",
+      "jyutping": "bou6 jan3 caat3 gei1 ge3 sung3 liu6 hei3 kaa1 zyu6 zo2 zoeng1 zi2 jap6 m4 dou2 heoi3"
     }
   ]
 }

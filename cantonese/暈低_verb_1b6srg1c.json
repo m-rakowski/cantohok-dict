@@ -1,40 +1,36 @@
 {
   "id": "1b6srg1c",
   "partOfSpeech": "verb",
+  "meaning": "faint, pass out",
+  "english": [
+    {
+      "id": "mtbv9y0e",
+      "word": "faint",
+      "meaning": "pass out",
+      "register": "colloquial",
+      "note": "Use this as the all-purpose colloquial verb for someone actually fainting or passing out."
+    },
+    {
+      "id": "gsqskk0z",
+      "word": "collapse",
+      "meaning": "collapse/faint",
+      "register": "colloquial",
+      "note": "Use 暈低 when someone passes out and falls because of exhaustion, illness, or a similar cause."
+    }
+  ],
   "traditional": "暈低",
   "jyutping": "wan4 dai1",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "faint, pass out",
-      "english": [
-        {
-          "id": "mtbv9y0e",
-          "word": "faint",
-          "meaning": "pass out",
-          "register": "colloquial",
-          "note": "Use this as the all-purpose colloquial verb for someone actually fainting or passing out."
-        },
-        {
-          "id": "gsqskk0z",
-          "word": "collapse",
-          "meaning": "collapse/faint",
-          "register": "colloquial",
-          "note": "Use 暈低 when someone passes out and falls because of exhaustion, illness, or a similar cause."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "I really did faint just now.",
-          "traditional": "我頭先真係暈低咗。",
-          "jyutping": "ngo5 tau4 sin1 zan1 hai6 wan4 dai1 zo2"
-        },
-        {
-          "english": "I will collapse if I keep standing in the sun.",
-          "traditional": "我再喺太陽底下企落去就會暈低。",
-          "jyutping": "ngo5 zoi3 hai2 taai3 joeng4 dai2 haa6 kei5 lok6 heoi3 zau6 wui5 wan4 dai1"
-        }
-      ]
+      "english": "I really did faint just now.",
+      "traditional": "我頭先真係暈低咗。",
+      "jyutping": "ngo5 tau4 sin1 zan1 hai6 wan4 dai1 zo2"
+    },
+    {
+      "english": "I will collapse if I keep standing in the sun.",
+      "traditional": "我再喺太陽底下企落去就會暈低。",
+      "jyutping": "ngo5 zoi3 hai2 taai3 joeng4 dai2 haa6 kei5 lok6 heoi3 zau6 wui5 wan4 dai1"
     }
   ]
 }

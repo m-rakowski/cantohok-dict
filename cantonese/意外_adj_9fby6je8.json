@@ -1,92 +1,88 @@
 {
   "id": "9fby6je8",
   "partOfSpeech": "adj",
+  "meaning": "unexpected, surprising",
+  "english": [
+    {
+      "id": "uyvefwrj",
+      "word": "surprised",
+      "meaning": "feeling surprise",
+      "note": "Use this when stressing that something was unexpected or that the outcome was not what you anticipated."
+    },
+    {
+      "id": "ppj3yvrb",
+      "word": "surprising",
+      "meaning": "causing surprise",
+      "note": "This is the all-purpose choice for an unexpected result, event, or development."
+    },
+    {
+      "id": "jql795sk",
+      "word": "accidental",
+      "meaning": "by chance; unintentional",
+      "note": "Use this as the all-purpose choice for an accidental event or result that is unexpected, especially when no intention is specified."
+    },
+    {
+      "id": "am33enqf",
+      "word": "amazed",
+      "meaning": "astonished; greatly surprised",
+      "note": "Use this when the amazement mainly comes from something being unexpected."
+    },
+    {
+      "id": "ovrud2o7",
+      "word": "unexpected",
+      "meaning": "not expected; unforeseen",
+      "note": "Use this when describing an unexpected or surprising result, event, or situation, especially predicatively."
+    },
+    {
+      "id": "8t2j7ac5",
+      "word": "astonished",
+      "meaning": "amazed; surprised",
+      "note": "Use this when the astonishment mainly comes from something being unexpected or unforeseen."
+    },
+    {
+      "id": "31r8v12c",
+      "word": "startling",
+      "meaning": "surprising; shocking",
+      "note": "Use this for the less forceful sense of being unexpected or surprising."
+    }
+  ],
   "traditional": "意外",
   "jyutping": "ji3 ngoi6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "unexpected, surprising",
-      "english": [
-        {
-          "id": "uyvefwrj",
-          "word": "surprised",
-          "meaning": "feeling surprise",
-          "note": "Use this when stressing that something was unexpected or that the outcome was not what you anticipated."
-        },
-        {
-          "id": "ppj3yvrb",
-          "word": "surprising",
-          "meaning": "causing surprise",
-          "note": "This is the all-purpose choice for an unexpected result, event, or development."
-        },
-        {
-          "id": "jql795sk",
-          "word": "accidental",
-          "meaning": "by chance; unintentional",
-          "note": "Use this as the all-purpose choice for an accidental event or result that is unexpected, especially when no intention is specified."
-        },
-        {
-          "id": "am33enqf",
-          "word": "amazed",
-          "meaning": "astonished; greatly surprised",
-          "note": "Use this when the amazement mainly comes from something being unexpected."
-        },
-        {
-          "id": "ovrud2o7",
-          "word": "unexpected",
-          "meaning": "not expected; unforeseen",
-          "note": "Use this when describing an unexpected or surprising result, event, or situation, especially predicatively."
-        },
-        {
-          "id": "8t2j7ac5",
-          "word": "astonished",
-          "meaning": "amazed; surprised",
-          "note": "Use this when the astonishment mainly comes from something being unexpected or unforeseen."
-        },
-        {
-          "id": "31r8v12c",
-          "word": "startling",
-          "meaning": "surprising; shocking",
-          "note": "Use this for the less forceful sense of being unexpected or surprising."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This result really surprised me.",
-          "traditional": "呢個結果令我好意外。",
-          "jyutping": "ni1 go3 git3 gwo2 ling6 ngo5 hou2 ji3 ngoi6"
-        },
-        {
-          "english": "This result is really surprising.",
-          "traditional": "呢個結果真係意外。",
-          "jyutping": "ni1 go3 git3 gwo2 zan1 hai6 ji3 ngoi6"
-        },
-        {
-          "english": "This power outage was truly accidental.",
-          "traditional": "呢次停電真係意外。",
-          "jyutping": "nei1 ci3 ting4 din6 zan1 hai6 ji3 ngoi6"
-        },
-        {
-          "english": "I was amazed that they won the championship; it was completely unexpected.",
-          "traditional": "我估唔到佢會攞冠軍，真係好意外。",
-          "jyutping": "ngo5 gu2 m4 dou2 keoi5 wui5 lo2 gun1 gwan1 zan1 hai6 hou2 ji3 ngoi6"
-        },
-        {
-          "english": "The result was really unexpected.",
-          "traditional": "個結果真係意外。",
-          "jyutping": "go3 git3 gwo2 zan1 hai6 ji3 ngoi6"
-        },
-        {
-          "english": "The result was so unexpected that we were astonished.",
-          "traditional": "個結果咁意外，我哋都睇到呆咗。",
-          "jyutping": "go3 git3 gwo2 gam3 ji3 ngoi6 ngo5 dei6 dou1 tai2 dou2 daai1 zo2"
-        },
-        {
-          "english": "It’s quite startling that you finished moving so quickly.",
-          "traditional": "你咁快就搬完屋，真係幾意外喎。",
-          "jyutping": "nei5 gam3 faai3 zau6 bun1 jyun4 uk1 zan1 hai6 gei2 ji3 ngoi6 wo3"
-        }
-      ]
+      "english": "This result really surprised me.",
+      "traditional": "呢個結果令我好意外。",
+      "jyutping": "ni1 go3 git3 gwo2 ling6 ngo5 hou2 ji3 ngoi6"
+    },
+    {
+      "english": "This result is really surprising.",
+      "traditional": "呢個結果真係意外。",
+      "jyutping": "ni1 go3 git3 gwo2 zan1 hai6 ji3 ngoi6"
+    },
+    {
+      "english": "This power outage was truly accidental.",
+      "traditional": "呢次停電真係意外。",
+      "jyutping": "nei1 ci3 ting4 din6 zan1 hai6 ji3 ngoi6"
+    },
+    {
+      "english": "I was amazed that they won the championship; it was completely unexpected.",
+      "traditional": "我估唔到佢會攞冠軍，真係好意外。",
+      "jyutping": "ngo5 gu2 m4 dou2 keoi5 wui5 lo2 gun1 gwan1 zan1 hai6 hou2 ji3 ngoi6"
+    },
+    {
+      "english": "The result was really unexpected.",
+      "traditional": "個結果真係意外。",
+      "jyutping": "go3 git3 gwo2 zan1 hai6 ji3 ngoi6"
+    },
+    {
+      "english": "The result was so unexpected that we were astonished.",
+      "traditional": "個結果咁意外，我哋都睇到呆咗。",
+      "jyutping": "go3 git3 gwo2 gam3 ji3 ngoi6 ngo5 dei6 dou1 tai2 dou2 daai1 zo2"
+    },
+    {
+      "english": "It’s quite startling that you finished moving so quickly.",
+      "traditional": "你咁快就搬完屋，真係幾意外喎。",
+      "jyutping": "nei5 gam3 faai3 zau6 bun1 jyun4 uk1 zan1 hai6 gei2 ji3 ngoi6 wo3"
     }
   ]
 }

@@ -1,81 +1,77 @@
 {
   "id": "k06cr469",
   "partOfSpeech": "noun",
+  "meaning": "harm, hurt",
+  "english": [
+    {
+      "id": "r4ocsw89",
+      "word": "harm",
+      "meaning": "emotional hurt",
+      "note": "Use this for emotional or figurative hurt; it is the usual noun when someone or something has been hurt psychologically."
+    },
+    {
+      "id": "p7uwdu29",
+      "word": "detriment",
+      "meaning": "harm; damage",
+      "note": "This is the all-purpose choice for harm or hurt, including physical and emotional harm."
+    },
+    {
+      "id": "rjdi3c2h",
+      "word": "damage",
+      "meaning": "injury; harm",
+      "note": "Use this when the damage means harm or injury to a person or living being."
+    },
+    {
+      "id": "dew1z3e4",
+      "word": "evil",
+      "meaning": "harm, misfortune",
+      "note": "Use this for harm or injury suffered by a person or other sentient being."
+    },
+    {
+      "id": "znl7c842",
+      "word": "injury",
+      "meaning": "mental harm",
+      "note": "Use this for harm or damage, especially psychological harm, rather than a bodily wound."
+    },
+    {
+      "id": "qsvlmrb5",
+      "word": "wound",
+      "meaning": "hurt feelings / reputation",
+      "note": "Use this for damage to someone's feelings, reputation, or prospects rather than for an open bodily injury."
+    }
+  ],
   "traditional": "傷害",
   "jyutping": "soeng1 hoi6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "harm, hurt",
-      "english": [
-        {
-          "id": "r4ocsw89",
-          "word": "harm",
-          "meaning": "emotional hurt",
-          "note": "Use this for emotional or figurative hurt; it is the usual noun when someone or something has been hurt psychologically."
-        },
-        {
-          "id": "p7uwdu29",
-          "word": "detriment",
-          "meaning": "harm; damage",
-          "note": "This is the all-purpose choice for harm or hurt, including physical and emotional harm."
-        },
-        {
-          "id": "rjdi3c2h",
-          "word": "damage",
-          "meaning": "injury; harm",
-          "note": "Use this when the damage means harm or injury to a person or living being."
-        },
-        {
-          "id": "dew1z3e4",
-          "word": "evil",
-          "meaning": "harm, misfortune",
-          "note": "Use this for harm or injury suffered by a person or other sentient being."
-        },
-        {
-          "id": "znl7c842",
-          "word": "injury",
-          "meaning": "mental harm",
-          "note": "Use this for harm or damage, especially psychological harm, rather than a bodily wound."
-        },
-        {
-          "id": "qsvlmrb5",
-          "word": "wound",
-          "meaning": "hurt feelings / reputation",
-          "note": "Use this for damage to someone's feelings, reputation, or prospects rather than for an open bodily injury."
-        }
-      ],
-      "examples": [
-        {
-          "english": "What they said caused me a lot of harm.",
-          "traditional": "佢嗰句說話對我造成好大傷害。",
-          "jyutping": "keoi5 go2 geoi3 syut3 waa6 deoi3 ngo5 zou6 sing4 hou2 daai6 soeng1 hoi6"
-        },
-        {
-          "english": "Smoking is a detriment to your health.",
-          "traditional": "吸煙對健康有傷害。",
-          "jyutping": "kap1 jin1 deoi3 gin6 hong1 jau5 soeng1 hoi6"
-        },
-        {
-          "english": "This accident caused serious damage to him.",
-          "traditional": "呢次意外對佢造成好大傷害。",
-          "jyutping": "ni1 ci3 ji3 ngoi6 deoi3 keoi5 zou6 sing4 hou2 daai6 soeng1 hoi6"
-        },
-        {
-          "english": "War does immense evil to civilians.",
-          "traditional": "戰爭對平民造成莫大傷害。",
-          "jyutping": "zin3 zang1 deoi3 ping4 man4 zou6 sing4 mok6 daai6 soeng1 hoi6"
-        },
-        {
-          "english": "Talking like that can cause injury to people.",
-          "traditional": "你咁樣講，會對人造成傷害㗎。",
-          "jyutping": "nei5 gam2 joeng2 gong2 wui5 deoi3 jan4 zou6 sing4 soeng1 hoi6 gaa3"
-        },
-        {
-          "english": "Talking like that can wound people.",
-          "traditional": "你咁樣講，真係會傷害人。",
-          "jyutping": "nei5 gam2 joeng2 gong2 zan1 hai6 wui5 soeng1 hoi6 jan4"
-        }
-      ]
+      "english": "What they said caused me a lot of harm.",
+      "traditional": "佢嗰句說話對我造成好大傷害。",
+      "jyutping": "keoi5 go2 geoi3 syut3 waa6 deoi3 ngo5 zou6 sing4 hou2 daai6 soeng1 hoi6"
+    },
+    {
+      "english": "Smoking is a detriment to your health.",
+      "traditional": "吸煙對健康有傷害。",
+      "jyutping": "kap1 jin1 deoi3 gin6 hong1 jau5 soeng1 hoi6"
+    },
+    {
+      "english": "This accident caused serious damage to him.",
+      "traditional": "呢次意外對佢造成好大傷害。",
+      "jyutping": "ni1 ci3 ji3 ngoi6 deoi3 keoi5 zou6 sing4 hou2 daai6 soeng1 hoi6"
+    },
+    {
+      "english": "War does immense evil to civilians.",
+      "traditional": "戰爭對平民造成莫大傷害。",
+      "jyutping": "zin3 zang1 deoi3 ping4 man4 zou6 sing4 mok6 daai6 soeng1 hoi6"
+    },
+    {
+      "english": "Talking like that can cause injury to people.",
+      "traditional": "你咁樣講，會對人造成傷害㗎。",
+      "jyutping": "nei5 gam2 joeng2 gong2 wui5 deoi3 jan4 zou6 sing4 soeng1 hoi6 gaa3"
+    },
+    {
+      "english": "Talking like that can wound people.",
+      "traditional": "你咁樣講，真係會傷害人。",
+      "jyutping": "nei5 gam2 joeng2 gong2 zan1 hai6 wui5 soeng1 hoi6 jan4"
     }
   ]
 }

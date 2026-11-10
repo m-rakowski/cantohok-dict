@@ -1,28 +1,24 @@
 {
   "id": "vzflxrln",
   "partOfSpeech": "verb",
+  "meaning": "heat until boiling",
+  "english": [
+    {
+      "id": "zh6f1w1w",
+      "word": "boil",
+      "meaning": "heat until boiling",
+      "register": "colloquial",
+      "note": "Use this when emphasizing heating a liquid until it reaches boiling point."
+    }
+  ],
   "traditional": "煲滾",
   "jyutping": "bou1 gwan2",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "heat until boiling",
-      "english": [
-        {
-          "id": "zh6f1w1w",
-          "word": "boil",
-          "meaning": "heat until boiling",
-          "register": "colloquial",
-          "note": "Use this when emphasizing heating a liquid until it reaches boiling point."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "The water hasn’t boiled yet, so I’ll boil it a little longer first.",
-          "traditional": "水未滾，我再煲滾多陣先。",
-          "jyutping": "seoi2 mei6 gwan2 ngo5 zoi3 bou1 gwan2 do1 zan6 sin1"
-        }
-      ]
+      "english": "The water hasn’t boiled yet, so I’ll boil it a little longer first.",
+      "traditional": "水未滾，我再煲滾多陣先。",
+      "jyutping": "seoi2 mei6 gwan2 ngo5 zoi3 bou1 gwan2 do1 zan6 sin1"
     }
   ]
 }

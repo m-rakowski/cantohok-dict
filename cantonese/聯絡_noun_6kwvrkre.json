@@ -1,37 +1,33 @@
 {
   "id": "6kwvrkre",
   "partOfSpeech": "noun",
+  "meaning": "contact, communication",
+  "english": [
+    {
+      "id": "5olpaqxq",
+      "word": "contact",
+      "meaning": "communication",
+      "note": "This is the all-purpose noun for having or maintaining communication with someone."
+    },
+    {
+      "id": "e04be2rz",
+      "word": "liaison",
+      "meaning": "communication link",
+      "note": "Use this as the general choice for communication or maintaining contact between two parties."
+    }
+  ],
   "traditional": "聯絡",
   "jyutping": "lyun4 lok3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "contact, communication",
-      "english": [
-        {
-          "id": "5olpaqxq",
-          "word": "contact",
-          "meaning": "communication",
-          "note": "This is the all-purpose noun for having or maintaining communication with someone."
-        },
-        {
-          "id": "e04be2rz",
-          "word": "liaison",
-          "meaning": "communication link",
-          "note": "Use this as the general choice for communication or maintaining contact between two parties."
-        }
-      ],
-      "examples": [
-        {
-          "english": "We keep in contact.",
-          "traditional": "我哋保持聯絡。",
-          "jyutping": "ngo5 dei6 bou2 ci4 lyun4 lok3"
-        },
-        {
-          "english": "We’ll maintain liaison with the other side and notify everyone as soon as there’s news.",
-          "traditional": "我哋同對方保持聯絡，有消息就即刻通知大家。",
-          "jyutping": "ngo5 dei6 tung4 deoi3 fong1 bou2 ci4 lyun4 lok3 jau5 siu1 sik1 zau6 zik1 hak1 tung1 zi1 daai6 gaa1"
-        }
-      ]
+      "english": "We keep in contact.",
+      "traditional": "我哋保持聯絡。",
+      "jyutping": "ngo5 dei6 bou2 ci4 lyun4 lok3"
+    },
+    {
+      "english": "We’ll maintain liaison with the other side and notify everyone as soon as there’s news.",
+      "traditional": "我哋同對方保持聯絡，有消息就即刻通知大家。",
+      "jyutping": "ngo5 dei6 tung4 deoi3 fong1 bou2 ci4 lyun4 lok3 jau5 siu1 sik1 zau6 zik1 hak1 tung1 zi1 daai6 gaa1"
     }
   ]
 }

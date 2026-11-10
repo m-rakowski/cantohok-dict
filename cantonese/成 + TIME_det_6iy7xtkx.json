@@ -1,28 +1,24 @@
 {
   "id": "6iy7xtkx",
   "partOfSpeech": "det",
+  "meaning": "throughout the whole time",
+  "english": [
+    {
+      "id": "hz1gkjkn",
+      "word": "all",
+      "meaning": "throughout the whole time",
+      "register": "colloquial",
+      "note": "Use this before a time expression such as 日, 晚, or 個星期 for the whole stated period."
+    }
+  ],
   "traditional": "成 + TIME",
   "jyutping": "sing4 TIME",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "throughout the whole time",
-      "english": [
-        {
-          "id": "hz1gkjkn",
-          "word": "all",
-          "meaning": "throughout the whole time",
-          "register": "colloquial",
-          "note": "Use this before a time expression such as 日, 晚, or 個星期 for the whole stated period."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "It rained all week.",
-          "traditional": "成個星期都落雨。",
-          "jyutping": "sing4 go3 sing1 kei4 dou1 lok6 jyu5"
-        }
-      ]
+      "english": "It rained all week.",
+      "traditional": "成個星期都落雨。",
+      "jyutping": "sing4 go3 sing1 kei4 dou1 lok6 jyu5"
     }
   ]
 }

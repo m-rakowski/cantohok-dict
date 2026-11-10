@@ -1,28 +1,24 @@
 {
   "id": "jwhfw5zh",
   "partOfSpeech": "noun",
+  "meaning": "reading text",
+  "english": [
+    {
+      "id": "6huqbi97",
+      "word": "reading",
+      "meaning": "reading text",
+      "register": "written",
+      "note": "This is the all-purpose noun for the activity or process of reading written language."
+    }
+  ],
   "traditional": "閱讀",
   "jyutping": "jyut6 duk6",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "reading text",
-      "english": [
-        {
-          "id": "6huqbi97",
-          "word": "reading",
-          "meaning": "reading text",
-          "register": "written",
-          "note": "This is the all-purpose noun for the activity or process of reading written language."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "This article is worth reading.",
-          "traditional": "呢篇文章值得大家閱讀。",
-          "jyutping": "ni1 pin1 man4 zoeng1 zik6 dak1 daai6 gaa1 jyut6 duk6"
-        }
-      ]
+      "english": "This article is worth reading.",
+      "traditional": "呢篇文章值得大家閱讀。",
+      "jyutping": "ni1 pin1 man4 zoeng1 zik6 dak1 daai6 gaa1 jyut6 duk6"
     }
   ]
 }

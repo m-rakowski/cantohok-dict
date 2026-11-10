@@ -1,28 +1,24 @@
 {
   "id": "11q53l0r",
   "partOfSpeech": "noun",
+  "meaning": "language rules",
+  "english": [
+    {
+      "id": "2zzbmt3p",
+      "word": "grammar",
+      "meaning": "language rules",
+      "register": "formal",
+      "note": "Use this more formal term when discussing the grammatical structure or syntax of a language."
+    }
+  ],
   "traditional": "語法",
   "jyutping": "jyu5 faat3",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "language rules",
-      "english": [
-        {
-          "id": "2zzbmt3p",
-          "word": "grammar",
-          "meaning": "language rules",
-          "register": "formal",
-          "note": "Use this more formal term when discussing the grammatical structure or syntax of a language."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "This paper gives a detailed analysis of Cantonese grammar.",
-          "traditional": "呢篇論文詳細分析咗粵語嘅語法。",
-          "jyutping": "nei1 pin1 leon6 man4 coeng4 sai3 fan1 sik1 zo2 jyut6 jyu5 ge3 jyu5 faat3"
-        }
-      ]
+      "english": "This paper gives a detailed analysis of Cantonese grammar.",
+      "traditional": "呢篇論文詳細分析咗粵語嘅語法。",
+      "jyutping": "nei1 pin1 leon6 man4 coeng4 sai3 fan1 sik1 zo2 jyut6 jyu5 ge3 jyu5 faat3"
     }
   ]
 }

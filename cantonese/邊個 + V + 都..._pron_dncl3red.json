@@ -1,26 +1,22 @@
 {
   "id": "dncl3red",
   "partOfSpeech": "pron",
+  "meaning": "any person who",
+  "english": [
+    {
+      "id": "vy4wt4kj",
+      "word": "whoever",
+      "meaning": "any person who",
+      "note": "This is the all-purpose spoken pattern for any person who does something, with the result applying to all of them."
+    }
+  ],
   "traditional": "邊個 + V + 都...",
   "jyutping": "bin1 go3 V dou1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "any person who",
-      "english": [
-        {
-          "id": "vy4wt4kj",
-          "word": "whoever",
-          "meaning": "any person who",
-          "note": "This is the all-purpose spoken pattern for any person who does something, with the result applying to all of them."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Whoever comes is fine.",
-          "traditional": "邊個嚟都得。",
-          "jyutping": "bin1 go3 lai4 dou1 dak1"
-        }
-      ]
+      "english": "Whoever comes is fine.",
+      "traditional": "邊個嚟都得。",
+      "jyutping": "bin1 go3 lai4 dou1 dak1"
     }
   ]
 }

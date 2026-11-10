@@ -1,28 +1,24 @@
 {
   "id": "to3xi1is",
   "partOfSpeech": "noun",
+  "meaning": "translated result",
+  "english": [
+    {
+      "id": "zu37uu8a",
+      "word": "translation",
+      "meaning": "translated result",
+      "register": "written",
+      "note": "Use this specifically for the translated wording or written text, rather than the translating process."
+    }
+  ],
   "traditional": "譯文",
   "jyutping": "jik6 man4",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "translated result",
-      "english": [
-        {
-          "id": "zu37uu8a",
-          "word": "translation",
-          "meaning": "translated result",
-          "register": "written",
-          "note": "Use this specifically for the translated wording or written text, rather than the translating process."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "This translation is very clear.",
-          "traditional": "呢份譯文寫得好清楚。",
-          "jyutping": "ne1 fan6 jik6 man4 se2 dak1 hou2 cing1 co2"
-        }
-      ]
+      "english": "This translation is very clear.",
+      "traditional": "呢份譯文寫得好清楚。",
+      "jyutping": "ne1 fan6 jik6 man4 se2 dak1 hou2 cing1 co2"
     }
   ]
 }

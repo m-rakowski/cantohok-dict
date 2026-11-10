@@ -1,26 +1,22 @@
 {
   "id": "02b1njmm",
   "partOfSpeech": "noun",
+  "meaning": "medication pill",
+  "english": [
+    {
+      "id": "f118fyni",
+      "word": "pill",
+      "meaning": "medication pill",
+      "note": "Use this when the medication is a flat tablet rather than a rounded pill."
+    }
+  ],
   "traditional": "藥片",
   "jyutping": "joek6 pin2",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "medication pill",
-      "english": [
-        {
-          "id": "f118fyni",
-          "word": "pill",
-          "meaning": "medication pill",
-          "note": "Use this when the medication is a flat tablet rather than a rounded pill."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This pill is too big for me to swallow.",
-          "traditional": "呢塊藥片太大，我吞唔落。",
-          "jyutping": "ni1 faai3 joek6 pin2 taai3 daai6 ngo5 tan1 m4 lok6"
-        }
-      ]
+      "english": "This pill is too big for me to swallow.",
+      "traditional": "呢塊藥片太大，我吞唔落。",
+      "jyutping": "ni1 faai3 joek6 pin2 taai3 daai6 ngo5 tan1 m4 lok6"
     }
   ]
 }

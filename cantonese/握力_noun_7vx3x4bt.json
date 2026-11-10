@@ -1,48 +1,44 @@
 {
   "id": "7vx3x4bt",
   "partOfSpeech": "noun",
+  "meaning": "grip strength",
+  "english": [
+    {
+      "id": "7stj2npu",
+      "word": "grip",
+      "meaning": "hand hold; grasp",
+      "note": "Use this as the all-purpose choice for the firmness or strength of a physical hand grip."
+    },
+    {
+      "id": "lbgwx7e8",
+      "word": "grasp",
+      "meaning": "firm hold / grip",
+      "note": "Use this specifically for the strength of someone's grip, not simply the act of holding something."
+    },
+    {
+      "id": "sox3xn8r",
+      "word": "hold",
+      "meaning": "a grip or hold",
+      "note": "Use this for the strength or firmness of a person's physical grip, not for the object being grasped."
+    }
+  ],
   "traditional": "握力",
   "jyutping": "aak1 lik6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "grip strength",
-      "english": [
-        {
-          "id": "7stj2npu",
-          "word": "grip",
-          "meaning": "hand hold; grasp",
-          "note": "Use this as the all-purpose choice for the firmness or strength of a physical hand grip."
-        },
-        {
-          "id": "lbgwx7e8",
-          "word": "grasp",
-          "meaning": "firm hold / grip",
-          "note": "Use this specifically for the strength of someone's grip, not simply the act of holding something."
-        },
-        {
-          "id": "sox3xn8r",
-          "word": "hold",
-          "meaning": "a grip or hold",
-          "note": "Use this for the strength or firmness of a person's physical grip, not for the object being grasped."
-        }
-      ],
-      "examples": [
-        {
-          "english": "After this exercise, I feel like my grip is much stronger.",
-          "traditional": "我做完呢組運動，覺得握力強咗好多。",
-          "jyutping": "ngo5 zou6 jyun4 ne1 zou2 wan6 dung6 gok3 dak1 aak1 lik6 koeng4 zo2 hou2 do1"
-        },
-        {
-          "english": "Their grasp is strong enough to lift the suitcase with one hand.",
-          "traditional": "佢嘅握力勁到可以單手拎起個喼。",
-          "jyutping": "keoi5 ge3 aak1 lik6 ging6 dou3 ho2 ji5 daan1 sau2 ling1 hei2 go3 gip1"
-        },
-        {
-          "english": "After rehab, my grip strength came back a lot, so I can hold things better.",
-          "traditional": "我做完復健之後，握力強返好多。",
-          "jyutping": "ngo5 zou6 jyun4 fuk6 gin6 zi1 hau6 aak1 lik6 koeng4 faan1 hou2 do1"
-        }
-      ]
+      "english": "After this exercise, I feel like my grip is much stronger.",
+      "traditional": "我做完呢組運動，覺得握力強咗好多。",
+      "jyutping": "ngo5 zou6 jyun4 ne1 zou2 wan6 dung6 gok3 dak1 aak1 lik6 koeng4 zo2 hou2 do1"
+    },
+    {
+      "english": "Their grasp is strong enough to lift the suitcase with one hand.",
+      "traditional": "佢嘅握力勁到可以單手拎起個喼。",
+      "jyutping": "keoi5 ge3 aak1 lik6 ging6 dou3 ho2 ji5 daan1 sau2 ling1 hei2 go3 gip1"
+    },
+    {
+      "english": "After rehab, my grip strength came back a lot, so I can hold things better.",
+      "traditional": "我做完復健之後，握力強返好多。",
+      "jyutping": "ngo5 zou6 jyun4 fuk6 gin6 zi1 hau6 aak1 lik6 koeng4 faan1 hou2 do1"
     }
   ]
 }

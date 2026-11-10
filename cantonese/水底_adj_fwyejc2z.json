@@ -1,37 +1,33 @@
 {
   "id": "fwyejc2z",
   "partOfSpeech": "adj",
+  "meaning": "underwater",
+  "english": [
+    {
+      "id": "e19f46ph",
+      "word": "undersea",
+      "meaning": "beneath the sea",
+      "note": "This is the all-purpose choice for something beneath the water surface or underwater."
+    },
+    {
+      "id": "t6vdh4qp",
+      "word": "marine",
+      "meaning": "for underwater use",
+      "note": "Use this specifically for underwater conditions or equipment, whether in seawater or freshwater."
+    }
+  ],
   "traditional": "水底",
   "jyutping": "seoi2 dai2",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "underwater",
-      "english": [
-        {
-          "id": "e19f46ph",
-          "word": "undersea",
-          "meaning": "beneath the sea",
-          "note": "This is the all-purpose choice for something beneath the water surface or underwater."
-        },
-        {
-          "id": "t6vdh4qp",
-          "word": "marine",
-          "meaning": "for underwater use",
-          "note": "Use this specifically for underwater conditions or equipment, whether in seawater or freshwater."
-        }
-      ],
-      "examples": [
-        {
-          "english": "We took a glass-bottom boat to see the undersea world.",
-          "traditional": "水底",
-          "jyutping": "seoi2 dai2"
-        },
-        {
-          "english": "This marine camera still works after being submerged for so long.",
-          "traditional": "水底攝影機浸咗咁耐都仲用得。",
-          "jyutping": "seoi2 dai2 sip3 jing2 gei1 zam3 zo2 gam3 noi6 dou1 zung6 jung6 dak1"
-        }
-      ]
+      "english": "We took a glass-bottom boat to see the undersea world.",
+      "traditional": "水底",
+      "jyutping": "seoi2 dai2"
+    },
+    {
+      "english": "This marine camera still works after being submerged for so long.",
+      "traditional": "水底攝影機浸咗咁耐都仲用得。",
+      "jyutping": "seoi2 dai2 sip3 jing2 gei1 zam3 zo2 gam3 noi6 dou1 zung6 jung6 dak1"
     }
   ]
 }
