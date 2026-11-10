@@ -1,28 +1,24 @@
 {
   "id": "ln6k70iu",
   "partOfSpeech": "noun",
+  "meaning": "jury member",
+  "english": [
+    {
+      "id": "32c44x2t",
+      "word": "juror",
+      "meaning": "jury member",
+      "register": "formal",
+      "note": "This is the all-purpose term for a member of a jury."
+    }
+  ],
   "traditional": "陪審員",
   "jyutping": "pui4 sam2 jyun4",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "jury member",
-      "english": [
-        {
-          "id": "32c44x2t",
-          "word": "juror",
-          "meaning": "jury member",
-          "register": "formal",
-          "note": "This is the all-purpose term for a member of a jury."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "After the case is opened, a juror must listen carefully to the evidence.",
-          "traditional": "法庭宣讀案情之後，陪審員要細心聽取證供。",
-          "jyutping": "faat3 ting4 syun1 duk6 on3 cing4 zi1 hau6 pui4 sam2 jyun4 jiu3 sai3 sam1 ting1 ceoi2 zing3 gung1"
-        }
-      ]
+      "english": "After the case is opened, a juror must listen carefully to the evidence.",
+      "traditional": "法庭宣讀案情之後，陪審員要細心聽取證供。",
+      "jyutping": "faat3 ting4 syun1 duk6 on3 cing4 zi1 hau6 pui4 sam2 jyun4 jiu3 sai3 sam1 ting1 ceoi2 zing3 gung1"
     }
   ]
 }

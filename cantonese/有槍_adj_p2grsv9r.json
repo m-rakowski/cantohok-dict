@@ -1,26 +1,22 @@
 {
   "id": "p2grsv9r",
   "partOfSpeech": "adj",
+  "meaning": "person with a gun",
+  "english": [
+    {
+      "id": "9f20gr6t",
+      "word": "armed",
+      "meaning": "person with a gun",
+      "note": "Use this when specifying that the person is carrying or equipped with a gun."
+    }
+  ],
   "traditional": "有槍",
   "jyutping": "jau5 coeng1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "person with a gun",
-      "english": [
-        {
-          "id": "9f20gr6t",
-          "word": "armed",
-          "meaning": "person with a gun",
-          "note": "Use this when specifying that the person is carrying or equipped with a gun."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The police said the suspect was armed.",
-          "traditional": "警察話個疑犯有槍。",
-          "jyutping": "ging2 caat3 waa6 go3 ji4 faan6 jau5 coeng1"
-        }
-      ]
+      "english": "The police said the suspect was armed.",
+      "traditional": "警察話個疑犯有槍。",
+      "jyutping": "ging2 caat3 waa6 go3 ji4 faan6 jau5 coeng1"
     }
   ]
 }

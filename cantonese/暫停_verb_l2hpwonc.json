@@ -1,37 +1,33 @@
 {
   "id": "l2hpwonc",
   "partOfSpeech": "verb",
+  "meaning": "pause, stop for now",
+  "english": [
+    {
+      "id": "qe40opwa",
+      "word": "suspend",
+      "meaning": "halt temporarily",
+      "note": "Use 暫停 as the all-purpose choice for temporarily halting an activity, or for temporarily withdrawing a privilege or duty."
+    },
+    {
+      "id": "i9zglp3t",
+      "word": "pause",
+      "meaning": "pause playback",
+      "note": "Use this especially for pausing a song, video, game, or other playback so it can resume from the same point."
+    }
+  ],
   "traditional": "暫停",
   "jyutping": "zaam6 ting4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "pause, stop for now",
-      "english": [
-        {
-          "id": "qe40opwa",
-          "word": "suspend",
-          "meaning": "halt temporarily",
-          "note": "Use 暫停 as the all-purpose choice for temporarily halting an activity, or for temporarily withdrawing a privilege or duty."
-        },
-        {
-          "id": "i9zglp3t",
-          "word": "pause",
-          "meaning": "pause playback",
-          "note": "Use this especially for pausing a song, video, game, or other playback so it can resume from the same point."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Let's suspend tonight's livestream because the internet keeps cutting out.",
-          "traditional": "暫停今晚嘅直播啦，網絡成日斷。",
-          "jyutping": "zaam6 ting4 gam1 maan1 ge3 zik6 bo3 laa1 mong5 lok6 seng4 jat6 dyun6"
-        },
-        {
-          "english": "While the video was playing, I pressed pause.",
-          "traditional": "播緊片嗰陣，我按咗暫停。",
-          "jyutping": "bo3 gan2 pin3 go2 zan6 ngo5 on3 zo2 zaam6 ting4"
-        }
-      ]
+      "english": "Let's suspend tonight's livestream because the internet keeps cutting out.",
+      "traditional": "暫停今晚嘅直播啦，網絡成日斷。",
+      "jyutping": "zaam6 ting4 gam1 maan1 ge3 zik6 bo3 laa1 mong5 lok6 seng4 jat6 dyun6"
+    },
+    {
+      "english": "While the video was playing, I pressed pause.",
+      "traditional": "播緊片嗰陣，我按咗暫停。",
+      "jyutping": "bo3 gan2 pin3 go2 zan6 ngo5 on3 zo2 zaam6 ting4"
     }
   ]
 }

@@ -1,28 +1,24 @@
 {
   "id": "f88p1ez0",
   "partOfSpeech": "noun",
+  "meaning": "closed hand in rock-paper-scissors",
+  "english": [
+    {
+      "id": "c4cfetrg",
+      "word": "rock",
+      "meaning": "closed hand in rock-paper-scissors",
+      "register": "colloquial",
+      "note": "Use this for the closed-hand move in rock-paper-scissors, commonly in 包剪揼."
+    }
+  ],
   "traditional": "揼",
   "jyutping": "dap6",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "closed hand in rock-paper-scissors",
-      "english": [
-        {
-          "id": "c4cfetrg",
-          "word": "rock",
-          "meaning": "closed hand in rock-paper-scissors",
-          "register": "colloquial",
-          "note": "Use this for the closed-hand move in rock-paper-scissors, commonly in 包剪揼."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "Let's play rock-paper-scissors; the loser buys dinner.",
-          "traditional": "我哋包剪揼，輸嗰個請食飯。",
-          "jyutping": "ngo5 dei6 baau1 zin2 dap6 syu1 go2 go3 ceng2 sik6 faan6"
-        }
-      ]
+      "english": "Let's play rock-paper-scissors; the loser buys dinner.",
+      "traditional": "我哋包剪揼，輸嗰個請食飯。",
+      "jyutping": "ngo5 dei6 baau1 zin2 dap6 syu1 go2 go3 ceng2 sik6 faan6"
     }
   ]
 }

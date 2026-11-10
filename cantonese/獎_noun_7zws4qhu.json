@@ -1,37 +1,33 @@
 {
   "id": "7zws4qhu",
   "partOfSpeech": "noun",
+  "meaning": "prize, award",
+  "english": [
+    {
+      "id": "ehkpqsud",
+      "word": "award",
+      "meaning": "prize, medal, honor",
+      "note": "This is the all-purpose spoken noun for a prize or award when the exact form is not important."
+    },
+    {
+      "id": "fks7r0yr",
+      "word": "prize",
+      "meaning": "award / competition prize",
+      "note": "Use this shorter generic noun when the type of award or prize is clear from context."
+    }
+  ],
   "traditional": "獎",
   "jyutping": "zoeng2",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "prize, award",
-      "english": [
-        {
-          "id": "ehkpqsud",
-          "word": "award",
-          "meaning": "prize, medal, honor",
-          "note": "This is the all-purpose spoken noun for a prize or award when the exact form is not important."
-        },
-        {
-          "id": "fks7r0yr",
-          "word": "prize",
-          "meaning": "award / competition prize",
-          "note": "Use this shorter generic noun when the type of award or prize is clear from context."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I got an award in this competition.",
-          "traditional": "今次比賽我攞咗個獎。",
-          "jyutping": "gam1 ci3 bei2 coi3 ngo5 lo2 zo2 go3 zoeng2"
-        },
-        {
-          "english": "They finally won a prize.",
-          "traditional": "佢終於攞到個獎。",
-          "jyutping": "keoi5 zung1 jyu1 lo2 dou2 go3 zoeng2"
-        }
-      ]
+      "english": "I got an award in this competition.",
+      "traditional": "今次比賽我攞咗個獎。",
+      "jyutping": "gam1 ci3 bei2 coi3 ngo5 lo2 zo2 go3 zoeng2"
+    },
+    {
+      "english": "They finally won a prize.",
+      "traditional": "佢終於攞到個獎。",
+      "jyutping": "keoi5 zung1 jyu1 lo2 dou2 go3 zoeng2"
     }
   ]
 }

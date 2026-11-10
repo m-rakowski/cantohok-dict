@@ -1,38 +1,34 @@
 {
   "id": "1ha8cbct",
   "partOfSpeech": "noun",
+  "meaning": "countryside, village",
+  "english": [
+    {
+      "id": "c5v4nwea",
+      "word": "countryside",
+      "meaning": "rural area",
+      "note": "This is the colloquial all-purpose choice, especially for a rural place or village area rather than a city."
+    },
+    {
+      "id": "qkuvbwi2",
+      "word": "country",
+      "meaning": "countryside",
+      "register": "colloquial",
+      "note": "Use this for rural countryside as opposed to a town or city."
+    }
+  ],
   "traditional": "鄉下",
   "jyutping": "hoeng1 haa6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "countryside, village",
-      "english": [
-        {
-          "id": "c5v4nwea",
-          "word": "countryside",
-          "meaning": "rural area",
-          "note": "This is the colloquial all-purpose choice, especially for a rural place or village area rather than a city."
-        },
-        {
-          "id": "qkuvbwi2",
-          "word": "country",
-          "meaning": "countryside",
-          "register": "colloquial",
-          "note": "Use this for rural countryside as opposed to a town or city."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I often went back to the countryside to visit my grandmother when I was little.",
-          "traditional": "我細個成日返鄉下探婆婆。",
-          "jyutping": "ngo5 sai3 go3 seng4 jat6 faan1 hoeng1 haa6 taam3 po4 po2"
-        },
-        {
-          "english": "I lived in the country when I was young and played by the fields every day.",
-          "traditional": "我細個喺鄉下住，日日都去田邊玩。",
-          "jyutping": "ngo5 sai3 go3 hai2 hoeng1 haa6 zyu6 jat6 jat6 dou1 heoi3 tin4 bin1 waan2"
-        }
-      ]
+      "english": "I often went back to the countryside to visit my grandmother when I was little.",
+      "traditional": "我細個成日返鄉下探婆婆。",
+      "jyutping": "ngo5 sai3 go3 seng4 jat6 faan1 hoeng1 haa6 taam3 po4 po2"
+    },
+    {
+      "english": "I lived in the country when I was young and played by the fields every day.",
+      "traditional": "我細個喺鄉下住，日日都去田邊玩。",
+      "jyutping": "ngo5 sai3 go3 hai2 hoeng1 haa6 zyu6 jat6 jat6 dou1 heoi3 tin4 bin1 waan2"
     }
   ]
 }

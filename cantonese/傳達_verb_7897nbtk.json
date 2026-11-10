@@ -1,38 +1,34 @@
 {
   "id": "7897nbtk",
   "partOfSpeech": "verb",
+  "meaning": "to convey a message",
+  "english": [
+    {
+      "id": "gq3qetez",
+      "word": "convey",
+      "meaning": "communicate, express",
+      "note": "Use 傳達 when passing information, a message, or a meaning on to someone."
+    },
+    {
+      "id": "0l4rdlwo",
+      "word": "communicate",
+      "meaning": "talk/exchange information",
+      "register": "formal",
+      "note": "Use this more formal word for transmitting a message, idea, or information rather than for ordinary conversational exchange."
+    }
+  ],
   "traditional": "傳達",
   "jyutping": "cyun4 daat6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "to convey a message",
-      "english": [
-        {
-          "id": "gq3qetez",
-          "word": "convey",
-          "meaning": "communicate, express",
-          "note": "Use 傳達 when passing information, a message, or a meaning on to someone."
-        },
-        {
-          "id": "0l4rdlwo",
-          "word": "communicate",
-          "meaning": "talk/exchange information",
-          "register": "formal",
-          "note": "Use this more formal word for transmitting a message, idea, or information rather than for ordinary conversational exchange."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Please convey the message to Ming for me.",
-          "traditional": "麻煩你將個口信傳達畀阿明。",
-          "jyutping": "maa4 faan4 nei5 zoeng1 go3 hau2 seon3 cyun4 daat6 bei2 aa3 ming4"
-        },
-        {
-          "english": "This report will communicate the company’s position.",
-          "traditional": "呢份報告會傳達公司嘅立場。",
-          "jyutping": "ni1 fan6 bou3 gou3 wui5 cyun4 daat6 gung1 si1 ge3 lap6 coeng4"
-        }
-      ]
+      "english": "Please convey the message to Ming for me.",
+      "traditional": "麻煩你將個口信傳達畀阿明。",
+      "jyutping": "maa4 faan4 nei5 zoeng1 go3 hau2 seon3 cyun4 daat6 bei2 aa3 ming4"
+    },
+    {
+      "english": "This report will communicate the company’s position.",
+      "traditional": "呢份報告會傳達公司嘅立場。",
+      "jyutping": "ni1 fan6 bou3 gou3 wui5 cyun4 daat6 gung1 si1 ge3 lap6 coeng4"
     }
   ]
 }

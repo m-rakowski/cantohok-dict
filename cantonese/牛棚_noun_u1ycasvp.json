@@ -1,28 +1,24 @@
 {
   "id": "u1ycasvp",
   "partOfSpeech": "noun",
+  "meaning": "farm building",
+  "english": [
+    {
+      "id": "opgdaoie",
+      "word": "barn",
+      "meaning": "farm building",
+      "register": "colloquial",
+      "note": "This is the all-purpose choice when the barn is mainly for keeping cattle or other farm animals."
+    }
+  ],
   "traditional": "牛棚",
   "jyutping": "ngau4 paang4",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "farm building",
-      "english": [
-        {
-          "id": "opgdaoie",
-          "word": "barn",
-          "meaning": "farm building",
-          "register": "colloquial",
-          "note": "This is the all-purpose choice when the barn is mainly for keeping cattle or other farm animals."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "Those cows all sleep in the barn at night.",
-          "traditional": "嗰啲牛夜晚都喺牛棚瞓。",
-          "jyutping": "go2 di1 ngau4 je6 maan5 dou1 hai2 ngau4 paang4 fan3"
-        }
-      ]
+      "english": "Those cows all sleep in the barn at night.",
+      "traditional": "嗰啲牛夜晚都喺牛棚瞓。",
+      "jyutping": "go2 di1 ngau4 je6 maan5 dou1 hai2 ngau4 paang4 fan3"
     }
   ]
 }

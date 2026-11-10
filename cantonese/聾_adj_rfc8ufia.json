@@ -1,26 +1,22 @@
 {
   "id": "rfc8ufia",
   "partOfSpeech": "adj",
+  "meaning": "unable to hear",
+  "english": [
+    {
+      "id": "7nt30iyu",
+      "word": "deaf",
+      "meaning": "unable to hear",
+      "note": "This is the all-purpose adjective for being unable or partly able to hear."
+    }
+  ],
   "traditional": "聾",
   "jyutping": "lung4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "unable to hear",
-      "english": [
-        {
-          "id": "7nt30iyu",
-          "word": "deaf",
-          "meaning": "unable to hear",
-          "note": "This is the all-purpose adjective for being unable or partly able to hear."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I have been deaf since I was little.",
-          "traditional": "我細個嗰陣就聾喇。",
-          "jyutping": "ngo5 sai3 go3 go2 zan6 zau6 lung4 laa3"
-        }
-      ]
+      "english": "I have been deaf since I was little.",
+      "traditional": "我細個嗰陣就聾喇。",
+      "jyutping": "ngo5 sai3 go3 go2 zan6 zau6 lung4 laa3"
     }
   ]
 }

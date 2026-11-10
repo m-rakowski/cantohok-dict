@@ -1,38 +1,34 @@
 {
   "id": "y6trjp7r",
   "partOfSpeech": "noun",
+  "meaning": "bang, blast",
+  "english": [
+    {
+      "id": "6qb9gl9v",
+      "word": "bang",
+      "meaning": "loud bang",
+      "note": "Use this colloquial noun for a sudden loud bang or blast."
+    },
+    {
+      "id": "pfildq7n",
+      "word": "blast",
+      "meaning": "explosion",
+      "register": "colloquial",
+      "note": "Use this colloquial shorthand for an explosion, especially in casual references to blasting or demolition."
+    }
+  ],
   "traditional": "爆",
   "jyutping": "baau3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "bang, blast",
-      "english": [
-        {
-          "id": "6qb9gl9v",
-          "word": "bang",
-          "meaning": "loud bang",
-          "note": "Use this colloquial noun for a sudden loud bang or blast."
-        },
-        {
-          "id": "pfildq7n",
-          "word": "blast",
-          "meaning": "explosion",
-          "register": "colloquial",
-          "note": "Use this colloquial shorthand for an explosion, especially in casual references to blasting or demolition."
-        }
-      ],
-      "examples": [
-        {
-          "english": "There was a sudden bang next door just now, and it scared me.",
-          "traditional": "頭先隔離突然爆咗一聲，嚇親我。",
-          "jyutping": "tau4 sin1 gaak3 lei4 dat6 jin4 baau3 zo2 jat1 seng1 haa5 can1 ngo5"
-        },
-        {
-          "english": "We need a blast to demolish that rock wall.",
-          "traditional": "拆嗰幅石牆要用爆。",
-          "jyutping": "caak3 go2 fuk1 sek6 coeng4 jiu3 jung6 baau3"
-        }
-      ]
+      "english": "There was a sudden bang next door just now, and it scared me.",
+      "traditional": "頭先隔離突然爆咗一聲，嚇親我。",
+      "jyutping": "tau4 sin1 gaak3 lei4 dat6 jin4 baau3 zo2 jat1 seng1 haa5 can1 ngo5"
+    },
+    {
+      "english": "We need a blast to demolish that rock wall.",
+      "traditional": "拆嗰幅石牆要用爆。",
+      "jyutping": "caak3 go2 fuk1 sek6 coeng4 jiu3 jung6 baau3"
     }
   ]
 }

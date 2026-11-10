@@ -1,81 +1,77 @@
 {
   "id": "uw45m4e6",
   "partOfSpeech": "verb",
+  "meaning": "to get worse",
+  "english": [
+    {
+      "id": "lto43msq",
+      "word": "worsen",
+      "meaning": "become worse",
+      "note": "This is the all-purpose spoken choice when something becomes worse, such as the weather or a situation."
+    },
+    {
+      "id": "xzbxho2g",
+      "word": "degrade",
+      "meaning": "become worse; deteriorate",
+      "note": "This is the all-purpose everyday choice when something becomes worse in quality or purity."
+    },
+    {
+      "id": "gyx7uhw9",
+      "word": "decline",
+      "meaning": "become worse",
+      "note": "Use 變差 as the all-purpose spoken verb when a condition, situation, or someone's health becomes worse."
+    },
+    {
+      "id": "pjrvs9mz",
+      "word": "decay",
+      "meaning": "deteriorate; decline",
+      "note": "Use this for a decline in quality, condition, performance, or health rather than physical rotting."
+    },
+    {
+      "id": "pkxaxhjs",
+      "word": "descend",
+      "meaning": "deteriorate into",
+      "note": "Use this when a situation itself worsens or deteriorates."
+    },
+    {
+      "id": "ds9bd2z2",
+      "word": "suffer",
+      "meaning": "be adversely affected",
+      "note": "Use this when a situation, performance, or condition becomes worse, as in schoolwork suffering."
+    }
+  ],
   "traditional": "變差",
   "jyutping": "bin3 caa1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "to get worse",
-      "english": [
-        {
-          "id": "lto43msq",
-          "word": "worsen",
-          "meaning": "become worse",
-          "note": "This is the all-purpose spoken choice when something becomes worse, such as the weather or a situation."
-        },
-        {
-          "id": "xzbxho2g",
-          "word": "degrade",
-          "meaning": "become worse; deteriorate",
-          "note": "This is the all-purpose everyday choice when something becomes worse in quality or purity."
-        },
-        {
-          "id": "gyx7uhw9",
-          "word": "decline",
-          "meaning": "become worse",
-          "note": "Use 變差 as the all-purpose spoken verb when a condition, situation, or someone's health becomes worse."
-        },
-        {
-          "id": "pjrvs9mz",
-          "word": "decay",
-          "meaning": "deteriorate; decline",
-          "note": "Use this for a decline in quality, condition, performance, or health rather than physical rotting."
-        },
-        {
-          "id": "pkxaxhjs",
-          "word": "descend",
-          "meaning": "deteriorate into",
-          "note": "Use this when a situation itself worsens or deteriorates."
-        },
-        {
-          "id": "ds9bd2z2",
-          "word": "suffer",
-          "meaning": "be adversely affected",
-          "note": "Use this when a situation, performance, or condition becomes worse, as in schoolwork suffering."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The weather is starting to worsen.",
-          "traditional": "天氣開始變差喇。",
-          "jyutping": "tin1 hei3 hoi1 ci2 bin3 caa1 laa3"
-        },
-        {
-          "english": "After a few years of use, the phone's battery performance began to degrade.",
-          "traditional": "呢部手機用咗幾年，電池性能明顯變差。",
-          "jyutping": "ne1 bou6 sau2 gei1 jung6 zo2 gei2 nin4 din6 ci4 sing3 nang4 ming4 hin2 bin3 caa1"
-        },
-        {
-          "english": "They’ve been ill for days, and their condition has begun to decline.",
-          "traditional": "佢病咗幾日，身體狀況變差咗。",
-          "jyutping": "keoi5 beng6 zo2 gei2 jat6 san1 tai2 zong6 fong3 bin3 caa1 zo2"
-        },
-        {
-          "english": "My memory has started to decay lately.",
-          "traditional": "我最近記憶力變差咗。",
-          "jyutping": "ngo5 zeoi3 gan6 gei3 jik1 lik6 bin3 caa1 zo2"
-        },
-        {
-          "english": "The company's business has begun to descend into a slump.",
-          "traditional": "公司生意開始變差喇。",
-          "jyutping": "gung1 si1 saang1 ji3 hoi1 ci2 bin3 caa1 laa3"
-        },
-        {
-          "english": "My schoolwork has started to suffer lately.",
-          "traditional": "我份功課近排變差咗。",
-          "jyutping": "ngo5 fan6 gung1 fo3 gan6 paai4 bin3 caa1 zo2"
-        }
-      ]
+      "english": "The weather is starting to worsen.",
+      "traditional": "天氣開始變差喇。",
+      "jyutping": "tin1 hei3 hoi1 ci2 bin3 caa1 laa3"
+    },
+    {
+      "english": "After a few years of use, the phone's battery performance began to degrade.",
+      "traditional": "呢部手機用咗幾年，電池性能明顯變差。",
+      "jyutping": "ne1 bou6 sau2 gei1 jung6 zo2 gei2 nin4 din6 ci4 sing3 nang4 ming4 hin2 bin3 caa1"
+    },
+    {
+      "english": "They’ve been ill for days, and their condition has begun to decline.",
+      "traditional": "佢病咗幾日，身體狀況變差咗。",
+      "jyutping": "keoi5 beng6 zo2 gei2 jat6 san1 tai2 zong6 fong3 bin3 caa1 zo2"
+    },
+    {
+      "english": "My memory has started to decay lately.",
+      "traditional": "我最近記憶力變差咗。",
+      "jyutping": "ngo5 zeoi3 gan6 gei3 jik1 lik6 bin3 caa1 zo2"
+    },
+    {
+      "english": "The company's business has begun to descend into a slump.",
+      "traditional": "公司生意開始變差喇。",
+      "jyutping": "gung1 si1 saang1 ji3 hoi1 ci2 bin3 caa1 laa3"
+    },
+    {
+      "english": "My schoolwork has started to suffer lately.",
+      "traditional": "我份功課近排變差咗。",
+      "jyutping": "ngo5 fan6 gung1 fo3 gan6 paai4 bin3 caa1 zo2"
     }
   ]
 }

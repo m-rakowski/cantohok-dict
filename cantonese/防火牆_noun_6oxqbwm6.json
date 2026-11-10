@@ -1,26 +1,22 @@
 {
   "id": "6oxqbwm6",
   "partOfSpeech": "noun",
+  "meaning": "computer security software",
+  "english": [
+    {
+      "id": "64jgxfsq",
+      "word": "firewall",
+      "meaning": "computer security software",
+      "note": "This is the all-purpose equivalent for both a physical fire barrier and computer-security software."
+    }
+  ],
   "traditional": "防火牆",
   "jyutping": "fong4 fo2 coeng4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "computer security software",
-      "english": [
-        {
-          "id": "64jgxfsq",
-          "word": "firewall",
-          "meaning": "computer security software",
-          "note": "This is the all-purpose equivalent for both a physical fire barrier and computer-security software."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The company's firewall blocked the suspicious connection.",
-          "traditional": "公司個防火牆擋住咗可疑嘅連線。",
-          "jyutping": "gung1 si1 go3 fong4 fo2 coeng4 dong2 zyu6 zo2 ho2 ji4 ge3 lin4 sin3"
-        }
-      ]
+      "english": "The company's firewall blocked the suspicious connection.",
+      "traditional": "公司個防火牆擋住咗可疑嘅連線。",
+      "jyutping": "gung1 si1 go3 fong4 fo2 coeng4 dong2 zyu6 zo2 ho2 ji4 ge3 lin4 sin3"
     }
   ]
 }

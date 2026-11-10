@@ -1,100 +1,78 @@
 {
   "id": "7fqoicya",
   "partOfSpeech": "adv",
-  "traditional": "幾",
-  "jyutping": "gei2",
-  "boxes": [
+  "meaning": "fairly, quite",
+  "english": [
     {
-      "meaning": "fairly, quite",
-      "english": [
-        {
-          "id": "qr2zqkt1",
-          "word": "pretty",
-          "meaning": "somewhat; fairly",
-          "note": "This is the all-purpose spoken choice before an adjective for “fairly,” “quite,” or “pretty,” sometimes with deliberate understatement."
-        },
-        {
-          "id": "5l05xlrr",
-          "word": "quite",
-          "meaning": "somewhat; rather",
-          "note": "Use this as the all-purpose everyday adverb for a moderate degree, as in “quite wet.”"
-        },
-        {
-          "id": "za398b7g",
-          "word": "fairly",
-          "meaning": "quite, somewhat",
-          "note": "This is the all-purpose choice for saying that something is quite or somewhat so, as in 幾乾."
-        },
-        {
-          "id": "gu87zfb5",
-          "word": "reasonably",
-          "meaning": "fairly; moderately",
-          "note": "This is the all-purpose colloquial choice for saying something is fairly or quite so, without suggesting an extreme."
-        },
-        {
-          "id": "uzrrulnt",
-          "word": "relatively",
-          "meaning": "somewhat; fairly",
-          "register": "colloquial",
-          "note": "Use this for the ‘fairly’ or ‘quite’ sense when no specific comparison is being made."
-        },
-        {
-          "id": "xkikmy8q",
-          "word": "rather",
-          "meaning": "quite; fairly",
-          "note": "Use this before an adjective when “rather” means fairly or quite, as in “rather good.”"
-        }
-      ],
-      "examples": [
-        {
-          "english": "This restaurant is pretty good.",
-          "traditional": "呢間餐廳幾好食喎。",
-          "jyutping": "ni1 gaan1 caan1 teng1 gei2 hou2 sik6 wo3"
-        },
-        {
-          "english": "I'm quite tired.",
-          "traditional": "我幾攰喎。",
-          "jyutping": "ngo5 gei2 gui6 wo3"
-        },
-        {
-          "english": "This restaurant is fairly tasty.",
-          "traditional": "呢間餐廳幾好食。",
-          "jyutping": "ni1 gaan1 caan1 teng1 gei2 hou2 sik6"
-        },
-        {
-          "english": "The food at this restaurant is reasonably good.",
-          "traditional": "呢間餐廳幾好食喎。",
-          "jyutping": "ne1 gaan1 caan1 teng1 gei2 hou2 sik6 wo3"
-        },
-        {
-          "english": "The weather is relatively good today.",
-          "traditional": "今日天氣幾好。",
-          "jyutping": "gam1 jat6 tin1 hei3 gei2 hou2"
-        },
-        {
-          "english": "The food at this restaurant is rather good.",
-          "traditional": "呢間餐廳啲嘢食幾好喎。",
-          "jyutping": "ni1 gaan1 caan1 teng1 di1 je5 sik6 gei2 hou2 wo3"
-        }
-      ]
+      "id": "qr2zqkt1",
+      "word": "pretty",
+      "meaning": "somewhat; fairly",
+      "note": "This is the all-purpose spoken choice before an adjective for “fairly,” “quite,” or “pretty,” sometimes with deliberate understatement."
     },
     {
-      "meaning": "how (asking degree)",
-      "english": [
-        {
-          "id": "rclfzkuh",
-          "word": "how",
-          "meaning": "to what degree",
-          "note": "Use 幾 to ask to what degree or extent, often before a measure or adjective."
-        }
-      ],
-      "examples": [
-        {
-          "english": "How far is this road?",
-          "traditional": "呢條路有幾遠呀？",
-          "jyutping": "nei1 tiu4 lou6 jau5 gei2 jyun5 aa3"
-        }
-      ]
+      "id": "5l05xlrr",
+      "word": "quite",
+      "meaning": "somewhat; rather",
+      "note": "Use this as the all-purpose everyday adverb for a moderate degree, as in “quite wet.”"
+    },
+    {
+      "id": "za398b7g",
+      "word": "fairly",
+      "meaning": "quite, somewhat",
+      "note": "This is the all-purpose choice for saying that something is quite or somewhat so, as in 幾乾."
+    },
+    {
+      "id": "gu87zfb5",
+      "word": "reasonably",
+      "meaning": "fairly; moderately",
+      "note": "This is the all-purpose colloquial choice for saying something is fairly or quite so, without suggesting an extreme."
+    },
+    {
+      "id": "uzrrulnt",
+      "word": "relatively",
+      "meaning": "somewhat; fairly",
+      "register": "colloquial",
+      "note": "Use this for the ‘fairly’ or ‘quite’ sense when no specific comparison is being made."
+    },
+    {
+      "id": "xkikmy8q",
+      "word": "rather",
+      "meaning": "quite; fairly",
+      "note": "Use this before an adjective when “rather” means fairly or quite, as in “rather good.”"
+    }
+  ],
+  "traditional": "幾",
+  "jyutping": "gei2",
+  "examples": [
+    {
+      "english": "This restaurant is pretty good.",
+      "traditional": "呢間餐廳幾好食喎。",
+      "jyutping": "ni1 gaan1 caan1 teng1 gei2 hou2 sik6 wo3"
+    },
+    {
+      "english": "I'm quite tired.",
+      "traditional": "我幾攰喎。",
+      "jyutping": "ngo5 gei2 gui6 wo3"
+    },
+    {
+      "english": "This restaurant is fairly tasty.",
+      "traditional": "呢間餐廳幾好食。",
+      "jyutping": "ni1 gaan1 caan1 teng1 gei2 hou2 sik6"
+    },
+    {
+      "english": "The food at this restaurant is reasonably good.",
+      "traditional": "呢間餐廳幾好食喎。",
+      "jyutping": "ne1 gaan1 caan1 teng1 gei2 hou2 sik6 wo3"
+    },
+    {
+      "english": "The weather is relatively good today.",
+      "traditional": "今日天氣幾好。",
+      "jyutping": "gam1 jat6 tin1 hei3 gei2 hou2"
+    },
+    {
+      "english": "The food at this restaurant is rather good.",
+      "traditional": "呢間餐廳啲嘢食幾好喎。",
+      "jyutping": "ni1 gaan1 caan1 teng1 di1 je5 sik6 gei2 hou2 wo3"
     }
   ]
 }

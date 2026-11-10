@@ -1,26 +1,22 @@
 {
   "id": "86qk0wiq",
   "partOfSpeech": "pron",
+  "meaning": "indefinite pronoun",
+  "english": [
+    {
+      "id": "ayv5dw5v",
+      "word": "who",
+      "meaning": "indefinite pronoun",
+      "note": "Use this construction for “whoever,” meaning that anyone who does V also satisfies A."
+    }
+  ],
   "traditional": "邊個 + V + 都 + A",
   "jyutping": "bin1 go3 V dou1 A",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "indefinite pronoun",
-      "english": [
-        {
-          "id": "ayv5dw5v",
-          "word": "who",
-          "meaning": "indefinite pronoun",
-          "note": "Use this construction for “whoever,” meaning that anyone who does V also satisfies A."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Anyone who comes is fine.",
-          "traditional": "邊個嚟都得。",
-          "jyutping": "bin1 go3 lei4 dou1 dak1"
-        }
-      ]
+      "english": "Anyone who comes is fine.",
+      "traditional": "邊個嚟都得。",
+      "jyutping": "bin1 go3 lei4 dou1 dak1"
     }
   ]
 }

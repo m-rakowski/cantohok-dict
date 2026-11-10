@@ -1,37 +1,33 @@
 {
   "id": "mjrcnsgc",
   "partOfSpeech": "noun",
+  "meaning": "ratio, proportion",
+  "english": [
+    {
+      "id": "g9bfo529",
+      "word": "proportion",
+      "meaning": "part of a whole",
+      "note": "Use 比例 as the all-purpose noun for a ratio or the relative size and balance of parts."
+    },
+    {
+      "id": "jbqm2txg",
+      "word": "rate",
+      "meaning": "ratio; proportion",
+      "note": "Use this for the proportional relationship between two amounts or values."
+    }
+  ],
   "traditional": "比例",
   "jyutping": "bei2 lai6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "ratio, proportion",
-      "english": [
-        {
-          "id": "g9bfo529",
-          "word": "proportion",
-          "meaning": "part of a whole",
-          "note": "Use 比例 as the all-purpose noun for a ratio or the relative size and balance of parts."
-        },
-        {
-          "id": "jbqm2txg",
-          "word": "rate",
-          "meaning": "ratio; proportion",
-          "note": "Use this for the proportional relationship between two amounts or values."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The proportion of men and women isn't balanced.",
-          "traditional": "男女比例唔平均。",
-          "jyutping": "naam4 neoi5 bei2 lai6 m4 ping4 gwan1"
-        },
-        {
-          "english": "The rate of oil to water is one to three.",
-          "traditional": "油同水嘅比例係一比三。",
-          "jyutping": "jau4 tung4 seoi2 ge3 bei2 lai6 hai6 jat1 bei2 saam1"
-        }
-      ]
+      "english": "The proportion of men and women isn't balanced.",
+      "traditional": "男女比例唔平均。",
+      "jyutping": "naam4 neoi5 bei2 lai6 m4 ping4 gwan1"
+    },
+    {
+      "english": "The rate of oil to water is one to three.",
+      "traditional": "油同水嘅比例係一比三。",
+      "jyutping": "jau4 tung4 seoi2 ge3 bei2 lai6 hai6 jat1 bei2 saam1"
     }
   ]
 }

@@ -1,37 +1,33 @@
 {
   "id": "obv24qaq",
   "partOfSpeech": "noun",
+  "meaning": "shelter",
+  "english": [
+    {
+      "id": "qy0zka6e",
+      "word": "hostel",
+      "meaning": "homeless shelter",
+      "note": "Use this for a shelter providing homeless people with a temporary bed and possibly food."
+    },
+    {
+      "id": "pgtfrvz6",
+      "word": "home",
+      "meaning": "refuge or care home",
+      "note": "Use this for a refuge or asylum, not for an ordinary private home."
+    }
+  ],
   "traditional": "收容所",
   "jyutping": "sau1 jung4 so2",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "shelter",
-      "english": [
-        {
-          "id": "qy0zka6e",
-          "word": "hostel",
-          "meaning": "homeless shelter",
-          "note": "Use this for a shelter providing homeless people with a temporary bed and possibly food."
-        },
-        {
-          "id": "pgtfrvz6",
-          "word": "home",
-          "meaning": "refuge or care home",
-          "note": "Use this for a refuge or asylum, not for an ordinary private home."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This hostel lets homeless people stay temporarily.",
-          "traditional": "呢間收容所畀無家可歸嘅人暫住。",
-          "jyutping": "ni1 gaan1 sau1 jung4 so2 bei2 mou4 gaa1 ho2 gwai1 ge3 jan4 zaam6 zyu6"
-        },
-        {
-          "english": "This shelter gives homeless people a temporary home.",
-          "traditional": "呢間收容所俾無家可歸嘅人一個暫時嘅家。",
-          "jyutping": "ni1 gaan1 sau1 jung4 so2 bei2 mou4 gaa1 ho2 gwai1 ge3 jan4 jat1 go3 zaam6 si4 ge3 gaa1"
-        }
-      ]
+      "english": "This hostel lets homeless people stay temporarily.",
+      "traditional": "呢間收容所畀無家可歸嘅人暫住。",
+      "jyutping": "ni1 gaan1 sau1 jung4 so2 bei2 mou4 gaa1 ho2 gwai1 ge3 jan4 zaam6 zyu6"
+    },
+    {
+      "english": "This shelter gives homeless people a temporary home.",
+      "traditional": "呢間收容所俾無家可歸嘅人一個暫時嘅家。",
+      "jyutping": "ni1 gaan1 sau1 jung4 so2 bei2 mou4 gaa1 ho2 gwai1 ge3 jan4 jat1 go3 zaam6 si4 ge3 gaa1"
     }
   ]
 }

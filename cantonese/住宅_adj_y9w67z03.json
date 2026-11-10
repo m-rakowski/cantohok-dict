@@ -1,28 +1,24 @@
 {
   "id": "y9w67z03",
   "partOfSpeech": "adj",
+  "meaning": "housing area; homes",
+  "english": [
+    {
+      "id": "h7rf0q5h",
+      "word": "residential",
+      "meaning": "housing area; homes",
+      "register": "formal",
+      "note": "Use this attributively for housing-related places or facilities, especially in more formal descriptions."
+    }
+  ],
   "traditional": "住宅",
   "jyutping": "zyu6 zaak6",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "housing area; homes",
-      "english": [
-        {
-          "id": "h7rf0q5h",
-          "word": "residential",
-          "meaning": "housing area; homes",
-          "register": "formal",
-          "note": "Use this attributively for housing-related places or facilities, especially in more formal descriptions."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "This area is residential land, so bars are not allowed.",
-          "traditional": "呢區係住宅用地，唔准開酒吧。",
-          "jyutping": "ni1 keoi1 hai6 zyu6 zaak6 jung6 dei6 m4 zeon2 hoi1 zau2 baa1"
-        }
-      ]
+      "english": "This area is residential land, so bars are not allowed.",
+      "traditional": "呢區係住宅用地，唔准開酒吧。",
+      "jyutping": "ni1 keoi1 hai6 zyu6 zaak6 jung6 dei6 m4 zeon2 hoi1 zau2 baa1"
     }
   ]
 }

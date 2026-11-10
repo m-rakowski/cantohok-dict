@@ -1,28 +1,24 @@
 {
   "id": "f5f9l8wh",
   "partOfSpeech": "verb",
+  "meaning": "replace player in game",
+  "english": [
+    {
+      "id": "fhepddeg",
+      "word": "substitute",
+      "meaning": "replace player in game",
+      "register": "colloquial",
+      "note": "Use this specifically when one player is taken off and another player comes on."
+    }
+  ],
   "traditional": "換人",
   "jyutping": "wun6 jan4",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "replace player in game",
-      "english": [
-        {
-          "id": "fhepddeg",
-          "word": "substitute",
-          "meaning": "replace player in game",
-          "register": "colloquial",
-          "note": "Use this specifically when one player is taken off and another player comes on."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "The coach says we need to substitute a player.",
-          "traditional": "領隊話要換人喇。",
-          "jyutping": "ling5 deoi6 waa6 jiu3 wun6 jan4 laa3"
-        }
-      ]
+      "english": "The coach says we need to substitute a player.",
+      "traditional": "領隊話要換人喇。",
+      "jyutping": "ling5 deoi6 waa6 jiu3 wun6 jan4 laa3"
     }
   ]
 }

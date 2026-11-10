@@ -1,26 +1,22 @@
 {
   "id": "oir5upl6",
   "partOfSpeech": "num",
+  "meaning": "number 9",
+  "english": [
+    {
+      "id": "k32yaftn",
+      "word": "nine",
+      "meaning": "number 9",
+      "note": "This is the all-purpose Cantonese word for the number nine."
+    }
+  ],
   "traditional": "九",
   "jyutping": "gau2",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "number 9",
-      "english": [
-        {
-          "id": "k32yaftn",
-          "word": "nine",
-          "meaning": "number 9",
-          "note": "This is the all-purpose Cantonese word for the number nine."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I am nine years old.",
-          "traditional": "我今年九歲。",
-          "jyutping": "ngo5 gam1 nin4 gau2 seoi3"
-        }
-      ]
+      "english": "I am nine years old.",
+      "traditional": "我今年九歲。",
+      "jyutping": "ngo5 gam1 nin4 gau2 seoi3"
     }
   ]
 }

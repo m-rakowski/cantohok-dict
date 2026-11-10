@@ -1,37 +1,33 @@
 {
   "id": "j9gzq2hk",
   "partOfSpeech": "verb",
+  "meaning": "sweep away",
+  "english": [
+    {
+      "id": "mdfdn14o",
+      "word": "brush",
+      "meaning": "brush off / remove",
+      "note": "Use this for sweeping or brushing loose material away from a surface or person."
+    },
+    {
+      "id": "zow5pc9m",
+      "word": "sweep",
+      "meaning": "remove abruptly",
+      "note": "Use this when something is swept away or removed completely and abruptly, rather than merely cleaned."
+    }
+  ],
   "traditional": "掃走",
   "jyutping": "sou3 zau2",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "sweep away",
-      "english": [
-        {
-          "id": "mdfdn14o",
-          "word": "brush",
-          "meaning": "brush off / remove",
-          "note": "Use this for sweeping or brushing loose material away from a surface or person."
-        },
-        {
-          "id": "zow5pc9m",
-          "word": "sweep",
-          "meaning": "remove abruptly",
-          "note": "Use this when something is swept away or removed completely and abruptly, rather than merely cleaned."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Please brush the crumbs off the table.",
-          "traditional": "麻煩你掃走枱面啲麵包屑。",
-          "jyutping": "maa4 faan4 nei5 sou3 zau2 toi4 min6 di1 min6 baau1 sit3"
-        },
-        {
-          "english": "The downpour can sweep all the rubbish off the beach in one go.",
-          "traditional": "場暴雨將沙灘上啲垃圾一嘢掃走晒。",
-          "jyutping": "coeng4 bou6 jyu5 zoeng1 saa1 taan1 soeng6 di1 laap6 saap3 jat1 je5 sou3 zau2 saai3"
-        }
-      ]
+      "english": "Please brush the crumbs off the table.",
+      "traditional": "麻煩你掃走枱面啲麵包屑。",
+      "jyutping": "maa4 faan4 nei5 sou3 zau2 toi4 min6 di1 min6 baau1 sit3"
+    },
+    {
+      "english": "The downpour can sweep all the rubbish off the beach in one go.",
+      "traditional": "場暴雨將沙灘上啲垃圾一嘢掃走晒。",
+      "jyutping": "coeng4 bou6 jyu5 zoeng1 saa1 taan1 soeng6 di1 laap6 saap3 jat1 je5 sou3 zau2 saai3"
     }
   ]
 }

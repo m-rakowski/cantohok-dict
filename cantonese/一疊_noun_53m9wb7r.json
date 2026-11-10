@@ -1,37 +1,33 @@
 {
   "id": "53m9wb7r",
   "partOfSpeech": "noun",
+  "meaning": "a pile or stack of flat things",
+  "english": [
+    {
+      "id": "49la6d00",
+      "word": "sheaf",
+      "meaning": "bundle, bunch",
+      "note": "Use this for a sheaf or stack of papers and similar flat items."
+    },
+    {
+      "id": "4efa64ph",
+      "word": "pile",
+      "meaning": "layered pile",
+      "note": "Use this for a pile made by placing relatively flat items or layers on top of one another."
+    }
+  ],
   "traditional": "一疊",
   "jyutping": "jat1 dip6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "a pile or stack of flat things",
-      "english": [
-        {
-          "id": "49la6d00",
-          "word": "sheaf",
-          "meaning": "bundle, bunch",
-          "note": "Use this for a sheaf or stack of papers and similar flat items."
-        },
-        {
-          "id": "4efa64ph",
-          "word": "pile",
-          "meaning": "layered pile",
-          "note": "Use this for a pile made by placing relatively flat items or layers on top of one another."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I put a sheaf of papers on your desk.",
-          "traditional": "我執好一疊文件，擺喺你張枱面。",
-          "jyutping": "ngo5 zap1 hou2 jat1 dip6 man4 gin6 baai2 hai2 nei5 zoeng1 ci4 min6"
-        },
-        {
-          "english": "I put a pile of documents on the desk.",
-          "traditional": "我將一疊文件放咗喺枱面。",
-          "jyutping": "ngo5 zoeng1 jat1 dip6 man4 gin6 fong3 zo2 hai2 toi2 min6"
-        }
-      ]
+      "english": "I put a sheaf of papers on your desk.",
+      "traditional": "我執好一疊文件，擺喺你張枱面。",
+      "jyutping": "ngo5 zap1 hou2 jat1 dip6 man4 gin6 baai2 hai2 nei5 zoeng1 ci4 min6"
+    },
+    {
+      "english": "I put a pile of documents on the desk.",
+      "traditional": "我將一疊文件放咗喺枱面。",
+      "jyutping": "ngo5 zoeng1 jat1 dip6 man4 gin6 fong3 zo2 hai2 toi2 min6"
     }
   ]
 }

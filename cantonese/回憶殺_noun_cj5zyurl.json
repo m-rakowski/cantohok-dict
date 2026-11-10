@@ -1,28 +1,24 @@
 {
   "id": "cj5zyurl",
   "partOfSpeech": "noun",
+  "meaning": "memory trigger",
+  "english": [
+    {
+      "id": "cs86nplc",
+      "word": "flashback",
+      "meaning": "memory trigger",
+      "register": "colloquial",
+      "note": "Use this for a nostalgic thing or event that suddenly brings old memories back, rather than for a mental trauma episode."
+    }
+  ],
   "traditional": "回憶殺",
   "jyutping": "wui4 jik1 saat3",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "memory trigger",
-      "english": [
-        {
-          "id": "cs86nplc",
-          "word": "flashback",
-          "meaning": "memory trigger",
-          "register": "colloquial",
-          "note": "Use this for a nostalgic thing or event that suddenly brings old memories back, rather than for a mental trauma episode."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "Seeing this old drama again is a real flashback for me。",
-          "traditional": "回憶殺",
-          "jyutping": "wui4 jik1 saat3"
-        }
-      ]
+      "english": "Seeing this old drama again is a real flashback for me。",
+      "traditional": "回憶殺",
+      "jyutping": "wui4 jik1 saat3"
     }
   ]
 }

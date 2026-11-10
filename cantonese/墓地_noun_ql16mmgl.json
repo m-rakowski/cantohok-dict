@@ -1,28 +1,24 @@
 {
   "id": "ql16mmgl",
   "partOfSpeech": "noun",
+  "meaning": "burial ground",
+  "english": [
+    {
+      "id": "oyz7ksgi",
+      "word": "cemetery",
+      "meaning": "burial ground",
+      "register": "formal",
+      "note": "Use this as a more formal or neutral term, especially when referring to the burial land itself rather than simply saying 墳場."
+    }
+  ],
   "traditional": "墓地",
   "jyutping": "mou6 dei6",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "burial ground",
-      "english": [
-        {
-          "id": "oyz7ksgi",
-          "word": "cemetery",
-          "meaning": "burial ground",
-          "register": "formal",
-          "note": "Use this as a more formal or neutral term, especially when referring to the burial land itself rather than simply saying 墳場."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "This plot of land is a cemetery planned by the government.",
-          "traditional": "呢幅地係政府規劃嘅墓地。",
-          "jyutping": "ni1 fuk1 dei6 hai6 zing3 fu2 kwai1 waak6 ge3 mou6 dei6"
-        }
-      ]
+      "english": "This plot of land is a cemetery planned by the government.",
+      "traditional": "呢幅地係政府規劃嘅墓地。",
+      "jyutping": "ni1 fuk1 dei6 hai6 zing3 fu2 kwai1 waak6 ge3 mou6 dei6"
     }
   ]
 }

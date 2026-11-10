@@ -1,59 +1,55 @@
 {
   "id": "4s6uc6rc",
   "partOfSpeech": "noun",
+  "meaning": "wasteland, unused land",
+  "english": [
+    {
+      "id": "n80av7n5",
+      "word": "desert",
+      "meaning": "barren land, wasteland",
+      "note": "Use this for barren or unused wasteland that is not necessarily a sandy desert."
+    },
+    {
+      "id": "wgo2zlu0",
+      "word": "wilderness",
+      "meaning": "wild uncultivated land",
+      "note": "Pick this when emphasizing land that is barren, unused, or left uncultivated rather than a natural wilderness."
+    },
+    {
+      "id": "7laj5h3r",
+      "word": "desolation",
+      "meaning": "waste, deserted place",
+      "note": "Use this when the desolate place is wasteland or uncultivated land rather than ruins."
+    },
+    {
+      "id": "b9pgh8et",
+      "word": "bush",
+      "meaning": "wild scrubland",
+      "note": "Use this for undeveloped scrubby land, especially when the setting matters more than the vegetation itself."
+    }
+  ],
   "traditional": "荒地",
   "jyutping": "fong1 dei6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "wasteland, unused land",
-      "english": [
-        {
-          "id": "n80av7n5",
-          "word": "desert",
-          "meaning": "barren land, wasteland",
-          "note": "Use this for barren or unused wasteland that is not necessarily a sandy desert."
-        },
-        {
-          "id": "wgo2zlu0",
-          "word": "wilderness",
-          "meaning": "wild uncultivated land",
-          "note": "Pick this when emphasizing land that is barren, unused, or left uncultivated rather than a natural wilderness."
-        },
-        {
-          "id": "7laj5h3r",
-          "word": "desolation",
-          "meaning": "waste, deserted place",
-          "note": "Use this when the desolate place is wasteland or uncultivated land rather than ruins."
-        },
-        {
-          "id": "b9pgh8et",
-          "word": "bush",
-          "meaning": "wild scrubland",
-          "note": "Use this for undeveloped scrubby land, especially when the setting matters more than the vegetation itself."
-        }
-      ],
-      "examples": [
-        {
-          "english": "That desert has been neglected for years and is now covered in weeds.",
-          "traditional": "嗰片荒地多年冇人打理，已經長滿雜草。",
-          "jyutping": "go2 pin3 fong1 dei6 do1 nin4 mou5 jan4 daa2 lei5 ji5 ging1 zoeng2 mun5 zaap6 cou2"
-        },
-        {
-          "english": "This barren wilderness has been left unused for many years, and nothing can grow there.",
-          "traditional": "呢幅荒地丟空咗好多年，乜都種唔到。",
-          "jyutping": "ni1 fuk1 fong1 dei6 diu1 hung1 zo2 hou2 do1 nin4 mat1 dou1 zung3 m4 dou3"
-        },
-        {
-          "english": "No one wants to rent that patch of desolation by the hillside.",
-          "traditional": "山邊嗰塊荒地，冇人肯租。",
-          "jyutping": "saan1 bin1 go2 faai3 fong1 dei6 mou5 jan4 hang2 zou1"
-        },
-        {
-          "english": "The bush behind the village is always full of weeds.",
-          "traditional": "村後面嗰幅荒地成日有野草生出嚟。",
-          "jyutping": "cyun1 hau6 min6 go2 fuk1 fong1 dei6 seng4 jat6 jau5 je5 cou2 saang1 ceot1 lei4"
-        }
-      ]
+      "english": "That desert has been neglected for years and is now covered in weeds.",
+      "traditional": "嗰片荒地多年冇人打理，已經長滿雜草。",
+      "jyutping": "go2 pin3 fong1 dei6 do1 nin4 mou5 jan4 daa2 lei5 ji5 ging1 zoeng2 mun5 zaap6 cou2"
+    },
+    {
+      "english": "This barren wilderness has been left unused for many years, and nothing can grow there.",
+      "traditional": "呢幅荒地丟空咗好多年，乜都種唔到。",
+      "jyutping": "ni1 fuk1 fong1 dei6 diu1 hung1 zo2 hou2 do1 nin4 mat1 dou1 zung3 m4 dou3"
+    },
+    {
+      "english": "No one wants to rent that patch of desolation by the hillside.",
+      "traditional": "山邊嗰塊荒地，冇人肯租。",
+      "jyutping": "saan1 bin1 go2 faai3 fong1 dei6 mou5 jan4 hang2 zou1"
+    },
+    {
+      "english": "The bush behind the village is always full of weeds.",
+      "traditional": "村後面嗰幅荒地成日有野草生出嚟。",
+      "jyutping": "cyun1 hau6 min6 go2 fuk1 fong1 dei6 seng4 jat6 jau5 je5 cou2 saang1 ceot1 lei4"
     }
   ]
 }

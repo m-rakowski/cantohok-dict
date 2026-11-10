@@ -1,57 +1,33 @@
 {
   "id": "b9yh349d",
   "partOfSpeech": "noun",
-  "traditional": "圖",
-  "jyutping": "tou4",
-  "boxes": [
+  "meaning": "diagram, drawing",
+  "english": [
     {
-      "meaning": "diagram, drawing",
-      "english": [
-        {
-          "id": "e787ikim",
-          "word": "diagram",
-          "meaning": "technical drawing / schematic",
-          "note": "Use this as the all-purpose noun when the exact type of diagram is clear from context."
-        },
-        {
-          "id": "owndqpfj",
-          "word": "drawing",
-          "meaning": "picture / diagram",
-          "note": "Use this when the drawing is a diagram, plan, chart, or other informational representation rather than an artwork."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This diagram clearly explains how the machine works.",
-          "traditional": "呢幅圖好清楚咁講解部機點樣運作。",
-          "jyutping": "ni1 fuk1 tou4 hou2 cing1 co2 gam2 gong2 gaai2 bou6 gei1 dim2 joeng2 wan6 zok3"
-        },
-        {
-          "english": "You can understand this drawing at a glance.",
-          "traditional": "呢張圖一睇就明。",
-          "jyutping": "ni1 zoeng1 tou4 jat1 tai2 zau6 ming4"
-        }
-      ]
+      "id": "e787ikim",
+      "word": "diagram",
+      "meaning": "technical drawing / schematic",
+      "note": "Use this as the all-purpose noun when the exact type of diagram is clear from context."
     },
     {
-      "meaning": "graph in mathematics",
-      "english": [
-        {
-          "id": "2ar7rvde",
-          "word": "graph",
-          "meaning": "network of nodes",
-          "register": "formal",
-          "note": "Use this in graph theory for a structure of vertices or nodes joined by edges, rather than for an ordinary chart."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "In graph theory, this graph has six vertices.",
-          "traditional": "喺圖論入面，呢個圖有六個頂點。",
-          "jyutping": "hai2 tou4 leon6 jap6 min6 ni1 go3 tou4 jau5 luk6 go3 deng2 dim2"
-        }
-      ]
+      "id": "owndqpfj",
+      "word": "drawing",
+      "meaning": "picture / diagram",
+      "note": "Use this when the drawing is a diagram, plan, chart, or other informational representation rather than an artwork."
+    }
+  ],
+  "traditional": "圖",
+  "jyutping": "tou4",
+  "examples": [
+    {
+      "english": "This diagram clearly explains how the machine works.",
+      "traditional": "呢幅圖好清楚咁講解部機點樣運作。",
+      "jyutping": "ni1 fuk1 tou4 hou2 cing1 co2 gam2 gong2 gaai2 bou6 gei1 dim2 joeng2 wan6 zok3"
+    },
+    {
+      "english": "You can understand this drawing at a glance.",
+      "traditional": "呢張圖一睇就明。",
+      "jyutping": "ni1 zoeng1 tou4 jat1 tai2 zau6 ming4"
     }
   ]
 }

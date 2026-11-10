@@ -1,28 +1,24 @@
 {
   "id": "04fkdu0m",
   "partOfSpeech": "verb",
+  "meaning": "contain as part of",
+  "english": [
+    {
+      "id": "mod0k94d",
+      "word": "include",
+      "meaning": "contain as part of",
+      "register": "colloquial",
+      "note": "Use this colloquial choice when emphasizing that an item comes bundled or is included as well."
+    }
+  ],
   "traditional": "包埋",
   "jyutping": "baau1 maai4",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "contain as part of",
-      "english": [
-        {
-          "id": "mod0k94d",
-          "word": "include",
-          "meaning": "contain as part of",
-          "register": "colloquial",
-          "note": "Use this colloquial choice when emphasizing that an item comes bundled or is included as well."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "This deal will include a mouse as well.",
-          "traditional": "呢個優惠包埋個滑鼠。",
-          "jyutping": "ni1 go3 jau1 wai6 baau1 maai4 go3 waat6 syu2"
-        }
-      ]
+      "english": "This deal will include a mouse as well.",
+      "traditional": "呢個優惠包埋個滑鼠。",
+      "jyutping": "ni1 go3 jau1 wai6 baau1 maai4 go3 waat6 syu2"
     }
   ]
 }

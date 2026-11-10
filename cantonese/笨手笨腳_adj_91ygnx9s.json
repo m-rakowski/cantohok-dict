@@ -1,37 +1,33 @@
 {
   "id": "91ygnx9s",
   "partOfSpeech": "adj",
+  "meaning": "clumsy",
+  "english": [
+    {
+      "id": "d0dbkn6f",
+      "word": "clumsy",
+      "meaning": "physically awkward",
+      "note": "This is the all-purpose choice for someone who lacks physical coordination or dexterity."
+    },
+    {
+      "id": "uuq5ztlm",
+      "word": "awkward",
+      "meaning": "clumsy with hands",
+      "note": "Use this specifically for someone who is clumsy with their hands or movements."
+    }
+  ],
   "traditional": "笨手笨腳",
   "jyutping": "ban6 sau2 ban6 goek3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "clumsy",
-      "english": [
-        {
-          "id": "d0dbkn6f",
-          "word": "clumsy",
-          "meaning": "physically awkward",
-          "note": "This is the all-purpose choice for someone who lacks physical coordination or dexterity."
-        },
-        {
-          "id": "uuq5ztlm",
-          "word": "awkward",
-          "meaning": "clumsy with hands",
-          "note": "Use this specifically for someone who is clumsy with their hands or movements."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I'm really clumsy and always break things.",
-          "traditional": "我真係笨手笨腳，成日打爛啲嘢。",
-          "jyutping": "ngo5 zan1 hai6 ban6 sau2 ban6 goek3 seng4 jat6 daa2 laan6 di1 je5"
-        },
-        {
-          "english": "I was awkward with my hands the first time I made a cake.",
-          "traditional": "我第一次整蛋糕，成日都笨手笨腳。",
-          "jyutping": "ngo5 dai6 jat1 ci3 zing2 daan6 gou1 seng4 jat6 dou1 ban6 sau2 ban6 goek3"
-        }
-      ]
+      "english": "I'm really clumsy and always break things.",
+      "traditional": "我真係笨手笨腳，成日打爛啲嘢。",
+      "jyutping": "ngo5 zan1 hai6 ban6 sau2 ban6 goek3 seng4 jat6 daa2 laan6 di1 je5"
+    },
+    {
+      "english": "I was awkward with my hands the first time I made a cake.",
+      "traditional": "我第一次整蛋糕，成日都笨手笨腳。",
+      "jyutping": "ngo5 dai6 jat1 ci3 zing2 daan6 gou1 seng4 jat6 dou1 ban6 sau2 ban6 goek3"
     }
   ]
 }

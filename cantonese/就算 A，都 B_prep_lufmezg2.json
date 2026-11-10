@@ -1,38 +1,34 @@
 {
   "id": "lufmezg2",
   "partOfSpeech": "prep",
+  "meaning": "even if A, still B",
+  "english": [
+    {
+      "id": "q908j4x8",
+      "word": "notwithstanding",
+      "meaning": "in spite of; despite",
+      "note": "This is the all-purpose spoken construction for saying that B remains true despite A."
+    },
+    {
+      "id": "7j0f7ivx",
+      "word": "despite",
+      "meaning": "in spite of",
+      "register": "colloquial",
+      "note": "Use this when the concession has an even-if or stronger hypothetical flavour rather than simply stating an existing fact."
+    }
+  ],
   "traditional": "就算 A，都 B",
   "jyutping": "zau6 syun3 A dou1 B",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "even if A, still B",
-      "english": [
-        {
-          "id": "q908j4x8",
-          "word": "notwithstanding",
-          "meaning": "in spite of; despite",
-          "note": "This is the all-purpose spoken construction for saying that B remains true despite A."
-        },
-        {
-          "id": "7j0f7ivx",
-          "word": "despite",
-          "meaning": "in spite of",
-          "register": "colloquial",
-          "note": "Use this when the concession has an even-if or stronger hypothetical flavour rather than simply stating an existing fact."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I will go jogging notwithstanding the heavy rain.",
-          "traditional": "就算落大雨，我都會去跑步。",
-          "jyutping": "zau6 syun3 lok6 daai6 jyu5 ngo5 dou1 wui6 heoi3 paau2 bou6"
-        },
-        {
-          "english": "Despite having to queue for two hours, I’ll still wait for you.",
-          "traditional": "就算要排兩個鐘，我都會等你。",
-          "jyutping": "zau6 syun3 jiu3 paai4 loeng5 go3 zung1 ngo5 dou1 wui5 dang2 nei5"
-        }
-      ]
+      "english": "I will go jogging notwithstanding the heavy rain.",
+      "traditional": "就算落大雨，我都會去跑步。",
+      "jyutping": "zau6 syun3 lok6 daai6 jyu5 ngo5 dou1 wui6 heoi3 paau2 bou6"
+    },
+    {
+      "english": "Despite having to queue for two hours, I’ll still wait for you.",
+      "traditional": "就算要排兩個鐘，我都會等你。",
+      "jyutping": "zau6 syun3 jiu3 paai4 loeng5 go3 zung1 ngo5 dou1 wui5 dang2 nei5"
     }
   ]
 }

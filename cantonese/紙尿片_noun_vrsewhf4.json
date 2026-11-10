@@ -1,26 +1,22 @@
 {
   "id": "vrsewhf4",
   "partOfSpeech": "noun",
+  "meaning": "baby/incontinence garment",
+  "english": [
+    {
+      "id": "0x381yu8",
+      "word": "diaper",
+      "meaning": "baby/incontinence garment",
+      "note": "Use this when you specifically mean a disposable paper diaper."
+    }
+  ],
   "traditional": "紙尿片",
   "jyutping": "zi2 niu6 pin2",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "baby/incontinence garment",
-      "english": [
-        {
-          "id": "0x381yu8",
-          "word": "diaper",
-          "meaning": "baby/incontinence garment",
-          "note": "Use this when you specifically mean a disposable paper diaper."
-        }
-      ],
-      "examples": [
-        {
-          "english": "When I take my son out, I use a disposable diaper.",
-          "traditional": "帶阿仔出街，我會用紙尿片。",
-          "jyutping": "daai3 aa3 zai2 ceot1 gaai1 ngo5 wui5 jung6 zi2 niu6 pin2"
-        }
-      ]
+      "english": "When I take my son out, I use a disposable diaper.",
+      "traditional": "帶阿仔出街，我會用紙尿片。",
+      "jyutping": "daai3 aa3 zai2 ceot1 gaai1 ngo5 wui5 jung6 zi2 niu6 pin2"
     }
   ]
 }

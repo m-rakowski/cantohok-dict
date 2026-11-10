@@ -1,28 +1,24 @@
 {
   "id": "62epw9a9",
   "partOfSpeech": "verb",
+  "meaning": "state firmly",
+  "english": [
+    {
+      "id": "u1hg30hp",
+      "word": "assert",
+      "meaning": "state firmly",
+      "register": "colloquial",
+      "note": "Use this colloquial, emphatic choice when someone insists that a claim is certainly true."
+    }
+  ],
   "traditional": "一口咬定",
   "jyutping": "jat1 hau2 ngaau5 ding6",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "state firmly",
-      "english": [
-        {
-          "id": "u1hg30hp",
-          "word": "assert",
-          "meaning": "state firmly",
-          "register": "colloquial",
-          "note": "Use this colloquial, emphatic choice when someone insists that a claim is certainly true."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "They assert that they didn't take that book.",
-          "traditional": "佢一口咬定自己冇拎嗰本書。",
-          "jyutping": "keoi5 jat1 hau2 ngaau5 ding6 zi6 gei2 mou5 ling1 go2 bun2 syu1"
-        }
-      ]
+      "english": "They assert that they didn't take that book.",
+      "traditional": "佢一口咬定自己冇拎嗰本書。",
+      "jyutping": "keoi5 jat1 hau2 ngaau5 ding6 zi6 gei2 mou5 ling1 go2 bun2 syu1"
     }
   ]
 }

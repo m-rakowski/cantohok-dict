@@ -1,28 +1,24 @@
 {
   "id": "6kc05p9q",
   "partOfSpeech": "noun",
+  "meaning": "rubber wheel tyre",
+  "english": [
+    {
+      "id": "rfchs6eh",
+      "word": "tire",
+      "meaning": "rubber wheel tyre",
+      "register": "colloquial",
+      "note": "車呔 is the everyday Hong Kong word for a car or bicycle tyre; 呔 is a phonetic character taken from English 'tyre'."
+    }
+  ],
   "traditional": "車呔",
   "jyutping": "ce1 taai1",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "rubber wheel tyre",
-      "english": [
-        {
-          "id": "rfchs6eh",
-          "word": "tire",
-          "meaning": "rubber wheel tyre",
-          "register": "colloquial",
-          "note": "車呔 is the everyday Hong Kong word for a car or bicycle tyre; 呔 is a phonetic character taken from English 'tyre'."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "The car tire is flat.",
-          "traditional": "架車嘅車呔冇氣喇。",
-          "jyutping": "gaa3 ce1 ge3 ce1 taai1 mou5 hei3 laa3"
-        }
-      ]
+      "english": "The car tire is flat.",
+      "traditional": "架車嘅車呔冇氣喇。",
+      "jyutping": "gaa3 ce1 ge3 ce1 taai1 mou5 hei3 laa3"
     }
   ]
 }

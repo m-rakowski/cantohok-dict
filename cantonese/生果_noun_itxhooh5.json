@@ -1,28 +1,24 @@
 {
   "id": "itxhooh5",
   "partOfSpeech": "noun",
+  "meaning": "edible fruit",
+  "english": [
+    {
+      "id": "eaxzwvoa",
+      "word": "fruit",
+      "meaning": "edible fruit",
+      "register": "colloquial",
+      "note": "A Hong Kong speaker picks 生果 when referring naturally to fresh fruit as food."
+    }
+  ],
   "traditional": "生果",
   "jyutping": "saang1 gwo2",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "edible fruit",
-      "english": [
-        {
-          "id": "eaxzwvoa",
-          "word": "fruit",
-          "meaning": "edible fruit",
-          "register": "colloquial",
-          "note": "A Hong Kong speaker picks 生果 when referring naturally to fresh fruit as food."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "Have some fruit after dinner.",
-          "traditional": "食完飯食啲生果啦。",
-          "jyutping": "sik6 jyun4 faan6 sik6 di1 saang1 gwo2 laa1"
-        }
-      ]
+      "english": "Have some fruit after dinner.",
+      "traditional": "食完飯食啲生果啦。",
+      "jyutping": "sik6 jyun4 faan6 sik6 di1 saang1 gwo2 laa1"
     }
   ]
 }

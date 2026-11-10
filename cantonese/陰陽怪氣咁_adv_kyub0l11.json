@@ -1,40 +1,36 @@
 {
   "id": "kyub0l11",
   "partOfSpeech": "adv",
+  "meaning": "in a snide, sarcastic tone",
+  "english": [
+    {
+      "id": "2vpqmexm",
+      "word": "sarcastically",
+      "meaning": "in a sarcastic manner",
+      "register": "colloquial",
+      "note": "Use this when the sarcasm has an unpleasant, passive-aggressive, or deliberately odd tone."
+    },
+    {
+      "id": "zsqgfl36",
+      "word": "cynically",
+      "meaning": "in a cynical way",
+      "register": "colloquial",
+      "note": "Use this for a snide, affectedly strange cynical tone, especially in casual speech."
+    }
+  ],
   "traditional": "陰陽怪氣咁",
   "jyutping": "jam1 joeng4 gwaai3 hei3 gam3",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "in a snide, sarcastic tone",
-      "english": [
-        {
-          "id": "2vpqmexm",
-          "word": "sarcastically",
-          "meaning": "in a sarcastic manner",
-          "register": "colloquial",
-          "note": "Use this when the sarcasm has an unpleasant, passive-aggressive, or deliberately odd tone."
-        },
-        {
-          "id": "zsqgfl36",
-          "word": "cynically",
-          "meaning": "in a cynical way",
-          "register": "colloquial",
-          "note": "Use this for a snide, affectedly strange cynical tone, especially in casual speech."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "They said sarcastically that I was really punctual, which made me even less willing to talk to them.",
-          "traditional": "佢陰陽怪氣咁話我真係好準時，搞到我更加唔想同佢傾。",
-          "jyutping": "keoi5 jam1 joeng4 gwaai3 hei3 gam3 waa6 ngo5 zan1 hai6 hou2 zeon2 si4 gaau2 dou3 ngo5 gang3 gaa1 m4 soeng2 tung4 keoi5 king1"
-        },
-        {
-          "english": "You don't need to speak cynically like that; they really do want to help.",
-          "traditional": "你唔使陰陽怪氣咁講，人哋真係想幫手㗎。",
-          "jyutping": "nei5 m4 sai2 jam1 joeng4 gwaai3 hei3 gam3 gong2 jan4 dei6 zan1 hai6 soeng2 bong1 sau2 gaa3"
-        }
-      ]
+      "english": "They said sarcastically that I was really punctual, which made me even less willing to talk to them.",
+      "traditional": "佢陰陽怪氣咁話我真係好準時，搞到我更加唔想同佢傾。",
+      "jyutping": "keoi5 jam1 joeng4 gwaai3 hei3 gam3 waa6 ngo5 zan1 hai6 hou2 zeon2 si4 gaau2 dou3 ngo5 gang3 gaa1 m4 soeng2 tung4 keoi5 king1"
+    },
+    {
+      "english": "You don't need to speak cynically like that; they really do want to help.",
+      "traditional": "你唔使陰陽怪氣咁講，人哋真係想幫手㗎。",
+      "jyutping": "nei5 m4 sai2 jam1 joeng4 gwaai3 hei3 gam3 gong2 jan4 dei6 zan1 hai6 soeng2 bong1 sau2 gaa3"
     }
   ]
 }

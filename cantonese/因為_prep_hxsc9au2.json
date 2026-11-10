@@ -1,37 +1,33 @@
 {
   "id": "hxsc9au2",
   "partOfSpeech": "prep",
+  "meaning": "because of",
+  "english": [
+    {
+      "id": "z28as8ml",
+      "word": "because of",
+      "meaning": "on account of; due to",
+      "note": "This is the all-purpose everyday choice for giving the reason something happened."
+    },
+    {
+      "id": "1hb80ds2",
+      "word": "owing to",
+      "meaning": "because of",
+      "note": "This is the all-purpose everyday choice for giving a reason or cause."
+    }
+  ],
   "traditional": "因為",
   "jyutping": "jan1 wai6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "because of",
-      "english": [
-        {
-          "id": "z28as8ml",
-          "word": "because of",
-          "meaning": "on account of; due to",
-          "note": "This is the all-purpose everyday choice for giving the reason something happened."
-        },
-        {
-          "id": "1hb80ds2",
-          "word": "owing to",
-          "meaning": "because of",
-          "note": "This is the all-purpose everyday choice for giving a reason or cause."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I’m not going shopping today because of the rain.",
-          "traditional": "我今日唔去行街，因為落雨。",
-          "jyutping": "ngo5 gam1 jat6 m4 heoi3 haang4 gaai1 jan1 wai6 lok6 jyu5"
-        },
-        {
-          "english": "We changed our plans to see a movie owing to the rain.",
-          "traditional": "因為落雨，我哋改咗去睇戲。",
-          "jyutping": "jan1 wai6 lok6 jyu5 ngo5 dei6 goi2 zo2 heoi3 tai2 hei3"
-        }
-      ]
+      "english": "I’m not going shopping today because of the rain.",
+      "traditional": "我今日唔去行街，因為落雨。",
+      "jyutping": "ngo5 gam1 jat6 m4 heoi3 haang4 gaai1 jan1 wai6 lok6 jyu5"
+    },
+    {
+      "english": "We changed our plans to see a movie owing to the rain.",
+      "traditional": "因為落雨，我哋改咗去睇戲。",
+      "jyutping": "jan1 wai6 lok6 jyu5 ngo5 dei6 goi2 zo2 heoi3 tai2 hei3"
     }
   ]
 }

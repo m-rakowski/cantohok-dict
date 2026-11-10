@@ -1,26 +1,22 @@
 {
   "id": "uz34rgdm",
   "partOfSpeech": "noun",
+  "meaning": "chess bishop",
+  "english": [
+    {
+      "id": "fmynbiar",
+      "word": "bishop",
+      "meaning": "chess bishop",
+      "note": "Use this alternative chess term when the 相 naming convention is being used."
+    }
+  ],
   "traditional": "相",
   "jyutping": "soeng3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "chess bishop",
-      "english": [
-        {
-          "id": "fmynbiar",
-          "word": "bishop",
-          "meaning": "chess bishop",
-          "note": "Use this alternative chess term when the 相 naming convention is being used."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Your bishop is too far forward and can easily be captured.",
-          "traditional": "你隻相擺得太前，容易畀人食。",
-          "jyutping": "nei5 zek3 soeng3 baai2 dak1 taai3 cin4 jung4 ji6 bei2 jan4 sik6"
-        }
-      ]
+      "english": "Your bishop is too far forward and can easily be captured.",
+      "traditional": "你隻相擺得太前，容易畀人食。",
+      "jyutping": "nei5 zek3 soeng3 baai2 dak1 taai3 cin4 jung4 ji6 bei2 jan4 sik6"
     }
   ]
 }

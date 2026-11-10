@@ -1,40 +1,36 @@
 {
   "id": "erxa3uy2",
   "partOfSpeech": "adj",
+  "meaning": "trivial, too small to matter",
+  "english": [
+    {
+      "id": "26dqb587",
+      "word": "negligible",
+      "meaning": "too small to matter",
+      "register": "written",
+      "note": "Use this mainly for something extremely small or trivial, especially in formal or written contexts."
+    },
+    {
+      "id": "z0i4pmql",
+      "word": "trivial",
+      "meaning": "unimportant; of little value",
+      "register": "written",
+      "note": "Use this more formal wording when stressing that something has negligible significance or value."
+    }
+  ],
   "traditional": "微不足道",
   "jyutping": "mei4 bat1 zuk1 dou6",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "trivial, too small to matter",
-      "english": [
-        {
-          "id": "26dqb587",
-          "word": "negligible",
-          "meaning": "too small to matter",
-          "register": "written",
-          "note": "Use this mainly for something extremely small or trivial, especially in formal or written contexts."
-        },
-        {
-          "id": "z0i4pmql",
-          "word": "trivial",
-          "meaning": "unimportant; of little value",
-          "register": "written",
-          "note": "Use this more formal wording when stressing that something has negligible significance or value."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "Compared with the overall expenditure, this difference is negligible.",
-          "traditional": "同整體開支相比，呢筆差額微不足道。",
-          "jyutping": "tung4 zing2 tai2 hoi1 zi1 soeng1 bei2 ne1 bat1 caa1 ngaak6 mei4 bat1 zuk1 dou6"
-        },
-        {
-          "english": "This expense is trivial in relation to the entire plan.",
-          "traditional": "對整個計劃嚟講，呢筆開支微不足道。",
-          "jyutping": "deoi3 zing2 go3 gai3 waak6 lai4 gong2 ne1 bat1 hoi1 zi1 mei4 bat1 zuk1 dou6"
-        }
-      ]
+      "english": "Compared with the overall expenditure, this difference is negligible.",
+      "traditional": "同整體開支相比，呢筆差額微不足道。",
+      "jyutping": "tung4 zing2 tai2 hoi1 zi1 soeng1 bei2 ne1 bat1 caa1 ngaak6 mei4 bat1 zuk1 dou6"
+    },
+    {
+      "english": "This expense is trivial in relation to the entire plan.",
+      "traditional": "對整個計劃嚟講，呢筆開支微不足道。",
+      "jyutping": "deoi3 zing2 go3 gai3 waak6 lai4 gong2 ne1 bat1 hoi1 zi1 mei4 bat1 zuk1 dou6"
     }
   ]
 }

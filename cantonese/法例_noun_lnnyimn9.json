@@ -1,37 +1,33 @@
 {
   "id": "lnnyimn9",
   "partOfSpeech": "noun",
+  "meaning": "law, ordinance",
+  "english": [
+    {
+      "id": "zaql9xzc",
+      "word": "legislation",
+      "meaning": "laws passed",
+      "note": "Use this for a law or set of laws that has already been enacted, especially in Hong Kong contexts."
+    },
+    {
+      "id": "f2zfyfek",
+      "word": "act",
+      "meaning": "law passed by legislature",
+      "note": "Use 法例 for a law or statute that has been enacted."
+    }
+  ],
   "traditional": "法例",
   "jyutping": "faat3 lai6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "law, ordinance",
-      "english": [
-        {
-          "id": "zaql9xzc",
-          "word": "legislation",
-          "meaning": "laws passed",
-          "note": "Use this for a law or set of laws that has already been enacted, especially in Hong Kong contexts."
-        },
-        {
-          "id": "f2zfyfek",
-          "word": "act",
-          "meaning": "law passed by legislature",
-          "note": "Use 法例 for a law or statute that has been enacted."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This legislation has come into effect, and everyone has to comply with it.",
-          "traditional": "呢條法例已經生效，大家都要遵守。",
-          "jyutping": "ne1 tiu4 faat3 lai6 ji5 ging1 saang1 haau6 daai6 gaa1 dou1 jiu3 zeon1 sau2"
-        },
-        {
-          "english": "This act has officially come into effect.",
-          "traditional": "呢條法例已經正式生效。",
-          "jyutping": "ni1 tiu4 faat3 lai6 ji5 ging1 zing3 sik1 saang1 haau6"
-        }
-      ]
+      "english": "This legislation has come into effect, and everyone has to comply with it.",
+      "traditional": "呢條法例已經生效，大家都要遵守。",
+      "jyutping": "ne1 tiu4 faat3 lai6 ji5 ging1 saang1 haau6 daai6 gaa1 dou1 jiu3 zeon1 sau2"
+    },
+    {
+      "english": "This act has officially come into effect.",
+      "traditional": "呢條法例已經正式生效。",
+      "jyutping": "ni1 tiu4 faat3 lai6 ji5 ging1 zing3 sik1 saang1 haau6"
     }
   ]
 }

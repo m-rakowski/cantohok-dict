@@ -1,48 +1,44 @@
 {
   "id": "uu1h1x3b",
   "partOfSpeech": "noun",
+  "meaning": "slope, hill incline",
+  "english": [
+    {
+      "id": "i1adoyy7",
+      "word": "slope",
+      "meaning": "hill or incline",
+      "note": "This is the all-purpose noun for an inclined surface or an area of ground that rises or falls."
+    },
+    {
+      "id": "u6yq3n4s",
+      "word": "decline",
+      "meaning": "downward slope",
+      "note": "Use this specifically for a physical slope going downhill, such as on a road or hill."
+    },
+    {
+      "id": "9cb8p0nc",
+      "word": "bank",
+      "meaning": "embankment / slope",
+      "note": "Use this for the ordinary sloping earth or sand meaning of a bank."
+    }
+  ],
   "traditional": "斜坡",
   "jyutping": "ce4 po1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "slope, hill incline",
-      "english": [
-        {
-          "id": "i1adoyy7",
-          "word": "slope",
-          "meaning": "hill or incline",
-          "note": "This is the all-purpose noun for an inclined surface or an area of ground that rises or falls."
-        },
-        {
-          "id": "u6yq3n4s",
-          "word": "decline",
-          "meaning": "downward slope",
-          "note": "Use this specifically for a physical slope going downhill, such as on a road or hill."
-        },
-        {
-          "id": "9cb8p0nc",
-          "word": "bank",
-          "meaning": "embankment / slope",
-          "note": "Use this for the ordinary sloping earth or sand meaning of a bank."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This slope is very slippery.",
-          "traditional": "呢條斜坡好跣。",
-          "jyutping": "ni1 tiu4 ce4 po1 hou2 sin3"
-        },
-        {
-          "english": "This slope is a sharp decline, so be careful going down.",
-          "traditional": "呢條斜坡好斜，落去要小心。",
-          "jyutping": "ni1 tiu4 ce4 po1 hou2 ce4 lok6 heoi3 jiu3 siu2 sam1"
-        },
-        {
-          "english": "Be careful, the bank ahead is very steep.",
-          "traditional": "小心啲，前面嗰個斜坡好斜。",
-          "jyutping": "siu2 sam1 di1 cin4 min6 go2 go3 ce4 po1 hou2 ce4"
-        }
-      ]
+      "english": "This slope is very slippery.",
+      "traditional": "呢條斜坡好跣。",
+      "jyutping": "ni1 tiu4 ce4 po1 hou2 sin3"
+    },
+    {
+      "english": "This slope is a sharp decline, so be careful going down.",
+      "traditional": "呢條斜坡好斜，落去要小心。",
+      "jyutping": "ni1 tiu4 ce4 po1 hou2 ce4 lok6 heoi3 jiu3 siu2 sam1"
+    },
+    {
+      "english": "Be careful, the bank ahead is very steep.",
+      "traditional": "小心啲，前面嗰個斜坡好斜。",
+      "jyutping": "siu2 sam1 di1 cin4 min6 go2 go3 ce4 po1 hou2 ce4"
     }
   ]
 }

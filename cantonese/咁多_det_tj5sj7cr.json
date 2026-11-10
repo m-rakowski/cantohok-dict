@@ -1,37 +1,33 @@
 {
   "id": "tj5sj7cr",
   "partOfSpeech": "det",
+  "meaning": "this much, so many",
+  "english": [
+    {
+      "id": "0mzwu5z2",
+      "word": "much",
+      "meaning": "that much / this much",
+      "note": "Use this when pointing out, demonstrating, or comparing a specific quantity, as in “this much” or “that much.”"
+    },
+    {
+      "id": "fwq5w2ku",
+      "word": "many",
+      "meaning": "as many / this many",
+      "note": "Use this for demonstrative or degree meanings such as “this many” and “so many.”"
+    }
+  ],
   "traditional": "咁多",
   "jyutping": "gam3 do1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "this much, so many",
-      "english": [
-        {
-          "id": "0mzwu5z2",
-          "word": "much",
-          "meaning": "that much / this much",
-          "note": "Use this when pointing out, demonstrating, or comparing a specific quantity, as in “this much” or “that much.”"
-        },
-        {
-          "id": "fwq5w2ku",
-          "word": "many",
-          "meaning": "as many / this many",
-          "note": "Use this for demonstrative or degree meanings such as “this many” and “so many.”"
-        }
-      ],
-      "examples": [
-        {
-          "english": "Why do you need this much money?",
-          "traditional": "你要咁多錢做乜？",
-          "jyutping": "nei5 jiu3 gam3 do1 cin2 zou6 mat1"
-        },
-        {
-          "english": "Why did you buy so many apples?",
-          "traditional": "你買咁多蘋果做乜呀？",
-          "jyutping": "nei5 maai5 gam3 do1 ping4 gwo2 zou6 mat1 aa3"
-        }
-      ]
+      "english": "Why do you need this much money?",
+      "traditional": "你要咁多錢做乜？",
+      "jyutping": "nei5 jiu3 gam3 do1 cin2 zou6 mat1"
+    },
+    {
+      "english": "Why did you buy so many apples?",
+      "traditional": "你買咁多蘋果做乜呀？",
+      "jyutping": "nei5 maai5 gam3 do1 ping4 gwo2 zou6 mat1 aa3"
     }
   ]
 }

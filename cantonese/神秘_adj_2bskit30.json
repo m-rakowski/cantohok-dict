@@ -1,37 +1,33 @@
 {
   "id": "2bskit30",
   "partOfSpeech": "adj",
+  "meaning": "mysterious, secret",
+  "english": [
+    {
+      "id": "j6yakr9p",
+      "word": "mysterious",
+      "meaning": "of unknown origin",
+      "note": "This is the all-purpose choice for something whose nature or qualities are unknown, including a broadly mysterious origin."
+    },
+    {
+      "id": "sz7lyctu",
+      "word": "arcane",
+      "meaning": "known by few; secret",
+      "note": "Use this when “arcane” stresses secrecy or an air of mystery rather than specialist difficulty."
+    }
+  ],
   "traditional": "神秘",
   "jyutping": "san4 bei3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "mysterious, secret",
-      "english": [
-        {
-          "id": "j6yakr9p",
-          "word": "mysterious",
-          "meaning": "of unknown origin",
-          "note": "This is the all-purpose choice for something whose nature or qualities are unknown, including a broadly mysterious origin."
-        },
-        {
-          "id": "sz7lyctu",
-          "word": "arcane",
-          "meaning": "known by few; secret",
-          "note": "Use this when “arcane” stresses secrecy or an air of mystery rather than specialist difficulty."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The origin of this story is mysterious.",
-          "traditional": "呢個故事嘅來源好神秘。",
-          "jyutping": "ni1 go3 gu3 si6 ge3 loi4 jyun4 hou2 san4 bei3"
-        },
-        {
-          "english": "They used arcane codes to pass messages, and outsiders had no idea what they meant.",
-          "traditional": "佢哋用神秘嘅暗號傳話，外人完全唔明。",
-          "jyutping": "keoi5 dei6 jung6 san4 bei3 ge3 am3 hou6 cyun4 waa6 ngoi6 jan4 jyun4 cyun4 m4 ming4"
-        }
-      ]
+      "english": "The origin of this story is mysterious.",
+      "traditional": "呢個故事嘅來源好神秘。",
+      "jyutping": "ni1 go3 gu3 si6 ge3 loi4 jyun4 hou2 san4 bei3"
+    },
+    {
+      "english": "They used arcane codes to pass messages, and outsiders had no idea what they meant.",
+      "traditional": "佢哋用神秘嘅暗號傳話，外人完全唔明。",
+      "jyutping": "keoi5 dei6 jung6 san4 bei3 ge3 am3 hou6 cyun4 waa6 ngoi6 jan4 jyun4 cyun4 m4 ming4"
     }
   ]
 }

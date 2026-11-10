@@ -1,39 +1,35 @@
 {
   "id": "dldxjqwo",
   "partOfSpeech": "adj",
+  "meaning": "electrical",
+  "english": [
+    {
+      "id": "1bmob6fv",
+      "word": "electrical",
+      "meaning": "related to electricity",
+      "register": "formal",
+      "note": "This is the all-purpose adjective for something related to electricity or electronics."
+    },
+    {
+      "id": "gdhs2vi2",
+      "word": "electric",
+      "meaning": "powered by electricity",
+      "register": "written",
+      "note": "Use this for the broader technical or written sense of electrical or relating to electricity, rather than specifically motor-powered."
+    }
+  ],
   "traditional": "電氣",
   "jyutping": "din6 hei3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "electrical",
-      "english": [
-        {
-          "id": "1bmob6fv",
-          "word": "electrical",
-          "meaning": "related to electricity",
-          "register": "formal",
-          "note": "This is the all-purpose adjective for something related to electricity or electronics."
-        },
-        {
-          "id": "gdhs2vi2",
-          "word": "electric",
-          "meaning": "powered by electricity",
-          "register": "written",
-          "note": "Use this for the broader technical or written sense of electrical or relating to electricity, rather than specifically motor-powered."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This factory needs to inspect electrical equipment regularly.",
-          "traditional": "呢間工場需要定期檢查電氣設備。",
-          "jyutping": "ni1 gaan1 gung1 coeng2 seoi1 jiu3 ding6 kei4 gim2 caa4 din6 hei3 cit3 bei6"
-        },
-        {
-          "english": "This instrument is operated by electric power.",
-          "traditional": "呢部儀器係用電氣操作嘅。",
-          "jyutping": "ni1 bou6 ji4 hei3 hai6 jung6 din6 hei3 cou1 zok3 ge3"
-        }
-      ]
+      "english": "This factory needs to inspect electrical equipment regularly.",
+      "traditional": "呢間工場需要定期檢查電氣設備。",
+      "jyutping": "ni1 gaan1 gung1 coeng2 seoi1 jiu3 ding6 kei4 gim2 caa4 din6 hei3 cit3 bei6"
+    },
+    {
+      "english": "This instrument is operated by electric power.",
+      "traditional": "呢部儀器係用電氣操作嘅。",
+      "jyutping": "ni1 bou6 ji4 hei3 hai6 jung6 din6 hei3 cou1 zok3 ge3"
     }
   ]
 }

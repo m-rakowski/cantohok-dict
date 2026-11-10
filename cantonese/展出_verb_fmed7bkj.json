@@ -1,28 +1,24 @@
 {
   "id": "fmed7bkj",
   "partOfSpeech": "verb",
+  "meaning": "display/show for view",
+  "english": [
+    {
+      "id": "4rv3nc7h",
+      "word": "exhibit",
+      "meaning": "display/show for view",
+      "register": "written",
+      "note": "Use this for putting something on public exhibition, especially in a museum, gallery, show, or contest."
+    }
+  ],
   "traditional": "展出",
   "jyutping": "zin2 ceot1",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "display/show for view",
-      "english": [
-        {
-          "id": "4rv3nc7h",
-          "word": "exhibit",
-          "meaning": "display/show for view",
-          "register": "written",
-          "note": "Use this for putting something on public exhibition, especially in a museum, gallery, show, or contest."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "Museums usually exhibit precious artifacts.",
-          "traditional": "博物館通常展出珍貴文物。",
-          "jyutping": "bok3 mat6 gun2 tung1 soeng4 zin2 ceot1 zan1 gwai3 man4 mat6"
-        }
-      ]
+      "english": "Museums usually exhibit precious artifacts.",
+      "traditional": "博物館通常展出珍貴文物。",
+      "jyutping": "bok3 mat6 gun2 tung1 soeng4 zin2 ceot1 zan1 gwai3 man4 mat6"
     }
   ]
 }

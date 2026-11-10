@@ -1,28 +1,24 @@
 {
   "id": "pgj07zw2",
   "partOfSpeech": "noun",
+  "meaning": "severe lack of food",
+  "english": [
+    {
+      "id": "9jy3q0i9",
+      "word": "starvation",
+      "meaning": "severe lack of food",
+      "register": "written",
+      "note": "Use this for widespread or famine-like starvation rather than an individual's lack of food."
+    }
+  ],
   "traditional": "饑荒",
   "jyutping": "gei1 fong1",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "severe lack of food",
-      "english": [
-        {
-          "id": "9jy3q0i9",
-          "word": "starvation",
-          "meaning": "severe lack of food",
-          "register": "written",
-          "note": "Use this for widespread or famine-like starvation rather than an individual's lack of food."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "That famine in the last century caused countless deaths from starvation.",
-          "traditional": "上世紀嗰場饑荒，令無數人因為冇飯食而死。",
-          "jyutping": "soeng6 sai3 gei2 go2 coeng4 gei1 fong1 ling6 mou4 sou3 jan4 jan1 wai6 mou5 faan6 sik6 ji4 sei2"
-        }
-      ]
+      "english": "That famine in the last century caused countless deaths from starvation.",
+      "traditional": "上世紀嗰場饑荒，令無數人因為冇飯食而死。",
+      "jyutping": "soeng6 sai3 gei2 go2 coeng4 gei1 fong1 ling6 mou4 sou3 jan4 jan1 wai6 mou5 faan6 sik6 ji4 sei2"
     }
   ]
 }

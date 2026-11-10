@@ -1,37 +1,33 @@
 {
   "id": "i6pzloak",
   "partOfSpeech": "noun",
+  "meaning": "first choice",
+  "english": [
+    {
+      "id": "hgmxwqiy",
+      "word": "pick",
+      "meaning": "best one",
+      "note": "Use this for the option or item regarded as the best or chosen first."
+    },
+    {
+      "id": "6jkahuca",
+      "word": "preference",
+      "meaning": "liking / choice",
+      "note": "Use this when the preference means the option someone would choose first."
+    }
+  ],
   "traditional": "首選",
   "jyutping": "sau2 syun2",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "first choice",
-      "english": [
-        {
-          "id": "hgmxwqiy",
-          "word": "pick",
-          "meaning": "best one",
-          "note": "Use this for the option or item regarded as the best or chosen first."
-        },
-        {
-          "id": "6jkahuca",
-          "word": "preference",
-          "meaning": "liking / choice",
-          "note": "Use this when the preference means the option someone would choose first."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This hotel is my first pick.",
-          "traditional": "呢間酒店係我嘅首選。",
-          "jyutping": "ni1 gaan1 zau2 dim3 hai6 ngo5 ge3 sau2 syun2"
-        },
-        {
-          "english": "This restaurant is my first preference for lunch.",
-          "traditional": "呢間餐廳係我食午飯嘅首選。",
-          "jyutping": "ni1 gaan1 caan1 teng1 hai6 ngo5 sik6 ng5 faan6 ge3 sau2 syun2"
-        }
-      ]
+      "english": "This hotel is my first pick.",
+      "traditional": "呢間酒店係我嘅首選。",
+      "jyutping": "ni1 gaan1 zau2 dim3 hai6 ngo5 ge3 sau2 syun2"
+    },
+    {
+      "english": "This restaurant is my first preference for lunch.",
+      "traditional": "呢間餐廳係我食午飯嘅首選。",
+      "jyutping": "ni1 gaan1 caan1 teng1 hai6 ngo5 sik6 ng5 faan6 ge3 sau2 syun2"
     }
   ]
 }

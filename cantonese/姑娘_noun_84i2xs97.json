@@ -1,28 +1,24 @@
 {
   "id": "84i2xs97",
   "partOfSpeech": "noun",
+  "meaning": "medical nurse",
+  "english": [
+    {
+      "id": "91h8dik2",
+      "word": "nurse",
+      "meaning": "medical nurse",
+      "register": "colloquial",
+      "note": "A speaker uses this colloquial term for a female nurse, especially in a hospital context, rather than for a male nurse or as the neutral default."
+    }
+  ],
   "traditional": "姑娘",
   "jyutping": "gu1 noeng4",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "medical nurse",
-      "english": [
-        {
-          "id": "91h8dik2",
-          "word": "nurse",
-          "meaning": "medical nurse",
-          "register": "colloquial",
-          "note": "A speaker uses this colloquial term for a female nurse, especially in a hospital context, rather than for a male nurse or as the neutral default."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "Nurse, could you please take my blood pressure?",
-          "traditional": "姑娘，唔該你幫我量吓血壓。",
-          "jyutping": "gu1 noeng4 m4 goi1 nei5 bong1 ngo5 loeng4 haa5 hyut3 aat3"
-        }
-      ]
+      "english": "Nurse, could you please take my blood pressure?",
+      "traditional": "姑娘，唔該你幫我量吓血壓。",
+      "jyutping": "gu1 noeng4 m4 goi1 nei5 bong1 ngo5 loeng4 haa5 hyut3 aat3"
     }
   ]
 }

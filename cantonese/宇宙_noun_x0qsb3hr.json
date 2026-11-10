@@ -1,37 +1,33 @@
 {
   "id": "x0qsb3hr",
   "partOfSpeech": "noun",
+  "meaning": "universe",
+  "english": [
+    {
+      "id": "xlh6du3e",
+      "word": "universe",
+      "meaning": "the cosmos",
+      "note": "This is the all-purpose choice for the physical cosmos and everything that exists."
+    },
+    {
+      "id": "y0k6kbd2",
+      "word": "world",
+      "meaning": "the universe",
+      "note": "Use this specifically for the universe or cosmos, not the human world or the Earth."
+    }
+  ],
   "traditional": "宇宙",
   "jyutping": "jyu5 zau6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "universe",
-      "english": [
-        {
-          "id": "xlh6du3e",
-          "word": "universe",
-          "meaning": "the cosmos",
-          "note": "This is the all-purpose choice for the physical cosmos and everything that exists."
-        },
-        {
-          "id": "y0k6kbd2",
-          "word": "world",
-          "meaning": "the universe",
-          "note": "Use this specifically for the universe or cosmos, not the human world or the Earth."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The universe is so vast; it’s fascinating.",
-          "traditional": "宇宙咁大，真係令人着迷。",
-          "jyutping": "jyu5 zau6 gam3 daai6 zan1 hai6 ling6 jan4 zoek3 mai4"
-        },
-        {
-          "english": "The world is so vast that we can't imagine its size.",
-          "traditional": "宇宙大到我哋想像唔到。",
-          "jyutping": "jyu5 zau6 daai6 dou3 ngo5 dei6 soeng2 zoeng6 m4 dou2"
-        }
-      ]
+      "english": "The universe is so vast; it’s fascinating.",
+      "traditional": "宇宙咁大，真係令人着迷。",
+      "jyutping": "jyu5 zau6 gam3 daai6 zan1 hai6 ling6 jan4 zoek3 mai4"
+    },
+    {
+      "english": "The world is so vast that we can't imagine its size.",
+      "traditional": "宇宙大到我哋想像唔到。",
+      "jyutping": "jyu5 zau6 daai6 dou3 ngo5 dei6 soeng2 zoeng6 m4 dou2"
     }
   ]
 }

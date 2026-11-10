@@ -1,28 +1,24 @@
 {
   "id": "cp8y2cyx",
   "partOfSpeech": "noun",
+  "meaning": "eating place",
+  "english": [
+    {
+      "id": "q7j6qc6o",
+      "word": "restaurant",
+      "meaning": "eating place",
+      "register": "written",
+      "note": "Use this broader, more formal term especially in writing or when referring to eateries collectively."
+    }
+  ],
   "traditional": "食肆",
   "jyutping": "sik6 si3",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "eating place",
-      "english": [
-        {
-          "id": "q7j6qc6o",
-          "word": "restaurant",
-          "meaning": "eating place",
-          "register": "written",
-          "note": "Use this broader, more formal term especially in writing or when referring to eateries collectively."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "The district has many restaurant choices.",
-          "traditional": "區內食肆林立，選擇非常多。",
-          "jyutping": "keoi1 noi6 sik6 si3 lam4 lap6 syun2 zaak6 fei1 soeng4 do1"
-        }
-      ]
+      "english": "The district has many restaurant choices.",
+      "traditional": "區內食肆林立，選擇非常多。",
+      "jyutping": "keoi1 noi6 sik6 si3 lam4 lap6 syun2 zaak6 fei1 soeng4 do1"
     }
   ]
 }

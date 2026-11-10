@@ -1,28 +1,24 @@
 {
   "id": "3svj3c08",
   "partOfSpeech": "pron",
+  "meaning": "a small amount",
+  "english": [
+    {
+      "id": "8fu06z2l",
+      "word": "little",
+      "meaning": "a small amount",
+      "register": "colloquial",
+      "note": "Use this for a small amount when the amount itself is being referred to, as in knowing or having a little."
+    }
+  ],
   "traditional": "少少",
   "jyutping": "siu2 siu2",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "a small amount",
-      "english": [
-        {
-          "id": "8fu06z2l",
-          "word": "little",
-          "meaning": "a small amount",
-          "register": "colloquial",
-          "note": "Use this for a small amount when the amount itself is being referred to, as in knowing or having a little."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "I know a little Cantonese.",
-          "traditional": "我識少少廣東話。",
-          "jyutping": "ngo5 sik1 siu2 siu2 gwong2 dung1 waa2"
-        }
-      ]
+      "english": "I know a little Cantonese.",
+      "traditional": "我識少少廣東話。",
+      "jyutping": "ngo5 sik1 siu2 siu2 gwong2 dung1 waa2"
     }
   ]
 }

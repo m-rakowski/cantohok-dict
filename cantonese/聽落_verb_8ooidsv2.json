@@ -1,48 +1,44 @@
 {
   "id": "8ooidsv2",
   "partOfSpeech": "verb",
+  "meaning": "sound like, seem from what you hear",
+  "english": [
+    {
+      "id": "mmiz9ntz",
+      "word": "sound",
+      "meaning": "seem; give impression",
+      "note": "Use 聽落 as the all-purpose way to say that someone or something seems a certain way from its sound."
+    },
+    {
+      "id": "5ccrjddd",
+      "word": "seem",
+      "meaning": "appear; look like",
+      "note": "Use this when the impression comes specifically from how something sounds or from what you hear."
+    },
+    {
+      "id": "8y8440pt",
+      "word": "ring",
+      "meaning": "sound right",
+      "note": "Use this when judging how something sounds, especially whether it sounds true or plausible."
+    }
+  ],
   "traditional": "聽落",
   "jyutping": "teng1 lok6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "sound like, seem from what you hear",
-      "english": [
-        {
-          "id": "mmiz9ntz",
-          "word": "sound",
-          "meaning": "seem; give impression",
-          "note": "Use 聽落 as the all-purpose way to say that someone or something seems a certain way from its sound."
-        },
-        {
-          "id": "5ccrjddd",
-          "word": "seem",
-          "meaning": "appear; look like",
-          "note": "Use this when the impression comes specifically from how something sounds or from what you hear."
-        },
-        {
-          "id": "8y8440pt",
-          "word": "ring",
-          "meaning": "sound right",
-          "note": "Use this when judging how something sounds, especially whether it sounds true or plausible."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This song has quite a pleasant sound.",
-          "traditional": "呢首歌聽落幾舒服。",
-          "jyutping": "ni1 sau2 go1 teng1 lok6 gei2 syu1 fuk6"
-        },
-        {
-          "english": "You seem really tired today.",
-          "traditional": "聽落你今日好攰。",
-          "jyutping": "teng1 lok6 nei5 gam1 jat6 hou2 gui6"
-        },
-        {
-          "english": "This explanation may ring true.",
-          "traditional": "呢個講法聽落幾似真。",
-          "jyutping": "ni1 go3 gong2 faat3 teng1 lok6 gei2 ci5 zan1"
-        }
-      ]
+      "english": "This song has quite a pleasant sound.",
+      "traditional": "呢首歌聽落幾舒服。",
+      "jyutping": "ni1 sau2 go1 teng1 lok6 gei2 syu1 fuk6"
+    },
+    {
+      "english": "You seem really tired today.",
+      "traditional": "聽落你今日好攰。",
+      "jyutping": "teng1 lok6 nei5 gam1 jat6 hou2 gui6"
+    },
+    {
+      "english": "This explanation may ring true.",
+      "traditional": "呢個講法聽落幾似真。",
+      "jyutping": "ni1 go3 gong2 faat3 teng1 lok6 gei2 ci5 zan1"
     }
   ]
 }

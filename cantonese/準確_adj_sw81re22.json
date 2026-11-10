@@ -1,70 +1,66 @@
 {
   "id": "sw81re22",
   "partOfSpeech": "adj",
+  "meaning": "accurate, exact",
+  "english": [
+    {
+      "id": "2clf0v0r",
+      "word": "precise",
+      "meaning": "exact; accurate",
+      "note": "This is the all-purpose choice for something exact and accurate, such as a precise definition or measurement."
+    },
+    {
+      "id": "9r0uq411",
+      "word": "accurate",
+      "meaning": "exact; correct",
+      "note": "This is the all-purpose choice for exact or correct information, results, and measurements."
+    },
+    {
+      "id": "6440lorl",
+      "word": "exact",
+      "meaning": "precisely correct",
+      "note": "This is the all-purpose choice when something agrees exactly with a fact, standard, or measurement."
+    },
+    {
+      "id": "mdxdj00q",
+      "word": "sharp",
+      "meaning": "precise, exact",
+      "note": "Use this when sharp means exact, accurate, or well-aimed."
+    },
+    {
+      "id": "2apwtd70",
+      "word": "strict",
+      "meaning": "exact, precise",
+      "note": "Use this when strict means exact or accurate wording, figures, or results."
+    }
+  ],
   "traditional": "準確",
   "jyutping": "zeon2 kok3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "accurate, exact",
-      "english": [
-        {
-          "id": "2clf0v0r",
-          "word": "precise",
-          "meaning": "exact; accurate",
-          "note": "This is the all-purpose choice for something exact and accurate, such as a precise definition or measurement."
-        },
-        {
-          "id": "9r0uq411",
-          "word": "accurate",
-          "meaning": "exact; correct",
-          "note": "This is the all-purpose choice for exact or correct information, results, and measurements."
-        },
-        {
-          "id": "6440lorl",
-          "word": "exact",
-          "meaning": "precisely correct",
-          "note": "This is the all-purpose choice when something agrees exactly with a fact, standard, or measurement."
-        },
-        {
-          "id": "mdxdj00q",
-          "word": "sharp",
-          "meaning": "precise, exact",
-          "note": "Use this when sharp means exact, accurate, or well-aimed."
-        },
-        {
-          "id": "2apwtd70",
-          "word": "strict",
-          "meaning": "exact, precise",
-          "note": "Use this when strict means exact or accurate wording, figures, or results."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This measurement result is very precise.",
-          "traditional": "呢個量度結果好準確。",
-          "jyutping": "ni1 go3 loeng4 dou6 git3 gwo2 hou2 zeon2 kok3"
-        },
-        {
-          "english": "The data in this report is accurate.",
-          "traditional": "呢份報告嘅數據好準確。",
-          "jyutping": "ni1 fan6 bou3 gou3 ge3 sou3 geoi3 hou2 zeon2 kok3"
-        },
-        {
-          "english": "This answer is exact and matches the standard perfectly.",
-          "traditional": "呢個答案係準確嘅，同標準完全吻合。",
-          "jyutping": "ni1 go3 daap3 on3 hai6 zeon2 kok3 ge3 tung4 biu1 zeon2 jyun4 cyun4 man5 hap6"
-        },
-        {
-          "english": "Your estimate is pretty sharp.",
-          "traditional": "你個估算幾準確。",
-          "jyutping": "nei5 go3 gu2 syun3 gei2 zeon2 kok3"
-        },
-        {
-          "english": "Be strict and accurate with the figure you give—don't guess.",
-          "traditional": "你講個數字要準確啲，唔好估。",
-          "jyutping": "nei5 gong2 go3 sou3 zi6 jiu3 zeon2 kok3 di1 m4 hou2 gu2"
-        }
-      ]
+      "english": "This measurement result is very precise.",
+      "traditional": "呢個量度結果好準確。",
+      "jyutping": "ni1 go3 loeng4 dou6 git3 gwo2 hou2 zeon2 kok3"
+    },
+    {
+      "english": "The data in this report is accurate.",
+      "traditional": "呢份報告嘅數據好準確。",
+      "jyutping": "ni1 fan6 bou3 gou3 ge3 sou3 geoi3 hou2 zeon2 kok3"
+    },
+    {
+      "english": "This answer is exact and matches the standard perfectly.",
+      "traditional": "呢個答案係準確嘅，同標準完全吻合。",
+      "jyutping": "ni1 go3 daap3 on3 hai6 zeon2 kok3 ge3 tung4 biu1 zeon2 jyun4 cyun4 man5 hap6"
+    },
+    {
+      "english": "Your estimate is pretty sharp.",
+      "traditional": "你個估算幾準確。",
+      "jyutping": "nei5 go3 gu2 syun3 gei2 zeon2 kok3"
+    },
+    {
+      "english": "Be strict and accurate with the figure you give—don't guess.",
+      "traditional": "你講個數字要準確啲，唔好估。",
+      "jyutping": "nei5 gong2 go3 sou3 zi6 jiu3 zeon2 kok3 di1 m4 hou2 gu2"
     }
   ]
 }

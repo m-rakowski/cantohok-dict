@@ -1,50 +1,46 @@
 {
   "id": "xn6gdeie",
   "partOfSpeech": "verb",
+  "meaning": "take away",
+  "english": [
+    {
+      "id": "eerb8656",
+      "word": "remove",
+      "meaning": "take away; move",
+      "note": "This is the all-purpose choice for taking a physical object away from somewhere."
+    },
+    {
+      "id": "1rlc67ju",
+      "word": "detract",
+      "meaning": "take away, diminish",
+      "register": "colloquial",
+      "note": "Use this for physically taking something away or removing it from a place."
+    },
+    {
+      "id": "112xr4qv",
+      "word": "deprive",
+      "meaning": "take away from; deny",
+      "register": "colloquial",
+      "note": "Use 攞走 when something is physically taken away from someone and kept away."
+    }
+  ],
   "traditional": "攞走",
   "jyutping": "lo2 zau2",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "take away",
-      "english": [
-        {
-          "id": "eerb8656",
-          "word": "remove",
-          "meaning": "take away; move",
-          "note": "This is the all-purpose choice for taking a physical object away from somewhere."
-        },
-        {
-          "id": "1rlc67ju",
-          "word": "detract",
-          "meaning": "take away, diminish",
-          "register": "colloquial",
-          "note": "Use this for physically taking something away or removing it from a place."
-        },
-        {
-          "id": "112xr4qv",
-          "word": "deprive",
-          "meaning": "take away from; deny",
-          "register": "colloquial",
-          "note": "Use 攞走 when something is physically taken away from someone and kept away."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Please remove the cups from the table.",
-          "traditional": "請你攞走張枱上面啲杯。",
-          "jyutping": "cing2 nei5 lo2 zau2 zoeng1 toi4 soeng6 min6 di1 bui1"
-        },
-        {
-          "english": "Please take away that pile of junk by the door, or it will detract from the entrance.",
-          "traditional": "你快啲攞走門口嗰堆雜物，唔係會令入口失色。",
-          "jyutping": "nei5 faai3 di1 lo2 zau2 mun4 hau2 go2 deoi1 zaap6 mat6 m4 hai6 wui6 ling6 jap6 hau2 sat1 sik1"
-        },
-        {
-          "english": "The teacher chose to deprive me of my phone.",
-          "traditional": "老師攞走咗我部手機，唔畀返我。",
-          "jyutping": "lou5 si1 lo2 zau2 zo2 ngo5 bou6 sau2 gei1 m4 bei2 faan1 ngo5"
-        }
-      ]
+      "english": "Please remove the cups from the table.",
+      "traditional": "請你攞走張枱上面啲杯。",
+      "jyutping": "cing2 nei5 lo2 zau2 zoeng1 toi4 soeng6 min6 di1 bui1"
+    },
+    {
+      "english": "Please take away that pile of junk by the door, or it will detract from the entrance.",
+      "traditional": "你快啲攞走門口嗰堆雜物，唔係會令入口失色。",
+      "jyutping": "nei5 faai3 di1 lo2 zau2 mun4 hau2 go2 deoi1 zaap6 mat6 m4 hai6 wui6 ling6 jap6 hau2 sat1 sik1"
+    },
+    {
+      "english": "The teacher chose to deprive me of my phone.",
+      "traditional": "老師攞走咗我部手機，唔畀返我。",
+      "jyutping": "lou5 si1 lo2 zau2 zo2 ngo5 bou6 sau2 gei1 m4 bei2 faan1 ngo5"
     }
   ]
 }

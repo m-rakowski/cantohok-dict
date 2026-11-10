@@ -1,37 +1,33 @@
 {
   "id": "ceod6bam",
   "partOfSpeech": "noun",
+  "meaning": "pattern, mode of doing things",
+  "english": [
+    {
+      "id": "d4ha1amo",
+      "word": "pattern",
+      "meaning": "recurring pattern; trend",
+      "note": "Use this as the all-purpose choice for a recurring pattern in events, behaviour, data, or systems."
+    },
+    {
+      "id": "cf2idld0",
+      "word": "model",
+      "meaning": "business model",
+      "note": "Use 模式 for the structural approach or setup of a business or other complex system."
+    }
+  ],
   "traditional": "模式",
   "jyutping": "mou4 sik1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "pattern, mode of doing things",
-      "english": [
-        {
-          "id": "d4ha1amo",
-          "word": "pattern",
-          "meaning": "recurring pattern; trend",
-          "note": "Use this as the all-purpose choice for a recurring pattern in events, behaviour, data, or systems."
-        },
-        {
-          "id": "cf2idld0",
-          "word": "model",
-          "meaning": "business model",
-          "note": "Use 模式 for the structural approach or setup of a business or other complex system."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This spending pattern has changed a lot in recent years.",
-          "traditional": "呢個消費模式近年變咗好多。",
-          "jyutping": "ni1 go3 siu1 fai3 mou4 sik1 gan6 nin4 bin3 zo2 hou2 do1"
-        },
-        {
-          "english": "This shop’s business model is membership-based.",
-          "traditional": "呢間舖嘅生意模式係會員制。",
-          "jyutping": "ni1 gaan1 pou3 ge3 sang1 ji3 mou4 sik1 hai6 wui2 jyun4 zai3"
-        }
-      ]
+      "english": "This spending pattern has changed a lot in recent years.",
+      "traditional": "呢個消費模式近年變咗好多。",
+      "jyutping": "ni1 go3 siu1 fai3 mou4 sik1 gan6 nin4 bin3 zo2 hou2 do1"
+    },
+    {
+      "english": "This shop’s business model is membership-based.",
+      "traditional": "呢間舖嘅生意模式係會員制。",
+      "jyutping": "ni1 gaan1 pou3 ge3 sang1 ji3 mou4 sik1 hai6 wui2 jyun4 zai3"
     }
   ]
 }

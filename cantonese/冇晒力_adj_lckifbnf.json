@@ -1,28 +1,24 @@
 {
   "id": "lckifbnf",
   "partOfSpeech": "adj",
+  "meaning": "becoming weak/tired",
+  "english": [
+    {
+      "id": "184nahn9",
+      "word": "flagging",
+      "meaning": "becoming weak/tired",
+      "register": "colloquial",
+      "note": "Use this colloquial choice when the emphasis is on dwindling physical strength, energy, or effectiveness."
+    }
+  ],
   "traditional": "冇晒力",
   "jyutping": "mou5 saai3 lik6",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "becoming weak/tired",
-      "english": [
-        {
-          "id": "184nahn9",
-          "word": "flagging",
-          "meaning": "becoming weak/tired",
-          "register": "colloquial",
-          "note": "Use this colloquial choice when the emphasis is on dwindling physical strength, energy, or effectiveness."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "After playing a game, I was flagging.",
-          "traditional": "打完場波，我冇晒力。",
-          "jyutping": "daa2 jyun4 coeng4 bo1 ngo5 mou5 saai3 lik6"
-        }
-      ]
+      "english": "After playing a game, I was flagging.",
+      "traditional": "打完場波，我冇晒力。",
+      "jyutping": "daa2 jyun4 coeng4 bo1 ngo5 mou5 saai3 lik6"
     }
   ]
 }

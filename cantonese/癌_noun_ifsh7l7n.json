@@ -1,28 +1,24 @@
 {
   "id": "ifsh7l7n",
   "partOfSpeech": "noun",
+  "meaning": "cancer disease",
+  "english": [
+    {
+      "id": "2w4fgfba",
+      "word": "cancer",
+      "meaning": "cancer disease",
+      "register": "colloquial",
+      "note": "Use this shorter form when the context already makes the disease clear, especially in casual speech."
+    }
+  ],
   "traditional": "癌",
   "jyutping": "ngaam4",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "cancer disease",
-      "english": [
-        {
-          "id": "2w4fgfba",
-          "word": "cancer",
-          "meaning": "cancer disease",
-          "register": "colloquial",
-          "note": "Use this shorter form when the context already makes the disease clear, especially in casual speech."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "His dad has cancer and still needs chemotherapy.",
-          "traditional": "佢爸爸有癌，仲要做化療。",
-          "jyutping": "keoi5 baa4 baa1 jau5 ngaam4 zung6 jiu3 zou6 faa3 liu4"
-        }
-      ]
+      "english": "His dad has cancer and still needs chemotherapy.",
+      "traditional": "佢爸爸有癌，仲要做化療。",
+      "jyutping": "keoi5 baa4 baa1 jau5 ngaam4 zung6 jiu3 zou6 faa3 liu4"
     }
   ]
 }

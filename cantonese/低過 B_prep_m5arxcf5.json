@@ -1,26 +1,22 @@
 {
   "id": "m5arxcf5",
   "partOfSpeech": "prep",
+  "meaning": "lower in amount",
+  "english": [
+    {
+      "id": "u180csa0",
+      "word": "below",
+      "meaning": "lower in amount",
+      "note": "Use this for a value, price, rank, temperature, or concentration that is lower than B."
+    }
+  ],
   "traditional": "低過 B",
   "jyutping": "dai1 gwo3 B",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "lower in amount",
-      "english": [
-        {
-          "id": "u180csa0",
-          "word": "below",
-          "meaning": "lower in amount",
-          "note": "Use this for a value, price, rank, temperature, or concentration that is lower than B."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This price is below the market rate.",
-          "traditional": "呢個價錢低過市價。",
-          "jyutping": "nei1 go3 gaa3 cin2 dai1 gwo3 si5 gaa3"
-        }
-      ]
+      "english": "This price is below the market rate.",
+      "traditional": "呢個價錢低過市價。",
+      "jyutping": "nei1 go3 gaa3 cin2 dai1 gwo3 si5 gaa3"
     }
   ]
 }

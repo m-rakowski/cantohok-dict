@@ -1,26 +1,22 @@
 {
   "id": "vqb1imnp",
   "partOfSpeech": "noun",
+  "meaning": "gullet/windpipe",
+  "english": [
+    {
+      "id": "agorws3k",
+      "word": "throat",
+      "meaning": "gullet/windpipe",
+      "note": "Use this specifically when the English throat means the windpipe."
+    }
+  ],
   "traditional": "氣管",
   "jyutping": "hei3 gun2",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "gullet/windpipe",
-      "english": [
-        {
-          "id": "agorws3k",
-          "word": "throat",
-          "meaning": "gullet/windpipe",
-          "note": "Use this specifically when the English throat means the windpipe."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Years of smoking have inflamed my throat, so I cough all the time.",
-          "traditional": "氣管",
-          "jyutping": "hei3 gun2"
-        }
-      ]
+      "english": "Years of smoking have inflamed my throat, so I cough all the time.",
+      "traditional": "氣管",
+      "jyutping": "hei3 gun2"
     }
   ]
 }

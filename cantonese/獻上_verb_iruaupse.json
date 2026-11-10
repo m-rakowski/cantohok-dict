@@ -1,28 +1,24 @@
 {
   "id": "iruaupse",
   "partOfSpeech": "verb",
+  "meaning": "offer to God",
+  "english": [
+    {
+      "id": "8zrwrmr9",
+      "word": "offer",
+      "meaning": "offer to God",
+      "register": "formal, written",
+      "note": "Use this in formal or religious contexts when presenting something to a god or as a sacrifice."
+    }
+  ],
   "traditional": "獻上",
   "jyutping": "hin3 soeng6",
-  "boxes": [
+  "register": "formal, written",
+  "examples": [
     {
-      "meaning": "offer to God",
-      "english": [
-        {
-          "id": "8zrwrmr9",
-          "word": "offer",
-          "meaning": "offer to God",
-          "register": "formal, written",
-          "note": "Use this in formal or religious contexts when presenting something to a god or as a sacrifice."
-        }
-      ],
-      "register": "formal, written",
-      "examples": [
-        {
-          "english": "The worshippers offer fresh flowers to the god.",
-          "traditional": "信眾向神獻上鮮花。",
-          "jyutping": "seon3 zung3 hoeng3 san4 hin3 soeng6 sin1 faa1"
-        }
-      ]
+      "english": "The worshippers offer fresh flowers to the god.",
+      "traditional": "信眾向神獻上鮮花。",
+      "jyutping": "seon3 zung3 hoeng3 san4 hin3 soeng6 sin1 faa1"
     }
   ]
 }

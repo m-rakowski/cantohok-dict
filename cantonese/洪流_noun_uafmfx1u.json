@@ -1,28 +1,24 @@
 {
   "id": "uafmfx1u",
   "partOfSpeech": "noun",
+  "meaning": "tide of people / flood",
+  "english": [
+    {
+      "id": "kbvuytgv",
+      "word": "tide",
+      "meaning": "tide of people / flood",
+      "register": "formal",
+      "note": "Use this for a torrent or overwhelming flow, including a figurative flood, rather than the ordinary movement of a crowd."
+    }
+  ],
   "traditional": "洪流",
   "jyutping": "hung4 lau4",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "tide of people / flood",
-      "english": [
-        {
-          "id": "kbvuytgv",
-          "word": "tide",
-          "meaning": "tide of people / flood",
-          "register": "formal",
-          "note": "Use this for a torrent or overwhelming flow, including a figurative flood, rather than the ordinary movement of a crowd."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "No one can stop the tide of history.",
-          "traditional": "歷史洪流冇人可以阻擋。",
-          "jyutping": "lik6 si2 hung4 lau4 mou5 jan4 ho2 ji5 zo2 dong2"
-        }
-      ]
+      "english": "No one can stop the tide of history.",
+      "traditional": "歷史洪流冇人可以阻擋。",
+      "jyutping": "lik6 si2 hung4 lau4 mou5 jan4 ho2 ji5 zo2 dong2"
     }
   ]
 }

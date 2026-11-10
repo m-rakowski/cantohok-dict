@@ -1,59 +1,55 @@
 {
   "id": "hgnlawns",
   "partOfSpeech": "adj",
+  "meaning": "impatient, can't wait",
+  "english": [
+    {
+      "id": "4snsdpma",
+      "word": "impatient",
+      "meaning": "anxious to begin or have",
+      "note": "Use this when someone is anxious or eager to start or get something."
+    },
+    {
+      "id": "kckwtsrq",
+      "word": "eager",
+      "meaning": "keen; wanting to do something",
+      "note": "Use this when the eagerness includes impatience or urgency, as in not being able to wait."
+    },
+    {
+      "id": "dx0o5o71",
+      "word": "hasty",
+      "meaning": "eager, impatient",
+      "note": "Use this when the person is impatient or eager to act rather than willing to wait."
+    },
+    {
+      "id": "dply9o8s",
+      "word": "anxious",
+      "meaning": "eager, keen",
+      "note": "Use this when anxious means eager or impatient to do or find out something."
+    }
+  ],
   "traditional": "心急",
   "jyutping": "sam1 gap1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "impatient, can't wait",
-      "english": [
-        {
-          "id": "4snsdpma",
-          "word": "impatient",
-          "meaning": "anxious to begin or have",
-          "note": "Use this when someone is anxious or eager to start or get something."
-        },
-        {
-          "id": "kckwtsrq",
-          "word": "eager",
-          "meaning": "keen; wanting to do something",
-          "note": "Use this when the eagerness includes impatience or urgency, as in not being able to wait."
-        },
-        {
-          "id": "dx0o5o71",
-          "word": "hasty",
-          "meaning": "eager, impatient",
-          "note": "Use this when the person is impatient or eager to act rather than willing to wait."
-        },
-        {
-          "id": "dply9o8s",
-          "word": "anxious",
-          "meaning": "eager, keen",
-          "note": "Use this when anxious means eager or impatient to do or find out something."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I'm impatient to get started.",
-          "traditional": "我心急想快啲開始。",
-          "jyutping": "ngo5 sam1 gap1 soeng2 faai3 di1 hoi1 ci2"
-        },
-        {
-          "english": "I’m eager to know the result and can’t wait.",
-          "traditional": "我心急，等唔切想知個結果。",
-          "jyutping": "ngo5 sam1 gap1 dang2 m4 cit3 soeng2 zi1 go3 git3 gwo2"
-        },
-        {
-          "english": "Don't be so hasty; wait for everyone before starting.",
-          "traditional": "唔好咁心急，等埋大家先開始啦。",
-          "jyutping": "m4 hou2 gam3 sam1 gap1 dang2 maai4 daai6 gaa1 sin1 hoi1 ci2 laa1"
-        },
-        {
-          "english": "I’m anxious to know the result.",
-          "traditional": "我心急想知結果。",
-          "jyutping": "ngo5 sam1 gap1 soeng2 zi1 git3 gwo2"
-        }
-      ]
+      "english": "I'm impatient to get started.",
+      "traditional": "我心急想快啲開始。",
+      "jyutping": "ngo5 sam1 gap1 soeng2 faai3 di1 hoi1 ci2"
+    },
+    {
+      "english": "I’m eager to know the result and can’t wait.",
+      "traditional": "我心急，等唔切想知個結果。",
+      "jyutping": "ngo5 sam1 gap1 dang2 m4 cit3 soeng2 zi1 go3 git3 gwo2"
+    },
+    {
+      "english": "Don't be so hasty; wait for everyone before starting.",
+      "traditional": "唔好咁心急，等埋大家先開始啦。",
+      "jyutping": "m4 hou2 gam3 sam1 gap1 dang2 maai4 daai6 gaa1 sin1 hoi1 ci2 laa1"
+    },
+    {
+      "english": "I’m anxious to know the result.",
+      "traditional": "我心急想知結果。",
+      "jyutping": "ngo5 sam1 gap1 soeng2 zi1 git3 gwo2"
     }
   ]
 }

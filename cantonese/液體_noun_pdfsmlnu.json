@@ -1,28 +1,24 @@
 {
   "id": "pdfsmlnu",
   "partOfSpeech": "noun",
+  "meaning": "liquid substance",
+  "english": [
+    {
+      "id": "x1ls4r1i",
+      "word": "liquid",
+      "meaning": "liquid substance",
+      "register": "formal",
+      "note": "This is the all-purpose noun for a liquid substance such as water."
+    }
+  ],
   "traditional": "液體",
   "jyutping": "jik6 tai2",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "liquid substance",
-      "english": [
-        {
-          "id": "x1ls4r1i",
-          "word": "liquid",
-          "meaning": "liquid substance",
-          "register": "formal",
-          "note": "This is the all-purpose noun for a liquid substance such as water."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "You can't drink this liquid directly.",
-          "traditional": "呢種液體唔可以直接飲。",
-          "jyutping": "nei1 zung2 jik6 tai2 m4 ho2 ji5 zik6 zip3 jam2"
-        }
-      ]
+      "english": "You can't drink this liquid directly.",
+      "traditional": "呢種液體唔可以直接飲。",
+      "jyutping": "nei1 zung2 jik6 tai2 m4 ho2 ji5 zik6 zip3 jam2"
     }
   ]
 }

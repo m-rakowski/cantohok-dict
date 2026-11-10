@@ -1,38 +1,34 @@
 {
   "id": "svqmekzd",
   "partOfSpeech": "adj",
+  "meaning": "oily, greasy",
+  "english": [
+    {
+      "id": "olg7ds2x",
+      "word": "oily",
+      "meaning": "covered in oil",
+      "register": "colloquial",
+      "note": "Use this especially for food or cooking that is greasy or contains a lot of oil, rather than for an object visibly smeared with oil."
+    },
+    {
+      "id": "n0up1bhk",
+      "word": "fat",
+      "meaning": "greasy; rich food",
+      "note": "Use this for food that is greasy or has too much oil."
+    }
+  ],
   "traditional": "油",
   "jyutping": "jau4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "oily, greasy",
-      "english": [
-        {
-          "id": "olg7ds2x",
-          "word": "oily",
-          "meaning": "covered in oil",
-          "register": "colloquial",
-          "note": "Use this especially for food or cooking that is greasy or contains a lot of oil, rather than for an object visibly smeared with oil."
-        },
-        {
-          "id": "n0up1bhk",
-          "word": "fat",
-          "meaning": "greasy; rich food",
-          "note": "Use this for food that is greasy or has too much oil."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This fried rice is too oily for me to eat.",
-          "traditional": "呢碟炒飯太油喇，我食唔落。",
-          "jyutping": "ni1 dip6 caau2 faan6 taai3 jau4 laa3 ngo5 sik6 m4 lok6"
-        },
-        {
-          "english": "This dish is too fat for me, so I’m not eating it.",
-          "traditional": "呢碟餸太油喇，我唔食喇。",
-          "jyutping": "ni1 dip6 sung3 taai3 jau4 laa3 ngo5 m4 sik6 laa3"
-        }
-      ]
+      "english": "This fried rice is too oily for me to eat.",
+      "traditional": "呢碟炒飯太油喇，我食唔落。",
+      "jyutping": "ni1 dip6 caau2 faan6 taai3 jau4 laa3 ngo5 sik6 m4 lok6"
+    },
+    {
+      "english": "This dish is too fat for me, so I’m not eating it.",
+      "traditional": "呢碟餸太油喇，我唔食喇。",
+      "jyutping": "ni1 dip6 sung3 taai3 jau4 laa3 ngo5 m4 sik6 laa3"
     }
   ]
 }

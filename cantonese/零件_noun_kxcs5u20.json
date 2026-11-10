@@ -1,37 +1,33 @@
 {
   "id": "kxcs5u20",
   "partOfSpeech": "noun",
+  "meaning": "machine part",
+  "english": [
+    {
+      "id": "tz3hwi2b",
+      "word": "component",
+      "meaning": "part; component part",
+      "note": "Use this for an individual mechanical or machine part, especially one that can be replaced."
+    },
+    {
+      "id": "fpba9liz",
+      "word": "part",
+      "meaning": "component piece",
+      "note": "Use this for a physical component or replacement part, especially in a machine such as a chainsaw."
+    }
+  ],
   "traditional": "零件",
   "jyutping": "ling4 gin6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "machine part",
-      "english": [
-        {
-          "id": "tz3hwi2b",
-          "word": "component",
-          "meaning": "part; component part",
-          "note": "Use this for an individual mechanical or machine part, especially one that can be replaced."
-        },
-        {
-          "id": "fpba9liz",
-          "word": "part",
-          "meaning": "component piece",
-          "note": "Use this for a physical component or replacement part, especially in a machine such as a chainsaw."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This bike needs a replacement component.",
-          "traditional": "呢架單車要換個零件。",
-          "jyutping": "ni1 gaa3 daan1 ce1 jiu3 wun6 go3 ling4 gin6"
-        },
-        {
-          "english": "A part of the chainsaw is broken and needs replacing.",
-          "traditional": "條鏈鋸有個零件壞咗，要換。",
-          "jyutping": "tiu4 lin4 geoi3 jau5 go3 ling4 gin6 waai6 zo2 jiu3 wun6"
-        }
-      ]
+      "english": "This bike needs a replacement component.",
+      "traditional": "呢架單車要換個零件。",
+      "jyutping": "ni1 gaa3 daan1 ce1 jiu3 wun6 go3 ling4 gin6"
+    },
+    {
+      "english": "A part of the chainsaw is broken and needs replacing.",
+      "traditional": "條鏈鋸有個零件壞咗，要換。",
+      "jyutping": "tiu4 lin4 geoi3 jau5 go3 ling4 gin6 waai6 zo2 jiu3 wun6"
     }
   ]
 }

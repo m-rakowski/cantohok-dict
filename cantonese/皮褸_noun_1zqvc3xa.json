@@ -1,28 +1,24 @@
 {
   "id": "1zqvc3xa",
   "partOfSpeech": "noun",
+  "meaning": "leather clothing",
+  "english": [
+    {
+      "id": "ozxlzqth",
+      "word": "leather",
+      "meaning": "leather clothing",
+      "register": "colloquial",
+      "note": "Use this for leather jackets or similar leather outerwear, especially biker clothing."
+    }
+  ],
   "traditional": "皮褸",
   "jyutping": "pei4 lau1",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "leather clothing",
-      "english": [
-        {
-          "id": "ozxlzqth",
-          "word": "leather",
-          "meaning": "leather clothing",
-          "register": "colloquial",
-          "note": "Use this for leather jackets or similar leather outerwear, especially biker clothing."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "They often wear leather jackets when riding motorcycles.",
-          "traditional": "佢哋踩電單車嗰陣成日着皮褸。",
-          "jyutping": "keoi5 dei6 caai2 din6 daan1 ce1 go2 zan6 sing4 jat6 zoek3 pei4 lau1"
-        }
-      ]
+      "english": "They often wear leather jackets when riding motorcycles.",
+      "traditional": "佢哋踩電單車嗰陣成日着皮褸。",
+      "jyutping": "keoi5 dei6 caai2 din6 daan1 ce1 go2 zan6 sing4 jat6 zoek3 pei4 lau1"
     }
   ]
 }

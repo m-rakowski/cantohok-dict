@@ -1,28 +1,24 @@
 {
   "id": "6ihblobr",
   "partOfSpeech": "noun",
+  "meaning": "flash of light",
+  "english": [
+    {
+      "id": "6f4piedp",
+      "word": "lightning",
+      "meaning": "flash of light",
+      "register": "written",
+      "note": "A speaker uses this mainly in written or literary descriptions of the visible flash, not for emphasizing the electrical discharge itself."
+    }
+  ],
   "traditional": "電光",
   "jyutping": "din6 gwong1",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "flash of light",
-      "english": [
-        {
-          "id": "6f4piedp",
-          "word": "lightning",
-          "meaning": "flash of light",
-          "register": "written",
-          "note": "A speaker uses this mainly in written or literary descriptions of the visible flash, not for emphasizing the electrical discharge itself."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "A flash of lightning lit up the dark night at once.",
-          "traditional": "電光一閃，黑夜即刻亮咗。",
-          "jyutping": "din6 gwong1 jat1 sim2 hak1 je6 zik1 hak1 loeng6 zo2"
-        }
-      ]
+      "english": "A flash of lightning lit up the dark night at once.",
+      "traditional": "電光一閃，黑夜即刻亮咗。",
+      "jyutping": "din6 gwong1 jat1 sim2 hak1 je6 zik1 hak1 loeng6 zo2"
     }
   ]
 }

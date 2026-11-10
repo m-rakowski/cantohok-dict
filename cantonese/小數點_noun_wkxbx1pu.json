@@ -1,26 +1,22 @@
 {
   "id": "wkxbx1pu",
   "partOfSpeech": "noun",
+  "meaning": "decimal point",
+  "english": [
+    {
+      "id": "d4pz965m",
+      "word": "dot",
+      "meaning": "decimal point",
+      "note": "Use this specifically for the decimal point in a number."
+    }
+  ],
   "traditional": "小數點",
   "jyutping": "siu2 sou3 dim2",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "decimal point",
-      "english": [
-        {
-          "id": "d4pz965m",
-          "word": "dot",
-          "meaning": "decimal point",
-          "note": "Use this specifically for the decimal point in a number."
-        }
-      ],
-      "examples": [
-        {
-          "english": "You can't leave out the dot in three point one four.",
-          "traditional": "三點一四入面個小數點唔可以漏。",
-          "jyutping": "saam1 dim2 jat1 sei3 jap6 min6 go3 siu2 sou3 dim2 m4 ho2 ji5 lau6"
-        }
-      ]
+      "english": "You can't leave out the dot in three point one four.",
+      "traditional": "三點一四入面個小數點唔可以漏。",
+      "jyutping": "saam1 dim2 jat1 sei3 jap6 min6 go3 siu2 sou3 dim2 m4 ho2 ji5 lau6"
     }
   ]
 }

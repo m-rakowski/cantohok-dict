@@ -1,37 +1,33 @@
 {
   "id": "m87vmxe6",
   "partOfSpeech": "noun",
+  "meaning": "tutoring classes",
+  "english": [
+    {
+      "id": "7rw9u8kf",
+      "word": "tuition",
+      "meaning": "private tutoring classes",
+      "note": "Use this for paid private or after-school tutoring classes rather than ordinary school instruction."
+    },
+    {
+      "id": "dku6d6il",
+      "word": "coaching",
+      "meaning": "instruction; tutoring",
+      "note": "Use this specifically for academic tutoring or extra lessons."
+    }
+  ],
   "traditional": "補習",
   "jyutping": "bou2 zaap6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "tutoring classes",
-      "english": [
-        {
-          "id": "7rw9u8kf",
-          "word": "tuition",
-          "meaning": "private tutoring classes",
-          "note": "Use this for paid private or after-school tutoring classes rather than ordinary school instruction."
-        },
-        {
-          "id": "dku6d6il",
-          "word": "coaching",
-          "meaning": "instruction; tutoring",
-          "note": "Use this specifically for academic tutoring or extra lessons."
-        }
-      ],
-      "examples": [
-        {
-          "english": "My son goes to tuition every Saturday.",
-          "traditional": "我個仔每個星期六都去補習。",
-          "jyutping": "ngo5 go3 zai2 mui5 go3 sing1 kei4 luk6 dou1 heoi3 bou2 zaap6"
-        },
-        {
-          "english": "I go for coaching after school to prepare for the next exam.",
-          "traditional": "我放學後去補習，準備下次考試。",
-          "jyutping": "ngo5 fong3 hok6 hau6 heoi3 bou2 zaap6 zeon2 bei6 haa6 ci3 haau2 si3"
-        }
-      ]
+      "english": "My son goes to tuition every Saturday.",
+      "traditional": "我個仔每個星期六都去補習。",
+      "jyutping": "ngo5 go3 zai2 mui5 go3 sing1 kei4 luk6 dou1 heoi3 bou2 zaap6"
+    },
+    {
+      "english": "I go for coaching after school to prepare for the next exam.",
+      "traditional": "我放學後去補習，準備下次考試。",
+      "jyutping": "ngo5 fong3 hok6 hau6 heoi3 bou2 zaap6 zeon2 bei6 haa6 ci3 haau2 si3"
     }
   ]
 }

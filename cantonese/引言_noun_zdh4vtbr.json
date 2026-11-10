@@ -1,28 +1,24 @@
 {
   "id": "zdh4vtbr",
   "partOfSpeech": "noun",
+  "meaning": "book/article introduction",
+  "english": [
+    {
+      "id": "243dybel",
+      "word": "introduction",
+      "meaning": "book/article introduction",
+      "register": "written",
+      "note": "Use this for the introductory section of a book, article, or other formal written text."
+    }
+  ],
   "traditional": "引言",
   "jyutping": "jan5 jin4",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "book/article introduction",
-      "english": [
-        {
-          "id": "243dybel",
-          "word": "introduction",
-          "meaning": "book/article introduction",
-          "register": "written",
-          "note": "Use this for the introductory section of a book, article, or other formal written text."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "The introduction to this book first explains the research background.",
-          "traditional": "本書引言先交代研究背景。",
-          "jyutping": "bun2 syu1 jan5 jin4 sin1 gaau1 doi6 jin4 gau3 bui3 ging2"
-        }
-      ]
+      "english": "The introduction to this book first explains the research background.",
+      "traditional": "本書引言先交代研究背景。",
+      "jyutping": "bun2 syu1 jan5 jin4 sin1 gaau1 doi6 jin4 gau3 bui3 ging2"
     }
   ]
 }

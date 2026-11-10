@@ -1,40 +1,36 @@
 {
   "id": "oc37qq3h",
   "partOfSpeech": "noun",
+  "meaning": "scumbag, despicable person",
+  "english": [
+    {
+      "id": "hyjvjv4y",
+      "word": "vermin",
+      "meaning": "despicable person",
+      "register": "colloquial",
+      "note": "Use this for a person regarded as thoroughly despicable or morally worthless."
+    },
+    {
+      "id": "zpiyk63e",
+      "word": "specimen",
+      "meaning": "contemptible person",
+      "register": "colloquial",
+      "note": "Use 人渣 when specimen is an insulting reference to a contemptible person."
+    }
+  ],
   "traditional": "人渣",
   "jyutping": "jan4 zaa1",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "scumbag, despicable person",
-      "english": [
-        {
-          "id": "hyjvjv4y",
-          "word": "vermin",
-          "meaning": "despicable person",
-          "register": "colloquial",
-          "note": "Use this for a person regarded as thoroughly despicable or morally worthless."
-        },
-        {
-          "id": "zpiyk63e",
-          "word": "specimen",
-          "meaning": "contemptible person",
-          "register": "colloquial",
-          "note": "Use 人渣 when specimen is an insulting reference to a contemptible person."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "That vermin cheated elderly people out of their savings and is truly heartless.",
-          "traditional": "嗰個人渣呃老人家啲積蓄，真係冇人性。",
-          "jyutping": "go2 go3 jan4 zaa1 ngaak1 lou5 jan4 gaa1 di1 zik1 cuk1 zan1 hai6 mou5 jan4 sing3"
-        },
-        {
-          "english": "You’re a real specimen, cheating people like that.",
-          "traditional": "你咁樣呃人，真係人渣。",
-          "jyutping": "nei5 gam3 joeng2 ngaak1 jan4 zan1 hai6 jan4 zaa1"
-        }
-      ]
+      "english": "That vermin cheated elderly people out of their savings and is truly heartless.",
+      "traditional": "嗰個人渣呃老人家啲積蓄，真係冇人性。",
+      "jyutping": "go2 go3 jan4 zaa1 ngaak1 lou5 jan4 gaa1 di1 zik1 cuk1 zan1 hai6 mou5 jan4 sing3"
+    },
+    {
+      "english": "You’re a real specimen, cheating people like that.",
+      "traditional": "你咁樣呃人，真係人渣。",
+      "jyutping": "nei5 gam3 joeng2 ngaak1 jan4 zan1 hai6 jan4 zaa1"
     }
   ]
 }

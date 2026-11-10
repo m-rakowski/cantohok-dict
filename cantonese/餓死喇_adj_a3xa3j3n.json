@@ -1,28 +1,24 @@
 {
   "id": "a3xa3j3n",
   "partOfSpeech": "adj",
+  "meaning": "extremely hungry",
+  "english": [
+    {
+      "id": "1qgsnbdz",
+      "word": "starving",
+      "meaning": "extremely hungry",
+      "register": "colloquial",
+      "note": "This is the emphatic, all-purpose colloquial way to say that you are starving."
+    }
+  ],
   "traditional": "餓死喇",
   "jyutping": "ngo6 sei2 laa3",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "extremely hungry",
-      "english": [
-        {
-          "id": "1qgsnbdz",
-          "word": "starving",
-          "meaning": "extremely hungry",
-          "register": "colloquial",
-          "note": "This is the emphatic, all-purpose colloquial way to say that you are starving."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "I've been working since this morning; I'm starving!",
-          "traditional": "我由朝早做到而家，餓死喇！",
-          "jyutping": "ngo5 jau4 ziu1 zou2 zou6 dou3 ji4 gaa1 ngo6 sei2 laa3"
-        }
-      ]
+      "english": "I've been working since this morning; I'm starving!",
+      "traditional": "我由朝早做到而家，餓死喇！",
+      "jyutping": "ngo5 jau4 ziu1 zou2 zou6 dou3 ji4 gaa1 ngo6 sei2 laa3"
     }
   ]
 }

@@ -1,40 +1,36 @@
 {
   "id": "fqcgoxq5",
   "partOfSpeech": "noun",
+  "meaning": "senior officer, superior",
+  "english": [
+    {
+      "id": "pd7lvv84",
+      "word": "officer",
+      "meaning": "authority figure / official",
+      "register": "formal",
+      "note": "Use this for a senior or commanding authority figure, especially in a military or official hierarchy."
+    },
+    {
+      "id": "o7e4zq52",
+      "word": "sir",
+      "meaning": "address to military superior",
+      "register": "formal",
+      "note": "Use this formal military term when addressing a superior officer in an explicitly military setting."
+    }
+  ],
   "traditional": "長官",
   "jyutping": "zoeng2 gun1",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "senior officer, superior",
-      "english": [
-        {
-          "id": "pd7lvv84",
-          "word": "officer",
-          "meaning": "authority figure / official",
-          "register": "formal",
-          "note": "Use this for a senior or commanding authority figure, especially in a military or official hierarchy."
-        },
-        {
-          "id": "o7e4zq52",
-          "word": "sir",
-          "meaning": "address to military superior",
-          "register": "formal",
-          "note": "Use this formal military term when addressing a superior officer in an explicitly military setting."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The senior officer has approved this operation.",
-          "traditional": "長官已經批准今次行動。",
-          "jyutping": "zoeng2 gun1 ji5 ging1 pai1 zeon2 gam1 ci3 hang4 dung6"
-        },
-        {
-          "english": "Sir, the report is complete; please give orders.",
-          "traditional": "長官，報告完成，請指示。",
-          "jyutping": "zoeng2 gun1 bou3 gou3 jyun4 sing4 cing2 zi2 si6"
-        }
-      ]
+      "english": "The senior officer has approved this operation.",
+      "traditional": "長官已經批准今次行動。",
+      "jyutping": "zoeng2 gun1 ji5 ging1 pai1 zeon2 gam1 ci3 hang4 dung6"
+    },
+    {
+      "english": "Sir, the report is complete; please give orders.",
+      "traditional": "長官，報告完成，請指示。",
+      "jyutping": "zoeng2 gun1 bou3 gou3 jyun4 sing4 cing2 zi2 si6"
     }
   ]
 }

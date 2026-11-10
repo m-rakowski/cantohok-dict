@@ -1,81 +1,77 @@
 {
   "id": "pkwla7a7",
   "partOfSpeech": "verb",
+  "meaning": "to protect",
+  "english": [
+    {
+      "id": "cbyqp6ix",
+      "word": "guard",
+      "meaning": "protect; defend",
+      "note": "Use this as the all-purpose verb for protecting someone or something from danger or harm."
+    },
+    {
+      "id": "0qoet4gg",
+      "word": "protect",
+      "meaning": "keep safe; defend",
+      "note": "This is the all-purpose choice for keeping a person or thing safe from harm."
+    },
+    {
+      "id": "gs645lfc",
+      "word": "defend",
+      "meaning": "protect, guard",
+      "note": "Use this as the all-purpose choice for protecting a person or thing from harm or attack."
+    },
+    {
+      "id": "qcqp33lo",
+      "word": "preserve",
+      "meaning": "protect from harm",
+      "note": "Use this as the all-purpose verb for protecting someone or something from harm."
+    },
+    {
+      "id": "yoo1xuzy",
+      "word": "conserve",
+      "meaning": "protect the environment",
+      "note": "Use this as the all-purpose verb for protecting the environment, places, or heritage."
+    },
+    {
+      "id": "ge0y3v9i",
+      "word": "secure",
+      "meaning": "make safe; protect",
+      "note": "This is the all-purpose choice when secure means protect someone or something from danger."
+    }
+  ],
   "traditional": "保護",
   "jyutping": "bou2 wu6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "to protect",
-      "english": [
-        {
-          "id": "cbyqp6ix",
-          "word": "guard",
-          "meaning": "protect; defend",
-          "note": "Use this as the all-purpose verb for protecting someone or something from danger or harm."
-        },
-        {
-          "id": "0qoet4gg",
-          "word": "protect",
-          "meaning": "keep safe; defend",
-          "note": "This is the all-purpose choice for keeping a person or thing safe from harm."
-        },
-        {
-          "id": "gs645lfc",
-          "word": "defend",
-          "meaning": "protect, guard",
-          "note": "Use this as the all-purpose choice for protecting a person or thing from harm or attack."
-        },
-        {
-          "id": "qcqp33lo",
-          "word": "preserve",
-          "meaning": "protect from harm",
-          "note": "Use this as the all-purpose verb for protecting someone or something from harm."
-        },
-        {
-          "id": "yoo1xuzy",
-          "word": "conserve",
-          "meaning": "protect the environment",
-          "note": "Use this as the all-purpose verb for protecting the environment, places, or heritage."
-        },
-        {
-          "id": "ge0y3v9i",
-          "word": "secure",
-          "meaning": "make safe; protect",
-          "note": "This is the all-purpose choice when secure means protect someone or something from danger."
-        }
-      ],
-      "examples": [
-        {
-          "english": "We need to guard the children so they don't get hurt.",
-          "traditional": "我哋要保護啲小朋友，唔畀佢哋受傷。",
-          "jyutping": "ngo5 dei6 jiu3 bou2 wu6 di1 siu2 pang4 jau5 m4 bei2 keoi5 dei6 sau6 soeng1"
-        },
-        {
-          "english": "We need to protect the environment.",
-          "traditional": "我哋要保護環境。",
-          "jyutping": "ngo5 dei6 jiu3 bou2 wu6 waan4 ging2"
-        },
-        {
-          "english": "We need to defend the children from harm.",
-          "traditional": "我哋要保護啲小朋友，免受傷害。",
-          "jyutping": "ngo5 dei6 jiu3 bou2 wu6 di1 siu2 pang4 jau5 min5 sau6 soeng1 hoi6"
-        },
-        {
-          "english": "We need to preserve the old trees from damage.",
-          "traditional": "我哋要保護啲老樹免受破壞。",
-          "jyutping": "ngo5 dei6 jiu3 bou2 wu6 di1 lou5 syu6 min5 sau6 po3 waai6"
-        },
-        {
-          "english": "We need to conserve the coastline and stop litter from damaging it.",
-          "traditional": "我哋要保護海岸，唔好再畀垃圾破壞。",
-          "jyutping": "ngo5 dei6 jiu3 bou2 wu6 hoi2 ngon6 m4 hou2 zoi3 bei2 laap6 saap3 po3 waai6"
-        },
-        {
-          "english": "We need to secure the children by keeping them away from the road.",
-          "traditional": "我哋要保護啲小朋友，唔好畀佢哋行近馬路。",
-          "jyutping": "ngo5 dei6 jiu3 bou2 wu6 di1 siu2 pang4 jau5 m4 hou2 bei2 keoi5 dei6 haang4 gan6 maa5 lou6"
-        }
-      ]
+      "english": "We need to guard the children so they don't get hurt.",
+      "traditional": "我哋要保護啲小朋友，唔畀佢哋受傷。",
+      "jyutping": "ngo5 dei6 jiu3 bou2 wu6 di1 siu2 pang4 jau5 m4 bei2 keoi5 dei6 sau6 soeng1"
+    },
+    {
+      "english": "We need to protect the environment.",
+      "traditional": "我哋要保護環境。",
+      "jyutping": "ngo5 dei6 jiu3 bou2 wu6 waan4 ging2"
+    },
+    {
+      "english": "We need to defend the children from harm.",
+      "traditional": "我哋要保護啲小朋友，免受傷害。",
+      "jyutping": "ngo5 dei6 jiu3 bou2 wu6 di1 siu2 pang4 jau5 min5 sau6 soeng1 hoi6"
+    },
+    {
+      "english": "We need to preserve the old trees from damage.",
+      "traditional": "我哋要保護啲老樹免受破壞。",
+      "jyutping": "ngo5 dei6 jiu3 bou2 wu6 di1 lou5 syu6 min5 sau6 po3 waai6"
+    },
+    {
+      "english": "We need to conserve the coastline and stop litter from damaging it.",
+      "traditional": "我哋要保護海岸，唔好再畀垃圾破壞。",
+      "jyutping": "ngo5 dei6 jiu3 bou2 wu6 hoi2 ngon6 m4 hou2 zoi3 bei2 laap6 saap3 po3 waai6"
+    },
+    {
+      "english": "We need to secure the children by keeping them away from the road.",
+      "traditional": "我哋要保護啲小朋友，唔好畀佢哋行近馬路。",
+      "jyutping": "ngo5 dei6 jiu3 bou2 wu6 di1 siu2 pang4 jau5 m4 hou2 bei2 keoi5 dei6 haang4 gan6 maa5 lou6"
     }
   ]
 }

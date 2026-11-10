@@ -1,28 +1,24 @@
 {
   "id": "jimdfmei",
   "partOfSpeech": "noun",
+  "meaning": "rest; sleep",
+  "english": [
+    {
+      "id": "xicntr7i",
+      "word": "repose",
+      "meaning": "rest; sleep",
+      "register": "colloquial",
+      "note": "Use this specifically when repose means sleep, not for a general break or rest."
+    }
+  ],
   "traditional": "瞓覺",
   "jyutping": "fan3 gaau3",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "rest; sleep",
-      "english": [
-        {
-          "id": "xicntr7i",
-          "word": "repose",
-          "meaning": "rest; sleep",
-          "register": "colloquial",
-          "note": "Use this specifically when repose means sleep, not for a general break or rest."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "I need some repose tonight, so I am going to bed early because I have an early shift tomorrow.",
-          "traditional": "我今晚要早啲瞓覺，聽朝仲要返早更。",
-          "jyutping": "ngo5 gam1 maan1 jiu3 zou2 di1 fan3 gaau3 ting1 ziu1 zung6 jiu3 faan1 zou2 gaang1"
-        }
-      ]
+      "english": "I need some repose tonight, so I am going to bed early because I have an early shift tomorrow.",
+      "traditional": "我今晚要早啲瞓覺，聽朝仲要返早更。",
+      "jyutping": "ngo5 gam1 maan1 jiu3 zou2 di1 fan3 gaau3 ting1 ziu1 zung6 jiu3 faan1 zou2 gaang1"
     }
   ]
 }

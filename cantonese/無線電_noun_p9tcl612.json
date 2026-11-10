@@ -1,26 +1,22 @@
 {
   "id": "p9tcl612",
   "partOfSpeech": "noun",
+  "meaning": "radio transmission technology",
+  "english": [
+    {
+      "id": "gnp0edct",
+      "word": "radio",
+      "meaning": "radio transmission technology",
+      "note": "Use 無線電 for radio transmission technology rather than the receiving device."
+    }
+  ],
   "traditional": "無線電",
   "jyutping": "mou4 sin3 din6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "radio transmission technology",
-      "english": [
-        {
-          "id": "gnp0edct",
-          "word": "radio",
-          "meaning": "radio transmission technology",
-          "note": "Use 無線電 for radio transmission technology rather than the receiving device."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The ambulance uses radio to contact headquarters.",
-          "traditional": "救護車用無線電同總部聯絡。",
-          "jyutping": "gau3 wu6 ce1 jung6 mou4 sin3 din6 tung4 zung2 bou6 lyun4 lok3"
-        }
-      ]
+      "english": "The ambulance uses radio to contact headquarters.",
+      "traditional": "救護車用無線電同總部聯絡。",
+      "jyutping": "gau3 wu6 ce1 jung6 mou4 sin3 din6 tung4 zung2 bou6 lyun4 lok3"
     }
   ]
 }

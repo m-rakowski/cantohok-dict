@@ -1,28 +1,24 @@
 {
   "id": "oiiy5tos",
   "partOfSpeech": "verb",
+  "meaning": "certify in writing",
+  "english": [
+    {
+      "id": "10lblbro",
+      "word": "certify",
+      "meaning": "certify in writing",
+      "register": "formal",
+      "note": "Use 核證 for formally authenticating or verifying a document or copy, especially in writing."
+    }
+  ],
   "traditional": "核證",
   "jyutping": "hat6 zing3",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "certify in writing",
-      "english": [
-        {
-          "id": "10lblbro",
-          "word": "certify",
-          "meaning": "certify in writing",
-          "register": "formal",
-          "note": "Use 核證 for formally authenticating or verifying a document or copy, especially in writing."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "Please certify that this copy matches the original.",
-          "traditional": "請核證呢份副本同正本一致。",
-          "jyutping": "cing2 hat6 zing3 ni1 fan6 fu3 bun2 tung4 zing3 bun2 jat1 zi3"
-        }
-      ]
+      "english": "Please certify that this copy matches the original.",
+      "traditional": "請核證呢份副本同正本一致。",
+      "jyutping": "cing2 hat6 zing3 ni1 fan6 fu3 bun2 tung4 zing3 bun2 jat1 zi3"
     }
   ]
 }

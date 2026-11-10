@@ -1,28 +1,24 @@
 {
   "id": "vp25bedm",
   "partOfSpeech": "verb",
+  "meaning": "push over",
+  "english": [
+    {
+      "id": "w28oajh3",
+      "word": "topple",
+      "meaning": "push over",
+      "register": "colloquial",
+      "note": "This is the all-purpose colloquial choice when someone actively knocks an object over."
+    }
+  ],
   "traditional": "推冧",
   "jyutping": "teoi1 lam1",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "push over",
-      "english": [
-        {
-          "id": "w28oajh3",
-          "word": "topple",
-          "meaning": "push over",
-          "register": "colloquial",
-          "note": "This is the all-purpose colloquial choice when someone actively knocks an object over."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "They topple the stool with one push.",
-          "traditional": "佢一推就推冧咗張凳。",
-          "jyutping": "keoi5 jat1 teoi1 zau6 teoi1 lam1 zo2 zoeng1 dang3"
-        }
-      ]
+      "english": "They topple the stool with one push.",
+      "traditional": "佢一推就推冧咗張凳。",
+      "jyutping": "keoi5 jat1 teoi1 zau6 teoi1 lam1 zo2 zoeng1 dang3"
     }
   ]
 }

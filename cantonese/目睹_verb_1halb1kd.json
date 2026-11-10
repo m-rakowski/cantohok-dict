@@ -1,28 +1,24 @@
 {
   "id": "1halb1kd",
   "partOfSpeech": "verb",
+  "meaning": "see; experience",
+  "english": [
+    {
+      "id": "gqa52afd",
+      "word": "witness",
+      "meaning": "see; experience",
+      "register": "written",
+      "note": "Use this formal written verb for directly observing an event, especially in reports or serious descriptions."
+    }
+  ],
   "traditional": "目睹",
   "jyutping": "muk6 dou2",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "see; experience",
-      "english": [
-        {
-          "id": "gqa52afd",
-          "word": "witness",
-          "meaning": "see; experience",
-          "register": "written",
-          "note": "Use this formal written verb for directly observing an event, especially in reports or serious descriptions."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "The police were able to witness the entire accident.",
-          "traditional": "警方目睹整宗意外。",
-          "jyutping": "ging2 fong1 muk6 dou2 zing2 zung1 ji3 ngoi6"
-        }
-      ]
+      "english": "The police were able to witness the entire accident.",
+      "traditional": "警方目睹整宗意外。",
+      "jyutping": "ging2 fong1 muk6 dou2 zing2 zung1 ji3 ngoi6"
     }
   ]
 }

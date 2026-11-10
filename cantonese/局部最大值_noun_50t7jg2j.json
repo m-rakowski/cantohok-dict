@@ -1,28 +1,24 @@
 {
   "id": "50t7jg2j",
   "partOfSpeech": "noun",
+  "meaning": "math maximum",
+  "english": [
+    {
+      "id": "7y18zid1",
+      "word": "maximum",
+      "meaning": "math maximum",
+      "register": "formal",
+      "note": "Use this specifically for a local maximum of a function rather than its greatest value overall."
+    }
+  ],
   "traditional": "局部最大值",
   "jyutping": "guk6 bou6 zeoi3 daai6 zik6",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "math maximum",
-      "english": [
-        {
-          "id": "7y18zid1",
-          "word": "maximum",
-          "meaning": "math maximum",
-          "register": "formal",
-          "note": "Use this specifically for a local maximum of a function rather than its greatest value overall."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "Within this interval, the function has a local maximum at this point.",
-          "traditional": "喺呢個區間入面，函數喺呢個點有局部最大值。",
-          "jyutping": "hai2 ni1 go3 keoi1 gaan1 jap6 min6 haam4 sou3 hai2 ni1 go3 dim2 jau5 guk6 bou6 zeoi3 daai6 zik6"
-        }
-      ]
+      "english": "Within this interval, the function has a local maximum at this point.",
+      "traditional": "喺呢個區間入面，函數喺呢個點有局部最大值。",
+      "jyutping": "hai2 ni1 go3 keoi1 gaan1 jap6 min6 haam4 sou3 hai2 ni1 go3 dim2 jau5 guk6 bou6 zeoi3 daai6 zik6"
     }
   ]
 }

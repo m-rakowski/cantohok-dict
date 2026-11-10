@@ -1,38 +1,34 @@
 {
   "id": "lemmbr53",
   "partOfSpeech": "noun",
+  "meaning": "red wine",
+  "english": [
+    {
+      "id": "lnwticml",
+      "word": "wine",
+      "meaning": "grape alcoholic drink",
+      "register": "colloquial",
+      "note": "This is the all-purpose everyday choice in Hong Kong when the wine is understood to be red wine or the context makes that clear."
+    },
+    {
+      "id": "6navjanu",
+      "word": "red",
+      "meaning": "red wine",
+      "note": "Use this specifically for red wine rather than the colour in general."
+    }
+  ],
   "traditional": "紅酒",
   "jyutping": "hung4 zau2",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "red wine",
-      "english": [
-        {
-          "id": "lnwticml",
-          "word": "wine",
-          "meaning": "grape alcoholic drink",
-          "register": "colloquial",
-          "note": "This is the all-purpose everyday choice in Hong Kong when the wine is understood to be red wine or the context makes that clear."
-        },
-        {
-          "id": "6navjanu",
-          "word": "red",
-          "meaning": "red wine",
-          "note": "Use this specifically for red wine rather than the colour in general."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This red wine goes down smoothly.",
-          "traditional": "呢支紅酒幾順口喎。",
-          "jyutping": "ni1 zi1 hung4 zau2 gei2 seon6 hau2 wo3"
-        },
-        {
-          "english": "Red wine goes best with steak.",
-          "traditional": "食牛扒飲紅酒最夾。",
-          "jyutping": "sik6 ngau4 paa4 jam2 hung4 zau2 zeoi3 gaap3"
-        }
-      ]
+      "english": "This red wine goes down smoothly.",
+      "traditional": "呢支紅酒幾順口喎。",
+      "jyutping": "ni1 zi1 hung4 zau2 gei2 seon6 hau2 wo3"
+    },
+    {
+      "english": "Red wine goes best with steak.",
+      "traditional": "食牛扒飲紅酒最夾。",
+      "jyutping": "sik6 ngau4 paa4 jam2 hung4 zau2 zeoi3 gaap3"
     }
   ]
 }

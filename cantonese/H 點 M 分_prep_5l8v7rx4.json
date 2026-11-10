@@ -1,26 +1,22 @@
 {
   "id": "5l8v7rx4",
   "partOfSpeech": "prep",
+  "meaning": "after the hour",
+  "english": [
+    {
+      "id": "ww16723t",
+      "word": "past",
+      "meaning": "after the hour",
+      "note": "Use this all-purpose clock-time construction for a stated number of minutes after the hour, including quarter past and half past."
+    }
+  ],
   "traditional": "H 點 M 分",
   "jyutping": "H dim2 M fan1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "after the hour",
-      "english": [
-        {
-          "id": "ww16723t",
-          "word": "past",
-          "meaning": "after the hour",
-          "note": "Use this all-purpose clock-time construction for a stated number of minutes after the hour, including quarter past and half past."
-        }
-      ],
-      "examples": [
-        {
-          "english": "It’s fifteen minutes past two.",
-          "traditional": "而家係兩點十五分。",
-          "jyutping": "ji4 gaa1 hai6 loeng5 dim2 sap6 ng5 fan1"
-        }
-      ]
+      "english": "It’s fifteen minutes past two.",
+      "traditional": "而家係兩點十五分。",
+      "jyutping": "ji4 gaa1 hai6 loeng5 dim2 sap6 ng5 fan1"
     }
   ]
 }

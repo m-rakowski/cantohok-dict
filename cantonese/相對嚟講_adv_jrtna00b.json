@@ -1,28 +1,24 @@
 {
   "id": "jrtna00b",
   "partOfSpeech": "adv",
+  "meaning": "comparatively; in relation to",
+  "english": [
+    {
+      "id": "1ntcs5jy",
+      "word": "relatively",
+      "meaning": "comparatively; in relation to",
+      "register": "colloquial",
+      "note": "Use this when explicitly saying that something is relative to a benchmark, environment, or competing situation."
+    }
+  ],
   "traditional": "相對嚟講",
   "jyutping": "soeng1 deoi3 lai4 gong2",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "comparatively; in relation to",
-      "english": [
-        {
-          "id": "1ntcs5jy",
-          "word": "relatively",
-          "meaning": "comparatively; in relation to",
-          "register": "colloquial",
-          "note": "Use this when explicitly saying that something is relative to a benchmark, environment, or competing situation."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "Relatively speaking, the rent here isn't expensive.",
-          "traditional": "相對嚟講，呢度租金唔算貴。",
-          "jyutping": "soeng1 deoi3 lai4 gong2 ni1 dou6 zou1 gam1 m4 syun3 gwai3"
-        }
-      ]
+      "english": "Relatively speaking, the rent here isn't expensive.",
+      "traditional": "相對嚟講，呢度租金唔算貴。",
+      "jyutping": "soeng1 deoi3 lai4 gong2 ni1 dou6 zou1 gam1 m4 syun3 gwai3"
     }
   ]
 }

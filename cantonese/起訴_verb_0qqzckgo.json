@@ -1,28 +1,24 @@
 {
   "id": "0qqzckgo",
   "partOfSpeech": "verb",
+  "meaning": "bring criminal charges",
+  "english": [
+    {
+      "id": "9e3gpbml",
+      "word": "prosecute",
+      "meaning": "bring criminal charges",
+      "register": "formal",
+      "note": "This is the all-purpose legal verb for formally bringing a criminal or civil court action."
+    }
+  ],
   "traditional": "起訴",
   "jyutping": "hei2 sou3",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "bring criminal charges",
-      "english": [
-        {
-          "id": "9e3gpbml",
-          "word": "prosecute",
-          "meaning": "bring criminal charges",
-          "register": "formal",
-          "note": "This is the all-purpose legal verb for formally bringing a criminal or civil court action."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The lawyer decided to prosecute the company involved and seek compensation for the losses.",
-          "traditional": "律師決定起訴涉案公司，要求賠償損失。",
-          "jyutping": "leot6 si1 kyut3 ding6 hei2 sou3 sip3 on3 gung1 si1 jiu1 kau4 pui4 soeng4 syun2 sat1"
-        }
-      ]
+      "english": "The lawyer decided to prosecute the company involved and seek compensation for the losses.",
+      "traditional": "律師決定起訴涉案公司，要求賠償損失。",
+      "jyutping": "leot6 si1 kyut3 ding6 hei2 sou3 sip3 on3 gung1 si1 jiu1 kau4 pui4 soeng4 syun2 sat1"
     }
   ]
 }

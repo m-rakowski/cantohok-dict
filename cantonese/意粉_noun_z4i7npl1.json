@@ -1,37 +1,33 @@
 {
   "id": "z4i7npl1",
   "partOfSpeech": "noun",
+  "meaning": "spaghetti, pasta",
+  "english": [
+    {
+      "id": "z33qufrl",
+      "word": "pasta",
+      "meaning": "pasta dough/noodles",
+      "note": "This is the all-purpose spoken choice for pasta as a food or as a dish."
+    },
+    {
+      "id": "yv45q8w8",
+      "word": "spaghetti",
+      "meaning": "pasta strings",
+      "note": "This is the all-purpose spoken choice for spaghetti as either the pasta itself or a dish made with it."
+    }
+  ],
   "traditional": "意粉",
   "jyutping": "ji3 fan2",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "spaghetti, pasta",
-      "english": [
-        {
-          "id": "z33qufrl",
-          "word": "pasta",
-          "meaning": "pasta dough/noodles",
-          "note": "This is the all-purpose spoken choice for pasta as a food or as a dish."
-        },
-        {
-          "id": "yv45q8w8",
-          "word": "spaghetti",
-          "meaning": "pasta strings",
-          "note": "This is the all-purpose spoken choice for spaghetti as either the pasta itself or a dish made with it."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I like eating pasta the most.",
-          "traditional": "我最鍾意食意粉。",
-          "jyutping": "ngo5 zeoi3 zung1 ji3 sik6 ji3 fan2"
-        },
-        {
-          "english": "I want to eat spaghetti.",
-          "traditional": "我想食意粉。",
-          "jyutping": "ngo5 soeng2 sik6 ji3 fan2"
-        }
-      ]
+      "english": "I like eating pasta the most.",
+      "traditional": "我最鍾意食意粉。",
+      "jyutping": "ngo5 zeoi3 zung1 ji3 sik6 ji3 fan2"
+    },
+    {
+      "english": "I want to eat spaghetti.",
+      "traditional": "我想食意粉。",
+      "jyutping": "ngo5 soeng2 sik6 ji3 fan2"
     }
   ]
 }

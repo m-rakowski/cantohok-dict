@@ -1,28 +1,24 @@
 {
   "id": "gf57w6p6",
   "partOfSpeech": "intj",
+  "meaning": "greeting on arrival",
+  "english": [
+    {
+      "id": "2xdqujoa",
+      "word": "welcome",
+      "meaning": "greeting on arrival",
+      "register": "formal",
+      "note": "Use this set phrase when welcoming customers into a shop, restaurant, or other business."
+    }
+  ],
   "traditional": "歡迎光臨",
   "jyutping": "fun1 jing4 gwong1 lam4",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "greeting on arrival",
-      "english": [
-        {
-          "id": "2xdqujoa",
-          "word": "welcome",
-          "meaning": "greeting on arrival",
-          "register": "formal",
-          "note": "Use this set phrase when welcoming customers into a shop, restaurant, or other business."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "Welcome to our shop.",
-          "traditional": "歡迎光臨！",
-          "jyutping": "fun1 jing4 gwong1 lam4"
-        }
-      ]
+      "english": "Welcome to our shop.",
+      "traditional": "歡迎光臨！",
+      "jyutping": "fun1 jing4 gwong1 lam4"
     }
   ]
 }

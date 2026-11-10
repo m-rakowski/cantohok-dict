@@ -1,28 +1,24 @@
 {
   "id": "d7ivwld6",
   "partOfSpeech": "noun",
+  "meaning": "married woman",
+  "english": [
+    {
+      "id": "qglztan9",
+      "word": "wife",
+      "meaning": "married woman",
+      "register": "formal",
+      "note": "Use 妻子 mainly in formal or written contexts rather than everyday conversation."
+    }
+  ],
   "traditional": "妻子",
   "jyutping": "cai1 zi2",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "married woman",
-      "english": [
-        {
-          "id": "qglztan9",
-          "word": "wife",
-          "meaning": "married woman",
-          "register": "formal",
-          "note": "Use 妻子 mainly in formal or written contexts rather than everyday conversation."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The application form asks for the name of the wife.",
-          "traditional": "申請表上要填寫妻子姓名。",
-          "jyutping": "san1 cing2 biu2 soeng6 jiu3 tin4 se2 cai1 zi2 sing3 ming4"
-        }
-      ]
+      "english": "The application form asks for the name of the wife.",
+      "traditional": "申請表上要填寫妻子姓名。",
+      "jyutping": "san1 cing2 biu2 soeng6 jiu3 tin4 se2 cai1 zi2 sing3 ming4"
     }
   ]
 }

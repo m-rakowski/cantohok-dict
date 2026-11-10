@@ -1,28 +1,24 @@
 {
   "id": "1l8kuezw",
   "partOfSpeech": "noun",
+  "meaning": "grammar subject",
+  "english": [
+    {
+      "id": "qyyrjnty",
+      "word": "subject",
+      "meaning": "grammar subject",
+      "register": "formal",
+      "note": "Use 主語 specifically for the grammatical subject of a clause or sentence."
+    }
+  ],
   "traditional": "主語",
   "jyutping": "zyu2 jyu5",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "grammar subject",
-      "english": [
-        {
-          "id": "qyyrjnty",
-          "word": "subject",
-          "meaning": "grammar subject",
-          "register": "formal",
-          "note": "Use 主語 specifically for the grammatical subject of a clause or sentence."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "In the sentence, “Siu Ming” is the subject.",
-          "traditional": "句子入面，「小明」係主語。",
-          "jyutping": "geoi3 zi2 jap6 min6 siu2 ming4 hai6 zyu2 jyu5"
-        }
-      ]
+      "english": "In the sentence, “Siu Ming” is the subject.",
+      "traditional": "句子入面，「小明」係主語。",
+      "jyutping": "geoi3 zi2 jap6 min6 siu2 ming4 hai6 zyu2 jyu5"
     }
   ]
 }

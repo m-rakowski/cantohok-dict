@@ -1,28 +1,24 @@
 {
   "id": "n22shov9",
   "partOfSpeech": "noun",
+  "meaning": "comparison; similarity",
+  "english": [
+    {
+      "id": "9qfuy3o7",
+      "word": "analogy",
+      "meaning": "comparison; similarity",
+      "register": "formal",
+      "note": "Use this as the all-purpose equivalent for a relationship of analogy, especially in technical or formal discussion."
+    }
+  ],
   "traditional": "類比",
   "jyutping": "leoi6 bei2",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "comparison; similarity",
-      "english": [
-        {
-          "id": "9qfuy3o7",
-          "word": "analogy",
-          "meaning": "comparison; similarity",
-          "register": "formal",
-          "note": "Use this as the all-purpose equivalent for a relationship of analogy, especially in technical or formal discussion."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "This theory can use analogy to explain the behaviour of two kinds of particles.",
-          "traditional": "呢個理論可以用類比去解釋兩種粒子嘅行為。",
-          "jyutping": "ni1 go3 lei5 leon6 ho2 ji5 jung6 leoi6 bei2 heoi3 gaai2 sik1 loeng5 zung2 lap1 zi2 ge3 hang4 wai4"
-        }
-      ]
+      "english": "This theory can use analogy to explain the behaviour of two kinds of particles.",
+      "traditional": "呢個理論可以用類比去解釋兩種粒子嘅行為。",
+      "jyutping": "ni1 go3 lei5 leon6 ho2 ji5 jung6 leoi6 bei2 heoi3 gaai2 sik1 loeng5 zung2 lap1 zi2 ge3 hang4 wai4"
     }
   ]
 }

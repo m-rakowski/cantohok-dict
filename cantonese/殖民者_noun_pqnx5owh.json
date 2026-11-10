@@ -1,28 +1,24 @@
 {
   "id": "pqnx5owh",
   "partOfSpeech": "noun",
+  "meaning": "new resident / colonist",
+  "english": [
+    {
+      "id": "368drygp",
+      "word": "settler",
+      "meaning": "new resident / colonist",
+      "register": "formal",
+      "note": "Use this specifically for a colonist settling in a territory under colonial expansion."
+    }
+  ],
   "traditional": "殖民者",
   "jyutping": "zik6 man4 ze2",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "new resident / colonist",
-      "english": [
-        {
-          "id": "368drygp",
-          "word": "settler",
-          "meaning": "new resident / colonist",
-          "register": "formal",
-          "note": "Use this specifically for a colonist settling in a territory under colonial expansion."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The settler established a colony there.",
-          "traditional": "殖民者喺當地建立殖民地。",
-          "jyutping": "zik6 man4 ze2 hai2 dong1 dei6 gin3 lap6 zik6 man4 dei6"
-        }
-      ]
+      "english": "The settler established a colony there.",
+      "traditional": "殖民者喺當地建立殖民地。",
+      "jyutping": "zik6 man4 ze2 hai2 dong1 dei6 gin3 lap6 zik6 man4 dei6"
     }
   ]
 }

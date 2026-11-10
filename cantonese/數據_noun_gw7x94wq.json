@@ -1,26 +1,22 @@
 {
   "id": "gw7x94wq",
   "partOfSpeech": "noun",
+  "meaning": "facts / information",
+  "english": [
+    {
+      "id": "26dqk94r",
+      "word": "data",
+      "meaning": "facts / information",
+      "note": "This is the all-purpose choice, especially for computer-stored or numerical data."
+    }
+  ],
   "traditional": "數據",
   "jyutping": "sou3 geoi3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "facts / information",
-      "english": [
-        {
-          "id": "26dqk94r",
-          "word": "data",
-          "meaning": "facts / information",
-          "note": "This is the all-purpose choice, especially for computer-stored or numerical data."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This data hasn’t been updated yet.",
-          "traditional": "呢份數據仲未更新。",
-          "jyutping": "ni1 fan6 sou3 geoi3 zung6 mei6 gang1 san1"
-        }
-      ]
+      "english": "This data hasn’t been updated yet.",
+      "traditional": "呢份數據仲未更新。",
+      "jyutping": "ni1 fan6 sou3 geoi3 zung6 mei6 gang1 san1"
     }
   ]
 }

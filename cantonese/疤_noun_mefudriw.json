@@ -1,38 +1,34 @@
 {
   "id": "mefudriw",
   "partOfSpeech": "noun",
+  "meaning": "scar",
+  "english": [
+    {
+      "id": "hfrw2tri",
+      "word": "scar",
+      "meaning": "skin mark",
+      "note": "This is the all-purpose everyday word for a permanent mark left on the skin."
+    },
+    {
+      "id": "uvb7nr4g",
+      "word": "incision",
+      "meaning": "surgical cut",
+      "register": "colloquial",
+      "note": "Use this for the scar left after the incision has healed, rather than for the fresh cut itself."
+    }
+  ],
   "traditional": "疤",
   "jyutping": "baa1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "scar",
-      "english": [
-        {
-          "id": "hfrw2tri",
-          "word": "scar",
-          "meaning": "skin mark",
-          "note": "This is the all-purpose everyday word for a permanent mark left on the skin."
-        },
-        {
-          "id": "uvb7nr4g",
-          "word": "incision",
-          "meaning": "surgical cut",
-          "register": "colloquial",
-          "note": "Use this for the scar left after the incision has healed, rather than for the fresh cut itself."
-        }
-      ],
-      "examples": [
-        {
-          "english": "They still have a scar on their arm.",
-          "traditional": "佢隻手臂仲有條疤。",
-          "jyutping": "keoi5 zek3 sau2 bei3 zung6 jau5 tiu4 baa1"
-        },
-        {
-          "english": "A few months after the operation, the incision scar has faded a lot.",
-          "traditional": "做完手術幾個月，條疤已經淡咗好多。",
-          "jyutping": "zou6 jyun4 sau2 seot6 gei2 go3 jyut6 tiu4 baa1 ji5 ging1 daam6 zo2 hou2 do1"
-        }
-      ]
+      "english": "They still have a scar on their arm.",
+      "traditional": "佢隻手臂仲有條疤。",
+      "jyutping": "keoi5 zek3 sau2 bei3 zung6 jau5 tiu4 baa1"
+    },
+    {
+      "english": "A few months after the operation, the incision scar has faded a lot.",
+      "traditional": "做完手術幾個月，條疤已經淡咗好多。",
+      "jyutping": "zou6 jyun4 sau2 seot6 gei2 go3 jyut6 tiu4 baa1 ji5 ging1 daam6 zo2 hou2 do1"
     }
   ]
 }

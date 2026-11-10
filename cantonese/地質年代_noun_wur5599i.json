@@ -1,28 +1,24 @@
 {
   "id": "wur5599i",
   "partOfSpeech": "noun",
+  "meaning": "geological era",
+  "english": [
+    {
+      "id": "kd1oqc48",
+      "word": "era",
+      "meaning": "geological era",
+      "register": "formal",
+      "note": "Use this specifically for a geological era in geology or earth-science contexts."
+    }
+  ],
   "traditional": "地質年代",
   "jyutping": "dei6 zat1 nin4 doi6",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "geological era",
-      "english": [
-        {
-          "id": "kd1oqc48",
-          "word": "era",
-          "meaning": "geological era",
-          "register": "formal",
-          "note": "Use this specifically for a geological era in geology or earth-science contexts."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "This geological era lasted for tens of millions of years.",
-          "traditional": "呢個地質年代延續咗幾千萬年。",
-          "jyutping": "ni1 go3 dei6 zat1 nin4 doi6 jin4 zuk6 zo2 gei2 cin1 maan6 nin4"
-        }
-      ]
+      "english": "This geological era lasted for tens of millions of years.",
+      "traditional": "呢個地質年代延續咗幾千萬年。",
+      "jyutping": "ni1 go3 dei6 zat1 nin4 doi6 jin4 zuk6 zo2 gei2 cin1 maan6 nin4"
     }
   ]
 }

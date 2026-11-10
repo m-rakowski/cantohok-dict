@@ -1,28 +1,24 @@
 {
   "id": "qykpvkep",
   "partOfSpeech": "noun",
+  "meaning": "written passage",
+  "english": [
+    {
+      "id": "oa0xyajd",
+      "word": "text",
+      "meaning": "written passage",
+      "register": "colloquial",
+      "note": "Use this for a particular passage, article, or piece of writing rather than text in the abstract."
+    }
+  ],
   "traditional": "篇文",
   "jyutping": "pin1 man4",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "written passage",
-      "english": [
-        {
-          "id": "oa0xyajd",
-          "word": "text",
-          "meaning": "written passage",
-          "register": "colloquial",
-          "note": "Use this for a particular passage, article, or piece of writing rather than text in the abstract."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "Can you check this text for typos?",
-          "traditional": "你幫我睇吓呢篇文有冇錯字？",
-          "jyutping": "nei5 bong1 ngo5 tai2 haa5 ni1 pin1 man4 jau5 mou5 co3 zi6"
-        }
-      ]
+      "english": "Can you check this text for typos?",
+      "traditional": "你幫我睇吓呢篇文有冇錯字？",
+      "jyutping": "nei5 bong1 ngo5 tai2 haa5 ni1 pin1 man4 jau5 mou5 co3 zi6"
     }
   ]
 }

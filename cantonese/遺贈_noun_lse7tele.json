@@ -1,28 +1,24 @@
 {
   "id": "lse7tele",
   "partOfSpeech": "noun",
+  "meaning": "bequest; inheritance",
+  "english": [
+    {
+      "id": "rf0e20yz",
+      "word": "legacy",
+      "meaning": "bequest; inheritance",
+      "register": "formal",
+      "note": "Use this in legal or formal contexts for property specifically bequeathed in a will."
+    }
+  ],
   "traditional": "遺贈",
   "jyutping": "wai6 zang6",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "bequest; inheritance",
-      "english": [
-        {
-          "id": "rf0e20yz",
-          "word": "legacy",
-          "meaning": "bequest; inheritance",
-          "register": "formal",
-          "note": "Use this in legal or formal contexts for property specifically bequeathed in a will."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The will states that this painting is a legacy bequeathed to his daughter.",
-          "traditional": "遺囑列明，呢幅畫列作遺贈，留畀佢個女。",
-          "jyutping": "wai4 zuk1 lit6 ming4 ne1 fuk1 waa2 lit6 zok3 wai6 zang6 lau4 bei2 keoi5 go3 neoi2"
-        }
-      ]
+      "english": "The will states that this painting is a legacy bequeathed to his daughter.",
+      "traditional": "遺囑列明，呢幅畫列作遺贈，留畀佢個女。",
+      "jyutping": "wai4 zuk1 lit6 ming4 ne1 fuk1 waa2 lit6 zok3 wai6 zang6 lau4 bei2 keoi5 go3 neoi2"
     }
   ]
 }

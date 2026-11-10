@@ -1,37 +1,33 @@
 {
   "id": "f5c3i714",
   "partOfSpeech": "noun",
+  "meaning": "roadside",
+  "english": [
+    {
+      "id": "wbi0hm15",
+      "word": "roadside",
+      "meaning": "area beside a road",
+      "note": "This is the all-purpose noun for the area beside a road."
+    },
+    {
+      "id": "u8pr20dc",
+      "word": "wayside",
+      "meaning": "roadside / by the road",
+      "note": "This is the all-purpose Cantonese noun for the side of a road or path."
+    }
+  ],
   "traditional": "路邊",
   "jyutping": "lou6 bin1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "roadside",
-      "english": [
-        {
-          "id": "wbi0hm15",
-          "word": "roadside",
-          "meaning": "area beside a road",
-          "note": "This is the all-purpose noun for the area beside a road."
-        },
-        {
-          "id": "u8pr20dc",
-          "word": "wayside",
-          "meaning": "roadside / by the road",
-          "note": "This is the all-purpose Cantonese noun for the side of a road or path."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I’ll wait for you by the roadside.",
-          "traditional": "我喺路邊等你。",
-          "jyutping": "ngo5 hai2 lou6 bin1 dang2 nei5"
-        },
-        {
-          "english": "I saw him standing by the wayside.",
-          "traditional": "我見到佢企喺路邊。",
-          "jyutping": "ngo5 gin3 dou2 keoi5 kei5 hai2 lou6 bin1"
-        }
-      ]
+      "english": "I’ll wait for you by the roadside.",
+      "traditional": "我喺路邊等你。",
+      "jyutping": "ngo5 hai2 lou6 bin1 dang2 nei5"
+    },
+    {
+      "english": "I saw him standing by the wayside.",
+      "traditional": "我見到佢企喺路邊。",
+      "jyutping": "ngo5 gin3 dou2 keoi5 kei5 hai2 lou6 bin1"
     }
   ]
 }

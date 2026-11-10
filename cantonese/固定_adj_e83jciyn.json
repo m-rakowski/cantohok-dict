@@ -1,48 +1,44 @@
 {
   "id": "e83jciyn",
   "partOfSpeech": "adj",
+  "meaning": "fixed, set, regular",
+  "english": [
+    {
+      "id": "y2apdhx5",
+      "word": "fixed",
+      "meaning": "unchanging; set",
+      "note": "This is the all-purpose choice for something secured in place or set and not expected to change."
+    },
+    {
+      "id": "8vfraaqk",
+      "word": "invariable",
+      "meaning": "unchanging; constant",
+      "note": "Use this for a fixed value, rate, arrangement, or regular quantity rather than for general immutability."
+    },
+    {
+      "id": "bbqwffrr",
+      "word": "certain",
+      "meaning": "regular, at set times",
+      "note": "Use this for something fixed or recurring at set times, such as intervals or schedules."
+    }
+  ],
   "traditional": "固定",
   "jyutping": "gu3 ding6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "fixed, set, regular",
-      "english": [
-        {
-          "id": "y2apdhx5",
-          "word": "fixed",
-          "meaning": "unchanging; set",
-          "note": "This is the all-purpose choice for something secured in place or set and not expected to change."
-        },
-        {
-          "id": "8vfraaqk",
-          "word": "invariable",
-          "meaning": "unchanging; constant",
-          "note": "Use this for a fixed value, rate, arrangement, or regular quantity rather than for general immutability."
-        },
-        {
-          "id": "bbqwffrr",
-          "word": "certain",
-          "meaning": "regular, at set times",
-          "note": "Use this for something fixed or recurring at set times, such as intervals or schedules."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This table is fixed to the wall.",
-          "traditional": "呢張枱係固定喺牆上面嘅。",
-          "jyutping": "ni1 zoeng1 toi2 hai6 gu3 ding6 hai2 coeng4 soeng6 min6 ge3"
-        },
-        {
-          "english": "The rent we pay each month is invariable.",
-          "traditional": "我哋每個月交嘅租金係固定嘅。",
-          "jyutping": "ngo5 dei6 mui5 go3 jyut6 gaau1 ge3 zou1 gam1 hai6 gu3 ding6 ge3"
-        },
-        {
-          "english": "We meet at a certain fixed time every Friday.",
-          "traditional": "我哋每個星期五都有固定時間開會。",
-          "jyutping": "ngo5 dei6 mui5 go3 sing1 kei4 ng5 dou1 jau5 gu3 ding6 si4 gaan3 hoi1 wui6"
-        }
-      ]
+      "english": "This table is fixed to the wall.",
+      "traditional": "呢張枱係固定喺牆上面嘅。",
+      "jyutping": "ni1 zoeng1 toi2 hai6 gu3 ding6 hai2 coeng4 soeng6 min6 ge3"
+    },
+    {
+      "english": "The rent we pay each month is invariable.",
+      "traditional": "我哋每個月交嘅租金係固定嘅。",
+      "jyutping": "ngo5 dei6 mui5 go3 jyut6 gaau1 ge3 zou1 gam1 hai6 gu3 ding6 ge3"
+    },
+    {
+      "english": "We meet at a certain fixed time every Friday.",
+      "traditional": "我哋每個星期五都有固定時間開會。",
+      "jyutping": "ngo5 dei6 mui5 go3 sing1 kei4 ng5 dou1 jau5 gu3 ding6 si4 gaan3 hoi1 wui6"
     }
   ]
 }

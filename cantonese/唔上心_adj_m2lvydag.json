@@ -1,38 +1,34 @@
 {
   "id": "m2lvydag",
   "partOfSpeech": "adj",
+  "meaning": "not caring, not taking seriously",
+  "english": [
+    {
+      "id": "5yuu911j",
+      "word": "neglectful",
+      "meaning": "failing to take care",
+      "register": "colloquial",
+      "note": "Use this when someone is not putting their mind or care into a responsibility, rather than simply being forgetful."
+    },
+    {
+      "id": "6udcno6c",
+      "word": "lethargic",
+      "meaning": "indifferent, apathetic",
+      "note": "Use this when the person is apathetic or unconcerned about something, rather than physically sluggish."
+    }
+  ],
   "traditional": "唔上心",
   "jyutping": "m4 soeng5 sam1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "not caring, not taking seriously",
-      "english": [
-        {
-          "id": "5yuu911j",
-          "word": "neglectful",
-          "meaning": "failing to take care",
-          "register": "colloquial",
-          "note": "Use this when someone is not putting their mind or care into a responsibility, rather than simply being forgetful."
-        },
-        {
-          "id": "6udcno6c",
-          "word": "lethargic",
-          "meaning": "indifferent, apathetic",
-          "note": "Use this when the person is apathetic or unconcerned about something, rather than physically sluggish."
-        }
-      ],
-      "examples": [
-        {
-          "english": "You’re being neglectful about your homework, so how can you get good marks?",
-          "traditional": "你對份功課咁唔上心，點會有好成績？",
-          "jyutping": "nei5 deoi3 fan6 gung1 fo3 gam3 m4 soeng5 sam1 dim2 wui5 jau5 hou2 sing4 zik1"
-        },
-        {
-          "english": "They are lethargic about their new job and do everything half-heartedly.",
-          "traditional": "佢對份新工好唔上心，叫佢做乜都得過且過。",
-          "jyutping": "keoi5 deoi3 fan2 san1 gung1 hou2 m4 soeng5 sam1 giu3 keoi5 zou6 mat1 dou1 dak1 gwo3 ce2 gwo3"
-        }
-      ]
+      "english": "You’re being neglectful about your homework, so how can you get good marks?",
+      "traditional": "你對份功課咁唔上心，點會有好成績？",
+      "jyutping": "nei5 deoi3 fan6 gung1 fo3 gam3 m4 soeng5 sam1 dim2 wui5 jau5 hou2 sing4 zik1"
+    },
+    {
+      "english": "They are lethargic about their new job and do everything half-heartedly.",
+      "traditional": "佢對份新工好唔上心，叫佢做乜都得過且過。",
+      "jyutping": "keoi5 deoi3 fan2 san1 gung1 hou2 m4 soeng5 sam1 giu3 keoi5 zou6 mat1 dou1 dak1 gwo3 ce2 gwo3"
     }
   ]
 }

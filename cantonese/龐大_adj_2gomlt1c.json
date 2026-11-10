@@ -1,38 +1,34 @@
 {
   "id": "2gomlt1c",
   "partOfSpeech": "adj",
+  "meaning": "huge, enormous in scale",
+  "english": [
+    {
+      "id": "176rd09a",
+      "word": "enormous",
+      "meaning": "extremely large",
+      "register": "formal",
+      "note": "Use this for enormous quantities, budgets, organizations, or overall scale rather than mainly physical dimensions."
+    },
+    {
+      "id": "bsid0y5j",
+      "word": "cosmic",
+      "meaning": "vast; immense",
+      "note": "Use this when cosmic emphasizes enormous size or scale without referring literally to the universe."
+    }
+  ],
   "traditional": "龐大",
   "jyutping": "pong4 daai6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "huge, enormous in scale",
-      "english": [
-        {
-          "id": "176rd09a",
-          "word": "enormous",
-          "meaning": "extremely large",
-          "register": "formal",
-          "note": "Use this for enormous quantities, budgets, organizations, or overall scale rather than mainly physical dimensions."
-        },
-        {
-          "id": "bsid0y5j",
-          "word": "cosmic",
-          "meaning": "vast; immense",
-          "note": "Use this when cosmic emphasizes enormous size or scale without referring literally to the universe."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This project involves enormous funding.",
-          "traditional": "呢項工程涉及龐大資金。",
-          "jyutping": "ni1 hong6 gung1 cing4 sip3 kap6 pong4 daai6 zi1 gam1"
-        },
-        {
-          "english": "The computer really cannot handle such a cosmic amount of data.",
-          "traditional": "要處理咁龐大嘅數據量，部電腦真係頂唔順。",
-          "jyutping": "jiu3 cyu2 lei5 gam3 pong4 daai6 ge3 sou3 geoi3 loeng6 bou6 din6 nou5 zan1 hai6 ding2 m4 seon6"
-        }
-      ]
+      "english": "This project involves enormous funding.",
+      "traditional": "呢項工程涉及龐大資金。",
+      "jyutping": "ni1 hong6 gung1 cing4 sip3 kap6 pong4 daai6 zi1 gam1"
+    },
+    {
+      "english": "The computer really cannot handle such a cosmic amount of data.",
+      "traditional": "要處理咁龐大嘅數據量，部電腦真係頂唔順。",
+      "jyutping": "jiu3 cyu2 lei5 gam3 pong4 daai6 ge3 sou3 geoi3 loeng6 bou6 din6 nou5 zan1 hai6 ding2 m4 seon6"
     }
   ]
 }

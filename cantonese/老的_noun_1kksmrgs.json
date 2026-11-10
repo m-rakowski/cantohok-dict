@@ -1,28 +1,24 @@
 {
   "id": "1kksmrgs",
   "partOfSpeech": "noun",
+  "meaning": "public hire vehicle",
+  "english": [
+    {
+      "id": "amq1mspk",
+      "word": "taxi",
+      "meaning": "public hire vehicle",
+      "register": "colloquial",
+      "note": "This is a colloquial nickname for a taxi, but 的士 is much more usual."
+    }
+  ],
   "traditional": "老的",
   "jyutping": "lou5 dik1",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "public hire vehicle",
-      "english": [
-        {
-          "id": "amq1mspk",
-          "word": "taxi",
-          "meaning": "public hire vehicle",
-          "register": "colloquial",
-          "note": "This is a colloquial nickname for a taxi, but 的士 is much more usual."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "This taxi is really fast.",
-          "traditional": "呢架老的行得幾快喎。",
-          "jyutping": "ni1 gaa3 lou5 dik1 haang4 dak1 gei2 faai3 wo3"
-        }
-      ]
+      "english": "This taxi is really fast.",
+      "traditional": "呢架老的行得幾快喎。",
+      "jyutping": "ni1 gaa3 lou5 dik1 haang4 dak1 gei2 faai3 wo3"
     }
   ]
 }

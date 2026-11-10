@@ -1,33 +1,29 @@
 {
   "id": "71wfy6st",
   "partOfSpeech": "noun",
+  "meaning": "sneaker",
+  "english": [
+    {
+      "id": "30r0t9on",
+      "word": "trainer",
+      "meaning": "sneaker",
+      "register": "colloquial",
+      "note": "Use this for a running shoe or sneaker, not for a person who trains others."
+    },
+    {
+      "word": "sneakers",
+      "meaning": "sneaker",
+      "register": "colloquial"
+    }
+  ],
   "traditional": "波鞋",
   "jyutping": "bo1 haai4",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "sneaker",
-      "english": [
-        {
-          "id": "30r0t9on",
-          "word": "trainer",
-          "meaning": "sneaker",
-          "register": "colloquial",
-          "note": "Use this for a running shoe or sneaker, not for a person who trains others."
-        },
-        {
-          "word": "sneakers",
-          "meaning": "sneaker",
-          "register": "colloquial"
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "This trainer is soaked, so it is uncomfortable to walk in.",
-          "traditional": "呢隻波鞋濕晒，着住行路好唔舒服。",
-          "jyutping": "ni1 zek3 bo1 haai4 sap1 saai3 zoek3 zyu6 haang4 lou6 hou2 m4 syu1 fuk6"
-        }
-      ]
+      "english": "This trainer is soaked, so it is uncomfortable to walk in.",
+      "traditional": "呢隻波鞋濕晒，着住行路好唔舒服。",
+      "jyutping": "ni1 zek3 bo1 haai4 sap1 saai3 zoek3 zyu6 haang4 lou6 hou2 m4 syu1 fuk6"
     }
   ]
 }

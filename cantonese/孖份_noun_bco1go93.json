@@ -1,28 +1,24 @@
 {
   "id": "bco1go93",
   "partOfSpeech": "noun",
+  "meaning": "double drink",
+  "english": [
+    {
+      "id": "dcclnkkc",
+      "word": "double",
+      "meaning": "double drink",
+      "register": "colloquial",
+      "note": "Use 孖份 when ordering a drink made with two measures of alcohol."
+    }
+  ],
   "traditional": "孖份",
   "jyutping": "maa1 fan6",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "double drink",
-      "english": [
-        {
-          "id": "dcclnkkc",
-          "word": "double",
-          "meaning": "double drink",
-          "register": "colloquial",
-          "note": "Use 孖份 when ordering a drink made with two measures of alcohol."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "I’ll have a whisky, double, please.",
-          "traditional": "我要杯威士忌，孖份，唔該。",
-          "jyutping": "ngo5 jiu3 bui1 wai1 si6 gei6 maa1 fan6 m4 goi1"
-        }
-      ]
+      "english": "I’ll have a whisky, double, please.",
+      "traditional": "我要杯威士忌，孖份，唔該。",
+      "jyutping": "ngo5 jiu3 bui1 wai1 si6 gei6 maa1 fan6 m4 goi1"
     }
   ]
 }

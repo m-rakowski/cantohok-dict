@@ -1,26 +1,22 @@
 {
   "id": "1tqhzy99",
   "partOfSpeech": "det",
+  "meaning": "interrogative possessor",
+  "english": [
+    {
+      "id": "6dezg0op",
+      "word": "whose",
+      "meaning": "interrogative possessor",
+      "note": "This is the all-purpose choice for asking which person owns something, including before the possessed noun."
+    }
+  ],
   "traditional": "邊個嘅",
   "jyutping": "bin1 go3 ge3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "interrogative possessor",
-      "english": [
-        {
-          "id": "6dezg0op",
-          "word": "whose",
-          "meaning": "interrogative possessor",
-          "note": "This is the all-purpose choice for asking which person owns something, including before the possessed noun."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Whose umbrella is this?",
-          "traditional": "呢把遮係邊個嘅？",
-          "jyutping": "ni1 baa2 ze1 hai6 bin1 go3 ge3"
-        }
-      ]
+      "english": "Whose umbrella is this?",
+      "traditional": "呢把遮係邊個嘅？",
+      "jyutping": "ni1 baa2 ze1 hai6 bin1 go3 ge3"
     }
   ]
 }

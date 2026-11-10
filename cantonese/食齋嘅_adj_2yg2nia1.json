@@ -1,28 +1,24 @@
 {
   "id": "2yg2nia1",
   "partOfSpeech": "adj",
+  "meaning": "does not eat meat",
+  "english": [
+    {
+      "id": "6mq8fyov",
+      "word": "vegetarian",
+      "meaning": "does not eat meat",
+      "register": "colloquial",
+      "note": "This is the everyday choice for describing a person who does not eat meat."
+    }
+  ],
   "traditional": "食齋嘅",
   "jyutping": "sik6 zaai1 ge3",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "does not eat meat",
-      "english": [
-        {
-          "id": "6mq8fyov",
-          "word": "vegetarian",
-          "meaning": "does not eat meat",
-          "register": "colloquial",
-          "note": "This is the everyday choice for describing a person who does not eat meat."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "They are vegetarian.",
-          "traditional": "佢係食齋嘅。",
-          "jyutping": "keoi5 hai6 sik6 zaai1 ge3"
-        }
-      ]
+      "english": "They are vegetarian.",
+      "traditional": "佢係食齋嘅。",
+      "jyutping": "keoi5 hai6 sik6 zaai1 ge3"
     }
   ]
 }

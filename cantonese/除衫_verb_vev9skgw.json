@@ -1,38 +1,34 @@
 {
   "id": "vev9skgw",
   "partOfSpeech": "verb",
+  "meaning": "take off clothes",
+  "english": [
+    {
+      "id": "948ojszu",
+      "word": "undress",
+      "meaning": "remove one's clothes",
+      "note": "This is the all-purpose spoken choice for removing your own clothes."
+    },
+    {
+      "id": "qt6qfefk",
+      "word": "peel",
+      "meaning": "take off clothes",
+      "register": "colloquial",
+      "note": "Use this specifically for taking off clothes, rather than removing a physical outer layer."
+    }
+  ],
   "traditional": "除衫",
   "jyutping": "ceoi4 saam1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "take off clothes",
-      "english": [
-        {
-          "id": "948ojszu",
-          "word": "undress",
-          "meaning": "remove one's clothes",
-          "note": "This is the all-purpose spoken choice for removing your own clothes."
-        },
-        {
-          "id": "qt6qfefk",
-          "word": "peel",
-          "meaning": "take off clothes",
-          "register": "colloquial",
-          "note": "Use this specifically for taking off clothes, rather than removing a physical outer layer."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I undress and take a shower as soon as I get home.",
-          "traditional": "我一返到屋企就除衫沖涼。",
-          "jyutping": "ngo5 jat1 faan1 dou3 uk1 kei2 zau6 ceoi4 saam1 cung1 loeng4"
-        },
-        {
-          "english": "I peel off my shirt as soon as I get home and take a shower.",
-          "traditional": "我返到屋企就即刻除衫沖涼。",
-          "jyutping": "ngo5 faan2 dou3 uk1 kei2 zau6 zik1 hak1 ceoi4 saam1 cung1 loeng4"
-        }
-      ]
+      "english": "I undress and take a shower as soon as I get home.",
+      "traditional": "我一返到屋企就除衫沖涼。",
+      "jyutping": "ngo5 jat1 faan1 dou3 uk1 kei2 zau6 ceoi4 saam1 cung1 loeng4"
+    },
+    {
+      "english": "I peel off my shirt as soon as I get home and take a shower.",
+      "traditional": "我返到屋企就即刻除衫沖涼。",
+      "jyutping": "ngo5 faan2 dou3 uk1 kei2 zau6 zik1 hak1 ceoi4 saam1 cung1 loeng4"
     }
   ]
 }

@@ -1,28 +1,24 @@
 {
   "id": "091inu98",
   "partOfSpeech": "noun",
+  "meaning": "free radical",
+  "english": [
+    {
+      "id": "b3fuvb2n",
+      "word": "radical",
+      "meaning": "free radical",
+      "register": "technical",
+      "note": "Use this technical chemistry term specifically for a free radical."
+    }
+  ],
   "traditional": "自由基",
   "jyutping": "zi6 jau4 gei1",
-  "boxes": [
+  "register": "technical",
+  "examples": [
     {
-      "meaning": "free radical",
-      "english": [
-        {
-          "id": "b3fuvb2n",
-          "word": "radical",
-          "meaning": "free radical",
-          "register": "technical",
-          "note": "Use this technical chemistry term specifically for a free radical."
-        }
-      ],
-      "register": "technical",
-      "examples": [
-        {
-          "english": "A free radical can damage cells.",
-          "traditional": "自由基會破壞細胞。",
-          "jyutping": "zi6 jau4 gei1 wui6 po3 waai6 sai3 baau1"
-        }
-      ]
+      "english": "A free radical can damage cells.",
+      "traditional": "自由基會破壞細胞。",
+      "jyutping": "zi6 jau4 gei1 wui6 po3 waai6 sai3 baau1"
     }
   ]
 }

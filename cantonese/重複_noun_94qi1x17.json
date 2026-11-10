@@ -1,37 +1,33 @@
 {
   "id": "94qi1x17",
   "partOfSpeech": "noun",
+  "meaning": "repetition, duplication",
+  "english": [
+    {
+      "id": "mfwdcup6",
+      "word": "duplication",
+      "meaning": "making a copy",
+      "note": "This is the all-purpose choice for the act or occurrence of duplication."
+    },
+    {
+      "id": "kwug08hf",
+      "word": "repetition",
+      "meaning": "repeating; repeat instance",
+      "note": "This is the all-purpose noun for repetition or a repeated instance in general."
+    }
+  ],
   "traditional": "重複",
   "jyutping": "cung4 fuk1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "repetition, duplication",
-      "english": [
-        {
-          "id": "mfwdcup6",
-          "word": "duplication",
-          "meaning": "making a copy",
-          "note": "This is the all-purpose choice for the act or occurrence of duplication."
-        },
-        {
-          "id": "kwug08hf",
-          "word": "repetition",
-          "meaning": "repeating; repeat instance",
-          "note": "This is the all-purpose noun for repetition or a repeated instance in general."
-        }
-      ],
-      "examples": [
-        {
-          "english": "There is some duplication in this document, so we need to delete a section.",
-          "traditional": "呢份文件有啲重複，要刪走一段。",
-          "jyutping": "ni1 fan6 man4 gin6 jau5 di1 cung4 fuk1 jiu3 saan1 zau2 jat1 dyun6"
-        },
-        {
-          "english": "There is some repetition in this report, and it gets a bit boring.",
-          "traditional": "呢份報告有幾段內容重複咗，睇落有啲悶。",
-          "jyutping": "ne1 fan6 bou3 gou3 jau5 gei2 dyun6 noi6 jung4 cung4 fuk1 zo2 tai2 lok6 jau5 di1 mun6"
-        }
-      ]
+      "english": "There is some duplication in this document, so we need to delete a section.",
+      "traditional": "呢份文件有啲重複，要刪走一段。",
+      "jyutping": "ni1 fan6 man4 gin6 jau5 di1 cung4 fuk1 jiu3 saan1 zau2 jat1 dyun6"
+    },
+    {
+      "english": "There is some repetition in this report, and it gets a bit boring.",
+      "traditional": "呢份報告有幾段內容重複咗，睇落有啲悶。",
+      "jyutping": "ne1 fan6 bou3 gou3 jau5 gei2 dyun6 noi6 jung4 cung4 fuk1 zo2 tai2 lok6 jau5 di1 mun6"
     }
   ]
 }

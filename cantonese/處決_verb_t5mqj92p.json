@@ -1,28 +1,24 @@
 {
   "id": "t5mqj92p",
   "partOfSpeech": "verb",
+  "meaning": "kill as punishment",
+  "english": [
+    {
+      "id": "u4pvluno",
+      "word": "execute",
+      "meaning": "kill as punishment",
+      "register": "formal",
+      "note": "Use this specifically when the killing is an official punishment, especially for a capital crime."
+    }
+  ],
   "traditional": "處決",
   "jyutping": "cyu2 kyut3",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "kill as punishment",
-      "english": [
-        {
-          "id": "u4pvluno",
-          "word": "execute",
-          "meaning": "kill as punishment",
-          "register": "formal",
-          "note": "Use this specifically when the killing is an official punishment, especially for a capital crime."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The authorities eventually decided to execute that death-row prisoner.",
-          "traditional": "當局最後正式處決咗嗰名死刑犯。",
-          "jyutping": "dong1 guk6 zeoi3 hau6 zing3 sik1 cyu2 kyut3 zo2 go2 ming4 sei2 jing4 faan6"
-        }
-      ]
+      "english": "The authorities eventually decided to execute that death-row prisoner.",
+      "traditional": "當局最後正式處決咗嗰名死刑犯。",
+      "jyutping": "dong1 guk6 zeoi3 hau6 zing3 sik1 cyu2 kyut3 zo2 go2 ming4 sei2 jing4 faan6"
     }
   ]
 }

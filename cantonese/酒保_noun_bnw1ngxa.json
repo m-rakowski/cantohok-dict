@@ -1,49 +1,45 @@
 {
   "id": "bnw1ngxa",
   "partOfSpeech": "noun",
+  "meaning": "bartender",
+  "english": [
+    {
+      "id": "l0xi3etf",
+      "word": "barman",
+      "meaning": "bar worker",
+      "note": "This is the all-purpose word for a man working behind a bar; Cantonese normally leaves the male gender implicit."
+    },
+    {
+      "id": "4mdzx3r2",
+      "word": "bartender",
+      "meaning": "bar worker",
+      "note": "This is the all-purpose Cantonese noun for a person who tends a bar and serves drinks."
+    },
+    {
+      "id": "ugni3qxu",
+      "word": "drawer",
+      "meaning": "barman",
+      "register": "written",
+      "note": "Use 酒保 for the barman serving or drawing drinks from a bar tap."
+    }
+  ],
   "traditional": "酒保",
   "jyutping": "zau2 bou2",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "bartender",
-      "english": [
-        {
-          "id": "l0xi3etf",
-          "word": "barman",
-          "meaning": "bar worker",
-          "note": "This is the all-purpose word for a man working behind a bar; Cantonese normally leaves the male gender implicit."
-        },
-        {
-          "id": "4mdzx3r2",
-          "word": "bartender",
-          "meaning": "bar worker",
-          "note": "This is the all-purpose Cantonese noun for a person who tends a bar and serves drinks."
-        },
-        {
-          "id": "ugni3qxu",
-          "word": "drawer",
-          "meaning": "barman",
-          "register": "written",
-          "note": "Use 酒保 for the barman serving or drawing drinks from a bar tap."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The barman at that bar is very good at looking after customers.",
-          "traditional": "嗰間酒吧個酒保好識招呼客人。",
-          "jyutping": "go2 gaan1 zau2 baa1 go3 zau2 bou2 hou2 sik1 ziu1 fu1 haak3 jan4"
-        },
-        {
-          "english": "The bartender at that bar is very good at looking after customers.",
-          "traditional": "嗰間酒吧嘅酒保好識招呼客人。",
-          "jyutping": "go2 gaan1 zau2 baa1 ge3 zau2 bou2 hou2 sik1 ziu1 fu1 haak3 jan4"
-        },
-        {
-          "english": "The drawer draws beer for customers.",
-          "traditional": "酒保幫客人拉啤酒。",
-          "jyutping": "zau2 bou2 bong1 haak3 jan4 laai1 be1 zau2"
-        }
-      ]
+      "english": "The barman at that bar is very good at looking after customers.",
+      "traditional": "嗰間酒吧個酒保好識招呼客人。",
+      "jyutping": "go2 gaan1 zau2 baa1 go3 zau2 bou2 hou2 sik1 ziu1 fu1 haak3 jan4"
+    },
+    {
+      "english": "The bartender at that bar is very good at looking after customers.",
+      "traditional": "嗰間酒吧嘅酒保好識招呼客人。",
+      "jyutping": "go2 gaan1 zau2 baa1 ge3 zau2 bou2 hou2 sik1 ziu1 fu1 haak3 jan4"
+    },
+    {
+      "english": "The drawer draws beer for customers.",
+      "traditional": "酒保幫客人拉啤酒。",
+      "jyutping": "zau2 bou2 bong1 haak3 jan4 laai1 be1 zau2"
     }
   ]
 }

@@ -1,48 +1,44 @@
 {
   "id": "et11o75r",
   "partOfSpeech": "adj",
+  "meaning": "blank",
+  "english": [
+    {
+      "id": "8gsotcnr",
+      "word": "blank",
+      "meaning": "empty, unmarked",
+      "note": "Use this as the all-purpose adjective for something with no writing, printing, or marks."
+    },
+    {
+      "id": "ozdh1onr",
+      "word": "vacant",
+      "meaning": "blank",
+      "note": "Use this for a page or other surface with nothing written or shown on it."
+    },
+    {
+      "id": "famfi2gt",
+      "word": "clean",
+      "meaning": "blank / unused",
+      "note": "Use 空白 when a page or other surface is blank and unmarked."
+    }
+  ],
   "traditional": "空白",
   "jyutping": "hung1 baak6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "blank",
-      "english": [
-        {
-          "id": "8gsotcnr",
-          "word": "blank",
-          "meaning": "empty, unmarked",
-          "note": "Use this as the all-purpose adjective for something with no writing, printing, or marks."
-        },
-        {
-          "id": "ozdh1onr",
-          "word": "vacant",
-          "meaning": "blank",
-          "note": "Use this for a page or other surface with nothing written or shown on it."
-        },
-        {
-          "id": "famfi2gt",
-          "word": "clean",
-          "meaning": "blank / unused",
-          "note": "Use 空白 when a page or other surface is blank and unmarked."
-        }
-      ],
-      "examples": [
-        {
-          "english": "There are still a few blank spaces on this form.",
-          "traditional": "呢張表仲有幾格係空白。",
-          "jyutping": "nei1 zoeng1 biu2 zung6 jau5 gei2 gaak3 hai6 hung1 baak6"
-        },
-        {
-          "english": "There is still a vacant space on this form, so remember to fill it in.",
-          "traditional": "呢張表仲有一格空白，記得填返。",
-          "jyutping": "ni1 zoeng1 biu2 zung6 jau5 jat1 gaak3 hung1 baak6 gei3 dak1 tin4 faan2"
-        },
-        {
-          "english": "This page is still clean.",
-          "traditional": "呢頁仲係空白。",
-          "jyutping": "ni1 jip6 zung6 hai6 hung1 baak6"
-        }
-      ]
+      "english": "There are still a few blank spaces on this form.",
+      "traditional": "呢張表仲有幾格係空白。",
+      "jyutping": "nei1 zoeng1 biu2 zung6 jau5 gei2 gaak3 hai6 hung1 baak6"
+    },
+    {
+      "english": "There is still a vacant space on this form, so remember to fill it in.",
+      "traditional": "呢張表仲有一格空白，記得填返。",
+      "jyutping": "ni1 zoeng1 biu2 zung6 jau5 jat1 gaak3 hung1 baak6 gei3 dak1 tin4 faan2"
+    },
+    {
+      "english": "This page is still clean.",
+      "traditional": "呢頁仲係空白。",
+      "jyutping": "ni1 jip6 zung6 hai6 hung1 baak6"
     }
   ]
 }

@@ -1,26 +1,22 @@
 {
   "id": "b4qp8kxq",
   "partOfSpeech": "conj",
+  "meaning": "neither...nor",
+  "english": [
+    {
+      "id": "yfk4iobc",
+      "word": "nor",
+      "meaning": "neither...nor",
+      "note": "Use this when a preceding negative clause is already established, meaning also not or either not."
+    }
+  ],
   "traditional": "都 + NEG + X",
   "jyutping": "dou1 NEG X",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "neither...nor",
-      "english": [
-        {
-          "id": "yfk4iobc",
-          "word": "nor",
-          "meaning": "neither...nor",
-          "note": "Use this when a preceding negative clause is already established, meaning also not or either not."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I don’t eat beef, nor do I eat chicken.",
-          "traditional": "我唔食牛肉，雞肉都唔食。",
-          "jyutping": "ngo5 m4 sik6 ngau4 juk6 gai1 juk6 dou1 m4 sik6"
-        }
-      ]
+      "english": "I don’t eat beef, nor do I eat chicken.",
+      "traditional": "我唔食牛肉，雞肉都唔食。",
+      "jyutping": "ngo5 m4 sik6 ngau4 juk6 gai1 juk6 dou1 m4 sik6"
     }
   ]
 }

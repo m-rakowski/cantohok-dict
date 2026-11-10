@@ -1,28 +1,24 @@
 {
   "id": "t4m19h9f",
   "partOfSpeech": "intj",
+  "meaning": "informal greeting",
+  "english": [
+    {
+      "id": "sb2yrp6r",
+      "word": "hey",
+      "meaning": "informal greeting",
+      "register": "colloquial",
+      "note": "Use this casual loanword as a friendly greeting rather than to call someone to attention."
+    }
+  ],
   "traditional": "嗨",
   "jyutping": "haai1",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "informal greeting",
-      "english": [
-        {
-          "id": "sb2yrp6r",
-          "word": "hey",
-          "meaning": "informal greeting",
-          "register": "colloquial",
-          "note": "Use this casual loanword as a friendly greeting rather than to call someone to attention."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "Hey, how have you been lately?",
-          "traditional": "嗨，你最近點呀？",
-          "jyutping": "haai1 nei5 zeoi3 gan6 dim2 aa3"
-        }
-      ]
+      "english": "Hey, how have you been lately?",
+      "traditional": "嗨，你最近點呀？",
+      "jyutping": "haai1 nei5 zeoi3 gan6 dim2 aa3"
     }
   ]
 }

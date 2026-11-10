@@ -1,84 +1,80 @@
 {
   "id": "cwl6jpuy",
   "partOfSpeech": "adj",
+  "meaning": "great, excellent (slang)",
+  "english": [
+    {
+      "id": "8x2jyxmh",
+      "word": "fabulous",
+      "meaning": "very good, wonderful",
+      "note": "This is the all-purpose colloquial choice for saying something is very good or wonderful."
+    },
+    {
+      "id": "yr32wni1",
+      "word": "lush",
+      "meaning": "great, fantastic",
+      "note": "Use this as the all-purpose casual praise for tasty food, attractive or sexy people, and anything fantastic."
+    },
+    {
+      "id": "ay0l22o2",
+      "word": "awesome",
+      "meaning": "excellent; exciting",
+      "note": "Use this casual choice when “awesome” means especially good or enjoyable."
+    },
+    {
+      "id": "n1yp8ihl",
+      "word": "neat",
+      "meaning": "cool, great",
+      "register": "colloquial",
+      "note": "Use this colloquial praise word when “neat” means cool, excellent, or desirable, as in a car or idea."
+    },
+    {
+      "id": "y0h049y6",
+      "word": "priceless",
+      "meaning": "fantastic; great",
+      "register": "colloquial",
+      "note": "Use this colloquial default when “priceless” means excellent, fantastic, or great."
+    },
+    {
+      "id": "3uh0cy82",
+      "word": "shiny",
+      "meaning": "excellent; impressive",
+      "register": "colloquial",
+      "note": "Use this slangy everyday adjective when shiny means excellent or impressive rather than literally reflective."
+    }
+  ],
   "traditional": "正",
   "jyutping": "zeng3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "great, excellent (slang)",
-      "english": [
-        {
-          "id": "8x2jyxmh",
-          "word": "fabulous",
-          "meaning": "very good, wonderful",
-          "note": "This is the all-purpose colloquial choice for saying something is very good or wonderful."
-        },
-        {
-          "id": "yr32wni1",
-          "word": "lush",
-          "meaning": "great, fantastic",
-          "note": "Use this as the all-purpose casual praise for tasty food, attractive or sexy people, and anything fantastic."
-        },
-        {
-          "id": "ay0l22o2",
-          "word": "awesome",
-          "meaning": "excellent; exciting",
-          "note": "Use this casual choice when “awesome” means especially good or enjoyable."
-        },
-        {
-          "id": "n1yp8ihl",
-          "word": "neat",
-          "meaning": "cool, great",
-          "register": "colloquial",
-          "note": "Use this colloquial praise word when “neat” means cool, excellent, or desirable, as in a car or idea."
-        },
-        {
-          "id": "y0h049y6",
-          "word": "priceless",
-          "meaning": "fantastic; great",
-          "register": "colloquial",
-          "note": "Use this colloquial default when “priceless” means excellent, fantastic, or great."
-        },
-        {
-          "id": "3uh0cy82",
-          "word": "shiny",
-          "meaning": "excellent; impressive",
-          "register": "colloquial",
-          "note": "Use this slangy everyday adjective when shiny means excellent or impressive rather than literally reflective."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The desserts at this restaurant are fabulous.",
-          "traditional": "呢間餐廳啲甜品真係正。",
-          "jyutping": "ni1 gaan1 caan1 teng1 di1 tim4 ban2 zan1 hai6 zeng3"
-        },
-        {
-          "english": "The desserts at this restaurant are really lush.",
-          "traditional": "呢間餐廳啲甜品真係正喎。",
-          "jyutping": "ne1 gaan1 caan1 teng1 di1 tim4 ban2 zan1 hai6 zeng3 wo3"
-        },
-        {
-          "english": "Having hot pot tonight is awesome!",
-          "traditional": "今晚食火鍋，正呀！",
-          "jyutping": "gam1 maan5 sik6 fo2 wo1 zeng3 aa3"
-        },
-        {
-          "english": "Your new car is really neat!",
-          "traditional": "你部新車真係正喎！",
-          "jyutping": "nei5 bou6 san1 ce1 zan1 hai6 zeng3 wo3"
-        },
-        {
-          "english": "The team played a priceless game tonight.",
-          "traditional": "今晚隊波踢得真係正。",
-          "jyutping": "gam1 maan1 deoi6 bo1 tek3 dak1 zan1 hai6 zeng3"
-        },
-        {
-          "english": "Your new jacket is shiny—in a really cool way.",
-          "traditional": "你件新外套好正喎。",
-          "jyutping": "nei5 gin6 san1 ngoi6 tou3 hou2 zeng3 wo3"
-        }
-      ]
+      "english": "The desserts at this restaurant are fabulous.",
+      "traditional": "呢間餐廳啲甜品真係正。",
+      "jyutping": "ni1 gaan1 caan1 teng1 di1 tim4 ban2 zan1 hai6 zeng3"
+    },
+    {
+      "english": "The desserts at this restaurant are really lush.",
+      "traditional": "呢間餐廳啲甜品真係正喎。",
+      "jyutping": "ne1 gaan1 caan1 teng1 di1 tim4 ban2 zan1 hai6 zeng3 wo3"
+    },
+    {
+      "english": "Having hot pot tonight is awesome!",
+      "traditional": "今晚食火鍋，正呀！",
+      "jyutping": "gam1 maan5 sik6 fo2 wo1 zeng3 aa3"
+    },
+    {
+      "english": "Your new car is really neat!",
+      "traditional": "你部新車真係正喎！",
+      "jyutping": "nei5 bou6 san1 ce1 zan1 hai6 zeng3 wo3"
+    },
+    {
+      "english": "The team played a priceless game tonight.",
+      "traditional": "今晚隊波踢得真係正。",
+      "jyutping": "gam1 maan1 deoi6 bo1 tek3 dak1 zan1 hai6 zeng3"
+    },
+    {
+      "english": "Your new jacket is shiny—in a really cool way.",
+      "traditional": "你件新外套好正喎。",
+      "jyutping": "nei5 gin6 san1 ngoi6 tou3 hou2 zeng3 wo3"
     }
   ]
 }

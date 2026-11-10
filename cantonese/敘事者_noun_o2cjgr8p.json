@@ -1,28 +1,24 @@
 {
   "id": "o2cjgr8p",
   "partOfSpeech": "noun",
+  "meaning": "story voice / point of view",
+  "english": [
+    {
+      "id": "3f4afs4b",
+      "word": "narrator",
+      "meaning": "story voice / point of view",
+      "register": "written",
+      "note": "Use this written, literary term when focusing on the person or narrative voice whose viewpoint tells the story."
+    }
+  ],
   "traditional": "敘事者",
   "jyutping": "zeoi6 si6 ze2",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "story voice / point of view",
-      "english": [
-        {
-          "id": "3f4afs4b",
-          "word": "narrator",
-          "meaning": "story voice / point of view",
-          "register": "written",
-          "note": "Use this written, literary term when focusing on the person or narrative voice whose viewpoint tells the story."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "The narrator of this novel tells the whole story in the first person.",
-          "traditional": "呢部小說嘅敘事者以第一身講述成個故事。",
-          "jyutping": "ne1 bou6 siu2 syut3 ge3 zeoi6 si6 ze2 ji5 dai6 jat1 san1 gong2 seot6 sing4 go3 gu3 si6"
-        }
-      ]
+      "english": "The narrator of this novel tells the whole story in the first person.",
+      "traditional": "呢部小說嘅敘事者以第一身講述成個故事。",
+      "jyutping": "ne1 bou6 siu2 syut3 ge3 zeoi6 si6 ze2 ji5 dai6 jat1 san1 gong2 seot6 sing4 go3 gu3 si6"
     }
   ]
 }

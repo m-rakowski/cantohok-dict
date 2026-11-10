@@ -1,26 +1,22 @@
 {
   "id": "xab6936o",
   "partOfSpeech": "adj",
+  "meaning": "rules-valid; game/programming",
+  "english": [
+    {
+      "id": "b598wgfp",
+      "word": "legal",
+      "meaning": "rules-valid; game/programming",
+      "note": "Use this when validity specifically comes from following a game's rules or a system's syntax, not from legal permission."
+    }
+  ],
   "traditional": "合乎規則嘅 A",
   "jyutping": "hap6 fu4 kwai1 zak1 ge3 A",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "rules-valid; game/programming",
-      "english": [
-        {
-          "id": "b598wgfp",
-          "word": "legal",
-          "meaning": "rules-valid; game/programming",
-          "note": "Use this when validity specifically comes from following a game's rules or a system's syntax, not from legal permission."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This is a legal move.",
-          "traditional": "呢步係合乎規則嘅走法。",
-          "jyutping": "ni1 bou6 hai6 hap6 fu4 kwai1 zak1 ge3 zau2 faat3"
-        }
-      ]
+      "english": "This is a legal move.",
+      "traditional": "呢步係合乎規則嘅走法。",
+      "jyutping": "ni1 bou6 hai6 hap6 fu4 kwai1 zak1 ge3 zau2 faat3"
     }
   ]
 }

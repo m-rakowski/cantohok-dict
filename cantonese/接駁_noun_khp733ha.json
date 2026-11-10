@@ -1,26 +1,22 @@
 {
   "id": "khp733ha",
   "partOfSpeech": "noun",
+  "meaning": "connection between systems",
+  "english": [
+    {
+      "id": "kkzf70y3",
+      "word": "link",
+      "meaning": "connection between systems",
+      "note": "Use this specifically for a connecting service or connection between transport routes or systems."
+    }
+  ],
   "traditional": "接駁",
   "jyutping": "zip3 bok3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "connection between systems",
-      "english": [
-        {
-          "id": "kkzf70y3",
-          "word": "link",
-          "meaning": "connection between systems",
-          "note": "Use this specifically for a connecting service or connection between transport routes or systems."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This bus provides a link to the MTR.",
-          "traditional": "呢班巴士可以接駁地鐵。",
-          "jyutping": "ni1 baan1 baa1 si2 ho2 ji5 zip3 bok3 dei6 tit3"
-        }
-      ]
+      "english": "This bus provides a link to the MTR.",
+      "traditional": "呢班巴士可以接駁地鐵。",
+      "jyutping": "ni1 baan1 baa1 si2 ho2 ji5 zip3 bok3 dei6 tit3"
     }
   ]
 }

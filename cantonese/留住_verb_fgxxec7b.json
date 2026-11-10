@@ -1,38 +1,34 @@
 {
   "id": "fgxxec7b",
   "partOfSpeech": "verb",
+  "meaning": "keep, hold on to",
+  "english": [
+    {
+      "id": "fld4dpck",
+      "word": "retain",
+      "meaning": "keep / continue having",
+      "note": "This is the all-purpose choice for continuing to have or keep something; also use it when a barrier or structure keeps liquid from escaping."
+    },
+    {
+      "id": "kauroa57",
+      "word": "keep",
+      "meaning": "keep; retain possession",
+      "register": "colloquial",
+      "note": "Use this colloquial choice when keeping means continuing to have or retain an object."
+    }
+  ],
   "traditional": "留住",
   "jyutping": "lau4 zyu6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "keep, hold on to",
-      "english": [
-        {
-          "id": "fld4dpck",
-          "word": "retain",
-          "meaning": "keep / continue having",
-          "note": "This is the all-purpose choice for continuing to have or keep something; also use it when a barrier or structure keeps liquid from escaping."
-        },
-        {
-          "id": "kauroa57",
-          "word": "keep",
-          "meaning": "keep; retain possession",
-          "register": "colloquial",
-          "note": "Use this colloquial choice when keeping means continuing to have or retain an object."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I want to retain this memory.",
-          "traditional": "我想留住呢份回憶。",
-          "jyutping": "ngo5 soeng2 lau4 zyu6 ni1 fan6 wui4 jik1"
-        },
-        {
-          "english": "I want to keep this book.",
-          "traditional": "呢本書我想留住。",
-          "jyutping": "ni1 bun2 syu1 ngo5 soeng2 lau4 zyu6"
-        }
-      ]
+      "english": "I want to retain this memory.",
+      "traditional": "我想留住呢份回憶。",
+      "jyutping": "ngo5 soeng2 lau4 zyu6 ni1 fan6 wui4 jik1"
+    },
+    {
+      "english": "I want to keep this book.",
+      "traditional": "呢本書我想留住。",
+      "jyutping": "ni1 bun2 syu1 ngo5 soeng2 lau4 zyu6"
     }
   ]
 }

@@ -1,28 +1,24 @@
 {
   "id": "q9sp0yiz",
   "partOfSpeech": "det",
+  "meaning": "interrogative determiner",
+  "english": [
+    {
+      "id": "rn7yuqmb",
+      "word": "what",
+      "meaning": "interrogative determiner",
+      "register": "colloquial",
+      "note": "This is the all-purpose colloquial choice before a noun, as in 咩色 for “what colour.”"
+    }
+  ],
   "traditional": "咩",
   "jyutping": "me1",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "interrogative determiner",
-      "english": [
-        {
-          "id": "rn7yuqmb",
-          "word": "what",
-          "meaning": "interrogative determiner",
-          "register": "colloquial",
-          "note": "This is the all-purpose colloquial choice before a noun, as in 咩色 for “what colour.”"
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "What tea do you want to drink?",
-          "traditional": "你想飲咩茶？",
-          "jyutping": "nei5 soeng2 jam2 me1 caa4"
-        }
-      ]
+      "english": "What tea do you want to drink?",
+      "traditional": "你想飲咩茶？",
+      "jyutping": "nei5 soeng2 jam2 me1 caa4"
     }
   ]
 }

@@ -1,59 +1,55 @@
 {
   "id": "al4250ui",
   "partOfSpeech": "verb",
+  "meaning": "to win",
+  "english": [
+    {
+      "id": "krvkxtrp",
+      "word": "win",
+      "meaning": "win a game or battle",
+      "note": "This is the all-purpose choice for winning a game, battle, prize, or contest."
+    },
+    {
+      "id": "134kwanp",
+      "word": "prevail",
+      "meaning": "win; be victorious",
+      "note": "Use this as the all-purpose colloquial choice when “prevail” means to win or triumph."
+    },
+    {
+      "id": "q4fvldwl",
+      "word": "defeat",
+      "meaning": "beat in battle/contest",
+      "note": "Use this when framing the result from the winner's side, as in beating someone in a game or contest."
+    },
+    {
+      "id": "x8f6z431",
+      "word": "overcome",
+      "meaning": "defeat in battle or contest",
+      "note": "Use this for prevailing or winning against someone in a contest, conflict, or other competition."
+    }
+  ],
   "traditional": "贏",
   "jyutping": "jeng4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "to win",
-      "english": [
-        {
-          "id": "krvkxtrp",
-          "word": "win",
-          "meaning": "win a game or battle",
-          "note": "This is the all-purpose choice for winning a game, battle, prize, or contest."
-        },
-        {
-          "id": "134kwanp",
-          "word": "prevail",
-          "meaning": "win; be victorious",
-          "note": "Use this as the all-purpose colloquial choice when “prevail” means to win or triumph."
-        },
-        {
-          "id": "q4fvldwl",
-          "word": "defeat",
-          "meaning": "beat in battle/contest",
-          "note": "Use this when framing the result from the winner's side, as in beating someone in a game or contest."
-        },
-        {
-          "id": "x8f6z431",
-          "word": "overcome",
-          "meaning": "defeat in battle or contest",
-          "note": "Use this for prevailing or winning against someone in a contest, conflict, or other competition."
-        }
-      ],
-      "examples": [
-        {
-          "english": "We win the match at last.",
-          "traditional": "我哋終於贏咗場波。",
-          "jyutping": "ngo5 dei6 zung1 jyu1 jeng4 zo2 coeng4 bo1"
-        },
-        {
-          "english": "We will prevail in this match.",
-          "traditional": "我哋今場一定贏。",
-          "jyutping": "ngo5 dei6 gam1 coeng4 jat1 ding6 jeng4"
-        },
-        {
-          "english": "We managed to defeat them in this match.",
-          "traditional": "今場波我哋贏咗佢哋。",
-          "jyutping": "gam1 coeng4 bo1 ngo5 dei6 jeng4 zo2 keoi5 dei6"
-        },
-        {
-          "english": "We need teamwork to overcome our opponents.",
-          "traditional": "我哋要靠團隊合作先贏到對手。",
-          "jyutping": "ngo5 dei6 jiu3 kaau3 tyun4 deoi6 hap6 zok3 sin1 jeng4 dou2 deoi3 sau2"
-        }
-      ]
+      "english": "We win the match at last.",
+      "traditional": "我哋終於贏咗場波。",
+      "jyutping": "ngo5 dei6 zung1 jyu1 jeng4 zo2 coeng4 bo1"
+    },
+    {
+      "english": "We will prevail in this match.",
+      "traditional": "我哋今場一定贏。",
+      "jyutping": "ngo5 dei6 gam1 coeng4 jat1 ding6 jeng4"
+    },
+    {
+      "english": "We managed to defeat them in this match.",
+      "traditional": "今場波我哋贏咗佢哋。",
+      "jyutping": "gam1 coeng4 bo1 ngo5 dei6 jeng4 zo2 keoi5 dei6"
+    },
+    {
+      "english": "We need teamwork to overcome our opponents.",
+      "traditional": "我哋要靠團隊合作先贏到對手。",
+      "jyutping": "ngo5 dei6 jiu3 kaau3 tyun4 deoi6 hap6 zok3 sin1 jeng4 dou2 deoi3 sau2"
     }
   ]
 }

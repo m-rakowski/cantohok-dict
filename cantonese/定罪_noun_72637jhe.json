@@ -1,26 +1,22 @@
 {
   "id": "72637jhe",
   "partOfSpeech": "noun",
+  "meaning": "court conviction",
+  "english": [
+    {
+      "id": "lpymltvm",
+      "word": "conviction",
+      "meaning": "court conviction",
+      "note": "Use this for a court's judgement that someone is guilty."
+    }
+  ],
   "traditional": "定罪",
   "jyutping": "ding6 zeoi6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "court conviction",
-      "english": [
-        {
-          "id": "lpymltvm",
-          "word": "conviction",
-          "meaning": "court conviction",
-          "note": "Use this for a court's judgement that someone is guilty."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The court handed down a conviction, and he was sent to prison.",
-          "traditional": "法庭最後判佢定罪，佢要坐幾年監。",
-          "jyutping": "faat3 ting4 zeoi3 hau6 pun3 keoi5 ding6 zeoi6 keoi5 jiu3 zo6 gei2 nin4 gaam1"
-        }
-      ]
+      "english": "The court handed down a conviction, and he was sent to prison.",
+      "traditional": "法庭最後判佢定罪，佢要坐幾年監。",
+      "jyutping": "faat3 ting4 zeoi3 hau6 pun3 keoi5 ding6 zeoi6 keoi5 jiu3 zo6 gei2 nin4 gaam1"
     }
   ]
 }

@@ -1,38 +1,34 @@
 {
   "id": "nxczwgxi",
   "partOfSpeech": "verb",
+  "meaning": "to stop, cease",
+  "english": [
+    {
+      "id": "pif42m4y",
+      "word": "cease",
+      "meaning": "stop doing something",
+      "register": "formal",
+      "note": "Use this formal option in writing, announcements, or explicit descriptions of an action or process stopping."
+    },
+    {
+      "id": "fhu4l24q",
+      "word": "cut",
+      "meaning": "stop or cease",
+      "note": "Use this for stopping or ceasing an activity, process, or action."
+    }
+  ],
   "traditional": "停止",
   "jyutping": "ting4 zi2",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "to stop, cease",
-      "english": [
-        {
-          "id": "pif42m4y",
-          "word": "cease",
-          "meaning": "stop doing something",
-          "register": "formal",
-          "note": "Use this formal option in writing, announcements, or explicit descriptions of an action or process stopping."
-        },
-        {
-          "id": "fhu4l24q",
-          "word": "cut",
-          "meaning": "stop or cease",
-          "note": "Use this for stopping or ceasing an activity, process, or action."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The organizers announced that ticket distribution would cease.",
-          "traditional": "大會宣布停止派發門票。",
-          "jyutping": "daai6 wui6 syun1 bou3 ting4 zi2 paai3 faat3 mun4 piu3"
-        },
-        {
-          "english": "Please cut the music.",
-          "traditional": "麻煩你停止播歌。",
-          "jyutping": "maa4 faan4 nei5 ting4 zi2 bo3 go1"
-        }
-      ]
+      "english": "The organizers announced that ticket distribution would cease.",
+      "traditional": "大會宣布停止派發門票。",
+      "jyutping": "daai6 wui6 syun1 bou3 ting4 zi2 paai3 faat3 mun4 piu3"
+    },
+    {
+      "english": "Please cut the music.",
+      "traditional": "麻煩你停止播歌。",
+      "jyutping": "maa4 faan4 nei5 ting4 zi2 bo3 go1"
     }
   ]
 }

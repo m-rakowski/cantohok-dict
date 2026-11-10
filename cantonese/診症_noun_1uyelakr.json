@@ -1,28 +1,24 @@
 {
   "id": "1uyelakr",
   "partOfSpeech": "noun",
+  "meaning": "doctor's visit",
+  "english": [
+    {
+      "id": "xc3z7kzz",
+      "word": "visit",
+      "meaning": "doctor's visit",
+      "register": "formal",
+      "note": "Use this for the medical consultation or doctor's visit itself rather than an ordinary social visit."
+    }
+  ],
   "traditional": "診症",
   "jyutping": "can2 zing3",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "doctor's visit",
-      "english": [
-        {
-          "id": "xc3z7kzz",
-          "word": "visit",
-          "meaning": "doctor's visit",
-          "register": "formal",
-          "note": "Use this for the medical consultation or doctor's visit itself rather than an ordinary social visit."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "How much does this doctor's visit cost?",
-          "traditional": "呢次診症要收幾多錢？",
-          "jyutping": "ni1 ci3 can2 zing3 jiu3 sau1 gei2 do1 cin2"
-        }
-      ]
+      "english": "How much does this doctor's visit cost?",
+      "traditional": "呢次診症要收幾多錢？",
+      "jyutping": "ni1 ci3 can2 zing3 jiu3 sau1 gei2 do1 cin2"
     }
   ]
 }

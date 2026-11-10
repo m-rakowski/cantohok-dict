@@ -1,28 +1,24 @@
 {
   "id": "uf3d1hip",
   "partOfSpeech": "adj",
+  "meaning": "not known, unidentified",
+  "english": [
+    {
+      "id": "jox6dp1j",
+      "word": "unknown",
+      "meaning": "not known, unidentified",
+      "register": "formal",
+      "note": "Use this mainly in formal or written contexts for something whose outcome or details are not known."
+    }
+  ],
   "traditional": "未知",
   "jyutping": "mei6 zi1",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "not known, unidentified",
-      "english": [
-        {
-          "id": "jox6dp1j",
-          "word": "unknown",
-          "meaning": "not known, unidentified",
-          "register": "formal",
-          "note": "Use this mainly in formal or written contexts for something whose outcome or details are not known."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The outcome remains unknown.",
-          "traditional": "結果仍然未知。",
-          "jyutping": "git3 gwo2 jing4 jin4 mei6 zi1"
-        }
-      ]
+      "english": "The outcome remains unknown.",
+      "traditional": "結果仍然未知。",
+      "jyutping": "git3 gwo2 jing4 jin4 mei6 zi1"
     }
   ]
 }

@@ -1,37 +1,33 @@
 {
   "id": "lg21tit9",
   "partOfSpeech": "noun",
+  "meaning": "shine, luster",
+  "english": [
+    {
+      "id": "csrv91el",
+      "word": "sparkle",
+      "meaning": "brilliance, luster",
+      "note": "Use this as the all-purpose noun for the shine or luster of a physical object, especially a gem."
+    },
+    {
+      "id": "qykoh829",
+      "word": "polish",
+      "meaning": "shine, finish",
+      "note": "This is the all-purpose noun for the visible shine or finish left on a surface."
+    }
+  ],
   "traditional": "光澤",
   "jyutping": "gwong1 zaak6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "shine, luster",
-      "english": [
-        {
-          "id": "csrv91el",
-          "word": "sparkle",
-          "meaning": "brilliance, luster",
-          "note": "Use this as the all-purpose noun for the shine or luster of a physical object, especially a gem."
-        },
-        {
-          "id": "qykoh829",
-          "word": "polish",
-          "meaning": "shine, finish",
-          "note": "This is the all-purpose noun for the visible shine or finish left on a surface."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This diamond's sparkle is beautiful.",
-          "traditional": "呢粒鑽石嘅光澤好靚。",
-          "jyutping": "ni1 lap1 zyun3 sek6 ge3 gwong1 zaak6 hou2 leng3"
-        },
-        {
-          "english": "The table has a lovely polish after being wiped.",
-          "traditional": "張枱抹完之後，光澤好靚。",
-          "jyutping": "zoeng1 ci4 mut3 jyun4 zi1 hau6 gwong1 zaak6 hou2 leng3"
-        }
-      ]
+      "english": "This diamond's sparkle is beautiful.",
+      "traditional": "呢粒鑽石嘅光澤好靚。",
+      "jyutping": "ni1 lap1 zyun3 sek6 ge3 gwong1 zaak6 hou2 leng3"
+    },
+    {
+      "english": "The table has a lovely polish after being wiped.",
+      "traditional": "張枱抹完之後，光澤好靚。",
+      "jyutping": "zoeng1 ci4 mut3 jyun4 zi1 hau6 gwong1 zaak6 hou2 leng3"
     }
   ]
 }

@@ -1,28 +1,24 @@
 {
   "id": "vtqxbqgk",
   "partOfSpeech": "noun",
+  "meaning": "messenger, news-bearer",
+  "english": [
+    {
+      "id": "y45zznu0",
+      "word": "herald",
+      "meaning": "messenger, news-bearer",
+      "register": "formal",
+      "note": "Use this when the herald is an official announcer serving a king, army, or other authority."
+    }
+  ],
   "traditional": "傳令官",
   "jyutping": "cyun4 ling6 gun1",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "messenger, news-bearer",
-      "english": [
-        {
-          "id": "y45zznu0",
-          "word": "herald",
-          "meaning": "messenger, news-bearer",
-          "register": "formal",
-          "note": "Use this when the herald is an official announcer serving a king, army, or other authority."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The herald walked to the front of the army and announced the general's order.",
-          "traditional": "傳令官行到陣前，高聲宣布將軍嘅命令。",
-          "jyutping": "cyun4 ling6 gun1 haang4 dou3 zan6 cin4 gou1 seng1 syun1 bou3 zoeng1 gwan1 ge3 ming6 ling6"
-        }
-      ]
+      "english": "The herald walked to the front of the army and announced the general's order.",
+      "traditional": "傳令官行到陣前，高聲宣布將軍嘅命令。",
+      "jyutping": "cyun4 ling6 gun1 haang4 dou3 zan6 cin4 gou1 seng1 syun1 bou3 zoeng1 gwan1 ge3 ming6 ling6"
     }
   ]
 }

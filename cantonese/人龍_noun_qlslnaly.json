@@ -1,28 +1,24 @@
 {
   "id": "qlslnaly",
   "partOfSpeech": "noun",
+  "meaning": "line of people/vehicles",
+  "english": [
+    {
+      "id": "ou0dg9zb",
+      "word": "queue",
+      "meaning": "line of people/vehicles",
+      "register": "colloquial",
+      "note": "Use this specifically for a long visible line of people, especially one described as stretching out."
+    }
+  ],
   "traditional": "人龍",
   "jyutping": "jan4 lung4",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "line of people/vehicles",
-      "english": [
-        {
-          "id": "ou0dg9zb",
-          "word": "queue",
-          "meaning": "line of people/vehicles",
-          "register": "colloquial",
-          "note": "Use this specifically for a long visible line of people, especially one described as stretching out."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "Before the concert started, a long queue of people had already formed outside.",
-          "traditional": "演唱會未開場，場外已經排咗條人龍。",
-          "jyutping": "jin2 coeng3 wui6 mei6 hoi1 coeng4 coeng4 ngoi6 ji5 ging1 paai4 zo2 tiu4 jan4 lung4"
-        }
-      ]
+      "english": "Before the concert started, a long queue of people had already formed outside.",
+      "traditional": "演唱會未開場，場外已經排咗條人龍。",
+      "jyutping": "jin2 coeng3 wui6 mei6 hoi1 coeng4 coeng4 ngoi6 ji5 ging1 paai4 zo2 tiu4 jan4 lung4"
     }
   ]
 }

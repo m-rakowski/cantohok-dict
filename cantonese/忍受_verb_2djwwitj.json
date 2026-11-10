@@ -1,48 +1,44 @@
 {
   "id": "2djwwitj",
   "partOfSpeech": "verb",
+  "meaning": "put up with, bear",
+  "english": [
+    {
+      "id": "zdq9d69g",
+      "word": "endure",
+      "meaning": "put up with",
+      "note": "This is the all-purpose choice for tolerating something unpleasant or painful."
+    },
+    {
+      "id": "dse7dwsj",
+      "word": "tolerate",
+      "meaning": "bear/endure",
+      "note": "Use this as the all-purpose choice for bearing or enduring something unpleasant."
+    },
+    {
+      "id": "unkfxbpu",
+      "word": "suffer",
+      "meaning": "endure, put up with",
+      "note": "Use this when someone endures or puts up with another person’s insults, behavior, or other unpleasant treatment."
+    }
+  ],
   "traditional": "忍受",
   "jyutping": "jan2 sau6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "put up with, bear",
-      "english": [
-        {
-          "id": "zdq9d69g",
-          "word": "endure",
-          "meaning": "put up with",
-          "note": "This is the all-purpose choice for tolerating something unpleasant or painful."
-        },
-        {
-          "id": "dse7dwsj",
-          "word": "tolerate",
-          "meaning": "bear/endure",
-          "note": "Use this as the all-purpose choice for bearing or enduring something unpleasant."
-        },
-        {
-          "id": "unkfxbpu",
-          "word": "suffer",
-          "meaning": "endure, put up with",
-          "note": "Use this when someone endures or puts up with another person’s insults, behavior, or other unpleasant treatment."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I can't endure this much noise.",
-          "traditional": "我忍受唔到咁嘈。",
-          "jyutping": "ngo5 jan2 sau6 m4 dou2 gam3 cou4"
-        },
-        {
-          "english": "I really can't tolerate this kind of noise.",
-          "traditional": "我真係忍受唔到呢種噪音。",
-          "jyutping": "ngo5 zan1 hai6 jan2 sau6 m4 dou3 ni1 zung2 cou3 jam1"
-        },
-        {
-          "english": "I can't suffer him yelling at me every day.",
-          "traditional": "我忍受唔到佢日日鬧我。",
-          "jyutping": "ngo5 jan2 sau6 m4 dou2 keoi5 jat6 jat6 naau6 ngo5"
-        }
-      ]
+      "english": "I can't endure this much noise.",
+      "traditional": "我忍受唔到咁嘈。",
+      "jyutping": "ngo5 jan2 sau6 m4 dou2 gam3 cou4"
+    },
+    {
+      "english": "I really can't tolerate this kind of noise.",
+      "traditional": "我真係忍受唔到呢種噪音。",
+      "jyutping": "ngo5 zan1 hai6 jan2 sau6 m4 dou3 ni1 zung2 cou3 jam1"
+    },
+    {
+      "english": "I can't suffer him yelling at me every day.",
+      "traditional": "我忍受唔到佢日日鬧我。",
+      "jyutping": "ngo5 jan2 sau6 m4 dou2 keoi5 jat6 jat6 naau6 ngo5"
     }
   ]
 }

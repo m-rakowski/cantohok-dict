@@ -1,26 +1,22 @@
 {
   "id": "a9x5rhnp",
   "partOfSpeech": "noun",
+  "meaning": "email",
+  "english": [
+    {
+      "id": "e3581fb2",
+      "word": "mail",
+      "meaning": "email",
+      "note": "This is the all-purpose term for electronic mail and email messages."
+    }
+  ],
   "traditional": "電郵",
   "jyutping": "din6 jau4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "email",
-      "english": [
-        {
-          "id": "e3581fb2",
-          "word": "mail",
-          "meaning": "email",
-          "note": "This is the all-purpose term for electronic mail and email messages."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I received your mail yesterday.",
-          "traditional": "我尋日收到你嘅電郵。",
-          "jyutping": "ngo5 cam4 jat6 sau1 dou2 nei5 ge3 din6 jau4"
-        }
-      ]
+      "english": "I received your mail yesterday.",
+      "traditional": "我尋日收到你嘅電郵。",
+      "jyutping": "ngo5 cam4 jat6 sau1 dou2 nei5 ge3 din6 jau4"
     }
   ]
 }

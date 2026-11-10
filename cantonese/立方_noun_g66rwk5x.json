@@ -1,26 +1,22 @@
 {
   "id": "g66rwk5x",
   "partOfSpeech": "noun",
+  "meaning": "raise to the third power",
+  "english": [
+    {
+      "id": "3d75czth",
+      "word": "cube",
+      "meaning": "raise to the third power",
+      "note": "Use this mathematical term for the third power of a number or expression."
+    }
+  ],
   "traditional": "立方",
   "jyutping": "lap6 fong1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "raise to the third power",
-      "english": [
-        {
-          "id": "3d75czth",
-          "word": "cube",
-          "meaning": "raise to the third power",
-          "note": "Use this mathematical term for the third power of a number or expression."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The cube of two is eight.",
-          "traditional": "二嘅立方係八。",
-          "jyutping": "ji6 ge3 lap6 fong1 hai6 baat3"
-        }
-      ]
+      "english": "The cube of two is eight.",
+      "traditional": "二嘅立方係八。",
+      "jyutping": "ji6 ge3 lap6 fong1 hai6 baat3"
     }
   ]
 }

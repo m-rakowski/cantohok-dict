@@ -1,37 +1,33 @@
 {
   "id": "h0oduxov",
   "partOfSpeech": "noun",
+  "meaning": "agreement, approval",
+  "english": [
+    {
+      "id": "001hr04o",
+      "word": "approval",
+      "meaning": "permission / agreement",
+      "note": "Use this for endorsement or acceptance of a proposal, person, or point of view rather than simple permission."
+    },
+    {
+      "id": "tr787lpz",
+      "word": "acceptance",
+      "meaning": "accepting something",
+      "note": "Use this when acceptance means approval or endorsement of an idea, view, or proposal rather than merely receiving it."
+    }
+  ],
   "traditional": "認同",
   "jyutping": "jing6 tung4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "agreement, approval",
-      "english": [
-        {
-          "id": "001hr04o",
-          "word": "approval",
-          "meaning": "permission / agreement",
-          "note": "Use this for endorsement or acceptance of a proposal, person, or point of view rather than simple permission."
-        },
-        {
-          "id": "tr787lpz",
-          "word": "acceptance",
-          "meaning": "accepting something",
-          "note": "Use this when acceptance means approval or endorsement of an idea, view, or proposal rather than merely receiving it."
-        }
-      ],
-      "examples": [
-        {
-          "english": "You have my approval for that point of view.",
-          "traditional": "你呢個講法，我好認同。",
-          "jyutping": "nei5 ni1 go3 gong2 faat3 ngo5 hou2 jing6 tung4"
-        },
-        {
-          "english": "This idea has my full acceptance.",
-          "traditional": "我好認同你呢個諗法。",
-          "jyutping": "ngo5 hou2 jing6 tung4 nei5 ni1 go3 nam2 faat3"
-        }
-      ]
+      "english": "You have my approval for that point of view.",
+      "traditional": "你呢個講法，我好認同。",
+      "jyutping": "nei5 ni1 go3 gong2 faat3 ngo5 hou2 jing6 tung4"
+    },
+    {
+      "english": "This idea has my full acceptance.",
+      "traditional": "我好認同你呢個諗法。",
+      "jyutping": "ngo5 hou2 jing6 tung4 nei5 ni1 go3 nam2 faat3"
     }
   ]
 }

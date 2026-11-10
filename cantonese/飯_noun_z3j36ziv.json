@@ -1,56 +1,34 @@
 {
   "id": "z3j36ziv",
   "partOfSpeech": "noun",
-  "traditional": "飯",
-  "jyutping": "faan6",
-  "boxes": [
+  "meaning": "meal",
+  "english": [
     {
-      "meaning": "meal",
-      "english": [
-        {
-          "id": "wpmn1j3y",
-          "word": "meal",
-          "meaning": "main meal / eating occasion",
-          "note": "Use 飯 as the all-purpose colloquial noun for an ordinary meal, especially when focusing on the food eaten."
-        },
-        {
-          "id": "7r96iizy",
-          "word": "dinner",
-          "meaning": "food for dinner",
-          "register": "colloquial",
-          "note": "Use this for the food or meal being served, especially in contexts such as asking what there is for dinner."
-        }
-      ],
-      "examples": [
-        {
-          "english": "We’ll go see a movie after the meal.",
-          "traditional": "我哋食完飯先去睇戲。",
-          "jyutping": "ngo5 dei6 sik6 jyun4 faan6 sin1 heoi3 tai2 hei3"
-        },
-        {
-          "english": "What food is there for dinner tonight?",
-          "traditional": "今晚有咩飯呀？",
-          "jyutping": "gam1 maan1 jau5 me1 faan6 aa3"
-        }
-      ]
+      "id": "wpmn1j3y",
+      "word": "meal",
+      "meaning": "main meal / eating occasion",
+      "note": "Use 飯 as the all-purpose colloquial noun for an ordinary meal, especially when focusing on the food eaten."
     },
     {
-      "meaning": "cooked rice",
-      "english": [
-        {
-          "id": "pvo6ivwn",
-          "word": "rice",
-          "meaning": "rice (food)",
-          "note": "This is the all-purpose everyday choice for cooked rice served as food."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I want to eat rice tonight.",
-          "traditional": "我今晚想食飯。",
-          "jyutping": "ngo5 gam1 maan5 soeng2 sik6 faan6"
-        }
-      ]
+      "id": "7r96iizy",
+      "word": "dinner",
+      "meaning": "food for dinner",
+      "register": "colloquial",
+      "note": "Use this for the food or meal being served, especially in contexts such as asking what there is for dinner."
+    }
+  ],
+  "traditional": "飯",
+  "jyutping": "faan6",
+  "examples": [
+    {
+      "english": "We’ll go see a movie after the meal.",
+      "traditional": "我哋食完飯先去睇戲。",
+      "jyutping": "ngo5 dei6 sik6 jyun4 faan6 sin1 heoi3 tai2 hei3"
+    },
+    {
+      "english": "What food is there for dinner tonight?",
+      "traditional": "今晚有咩飯呀？",
+      "jyutping": "gam1 maan1 jau5 me1 faan6 aa3"
     }
   ]
 }

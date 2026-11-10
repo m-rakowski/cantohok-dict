@@ -1,48 +1,44 @@
 {
   "id": "05kazzp5",
   "partOfSpeech": "conj",
+  "meaning": "but",
+  "english": [
+    {
+      "id": "25v6u6pc",
+      "word": "but",
+      "meaning": "although; however",
+      "note": "This is the all-purpose colloquial choice for contrasting one clause or idea with another."
+    },
+    {
+      "id": "6mrfhv12",
+      "word": "yet",
+      "meaning": "but; nevertheless",
+      "note": "This is the all-purpose colloquial choice for contrasting one clause with another."
+    },
+    {
+      "id": "0wjll0e6",
+      "word": "whereas",
+      "meaning": "contrastive conjunction",
+      "note": "This is the all-purpose spoken choice for contrasting one clause with another."
+    }
+  ],
   "traditional": "但係",
   "jyutping": "daan6 hai6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "but",
-      "english": [
-        {
-          "id": "25v6u6pc",
-          "word": "but",
-          "meaning": "although; however",
-          "note": "This is the all-purpose colloquial choice for contrasting one clause or idea with another."
-        },
-        {
-          "id": "6mrfhv12",
-          "word": "yet",
-          "meaning": "but; nevertheless",
-          "note": "This is the all-purpose colloquial choice for contrasting one clause with another."
-        },
-        {
-          "id": "0wjll0e6",
-          "word": "whereas",
-          "meaning": "contrastive conjunction",
-          "note": "This is the all-purpose spoken choice for contrasting one clause with another."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I want to go, but it's raining today.",
-          "traditional": "我想去，但係今日落雨。",
-          "jyutping": "ngo5 soeng2 heoi3 daan6 hai6 gam1 jat6 lok6 jyu5"
-        },
-        {
-          "english": "I want to go, yet it’s raining today.",
-          "traditional": "我想去，但係今日落雨。",
-          "jyutping": "ngo5 soeng2 heoi3 daan6 hai6 gam1 jat6 lok6 jyu5"
-        },
-        {
-          "english": "I like iced lemon tea, whereas my friend likes hot milk tea.",
-          "traditional": "我鍾意飲凍檸茶，但係我朋友鍾意飲熱奶茶。",
-          "jyutping": "ngo5 zung1 ji3 jam2 dung3 ning2 caa4 daan6 hai6 ngo5 pang4 jau5 zung1 ji3 jam2 jit6 naai5 caa4"
-        }
-      ]
+      "english": "I want to go, but it's raining today.",
+      "traditional": "我想去，但係今日落雨。",
+      "jyutping": "ngo5 soeng2 heoi3 daan6 hai6 gam1 jat6 lok6 jyu5"
+    },
+    {
+      "english": "I want to go, yet it’s raining today.",
+      "traditional": "我想去，但係今日落雨。",
+      "jyutping": "ngo5 soeng2 heoi3 daan6 hai6 gam1 jat6 lok6 jyu5"
+    },
+    {
+      "english": "I like iced lemon tea, whereas my friend likes hot milk tea.",
+      "traditional": "我鍾意飲凍檸茶，但係我朋友鍾意飲熱奶茶。",
+      "jyutping": "ngo5 zung1 ji3 jam2 dung3 ning2 caa4 daan6 hai6 ngo5 pang4 jau5 zung1 ji3 jam2 jit6 naai5 caa4"
     }
   ]
 }

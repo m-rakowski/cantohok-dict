@@ -1,26 +1,22 @@
 {
   "id": "9saup6qc",
   "partOfSpeech": "verb",
+  "meaning": "listen to",
+  "english": [
+    {
+      "id": "tlo7nbhf",
+      "word": "hear",
+      "meaning": "listen to",
+      "note": "Use this for intentionally listening, or for heeding a request as in 聽佢話."
+    }
+  ],
   "traditional": "聽",
   "jyutping": "ting1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "listen to",
-      "english": [
-        {
-          "id": "tlo7nbhf",
-          "word": "hear",
-          "meaning": "listen to",
-          "note": "Use this for intentionally listening, or for heeding a request as in 聽佢話."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Hear me out first.",
-          "traditional": "你聽我講先。",
-          "jyutping": "nei5 ting1 ngo5 gong2 sin1"
-        }
-      ]
+      "english": "Hear me out first.",
+      "traditional": "你聽我講先。",
+      "jyutping": "nei5 ting1 ngo5 gong2 sin1"
     }
   ]
 }

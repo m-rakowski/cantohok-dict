@@ -1,48 +1,44 @@
 {
   "id": "a13y5xih",
   "partOfSpeech": "noun",
+  "meaning": "attack",
+  "english": [
+    {
+      "id": "0wolr9ak",
+      "word": "assault",
+      "meaning": "physical attack",
+      "note": "Use this as the all-purpose noun for an attack, especially an organized physical attack or a verbal attack."
+    },
+    {
+      "id": "hjy1cs3j",
+      "word": "attack",
+      "meaning": "violent assault",
+      "note": "This is the all-purpose noun for an attack, including a general or planned physical assault, an attack on a person or idea, and a military attack."
+    },
+    {
+      "id": "gulf6br0",
+      "word": "strike",
+      "meaning": "attack; air strike",
+      "note": "Use 攻擊 as the all-purpose noun for an attack, rather than the air-specific 空襲."
+    }
+  ],
   "traditional": "攻擊",
   "jyutping": "gung1 gik1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "attack",
-      "english": [
-        {
-          "id": "0wolr9ak",
-          "word": "assault",
-          "meaning": "physical attack",
-          "note": "Use this as the all-purpose noun for an attack, especially an organized physical attack or a verbal attack."
-        },
-        {
-          "id": "hjy1cs3j",
-          "word": "attack",
-          "meaning": "violent assault",
-          "note": "This is the all-purpose noun for an attack, including a general or planned physical assault, an attack on a person or idea, and a military attack."
-        },
-        {
-          "id": "gulf6br0",
-          "word": "strike",
-          "meaning": "attack; air strike",
-          "note": "Use 攻擊 as the all-purpose noun for an attack, rather than the air-specific 空襲."
-        }
-      ],
-      "examples": [
-        {
-          "english": "They launched a fierce assault on the government's policy.",
-          "traditional": "佢哋對政府嘅政策發動猛烈攻擊。",
-          "jyutping": "keoi5 dei6 deoi3 zing3 fu2 ge3 zing3 caak3 faat3 dung6 maang5 lit6 gung1 gik1"
-        },
-        {
-          "english": "That article came under a lot of attack online.",
-          "traditional": "嗰篇文章喺網上受到好多攻擊。",
-          "jyutping": "go2 pin1 man4 zoeng1 hai2 mong5 soeng6 sau6 dou2 hou2 do1 gung1 gik1"
-        },
-        {
-          "english": "The hacker's attack was a serious strike against the website.",
-          "traditional": "黑客對個網站嘅攻擊好嚴重。",
-          "jyutping": "hak1 haak3 deoi3 go3 mong5 zaam6 ge3 gung1 gik1 hou2 jim4 zung6"
-        }
-      ]
+      "english": "They launched a fierce assault on the government's policy.",
+      "traditional": "佢哋對政府嘅政策發動猛烈攻擊。",
+      "jyutping": "keoi5 dei6 deoi3 zing3 fu2 ge3 zing3 caak3 faat3 dung6 maang5 lit6 gung1 gik1"
+    },
+    {
+      "english": "That article came under a lot of attack online.",
+      "traditional": "嗰篇文章喺網上受到好多攻擊。",
+      "jyutping": "go2 pin1 man4 zoeng1 hai2 mong5 soeng6 sau6 dou2 hou2 do1 gung1 gik1"
+    },
+    {
+      "english": "The hacker's attack was a serious strike against the website.",
+      "traditional": "黑客對個網站嘅攻擊好嚴重。",
+      "jyutping": "hak1 haak3 deoi3 go3 mong5 zaam6 ge3 gung1 gik1 hou2 jim4 zung6"
     }
   ]
 }

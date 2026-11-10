@@ -1,28 +1,24 @@
 {
   "id": "cqtjnarw",
   "partOfSpeech": "verb",
+  "meaning": "load data into memory",
+  "english": [
+    {
+      "id": "inrksyq3",
+      "word": "load",
+      "meaning": "load data into memory",
+      "register": "formal",
+      "note": "Use this specifically for loading data or a program into a computer or other digital system."
+    }
+  ],
   "traditional": "載入",
   "jyutping": "zoi3 jap6",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "load data into memory",
-      "english": [
-        {
-          "id": "inrksyq3",
-          "word": "load",
-          "meaning": "load data into memory",
-          "register": "formal",
-          "note": "Use this specifically for loading data or a program into a computer or other digital system."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The system will load the update program shortly.",
-          "traditional": "系統即將載入更新程式。",
-          "jyutping": "hai6 tung2 zik1 zoeng1 zoi3 jap6 gang1 san1 cing4 sik1"
-        }
-      ]
+      "english": "The system will load the update program shortly.",
+      "traditional": "系統即將載入更新程式。",
+      "jyutping": "hai6 tung2 zik1 zoeng1 zoi3 jap6 gang1 san1 cing4 sik1"
     }
   ]
 }

@@ -1,92 +1,88 @@
 {
   "id": "1exwsycr",
   "partOfSpeech": "noun",
+  "meaning": "job, work",
+  "english": [
+    {
+      "id": "6xjwejtx",
+      "word": "work",
+      "meaning": "job; employment",
+      "note": "Use 工作 as the all-purpose noun for a job or for tasks that need doing."
+    },
+    {
+      "id": "ep06tqny",
+      "word": "job",
+      "meaning": "paid employment",
+      "note": "This is the all-purpose everyday noun for paid employment and an ordinary task or piece of work."
+    },
+    {
+      "id": "78fj3j2z",
+      "word": "task",
+      "meaning": "work assignment",
+      "note": "This is the all-purpose choice for an ordinary piece of work or work assignment."
+    },
+    {
+      "id": "rbx0kkva",
+      "word": "occupation",
+      "meaning": "job; profession",
+      "note": "This is the all-purpose noun for a job or regular work."
+    },
+    {
+      "id": "jpcitbbe",
+      "word": "employment",
+      "meaning": "job; work",
+      "note": "This is the all-purpose everyday choice when employment means a person's job or work."
+    },
+    {
+      "id": "5ph92cpw",
+      "word": "profession",
+      "meaning": "occupation; job",
+      "note": "Use this as the everyday all-purpose word for someone's job or occupation."
+    },
+    {
+      "id": "bt7hlp3t",
+      "word": "gig",
+      "meaning": "job, freelance work",
+      "note": "Use this as the all-purpose word for a job or piece of work."
+    }
+  ],
   "traditional": "工作",
   "jyutping": "gung1 zok3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "job, work",
-      "english": [
-        {
-          "id": "6xjwejtx",
-          "word": "work",
-          "meaning": "job; employment",
-          "note": "Use 工作 as the all-purpose noun for a job or for tasks that need doing."
-        },
-        {
-          "id": "ep06tqny",
-          "word": "job",
-          "meaning": "paid employment",
-          "note": "This is the all-purpose everyday noun for paid employment and an ordinary task or piece of work."
-        },
-        {
-          "id": "78fj3j2z",
-          "word": "task",
-          "meaning": "work assignment",
-          "note": "This is the all-purpose choice for an ordinary piece of work or work assignment."
-        },
-        {
-          "id": "rbx0kkva",
-          "word": "occupation",
-          "meaning": "job; profession",
-          "note": "This is the all-purpose noun for a job or regular work."
-        },
-        {
-          "id": "jpcitbbe",
-          "word": "employment",
-          "meaning": "job; work",
-          "note": "This is the all-purpose everyday choice when employment means a person's job or work."
-        },
-        {
-          "id": "5ph92cpw",
-          "word": "profession",
-          "meaning": "occupation; job",
-          "note": "Use this as the everyday all-purpose word for someone's job or occupation."
-        },
-        {
-          "id": "bt7hlp3t",
-          "word": "gig",
-          "meaning": "job, freelance work",
-          "note": "Use this as the all-purpose word for a job or piece of work."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I have a lot of work to do today.",
-          "traditional": "我今日有好多工作要做。",
-          "jyutping": "ngo5 gam1 jat6 jau5 hou2 do1 gung1 zok3 jiu3 zou6"
-        },
-        {
-          "english": "I found a job today.",
-          "traditional": "今日我搵到份工作。",
-          "jyutping": "gam1 jat6 ngo5 wan2 dou2 fan6 gung1 zok3"
-        },
-        {
-          "english": "I still haven't finished this task today.",
-          "traditional": "我今日仲未做完呢份工作。",
-          "jyutping": "ngo5 gam1 jat6 zung6 mei6 zou6 jyun4 ni1 fan6 gung1 zok3"
-        },
-        {
-          "english": "I recently found a new occupation.",
-          "traditional": "我最近搵到份新工作。",
-          "jyutping": "ngo5 zeoi3 gan6 wan2 dou2 fan6 san1 gung1 zok3"
-        },
-        {
-          "english": "I found new employment.",
-          "traditional": "我搵到份新工作。",
-          "jyutping": "ngo5 wan2 dou2 fan6 san1 gung1 zok3"
-        },
-        {
-          "english": "My profession requires me to communicate with customers all the time.",
-          "traditional": "我而家份工作要成日同客人溝通。",
-          "jyutping": "ngo5 ji4 gaa1 fan6 gung1 zok3 jiu3 seng4 jat6 tung4 haak3 jan4 kau1 tung1"
-        },
-        {
-          "english": "I took a gig organising documents for a company.",
-          "traditional": "我接咗份工作，幫間公司整理文件。",
-          "jyutping": "ngo5 zip3 zo2 fan6 gung1 zok3 bong1 gaan1 gung1 si1 zing2 lei5 man4 gin6"
-        }
-      ]
+      "english": "I have a lot of work to do today.",
+      "traditional": "我今日有好多工作要做。",
+      "jyutping": "ngo5 gam1 jat6 jau5 hou2 do1 gung1 zok3 jiu3 zou6"
+    },
+    {
+      "english": "I found a job today.",
+      "traditional": "今日我搵到份工作。",
+      "jyutping": "gam1 jat6 ngo5 wan2 dou2 fan6 gung1 zok3"
+    },
+    {
+      "english": "I still haven't finished this task today.",
+      "traditional": "我今日仲未做完呢份工作。",
+      "jyutping": "ngo5 gam1 jat6 zung6 mei6 zou6 jyun4 ni1 fan6 gung1 zok3"
+    },
+    {
+      "english": "I recently found a new occupation.",
+      "traditional": "我最近搵到份新工作。",
+      "jyutping": "ngo5 zeoi3 gan6 wan2 dou2 fan6 san1 gung1 zok3"
+    },
+    {
+      "english": "I found new employment.",
+      "traditional": "我搵到份新工作。",
+      "jyutping": "ngo5 wan2 dou2 fan6 san1 gung1 zok3"
+    },
+    {
+      "english": "My profession requires me to communicate with customers all the time.",
+      "traditional": "我而家份工作要成日同客人溝通。",
+      "jyutping": "ngo5 ji4 gaa1 fan6 gung1 zok3 jiu3 seng4 jat6 tung4 haak3 jan4 kau1 tung1"
+    },
+    {
+      "english": "I took a gig organising documents for a company.",
+      "traditional": "我接咗份工作，幫間公司整理文件。",
+      "jyutping": "ngo5 zip3 zo2 fan6 gung1 zok3 bong1 gaan1 gung1 si1 zing2 lei5 man4 gin6"
     }
   ]
 }

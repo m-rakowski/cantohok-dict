@@ -1,37 +1,33 @@
 {
   "id": "cphk09ul",
   "partOfSpeech": "noun",
+  "meaning": "boundary line",
+  "english": [
+    {
+      "id": "kf9ixdr3",
+      "word": "fence",
+      "meaning": "boundary",
+      "note": "Use this when “fence” means an abstract or actual boundary rather than the physical structure itself."
+    },
+    {
+      "id": "zkwl9htn",
+      "word": "crease",
+      "meaning": "cricket crease line",
+      "note": "Use this in cricket when referring to one of the marked lines on the pitch."
+    }
+  ],
   "traditional": "界線",
   "jyutping": "gaai3 sin3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "boundary line",
-      "english": [
-        {
-          "id": "kf9ixdr3",
-          "word": "fence",
-          "meaning": "boundary",
-          "note": "Use this when “fence” means an abstract or actual boundary rather than the physical structure itself."
-        },
-        {
-          "id": "zkwl9htn",
-          "word": "crease",
-          "meaning": "cricket crease line",
-          "note": "Use this in cricket when referring to one of the marked lines on the pitch."
-        }
-      ],
-      "examples": [
-        {
-          "english": "You can't cross this fence.",
-          "traditional": "呢條界線唔可以越過。",
-          "jyutping": "ni1 tiu4 gaai3 sin3 m4 ho2 ji5 jyut6 gwo3"
-        },
-        {
-          "english": "The cricket player stepped over the crease, so the umpire stopped play.",
-          "traditional": "板球員企過咗界線，俾裁判吹停。",
-          "jyutping": "baan2 kau4 jyun4 kei5 gwo3 zo2 gaai3 sin3 bei2 coi4 pun3 ceoi1 ting4"
-        }
-      ]
+      "english": "You can't cross this fence.",
+      "traditional": "呢條界線唔可以越過。",
+      "jyutping": "ni1 tiu4 gaai3 sin3 m4 ho2 ji5 jyut6 gwo3"
+    },
+    {
+      "english": "The cricket player stepped over the crease, so the umpire stopped play.",
+      "traditional": "板球員企過咗界線，俾裁判吹停。",
+      "jyutping": "baan2 kau4 jyun4 kei5 gwo3 zo2 gaai3 sin3 bei2 coi4 pun3 ceoi1 ting4"
     }
   ]
 }

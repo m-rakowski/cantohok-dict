@@ -1,28 +1,24 @@
 {
   "id": "v02almhw",
   "partOfSpeech": "verb",
+  "meaning": "attack quickly",
+  "english": [
+    {
+      "id": "mneguh7f",
+      "word": "blitz",
+      "meaning": "attack quickly",
+      "register": "formal",
+      "note": "This is the all-purpose choice for a sudden, rapid attack or raid."
+    }
+  ],
   "traditional": "突襲",
   "jyutping": "dat6 zaap6",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "attack quickly",
-      "english": [
-        {
-          "id": "mneguh7f",
-          "word": "blitz",
-          "meaning": "attack quickly",
-          "register": "formal",
-          "note": "This is the all-purpose choice for a sudden, rapid attack or raid."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The enemy planned to blitz our camp under cover of darkness.",
-          "traditional": "敵軍打算趁天黑突襲我哋嘅營地。",
-          "jyutping": "dik6 gwan1 daa2 syun3 can3 tin1 hak1 dat6 zaap6 ngo5 dei6 ge3 jing4 dei6"
-        }
-      ]
+      "english": "The enemy planned to blitz our camp under cover of darkness.",
+      "traditional": "敵軍打算趁天黑突襲我哋嘅營地。",
+      "jyutping": "dik6 gwan1 daa2 syun3 can3 tin1 hak1 dat6 zaap6 ngo5 dei6 ge3 jing4 dei6"
     }
   ]
 }

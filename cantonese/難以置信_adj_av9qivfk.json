@@ -1,50 +1,46 @@
 {
   "id": "av9qivfk",
   "partOfSpeech": "adj",
+  "meaning": "hard to believe",
+  "english": [
+    {
+      "id": "wol3yeuy",
+      "word": "incredible",
+      "meaning": "too hard to believe",
+      "register": "written",
+      "note": "This is the all-purpose choice for something literally unbelievable or astonishing."
+    },
+    {
+      "id": "5ueexs7x",
+      "word": "unimaginable",
+      "meaning": "beyond belief; inconceivable",
+      "note": "Use this when the emphasis is that an event or claim is so extraordinary that it is hard to believe, rather than literally impossible to imagine."
+    },
+    {
+      "id": "ykxwkugb",
+      "word": "unbelievable",
+      "meaning": "not believable",
+      "register": "formal",
+      "note": "Use this more formal expression for something impossible to believe, especially in emphatic reactions or writing."
+    }
+  ],
   "traditional": "難以置信",
   "jyutping": "naan4 ji5 zi3 seon3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "hard to believe",
-      "english": [
-        {
-          "id": "wol3yeuy",
-          "word": "incredible",
-          "meaning": "too hard to believe",
-          "register": "written",
-          "note": "This is the all-purpose choice for something literally unbelievable or astonishing."
-        },
-        {
-          "id": "5ueexs7x",
-          "word": "unimaginable",
-          "meaning": "beyond belief; inconceivable",
-          "note": "Use this when the emphasis is that an event or claim is so extraordinary that it is hard to believe, rather than literally impossible to imagine."
-        },
-        {
-          "id": "ykxwkugb",
-          "word": "unbelievable",
-          "meaning": "not believable",
-          "register": "formal",
-          "note": "Use this more formal expression for something impossible to believe, especially in emphatic reactions or writing."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This result is truly incredible.",
-          "traditional": "呢個結果真係難以置信。",
-          "jyutping": "ni1 go3 git3 gwo2 zan1 hai6 naan4 ji5 zi3 seon3"
-        },
-        {
-          "english": "It is unimaginable that he made so much money in just one hour.",
-          "traditional": "佢一個鐘頭就賺到咁多錢，真係難以置信。",
-          "jyutping": "keoi5 jat1 go3 zung1 tau4 zau6 zaan6 dou3 gam3 do1 cin4 zan1 hai6 naan4 ji5 zi3 seon3"
-        },
-        {
-          "english": "It is unbelievable that the accident injured so many people.",
-          "traditional": "事故造成咁多人受傷，實在難以置信。",
-          "jyutping": "si6 gu3 zou6 sing4 gam3 do1 jan4 sau6 soeng1 sat6 zoi6 naan4 ji5 zi3 seon3"
-        }
-      ]
+      "english": "This result is truly incredible.",
+      "traditional": "呢個結果真係難以置信。",
+      "jyutping": "ni1 go3 git3 gwo2 zan1 hai6 naan4 ji5 zi3 seon3"
+    },
+    {
+      "english": "It is unimaginable that he made so much money in just one hour.",
+      "traditional": "佢一個鐘頭就賺到咁多錢，真係難以置信。",
+      "jyutping": "keoi5 jat1 go3 zung1 tau4 zau6 zaan6 dou3 gam3 do1 cin4 zan1 hai6 naan4 ji5 zi3 seon3"
+    },
+    {
+      "english": "It is unbelievable that the accident injured so many people.",
+      "traditional": "事故造成咁多人受傷，實在難以置信。",
+      "jyutping": "si6 gu3 zou6 sing4 gam3 do1 jan4 sau6 soeng1 sat6 zoi6 naan4 ji5 zi3 seon3"
     }
   ]
 }

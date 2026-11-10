@@ -1,26 +1,22 @@
 {
   "id": "2l4rake0",
   "partOfSpeech": "verb",
+  "meaning": "break line of text",
+  "english": [
+    {
+      "id": "iyc4x3jy",
+      "word": "wrap",
+      "meaning": "break line of text",
+      "note": "Use this in computing or typography when text is moved onto the next line."
+    }
+  ],
   "traditional": "換行",
   "jyutping": "wun6 hong4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "break line of text",
-      "english": [
-        {
-          "id": "iyc4x3jy",
-          "word": "wrap",
-          "meaning": "break line of text",
-          "note": "Use this in computing or typography when text is moved onto the next line."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This bit of text is too long, so wrap it onto the next line to make it easier to read.",
-          "traditional": "呢段字太長，要換行先睇得清。",
-          "jyutping": "nei1 dyun6 zi6 taai3 coeng4 jiu3 wun6 hong4 sin1 tai2 dak1 cing1"
-        }
-      ]
+      "english": "This bit of text is too long, so wrap it onto the next line to make it easier to read.",
+      "traditional": "呢段字太長，要換行先睇得清。",
+      "jyutping": "nei1 dyun6 zi6 taai3 coeng4 jiu3 wun6 hong4 sin1 tai2 dak1 cing1"
     }
   ]
 }

@@ -1,28 +1,24 @@
 {
   "id": "yhpulklo",
   "partOfSpeech": "noun",
+  "meaning": "smaller division",
+  "english": [
+    {
+      "id": "szrpso5p",
+      "word": "subdivision",
+      "meaning": "smaller division",
+      "register": "formal",
+      "note": "Use 細分 for the further division of something that has already been divided, especially in technical or business contexts."
+    }
+  ],
   "traditional": "細分",
   "jyutping": "sai3 fan1",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "smaller division",
-      "english": [
-        {
-          "id": "szrpso5p",
-          "word": "subdivision",
-          "meaning": "smaller division",
-          "register": "formal",
-          "note": "Use 細分 for the further division of something that has already been divided, especially in technical or business contexts."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "After the market subdivision, we grouped people by age.",
-          "traditional": "做完市場細分之後，我哋再按年齡分組。",
-          "jyutping": "zou6 jyun4 si5 coeng4 sai3 fan1 zi1 hau6 ngo5 dei6 zoi3 on3 nin4 ling4 fan1 zou2"
-        }
-      ]
+      "english": "After the market subdivision, we grouped people by age.",
+      "traditional": "做完市場細分之後，我哋再按年齡分組。",
+      "jyutping": "zou6 jyun4 si5 coeng4 sai3 fan1 zi1 hau6 ngo5 dei6 zoi3 on3 nin4 ling4 fan1 zou2"
     }
   ]
 }

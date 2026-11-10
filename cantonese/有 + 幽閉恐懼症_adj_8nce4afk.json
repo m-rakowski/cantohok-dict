@@ -1,28 +1,24 @@
 {
   "id": "8nce4afk",
   "partOfSpeech": "adj",
+  "meaning": "scared of enclosed spaces",
+  "english": [
+    {
+      "id": "u3icqcdh",
+      "word": "claustrophobic",
+      "meaning": "scared of enclosed spaces",
+      "register": "formal",
+      "note": "Use this to name or state the specific phobia, especially in a medical or more formal context."
+    }
+  ],
   "traditional": "有 + 幽閉恐懼症",
   "jyutping": "jau5 jau1 bai3 hung2 geoi6 zing3",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "scared of enclosed spaces",
-      "english": [
-        {
-          "id": "u3icqcdh",
-          "word": "claustrophobic",
-          "meaning": "scared of enclosed spaces",
-          "register": "formal",
-          "note": "Use this to name or state the specific phobia, especially in a medical or more formal context."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The patient is claustrophobic and should tell the doctor before an MRI scan.",
-          "traditional": "病人有幽閉恐懼症，做磁力共振之前要先通知醫生。",
-          "jyutping": "beng6 jan4 jau5 jau1 bai3 hung2 geoi6 zing3 zou6 ci4 lik6 gung6 zan3 zi1 cin4 jiu3 sin1 tung1 zi1 ji1 saang1"
-        }
-      ]
+      "english": "The patient is claustrophobic and should tell the doctor before an MRI scan.",
+      "traditional": "病人有幽閉恐懼症，做磁力共振之前要先通知醫生。",
+      "jyutping": "beng6 jan4 jau5 jau1 bai3 hung2 geoi6 zing3 zou6 ci4 lik6 gung6 zan3 zi1 cin4 jiu3 sin1 tung1 zi1 ji1 saang1"
     }
   ]
 }

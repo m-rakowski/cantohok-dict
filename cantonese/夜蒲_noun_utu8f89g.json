@@ -1,28 +1,24 @@
 {
   "id": "utu8f89g",
   "partOfSpeech": "noun",
+  "meaning": "night-time entertainment",
+  "english": [
+    {
+      "id": "qag5vhlf",
+      "word": "nightlife",
+      "meaning": "night-time entertainment",
+      "register": "colloquial",
+      "note": "Use this colloquial term when the focus is on partying or going clubbing at night rather than nightlife in general."
+    }
+  ],
   "traditional": "夜蒲",
   "jyutping": "je6 pou4",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "night-time entertainment",
-      "english": [
-        {
-          "id": "qag5vhlf",
-          "word": "nightlife",
-          "meaning": "night-time entertainment",
-          "register": "colloquial",
-          "note": "Use this colloquial term when the focus is on partying or going clubbing at night rather than nightlife in general."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "Are we going out for nightlife tonight?",
-          "traditional": "今晚去唔去夜蒲？",
-          "jyutping": "gam1 maan1 heoi3 m4 heoi3 je6 pou4"
-        }
-      ]
+      "english": "Are we going out for nightlife tonight?",
+      "traditional": "今晚去唔去夜蒲？",
+      "jyutping": "gam1 maan1 heoi3 m4 heoi3 je6 pou4"
     }
   ]
 }

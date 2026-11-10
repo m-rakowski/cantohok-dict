@@ -1,37 +1,33 @@
 {
   "id": "vmqpbgwx",
   "partOfSpeech": "noun",
+  "meaning": "death, passing away (polite)",
+  "english": [
+    {
+      "id": "v0ph7e3d",
+      "word": "exit",
+      "meaning": "death, euphemistic",
+      "note": "Use this as a euphemistic noun for a person's death or departure from life."
+    },
+    {
+      "id": "spmclxuk",
+      "word": "departure",
+      "meaning": "euphemistic death",
+      "note": "Use this euphemistic noun for someone's death, especially in respectful or commemorative language."
+    }
+  ],
   "traditional": "離世",
   "jyutping": "lei4 sai3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "death, passing away (polite)",
-      "english": [
-        {
-          "id": "v0ph7e3d",
-          "word": "exit",
-          "meaning": "death, euphemistic",
-          "note": "Use this as a euphemistic noun for a person's death or departure from life."
-        },
-        {
-          "id": "spmclxuk",
-          "word": "departure",
-          "meaning": "euphemistic death",
-          "note": "Use this euphemistic noun for someone's death, especially in respectful or commemorative language."
-        }
-      ],
-      "examples": [
-        {
-          "english": "His family were heartbroken after his exit from this life.",
-          "traditional": "佢離世之後，屋企人都好掛住佢。",
-          "jyutping": "keoi5 lei4 sai3 zi1 hau6 uk1 kei2 jan4 dou1 hou2 gwaa3 zyu6 keoi5"
-        },
-        {
-          "english": "Our uncle's departure last month left the whole family heartbroken.",
-          "traditional": "伯伯上個月離世，屋企人都好傷心。",
-          "jyutping": "baa3 baa3 soeng6 go3 jyut6 lei4 sai3 uk1 kei2 jan4 dou1 hou2 soeng1 sam1"
-        }
-      ]
+      "english": "His family were heartbroken after his exit from this life.",
+      "traditional": "佢離世之後，屋企人都好掛住佢。",
+      "jyutping": "keoi5 lei4 sai3 zi1 hau6 uk1 kei2 jan4 dou1 hou2 gwaa3 zyu6 keoi5"
+    },
+    {
+      "english": "Our uncle's departure last month left the whole family heartbroken.",
+      "traditional": "伯伯上個月離世，屋企人都好傷心。",
+      "jyutping": "baa3 baa3 soeng6 go3 jyut6 lei4 sai3 uk1 kei2 jan4 dou1 hou2 soeng1 sam1"
     }
   ]
 }

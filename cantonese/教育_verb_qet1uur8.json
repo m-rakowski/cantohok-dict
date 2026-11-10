@@ -1,38 +1,34 @@
 {
   "id": "qet1uur8",
   "partOfSpeech": "verb",
+  "meaning": "educate",
+  "english": [
+    {
+      "id": "oieqc14q",
+      "word": "edify",
+      "meaning": "instruct morally or intellectually",
+      "note": "Use this as the all-purpose verb for educating or improving someone morally or intellectually."
+    },
+    {
+      "id": "jsum2eyb",
+      "word": "educate",
+      "meaning": "instruct or train",
+      "register": "formal",
+      "note": "Use this for the broader or more formal process of educating people, especially about social or academic topics."
+    }
+  ],
   "traditional": "教育",
   "jyutping": "gaau3 juk6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "educate",
-      "english": [
-        {
-          "id": "oieqc14q",
-          "word": "edify",
-          "meaning": "instruct morally or intellectually",
-          "note": "Use this as the all-purpose verb for educating or improving someone morally or intellectually."
-        },
-        {
-          "id": "jsum2eyb",
-          "word": "educate",
-          "meaning": "instruct or train",
-          "register": "formal",
-          "note": "Use this for the broader or more formal process of educating people, especially about social or academic topics."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Parents shouldn't just scold their children; they should also edify them about how to behave.",
-          "traditional": "父母唔係淨係鬧仔女，仲要教育佢哋點樣做人。",
-          "jyutping": "fu6 mou5 m4 hai6 zing6 hai6 naau6 zai2 neoi2 zung6 jiu3 gaau3 juk6 keoi5 dei6 dim2 joeng2 zou6 jan4"
-        },
-        {
-          "english": "Schools have a responsibility to educate students to respect others.",
-          "traditional": "學校有責任教育學生尊重別人。",
-          "jyutping": "hok6 haau6 jau5 zaak3 jam6 gaau3 juk6 hok6 saang1 zyun1 zung6 bit6 jan4"
-        }
-      ]
+      "english": "Parents shouldn't just scold their children; they should also edify them about how to behave.",
+      "traditional": "父母唔係淨係鬧仔女，仲要教育佢哋點樣做人。",
+      "jyutping": "fu6 mou5 m4 hai6 zing6 hai6 naau6 zai2 neoi2 zung6 jiu3 gaau3 juk6 keoi5 dei6 dim2 joeng2 zou6 jan4"
+    },
+    {
+      "english": "Schools have a responsibility to educate students to respect others.",
+      "traditional": "學校有責任教育學生尊重別人。",
+      "jyutping": "hok6 haau6 jau5 zaak3 jam6 gaau3 juk6 hok6 saang1 zyun1 zung6 bit6 jan4"
     }
   ]
 }

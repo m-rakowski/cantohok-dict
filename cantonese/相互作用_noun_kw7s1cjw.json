@@ -1,28 +1,24 @@
 {
   "id": "kw7s1cjw",
   "partOfSpeech": "noun",
+  "meaning": "mutual effect/interaction",
+  "english": [
+    {
+      "id": "og7b6zdz",
+      "word": "interaction",
+      "meaning": "mutual effect/interaction",
+      "register": "formal",
+      "note": "Use this precise technical phrase for things such as the effects of different medications on one another."
+    }
+  ],
   "traditional": "相互作用",
   "jyutping": "soeng1 wu6 zok3 jung6",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "mutual effect/interaction",
-      "english": [
-        {
-          "id": "og7b6zdz",
-          "word": "interaction",
-          "meaning": "mutual effect/interaction",
-          "register": "formal",
-          "note": "Use this precise technical phrase for things such as the effects of different medications on one another."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "Taking these two medicines together may cause an interaction.",
-          "traditional": "呢兩隻藥一齊食可能會有相互作用。",
-          "jyutping": "ni1 loeng5 zek3 joek6 jat1 cai4 sik6 ho2 nang4 wui5 jau5 soeng1 wu6 zok3 jung6"
-        }
-      ]
+      "english": "Taking these two medicines together may cause an interaction.",
+      "traditional": "呢兩隻藥一齊食可能會有相互作用。",
+      "jyutping": "ni1 loeng5 zek3 joek6 jat1 cai4 sik6 ho2 nang4 wui5 jau5 soeng1 wu6 zok3 jung6"
     }
   ]
 }

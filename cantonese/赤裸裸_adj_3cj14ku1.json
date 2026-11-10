@@ -1,37 +1,33 @@
 {
   "id": "3cj14ku1",
   "partOfSpeech": "adj",
+  "meaning": "naked, blunt, undisguised",
+  "english": [
+    {
+      "id": "5uzi5wf5",
+      "word": "bare",
+      "meaning": "naked; uncovered",
+      "note": "Use this as the all-purpose choice for being naked or exposed, and when bare means stark and unembellished."
+    },
+    {
+      "id": "vwlcir15",
+      "word": "naked",
+      "meaning": "blunt, unadorned",
+      "note": "Use this for an unvarnished or blunt statement such as the naked truth, not for ordinary physical nudity."
+    }
+  ],
   "traditional": "赤裸裸",
   "jyutping": "cek3 lo2 lo2",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "naked, blunt, undisguised",
-      "english": [
-        {
-          "id": "5uzi5wf5",
-          "word": "bare",
-          "meaning": "naked; uncovered",
-          "note": "Use this as the all-purpose choice for being naked or exposed, and when bare means stark and unembellished."
-        },
-        {
-          "id": "vwlcir15",
-          "word": "naked",
-          "meaning": "blunt, unadorned",
-          "note": "Use this for an unvarnished or blunt statement such as the naked truth, not for ordinary physical nudity."
-        }
-      ],
-      "examples": [
-        {
-          "english": "They bare their feelings bluntly.",
-          "traditional": "佢哋赤裸裸咁講出自己嘅感受。",
-          "jyutping": "keoi5 dei6 cek3 lo2 lo2 gam2 gong2 ceot1 zi6 gei2 ge3 gam2 sau6"
-        },
-        {
-          "english": "This is the naked truth.",
-          "traditional": "呢個就係赤裸裸嘅事實。",
-          "jyutping": "nei1 go3 zau6 hai6 cek3 lo2 lo2 ge3 si6 sat6"
-        }
-      ]
+      "english": "They bare their feelings bluntly.",
+      "traditional": "佢哋赤裸裸咁講出自己嘅感受。",
+      "jyutping": "keoi5 dei6 cek3 lo2 lo2 gam2 gong2 ceot1 zi6 gei2 ge3 gam2 sau6"
+    },
+    {
+      "english": "This is the naked truth.",
+      "traditional": "呢個就係赤裸裸嘅事實。",
+      "jyutping": "nei1 go3 zau6 hai6 cek3 lo2 lo2 ge3 si6 sat6"
     }
   ]
 }

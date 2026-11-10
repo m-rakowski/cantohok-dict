@@ -1,28 +1,24 @@
 {
   "id": "6qv5ofzm",
   "partOfSpeech": "noun",
+  "meaning": "cash float",
+  "english": [
+    {
+      "id": "481xh817",
+      "word": "float",
+      "meaning": "cash float",
+      "register": "written",
+      "note": "Use this written banking term for funds in transit that have been committed but not yet paid."
+    }
+  ],
   "traditional": "浮存",
   "jyutping": "fau4 cyun4",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "cash float",
-      "english": [
-        {
-          "id": "481xh817",
-          "word": "float",
-          "meaning": "cash float",
-          "register": "written",
-          "note": "Use this written banking term for funds in transit that have been committed but not yet paid."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "These funds are still in float and have not yet been formally paid.",
-          "traditional": "呢筆款項仲係浮存，未正式支付。",
-          "jyutping": "ni1 bat1 fun2 hong6 zung6 hai6 fau4 cyun4 mei6 zing3 sik1 zi1 fu6"
-        }
-      ]
+      "english": "These funds are still in float and have not yet been formally paid.",
+      "traditional": "呢筆款項仲係浮存，未正式支付。",
+      "jyutping": "ni1 bat1 fun2 hong6 zung6 hai6 fau4 cyun4 mei6 zing3 sik1 zi1 fu6"
     }
   ]
 }

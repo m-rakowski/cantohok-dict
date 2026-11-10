@@ -1,38 +1,34 @@
 {
   "id": "svx0o5lp",
   "partOfSpeech": "verb",
+  "meaning": "match up, add up",
+  "english": [
+    {
+      "id": "utwbdvnw",
+      "word": "agree",
+      "meaning": "match or correspond",
+      "register": "colloquial",
+      "note": "Use this when two things correspond, match, or tally, often negated as 對唔上."
+    },
+    {
+      "id": "ss20370f",
+      "word": "track",
+      "meaning": "make sense, add up",
+      "note": "Use this when facts or information are consistent and make sense together."
+    }
+  ],
   "traditional": "對得上",
   "jyutping": "deoi3 dak1 soeng6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "match up, add up",
-      "english": [
-        {
-          "id": "utwbdvnw",
-          "word": "agree",
-          "meaning": "match or correspond",
-          "register": "colloquial",
-          "note": "Use this when two things correspond, match, or tally, often negated as 對唔上."
-        },
-        {
-          "id": "ss20370f",
-          "word": "track",
-          "meaning": "make sense, add up",
-          "note": "Use this when facts or information are consistent and make sense together."
-        }
-      ],
-      "examples": [
-        {
-          "english": "These two sets of figures agree.",
-          "traditional": "呢兩份數對得上。",
-          "jyutping": "ni1 loeng5 fan6 sou3 deoi3 dak1 soeng6"
-        },
-        {
-          "english": "The timing seems to track with the record.",
-          "traditional": "呢個時間同記錄對得上。",
-          "jyutping": "ni1 go3 si4 gaan1 tung4 gei3 luk6 deoi3 dak1 soeng6"
-        }
-      ]
+      "english": "These two sets of figures agree.",
+      "traditional": "呢兩份數對得上。",
+      "jyutping": "ni1 loeng5 fan6 sou3 deoi3 dak1 soeng6"
+    },
+    {
+      "english": "The timing seems to track with the record.",
+      "traditional": "呢個時間同記錄對得上。",
+      "jyutping": "ni1 go3 si4 gaan1 tung4 gei3 luk6 deoi3 dak1 soeng6"
     }
   ]
 }

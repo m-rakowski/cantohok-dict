@@ -1,61 +1,57 @@
 {
   "id": "ahzhg64v",
   "partOfSpeech": "noun",
+  "meaning": "death",
+  "english": [
+    {
+      "id": "rgcb3y5a",
+      "word": "death",
+      "meaning": "cessation of life",
+      "note": "This is the all-purpose spoken Cantonese noun for death, especially in possessive phrases such as 佢嘅死."
+    },
+    {
+      "id": "3xnqblmw",
+      "word": "demise",
+      "meaning": "death",
+      "register": "colloquial",
+      "note": "This is the all-purpose colloquial noun for a person's death."
+    },
+    {
+      "id": "2jqf4z8a",
+      "word": "loss",
+      "meaning": "death of someone",
+      "register": "colloquial",
+      "note": "Use 死 for the death of a person or animal when a direct, everyday expression is appropriate."
+    },
+    {
+      "id": "ntxiog5n",
+      "word": "end",
+      "meaning": "death; final end",
+      "note": "Use 死 as a noun for death, especially in possessive phrases such as 佢嘅死."
+    }
+  ],
   "traditional": "死",
   "jyutping": "sei2",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "death",
-      "english": [
-        {
-          "id": "rgcb3y5a",
-          "word": "death",
-          "meaning": "cessation of life",
-          "note": "This is the all-purpose spoken Cantonese noun for death, especially in possessive phrases such as 佢嘅死."
-        },
-        {
-          "id": "3xnqblmw",
-          "word": "demise",
-          "meaning": "death",
-          "register": "colloquial",
-          "note": "This is the all-purpose colloquial noun for a person's death."
-        },
-        {
-          "id": "2jqf4z8a",
-          "word": "loss",
-          "meaning": "death of someone",
-          "register": "colloquial",
-          "note": "Use 死 for the death of a person or animal when a direct, everyday expression is appropriate."
-        },
-        {
-          "id": "ntxiog5n",
-          "word": "end",
-          "meaning": "death; final end",
-          "note": "Use 死 as a noun for death, especially in possessive phrases such as 佢嘅死."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I still can't accept his death.",
-          "traditional": "我到而家都接受唔到佢嘅死。",
-          "jyutping": "ngo5 dou3 ji4 gaa1 dou1 zip3 sau6 m4 dou2 keoi5 ge3 sei2"
-        },
-        {
-          "english": "His sudden demise yesterday left everyone heartbroken.",
-          "traditional": "佢噚日突然死咗，大家都好傷心。",
-          "jyutping": "keoi5 cam4 jat6 dat6 jin4 sei2 zo2 daai6 gaa1 dou1 hou2 soeng1 sam1"
-        },
-        {
-          "english": "The loss of that person, who died suddenly yesterday, upset everyone.",
-          "traditional": "嗰個人噚日突然死咗，大家都好難過。",
-          "jyutping": "go2 go3 jan4 cam4 jat6 dat6 jin4 sei2 zo2 daai6 gaa1 dou1 hou2 naan4 gwo3"
-        },
-        {
-          "english": "His father's death marked the end of the family's happiness.",
-          "traditional": "佢阿爸嘅死，標誌住呢個家庭快樂嘅終結。",
-          "jyutping": "keoi5 aa3 baa4 ge3 sei2 biu1 zi3 zyu6 ni1 go3 gaa1 ting4 faai3 lok6 ge3 zung1 git3"
-        }
-      ]
+      "english": "I still can't accept his death.",
+      "traditional": "我到而家都接受唔到佢嘅死。",
+      "jyutping": "ngo5 dou3 ji4 gaa1 dou1 zip3 sau6 m4 dou2 keoi5 ge3 sei2"
+    },
+    {
+      "english": "His sudden demise yesterday left everyone heartbroken.",
+      "traditional": "佢噚日突然死咗，大家都好傷心。",
+      "jyutping": "keoi5 cam4 jat6 dat6 jin4 sei2 zo2 daai6 gaa1 dou1 hou2 soeng1 sam1"
+    },
+    {
+      "english": "The loss of that person, who died suddenly yesterday, upset everyone.",
+      "traditional": "嗰個人噚日突然死咗，大家都好難過。",
+      "jyutping": "go2 go3 jan4 cam4 jat6 dat6 jin4 sei2 zo2 daai6 gaa1 dou1 hou2 naan4 gwo3"
+    },
+    {
+      "english": "His father's death marked the end of the family's happiness.",
+      "traditional": "佢阿爸嘅死，標誌住呢個家庭快樂嘅終結。",
+      "jyutping": "keoi5 aa3 baa4 ge3 sei2 biu1 zi3 zyu6 ni1 go3 gaa1 ting4 faai3 lok6 ge3 zung1 git3"
     }
   ]
 }

@@ -1,46 +1,22 @@
 {
   "id": "26rq0ho7",
   "partOfSpeech": "noun",
+  "meaning": "breath",
+  "english": [
+    {
+      "id": "1li7uhtl",
+      "word": "wind",
+      "meaning": "breath; breathlessness",
+      "note": "Use this for the breath or breathing capacity someone lacks when they are out of wind."
+    }
+  ],
   "traditional": "氣",
   "jyutping": "hei3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "breath",
-      "english": [
-        {
-          "id": "1li7uhtl",
-          "word": "wind",
-          "meaning": "breath; breathlessness",
-          "note": "Use this for the breath or breathing capacity someone lacks when they are out of wind."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I was out of wind after walking just two steps.",
-          "traditional": "我行兩步就冇氣喇。",
-          "jyutping": "ngo5 haang4 loeng5 bou6 zau6 mou5 hei3 laa3"
-        }
-      ]
-    },
-    {
-      "meaning": "fizz in a drink",
-      "english": [
-        {
-          "id": "gjc1zugx",
-          "word": "sparkle",
-          "meaning": "fizz, effervescence",
-          "register": "colloquial",
-          "note": "Use this for the fizz or carbonation in a drink, as in a drink having or losing its 氣."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "This soda has lost all its sparkle.",
-          "traditional": "呢杯汽水冇晒氣喇。",
-          "jyutping": "ni1 bui1 hei3 seoi2 mou5 saai3 hei3 laa3"
-        }
-      ]
+      "english": "I was out of wind after walking just two steps.",
+      "traditional": "我行兩步就冇氣喇。",
+      "jyutping": "ngo5 haang4 loeng5 bou6 zau6 mou5 hei3 laa3"
     }
   ]
 }

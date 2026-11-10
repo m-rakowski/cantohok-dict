@@ -1,48 +1,24 @@
 {
   "id": "a5yy0wwi",
   "partOfSpeech": "verb",
+  "meaning": "abandon, leave someone behind",
+  "english": [
+    {
+      "id": "zpid2wkn",
+      "word": "desert",
+      "meaning": "abandon, forsake",
+      "register": "colloquial",
+      "note": "This is the all-purpose colloquial choice for leaving someone behind or abandoning them."
+    }
+  ],
   "traditional": "掉低",
   "jyutping": "diu6 dai1",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "abandon, leave someone behind",
-      "english": [
-        {
-          "id": "zpid2wkn",
-          "word": "desert",
-          "meaning": "abandon, forsake",
-          "register": "colloquial",
-          "note": "This is the all-purpose colloquial choice for leaving someone behind or abandoning them."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "You can't desert me here alone.",
-          "traditional": "你唔可以掉低我一個人。",
-          "jyutping": "nei5 m4 ho2 ji5 diu6 dai1 ngo5 jat1 go3 jan4"
-        }
-      ]
-    },
-    {
-      "meaning": "drop, put down",
-      "english": [
-        {
-          "id": "axjdfhft",
-          "word": "drop",
-          "meaning": "let fall",
-          "register": "colloquial",
-          "note": "Use 掉低 when someone lets or puts something lower, including deliberately releasing or lowering it."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "You’re holding the rope—don’t drop it.",
-          "traditional": "你拎住條繩，唔好掉低佢呀。",
-          "jyutping": "nei5 ling1 zyu6 tiu4 sing4 m4 hou2 diu6 dai1 keoi5 aa3"
-        }
-      ]
+      "english": "You can't desert me here alone.",
+      "traditional": "你唔可以掉低我一個人。",
+      "jyutping": "nei5 m4 ho2 ji5 diu6 dai1 ngo5 jat1 go3 jan4"
     }
   ]
 }

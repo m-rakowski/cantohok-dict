@@ -50,10 +50,8 @@ export function collectTakenIds(root: string): Set<string> {
     }
     if (typeof page !== 'object' || page === null) continue
     if (typeof page.id === 'string') taken.add(page.id)
-    if (!Array.isArray(page.boxes)) continue
-    for (const box of page.boxes)
-      for (const entry of Array.isArray(box?.english) ? box.english : [])
-        if (typeof entry?.id === 'string') taken.add(entry.id)
+    for (const entry of Array.isArray(page.english) ? page.english : [])
+      if (typeof entry?.id === 'string') taken.add(entry.id)
   }
   return taken
 }

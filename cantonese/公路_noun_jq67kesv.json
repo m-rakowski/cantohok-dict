@@ -1,37 +1,33 @@
 {
   "id": "jq67kesv",
   "partOfSpeech": "noun",
+  "meaning": "highway, public road",
+  "english": [
+    {
+      "id": "1bqwpm0y",
+      "word": "highway",
+      "meaning": "main public road",
+      "note": "This is the all-purpose Cantonese noun for a main public road or highway."
+    },
+    {
+      "id": "7ll1hg40",
+      "word": "route",
+      "meaning": "road or highway",
+      "note": "Use this specifically for a public road or highway, including a numbered highway route."
+    }
+  ],
   "traditional": "公路",
   "jyutping": "gung1 lou6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "highway, public road",
-      "english": [
-        {
-          "id": "1bqwpm0y",
-          "word": "highway",
-          "meaning": "main public road",
-          "note": "This is the all-purpose Cantonese noun for a main public road or highway."
-        },
-        {
-          "id": "7ll1hg40",
-          "word": "route",
-          "meaning": "road or highway",
-          "note": "Use this specifically for a public road or highway, including a numbered highway route."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I drive along this highway to work every morning.",
-          "traditional": "我朝早揸車行呢條公路返工。",
-          "jyutping": "ngo5 ziu1 zou2 zaa1 ce1 haang4 ni1 tiu4 gung1 lou6 faan1 gung1"
-        },
-        {
-          "english": "We take this highway route to the airport.",
-          "traditional": "我哋揸車經呢條公路去機場。",
-          "jyutping": "ngo5 dei6 zaa1 ce1 ging1 ni1 tiu4 gung1 lou6 heoi3 gei1 coeng4"
-        }
-      ]
+      "english": "I drive along this highway to work every morning.",
+      "traditional": "我朝早揸車行呢條公路返工。",
+      "jyutping": "ngo5 ziu1 zou2 zaa1 ce1 haang4 ni1 tiu4 gung1 lou6 faan1 gung1"
+    },
+    {
+      "english": "We take this highway route to the airport.",
+      "traditional": "我哋揸車經呢條公路去機場。",
+      "jyutping": "ngo5 dei6 zaa1 ce1 ging1 ni1 tiu4 gung1 lou6 heoi3 gei1 coeng4"
     }
   ]
 }

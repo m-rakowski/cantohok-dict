@@ -1,28 +1,24 @@
 {
   "id": "cc1max6l",
   "partOfSpeech": "noun",
+  "meaning": "bookkeeping entry",
+  "english": [
+    {
+      "id": "b8bqa3d0",
+      "word": "debit",
+      "meaning": "bookkeeping entry",
+      "register": "formal",
+      "note": "Use this specifically for the debit side or an entry recorded on it in bookkeeping."
+    }
+  ],
   "traditional": "借方",
   "jyutping": "ze3 fong1",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "bookkeeping entry",
-      "english": [
-        {
-          "id": "b8bqa3d0",
-          "word": "debit",
-          "meaning": "bookkeeping entry",
-          "register": "formal",
-          "note": "Use this specifically for the debit side or an entry recorded on it in bookkeeping."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "This amount should be recorded on the debit side.",
-          "traditional": "呢筆數要記喺借方。",
-          "jyutping": "ni1 bat1 sou3 jiu3 gei3 hai2 ze3 fong1"
-        }
-      ]
+      "english": "This amount should be recorded on the debit side.",
+      "traditional": "呢筆數要記喺借方。",
+      "jyutping": "ni1 bat1 sou3 jiu3 gei3 hai2 ze3 fong1"
     }
   ]
 }

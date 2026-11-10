@@ -1,28 +1,24 @@
 {
   "id": "vfh0dbbe",
   "partOfSpeech": "noun",
+  "meaning": "raising of a child",
+  "english": [
+    {
+      "id": "q0gwa3y6",
+      "word": "upbringing",
+      "meaning": "raising of a child",
+      "register": "colloquial",
+      "note": "Use this construction when describing that B was brought up by A, especially emphasizing hands-on care until adulthood."
+    }
+  ],
   "traditional": "B + 由 + A + 湊大",
   "jyutping": "B jau4 A cau3 daai6",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "raising of a child",
-      "english": [
-        {
-          "id": "q0gwa3y6",
-          "word": "upbringing",
-          "meaning": "raising of a child",
-          "register": "colloquial",
-          "note": "Use this construction when describing that B was brought up by A, especially emphasizing hands-on care until adulthood."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "My mother handled my upbringing and looked after me from childhood to adulthood.",
-          "traditional": "我由阿媽湊大，細個到大都係佢照顧我。",
-          "jyutping": "ngo5 jau4 aa3 maa1 cau3 daai6 sai3 go3 dou3 daai6 dou1 hai6 keoi5 ziu3 gu3 ngo5"
-        }
-      ]
+      "english": "My mother handled my upbringing and looked after me from childhood to adulthood.",
+      "traditional": "我由阿媽湊大，細個到大都係佢照顧我。",
+      "jyutping": "ngo5 jau4 aa3 maa1 cau3 daai6 sai3 go3 dou3 daai6 dou1 hai6 keoi5 ziu3 gu3 ngo5"
     }
   ]
 }

@@ -1,39 +1,35 @@
 {
   "id": "gxmq76li",
   "partOfSpeech": "noun",
+  "meaning": "essential element",
+  "english": [
+    {
+      "id": "9cn1ha06",
+      "word": "element",
+      "meaning": "essential part or principle",
+      "register": "formal",
+      "note": "Use 要素 for an essential constituent or underlying principle, especially in an analytical description."
+    },
+    {
+      "id": "0ob9lar8",
+      "word": "ingredient",
+      "meaning": "necessary factor",
+      "register": "written",
+      "note": "Use this for a necessary element or component of achieving a goal, rather than a physical cooking ingredient."
+    }
+  ],
   "traditional": "要素",
   "jyutping": "jiu3 sou3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "essential element",
-      "english": [
-        {
-          "id": "9cn1ha06",
-          "word": "element",
-          "meaning": "essential part or principle",
-          "register": "formal",
-          "note": "Use 要素 for an essential constituent or underlying principle, especially in an analytical description."
-        },
-        {
-          "id": "0ob9lar8",
-          "word": "ingredient",
-          "meaning": "necessary factor",
-          "register": "written",
-          "note": "Use this for a necessary element or component of achieving a goal, rather than a physical cooking ingredient."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This report points out that trust is an important element of teamwork.",
-          "traditional": "呢份報告指出，信任係團隊合作嘅重要要素。",
-          "jyutping": "ni1 fan6 bou3 gou3 zi2 ceot1 seon3 jam6 hai6 tyun4 deoi2 hap6 zok3 ge3 zung6 jiu3 jiu3 sou3"
-        },
-        {
-          "english": "One ingredient of success is patience.",
-          "traditional": "成功嘅其中一個要素係耐性。",
-          "jyutping": "sing4 gung1 ge3 kei4 zung1 jat1 go3 jiu3 sou3 hai6 noi6 sing3"
-        }
-      ]
+      "english": "This report points out that trust is an important element of teamwork.",
+      "traditional": "呢份報告指出，信任係團隊合作嘅重要要素。",
+      "jyutping": "ni1 fan6 bou3 gou3 zi2 ceot1 seon3 jam6 hai6 tyun4 deoi2 hap6 zok3 ge3 zung6 jiu3 jiu3 sou3"
+    },
+    {
+      "english": "One ingredient of success is patience.",
+      "traditional": "成功嘅其中一個要素係耐性。",
+      "jyutping": "sing4 gung1 ge3 kei4 zung1 jat1 go3 jiu3 sou3 hai6 noi6 sing3"
     }
   ]
 }

@@ -1,37 +1,33 @@
 {
   "id": "mt0aq0cv",
   "partOfSpeech": "adj",
+  "meaning": "hopeless, in despair",
+  "english": [
+    {
+      "id": "ik60pixf",
+      "word": "desperate",
+      "meaning": "hopeless, in despair",
+      "note": "Use this when desperate means feeling hopeless or seeing no hope, rather than physically dangerous."
+    },
+    {
+      "id": "6wfjt96u",
+      "word": "hopeless",
+      "meaning": "without hope",
+      "note": "Choose this when hopeless means emotionally despairing rather than merely unlikely to succeed."
+    }
+  ],
   "traditional": "絕望",
   "jyutping": "zyut6 mong6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "hopeless, in despair",
-      "english": [
-        {
-          "id": "ik60pixf",
-          "word": "desperate",
-          "meaning": "hopeless, in despair",
-          "note": "Use this when desperate means feeling hopeless or seeing no hope, rather than physically dangerous."
-        },
-        {
-          "id": "6wfjt96u",
-          "word": "hopeless",
-          "meaning": "without hope",
-          "note": "Choose this when hopeless means emotionally despairing rather than merely unlikely to succeed."
-        }
-      ],
-      "examples": [
-        {
-          "english": "They felt desperate after losing so many times.",
-          "traditional": "佢輸咗咁多次，已經絕望喇。",
-          "jyutping": "keoi5 syu1 zo2 gam3 do1 ci3 ji5 ging1 zyut6 mong6 laa3"
-        },
-        {
-          "english": "I felt hopeless when I heard this news.",
-          "traditional": "聽到呢個消息，我真係絕望。",
-          "jyutping": "teng1 dou2 ni1 go3 siu1 sik1 ngo5 zan1 hai6 zyut6 mong6"
-        }
-      ]
+      "english": "They felt desperate after losing so many times.",
+      "traditional": "佢輸咗咁多次，已經絕望喇。",
+      "jyutping": "keoi5 syu1 zo2 gam3 do1 ci3 ji5 ging1 zyut6 mong6 laa3"
+    },
+    {
+      "english": "I felt hopeless when I heard this news.",
+      "traditional": "聽到呢個消息，我真係絕望。",
+      "jyutping": "teng1 dou2 ni1 go3 siu1 sik1 ngo5 zan1 hai6 zyut6 mong6"
     }
   ]
 }

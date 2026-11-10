@@ -1,28 +1,24 @@
 {
   "id": "llrownhq",
   "partOfSpeech": "verb",
+  "meaning": "say something",
+  "english": [
+    {
+      "id": "6hy2opw9",
+      "word": "shoot",
+      "meaning": "say something",
+      "register": "colloquial",
+      "note": "Use this conversational phrase in reply to “Shoot” when inviting someone to speak or ask a question."
+    }
+  ],
   "traditional": "講啦",
   "jyutping": "gong2 laa1",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "say something",
-      "english": [
-        {
-          "id": "6hy2opw9",
-          "word": "shoot",
-          "meaning": "say something",
-          "register": "colloquial",
-          "note": "Use this conversational phrase in reply to “Shoot” when inviting someone to speak or ask a question."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "What’s your question? Shoot.",
-          "traditional": "你有咩問題？講啦。",
-          "jyutping": "nei5 jau5 me1 man6 tai4 gong2 laa1"
-        }
-      ]
+      "english": "What’s your question? Shoot.",
+      "traditional": "你有咩問題？講啦。",
+      "jyutping": "nei5 jau5 me1 man6 tai4 gong2 laa1"
     }
   ]
 }

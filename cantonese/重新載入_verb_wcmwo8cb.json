@@ -1,26 +1,22 @@
 {
   "id": "wcmwo8cb",
   "partOfSpeech": "verb",
+  "meaning": "reload a webpage",
+  "english": [
+    {
+      "id": "xs6a67cy",
+      "word": "refresh",
+      "meaning": "reload a webpage",
+      "note": "Use this for reloading a webpage or document so that new changes appear."
+    }
+  ],
   "traditional": "重新載入",
   "jyutping": "cung4 san1 zoi3 jap6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "reload a webpage",
-      "english": [
-        {
-          "id": "xs6a67cy",
-          "word": "refresh",
-          "meaning": "reload a webpage",
-          "note": "Use this for reloading a webpage or document so that new changes appear."
-        }
-      ],
-      "examples": [
-        {
-          "english": "After editing the webpage, click refresh to see the latest version.",
-          "traditional": "個網頁改完內容，要撳重新載入先睇到最新版本。",
-          "jyutping": "go3 mong5 jip6 goi2 jyun4 noi6 jung4 jiu3 gam6 cung4 san1 zoi3 jap6 sin1 tai2 dou2 zeoi3 san1 baan2 bun2"
-        }
-      ]
+      "english": "After editing the webpage, click refresh to see the latest version.",
+      "traditional": "個網頁改完內容，要撳重新載入先睇到最新版本。",
+      "jyutping": "go3 mong5 jip6 goi2 jyun4 noi6 jung4 jiu3 gam6 cung4 san1 zoi3 jap6 sin1 tai2 dou2 zeoi3 san1 baan2 bun2"
     }
   ]
 }

@@ -1,48 +1,44 @@
 {
   "id": "pg1t0buo",
   "partOfSpeech": "verb",
+  "meaning": "to kill",
+  "english": [
+    {
+      "id": "r4chpxhp",
+      "word": "murder",
+      "meaning": "kill violently",
+      "note": "Use it for actually killing something or someone violently, and in an angry threat such as 殺死佢."
+    },
+    {
+      "id": "4d4m1cxe",
+      "word": "eliminate",
+      "meaning": "kill",
+      "note": "Use this when eliminate explicitly means killing a person or animal."
+    },
+    {
+      "id": "oa5wt8lf",
+      "word": "bury",
+      "meaning": "inter/kill dead",
+      "note": "Use 殺死 for the literal killing or murdering sense, rather than for physically putting something underground."
+    }
+  ],
   "traditional": "殺死",
   "jyutping": "saat3 sei2",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "to kill",
-      "english": [
-        {
-          "id": "r4chpxhp",
-          "word": "murder",
-          "meaning": "kill violently",
-          "note": "Use it for actually killing something or someone violently, and in an angry threat such as 殺死佢."
-        },
-        {
-          "id": "4d4m1cxe",
-          "word": "eliminate",
-          "meaning": "kill",
-          "note": "Use this when eliminate explicitly means killing a person or animal."
-        },
-        {
-          "id": "oa5wt8lf",
-          "word": "bury",
-          "meaning": "inter/kill dead",
-          "note": "Use 殺死 for the literal killing or murdering sense, rather than for physically putting something underground."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I’m so angry I want to murder him.",
-          "traditional": "我嬲到想殺死佢。",
-          "jyutping": "ngo5 nau1 dou3 soeng2 saat3 sei2 keoi5"
-        },
-        {
-          "english": "The police eventually had to eliminate the rabid dog.",
-          "traditional": "警方最後唯有殺死隻發狂嘅狗。",
-          "jyutping": "ging2 fong1 zeoi3 hau6 wai4 jau5 saat3 sei2 zek3 faat3 kwong4 ge3 gau2"
-        },
-        {
-          "english": "They bury the victim only after killing him.",
-          "traditional": "佢哋殺死個受害者之後，先至埋葬佢。",
-          "jyutping": "keoi5 dei6 saat3 sei2 go3 sau6 hoi6 ze2 zi1 hau6 sin1 zi3 maai4 zong3 keoi5"
-        }
-      ]
+      "english": "I’m so angry I want to murder him.",
+      "traditional": "我嬲到想殺死佢。",
+      "jyutping": "ngo5 nau1 dou3 soeng2 saat3 sei2 keoi5"
+    },
+    {
+      "english": "The police eventually had to eliminate the rabid dog.",
+      "traditional": "警方最後唯有殺死隻發狂嘅狗。",
+      "jyutping": "ging2 fong1 zeoi3 hau6 wai4 jau5 saat3 sei2 zek3 faat3 kwong4 ge3 gau2"
+    },
+    {
+      "english": "They bury the victim only after killing him.",
+      "traditional": "佢哋殺死個受害者之後，先至埋葬佢。",
+      "jyutping": "keoi5 dei6 saat3 sei2 go3 sau6 hoi6 ze2 zi1 hau6 sin1 zi3 maai4 zong3 keoi5"
     }
   ]
 }

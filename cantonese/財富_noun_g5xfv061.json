@@ -1,61 +1,57 @@
 {
   "id": "g5xfv061",
   "partOfSpeech": "noun",
+  "meaning": "wealth",
+  "english": [
+    {
+      "id": "m9e2qmv4",
+      "word": "wealth",
+      "meaning": "riches, material assets",
+      "register": "formal",
+      "note": "Use this as the all-purpose term for wealth in general, especially when discussing society, nations, or abstract riches."
+    },
+    {
+      "id": "u7nxj6j7",
+      "word": "opulence",
+      "meaning": "wealth",
+      "note": "This is the all-purpose noun for wealth or riches."
+    },
+    {
+      "id": "rdvky9dz",
+      "word": "abundance",
+      "meaning": "wealth, affluence",
+      "note": "Use this noun when abundance means wealth or accumulated assets rather than a quantity of things."
+    },
+    {
+      "id": "k0sxmerf",
+      "word": "money",
+      "meaning": "wealth",
+      "register": "formal",
+      "note": "Use this formal term for wealth as an abstract possession or accumulated assets."
+    }
+  ],
   "traditional": "財富",
   "jyutping": "coi4 fu3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "wealth",
-      "english": [
-        {
-          "id": "m9e2qmv4",
-          "word": "wealth",
-          "meaning": "riches, material assets",
-          "register": "formal",
-          "note": "Use this as the all-purpose term for wealth in general, especially when discussing society, nations, or abstract riches."
-        },
-        {
-          "id": "u7nxj6j7",
-          "word": "opulence",
-          "meaning": "wealth",
-          "note": "This is the all-purpose noun for wealth or riches."
-        },
-        {
-          "id": "rdvky9dz",
-          "word": "abundance",
-          "meaning": "wealth, affluence",
-          "note": "Use this noun when abundance means wealth or accumulated assets rather than a quantity of things."
-        },
-        {
-          "id": "k0sxmerf",
-          "word": "money",
-          "meaning": "wealth",
-          "register": "formal",
-          "note": "Use this formal term for wealth as an abstract possession or accumulated assets."
-        }
-      ],
-      "examples": [
-        {
-          "english": "A society's wealth shouldn't be concentrated in the hands of just a few people.",
-          "traditional": "一個社會嘅財富，唔應該只係集中喺少數人手上。",
-          "jyutping": "jat1 go3 se5 wui6 ge3 coi4 fu3 m4 jing1 goi1 zi2 hai6 zaap6 zung1 hai2 siu2 sou3 jan4 sau2 soeng6"
-        },
-        {
-          "english": "After years of hard work, they finally amassed considerable opulence.",
-          "traditional": "佢哋捱咗好多年，終於累積咗可觀嘅財富。",
-          "jyutping": "keoi5 dei6 ngaai4 zo2 hou2 do1 nin4 zung1 jyu1 leoi6 zik1 zo2 ho2 gun1 ge3 coi4 fu3"
-        },
-        {
-          "english": "He accumulated an abundance of wealth through his own efforts.",
-          "traditional": "佢靠自己累積咗唔少財富。",
-          "jyutping": "keoi5 kaau3 zi6 gei2 leoi5 zik1 zo2 m4 siu2 coi4 fu3"
-        },
-        {
-          "english": "Money isn't everything in life.",
-          "traditional": "財富唔係人生嘅全部。",
-          "jyutping": "coi4 fu3 m4 hai6 jan4 sang1 ge3 cyun4 bou6"
-        }
-      ]
+      "english": "A society's wealth shouldn't be concentrated in the hands of just a few people.",
+      "traditional": "一個社會嘅財富，唔應該只係集中喺少數人手上。",
+      "jyutping": "jat1 go3 se5 wui6 ge3 coi4 fu3 m4 jing1 goi1 zi2 hai6 zaap6 zung1 hai2 siu2 sou3 jan4 sau2 soeng6"
+    },
+    {
+      "english": "After years of hard work, they finally amassed considerable opulence.",
+      "traditional": "佢哋捱咗好多年，終於累積咗可觀嘅財富。",
+      "jyutping": "keoi5 dei6 ngaai4 zo2 hou2 do1 nin4 zung1 jyu1 leoi6 zik1 zo2 ho2 gun1 ge3 coi4 fu3"
+    },
+    {
+      "english": "He accumulated an abundance of wealth through his own efforts.",
+      "traditional": "佢靠自己累積咗唔少財富。",
+      "jyutping": "keoi5 kaau3 zi6 gei2 leoi5 zik1 zo2 m4 siu2 coi4 fu3"
+    },
+    {
+      "english": "Money isn't everything in life.",
+      "traditional": "財富唔係人生嘅全部。",
+      "jyutping": "coi4 fu3 m4 hai6 jan4 sang1 ge3 cyun4 bou6"
     }
   ]
 }

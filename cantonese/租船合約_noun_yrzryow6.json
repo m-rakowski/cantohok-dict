@@ -1,28 +1,24 @@
 {
   "id": "yrzryow6",
   "partOfSpeech": "noun",
+  "meaning": "vessel charter",
+  "english": [
+    {
+      "id": "nr5y01cq",
+      "word": "charter",
+      "meaning": "vessel charter",
+      "register": "formal",
+      "note": "Use this specifically for a commercial contract to hire a vessel or space on one."
+    }
+  ],
   "traditional": "租船合約",
   "jyutping": "zou1 syun4 hap6 joek3",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "vessel charter",
-      "english": [
-        {
-          "id": "nr5y01cq",
-          "word": "charter",
-          "meaning": "vessel charter",
-          "register": "formal",
-          "note": "Use this specifically for a commercial contract to hire a vessel or space on one."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The shipping company formally handed over the vessel only after signing the charter.",
-          "traditional": "船公司簽好租船合約之後，先正式交船。",
-          "jyutping": "syun4 gung1 si1 cim1 hou2 zou1 syun4 hap6 joek3 zi1 hau6 sin1 zing3 sik1 gaau1 syun4"
-        }
-      ]
+      "english": "The shipping company formally handed over the vessel only after signing the charter.",
+      "traditional": "船公司簽好租船合約之後，先正式交船。",
+      "jyutping": "syun4 gung1 si1 cim1 hou2 zou1 syun4 hap6 joek3 zi1 hau6 sin1 zing3 sik1 gaau1 syun4"
     }
   ]
 }

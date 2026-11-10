@@ -1,28 +1,24 @@
 {
   "id": "90daa1b3",
   "partOfSpeech": "noun",
+  "meaning": "suicide victim",
+  "english": [
+    {
+      "id": "skqz8eza",
+      "word": "suicide",
+      "meaning": "suicide victim",
+      "register": "formal",
+      "note": "Use this written or news-style noun for a person who has died by suicide."
+    }
+  ],
   "traditional": "自殺者",
   "jyutping": "zi6 saat3 ze2",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "suicide victim",
-      "english": [
-        {
-          "id": "skqz8eza",
-          "word": "suicide",
-          "meaning": "suicide victim",
-          "register": "formal",
-          "note": "Use this written or news-style noun for a person who has died by suicide."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "Police confirmed that the suicide victim was a thirty-year-old man.",
-          "traditional": "警方證實，嗰名自殺者係一名三十歲男子。",
-          "jyutping": "ging2 fong1 zing3 sat6 go2 ming4 zi6 saat3 ze2 hai6 jat1 ming4 saam1 sap6 seoi3 naam4 zi2"
-        }
-      ]
+      "english": "Police confirmed that the suicide victim was a thirty-year-old man.",
+      "traditional": "警方證實，嗰名自殺者係一名三十歲男子。",
+      "jyutping": "ging2 fong1 zing3 sat6 go2 ming4 zi6 saat3 ze2 hai6 jat1 ming4 saam1 sap6 seoi3 naam4 zi2"
     }
   ]
 }

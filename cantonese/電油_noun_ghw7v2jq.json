@@ -1,28 +1,24 @@
 {
   "id": "ghw7v2jq",
   "partOfSpeech": "noun",
+  "meaning": "gasoline / motor fuel",
+  "english": [
+    {
+      "id": "cp2y2lh5",
+      "word": "petrol",
+      "meaning": "gasoline / motor fuel",
+      "register": "colloquial",
+      "note": "This is the all-purpose spoken Hong Kong term for petrol."
+    }
+  ],
   "traditional": "電油",
   "jyutping": "din6 jau4",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "gasoline / motor fuel",
-      "english": [
-        {
-          "id": "cp2y2lh5",
-          "word": "petrol",
-          "meaning": "gasoline / motor fuel",
-          "register": "colloquial",
-          "note": "This is the all-purpose spoken Hong Kong term for petrol."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "The car is out of petrol, so we need to refuel.",
-          "traditional": "架車冇電油喇，要入油。",
-          "jyutping": "gaa3 ce1 mou5 din6 jau4 laa3 jiu3 jap6 jau4"
-        }
-      ]
+      "english": "The car is out of petrol, so we need to refuel.",
+      "traditional": "架車冇電油喇，要入油。",
+      "jyutping": "gaa3 ce1 mou5 din6 jau4 laa3 jiu3 jap6 jau4"
     }
   ]
 }

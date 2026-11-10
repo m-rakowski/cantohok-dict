@@ -1,38 +1,34 @@
 {
   "id": "7muks1y2",
   "partOfSpeech": "adj",
+  "meaning": "lazy, sluggish, lounging around",
+  "english": [
+    {
+      "id": "rydwtf5y",
+      "word": "inert",
+      "meaning": "sluggish; lethargic",
+      "register": "colloquial",
+      "note": "Use this for a person or animal that is lethargic and moving without energy, rather than completely unable to move."
+    },
+    {
+      "id": "kkp25i69",
+      "word": "lazy",
+      "meaning": "relaxed, leisurely",
+      "note": "Use this for a pleasantly idle, languid, or leisurely mood such as on a lazy Sunday."
+    }
+  ],
   "traditional": "懶洋洋",
   "jyutping": "laan5 joeng4 joeng4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "lazy, sluggish, lounging around",
-      "english": [
-        {
-          "id": "rydwtf5y",
-          "word": "inert",
-          "meaning": "sluggish; lethargic",
-          "register": "colloquial",
-          "note": "Use this for a person or animal that is lethargic and moving without energy, rather than completely unable to move."
-        },
-        {
-          "id": "kkp25i69",
-          "word": "lazy",
-          "meaning": "relaxed, leisurely",
-          "note": "Use this for a pleasantly idle, languid, or leisurely mood such as on a lazy Sunday."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This morning, the cat was inert, sprawled on the sofa.",
-          "traditional": "今朝隻貓懶洋洋咁攤喺梳化度。",
-          "jyutping": "gam1 ziu1 zek3 maau1 laan5 joeng4 joeng4 gam3 taan1 hai2 so1 faa3 dou6"
-        },
-        {
-          "english": "I spent a lazy Sunday morning at home sipping coffee.",
-          "traditional": "星期日朝早，我喺屋企懶洋洋咁歎咖啡。",
-          "jyutping": "sing1 kei4 jat6 ziu1 zou2 ngo5 hai2 uk1 kei2 laan5 joeng4 joeng4 gam2 taan3 gaa3 fe1"
-        }
-      ]
+      "english": "This morning, the cat was inert, sprawled on the sofa.",
+      "traditional": "今朝隻貓懶洋洋咁攤喺梳化度。",
+      "jyutping": "gam1 ziu1 zek3 maau1 laan5 joeng4 joeng4 gam3 taan1 hai2 so1 faa3 dou6"
+    },
+    {
+      "english": "I spent a lazy Sunday morning at home sipping coffee.",
+      "traditional": "星期日朝早，我喺屋企懶洋洋咁歎咖啡。",
+      "jyutping": "sing1 kei4 jat6 ziu1 zou2 ngo5 hai2 uk1 kei2 laan5 joeng4 joeng4 gam2 taan3 gaa3 fe1"
     }
   ]
 }

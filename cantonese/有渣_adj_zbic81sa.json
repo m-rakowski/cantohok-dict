@@ -1,28 +1,24 @@
 {
   "id": "zbic81sa",
   "partOfSpeech": "adj",
+  "meaning": "cloudy juice",
+  "english": [
+    {
+      "id": "deuq3fa9",
+      "word": "cloudy",
+      "meaning": "cloudy juice",
+      "register": "colloquial",
+      "note": "Use this specifically for juice that contains pulp or sediment."
+    }
+  ],
   "traditional": "有渣",
   "jyutping": "jau5 zaa1",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "cloudy juice",
-      "english": [
-        {
-          "id": "deuq3fa9",
-          "word": "cloudy",
-          "meaning": "cloudy juice",
-          "register": "colloquial",
-          "note": "Use this specifically for juice that contains pulp or sediment."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "This orange juice is cloudy with pulp—do you want some?",
-          "traditional": "呢杯橙汁有渣，你飲唔飲？",
-          "jyutping": "ni1 bui1 caang2 zap1 jau5 zaa1 nei5 jam2 m4 jam2"
-        }
-      ]
+      "english": "This orange juice is cloudy with pulp—do you want some?",
+      "traditional": "呢杯橙汁有渣，你飲唔飲？",
+      "jyutping": "ni1 bui1 caang2 zap1 jau5 zaa1 nei5 jam2 m4 jam2"
     }
   ]
 }

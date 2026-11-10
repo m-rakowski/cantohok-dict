@@ -1,28 +1,24 @@
 {
   "id": "r25leeg1",
   "partOfSpeech": "noun",
+  "meaning": "moon phase",
+  "english": [
+    {
+      "id": "8icqg12c",
+      "word": "phase",
+      "meaning": "moon phase",
+      "register": "formal",
+      "note": "Use 月相 specifically for the changing illuminated appearance of the moon."
+    }
+  ],
   "traditional": "月相",
   "jyutping": "jyut6 soeng3",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "moon phase",
-      "english": [
-        {
-          "id": "8icqg12c",
-          "word": "phase",
-          "meaning": "moon phase",
-          "register": "formal",
-          "note": "Use 月相 specifically for the changing illuminated appearance of the moon."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The lunar phase changes every few days.",
-          "traditional": "月相每隔幾日就會變化。",
-          "jyutping": "jyut6 soeng3 mui5 gaak3 gei2 jat6 zau6 wui5 bin3 faa3"
-        }
-      ]
+      "english": "The lunar phase changes every few days.",
+      "traditional": "月相每隔幾日就會變化。",
+      "jyutping": "jyut6 soeng3 mui5 gaak3 gei2 jat6 zau6 wui5 bin3 faa3"
     }
   ]
 }

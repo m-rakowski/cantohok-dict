@@ -10,25 +10,6 @@
       "required": ["english", "traditional", "jyutping"],
       "type": "object"
     },
-    "box": {
-      "additionalProperties": false,
-      "properties": {
-        "meaning": { "$ref": "#/$defs/nonEmptyString" },
-        "english": {
-          "items": { "$ref": "#/$defs/englishEntry" },
-          "minItems": 1,
-          "type": "array"
-        },
-        "register": { "$ref": "#/$defs/nonEmptyString" },
-        "note": { "$ref": "#/$defs/nonEmptyString" },
-        "examples": {
-          "items": { "$ref": "#/$defs/example" },
-          "type": "array"
-        }
-      },
-      "required": ["english", "meaning", "examples"],
-      "type": "object"
-    },
     "englishEntry": {
       "additionalProperties": false,
       "properties": {
@@ -54,14 +35,21 @@
     "partOfSpeech": {
       "enum": ["noun", "verb", "adj", "adv", "prep", "pron", "det", "conj", "num", "name", "intj", "phrase", "postp"]
     },
+    "meaning": { "$ref": "#/$defs/nonEmptyString" },
+    "english": {
+      "items": { "$ref": "#/$defs/englishEntry" },
+      "minItems": 1,
+      "type": "array"
+    },
     "traditional": { "$ref": "#/$defs/nonEmptyString" },
     "jyutping": { "$ref": "#/$defs/nonEmptyString" },
-    "boxes": {
-      "items": { "$ref": "#/$defs/box" },
-      "minItems": 1,
+    "register": { "$ref": "#/$defs/nonEmptyString" },
+    "note": { "$ref": "#/$defs/nonEmptyString" },
+    "examples": {
+      "items": { "$ref": "#/$defs/example" },
       "type": "array"
     }
   },
-  "required": ["id", "traditional", "partOfSpeech", "jyutping", "boxes"],
+  "required": ["id", "traditional", "partOfSpeech", "jyutping", "meaning", "english", "examples"],
   "type": "object"
 }

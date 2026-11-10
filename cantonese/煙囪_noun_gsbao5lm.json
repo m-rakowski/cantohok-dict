@@ -1,37 +1,33 @@
 {
   "id": "gsbao5lm",
   "partOfSpeech": "noun",
+  "meaning": "chimney",
+  "english": [
+    {
+      "id": "v23uc6w5",
+      "word": "chimney",
+      "meaning": "fireplace flue",
+      "note": "This is the all-purpose word for a chimney or flue on a building, factory, or fireplace."
+    },
+    {
+      "id": "krbohszm",
+      "word": "smokestack",
+      "meaning": "chimney / exhaust stack",
+      "note": "This is the all-purpose Cantonese noun for a chimney or smokestack on a building, factory, ship, or locomotive."
+    }
+  ],
   "traditional": "煙囪",
   "jyutping": "jin1 cung1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "chimney",
-      "english": [
-        {
-          "id": "v23uc6w5",
-          "word": "chimney",
-          "meaning": "fireplace flue",
-          "note": "This is the all-purpose word for a chimney or flue on a building, factory, or fireplace."
-        },
-        {
-          "id": "krbohszm",
-          "word": "smokestack",
-          "meaning": "chimney / exhaust stack",
-          "note": "This is the all-purpose Cantonese noun for a chimney or smokestack on a building, factory, ship, or locomotive."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The factory's chimney is always belching black smoke.",
-          "traditional": "工廠嗰條煙囪成日排黑煙。",
-          "jyutping": "gung1 cong2 go2 tiu4 jin1 cung1 sing4 jat6 paai4 hak1 jin1"
-        },
-        {
-          "english": "The factory's smokestack gives off smoke every day.",
-          "traditional": "間工廠嘅煙囪日日冒煙。",
-          "jyutping": "gaan1 gung1 cong2 ge3 jin1 cung1 jat6 jat6 mou6 jin1"
-        }
-      ]
+      "english": "The factory's chimney is always belching black smoke.",
+      "traditional": "工廠嗰條煙囪成日排黑煙。",
+      "jyutping": "gung1 cong2 go2 tiu4 jin1 cung1 sing4 jat6 paai4 hak1 jin1"
+    },
+    {
+      "english": "The factory's smokestack gives off smoke every day.",
+      "traditional": "間工廠嘅煙囪日日冒煙。",
+      "jyutping": "gaan1 gung1 cong2 ge3 jin1 cung1 jat6 jat6 mou6 jin1"
     }
   ]
 }

@@ -1,28 +1,24 @@
 {
   "id": "nxof0nfs",
   "partOfSpeech": "verb",
+  "meaning": "guess right, solve by conjecture",
+  "english": [
+    {
+      "id": "b7tl22ua",
+      "word": "guess",
+      "meaning": "guess right, solve by conjecture",
+      "register": "colloquial",
+      "note": "Use this when the conjecture turns out to be correct, such as guessing an answer or solving a riddle."
+    }
+  ],
   "traditional": "估中",
   "jyutping": "gu2 zung3",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "guess right, solve by conjecture",
-      "english": [
-        {
-          "id": "b7tl22ua",
-          "word": "guess",
-          "meaning": "guess right, solve by conjecture",
-          "register": "colloquial",
-          "note": "Use this when the conjecture turns out to be correct, such as guessing an answer or solving a riddle."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "You actually managed to guess the riddle correctly.",
-          "traditional": "你估中咗個謎語喎。",
-          "jyutping": "nei5 gu2 zung3 zo2 go3 mai4 jyu5 wo3"
-        }
-      ]
+      "english": "You actually managed to guess the riddle correctly.",
+      "traditional": "你估中咗個謎語喎。",
+      "jyutping": "nei5 gu2 zung3 zo2 go3 mai4 jyu5 wo3"
     }
   ]
 }

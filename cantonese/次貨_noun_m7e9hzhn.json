@@ -1,40 +1,36 @@
 {
   "id": "m7e9hzhn",
   "partOfSpeech": "noun",
+  "meaning": "inferior or defective goods",
+  "english": [
+    {
+      "id": "jtmz04sb",
+      "word": "lemon",
+      "meaning": "faulty item",
+      "register": "colloquial",
+      "note": "Use 次貨 for a defective or inferior item, especially a vehicle, rather than for the fruit or colour."
+    },
+    {
+      "id": "i5xemcrb",
+      "word": "excuse",
+      "meaning": "poor example",
+      "register": "colloquial",
+      "note": "Use this for a tangible item that is noticeably inferior or a poor specimen of its type."
+    }
+  ],
   "traditional": "次貨",
   "jyutping": "ci3 fo3",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "inferior or defective goods",
-      "english": [
-        {
-          "id": "jtmz04sb",
-          "word": "lemon",
-          "meaning": "faulty item",
-          "register": "colloquial",
-          "note": "Use 次貨 for a defective or inferior item, especially a vehicle, rather than for the fruit or colour."
-        },
-        {
-          "id": "i5xemcrb",
-          "word": "excuse",
-          "meaning": "poor example",
-          "register": "colloquial",
-          "note": "Use this for a tangible item that is noticeably inferior or a poor specimen of its type."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "This car is really a lemon; it broke down after just a few days.",
-          "traditional": "呢部車真係次貨，揸咗幾日就壞。",
-          "jyutping": "ni1 bou6 ce1 zan1 hai6 ci3 fo3 zaa1 zo2 gei2 jat6 zau6 waai6"
-        },
-        {
-          "english": "You can tell at a glance that this shirt is a poor excuse for clothing.",
-          "traditional": "呢件衫一睇就知係次貨。",
-          "jyutping": "ni1 gin6 saam1 jat1 tai2 zau6 zi1 hai6 ci3 fo3"
-        }
-      ]
+      "english": "This car is really a lemon; it broke down after just a few days.",
+      "traditional": "呢部車真係次貨，揸咗幾日就壞。",
+      "jyutping": "ni1 bou6 ce1 zan1 hai6 ci3 fo3 zaa1 zo2 gei2 jat6 zau6 waai6"
+    },
+    {
+      "english": "You can tell at a glance that this shirt is a poor excuse for clothing.",
+      "traditional": "呢件衫一睇就知係次貨。",
+      "jyutping": "ni1 gin6 saam1 jat1 tai2 zau6 zi1 hai6 ci3 fo3"
     }
   ]
 }

@@ -1,26 +1,22 @@
 {
   "id": "cpf72ryu",
   "partOfSpeech": "noun",
+  "meaning": "traditional oral story",
+  "english": [
+    {
+      "id": "4vj4l9cm",
+      "word": "folktale",
+      "meaning": "traditional oral story",
+      "note": "Use this when the folktale is specifically a traditional legend associated with a people or place."
+    }
+  ],
   "traditional": "民間傳說",
   "jyutping": "man4 gaan1 cyun4 syut3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "traditional oral story",
-      "english": [
-        {
-          "id": "4vj4l9cm",
-          "word": "folktale",
-          "meaning": "traditional oral story",
-          "note": "Use this when the folktale is specifically a traditional legend associated with a people or place."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This folktale tells how the old banyan tree at the village entrance came to be haunted.",
-          "traditional": "民間傳說",
-          "jyutping": "man4 gaan1 cyun4 syut3"
-        }
-      ]
+      "english": "This folktale tells how the old banyan tree at the village entrance came to be haunted.",
+      "traditional": "民間傳說",
+      "jyutping": "man4 gaan1 cyun4 syut3"
     }
   ]
 }

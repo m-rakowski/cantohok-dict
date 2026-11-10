@@ -1,37 +1,33 @@
 {
   "id": "olcq4nxn",
   "partOfSpeech": "noun",
+  "meaning": "public square, plaza",
+  "english": [
+    {
+      "id": "0i3t3aj5",
+      "word": "square",
+      "meaning": "town square",
+      "note": "Use this for an open public space or plaza in a town, rather than for a geometric square."
+    },
+    {
+      "id": "792d9ifo",
+      "word": "place",
+      "meaning": "public square / open space",
+      "note": "Use 廣場 specifically for an open public square or similar urban space."
+    }
+  ],
   "traditional": "廣場",
   "jyutping": "gwong2 coeng4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "public square, plaza",
-      "english": [
-        {
-          "id": "0i3t3aj5",
-          "word": "square",
-          "meaning": "town square",
-          "note": "Use this for an open public space or plaza in a town, rather than for a geometric square."
-        },
-        {
-          "id": "792d9ifo",
-          "word": "place",
-          "meaning": "public square / open space",
-          "note": "Use 廣場 specifically for an open public square or similar urban space."
-        }
-      ],
-      "examples": [
-        {
-          "english": "We’ll wait for you in the square.",
-          "traditional": "我哋喺廣場等你。",
-          "jyutping": "ngo5 dei6 hai2 gwong2 coeng4 dang2 nei5"
-        },
-        {
-          "english": "The square is a great place to meet friends.",
-          "traditional": "廣場係約朋友嘅好地方。",
-          "jyutping": "gwong2 coeng4 hai6 joek3 pang4 jau5 ge3 hou2 dei6 fong1"
-        }
-      ]
+      "english": "We’ll wait for you in the square.",
+      "traditional": "我哋喺廣場等你。",
+      "jyutping": "ngo5 dei6 hai2 gwong2 coeng4 dang2 nei5"
+    },
+    {
+      "english": "The square is a great place to meet friends.",
+      "traditional": "廣場係約朋友嘅好地方。",
+      "jyutping": "gwong2 coeng4 hai6 joek3 pang4 jau5 ge3 hou2 dei6 fong1"
     }
   ]
 }

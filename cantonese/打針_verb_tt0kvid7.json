@@ -1,28 +1,24 @@
 {
   "id": "tt0kvid7",
   "partOfSpeech": "verb",
+  "meaning": "give an injection",
+  "english": [
+    {
+      "id": "by29n3fe",
+      "word": "inject",
+      "meaning": "give an injection",
+      "register": "colloquial",
+      "note": "This is the all-purpose colloquial choice for giving or receiving an injection, including injecting drugs."
+    }
+  ],
   "traditional": "打針",
   "jyutping": "daa2 zam1",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "give an injection",
-      "english": [
-        {
-          "id": "by29n3fe",
-          "word": "inject",
-          "meaning": "give an injection",
-          "register": "colloquial",
-          "note": "This is the all-purpose colloquial choice for giving or receiving an injection, including injecting drugs."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "The nurse is going to inject me.",
-          "traditional": "護士幫我打針。",
-          "jyutping": "wu6 si6 bong1 ngo5 daa2 zam1"
-        }
-      ]
+      "english": "The nurse is going to inject me.",
+      "traditional": "護士幫我打針。",
+      "jyutping": "wu6 si6 bong1 ngo5 daa2 zam1"
     }
   ]
 }

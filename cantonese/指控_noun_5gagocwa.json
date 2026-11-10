@@ -1,37 +1,33 @@
 {
   "id": "5gagocwa",
   "partOfSpeech": "noun",
+  "meaning": "accusation",
+  "english": [
+    {
+      "id": "twpeaozf",
+      "word": "accusation",
+      "meaning": "act of accusing",
+      "note": "Use this as the all-purpose noun for an accusation or allegation, including the act of making one."
+    },
+    {
+      "id": "qjqi1fwb",
+      "word": "allegation",
+      "meaning": "accusation; claim",
+      "note": "This is the all-purpose choice when the allegation is an accusation made against someone."
+    }
+  ],
   "traditional": "指控",
   "jyutping": "zi2 hung3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "accusation",
-      "english": [
-        {
-          "id": "twpeaozf",
-          "word": "accusation",
-          "meaning": "act of accusing",
-          "note": "Use this as the all-purpose noun for an accusation or allegation, including the act of making one."
-        },
-        {
-          "id": "qjqi1fwb",
-          "word": "allegation",
-          "meaning": "accusation; claim",
-          "note": "This is the all-purpose choice when the allegation is an accusation made against someone."
-        }
-      ],
-      "examples": [
-        {
-          "english": "They made a serious accusation against the company.",
-          "traditional": "佢對公司作出嚴重指控。",
-          "jyutping": "keoi5 deoi3 gung1 si1 zok3 ceot1 jim4 zung6 zi2 hung3"
-        },
-        {
-          "english": "This allegation has no evidence at all.",
-          "traditional": "呢個指控完全冇證據。",
-          "jyutping": "ni1 go3 zi2 hung3 jyun4 cyun4 mou5 zing3 geoi3"
-        }
-      ]
+      "english": "They made a serious accusation against the company.",
+      "traditional": "佢對公司作出嚴重指控。",
+      "jyutping": "keoi5 deoi3 gung1 si1 zok3 ceot1 jim4 zung6 zi2 hung3"
+    },
+    {
+      "english": "This allegation has no evidence at all.",
+      "traditional": "呢個指控完全冇證據。",
+      "jyutping": "ni1 go3 zi2 hung3 jyun4 cyun4 mou5 zing3 geoi3"
     }
   ]
 }

@@ -1,37 +1,33 @@
 {
   "id": "mrmkvtkq",
   "partOfSpeech": "noun",
+  "meaning": "clown",
+  "english": [
+    {
+      "id": "16c0ptxb",
+      "word": "clown",
+      "meaning": "circus performer",
+      "note": "This is the all-purpose choice for the literal circus-performer sense."
+    },
+    {
+      "id": "o1dbitrg",
+      "word": "buffoon",
+      "meaning": "silly performer; clown",
+      "note": "This is the all-purpose choice for a clownish performer or someone behaving ridiculously."
+    }
+  ],
   "traditional": "小丑",
   "jyutping": "siu2 cau2",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "clown",
-      "english": [
-        {
-          "id": "16c0ptxb",
-          "word": "clown",
-          "meaning": "circus performer",
-          "note": "This is the all-purpose choice for the literal circus-performer sense."
-        },
-        {
-          "id": "o1dbitrg",
-          "word": "buffoon",
-          "meaning": "silly performer; clown",
-          "note": "This is the all-purpose choice for a clownish performer or someone behaving ridiculously."
-        }
-      ],
-      "examples": [
-        {
-          "english": "There's a clown performing at the circus tonight.",
-          "traditional": "今晚個馬戲團有個小丑表演。",
-          "jyutping": "gam1 maan5 go3 maa5 hei3 tyun4 jau5 go3 siu2 cau2 biu2 jin2"
-        },
-        {
-          "english": "He acted like a buffoon on stage and had the whole audience laughing.",
-          "traditional": "佢喺台上扮小丑，搞到全場笑晒。",
-          "jyutping": "keoi5 hai2 toi4 soeng6 baan6 siu2 cau2 gaau2 dou3 cyun4 coeng4 siu3 saai3"
-        }
-      ]
+      "english": "There's a clown performing at the circus tonight.",
+      "traditional": "今晚個馬戲團有個小丑表演。",
+      "jyutping": "gam1 maan5 go3 maa5 hei3 tyun4 jau5 go3 siu2 cau2 biu2 jin2"
+    },
+    {
+      "english": "He acted like a buffoon on stage and had the whole audience laughing.",
+      "traditional": "佢喺台上扮小丑，搞到全場笑晒。",
+      "jyutping": "keoi5 hai2 toi4 soeng6 baan6 siu2 cau2 gaau2 dou3 cyun4 coeng4 siu3 saai3"
     }
   ]
 }

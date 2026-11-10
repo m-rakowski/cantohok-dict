@@ -1,48 +1,44 @@
 {
   "id": "fheu4hgb",
   "partOfSpeech": "noun",
+  "meaning": "strait",
+  "english": [
+    {
+      "id": "wsomkgkg",
+      "word": "strait",
+      "meaning": "narrow sea channel",
+      "note": "This is the all-purpose choice for a narrow sea channel between larger bodies of water."
+    },
+    {
+      "id": "8tgl7qge",
+      "word": "channel",
+      "meaning": "strait",
+      "note": "Use 海峽 specifically for a narrow stretch of sea between two land masses."
+    },
+    {
+      "id": "8x70q6zz",
+      "word": "passage",
+      "meaning": "strait; narrow waterway",
+      "note": "Use this for a geographical strait between two areas of land."
+    }
+  ],
   "traditional": "海峽",
   "jyutping": "hoi2 haap6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "strait",
-      "english": [
-        {
-          "id": "wsomkgkg",
-          "word": "strait",
-          "meaning": "narrow sea channel",
-          "note": "This is the all-purpose choice for a narrow sea channel between larger bodies of water."
-        },
-        {
-          "id": "8tgl7qge",
-          "word": "channel",
-          "meaning": "strait",
-          "note": "Use 海峽 specifically for a narrow stretch of sea between two land masses."
-        },
-        {
-          "id": "8x70q6zz",
-          "word": "passage",
-          "meaning": "strait; narrow waterway",
-          "note": "Use this for a geographical strait between two areas of land."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This strait connects two large seas, and the current is very strong.",
-          "traditional": "呢條海峽連住兩個大海，潮水仲好急。",
-          "jyutping": "nei1 tiu4 hoi2 haap6 lin4 zyu6 loeng5 go3 daai6 hoi2 ciu4 seoi2 zung6 hou2 gap1"
-        },
-        {
-          "english": "The narrowest part of this channel is only a few kilometres wide.",
-          "traditional": "呢個海峽最窄嗰度得幾公里闊。",
-          "jyutping": "ni1 go3 hoi2 haap6 zeoi3 zaak3 go2 dou6 dak1 gei2 gung1 lei5 fut3"
-        },
-        {
-          "english": "The waves are really rough in this passage between the islands.",
-          "traditional": "呢條海峽風浪好大。",
-          "jyutping": "ni1 tiu4 hoi2 haap6 fung1 long6 hou2 daai6"
-        }
-      ]
+      "english": "This strait connects two large seas, and the current is very strong.",
+      "traditional": "呢條海峽連住兩個大海，潮水仲好急。",
+      "jyutping": "nei1 tiu4 hoi2 haap6 lin4 zyu6 loeng5 go3 daai6 hoi2 ciu4 seoi2 zung6 hou2 gap1"
+    },
+    {
+      "english": "The narrowest part of this channel is only a few kilometres wide.",
+      "traditional": "呢個海峽最窄嗰度得幾公里闊。",
+      "jyutping": "ni1 go3 hoi2 haap6 zeoi3 zaak3 go2 dou6 dak1 gei2 gung1 lei5 fut3"
+    },
+    {
+      "english": "The waves are really rough in this passage between the islands.",
+      "traditional": "呢條海峽風浪好大。",
+      "jyutping": "ni1 tiu4 hoi2 haap6 fung1 long6 hou2 daai6"
     }
   ]
 }

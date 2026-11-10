@@ -1,28 +1,24 @@
 {
   "id": "sbbqm5um",
   "partOfSpeech": "noun",
+  "meaning": "authority, control",
+  "english": [
+    {
+      "id": "obtfsche",
+      "word": "command",
+      "meaning": "authority, control",
+      "register": "formal",
+      "note": "Use this for formal or especially military authority to command people or units."
+    }
+  ],
   "traditional": "指揮權",
   "jyutping": "zi2 fai1 kyun4",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "authority, control",
-      "english": [
-        {
-          "id": "obtfsche",
-          "word": "command",
-          "meaning": "authority, control",
-          "register": "formal",
-          "note": "Use this for formal or especially military authority to command people or units."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The general handed command to the adjutant.",
-          "traditional": "將軍將指揮權交畀副官。",
-          "jyutping": "zoeng1 gwan1 zoeng1 zi2 fai1 kyun4 gaau1 bei2 fu3 gun1"
-        }
-      ]
+      "english": "The general handed command to the adjutant.",
+      "traditional": "將軍將指揮權交畀副官。",
+      "jyutping": "zoeng1 gwan1 zoeng1 zi2 fai1 kyun4 gaau1 bei2 fu3 gun1"
     }
   ]
 }

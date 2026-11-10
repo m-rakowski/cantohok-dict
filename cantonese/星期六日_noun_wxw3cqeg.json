@@ -1,28 +1,24 @@
 {
   "id": "wxw3cqeg",
   "partOfSpeech": "noun",
+  "meaning": "break in the working week",
+  "english": [
+    {
+      "id": "bez78ghg",
+      "word": "weekend",
+      "meaning": "break in the working week",
+      "register": "colloquial",
+      "note": "A speaker picks this when specifying the Saturday-and-Sunday days that make up the weekend."
+    }
+  ],
   "traditional": "星期六日",
   "jyutping": "sing1 kei4 luk6 jat6",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "break in the working week",
-      "english": [
-        {
-          "id": "bez78ghg",
-          "word": "weekend",
-          "meaning": "break in the working week",
-          "register": "colloquial",
-          "note": "A speaker picks this when specifying the Saturday-and-Sunday days that make up the weekend."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "We go hiking in Sai Kung at the weekend, on Saturday and Sunday.",
-          "traditional": "星期六日我哋去西貢行山。",
-          "jyutping": "sing1 kei4 luk6 jat6 ngo5 dei6 heoi3 sai1 gung3 haang4 saan1"
-        }
-      ]
+      "english": "We go hiking in Sai Kung at the weekend, on Saturday and Sunday.",
+      "traditional": "星期六日我哋去西貢行山。",
+      "jyutping": "sing1 kei4 luk6 jat6 ngo5 dei6 heoi3 sai1 gung3 haang4 saan1"
     }
   ]
 }

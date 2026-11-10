@@ -1,38 +1,34 @@
 {
   "id": "synbefoe",
   "partOfSpeech": "adj",
+  "meaning": "fond of, liking",
+  "english": [
+    {
+      "id": "mhmmxgkb",
+      "word": "fond",
+      "meaning": "be fond of; like",
+      "note": "This is the all-purpose rendering when you mean that you like or are fond of someone or something."
+    },
+    {
+      "id": "0ucdkz62",
+      "word": "partial",
+      "meaning": "fond of",
+      "register": "colloquial",
+      "note": "Use this everyday word when partial means fond of or liking something."
+    }
+  ],
   "traditional": "鍾意",
   "jyutping": "zung1 ji3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "fond of, liking",
-      "english": [
-        {
-          "id": "mhmmxgkb",
-          "word": "fond",
-          "meaning": "be fond of; like",
-          "note": "This is the all-purpose rendering when you mean that you like or are fond of someone or something."
-        },
-        {
-          "id": "0ucdkz62",
-          "word": "partial",
-          "meaning": "fond of",
-          "register": "colloquial",
-          "note": "Use this everyday word when partial means fond of or liking something."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I am fond of this movie.",
-          "traditional": "我鍾意呢套戲。",
-          "jyutping": "ngo5 zung1 ji3 ni1 tou3 hei3"
-        },
-        {
-          "english": "I’m partial to iced lemon tea.",
-          "traditional": "我鍾意飲凍檸茶。",
-          "jyutping": "ngo5 zung1 ji3 jam2 dung3 ling4 caa4"
-        }
-      ]
+      "english": "I am fond of this movie.",
+      "traditional": "我鍾意呢套戲。",
+      "jyutping": "ngo5 zung1 ji3 ni1 tou3 hei3"
+    },
+    {
+      "english": "I’m partial to iced lemon tea.",
+      "traditional": "我鍾意飲凍檸茶。",
+      "jyutping": "ngo5 zung1 ji3 jam2 dung3 ling4 caa4"
     }
   ]
 }

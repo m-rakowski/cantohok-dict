@@ -1,28 +1,24 @@
 {
   "id": "gxgrwj7j",
   "partOfSpeech": "verb",
+  "meaning": "leave out",
+  "english": [
+    {
+      "id": "e3v1n7qp",
+      "word": "exclude",
+      "meaning": "leave out",
+      "register": "colloquial",
+      "note": "Use this for leaving something out of a count or calculation, rather than for formal evidential or diagnostic exclusion."
+    }
+  ],
   "traditional": "唔計",
   "jyutping": "m4 gai3",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "leave out",
-      "english": [
-        {
-          "id": "e3v1n7qp",
-          "word": "exclude",
-          "meaning": "leave out",
-          "register": "colloquial",
-          "note": "Use this for leaving something out of a count or calculation, rather than for formal evidential or diagnostic exclusion."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "We exclude Ming from the dinner count this time because he did not come.",
-          "traditional": "今次食飯我哋唔計阿明，佢冇嚟。",
-          "jyutping": "gam1 ci3 sik6 faan6 ngo5 dei6 m4 gai3 aa3 ming4 keoi5 mou5 lai4"
-        }
-      ]
+      "english": "We exclude Ming from the dinner count this time because he did not come.",
+      "traditional": "今次食飯我哋唔計阿明，佢冇嚟。",
+      "jyutping": "gam1 ci3 sik6 faan6 ngo5 dei6 m4 gai3 aa3 ming4 keoi5 mou5 lai4"
     }
   ]
 }

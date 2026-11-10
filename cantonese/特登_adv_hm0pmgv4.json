@@ -1,62 +1,58 @@
 {
   "id": "hm0pmgv4",
   "partOfSpeech": "adv",
+  "meaning": "on purpose, specially",
+  "english": [
+    {
+      "id": "z22v2k1q",
+      "word": "intentionally",
+      "meaning": "on purpose",
+      "register": "colloquial",
+      "note": "This is the all-purpose spoken Cantonese choice for saying that someone did something on purpose."
+    },
+    {
+      "id": "vt40htka",
+      "word": "deliberately",
+      "meaning": "intentionally, on purpose",
+      "register": "colloquial",
+      "note": "This is the all-purpose spoken choice for saying that someone did something deliberately."
+    },
+    {
+      "id": "3neuad3m",
+      "word": "knowingly",
+      "meaning": "intentionally; with knowledge",
+      "register": "colloquial",
+      "note": "Use this when the emphasis is that the action was deliberate or intentional, rather than merely accidental."
+    },
+    {
+      "id": "0qg13k0x",
+      "word": "specifically",
+      "meaning": "explicitly; in particular",
+      "note": "Use this when specifically doing something carries the additional sense of doing it deliberately or on purpose."
+    }
+  ],
   "traditional": "特登",
   "jyutping": "dak6 dang1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "on purpose, specially",
-      "english": [
-        {
-          "id": "z22v2k1q",
-          "word": "intentionally",
-          "meaning": "on purpose",
-          "register": "colloquial",
-          "note": "This is the all-purpose spoken Cantonese choice for saying that someone did something on purpose."
-        },
-        {
-          "id": "vt40htka",
-          "word": "deliberately",
-          "meaning": "intentionally, on purpose",
-          "register": "colloquial",
-          "note": "This is the all-purpose spoken choice for saying that someone did something deliberately."
-        },
-        {
-          "id": "3neuad3m",
-          "word": "knowingly",
-          "meaning": "intentionally; with knowledge",
-          "register": "colloquial",
-          "note": "Use this when the emphasis is that the action was deliberate or intentional, rather than merely accidental."
-        },
-        {
-          "id": "0qg13k0x",
-          "word": "specifically",
-          "meaning": "explicitly; in particular",
-          "note": "Use this when specifically doing something carries the additional sense of doing it deliberately or on purpose."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I intentionally saved a ticket for you.",
-          "traditional": "我特登留低張飛畀你。",
-          "jyutping": "ngo5 dak6 dang1 lau4 dai1 zoeng1 fei1 bei2 nei5"
-        },
-        {
-          "english": "Did you deliberately ignore me?",
-          "traditional": "你特登唔覆我㗎？",
-          "jyutping": "nei5 dak6 dang1 m4 fuk1 ngo5 gaa3"
-        },
-        {
-          "english": "I knowingly ignored the warning and took the shortcut home.",
-          "traditional": "我特登唔理個警告，行捷徑返屋企。",
-          "jyutping": "ngo5 dak6 dang1 m4 lei5 go3 ging2 gou3 haang4 zit6 ging3 faan1 uk1 kei2"
-        },
-        {
-          "english": "I specifically bought the cake you like most.",
-          "traditional": "我特登買咗你最鍾意食嘅蛋糕。",
-          "jyutping": "ngo5 dak6 dang1 maai5 zo2 nei5 zeoi3 zung1 ji3 sik6 ge3 daan6 gou1"
-        }
-      ]
+      "english": "I intentionally saved a ticket for you.",
+      "traditional": "我特登留低張飛畀你。",
+      "jyutping": "ngo5 dak6 dang1 lau4 dai1 zoeng1 fei1 bei2 nei5"
+    },
+    {
+      "english": "Did you deliberately ignore me?",
+      "traditional": "你特登唔覆我㗎？",
+      "jyutping": "nei5 dak6 dang1 m4 fuk1 ngo5 gaa3"
+    },
+    {
+      "english": "I knowingly ignored the warning and took the shortcut home.",
+      "traditional": "我特登唔理個警告，行捷徑返屋企。",
+      "jyutping": "ngo5 dak6 dang1 m4 lei5 go3 ging2 gou3 haang4 zit6 ging3 faan1 uk1 kei2"
+    },
+    {
+      "english": "I specifically bought the cake you like most.",
+      "traditional": "我特登買咗你最鍾意食嘅蛋糕。",
+      "jyutping": "ngo5 dak6 dang1 maai5 zo2 nei5 zeoi3 zung1 ji3 sik6 ge3 daan6 gou1"
     }
   ]
 }

@@ -1,28 +1,24 @@
 {
   "id": "8v0nu5oc",
   "partOfSpeech": "verb",
+  "meaning": "write down / record",
+  "english": [
+    {
+      "id": "7qkednfh",
+      "word": "note",
+      "meaning": "write down / record",
+      "register": "formal",
+      "note": "Use this when recording information systematically, especially in a formal or written context."
+    }
+  ],
   "traditional": "記錄",
   "jyutping": "gei3 luk6",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "write down / record",
-      "english": [
-        {
-          "id": "7qkednfh",
-          "word": "note",
-          "meaning": "write down / record",
-          "register": "formal",
-          "note": "Use this when recording information systematically, especially in a formal or written context."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The meeting secretary will note everyone's opinions.",
-          "traditional": "會議秘書會記錄大家嘅意見。",
-          "jyutping": "wui6 ji5 bei3 syu1 wui5 gei3 luk6 daai6 gaa1 ge3 ji3 gin3"
-        }
-      ]
+      "english": "The meeting secretary will note everyone's opinions.",
+      "traditional": "會議秘書會記錄大家嘅意見。",
+      "jyutping": "wui6 ji5 bei3 syu1 wui5 gei3 luk6 daai6 gaa1 ge3 ji3 gin3"
     }
   ]
 }

@@ -1,28 +1,24 @@
 {
   "id": "oysrfq8w",
   "partOfSpeech": "noun",
+  "meaning": "medical injection",
+  "english": [
+    {
+      "id": "l8zihrg3",
+      "word": "injection",
+      "meaning": "medical injection",
+      "register": "formal",
+      "note": "This is the all-purpose medical term for both the injection procedure and an injection shot."
+    }
+  ],
   "traditional": "注射",
   "jyutping": "zyu3 se6",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "medical injection",
-      "english": [
-        {
-          "id": "l8zihrg3",
-          "word": "injection",
-          "meaning": "medical injection",
-          "register": "formal",
-          "note": "This is the all-purpose medical term for both the injection procedure and an injection shot."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The doctor said I have to go back for an injection tomorrow.",
-          "traditional": "醫生話我聽日要返去注射。",
-          "jyutping": "ji1 sang1 waa6 ngo5 ting1 jat6 jiu3 faan1 heoi3 zyu3 se6"
-        }
-      ]
+      "english": "The doctor said I have to go back for an injection tomorrow.",
+      "traditional": "醫生話我聽日要返去注射。",
+      "jyutping": "ji1 sang1 waa6 ngo5 ting1 jat6 jiu3 faan1 heoi3 zyu3 se6"
     }
   ]
 }

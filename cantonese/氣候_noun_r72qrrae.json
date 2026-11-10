@@ -1,26 +1,22 @@
 {
   "id": "r72qrrae",
   "partOfSpeech": "noun",
+  "meaning": "weather conditions",
+  "english": [
+    {
+      "id": "7tapylad",
+      "word": "climate",
+      "meaning": "weather conditions",
+      "note": "This is the all-purpose rendering for long-term weather conditions in a region."
+    }
+  ],
   "traditional": "氣候",
   "jyutping": "hei3 hau6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "weather conditions",
-      "english": [
-        {
-          "id": "7tapylad",
-          "word": "climate",
-          "meaning": "weather conditions",
-          "note": "This is the all-purpose rendering for long-term weather conditions in a region."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Hong Kong summers are humid and hot; this climate is really hard to take.",
-          "traditional": "香港夏天又濕又熱，呢種氣候真係幾難頂。",
-          "jyutping": "hoeng1 gong2 haa6 tin1 jau6 sap1 jau6 jit6 ni1 zung2 hei3 hau6 zan1 hai6 gei2 naan4 ding2"
-        }
-      ]
+      "english": "Hong Kong summers are humid and hot; this climate is really hard to take.",
+      "traditional": "香港夏天又濕又熱，呢種氣候真係幾難頂。",
+      "jyutping": "hoeng1 gong2 haa6 tin1 jau6 sap1 jau6 jit6 ni1 zung2 hei3 hau6 zan1 hai6 gei2 naan4 ding2"
     }
   ]
 }

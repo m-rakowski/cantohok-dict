@@ -1,28 +1,24 @@
 {
   "id": "fggjelk4",
   "partOfSpeech": "adj",
+  "meaning": "by birth/consanguinity",
+  "english": [
+    {
+      "id": "0dmjb0hh",
+      "word": "biological",
+      "meaning": "by birth/consanguinity",
+      "register": "colloquial",
+      "note": "Use this for a parent or relative connected by birth or blood, especially in terms such as 親生媽媽."
+    }
+  ],
   "traditional": "親生",
   "jyutping": "can1 saang1",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "by birth/consanguinity",
-      "english": [
-        {
-          "id": "0dmjb0hh",
-          "word": "biological",
-          "meaning": "by birth/consanguinity",
-          "register": "colloquial",
-          "note": "Use this for a parent or relative connected by birth or blood, especially in terms such as 親生媽媽."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "She is my biological mother.",
-          "traditional": "佢係我親生阿媽。",
-          "jyutping": "keoi5 hai6 ngo5 can1 saang1 aa3 maa1"
-        }
-      ]
+      "english": "She is my biological mother.",
+      "traditional": "佢係我親生阿媽。",
+      "jyutping": "keoi5 hai6 ngo5 can1 saang1 aa3 maa1"
     }
   ]
 }

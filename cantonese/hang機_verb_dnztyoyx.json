@@ -1,28 +1,24 @@
 {
   "id": "dnztyoyx",
   "partOfSpeech": "verb",
+  "meaning": "computer stop unexpectedly",
+  "english": [
+    {
+      "id": "knqthceq",
+      "word": "crash",
+      "meaning": "computer stop unexpectedly",
+      "register": "colloquial",
+      "note": "Use this when a computer or program suddenly stops responding or terminates."
+    }
+  ],
   "traditional": "hang機",
   "jyutping": "hang1 gei1",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "computer stop unexpectedly",
-      "english": [
-        {
-          "id": "knqthceq",
-          "word": "crash",
-          "meaning": "computer stop unexpectedly",
-          "register": "colloquial",
-          "note": "Use this when a computer or program suddenly stops responding or terminates."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "My computer tends to crash all the time.",
-          "traditional": "我部電腦成日hang機。",
-          "jyutping": "ngo5 bou6 din6 nou5 seng4 jat6 hang1 gei1"
-        }
-      ]
+      "english": "My computer tends to crash all the time.",
+      "traditional": "我部電腦成日hang機。",
+      "jyutping": "ngo5 bou6 din6 nou5 seng4 jat6 hang1 gei1"
     }
   ]
 }

@@ -1,59 +1,55 @@
 {
   "id": "xuh6a6eh",
   "partOfSpeech": "pron",
+  "meaning": "anyone",
+  "english": [
+    {
+      "id": "yh5r9zem",
+      "word": "anyone",
+      "meaning": "any person; anybody",
+      "note": "This is the all-purpose choice for referring to any person."
+    },
+    {
+      "id": "jg6v8f86",
+      "word": "anybody",
+      "meaning": "any person; anyone",
+      "note": "Use this when you mean any person in a more explicit or formal-sounding way."
+    },
+    {
+      "id": "xlsdmq2g",
+      "word": "any",
+      "meaning": "anyone/anything",
+      "note": "Use this as the all-purpose noun phrase for any person, especially when the person is the focus rather than the choice pattern."
+    },
+    {
+      "id": "z6din0jp",
+      "word": "whom",
+      "meaning": "indefinite relative",
+      "note": "Use this for an indefinite person or people in contexts where English means “whomever” or “any person.”"
+    }
+  ],
   "traditional": "任何人",
   "jyutping": "jam6 ho4 jan4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "anyone",
-      "english": [
-        {
-          "id": "yh5r9zem",
-          "word": "anyone",
-          "meaning": "any person; anybody",
-          "note": "This is the all-purpose choice for referring to any person."
-        },
-        {
-          "id": "jg6v8f86",
-          "word": "anybody",
-          "meaning": "any person; anyone",
-          "note": "Use this when you mean any person in a more explicit or formal-sounding way."
-        },
-        {
-          "id": "xlsdmq2g",
-          "word": "any",
-          "meaning": "anyone/anything",
-          "note": "Use this as the all-purpose noun phrase for any person, especially when the person is the focus rather than the choice pattern."
-        },
-        {
-          "id": "z6din0jp",
-          "word": "whom",
-          "meaning": "indefinite relative",
-          "note": "Use this for an indefinite person or people in contexts where English means “whomever” or “any person.”"
-        }
-      ],
-      "examples": [
-        {
-          "english": "Anyone can come in and join.",
-          "traditional": "任何人都可以入嚟參加。",
-          "jyutping": "jam6 ho4 jan4 dou1 ho2 ji5 jap6 lei4 caam1 gaa1"
-        },
-        {
-          "english": "Anybody can apply to join this programme.",
-          "traditional": "任何人都可以申請參加呢個計劃。",
-          "jyutping": "jam6 ho4 jan4 dou1 ho2 ji5 san1 cing2 caam1 gaa1 ni1 go3 gai3 waak6"
-        },
-        {
-          "english": "Any person can join us.",
-          "traditional": "任何人都可以參加。",
-          "jyutping": "jam6 ho4 jan4 dou1 ho2 ji5 caam1 gaa1"
-        },
-        {
-          "english": "You can bring anyone whom you want along.",
-          "traditional": "你想帶任何人嚟都得。",
-          "jyutping": "nei5 soeng2 daai3 jam6 ho4 jan4 lei4 dou1 dak1"
-        }
-      ]
+      "english": "Anyone can come in and join.",
+      "traditional": "任何人都可以入嚟參加。",
+      "jyutping": "jam6 ho4 jan4 dou1 ho2 ji5 jap6 lei4 caam1 gaa1"
+    },
+    {
+      "english": "Anybody can apply to join this programme.",
+      "traditional": "任何人都可以申請參加呢個計劃。",
+      "jyutping": "jam6 ho4 jan4 dou1 ho2 ji5 san1 cing2 caam1 gaa1 ni1 go3 gai3 waak6"
+    },
+    {
+      "english": "Any person can join us.",
+      "traditional": "任何人都可以參加。",
+      "jyutping": "jam6 ho4 jan4 dou1 ho2 ji5 caam1 gaa1"
+    },
+    {
+      "english": "You can bring anyone whom you want along.",
+      "traditional": "你想帶任何人嚟都得。",
+      "jyutping": "nei5 soeng2 daai3 jam6 ho4 jan4 lei4 dou1 dak1"
     }
   ]
 }

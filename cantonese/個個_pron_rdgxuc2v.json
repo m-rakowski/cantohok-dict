@@ -1,38 +1,34 @@
 {
   "id": "rdgxuc2v",
   "partOfSpeech": "pron",
+  "meaning": "everyone, each person",
+  "english": [
+    {
+      "id": "nropkg5r",
+      "word": "all",
+      "meaning": "everyone",
+      "note": "Use this when you want to emphasize every individual person rather than the group collectively."
+    },
+    {
+      "id": "ynsx6fwv",
+      "word": "everybody",
+      "meaning": "all people",
+      "register": "colloquial",
+      "note": "Use this when stressing each individual person rather than the group collectively."
+    }
+  ],
   "traditional": "個個",
   "jyutping": "go3 go3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "everyone, each person",
-      "english": [
-        {
-          "id": "nropkg5r",
-          "word": "all",
-          "meaning": "everyone",
-          "note": "Use this when you want to emphasize every individual person rather than the group collectively."
-        },
-        {
-          "id": "ynsx6fwv",
-          "word": "everybody",
-          "meaning": "all people",
-          "register": "colloquial",
-          "note": "Use this when stressing each individual person rather than the group collectively."
-        }
-      ],
-      "examples": [
-        {
-          "english": "All of them say it’s delicious.",
-          "traditional": "個個都話好食。",
-          "jyutping": "go3 go3 dou1 waa6 hou2 sik6"
-        },
-        {
-          "english": "Everybody said it was tasty.",
-          "traditional": "個個都話好食。",
-          "jyutping": "go3 go3 dou1 waa6 hou2 sik6"
-        }
-      ]
+      "english": "All of them say it’s delicious.",
+      "traditional": "個個都話好食。",
+      "jyutping": "go3 go3 dou1 waa6 hou2 sik6"
+    },
+    {
+      "english": "Everybody said it was tasty.",
+      "traditional": "個個都話好食。",
+      "jyutping": "go3 go3 dou1 waa6 hou2 sik6"
     }
   ]
 }

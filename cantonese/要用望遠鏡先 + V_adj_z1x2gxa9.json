@@ -1,26 +1,22 @@
 {
   "id": "z1x2gxa9",
   "partOfSpeech": "adj",
+  "meaning": "visible through a telescope",
+  "english": [
+    {
+      "id": "cdqllvnj",
+      "word": "telescopic",
+      "meaning": "visible through a telescope",
+      "note": "Use this when something cannot be seen unless a telescope is used."
+    }
+  ],
   "traditional": "要用望遠鏡先 + V",
   "jyutping": "jiu3 jung6 mong6 jyun5 geng3 sin1 V",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "visible through a telescope",
-      "english": [
-        {
-          "id": "cdqllvnj",
-          "word": "telescopic",
-          "meaning": "visible through a telescope",
-          "note": "Use this when something cannot be seen unless a telescope is used."
-        }
-      ],
-      "examples": [
-        {
-          "english": "That star is telescopic and can only be seen with a telescope.",
-          "traditional": "嗰粒星要用望遠鏡先睇到。",
-          "jyutping": "go2 nap1 sing1 jiu3 jung6 mong6 jyun5 geng3 sin1 tai2 dou2"
-        }
-      ]
+      "english": "That star is telescopic and can only be seen with a telescope.",
+      "traditional": "嗰粒星要用望遠鏡先睇到。",
+      "jyutping": "go2 nap1 sing1 jiu3 jung6 mong6 jyun5 geng3 sin1 tai2 dou2"
     }
   ]
 }

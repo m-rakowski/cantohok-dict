@@ -1,26 +1,22 @@
 {
   "id": "113g3oh7",
   "partOfSpeech": "num",
+  "meaning": "number 3",
+  "english": [
+    {
+      "id": "vqp8nfy8",
+      "word": "three",
+      "meaning": "number 3",
+      "note": "This is the all-purpose Cantonese number for both the value 3 and a set containing three elements."
+    }
+  ],
   "traditional": "三",
   "jyutping": "saam1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "number 3",
-      "english": [
-        {
-          "id": "vqp8nfy8",
-          "word": "three",
-          "meaning": "number 3",
-          "note": "This is the all-purpose Cantonese number for both the value 3 and a set containing three elements."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I have three books.",
-          "traditional": "我有三本書。",
-          "jyutping": "ngo5 jau5 saam1 bun2 syu1"
-        }
-      ]
+      "english": "I have three books.",
+      "traditional": "我有三本書。",
+      "jyutping": "ngo5 jau5 saam1 bun2 syu1"
     }
   ]
 }

@@ -1,26 +1,22 @@
 {
   "id": "9rm05enu",
   "partOfSpeech": "noun",
+  "meaning": "projectile shot from bow",
+  "english": [
+    {
+      "id": "6514nbqc",
+      "word": "arrow",
+      "meaning": "projectile shot from bow",
+      "note": "This is the all-purpose Cantonese noun for a projectile shot from a bow."
+    }
+  ],
   "traditional": "箭",
   "jyutping": "zin3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "projectile shot from bow",
-      "english": [
-        {
-          "id": "6514nbqc",
-          "word": "arrow",
-          "meaning": "projectile shot from bow",
-          "note": "This is the all-purpose Cantonese noun for a projectile shot from a bow."
-        }
-      ],
-      "examples": [
-        {
-          "english": "You need to pull the bowstring tight before shooting an arrow.",
-          "traditional": "射箭要先拉緊弓弦。",
-          "jyutping": "se6 zin3 jiu3 sin1 laai1 gan2 gung1 jin4"
-        }
-      ]
+      "english": "You need to pull the bowstring tight before shooting an arrow.",
+      "traditional": "射箭要先拉緊弓弦。",
+      "jyutping": "se6 zin3 jiu3 sin1 laai1 gan2 gung1 jin4"
     }
   ]
 }

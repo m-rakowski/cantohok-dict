@@ -1,37 +1,33 @@
 {
   "id": "lcfux2rf",
   "partOfSpeech": "verb",
+  "meaning": "disappear, go missing",
+  "english": [
+    {
+      "id": "rdnmyra5",
+      "word": "disappear",
+      "meaning": "vanish",
+      "note": "This is the all-purpose colloquial choice for something vanishing or a person going missing."
+    },
+    {
+      "id": "ozgvv7rf",
+      "word": "vanish",
+      "meaning": "disappear from sight",
+      "note": "This is the everyday all-purpose choice when a person or thing disappears from view or is no longer seen."
+    }
+  ],
   "traditional": "唔見",
   "jyutping": "m4 gin3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "disappear, go missing",
-      "english": [
-        {
-          "id": "rdnmyra5",
-          "word": "disappear",
-          "meaning": "vanish",
-          "note": "This is the all-purpose colloquial choice for something vanishing or a person going missing."
-        },
-        {
-          "id": "ozgvv7rf",
-          "word": "vanish",
-          "meaning": "disappear from sight",
-          "note": "This is the everyday all-purpose choice when a person or thing disappears from view or is no longer seen."
-        }
-      ],
-      "examples": [
-        {
-          "english": "My wallet seemed to disappear.",
-          "traditional": "我個銀包好似唔見咗。",
-          "jyutping": "ngo5 go3 ngan4 baau1 hou2 ci5 m4 gin3 zo2"
-        },
-        {
-          "english": "The umbrella we just saw seems to vanish.",
-          "traditional": "頭先仲見到嗰把遮，而家唔見咗。",
-          "jyutping": "tau4 sin1 zung6 gin3 dou2 go2 baa2 ze1 ji4 gaa1 m4 gin3 zo2"
-        }
-      ]
+      "english": "My wallet seemed to disappear.",
+      "traditional": "我個銀包好似唔見咗。",
+      "jyutping": "ngo5 go3 ngan4 baau1 hou2 ci5 m4 gin3 zo2"
+    },
+    {
+      "english": "The umbrella we just saw seems to vanish.",
+      "traditional": "頭先仲見到嗰把遮，而家唔見咗。",
+      "jyutping": "tau4 sin1 zung6 gin3 dou2 go2 baa2 ze1 ji4 gaa1 m4 gin3 zo2"
     }
   ]
 }

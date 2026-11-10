@@ -1,37 +1,33 @@
 {
   "id": "54fcwgfs",
   "partOfSpeech": "noun",
+  "meaning": "river",
+  "english": [
+    {
+      "id": "decbtiri",
+      "word": "river",
+      "meaning": "large stream",
+      "note": "This is the all-purpose Cantonese noun for a river."
+    },
+    {
+      "id": "cizx13eq",
+      "word": "creek",
+      "meaning": "small stream",
+      "note": "Use this only when referring to an Australian creek that is large enough to be described as a river in Cantonese."
+    }
+  ],
   "traditional": "河",
   "jyutping": "ho4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "river",
-      "english": [
-        {
-          "id": "decbtiri",
-          "word": "river",
-          "meaning": "large stream",
-          "note": "This is the all-purpose Cantonese noun for a river."
-        },
-        {
-          "id": "cizx13eq",
-          "word": "creek",
-          "meaning": "small stream",
-          "note": "Use this only when referring to an Australian creek that is large enough to be described as a river in Cantonese."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This river is very long.",
-          "traditional": "呢條河好長。",
-          "jyutping": "nei1 tiu4 ho4 hou2 coeng4"
-        },
-        {
-          "english": "That Australian creek only has water in the wet season; it dries up in the dry season.",
-          "traditional": "澳洲嗰條河喺雨季先至有水，旱季就乾晒。",
-          "jyutping": "ou3 zau1 go2 tiu4 ho4 hai2 jyu5 gwai3 sin1 zi3 jau5 seoi2 hon5 gwai3 zau6 gon1 saai3"
-        }
-      ]
+      "english": "This river is very long.",
+      "traditional": "呢條河好長。",
+      "jyutping": "nei1 tiu4 ho4 hou2 coeng4"
+    },
+    {
+      "english": "That Australian creek only has water in the wet season; it dries up in the dry season.",
+      "traditional": "澳洲嗰條河喺雨季先至有水，旱季就乾晒。",
+      "jyutping": "ou3 zau1 go2 tiu4 ho4 hai2 jyu5 gwai3 sin1 zi3 jau5 seoi2 hon5 gwai3 zau6 gon1 saai3"
     }
   ]
 }

@@ -1,40 +1,36 @@
 {
   "id": "8h796h7s",
   "partOfSpeech": "adj",
+  "meaning": "extremely angry",
+  "english": [
+    {
+      "id": "66yeyt05",
+      "word": "furious",
+      "meaning": "very angry",
+      "register": "colloquial",
+      "note": "Use this when you want to stress an extreme, explosive level of anger."
+    },
+    {
+      "id": "h22t46l2",
+      "word": "irate",
+      "meaning": "extremely angry",
+      "register": "colloquial",
+      "note": "Use this for especially strong emphasis, meaning furious or angry to an extreme degree."
+    }
+  ],
   "traditional": "嬲到爆",
   "jyutping": "nau1 dou3 baau3",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "extremely angry",
-      "english": [
-        {
-          "id": "66yeyt05",
-          "word": "furious",
-          "meaning": "very angry",
-          "register": "colloquial",
-          "note": "Use this when you want to stress an extreme, explosive level of anger."
-        },
-        {
-          "id": "h22t46l2",
-          "word": "irate",
-          "meaning": "extremely angry",
-          "register": "colloquial",
-          "note": "Use this for especially strong emphasis, meaning furious or angry to an extreme degree."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "I was furious when I heard those people talking rubbish.",
-          "traditional": "聽到班人喺度亂咁講，我嬲到爆。",
-          "jyutping": "teng1 dou3 baan1 jan4 hai2 dou6 lyun6 gam3 gong2 ngo5 nau1 dou3 baau3"
-        },
-        {
-          "english": "The customer was irate and said they would definitely complain.",
-          "traditional": "個客嬲到爆，話一定要投訴。",
-          "jyutping": "go3 haak3 nau1 dou3 baau3 waa6 jat1 ding6 jiu3 tau4 sou3"
-        }
-      ]
+      "english": "I was furious when I heard those people talking rubbish.",
+      "traditional": "聽到班人喺度亂咁講，我嬲到爆。",
+      "jyutping": "teng1 dou3 baan1 jan4 hai2 dou6 lyun6 gam3 gong2 ngo5 nau1 dou3 baau3"
+    },
+    {
+      "english": "The customer was irate and said they would definitely complain.",
+      "traditional": "個客嬲到爆，話一定要投訴。",
+      "jyutping": "go3 haak3 nau1 dou3 baau3 waa6 jat1 ding6 jiu3 tau4 sou3"
     }
   ]
 }

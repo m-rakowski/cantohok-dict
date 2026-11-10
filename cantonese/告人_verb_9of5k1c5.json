@@ -1,26 +1,22 @@
 {
   "id": "9of5k1c5",
   "partOfSpeech": "verb",
+  "meaning": "take legal action",
+  "english": [
+    {
+      "id": "ppo02isr",
+      "word": "sue",
+      "meaning": "take legal action",
+      "note": "This is the all-purpose colloquial way to say that you are suing someone."
+    }
+  ],
   "traditional": "告人",
   "jyutping": "gou3 jan4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "take legal action",
-      "english": [
-        {
-          "id": "ppo02isr",
-          "word": "sue",
-          "meaning": "take legal action",
-          "note": "This is the all-purpose colloquial way to say that you are suing someone."
-        }
-      ],
-      "examples": [
-        {
-          "english": "If he doesn't pay me back, I'll sue.",
-          "traditional": "佢再唔還錢，我就告人喇。",
-          "jyutping": "keoi5 zoi3 m4 waan4 cin2 ngo5 zau6 gou3 jan4 laa3"
-        }
-      ]
+      "english": "If he doesn't pay me back, I'll sue.",
+      "traditional": "佢再唔還錢，我就告人喇。",
+      "jyutping": "keoi5 zoi3 m4 waan4 cin2 ngo5 zau6 gou3 jan4 laa3"
     }
   ]
 }

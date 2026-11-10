@@ -1,28 +1,24 @@
 {
   "id": "1s395amx",
   "partOfSpeech": "noun",
+  "meaning": "military time hour",
+  "english": [
+    {
+      "id": "yrz6aa0a",
+      "word": "hour",
+      "meaning": "military time hour",
+      "register": "formal",
+      "note": "Use 時 after a numeric time in formal or military-style time notation, as in 一千三百時."
+    }
+  ],
   "traditional": "時",
   "jyutping": "si4",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "military time hour",
-      "english": [
-        {
-          "id": "yrz6aa0a",
-          "word": "hour",
-          "meaning": "military time hour",
-          "register": "formal",
-          "note": "Use 時 after a numeric time in formal or military-style time notation, as in 一千三百時."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The report says 1300 hours, one hour before the briefing.",
-          "traditional": "份報告寫住一千三百時，即係簡報前一個鐘。",
-          "jyutping": "fan6 bou3 gou3 se2 zyu6 jat1 cin1 saam1 baak3 si4 zik1 hai6 gaan2 bou3 cin4 jat1 go3 zung1"
-        }
-      ]
+      "english": "The report says 1300 hours, one hour before the briefing.",
+      "traditional": "份報告寫住一千三百時，即係簡報前一個鐘。",
+      "jyutping": "fan6 bou3 gou3 se2 zyu6 jat1 cin1 saam1 baak3 si4 zik1 hai6 gaan2 bou3 cin4 jat1 go3 zung1"
     }
   ]
 }

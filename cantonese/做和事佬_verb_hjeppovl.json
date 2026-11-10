@@ -1,28 +1,24 @@
 {
   "id": "hjeppovl",
   "partOfSpeech": "verb",
+  "meaning": "intervene to settle",
+  "english": [
+    {
+      "id": "h9njoclz",
+      "word": "mediate",
+      "meaning": "intervene to settle",
+      "register": "colloquial",
+      "note": "Use this colloquial expression when someone informally steps in to make quarrelling people reconcile."
+    }
+  ],
   "traditional": "做和事佬",
   "jyutping": "zou6 wo4 si6 lou2",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "intervene to settle",
-      "english": [
-        {
-          "id": "h9njoclz",
-          "word": "mediate",
-          "meaning": "intervene to settle",
-          "register": "colloquial",
-          "note": "Use this colloquial expression when someone informally steps in to make quarrelling people reconcile."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "Stop arguing; I’ll mediate.",
-          "traditional": "你哋唔好再鬧，我嚟做和事佬。",
-          "jyutping": "nei5 dei6 m4 hou2 zoi3 naau6 ngo5 lai4 zou6 wo4 si6 lou2"
-        }
-      ]
+      "english": "Stop arguing; I’ll mediate.",
+      "traditional": "你哋唔好再鬧，我嚟做和事佬。",
+      "jyutping": "nei5 dei6 m4 hou2 zoi3 naau6 ngo5 lai4 zou6 wo4 si6 lou2"
     }
   ]
 }

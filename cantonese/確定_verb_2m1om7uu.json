@@ -1,38 +1,34 @@
 {
   "id": "2m1om7uu",
   "partOfSpeech": "verb",
+  "meaning": "make sure, confirm",
+  "english": [
+    {
+      "id": "4vly8hff",
+      "word": "ensure",
+      "meaning": "make sure; secure",
+      "register": "colloquial",
+      "note": "This is the everyday choice when you mean checking or making sure that something will happen."
+    },
+    {
+      "id": "mcqt6t21",
+      "word": "define",
+      "meaning": "make clear; determine precisely",
+      "note": "Use 確定 when defining means finding or establishing an exact value, fact, or result rather than drawing a boundary."
+    }
+  ],
   "traditional": "確定",
   "jyutping": "kok3 ding6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "make sure, confirm",
-      "english": [
-        {
-          "id": "4vly8hff",
-          "word": "ensure",
-          "meaning": "make sure; secure",
-          "register": "colloquial",
-          "note": "This is the everyday choice when you mean checking or making sure that something will happen."
-        },
-        {
-          "id": "mcqt6t21",
-          "word": "define",
-          "meaning": "make clear; determine precisely",
-          "note": "Use 確定 when defining means finding or establishing an exact value, fact, or result rather than drawing a boundary."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I’ll ensure the gas is turned off before I leave.",
-          "traditional": "我出門口之前，會確定煤氣閂好。",
-          "jyutping": "ngo5 ceot1 mun4 hau2 zi1 cin4 wui5 kok3 ding6 mui4 hei3 saan1 hou2"
-        },
-        {
-          "english": "We need to define the exact number of people before booking a table.",
-          "traditional": "我哋要先確定人數，先可以訂枱。",
-          "jyutping": "ngo5 dei6 jiu3 sin1 kok3 ding6 jan4 sou3 sin1 ho2 ji5 deng6 toi2"
-        }
-      ]
+      "english": "I’ll ensure the gas is turned off before I leave.",
+      "traditional": "我出門口之前，會確定煤氣閂好。",
+      "jyutping": "ngo5 ceot1 mun4 hau2 zi1 cin4 wui5 kok3 ding6 mui4 hei3 saan1 hou2"
+    },
+    {
+      "english": "We need to define the exact number of people before booking a table.",
+      "traditional": "我哋要先確定人數，先可以訂枱。",
+      "jyutping": "ngo5 dei6 jiu3 sin1 kok3 ding6 jan4 sou3 sin1 ho2 ji5 deng6 toi2"
     }
   ]
 }

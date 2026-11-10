@@ -1,28 +1,24 @@
 {
   "id": "gbmoxia6",
   "partOfSpeech": "adj",
+  "meaning": "entire, total",
+  "english": [
+    {
+      "id": "n0f36hke",
+      "word": "full",
+      "meaning": "entire, total",
+      "register": "written",
+      "note": "Use this mainly in set attributive expressions such as 全長 for the entire length; casual speech often uses 成個 or 全部 instead."
+    }
+  ],
   "traditional": "全",
   "jyutping": "cyun4",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "entire, total",
-      "english": [
-        {
-          "id": "n0f36hke",
-          "word": "full",
-          "meaning": "entire, total",
-          "register": "written",
-          "note": "Use this mainly in set attributive expressions such as 全長 for the entire length; casual speech often uses 成個 or 全部 instead."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "The rope has a full length of ten metres.",
-          "traditional": "呢條繩全長十米。",
-          "jyutping": "ni1 tiu4 sing4 cyun4 coeng4 sap6 mai5"
-        }
-      ]
+      "english": "The rope has a full length of ten metres.",
+      "traditional": "呢條繩全長十米。",
+      "jyutping": "ni1 tiu4 sing4 cyun4 coeng4 sap6 mai5"
     }
   ]
 }

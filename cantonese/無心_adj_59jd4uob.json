@@ -1,37 +1,33 @@
 {
   "id": "59jd4uob",
   "partOfSpeech": "adj",
+  "meaning": "unintentional",
+  "english": [
+    {
+      "id": "ib5eobaq",
+      "word": "innocent",
+      "meaning": "unintentional; by mistake",
+      "note": "Use this when the action or mistake was not intentional and the person did not mean any harm."
+    },
+    {
+      "id": "z8os48n4",
+      "word": "honest",
+      "meaning": "well-intentioned, not malicious",
+      "note": "Use this for a mistake or action that was unintentional and not malicious."
+    }
+  ],
   "traditional": "無心",
   "jyutping": "mou4 sam1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "unintentional",
-      "english": [
-        {
-          "id": "ib5eobaq",
-          "word": "innocent",
-          "meaning": "unintentional; by mistake",
-          "note": "Use this when the action or mistake was not intentional and the person did not mean any harm."
-        },
-        {
-          "id": "z8os48n4",
-          "word": "honest",
-          "meaning": "well-intentioned, not malicious",
-          "note": "Use this for a mistake or action that was unintentional and not malicious."
-        }
-      ],
-      "examples": [
-        {
-          "english": "It was an innocent mistake—I didn't tear your book on purpose.",
-          "traditional": "我唔係有心整爛你本書㗎，真係無心之失。",
-          "jyutping": "ngo5 m4 hai6 jau5 sam1 zing2 laan6 nei5 bun2 syu1 gaa3 zan1 hai6 mou4 sam1 zi1 sat1"
-        },
-        {
-          "english": "Tearing your book was an honest mistake; I really didn't mean to.",
-          "traditional": "我真係無心整爛你本書㗎。",
-          "jyutping": "ngo5 zan1 hai6 mou4 sam1 zing2 laan6 nei5 bun2 syu1 gaa3"
-        }
-      ]
+      "english": "It was an innocent mistake—I didn't tear your book on purpose.",
+      "traditional": "我唔係有心整爛你本書㗎，真係無心之失。",
+      "jyutping": "ngo5 m4 hai6 jau5 sam1 zing2 laan6 nei5 bun2 syu1 gaa3 zan1 hai6 mou4 sam1 zi1 sat1"
+    },
+    {
+      "english": "Tearing your book was an honest mistake; I really didn't mean to.",
+      "traditional": "我真係無心整爛你本書㗎。",
+      "jyutping": "ngo5 zan1 hai6 mou4 sam1 zing2 laan6 nei5 bun2 syu1 gaa3"
     }
   ]
 }

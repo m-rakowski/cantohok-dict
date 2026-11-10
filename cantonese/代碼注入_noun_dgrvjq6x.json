@@ -1,28 +1,24 @@
 {
   "id": "dgrvjq6x",
   "partOfSpeech": "noun",
+  "meaning": "code injection",
+  "english": [
+    {
+      "id": "v2yq8czt",
+      "word": "injection",
+      "meaning": "code injection",
+      "register": "written",
+      "note": "Use this in computing contexts for inserting code into a program or system, especially maliciously."
+    }
+  ],
   "traditional": "代碼注入",
   "jyutping": "doi6 maa5 zyu3 jap6",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "code injection",
-      "english": [
-        {
-          "id": "v2yq8czt",
-          "word": "injection",
-          "meaning": "code injection",
-          "register": "written",
-          "note": "Use this in computing contexts for inserting code into a program or system, especially maliciously."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "This vulnerability gives hackers a chance to carry out code injection.",
-          "traditional": "呢個漏洞畀黑客有機可乘，進行代碼注入。",
-          "jyutping": "ni1 go3 lau6 dung6 bei2 hak1 haak3 jau5 gei1 ho2 sing4 zeon3 hang4 doi6 maa5 zyu3 jap6"
-        }
-      ]
+      "english": "This vulnerability gives hackers a chance to carry out code injection.",
+      "traditional": "呢個漏洞畀黑客有機可乘，進行代碼注入。",
+      "jyutping": "ni1 go3 lau6 dung6 bei2 hak1 haak3 jau5 gei1 ho2 sing4 zeon3 hang4 doi6 maa5 zyu3 jap6"
     }
   ]
 }

@@ -1,26 +1,22 @@
 {
   "id": "79v8h5ul",
   "partOfSpeech": "noun",
+  "meaning": "speech syllable",
+  "english": [
+    {
+      "id": "3cr9bu7t",
+      "word": "syllable",
+      "meaning": "speech syllable",
+      "note": "This is the all-purpose term for a unit of speech such as one part of a word."
+    }
+  ],
   "traditional": "音節",
   "jyutping": "jam1 zit3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "speech syllable",
-      "english": [
-        {
-          "id": "3cr9bu7t",
-          "word": "syllable",
-          "meaning": "speech syllable",
-          "note": "This is the all-purpose term for a unit of speech such as one part of a word."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The first syllable of this English word should be stressed.",
-          "traditional": "呢個英文生字嘅第一個音節要重讀。",
-          "jyutping": "ni1 go3 jing1 man2 saang1 zi6 ge3 dai6 jat1 go3 jam1 zit3 jiu3 cung5 duk6"
-        }
-      ]
+      "english": "The first syllable of this English word should be stressed.",
+      "traditional": "呢個英文生字嘅第一個音節要重讀。",
+      "jyutping": "ni1 go3 jing1 man2 saang1 zi6 ge3 dai6 jat1 go3 jam1 zit3 jiu3 cung5 duk6"
     }
   ]
 }

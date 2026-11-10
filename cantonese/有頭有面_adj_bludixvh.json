@@ -1,40 +1,36 @@
 {
   "id": "bludixvh",
   "partOfSpeech": "adj",
+  "meaning": "respected, with status",
+  "english": [
+    {
+      "id": "ki53nq43",
+      "word": "prestigious",
+      "meaning": "of high status",
+      "register": "colloquial",
+      "note": "Use this colloquial expression when stressing that someone or something brings status and social respect."
+    },
+    {
+      "id": "svgau6no",
+      "word": "prominent",
+      "meaning": "important; well-known",
+      "register": "colloquial",
+      "note": "Use this when the person is socially prominent, respectable, or influential, not simply well-known."
+    }
+  ],
   "traditional": "有頭有面",
   "jyutping": "jau5 tau4 jau5 min6",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "respected, with status",
-      "english": [
-        {
-          "id": "ki53nq43",
-          "word": "prestigious",
-          "meaning": "of high status",
-          "register": "colloquial",
-          "note": "Use this colloquial expression when stressing that someone or something brings status and social respect."
-        },
-        {
-          "id": "svgau6no",
-          "word": "prominent",
-          "meaning": "important; well-known",
-          "register": "colloquial",
-          "note": "Use this when the person is socially prominent, respectable, or influential, not simply well-known."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "Their daughter getting into that famous school is really prestigious for the parents.",
-          "traditional": "有頭有面",
-          "jyutping": "jau5 tau4 jau5 min6"
-        },
-        {
-          "english": "He is a prominent figure in the district.",
-          "traditional": "佢喺區內係個有頭有面嘅人物。",
-          "jyutping": "keoi5 hai2 keoi1 noi6 hai6 go3 jau5 tau4 jau5 min6 ge3 jan4 mat6"
-        }
-      ]
+      "english": "Their daughter getting into that famous school is really prestigious for the parents.",
+      "traditional": "有頭有面",
+      "jyutping": "jau5 tau4 jau5 min6"
+    },
+    {
+      "english": "He is a prominent figure in the district.",
+      "traditional": "佢喺區內係個有頭有面嘅人物。",
+      "jyutping": "keoi5 hai2 keoi1 noi6 hai6 go3 jau5 tau4 jau5 min6 ge3 jan4 mat6"
     }
   ]
 }

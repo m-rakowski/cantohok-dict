@@ -1,38 +1,34 @@
 {
   "id": "pc4dnkc8",
   "partOfSpeech": "adj",
+  "meaning": "amateur, in spare time",
+  "english": [
+    {
+      "id": "unicpyr1",
+      "word": "nonprofessional",
+      "meaning": "amateur, not professional",
+      "note": "This is the all-purpose choice when someone does an activity as an amateur rather than as a job."
+    },
+    {
+      "id": "10exxmmd",
+      "word": "amateur",
+      "meaning": "non-professional",
+      "register": "written",
+      "note": "This is the all-purpose choice for someone who does something as a hobby rather than professionally."
+    }
+  ],
   "traditional": "業餘",
   "jyutping": "jip6 jyu4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "amateur, in spare time",
-      "english": [
-        {
-          "id": "unicpyr1",
-          "word": "nonprofessional",
-          "meaning": "amateur, not professional",
-          "note": "This is the all-purpose choice when someone does an activity as an amateur rather than as a job."
-        },
-        {
-          "id": "10exxmmd",
-          "word": "amateur",
-          "meaning": "non-professional",
-          "register": "written",
-          "note": "This is the all-purpose choice for someone who does something as a hobby rather than professionally."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I play guitar as a nonprofessional in my spare time.",
-          "traditional": "我平時業餘玩結他，唔係靠呢樣搵食。",
-          "jyutping": "ngo5 ping4 si4 jip6 jyu4 waan2 git6 taa1 m4 hai6 kaau3 ne1 joeng2 wan2 sik6"
-        },
-        {
-          "english": "They are an amateur photographer who only takes pictures in their spare time.",
-          "traditional": "佢係業餘攝影師，平時得閒先影相。",
-          "jyutping": "keoi5 hai6 jip6 jyu4 sip3 jing2 si1 ping4 si4 dak1 haan4 sin1 jing2 soeng2"
-        }
-      ]
+      "english": "I play guitar as a nonprofessional in my spare time.",
+      "traditional": "我平時業餘玩結他，唔係靠呢樣搵食。",
+      "jyutping": "ngo5 ping4 si4 jip6 jyu4 waan2 git6 taa1 m4 hai6 kaau3 ne1 joeng2 wan2 sik6"
+    },
+    {
+      "english": "They are an amateur photographer who only takes pictures in their spare time.",
+      "traditional": "佢係業餘攝影師，平時得閒先影相。",
+      "jyutping": "keoi5 hai6 jip6 jyu4 sip3 jing2 si1 ping4 si4 dak1 haan4 sin1 jing2 soeng2"
     }
   ]
 }

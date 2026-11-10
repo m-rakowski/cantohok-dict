@@ -1,70 +1,66 @@
 {
   "id": "ycgqr7lv",
   "partOfSpeech": "noun",
+  "meaning": "road, way",
+  "english": [
+    {
+      "id": "d90p5msz",
+      "word": "way",
+      "meaning": "road/path/direction",
+      "note": "This is the all-purpose noun for a physical or figurative route, road, or direction."
+    },
+    {
+      "id": "4g3lwi68",
+      "word": "road",
+      "meaning": "travel road",
+      "note": "This is the all-purpose noun for a physical road and, in expressions such as the road to success, a life or career path."
+    },
+    {
+      "id": "9xn2uqu6",
+      "word": "path",
+      "meaning": "pedestrian trail",
+      "note": "This is the all-purpose choice for a path, route, figurative way, or way of proceeding when no narrower context is needed."
+    },
+    {
+      "id": "eginy337",
+      "word": "route",
+      "meaning": "path taken",
+      "note": "This is the all-purpose choice for a path or road people travel on, especially when no special transport or highway distinction is intended."
+    },
+    {
+      "id": "saa4d1w0",
+      "word": "street",
+      "meaning": "road in town",
+      "note": "Use this when the street is being viewed more broadly as a road or route, including in street names."
+    }
+  ],
   "traditional": "路",
   "jyutping": "lou6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "road, way",
-      "english": [
-        {
-          "id": "d90p5msz",
-          "word": "way",
-          "meaning": "road/path/direction",
-          "note": "This is the all-purpose noun for a physical or figurative route, road, or direction."
-        },
-        {
-          "id": "4g3lwi68",
-          "word": "road",
-          "meaning": "travel road",
-          "note": "This is the all-purpose noun for a physical road and, in expressions such as the road to success, a life or career path."
-        },
-        {
-          "id": "9xn2uqu6",
-          "word": "path",
-          "meaning": "pedestrian trail",
-          "note": "This is the all-purpose choice for a path, route, figurative way, or way of proceeding when no narrower context is needed."
-        },
-        {
-          "id": "eginy337",
-          "word": "route",
-          "meaning": "path taken",
-          "note": "This is the all-purpose choice for a path or road people travel on, especially when no special transport or highway distinction is intended."
-        },
-        {
-          "id": "saa4d1w0",
-          "word": "street",
-          "meaning": "road in town",
-          "note": "Use this when the street is being viewed more broadly as a road or route, including in street names."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Which way does this road go?",
-          "traditional": "呢條路去邊度呀？",
-          "jyutping": "ni1 tiu4 lou6 heoi3 bin1 dou6 aa3"
-        },
-        {
-          "english": "Where does this road go?",
-          "traditional": "呢條路去邊度㗎？",
-          "jyutping": "ni1 tiu4 lou6 heoi3 bin1 dou6 gaa3"
-        },
-        {
-          "english": "This path gets us to the beach fastest.",
-          "traditional": "我哋行呢條路去海邊最快。",
-          "jyutping": "ngo5 dei6 haang4 ni1 tiu4 lou6 heoi3 hoi2 bin1 zeoi3 faai3"
-        },
-        {
-          "english": "We follow this route to the beach.",
-          "traditional": "我哋沿住呢條路行去海邊。",
-          "jyutping": "ngo5 dei6 jyun4 zyu6 ni1 tiu4 lou6 haang4 heoi3 hoi2 bin1"
-        },
-        {
-          "english": "Follow this street and you will reach the MTR station.",
-          "traditional": "沿住呢條路行就到地鐵站。",
-          "jyutping": "jyun4 zyu6 ni1 tiu4 lou6 haang4 zau6 dou3 dei6 tit3 zaam6"
-        }
-      ]
+      "english": "Which way does this road go?",
+      "traditional": "呢條路去邊度呀？",
+      "jyutping": "ni1 tiu4 lou6 heoi3 bin1 dou6 aa3"
+    },
+    {
+      "english": "Where does this road go?",
+      "traditional": "呢條路去邊度㗎？",
+      "jyutping": "ni1 tiu4 lou6 heoi3 bin1 dou6 gaa3"
+    },
+    {
+      "english": "This path gets us to the beach fastest.",
+      "traditional": "我哋行呢條路去海邊最快。",
+      "jyutping": "ngo5 dei6 haang4 ni1 tiu4 lou6 heoi3 hoi2 bin1 zeoi3 faai3"
+    },
+    {
+      "english": "We follow this route to the beach.",
+      "traditional": "我哋沿住呢條路行去海邊。",
+      "jyutping": "ngo5 dei6 jyun4 zyu6 ni1 tiu4 lou6 haang4 heoi3 hoi2 bin1"
+    },
+    {
+      "english": "Follow this street and you will reach the MTR station.",
+      "traditional": "沿住呢條路行就到地鐵站。",
+      "jyutping": "jyun4 zyu6 ni1 tiu4 lou6 haang4 zau6 dou3 dei6 tit3 zaam6"
     }
   ]
 }

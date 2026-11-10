@@ -1,26 +1,22 @@
 {
   "id": "07gnmlde",
   "partOfSpeech": "adj",
+  "meaning": "nuclear; atomic bomb",
+  "english": [
+    {
+      "id": "8lc62m17",
+      "word": "atomic",
+      "meaning": "nuclear; atomic bomb",
+      "note": "Use this as the all-purpose rendering for things relating to nuclear energy, processes, or weapons."
+    }
+  ],
   "traditional": "核 + N",
   "jyutping": "hat6 N",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "nuclear; atomic bomb",
-      "english": [
-        {
-          "id": "8lc62m17",
-          "word": "atomic",
-          "meaning": "nuclear; atomic bomb",
-          "note": "Use this as the all-purpose rendering for things relating to nuclear energy, processes, or weapons."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This is an atomic power station.",
-          "traditional": "呢個係核能發電站。",
-          "jyutping": "ni1 go3 hai6 hat6 nang4 faat3 din6 zaam6"
-        }
-      ]
+      "english": "This is an atomic power station.",
+      "traditional": "呢個係核能發電站。",
+      "jyutping": "ni1 go3 hai6 hat6 nang4 faat3 din6 zaam6"
     }
   ]
 }

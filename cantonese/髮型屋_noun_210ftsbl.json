@@ -1,38 +1,34 @@
 {
   "id": "210ftsbl",
   "partOfSpeech": "noun",
+  "meaning": "hair salon",
+  "english": [
+    {
+      "id": "mag5amrq",
+      "word": "salon",
+      "meaning": "beauty salon",
+      "register": "colloquial",
+      "note": "Use this when the salon mainly cuts, styles, or treats hair rather than providing general beauty services."
+    },
+    {
+      "id": "l751zvp4",
+      "word": "shop",
+      "meaning": "barber shop; beauty shop",
+      "note": "Use this for a hair salon or the usual barber-and-hairdressing shop."
+    }
+  ],
   "traditional": "髮型屋",
   "jyutping": "faat3 jing4 uk1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "hair salon",
-      "english": [
-        {
-          "id": "mag5amrq",
-          "word": "salon",
-          "meaning": "beauty salon",
-          "register": "colloquial",
-          "note": "Use this when the salon mainly cuts, styles, or treats hair rather than providing general beauty services."
-        },
-        {
-          "id": "l751zvp4",
-          "word": "shop",
-          "meaning": "barber shop; beauty shop",
-          "note": "Use this for a hair salon or the usual barber-and-hairdressing shop."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I’m going to the salon for a haircut after work.",
-          "traditional": "我放工去髮型屋剪頭髮。",
-          "jyutping": "ngo5 fong3 gung1 heoi3 faat3 jing4 uk1 zin2 tau4 faat3"
-        },
-        {
-          "english": "That shop gives really good haircuts.",
-          "traditional": "嗰間髮型屋剪頭髮好掂。",
-          "jyutping": "go2 gaan1 faat3 jing4 uk1 zin2 tau4 faat3 hou2 dim6"
-        }
-      ]
+      "english": "I’m going to the salon for a haircut after work.",
+      "traditional": "我放工去髮型屋剪頭髮。",
+      "jyutping": "ngo5 fong3 gung1 heoi3 faat3 jing4 uk1 zin2 tau4 faat3"
+    },
+    {
+      "english": "That shop gives really good haircuts.",
+      "traditional": "嗰間髮型屋剪頭髮好掂。",
+      "jyutping": "go2 gaan1 faat3 jing4 uk1 zin2 tau4 faat3 hou2 dim6"
     }
   ]
 }

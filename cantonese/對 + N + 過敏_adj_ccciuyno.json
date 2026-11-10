@@ -1,26 +1,22 @@
 {
   "id": "ccciuyno",
   "partOfSpeech": "adj",
+  "meaning": "having an allergy",
+  "english": [
+    {
+      "id": "nlapehkb",
+      "word": "allergic",
+      "meaning": "having an allergy",
+      "note": "This is the all-purpose pattern for having an allergy to a substance or animal."
+    }
+  ],
   "traditional": "對 + N + 過敏",
   "jyutping": "deoi3 N gwo3 man5",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "having an allergy",
-      "english": [
-        {
-          "id": "nlapehkb",
-          "word": "allergic",
-          "meaning": "having an allergy",
-          "note": "This is the all-purpose pattern for having an allergy to a substance or animal."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I’m allergic to peanuts.",
-          "traditional": "我對花生過敏。",
-          "jyutping": "ngo5 deoi3 faa1 saang1 gwo3 man5"
-        }
-      ]
+      "english": "I’m allergic to peanuts.",
+      "traditional": "我對花生過敏。",
+      "jyutping": "ngo5 deoi3 faa1 saang1 gwo3 man5"
     }
   ]
 }

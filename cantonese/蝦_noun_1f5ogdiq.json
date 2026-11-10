@@ -1,37 +1,33 @@
 {
   "id": "1f5ogdiq",
   "partOfSpeech": "noun",
+  "meaning": "shrimp, prawn",
+  "english": [
+    {
+      "id": "ioic6y0r",
+      "word": "shrimp",
+      "meaning": "shrimp (seafood crustacean)",
+      "note": "This is the all-purpose noun for the edible crustacean itself."
+    },
+    {
+      "id": "n1bu5v2k",
+      "word": "prawn",
+      "meaning": "seafood crustacean",
+      "note": "This is the all-purpose Cantonese word for a prawn or shrimp in everyday speech."
+    }
+  ],
   "traditional": "蝦",
   "jyutping": "haa1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "shrimp, prawn",
-      "english": [
-        {
-          "id": "ioic6y0r",
-          "word": "shrimp",
-          "meaning": "shrimp (seafood crustacean)",
-          "note": "This is the all-purpose noun for the edible crustacean itself."
-        },
-        {
-          "id": "n1bu5v2k",
-          "word": "prawn",
-          "meaning": "seafood crustacean",
-          "note": "This is the all-purpose Cantonese word for a prawn or shrimp in everyday speech."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I’m cooking shrimp for everyone tonight.",
-          "traditional": "我今晚煮蝦俾大家食。",
-          "jyutping": "ngo5 gam1 maan5 zyu2 haa1 bei2 daai6 gaa1 sik6"
-        },
-        {
-          "english": "This prawn is very fresh.",
-          "traditional": "呢隻蝦好新鮮。",
-          "jyutping": "ne1 zek3 haa1 hou2 san1 sin1"
-        }
-      ]
+      "english": "I’m cooking shrimp for everyone tonight.",
+      "traditional": "我今晚煮蝦俾大家食。",
+      "jyutping": "ngo5 gam1 maan5 zyu2 haa1 bei2 daai6 gaa1 sik6"
+    },
+    {
+      "english": "This prawn is very fresh.",
+      "traditional": "呢隻蝦好新鮮。",
+      "jyutping": "ne1 zek3 haa1 hou2 san1 sin1"
     }
   ]
 }

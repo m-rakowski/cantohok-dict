@@ -1,48 +1,44 @@
 {
   "id": "t5aiyy5e",
   "partOfSpeech": "noun",
+  "meaning": "news, word about something",
+  "english": [
+    {
+      "id": "j1744y7o",
+      "word": "news",
+      "meaning": "new information",
+      "note": "Use 消息 as the all-purpose noun for new information or an update about a particular matter."
+    },
+    {
+      "id": "6q9gi8z6",
+      "word": "information",
+      "meaning": "facts about something",
+      "note": "Use 消息 when the information is news, an update, or something recently learned."
+    },
+    {
+      "id": "4fuzpwel",
+      "word": "word",
+      "meaning": "news, tidings",
+      "note": "Use this for news or information about what has happened or what someone has been doing."
+    }
+  ],
   "traditional": "消息",
   "jyutping": "siu1 sik1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "news, word about something",
-      "english": [
-        {
-          "id": "j1744y7o",
-          "word": "news",
-          "meaning": "new information",
-          "note": "Use 消息 as the all-purpose noun for new information or an update about a particular matter."
-        },
-        {
-          "id": "6q9gi8z6",
-          "word": "information",
-          "meaning": "facts about something",
-          "note": "Use 消息 when the information is news, an update, or something recently learned."
-        },
-        {
-          "id": "4fuzpwel",
-          "word": "word",
-          "meaning": "news, tidings",
-          "note": "Use this for news or information about what has happened or what someone has been doing."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Have you received any news from that company?",
-          "traditional": "你有冇收到間公司嗰邊嘅消息？",
-          "jyutping": "nei5 jau5 mou5 sau1 dou2 gaan1 gung1 si1 go2 bin1 ge3 siu1 sik1"
-        },
-        {
-          "english": "I just got the information that it will rain tomorrow.",
-          "traditional": "我啱啱收到消息，聽日會落雨。",
-          "jyutping": "ngo5 ngaam1 ngaam1 sau1 dou2 siu1 sik1 ting1 jat6 wui5 lok6 jyu5"
-        },
-        {
-          "english": "Have you heard any word about the dog?",
-          "traditional": "你有冇隻狗嘅消息呀？",
-          "jyutping": "nei5 jau5 mou5 zek3 gau2 ge3 siu1 sik1 aa3"
-        }
-      ]
+      "english": "Have you received any news from that company?",
+      "traditional": "你有冇收到間公司嗰邊嘅消息？",
+      "jyutping": "nei5 jau5 mou5 sau1 dou2 gaan1 gung1 si1 go2 bin1 ge3 siu1 sik1"
+    },
+    {
+      "english": "I just got the information that it will rain tomorrow.",
+      "traditional": "我啱啱收到消息，聽日會落雨。",
+      "jyutping": "ngo5 ngaam1 ngaam1 sau1 dou2 siu1 sik1 ting1 jat6 wui5 lok6 jyu5"
+    },
+    {
+      "english": "Have you heard any word about the dog?",
+      "traditional": "你有冇隻狗嘅消息呀？",
+      "jyutping": "nei5 jau5 mou5 zek3 gau2 ge3 siu1 sik1 aa3"
     }
   ]
 }

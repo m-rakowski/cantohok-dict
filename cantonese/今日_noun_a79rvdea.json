@@ -1,26 +1,22 @@
 {
   "id": "a79rvdea",
   "partOfSpeech": "noun",
+  "meaning": "current day",
+  "english": [
+    {
+      "id": "ayokikis",
+      "word": "today",
+      "meaning": "current day",
+      "note": "This is the all-purpose noun for the current calendar day or date."
+    }
+  ],
   "traditional": "今日",
   "jyutping": "gam1 jat6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "current day",
-      "english": [
-        {
-          "id": "ayokikis",
-          "word": "today",
-          "meaning": "current day",
-          "note": "This is the all-purpose noun for the current calendar day or date."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I have to go to work today.",
-          "traditional": "今日要返工。",
-          "jyutping": "gam1 jat6 jiu3 faan1 gung1"
-        }
-      ]
+      "english": "I have to go to work today.",
+      "traditional": "今日要返工。",
+      "jyutping": "gam1 jat6 jiu3 faan1 gung1"
     }
   ]
 }

@@ -1,26 +1,22 @@
 {
   "id": "3qq9p1vk",
   "partOfSpeech": "noun",
+  "meaning": "university graduate",
+  "english": [
+    {
+      "id": "8oqzaig5",
+      "word": "graduate",
+      "meaning": "university graduate",
+      "note": "This is the all-purpose noun for someone who has completed a course of study, with the school level supplied by context."
+    }
+  ],
   "traditional": "畢業生",
   "jyutping": "bat1 jip6 sang1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "university graduate",
-      "english": [
-        {
-          "id": "8oqzaig5",
-          "word": "graduate",
-          "meaning": "university graduate",
-          "note": "This is the all-purpose noun for someone who has completed a course of study, with the school level supplied by context."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Our company hired a graduate.",
-          "traditional": "我哋公司請咗一個畢業生。",
-          "jyutping": "ngo5 dei6 gung1 si1 cing2 zo2 jat1 go3 bat1 jip6 sang1"
-        }
-      ]
+      "english": "Our company hired a graduate.",
+      "traditional": "我哋公司請咗一個畢業生。",
+      "jyutping": "ngo5 dei6 gung1 si1 cing2 zo2 jat1 go3 bat1 jip6 sang1"
     }
   ]
 }

@@ -1,40 +1,36 @@
 {
   "id": "y5daw469",
   "partOfSpeech": "noun",
+  "meaning": "shameless cheek",
+  "english": [
+    {
+      "id": "jwmhqfgo",
+      "word": "cheek",
+      "meaning": "impudence",
+      "register": "colloquial",
+      "note": "A speaker uses this noun for shameless impudence, especially when someone has the nerve to ask for something outrageous."
+    },
+    {
+      "id": "fawxl6lg",
+      "word": "assurance",
+      "meaning": "boldness, cheek",
+      "register": "colloquial",
+      "note": "Use this only for the negative sense of impudent, shameless boldness or cheek."
+    }
+  ],
   "traditional": "厚面皮",
   "jyutping": "hau5 min6 pei4",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "shameless cheek",
-      "english": [
-        {
-          "id": "jwmhqfgo",
-          "word": "cheek",
-          "meaning": "impudence",
-          "register": "colloquial",
-          "note": "A speaker uses this noun for shameless impudence, especially when someone has the nerve to ask for something outrageous."
-        },
-        {
-          "id": "fawxl6lg",
-          "word": "assurance",
-          "meaning": "boldness, cheek",
-          "register": "colloquial",
-          "note": "Use this only for the negative sense of impudent, shameless boldness or cheek."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "They've got some cheek—still having the nerve to ask me for five thousand dollars.",
-          "traditional": "佢咁厚面皮，仲夠膽問我借五千蚊。",
-          "jyutping": "keoi5 gam3 hau5 min6 pei4 zung6 gau3 daam2 man6 ngo5 ze3 ng5 cin1 man1"
-        },
-        {
-          "english": "They’re really shameless; they have the assurance to ask me for another loan after already borrowing money.",
-          "traditional": "佢真係厚面皮，借完錢仲夠膽問我可唔可以再借。",
-          "jyutping": "keoi5 zan1 hai6 hau5 min6 pei4 ze3 jyun4 cin2 zung6 gau3 daam2 man6 ngo5 ho2 m4 ho2 ji5 zoi3 ze3"
-        }
-      ]
+      "english": "They've got some cheek—still having the nerve to ask me for five thousand dollars.",
+      "traditional": "佢咁厚面皮，仲夠膽問我借五千蚊。",
+      "jyutping": "keoi5 gam3 hau5 min6 pei4 zung6 gau3 daam2 man6 ngo5 ze3 ng5 cin1 man1"
+    },
+    {
+      "english": "They’re really shameless; they have the assurance to ask me for another loan after already borrowing money.",
+      "traditional": "佢真係厚面皮，借完錢仲夠膽問我可唔可以再借。",
+      "jyutping": "keoi5 zan1 hai6 hau5 min6 pei4 ze3 jyun4 cin2 zung6 gau3 daam2 man6 ngo5 ho2 m4 ho2 ji5 zoi3 ze3"
     }
   ]
 }

@@ -1,28 +1,24 @@
 {
   "id": "fob77q09",
   "partOfSpeech": "noun",
+  "meaning": "philosophical materialism",
+  "english": [
+    {
+      "id": "waaxfm0x",
+      "word": "materialism",
+      "meaning": "philosophical materialism",
+      "register": "formal",
+      "note": "Use this for the philosophical doctrine that only physical matter exists."
+    }
+  ],
   "traditional": "唯物主義",
   "jyutping": "wai4 mat6 zyu2 ji6",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "philosophical materialism",
-      "english": [
-        {
-          "id": "waaxfm0x",
-          "word": "materialism",
-          "meaning": "philosophical materialism",
-          "register": "formal",
-          "note": "Use this for the philosophical doctrine that only physical matter exists."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "Materialism holds that nothing exists independently of matter.",
-          "traditional": "唯物主義認為，世界上除咗物質，冇其他獨立存在嘅嘢。",
-          "jyutping": "wai4 mat6 zyu2 ji6 jing6 wai4 sai3 gaai3 soeng6 ceoi4 zo2 mat6 zat1 mou5 kei4 taa1 duk6 laap6 cyun4 zoi6 ge3 je5"
-        }
-      ]
+      "english": "Materialism holds that nothing exists independently of matter.",
+      "traditional": "唯物主義認為，世界上除咗物質，冇其他獨立存在嘅嘢。",
+      "jyutping": "wai4 mat6 zyu2 ji6 jing6 wai4 sai3 gaai3 soeng6 ceoi4 zo2 mat6 zat1 mou5 kei4 taa1 duk6 laap6 cyun4 zoi6 ge3 je5"
     }
   ]
 }

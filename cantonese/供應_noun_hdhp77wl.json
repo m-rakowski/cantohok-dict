@@ -1,37 +1,33 @@
 {
   "id": "hdhp77wl",
   "partOfSpeech": "noun",
+  "meaning": "supply",
+  "english": [
+    {
+      "id": "36cp8cr9",
+      "word": "provision",
+      "meaning": "preparation, provision",
+      "note": "Use this for the supplying or making available aspect of provision, especially in phrases about a service or resource."
+    },
+    {
+      "id": "zi1ykj32",
+      "word": "feed",
+      "meaning": "continuous supply",
+      "note": "Use this for a general ongoing supply, rather than a broadcast or data signal."
+    }
+  ],
   "traditional": "供應",
   "jyutping": "gung1 jing3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "supply",
-      "english": [
-        {
-          "id": "36cp8cr9",
-          "word": "provision",
-          "meaning": "preparation, provision",
-          "note": "Use this for the supplying or making available aspect of provision, especially in phrases about a service or resource."
-        },
-        {
-          "id": "zi1ykj32",
-          "word": "feed",
-          "meaning": "continuous supply",
-          "note": "Use this for a general ongoing supply, rather than a broadcast or data signal."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This scheme will continue the provision of free lunch boxes until the end of the year.",
-          "traditional": "呢個計劃會繼續供應免費飯盒到年底。",
-          "jyutping": "nei1 go3 gai3 waak6 wui5 gai3 zuk6 gung1 jing3 min5 fai3 faan6 hap2 dou3 nin4 dai2"
-        },
-        {
-          "english": "This farm has a continuous feed of fresh water.",
-          "traditional": "呢個農場長期供應新鮮食水。",
-          "jyutping": "ni1 go3 nung4 coeng4 coeng4 kei4 gung1 jing3 san1 sin1 sik6 seoi2"
-        }
-      ]
+      "english": "This scheme will continue the provision of free lunch boxes until the end of the year.",
+      "traditional": "呢個計劃會繼續供應免費飯盒到年底。",
+      "jyutping": "nei1 go3 gai3 waak6 wui5 gai3 zuk6 gung1 jing3 min5 fai3 faan6 hap2 dou3 nin4 dai2"
+    },
+    {
+      "english": "This farm has a continuous feed of fresh water.",
+      "traditional": "呢個農場長期供應新鮮食水。",
+      "jyutping": "ni1 go3 nung4 coeng4 coeng4 kei4 gung1 jing3 san1 sin1 sik6 seoi2"
     }
   ]
 }

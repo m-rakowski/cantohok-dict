@@ -1,28 +1,24 @@
 {
   "id": "uqhdw6f5",
   "partOfSpeech": "noun",
+  "meaning": "stopping; discontinuance",
+  "english": [
+    {
+      "id": "idh588sd",
+      "word": "cessation",
+      "meaning": "stopping; discontinuance",
+      "register": "formal",
+      "note": "Choose this when the cessation is an explicit termination, especially in formal contexts such as an agreement or proceeding."
+    }
+  ],
   "traditional": "終止",
   "jyutping": "zung1 zi2",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "stopping; discontinuance",
-      "english": [
-        {
-          "id": "idh588sd",
-          "word": "cessation",
-          "meaning": "stopping; discontinuance",
-          "register": "formal",
-          "note": "Choose this when the cessation is an explicit termination, especially in formal contexts such as an agreement or proceeding."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "Both sides have formally announced the cessation of the cooperation agreement.",
-          "traditional": "雙方已正式終止合作協議。",
-          "jyutping": "soeng1 fong1 ji5 zing3 sik1 zung1 zi2 hap6 zok3 hip3 ji5"
-        }
-      ]
+      "english": "Both sides have formally announced the cessation of the cooperation agreement.",
+      "traditional": "雙方已正式終止合作協議。",
+      "jyutping": "soeng1 fong1 ji5 zing3 sik1 zung1 zi2 hap6 zok3 hip3 ji5"
     }
   ]
 }

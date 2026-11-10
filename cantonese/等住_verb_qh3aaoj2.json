@@ -1,28 +1,24 @@
 {
   "id": "qh3aaoj2",
   "partOfSpeech": "verb",
+  "meaning": "make wait",
+  "english": [
+    {
+      "id": "71nao4t9",
+      "word": "hold",
+      "meaning": "make wait",
+      "register": "colloquial",
+      "note": "Use this when asking someone or something to wait or when delaying an action, as in holding an elevator."
+    }
+  ],
   "traditional": "等住",
   "jyutping": "dang2 zyu6",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "make wait",
-      "english": [
-        {
-          "id": "71nao4t9",
-          "word": "hold",
-          "meaning": "make wait",
-          "register": "colloquial",
-          "note": "Use this when asking someone or something to wait or when delaying an action, as in holding an elevator."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "Hold on, I haven't gotten into the elevator yet.",
-          "traditional": "等住，我未落電梯呀。",
-          "jyutping": "dang2 zyu6 ngo5 mei6 lok6 din6 tai1 aa3"
-        }
-      ]
+      "english": "Hold on, I haven't gotten into the elevator yet.",
+      "traditional": "等住，我未落電梯呀。",
+      "jyutping": "dang2 zyu6 ngo5 mei6 lok6 din6 tai1 aa3"
     }
   ]
 }

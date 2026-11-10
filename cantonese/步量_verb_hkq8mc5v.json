@@ -1,28 +1,24 @@
 {
   "id": "hkq8mc5v",
   "partOfSpeech": "verb",
+  "meaning": "measure by walking",
+  "english": [
+    {
+      "id": "md8pyofh",
+      "word": "pace",
+      "meaning": "measure by walking",
+      "register": "written",
+      "note": "Use this written term when measuring a distance by counting one's walking steps."
+    }
+  ],
   "traditional": "步量",
   "jyutping": "bou6 loeng4",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "measure by walking",
-      "english": [
-        {
-          "id": "md8pyofh",
-          "word": "pace",
-          "meaning": "measure by walking",
-          "register": "written",
-          "note": "Use this written term when measuring a distance by counting one's walking steps."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "We need to pace out this stretch of road before we know how far it is.",
-          "traditional": "我哋要步量呢段路，先知有幾遠。",
-          "jyutping": "ngo5 dei6 jiu3 bou6 loeng4 ni1 dyun6 lou6 sin1 zi1 jau5 gei2 jyun5"
-        }
-      ]
+      "english": "We need to pace out this stretch of road before we know how far it is.",
+      "traditional": "我哋要步量呢段路，先知有幾遠。",
+      "jyutping": "ngo5 dei6 jiu3 bou6 loeng4 ni1 dyun6 lou6 sin1 zi1 jau5 gei2 jyun5"
     }
   ]
 }

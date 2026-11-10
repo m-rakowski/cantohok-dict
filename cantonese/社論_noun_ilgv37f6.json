@@ -1,28 +1,24 @@
 {
   "id": "ilgv37f6",
   "partOfSpeech": "noun",
+  "meaning": "newspaper editorial",
+  "english": [
+    {
+      "id": "3iklohz6",
+      "word": "editorial",
+      "meaning": "newspaper editorial",
+      "register": "written",
+      "note": "This is the all-purpose term for an editorial article expressing a publication's official opinion."
+    }
+  ],
   "traditional": "社論",
   "jyutping": "se5 leon6",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "newspaper editorial",
-      "english": [
-        {
-          "id": "3iklohz6",
-          "word": "editorial",
-          "meaning": "newspaper editorial",
-          "register": "written",
-          "note": "This is the all-purpose term for an editorial article expressing a publication's official opinion."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "This editorial criticizes the government's housing policy.",
-          "traditional": "報紙呢篇社論批評政府嘅房屋政策。",
-          "jyutping": "bou3 zi2 ni1 pin1 se5 leon6 pai1 ping4 zing3 fu2 ge3 fong4 uk1 zing3 caak3"
-        }
-      ]
+      "english": "This editorial criticizes the government's housing policy.",
+      "traditional": "報紙呢篇社論批評政府嘅房屋政策。",
+      "jyutping": "bou3 zi2 ni1 pin1 se5 leon6 pai1 ping4 zing3 fu2 ge3 fong4 uk1 zing3 caak3"
     }
   ]
 }

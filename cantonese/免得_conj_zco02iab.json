@@ -1,28 +1,24 @@
 {
   "id": "zco02iab",
   "partOfSpeech": "conj",
+  "meaning": "for fear that",
+  "english": [
+    {
+      "id": "v83fsgoi",
+      "word": "lest",
+      "meaning": "for fear that",
+      "register": "formal",
+      "note": "Use this more formal or written choice for an explicit preventive ‘lest’ clause."
+    }
+  ],
   "traditional": "免得",
   "jyutping": "min5 dak1",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "for fear that",
-      "english": [
-        {
-          "id": "v83fsgoi",
-          "word": "lest",
-          "meaning": "for fear that",
-          "register": "formal",
-          "note": "Use this more formal or written choice for an explicit preventive ‘lest’ clause."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "Please back up the files, lest the computer suddenly break down.",
-          "traditional": "請將文件備份，免得電腦突然壞咗。",
-          "jyutping": "cing2 zoeng1 man4 gin6 bei6 fan6 min5 dak1 din6 nou5 dat6 jin4 waai6 zo2"
-        }
-      ]
+      "english": "Please back up the files, lest the computer suddenly break down.",
+      "traditional": "請將文件備份，免得電腦突然壞咗。",
+      "jyutping": "cing2 zoeng1 man4 gin6 bei6 fan6 min5 dak1 din6 nou5 dat6 jin4 waai6 zo2"
     }
   ]
 }

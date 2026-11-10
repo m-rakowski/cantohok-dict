@@ -1,26 +1,22 @@
 {
   "id": "uj4bokpq",
   "partOfSpeech": "noun",
+  "meaning": "geometric intersection",
+  "english": [
+    {
+      "id": "sfd2qgys",
+      "word": "intersection",
+      "meaning": "geometric intersection",
+      "note": "Use this for the specific point where two geometric lines, curves, or shapes meet."
+    }
+  ],
   "traditional": "交點",
   "jyutping": "gaau1 dim2",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "geometric intersection",
-      "english": [
-        {
-          "id": "sfd2qgys",
-          "word": "intersection",
-          "meaning": "geometric intersection",
-          "note": "Use this for the specific point where two geometric lines, curves, or shapes meet."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The intersection of these two straight lines is here.",
-          "traditional": "呢兩條直線嘅交點就係呢度。",
-          "jyutping": "ni1 loeng5 tiu4 zik6 sin3 ge3 gaau1 dim2 zau6 hai6 ni1 dou6"
-        }
-      ]
+      "english": "The intersection of these two straight lines is here.",
+      "traditional": "呢兩條直線嘅交點就係呢度。",
+      "jyutping": "ni1 loeng5 tiu4 zik6 sin3 ge3 gaau1 dim2 zau6 hai6 ni1 dou6"
     }
   ]
 }

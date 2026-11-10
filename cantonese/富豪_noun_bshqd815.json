@@ -1,37 +1,33 @@
 {
   "id": "bshqd815",
   "partOfSpeech": "noun",
+  "meaning": "tycoon, very rich person",
+  "english": [
+    {
+      "id": "109kjpwc",
+      "word": "plutocrat",
+      "meaning": "wealthy ruler",
+      "note": "This is the all-purpose choice when the person is a wealthy tycoon who wields substantial influence or power."
+    },
+    {
+      "id": "ev2rxn2h",
+      "word": "tycoon",
+      "meaning": "wealthy business person",
+      "note": "Use this when the person's great wealth is more prominent than their business influence."
+    }
+  ],
   "traditional": "富豪",
   "jyutping": "fu3 hou4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "tycoon, very rich person",
-      "english": [
-        {
-          "id": "109kjpwc",
-          "word": "plutocrat",
-          "meaning": "wealthy ruler",
-          "note": "This is the all-purpose choice when the person is a wealthy tycoon who wields substantial influence or power."
-        },
-        {
-          "id": "ev2rxn2h",
-          "word": "tycoon",
-          "meaning": "wealthy business person",
-          "note": "Use this when the person's great wealth is more prominent than their business influence."
-        }
-      ],
-      "examples": [
-        {
-          "english": "That plutocrat's word carries a lot of weight in business.",
-          "traditional": "嗰位富豪喺商界講一句都好有分量。",
-          "jyutping": "go2 wai6 fu3 hou4 hai2 soeng1 gaai3 gong2 jat1 geoi3 dou1 hou2 jau5 fan6 loeng6"
-        },
-        {
-          "english": "That tycoon donated a lot of money to charity.",
-          "traditional": "嗰位富豪捐咗好多錢畀慈善機構。",
-          "jyutping": "go2 wai6 fu3 hou4 gyun1 zo2 hou2 do1 cin4 bei2 ci4 sin6 gei1 kau3"
-        }
-      ]
+      "english": "That plutocrat's word carries a lot of weight in business.",
+      "traditional": "嗰位富豪喺商界講一句都好有分量。",
+      "jyutping": "go2 wai6 fu3 hou4 hai2 soeng1 gaai3 gong2 jat1 geoi3 dou1 hou2 jau5 fan6 loeng6"
+    },
+    {
+      "english": "That tycoon donated a lot of money to charity.",
+      "traditional": "嗰位富豪捐咗好多錢畀慈善機構。",
+      "jyutping": "go2 wai6 fu3 hou4 gyun1 zo2 hou2 do1 cin4 bei2 ci4 sin6 gei1 kau3"
     }
   ]
 }

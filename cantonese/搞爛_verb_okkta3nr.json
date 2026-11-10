@@ -1,28 +1,24 @@
 {
   "id": "okkta3nr",
   "partOfSpeech": "verb",
+  "meaning": "damage beyond repair",
+  "english": [
+    {
+      "id": "vmhlw89j",
+      "word": "destroy",
+      "meaning": "damage beyond repair",
+      "register": "colloquial",
+      "note": "This is the colloquial all-purpose choice for physically wrecking something so it is unusable."
+    }
+  ],
   "traditional": "搞爛",
   "jyutping": "gaau2 laan6",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "damage beyond repair",
-      "english": [
-        {
-          "id": "vmhlw89j",
-          "word": "destroy",
-          "meaning": "damage beyond repair",
-          "register": "colloquial",
-          "note": "This is the colloquial all-purpose choice for physically wrecking something so it is unusable."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "They managed to destroy the computer with one kick.",
-          "traditional": "佢哋一腳就搞爛咗部電腦。",
-          "jyutping": "keoi5 dei6 jat1 goek3 zau6 gaau2 laan6 zo2 bou6 din6 nou5"
-        }
-      ]
+      "english": "They managed to destroy the computer with one kick.",
+      "traditional": "佢哋一腳就搞爛咗部電腦。",
+      "jyutping": "keoi5 dei6 jat1 goek3 zau6 gaau2 laan6 zo2 bou6 din6 nou5"
     }
   ]
 }

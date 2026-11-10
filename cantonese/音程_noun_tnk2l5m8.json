@@ -1,28 +1,24 @@
 {
   "id": "tnk2l5m8",
   "partOfSpeech": "noun",
+  "meaning": "musical interval",
+  "english": [
+    {
+      "id": "b0rf0jjy",
+      "word": "interval",
+      "meaning": "musical interval",
+      "register": "formal",
+      "note": "Use this specifically for the pitch difference between two musical notes."
+    }
+  ],
   "traditional": "音程",
   "jyutping": "jam1 cing4",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "musical interval",
-      "english": [
-        {
-          "id": "b0rf0jjy",
-          "word": "interval",
-          "meaning": "musical interval",
-          "register": "formal",
-          "note": "Use this specifically for the pitch difference between two musical notes."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The interval between these two notes is a perfect fifth.",
-          "traditional": "呢兩個音之間嘅音程係純五度。",
-          "jyutping": "nei1 loeng5 go3 jam1 zi1 gaan1 ge3 jam1 cing4 hai6 seon4 ng5 dou6"
-        }
-      ]
+      "english": "The interval between these two notes is a perfect fifth.",
+      "traditional": "呢兩個音之間嘅音程係純五度。",
+      "jyutping": "nei1 loeng5 go3 jam1 zi1 gaan1 ge3 jam1 cing4 hai6 seon4 ng5 dou6"
     }
   ]
 }

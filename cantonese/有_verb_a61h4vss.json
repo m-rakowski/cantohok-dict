@@ -1,128 +1,84 @@
 {
   "id": "a61h4vss",
   "partOfSpeech": "verb",
-  "traditional": "有",
-  "jyutping": "jau5",
-  "boxes": [
+  "meaning": "have, own",
+  "english": [
     {
-      "meaning": "have, own",
-      "english": [
-        {
-          "id": "mgmdhmf5",
-          "word": "have",
-          "meaning": "possess, own",
-          "note": "This is the all-purpose choice for possession, availability, family relationships, contents, scheduled classes, illnesses, and having children."
-        },
-        {
-          "id": "a829xr3e",
-          "word": "own",
-          "meaning": "possess; be owner of",
-          "note": "Use this as the all-purpose everyday way to say that someone owns or possesses something."
-        },
-        {
-          "id": "om9gfd5j",
-          "word": "contain",
-          "meaning": "hold inside",
-          "note": "Use this as the all-purpose spoken way to say that a container or item has something in it."
-        },
-        {
-          "id": "jr204b3x",
-          "word": "possess",
-          "meaning": "own; have",
-          "note": "This is the all-purpose colloquial verb for having or owning something."
-        },
-        {
-          "id": "40j48gh9",
-          "word": "comprise",
-          "meaning": "consist of; include",
-          "register": "colloquial",
-          "note": "Use this casual choice when simply listing what a group, set, or invention has in it."
-        },
-        {
-          "id": "7d146dog",
-          "word": "carry",
-          "meaning": "stock or sell",
-          "note": "Use 有 for possessing something or for a shop having an item available, rather than for physically carrying it."
-        },
-        {
-          "id": "zo6yjfyo",
-          "word": "bear",
-          "meaning": "have a mark",
-          "note": "Use this all-purpose verb when something has or displays a mark, appearance, name, reputation, or bodily feature."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I have two novels.",
-          "traditional": "我有兩本小說。",
-          "jyutping": "ngo5 jau5 loeng5 bun2 siu2 syut3"
-        },
-        {
-          "english": "I own a car.",
-          "traditional": "我有架車。",
-          "jyutping": "ngo5 jau5 gaa3 ce1"
-        },
-        {
-          "english": "This box can contain three candies.",
-          "traditional": "呢個盒有三粒糖。",
-          "jyutping": "ni1 go3 hap6 jau5 saam1 lap1 tong4"
-        },
-        {
-          "english": "I possess a camera.",
-          "traditional": "我有部相機。",
-          "jyutping": "ngo5 jau5 bou6 soeng1 gei1"
-        },
-        {
-          "english": "Our tour group can comprise elderly people, children, and a few foreigners.",
-          "traditional": "我哋個旅行團有老人家、細路仔，仲有幾個外國人。",
-          "jyutping": "ngo5 dei6 go3 leoi5 hang4 tyun4 jau5 lou5 jan4 gaa1 sai3 lou6 zai2 zung6 jau5 gei2 go3 ngoi6 gwok3 jan4"
-        },
-        {
-          "english": "Does this shop carry batteries?",
-          "traditional": "呢間舖頭有冇電池賣㗎？",
-          "jyutping": "ni1 gaan1 pou3 tau4 jau5 mou5 din6 ci4 maai6 gaa3"
-        }
-      ]
+      "id": "mgmdhmf5",
+      "word": "have",
+      "meaning": "possess, own",
+      "note": "This is the all-purpose choice for possession, availability, family relationships, contents, scheduled classes, illnesses, and having children."
     },
     {
-      "meaning": "there is, exist",
-      "english": [
-        {
-          "id": "nfy2iwqh",
-          "word": "exist",
-          "meaning": "be real; have existence",
-          "note": "Use this everyday verb for saying that something exists or is present in a place, situation, or set of possibilities."
-        },
-        {
-          "id": "bfzs1y50",
-          "word": "get",
-          "meaning": "have (got)",
-          "note": "Use this when get means possess something or indicate that something exists in a place or situation."
-        },
-        {
-          "id": "edom96ez",
-          "word": "be",
-          "meaning": "existence",
-          "note": "Use 有 for existence and for measurements expressed as an amount possessed, especially age or duration such as having three hundred years of history."
-        }
-      ],
-      "examples": [
-        {
-          "english": "A seat does exist here.",
-          "traditional": "呢度有位坐。",
-          "jyutping": "ni1 dou6 jau5 wai2 zo6"
-        },
-        {
-          "english": "Do you get reception here?",
-          "traditional": "呢度有冇訊號呀？",
-          "jyutping": "ni1 dou6 jau5 mou5 seon3 hou6 aa3"
-        },
-        {
-          "english": "There appears to be a doctor here.",
-          "traditional": "呢度有位醫生。",
-          "jyutping": "ni1 dou6 jau5 wai2 ji1 sang1"
-        }
-      ]
+      "id": "a829xr3e",
+      "word": "own",
+      "meaning": "possess; be owner of",
+      "note": "Use this as the all-purpose everyday way to say that someone owns or possesses something."
+    },
+    {
+      "id": "om9gfd5j",
+      "word": "contain",
+      "meaning": "hold inside",
+      "note": "Use this as the all-purpose spoken way to say that a container or item has something in it."
+    },
+    {
+      "id": "jr204b3x",
+      "word": "possess",
+      "meaning": "own; have",
+      "note": "This is the all-purpose colloquial verb for having or owning something."
+    },
+    {
+      "id": "40j48gh9",
+      "word": "comprise",
+      "meaning": "consist of; include",
+      "register": "colloquial",
+      "note": "Use this casual choice when simply listing what a group, set, or invention has in it."
+    },
+    {
+      "id": "7d146dog",
+      "word": "carry",
+      "meaning": "stock or sell",
+      "note": "Use 有 for possessing something or for a shop having an item available, rather than for physically carrying it."
+    },
+    {
+      "id": "zo6yjfyo",
+      "word": "bear",
+      "meaning": "have a mark",
+      "note": "Use this all-purpose verb when something has or displays a mark, appearance, name, reputation, or bodily feature."
+    }
+  ],
+  "traditional": "有",
+  "jyutping": "jau5",
+  "examples": [
+    {
+      "english": "I have two novels.",
+      "traditional": "我有兩本小說。",
+      "jyutping": "ngo5 jau5 loeng5 bun2 siu2 syut3"
+    },
+    {
+      "english": "I own a car.",
+      "traditional": "我有架車。",
+      "jyutping": "ngo5 jau5 gaa3 ce1"
+    },
+    {
+      "english": "This box can contain three candies.",
+      "traditional": "呢個盒有三粒糖。",
+      "jyutping": "ni1 go3 hap6 jau5 saam1 lap1 tong4"
+    },
+    {
+      "english": "I possess a camera.",
+      "traditional": "我有部相機。",
+      "jyutping": "ngo5 jau5 bou6 soeng1 gei1"
+    },
+    {
+      "english": "Our tour group can comprise elderly people, children, and a few foreigners.",
+      "traditional": "我哋個旅行團有老人家、細路仔，仲有幾個外國人。",
+      "jyutping": "ngo5 dei6 go3 leoi5 hang4 tyun4 jau5 lou5 jan4 gaa1 sai3 lou6 zai2 zung6 jau5 gei2 go3 ngoi6 gwok3 jan4"
+    },
+    {
+      "english": "Does this shop carry batteries?",
+      "traditional": "呢間舖頭有冇電池賣㗎？",
+      "jyutping": "ni1 gaan1 pou3 tau4 jau5 mou5 din6 ci4 maai6 gaa3"
     }
   ]
 }

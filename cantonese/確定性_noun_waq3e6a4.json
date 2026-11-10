@@ -1,39 +1,35 @@
 {
   "id": "waq3e6a4",
   "partOfSpeech": "noun",
+  "meaning": "certainty",
+  "english": [
+    {
+      "id": "6vhh30nk",
+      "word": "certainty",
+      "meaning": "state of being certain",
+      "register": "formal",
+      "note": "Use this for the abstract state or degree of being certain, especially in formal or analytical contexts."
+    },
+    {
+      "id": "otb1vh4z",
+      "word": "solidity",
+      "meaning": "certainty; soundness",
+      "register": "written",
+      "note": "Use this when the emphasis is on certainty or definiteness rather than on whether something is sound or trustworthy."
+    }
+  ],
   "traditional": "確定性",
   "jyutping": "kok3 ding6 sing3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "certainty",
-      "english": [
-        {
-          "id": "6vhh30nk",
-          "word": "certainty",
-          "meaning": "state of being certain",
-          "register": "formal",
-          "note": "Use this for the abstract state or degree of being certain, especially in formal or analytical contexts."
-        },
-        {
-          "id": "otb1vh4z",
-          "word": "solidity",
-          "meaning": "certainty; soundness",
-          "register": "written",
-          "note": "Use this when the emphasis is on certainty or definiteness rather than on whether something is sound or trustworthy."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The certainty of this model's predictions is still not high enough.",
-          "traditional": "呢個模型嘅預測確定性仲未夠高。",
-          "jyutping": "ni1 go3 mou4 jing4 ge3 jyu6 cak1 kok3 ding6 sing3 zung6 mei6 gau3 gou1"
-        },
-        {
-          "english": "This report fails to establish the solidity of the conclusion.",
-          "traditional": "呢份報告未能證明結論嘅確定性。",
-          "jyutping": "ni1 fan6 bou3 gou3 mei6 nang4 zing3 ming4 git3 leon6 ge3 kok3 ding6 sing3"
-        }
-      ]
+      "english": "The certainty of this model's predictions is still not high enough.",
+      "traditional": "呢個模型嘅預測確定性仲未夠高。",
+      "jyutping": "ni1 go3 mou4 jing4 ge3 jyu6 cak1 kok3 ding6 sing3 zung6 mei6 gau3 gou1"
+    },
+    {
+      "english": "This report fails to establish the solidity of the conclusion.",
+      "traditional": "呢份報告未能證明結論嘅確定性。",
+      "jyutping": "ni1 fan6 bou3 gou3 mei6 nang4 zing3 ming4 git3 leon6 ge3 kok3 ding6 sing3"
     }
   ]
 }

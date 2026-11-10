@@ -1,59 +1,55 @@
 {
   "id": "wavaumxv",
   "partOfSpeech": "verb",
+  "meaning": "to persuade, convince",
+  "english": [
+    {
+      "id": "p0ueh96q",
+      "word": "convince",
+      "meaning": "make someone believe",
+      "note": "This is the all-purpose choice when someone actively persuades another person or changes their mind through reasons or arguments."
+    },
+    {
+      "id": "0eqoirmh",
+      "word": "persuade",
+      "meaning": "convince to do",
+      "note": "This is the all-purpose choice when you successfully convince someone through reasons or verbal argument."
+    },
+    {
+      "id": "eadkv32p",
+      "word": "influence",
+      "meaning": "influence, sway",
+      "note": "Use this when influencing someone means persuading or inducing them to agree or act."
+    },
+    {
+      "id": "nd57leao",
+      "word": "sell",
+      "meaning": "sell an idea",
+      "note": "Use this when “selling” a viewpoint means persuading someone to accept it."
+    }
+  ],
   "traditional": "說服",
   "jyutping": "seoi3 fuk6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "to persuade, convince",
-      "english": [
-        {
-          "id": "p0ueh96q",
-          "word": "convince",
-          "meaning": "make someone believe",
-          "note": "This is the all-purpose choice when someone actively persuades another person or changes their mind through reasons or arguments."
-        },
-        {
-          "id": "0eqoirmh",
-          "word": "persuade",
-          "meaning": "convince to do",
-          "note": "This is the all-purpose choice when you successfully convince someone through reasons or verbal argument."
-        },
-        {
-          "id": "eadkv32p",
-          "word": "influence",
-          "meaning": "influence, sway",
-          "note": "Use this when influencing someone means persuading or inducing them to agree or act."
-        },
-        {
-          "id": "nd57leao",
-          "word": "sell",
-          "meaning": "sell an idea",
-          "note": "Use this when “selling” a viewpoint means persuading someone to accept it."
-        }
-      ],
-      "examples": [
-        {
-          "english": "He used reason to convince me.",
-          "traditional": "佢用道理說服咗我。",
-          "jyutping": "keoi5 jung6 dou6 lei5 seoi3 fuk6 zo2 ngo5"
-        },
-        {
-          "english": "I finally managed to persuade him to accept this plan.",
-          "traditional": "我終於說服咗佢接受呢個方案。",
-          "jyutping": "ngo5 zung1 jyu1 seoi3 fuk6 zo2 keoi5 zip3 sau6 ni1 go3 fong1 on3"
-        },
-        {
-          "english": "My friend finally managed to influence me to join the trip.",
-          "traditional": "我個朋友終於說服我一齊去旅行。",
-          "jyutping": "ngo5 go3 pang4 jau5 zung1 jyu1 seoi3 fuk6 ngo5 jat1 cai4 heoi3 leoi5 hang4"
-        },
-        {
-          "english": "You need to sell me on the idea that this plan will really work.",
-          "traditional": "你要先說服我呢個方案真係可行。",
-          "jyutping": "nei5 jiu3 sin1 seoi3 fuk6 ngo5 ni1 go3 fong1 on3 zan1 hai6 ho2 hang4"
-        }
-      ]
+      "english": "He used reason to convince me.",
+      "traditional": "佢用道理說服咗我。",
+      "jyutping": "keoi5 jung6 dou6 lei5 seoi3 fuk6 zo2 ngo5"
+    },
+    {
+      "english": "I finally managed to persuade him to accept this plan.",
+      "traditional": "我終於說服咗佢接受呢個方案。",
+      "jyutping": "ngo5 zung1 jyu1 seoi3 fuk6 zo2 keoi5 zip3 sau6 ni1 go3 fong1 on3"
+    },
+    {
+      "english": "My friend finally managed to influence me to join the trip.",
+      "traditional": "我個朋友終於說服我一齊去旅行。",
+      "jyutping": "ngo5 go3 pang4 jau5 zung1 jyu1 seoi3 fuk6 ngo5 jat1 cai4 heoi3 leoi5 hang4"
+    },
+    {
+      "english": "You need to sell me on the idea that this plan will really work.",
+      "traditional": "你要先說服我呢個方案真係可行。",
+      "jyutping": "nei5 jiu3 sin1 seoi3 fuk6 ngo5 ni1 go3 fong1 on3 zan1 hai6 ho2 hang4"
     }
   ]
 }

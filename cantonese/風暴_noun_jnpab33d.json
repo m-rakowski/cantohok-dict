@@ -1,28 +1,24 @@
 {
   "id": "jnpab33d",
   "partOfSpeech": "noun",
+  "meaning": "violent weather",
+  "english": [
+    {
+      "id": "cibhrsdv",
+      "word": "storm",
+      "meaning": "violent weather",
+      "register": "written",
+      "note": "This is the all-purpose noun for severe or destructive weather, especially in news and weather contexts."
+    }
+  ],
   "traditional": "風暴",
   "jyutping": "fung1 bou6",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "violent weather",
-      "english": [
-        {
-          "id": "cibhrsdv",
-          "word": "storm",
-          "meaning": "violent weather",
-          "register": "written",
-          "note": "This is the all-purpose noun for severe or destructive weather, especially in news and weather contexts."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "The Observatory says there will be a storm tonight, so everyone had better not go out.",
-          "traditional": "天文台話今晚有風暴，大家最好唔好出街。",
-          "jyutping": "tin1 man4 toi4 waa6 gam1 maan1 jau5 fung1 bou6 daai6 gaa1 zeoi3 hou2 m4 hou2 ceot1 gaai1"
-        }
-      ]
+      "english": "The Observatory says there will be a storm tonight, so everyone had better not go out.",
+      "traditional": "天文台話今晚有風暴，大家最好唔好出街。",
+      "jyutping": "tin1 man4 toi4 waa6 gam1 maan1 jau5 fung1 bou6 daai6 gaa1 zeoi3 hou2 m4 hou2 ceot1 gaai1"
     }
   ]
 }

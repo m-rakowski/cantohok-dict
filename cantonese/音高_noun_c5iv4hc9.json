@@ -1,37 +1,33 @@
 {
   "id": "c5iv4hc9",
   "partOfSpeech": "noun",
+  "meaning": "pitch of a sound",
+  "english": [
+    {
+      "id": "ome7arl9",
+      "word": "pitch",
+      "meaning": "musical note frequency",
+      "note": "Use this as the standard term for the perceived frequency of a musical or other sound."
+    },
+    {
+      "id": "x4zlhlgx",
+      "word": "tone",
+      "meaning": "pitch",
+      "note": "Use this for a specific musical or acoustic pitch, rather than a word's linguistic tone."
+    }
+  ],
   "traditional": "音高",
   "jyutping": "jam1 gou1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "pitch of a sound",
-      "english": [
-        {
-          "id": "ome7arl9",
-          "word": "pitch",
-          "meaning": "musical note frequency",
-          "note": "Use this as the standard term for the perceived frequency of a musical or other sound."
-        },
-        {
-          "id": "x4zlhlgx",
-          "word": "tone",
-          "meaning": "pitch",
-          "note": "Use this for a specific musical or acoustic pitch, rather than a word's linguistic tone."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The pitch of this song keeps rising and falling, and it sounds uncomfortable.",
-          "traditional": "呢首歌個音高忽高忽低，聽落好唔舒服。",
-          "jyutping": "ne1 sau2 go1 go3 jam1 gou1 fat1 gou1 fat1 dai1 teng1 lok6 hou2 m4 syu1 fuk6"
-        },
-        {
-          "english": "When you sing, you need to control the tone well.",
-          "traditional": "你唱歌嗰陣要控制好音高。",
-          "jyutping": "nei5 coeng3 go1 go2 zan6 jiu3 hung3 zai3 hou2 jam1 gou1"
-        }
-      ]
+      "english": "The pitch of this song keeps rising and falling, and it sounds uncomfortable.",
+      "traditional": "呢首歌個音高忽高忽低，聽落好唔舒服。",
+      "jyutping": "ne1 sau2 go1 go3 jam1 gou1 fat1 gou1 fat1 dai1 teng1 lok6 hou2 m4 syu1 fuk6"
+    },
+    {
+      "english": "When you sing, you need to control the tone well.",
+      "traditional": "你唱歌嗰陣要控制好音高。",
+      "jyutping": "nei5 coeng3 go1 go2 zan6 jiu3 hung3 zai3 hou2 jam1 gou1"
     }
   ]
 }

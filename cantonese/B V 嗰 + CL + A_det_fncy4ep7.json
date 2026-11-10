@@ -1,26 +1,22 @@
 {
   "id": "fncy4ep7",
   "partOfSpeech": "det",
+  "meaning": "relative possessor",
+  "english": [
+    {
+      "id": "d766yblp",
+      "word": "whose",
+      "meaning": "relative possessor",
+      "note": "Use this relative-clause restructuring when B, the possessor's noun, is involved in the clause V; for example, 隻狗搞出意外嗰個男人 means “the man whose dog caused the accident.”"
+    }
+  ],
   "traditional": "B V 嗰 + CL + A",
   "jyutping": "B V go2 CL A",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "relative possessor",
-      "english": [
-        {
-          "id": "d766yblp",
-          "word": "whose",
-          "meaning": "relative possessor",
-          "note": "Use this relative-clause restructuring when B, the possessor's noun, is involved in the clause V; for example, 隻狗搞出意外嗰個男人 means “the man whose dog caused the accident.”"
-        }
-      ],
-      "examples": [
-        {
-          "english": "I saw the man whose dog bit someone.",
-          "traditional": "我見過隻狗咬親人嗰個男人。",
-          "jyutping": "ngo5 gin3 gwo3 zek3 gau2 ngaau5 can1 jan4 go2 go3 naam4 jan4"
-        }
-      ]
+      "english": "I saw the man whose dog bit someone.",
+      "traditional": "我見過隻狗咬親人嗰個男人。",
+      "jyutping": "ngo5 gin3 gwo3 zek3 gau2 ngaau5 can1 jan4 go2 go3 naam4 jan4"
     }
   ]
 }

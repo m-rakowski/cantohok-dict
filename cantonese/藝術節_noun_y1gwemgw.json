@@ -1,26 +1,22 @@
 {
   "id": "y1gwemgw",
   "partOfSpeech": "noun",
+  "meaning": "arts/music festival",
+  "english": [
+    {
+      "id": "463afe5p",
+      "word": "festival",
+      "meaning": "arts/music festival",
+      "note": "Use this for an arts festival or a festival promoting the arts more generally."
+    }
+  ],
   "traditional": "藝術節",
   "jyutping": "ngai6 seot6 zit3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "arts/music festival",
-      "english": [
-        {
-          "id": "463afe5p",
-          "word": "festival",
-          "meaning": "arts/music festival",
-          "note": "Use this for an arts festival or a festival promoting the arts more generally."
-        }
-      ],
-      "examples": [
-        {
-          "english": "There are lots of local theatre performances at this arts festival.",
-          "traditional": "今個藝術節有好多本地戲劇表演。",
-          "jyutping": "gam1 go3 ngai6 seot6 zit3 jau5 hou2 do1 bun2 dei6 hei3 kek6 biu2 jin2"
-        }
-      ]
+      "english": "There are lots of local theatre performances at this arts festival.",
+      "traditional": "今個藝術節有好多本地戲劇表演。",
+      "jyutping": "gam1 go3 ngai6 seot6 zit3 jau5 hou2 do1 bun2 dei6 hei3 kek6 biu2 jin2"
     }
   ]
 }

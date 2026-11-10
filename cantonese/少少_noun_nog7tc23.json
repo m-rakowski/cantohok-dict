@@ -1,82 +1,78 @@
 {
   "id": "nog7tc23",
   "partOfSpeech": "noun",
+  "meaning": "a little bit, small amount",
+  "english": [
+    {
+      "id": "so3f1h0x",
+      "word": "trace",
+      "meaning": "very small amount",
+      "register": "colloquial",
+      "note": "Use this all-purpose colloquial expression for a very small or residual amount."
+    },
+    {
+      "id": "ohaaju1l",
+      "word": "dash",
+      "meaning": "small amount",
+      "note": "Use this for a very small amount, especially in cooking instructions such as adding a dash of vinegar."
+    },
+    {
+      "id": "92xe6t67",
+      "word": "smattering",
+      "meaning": "small amount",
+      "note": "This is the all-purpose colloquial choice for a small amount; use it for a small number only when the context makes that clear."
+    },
+    {
+      "id": "kjciy69t",
+      "word": "touch",
+      "meaning": "a little bit",
+      "note": "Use this as the all-purpose noun for a small amount or a tiny adjustment."
+    },
+    {
+      "id": "wi4sfsk0",
+      "word": "trifle",
+      "meaning": "a small amount",
+      "note": "Use this for a very small amount of something, especially in everyday phrases such as 少少芥末."
+    },
+    {
+      "id": "osjrw2tj",
+      "word": "whisper",
+      "meaning": "tiny amount",
+      "note": "Use 少少 when the whisper means a very small amount of a flavor, quality, or other substance."
+    }
+  ],
   "traditional": "少少",
   "jyutping": "siu2 siu2",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "a little bit, small amount",
-      "english": [
-        {
-          "id": "so3f1h0x",
-          "word": "trace",
-          "meaning": "very small amount",
-          "register": "colloquial",
-          "note": "Use this all-purpose colloquial expression for a very small or residual amount."
-        },
-        {
-          "id": "ohaaju1l",
-          "word": "dash",
-          "meaning": "small amount",
-          "note": "Use this for a very small amount, especially in cooking instructions such as adding a dash of vinegar."
-        },
-        {
-          "id": "92xe6t67",
-          "word": "smattering",
-          "meaning": "small amount",
-          "note": "This is the all-purpose colloquial choice for a small amount; use it for a small number only when the context makes that clear."
-        },
-        {
-          "id": "kjciy69t",
-          "word": "touch",
-          "meaning": "a little bit",
-          "note": "Use this as the all-purpose noun for a small amount or a tiny adjustment."
-        },
-        {
-          "id": "wi4sfsk0",
-          "word": "trifle",
-          "meaning": "a small amount",
-          "note": "Use this for a very small amount of something, especially in everyday phrases such as 少少芥末."
-        },
-        {
-          "id": "osjrw2tj",
-          "word": "whisper",
-          "meaning": "tiny amount",
-          "note": "Use 少少 when the whisper means a very small amount of a flavor, quality, or other substance."
-        }
-      ],
-      "examples": [
-        {
-          "english": "There’s still a trace of milk left in the fridge.",
-          "traditional": "雪櫃仲有少少牛奶。",
-          "jyutping": "syut3 gwai6 zung6 jau5 siu2 siu2 ngau4 naai5"
-        },
-        {
-          "english": "Just add a dash of vinegar to the soup.",
-          "traditional": "湯入面加少少醋就得喇。",
-          "jyutping": "tong1 jap6 min6 gaa1 siu2 siu2 cou3 zau6 dak1 laa3"
-        },
-        {
-          "english": "This soup only needs a smattering of salt.",
-          "traditional": "呢啲湯落少少鹽就夠喇。",
-          "jyutping": "ni1 di1 tong1 lok6 siu2 siu2 jim4 zau6 gau3 laa3"
-        },
-        {
-          "english": "Just a small touch of salt is enough.",
-          "traditional": "落少少鹽就夠喇。",
-          "jyutping": "lok6 siu2 siu2 jim4 zau6 gau3 laa3"
-        },
-        {
-          "english": "Just a trifle of mustard will do.",
-          "traditional": "落少少芥末就夠喇。",
-          "jyutping": "lok6 siu2 siu2 gaai3 mut6 zau6 gau3 laa3"
-        },
-        {
-          "english": "Just a whisper of pepper in the soup is enough.",
-          "traditional": "湯入面落少少胡椒就夠喇。",
-          "jyutping": "tong1 jap6 min6 lok6 siu2 siu2 wu4 ziu1 zau6 gau3 laa3"
-        }
-      ]
+      "english": "There’s still a trace of milk left in the fridge.",
+      "traditional": "雪櫃仲有少少牛奶。",
+      "jyutping": "syut3 gwai6 zung6 jau5 siu2 siu2 ngau4 naai5"
+    },
+    {
+      "english": "Just add a dash of vinegar to the soup.",
+      "traditional": "湯入面加少少醋就得喇。",
+      "jyutping": "tong1 jap6 min6 gaa1 siu2 siu2 cou3 zau6 dak1 laa3"
+    },
+    {
+      "english": "This soup only needs a smattering of salt.",
+      "traditional": "呢啲湯落少少鹽就夠喇。",
+      "jyutping": "ni1 di1 tong1 lok6 siu2 siu2 jim4 zau6 gau3 laa3"
+    },
+    {
+      "english": "Just a small touch of salt is enough.",
+      "traditional": "落少少鹽就夠喇。",
+      "jyutping": "lok6 siu2 siu2 jim4 zau6 gau3 laa3"
+    },
+    {
+      "english": "Just a trifle of mustard will do.",
+      "traditional": "落少少芥末就夠喇。",
+      "jyutping": "lok6 siu2 siu2 gaai3 mut6 zau6 gau3 laa3"
+    },
+    {
+      "english": "Just a whisper of pepper in the soup is enough.",
+      "traditional": "湯入面落少少胡椒就夠喇。",
+      "jyutping": "tong1 jap6 min6 lok6 siu2 siu2 wu4 ziu1 zau6 gau3 laa3"
     }
   ]
 }

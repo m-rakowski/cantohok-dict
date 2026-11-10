@@ -1,50 +1,46 @@
 {
   "id": "x65rarmh",
   "partOfSpeech": "noun",
+  "meaning": "polite word for a woman, madam",
+  "english": [
+    {
+      "id": "rn8ty7l2",
+      "word": "madam",
+      "meaning": "polite address to woman",
+      "note": "This is the all-purpose polite term for addressing or referring to an adult woman, especially in public or service contexts."
+    },
+    {
+      "id": "atd9zkey",
+      "word": "woman",
+      "meaning": "adult female person",
+      "register": "formal",
+      "note": "Use this polite form when referring to a woman respectfully, especially in public or service contexts."
+    },
+    {
+      "id": "485bq6tz",
+      "word": "lady",
+      "meaning": "polite plural address",
+      "register": "formal",
+      "note": "Use this for a polite or formal reference to women, especially in public announcements or address."
+    }
+  ],
   "traditional": "女士",
   "jyutping": "neoi5 si6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "polite word for a woman, madam",
-      "english": [
-        {
-          "id": "rn8ty7l2",
-          "word": "madam",
-          "meaning": "polite address to woman",
-          "note": "This is the all-purpose polite term for addressing or referring to an adult woman, especially in public or service contexts."
-        },
-        {
-          "id": "atd9zkey",
-          "word": "woman",
-          "meaning": "adult female person",
-          "register": "formal",
-          "note": "Use this polite form when referring to a woman respectfully, especially in public or service contexts."
-        },
-        {
-          "id": "485bq6tz",
-          "word": "lady",
-          "meaning": "polite plural address",
-          "register": "formal",
-          "note": "Use this for a polite or formal reference to women, especially in public announcements or address."
-        }
-      ],
-      "examples": [
-        {
-          "english": "madam, please come this way.",
-          "traditional": "女士，呢邊請。",
-          "jyutping": "neoi5 si6 ni1 bin1 cing2"
-        },
-        {
-          "english": "Woman with the red bag, please come with me.",
-          "traditional": "拎住紅袋嗰位女士，麻煩跟我嚟。",
-          "jyutping": "ling1 zyu6 hung4 doi2 go2 wai2 neoi5 si6 maa4 faan4 gan1 ngo5 lei4"
-        },
-        {
-          "english": "All lady passengers, please fasten your seat belts.",
-          "traditional": "各位女士，請扣好安全帶。",
-          "jyutping": "gok3 wai2 neoi5 si6 cing2 kau3 hou2 on1 cyun4 daai2"
-        }
-      ]
+      "english": "madam, please come this way.",
+      "traditional": "女士，呢邊請。",
+      "jyutping": "neoi5 si6 ni1 bin1 cing2"
+    },
+    {
+      "english": "Woman with the red bag, please come with me.",
+      "traditional": "拎住紅袋嗰位女士，麻煩跟我嚟。",
+      "jyutping": "ling1 zyu6 hung4 doi2 go2 wai2 neoi5 si6 maa4 faan4 gan1 ngo5 lei4"
+    },
+    {
+      "english": "All lady passengers, please fasten your seat belts.",
+      "traditional": "各位女士，請扣好安全帶。",
+      "jyutping": "gok3 wai2 neoi5 si6 cing2 kau3 hou2 on1 cyun4 daai2"
     }
   ]
 }

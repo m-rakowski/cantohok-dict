@@ -1,50 +1,46 @@
 {
   "id": "w9b0f9n0",
   "partOfSpeech": "noun",
+  "meaning": "court verdict",
+  "english": [
+    {
+      "id": "psu7r9lu",
+      "word": "verdict",
+      "meaning": "jury decision",
+      "note": "Use this specifically for a court's judicial judgment or decision in a case."
+    },
+    {
+      "id": "xkzriet8",
+      "word": "decision",
+      "meaning": "choice or judgement",
+      "register": "formal",
+      "note": "Use this for a court's formal judgment or verdict, not an ordinary personal decision."
+    },
+    {
+      "id": "kd50kk11",
+      "word": "opinion",
+      "meaning": "formal expert judgment",
+      "register": "formal",
+      "note": "Use this specifically for a judge's formal decision rather than a general expert opinion."
+    }
+  ],
   "traditional": "判決",
   "jyutping": "pun3 kyut3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "court verdict",
-      "english": [
-        {
-          "id": "psu7r9lu",
-          "word": "verdict",
-          "meaning": "jury decision",
-          "note": "Use this specifically for a court's judicial judgment or decision in a case."
-        },
-        {
-          "id": "xkzriet8",
-          "word": "decision",
-          "meaning": "choice or judgement",
-          "register": "formal",
-          "note": "Use this for a court's formal judgment or verdict, not an ordinary personal decision."
-        },
-        {
-          "id": "kd50kk11",
-          "word": "opinion",
-          "meaning": "formal expert judgment",
-          "register": "formal",
-          "note": "Use this specifically for a judge's formal decision rather than a general expert opinion."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The judge read out the verdict today and found the defendant guilty.",
-          "traditional": "法官今日宣讀判決，判被告罪成。",
-          "jyutping": "faat3 gun1 gam1 jat6 syun1 duk6 pun3 kyut3 pun3 bei6 gou3 zeoi6 sing4"
-        },
-        {
-          "english": "The judge delivered the decision today.",
-          "traditional": "法官今日宣讀咗判決。",
-          "jyutping": "faat3 gun1 gam1 jat6 syun1 duk6 zo2 pun3 kyut3"
-        },
-        {
-          "english": "The judge finally read out the court's opinion.",
-          "traditional": "法官終於宣讀判決。",
-          "jyutping": "faat3 gun1 zung1 jyu1 syun1 duk6 pun3 kyut3"
-        }
-      ]
+      "english": "The judge read out the verdict today and found the defendant guilty.",
+      "traditional": "法官今日宣讀判決，判被告罪成。",
+      "jyutping": "faat3 gun1 gam1 jat6 syun1 duk6 pun3 kyut3 pun3 bei6 gou3 zeoi6 sing4"
+    },
+    {
+      "english": "The judge delivered the decision today.",
+      "traditional": "法官今日宣讀咗判決。",
+      "jyutping": "faat3 gun1 gam1 jat6 syun1 duk6 zo2 pun3 kyut3"
+    },
+    {
+      "english": "The judge finally read out the court's opinion.",
+      "traditional": "法官終於宣讀判決。",
+      "jyutping": "faat3 gun1 zung1 jyu1 syun1 duk6 pun3 kyut3"
     }
   ]
 }

@@ -1,59 +1,55 @@
 {
   "id": "7qfafqg6",
   "partOfSpeech": "noun",
+  "meaning": "festival, holiday",
+  "english": [
+    {
+      "id": "snedh5ce",
+      "word": "festival",
+      "meaning": "feast day",
+      "note": "This is the all-purpose choice for a feast day or ordinary holiday, rather than a named arts event."
+    },
+    {
+      "id": "07fnm7nu",
+      "word": "feast",
+      "meaning": "religious holiday/festival",
+      "note": "Use this when “feast” means a holiday or festival, especially a religious one, rather than a meal."
+    },
+    {
+      "id": "ydk2raug",
+      "word": "holiday",
+      "meaning": "religious or festival day",
+      "note": "Use 節日 for a religious or traditional festival day rather than a period of time off work."
+    },
+    {
+      "id": "iwvk001e",
+      "word": "day",
+      "meaning": "holiday day",
+      "note": "Use 節日 for a holiday or festival observed on a particular day."
+    }
+  ],
   "traditional": "節日",
   "jyutping": "zit3 jat6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "festival, holiday",
-      "english": [
-        {
-          "id": "snedh5ce",
-          "word": "festival",
-          "meaning": "feast day",
-          "note": "This is the all-purpose choice for a feast day or ordinary holiday, rather than a named arts event."
-        },
-        {
-          "id": "07fnm7nu",
-          "word": "feast",
-          "meaning": "religious holiday/festival",
-          "note": "Use this when “feast” means a holiday or festival, especially a religious one, rather than a meal."
-        },
-        {
-          "id": "ydk2raug",
-          "word": "holiday",
-          "meaning": "religious or festival day",
-          "note": "Use 節日 for a religious or traditional festival day rather than a period of time off work."
-        },
-        {
-          "id": "iwvk001e",
-          "word": "day",
-          "meaning": "holiday day",
-          "note": "Use 節日 for a holiday or festival observed on a particular day."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Lunar New Year is one of the most important festival days for people in Hong Kong.",
-          "traditional": "農曆新年係香港人最重視嘅節日之一。",
-          "jyutping": "nung4 lik6 san1 nin4 hai6 hoeng1 gong2 jan4 zeoi3 zung6 si6 ge3 zit3 jat6 zi1 jat1"
-        },
-        {
-          "english": "Christmas is my favourite feast day.",
-          "traditional": "聖誕節係我最鍾意嘅節日。",
-          "jyutping": "sing3 daan3 zit3 hai6 ngo5 zeoi3 zung1 ji3 ge3 zit3 jat6"
-        },
-        {
-          "english": "The Mid-Autumn Festival is my favourite holiday.",
-          "traditional": "中秋節係我最鍾意嘅節日。",
-          "jyutping": "zung1 cau1 zit3 hai6 ngo5 zeoi3 zung1 ji3 ge3 zit3 jat6"
-        },
-        {
-          "english": "This holiday is a special day for the whole family.",
-          "traditional": "呢個節日係全家人嘅特別日子。",
-          "jyutping": "ni1 go3 zit3 jat6 hai6 cyun4 gaa1 jan4 ge3 dak6 bit6 jat6 zi2"
-        }
-      ]
+      "english": "Lunar New Year is one of the most important festival days for people in Hong Kong.",
+      "traditional": "農曆新年係香港人最重視嘅節日之一。",
+      "jyutping": "nung4 lik6 san1 nin4 hai6 hoeng1 gong2 jan4 zeoi3 zung6 si6 ge3 zit3 jat6 zi1 jat1"
+    },
+    {
+      "english": "Christmas is my favourite feast day.",
+      "traditional": "聖誕節係我最鍾意嘅節日。",
+      "jyutping": "sing3 daan3 zit3 hai6 ngo5 zeoi3 zung1 ji3 ge3 zit3 jat6"
+    },
+    {
+      "english": "The Mid-Autumn Festival is my favourite holiday.",
+      "traditional": "中秋節係我最鍾意嘅節日。",
+      "jyutping": "zung1 cau1 zit3 hai6 ngo5 zeoi3 zung1 ji3 ge3 zit3 jat6"
+    },
+    {
+      "english": "This holiday is a special day for the whole family.",
+      "traditional": "呢個節日係全家人嘅特別日子。",
+      "jyutping": "ni1 go3 zit3 jat6 hai6 cyun4 gaa1 jan4 ge3 dak6 bit6 jat6 zi2"
     }
   ]
 }

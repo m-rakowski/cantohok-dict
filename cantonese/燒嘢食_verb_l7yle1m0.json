@@ -1,37 +1,33 @@
 {
   "id": "l7yle1m0",
   "partOfSpeech": "verb",
+  "meaning": "have a barbecue",
+  "english": [
+    {
+      "id": "mmo1j6n8",
+      "word": "barbecue",
+      "meaning": "cook on a barbecue",
+      "note": "This is the all-purpose colloquial choice for cooking food over a barbecue or grill."
+    },
+    {
+      "id": "ixnqb9f2",
+      "word": "grill",
+      "meaning": "barbecue / cook on grill",
+      "note": "This is the everyday all-purpose choice for cooking food over a grill or barbecue."
+    }
+  ],
   "traditional": "燒嘢食",
   "jyutping": "siu1 je5 sik6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "have a barbecue",
-      "english": [
-        {
-          "id": "mmo1j6n8",
-          "word": "barbecue",
-          "meaning": "cook on a barbecue",
-          "note": "This is the all-purpose colloquial choice for cooking food over a barbecue or grill."
-        },
-        {
-          "id": "ixnqb9f2",
-          "word": "grill",
-          "meaning": "barbecue / cook on grill",
-          "note": "This is the everyday all-purpose choice for cooking food over a grill or barbecue."
-        }
-      ],
-      "examples": [
-        {
-          "english": "We’re going to barbecue at the beach on Saturday.",
-          "traditional": "我哋星期六去沙灘燒嘢食。",
-          "jyutping": "ngo5 dei6 sing1 kei4 luk6 heoi3 saa1 taan1 siu1 je5 sik6"
-        },
-        {
-          "english": "We’re going to grill tonight.",
-          "traditional": "我哋今晚去燒嘢食。",
-          "jyutping": "ngo5 dei6 gam1 maan5 heoi3 siu1 je5 sik6"
-        }
-      ]
+      "english": "We’re going to barbecue at the beach on Saturday.",
+      "traditional": "我哋星期六去沙灘燒嘢食。",
+      "jyutping": "ngo5 dei6 sing1 kei4 luk6 heoi3 saa1 taan1 siu1 je5 sik6"
+    },
+    {
+      "english": "We’re going to grill tonight.",
+      "traditional": "我哋今晚去燒嘢食。",
+      "jyutping": "ngo5 dei6 gam1 maan5 heoi3 siu1 je5 sik6"
     }
   ]
 }

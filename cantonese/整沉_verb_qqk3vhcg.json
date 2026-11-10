@@ -1,28 +1,24 @@
 {
   "id": "qqk3vhcg",
   "partOfSpeech": "verb",
+  "meaning": "sink a ship",
+  "english": [
+    {
+      "id": "uq6cncnd",
+      "word": "sink",
+      "meaning": "sink a ship",
+      "register": "colloquial",
+      "note": "Use this colloquial verb when an action causes a boat or ship to go under."
+    }
+  ],
   "traditional": "整沉",
   "jyutping": "zing2 cam4",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "sink a ship",
-      "english": [
-        {
-          "id": "uq6cncnd",
-          "word": "sink",
-          "meaning": "sink a ship",
-          "register": "colloquial",
-          "note": "Use this colloquial verb when an action causes a boat or ship to go under."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "The storm caused the cargo ship to sink.",
-          "traditional": "場風暴整沉咗艘貨船。",
-          "jyutping": "coeng4 fung1 bou6 zing2 cam4 zo2 sau1 fo3 syun4"
-        }
-      ]
+      "english": "The storm caused the cargo ship to sink.",
+      "traditional": "場風暴整沉咗艘貨船。",
+      "jyutping": "coeng4 fung1 bou6 zing2 cam4 zo2 sau1 fo3 syun4"
     }
   ]
 }

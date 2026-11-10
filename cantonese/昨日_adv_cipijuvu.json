@@ -1,28 +1,24 @@
 {
   "id": "cipijuvu",
   "partOfSpeech": "adv",
+  "meaning": "day before today",
+  "english": [
+    {
+      "id": "udm4nfd8",
+      "word": "yesterday",
+      "meaning": "day before today",
+      "register": "written",
+      "note": "Use this formal or written alternative rather than the everyday spoken forms."
+    }
+  ],
   "traditional": "昨日",
   "jyutping": "zok3 jat6",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "day before today",
-      "english": [
-        {
-          "id": "udm4nfd8",
-          "word": "yesterday",
-          "meaning": "day before today",
-          "register": "written",
-          "note": "Use this formal or written alternative rather than the everyday spoken forms."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "Yesterday I submitted the report.",
-          "traditional": "昨日我已經提交報告。",
-          "jyutping": "zok3 jat6 ngo5 ji5 ging1 tai4 gaau1 bou3 gou3"
-        }
-      ]
+      "english": "Yesterday I submitted the report.",
+      "traditional": "昨日我已經提交報告。",
+      "jyutping": "zok3 jat6 ngo5 ji5 ging1 tai4 gaau1 bou3 gou3"
     }
   ]
 }

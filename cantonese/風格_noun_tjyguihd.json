@@ -1,48 +1,44 @@
 {
   "id": "tjyguihd",
   "partOfSpeech": "noun",
+  "meaning": "style",
+  "english": [
+    {
+      "id": "u4wf3iu3",
+      "word": "style",
+      "meaning": "artistic manner",
+      "note": "This is the all-purpose choice for a recognizable manner of expression, creation, or personal performance."
+    },
+    {
+      "id": "i2eo7ccc",
+      "word": "genre",
+      "meaning": "artistic category / style",
+      "note": "Use this when the genre is being described specifically as a work's artistic style or manner."
+    },
+    {
+      "id": "m0sky2mb",
+      "word": "vein",
+      "meaning": "style or tendency",
+      "note": "Use this for the style or characteristic quality of a work, performance, or approach."
+    }
+  ],
   "traditional": "風格",
   "jyutping": "fung1 gaak3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "style",
-      "english": [
-        {
-          "id": "u4wf3iu3",
-          "word": "style",
-          "meaning": "artistic manner",
-          "note": "This is the all-purpose choice for a recognizable manner of expression, creation, or personal performance."
-        },
-        {
-          "id": "i2eo7ccc",
-          "word": "genre",
-          "meaning": "artistic category / style",
-          "note": "Use this when the genre is being described specifically as a work's artistic style or manner."
-        },
-        {
-          "id": "m0sky2mb",
-          "word": "vein",
-          "meaning": "style or tendency",
-          "note": "Use this for the style or characteristic quality of a work, performance, or approach."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Their writing style is refreshingly fresh.",
-          "traditional": "佢寫文章嘅風格好清新。",
-          "jyutping": "keoi5 se2 man4 zoeng1 ge3 fung1 gaak3 hou2 cing1 san1"
-        },
-        {
-          "english": "The genre of this painting is very distinctive.",
-          "traditional": "呢幅畫嘅風格好獨特。",
-          "jyutping": "ne1 fuk1 waa2 ge3 fung1 gaak3 hou2 duk6 dak6"
-        },
-        {
-          "english": "They've gone for a humorous vein this time.",
-          "traditional": "佢哋今次係走幽默風格。",
-          "jyutping": "keoi5 dei6 gam1 ci3 hai6 zau2 jau1 mak6 fung1 gaak3"
-        }
-      ]
+      "english": "Their writing style is refreshingly fresh.",
+      "traditional": "佢寫文章嘅風格好清新。",
+      "jyutping": "keoi5 se2 man4 zoeng1 ge3 fung1 gaak3 hou2 cing1 san1"
+    },
+    {
+      "english": "The genre of this painting is very distinctive.",
+      "traditional": "呢幅畫嘅風格好獨特。",
+      "jyutping": "ne1 fuk1 waa2 ge3 fung1 gaak3 hou2 duk6 dak6"
+    },
+    {
+      "english": "They've gone for a humorous vein this time.",
+      "traditional": "佢哋今次係走幽默風格。",
+      "jyutping": "keoi5 dei6 gam1 ci3 hai6 zau2 jau1 mak6 fung1 gaak3"
     }
   ]
 }

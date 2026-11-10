@@ -1,37 +1,33 @@
 {
   "id": "979639a6",
   "partOfSpeech": "noun",
+  "meaning": "reply, response",
+  "english": [
+    {
+      "id": "5uwxm8k6",
+      "word": "response",
+      "meaning": "answer or reply",
+      "note": "This is the all-purpose everyday noun for a reply or response to someone."
+    },
+    {
+      "id": "v2vq3het",
+      "word": "reply",
+      "meaning": "response; answer",
+      "note": "Use this for a reply to a message, email, or online comment."
+    }
+  ],
   "traditional": "回覆",
   "jyutping": "wui4 fuk1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "reply, response",
-      "english": [
-        {
-          "id": "5uwxm8k6",
-          "word": "response",
-          "meaning": "answer or reply",
-          "note": "This is the all-purpose everyday noun for a reply or response to someone."
-        },
-        {
-          "id": "v2vq3het",
-          "word": "reply",
-          "meaning": "response; answer",
-          "note": "Use this for a reply to a message, email, or online comment."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I still haven't received your response.",
-          "traditional": "我仲未收到你嘅回覆。",
-          "jyutping": "ngo5 zung6 mei6 sau1 dou2 nei5 ge3 wui4 fuk1"
-        },
-        {
-          "english": "I still haven't received your email reply.",
-          "traditional": "我仲未收到你個電郵回覆。",
-          "jyutping": "ngo5 zung6 mei6 sau1 dou2 nei5 go3 din6 jau4 wui4 fuk1"
-        }
-      ]
+      "english": "I still haven't received your response.",
+      "traditional": "我仲未收到你嘅回覆。",
+      "jyutping": "ngo5 zung6 mei6 sau1 dou2 nei5 ge3 wui4 fuk1"
+    },
+    {
+      "english": "I still haven't received your email reply.",
+      "traditional": "我仲未收到你個電郵回覆。",
+      "jyutping": "ngo5 zung6 mei6 sau1 dou2 nei5 go3 din6 jau4 wui4 fuk1"
     }
   ]
 }

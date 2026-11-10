@@ -1,49 +1,45 @@
 {
   "id": "crkav5be",
   "partOfSpeech": "verb",
+  "meaning": "touch, feel with the hand",
+  "english": [
+    {
+      "id": "gdnii000",
+      "word": "touch",
+      "meaning": "make physical contact",
+      "note": "Use this as the all-purpose verb for deliberate hand or body contact, including brief, threatening, or sexual touching."
+    },
+    {
+      "id": "hmdtodnt",
+      "word": "feel",
+      "meaning": "touch / sense by touch",
+      "note": "Use this for physically touching something or feeling around for an object by touch."
+    },
+    {
+      "id": "rengdgda",
+      "word": "handle",
+      "meaning": "touch or hold",
+      "register": "colloquial",
+      "note": "Use this when handle means touch or feel something with the hand rather than wield it."
+    }
+  ],
   "traditional": "摸",
   "jyutping": "mo2",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "touch, feel with the hand",
-      "english": [
-        {
-          "id": "gdnii000",
-          "word": "touch",
-          "meaning": "make physical contact",
-          "note": "Use this as the all-purpose verb for deliberate hand or body contact, including brief, threatening, or sexual touching."
-        },
-        {
-          "id": "hmdtodnt",
-          "word": "feel",
-          "meaning": "touch / sense by touch",
-          "note": "Use this for physically touching something or feeling around for an object by touch."
-        },
-        {
-          "id": "rengdgda",
-          "word": "handle",
-          "meaning": "touch or hold",
-          "register": "colloquial",
-          "note": "Use this when handle means touch or feel something with the hand rather than wield it."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Don't randomly touch my things.",
-          "traditional": "唔好亂摸我啲嘢。",
-          "jyutping": "m4 hou2 lyun6 mo2 ngo5 di1 je5"
-        },
-        {
-          "english": "I can feel that the table is still wet.",
-          "traditional": "我摸到張枱仲係濕嘅。",
-          "jyutping": "ngo5 mo2 dou2 zoeng1 toi2 zung6 hai6 sap1 ge3"
-        },
-        {
-          "english": "Be careful, don’t handle the wound.",
-          "traditional": "小心啲，唔好摸個傷口。",
-          "jyutping": "siu2 sam1 di1 m4 hou2 mo2 go3 soeng1 hau2"
-        }
-      ]
+      "english": "Don't randomly touch my things.",
+      "traditional": "唔好亂摸我啲嘢。",
+      "jyutping": "m4 hou2 lyun6 mo2 ngo5 di1 je5"
+    },
+    {
+      "english": "I can feel that the table is still wet.",
+      "traditional": "我摸到張枱仲係濕嘅。",
+      "jyutping": "ngo5 mo2 dou2 zoeng1 toi2 zung6 hai6 sap1 ge3"
+    },
+    {
+      "english": "Be careful, don’t handle the wound.",
+      "traditional": "小心啲，唔好摸個傷口。",
+      "jyutping": "siu2 sam1 di1 m4 hou2 mo2 go3 soeng1 hau2"
     }
   ]
 }

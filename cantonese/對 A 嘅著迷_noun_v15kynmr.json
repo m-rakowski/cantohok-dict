@@ -1,37 +1,33 @@
 {
   "id": "v15kynmr",
   "partOfSpeech": "noun",
+  "meaning": "fascination with A",
+  "english": [
+    {
+      "id": "g1rsmiee",
+      "word": "fascination",
+      "meaning": "being fascinated",
+      "note": "Use this noun phrase for the state of being fascinated by a stated person or thing."
+    },
+    {
+      "id": "vop6hriz",
+      "word": "preoccupation",
+      "meaning": "obsession; absorbed state",
+      "note": "Use this when the preoccupation means being enthralled or fascinated by A."
+    }
+  ],
   "traditional": "對 A 嘅著迷",
   "jyutping": "deoi3 A ge3 zoek6 mai4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "fascination with A",
-      "english": [
-        {
-          "id": "g1rsmiee",
-          "word": "fascination",
-          "meaning": "being fascinated",
-          "note": "Use this noun phrase for the state of being fascinated by a stated person or thing."
-        },
-        {
-          "id": "vop6hriz",
-          "word": "preoccupation",
-          "meaning": "obsession; absorbed state",
-          "note": "Use this when the preoccupation means being enthralled or fascinated by A."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Their fascination with dinosaurs hasn't changed since childhood.",
-          "traditional": "佢對恐龍嘅著迷由細到大都冇變。",
-          "jyutping": "keoi5 deoi3 hung2 lung4 ge3 zoek6 mai4 jau4 sai3 dou3 daai6 dou1 mou5 bin3"
-        },
-        {
-          "english": "My preoccupation with old Hong Kong films means I look for them whenever I have time.",
-          "traditional": "我對舊香港電影嘅著迷，令我一有時間就去搵嚟睇。",
-          "jyutping": "ngo5 deoi3 gau6 hoeng1 gong2 din6 jing2 ge3 zoek6 mai4 ling6 ngo5 jat1 jau5 si4 gaan3 zau6 heoi3 wan2 lai4 tai2"
-        }
-      ]
+      "english": "Their fascination with dinosaurs hasn't changed since childhood.",
+      "traditional": "佢對恐龍嘅著迷由細到大都冇變。",
+      "jyutping": "keoi5 deoi3 hung2 lung4 ge3 zoek6 mai4 jau4 sai3 dou3 daai6 dou1 mou5 bin3"
+    },
+    {
+      "english": "My preoccupation with old Hong Kong films means I look for them whenever I have time.",
+      "traditional": "我對舊香港電影嘅著迷，令我一有時間就去搵嚟睇。",
+      "jyutping": "ngo5 deoi3 gau6 hoeng1 gong2 din6 jing2 ge3 zoek6 mai4 ling6 ngo5 jat1 jau5 si4 gaan3 zau6 heoi3 wan2 lai4 tai2"
     }
   ]
 }

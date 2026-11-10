@@ -1,28 +1,24 @@
 {
   "id": "pdoseie5",
   "partOfSpeech": "adj",
+  "meaning": "neither young nor old",
+  "english": [
+    {
+      "id": "k27nv0fc",
+      "word": "middle-aged",
+      "meaning": "neither young nor old",
+      "register": "colloquial",
+      "note": "Use this conversational description when you want to stress that someone is neither young nor old rather than simply label them 中年."
+    }
+  ],
   "traditional": "唔後生唔老",
   "jyutping": "m4 hau6 saang1 m4 lou5",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "neither young nor old",
-      "english": [
-        {
-          "id": "k27nv0fc",
-          "word": "middle-aged",
-          "meaning": "neither young nor old",
-          "register": "colloquial",
-          "note": "Use this conversational description when you want to stress that someone is neither young nor old rather than simply label them 中年."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "They are middle-aged—not young, not old—and still really driven at work.",
-          "traditional": "佢唔後生唔老，做嘢仲好有衝勁。",
-          "jyutping": "keoi5 m4 hau6 saang1 m4 lou5 zou6 je5 zung6 hou2 jau5 cung1 ging6"
-        }
-      ]
+      "english": "They are middle-aged—not young, not old—and still really driven at work.",
+      "traditional": "佢唔後生唔老，做嘢仲好有衝勁。",
+      "jyutping": "keoi5 m4 hau6 saang1 m4 lou5 zou6 je5 zung6 hou2 jau5 cung1 ging6"
     }
   ]
 }

@@ -1,26 +1,22 @@
 {
   "id": "ynu5cg7q",
   "partOfSpeech": "noun",
+  "meaning": "musical fifth",
+  "english": [
+    {
+      "id": "vgs45vn5",
+      "word": "fifth",
+      "meaning": "musical fifth",
+      "note": "Use this specifically for the musical interval of a fifth."
+    }
+  ],
   "traditional": "五度",
   "jyutping": "ng5 dou6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "musical fifth",
-      "english": [
-        {
-          "id": "vgs45vn5",
-          "word": "fifth",
-          "meaning": "musical fifth",
-          "note": "Use this specifically for the musical interval of a fifth."
-        }
-      ],
-      "examples": [
-        {
-          "english": "These two notes are a fifth apart.",
-          "traditional": "呢兩個音相差五度。",
-          "jyutping": "ni1 loeng5 go3 jam1 soeng1 caa1 ng5 dou6"
-        }
-      ]
+      "english": "These two notes are a fifth apart.",
+      "traditional": "呢兩個音相差五度。",
+      "jyutping": "ni1 loeng5 go3 jam1 soeng1 caa1 ng5 dou6"
     }
   ]
 }

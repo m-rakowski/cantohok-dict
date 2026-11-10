@@ -1,48 +1,44 @@
 {
   "id": "f1mz8izw",
   "partOfSpeech": "verb",
+  "meaning": "to be filled with",
+  "english": [
+    {
+      "id": "sdth2no5",
+      "word": "permeate",
+      "meaning": "spread through completely",
+      "note": "Use this when something spreads throughout and fills a room or other space, emphasizing the result rather than the process of entering."
+    },
+    {
+      "id": "smd0y1b3",
+      "word": "suffuse",
+      "meaning": "spread through/over",
+      "note": "This is the all-purpose choice when a place or thing is filled with light, colour, liquid, or another substance."
+    },
+    {
+      "id": "gbyqgjq5",
+      "word": "fill",
+      "meaning": "occupy completely",
+      "note": "Use this when a smell, feeling, atmosphere, or other quality pervades a space or person."
+    }
+  ],
   "traditional": "充滿",
   "jyutping": "cung1 mun5",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "to be filled with",
-      "english": [
-        {
-          "id": "sdth2no5",
-          "word": "permeate",
-          "meaning": "spread through completely",
-          "note": "Use this when something spreads throughout and fills a room or other space, emphasizing the result rather than the process of entering."
-        },
-        {
-          "id": "smd0y1b3",
-          "word": "suffuse",
-          "meaning": "spread through/over",
-          "note": "This is the all-purpose choice when a place or thing is filled with light, colour, liquid, or another substance."
-        },
-        {
-          "id": "gbyqgjq5",
-          "word": "fill",
-          "meaning": "occupy completely",
-          "note": "Use this when a smell, feeling, atmosphere, or other quality pervades a space or person."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The smell of curry can permeate the whole flat.",
-          "traditional": "成間屋都充滿咖喱香味。",
-          "jyutping": "sing4 gaan1 uk1 dou1 cung1 mun5 gaa3 lei1 hoeng1 mei6"
-        },
-        {
-          "english": "Morning sunlight began to suffuse the whole room.",
-          "traditional": "晨早嘅陽光充滿成間屋。",
-          "jyutping": "san4 zou2 ge3 joeng4 gwong1 cung1 mun5 sing4 gaan1 uk1"
-        },
-        {
-          "english": "The smell of coffee can fill the whole room.",
-          "traditional": "間屋充滿咖啡香。",
-          "jyutping": "gaan1 uk1 cung1 mun5 gaa3 fe1 hoeng1"
-        }
-      ]
+      "english": "The smell of curry can permeate the whole flat.",
+      "traditional": "成間屋都充滿咖喱香味。",
+      "jyutping": "sing4 gaan1 uk1 dou1 cung1 mun5 gaa3 lei1 hoeng1 mei6"
+    },
+    {
+      "english": "Morning sunlight began to suffuse the whole room.",
+      "traditional": "晨早嘅陽光充滿成間屋。",
+      "jyutping": "san4 zou2 ge3 joeng4 gwong1 cung1 mun5 sing4 gaan1 uk1"
+    },
+    {
+      "english": "The smell of coffee can fill the whole room.",
+      "traditional": "間屋充滿咖啡香。",
+      "jyutping": "gaan1 uk1 cung1 mun5 gaa3 fe1 hoeng1"
     }
   ]
 }

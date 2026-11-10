@@ -1,48 +1,44 @@
 {
   "id": "y1tsl8b7",
   "partOfSpeech": "verb",
+  "meaning": "interrupt",
+  "english": [
+    {
+      "id": "yv4xjvy6",
+      "word": "interrupt",
+      "meaning": "break in / speak over",
+      "note": "Use 打斷 as the all-purpose verb for interrupting a person, action, or process."
+    },
+    {
+      "id": "zppvi0bj",
+      "word": "disrupt",
+      "meaning": "interrupt or hinder",
+      "note": "Use this when an action, speech, or activity is interrupted before it can continue normally."
+    },
+    {
+      "id": "6x4ll3sq",
+      "word": "break",
+      "meaning": "interrupt, end",
+      "note": "Use this when breaking means interrupting an action, conversation, or continuing process."
+    }
+  ],
   "traditional": "打斷",
   "jyutping": "daa2 dyun6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "interrupt",
-      "english": [
-        {
-          "id": "yv4xjvy6",
-          "word": "interrupt",
-          "meaning": "break in / speak over",
-          "note": "Use 打斷 as the all-purpose verb for interrupting a person, action, or process."
-        },
-        {
-          "id": "zppvi0bj",
-          "word": "disrupt",
-          "meaning": "interrupt or hinder",
-          "note": "Use this when an action, speech, or activity is interrupted before it can continue normally."
-        },
-        {
-          "id": "6x4ll3sq",
-          "word": "break",
-          "meaning": "interrupt, end",
-          "note": "Use this when breaking means interrupting an action, conversation, or continuing process."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Don't interrupt what I'm doing.",
-          "traditional": "你唔好打斷我做緊嘢。",
-          "jyutping": "nei5 m4 hou2 daa2 dyun6 ngo5 zou6 gan2 je5"
-        },
-        {
-          "english": "Please don't disrupt my speech.",
-          "traditional": "唔好打斷我講嘢。",
-          "jyutping": "m4 hou2 daa2 dyun6 ngo5 gong2 je5"
-        },
-        {
-          "english": "Don’t break my train of thought.",
-          "traditional": "唔好打斷我講嘢。",
-          "jyutping": "m4 hou2 daa2 dyun6 ngo5 gong2 je5"
-        }
-      ]
+      "english": "Don't interrupt what I'm doing.",
+      "traditional": "你唔好打斷我做緊嘢。",
+      "jyutping": "nei5 m4 hou2 daa2 dyun6 ngo5 zou6 gan2 je5"
+    },
+    {
+      "english": "Please don't disrupt my speech.",
+      "traditional": "唔好打斷我講嘢。",
+      "jyutping": "m4 hou2 daa2 dyun6 ngo5 gong2 je5"
+    },
+    {
+      "english": "Don’t break my train of thought.",
+      "traditional": "唔好打斷我講嘢。",
+      "jyutping": "m4 hou2 daa2 dyun6 ngo5 gong2 je5"
     }
   ]
 }

@@ -1,30 +1,26 @@
 {
   "id": "6x1qciq6",
   "partOfSpeech": "noun",
+  "meaning": "public housing estate",
+  "english": [
+    {
+      "id": "tr69wc5j",
+      "word": "project",
+      "meaning": "public housing estate",
+      "note": "Use this for a public-housing building or home rather than a private development."
+    },
+    {
+      "word": "public housing",
+      "meaning": "public housing estate"
+    }
+  ],
   "traditional": "公屋",
   "jyutping": "gung1 uk1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "public housing estate",
-      "english": [
-        {
-          "id": "tr69wc5j",
-          "word": "project",
-          "meaning": "public housing estate",
-          "note": "Use this for a public-housing building or home rather than a private development."
-        },
-        {
-          "word": "public housing",
-          "meaning": "public housing estate"
-        }
-      ],
-      "examples": [
-        {
-          "english": "We finally got a public-housing flat through the housing project.",
-          "traditional": "我哋終於透過房屋計劃申請到一間公屋。",
-          "jyutping": "ngo5 dei6 zung1 jyu1 tau3 gwo3 fong4 uk1 gai3 waak6 san1 cing2 dou2 jat1 gaan1 gung1 uk1"
-        }
-      ]
+      "english": "We finally got a public-housing flat through the housing project.",
+      "traditional": "我哋終於透過房屋計劃申請到一間公屋。",
+      "jyutping": "ngo5 dei6 zung1 jyu1 tau3 gwo3 fong4 uk1 gai3 waak6 san1 cing2 dou2 jat1 gaan1 gung1 uk1"
     }
   ]
 }

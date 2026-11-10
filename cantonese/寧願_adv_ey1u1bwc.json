@@ -1,38 +1,34 @@
 {
   "id": "ey1u1bwc",
   "partOfSpeech": "adv",
+  "meaning": "would rather",
+  "english": [
+    {
+      "id": "wswrcgd3",
+      "word": "rather",
+      "meaning": "preference; rather than",
+      "note": "This is the all-purpose choice or preference equivalent, especially in “would rather” statements."
+    },
+    {
+      "id": "gvd6tfmm",
+      "word": "preferably",
+      "meaning": "by preference",
+      "register": "colloquial",
+      "note": "Use this when the speaker is expressing a clear personal preference between alternatives, rather than giving a general recommendation."
+    }
+  ],
   "traditional": "寧願",
   "jyutping": "ning4 jyun6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "would rather",
-      "english": [
-        {
-          "id": "wswrcgd3",
-          "word": "rather",
-          "meaning": "preference; rather than",
-          "note": "This is the all-purpose choice or preference equivalent, especially in “would rather” statements."
-        },
-        {
-          "id": "gvd6tfmm",
-          "word": "preferably",
-          "meaning": "by preference",
-          "register": "colloquial",
-          "note": "Use this when the speaker is expressing a clear personal preference between alternatives, rather than giving a general recommendation."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I’d rather stay home than go out.",
-          "traditional": "我寧願留喺屋企，都唔想出去。",
-          "jyutping": "ngo5 ning4 jyun6 lau4 hai2 uk1 kei2 dou1 m4 soeng2 ceot1 heoi3"
-        },
-        {
-          "english": "I would preferably stay home and watch a movie rather than go out into the crowds.",
-          "traditional": "我寧願留喺屋企睇戲，都唔想出去迫。",
-          "jyutping": "ngo5 ning4 jyun6 lau4 hai2 uk1 kei2 tai2 hei3 dou1 m4 soeng2 ceot1 heoi3 bik1"
-        }
-      ]
+      "english": "I’d rather stay home than go out.",
+      "traditional": "我寧願留喺屋企，都唔想出去。",
+      "jyutping": "ngo5 ning4 jyun6 lau4 hai2 uk1 kei2 dou1 m4 soeng2 ceot1 heoi3"
+    },
+    {
+      "english": "I would preferably stay home and watch a movie rather than go out into the crowds.",
+      "traditional": "我寧願留喺屋企睇戲，都唔想出去迫。",
+      "jyutping": "ngo5 ning4 jyun6 lau4 hai2 uk1 kei2 tai2 hei3 dou1 m4 soeng2 ceot1 heoi3 bik1"
     }
   ]
 }

@@ -1,26 +1,22 @@
 {
   "id": "hdgmjxbd",
   "partOfSpeech": "prep",
+  "meaning": "as ... as comparison",
+  "english": [
+    {
+      "id": "t9kbwojj",
+      "word": "as",
+      "meaning": "as ... as comparison",
+      "note": "Use this for the negative pattern meaning that A is not as ADJ as B."
+    }
+  ],
   "traditional": "A 冇 B 咁 + ADJ",
   "jyutping": "A mou5 B gam3 ADJ",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "as ... as comparison",
-      "english": [
-        {
-          "id": "t9kbwojj",
-          "word": "as",
-          "meaning": "as ... as comparison",
-          "note": "Use this for the negative pattern meaning that A is not as ADJ as B."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I’m not as fast as you.",
-          "traditional": "我冇你咁快。",
-          "jyutping": "ngo5 mou5 nei5 gam3 faai3"
-        }
-      ]
+      "english": "I’m not as fast as you.",
+      "traditional": "我冇你咁快。",
+      "jyutping": "ngo5 mou5 nei5 gam3 faai3"
     }
   ]
 }

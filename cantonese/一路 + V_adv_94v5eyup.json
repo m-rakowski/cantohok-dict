@@ -1,28 +1,24 @@
 {
   "id": "94v5eyup",
   "partOfSpeech": "adv",
+  "meaning": "without pause",
+  "english": [
+    {
+      "id": "g6qt658z",
+      "word": "continuously",
+      "meaning": "without pause",
+      "register": "colloquial",
+      "note": "Use this conversational construction for someone or something carrying on doing V throughout the activity."
+    }
+  ],
   "traditional": "一路 + V",
   "jyutping": "jat1 lou6 V",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "without pause",
-      "english": [
-        {
-          "id": "g6qt658z",
-          "word": "continuously",
-          "meaning": "without pause",
-          "register": "colloquial",
-          "note": "Use this conversational construction for someone or something carrying on doing V throughout the activity."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "I continuously listen to music while cooking.",
-          "traditional": "我一路煮飯一路聽歌。",
-          "jyutping": "ngo5 jat1 lou6 zyu2 faan6 jat1 lou6 teng1 go1"
-        }
-      ]
+      "english": "I continuously listen to music while cooking.",
+      "traditional": "我一路煮飯一路聽歌。",
+      "jyutping": "ngo5 jat1 lou6 zyu2 faan6 jat1 lou6 teng1 go1"
     }
   ]
 }

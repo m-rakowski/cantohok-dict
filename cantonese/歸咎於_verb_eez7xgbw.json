@@ -1,28 +1,24 @@
 {
   "id": "eez7xgbw",
   "partOfSpeech": "verb",
+  "meaning": "ascribe to cause",
+  "english": [
+    {
+      "id": "sxvytfp1",
+      "word": "attribute",
+      "meaning": "ascribe to cause",
+      "register": "written",
+      "note": "Choose this when attributing a problem, fault, or bad result to someone or something with blame."
+    }
+  ],
   "traditional": "歸咎於",
   "jyutping": "gwai1 gau3 jyu1",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "ascribe to cause",
-      "english": [
-        {
-          "id": "sxvytfp1",
-          "word": "attribute",
-          "meaning": "ascribe to cause",
-          "register": "written",
-          "note": "Choose this when attributing a problem, fault, or bad result to someone or something with blame."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "The company chose to attribute this mistake to a system failure.",
-          "traditional": "公司將今次失誤歸咎於系統故障。",
-          "jyutping": "gung1 si1 zoeng1 gam1 ci3 sat1 ng6 gwai1 gau3 jyu1 hai6 tung2 gu3 zoeng3"
-        }
-      ]
+      "english": "The company chose to attribute this mistake to a system failure.",
+      "traditional": "公司將今次失誤歸咎於系統故障。",
+      "jyutping": "gung1 si1 zoeng1 gam1 ci3 sat1 ng6 gwai1 gau3 jyu1 hai6 tung2 gu3 zoeng3"
     }
   ]
 }

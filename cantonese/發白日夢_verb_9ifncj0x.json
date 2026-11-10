@@ -1,49 +1,45 @@
 {
   "id": "9ifncj0x",
   "partOfSpeech": "verb",
+  "meaning": "daydream",
+  "english": [
+    {
+      "id": "13wdvb79",
+      "word": "muse",
+      "meaning": "ponder, daydream",
+      "note": "Use this specifically when “muse” means to daydream or drift into imagined scenarios."
+    },
+    {
+      "id": "jd49et2l",
+      "word": "daydream",
+      "meaning": "to daydream, woolgather",
+      "register": "colloquial",
+      "note": "Use this when you want to make clear that the person is daydreaming rather than dreaming while asleep."
+    },
+    {
+      "id": "9pch0hsp",
+      "word": "dream",
+      "meaning": "daydream",
+      "note": "Use 發白日夢 specifically for consciously daydreaming while awake, rather than ordinary sleep dreams."
+    }
+  ],
   "traditional": "發白日夢",
   "jyutping": "faat3 baak6 jat6 mung6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "daydream",
-      "english": [
-        {
-          "id": "13wdvb79",
-          "word": "muse",
-          "meaning": "ponder, daydream",
-          "note": "Use this specifically when “muse” means to daydream or drift into imagined scenarios."
-        },
-        {
-          "id": "jd49et2l",
-          "word": "daydream",
-          "meaning": "to daydream, woolgather",
-          "register": "colloquial",
-          "note": "Use this when you want to make clear that the person is daydreaming rather than dreaming while asleep."
-        },
-        {
-          "id": "9pch0hsp",
-          "word": "dream",
-          "meaning": "daydream",
-          "note": "Use 發白日夢 specifically for consciously daydreaming while awake, rather than ordinary sleep dreams."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I often muse in class, imagining myself travelling around the world.",
-          "traditional": "上堂嗰陣我成日發白日夢，幻想自己去環遊世界。",
-          "jyutping": "soeng5 tong4 go2 zan6 ngo5 seng4 jat6 faat3 baak6 jat6 mung6 waan6 soeng2 zi6 gei2 heoi3 waan4 jau4 sai3 gaai3"
-        },
-        {
-          "english": "They daydream in class, and the teacher calls them several times without getting a response.",
-          "traditional": "佢上堂時發白日夢，老師叫咗佢幾次都冇反應。",
-          "jyutping": "keoi5 soeng5 tong4 si4 faat3 baak6 jat6 mung6 lou5 si1 giu3 zo2 keoi5 gei2 ci3 dou1 mou5 faan2 jing3"
-        },
-        {
-          "english": "I often dream while I am at work.",
-          "traditional": "我返工嗰陣成日發白日夢。",
-          "jyutping": "ngo5 faan1 gung1 go2 zan6 seng4 jat6 faat3 baak6 jat6 mung6"
-        }
-      ]
+      "english": "I often muse in class, imagining myself travelling around the world.",
+      "traditional": "上堂嗰陣我成日發白日夢，幻想自己去環遊世界。",
+      "jyutping": "soeng5 tong4 go2 zan6 ngo5 seng4 jat6 faat3 baak6 jat6 mung6 waan6 soeng2 zi6 gei2 heoi3 waan4 jau4 sai3 gaai3"
+    },
+    {
+      "english": "They daydream in class, and the teacher calls them several times without getting a response.",
+      "traditional": "佢上堂時發白日夢，老師叫咗佢幾次都冇反應。",
+      "jyutping": "keoi5 soeng5 tong4 si4 faat3 baak6 jat6 mung6 lou5 si1 giu3 zo2 keoi5 gei2 ci3 dou1 mou5 faan2 jing3"
+    },
+    {
+      "english": "I often dream while I am at work.",
+      "traditional": "我返工嗰陣成日發白日夢。",
+      "jyutping": "ngo5 faan1 gung1 go2 zan6 seng4 jat6 faat3 baak6 jat6 mung6"
     }
   ]
 }

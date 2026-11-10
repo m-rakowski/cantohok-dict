@@ -1,28 +1,24 @@
 {
   "id": "qzspnj8x",
   "partOfSpeech": "noun",
+  "meaning": "rest symbol",
+  "english": [
+    {
+      "id": "ln6d5vf4",
+      "word": "rest",
+      "meaning": "rest symbol",
+      "register": "written",
+      "note": "Use this specifically for the written musical symbol that indicates a pause."
+    }
+  ],
   "traditional": "休止符",
   "jyutping": "jau1 zi2 fu4",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "rest symbol",
-      "english": [
-        {
-          "id": "ln6d5vf4",
-          "word": "rest",
-          "meaning": "rest symbol",
-          "register": "written",
-          "note": "Use this specifically for the written musical symbol that indicates a pause."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "This bar has a rest.",
-          "traditional": "呢個小節有一個休止符。",
-          "jyutping": "ni1 go3 siu2 zit3 jau5 jat1 go3 jau1 zi2 fu4"
-        }
-      ]
+      "english": "This bar has a rest.",
+      "traditional": "呢個小節有一個休止符。",
+      "jyutping": "ni1 go3 siu2 zit3 jau5 jat1 go3 jau1 zi2 fu4"
     }
   ]
 }

@@ -1,26 +1,22 @@
 {
   "id": "e126qxrn",
   "partOfSpeech": "noun",
+  "meaning": "food mixture component",
+  "english": [
+    {
+      "id": "ax824e94",
+      "word": "ingredient",
+      "meaning": "food mixture component",
+      "note": "Use this specifically for food ingredients, especially ingredients bought or prepared for cooking."
+    }
+  ],
   "traditional": "食材",
   "jyutping": "sik6 coi4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "food mixture component",
-      "english": [
-        {
-          "id": "ax824e94",
-          "word": "ingredient",
-          "meaning": "food mixture component",
-          "note": "Use this specifically for food ingredients, especially ingredients bought or prepared for cooking."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I bought the ingredient for tonight’s hot pot.",
-          "traditional": "我買咗今晚打邊爐要用嘅食材。",
-          "jyutping": "ngo5 maai5 zo2 gam1 maan5 daa2 bin1 lou4 jiu3 jung6 ge3 sik6 coi4"
-        }
-      ]
+      "english": "I bought the ingredient for tonight’s hot pot.",
+      "traditional": "我買咗今晚打邊爐要用嘅食材。",
+      "jyutping": "ngo5 maai5 zo2 gam1 maan5 daa2 bin1 lou4 jiu3 jung6 ge3 sik6 coi4"
     }
   ]
 }

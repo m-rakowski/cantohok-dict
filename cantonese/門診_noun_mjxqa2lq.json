@@ -1,26 +1,22 @@
 {
   "id": "mjxqa2lq",
   "partOfSpeech": "noun",
+  "meaning": "clinic appointment/session",
+  "english": [
+    {
+      "id": "exye25ms",
+      "word": "clinic",
+      "meaning": "clinic appointment/session",
+      "note": "Use this for a hospital's outpatient clinic or the outpatient session itself, rather than the clinic building."
+    }
+  ],
   "traditional": "門診",
   "jyutping": "mun4 can2",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "clinic appointment/session",
-      "english": [
-        {
-          "id": "exye25ms",
-          "word": "clinic",
-          "meaning": "clinic appointment/session",
-          "note": "Use this for a hospital's outpatient clinic or the outpatient session itself, rather than the clinic building."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The outpatient clinic is very crowded today.",
-          "traditional": "今日門診好多人。",
-          "jyutping": "gam1 jat6 mun4 can2 hou2 do1 jan4"
-        }
-      ]
+      "english": "The outpatient clinic is very crowded today.",
+      "traditional": "今日門診好多人。",
+      "jyutping": "gam1 jat6 mun4 can2 hou2 do1 jan4"
     }
   ]
 }

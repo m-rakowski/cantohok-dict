@@ -1,28 +1,24 @@
 {
   "id": "t9kmwner",
   "partOfSpeech": "prep",
+  "meaning": "time of occurrence",
+  "english": [
+    {
+      "id": "5745nqu2",
+      "word": "at",
+      "meaning": "time of occurrence",
+      "register": "colloquial",
+      "note": "This is the all-purpose colloquial choice for ordinary location, presence at an event, and a time of occurrence."
+    }
+  ],
   "traditional": "喺",
   "jyutping": "hai2",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "time of occurrence",
-      "english": [
-        {
-          "id": "5745nqu2",
-          "word": "at",
-          "meaning": "time of occurrence",
-          "register": "colloquial",
-          "note": "This is the all-purpose colloquial choice for ordinary location, presence at an event, and a time of occurrence."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "We’ll wait for you at the station.",
-          "traditional": "我哋喺車站等你。",
-          "jyutping": "ngo5 dei6 hai2 ce1 zaam6 dang2 nei5"
-        }
-      ]
+      "english": "We’ll wait for you at the station.",
+      "traditional": "我哋喺車站等你。",
+      "jyutping": "ngo5 dei6 hai2 ce1 zaam6 dang2 nei5"
     }
   ]
 }

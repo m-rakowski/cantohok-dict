@@ -1,38 +1,34 @@
 {
   "id": "3x3vpsof",
   "partOfSpeech": "noun",
+  "meaning": "class, lesson",
+  "english": [
+    {
+      "id": "hbqbp6nh",
+      "word": "lesson",
+      "meaning": "class period",
+      "note": "This is the all-purpose spoken choice for a class period or lesson at school."
+    },
+    {
+      "id": "86tzsxh5",
+      "word": "lecture",
+      "meaning": "lecture class",
+      "register": "colloquial",
+      "note": "Use 堂 when lecture means a regular class period, especially at school or university."
+    }
+  ],
   "traditional": "堂",
   "jyutping": "tong4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "class, lesson",
-      "english": [
-        {
-          "id": "hbqbp6nh",
-          "word": "lesson",
-          "meaning": "class period",
-          "note": "This is the all-purpose spoken choice for a class period or lesson at school."
-        },
-        {
-          "id": "86tzsxh5",
-          "word": "lecture",
-          "meaning": "lecture class",
-          "register": "colloquial",
-          "note": "Use 堂 when lecture means a regular class period, especially at school or university."
-        }
-      ],
-      "examples": [
-        {
-          "english": "In today's English lesson, the teacher taught passive voice.",
-          "traditional": "今日英文堂老師教被動語態。",
-          "jyutping": "gam1 jat6 jing1 man4 tong4 lou5 si1 gaau1 bei6 dung6 jyu5 taai3"
-        },
-        {
-          "english": "We have an economics lecture every Wednesday.",
-          "traditional": "我哋逢星期三都有經濟堂。",
-          "jyutping": "ngo5 dei6 fung4 sing1 kei4 saam1 dou1 jau5 ging1 zai3 tong4"
-        }
-      ]
+      "english": "In today's English lesson, the teacher taught passive voice.",
+      "traditional": "今日英文堂老師教被動語態。",
+      "jyutping": "gam1 jat6 jing1 man4 tong4 lou5 si1 gaau1 bei6 dung6 jyu5 taai3"
+    },
+    {
+      "english": "We have an economics lecture every Wednesday.",
+      "traditional": "我哋逢星期三都有經濟堂。",
+      "jyutping": "ngo5 dei6 fung4 sing1 kei4 saam1 dou1 jau5 ging1 zai3 tong4"
     }
   ]
 }

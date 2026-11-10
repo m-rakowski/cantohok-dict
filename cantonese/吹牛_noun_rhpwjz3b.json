@@ -1,40 +1,36 @@
 {
   "id": "rhpwjz3b",
   "partOfSpeech": "noun",
+  "meaning": "boasting, bragging",
+  "english": [
+    {
+      "id": "tjxf5m0e",
+      "word": "boast",
+      "meaning": "brag, self-praise",
+      "register": "colloquial",
+      "note": "This is the colloquial all-purpose choice for the act or words of boasting."
+    },
+    {
+      "id": "w816y4fv",
+      "word": "brag",
+      "meaning": "boast; boasting",
+      "register": "colloquial",
+      "note": "This is the all-purpose noun for a boast or boastful talk, especially an exaggerated claim."
+    }
+  ],
   "traditional": "吹牛",
   "jyutping": "ceoi1 ngau4",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "boasting, bragging",
-      "english": [
-        {
-          "id": "tjxf5m0e",
-          "word": "boast",
-          "meaning": "brag, self-praise",
-          "register": "colloquial",
-          "note": "This is the colloquial all-purpose choice for the act or words of boasting."
-        },
-        {
-          "id": "w816y4fv",
-          "word": "brag",
-          "meaning": "boast; boasting",
-          "register": "colloquial",
-          "note": "This is the all-purpose noun for a boast or boastful talk, especially an exaggerated claim."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "All his talk about knowing everything is just a boast.",
-          "traditional": "佢成日話自己乜都識，真係吹牛。",
-          "jyutping": "keoi5 seng4 jat6 waa6 zi6 gei2 mat1 dou1 sik1 zan1 hai6 ceoi1 ngau4"
-        },
-        {
-          "english": "He likes to brag, making himself sound like he knows everything.",
-          "traditional": "佢成日吹牛，講到自己好似乜都識咁。",
-          "jyutping": "keoi5 seng4 jat6 ceoi1 ngau4 gong2 dou3 zi6 gei2 hou2 ci5 mat1 dou1 sik1 gam3"
-        }
-      ]
+      "english": "All his talk about knowing everything is just a boast.",
+      "traditional": "佢成日話自己乜都識，真係吹牛。",
+      "jyutping": "keoi5 seng4 jat6 waa6 zi6 gei2 mat1 dou1 sik1 zan1 hai6 ceoi1 ngau4"
+    },
+    {
+      "english": "He likes to brag, making himself sound like he knows everything.",
+      "traditional": "佢成日吹牛，講到自己好似乜都識咁。",
+      "jyutping": "keoi5 seng4 jat6 ceoi1 ngau4 gong2 dou3 zi6 gei2 hou2 ci5 mat1 dou1 sik1 gam3"
     }
   ]
 }

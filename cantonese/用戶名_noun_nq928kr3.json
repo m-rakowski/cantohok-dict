@@ -1,26 +1,22 @@
 {
   "id": "nq928kr3",
   "partOfSpeech": "noun",
+  "meaning": "identifier / username",
+  "english": [
+    {
+      "id": "2aea7n22",
+      "word": "name",
+      "meaning": "identifier / username",
+      "note": "Use this for an online account username or other user identifier."
+    }
+  ],
   "traditional": "用戶名",
   "jyutping": "jung6 wu6 ming4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "identifier / username",
-      "english": [
-        {
-          "id": "2aea7n22",
-          "word": "name",
-          "meaning": "identifier / username",
-          "note": "Use this for an online account username or other user identifier."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Please enter your user name before logging in.",
-          "traditional": "登入之前要先輸入用戶名。",
-          "jyutping": "dang1 jap6 zi1 cin4 jiu3 sin1 syu1 jap6 jung6 wu6 ming4"
-        }
-      ]
+      "english": "Please enter your user name before logging in.",
+      "traditional": "登入之前要先輸入用戶名。",
+      "jyutping": "dang1 jap6 zi1 cin4 jiu3 sin1 syu1 jap6 jung6 wu6 ming4"
     }
   ]
 }

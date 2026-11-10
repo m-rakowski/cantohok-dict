@@ -1,28 +1,24 @@
 {
   "id": "pj3ct844",
   "partOfSpeech": "adj",
+  "meaning": "not bothered / not concerned",
+  "english": [
+    {
+      "id": "a5mrkvu7",
+      "word": "bothered",
+      "meaning": "not bothered / not concerned",
+      "register": "colloquial",
+      "note": "Use this for not minding something or not being concerned about it."
+    }
+  ],
   "traditional": "唔介意",
   "jyutping": "m4 gaai3 ji3",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "not bothered / not concerned",
-      "english": [
-        {
-          "id": "a5mrkvu7",
-          "word": "bothered",
-          "meaning": "not bothered / not concerned",
-          "register": "colloquial",
-          "note": "Use this for not minding something or not being concerned about it."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "I’m not bothered if you sit next to me.",
-          "traditional": "你坐我隔籬，我唔介意。",
-          "jyutping": "nei5 co5 ngo5 gaak3 lei4 ngo5 m4 gaai3 ji3"
-        }
-      ]
+      "english": "I’m not bothered if you sit next to me.",
+      "traditional": "你坐我隔籬，我唔介意。",
+      "jyutping": "nei5 co5 ngo5 gaak3 lei4 ngo5 m4 gaai3 ji3"
     }
   ]
 }

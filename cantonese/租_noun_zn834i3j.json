@@ -1,28 +1,24 @@
 {
   "id": "zn834i3j",
   "partOfSpeech": "noun",
+  "meaning": "payment for property",
+  "english": [
+    {
+      "id": "4x59xqql",
+      "word": "rent",
+      "meaning": "payment for property",
+      "register": "colloquial",
+      "note": "Speakers use this shorter colloquial noun especially when the context already makes the rental payment clear."
+    }
+  ],
   "traditional": "租",
   "jyutping": "zou1",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "payment for property",
-      "english": [
-        {
-          "id": "4x59xqql",
-          "word": "rent",
-          "meaning": "payment for property",
-          "register": "colloquial",
-          "note": "Speakers use this shorter colloquial noun especially when the context already makes the rental payment clear."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "Have you paid this month's rent yet?",
-          "traditional": "你今個月交咗租未呀？",
-          "jyutping": "nei5 gam1 go3 jyut6 gaau1 zo2 zou1 mei6 aa3"
-        }
-      ]
+      "english": "Have you paid this month's rent yet?",
+      "traditional": "你今個月交咗租未呀？",
+      "jyutping": "nei5 gam1 go3 jyut6 gaau1 zo2 zou1 mei6 aa3"
     }
   ]
 }

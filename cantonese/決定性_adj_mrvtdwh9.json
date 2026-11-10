@@ -1,40 +1,36 @@
 {
   "id": "mrvtdwh9",
   "partOfSpeech": "adj",
+  "meaning": "decisive",
+  "english": [
+    {
+      "id": "6xj875kz",
+      "word": "decisive",
+      "meaning": "settling, conclusive",
+      "register": "formal",
+      "note": "This is the all-purpose choice for a decision, vote, result, or factor that settles an issue or makes the outcome conclusive."
+    },
+    {
+      "id": "0yjctg9s",
+      "word": "final",
+      "meaning": "decisive; conclusive",
+      "register": "formal",
+      "note": "Use this for the decisive or conclusive quality of something, especially in formal or analytical descriptions such as a decisive factor or vote."
+    }
+  ],
   "traditional": "決定性",
   "jyutping": "kyut3 ding6 sing3",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "decisive",
-      "english": [
-        {
-          "id": "6xj875kz",
-          "word": "decisive",
-          "meaning": "settling, conclusive",
-          "register": "formal",
-          "note": "This is the all-purpose choice for a decision, vote, result, or factor that settles an issue or makes the outcome conclusive."
-        },
-        {
-          "id": "0yjctg9s",
-          "word": "final",
-          "meaning": "decisive; conclusive",
-          "register": "formal",
-          "note": "Use this for the decisive or conclusive quality of something, especially in formal or analytical descriptions such as a decisive factor or vote."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The final point in this match was decisive.",
-          "traditional": "呢場比賽最後一分係決定性一分。",
-          "jyutping": "ni1 coeng4 bei2 coi3 zeoi3 hau6 jat1 fan1 hai6 kyut3 ding6 sing3 jat1 fan1"
-        },
-        {
-          "english": "This is a decisive factor in the final result.",
-          "traditional": "呢個係決定性因素，會影響最後結果。",
-          "jyutping": "ni1 go3 hai6 kyut3 ding6 sing3 jan1 sou3 wui5 jing2 hoeng2 zeoi3 hau6 git3 gwo2"
-        }
-      ]
+      "english": "The final point in this match was decisive.",
+      "traditional": "呢場比賽最後一分係決定性一分。",
+      "jyutping": "ni1 coeng4 bei2 coi3 zeoi3 hau6 jat1 fan1 hai6 kyut3 ding6 sing3 jat1 fan1"
+    },
+    {
+      "english": "This is a decisive factor in the final result.",
+      "traditional": "呢個係決定性因素，會影響最後結果。",
+      "jyutping": "ni1 go3 hai6 kyut3 ding6 sing3 jan1 sou3 wui5 jing2 hoeng2 zeoi3 hau6 git3 gwo2"
     }
   ]
 }

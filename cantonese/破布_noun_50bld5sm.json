@@ -1,37 +1,33 @@
 {
   "id": "50bld5sm",
   "partOfSpeech": "noun",
+  "meaning": "rag",
+  "english": [
+    {
+      "id": "iyeql9ym",
+      "word": "tatter",
+      "meaning": "torn shred; ragged cloth",
+      "note": "This is the all-purpose choice for a torn shred or ragged piece of cloth."
+    },
+    {
+      "id": "mhaqal8w",
+      "word": "rag",
+      "meaning": "piece of cloth",
+      "note": "Use this for a piece of old or torn cloth when its cleaning use is not the focus."
+    }
+  ],
   "traditional": "破布",
   "jyutping": "po3 bou3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "rag",
-      "english": [
-        {
-          "id": "iyeql9ym",
-          "word": "tatter",
-          "meaning": "torn shred; ragged cloth",
-          "note": "This is the all-purpose choice for a torn shred or ragged piece of cloth."
-        },
-        {
-          "id": "mhaqal8w",
-          "word": "rag",
-          "meaning": "piece of cloth",
-          "note": "Use this for a piece of old or torn cloth when its cleaning use is not the focus."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I used a tatter to wipe the window, then threw it away.",
-          "traditional": "我用塊破布抹窗，抹完就掉咗。",
-          "jyutping": "ngo5 jung6 faai3 po3 bou3 maat3 coeng1 maat3 jyun4 zau6 diu6 zo2"
-        },
-        {
-          "english": "Keep this rag to patch the chair.",
-          "traditional": "呢塊破布留返嚟補張凳啦。",
-          "jyutping": "ne1 faai3 po3 bou3 lau4 faan1 lai4 bou2 zoeng1 dang3 laa1"
-        }
-      ]
+      "english": "I used a tatter to wipe the window, then threw it away.",
+      "traditional": "我用塊破布抹窗，抹完就掉咗。",
+      "jyutping": "ngo5 jung6 faai3 po3 bou3 maat3 coeng1 maat3 jyun4 zau6 diu6 zo2"
+    },
+    {
+      "english": "Keep this rag to patch the chair.",
+      "traditional": "呢塊破布留返嚟補張凳啦。",
+      "jyutping": "ne1 faai3 po3 bou3 lau4 faan1 lai4 bou2 zoeng1 dang3 laa1"
     }
   ]
 }

@@ -1,37 +1,33 @@
 {
   "id": "6xa2q0ix",
   "partOfSpeech": "noun",
+  "meaning": "clue, idea of how to proceed",
+  "english": [
+    {
+      "id": "7dyrc94r",
+      "word": "glimpse",
+      "meaning": "faint idea",
+      "note": "Use 頭緒 when the inkling is a tentative lead or partial understanding of how something fits together."
+    },
+    {
+      "id": "k1u0kqfo",
+      "word": "clue",
+      "meaning": "have no idea",
+      "note": "Use this in expressions such as 有頭緒 or 冇頭緒 when “clue” means having or lacking an idea or lead about something."
+    }
+  ],
   "traditional": "頭緒",
   "jyutping": "tau4 seoi5",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "clue, idea of how to proceed",
-      "english": [
-        {
-          "id": "7dyrc94r",
-          "word": "glimpse",
-          "meaning": "faint idea",
-          "note": "Use 頭緒 when the inkling is a tentative lead or partial understanding of how something fits together."
-        },
-        {
-          "id": "k1u0kqfo",
-          "word": "clue",
-          "meaning": "have no idea",
-          "note": "Use this in expressions such as 有頭緒 or 冇頭緒 when “clue” means having or lacking an idea or lead about something."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This pile of information finally gave me a glimpse of how everything fits together.",
-          "traditional": "呢堆資料終於畀我搵到少少頭緒。",
-          "jyutping": "ni1 deoi1 zi1 liu6 zung1 jyu1 bei2 ngo5 wan2 dou2 siu2 siu2 tau4 seoi5"
-        },
-        {
-          "english": "I still have no clue about this matter.",
-          "traditional": "我對呢件事仲未有頭緒。",
-          "jyutping": "ngo5 deoi3 ni1 gin6 si6 zung6 mei6 jau5 tau4 seoi5"
-        }
-      ]
+      "english": "This pile of information finally gave me a glimpse of how everything fits together.",
+      "traditional": "呢堆資料終於畀我搵到少少頭緒。",
+      "jyutping": "ni1 deoi1 zi1 liu6 zung1 jyu1 bei2 ngo5 wan2 dou2 siu2 siu2 tau4 seoi5"
+    },
+    {
+      "english": "I still have no clue about this matter.",
+      "traditional": "我對呢件事仲未有頭緒。",
+      "jyutping": "ngo5 deoi3 ni1 gin6 si6 zung6 mei6 jau5 tau4 seoi5"
     }
   ]
 }

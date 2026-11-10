@@ -1,26 +1,22 @@
 {
   "id": "rbiiz6yc",
   "partOfSpeech": "noun",
+  "meaning": "computer image output",
+  "english": [
+    {
+      "id": "2i0v4a28",
+      "word": "rendering",
+      "meaning": "computer image output",
+      "note": "Use this in computer graphics for producing an image from a digital model, or for the resulting render in that context."
+    }
+  ],
   "traditional": "渲染",
   "jyutping": "syun3 jim5",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "computer image output",
-      "english": [
-        {
-          "id": "2i0v4a28",
-          "word": "rendering",
-          "meaning": "computer image output",
-          "note": "Use this in computer graphics for producing an image from a digital model, or for the resulting render in that context."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The image is still rendering, so it is not ready for release.",
-          "traditional": "張圖仲渲染緊，未出得街。",
-          "jyutping": "zoeng1 tou4 zung6 syun3 jim5 gan2 mei6 ceot1 dak1 gaai1"
-        }
-      ]
+      "english": "The image is still rendering, so it is not ready for release.",
+      "traditional": "張圖仲渲染緊，未出得街。",
+      "jyutping": "zoeng1 tou4 zung6 syun3 jim5 gan2 mei6 ceot1 dak1 gaai1"
     }
   ]
 }

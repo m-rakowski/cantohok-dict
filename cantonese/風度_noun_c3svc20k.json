@@ -1,37 +1,33 @@
 {
   "id": "c3svc20k",
   "partOfSpeech": "noun",
+  "meaning": "graceful manner, poise",
+  "english": [
+    {
+      "id": "y1ef54uc",
+      "word": "gracefulness",
+      "meaning": "graceful movement or manner",
+      "note": "Use this specifically for gracefulness shown in a person's conduct, manners, or bearing rather than the beauty of movement itself."
+    },
+    {
+      "id": "s7kdgcts",
+      "word": "elegance",
+      "meaning": "graceful beauty",
+      "note": "Choose this when the elegance specifically comes from someone's poise, manners, or graceful conduct."
+    }
+  ],
   "traditional": "風度",
   "jyutping": "fung1 dou6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "graceful manner, poise",
-      "english": [
-        {
-          "id": "y1ef54uc",
-          "word": "gracefulness",
-          "meaning": "graceful movement or manner",
-          "note": "Use this specifically for gracefulness shown in a person's conduct, manners, or bearing rather than the beauty of movement itself."
-        },
-        {
-          "id": "s7kdgcts",
-          "word": "elegance",
-          "meaning": "graceful beauty",
-          "note": "Choose this when the elegance specifically comes from someone's poise, manners, or graceful conduct."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Even after losing the match, they still showed great gracefulness.",
-          "traditional": "就算輸咗場波，佢都仲係好有風度。",
-          "jyutping": "zau6 syun3 syu1 zo2 coeng4 bo1 keoi5 dou1 zung6 hai6 hou2 jau5 fung1 dou6"
-        },
-        {
-          "english": "They still showed such elegance even after losing the match.",
-          "traditional": "佢輸咗場波都仲咁有風度。",
-          "jyutping": "keoi5 syu1 zo2 coeng4 bo1 dou1 zung6 gam3 jau5 fung1 dou6"
-        }
-      ]
+      "english": "Even after losing the match, they still showed great gracefulness.",
+      "traditional": "就算輸咗場波，佢都仲係好有風度。",
+      "jyutping": "zau6 syun3 syu1 zo2 coeng4 bo1 keoi5 dou1 zung6 hai6 hou2 jau5 fung1 dou6"
+    },
+    {
+      "english": "They still showed such elegance even after losing the match.",
+      "traditional": "佢輸咗場波都仲咁有風度。",
+      "jyutping": "keoi5 syu1 zo2 coeng4 bo1 dou1 zung6 gam3 jau5 fung1 dou6"
     }
   ]
 }

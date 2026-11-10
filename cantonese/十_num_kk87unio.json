@@ -1,26 +1,22 @@
 {
   "id": "kk87unio",
   "partOfSpeech": "num",
+  "meaning": "number 10",
+  "english": [
+    {
+      "id": "uxr5rchc",
+      "word": "ten",
+      "meaning": "number 10",
+      "note": "This is the all-purpose Cantonese word for the number ten."
+    }
+  ],
   "traditional": "十",
   "jyutping": "sap6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "number 10",
-      "english": [
-        {
-          "id": "uxr5rchc",
-          "word": "ten",
-          "meaning": "number 10",
-          "note": "This is the all-purpose Cantonese word for the number ten."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I need to leave at ten o’clock.",
-          "traditional": "我十點鐘要出門。",
-          "jyutping": "ngo5 sap6 dim2 zung1 jiu3 ceot1 mun4"
-        }
-      ]
+      "english": "I need to leave at ten o’clock.",
+      "traditional": "我十點鐘要出門。",
+      "jyutping": "ngo5 sap6 dim2 zung1 jiu3 ceot1 mun4"
     }
   ]
 }

@@ -1,40 +1,36 @@
 {
   "id": "t0rgsv45",
   "partOfSpeech": "verb",
+  "meaning": "praise highly",
+  "english": [
+    {
+      "id": "mfatslzj",
+      "word": "heap",
+      "meaning": "heap praise on",
+      "register": "colloquial",
+      "note": "This is the all-purpose colloquial choice for praising someone or something very highly and lavishly."
+    },
+    {
+      "id": "qkx5gvfn",
+      "word": "enthuse",
+      "meaning": "show enthusiasm",
+      "register": "colloquial",
+      "note": "Use this when showing enthusiasm specifically by praising something or someone enthusiastically."
+    }
+  ],
   "traditional": "大讚",
   "jyutping": "daai6 zaan3",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "praise highly",
-      "english": [
-        {
-          "id": "mfatslzj",
-          "word": "heap",
-          "meaning": "heap praise on",
-          "register": "colloquial",
-          "note": "This is the all-purpose colloquial choice for praising someone or something very highly and lavishly."
-        },
-        {
-          "id": "qkx5gvfn",
-          "word": "enthuse",
-          "meaning": "show enthusiasm",
-          "register": "colloquial",
-          "note": "Use this when showing enthusiasm specifically by praising something or someone enthusiastically."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "The customers heap praise on our dishes after eating and say they will definitely come again.",
-          "traditional": "客人食完之後大讚我哋啲菜，仲話一定會再嚟。",
-          "jyutping": "haak3 jan4 sik6 jyun4 zi1 hau6 daai6 zaan3 ngo5 dei6 di1 coi3 zung6 waa6 jat1 ding6 wui5 zoi3 lai4"
-        },
-        {
-          "english": "Everyone began to enthuse about this film, saying it was very thoughtfully made.",
-          "traditional": "大家都大讚呢套戲，話拍得好有心思。",
-          "jyutping": "daai6 gaa1 dou1 daai6 zaan3 ni1 tou3 hei3 waa6 paak3 dak1 hou2 jau5 sam1 si1"
-        }
-      ]
+      "english": "The customers heap praise on our dishes after eating and say they will definitely come again.",
+      "traditional": "客人食完之後大讚我哋啲菜，仲話一定會再嚟。",
+      "jyutping": "haak3 jan4 sik6 jyun4 zi1 hau6 daai6 zaan3 ngo5 dei6 di1 coi3 zung6 waa6 jat1 ding6 wui5 zoi3 lai4"
+    },
+    {
+      "english": "Everyone began to enthuse about this film, saying it was very thoughtfully made.",
+      "traditional": "大家都大讚呢套戲，話拍得好有心思。",
+      "jyutping": "daai6 gaa1 dou1 daai6 zaan3 ni1 tou3 hei3 waa6 paak3 dak1 hou2 jau5 sam1 si1"
     }
   ]
 }

@@ -1,28 +1,24 @@
 {
   "id": "r12xf9wk",
   "partOfSpeech": "adj",
+  "meaning": "very good",
+  "english": [
+    {
+      "id": "7lfql1nu",
+      "word": "excellent",
+      "meaning": "very good",
+      "register": "colloquial",
+      "note": "Use this especially when praising how well a person, performance, plan, or solution works."
+    }
+  ],
   "traditional": "好掂",
   "jyutping": "hou2 dim6",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "very good",
-      "english": [
-        {
-          "id": "7lfql1nu",
-          "word": "excellent",
-          "meaning": "very good",
-          "register": "colloquial",
-          "note": "Use this especially when praising how well a person, performance, plan, or solution works."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "Your explanation is excellent.",
-          "traditional": "你呢個解釋好掂喎。",
-          "jyutping": "nei5 ni1 go3 gaai2 sik1 hou2 dim6 wo3"
-        }
-      ]
+      "english": "Your explanation is excellent.",
+      "traditional": "你呢個解釋好掂喎。",
+      "jyutping": "nei5 ni1 go3 gaai2 sik1 hou2 dim6 wo3"
     }
   ]
 }

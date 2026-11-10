@@ -1,37 +1,33 @@
 {
   "id": "710mfgzf",
   "partOfSpeech": "verb",
+  "meaning": "arrange in order",
+  "english": [
+    {
+      "id": "8f5ur5py",
+      "word": "sort",
+      "meaning": "arrange in order",
+      "note": "This is the all-purpose choice for arranging things into an order or sequence."
+    },
+    {
+      "id": "u6mdsg69",
+      "word": "order",
+      "meaning": "arrange, put in order",
+      "note": "Use this when arranging things into an order, such as alphabetical or numerical order."
+    }
+  ],
   "traditional": "排",
   "jyutping": "paai4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "arrange in order",
-      "english": [
-        {
-          "id": "8f5ur5py",
-          "word": "sort",
-          "meaning": "arrange in order",
-          "note": "This is the all-purpose choice for arranging things into an order or sequence."
-        },
-        {
-          "id": "u6mdsg69",
-          "word": "order",
-          "meaning": "arrange, put in order",
-          "note": "Use this when arranging things into an order, such as alphabetical or numerical order."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Sort the documents by date.",
-          "traditional": "將啲文件按日期排好。",
-          "jyutping": "zoeng1 di1 man4 gin6 on3 jat6 kei4 paai4 hou2"
-        },
-        {
-          "english": "Put the books in order first.",
-          "traditional": "你將啲書排好次序先。",
-          "jyutping": "nei5 zoeng1 di1 syu1 paai4 hou2 ci3 zeoi6 sin1"
-        }
-      ]
+      "english": "Sort the documents by date.",
+      "traditional": "將啲文件按日期排好。",
+      "jyutping": "zoeng1 di1 man4 gin6 on3 jat6 kei4 paai4 hou2"
+    },
+    {
+      "english": "Put the books in order first.",
+      "traditional": "你將啲書排好次序先。",
+      "jyutping": "nei5 zoeng1 di1 syu1 paai4 hou2 ci3 zeoi6 sin1"
     }
   ]
 }

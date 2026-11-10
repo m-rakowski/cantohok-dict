@@ -1,28 +1,24 @@
 {
   "id": "a1aeoanb",
   "partOfSpeech": "det",
+  "meaning": "only; nothing but",
+  "english": [
+    {
+      "id": "cecl3c2f",
+      "word": "all",
+      "meaning": "only; nothing but",
+      "register": "colloquial",
+      "note": "Use this before a noun or activity when “all” means only or nothing but that thing."
+    }
+  ],
   "traditional": "淨係",
   "jyutping": "zing6 hai6",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "only; nothing but",
-      "english": [
-        {
-          "id": "cecl3c2f",
-          "word": "all",
-          "meaning": "only; nothing but",
-          "register": "colloquial",
-          "note": "Use this before a noun or activity when “all” means only or nothing but that thing."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "I want nothing but coffee, not tea at all.",
-          "traditional": "我淨係要咖啡，唔要茶。",
-          "jyutping": "ngo5 zing6 hai6 jiu3 gaa3 fe1 m4 jiu3 caa4"
-        }
-      ]
+      "english": "I want nothing but coffee, not tea at all.",
+      "traditional": "我淨係要咖啡，唔要茶。",
+      "jyutping": "ngo5 zing6 hai6 jiu3 gaa3 fe1 m4 jiu3 caa4"
     }
   ]
 }

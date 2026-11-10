@@ -1,28 +1,24 @@
 {
   "id": "k19z9p83",
   "partOfSpeech": "noun",
+  "meaning": "day of the week",
+  "english": [
+    {
+      "id": "ht2mht3g",
+      "word": "Saturday",
+      "meaning": "day of the week",
+      "register": "written",
+      "note": "Use this compact form mainly in written contexts such as schedules and notices."
+    }
+  ],
   "traditional": "週六",
   "jyutping": "zau1 luk6",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "day of the week",
-      "english": [
-        {
-          "id": "ht2mht3g",
-          "word": "Saturday",
-          "meaning": "day of the week",
-          "register": "written",
-          "note": "Use this compact form mainly in written contexts such as schedules and notices."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "The meeting is at three on Saturday afternoon.",
-          "traditional": "週六下午三點開會。",
-          "jyutping": "zau1 luk6 haa6 ng5 saam1 dim2 hoi1 wui2"
-        }
-      ]
+      "english": "The meeting is at three on Saturday afternoon.",
+      "traditional": "週六下午三點開會。",
+      "jyutping": "zau1 luk6 haa6 ng5 saam1 dim2 hoi1 wui2"
     }
   ]
 }

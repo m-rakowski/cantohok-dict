@@ -1,40 +1,36 @@
 {
   "id": "287esou4",
   "partOfSpeech": "verb",
+  "meaning": "leave someone baffled",
+  "english": [
+    {
+      "id": "chg782wz",
+      "word": "confuse",
+      "meaning": "puzzle, bewilder",
+      "register": "colloquial",
+      "note": "Use this when a complicated or unexpected situation leaves someone baffled, rather than when two things are mixed up."
+    },
+    {
+      "id": "31pjoqkj",
+      "word": "bewilder",
+      "meaning": "confuse, puzzle",
+      "register": "colloquial",
+      "note": "Use this when different information or choices leave A baffled and unable to make sense of them."
+    }
+  ],
   "traditional": "搞到 A 一頭霧水",
   "jyutping": "gaau2 dou3 A jat1 tau4 mou6 seoi2",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "leave someone baffled",
-      "english": [
-        {
-          "id": "chg782wz",
-          "word": "confuse",
-          "meaning": "puzzle, bewilder",
-          "register": "colloquial",
-          "note": "Use this when a complicated or unexpected situation leaves someone baffled, rather than when two things are mixed up."
-        },
-        {
-          "id": "31pjoqkj",
-          "word": "bewilder",
-          "meaning": "confuse, puzzle",
-          "register": "colloquial",
-          "note": "Use this when different information or choices leave A baffled and unable to make sense of them."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "This complicated situation serves to confuse me.",
-          "traditional": "呢件事搞到我一頭霧水。",
-          "jyutping": "ni1 gin6 si6 gaau2 dou3 ngo5 jat1 tau4 mou6 seoi2"
-        },
-        {
-          "english": "The information can bewilder me completely.",
-          "traditional": "啲資料搞到我一頭霧水。",
-          "jyutping": "di1 zi1 liu6 gaau2 dou3 ngo5 jat1 tau4 mou6 seoi2"
-        }
-      ]
+      "english": "This complicated situation serves to confuse me.",
+      "traditional": "呢件事搞到我一頭霧水。",
+      "jyutping": "ni1 gin6 si6 gaau2 dou3 ngo5 jat1 tau4 mou6 seoi2"
+    },
+    {
+      "english": "The information can bewilder me completely.",
+      "traditional": "啲資料搞到我一頭霧水。",
+      "jyutping": "di1 zi1 liu6 gaau2 dou3 ngo5 jat1 tau4 mou6 seoi2"
     }
   ]
 }

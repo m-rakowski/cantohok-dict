@@ -1,28 +1,24 @@
 {
   "id": "wpomerq1",
   "partOfSpeech": "prep",
+  "meaning": "under; below; beneath",
+  "english": [
+    {
+      "id": "hrnp9tpu",
+      "word": "underneath",
+      "meaning": "under; below; beneath",
+      "register": "colloquial",
+      "note": "Use this when stressing the position directly under an object, especially in everyday speech."
+    }
+  ],
   "traditional": "喺 A 底下",
   "jyutping": "hai2 A dai2 haa6",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "under; below; beneath",
-      "english": [
-        {
-          "id": "hrnp9tpu",
-          "word": "underneath",
-          "meaning": "under; below; beneath",
-          "register": "colloquial",
-          "note": "Use this when stressing the position directly under an object, especially in everyday speech."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "The cat hid underneath the bed.",
-          "traditional": "隻貓匿咗喺張床底下。",
-          "jyutping": "zek3 maau1 nik1 zo2 hai2 zoeng1 cong4 dai2 haa6"
-        }
-      ]
+      "english": "The cat hid underneath the bed.",
+      "traditional": "隻貓匿咗喺張床底下。",
+      "jyutping": "zek3 maau1 nik1 zo2 hai2 zoeng1 cong4 dai2 haa6"
     }
   ]
 }

@@ -1,28 +1,24 @@
 {
   "id": "dtc9mp3s",
   "partOfSpeech": "verb",
+  "meaning": "deceive, give false impression",
+  "english": [
+    {
+      "id": "fe9lmw1z",
+      "word": "mislead",
+      "meaning": "deceive, give false impression",
+      "register": "colloquial",
+      "note": "This is the all-purpose colloquial choice for deceiving someone or giving a false impression."
+    }
+  ],
   "traditional": "呃人",
   "jyutping": "aak1 jan4",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "deceive, give false impression",
-      "english": [
-        {
-          "id": "fe9lmw1z",
-          "word": "mislead",
-          "meaning": "deceive, give false impression",
-          "register": "colloquial",
-          "note": "This is the all-purpose colloquial choice for deceiving someone or giving a false impression."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "Don't mislead me; I'm not that easy to fool.",
-          "traditional": "你唔好呃人，我冇咁易信你。",
-          "jyutping": "nei5 m4 hou2 aak1 jan4 ngo5 mou5 gam3 ji6 seon3 nei5"
-        }
-      ]
+      "english": "Don't mislead me; I'm not that easy to fool.",
+      "traditional": "你唔好呃人，我冇咁易信你。",
+      "jyutping": "nei5 m4 hou2 aak1 jan4 ngo5 mou5 gam3 ji6 seon3 nei5"
     }
   ]
 }

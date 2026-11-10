@@ -1,26 +1,22 @@
 {
   "id": "b965uzbo",
   "partOfSpeech": "noun",
+  "meaning": "musical scale",
+  "english": [
+    {
+      "id": "55ege06o",
+      "word": "scale",
+      "meaning": "musical scale",
+      "note": "Use this specifically for a musical scale made up of a sequence of notes."
+    }
+  ],
   "traditional": "音階",
   "jyutping": "jam1 gaai1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "musical scale",
-      "english": [
-        {
-          "id": "55ege06o",
-          "word": "scale",
-          "meaning": "musical scale",
-          "note": "Use this specifically for a musical scale made up of a sequence of notes."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This song uses a major scale.",
-          "traditional": "呢首歌用咗大調音階。",
-          "jyutping": "ni1 sau2 go1 jung6 zo2 daai6 diu6 jam1 gaai1"
-        }
-      ]
+      "english": "This song uses a major scale.",
+      "traditional": "呢首歌用咗大調音階。",
+      "jyutping": "ni1 sau2 go1 jung6 zo2 daai6 diu6 jam1 gaai1"
     }
   ]
 }

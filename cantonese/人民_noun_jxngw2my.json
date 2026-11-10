@@ -1,40 +1,36 @@
 {
   "id": "jxngw2my",
   "partOfSpeech": "noun",
+  "meaning": "the people, citizens",
+  "english": [
+    {
+      "id": "niq2ykxy",
+      "word": "people",
+      "meaning": "the public, the people",
+      "register": "formal",
+      "note": "Use this for the common people or populace, especially in political or public contexts."
+    },
+    {
+      "id": "kzzn663p",
+      "word": "nation",
+      "meaning": "people group",
+      "register": "formal",
+      "note": "Use this for the people or populace collectively when referring to a nation, not for the nation as a sovereign state."
+    }
+  ],
   "traditional": "人民",
   "jyutping": "jan4 man4",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "the people, citizens",
-      "english": [
-        {
-          "id": "niq2ykxy",
-          "word": "people",
-          "meaning": "the public, the people",
-          "register": "formal",
-          "note": "Use this for the common people or populace, especially in political or public contexts."
-        },
-        {
-          "id": "kzzn663p",
-          "word": "nation",
-          "meaning": "people group",
-          "register": "formal",
-          "note": "Use this for the people or populace collectively when referring to a nation, not for the nation as a sovereign state."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The government should listen to the voice of the people.",
-          "traditional": "政府應該聽取人民嘅聲音。",
-          "jyutping": "zing3 fu2 jing1 goi1 ting1 ceoi2 jan4 man4 ge3 sing1 jam1"
-        },
-        {
-          "english": "The people of the nation are demanding an explanation from the government.",
-          "traditional": "人民要求政府交代。",
-          "jyutping": "jan4 man4 jiu1 kau4 zing3 fu2 gaau1 doi6"
-        }
-      ]
+      "english": "The government should listen to the voice of the people.",
+      "traditional": "政府應該聽取人民嘅聲音。",
+      "jyutping": "zing3 fu2 jing1 goi1 ting1 ceoi2 jan4 man4 ge3 sing1 jam1"
+    },
+    {
+      "english": "The people of the nation are demanding an explanation from the government.",
+      "traditional": "人民要求政府交代。",
+      "jyutping": "jan4 man4 jiu1 kau4 zing3 fu2 gaau1 doi6"
     }
   ]
 }

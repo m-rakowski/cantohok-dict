@@ -1,28 +1,24 @@
 {
   "id": "s08yjnd5",
   "partOfSpeech": "noun",
+  "meaning": "animal milk",
+  "english": [
+    {
+      "id": "vr3337j4",
+      "word": "milk",
+      "meaning": "animal milk",
+      "register": "written",
+      "note": "Use this written or formal term when discussing milk as a mammalian secretion rather than as an everyday drink."
+    }
+  ],
   "traditional": "乳",
   "jyutping": "jyu5",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "animal milk",
-      "english": [
-        {
-          "id": "vr3337j4",
-          "word": "milk",
-          "meaning": "animal milk",
-          "register": "written",
-          "note": "Use this written or formal term when discussing milk as a mammalian secretion rather than as an everyday drink."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "Breast milk is very important for newborn babies.",
-          "traditional": "母乳對初生嬰兒非常重要。",
-          "jyutping": "mou5 jyu5 deoi3 co1 sang1 jing1 ji4 fei1 soeng4 zung6 jiu3"
-        }
-      ]
+      "english": "Breast milk is very important for newborn babies.",
+      "traditional": "母乳對初生嬰兒非常重要。",
+      "jyutping": "mou5 jyu5 deoi3 co1 sang1 jing1 ji4 fei1 soeng4 zung6 jiu3"
     }
   ]
 }

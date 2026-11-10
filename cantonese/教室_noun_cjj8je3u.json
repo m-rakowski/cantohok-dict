@@ -1,28 +1,24 @@
 {
   "id": "cjj8je3u",
   "partOfSpeech": "noun",
+  "meaning": "room in a school",
+  "english": [
+    {
+      "id": "kbqlyo0y",
+      "word": "classroom",
+      "meaning": "room in a school",
+      "register": "formal",
+      "note": "A speaker uses this for a school classroom, especially in more formal or written contexts."
+    }
+  ],
   "traditional": "教室",
   "jyutping": "gaau3 sat1",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "room in a school",
-      "english": [
-        {
-          "id": "kbqlyo0y",
-          "word": "classroom",
-          "meaning": "room in a school",
-          "register": "formal",
-          "note": "A speaker uses this for a school classroom, especially in more formal or written contexts."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "Please keep the classroom clean.",
-          "traditional": "請各位同學保持教室整潔。",
-          "jyutping": "cing2 gok3 wai2 tung4 hok6 bou2 ci4 gaau3 sat1 zing2 git3"
-        }
-      ]
+      "english": "Please keep the classroom clean.",
+      "traditional": "請各位同學保持教室整潔。",
+      "jyutping": "cing2 gok3 wai2 tung4 hok6 bou2 ci4 gaau3 sat1 zing2 git3"
     }
   ]
 }

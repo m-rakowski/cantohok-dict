@@ -1,37 +1,33 @@
 {
   "id": "oxjsj6kd",
   "partOfSpeech": "verb",
+  "meaning": "to buy",
+  "english": [
+    {
+      "id": "ft9kwa5m",
+      "word": "buy",
+      "meaning": "purchase",
+      "note": "This is the all-purpose verb for ordinary purchases, what money can buy in a given context, and purchases made for a group or organization."
+    },
+    {
+      "id": "a8ex4uz2",
+      "word": "purchase",
+      "meaning": "buy",
+      "note": "This is the all-purpose everyday verb for buying or obtaining something by paying for it."
+    }
+  ],
   "traditional": "買",
   "jyutping": "maai5",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "to buy",
-      "english": [
-        {
-          "id": "ft9kwa5m",
-          "word": "buy",
-          "meaning": "purchase",
-          "note": "This is the all-purpose verb for ordinary purchases, what money can buy in a given context, and purchases made for a group or organization."
-        },
-        {
-          "id": "a8ex4uz2",
-          "word": "purchase",
-          "meaning": "buy",
-          "note": "This is the all-purpose everyday verb for buying or obtaining something by paying for it."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I want to buy a new book.",
-          "traditional": "我想買本新書。",
-          "jyutping": "ngo5 soeng2 maai5 bun2 san1 syu1"
-        },
-        {
-          "english": "I want to purchase a new mobile phone.",
-          "traditional": "我想買部新手機。",
-          "jyutping": "ngo5 soeng2 maai5 bou6 san1 sau2 gei1"
-        }
-      ]
+      "english": "I want to buy a new book.",
+      "traditional": "我想買本新書。",
+      "jyutping": "ngo5 soeng2 maai5 bun2 san1 syu1"
+    },
+    {
+      "english": "I want to purchase a new mobile phone.",
+      "traditional": "我想買部新手機。",
+      "jyutping": "ngo5 soeng2 maai5 bou6 san1 sau2 gei1"
     }
   ]
 }

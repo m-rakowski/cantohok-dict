@@ -1,37 +1,33 @@
 {
   "id": "6vhd3b5b",
   "partOfSpeech": "adv",
+  "meaning": "in this way, like this",
+  "english": [
+    {
+      "id": "194qudwm",
+      "word": "thus",
+      "meaning": "in this way",
+      "note": "This is the all-purpose choice for describing doing something in this way or manner."
+    },
+    {
+      "id": "i85khqrt",
+      "word": "so",
+      "meaning": "so, likewise; in the same way",
+      "note": "Use this for doing or being something in the same way as what was just mentioned."
+    }
+  ],
   "traditional": "噉樣",
   "jyutping": "gam2 joeng6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "in this way, like this",
-      "english": [
-        {
-          "id": "194qudwm",
-          "word": "thus",
-          "meaning": "in this way",
-          "note": "This is the all-purpose choice for describing doing something in this way or manner."
-        },
-        {
-          "id": "i85khqrt",
-          "word": "so",
-          "meaning": "so, likewise; in the same way",
-          "note": "Use this for doing or being something in the same way as what was just mentioned."
-        }
-      ],
-      "examples": [
-        {
-          "english": "If you do it thus, it’ll be right.",
-          "traditional": "你噉樣做就啱喇。",
-          "jyutping": "nei5 gam2 joeng6 zou6 zau6 ngaam1 laa3"
-        },
-        {
-          "english": "Do it so, just the way I told you, and you won’t go wrong.",
-          "traditional": "你照住我講噉樣做，就唔會錯。",
-          "jyutping": "nei5 ziu3 zyu6 ngo5 gong2 gam2 joeng6 zou6 zau6 m4 wui5 co3"
-        }
-      ]
+      "english": "If you do it thus, it’ll be right.",
+      "traditional": "你噉樣做就啱喇。",
+      "jyutping": "nei5 gam2 joeng6 zou6 zau6 ngaam1 laa3"
+    },
+    {
+      "english": "Do it so, just the way I told you, and you won’t go wrong.",
+      "traditional": "你照住我講噉樣做，就唔會錯。",
+      "jyutping": "nei5 ziu3 zyu6 ngo5 gong2 gam2 joeng6 zou6 zau6 m4 wui5 co3"
     }
   ]
 }

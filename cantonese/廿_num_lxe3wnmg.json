@@ -1,28 +1,24 @@
 {
   "id": "lxe3wnmg",
   "partOfSpeech": "num",
+  "meaning": "cardinal number 20",
+  "english": [
+    {
+      "id": "odqi9y3q",
+      "word": "twenty",
+      "meaning": "cardinal number 20",
+      "register": "written",
+      "note": "Use this compact form mainly in written contexts or when reading abbreviated dates and numerals."
+    }
+  ],
   "traditional": "廿",
   "jyutping": "jaa6",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "cardinal number 20",
-      "english": [
-        {
-          "id": "odqi9y3q",
-          "word": "twenty",
-          "meaning": "cardinal number 20",
-          "register": "written",
-          "note": "Use this compact form mainly in written contexts or when reading abbreviated dates and numerals."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "The deadline is on the twenty.",
-          "traditional": "截止日期係廿號。",
-          "jyutping": "zit3 zi2 jat6 kei4 hai6 jaa6 hou6"
-        }
-      ]
+      "english": "The deadline is on the twenty.",
+      "traditional": "截止日期係廿號。",
+      "jyutping": "zit3 zi2 jat6 kei4 hai6 jaa6 hou6"
     }
   ]
 }

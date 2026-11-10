@@ -1,28 +1,24 @@
 {
   "id": "mrpjnljf",
   "partOfSpeech": "noun",
+  "meaning": "lack of something",
+  "english": [
+    {
+      "id": "5y52qcer",
+      "word": "absence",
+      "meaning": "lack of something",
+      "register": "formal",
+      "note": "Use this for a deficiency or lack of a quality or resource, especially in more careful speech or writing."
+    }
+  ],
   "traditional": "欠缺",
   "jyutping": "him3 kyut3",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "lack of something",
-      "english": [
-        {
-          "id": "5y52qcer",
-          "word": "absence",
-          "meaning": "lack of something",
-          "register": "formal",
-          "note": "Use this for a deficiency or lack of a quality or resource, especially in more careful speech or writing."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The absence of data makes this report weak.",
-          "traditional": "呢份報告欠缺數據。",
-          "jyutping": "nei1 fan6 bou3 gou3 him3 kyut3 sou3 geoi3"
-        }
-      ]
+      "english": "The absence of data makes this report weak.",
+      "traditional": "呢份報告欠缺數據。",
+      "jyutping": "nei1 fan6 bou3 gou3 him3 kyut3 sou3 geoi3"
     }
   ]
 }

@@ -1,38 +1,34 @@
 {
   "id": "g6sf468h",
   "partOfSpeech": "adv",
+  "meaning": "by itself, on one's own",
+  "english": [
+    {
+      "id": "sjfvttcj",
+      "word": "automatically",
+      "meaning": "in an automatic way",
+      "register": "colloquial",
+      "note": "Use this when something happens by itself, without another person making it happen."
+    },
+    {
+      "id": "qebvob8s",
+      "word": "independently",
+      "meaning": "without help",
+      "note": "This is the all-purpose choice for doing something independently or by oneself."
+    }
+  ],
   "traditional": "自己",
   "jyutping": "zi6 gei2",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "by itself, on one's own",
-      "english": [
-        {
-          "id": "sjfvttcj",
-          "word": "automatically",
-          "meaning": "in an automatic way",
-          "register": "colloquial",
-          "note": "Use this when something happens by itself, without another person making it happen."
-        },
-        {
-          "id": "qebvob8s",
-          "word": "independently",
-          "meaning": "without help",
-          "note": "This is the all-purpose choice for doing something independently or by oneself."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I didn't touch the switch, but the machine automatically turned on by itself.",
-          "traditional": "我冇掂個掣，但部機自己著咗。",
-          "jyutping": "ngo5 mou5 dim6 go3 zai3 daan6 bou6 gei1 zi6 gei2 zoek6 zo2"
-        },
-        {
-          "english": "I want to complete this homework independently.",
-          "traditional": "我想自己完成呢份功課。",
-          "jyutping": "ngo5 soeng2 zi6 gei2 jyun4 sing4 ne1 fan6 gung1 fo3"
-        }
-      ]
+      "english": "I didn't touch the switch, but the machine automatically turned on by itself.",
+      "traditional": "我冇掂個掣，但部機自己著咗。",
+      "jyutping": "ngo5 mou5 dim6 go3 zai3 daan6 bou6 gei1 zi6 gei2 zoek6 zo2"
+    },
+    {
+      "english": "I want to complete this homework independently.",
+      "traditional": "我想自己完成呢份功課。",
+      "jyutping": "ngo5 soeng2 zi6 gei2 jyun4 sing4 ne1 fan6 gung1 fo3"
     }
   ]
 }

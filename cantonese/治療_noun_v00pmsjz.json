@@ -1,70 +1,66 @@
 {
   "id": "v00pmsjz",
   "partOfSpeech": "noun",
+  "meaning": "medical treatment",
+  "english": [
+    {
+      "id": "xpjxfhhn",
+      "word": "treatment",
+      "meaning": "medical care",
+      "note": "Use this as the all-purpose noun for medical treatment of an illness or injury."
+    },
+    {
+      "id": "61es52rj",
+      "word": "cure",
+      "meaning": "medical cure",
+      "note": "Use this as the all-purpose noun for medical treatment intended to cure an illness."
+    },
+    {
+      "id": "mislncdt",
+      "word": "remedy",
+      "meaning": "medicine; treatment",
+      "note": "Use this when “remedy” means the treatment or course of care rather than the medicine itself."
+    },
+    {
+      "id": "vdx7ewqs",
+      "word": "therapy",
+      "meaning": "medical treatment",
+      "note": "This is the all-purpose noun for treatment, including psychotherapy when the context makes the type clear."
+    },
+    {
+      "id": "c7a0klri",
+      "word": "medicine",
+      "meaning": "treatment or cure",
+      "note": "Use this for a treatment or cure rather than for the drug itself."
+    }
+  ],
   "traditional": "治療",
   "jyutping": "zi6 liu4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "medical treatment",
-      "english": [
-        {
-          "id": "xpjxfhhn",
-          "word": "treatment",
-          "meaning": "medical care",
-          "note": "Use this as the all-purpose noun for medical treatment of an illness or injury."
-        },
-        {
-          "id": "61es52rj",
-          "word": "cure",
-          "meaning": "medical cure",
-          "note": "Use this as the all-purpose noun for medical treatment intended to cure an illness."
-        },
-        {
-          "id": "mislncdt",
-          "word": "remedy",
-          "meaning": "medicine; treatment",
-          "note": "Use this when “remedy” means the treatment or course of care rather than the medicine itself."
-        },
-        {
-          "id": "vdx7ewqs",
-          "word": "therapy",
-          "meaning": "medical treatment",
-          "note": "This is the all-purpose noun for treatment, including psychotherapy when the context makes the type clear."
-        },
-        {
-          "id": "c7a0klri",
-          "word": "medicine",
-          "meaning": "treatment or cure",
-          "note": "Use this for a treatment or cure rather than for the drug itself."
-        }
-      ],
-      "examples": [
-        {
-          "english": "My leg is injured and needs treatment.",
-          "traditional": "我隻腳傷咗，要接受治療。",
-          "jyutping": "ngo5 zek3 goek3 soeng1 zo2 jiu3 zip3 sau6 zi6 liu4"
-        },
-        {
-          "english": "This cure is quite effective for asthma.",
-          "traditional": "呢個治療對哮喘幾有效。",
-          "jyutping": "ni1 go3 zi6 liu4 deoi3 haau1 cyun2 gei2 jau5 haau6"
-        },
-        {
-          "english": "This remedy requires a full three months of treatment, so you can't give up halfway.",
-          "traditional": "呢個治療要做足三個月，唔可以半途而廢。",
-          "jyutping": "ni1 go3 zi6 liu4 jiu3 zou6 zuk1 saam1 go3 jyut6 m4 ho2 ji5 bun3 tou4 ji4 fai3"
-        },
-        {
-          "english": "The doctor said this therapy would take several months to work.",
-          "traditional": "醫生話呢種治療要做足幾個月先見效。",
-          "jyutping": "ji1 saang1 waa6 ne1 zung2 zi6 liu4 jiu3 zou6 zuk1 gei2 go3 jyut6 sin1 gin3 haau6"
-        },
-        {
-          "english": "This treatment is pretty good medicine for joint pain.",
-          "traditional": "呢種治療對關節痛幾有效。",
-          "jyutping": "ni1 zung2 zi6 liu4 deoi3 gwaan1 zit3 tung3 gei2 jau5 haau6"
-        }
-      ]
+      "english": "My leg is injured and needs treatment.",
+      "traditional": "我隻腳傷咗，要接受治療。",
+      "jyutping": "ngo5 zek3 goek3 soeng1 zo2 jiu3 zip3 sau6 zi6 liu4"
+    },
+    {
+      "english": "This cure is quite effective for asthma.",
+      "traditional": "呢個治療對哮喘幾有效。",
+      "jyutping": "ni1 go3 zi6 liu4 deoi3 haau1 cyun2 gei2 jau5 haau6"
+    },
+    {
+      "english": "This remedy requires a full three months of treatment, so you can't give up halfway.",
+      "traditional": "呢個治療要做足三個月，唔可以半途而廢。",
+      "jyutping": "ni1 go3 zi6 liu4 jiu3 zou6 zuk1 saam1 go3 jyut6 m4 ho2 ji5 bun3 tou4 ji4 fai3"
+    },
+    {
+      "english": "The doctor said this therapy would take several months to work.",
+      "traditional": "醫生話呢種治療要做足幾個月先見效。",
+      "jyutping": "ji1 saang1 waa6 ne1 zung2 zi6 liu4 jiu3 zou6 zuk1 gei2 go3 jyut6 sin1 gin3 haau6"
+    },
+    {
+      "english": "This treatment is pretty good medicine for joint pain.",
+      "traditional": "呢種治療對關節痛幾有效。",
+      "jyutping": "ni1 zung2 zi6 liu4 deoi3 gwaan1 zit3 tung3 gei2 jau5 haau6"
     }
   ]
 }

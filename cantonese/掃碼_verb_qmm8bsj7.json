@@ -1,26 +1,22 @@
 {
   "id": "qmm8bsj7",
   "partOfSpeech": "verb",
+  "meaning": "read by device",
+  "english": [
+    {
+      "id": "n1653i5g",
+      "word": "scan",
+      "meaning": "read by device",
+      "note": "Use this specifically for reading a barcode or QR code with a phone or other device."
+    }
+  ],
   "traditional": "掃碼",
   "jyutping": "sou3 maa5",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "read by device",
-      "english": [
-        {
-          "id": "n1653i5g",
-          "word": "scan",
-          "meaning": "read by device",
-          "note": "Use this specifically for reading a barcode or QR code with a phone or other device."
-        }
-      ],
-      "examples": [
-        {
-          "english": "You need to scan the QR code with your phone before entering.",
-          "traditional": "入場之前要用手機掃碼。",
-          "jyutping": "jap6 coeng4 zi1 cin4 jiu3 jung6 sau2 gei1 sou3 maa5"
-        }
-      ]
+      "english": "You need to scan the QR code with your phone before entering.",
+      "traditional": "入場之前要用手機掃碼。",
+      "jyutping": "jap6 coeng4 zi1 cin4 jiu3 jung6 sau2 gei1 sou3 maa5"
     }
   ]
 }

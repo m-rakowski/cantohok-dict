@@ -1,28 +1,24 @@
 {
   "id": "b5u8n4ud",
   "partOfSpeech": "noun",
+  "meaning": "budget deficit",
+  "english": [
+    {
+      "id": "6699midn",
+      "word": "deficit",
+      "meaning": "budget deficit",
+      "register": "formal",
+      "note": "Use this specifically for spending or liabilities exceeding revenue, especially in government or business accounts."
+    }
+  ],
   "traditional": "赤字",
   "jyutping": "cek3 zi6",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "budget deficit",
-      "english": [
-        {
-          "id": "6699midn",
-          "word": "deficit",
-          "meaning": "budget deficit",
-          "register": "formal",
-          "note": "Use this specifically for spending or liabilities exceeding revenue, especially in government or business accounts."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The government is expected to run a deficit of twenty billion this year.",
-          "traditional": "政府今年預計會有二百億赤字。",
-          "jyutping": "zing3 fu2 gam1 nin4 jyu6 gai3 wui5 jau5 ji6 baak3 jik1 cek3 zi6"
-        }
-      ]
+      "english": "The government is expected to run a deficit of twenty billion this year.",
+      "traditional": "政府今年預計會有二百億赤字。",
+      "jyutping": "zing3 fu2 gam1 nin4 jyu6 gai3 wui5 jau5 ji6 baak3 jik1 cek3 zi6"
     }
   ]
 }

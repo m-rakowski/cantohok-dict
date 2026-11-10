@@ -1,28 +1,24 @@
 {
   "id": "ruqu4gt6",
   "partOfSpeech": "noun",
+  "meaning": "female romantic partner",
+  "english": [
+    {
+      "id": "25kh2dhb",
+      "word": "girlfriend",
+      "meaning": "female romantic partner",
+      "register": "colloquial",
+      "note": "Use this colloquial term in casual speech when referring informally to your or someone else's girlfriend."
+    }
+  ],
   "traditional": "條女",
   "jyutping": "tiu4 neoi5",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "female romantic partner",
-      "english": [
-        {
-          "id": "25kh2dhb",
-          "word": "girlfriend",
-          "meaning": "female romantic partner",
-          "register": "colloquial",
-          "note": "Use this colloquial term in casual speech when referring informally to your or someone else's girlfriend."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "His girlfriend says she isn't free tonight.",
-          "traditional": "佢條女話今晚唔得閒。",
-          "jyutping": "keoi5 tiu4 neoi5 waa6 gam1 maan5 m4 dak1 haan4"
-        }
-      ]
+      "english": "His girlfriend says she isn't free tonight.",
+      "traditional": "佢條女話今晚唔得閒。",
+      "jyutping": "keoi5 tiu4 neoi5 waa6 gam1 maan5 m4 dak1 haan4"
     }
   ]
 }

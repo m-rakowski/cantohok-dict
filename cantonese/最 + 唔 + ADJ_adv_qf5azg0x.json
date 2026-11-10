@@ -1,26 +1,22 @@
 {
   "id": "qf5azg0x",
   "partOfSpeech": "adv",
+  "meaning": "in the lowest degree",
+  "english": [
+    {
+      "id": "s5d1i73z",
+      "word": "least",
+      "meaning": "in the lowest degree",
+      "note": "Use this when “least” means the lowest degree of a gradable adjective, such as “least happy” or “least likely,” rather than the smallest amount."
+    }
+  ],
   "traditional": "最 + 唔 + ADJ",
   "jyutping": "zeoi3 m4 ADJ",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "in the lowest degree",
-      "english": [
-        {
-          "id": "s5d1i73z",
-          "word": "least",
-          "meaning": "in the lowest degree",
-          "note": "Use this when “least” means the lowest degree of a gradable adjective, such as “least happy” or “least likely,” rather than the smallest amount."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I was the least happy on this trip.",
-          "traditional": "今次旅行入面，我最唔開心。",
-          "jyutping": "gam1 ci3 leoi5 hang4 jap6 min6 ngo5 zeoi3 m4 hoi1 sam1"
-        }
-      ]
+      "english": "I was the least happy on this trip.",
+      "traditional": "今次旅行入面，我最唔開心。",
+      "jyutping": "gam1 ci3 leoi5 hang4 jap6 min6 ngo5 zeoi3 m4 hoi1 sam1"
     }
   ]
 }

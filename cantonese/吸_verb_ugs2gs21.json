@@ -1,28 +1,24 @@
 {
   "id": "ugs2gs21",
   "partOfSpeech": "verb",
+  "meaning": "breathe in gas/smoke",
+  "english": [
+    {
+      "id": "cwvua9m9",
+      "word": "inhale",
+      "meaning": "breathe in gas/smoke",
+      "register": "colloquial",
+      "note": "Use this for inhaling smoke, fumes, aerosols, or another substance, especially in casual speech."
+    }
+  ],
   "traditional": "吸",
   "jyutping": "kap1",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "breathe in gas/smoke",
-      "english": [
-        {
-          "id": "cwvua9m9",
-          "word": "inhale",
-          "meaning": "breathe in gas/smoke",
-          "register": "colloquial",
-          "note": "Use this for inhaling smoke, fumes, aerosols, or another substance, especially in casual speech."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "Whenever I inhale smoke, my throat feels awful.",
-          "traditional": "我一吸啲煙，個喉嚨就好辛苦。",
-          "jyutping": "ngo5 jat1 kap1 di1 jin1 go3 hau4 lung4 zau6 hou2 san1 fu2"
-        }
-      ]
+      "english": "Whenever I inhale smoke, my throat feels awful.",
+      "traditional": "我一吸啲煙，個喉嚨就好辛苦。",
+      "jyutping": "ngo5 jat1 kap1 di1 jin1 go3 hau4 lung4 zau6 hou2 san1 fu2"
     }
   ]
 }

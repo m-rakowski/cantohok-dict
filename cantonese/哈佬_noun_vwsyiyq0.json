@@ -1,28 +1,24 @@
 {
   "id": "vwsyiyq0",
   "partOfSpeech": "noun",
+  "meaning": "greeting",
+  "english": [
+    {
+      "id": "d21rp0iv",
+      "word": "hello",
+      "meaning": "greeting",
+      "register": "colloquial",
+      "note": "Use this casual loanword for a breezy or playful hello, especially in informal contexts."
+    }
+  ],
   "traditional": "哈佬",
   "jyutping": "haa1 lou2",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "greeting",
-      "english": [
-        {
-          "id": "d21rp0iv",
-          "word": "hello",
-          "meaning": "greeting",
-          "register": "colloquial",
-          "note": "Use this casual loanword for a breezy or playful hello, especially in informal contexts."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "Hello, are you free today?",
-          "traditional": "哈佬，今日咁得閒呀？",
-          "jyutping": "haa1 lou2 gam1 jat6 gam3 dak1 haan4 aa3"
-        }
-      ]
+      "english": "Hello, are you free today?",
+      "traditional": "哈佬，今日咁得閒呀？",
+      "jyutping": "haa1 lou2 gam1 jat6 gam3 dak1 haan4 aa3"
     }
   ]
 }

@@ -1,37 +1,33 @@
 {
   "id": "x7vgtlwc",
   "partOfSpeech": "adj",
+  "meaning": "likely to, prone to",
+  "english": [
+    {
+      "id": "q63eecvw",
+      "word": "prone",
+      "meaning": "inclined / liable to",
+      "note": "This is the all-purpose choice for being liable or predisposed to an unwanted result, as in prone to failure."
+    },
+    {
+      "id": "kzyi2q82",
+      "word": "apt",
+      "meaning": "likely; prone to",
+      "note": "Use this pattern when someone or something is liable or prone to do what follows the verb."
+    }
+  ],
   "traditional": "容易 + V",
   "jyutping": "jung4 ji6 V",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "likely to, prone to",
-      "english": [
-        {
-          "id": "q63eecvw",
-          "word": "prone",
-          "meaning": "inclined / liable to",
-          "note": "This is the all-purpose choice for being liable or predisposed to an unwanted result, as in prone to failure."
-        },
-        {
-          "id": "kzyi2q82",
-          "word": "apt",
-          "meaning": "likely; prone to",
-          "note": "Use this pattern when someone or something is liable or prone to do what follows the verb."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This old phone is prone to breaking down.",
-          "traditional": "呢部舊電話容易壞㗎。",
-          "jyutping": "ni1 bou6 gau6 din6 waa2 jung4 ji6 waai6 gaa3"
-        },
-        {
-          "english": "In winter, the windows are apt to fog up.",
-          "traditional": "冬天啲玻璃容易起霧。",
-          "jyutping": "dung1 tin1 di1 bo1 lei1 jung4 ji6 hei2 mou6"
-        }
-      ]
+      "english": "This old phone is prone to breaking down.",
+      "traditional": "呢部舊電話容易壞㗎。",
+      "jyutping": "ni1 bou6 gau6 din6 waa2 jung4 ji6 waai6 gaa3"
+    },
+    {
+      "english": "In winter, the windows are apt to fog up.",
+      "traditional": "冬天啲玻璃容易起霧。",
+      "jyutping": "dung1 tin1 di1 bo1 lei1 jung4 ji6 hei2 mou6"
     }
   ]
 }

@@ -1,38 +1,34 @@
 {
   "id": "rg9yyrqy",
   "partOfSpeech": "noun",
+  "meaning": "seat or table reservation",
+  "english": [
+    {
+      "id": "k207tpjx",
+      "word": "reservation",
+      "meaning": "booking",
+      "register": "colloquial",
+      "note": "Use this for a reserved seat or place, especially on transport and in restaurants, rather than for a hotel room."
+    },
+    {
+      "id": "bnjwivqm",
+      "word": "booking",
+      "meaning": "reservation",
+      "note": "Use 訂位 when the reservation is specifically for a seat, table, or other place."
+    }
+  ],
   "traditional": "訂位",
   "jyutping": "deng6 wai2",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "seat or table reservation",
-      "english": [
-        {
-          "id": "k207tpjx",
-          "word": "reservation",
-          "meaning": "booking",
-          "register": "colloquial",
-          "note": "Use this for a reserved seat or place, especially on transport and in restaurants, rather than for a hotel room."
-        },
-        {
-          "id": "bnjwivqm",
-          "word": "booking",
-          "meaning": "reservation",
-          "note": "Use 訂位 when the reservation is specifically for a seat, table, or other place."
-        }
-      ],
-      "examples": [
-        {
-          "english": "We need a reservation before we go for dinner.",
-          "traditional": "我哋去食飯之前要訂位。",
-          "jyutping": "ngo5 dei6 heoi3 sik6 faan6 zi1 cin4 jiu3 deng6 wai2"
-        },
-        {
-          "english": "Our dinner booking for tonight has already been confirmed.",
-          "traditional": "我哋今晚食飯嘅訂位已經確認喇。",
-          "jyutping": "ngo5 dei6 gam1 maan5 sik6 faan6 ge3 deng6 wai2 ji5 ging1 kok3 jan6 laa3"
-        }
-      ]
+      "english": "We need a reservation before we go for dinner.",
+      "traditional": "我哋去食飯之前要訂位。",
+      "jyutping": "ngo5 dei6 heoi3 sik6 faan6 zi1 cin4 jiu3 deng6 wai2"
+    },
+    {
+      "english": "Our dinner booking for tonight has already been confirmed.",
+      "traditional": "我哋今晚食飯嘅訂位已經確認喇。",
+      "jyutping": "ngo5 dei6 gam1 maan5 sik6 faan6 ge3 deng6 wai2 ji5 ging1 kok3 jan6 laa3"
     }
   ]
 }

@@ -1,37 +1,33 @@
 {
   "id": "0ns5ohv6",
   "partOfSpeech": "noun",
+  "meaning": "tyrant, cruel ruler or boss",
+  "english": [
+    {
+      "id": "l3vw2e6i",
+      "word": "tyrant",
+      "meaning": "harsh ruler",
+      "note": "This is the all-purpose choice for a cruel ruler and can also describe an abusive person who has authority, such as a boss or official."
+    },
+    {
+      "id": "48u6j14n",
+      "word": "dictator",
+      "meaning": "tyrannical boss",
+      "note": "Use this for a boss or authority figure who rules people harshly, rather than for a merely authoritarian national leader."
+    }
+  ],
   "traditional": "暴君",
   "jyutping": "bou6 gwan1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "tyrant, cruel ruler or boss",
-      "english": [
-        {
-          "id": "l3vw2e6i",
-          "word": "tyrant",
-          "meaning": "harsh ruler",
-          "note": "This is the all-purpose choice for a cruel ruler and can also describe an abusive person who has authority, such as a boss or official."
-        },
-        {
-          "id": "48u6j14n",
-          "word": "dictator",
-          "meaning": "tyrannical boss",
-          "note": "Use this for a boss or authority figure who rules people harshly, rather than for a merely authoritarian national leader."
-        }
-      ],
-      "examples": [
-        {
-          "english": "That tyrant abuses his power all the time, leaving the people afraid to speak out.",
-          "traditional": "嗰個暴君成日濫用權力，搞到啲百姓敢怒唔敢言。",
-          "jyutping": "go2 go3 bou6 gwan1 seng4 jat6 laam6 jung6 kyun4 lik6 gaau2 dou3 di1 baak3 sing3 gam2 nou6 m4 gam2 jin4"
-        },
-        {
-          "english": "My boss is a dictator who is always yelling at people for no reason.",
-          "traditional": "我個上司係暴君，成日無理咁鬧人。",
-          "jyutping": "ngo5 go3 soeng6 si1 hai6 bou6 gwan1 seng4 jat6 mou4 lei5 gam2 naau6 jan4"
-        }
-      ]
+      "english": "That tyrant abuses his power all the time, leaving the people afraid to speak out.",
+      "traditional": "嗰個暴君成日濫用權力，搞到啲百姓敢怒唔敢言。",
+      "jyutping": "go2 go3 bou6 gwan1 seng4 jat6 laam6 jung6 kyun4 lik6 gaau2 dou3 di1 baak3 sing3 gam2 nou6 m4 gam2 jin4"
+    },
+    {
+      "english": "My boss is a dictator who is always yelling at people for no reason.",
+      "traditional": "我個上司係暴君，成日無理咁鬧人。",
+      "jyutping": "ngo5 go3 soeng6 si1 hai6 bou6 gwan1 seng4 jat6 mou4 lei5 gam2 naau6 jan4"
     }
   ]
 }

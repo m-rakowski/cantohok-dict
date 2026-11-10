@@ -1,38 +1,34 @@
 {
   "id": "qbjqh5jx",
   "partOfSpeech": "noun",
+  "meaning": "carrying out, execution",
+  "english": [
+    {
+      "id": "6s6uwycy",
+      "word": "execution",
+      "meaning": "computer execution",
+      "note": "This is the all-purpose choice for carrying out an action, court judgment, or computer instruction; it emphasizes the process rather than whether the result was successful."
+    },
+    {
+      "id": "1217cly2",
+      "word": "performance",
+      "meaning": "doing, carrying out",
+      "register": "formal",
+      "note": "Use 執行 for the carrying out or implementation of a task, duty, plan, or undertaking."
+    }
+  ],
   "traditional": "執行",
   "jyutping": "zap1 hang4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "carrying out, execution",
-      "english": [
-        {
-          "id": "6s6uwycy",
-          "word": "execution",
-          "meaning": "computer execution",
-          "note": "This is the all-purpose choice for carrying out an action, court judgment, or computer instruction; it emphasizes the process rather than whether the result was successful."
-        },
-        {
-          "id": "1217cly2",
-          "word": "performance",
-          "meaning": "doing, carrying out",
-          "register": "formal",
-          "note": "Use 執行 for the carrying out or implementation of a task, duty, plan, or undertaking."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The execution of the court order went smoothly.",
-          "traditional": "執行法庭命令嘅過程好順利。",
-          "jyutping": "zap1 hang4 faat3 ting4 ming6 ling6 ge3 gwo3 cing4 hou2 seon6 lei6"
-        },
-        {
-          "english": "The performance of this contract is our responsibility.",
-          "traditional": "執行呢份合約係我哋嘅責任。",
-          "jyutping": "zap1 hang4 ni1 fan6 hap6 joek3 hai6 ngo5 dei6 ge3 zaak3 jam6"
-        }
-      ]
+      "english": "The execution of the court order went smoothly.",
+      "traditional": "執行法庭命令嘅過程好順利。",
+      "jyutping": "zap1 hang4 faat3 ting4 ming6 ling6 ge3 gwo3 cing4 hou2 seon6 lei6"
+    },
+    {
+      "english": "The performance of this contract is our responsibility.",
+      "traditional": "執行呢份合約係我哋嘅責任。",
+      "jyutping": "zap1 hang4 ni1 fan6 hap6 joek3 hai6 ngo5 dei6 ge3 zaak3 jam6"
     }
   ]
 }

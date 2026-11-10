@@ -1,26 +1,22 @@
 {
   "id": "x0m2qysf",
   "partOfSpeech": "noun",
+  "meaning": "tide rising",
+  "english": [
+    {
+      "id": "eyimo6bs",
+      "word": "flow",
+      "meaning": "tide rising",
+      "note": "Use this specifically for the tide's rising phase rather than for fluid flow in general."
+    }
+  ],
   "traditional": "漲潮",
   "jyutping": "zoeng3 ciu4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "tide rising",
-      "english": [
-        {
-          "id": "eyimo6bs",
-          "word": "flow",
-          "meaning": "tide rising",
-          "note": "Use this specifically for the tide's rising phase rather than for fluid flow in general."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The tide will flow in tomorrow morning, so don't go swimming.",
-          "traditional": "聽日朝早漲潮，唔好去游水。",
-          "jyutping": "ting1 jat6 ziu1 zou2 zoeng3 ciu4 m4 hou2 heoi3 jau4 seoi2"
-        }
-      ]
+      "english": "The tide will flow in tomorrow morning, so don't go swimming.",
+      "traditional": "聽日朝早漲潮，唔好去游水。",
+      "jyutping": "ting1 jat6 ziu1 zou2 zoeng3 ciu4 m4 hou2 heoi3 jau4 seoi2"
     }
   ]
 }

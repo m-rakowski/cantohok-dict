@@ -1,55 +1,33 @@
 {
   "id": "k0e3ke4b",
   "partOfSpeech": "noun",
-  "traditional": "線",
-  "jyutping": "sin3",
-  "boxes": [
+  "meaning": "thread, string",
+  "english": [
     {
-      "meaning": "thread, string",
-      "english": [
-        {
-          "id": "x3vjyjgu",
-          "word": "thread",
-          "meaning": "sewing thread",
-          "note": "This is the all-purpose choice for sewing thread and for a thin filament or strand."
-        },
-        {
-          "id": "17dx03wi",
-          "word": "string",
-          "meaning": "cord, threadlike material",
-          "note": "Use 線 for a finer thread-like string and for the vibrating strings or string instruments of music."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This thread is very fine and just right for sewing clothes.",
-          "traditional": "呢卷線好幼，拎嚟縫衫啱啱好。",
-          "jyutping": "ne1 gyun2 sin3 hou2 jau3 ling1 lai4 fung4 saam1 ngaam1 ngaam1 hou2"
-        },
-        {
-          "english": "I used string to sew the bag back up.",
-          "traditional": "我用幼線縫返個袋。",
-          "jyutping": "ngo5 jung6 jau3 sin3 fung4 faan1 go3 doi6"
-        }
-      ]
+      "id": "x3vjyjgu",
+      "word": "thread",
+      "meaning": "sewing thread",
+      "note": "This is the all-purpose choice for sewing thread and for a thin filament or strand."
     },
     {
-      "meaning": "line, route, cable",
-      "english": [
-        {
-          "id": "3oicaw1x",
-          "word": "line",
-          "meaning": "curved or straight mark/path",
-          "note": "This is the all-purpose choice for a drawn line and, by context or in compounds, a cable, connection, route, transit line, outline, or conceptual boundary."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This line is drawn very straight.",
-          "traditional": "呢條線畫得好直。",
-          "jyutping": "ni1 tiu4 sin3 waa2 dak1 hou2 zik6"
-        }
-      ]
+      "id": "17dx03wi",
+      "word": "string",
+      "meaning": "cord, threadlike material",
+      "note": "Use 線 for a finer thread-like string and for the vibrating strings or string instruments of music."
+    }
+  ],
+  "traditional": "線",
+  "jyutping": "sin3",
+  "examples": [
+    {
+      "english": "This thread is very fine and just right for sewing clothes.",
+      "traditional": "呢卷線好幼，拎嚟縫衫啱啱好。",
+      "jyutping": "ne1 gyun2 sin3 hou2 jau3 ling1 lai4 fung4 saam1 ngaam1 ngaam1 hou2"
+    },
+    {
+      "english": "I used string to sew the bag back up.",
+      "traditional": "我用幼線縫返個袋。",
+      "jyutping": "ngo5 jung6 jau3 sin3 fung4 faan1 go3 doi6"
     }
   ]
 }

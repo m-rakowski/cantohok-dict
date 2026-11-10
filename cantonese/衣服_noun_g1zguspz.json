@@ -1,37 +1,33 @@
 {
   "id": "g1zguspz",
   "partOfSpeech": "noun",
+  "meaning": "clothes",
+  "english": [
+    {
+      "id": "4k83u0hs",
+      "word": "clothes",
+      "meaning": "apparel",
+      "note": "This is the all-purpose everyday word for apparel and clothes in general."
+    },
+    {
+      "id": "bk77batj",
+      "word": "garment",
+      "meaning": "item of clothing",
+      "note": "Use this more general term when you want to refer explicitly to clothing rather than the everyday catch-all 衫."
+    }
+  ],
   "traditional": "衣服",
   "jyutping": "ji1 fuk6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "clothes",
-      "english": [
-        {
-          "id": "4k83u0hs",
-          "word": "clothes",
-          "meaning": "apparel",
-          "note": "This is the all-purpose everyday word for apparel and clothes in general."
-        },
-        {
-          "id": "bk77batj",
-          "word": "garment",
-          "meaning": "item of clothing",
-          "note": "Use this more general term when you want to refer explicitly to clothing rather than the everyday catch-all 衫."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I bought some new clothes today.",
-          "traditional": "我今日買咗幾件新衣服。",
-          "jyutping": "ngo5 gam1 jat6 maai5 zo2 gei2 gin6 san1 ji1 fuk6"
-        },
-        {
-          "english": "Before the trip, remember to pack the garment.",
-          "traditional": "去旅行前，記得帶件衣服。",
-          "jyutping": "heoi3 leoi5 hang4 cin4 gei3 dak1 daai3 gin6 ji1 fuk6"
-        }
-      ]
+      "english": "I bought some new clothes today.",
+      "traditional": "我今日買咗幾件新衣服。",
+      "jyutping": "ngo5 gam1 jat6 maai5 zo2 gei2 gin6 san1 ji1 fuk6"
+    },
+    {
+      "english": "Before the trip, remember to pack the garment.",
+      "traditional": "去旅行前，記得帶件衣服。",
+      "jyutping": "heoi3 leoi5 hang4 cin4 gei3 dak1 daai3 gin6 ji1 fuk6"
     }
   ]
 }

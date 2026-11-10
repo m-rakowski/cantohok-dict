@@ -1,28 +1,24 @@
 {
   "id": "mnaamhbz",
   "partOfSpeech": "adv",
+  "meaning": "generally true; in all cases",
+  "english": [
+    {
+      "id": "tz3g9k4v",
+      "word": "generally",
+      "meaning": "generally true; in all cases",
+      "register": "formal",
+      "note": "Use 一概 when the statement applies uniformly in every case, without exceptions."
+    }
+  ],
   "traditional": "一概",
   "jyutping": "jat1 koi3",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "generally true; in all cases",
-      "english": [
-        {
-          "id": "tz3g9k4v",
-          "word": "generally",
-          "meaning": "generally true; in all cases",
-          "register": "formal",
-          "note": "Use 一概 when the statement applies uniformly in every case, without exceptions."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "This shop generally refuses returns.",
-          "traditional": "本店一概不接受退貨。",
-          "jyutping": "bun2 dim3 jat1 koi3 bat1 zip3 sau6 teoi3 fo3"
-        }
-      ]
+      "english": "This shop generally refuses returns.",
+      "traditional": "本店一概不接受退貨。",
+      "jyutping": "bun2 dim3 jat1 koi3 bat1 zip3 sau6 teoi3 fo3"
     }
   ]
 }

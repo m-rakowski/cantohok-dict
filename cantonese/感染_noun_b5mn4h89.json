@@ -1,28 +1,24 @@
 {
   "id": "b5mn4h89",
   "partOfSpeech": "noun",
+  "meaning": "microbial infection",
+  "english": [
+    {
+      "id": "px2fc9ur",
+      "word": "infection",
+      "meaning": "microbial infection",
+      "register": "formal",
+      "note": "This is the all-purpose noun for an infection in a person or the illness resulting from it."
+    }
+  ],
   "traditional": "感染",
   "jyutping": "gam2 jim5",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "microbial infection",
-      "english": [
-        {
-          "id": "px2fc9ur",
-          "word": "infection",
-          "meaning": "microbial infection",
-          "register": "formal",
-          "note": "This is the all-purpose noun for an infection in a person or the illness resulting from it."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "This patient has been diagnosed with an influenza infection.",
-          "traditional": "呢個病人確診感染流感。",
-          "jyutping": "ni1 go3 beng6 jan4 kok3 zan2 gam2 jim5 lau4 gam2"
-        }
-      ]
+      "english": "This patient has been diagnosed with an influenza infection.",
+      "traditional": "呢個病人確診感染流感。",
+      "jyutping": "ni1 go3 beng6 jan4 kok3 zan2 gam2 jim5 lau4 gam2"
     }
   ]
 }

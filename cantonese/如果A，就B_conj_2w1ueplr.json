@@ -1,26 +1,22 @@
 {
   "id": "2w1ueplr",
   "partOfSpeech": "conj",
+  "meaning": "as soon as / whenever / if",
+  "english": [
+    {
+      "id": "gpk3pv72",
+      "word": "when",
+      "meaning": "as soon as / whenever / if",
+      "note": "Use this when English “when” has the conditional meaning “if.”"
+    }
+  ],
   "traditional": "如果A，就B",
   "jyutping": "jyu4 gwo2 A zau6 B",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "as soon as / whenever / if",
-      "english": [
-        {
-          "id": "gpk3pv72",
-          "word": "when",
-          "meaning": "as soon as / whenever / if",
-          "note": "Use this when English “when” has the conditional meaning “if.”"
-        }
-      ],
-      "examples": [
-        {
-          "english": "When it rains tomorrow, we’ll cancel the event.",
-          "traditional": "如果聽日落雨，就取消個活動。",
-          "jyutping": "jyu4 gwo2 ting1 jat6 lok6 jyu5 zau6 ceoi2 siu1 go3 wut6 dung6"
-        }
-      ]
+      "english": "When it rains tomorrow, we’ll cancel the event.",
+      "traditional": "如果聽日落雨，就取消個活動。",
+      "jyutping": "jyu4 gwo2 ting1 jat6 lok6 jyu5 zau6 ceoi2 siu1 go3 wut6 dung6"
     }
   ]
 }

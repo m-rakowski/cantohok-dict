@@ -1,40 +1,36 @@
 {
   "id": "4fj6bddm",
   "partOfSpeech": "noun",
+  "meaning": "use, usage",
+  "english": [
+    {
+      "id": "y6hkefsh",
+      "word": "usage",
+      "meaning": "use; utilization",
+      "register": "formal",
+      "note": "Use 使用 for the act of using or employing something, especially in formal contexts."
+    },
+    {
+      "id": "7ha6qe24",
+      "word": "use",
+      "meaning": "act of using",
+      "register": "formal",
+      "note": "Use 使用 for the act of using something, especially in formal or written contexts."
+    }
+  ],
   "traditional": "使用",
   "jyutping": "si2 jung6",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "use, usage",
-      "english": [
-        {
-          "id": "y6hkefsh",
-          "word": "usage",
-          "meaning": "use; utilization",
-          "register": "formal",
-          "note": "Use 使用 for the act of using or employing something, especially in formal contexts."
-        },
-        {
-          "id": "7ha6qe24",
-          "word": "use",
-          "meaning": "act of using",
-          "register": "formal",
-          "note": "Use 使用 for the act of using something, especially in formal or written contexts."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The usage of this machine must follow the safety guidelines.",
-          "traditional": "呢部機嘅使用要跟足安全指引。",
-          "jyutping": "ni1 bou6 gei1 ge3 si2 jung6 jiu3 gan1 zuk1 on1 cyun4 zi2 jan5"
-        },
-        {
-          "english": "Before use, users must read the terms.",
-          "traditional": "使用者必須先閱讀條款。",
-          "jyutping": "si2 jung6 ze2 bit1 seoi1 sin1 jyut6 duk6 tiu4 fun2"
-        }
-      ]
+      "english": "The usage of this machine must follow the safety guidelines.",
+      "traditional": "呢部機嘅使用要跟足安全指引。",
+      "jyutping": "ni1 bou6 gei1 ge3 si2 jung6 jiu3 gan1 zuk1 on1 cyun4 zi2 jan5"
+    },
+    {
+      "english": "Before use, users must read the terms.",
+      "traditional": "使用者必須先閱讀條款。",
+      "jyutping": "si2 jung6 ze2 bit1 seoi1 sin1 jyut6 duk6 tiu4 fun2"
     }
   ]
 }

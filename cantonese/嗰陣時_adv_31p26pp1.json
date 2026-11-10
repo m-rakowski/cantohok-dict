@@ -1,38 +1,34 @@
 {
   "id": "31p26pp1",
   "partOfSpeech": "adv",
+  "meaning": "at that time, back then",
+  "english": [
+    {
+      "id": "ggigw20t",
+      "word": "whilst",
+      "meaning": "while; during that time",
+      "note": "This is the all-purpose choice for “during that time” in everyday Cantonese."
+    },
+    {
+      "id": "3ynd48dk",
+      "word": "then",
+      "meaning": "at that time",
+      "register": "colloquial",
+      "note": "Use this when “then” refers to a particular time in the past, rather than to what happens next."
+    }
+  ],
   "traditional": "嗰陣時",
   "jyutping": "go2 zan6 si4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "at that time, back then",
-      "english": [
-        {
-          "id": "ggigw20t",
-          "word": "whilst",
-          "meaning": "while; during that time",
-          "note": "This is the all-purpose choice for “during that time” in everyday Cantonese."
-        },
-        {
-          "id": "3ynd48dk",
-          "word": "then",
-          "meaning": "at that time",
-          "register": "colloquial",
-          "note": "Use this when “then” refers to a particular time in the past, rather than to what happens next."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I was still living in Mong Kok whilst you were studying abroad.",
-          "traditional": "嗰陣時我仲住喺旺角。",
-          "jyutping": "go2 zan6 si4 ngo5 zung6 zyu6 hai2 wong6 gok3"
-        },
-        {
-          "english": "Back then, I still lived in Mong Kok.",
-          "traditional": "嗰陣時我仲住喺旺角。",
-          "jyutping": "go2 zan6 si4 ngo5 zung6 zyu6 hai2 wong6 gok3"
-        }
-      ]
+      "english": "I was still living in Mong Kok whilst you were studying abroad.",
+      "traditional": "嗰陣時我仲住喺旺角。",
+      "jyutping": "go2 zan6 si4 ngo5 zung6 zyu6 hai2 wong6 gok3"
+    },
+    {
+      "english": "Back then, I still lived in Mong Kok.",
+      "traditional": "嗰陣時我仲住喺旺角。",
+      "jyutping": "go2 zan6 si4 ngo5 zung6 zyu6 hai2 wong6 gok3"
     }
   ]
 }

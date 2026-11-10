@@ -1,28 +1,24 @@
 {
   "id": "rwxlozg3",
   "partOfSpeech": "prep",
+  "meaning": "named after; in the style of",
+  "english": [
+    {
+      "id": "vnnjdy5u",
+      "word": "after",
+      "meaning": "named after; in the style of",
+      "register": "written",
+      "note": "Use this formal construction when something is named after A or modeled on A."
+    }
+  ],
   "traditional": "以 A 命名",
   "jyutping": "ji5 A ming6 ming4",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "named after; in the style of",
-      "english": [
-        {
-          "id": "vnnjdy5u",
-          "word": "after",
-          "meaning": "named after; in the style of",
-          "register": "written",
-          "note": "Use this formal construction when something is named after A or modeled on A."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "This bridge was named after Sun Yat-sen.",
-          "traditional": "呢座橋係以孫中山命名嘅。",
-          "jyutping": "nei1 zo6 kiu4 hai6 ji5 syun1 zung1 saan1 ming6 ming4 ge3"
-        }
-      ]
+      "english": "This bridge was named after Sun Yat-sen.",
+      "traditional": "呢座橋係以孫中山命名嘅。",
+      "jyutping": "nei1 zo6 kiu4 hai6 ji5 syun1 zung1 saan1 ming6 ming4 ge3"
     }
   ]
 }

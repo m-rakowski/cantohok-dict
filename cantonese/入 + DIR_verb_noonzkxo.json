@@ -1,26 +1,22 @@
 {
   "id": "noonzkxo",
   "partOfSpeech": "verb",
+  "meaning": "go into a place",
+  "english": [
+    {
+      "id": "ndawowvh",
+      "word": "enter",
+      "meaning": "go into a place",
+      "note": "This is the all-purpose pattern for going into a place, with 入嚟 used toward the speaker and 入去 used away from the speaker."
+    }
+  ],
   "traditional": "入 + DIR",
   "jyutping": "jap6 DIR",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "go into a place",
-      "english": [
-        {
-          "id": "ndawowvh",
-          "word": "enter",
-          "meaning": "go into a place",
-          "note": "This is the all-purpose pattern for going into a place, with 入嚟 used toward the speaker and 入去 used away from the speaker."
-        }
-      ],
-      "examples": [
-        {
-          "english": "You can enter and have a seat.",
-          "traditional": "你入嚟坐吓啦。",
-          "jyutping": "nei5 jap6 lei4 zo6 haa5 laa1"
-        }
-      ]
+      "english": "You can enter and have a seat.",
+      "traditional": "你入嚟坐吓啦。",
+      "jyutping": "nei5 jap6 lei4 zo6 haa5 laa1"
     }
   ]
 }

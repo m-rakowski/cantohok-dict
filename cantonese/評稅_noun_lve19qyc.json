@@ -1,28 +1,24 @@
 {
   "id": "lve19qyc",
   "partOfSpeech": "noun",
+  "meaning": "tax charge; act of assessing",
+  "english": [
+    {
+      "id": "9nxcc8ng",
+      "word": "assessment",
+      "meaning": "tax charge; act of assessing",
+      "register": "formal",
+      "note": "Use this for the official act or process of assessing tax, rather than the resulting amount."
+    }
+  ],
   "traditional": "評稅",
   "jyutping": "ping4 seoi3",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "tax charge; act of assessing",
-      "english": [
-        {
-          "id": "9nxcc8ng",
-          "word": "assessment",
-          "meaning": "tax charge; act of assessing",
-          "register": "formal",
-          "note": "Use this for the official act or process of assessing tax, rather than the resulting amount."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The tax office has completed the tax assessment.",
-          "traditional": "稅局已經完成評稅。",
-          "jyutping": "seoi3 guk6 ji5 ging1 jyun4 sing4 ping4 seoi3"
-        }
-      ]
+      "english": "The tax office has completed the tax assessment.",
+      "traditional": "稅局已經完成評稅。",
+      "jyutping": "seoi3 guk6 ji5 ging1 jyun4 sing4 ping4 seoi3"
     }
   ]
 }

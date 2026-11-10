@@ -1,28 +1,24 @@
 {
   "id": "jvuss1ig",
   "partOfSpeech": "adj",
+  "meaning": "known / well-known",
+  "english": [
+    {
+      "id": "61auloyd",
+      "word": "familiar",
+      "meaning": "known / well-known",
+      "register": "colloquial",
+      "note": "Use this specifically when a person or face looks familiar, rather than when something is generally well-known."
+    }
+  ],
   "traditional": "熟口熟面",
   "jyutping": "suk6 hau2 suk6 min6",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "known / well-known",
-      "english": [
-        {
-          "id": "61auloyd",
-          "word": "familiar",
-          "meaning": "known / well-known",
-          "register": "colloquial",
-          "note": "Use this specifically when a person or face looks familiar, rather than when something is generally well-known."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "That person looks familiar.",
-          "traditional": "呢個人好熟口熟面。",
-          "jyutping": "ni1 go3 jan4 hou2 suk6 hau2 suk6 min6"
-        }
-      ]
+      "english": "That person looks familiar.",
+      "traditional": "呢個人好熟口熟面。",
+      "jyutping": "ni1 go3 jan4 hou2 suk6 hau2 suk6 min6"
     }
   ]
 }

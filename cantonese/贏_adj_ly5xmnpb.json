@@ -1,28 +1,24 @@
 {
   "id": "ly5xmnpb",
   "partOfSpeech": "adj",
+  "meaning": "winning, triumphant",
+  "english": [
+    {
+      "id": "bdv9b58u",
+      "word": "victorious",
+      "meaning": "winning, triumphant",
+      "register": "colloquial",
+      "note": "This is the all-purpose spoken choice for being victorious, with aspect added as needed."
+    }
+  ],
   "traditional": "贏",
   "jyutping": "jeng4",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "winning, triumphant",
-      "english": [
-        {
-          "id": "bdv9b58u",
-          "word": "victorious",
-          "meaning": "winning, triumphant",
-          "register": "colloquial",
-          "note": "This is the all-purpose spoken choice for being victorious, with aspect added as needed."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "We were finally victorious in this match.",
-          "traditional": "今次場波我哋終於贏喇。",
-          "jyutping": "gam1 ci3 coeng4 bo1 ngo5 dei6 zung1 jyu1 jeng4 laa3"
-        }
-      ]
+      "english": "We were finally victorious in this match.",
+      "traditional": "今次場波我哋終於贏喇。",
+      "jyutping": "gam1 ci3 coeng4 bo1 ngo5 dei6 zung1 jyu1 jeng4 laa3"
     }
   ]
 }

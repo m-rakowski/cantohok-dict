@@ -1,28 +1,24 @@
 {
   "id": "a8dxc6u8",
   "partOfSpeech": "verb",
+  "meaning": "judge, sentence",
+  "english": [
+    {
+      "id": "9q9gq6vo",
+      "word": "judge",
+      "meaning": "judge, sentence",
+      "register": "colloquial",
+      "note": "Use this everyday verb when a court or authority imposes a sentence on someone."
+    }
+  ],
   "traditional": "判",
   "jyutping": "pun3",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "judge, sentence",
-      "english": [
-        {
-          "id": "9q9gq6vo",
-          "word": "judge",
-          "meaning": "judge, sentence",
-          "register": "colloquial",
-          "note": "Use this everyday verb when a court or authority imposes a sentence on someone."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "The judge sentenced him to three years in prison.",
-          "traditional": "法官判佢坐三年監。",
-          "jyutping": "faat3 gun1 pun3 keoi5 zo6 saam1 nin4 gaam1"
-        }
-      ]
+      "english": "The judge sentenced him to three years in prison.",
+      "traditional": "法官判佢坐三年監。",
+      "jyutping": "faat3 gun1 pun3 keoi5 zo6 saam1 nin4 gaam1"
     }
   ]
 }

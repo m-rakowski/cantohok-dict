@@ -1,37 +1,33 @@
 {
   "id": "xmlvho2s",
   "partOfSpeech": "verb",
+  "meaning": "plan to, intend",
+  "english": [
+    {
+      "id": "c9ua3f98",
+      "word": "intend",
+      "meaning": "plan, mean to",
+      "note": "Use this when presenting the intention as a more deliberate or definite plan."
+    },
+    {
+      "id": "9skeix5o",
+      "word": "aim",
+      "meaning": "to intend / try to",
+      "note": "Use this as the all-purpose choice for intending or planning to do something."
+    }
+  ],
   "traditional": "打算",
   "jyutping": "daa2 syun3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "plan to, intend",
-      "english": [
-        {
-          "id": "c9ua3f98",
-          "word": "intend",
-          "meaning": "plan, mean to",
-          "note": "Use this when presenting the intention as a more deliberate or definite plan."
-        },
-        {
-          "id": "9skeix5o",
-          "word": "aim",
-          "meaning": "to intend / try to",
-          "note": "Use this as the all-purpose choice for intending or planning to do something."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I intend to start learning Japanese next month.",
-          "traditional": "我打算下個月開始學日文。",
-          "jyutping": "ngo5 daa2 syun3 haa6 go3 jyut6 hoi1 ci2 hok6 jat6 man4"
-        },
-        {
-          "english": "I aim to learn to drive next month.",
-          "traditional": "我打算下個月學車。",
-          "jyutping": "ngo5 daa2 syun3 haa6 go3 jyut6 hok6 ce1"
-        }
-      ]
+      "english": "I intend to start learning Japanese next month.",
+      "traditional": "我打算下個月開始學日文。",
+      "jyutping": "ngo5 daa2 syun3 haa6 go3 jyut6 hoi1 ci2 hok6 jat6 man4"
+    },
+    {
+      "english": "I aim to learn to drive next month.",
+      "traditional": "我打算下個月學車。",
+      "jyutping": "ngo5 daa2 syun3 haa6 go3 jyut6 hok6 ce1"
     }
   ]
 }

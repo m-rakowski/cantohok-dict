@@ -1,26 +1,22 @@
 {
   "id": "i6j51c3p",
   "partOfSpeech": "noun",
+  "meaning": "ordinal number / item number",
+  "english": [
+    {
+      "id": "iax712z9",
+      "word": "number",
+      "meaning": "ordinal number / item number",
+      "note": "Use this for an item's position or designation in a list, race, or numbered sequence, as in 五號."
+    }
+  ],
   "traditional": "號",
   "jyutping": "hou6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "ordinal number / item number",
-      "english": [
-        {
-          "id": "iax712z9",
-          "word": "number",
-          "meaning": "ordinal number / item number",
-          "note": "Use this for an item's position or designation in a list, race, or numbered sequence, as in 五號."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I got number five in the queue.",
-          "traditional": "我攞咗五號籌。",
-          "jyutping": "ngo5 lo2 zo2 ng5 hou6 cau4"
-        }
-      ]
+      "english": "I got number five in the queue.",
+      "traditional": "我攞咗五號籌。",
+      "jyutping": "ngo5 lo2 zo2 ng5 hou6 cau4"
     }
   ]
 }

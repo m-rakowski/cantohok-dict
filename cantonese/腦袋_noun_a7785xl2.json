@@ -1,28 +1,24 @@
 {
   "id": "a7785xl2",
   "partOfSpeech": "noun",
+  "meaning": "rational thought",
+  "english": [
+    {
+      "id": "g4mxsldp",
+      "word": "mind",
+      "meaning": "rational thought",
+      "register": "colloquial",
+      "note": "Use this colloquial word for the mind as the faculty of rational thought, especially when talking about how sharp or capable someone is."
+    }
+  ],
   "traditional": "腦袋",
   "jyutping": "nou5 doi6",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "rational thought",
-      "english": [
-        {
-          "id": "g4mxsldp",
-          "word": "mind",
-          "meaning": "rational thought",
-          "register": "colloquial",
-          "note": "Use this colloquial word for the mind as the faculty of rational thought, especially when talking about how sharp or capable someone is."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "Their mind works really fast.",
-          "traditional": "佢個腦袋轉得好快。",
-          "jyutping": "keoi5 go3 nou5 doi6 zyun2 dak1 hou2 faai3"
-        }
-      ]
+      "english": "Their mind works really fast.",
+      "traditional": "佢個腦袋轉得好快。",
+      "jyutping": "keoi5 go3 nou5 doi6 zyun2 dak1 hou2 faai3"
     }
   ]
 }

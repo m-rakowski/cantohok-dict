@@ -1,28 +1,24 @@
 {
   "id": "v0fx7npi",
   "partOfSpeech": "adj",
+  "meaning": "needing treatment",
+  "english": [
+    {
+      "id": "0kev29sh",
+      "word": "medical",
+      "meaning": "needing treatment",
+      "register": "colloquial",
+      "note": "Use this when a condition or person specifically needs medical treatment."
+    }
+  ],
   "traditional": "要醫嘅",
   "jyutping": "jiu3 ji1 ge3",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "needing treatment",
-      "english": [
-        {
-          "id": "0kev29sh",
-          "word": "medical",
-          "meaning": "needing treatment",
-          "register": "colloquial",
-          "note": "Use this when a condition or person specifically needs medical treatment."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "That cut of yours is so deep; it needs medical treatment.",
-          "traditional": "你呢個傷口咁深，要醫嘅喎。",
-          "jyutping": "nei5 ni1 go3 soeng1 hau2 gam3 sam1 jiu3 ji1 ge3 wo3"
-        }
-      ]
+      "english": "That cut of yours is so deep; it needs medical treatment.",
+      "traditional": "你呢個傷口咁深，要醫嘅喎。",
+      "jyutping": "nei5 ni1 go3 soeng1 hau2 gam3 sam1 jiu3 ji1 ge3 wo3"
     }
   ]
 }

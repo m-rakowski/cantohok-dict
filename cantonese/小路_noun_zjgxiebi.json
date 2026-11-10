@@ -1,37 +1,33 @@
 {
   "id": "zjgxiebi",
   "partOfSpeech": "noun",
+  "meaning": "small path or lane",
+  "english": [
+    {
+      "id": "pfy7dwi2",
+      "word": "path",
+      "meaning": "pedestrian trail",
+      "note": "Use this instead of 路 for a small pedestrian trail or footpath rather than a major road or route."
+    },
+    {
+      "id": "nw9x8z71",
+      "word": "lane",
+      "meaning": "narrow country road",
+      "note": "Use this for a narrow, usually rural road or path rather than an urban street."
+    }
+  ],
   "traditional": "小路",
   "jyutping": "siu2 lou6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "small path or lane",
-      "english": [
-        {
-          "id": "pfy7dwi2",
-          "word": "path",
-          "meaning": "pedestrian trail",
-          "note": "Use this instead of 路 for a small pedestrian trail or footpath rather than a major road or route."
-        },
-        {
-          "id": "nw9x8z71",
-          "word": "lane",
-          "meaning": "narrow country road",
-          "note": "Use this for a narrow, usually rural road or path rather than an urban street."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The small path in the park is very quiet.",
-          "traditional": "公園入面嗰條小路好靜。",
-          "jyutping": "gung1 jyun4 jap6 min6 go2 tiu4 siu2 lou6 hou2 zing6"
-        },
-        {
-          "english": "We followed the country lane to the waterfall.",
-          "traditional": "我哋沿住條小路行到瀑布。",
-          "jyutping": "ngo5 dei6 jyun4 zyu6 tiu4 siu2 lou6 haang4 dou3 buk6 bou3"
-        }
-      ]
+      "english": "The small path in the park is very quiet.",
+      "traditional": "公園入面嗰條小路好靜。",
+      "jyutping": "gung1 jyun4 jap6 min6 go2 tiu4 siu2 lou6 hou2 zing6"
+    },
+    {
+      "english": "We followed the country lane to the waterfall.",
+      "traditional": "我哋沿住條小路行到瀑布。",
+      "jyutping": "ngo5 dei6 jyun4 zyu6 tiu4 siu2 lou6 haang4 dou3 buk6 bou3"
     }
   ]
 }

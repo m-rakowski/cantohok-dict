@@ -1,37 +1,33 @@
 {
   "id": "7z1fi6zz",
   "partOfSpeech": "noun",
+  "meaning": "a gust of wind",
+  "english": [
+    {
+      "id": "795jl3wk",
+      "word": "breeze",
+      "meaning": "light gentle wind",
+      "note": "Use this in everyday speech for a passing light gust of wind; 微風 is more exact for a continuously gentle wind."
+    },
+    {
+      "id": "sr58j712",
+      "word": "blast",
+      "meaning": "strong wind gust",
+      "note": "Use this all-purpose noun phrase for a sudden gust of wind."
+    }
+  ],
   "traditional": "一陣風",
   "jyutping": "jat1 zan6 fung1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "a gust of wind",
-      "english": [
-        {
-          "id": "795jl3wk",
-          "word": "breeze",
-          "meaning": "light gentle wind",
-          "note": "Use this in everyday speech for a passing light gust of wind; 微風 is more exact for a continuously gentle wind."
-        },
-        {
-          "id": "sr58j712",
-          "word": "blast",
-          "meaning": "strong wind gust",
-          "note": "Use this all-purpose noun phrase for a sudden gust of wind."
-        }
-      ],
-      "examples": [
-        {
-          "english": "A breeze blows over, and it feels great.",
-          "traditional": "一陣風吹埋嚟，好舒服。",
-          "jyutping": "jat1 zan6 fung1 ceoi1 maai4 lei4 hou2 syu1 fuk6"
-        },
-        {
-          "english": "A blast of wind just blew the paper away.",
-          "traditional": "啱啱一陣風，吹到張紙飛走咗。",
-          "jyutping": "ngaam1 ngaam1 jat1 zan6 fung1 ceoi1 dou3 zoeng1 zi2 fei1 zau2 zo2"
-        }
-      ]
+      "english": "A breeze blows over, and it feels great.",
+      "traditional": "一陣風吹埋嚟，好舒服。",
+      "jyutping": "jat1 zan6 fung1 ceoi1 maai4 lei4 hou2 syu1 fuk6"
+    },
+    {
+      "english": "A blast of wind just blew the paper away.",
+      "traditional": "啱啱一陣風，吹到張紙飛走咗。",
+      "jyutping": "ngaam1 ngaam1 jat1 zan6 fung1 ceoi1 dou3 zoeng1 zi2 fei1 zau2 zo2"
     }
   ]
 }

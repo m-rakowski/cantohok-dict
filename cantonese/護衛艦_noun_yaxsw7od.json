@@ -1,28 +1,24 @@
 {
   "id": "yaxsw7od",
   "partOfSpeech": "noun",
+  "meaning": "warship",
+  "english": [
+    {
+      "id": "eeuxuznl",
+      "word": "frigate",
+      "meaning": "warship",
+      "register": "formal",
+      "note": "This is the all-purpose Cantonese term for the modern warship type."
+    }
+  ],
   "traditional": "護衛艦",
   "jyutping": "wu6 wai6 laam6",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "warship",
-      "english": [
-        {
-          "id": "eeuxuznl",
-          "word": "frigate",
-          "meaning": "warship",
-          "register": "formal",
-          "note": "This is the all-purpose Cantonese term for the modern warship type."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "This frigate is mainly responsible for anti-submarine missions.",
-          "traditional": "護衛艦",
-          "jyutping": "wu6 wai6 laam6"
-        }
-      ]
+      "english": "This frigate is mainly responsible for anti-submarine missions.",
+      "traditional": "護衛艦",
+      "jyutping": "wu6 wai6 laam6"
     }
   ]
 }

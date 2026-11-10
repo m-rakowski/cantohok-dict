@@ -1,26 +1,22 @@
 {
   "id": "1qmqo95y",
   "partOfSpeech": "adj",
+  "meaning": "able to be done without",
+  "english": [
+    {
+      "id": "3noffgzx",
+      "word": "dispensable",
+      "meaning": "able to be done without",
+      "note": "This is the casual default when something can simply be left out or done without."
+    }
+  ],
   "traditional": "唔要都得",
   "jyutping": "m4 jiu3 dou1 dak1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "able to be done without",
-      "english": [
-        {
-          "id": "3noffgzx",
-          "word": "dispensable",
-          "meaning": "able to be done without",
-          "note": "This is the casual default when something can simply be left out or done without."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This step is dispensable; it doesn't affect the result.",
-          "traditional": "呢個步驟唔要都得，唔影響個結果。",
-          "jyutping": "ni1 go3 bou6 zau6 m4 jiu3 dou1 dak1 m4 jing2 hoeng2 go3 git3 gwo2"
-        }
-      ]
+      "english": "This step is dispensable; it doesn't affect the result.",
+      "traditional": "呢個步驟唔要都得，唔影響個結果。",
+      "jyutping": "ni1 go3 bou6 zau6 m4 jiu3 dou1 dak1 m4 jing2 hoeng2 go3 git3 gwo2"
     }
   ]
 }

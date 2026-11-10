@@ -1,28 +1,24 @@
 {
   "id": "da5tnplk",
   "partOfSpeech": "noun",
+  "meaning": "business value",
+  "english": [
+    {
+      "id": "kkndr8ak",
+      "word": "goodwill",
+      "meaning": "business value",
+      "register": "formal",
+      "note": "Use this business term for the intangible value a company gains from its reputation, brand loyalty, and customer relationships."
+    }
+  ],
   "traditional": "商譽",
   "jyutping": "soeng1 jyu6",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "business value",
-      "english": [
-        {
-          "id": "kkndr8ak",
-          "word": "goodwill",
-          "meaning": "business value",
-          "register": "formal",
-          "note": "Use this business term for the intangible value a company gains from its reputation, brand loyalty, and customer relationships."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "This company relies on goodwill built up over many years, so customers are still willing to support it even after a price increase.",
-          "traditional": "商譽",
-          "jyutping": "soeng1 jyu6"
-        }
-      ]
+      "english": "This company relies on goodwill built up over many years, so customers are still willing to support it even after a price increase.",
+      "traditional": "商譽",
+      "jyutping": "soeng1 jyu6"
     }
   ]
 }

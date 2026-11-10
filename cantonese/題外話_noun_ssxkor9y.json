@@ -1,37 +1,33 @@
 {
   "id": "ssxkor9y",
   "partOfSpeech": "noun",
+  "meaning": "off-topic remark",
+  "english": [
+    {
+      "id": "1j0nuqv7",
+      "word": "excursion",
+      "meaning": "digression",
+      "note": "Use 題外話 when the excursion is a side remark or digression from the main subject."
+    },
+    {
+      "id": "pzkcplsb",
+      "word": "irrelevancy",
+      "meaning": "irrelevant thing",
+      "note": "Use this specifically for an irrelevant aside or remark that goes beyond the topic under discussion."
+    }
+  ],
   "traditional": "題外話",
   "jyutping": "tai4 ngoi6 waa6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "off-topic remark",
-      "english": [
-        {
-          "id": "1j0nuqv7",
-          "word": "excursion",
-          "meaning": "digression",
-          "note": "Use 題外話 when the excursion is a side remark or digression from the main subject."
-        },
-        {
-          "id": "pzkcplsb",
-          "word": "irrelevancy",
-          "meaning": "irrelevant thing",
-          "note": "Use this specifically for an irrelevant aside or remark that goes beyond the topic under discussion."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Speaking of housing prices, that’s an excursion from our main topic, so let’s get back to today’s agenda.",
-          "traditional": "講開樓價，呢個係題外話，我哋先返去今日嘅議題。",
-          "jyutping": "gong2 hoi1 lau4 gaa3 ni1 go3 hai6 tai4 ngoi6 waa6 ngo5 dei6 sin1 faan1 heoi3 gam1 jat6 ge3 ji5 tai4"
-        },
-        {
-          "english": "This remark is an irrelevancy, so you can ignore it.",
-          "traditional": "呢句係題外話，你哋可以唔使理。",
-          "jyutping": "nei5 geoi3 hai6 tai4 ngoi6 waa6 nei5 dei6 ho2 ji5 m4 sai2 lei5"
-        }
-      ]
+      "english": "Speaking of housing prices, that’s an excursion from our main topic, so let’s get back to today’s agenda.",
+      "traditional": "講開樓價，呢個係題外話，我哋先返去今日嘅議題。",
+      "jyutping": "gong2 hoi1 lau4 gaa3 ni1 go3 hai6 tai4 ngoi6 waa6 ngo5 dei6 sin1 faan1 heoi3 gam1 jat6 ge3 ji5 tai4"
+    },
+    {
+      "english": "This remark is an irrelevancy, so you can ignore it.",
+      "traditional": "呢句係題外話，你哋可以唔使理。",
+      "jyutping": "nei5 geoi3 hai6 tai4 ngoi6 waa6 nei5 dei6 ho2 ji5 m4 sai2 lei5"
     }
   ]
 }

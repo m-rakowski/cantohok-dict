@@ -1,28 +1,24 @@
 {
   "id": "e5f6dz3n",
   "partOfSpeech": "noun",
+  "meaning": "appearance of a pattern",
+  "english": [
+    {
+      "id": "h1esh31o",
+      "word": "emergence",
+      "meaning": "appearance of a pattern",
+      "register": "formal",
+      "note": "Use this more technical term when a pattern or structure arises in a complex system."
+    }
+  ],
   "traditional": "湧現",
   "jyutping": "jung2 jin6",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "appearance of a pattern",
-      "english": [
-        {
-          "id": "h1esh31o",
-          "word": "emergence",
-          "meaning": "appearance of a pattern",
-          "register": "formal",
-          "note": "Use this more technical term when a pattern or structure arises in a complex system."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "After analyzing the data, we observed the emergence of several new patterns.",
-          "traditional": "湧現",
-          "jyutping": "jung2 jin6"
-        }
-      ]
+      "english": "After analyzing the data, we observed the emergence of several new patterns.",
+      "traditional": "湧現",
+      "jyutping": "jung2 jin6"
     }
   ]
 }

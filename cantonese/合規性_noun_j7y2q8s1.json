@@ -1,28 +1,24 @@
 {
   "id": "j7y2q8s1",
   "partOfSpeech": "noun",
+  "meaning": "meeting standards",
+  "english": [
+    {
+      "id": "8dd8wia0",
+      "word": "correctness",
+      "meaning": "meeting standards",
+      "register": "formal",
+      "note": "Use this specifically for conformity with formal rules, regulations, or technical standards."
+    }
+  ],
   "traditional": "合規性",
   "jyutping": "hap6 kwai1 sing3",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "meeting standards",
-      "english": [
-        {
-          "id": "8dd8wia0",
-          "word": "correctness",
-          "meaning": "meeting standards",
-          "register": "formal",
-          "note": "Use this specifically for conformity with formal rules, regulations, or technical standards."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "This report must first pass a correctness review for regulatory compliance.",
-          "traditional": "呢份報告要先通過合規性審查。",
-          "jyutping": "ni1 fan6 bou3 gou3 jiu3 sin1 tung1 gwo3 hap6 kwai1 sing3 sam2 caa4"
-        }
-      ]
+      "english": "This report must first pass a correctness review for regulatory compliance.",
+      "traditional": "呢份報告要先通過合規性審查。",
+      "jyutping": "ni1 fan6 bou3 gou3 jiu3 sin1 tung1 gwo3 hap6 kwai1 sing3 sam2 caa4"
     }
   ]
 }

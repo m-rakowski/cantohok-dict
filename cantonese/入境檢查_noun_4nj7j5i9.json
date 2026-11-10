@@ -1,28 +1,24 @@
 {
   "id": "4nj7j5i9",
   "partOfSpeech": "noun",
+  "meaning": "border immigration checks",
+  "english": [
+    {
+      "id": "h954z01p",
+      "word": "immigration",
+      "meaning": "border immigration checks",
+      "register": "formal",
+      "note": "Use this for the immigration checks you go through at a border checkpoint."
+    }
+  ],
   "traditional": "入境檢查",
   "jyutping": "jap6 ging2 gim2 caa4",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "border immigration checks",
-      "english": [
-        {
-          "id": "h954z01p",
-          "word": "immigration",
-          "meaning": "border immigration checks",
-          "register": "formal",
-          "note": "Use this for the immigration checks you go through at a border checkpoint."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "After landing, we have to queue for immigration.",
-          "traditional": "落機之後要排隊做入境檢查。",
-          "jyutping": "lok6 gei1 zi1 hau6 jiu3 paai4 deoi6 zou6 jap6 ging2 gim2 caa4"
-        }
-      ]
+      "english": "After landing, we have to queue for immigration.",
+      "traditional": "落機之後要排隊做入境檢查。",
+      "jyutping": "lok6 gei1 zi1 hau6 jiu3 paai4 deoi6 zou6 jap6 ging2 gim2 caa4"
     }
   ]
 }

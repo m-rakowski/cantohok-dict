@@ -1,28 +1,24 @@
 {
   "id": "jl7orads",
   "partOfSpeech": "pron",
+  "meaning": "editorial we",
+  "english": [
+    {
+      "id": "990vki1p",
+      "word": "we",
+      "meaning": "editorial we",
+      "register": "written",
+      "note": "Use this mainly in formal written institutional or explanatory language rather than ordinary Hong Kong speech."
+    }
+  ],
   "traditional": "我們",
   "jyutping": "ngo5 mun4",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "editorial we",
-      "english": [
-        {
-          "id": "990vki1p",
-          "word": "we",
-          "meaning": "editorial we",
-          "register": "written",
-          "note": "Use this mainly in formal written institutional or explanatory language rather than ordinary Hong Kong speech."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "We will announce the results next week.",
-          "traditional": "我們會在下星期公布結果。",
-          "jyutping": "ngo5 mun4 wui5 zoi6 haa6 sing1 kei4 gung1 bou3 git3 gwo2"
-        }
-      ]
+      "english": "We will announce the results next week.",
+      "traditional": "我們會在下星期公布結果。",
+      "jyutping": "ngo5 mun4 wui5 zoi6 haa6 sing1 kei4 gung1 bou3 git3 gwo2"
     }
   ]
 }

@@ -1,28 +1,24 @@
 {
   "id": "q8alpca6",
   "partOfSpeech": "noun",
+  "meaning": "fifteen minutes",
+  "english": [
+    {
+      "id": "zty7nnrd",
+      "word": "quarter",
+      "meaning": "fifteen minutes",
+      "register": "colloquial",
+      "note": "Use this for a fifteen-minute period, especially when telling the time."
+    }
+  ],
   "traditional": "一個字",
   "jyutping": "jat1 go3 zi6",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "fifteen minutes",
-      "english": [
-        {
-          "id": "zty7nnrd",
-          "word": "quarter",
-          "meaning": "fifteen minutes",
-          "register": "colloquial",
-          "note": "Use this for a fifteen-minute period, especially when telling the time."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "The meeting will start in a quarter.",
-          "traditional": "而家差唔多一個字就開會喇。",
-          "jyutping": "ji4 gaa1 caa1 m4 do1 jat1 go3 zi6 zau6 hoi1 wui2 laa3"
-        }
-      ]
+      "english": "The meeting will start in a quarter.",
+      "traditional": "而家差唔多一個字就開會喇。",
+      "jyutping": "ji4 gaa1 caa1 m4 do1 jat1 go3 zi6 zau6 hoi1 wui2 laa3"
     }
   ]
 }

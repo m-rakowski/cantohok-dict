@@ -1,48 +1,44 @@
 {
   "id": "rzjcy0kf",
   "partOfSpeech": "noun",
+  "meaning": "haircut",
+  "english": [
+    {
+      "id": "lqhgaoik",
+      "word": "haircut",
+      "meaning": "cutting hair",
+      "note": "Use this as the all-purpose noun for the act or service of cutting hair."
+    },
+    {
+      "id": "yzyow2u6",
+      "word": "trim",
+      "meaning": "haircut touch-up",
+      "note": "This is the everyday noun for a haircut or haircut touch-up."
+    },
+    {
+      "id": "e2rf06p6",
+      "word": "cut",
+      "meaning": "haircut",
+      "note": "Use this for the haircut as an activity or service."
+    }
+  ],
   "traditional": "剪髮",
   "jyutping": "zin2 faat3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "haircut",
-      "english": [
-        {
-          "id": "lqhgaoik",
-          "word": "haircut",
-          "meaning": "cutting hair",
-          "note": "Use this as the all-purpose noun for the act or service of cutting hair."
-        },
-        {
-          "id": "yzyow2u6",
-          "word": "trim",
-          "meaning": "haircut touch-up",
-          "note": "This is the everyday noun for a haircut or haircut touch-up."
-        },
-        {
-          "id": "e2rf06p6",
-          "word": "cut",
-          "meaning": "haircut",
-          "note": "Use this for the haircut as an activity or service."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I’m going for a haircut tomorrow.",
-          "traditional": "我聽日去剪髮。",
-          "jyutping": "ngo5 ting1 jat6 heoi3 zin2 faat3"
-        },
-        {
-          "english": "I’m going for a trim today; I’m only taking a little off.",
-          "traditional": "我今日去剪髮，淨係修短少少。",
-          "jyutping": "ngo5 gam1 jat6 heoi3 zin2 faat3 zing6 hai6 sau1 dyun2 siu2 siu2"
-        },
-        {
-          "english": "I'm going to cut my hair tomorrow.",
-          "traditional": "我聽日去剪髮。",
-          "jyutping": "ngo5 teng1 jat6 heoi3 zin2 faat3"
-        }
-      ]
+      "english": "I’m going for a haircut tomorrow.",
+      "traditional": "我聽日去剪髮。",
+      "jyutping": "ngo5 ting1 jat6 heoi3 zin2 faat3"
+    },
+    {
+      "english": "I’m going for a trim today; I’m only taking a little off.",
+      "traditional": "我今日去剪髮，淨係修短少少。",
+      "jyutping": "ngo5 gam1 jat6 heoi3 zin2 faat3 zing6 hai6 sau1 dyun2 siu2 siu2"
+    },
+    {
+      "english": "I'm going to cut my hair tomorrow.",
+      "traditional": "我聽日去剪髮。",
+      "jyutping": "ngo5 teng1 jat6 heoi3 zin2 faat3"
     }
   ]
 }

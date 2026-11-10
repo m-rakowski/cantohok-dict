@@ -1,149 +1,145 @@
 {
   "id": "t4eu7f51",
   "partOfSpeech": "adv",
+  "meaning": "very, extremely",
+  "english": [
+    {
+      "id": "8qa72nuw",
+      "word": "violently",
+      "meaning": "extremely; strongly",
+      "note": "This is the all-purpose choice for expressing an extremely or intensely strong reaction."
+    },
+    {
+      "id": "okz5zxt9",
+      "word": "exceptionally",
+      "meaning": "to a very great degree",
+      "note": "This is the all-purpose choice for saying that something is exceptionally or unusually intense."
+    },
+    {
+      "id": "317oyuzi",
+      "word": "extraordinarily",
+      "meaning": "in an extraordinary way",
+      "note": "This is the all-purpose choice for saying that something happens or is the case to an extraordinary degree."
+    },
+    {
+      "id": "7mihkr73",
+      "word": "acutely",
+      "meaning": "in an acute manner",
+      "note": "Use this for a strong degree in a somewhat more emphatic or formal-sounding expression than 好."
+    },
+    {
+      "id": "j2q7bjc2",
+      "word": "phenomenally",
+      "meaning": "extraordinarily, amazingly",
+      "note": "This is the all-purpose choice for saying that something is extraordinarily or amazingly intense."
+    },
+    {
+      "id": "6nfvebns",
+      "word": "immensely",
+      "meaning": "greatly; very much",
+      "note": "Use this for a clear, strong degree equivalent to “very much” or “extremely.”"
+    },
+    {
+      "id": "taupo0pm",
+      "word": "enormously",
+      "meaning": "extremely; greatly",
+      "note": "Use this for a straightforward, slightly more neutral or emphatic equivalent of “extremely” across many contexts."
+    },
+    {
+      "id": "2vcelart",
+      "word": "radically",
+      "meaning": "fundamentally; very",
+      "note": "Use this when “radically” is being used to mean “very” or to mark a high degree."
+    },
+    {
+      "id": "npm9qmtk",
+      "word": "tremendously",
+      "meaning": "greatly; enormously",
+      "note": "Use this neutral, slightly more formal-sounding choice when modifying a feeling, evaluation, or amount to mean ‘extremely’."
+    },
+    {
+      "id": "12cmch85",
+      "word": "extremely",
+      "meaning": "to an extreme degree",
+      "note": "Choose this for a stronger and somewhat more formal or deliberate statement than 好."
+    },
+    {
+      "id": "kmuufv4j",
+      "word": "very",
+      "meaning": "to a high degree",
+      "register": "formal",
+      "note": "Use 非常 as a more formal alternative to 好 for expressing a high degree."
+    },
+    {
+      "id": "7z3nt9aa",
+      "word": "most",
+      "meaning": "very; highly",
+      "register": "formal",
+      "note": "Use 非常 for a more emphatic or formal-sounding ‘very’ or ‘highly’."
+    }
+  ],
   "traditional": "非常",
   "jyutping": "fei1 soeng4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "very, extremely",
-      "english": [
-        {
-          "id": "8qa72nuw",
-          "word": "violently",
-          "meaning": "extremely; strongly",
-          "note": "This is the all-purpose choice for expressing an extremely or intensely strong reaction."
-        },
-        {
-          "id": "okz5zxt9",
-          "word": "exceptionally",
-          "meaning": "to a very great degree",
-          "note": "This is the all-purpose choice for saying that something is exceptionally or unusually intense."
-        },
-        {
-          "id": "317oyuzi",
-          "word": "extraordinarily",
-          "meaning": "in an extraordinary way",
-          "note": "This is the all-purpose choice for saying that something happens or is the case to an extraordinary degree."
-        },
-        {
-          "id": "7mihkr73",
-          "word": "acutely",
-          "meaning": "in an acute manner",
-          "note": "Use this for a strong degree in a somewhat more emphatic or formal-sounding expression than 好."
-        },
-        {
-          "id": "j2q7bjc2",
-          "word": "phenomenally",
-          "meaning": "extraordinarily, amazingly",
-          "note": "This is the all-purpose choice for saying that something is extraordinarily or amazingly intense."
-        },
-        {
-          "id": "6nfvebns",
-          "word": "immensely",
-          "meaning": "greatly; very much",
-          "note": "Use this for a clear, strong degree equivalent to “very much” or “extremely.”"
-        },
-        {
-          "id": "taupo0pm",
-          "word": "enormously",
-          "meaning": "extremely; greatly",
-          "note": "Use this for a straightforward, slightly more neutral or emphatic equivalent of “extremely” across many contexts."
-        },
-        {
-          "id": "2vcelart",
-          "word": "radically",
-          "meaning": "fundamentally; very",
-          "note": "Use this when “radically” is being used to mean “very” or to mark a high degree."
-        },
-        {
-          "id": "npm9qmtk",
-          "word": "tremendously",
-          "meaning": "greatly; enormously",
-          "note": "Use this neutral, slightly more formal-sounding choice when modifying a feeling, evaluation, or amount to mean ‘extremely’."
-        },
-        {
-          "id": "12cmch85",
-          "word": "extremely",
-          "meaning": "to an extreme degree",
-          "note": "Choose this for a stronger and somewhat more formal or deliberate statement than 好."
-        },
-        {
-          "id": "kmuufv4j",
-          "word": "very",
-          "meaning": "to a high degree",
-          "register": "formal",
-          "note": "Use 非常 as a more formal alternative to 好 for expressing a high degree."
-        },
-        {
-          "id": "7z3nt9aa",
-          "word": "most",
-          "meaning": "very; highly",
-          "register": "formal",
-          "note": "Use 非常 for a more emphatic or formal-sounding ‘very’ or ‘highly’."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I violently disagree with that decision.",
-          "traditional": "我非常唔同意嗰個決定。",
-          "jyutping": "ngo5 fei1 soeng4 m4 tung4 ji3 go2 go3 kyut3 ding6"
-        },
-        {
-          "english": "The service at this restaurant is exceptionally attentive.",
-          "traditional": "呢間餐廳嘅服務非常周到。",
-          "jyutping": "ne1 gaan1 caan1 teng1 ge3 fuk6 mou6 fei1 soeng4 zau1 dou3"
-        },
-        {
-          "english": "Property prices here are extraordinarily high.",
-          "traditional": "呢度啲樓價非常貴。",
-          "jyutping": "ni1 dou6 di1 lau4 gaa3 fei1 soeng4 gwai3"
-        },
-        {
-          "english": "We are acutely concerned about this issue.",
-          "traditional": "我哋非常關注呢個問題。",
-          "jyutping": "ngo5 dei6 fei1 soeng4 gwaan1 zyu3 ni1 go3 man6 tai4"
-        },
-        {
-          "english": "The food at this restaurant is phenomenally delicious.",
-          "traditional": "呢間餐廳啲餸非常好食。",
-          "jyutping": "ni1 gaan1 caan1 teng1 di1 sung3 fei1 soeng4 hou2 sik6"
-        },
-        {
-          "english": "They are immensely grateful for your help.",
-          "traditional": "佢非常感激你幫手。",
-          "jyutping": "keoi5 fei1 soeng4 gam2 gik1 nei5 bong1 sau2"
-        },
-        {
-          "english": "This news is enormously important to us.",
-          "traditional": "呢個消息對我哋非常重要。",
-          "jyutping": "ni1 go3 siu1 sik1 deoi3 ngo5 dei6 fei1 soeng4 zung6 jiu3"
-        },
-        {
-          "english": "This new phone is radically more expensive than the old one.",
-          "traditional": "呢部新手機非常貴，貴過舊嗰部好多。",
-          "jyutping": "ne1 bou6 san1 sau2 gei1 fei1 soeng4 gwai3 gwai3 gwo3 gau6 go2 bou6 hou2 do1"
-        },
-        {
-          "english": "This report is tremendously important, so we must hand it in tomorrow.",
-          "traditional": "呢份報告非常重要，聽日一定要交。",
-          "jyutping": "ne1 fan6 bou3 gou3 fei1 soeng4 zung6 jiu3 ting1 jat6 jat1 ding6 jiu3 gaau1"
-        },
-        {
-          "english": "This arrangement is extremely important.",
-          "traditional": "呢個安排非常重要。",
-          "jyutping": "ni1 go3 on1 paai4 fei1 soeng4 zung6 jiu3"
-        },
-        {
-          "english": "This proposal is very important.",
-          "traditional": "呢個方案非常重要。",
-          "jyutping": "ni1 go3 fong1 on3 fei1 soeng4 zung6 jiu3"
-        },
-        {
-          "english": "Their speech was most impressive.",
-          "traditional": "佢嘅演講非常精彩。",
-          "jyutping": "keoi5 ge3 jin2 gong2 fei1 soeng4 zing1 coi2"
-        }
-      ]
+      "english": "I violently disagree with that decision.",
+      "traditional": "我非常唔同意嗰個決定。",
+      "jyutping": "ngo5 fei1 soeng4 m4 tung4 ji3 go2 go3 kyut3 ding6"
+    },
+    {
+      "english": "The service at this restaurant is exceptionally attentive.",
+      "traditional": "呢間餐廳嘅服務非常周到。",
+      "jyutping": "ne1 gaan1 caan1 teng1 ge3 fuk6 mou6 fei1 soeng4 zau1 dou3"
+    },
+    {
+      "english": "Property prices here are extraordinarily high.",
+      "traditional": "呢度啲樓價非常貴。",
+      "jyutping": "ni1 dou6 di1 lau4 gaa3 fei1 soeng4 gwai3"
+    },
+    {
+      "english": "We are acutely concerned about this issue.",
+      "traditional": "我哋非常關注呢個問題。",
+      "jyutping": "ngo5 dei6 fei1 soeng4 gwaan1 zyu3 ni1 go3 man6 tai4"
+    },
+    {
+      "english": "The food at this restaurant is phenomenally delicious.",
+      "traditional": "呢間餐廳啲餸非常好食。",
+      "jyutping": "ni1 gaan1 caan1 teng1 di1 sung3 fei1 soeng4 hou2 sik6"
+    },
+    {
+      "english": "They are immensely grateful for your help.",
+      "traditional": "佢非常感激你幫手。",
+      "jyutping": "keoi5 fei1 soeng4 gam2 gik1 nei5 bong1 sau2"
+    },
+    {
+      "english": "This news is enormously important to us.",
+      "traditional": "呢個消息對我哋非常重要。",
+      "jyutping": "ni1 go3 siu1 sik1 deoi3 ngo5 dei6 fei1 soeng4 zung6 jiu3"
+    },
+    {
+      "english": "This new phone is radically more expensive than the old one.",
+      "traditional": "呢部新手機非常貴，貴過舊嗰部好多。",
+      "jyutping": "ne1 bou6 san1 sau2 gei1 fei1 soeng4 gwai3 gwai3 gwo3 gau6 go2 bou6 hou2 do1"
+    },
+    {
+      "english": "This report is tremendously important, so we must hand it in tomorrow.",
+      "traditional": "呢份報告非常重要，聽日一定要交。",
+      "jyutping": "ne1 fan6 bou3 gou3 fei1 soeng4 zung6 jiu3 ting1 jat6 jat1 ding6 jiu3 gaau1"
+    },
+    {
+      "english": "This arrangement is extremely important.",
+      "traditional": "呢個安排非常重要。",
+      "jyutping": "ni1 go3 on1 paai4 fei1 soeng4 zung6 jiu3"
+    },
+    {
+      "english": "This proposal is very important.",
+      "traditional": "呢個方案非常重要。",
+      "jyutping": "ni1 go3 fong1 on3 fei1 soeng4 zung6 jiu3"
+    },
+    {
+      "english": "Their speech was most impressive.",
+      "traditional": "佢嘅演講非常精彩。",
+      "jyutping": "keoi5 ge3 jin2 gong2 fei1 soeng4 zing1 coi2"
     }
   ]
 }

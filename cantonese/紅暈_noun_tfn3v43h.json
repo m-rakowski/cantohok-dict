@@ -1,40 +1,36 @@
 {
   "id": "tfn3v43h",
   "partOfSpeech": "noun",
+  "meaning": "rosy flush on the face",
+  "english": [
+    {
+      "id": "3bqedw5x",
+      "word": "blush",
+      "meaning": "red face from embarrassment",
+      "register": "written",
+      "note": "Use this for the visible reddish flush on someone's face, especially from embarrassment or shyness; it is the all-purpose noun for that sense."
+    },
+    {
+      "id": "v87ms2ru",
+      "word": "bloom",
+      "meaning": "rosy flush",
+      "register": "written",
+      "note": "Use this for a rosy flush or glow on someone's cheeks; it is more literary than everyday 面紅."
+    }
+  ],
   "traditional": "紅暈",
   "jyutping": "hung4 wan4",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "rosy flush on the face",
-      "english": [
-        {
-          "id": "3bqedw5x",
-          "word": "blush",
-          "meaning": "red face from embarrassment",
-          "register": "written",
-          "note": "Use this for the visible reddish flush on someone's face, especially from embarrassment or shyness; it is the all-purpose noun for that sense."
-        },
-        {
-          "id": "v87ms2ru",
-          "word": "bloom",
-          "meaning": "rosy flush",
-          "register": "written",
-          "note": "Use this for a rosy flush or glow on someone's cheeks; it is more literary than everyday 面紅."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "A blush rose on their face, and they looked really embarrassed.",
-          "traditional": "佢面上泛起一片紅暈，睇落好尷尬。",
-          "jyutping": "keoi5 min6 soeng6 faan6 hei2 jat1 pin3 hung4 wan4 tai2 lok6 hou2 gaam1 gaai3"
-        },
-        {
-          "english": "A rosy bloom appeared on their cheeks.",
-          "traditional": "佢面上泛起一抹紅暈。",
-          "jyutping": "keoi5 min6 soeng6 faan6 hei2 jat1 mut3 hung4 wan4"
-        }
-      ]
+      "english": "A blush rose on their face, and they looked really embarrassed.",
+      "traditional": "佢面上泛起一片紅暈，睇落好尷尬。",
+      "jyutping": "keoi5 min6 soeng6 faan6 hei2 jat1 pin3 hung4 wan4 tai2 lok6 hou2 gaam1 gaai3"
+    },
+    {
+      "english": "A rosy bloom appeared on their cheeks.",
+      "traditional": "佢面上泛起一抹紅暈。",
+      "jyutping": "keoi5 min6 soeng6 faan6 hei2 jat1 mut3 hung4 wan4"
     }
   ]
 }

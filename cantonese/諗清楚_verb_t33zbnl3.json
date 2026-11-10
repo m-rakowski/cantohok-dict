@@ -1,40 +1,36 @@
 {
   "id": "t33zbnl3",
   "partOfSpeech": "verb",
+  "meaning": "to think it through carefully",
+  "english": [
+    {
+      "id": "9fug4thk",
+      "word": "ponder",
+      "meaning": "consider carefully",
+      "register": "colloquial",
+      "note": "Use this when stressing that the speaker is thinking something through thoroughly or reaching a clear conclusion."
+    },
+    {
+      "id": "8b1zli9t",
+      "word": "deliberate",
+      "meaning": "deliberate over, discuss carefully",
+      "register": "colloquial",
+      "note": "Use this colloquial choice when the emphasis is on thinking something through to a clear conclusion."
+    }
+  ],
   "traditional": "諗清楚",
   "jyutping": "nam2 cing1 co2",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "to think it through carefully",
-      "english": [
-        {
-          "id": "9fug4thk",
-          "word": "ponder",
-          "meaning": "consider carefully",
-          "register": "colloquial",
-          "note": "Use this when stressing that the speaker is thinking something through thoroughly or reaching a clear conclusion."
-        },
-        {
-          "id": "8b1zli9t",
-          "word": "deliberate",
-          "meaning": "deliberate over, discuss carefully",
-          "register": "colloquial",
-          "note": "Use this colloquial choice when the emphasis is on thinking something through to a clear conclusion."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "Let’s ponder it thoroughly before deciding.",
-          "traditional": "諗清楚先至決定啦。",
-          "jyutping": "nam2 cing1 co2 sin1 zi3 kyut3 ding6 laa1"
-        },
-        {
-          "english": "Deliberate carefully before you answer me.",
-          "traditional": "你諗清楚先好答我喎。",
-          "jyutping": "nei5 nam2 cing1 co2 sin1 hou2 daap3 ngo5 wo3"
-        }
-      ]
+      "english": "Let’s ponder it thoroughly before deciding.",
+      "traditional": "諗清楚先至決定啦。",
+      "jyutping": "nam2 cing1 co2 sin1 zi3 kyut3 ding6 laa1"
+    },
+    {
+      "english": "Deliberate carefully before you answer me.",
+      "traditional": "你諗清楚先好答我喎。",
+      "jyutping": "nei5 nam2 cing1 co2 sin1 hou2 daap3 ngo5 wo3"
     }
   ]
 }

@@ -1,48 +1,44 @@
 {
   "id": "f1546rur",
   "partOfSpeech": "noun",
+  "meaning": "earthquake",
+  "english": [
+    {
+      "id": "udkuasjb",
+      "word": "earthquake",
+      "meaning": "ground shaking",
+      "note": "For the literal geological event, 地震 is the all-purpose Cantonese word."
+    },
+    {
+      "id": "viwiehbh",
+      "word": "quake",
+      "meaning": "earthquake",
+      "note": "Use this for an earthquake or ground-shaking event."
+    },
+    {
+      "id": "npnbtimq",
+      "word": "tremor",
+      "meaning": "small earthquake",
+      "note": "Use this specifically for a tremor that is an earthquake."
+    }
+  ],
   "traditional": "地震",
   "jyutping": "dei6 zan3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "earthquake",
-      "english": [
-        {
-          "id": "udkuasjb",
-          "word": "earthquake",
-          "meaning": "ground shaking",
-          "note": "For the literal geological event, 地震 is the all-purpose Cantonese word."
-        },
-        {
-          "id": "viwiehbh",
-          "word": "quake",
-          "meaning": "earthquake",
-          "note": "Use this for an earthquake or ground-shaking event."
-        },
-        {
-          "id": "npnbtimq",
-          "word": "tremor",
-          "meaning": "small earthquake",
-          "note": "Use this specifically for a tremor that is an earthquake."
-        }
-      ],
-      "examples": [
-        {
-          "english": "That earthquake shook the whole house and knocked all the cups onto the floor.",
-          "traditional": "嗰次地震震到全屋啲杯都跌晒落地。",
-          "jyutping": "go2 ci3 dei6 zan3 zan3 dou3 cyun4 uk1 di1 bui1 dou1 dit3 saai3 lok6 dei6"
-        },
-        {
-          "english": "There was a quake last night; it shook my bed all over.",
-          "traditional": "尋晚有地震，震到我張床都郁晒。",
-          "jyutping": "cam4 maan5 jau5 dei6 zan3 zan3 dou3 ngo5 zoeng1 cong4 dou1 juk1 saai3"
-        },
-        {
-          "english": "Last night's tremor kept me awake all night.",
-          "traditional": "尋晚嗰場地震震到我成晚瞓唔着。",
-          "jyutping": "cam4 maan5 go2 coeng4 dei6 zan3 zan3 dou3 ngo5 sing4 maan5 fan3 m4 zoek6"
-        }
-      ]
+      "english": "That earthquake shook the whole house and knocked all the cups onto the floor.",
+      "traditional": "嗰次地震震到全屋啲杯都跌晒落地。",
+      "jyutping": "go2 ci3 dei6 zan3 zan3 dou3 cyun4 uk1 di1 bui1 dou1 dit3 saai3 lok6 dei6"
+    },
+    {
+      "english": "There was a quake last night; it shook my bed all over.",
+      "traditional": "尋晚有地震，震到我張床都郁晒。",
+      "jyutping": "cam4 maan5 jau5 dei6 zan3 zan3 dou3 ngo5 zoeng1 cong4 dou1 juk1 saai3"
+    },
+    {
+      "english": "Last night's tremor kept me awake all night.",
+      "traditional": "尋晚嗰場地震震到我成晚瞓唔着。",
+      "jyutping": "cam4 maan5 go2 coeng4 dei6 zan3 zan3 dou3 ngo5 sing4 maan5 fan3 m4 zoek6"
     }
   ]
 }

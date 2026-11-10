@@ -1,28 +1,24 @@
 {
   "id": "mdtq2djw",
   "partOfSpeech": "noun",
+  "meaning": "convicted criminal",
+  "english": [
+    {
+      "id": "mivguos7",
+      "word": "convict",
+      "meaning": "convicted criminal",
+      "register": "formal",
+      "note": "Use this specifically for a convicted person serving a prison sentence."
+    }
+  ],
   "traditional": "囚犯",
   "jyutping": "cau4 faan2",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "convicted criminal",
-      "english": [
-        {
-          "id": "mivguos7",
-          "word": "convict",
-          "meaning": "convicted criminal",
-          "register": "formal",
-          "note": "Use this specifically for a convicted person serving a prison sentence."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "Each convict in the prison has to exercise every day.",
-          "traditional": "監獄入面嘅囚犯每日都要做運動。",
-          "jyutping": "gaam1 juk6 jap6 min6 ge3 cau4 faan2 mui5 jat6 dou1 jiu3 zou6 wan6 dung6"
-        }
-      ]
+      "english": "Each convict in the prison has to exercise every day.",
+      "traditional": "監獄入面嘅囚犯每日都要做運動。",
+      "jyutping": "gaam1 juk6 jap6 min6 ge3 cau4 faan2 mui5 jat6 dou1 jiu3 zou6 wan6 dung6"
     }
   ]
 }

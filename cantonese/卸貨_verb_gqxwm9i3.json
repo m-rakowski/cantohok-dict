@@ -1,26 +1,22 @@
 {
   "id": "gqxwm9i3",
   "partOfSpeech": "verb",
+  "meaning": "remove cargo",
+  "english": [
+    {
+      "id": "xauddd24",
+      "word": "unload",
+      "meaning": "remove cargo",
+      "note": "This is the all-purpose choice for physically removing or depositing cargo from a vehicle."
+    }
+  ],
   "traditional": "卸貨",
   "jyutping": "se3 fo3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "remove cargo",
-      "english": [
-        {
-          "id": "xauddd24",
-          "word": "unload",
-          "meaning": "remove cargo",
-          "note": "This is the all-purpose choice for physically removing or depositing cargo from a vehicle."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The workers started to unload as soon as the truck reached the dock.",
-          "traditional": "貨車到咗碼頭，工人即刻開始卸貨。",
-          "jyutping": "fo3 ce1 dou3 zo2 maa5 tau4 gung1 jan4 zik1 hak1 hoi1 ci2 se3 fo3"
-        }
-      ]
+      "english": "The workers started to unload as soon as the truck reached the dock.",
+      "traditional": "貨車到咗碼頭，工人即刻開始卸貨。",
+      "jyutping": "fo3 ce1 dou3 zo2 maa5 tau4 gung1 jan4 zik1 hak1 hoi1 ci2 se3 fo3"
     }
   ]
 }

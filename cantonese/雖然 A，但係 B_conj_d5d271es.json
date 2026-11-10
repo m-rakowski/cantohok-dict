@@ -1,40 +1,36 @@
 {
   "id": "d5d271es",
   "partOfSpeech": "conj",
+  "meaning": "although A, but B",
+  "english": [
+    {
+      "id": "7mlw7jsr",
+      "word": "though",
+      "meaning": "although; despite the fact that",
+      "register": "colloquial",
+      "note": "Use this everyday pattern when you want to link an explicit although-clause to its contrasting main clause."
+    },
+    {
+      "id": "gkxtntlq",
+      "word": "although",
+      "meaning": "concessive conjunction",
+      "register": "colloquial",
+      "note": "Use this common spoken pattern when you want to link both the concessive clause and the contrasting main clause explicitly."
+    }
+  ],
   "traditional": "雖然 A，但係 B",
   "jyutping": "seoi1 jin4 A daan6 hai6 B",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "although A, but B",
-      "english": [
-        {
-          "id": "7mlw7jsr",
-          "word": "though",
-          "meaning": "although; despite the fact that",
-          "register": "colloquial",
-          "note": "Use this everyday pattern when you want to link an explicit although-clause to its contrasting main clause."
-        },
-        {
-          "id": "gkxtntlq",
-          "word": "although",
-          "meaning": "concessive conjunction",
-          "register": "colloquial",
-          "note": "Use this common spoken pattern when you want to link both the concessive clause and the contrasting main clause explicitly."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "Though the road is far, we'll get there after walking for a while.",
-          "traditional": "雖然條路好遠，但係我哋行下行下就到喇。",
-          "jyutping": "seoi1 jin4 tiu4 lou6 hou2 jyun5 daan6 hai6 ngo5 dei6 haang4 haa5 haang4 haa5 zau6 dou3 laa3"
-        },
-        {
-          "english": "Although it's very cold today, we still have to go jogging.",
-          "traditional": "雖然今日好凍，但係我哋都要去跑步。",
-          "jyutping": "seoi1 jin4 gam1 jat6 hou2 dung3 daan6 hai6 ngo5 dei6 dou1 jiu3 heoi3 paau2 bou6"
-        }
-      ]
+      "english": "Though the road is far, we'll get there after walking for a while.",
+      "traditional": "雖然條路好遠，但係我哋行下行下就到喇。",
+      "jyutping": "seoi1 jin4 tiu4 lou6 hou2 jyun5 daan6 hai6 ngo5 dei6 haang4 haa5 haang4 haa5 zau6 dou3 laa3"
+    },
+    {
+      "english": "Although it's very cold today, we still have to go jogging.",
+      "traditional": "雖然今日好凍，但係我哋都要去跑步。",
+      "jyutping": "seoi1 jin4 gam1 jat6 hou2 dung3 daan6 hai6 ngo5 dei6 dou1 jiu3 heoi3 paau2 bou6"
     }
   ]
 }

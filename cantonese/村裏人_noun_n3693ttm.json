@@ -1,28 +1,24 @@
 {
   "id": "n3693ttm",
   "partOfSpeech": "noun",
+  "meaning": "village resident",
+  "english": [
+    {
+      "id": "c3mk4fbw",
+      "word": "villager",
+      "meaning": "village resident",
+      "register": "colloquial",
+      "note": "Use this more colloquial expression when stressing that someone is a person from that particular village."
+    }
+  ],
   "traditional": "村裏人",
   "jyutping": "cyun1 leoi5 jan4",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "village resident",
-      "english": [
-        {
-          "id": "c3mk4fbw",
-          "word": "villager",
-          "meaning": "village resident",
-          "register": "colloquial",
-          "note": "Use this more colloquial expression when stressing that someone is a person from that particular village."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "As soon as he heard my voice, he knew I was a villager from this village.",
-          "traditional": "佢一聽把聲就知我係村裏人。",
-          "jyutping": "keoi5 jat1 teng1 baa2 sing1 zau6 zi1 ngo5 hai6 cyun1 leoi5 jan4"
-        }
-      ]
+      "english": "As soon as he heard my voice, he knew I was a villager from this village.",
+      "traditional": "佢一聽把聲就知我係村裏人。",
+      "jyutping": "keoi5 jat1 teng1 baa2 sing1 zau6 zi1 ngo5 hai6 cyun1 leoi5 jan4"
     }
   ]
 }

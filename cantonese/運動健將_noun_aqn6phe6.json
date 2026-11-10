@@ -1,28 +1,24 @@
 {
   "id": "aqn6phe6",
   "partOfSpeech": "noun",
+  "meaning": "sports competitor",
+  "english": [
+    {
+      "id": "r619t6gu",
+      "word": "athlete",
+      "meaning": "sports competitor",
+      "register": "formal",
+      "note": "Use this for a notably skilled or accomplished athlete rather than an ordinary participant."
+    }
+  ],
   "traditional": "運動健將",
   "jyutping": "wan6 dung6 gin6 zoeng3",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "sports competitor",
-      "english": [
-        {
-          "id": "r619t6gu",
-          "word": "athlete",
-          "meaning": "sports competitor",
-          "register": "formal",
-          "note": "Use this for a notably skilled or accomplished athlete rather than an ordinary participant."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The athlete broke the school sports record.",
-          "traditional": "運動健將打破咗學界紀錄。",
-          "jyutping": "wan6 dung6 gin6 zoeng3 daa2 po3 zo2 hok6 gaai3 gei3 luk6"
-        }
-      ]
+      "english": "The athlete broke the school sports record.",
+      "traditional": "運動健將打破咗學界紀錄。",
+      "jyutping": "wan6 dung6 gin6 zoeng3 daa2 po3 zo2 hok6 gaai3 gei3 luk6"
     }
   ]
 }

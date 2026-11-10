@@ -1,28 +1,24 @@
 {
   "id": "ilwjui7e",
   "partOfSpeech": "adj",
+  "meaning": "below legal age",
+  "english": [
+    {
+      "id": "abnd3bva",
+      "word": "underage",
+      "meaning": "below legal age",
+      "register": "colloquial",
+      "note": "This is the all-purpose colloquial choice for someone who is not old enough, including for a particular activity."
+    }
+  ],
   "traditional": "未夠秤",
   "jyutping": "mei6 gau3 cing3",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "below legal age",
-      "english": [
-        {
-          "id": "abnd3bva",
-          "word": "underage",
-          "meaning": "below legal age",
-          "register": "colloquial",
-          "note": "This is the all-purpose colloquial choice for someone who is not old enough, including for a particular activity."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "They are underage, so the bar will not let them in.",
-          "traditional": "佢未夠秤，酒吧唔畀佢入。",
-          "jyutping": "keoi5 mei6 gau3 cing3 zau2 baa1 m4 bei2 keoi5 jap6"
-        }
-      ]
+      "english": "They are underage, so the bar will not let them in.",
+      "traditional": "佢未夠秤，酒吧唔畀佢入。",
+      "jyutping": "keoi5 mei6 gau3 cing3 zau2 baa1 m4 bei2 keoi5 jap6"
     }
   ]
 }

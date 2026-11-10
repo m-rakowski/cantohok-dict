@@ -1,37 +1,33 @@
 {
   "id": "mf4qt5lx",
   "partOfSpeech": "noun",
+  "meaning": "short break",
+  "english": [
+    {
+      "id": "v21s9olq",
+      "word": "break",
+      "meaning": "rest or pause",
+      "note": "For a period of rest, 小休 is the all-purpose noun among these choices."
+    },
+    {
+      "id": "r9g7nqth",
+      "word": "recess",
+      "meaning": "break, pause",
+      "note": "Use this for a brief pause, especially in a work, meeting, or event schedule."
+    }
+  ],
   "traditional": "小休",
   "jyutping": "siu2 jau1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "short break",
-      "english": [
-        {
-          "id": "v21s9olq",
-          "word": "break",
-          "meaning": "rest or pause",
-          "note": "For a period of rest, 小休 is the all-purpose noun among these choices."
-        },
-        {
-          "id": "r9g7nqth",
-          "word": "recess",
-          "meaning": "break, pause",
-          "note": "Use this for a brief pause, especially in a work, meeting, or event schedule."
-        }
-      ],
-      "examples": [
-        {
-          "english": "We took a fifteen-minute break after eating.",
-          "traditional": "我哋食完飯就小休十五分鐘。",
-          "jyutping": "ngo5 dei6 sik6 jyun4 faan6 zau6 siu2 jau1 sap6 ng5 fan1 zung1"
-        },
-        {
-          "english": "We scheduled a recess at three this afternoon.",
-          "traditional": "下晝三點安排咗小休。",
-          "jyutping": "haa6 zau3 saam1 dim2 on1 paai4 zo2 siu2 jau1"
-        }
-      ]
+      "english": "We took a fifteen-minute break after eating.",
+      "traditional": "我哋食完飯就小休十五分鐘。",
+      "jyutping": "ngo5 dei6 sik6 jyun4 faan6 zau6 siu2 jau1 sap6 ng5 fan1 zung1"
+    },
+    {
+      "english": "We scheduled a recess at three this afternoon.",
+      "traditional": "下晝三點安排咗小休。",
+      "jyutping": "haa6 zau3 saam1 dim2 on1 paai4 zo2 siu2 jau1"
     }
   ]
 }

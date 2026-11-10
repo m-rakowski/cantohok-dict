@@ -1,37 +1,33 @@
 {
   "id": "ijzel7zq",
   "partOfSpeech": "noun",
+  "meaning": "ferry",
+  "english": [
+    {
+      "id": "1lcwnv83",
+      "word": "ferry",
+      "meaning": "boat for crossing",
+      "note": "Use 渡輪 as the ordinary all-purpose word for the boat or ship itself."
+    },
+    {
+      "id": "2lj2vxb0",
+      "word": "ferryboat",
+      "meaning": "passenger ferry boat",
+      "note": "This is the all-purpose Hong Kong Cantonese word for a ferry carrying passengers, vehicles, or goods, especially on a regular route."
+    }
+  ],
   "traditional": "渡輪",
   "jyutping": "dou6 leon4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "ferry",
-      "english": [
-        {
-          "id": "1lcwnv83",
-          "word": "ferry",
-          "meaning": "boat for crossing",
-          "note": "Use 渡輪 as the ordinary all-purpose word for the boat or ship itself."
-        },
-        {
-          "id": "2lj2vxb0",
-          "word": "ferryboat",
-          "meaning": "passenger ferry boat",
-          "note": "This is the all-purpose Hong Kong Cantonese word for a ferry carrying passengers, vehicles, or goods, especially on a regular route."
-        }
-      ],
-      "examples": [
-        {
-          "english": "We take the ferry across the harbour.",
-          "traditional": "我哋搭渡輪過海。",
-          "jyutping": "ngo5 dei6 daap3 dou6 leon4 gwo3 hoi2"
-        },
-        {
-          "english": "We take the ferryboat across the harbour to get home.",
-          "traditional": "我哋搭渡輪過海返屋企。",
-          "jyutping": "ngo5 dei6 daap3 dou6 leon4 gwo3 hoi2 faan1 uk1 kei2"
-        }
-      ]
+      "english": "We take the ferry across the harbour.",
+      "traditional": "我哋搭渡輪過海。",
+      "jyutping": "ngo5 dei6 daap3 dou6 leon4 gwo3 hoi2"
+    },
+    {
+      "english": "We take the ferryboat across the harbour to get home.",
+      "traditional": "我哋搭渡輪過海返屋企。",
+      "jyutping": "ngo5 dei6 daap3 dou6 leon4 gwo3 hoi2 faan1 uk1 kei2"
     }
   ]
 }

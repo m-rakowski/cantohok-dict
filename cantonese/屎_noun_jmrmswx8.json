@@ -1,38 +1,34 @@
 {
   "id": "jmrmswx8",
   "partOfSpeech": "noun",
+  "meaning": "poo, feces",
+  "english": [
+    {
+      "id": "0rb3l9jn",
+      "word": "stool",
+      "meaning": "feces",
+      "register": "colloquial",
+      "note": "This is the everyday all-purpose word for feces, though it is blunt."
+    },
+    {
+      "id": "f8yrre8f",
+      "word": "mess",
+      "meaning": "excrement; mess",
+      "note": "Use this for excrement, especially when talking about animal mess or faeces."
+    }
+  ],
   "traditional": "屎",
   "jyutping": "si2",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "poo, feces",
-      "english": [
-        {
-          "id": "0rb3l9jn",
-          "word": "stool",
-          "meaning": "feces",
-          "register": "colloquial",
-          "note": "This is the everyday all-purpose word for feces, though it is blunt."
-        },
-        {
-          "id": "f8yrre8f",
-          "word": "mess",
-          "meaning": "excrement; mess",
-          "note": "Use this for excrement, especially when talking about animal mess or faeces."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The child has passed stool.",
-          "traditional": "個細路屙咗屎喇。",
-          "jyutping": "go3 sai3 lou6 o1 zo2 si2 laa3"
-        },
-        {
-          "english": "The dog's mess is all over the floor.",
-          "traditional": "隻狗周圍痾屎，搞到成地都係。",
-          "jyutping": "zek3 gau2 zau1 wai4 o1 si2 gaau2 dou3 seng4 dei6 dou1 hai6"
-        }
-      ]
+      "english": "The child has passed stool.",
+      "traditional": "個細路屙咗屎喇。",
+      "jyutping": "go3 sai3 lou6 o1 zo2 si2 laa3"
+    },
+    {
+      "english": "The dog's mess is all over the floor.",
+      "traditional": "隻狗周圍痾屎，搞到成地都係。",
+      "jyutping": "zek3 gau2 zau1 wai4 o1 si2 gaau2 dou3 seng4 dei6 dou1 hai6"
     }
   ]
 }

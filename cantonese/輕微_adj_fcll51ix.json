@@ -1,37 +1,33 @@
 {
   "id": "fcll51ix",
   "partOfSpeech": "adj",
+  "meaning": "slight, minor",
+  "english": [
+    {
+      "id": "brrxqzqk",
+      "word": "minor",
+      "meaning": "minor injury; not serious",
+      "note": "Use this for an injury or problem that is not serious or dangerous."
+    },
+    {
+      "id": "ldu1czef",
+      "word": "slight",
+      "meaning": "trifling; unimportant",
+      "note": "This is the all-purpose choice for something minor in degree, severity, or effect, rather than merely unimportant."
+    }
+  ],
   "traditional": "輕微",
   "jyutping": "hing1 mei4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "slight, minor",
-      "english": [
-        {
-          "id": "brrxqzqk",
-          "word": "minor",
-          "meaning": "minor injury; not serious",
-          "note": "Use this for an injury or problem that is not serious or dangerous."
-        },
-        {
-          "id": "ldu1czef",
-          "word": "slight",
-          "meaning": "trifling; unimportant",
-          "note": "This is the all-purpose choice for something minor in degree, severity, or effect, rather than merely unimportant."
-        }
-      ],
-      "examples": [
-        {
-          "english": "They only suffered a minor scrape, so there’s no need to worry.",
-          "traditional": "佢只係受咗輕微擦傷，唔使擔心。",
-          "jyutping": "keoi5 zi2 hai6 sau6 zo2 hing1 mei4 caat3 soeng1 m4 sai2 daam1 sam1"
-        },
-        {
-          "english": "Their injuries from the fall were slight.",
-          "traditional": "佢今次跌親，傷勢算輕微。",
-          "jyutping": "keoi5 gam1 ci3 dit3 can1 soeng1 sai3 syun3 hing1 mei4"
-        }
-      ]
+      "english": "They only suffered a minor scrape, so there’s no need to worry.",
+      "traditional": "佢只係受咗輕微擦傷，唔使擔心。",
+      "jyutping": "keoi5 zi2 hai6 sau6 zo2 hing1 mei4 caat3 soeng1 m4 sai2 daam1 sam1"
+    },
+    {
+      "english": "Their injuries from the fall were slight.",
+      "traditional": "佢今次跌親，傷勢算輕微。",
+      "jyutping": "keoi5 gam1 ci3 dit3 can1 soeng1 sai3 syun3 hing1 mei4"
     }
   ]
 }

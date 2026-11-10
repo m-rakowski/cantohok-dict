@@ -1,49 +1,45 @@
 {
   "id": "63hqd5h3",
   "partOfSpeech": "adj",
+  "meaning": "skilled, experienced at a task",
+  "english": [
+    {
+      "id": "3qitr43l",
+      "word": "adept",
+      "meaning": "highly skilled",
+      "note": "This is the all-purpose everyday choice for someone highly skilled and experienced at a practical task."
+    },
+    {
+      "id": "arjuqcpv",
+      "word": "skilled",
+      "meaning": "skillful; having ability",
+      "note": "Use this when the person is practiced and proficient at a particular task or trade."
+    },
+    {
+      "id": "xwpii4oz",
+      "word": "expert",
+      "meaning": "very skilled / knowledgeable",
+      "register": "colloquial",
+      "note": "Use this when the expertise is practical and comes from being experienced at doing a task."
+    }
+  ],
   "traditional": "熟手",
   "jyutping": "suk6 sau2",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "skilled, experienced at a task",
-      "english": [
-        {
-          "id": "3qitr43l",
-          "word": "adept",
-          "meaning": "highly skilled",
-          "note": "This is the all-purpose everyday choice for someone highly skilled and experienced at a practical task."
-        },
-        {
-          "id": "arjuqcpv",
-          "word": "skilled",
-          "meaning": "skillful; having ability",
-          "note": "Use this when the person is practiced and proficient at a particular task or trade."
-        },
-        {
-          "id": "xwpii4oz",
-          "word": "expert",
-          "meaning": "very skilled / knowledgeable",
-          "register": "colloquial",
-          "note": "Use this when the expertise is practical and comes from being experienced at doing a task."
-        }
-      ],
-      "examples": [
-        {
-          "english": "They are adept at carpentry.",
-          "traditional": "佢做木工好熟手。",
-          "jyutping": "keoi5 zou6 muk6 gung1 hou2 suk6 sau2"
-        },
-        {
-          "english": "They are skilled at this kind of work after many years in the trade.",
-          "traditional": "佢做呢行好多年，已經係熟手喇。",
-          "jyutping": "keoi5 zou6 ne1 hang4 hou2 do1 nin4 ji5 ging1 hai6 suk6 sau2 laa3"
-        },
-        {
-          "english": "This technician is expert at installing air conditioners, so he works very quickly.",
-          "traditional": "呢個師傅好熟手，裝冷氣好快。",
-          "jyutping": "nei1 go3 si1 fu6 hou2 suk6 sau2 zong1 laang5 hei3 hou2 faai3"
-        }
-      ]
+      "english": "They are adept at carpentry.",
+      "traditional": "佢做木工好熟手。",
+      "jyutping": "keoi5 zou6 muk6 gung1 hou2 suk6 sau2"
+    },
+    {
+      "english": "They are skilled at this kind of work after many years in the trade.",
+      "traditional": "佢做呢行好多年，已經係熟手喇。",
+      "jyutping": "keoi5 zou6 ne1 hang4 hou2 do1 nin4 ji5 ging1 hai6 suk6 sau2 laa3"
+    },
+    {
+      "english": "This technician is expert at installing air conditioners, so he works very quickly.",
+      "traditional": "呢個師傅好熟手，裝冷氣好快。",
+      "jyutping": "nei1 go3 si1 fu6 hou2 suk6 sau2 zong1 laang5 hei3 hou2 faai3"
     }
   ]
 }

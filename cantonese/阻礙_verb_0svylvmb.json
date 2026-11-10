@@ -1,38 +1,34 @@
 {
   "id": "0svylvmb",
   "partOfSpeech": "verb",
+  "meaning": "hinder progress",
+  "english": [
+    {
+      "id": "4r1t7sp6",
+      "word": "stultify",
+      "meaning": "stunt, make dull",
+      "note": "This is the all-purpose choice for restricting or slowing progress, development, or ideas."
+    },
+    {
+      "id": "gwc96ger",
+      "word": "hamper",
+      "meaning": "hinder, impede",
+      "register": "written",
+      "note": "Use this more formal or written verb when stressing an obstacle to progress or development."
+    }
+  ],
   "traditional": "阻礙",
   "jyutping": "zo2 ngoi6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "hinder progress",
-      "english": [
-        {
-          "id": "4r1t7sp6",
-          "word": "stultify",
-          "meaning": "stunt, make dull",
-          "note": "This is the all-purpose choice for restricting or slowing progress, development, or ideas."
-        },
-        {
-          "id": "gwc96ger",
-          "word": "hamper",
-          "meaning": "hinder, impede",
-          "register": "written",
-          "note": "Use this more formal or written verb when stressing an obstacle to progress or development."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The company's layers of approval stultify our efforts to launch the new project.",
-          "traditional": "公司層層審批，阻礙咗我哋推行新計劃。",
-          "jyutping": "gung1 si1 cang4 cang4 sam2 pai1 zo2 ngoi6 zo2 ngo5 dei6 teoi1 hang4 san1 gai3 waak6"
-        },
-        {
-          "english": "Bureaucratic procedures hamper economic development.",
-          "traditional": "繁複嘅官僚程序阻礙經濟發展。",
-          "jyutping": "faan4 fuk1 ge3 gun1 liu4 cing4 zeoi6 zo2 ngoi6 ging1 zai3 faat3 zin2"
-        }
-      ]
+      "english": "The company's layers of approval stultify our efforts to launch the new project.",
+      "traditional": "公司層層審批，阻礙咗我哋推行新計劃。",
+      "jyutping": "gung1 si1 cang4 cang4 sam2 pai1 zo2 ngoi6 zo2 ngo5 dei6 teoi1 hang4 san1 gai3 waak6"
+    },
+    {
+      "english": "Bureaucratic procedures hamper economic development.",
+      "traditional": "繁複嘅官僚程序阻礙經濟發展。",
+      "jyutping": "faan4 fuk1 ge3 gun1 liu4 cing4 zeoi6 zo2 ngoi6 ging1 zai3 faat3 zin2"
     }
   ]
 }

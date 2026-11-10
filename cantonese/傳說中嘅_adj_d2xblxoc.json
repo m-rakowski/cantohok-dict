@@ -1,37 +1,33 @@
 {
   "id": "d2xblxoc",
   "partOfSpeech": "adj",
+  "meaning": "legendary, fabled",
+  "english": [
+    {
+      "id": "xdwiw401",
+      "word": "legendary",
+      "meaning": "mythical; fabled",
+      "note": "Use this for something belonging to or described in legends, especially a mythical or fabled creature, place, or event."
+    },
+    {
+      "id": "aewz540f",
+      "word": "fabled",
+      "meaning": "fictitious, legendary",
+      "note": "This is the all-purpose choice for something legendary or known only from stories."
+    }
+  ],
   "traditional": "傳說中嘅",
   "jyutping": "cyun4 syut3 zung1 ge3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "legendary, fabled",
-      "english": [
-        {
-          "id": "xdwiw401",
-          "word": "legendary",
-          "meaning": "mythical; fabled",
-          "note": "Use this for something belonging to or described in legends, especially a mythical or fabled creature, place, or event."
-        },
-        {
-          "id": "aewz540f",
-          "word": "fabled",
-          "meaning": "fictitious, legendary",
-          "note": "This is the all-purpose choice for something legendary or known only from stories."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The legendary dragon finally appeared in the cave.",
-          "traditional": "傳說中嘅龍終於喺山洞入面出現。",
-          "jyutping": "cyun4 syut3 zung1 ge3 lung4 zung1 jyu1 hai2 saan1 dung6 jap6 min6 ceot1 jin6"
-        },
-        {
-          "english": "The fabled King Arthur is still a hero in everyone's mind.",
-          "traditional": "傳說中嘅",
-          "jyutping": "cyun4 syut3 zung1 ge3"
-        }
-      ]
+      "english": "The legendary dragon finally appeared in the cave.",
+      "traditional": "傳說中嘅龍終於喺山洞入面出現。",
+      "jyutping": "cyun4 syut3 zung1 ge3 lung4 zung1 jyu1 hai2 saan1 dung6 jap6 min6 ceot1 jin6"
+    },
+    {
+      "english": "The fabled King Arthur is still a hero in everyone's mind.",
+      "traditional": "傳說中嘅",
+      "jyutping": "cyun4 syut3 zung1 ge3"
     }
   ]
 }

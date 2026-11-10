@@ -1,26 +1,22 @@
 {
   "id": "apeusia0",
   "partOfSpeech": "verb",
+  "meaning": "be cooked",
+  "english": [
+    {
+      "id": "ysdocylc",
+      "word": "cook",
+      "meaning": "be cooked",
+      "note": "Use this when food is currently undergoing cooking, rather than when someone is preparing it."
+    }
+  ],
   "traditional": "煮緊",
   "jyutping": "zyu2 gan2",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "be cooked",
-      "english": [
-        {
-          "id": "ysdocylc",
-          "word": "cook",
-          "meaning": "be cooked",
-          "note": "Use this when food is currently undergoing cooking, rather than when someone is preparing it."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I’m watching the rice cook.",
-          "traditional": "我睇住啲飯煮緊呀。",
-          "jyutping": "ngo5 tai2 zyu6 di1 faan6 zyu2 gan2 aa3"
-        }
-      ]
+      "english": "I’m watching the rice cook.",
+      "traditional": "我睇住啲飯煮緊呀。",
+      "jyutping": "ngo5 tai2 zyu6 di1 faan6 zyu2 gan2 aa3"
     }
   ]
 }

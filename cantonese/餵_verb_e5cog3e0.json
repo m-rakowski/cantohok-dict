@@ -1,37 +1,33 @@
 {
   "id": "e5cog3e0",
   "partOfSpeech": "verb",
+  "meaning": "feed someone",
+  "english": [
+    {
+      "id": "210aiapn",
+      "word": "feed",
+      "meaning": "give food to",
+      "note": "Use this as the all-purpose verb for giving food to a person or animal, including giving one thing to another as food."
+    },
+    {
+      "id": "h7ipdvjc",
+      "word": "nourish",
+      "meaning": "feed; provide food",
+      "note": "Use this when nourish means feeding and the focus is physically giving food to a person or animal, rather than general care or growth."
+    }
+  ],
   "traditional": "餵",
   "jyutping": "wai3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "feed someone",
-      "english": [
-        {
-          "id": "210aiapn",
-          "word": "feed",
-          "meaning": "give food to",
-          "note": "Use this as the all-purpose verb for giving food to a person or animal, including giving one thing to another as food."
-        },
-        {
-          "id": "h7ipdvjc",
-          "word": "nourish",
-          "meaning": "feed; provide food",
-          "note": "Use this when nourish means feeding and the focus is physically giving food to a person or animal, rather than general care or growth."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I feed my dog every day.",
-          "traditional": "我每日都餵狗狗食嘢。",
-          "jyutping": "ngo5 mui5 jat6 dou1 wai3 gau2 gau2 sik6 je5"
-        },
-        {
-          "english": "I use fresh meat to nourish the puppy every day.",
-          "traditional": "我每日用新鮮肉餵隻狗仔。",
-          "jyutping": "ngo5 mui5 jat6 jung6 san1 sin1 juk6 wai3 zek3 gau2 zai2"
-        }
-      ]
+      "english": "I feed my dog every day.",
+      "traditional": "我每日都餵狗狗食嘢。",
+      "jyutping": "ngo5 mui5 jat6 dou1 wai3 gau2 gau2 sik6 je5"
+    },
+    {
+      "english": "I use fresh meat to nourish the puppy every day.",
+      "traditional": "我每日用新鮮肉餵隻狗仔。",
+      "jyutping": "ngo5 mui5 jat6 jung6 san1 sin1 juk6 wai3 zek3 gau2 zai2"
     }
   ]
 }

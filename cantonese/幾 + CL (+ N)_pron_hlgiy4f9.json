@@ -1,26 +1,22 @@
 {
   "id": "hlgiy4f9",
   "partOfSpeech": "pron",
+  "meaning": "the few people/things",
+  "english": [
+    {
+      "id": "1pdgj103",
+      "word": "few",
+      "meaning": "the few people/things",
+      "note": "Use this for a neutral reference to a small number when the stronger sense of “only” is not needed."
+    }
+  ],
   "traditional": "幾 + CL (+ N)",
   "jyutping": "gei2 CL N",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "the few people/things",
-      "english": [
-        {
-          "id": "1pdgj103",
-          "word": "few",
-          "meaning": "the few people/things",
-          "note": "Use this for a neutral reference to a small number when the stronger sense of “only” is not needed."
-        }
-      ],
-      "examples": [
-        {
-          "english": "A few people still haven't handed in their homework.",
-          "traditional": "幾個人仲未交功課。",
-          "jyutping": "gei2 go3 jan4 zung6 mei6 gaau1 gung1 fo3"
-        }
-      ]
+      "english": "A few people still haven't handed in their homework.",
+      "traditional": "幾個人仲未交功課。",
+      "jyutping": "gei2 go3 jan4 zung6 mei6 gaau1 gung1 fo3"
     }
   ]
 }

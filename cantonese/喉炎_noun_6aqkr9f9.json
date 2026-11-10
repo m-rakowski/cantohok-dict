@@ -1,28 +1,24 @@
 {
   "id": "6aqkr9f9",
   "partOfSpeech": "noun",
+  "meaning": "inflammation of the larynx",
+  "english": [
+    {
+      "id": "fjb7jdvy",
+      "word": "laryngitis",
+      "meaning": "inflammation of the larynx",
+      "register": "formal",
+      "note": "Use this more precise medical noun when naming the diagnosis rather than describing the symptom."
+    }
+  ],
   "traditional": "喉炎",
   "jyutping": "hau4 jim4",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "inflammation of the larynx",
-      "english": [
-        {
-          "id": "fjb7jdvy",
-          "word": "laryngitis",
-          "meaning": "inflammation of the larynx",
-          "register": "formal",
-          "note": "Use this more precise medical noun when naming the diagnosis rather than describing the symptom."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The doctor said I have laryngitis and need to rest for a few days.",
-          "traditional": "醫生話我係喉炎，要休息幾日。",
-          "jyutping": "ji1 sang1 waa6 ngo5 hai6 hau4 jim4 jiu3 jau1 sik1 gei2 jat6"
-        }
-      ]
+      "english": "The doctor said I have laryngitis and need to rest for a few days.",
+      "traditional": "醫生話我係喉炎，要休息幾日。",
+      "jyutping": "ji1 sang1 waa6 ngo5 hai6 hau4 jim4 jiu3 jau1 sik1 gei2 jat6"
     }
   ]
 }

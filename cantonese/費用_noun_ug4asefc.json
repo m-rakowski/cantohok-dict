@@ -1,59 +1,55 @@
 {
   "id": "ug4asefc",
   "partOfSpeech": "noun",
+  "meaning": "cost, expense, fee",
+  "english": [
+    {
+      "id": "c43lp89l",
+      "word": "cost",
+      "meaning": "price; expense",
+      "note": "This is the all-purpose noun for money paid or required as an expense."
+    },
+    {
+      "id": "1u8cwiyy",
+      "word": "expense",
+      "meaning": "cost; spending",
+      "note": "Use this as the all-purpose noun for money paid or spent as an expense."
+    },
+    {
+      "id": "gjxpo7gu",
+      "word": "fee",
+      "meaning": "professional service charge",
+      "note": "Use this for the amount payable for professional work, especially when describing it as a cost or expense."
+    },
+    {
+      "id": "v0mr4zm9",
+      "word": "damage",
+      "meaning": "cost; bill",
+      "note": "Use this for the cost or expense itself rather than a bill document."
+    }
+  ],
   "traditional": "費用",
   "jyutping": "fai3 jung6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "cost, expense, fee",
-      "english": [
-        {
-          "id": "c43lp89l",
-          "word": "cost",
-          "meaning": "price; expense",
-          "note": "This is the all-purpose noun for money paid or required as an expense."
-        },
-        {
-          "id": "1u8cwiyy",
-          "word": "expense",
-          "meaning": "cost; spending",
-          "note": "Use this as the all-purpose noun for money paid or spent as an expense."
-        },
-        {
-          "id": "gjxpo7gu",
-          "word": "fee",
-          "meaning": "professional service charge",
-          "note": "Use this for the amount payable for professional work, especially when describing it as a cost or expense."
-        },
-        {
-          "id": "v0mr4zm9",
-          "word": "damage",
-          "meaning": "cost; bill",
-          "note": "Use this for the cost or expense itself rather than a bill document."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The cost of this trip isn't cheap.",
-          "traditional": "呢次旅行嘅費用唔平。",
-          "jyutping": "ni1 ci3 leoi5 hang4 ge3 fai3 jung6 m4 ping4"
-        },
-        {
-          "english": "This expense has to be paid immediately.",
-          "traditional": "呢筆費用要即刻畀。",
-          "jyutping": "ni1 bat1 fai3 jung6 jiu3 zik1 hak1 bei2"
-        },
-        {
-          "english": "The fee for hiring a lawyer isn't cheap.",
-          "traditional": "搵律師嘅費用唔平。",
-          "jyutping": "wan2 leot6 si1 ge3 fai3 jung6 m4 peng4"
-        },
-        {
-          "english": "The damage for repairing the air conditioner was more than I expected.",
-          "traditional": "維修冷氣機嘅費用，比我預期中多。",
-          "jyutping": "wai4 sau1 laang5 hei3 gei1 ge3 fai3 jung6 bei2 ngo5 jyu6 kei4 zung1 do1"
-        }
-      ]
+      "english": "The cost of this trip isn't cheap.",
+      "traditional": "呢次旅行嘅費用唔平。",
+      "jyutping": "ni1 ci3 leoi5 hang4 ge3 fai3 jung6 m4 ping4"
+    },
+    {
+      "english": "This expense has to be paid immediately.",
+      "traditional": "呢筆費用要即刻畀。",
+      "jyutping": "ni1 bat1 fai3 jung6 jiu3 zik1 hak1 bei2"
+    },
+    {
+      "english": "The fee for hiring a lawyer isn't cheap.",
+      "traditional": "搵律師嘅費用唔平。",
+      "jyutping": "wan2 leot6 si1 ge3 fai3 jung6 m4 peng4"
+    },
+    {
+      "english": "The damage for repairing the air conditioner was more than I expected.",
+      "traditional": "維修冷氣機嘅費用，比我預期中多。",
+      "jyutping": "wai4 sau1 laang5 hei3 gei1 ge3 fai3 jung6 bei2 ngo5 jyu6 kei4 zung1 do1"
     }
   ]
 }

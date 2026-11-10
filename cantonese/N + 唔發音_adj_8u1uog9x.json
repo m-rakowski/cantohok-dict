@@ -1,28 +1,24 @@
 {
   "id": "8u1uog9x",
   "partOfSpeech": "adj",
+  "meaning": "silent letter; unpronounced",
+  "english": [
+    {
+      "id": "99z4lzry",
+      "word": "silent",
+      "meaning": "silent letter; unpronounced",
+      "register": "colloquial",
+      "note": "Use this pattern to say that a particular letter or symbol is not pronounced."
+    }
+  ],
   "traditional": "N + 唔發音",
   "jyutping": "N m4 faat3 jam1",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "silent letter; unpronounced",
-      "english": [
-        {
-          "id": "99z4lzry",
-          "word": "silent",
-          "meaning": "silent letter; unpronounced",
-          "register": "colloquial",
-          "note": "Use this pattern to say that a particular letter or symbol is not pronounced."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "The first letter of this word is silent.",
-          "traditional": "呢個字嘅開頭字母唔發音。",
-          "jyutping": "ni1 go3 zi6 ge3 hoi1 tau4 zi6 mou5 m4 faat3 jam1"
-        }
-      ]
+      "english": "The first letter of this word is silent.",
+      "traditional": "呢個字嘅開頭字母唔發音。",
+      "jyutping": "ni1 go3 zi6 ge3 hoi1 tau4 zi6 mou5 m4 faat3 jam1"
     }
   ]
 }

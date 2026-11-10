@@ -1,38 +1,34 @@
 {
   "id": "j0coswsv",
   "partOfSpeech": "verb",
+  "meaning": "verify, check facts",
+  "english": [
+    {
+      "id": "g6pgrvsd",
+      "word": "confirm",
+      "meaning": "verify, make sure",
+      "register": "formal",
+      "note": "Use this when specifically verifying facts, records, or a previous statement."
+    },
+    {
+      "id": "mf96p27a",
+      "word": "prove",
+      "meaning": "verify",
+      "note": "Use this when checking or establishing that information, a document, or a fact is genuine or valid."
+    }
+  ],
   "traditional": "核實",
   "jyutping": "hat6 sat6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "verify, check facts",
-      "english": [
-        {
-          "id": "g6pgrvsd",
-          "word": "confirm",
-          "meaning": "verify, make sure",
-          "register": "formal",
-          "note": "Use this when specifically verifying facts, records, or a previous statement."
-        },
-        {
-          "id": "mf96p27a",
-          "word": "prove",
-          "meaning": "verify",
-          "note": "Use this when checking or establishing that information, a document, or a fact is genuine or valid."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This office will confirm the information provided by the applicant.",
-          "traditional": "本處會核實申請人提供嘅資料。",
-          "jyutping": "bun2 cyu3 wui5 hat6 sat6 san1 cing2 jan4 tai4 gung1 ge3 zi1 liu6"
-        },
-        {
-          "english": "We need to verify whether the document is genuine before we can prove it to the client.",
-          "traditional": "我哋要先核實份文件係咪真，先可以向個客證明。",
-          "jyutping": "ngo5 dei6 jiu3 sin1 hat6 sat6 fan6 man4 gin6 hai6 mai6 zan1 sin1 ho2 ji5 hoeng3 go3 haak3 zing3 ming4"
-        }
-      ]
+      "english": "This office will confirm the information provided by the applicant.",
+      "traditional": "本處會核實申請人提供嘅資料。",
+      "jyutping": "bun2 cyu3 wui5 hat6 sat6 san1 cing2 jan4 tai4 gung1 ge3 zi1 liu6"
+    },
+    {
+      "english": "We need to verify whether the document is genuine before we can prove it to the client.",
+      "traditional": "我哋要先核實份文件係咪真，先可以向個客證明。",
+      "jyutping": "ngo5 dei6 jiu3 sin1 hat6 sat6 fan6 man4 gin6 hai6 mai6 zan1 sin1 ho2 ji5 hoeng3 go3 haak3 zing3 ming4"
     }
   ]
 }

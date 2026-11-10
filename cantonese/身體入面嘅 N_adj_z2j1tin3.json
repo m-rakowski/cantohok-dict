@@ -1,28 +1,24 @@
 {
   "id": "z2j1tin3",
   "partOfSpeech": "adj",
+  "meaning": "inside the body",
+  "english": [
+    {
+      "id": "gc6dk3fa",
+      "word": "internal",
+      "meaning": "inside the body",
+      "register": "colloquial",
+      "note": "Use this when the thing is located inside the body rather than merely inside an object or organization."
+    }
+  ],
   "traditional": "身體入面嘅 N",
   "jyutping": "san1 tai2 jap6 min6 ge3 N",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "inside the body",
-      "english": [
-        {
-          "id": "gc6dk3fa",
-          "word": "internal",
-          "meaning": "inside the body",
-          "register": "colloquial",
-          "note": "Use this when the thing is located inside the body rather than merely inside an object or organization."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "I want to know how internal organs work.",
-          "traditional": "我想知身體入面嘅器官點樣運作。",
-          "jyutping": "ngo5 soeng2 zi1 san1 tai2 jap6 min6 ge3 hei3 gun1 dim2 joeng2 wan6 zok3"
-        }
-      ]
+      "english": "I want to know how internal organs work.",
+      "traditional": "我想知身體入面嘅器官點樣運作。",
+      "jyutping": "ngo5 soeng2 zi1 san1 tai2 jap6 min6 ge3 hei3 gun1 dim2 joeng2 wan6 zok3"
     }
   ]
 }

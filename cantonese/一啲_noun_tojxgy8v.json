@@ -1,49 +1,45 @@
 {
   "id": "tojxgy8v",
   "partOfSpeech": "noun",
+  "meaning": "a little bit, a tiny amount",
+  "english": [
+    {
+      "id": "nwxq388j",
+      "word": "ounce",
+      "meaning": "a little bit",
+      "register": "colloquial",
+      "note": "Use this for a small amount, including abstract amounts such as “not an ounce of regret.”"
+    },
+    {
+      "id": "e9ra4821",
+      "word": "particle",
+      "meaning": "a bit, not a bit",
+      "note": "For the small-amount sense, this is the all-purpose everyday choice."
+    },
+    {
+      "id": "puush109",
+      "word": "drop",
+      "meaning": "tiny amount",
+      "note": "Use 一啲 as the all-purpose noun phrase for a very small amount of something, including the non-liquid extension of this sense."
+    }
+  ],
   "traditional": "一啲",
   "jyutping": "jat1 di1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "a little bit, a tiny amount",
-      "english": [
-        {
-          "id": "nwxq388j",
-          "word": "ounce",
-          "meaning": "a little bit",
-          "register": "colloquial",
-          "note": "Use this for a small amount, including abstract amounts such as “not an ounce of regret.”"
-        },
-        {
-          "id": "e9ra4821",
-          "word": "particle",
-          "meaning": "a bit, not a bit",
-          "note": "For the small-amount sense, this is the all-purpose everyday choice."
-        },
-        {
-          "id": "puush109",
-          "word": "drop",
-          "meaning": "tiny amount",
-          "note": "Use 一啲 as the all-purpose noun phrase for a very small amount of something, including the non-liquid extension of this sense."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I don't have an ounce of regret about this.",
-          "traditional": "一啲",
-          "jyutping": "jat1 di1"
-        },
-        {
-          "english": "I don't have a particle of patience left; I don't want to wait any longer.",
-          "traditional": "我一啲耐性都冇，唔想再等喇。",
-          "jyutping": "ngo5 jat1 di1 noi6 sing3 dou1 mou5 m4 soeng2 zoi3 dang2 laa3"
-        },
-        {
-          "english": "I only want a drop of water.",
-          "traditional": "我淨係想要一啲水。",
-          "jyutping": "ngo5 zing6 hai6 soeng2 jiu3 jat1 di1 seoi2"
-        }
-      ]
+      "english": "I don't have an ounce of regret about this.",
+      "traditional": "一啲",
+      "jyutping": "jat1 di1"
+    },
+    {
+      "english": "I don't have a particle of patience left; I don't want to wait any longer.",
+      "traditional": "我一啲耐性都冇，唔想再等喇。",
+      "jyutping": "ngo5 jat1 di1 noi6 sing3 dou1 mou5 m4 soeng2 zoi3 dang2 laa3"
+    },
+    {
+      "english": "I only want a drop of water.",
+      "traditional": "我淨係想要一啲水。",
+      "jyutping": "ngo5 zing6 hai6 soeng2 jiu3 jat1 di1 seoi2"
     }
   ]
 }

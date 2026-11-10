@@ -1,37 +1,33 @@
 {
   "id": "011bv3pk",
   "partOfSpeech": "verb",
+  "meaning": "defend",
+  "english": [
+    {
+      "id": "fy4v5q4y",
+      "word": "defend",
+      "meaning": "protect, guard",
+      "note": "Use this for defending against an opponent in sports, games, or a tactical situation rather than general protection."
+    },
+    {
+      "id": "vt24i64y",
+      "word": "guard",
+      "meaning": "protect; defend",
+      "note": "Use this for actively defending a territory, position, or goal against attack rather than for general protection."
+    }
+  ],
   "traditional": "防守",
   "jyutping": "fong4 sau2",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "defend",
-      "english": [
-        {
-          "id": "fy4v5q4y",
-          "word": "defend",
-          "meaning": "protect, guard",
-          "note": "Use this for defending against an opponent in sports, games, or a tactical situation rather than general protection."
-        },
-        {
-          "id": "vt24i64y",
-          "word": "guard",
-          "meaning": "protect; defend",
-          "note": "Use this for actively defending a territory, position, or goal against attack rather than for general protection."
-        }
-      ],
-      "examples": [
-        {
-          "english": "We need to defend well and not let the opponents score.",
-          "traditional": "我哋要防守好，唔可以畀對手入波。",
-          "jyutping": "ngo5 dei6 jiu3 fong4 sau2 hou2 m4 ho2 ji5 bei2 deoi3 sau2 jap6 bo1"
-        },
-        {
-          "english": "We need to guard our goal.",
-          "traditional": "我哋要防守住個龍門。",
-          "jyutping": "ngo5 dei6 jiu3 fong4 sau2 zyu6 go3 lung4 mun4"
-        }
-      ]
+      "english": "We need to defend well and not let the opponents score.",
+      "traditional": "我哋要防守好，唔可以畀對手入波。",
+      "jyutping": "ngo5 dei6 jiu3 fong4 sau2 hou2 m4 ho2 ji5 bei2 deoi3 sau2 jap6 bo1"
+    },
+    {
+      "english": "We need to guard our goal.",
+      "traditional": "我哋要防守住個龍門。",
+      "jyutping": "ngo5 dei6 jiu3 fong4 sau2 zyu6 go3 lung4 mun4"
     }
   ]
 }

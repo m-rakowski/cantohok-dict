@@ -1,48 +1,44 @@
 {
   "id": "e1ujkjlr",
   "partOfSpeech": "verb",
+  "meaning": "to deceive, cheat",
+  "english": [
+    {
+      "id": "h6t7izqn",
+      "word": "trick",
+      "meaning": "deceive",
+      "note": "This is the all-purpose colloquial verb for fooling or deceiving someone."
+    },
+    {
+      "id": "pjbrxcqz",
+      "word": "cheat",
+      "meaning": "deceive, trick",
+      "note": "This is the all-purpose choice for deceiving or tricking someone, including cheating them out of money."
+    },
+    {
+      "id": "8pqcxdxo",
+      "word": "deceive",
+      "meaning": "trick, mislead",
+      "note": "This is the all-purpose colloquial verb for tricking or misleading someone."
+    }
+  ],
   "traditional": "呃",
   "jyutping": "aak1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "to deceive, cheat",
-      "english": [
-        {
-          "id": "h6t7izqn",
-          "word": "trick",
-          "meaning": "deceive",
-          "note": "This is the all-purpose colloquial verb for fooling or deceiving someone."
-        },
-        {
-          "id": "pjbrxcqz",
-          "word": "cheat",
-          "meaning": "deceive, trick",
-          "note": "This is the all-purpose choice for deceiving or tricking someone, including cheating them out of money."
-        },
-        {
-          "id": "8pqcxdxo",
-          "word": "deceive",
-          "meaning": "trick, mislead",
-          "note": "This is the all-purpose colloquial verb for tricking or misleading someone."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Don't trick me.",
-          "traditional": "你唔好呃我啦。",
-          "jyutping": "nei5 m4 hou2 aak1 ngo5 laa1"
-        },
-        {
-          "english": "They tried to cheat me out of fifty dollars.",
-          "traditional": "佢呃咗我五十蚊。",
-          "jyutping": "keoi5 aak1 zo2 ngo5 ng5 sap6 man1"
-        },
-        {
-          "english": "Don't deceive me, okay?",
-          "traditional": "你唔好呃我喎。",
-          "jyutping": "nei5 m4 hou2 aak1 ngo5 wo3"
-        }
-      ]
+      "english": "Don't trick me.",
+      "traditional": "你唔好呃我啦。",
+      "jyutping": "nei5 m4 hou2 aak1 ngo5 laa1"
+    },
+    {
+      "english": "They tried to cheat me out of fifty dollars.",
+      "traditional": "佢呃咗我五十蚊。",
+      "jyutping": "keoi5 aak1 zo2 ngo5 ng5 sap6 man1"
+    },
+    {
+      "english": "Don't deceive me, okay?",
+      "traditional": "你唔好呃我喎。",
+      "jyutping": "nei5 m4 hou2 aak1 ngo5 wo3"
     }
   ]
 }

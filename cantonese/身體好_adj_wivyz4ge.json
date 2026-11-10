@@ -1,38 +1,34 @@
 {
   "id": "wivyz4ge",
   "partOfSpeech": "adj",
+  "meaning": "healthy, in good health",
+  "english": [
+    {
+      "id": "jvrhqkvl",
+      "word": "well",
+      "meaning": "in good health",
+      "register": "colloquial",
+      "note": "Use this as the all-purpose everyday description of someone being in good health."
+    },
+    {
+      "id": "a90akdob",
+      "word": "fit",
+      "meaning": "physically well",
+      "note": "Use 身體好 for being physically healthy or in good condition; it is the all-purpose choice for this sense."
+    }
+  ],
   "traditional": "身體好",
   "jyutping": "san1 tai2 hou2",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "healthy, in good health",
-      "english": [
-        {
-          "id": "jvrhqkvl",
-          "word": "well",
-          "meaning": "in good health",
-          "register": "colloquial",
-          "note": "Use this as the all-purpose everyday description of someone being in good health."
-        },
-        {
-          "id": "a90akdob",
-          "word": "fit",
-          "meaning": "physically well",
-          "note": "Use 身體好 for being physically healthy or in good condition; it is the all-purpose choice for this sense."
-        }
-      ],
-      "examples": [
-        {
-          "english": "My grandma is well and does not get tired even after walking for hours.",
-          "traditional": "我阿婆身體好，行幾個鐘頭都唔攰。",
-          "jyutping": "ngo5 aa3 po4 san1 tai2 hou2 haang4 gei2 go3 zung1 tau4 dou1 m4 gui6"
-        },
-        {
-          "english": "I've been feeling fit again lately.",
-          "traditional": "我最近身體好咗好多。",
-          "jyutping": "ngo5 zeoi3 gan6 san1 tai2 hou2 zo2 hou2 do1"
-        }
-      ]
+      "english": "My grandma is well and does not get tired even after walking for hours.",
+      "traditional": "我阿婆身體好，行幾個鐘頭都唔攰。",
+      "jyutping": "ngo5 aa3 po4 san1 tai2 hou2 haang4 gei2 go3 zung1 tau4 dou1 m4 gui6"
+    },
+    {
+      "english": "I've been feeling fit again lately.",
+      "traditional": "我最近身體好咗好多。",
+      "jyutping": "ngo5 zeoi3 gan6 san1 tai2 hou2 zo2 hou2 do1"
     }
   ]
 }

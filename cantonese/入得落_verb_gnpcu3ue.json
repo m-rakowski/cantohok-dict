@@ -1,28 +1,24 @@
 {
   "id": "gnpcu3ue",
   "partOfSpeech": "verb",
+  "meaning": "have room for",
+  "english": [
+    {
+      "id": "dgmhastz",
+      "word": "fit",
+      "meaning": "have room for",
+      "register": "colloquial",
+      "note": "Use this for saying that a number of people or things can fit inside a particular space."
+    }
+  ],
   "traditional": "入得落",
   "jyutping": "jap6 dak1 lok6",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "have room for",
-      "english": [
-        {
-          "id": "dgmhastz",
-          "word": "fit",
-          "meaning": "have room for",
-          "register": "colloquial",
-          "note": "Use this for saying that a number of people or things can fit inside a particular space."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "This cabinet can fit six boxes.",
-          "traditional": "個櫃入得落六個箱。",
-          "jyutping": "go3 gwai6 jap6 dak1 lok6 luk6 go3 soeng1"
-        }
-      ]
+      "english": "This cabinet can fit six boxes.",
+      "traditional": "個櫃入得落六個箱。",
+      "jyutping": "go3 gwai6 jap6 dak1 lok6 luk6 go3 soeng1"
     }
   ]
 }

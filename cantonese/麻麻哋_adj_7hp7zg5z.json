@@ -1,40 +1,36 @@
 {
   "id": "7hp7zg5z",
   "partOfSpeech": "adj",
+  "meaning": "so-so, mediocre",
+  "english": [
+    {
+      "id": "0acjdqon",
+      "word": "mediocre",
+      "meaning": "average; not very good",
+      "register": "colloquial",
+      "note": "This is the all-purpose colloquial choice for something that is only so-so and not very good."
+    },
+    {
+      "id": "rxw6xc10",
+      "word": "indifferent",
+      "meaning": "mediocre; poor",
+      "register": "colloquial",
+      "note": "Use this when indifferent describes quality as only so-so or mediocre, not a person's attitude."
+    }
+  ],
   "traditional": "麻麻哋",
   "jyutping": "maa4 maa2 dei2",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "so-so, mediocre",
-      "english": [
-        {
-          "id": "0acjdqon",
-          "word": "mediocre",
-          "meaning": "average; not very good",
-          "register": "colloquial",
-          "note": "This is the all-purpose colloquial choice for something that is only so-so and not very good."
-        },
-        {
-          "id": "rxw6xc10",
-          "word": "indifferent",
-          "meaning": "mediocre; poor",
-          "register": "colloquial",
-          "note": "Use this when indifferent describes quality as only so-so or mediocre, not a person's attitude."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "The food at this restaurant is mediocre.",
-          "traditional": "呢間餐廳啲嘢食麻麻哋。",
-          "jyutping": "ne1 gaan1 caan1 teng1 di1 je5 sik6 maa4 maa2 dei2"
-        },
-        {
-          "english": "This movie was indifferent at best.",
-          "traditional": "呢套戲真係麻麻哋。",
-          "jyutping": "ne1 tou3 hei3 zan1 hai6 maa4 maa2 dei2"
-        }
-      ]
+      "english": "The food at this restaurant is mediocre.",
+      "traditional": "呢間餐廳啲嘢食麻麻哋。",
+      "jyutping": "ne1 gaan1 caan1 teng1 di1 je5 sik6 maa4 maa2 dei2"
+    },
+    {
+      "english": "This movie was indifferent at best.",
+      "traditional": "呢套戲真係麻麻哋。",
+      "jyutping": "ne1 tou3 hei3 zan1 hai6 maa4 maa2 dei2"
     }
   ]
 }

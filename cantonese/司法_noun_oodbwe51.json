@@ -1,28 +1,24 @@
 {
   "id": "oodbwe51",
   "partOfSpeech": "noun",
+  "meaning": "law and legal system",
+  "english": [
+    {
+      "id": "44e8tplm",
+      "word": "justice",
+      "meaning": "law and legal system",
+      "register": "formal",
+      "note": "Use this for the judicial authority or legal system, as in a justice ministry or judicial administration."
+    }
+  ],
   "traditional": "司法",
   "jyutping": "si1 faat3",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "law and legal system",
-      "english": [
-        {
-          "id": "44e8tplm",
-          "word": "justice",
-          "meaning": "law and legal system",
-          "register": "formal",
-          "note": "Use this for the judicial authority or legal system, as in a justice ministry or judicial administration."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The justice system must remain independent.",
-          "traditional": "司法制度必須保持獨立。",
-          "jyutping": "si1 faat3 zai3 dou6 bit1 seoi1 bou2 ci4 duk6 lap6"
-        }
-      ]
+      "english": "The justice system must remain independent.",
+      "traditional": "司法制度必須保持獨立。",
+      "jyutping": "si1 faat3 zai3 dou6 bit1 seoi1 bou2 ci4 duk6 lap6"
     }
   ]
 }

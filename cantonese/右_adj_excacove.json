@@ -1,26 +1,22 @@
 {
   "id": "excacove",
   "partOfSpeech": "adj",
+  "meaning": "direction: right side",
+  "english": [
+    {
+      "id": "itp0naf1",
+      "word": "right",
+      "meaning": "direction: right side",
+      "note": "Use this for the right-hand side and for a rightward turn or bend, such as 右轉 or 右彎."
+    }
+  ],
   "traditional": "右",
   "jyutping": "jau6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "direction: right side",
-      "english": [
-        {
-          "id": "itp0naf1",
-          "word": "right",
-          "meaning": "direction: right side",
-          "note": "Use this for the right-hand side and for a rightward turn or bend, such as 右轉 or 右彎."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Turn right at the next intersection.",
-          "traditional": "下一個路口向右轉。",
-          "jyutping": "haa6 jat1 go3 lou6 hau2 hoeng3 jau6 zyun2"
-        }
-      ]
+      "english": "Turn right at the next intersection.",
+      "traditional": "下一個路口向右轉。",
+      "jyutping": "haa6 jat1 go3 lou6 hau2 hoeng3 jau6 zyun2"
     }
   ]
 }

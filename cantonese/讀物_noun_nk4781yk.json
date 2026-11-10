@@ -1,38 +1,34 @@
 {
   "id": "nk4781yk",
   "partOfSpeech": "noun",
+  "meaning": "reading material",
+  "english": [
+    {
+      "id": "lllklt3i",
+      "word": "reading",
+      "meaning": "reading material",
+      "register": "written",
+      "note": "Use this when referring to material intended to be read rather than the activity of reading."
+    },
+    {
+      "id": "5fdsa3lu",
+      "word": "matter",
+      "meaning": "reading material",
+      "note": "Use this for something such as a book or magazine taken or used for reading."
+    }
+  ],
   "traditional": "讀物",
   "jyutping": "duk6 mat6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "reading material",
-      "english": [
-        {
-          "id": "lllklt3i",
-          "word": "reading",
-          "meaning": "reading material",
-          "register": "written",
-          "note": "Use this when referring to material intended to be read rather than the activity of reading."
-        },
-        {
-          "id": "5fdsa3lu",
-          "word": "matter",
-          "meaning": "reading material",
-          "note": "Use this for something such as a book or magazine taken or used for reading."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This is reading material for children.",
-          "traditional": "呢本係畀小朋友睇嘅讀物。",
-          "jyutping": "ni1 bun2 hai6 bei2 siu2 pang4 jau5 tai2 ge3 duk6 mat6"
-        },
-        {
-          "english": "This magazine is reading matter for my train rides.",
-          "traditional": "呢本雜誌係我搭車時嘅讀物。",
-          "jyutping": "nei1 bun2 zaap6 zi3 hai6 ngo5 daap3 ce1 si4 ge3 duk6 mat6"
-        }
-      ]
+      "english": "This is reading material for children.",
+      "traditional": "呢本係畀小朋友睇嘅讀物。",
+      "jyutping": "ni1 bun2 hai6 bei2 siu2 pang4 jau5 tai2 ge3 duk6 mat6"
+    },
+    {
+      "english": "This magazine is reading matter for my train rides.",
+      "traditional": "呢本雜誌係我搭車時嘅讀物。",
+      "jyutping": "nei1 bun2 zaap6 zi3 hai6 ngo5 daap3 ce1 si4 ge3 duk6 mat6"
     }
   ]
 }

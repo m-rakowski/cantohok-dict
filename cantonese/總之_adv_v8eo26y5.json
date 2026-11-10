@@ -1,38 +1,34 @@
 {
   "id": "v8eo26y5",
   "partOfSpeech": "adv",
+  "meaning": "anyway, in any case",
+  "english": [
+    {
+      "id": "y741goj5",
+      "word": "anyhow",
+      "meaning": "anyway; in any case",
+      "note": "Use this to wrap up or reinforce a preceding point with “anyway” or “in short.”"
+    },
+    {
+      "id": "rtj2hbc2",
+      "word": "regardless",
+      "meaning": "anyway; still",
+      "register": "colloquial",
+      "note": "Use this discourse marker for “anyway” when moving on to the decision or conclusion, rather than stressing a specific warning."
+    }
+  ],
   "traditional": "總之",
   "jyutping": "zung2 zi1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "anyway, in any case",
-      "english": [
-        {
-          "id": "y741goj5",
-          "word": "anyhow",
-          "meaning": "anyway; in any case",
-          "note": "Use this to wrap up or reinforce a preceding point with “anyway” or “in short.”"
-        },
-        {
-          "id": "rtj2hbc2",
-          "word": "regardless",
-          "meaning": "anyway; still",
-          "register": "colloquial",
-          "note": "Use this discourse marker for “anyway” when moving on to the decision or conclusion, rather than stressing a specific warning."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Anyhow, the matter is settled, so there's no need to think about it anymore.",
-          "traditional": "總之，件事已經搞掂，唔使再諗喇。",
-          "jyutping": "zung2 zi1 gin6 si6 ji5 ging1 gaau2 dim6 m4 sai2 zoi3 nam2 laa3"
-        },
-        {
-          "english": "Regardless, we’ll set off tomorrow as planned.",
-          "traditional": "總之，聽日照計劃出發。",
-          "jyutping": "zung2 zi1 ting1 jat6 ziu3 gai3 waak6 ceot1 faat3"
-        }
-      ]
+      "english": "Anyhow, the matter is settled, so there's no need to think about it anymore.",
+      "traditional": "總之，件事已經搞掂，唔使再諗喇。",
+      "jyutping": "zung2 zi1 gin6 si6 ji5 ging1 gaau2 dim6 m4 sai2 zoi3 nam2 laa3"
+    },
+    {
+      "english": "Regardless, we’ll set off tomorrow as planned.",
+      "traditional": "總之，聽日照計劃出發。",
+      "jyutping": "zung2 zi1 ting1 jat6 ziu3 gai3 waak6 ceot1 faat3"
     }
   ]
 }

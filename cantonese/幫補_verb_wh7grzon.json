@@ -1,38 +1,34 @@
 {
   "id": "wh7grzon",
   "partOfSpeech": "verb",
+  "meaning": "help out financially, supplement",
+  "english": [
+    {
+      "id": "33k9uyni",
+      "word": "eke out",
+      "meaning": "supplement income",
+      "note": "This is the all-purpose choice when someone adds to income or resources that are not quite enough."
+    },
+    {
+      "id": "e74ilz23",
+      "word": "subsidize",
+      "meaning": "financially support with a subsidy",
+      "register": "colloquial",
+      "note": "Use this colloquial choice when emphasizing help with someone's expenses rather than an official subsidy."
+    }
+  ],
   "traditional": "幫補",
   "jyutping": "bong1 bou2",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "help out financially, supplement",
-      "english": [
-        {
-          "id": "33k9uyni",
-          "word": "eke out",
-          "meaning": "supplement income",
-          "note": "This is the all-purpose choice when someone adds to income or resources that are not quite enough."
-        },
-        {
-          "id": "e74ilz23",
-          "word": "subsidize",
-          "meaning": "financially support with a subsidy",
-          "register": "colloquial",
-          "note": "Use this colloquial choice when emphasizing help with someone's expenses rather than an official subsidy."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Ming uses food delivery to eke out his full-time income.",
-          "traditional": "阿明靠送外賣幫補正職收入。",
-          "jyutping": "aa3 ming4 kaau3 sung3 ngoi6 maai6 bong1 bou2 zing3 zik1 sau1 jap6"
-        },
-        {
-          "english": "The income from this part-time job can help subsidize the household expenses.",
-          "traditional": "呢份兼職啲收入，可以幫補下屋企開支。",
-          "jyutping": "ne1 fan6 gim1 zik1 di1 sau1 jap6 ho2 ji5 bong1 bou2 haa5 uk1 kei2 hoi1 zi1"
-        }
-      ]
+      "english": "Ming uses food delivery to eke out his full-time income.",
+      "traditional": "阿明靠送外賣幫補正職收入。",
+      "jyutping": "aa3 ming4 kaau3 sung3 ngoi6 maai6 bong1 bou2 zing3 zik1 sau1 jap6"
+    },
+    {
+      "english": "The income from this part-time job can help subsidize the household expenses.",
+      "traditional": "呢份兼職啲收入，可以幫補下屋企開支。",
+      "jyutping": "ne1 fan6 gim1 zik1 di1 sau1 jap6 ho2 ji5 bong1 bou2 haa5 uk1 kei2 hoi1 zi1"
     }
   ]
 }

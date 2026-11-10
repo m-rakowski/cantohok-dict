@@ -1,28 +1,24 @@
 {
   "id": "f7r5icpm",
   "partOfSpeech": "noun",
+  "meaning": "natural satellite",
+  "english": [
+    {
+      "id": "9pknvyvj",
+      "word": "moon",
+      "meaning": "natural satellite",
+      "register": "formal",
+      "note": "Use this formal or scientific term when referring to Earth's moon as a celestial body rather than using everyday 月亮."
+    }
+  ],
   "traditional": "月球",
   "jyutping": "jyut6 kau4",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "natural satellite",
-      "english": [
-        {
-          "id": "9pknvyvj",
-          "word": "moon",
-          "meaning": "natural satellite",
-          "register": "formal",
-          "note": "Use this formal or scientific term when referring to Earth's moon as a celestial body rather than using everyday 月亮."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "Astronomers study the moon's surface.",
-          "traditional": "天文學家研究月球表面。",
-          "jyutping": "tin1 man4 hok6 gaa1 jin4 gau3 jyut6 kau4 biu2 min6"
-        }
-      ]
+      "english": "Astronomers study the moon's surface.",
+      "traditional": "天文學家研究月球表面。",
+      "jyutping": "tin1 man4 hok6 gaa1 jin4 gau3 jyut6 kau4 biu2 min6"
     }
   ]
 }

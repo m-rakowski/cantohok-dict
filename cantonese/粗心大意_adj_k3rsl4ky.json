@@ -1,48 +1,44 @@
 {
   "id": "k3rsl4ky",
   "partOfSpeech": "adj",
+  "meaning": "careless",
+  "english": [
+    {
+      "id": "3h0t48e9",
+      "word": "thoughtless",
+      "meaning": "careless, heedless",
+      "note": "Use this as the all-purpose choice for someone who is careless or heedless."
+    },
+    {
+      "id": "6nur3suy",
+      "word": "neglectful",
+      "meaning": "failing to take care",
+      "note": "This is the all-purpose choice for someone who is careless, inattentive, or forgetful about things needing care."
+    },
+    {
+      "id": "zc7f7phm",
+      "word": "negligent",
+      "meaning": "careless; inattentive",
+      "note": "Use this as the all-purpose rendering for being careless or failing to pay attention."
+    }
+  ],
   "traditional": "粗心大意",
   "jyutping": "cou1 sam1 daai6 ji3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "careless",
-      "english": [
-        {
-          "id": "3h0t48e9",
-          "word": "thoughtless",
-          "meaning": "careless, heedless",
-          "note": "Use this as the all-purpose choice for someone who is careless or heedless."
-        },
-        {
-          "id": "6nur3suy",
-          "word": "neglectful",
-          "meaning": "failing to take care",
-          "note": "This is the all-purpose choice for someone who is careless, inattentive, or forgetful about things needing care."
-        },
-        {
-          "id": "zc7f7phm",
-          "word": "negligent",
-          "meaning": "careless; inattentive",
-          "note": "Use this as the all-purpose rendering for being careless or failing to pay attention."
-        }
-      ],
-      "examples": [
-        {
-          "english": "You're so thoughtless that you even forgot to lock the door.",
-          "traditional": "粗心大意",
-          "jyutping": "cou1 sam1 daai6 ji3"
-        },
-        {
-          "english": "They are neglectful and often forget to turn off the stove before leaving.",
-          "traditional": "佢成日粗心大意，出門口唔記得熄火。",
-          "jyutping": "keoi5 seng4 jat6 cou1 sam1 daai6 ji3 ceot1 mun4 hau2 m4 gei3 dak1 sik1 fo2"
-        },
-        {
-          "english": "You were negligent in your work and left several pages out of the report.",
-          "traditional": "你做嘢粗心大意，份報告漏咗幾頁。",
-          "jyutping": "nei5 zou6 je5 cou1 sam1 daai6 ji3 fan6 bou3 gou3 lau6 zo2 gei2 jip6"
-        }
-      ]
+      "english": "You're so thoughtless that you even forgot to lock the door.",
+      "traditional": "粗心大意",
+      "jyutping": "cou1 sam1 daai6 ji3"
+    },
+    {
+      "english": "They are neglectful and often forget to turn off the stove before leaving.",
+      "traditional": "佢成日粗心大意，出門口唔記得熄火。",
+      "jyutping": "keoi5 seng4 jat6 cou1 sam1 daai6 ji3 ceot1 mun4 hau2 m4 gei3 dak1 sik1 fo2"
+    },
+    {
+      "english": "You were negligent in your work and left several pages out of the report.",
+      "traditional": "你做嘢粗心大意，份報告漏咗幾頁。",
+      "jyutping": "nei5 zou6 je5 cou1 sam1 daai6 ji3 fan6 bou3 gou3 lau6 zo2 gei2 jip6"
     }
   ]
 }

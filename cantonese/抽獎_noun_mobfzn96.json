@@ -1,26 +1,22 @@
 {
   "id": "mobfzn96",
   "partOfSpeech": "noun",
+  "meaning": "prize draw game",
+  "english": [
+    {
+      "id": "2ch1nhgk",
+      "word": "lottery",
+      "meaning": "prize draw game",
+      "note": "Use this for a prize draw or lucky draw where prizes are selected from entries, rather than for the default numbered-ticket lottery."
+    }
+  ],
   "traditional": "抽獎",
   "jyutping": "cau1 zoeng2",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "prize draw game",
-      "english": [
-        {
-          "id": "2ch1nhgk",
-          "word": "lottery",
-          "meaning": "prize draw game",
-          "note": "Use this for a prize draw or lucky draw where prizes are selected from entries, rather than for the default numbered-ticket lottery."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The company is holding a lottery, and the winner can take home a phone.",
-          "traditional": "公司搞抽獎，中獎嗰個可以攞部手機。",
-          "jyutping": "gung1 si1 gaau2 cau1 zoeng2 zung3 zoeng2 go2 go3 ho2 ji5 lo2 bou6 sau2 gei1"
-        }
-      ]
+      "english": "The company is holding a lottery, and the winner can take home a phone.",
+      "traditional": "公司搞抽獎，中獎嗰個可以攞部手機。",
+      "jyutping": "gung1 si1 gaau2 cau1 zoeng2 zung3 zoeng2 go2 go3 ho2 ji5 lo2 bou6 sau2 gei1"
     }
   ]
 }

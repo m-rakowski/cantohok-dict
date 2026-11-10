@@ -1,28 +1,24 @@
 {
   "id": "xoe9oajz",
   "partOfSpeech": "noun",
+  "meaning": "being away",
+  "english": [
+    {
+      "id": "5y3o2x8f",
+      "word": "absence",
+      "meaning": "being away",
+      "register": "formal",
+      "note": "Use this formal noun for someone's absence from a particular place or setting; everyday speech usually describes it with 唔喺度 instead."
+    }
+  ],
   "traditional": "不在場",
   "jyutping": "bat1 zoi6 coeng4",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "being away",
-      "english": [
-        {
-          "id": "5y3o2x8f",
-          "word": "absence",
-          "meaning": "being away",
-          "register": "formal",
-          "note": "Use this formal noun for someone's absence from a particular place or setting; everyday speech usually describes it with 唔喺度 instead."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The witness's absence meant the hearing had to be postponed.",
-          "traditional": "證人不在場，聆訊要延期。",
-          "jyutping": "zing3 jan4 bat1 zoi6 coeng4 ling4 seon3 jiu3 jin4 kei4"
-        }
-      ]
+      "english": "The witness's absence meant the hearing had to be postponed.",
+      "traditional": "證人不在場，聆訊要延期。",
+      "jyutping": "zing3 jan4 bat1 zoi6 coeng4 ling4 seon3 jiu3 jin4 kei4"
     }
   ]
 }

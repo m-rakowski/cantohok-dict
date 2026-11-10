@@ -1,28 +1,24 @@
 {
   "id": "3ojpimvx",
   "partOfSpeech": "adj",
+  "meaning": "medium-sized",
+  "english": [
+    {
+      "id": "aumkql1k",
+      "word": "medium",
+      "meaning": "medium-sized",
+      "register": "colloquial",
+      "note": "Use this for a labeled medium size, especially clothing or other products with size categories."
+    }
+  ],
   "traditional": "中碼",
   "jyutping": "zung1 maa5",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "medium-sized",
-      "english": [
-        {
-          "id": "aumkql1k",
-          "word": "medium",
-          "meaning": "medium-sized",
-          "register": "colloquial",
-          "note": "Use this for a labeled medium size, especially clothing or other products with size categories."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "I want to buy a medium shirt.",
-          "traditional": "我想買件中碼恤衫。",
-          "jyutping": "ngo5 soeng2 maai5 gin6 zung1 maa5 seot1 saam1"
-        }
-      ]
+      "english": "I want to buy a medium shirt.",
+      "traditional": "我想買件中碼恤衫。",
+      "jyutping": "ngo5 soeng2 maai5 gin6 zung1 maa5 seot1 saam1"
     }
   ]
 }

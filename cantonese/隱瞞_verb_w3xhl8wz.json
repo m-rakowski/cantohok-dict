@@ -1,28 +1,24 @@
 {
   "id": "w3xhl8wz",
   "partOfSpeech": "verb",
+  "meaning": "hide; keep secret",
+  "english": [
+    {
+      "id": "nxsfrg6a",
+      "word": "conceal",
+      "meaning": "hide; keep secret",
+      "register": "written",
+      "note": "Use this formal word for deliberately withholding facts or concealing the truth."
+    }
+  ],
   "traditional": "隱瞞",
   "jyutping": "jan2 mun4",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "hide; keep secret",
-      "english": [
-        {
-          "id": "nxsfrg6a",
-          "word": "conceal",
-          "meaning": "hide; keep secret",
-          "register": "written",
-          "note": "Use this formal word for deliberately withholding facts or concealing the truth."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "The company deliberately chose to conceal the truth about the accident.",
-          "traditional": "公司刻意隱瞞事故真相。",
-          "jyutping": "gung1 si1 hak1 ji3 jan2 mun4 si6 gu3 zan1 soeng3"
-        }
-      ]
+      "english": "The company deliberately chose to conceal the truth about the accident.",
+      "traditional": "公司刻意隱瞞事故真相。",
+      "jyutping": "gung1 si1 hak1 ji3 jan2 mun4 si6 gu3 zan1 soeng3"
     }
   ]
 }

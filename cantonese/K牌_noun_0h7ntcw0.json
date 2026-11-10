@@ -1,28 +1,24 @@
 {
   "id": "0h7ntcw0",
   "partOfSpeech": "noun",
+  "meaning": "king playing card",
+  "english": [
+    {
+      "id": "5ou1evei",
+      "word": "king",
+      "meaning": "king playing card",
+      "register": "colloquial",
+      "note": "This is the transparent everyday term for a king playing card."
+    }
+  ],
   "traditional": "K牌",
   "jyutping": "kei1 paai4",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "king playing card",
-      "english": [
-        {
-          "id": "5ou1evei",
-          "word": "king",
-          "meaning": "king playing card",
-          "register": "colloquial",
-          "note": "This is the transparent everyday term for a king playing card."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "I drew a king.",
-          "traditional": "我抽到咗張K牌。",
-          "jyutping": "ngo5 cau1 dou2 zo2 zoeng1 kei1 paai4"
-        }
-      ]
+      "english": "I drew a king.",
+      "traditional": "我抽到咗張K牌。",
+      "jyutping": "ngo5 cau1 dou2 zo2 zoeng1 kei1 paai4"
     }
   ]
 }

@@ -1,201 +1,67 @@
 {
   "id": "76dl5509",
   "partOfSpeech": "adj",
+  "meaning": "strong, powerful",
+  "english": [
+    {
+      "id": "03b3k7lo",
+      "word": "strong",
+      "meaning": "physically powerful",
+      "note": "Use this as the all-purpose colloquial choice for a person, force, team, or opponent that is powerful; when strong means hard to defeat, it describes a person or team rather than a physical position."
+    },
+    {
+      "id": "lkwwl9xr",
+      "word": "powerful",
+      "meaning": "strong; influential",
+      "note": "This is the all-purpose colloquial choice for a person, thing, or force that is powerful or strong."
+    },
+    {
+      "id": "nn2qsied",
+      "word": "formidable",
+      "meaning": "awe-inspiring, fearsome",
+      "register": "colloquial",
+      "note": "Use this for a person, opponent, or force that is impressively powerful or difficult to deal with."
+    },
+    {
+      "id": "cuzsm354",
+      "word": "mighty",
+      "meaning": "very strong",
+      "note": "This is the all-purpose casual choice for a very strong or powerful person or thing, and it can also praise an impressive achievement."
+    },
+    {
+      "id": "0370i29s",
+      "word": "potent",
+      "meaning": "powerful, effective",
+      "note": "Use this as the all-purpose casual choice for something powerful or having a strong effect."
+    }
+  ],
   "traditional": "勁",
   "jyutping": "ging6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "strong, powerful",
-      "english": [
-        {
-          "id": "03b3k7lo",
-          "word": "strong",
-          "meaning": "physically powerful",
-          "note": "Use this as the all-purpose colloquial choice for a person, force, team, or opponent that is powerful; when strong means hard to defeat, it describes a person or team rather than a physical position."
-        },
-        {
-          "id": "lkwwl9xr",
-          "word": "powerful",
-          "meaning": "strong; influential",
-          "note": "This is the all-purpose colloquial choice for a person, thing, or force that is powerful or strong."
-        },
-        {
-          "id": "nn2qsied",
-          "word": "formidable",
-          "meaning": "awe-inspiring, fearsome",
-          "register": "colloquial",
-          "note": "Use this for a person, opponent, or force that is impressively powerful or difficult to deal with."
-        },
-        {
-          "id": "cuzsm354",
-          "word": "mighty",
-          "meaning": "very strong",
-          "note": "This is the all-purpose casual choice for a very strong or powerful person or thing, and it can also praise an impressive achievement."
-        },
-        {
-          "id": "0370i29s",
-          "word": "potent",
-          "meaning": "powerful, effective",
-          "note": "Use this as the all-purpose casual choice for something powerful or having a strong effect."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This team is strong.",
-          "traditional": "呢隊波好勁",
-          "jyutping": "nei1 deoi6 bo1 hou2 ging6"
-        },
-        {
-          "english": "That team is really powerful.",
-          "traditional": "嗰隊波打得好勁。",
-          "jyutping": "go2 deoi6 bo1 daa2 dak1 hou2 ging6"
-        },
-        {
-          "english": "Our opponent is formidable in this match, so we cannot underestimate them.",
-          "traditional": "今場對手好勁，我哋唔可以睇少佢。",
-          "jyutping": "gam1 coeng4 deoi3 sau2 hou2 ging6 ngo5 dei6 m4 ho2 ji5 tai2 siu2 keoi5"
-        },
-        {
-          "english": "That engine is mighty; it can pull such a heavy lorry uphill.",
-          "traditional": "嗰副引擎真係勁，咁重架貨車都拉得上斜。",
-          "jyutping": "go2 fu3 jan5 king4 zan1 hai6 ging6 gam3 cung5 gaa3 fo3 ce1 dou1 laai1 dak1 soeng5 ce3"
-        },
-        {
-          "english": "This cleaner is really potent; grease comes off with one wipe.",
-          "traditional": "呢款清潔劑真係好勁，油污一抹就甩。",
-          "jyutping": "ne1 fun2 cing1 git3 zai1 zan1 hai6 hou2 ging6 jau4 wu1 jat1 mut3 zau6 lat1"
-        }
-      ]
+      "english": "This team is strong.",
+      "traditional": "呢隊波好勁",
+      "jyutping": "nei1 deoi6 bo1 hou2 ging6"
     },
     {
-      "meaning": "awesome, impressive, excellent",
-      "english": [
-        {
-          "id": "vxbgwh9j",
-          "word": "awesome",
-          "meaning": "excellent; exciting",
-          "note": "This is the all-purpose colloquial choice for saying something is excellent, exciting, or awesome."
-        },
-        {
-          "id": "zgmvai6y",
-          "word": "tremendous",
-          "meaning": "awe-inspiring",
-          "note": "Use this as the all-purpose colloquial choice for something impressive, excellent, or formidable."
-        },
-        {
-          "id": "rcvjrxu3",
-          "word": "phenomenal",
-          "meaning": "remarkable, amazing",
-          "note": "Use this as the everyday all-purpose choice for something exceptionally impressive or good."
-        },
-        {
-          "id": "h59ogwg1",
-          "word": "great",
-          "meaning": "excellent",
-          "register": "colloquial",
-          "note": "Use this colloquially for enthusiastic praise, especially when something is impressive or powerful."
-        },
-        {
-          "id": "jh47c1zb",
-          "word": "incredible",
-          "meaning": "amazing, astonishing",
-          "register": "colloquial",
-          "note": "Use this casual choice when incredible means very impressive, excellent, or skilful."
-        },
-        {
-          "id": "txnzke8v",
-          "word": "impressed",
-          "meaning": "favorably affected",
-          "register": "colloquial",
-          "note": "Use this colloquial adjective for something or someone that is impressively good, capable, or effective."
-        },
-        {
-          "id": "9u8kbii3",
-          "word": "immense",
-          "meaning": "excellent, superb",
-          "note": "Use this colloquially when “immense” means exceptionally good or impressive."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This movie is really awesome.",
-          "traditional": "呢套戲真係勁喎。",
-          "jyutping": "ni1 tou3 hei3 zan1 hai6 ging6 wo3"
-        },
-        {
-          "english": "This team is tremendous.",
-          "traditional": "呢隊波真係勁。",
-          "jyutping": "ni1 deoi6 bo1 zan1 hai6 ging6"
-        },
-        {
-          "english": "The pineapple buns at this cha chaan teng are phenomenal—crispy on the outside and soft inside.",
-          "traditional": "呢間茶記啲菠蘿包真係勁，外脆內軟。",
-          "jyutping": "nei1 gaan1 caa4 gei3 di1 bo1 lo4 baau1 zan1 hai6 ging6 ngoi6 ceoi3 noi6 jyun5"
-        },
-        {
-          "english": "You played a great game today!",
-          "traditional": "你今場波打得勁呀！",
-          "jyutping": "nei5 gam1 coeng4 bo1 daa2 dak1 ging6 aa3"
-        },
-        {
-          "english": "Your performance this time is incredible; it’s really unbelievable.",
-          "traditional": "你今次個表演勁精彩，真係令人難以置信。",
-          "jyutping": "nei5 gam1 ci3 go3 biu2 jin2 ging6 zing1 coi2 zan1 hai6 ling6 jan4 naan4 ji5 zi3 seon3"
-        },
-        {
-          "english": "You fixed the computer so quickly—you really impressed me!",
-          "traditional": "你咁快就整好部電腦，真係勁！",
-          "jyutping": "nei5 gam3 faai3 zau6 zing2 hou2 bou6 din6 nou5 zan1 hai6 ging6"
-        },
-        {
-          "english": "That singer’s live performance was immense.",
-          "traditional": "嗰個歌手現場表演真係勁。",
-          "jyutping": "go2 go3 go1 sau2 jin6 coeng4 biu2 jin2 zan1 hai6 ging6"
-        }
-      ]
+      "english": "That team is really powerful.",
+      "traditional": "嗰隊波打得好勁。",
+      "jyutping": "go2 deoi6 bo1 daa2 dak1 hou2 ging6"
     },
     {
-      "meaning": "intense, extreme in degree",
-      "english": [
-        {
-          "id": "ftdz5dm2",
-          "word": "intense",
-          "meaning": "very strong/extreme",
-          "note": "This is the all-purpose colloquial choice for something being very strong, extreme, or unusually high in degree."
-        },
-        {
-          "id": "hp9xfevd",
-          "word": "royal",
-          "meaning": "intensifier",
-          "register": "colloquial",
-          "note": "Use this colloquial adjective before another adjective to intensify an extreme or strongly negative description."
-        },
-        {
-          "id": "ym01vts7",
-          "word": "violent",
-          "meaning": "strong force/motion",
-          "register": "colloquial",
-          "note": "Use 勁 in casual speech for forceful motion or something very severe, such as a headache."
-        }
-      ],
-      "note": "Can also go before another adjective to mean 'very', e.g. 勁大.",
-      "examples": [
-        {
-          "english": "The wind is intense today.",
-          "traditional": "今日個風勁大。",
-          "jyutping": "gam1 jat6 go3 fung1 ging6 daai6"
-        },
-        {
-          "english": "The royal heir is really happy today.",
-          "traditional": "王位繼承人今日勁開心。",
-          "jyutping": "wong4 wai6 gai3 sing4 jan4 gam1 jat6 ging6 hoi1 sam1"
-        },
-        {
-          "english": "I have a violent headache today.",
-          "traditional": "我今日個頭痛得好勁。",
-          "jyutping": "ngo5 gam1 jat6 go3 tau4 tung3 dak1 hou2 ging6"
-        }
-      ]
+      "english": "Our opponent is formidable in this match, so we cannot underestimate them.",
+      "traditional": "今場對手好勁，我哋唔可以睇少佢。",
+      "jyutping": "gam1 coeng4 deoi3 sau2 hou2 ging6 ngo5 dei6 m4 ho2 ji5 tai2 siu2 keoi5"
+    },
+    {
+      "english": "That engine is mighty; it can pull such a heavy lorry uphill.",
+      "traditional": "嗰副引擎真係勁，咁重架貨車都拉得上斜。",
+      "jyutping": "go2 fu3 jan5 king4 zan1 hai6 ging6 gam3 cung5 gaa3 fo3 ce1 dou1 laai1 dak1 soeng5 ce3"
+    },
+    {
+      "english": "This cleaner is really potent; grease comes off with one wipe.",
+      "traditional": "呢款清潔劑真係好勁，油污一抹就甩。",
+      "jyutping": "ne1 fun2 cing1 git3 zai1 zan1 hai6 hou2 ging6 jau4 wu1 jat1 mut3 zau6 lat1"
     }
   ]
 }

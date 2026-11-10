@@ -1,37 +1,33 @@
 {
   "id": "4q1xvwyc",
   "partOfSpeech": "adj",
+  "meaning": "large size",
+  "english": [
+    {
+      "id": "zd3z4yfg",
+      "word": "oversize",
+      "meaning": "larger than normal",
+      "note": "Use this for clothing, uniforms, and other products described by size categories, especially when they are made in a large or oversized size."
+    },
+    {
+      "id": "51zukzi1",
+      "word": "large",
+      "meaning": "size large (clothing, etc.)",
+      "note": "Use this for a manufactured size such as clothing, shoes, or other standardized products."
+    }
+  ],
   "traditional": "大碼",
   "jyutping": "daai6 maa5",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "large size",
-      "english": [
-        {
-          "id": "zd3z4yfg",
-          "word": "oversize",
-          "meaning": "larger than normal",
-          "note": "Use this for clothing, uniforms, and other products described by size categories, especially when they are made in a large or oversized size."
-        },
-        {
-          "id": "51zukzi1",
-          "word": "large",
-          "meaning": "size large (clothing, etc.)",
-          "note": "Use this for a manufactured size such as clothing, shoes, or other standardized products."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I need an oversize uniform for work.",
-          "traditional": "我返工要着大碼制服。",
-          "jyutping": "ngo5 faan1 gung1 jiu3 zoek6 daai6 maa5 zai3 fuk6"
-        },
-        {
-          "english": "I want to buy these trousers in a large size.",
-          "traditional": "呢條褲我要買大碼。",
-          "jyutping": "ni1 tiu4 fu3 ngo5 jiu3 maai5 daai6 maa5"
-        }
-      ]
+      "english": "I need an oversize uniform for work.",
+      "traditional": "我返工要着大碼制服。",
+      "jyutping": "ngo5 faan1 gung1 jiu3 zoek6 daai6 maa5 zai3 fuk6"
+    },
+    {
+      "english": "I want to buy these trousers in a large size.",
+      "traditional": "呢條褲我要買大碼。",
+      "jyutping": "ni1 tiu4 fu3 ngo5 jiu3 maai5 daai6 maa5"
     }
   ]
 }

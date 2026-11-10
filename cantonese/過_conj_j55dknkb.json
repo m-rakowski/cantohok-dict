@@ -1,26 +1,22 @@
 {
   "id": "j55dknkb",
   "partOfSpeech": "conj",
+  "meaning": "comparison conjunction",
+  "english": [
+    {
+      "id": "gi3e3sh8",
+      "word": "than",
+      "meaning": "comparison conjunction",
+      "note": "This is the all-purpose Cantonese comparative marker, placed after the comparison word or phrase."
+    }
+  ],
   "traditional": "過",
   "jyutping": "gwo3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "comparison conjunction",
-      "english": [
-        {
-          "id": "gi3e3sh8",
-          "word": "than",
-          "meaning": "comparison conjunction",
-          "note": "This is the all-purpose Cantonese comparative marker, placed after the comparison word or phrase."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This shop is cheaper than that one.",
-          "traditional": "呢間舖頭平過嗰間。",
-          "jyutping": "ni1 gaan1 pou3 tau4 peng4 gwo3 go2 gaan1"
-        }
-      ]
+      "english": "This shop is cheaper than that one.",
+      "traditional": "呢間舖頭平過嗰間。",
+      "jyutping": "ni1 gaan1 pou3 tau4 peng4 gwo3 go2 gaan1"
     }
   ]
 }

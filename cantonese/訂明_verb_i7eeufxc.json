@@ -1,28 +1,24 @@
 {
   "id": "i7eeufxc",
   "partOfSpeech": "verb",
+  "meaning": "require as condition",
+  "english": [
+    {
+      "id": "nwtp7vj9",
+      "word": "stipulate",
+      "meaning": "require as condition",
+      "register": "written",
+      "note": "Use this especially when a contract or written agreement explicitly lays out the condition."
+    }
+  ],
   "traditional": "訂明",
   "jyutping": "ding3 ming4",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "require as condition",
-      "english": [
-        {
-          "id": "nwtp7vj9",
-          "word": "stipulate",
-          "meaning": "require as condition",
-          "register": "written",
-          "note": "Use this especially when a contract or written agreement explicitly lays out the condition."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "The lease will stipulate that tenants cannot keep pets.",
-          "traditional": "份租約訂明租客唔可以養寵物。",
-          "jyutping": "fan6 zou1 joek3 ding3 ming4 zou1 haak3 m4 ho2 ji5 joeng5 cung2 mat6"
-        }
-      ]
+      "english": "The lease will stipulate that tenants cannot keep pets.",
+      "traditional": "份租約訂明租客唔可以養寵物。",
+      "jyutping": "fan6 zou1 joek3 ding3 ming4 zou1 haak3 m4 ho2 ji5 joeng5 cung2 mat6"
     }
   ]
 }

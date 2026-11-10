@@ -1,40 +1,36 @@
 {
   "id": "fbk44362",
   "partOfSpeech": "adv",
+  "meaning": "specially, on purpose",
+  "english": [
+    {
+      "id": "ks0su4cn",
+      "word": "specially",
+      "meaning": "for a special purpose",
+      "register": "colloquial",
+      "note": "This is the all-purpose spoken choice when something is done expressly for a particular person, purpose, or occasion."
+    },
+    {
+      "id": "bcv3nhpn",
+      "word": "deliberately",
+      "meaning": "intentionally, on purpose",
+      "register": "colloquial",
+      "note": "Use this for deliberately going out of one's way to do something, often with an implication of making a special trip or effort."
+    }
+  ],
   "traditional": "專登",
   "jyutping": "zyun1 dang1",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "specially, on purpose",
-      "english": [
-        {
-          "id": "ks0su4cn",
-          "word": "specially",
-          "meaning": "for a special purpose",
-          "register": "colloquial",
-          "note": "This is the all-purpose spoken choice when something is done expressly for a particular person, purpose, or occasion."
-        },
-        {
-          "id": "bcv3nhpn",
-          "word": "deliberately",
-          "meaning": "intentionally, on purpose",
-          "register": "colloquial",
-          "note": "Use this for deliberately going out of one's way to do something, often with an implication of making a special trip or effort."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "I specially bought this cake for you.",
-          "traditional": "我專登買咗呢個蛋糕畀你。",
-          "jyutping": "ngo5 zyun1 dang1 maai5 zo2 ni1 go3 daan6 gou1 bei2 nei5"
-        },
-        {
-          "english": "I deliberately went to Mong Kok to buy this book.",
-          "traditional": "我專登去旺角買呢本書。",
-          "jyutping": "ngo5 zyun1 dang1 heoi3 wong6 gok3 maai5 ni1 bun2 syu1"
-        }
-      ]
+      "english": "I specially bought this cake for you.",
+      "traditional": "我專登買咗呢個蛋糕畀你。",
+      "jyutping": "ngo5 zyun1 dang1 maai5 zo2 ni1 go3 daan6 gou1 bei2 nei5"
+    },
+    {
+      "english": "I deliberately went to Mong Kok to buy this book.",
+      "traditional": "我專登去旺角買呢本書。",
+      "jyutping": "ngo5 zyun1 dang1 heoi3 wong6 gok3 maai5 ni1 bun2 syu1"
     }
   ]
 }

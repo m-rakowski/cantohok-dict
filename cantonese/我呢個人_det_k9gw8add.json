@@ -1,28 +1,24 @@
 {
   "id": "k9gw8add",
   "partOfSpeech": "det",
+  "meaning": "this as self-reference",
+  "english": [
+    {
+      "id": "6eoar1xa",
+      "word": "this",
+      "meaning": "this as self-reference",
+      "register": "colloquial",
+      "note": "Use this self-referential phrase when playfully or emphatically referring to yourself as “this guy.”"
+    }
+  ],
   "traditional": "我呢個人",
   "jyutping": "ngo5 nei1 go3 jan4",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "this as self-reference",
-      "english": [
-        {
-          "id": "6eoar1xa",
-          "word": "this",
-          "meaning": "this as self-reference",
-          "register": "colloquial",
-          "note": "Use this self-referential phrase when playfully or emphatically referring to yourself as “this guy.”"
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "This guy always says the wrong thing when he gets nervous.",
-          "traditional": "我呢個人一緊張就會講錯嘢。",
-          "jyutping": "ngo5 nei1 go3 jan4 jat1 gan2 zoeng1 zau6 wui5 gong2 co3 je5"
-        }
-      ]
+      "english": "This guy always says the wrong thing when he gets nervous.",
+      "traditional": "我呢個人一緊張就會講錯嘢。",
+      "jyutping": "ngo5 nei1 go3 jan4 jat1 gan2 zoeng1 zau6 wui5 gong2 co3 je5"
     }
   ]
 }

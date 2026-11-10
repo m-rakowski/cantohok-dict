@@ -1,28 +1,24 @@
 {
   "id": "920wr2s5",
   "partOfSpeech": "verb",
+  "meaning": "ask someone to come",
+  "english": [
+    {
+      "id": "0sj780nd",
+      "word": "invite",
+      "meaning": "ask someone to come",
+      "register": "formal",
+      "note": "Use 邀請 for an explicit or more formal invitation to attend or participate, especially in an announcement or ceremony."
+    }
+  ],
   "traditional": "邀請",
   "jyutping": "jiu1 cing2",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "ask someone to come",
-      "english": [
-        {
-          "id": "0sj780nd",
-          "word": "invite",
-          "meaning": "ask someone to come",
-          "register": "formal",
-          "note": "Use 邀請 for an explicit or more formal invitation to attend or participate, especially in an announcement or ceremony."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The organizers invite everyone to attend the ceremony.",
-          "traditional": "大會誠意邀請各位出席典禮。",
-          "jyutping": "daai6 wui6 sing4 ji3 jiu1 cing2 gok3 wai2 ceot1 zik6 din2 lai5"
-        }
-      ]
+      "english": "The organizers invite everyone to attend the ceremony.",
+      "traditional": "大會誠意邀請各位出席典禮。",
+      "jyutping": "daai6 wui6 sing4 ji3 jiu1 cing2 gok3 wai2 ceot1 zik6 din2 lai5"
     }
   ]
 }

@@ -1,28 +1,24 @@
 {
   "id": "8tmvdo5z",
   "partOfSpeech": "noun",
+  "meaning": "failure to do something",
+  "english": [
+    {
+      "id": "5crmk6tj",
+      "word": "failure",
+      "meaning": "failure to do something",
+      "register": "formal",
+      "note": "Use this for an omission or something that should have been done but was left undone."
+    }
+  ],
   "traditional": "遺漏",
   "jyutping": "wai4 lau6",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "failure to do something",
-      "english": [
-        {
-          "id": "5crmk6tj",
-          "word": "failure",
-          "meaning": "failure to do something",
-          "register": "formal",
-          "note": "Use this for an omission or something that should have been done but was left undone."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "There's a failure to include one item in the report; please add it as soon as possible.",
-          "traditional": "份報告有一項遺漏，請盡快補返。",
-          "jyutping": "fan6 bou3 gou3 jau5 jat1 hong6 wai4 lau6 cing2 zeon6 faai3 bou2 faan1"
-        }
-      ]
+      "english": "There's a failure to include one item in the report; please add it as soon as possible.",
+      "traditional": "份報告有一項遺漏，請盡快補返。",
+      "jyutping": "fan6 bou3 gou3 jau5 jat1 hong6 wai4 lau6 cing2 zeon6 faai3 bou2 faan1"
     }
   ]
 }

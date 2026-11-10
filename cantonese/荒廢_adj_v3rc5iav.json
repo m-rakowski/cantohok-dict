@@ -1,48 +1,44 @@
 {
   "id": "v3rc5iav",
   "partOfSpeech": "adj",
+  "meaning": "abandoned, left to ruin",
+  "english": [
+    {
+      "id": "ann3ev0b",
+      "word": "abandoned",
+      "meaning": "deserted; left behind",
+      "note": "This is the all-purpose choice for a place or building that has been deserted and is no longer maintained."
+    },
+    {
+      "id": "pb4sxry8",
+      "word": "derelict",
+      "meaning": "dilapidated, neglected property",
+      "note": "Use this as the default choice for property that has been left unused or neglected and has fallen into disrepair."
+    },
+    {
+      "id": "udtyxbp1",
+      "word": "forlorn",
+      "meaning": "abandoned, deserted",
+      "note": "Use this for a forlorn place, building, or piece of land that has been abandoned and left unused."
+    }
+  ],
   "traditional": "荒廢",
   "jyutping": "fong1 fai3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "abandoned, left to ruin",
-      "english": [
-        {
-          "id": "ann3ev0b",
-          "word": "abandoned",
-          "meaning": "deserted; left behind",
-          "note": "This is the all-purpose choice for a place or building that has been deserted and is no longer maintained."
-        },
-        {
-          "id": "pb4sxry8",
-          "word": "derelict",
-          "meaning": "dilapidated, neglected property",
-          "note": "Use this as the default choice for property that has been left unused or neglected and has fallen into disrepair."
-        },
-        {
-          "id": "udtyxbp1",
-          "word": "forlorn",
-          "meaning": "abandoned, deserted",
-          "note": "Use this for a forlorn place, building, or piece of land that has been abandoned and left unused."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This cinema has been abandoned for many years.",
-          "traditional": "呢間戲院荒廢咗好多年。",
-          "jyutping": "ni1 gaan1 hei3 jyun2 fong1 fai3 zo2 hou2 do1 nin4"
-        },
-        {
-          "english": "This derelict factory was finally bought and redeveloped.",
-          "traditional": "呢間荒廢咗好多年嘅工廠終於有人買返嚟重建。",
-          "jyutping": "nei1 gaan1 fong1 fai3 zo2 hou2 do1 nin4 ge3 gung1 cong2 zung1 jyu1 jau5 jan4 maai5 faan1 lai4 cung4 gin3"
-        },
-        {
-          "english": "That cinema has stood forlorn and dark for years.",
-          "traditional": "嗰間荒廢咗好多年嘅戲院，成日都黑漆漆。",
-          "jyutping": "go2 gaan1 fong1 fai3 zo2 hou2 do1 nin4 ge3 hei3 jyun2 seng4 jat6 dou1 hak1 cat1 cat1"
-        }
-      ]
+      "english": "This cinema has been abandoned for many years.",
+      "traditional": "呢間戲院荒廢咗好多年。",
+      "jyutping": "ni1 gaan1 hei3 jyun2 fong1 fai3 zo2 hou2 do1 nin4"
+    },
+    {
+      "english": "This derelict factory was finally bought and redeveloped.",
+      "traditional": "呢間荒廢咗好多年嘅工廠終於有人買返嚟重建。",
+      "jyutping": "nei1 gaan1 fong1 fai3 zo2 hou2 do1 nin4 ge3 gung1 cong2 zung1 jyu1 jau5 jan4 maai5 faan1 lai4 cung4 gin3"
+    },
+    {
+      "english": "That cinema has stood forlorn and dark for years.",
+      "traditional": "嗰間荒廢咗好多年嘅戲院，成日都黑漆漆。",
+      "jyutping": "go2 gaan1 fong1 fai3 zo2 hou2 do1 nin4 ge3 hei3 jyun2 seng4 jat6 dou1 hak1 cat1 cat1"
     }
   ]
 }

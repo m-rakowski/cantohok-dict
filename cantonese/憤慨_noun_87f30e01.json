@@ -1,28 +1,24 @@
 {
   "id": "87f30e01",
   "partOfSpeech": "noun",
+  "meaning": "indignant anger",
+  "english": [
+    {
+      "id": "rdd06mfv",
+      "word": "outrage",
+      "meaning": "indignant anger",
+      "register": "formal",
+      "note": "Use this for the indignant anger or shock aroused by an offensive act."
+    }
+  ],
   "traditional": "憤慨",
   "jyutping": "fan5 koi3",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "indignant anger",
-      "english": [
-        {
-          "id": "rdd06mfv",
-          "word": "outrage",
-          "meaning": "indignant anger",
-          "register": "formal",
-          "note": "Use this for the indignant anger or shock aroused by an offensive act."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The scandal sparked public outrage.",
-          "traditional": "呢宗醜聞引起公眾憤慨。",
-          "jyutping": "ne1 zung1 cau2 man4 jan5 hei2 gung1 zung3 fan5 koi3"
-        }
-      ]
+      "english": "The scandal sparked public outrage.",
+      "traditional": "呢宗醜聞引起公眾憤慨。",
+      "jyutping": "ne1 zung1 cau2 man4 jan5 hei2 gung1 zung3 fan5 koi3"
     }
   ]
 }

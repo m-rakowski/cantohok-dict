@@ -1,28 +1,24 @@
 {
   "id": "sb1n5me6",
   "partOfSpeech": "prep",
+  "meaning": "less than",
+  "english": [
+    {
+      "id": "0j99kel2",
+      "word": "under",
+      "meaning": "less than",
+      "register": "colloquial",
+      "note": "Use this for an amount, number, rate, or level that is less than B, rather than for physical location."
+    }
+  ],
   "traditional": "少過 B",
   "jyutping": "siu2 gwo3 B",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "less than",
-      "english": [
-        {
-          "id": "0j99kel2",
-          "word": "under",
-          "meaning": "less than",
-          "register": "colloquial",
-          "note": "Use this for an amount, number, rate, or level that is less than B, rather than for physical location."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "The pay for this job is under ten thousand dollars, so I won't take it.",
-          "traditional": "呢份工人工少過一萬蚊，我唔做喇。",
-          "jyutping": "ni1 fan6 gung1 jan4 gung1 siu2 gwo3 jat1 maan6 man1 ngo5 m4 zou6 laa3"
-        }
-      ]
+      "english": "The pay for this job is under ten thousand dollars, so I won't take it.",
+      "traditional": "呢份工人工少過一萬蚊，我唔做喇。",
+      "jyutping": "ni1 fan6 gung1 jan4 gung1 siu2 gwo3 jat1 maan6 man1 ngo5 m4 zou6 laa3"
     }
   ]
 }

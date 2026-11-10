@@ -1,28 +1,24 @@
 {
   "id": "uzon4u33",
   "partOfSpeech": "noun",
+  "meaning": "religious vision",
+  "english": [
+    {
+      "id": "01ztokve",
+      "word": "vision",
+      "meaning": "religious vision",
+      "register": "formal",
+      "note": "Use this specifically for a religious or mystical supernatural appearance."
+    }
+  ],
   "traditional": "異象",
   "jyutping": "ji6 zoeng6",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "religious vision",
-      "english": [
-        {
-          "id": "01ztokve",
-          "word": "vision",
-          "meaning": "religious vision",
-          "register": "formal",
-          "note": "Use this specifically for a religious or mystical supernatural appearance."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The pastor said they saw a vision while praying.",
-          "traditional": "牧師話佢祈禱時見到異象。",
-          "jyutping": "muk6 si1 waa6 keoi5 kei4 tou2 si4 gin3 dou2 ji6 zoeng6"
-        }
-      ]
+      "english": "The pastor said they saw a vision while praying.",
+      "traditional": "牧師話佢祈禱時見到異象。",
+      "jyutping": "muk6 si1 waa6 keoi5 kei4 tou2 si4 gin3 dou2 ji6 zoeng6"
     }
   ]
 }

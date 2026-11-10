@@ -1,28 +1,24 @@
 {
   "id": "ryp8o1od",
   "partOfSpeech": "noun",
+  "meaning": "talking with others",
+  "english": [
+    {
+      "id": "gz3k8mix",
+      "word": "conversation",
+      "meaning": "talking with others",
+      "register": "formal",
+      "note": "Use this mainly in formal, written, or technical contexts for a conversation or conversational exchange."
+    }
+  ],
   "traditional": "會話",
   "jyutping": "wui6 waa6",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "talking with others",
-      "english": [
-        {
-          "id": "gz3k8mix",
-          "word": "conversation",
-          "meaning": "talking with others",
-          "register": "formal",
-          "note": "Use this mainly in formal, written, or technical contexts for a conversation or conversational exchange."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "This program can record a human-computer conversation.",
-          "traditional": "呢個程式可以記錄人機會話。",
-          "jyutping": "ni1 go3 cing4 sik1 ho2 ji5 gei3 luk6 jan4 gei1 wui6 waa6"
-        }
-      ]
+      "english": "This program can record a human-computer conversation.",
+      "traditional": "呢個程式可以記錄人機會話。",
+      "jyutping": "ni1 go3 cing4 sik1 ho2 ji5 gei3 luk6 jan4 gei1 wui6 waa6"
     }
   ]
 }

@@ -1,28 +1,24 @@
 {
   "id": "k4r4t0i3",
   "partOfSpeech": "noun",
+  "meaning": "police address term",
+  "english": [
+    {
+      "id": "v9z8q25d",
+      "word": "officer",
+      "meaning": "police address term",
+      "register": "colloquial",
+      "note": "Use this colloquial respectful address when speaking directly to a police officer."
+    }
+  ],
   "traditional": "阿Sir",
   "jyutping": "aa3 si1",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "police address term",
-      "english": [
-        {
-          "id": "v9z8q25d",
-          "word": "officer",
-          "meaning": "police address term",
-          "register": "colloquial",
-          "note": "Use this colloquial respectful address when speaking directly to a police officer."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "Officer, you can't park here.",
-          "traditional": "阿Sir，呢度唔可以泊車。",
-          "jyutping": "aa3 si1 ni1 dou6 m4 ho2 ji5 paak3 ce1"
-        }
-      ]
+      "english": "Officer, you can't park here.",
+      "traditional": "阿Sir，呢度唔可以泊車。",
+      "jyutping": "aa3 si1 ni1 dou6 m4 ho2 ji5 paak3 ce1"
     }
   ]
 }

@@ -1,32 +1,28 @@
 {
   "id": "0fz9ljnx",
   "partOfSpeech": "noun",
+  "meaning": "eating place",
+  "english": [
+    {
+      "id": "brdb3ycp",
+      "word": "restaurant",
+      "meaning": "eating place",
+      "register": "colloquial",
+      "note": "Use this for a Hong Kong-style casual café serving drinks and inexpensive meals."
+    },
+    {
+      "word": "cha chaan teng",
+      "meaning": "Hong Kong-style café"
+    }
+  ],
   "traditional": "茶餐廳",
   "jyutping": "caa4 caan1 teng1",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "eating place",
-      "english": [
-        {
-          "id": "brdb3ycp",
-          "word": "restaurant",
-          "meaning": "eating place",
-          "register": "colloquial",
-          "note": "Use this for a Hong Kong-style casual café serving drinks and inexpensive meals."
-        },
-        {
-          "word": "cha chaan teng",
-          "meaning": "Hong Kong-style café"
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "The milk tea at this restaurant is really famous.",
-          "traditional": "呢間茶餐廳嘅奶茶好出名。",
-          "jyutping": "ni1 gaan1 caa4 caan1 teng1 ge3 naai5 caa4 hou2 ceot1 meng2"
-        }
-      ]
+      "english": "The milk tea at this restaurant is really famous.",
+      "traditional": "呢間茶餐廳嘅奶茶好出名。",
+      "jyutping": "ni1 gaan1 caa4 caan1 teng1 ge3 naai5 caa4 hou2 ceot1 meng2"
     }
   ]
 }

@@ -1,26 +1,22 @@
 {
   "id": "7ktigb76",
   "partOfSpeech": "noun",
+  "meaning": "compass direction",
+  "english": [
+    {
+      "id": "iaw3f0kv",
+      "word": "north",
+      "meaning": "compass direction",
+      "note": "This is the all-purpose noun for the compass direction north."
+    }
+  ],
   "traditional": "北",
   "jyutping": "bak1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "compass direction",
-      "english": [
-        {
-          "id": "iaw3f0kv",
-          "word": "north",
-          "meaning": "compass direction",
-          "note": "This is the all-purpose noun for the compass direction north."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The compass points north.",
-          "traditional": "指南針指住北。",
-          "jyutping": "zi2 naam4 zam1 zi2 zyu6 bak1"
-        }
-      ]
+      "english": "The compass points north.",
+      "traditional": "指南針指住北。",
+      "jyutping": "zi2 naam4 zam1 zi2 zyu6 bak1"
     }
   ]
 }

@@ -1,59 +1,55 @@
 {
   "id": "ndf9golp",
   "partOfSpeech": "noun",
+  "meaning": "employee, staff",
+  "english": [
+    {
+      "id": "fabu9kl2",
+      "word": "staff",
+      "meaning": "employees",
+      "note": "This is the all-purpose Cantonese noun for people employed by a company or organisation."
+    },
+    {
+      "id": "qkgdmfwj",
+      "word": "employee",
+      "meaning": "worker for a company",
+      "note": "This is the all-purpose choice for an employee of a company or organization."
+    },
+    {
+      "id": "9voh85ft",
+      "word": "worker",
+      "meaning": "person who works",
+      "note": "Use 員工 when the worker is employed by a company or organization rather than when manual labor is the focus."
+    },
+    {
+      "id": "cjtsqqcm",
+      "word": "personnel",
+      "meaning": "organization staff",
+      "note": "Use this for ordinary employees of a company or organization rather than military personnel or staff in general."
+    }
+  ],
   "traditional": "員工",
   "jyutping": "jyun4 gung1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "employee, staff",
-      "english": [
-        {
-          "id": "fabu9kl2",
-          "word": "staff",
-          "meaning": "employees",
-          "note": "This is the all-purpose Cantonese noun for people employed by a company or organisation."
-        },
-        {
-          "id": "qkgdmfwj",
-          "word": "employee",
-          "meaning": "worker for a company",
-          "note": "This is the all-purpose choice for an employee of a company or organization."
-        },
-        {
-          "id": "9voh85ft",
-          "word": "worker",
-          "meaning": "person who works",
-          "note": "Use 員工 when the worker is employed by a company or organization rather than when manual labor is the focus."
-        },
-        {
-          "id": "cjtsqqcm",
-          "word": "personnel",
-          "meaning": "organization staff",
-          "note": "Use this for ordinary employees of a company or organization rather than military personnel or staff in general."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The company hired three new staff.",
-          "traditional": "公司請咗三個新員工。",
-          "jyutping": "gung1 si1 cing2 zo2 saam1 go3 san1 jyun4 gung1"
-        },
-        {
-          "english": "The employee benefits at this company are quite good.",
-          "traditional": "呢間公司嘅員工福利幾好。",
-          "jyutping": "nei1 gaan1 gung1 si1 ge3 jyun4 gung1 fuk1 lei6 gei2 hou2"
-        },
-        {
-          "english": "Every worker at this company gets a bonus every year.",
-          "traditional": "呢間公司嘅員工每年都有花紅。",
-          "jyutping": "ni1 gaan1 gung1 si1 ge3 jyun4 gung1 mui5 nin4 dou1 jau5 faa1 hung4"
-        },
-        {
-          "english": "The company will give its personnel a bonus this year.",
-          "traditional": "公司今年會畀員工發花紅。",
-          "jyutping": "gung1 si1 gam1 nin4 wui5 bei2 jyun4 gung1 faat3 faa1 hung4"
-        }
-      ]
+      "english": "The company hired three new staff.",
+      "traditional": "公司請咗三個新員工。",
+      "jyutping": "gung1 si1 cing2 zo2 saam1 go3 san1 jyun4 gung1"
+    },
+    {
+      "english": "The employee benefits at this company are quite good.",
+      "traditional": "呢間公司嘅員工福利幾好。",
+      "jyutping": "nei1 gaan1 gung1 si1 ge3 jyun4 gung1 fuk1 lei6 gei2 hou2"
+    },
+    {
+      "english": "Every worker at this company gets a bonus every year.",
+      "traditional": "呢間公司嘅員工每年都有花紅。",
+      "jyutping": "ni1 gaan1 gung1 si1 ge3 jyun4 gung1 mui5 nin4 dou1 jau5 faa1 hung4"
+    },
+    {
+      "english": "The company will give its personnel a bonus this year.",
+      "traditional": "公司今年會畀員工發花紅。",
+      "jyutping": "gung1 si1 gam1 nin4 wui5 bei2 jyun4 gung1 faat3 faa1 hung4"
     }
   ]
 }

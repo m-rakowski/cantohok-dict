@@ -1,28 +1,24 @@
 {
   "id": "onxvs5j3",
   "partOfSpeech": "noun",
+  "meaning": "male person",
+  "english": [
+    {
+      "id": "zefq18fr",
+      "word": "male",
+      "meaning": "male person",
+      "register": "formal",
+      "note": "Use this for the general sex or gender category in formal, official, or informational contexts rather than the everyday terms 男仔 or 男人."
+    }
+  ],
   "traditional": "男性",
   "jyutping": "naam4 sing3",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "male person",
-      "english": [
-        {
-          "id": "zefq18fr",
-          "word": "male",
-          "meaning": "male person",
-          "register": "formal",
-          "note": "Use this for the general sex or gender category in formal, official, or informational contexts rather than the everyday terms 男仔 or 男人."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "Please tick male in the gender column.",
-          "traditional": "請喺性別一欄剔選男性。",
-          "jyutping": "cing2 hai2 sing3 bit6 jat1 laan4 tik1 syun2 naam4 sing3"
-        }
-      ]
+      "english": "Please tick male in the gender column.",
+      "traditional": "請喺性別一欄剔選男性。",
+      "jyutping": "cing2 hai2 sing3 bit6 jat1 laan4 tik1 syun2 naam4 sing3"
     }
   ]
 }

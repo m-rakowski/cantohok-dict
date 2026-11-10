@@ -1,26 +1,22 @@
 {
   "id": "ttzesatd",
   "partOfSpeech": "noun",
+  "meaning": "police officer",
+  "english": [
+    {
+      "id": "8h9zqj5z",
+      "word": "cop",
+      "meaning": "police officer",
+      "note": "Use this specifically for a prison guard rather than a street police officer."
+    }
+  ],
   "traditional": "獄警",
   "jyutping": "juk6 ging2",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "police officer",
-      "english": [
-        {
-          "id": "8h9zqj5z",
-          "word": "cop",
-          "meaning": "police officer",
-          "note": "Use this specifically for a prison guard rather than a street police officer."
-        }
-      ],
-      "examples": [
-        {
-          "english": "When I visited the prison, the cop told me to take off my hat.",
-          "traditional": "探監嗰陣，獄警叫我除低頂帽。",
-          "jyutping": "taam3 gaam1 go2 zan6 juk6 ging2 giu3 ngo5 ceoi4 dai1 deng2 mou6"
-        }
-      ]
+      "english": "When I visited the prison, the cop told me to take off my hat.",
+      "traditional": "探監嗰陣，獄警叫我除低頂帽。",
+      "jyutping": "taam3 gaam1 go2 zan6 juk6 ging2 giu3 ngo5 ceoi4 dai1 deng2 mou6"
     }
   ]
 }

@@ -1,28 +1,24 @@
 {
   "id": "ptrjuliy",
   "partOfSpeech": "noun",
+  "meaning": "the duration of a situation",
+  "english": [
+    {
+      "id": "vqaehyx3",
+      "word": "duration",
+      "meaning": "the duration of a situation",
+      "register": "formal",
+      "note": "Use this for the bounded duration of a named event or situation, especially in expressions meaning 'during the duration'."
+    }
+  ],
   "traditional": "期間",
   "jyutping": "kei4 gaan1",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "the duration of a situation",
-      "english": [
-        {
-          "id": "vqaehyx3",
-          "word": "duration",
-          "meaning": "the duration of a situation",
-          "register": "formal",
-          "note": "Use this for the bounded duration of a named event or situation, especially in expressions meaning 'during the duration'."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "During the duration, all staff have to stay at the company.",
-          "traditional": "期間，所有員工都要留喺公司。",
-          "jyutping": "kei4 gaan1 so2 jau5 jyun4 gung1 dou1 jiu3 lau4 hai2 gung1 si1"
-        }
-      ]
+      "english": "During the duration, all staff have to stay at the company.",
+      "traditional": "期間，所有員工都要留喺公司。",
+      "jyutping": "kei4 gaan1 so2 jau5 jyun4 gung1 dou1 jiu3 lau4 hai2 gung1 si1"
     }
   ]
 }

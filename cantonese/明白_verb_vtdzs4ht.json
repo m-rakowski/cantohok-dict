@@ -1,92 +1,88 @@
 {
   "id": "vtdzs4ht",
   "partOfSpeech": "verb",
+  "meaning": "understand",
+  "english": [
+    {
+      "id": "7bngccl8",
+      "word": "understand",
+      "meaning": "comprehend meaning",
+      "note": "This is the all-purpose choice for comprehending words, facts, or what someone means, including understanding someone's feelings or intentions."
+    },
+    {
+      "id": "7yhv5830",
+      "word": "sense",
+      "meaning": "understand; perceive",
+      "note": "Use this as the all-purpose verb for comprehending or understanding something."
+    },
+    {
+      "id": "oi3ums04",
+      "word": "apprehend",
+      "meaning": "understand, grasp",
+      "note": "This is the all-purpose choice for understanding or grasping an idea."
+    },
+    {
+      "id": "i6xom8ma",
+      "word": "get",
+      "meaning": "understand",
+      "note": "Use this when get means understand an idea, explanation, or joke."
+    },
+    {
+      "id": "yp7vh255",
+      "word": "hear",
+      "meaning": "understand/relate to",
+      "note": "Use this for understanding and sympathizing with someone's feelings or point of view, as in 我明白你."
+    },
+    {
+      "id": "ottttal2",
+      "word": "appreciate",
+      "meaning": "understand importance",
+      "note": "Use this when appreciate means understanding or being fully aware of a situation or its importance."
+    },
+    {
+      "id": "uaz7ox7t",
+      "word": "follow",
+      "meaning": "understand what someone means",
+      "note": "Use this when “follow me” means understand what I am saying."
+    }
+  ],
   "traditional": "明白",
   "jyutping": "ming4 baak6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "understand",
-      "english": [
-        {
-          "id": "7bngccl8",
-          "word": "understand",
-          "meaning": "comprehend meaning",
-          "note": "This is the all-purpose choice for comprehending words, facts, or what someone means, including understanding someone's feelings or intentions."
-        },
-        {
-          "id": "7yhv5830",
-          "word": "sense",
-          "meaning": "understand; perceive",
-          "note": "Use this as the all-purpose verb for comprehending or understanding something."
-        },
-        {
-          "id": "oi3ums04",
-          "word": "apprehend",
-          "meaning": "understand, grasp",
-          "note": "This is the all-purpose choice for understanding or grasping an idea."
-        },
-        {
-          "id": "i6xom8ma",
-          "word": "get",
-          "meaning": "understand",
-          "note": "Use this when get means understand an idea, explanation, or joke."
-        },
-        {
-          "id": "yp7vh255",
-          "word": "hear",
-          "meaning": "understand/relate to",
-          "note": "Use this for understanding and sympathizing with someone's feelings or point of view, as in 我明白你."
-        },
-        {
-          "id": "ottttal2",
-          "word": "appreciate",
-          "meaning": "understand importance",
-          "note": "Use this when appreciate means understanding or being fully aware of a situation or its importance."
-        },
-        {
-          "id": "uaz7ox7t",
-          "word": "follow",
-          "meaning": "understand what someone means",
-          "note": "Use this when “follow me” means understand what I am saying."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I understand what you mean.",
-          "traditional": "我明白你嘅意思。",
-          "jyutping": "ngo5 ming4 baak6 nei5 ge3 ji3 si1"
-        },
-        {
-          "english": "I sense what you mean.",
-          "traditional": "我明白你嘅意思。",
-          "jyutping": "ngo5 ming4 baak6 nei5 ge3 ji3 si1"
-        },
-        {
-          "english": "I now apprehend why you made that choice.",
-          "traditional": "而家我明白你點解作出呢個選擇喇。",
-          "jyutping": "ji4 gaa1 ngo5 ming4 baak6 nei5 dim2 gaai2 zok3 ceot1 ni1 go3 syun2 zaak6 laa3"
-        },
-        {
-          "english": "I get why you did that.",
-          "traditional": "我明白你點解咁做。",
-          "jyutping": "ngo5 ming4 baak6 nei5 dim2 gaai2 gam2 zou6"
-        },
-        {
-          "english": "I hear you; I understand why you are so angry.",
-          "traditional": "我明白你點解咁嬲。",
-          "jyutping": "ngo5 ming4 baak6 nei5 dim2 gaai2 gam3 nau1"
-        },
-        {
-          "english": "I appreciate how much pressure you’re under right now.",
-          "traditional": "我明白你而家有幾大壓力。",
-          "jyutping": "ngo5 ming4 baak6 nei5 ji4 gaa1 jau5 gei2 daai6 aat3 lik6"
-        },
-        {
-          "english": "Do you follow what I’m saying?",
-          "traditional": "你明白我講緊乜嗎？",
-          "jyutping": "nei5 ming4 baak6 ngo5 gong2 gan2 mat1 maa3"
-        }
-      ]
+      "english": "I understand what you mean.",
+      "traditional": "我明白你嘅意思。",
+      "jyutping": "ngo5 ming4 baak6 nei5 ge3 ji3 si1"
+    },
+    {
+      "english": "I sense what you mean.",
+      "traditional": "我明白你嘅意思。",
+      "jyutping": "ngo5 ming4 baak6 nei5 ge3 ji3 si1"
+    },
+    {
+      "english": "I now apprehend why you made that choice.",
+      "traditional": "而家我明白你點解作出呢個選擇喇。",
+      "jyutping": "ji4 gaa1 ngo5 ming4 baak6 nei5 dim2 gaai2 zok3 ceot1 ni1 go3 syun2 zaak6 laa3"
+    },
+    {
+      "english": "I get why you did that.",
+      "traditional": "我明白你點解咁做。",
+      "jyutping": "ngo5 ming4 baak6 nei5 dim2 gaai2 gam2 zou6"
+    },
+    {
+      "english": "I hear you; I understand why you are so angry.",
+      "traditional": "我明白你點解咁嬲。",
+      "jyutping": "ngo5 ming4 baak6 nei5 dim2 gaai2 gam3 nau1"
+    },
+    {
+      "english": "I appreciate how much pressure you’re under right now.",
+      "traditional": "我明白你而家有幾大壓力。",
+      "jyutping": "ngo5 ming4 baak6 nei5 ji4 gaa1 jau5 gei2 daai6 aat3 lik6"
+    },
+    {
+      "english": "Do you follow what I’m saying?",
+      "traditional": "你明白我講緊乜嗎？",
+      "jyutping": "nei5 ming4 baak6 ngo5 gong2 gan2 mat1 maa3"
     }
   ]
 }

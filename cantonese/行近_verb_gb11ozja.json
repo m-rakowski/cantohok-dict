@@ -1,37 +1,33 @@
 {
   "id": "gb11ozja",
   "partOfSpeech": "verb",
+  "meaning": "walk closer, approach",
+  "english": [
+    {
+      "id": "d2prms2e",
+      "word": "approach",
+      "meaning": "come near",
+      "note": "This is the everyday choice for physically walking or moving closer to a person or thing."
+    },
+    {
+      "id": "pnizhfrq",
+      "word": "advance",
+      "meaning": "advance; approach",
+      "note": "Use this when a person moves forward toward someone or somewhere, meaning ‘approach’."
+    }
+  ],
   "traditional": "行近",
   "jyutping": "haang4 gan6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "walk closer, approach",
-      "english": [
-        {
-          "id": "d2prms2e",
-          "word": "approach",
-          "meaning": "come near",
-          "note": "This is the everyday choice for physically walking or moving closer to a person or thing."
-        },
-        {
-          "id": "pnizhfrq",
-          "word": "advance",
-          "meaning": "advance; approach",
-          "note": "Use this when a person moves forward toward someone or somewhere, meaning ‘approach’."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Don't approach the stove, or you'll get burned.",
-          "traditional": "你唔好行近個火爐，會辣親㗎。",
-          "jyutping": "nei5 m4 hou2 haang4 gan6 go3 fo2 lou4 wui5 laat6 can1 gaa3"
-        },
-        {
-          "english": "They slowly advance toward me and ask for directions.",
-          "traditional": "佢慢慢行近我，問我攞路。",
-          "jyutping": "keoi5 maan6 maan6 haang4 gan6 ngo5 man6 ngo5 lo2 lou6"
-        }
-      ]
+      "english": "Don't approach the stove, or you'll get burned.",
+      "traditional": "你唔好行近個火爐，會辣親㗎。",
+      "jyutping": "nei5 m4 hou2 haang4 gan6 go3 fo2 lou4 wui5 laat6 can1 gaa3"
+    },
+    {
+      "english": "They slowly advance toward me and ask for directions.",
+      "traditional": "佢慢慢行近我，問我攞路。",
+      "jyutping": "keoi5 maan6 maan6 haang4 gan6 ngo5 man6 ngo5 lo2 lou6"
     }
   ]
 }

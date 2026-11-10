@@ -1,28 +1,24 @@
 {
   "id": "09uyg63l",
   "partOfSpeech": "noun",
+  "meaning": "currency unit",
+  "english": [
+    {
+      "id": "i5hjeeez",
+      "word": "dollar",
+      "meaning": "currency unit",
+      "register": "written",
+      "note": "This is the written or formal currency-unit term, especially where the traditional character is used instead of 元."
+    }
+  ],
   "traditional": "圓",
   "jyutping": "jyun4",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "currency unit",
-      "english": [
-        {
-          "id": "i5hjeeez",
-          "word": "dollar",
-          "meaning": "currency unit",
-          "register": "written",
-          "note": "This is the written or formal currency-unit term, especially where the traditional character is used instead of 元."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "The banknote has a fifty dollar face value.",
-          "traditional": "紙幣面值為五十圓。",
-          "jyutping": "zi2 bai6 min6 zik6 wai4 ng5 sap6 jyun4"
-        }
-      ]
+      "english": "The banknote has a fifty dollar face value.",
+      "traditional": "紙幣面值為五十圓。",
+      "jyutping": "zi2 bai6 min6 zik6 wai4 ng5 sap6 jyun4"
     }
   ]
 }

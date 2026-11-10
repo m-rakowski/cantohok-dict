@@ -1,28 +1,24 @@
 {
   "id": "b9ck86k6",
   "partOfSpeech": "intj",
+  "meaning": "friendly greeting",
+  "english": [
+    {
+      "id": "j2ikmjkf",
+      "word": "hi",
+      "meaning": "friendly greeting",
+      "register": "colloquial",
+      "note": "This is the all-purpose casual greeting for saying “hi” when someone arrives."
+    }
+  ],
   "traditional": "嗨",
   "jyutping": "hei1",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "friendly greeting",
-      "english": [
-        {
-          "id": "j2ikmjkf",
-          "word": "hi",
-          "meaning": "friendly greeting",
-          "register": "colloquial",
-          "note": "This is the all-purpose casual greeting for saying “hi” when someone arrives."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "Hi, you're back!",
-          "traditional": "嗨，你返嚟喇！",
-          "jyutping": "hei1 nei5 faan1 lei4 laa3"
-        }
-      ]
+      "english": "Hi, you're back!",
+      "traditional": "嗨，你返嚟喇！",
+      "jyutping": "hei1 nei5 faan1 lei4 laa3"
     }
   ]
 }

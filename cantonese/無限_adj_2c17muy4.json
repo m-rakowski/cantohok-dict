@@ -1,37 +1,33 @@
 {
   "id": "2c17muy4",
   "partOfSpeech": "adj",
+  "meaning": "unlimited, without limit",
+  "english": [
+    {
+      "id": "4jlnrgzi",
+      "word": "unlimited",
+      "meaning": "without limits",
+      "note": "Use this especially for an actually limitless or boundless amount, range, or extent rather than merely something with relaxed rules."
+    },
+    {
+      "id": "glz8iqh8",
+      "word": "limitless",
+      "meaning": "without limits; unbounded",
+      "note": "This is the all-purpose choice for something with no upper bound in extent, size, or quantity."
+    }
+  ],
   "traditional": "無限",
   "jyutping": "mou4 haan6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "unlimited, without limit",
-      "english": [
-        {
-          "id": "4jlnrgzi",
-          "word": "unlimited",
-          "meaning": "without limits",
-          "note": "Use this especially for an actually limitless or boundless amount, range, or extent rather than merely something with relaxed rules."
-        },
-        {
-          "id": "glz8iqh8",
-          "word": "limitless",
-          "meaning": "without limits; unbounded",
-          "note": "This is the all-purpose choice for something with no upper bound in extent, size, or quantity."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The universe is so vast that there may be unlimited possibilities.",
-          "traditional": "宇宙咁大，可能有無限可能。",
-          "jyutping": "jyu5 zau6 gam3 daai6 ho2 nang4 jau5 mou4 haan6 ho2 nang4"
-        },
-        {
-          "english": "Human imagination is limitless.",
-          "traditional": "人嘅想像力係無限嘅。",
-          "jyutping": "jan4 ge3 soeng2 zoeng6 lik6 hai6 mou4 haan6 ge3"
-        }
-      ]
+      "english": "The universe is so vast that there may be unlimited possibilities.",
+      "traditional": "宇宙咁大，可能有無限可能。",
+      "jyutping": "jyu5 zau6 gam3 daai6 ho2 nang4 jau5 mou4 haan6 ho2 nang4"
+    },
+    {
+      "english": "Human imagination is limitless.",
+      "traditional": "人嘅想像力係無限嘅。",
+      "jyutping": "jan4 ge3 soeng2 zoeng6 lik6 hai6 mou4 haan6 ge3"
     }
   ]
 }

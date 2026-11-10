@@ -1,28 +1,24 @@
 {
   "id": "rtwacfig",
   "partOfSpeech": "noun",
+  "meaning": "law-enforcement agent",
+  "english": [
+    {
+      "id": "0jecym8u",
+      "word": "agent",
+      "meaning": "law-enforcement agent",
+      "register": "formal",
+      "note": "Use 執法人員 for an officer whose job is to enforce the law, especially in an official context."
+    }
+  ],
   "traditional": "執法人員",
   "jyutping": "zap1 faat3 jan4 jyun4",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "law-enforcement agent",
-      "english": [
-        {
-          "id": "0jecym8u",
-          "word": "agent",
-          "meaning": "law-enforcement agent",
-          "register": "formal",
-          "note": "Use 執法人員 for an officer whose job is to enforce the law, especially in an official context."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "A law enforcement agent closed off the street.",
-          "traditional": "一名執法人員封咗條街。",
-          "jyutping": "jat1 ming4 zap1 faat3 jan4 jyun4 fung1 zo2 tiu4 gaai1"
-        }
-      ]
+      "english": "A law enforcement agent closed off the street.",
+      "traditional": "一名執法人員封咗條街。",
+      "jyutping": "jat1 ming4 zap1 faat3 jan4 jyun4 fung1 zo2 tiu4 gaai1"
     }
   ]
 }

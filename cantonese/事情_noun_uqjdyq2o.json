@@ -1,37 +1,33 @@
 {
   "id": "uqjdyq2o",
   "partOfSpeech": "noun",
+  "meaning": "matter, thing to deal with",
+  "english": [
+    {
+      "id": "praqarqq",
+      "word": "affair",
+      "meaning": "business; matter",
+      "note": "This is the all-purpose noun for a matter, piece of business, or proceeding."
+    },
+    {
+      "id": "ku081tcw",
+      "word": "business",
+      "meaning": "matter to deal with",
+      "note": "Use this for a matter or task that needs dealing with, not for commercial activity."
+    }
+  ],
   "traditional": "事情",
   "jyutping": "si6 cing4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "matter, thing to deal with",
-      "english": [
-        {
-          "id": "praqarqq",
-          "word": "affair",
-          "meaning": "business; matter",
-          "note": "This is the all-purpose noun for a matter, piece of business, or proceeding."
-        },
-        {
-          "id": "ku081tcw",
-          "word": "business",
-          "meaning": "matter to deal with",
-          "note": "Use this for a matter or task that needs dealing with, not for commercial activity."
-        }
-      ],
-      "examples": [
-        {
-          "english": "We’ll deal with this affair tomorrow.",
-          "traditional": "呢件事情我哋聽日再處理。",
-          "jyutping": "nei1 gin6 si6 cing4 ngo5 dei6 teng1 jat6 zoi3 cyu2 lei5"
-        },
-        {
-          "english": "This business needs to be dealt with today.",
-          "traditional": "呢件事情今日要處理好。",
-          "jyutping": "ni1 gin6 si6 cing4 gam1 jat6 jiu3 cyu2 lei5 hou2"
-        }
-      ]
+      "english": "We’ll deal with this affair tomorrow.",
+      "traditional": "呢件事情我哋聽日再處理。",
+      "jyutping": "nei1 gin6 si6 cing4 ngo5 dei6 teng1 jat6 zoi3 cyu2 lei5"
+    },
+    {
+      "english": "This business needs to be dealt with today.",
+      "traditional": "呢件事情今日要處理好。",
+      "jyutping": "ni1 gin6 si6 cing4 gam1 jat6 jiu3 cyu2 lei5 hou2"
     }
   ]
 }

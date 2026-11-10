@@ -1,48 +1,44 @@
 {
   "id": "cafey09p",
   "partOfSpeech": "adj",
+  "meaning": "fanatical, extremely passionate",
+  "english": [
+    {
+      "id": "frpl3quy",
+      "word": "fanatic",
+      "meaning": "fanatical",
+      "note": "This is the all-purpose choice for someone intensely devoted to a belief, cause, or interest."
+    },
+    {
+      "id": "m1inrl1u",
+      "word": "avid",
+      "meaning": "enthusiastic, keen",
+      "note": "Use this for especially intense enthusiasm, such as an avid fan or supporter."
+    },
+    {
+      "id": "glc9f14f",
+      "word": "religious",
+      "meaning": "fanatical; very devoted",
+      "note": "Choose this for intense, almost fanatical enthusiasm for a religion or another activity."
+    }
+  ],
   "traditional": "狂熱",
   "jyutping": "kong4 jit6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "fanatical, extremely passionate",
-      "english": [
-        {
-          "id": "frpl3quy",
-          "word": "fanatic",
-          "meaning": "fanatical",
-          "note": "This is the all-purpose choice for someone intensely devoted to a belief, cause, or interest."
-        },
-        {
-          "id": "m1inrl1u",
-          "word": "avid",
-          "meaning": "enthusiastic, keen",
-          "note": "Use this for especially intense enthusiasm, such as an avid fan or supporter."
-        },
-        {
-          "id": "glc9f14f",
-          "word": "religious",
-          "meaning": "fanatical; very devoted",
-          "note": "Choose this for intense, almost fanatical enthusiasm for a religion or another activity."
-        }
-      ],
-      "examples": [
-        {
-          "english": "They are a fanatic about environmental activism.",
-          "traditional": "佢係個對環保運動好狂熱嘅人。",
-          "jyutping": "keoi5 hai6 go3 deoi3 waan4 bou2 wan6 dung6 hou2 kong4 jit6 ge3 jan4"
-        },
-        {
-          "english": "They are an avid football fan and attend every match.",
-          "traditional": "佢係個狂熱球迷，場場波都入場睇。",
-          "jyutping": "keoi5 hai6 go3 kong4 jit6 kau4 mai4 coeng4 coeng4 bo1 dou1 jap6 coeng4 tai2"
-        },
-        {
-          "english": "They are fanatically religious.",
-          "traditional": "佢對宗教好狂熱。",
-          "jyutping": "keoi5 deoi3 zung1 gaau3 hou2 kong4 jit6"
-        }
-      ]
+      "english": "They are a fanatic about environmental activism.",
+      "traditional": "佢係個對環保運動好狂熱嘅人。",
+      "jyutping": "keoi5 hai6 go3 deoi3 waan4 bou2 wan6 dung6 hou2 kong4 jit6 ge3 jan4"
+    },
+    {
+      "english": "They are an avid football fan and attend every match.",
+      "traditional": "佢係個狂熱球迷，場場波都入場睇。",
+      "jyutping": "keoi5 hai6 go3 kong4 jit6 kau4 mai4 coeng4 coeng4 bo1 dou1 jap6 coeng4 tai2"
+    },
+    {
+      "english": "They are fanatically religious.",
+      "traditional": "佢對宗教好狂熱。",
+      "jyutping": "keoi5 deoi3 zung1 gaau3 hou2 kong4 jit6"
     }
   ]
 }

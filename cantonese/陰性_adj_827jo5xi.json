@@ -1,26 +1,22 @@
 {
   "id": "827jo5xi",
   "partOfSpeech": "adj",
+  "meaning": "test result not positive",
+  "english": [
+    {
+      "id": "cmh6jmxj",
+      "word": "negative",
+      "meaning": "test result not positive",
+      "note": "Use this specifically for a medical or other test result that is negative."
+    }
+  ],
   "traditional": "陰性",
   "jyutping": "jam1 sing3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "test result not positive",
-      "english": [
-        {
-          "id": "cmh6jmxj",
-          "word": "negative",
-          "meaning": "test result not positive",
-          "note": "Use this specifically for a medical or other test result that is negative."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The test result is negative.",
-          "traditional": "個測試結果係陰性。",
-          "jyutping": "go3 cak1 si3 git3 gwo2 hai6 jam1 sing3"
-        }
-      ]
+      "english": "The test result is negative.",
+      "traditional": "個測試結果係陰性。",
+      "jyutping": "go3 cak1 si3 git3 gwo2 hai6 jam1 sing3"
     }
   ]
 }

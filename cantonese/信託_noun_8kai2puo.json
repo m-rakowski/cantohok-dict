@@ -1,28 +1,24 @@
 {
   "id": "8kai2puo",
   "partOfSpeech": "noun",
+  "meaning": "trust (legal holding)",
+  "english": [
+    {
+      "id": "oktrnrq3",
+      "word": "trust",
+      "meaning": "trust (legal holding)",
+      "register": "formal",
+      "note": "Use this formal legal term for property held and managed for another person's benefit."
+    }
+  ],
   "traditional": "信託",
   "jyutping": "seon3 tok3",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "trust (legal holding)",
-      "english": [
-        {
-          "id": "oktrnrq3",
-          "word": "trust",
-          "meaning": "trust (legal holding)",
-          "register": "formal",
-          "note": "Use this formal legal term for property held and managed for another person's benefit."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "A trust has been set up for this inheritance, with a trustee managing it for the beneficiary.",
-          "traditional": "呢筆遺產已經設立信託，由受託人代受益人管理。",
-          "jyutping": "ni1 bat1 wai4 caan2 ji5 ging1 cit3 lap6 seon3 tok3 jau4 sau6 tok3 jan4 doi6 sau6 jik1 jan4 gun2 lei5"
-        }
-      ]
+      "english": "A trust has been set up for this inheritance, with a trustee managing it for the beneficiary.",
+      "traditional": "呢筆遺產已經設立信託，由受託人代受益人管理。",
+      "jyutping": "ni1 bat1 wai4 caan2 ji5 ging1 cit3 lap6 seon3 tok3 jau4 sau6 tok3 jan4 doi6 sau6 jik1 jan4 gun2 lei5"
     }
   ]
 }

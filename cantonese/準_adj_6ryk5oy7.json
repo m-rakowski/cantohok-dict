@@ -1,28 +1,24 @@
 {
   "id": "6ryk5oy7",
   "partOfSpeech": "adj",
+  "meaning": "fairly close to true",
+  "english": [
+    {
+      "id": "1w2yp77l",
+      "word": "accurate",
+      "meaning": "fairly close to true",
+      "register": "colloquial",
+      "note": "Use this colloquial choice especially for predictions, aim, or someone who hits targets reliably."
+    }
+  ],
   "traditional": "準",
   "jyutping": "zeon2",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "fairly close to true",
-      "english": [
-        {
-          "id": "1w2yp77l",
-          "word": "accurate",
-          "meaning": "fairly close to true",
-          "register": "colloquial",
-          "note": "Use this colloquial choice especially for predictions, aim, or someone who hits targets reliably."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "Your shots are really accurate.",
-          "traditional": "你射波真係好準。",
-          "jyutping": "nei5 se6 bo1 zan1 hai6 hou2 zeon2"
-        }
-      ]
+      "english": "Your shots are really accurate.",
+      "traditional": "你射波真係好準。",
+      "jyutping": "nei5 se6 bo1 zan1 hai6 hou2 zeon2"
     }
   ]
 }

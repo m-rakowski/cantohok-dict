@@ -1,28 +1,24 @@
 {
   "id": "fz9kobqo",
   "partOfSpeech": "noun",
+  "meaning": "rescued animal or person",
+  "english": [
+    {
+      "id": "vxv2m221",
+      "word": "rescue",
+      "meaning": "rescued animal or person",
+      "register": "formal",
+      "note": "Use this formal noun for a rescued person, especially in written or official contexts."
+    }
+  ],
   "traditional": "獲救者",
   "jyutping": "wok6 gau3 ze2",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "rescued animal or person",
-      "english": [
-        {
-          "id": "vxv2m221",
-          "word": "rescue",
-          "meaning": "rescued animal or person",
-          "register": "formal",
-          "note": "Use this formal noun for a rescued person, especially in written or official contexts."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The rescuee was taken to hospital after the rescue.",
-          "traditional": "獲救者喺救援後已經送院。",
-          "jyutping": "wok6 gau3 ze2 hai2 gau3 wun4 hau6 ji5 ging1 sung3 jyun2"
-        }
-      ]
+      "english": "The rescuee was taken to hospital after the rescue.",
+      "traditional": "獲救者喺救援後已經送院。",
+      "jyutping": "wok6 gau3 ze2 hai2 gau3 wun4 hau6 ji5 ging1 sung3 jyun2"
     }
   ]
 }

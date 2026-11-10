@@ -1,37 +1,33 @@
 {
   "id": "ggivslwq",
   "partOfSpeech": "verb",
+  "meaning": "leak a secret",
+  "english": [
+    {
+      "id": "ikpxw57c",
+      "word": "leak",
+      "meaning": "leak secret information",
+      "note": "Use this for secretly disclosing confidential information, rather than for a physical leak."
+    },
+    {
+      "id": "r78h6vok",
+      "word": "betray",
+      "meaning": "reveal a secret",
+      "note": "Use this specifically when someone discloses a secret or confidential information."
+    }
+  ],
   "traditional": "洩露",
   "jyutping": "sit3 lou6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "leak a secret",
-      "english": [
-        {
-          "id": "ikpxw57c",
-          "word": "leak",
-          "meaning": "leak secret information",
-          "note": "Use this for secretly disclosing confidential information, rather than for a physical leak."
-        },
-        {
-          "id": "r78h6vok",
-          "word": "betray",
-          "meaning": "reveal a secret",
-          "note": "Use this specifically when someone discloses a secret or confidential information."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I don't know who chose to leak the confidential document.",
-          "traditional": "唔知邊個將份機密文件洩露咗出去。",
-          "jyutping": "m4 zi1 bin1 go3 zoeng1 fan6 gei1 mat6 man4 gin6 sit3 lou6 zo2 ceot1 heoi3"
-        },
-        {
-          "english": "You must not betray the client's confidential information.",
-          "traditional": "你唔可以洩露客戶嘅資料。",
-          "jyutping": "nei5 m4 ho2 ji5 sit3 lou6 haak3 wu6 ge3 zi1 liu6"
-        }
-      ]
+      "english": "I don't know who chose to leak the confidential document.",
+      "traditional": "唔知邊個將份機密文件洩露咗出去。",
+      "jyutping": "m4 zi1 bin1 go3 zoeng1 fan6 gei1 mat6 man4 gin6 sit3 lou6 zo2 ceot1 heoi3"
+    },
+    {
+      "english": "You must not betray the client's confidential information.",
+      "traditional": "你唔可以洩露客戶嘅資料。",
+      "jyutping": "nei5 m4 ho2 ji5 sit3 lou6 haak3 wu6 ge3 zi1 liu6"
     }
   ]
 }

@@ -1,38 +1,34 @@
 {
   "id": "x99fukzc",
   "partOfSpeech": "noun",
+  "meaning": "engagement to marry",
+  "english": [
+    {
+      "id": "4fqs082r",
+      "word": "engagement",
+      "meaning": "engagement to marry",
+      "register": "formal",
+      "note": "Use 婚約 for the state or period of being engaged to marry, especially in more formal contexts."
+    },
+    {
+      "id": "qowhhxnd",
+      "word": "commitment",
+      "meaning": "being committed",
+      "note": "Use 婚約 only when being committed means being engaged to marry, not for a general pledge."
+    }
+  ],
   "traditional": "婚約",
   "jyutping": "fan1 joek3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "engagement to marry",
-      "english": [
-        {
-          "id": "4fqs082r",
-          "word": "engagement",
-          "meaning": "engagement to marry",
-          "register": "formal",
-          "note": "Use 婚約 for the state or period of being engaged to marry, especially in more formal contexts."
-        },
-        {
-          "id": "qowhhxnd",
-          "word": "commitment",
-          "meaning": "being committed",
-          "note": "Use 婚約 only when being committed means being engaged to marry, not for a general pledge."
-        }
-      ],
-      "examples": [
-        {
-          "english": "After their engagement, they plan to marry next spring.",
-          "traditional": "佢哋婚約之後，預計下年春天結婚。",
-          "jyutping": "keoi5 dei6 fan1 joek3 zi1 hau6 jyu6 gai3 haa6 nin2 ceon1 tin1 git3 fan1"
-        },
-        {
-          "english": "They announced their commitment to marry, and both families had dinner together.",
-          "traditional": "佢哋宣布婚約之後，兩家人一齊食飯。",
-          "jyutping": "keoi5 dei6 syun1 bou3 fan1 joek3 zi1 hau6 loeng5 gaa1 jan4 jat1 cai4 sik6 faan6"
-        }
-      ]
+      "english": "After their engagement, they plan to marry next spring.",
+      "traditional": "佢哋婚約之後，預計下年春天結婚。",
+      "jyutping": "keoi5 dei6 fan1 joek3 zi1 hau6 jyu6 gai3 haa6 nin2 ceon1 tin1 git3 fan1"
+    },
+    {
+      "english": "They announced their commitment to marry, and both families had dinner together.",
+      "traditional": "佢哋宣布婚約之後，兩家人一齊食飯。",
+      "jyutping": "keoi5 dei6 syun1 bou3 fan1 joek3 zi1 hau6 loeng5 gaa1 jan4 jat1 cai4 sik6 faan6"
     }
   ]
 }

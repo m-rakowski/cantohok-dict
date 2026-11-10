@@ -1,39 +1,35 @@
 {
   "id": "cg5ixl2v",
   "partOfSpeech": "noun",
+  "meaning": "deep thought",
+  "english": [
+    {
+      "id": "bn7i6ws0",
+      "word": "meditation",
+      "meaning": "careful thought",
+      "register": "formal",
+      "note": "Use this for careful, sustained thought rather than a relaxation or spiritual practice."
+    },
+    {
+      "id": "k5ljgdzx",
+      "word": "rumination",
+      "meaning": "deep thought",
+      "register": "written",
+      "note": "Use this written term for especially deep, deliberate reflection rather than ordinary thinking."
+    }
+  ],
   "traditional": "深思",
   "jyutping": "sam1 si1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "deep thought",
-      "english": [
-        {
-          "id": "bn7i6ws0",
-          "word": "meditation",
-          "meaning": "careful thought",
-          "register": "formal",
-          "note": "Use this for careful, sustained thought rather than a relaxation or spiritual practice."
-        },
-        {
-          "id": "k5ljgdzx",
-          "word": "rumination",
-          "meaning": "deep thought",
-          "register": "written",
-          "note": "Use this written term for especially deep, deliberate reflection rather than ordinary thinking."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This decision deserves careful meditation.",
-          "traditional": "呢個決定值得大家深思。",
-          "jyutping": "ni1 go3 kyut3 ding6 zik6 dak1 daai6 gaa1 sam1 si1"
-        },
-        {
-          "english": "This issue deserves careful rumination.",
-          "traditional": "呢個問題值得大家深思。",
-          "jyutping": "ni1 go3 man6 tai4 zik6 dak1 daai6 gaa1 sam1 si1"
-        }
-      ]
+      "english": "This decision deserves careful meditation.",
+      "traditional": "呢個決定值得大家深思。",
+      "jyutping": "ni1 go3 kyut3 ding6 zik6 dak1 daai6 gaa1 sam1 si1"
+    },
+    {
+      "english": "This issue deserves careful rumination.",
+      "traditional": "呢個問題值得大家深思。",
+      "jyutping": "ni1 go3 man6 tai4 zik6 dak1 daai6 gaa1 sam1 si1"
     }
   ]
 }

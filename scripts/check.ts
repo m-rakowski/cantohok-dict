@@ -13,8 +13,8 @@
 // - No two words may have the same term, even if the capitalization differs.
 // - No two rows, anywhere in the dictionary, may share the same "id".
 // - Every Cantonese page file (cantonese/<traditional>_<partOfSpeech>_<id>.json)
-//   must be valid JSON and match schema/page.schema.json: at least one box,
-//   every box with at least one English word, and no id on a box.
+//   must be valid JSON and match schema/page.schema.json: exactly one
+//   meaning, at least one English word, and no "boxes" key.
 // - A page's "partOfSpeech" must be one of 13 values: noun, verb, adj
 //   (adjective), adv (adverb), prep (preposition), pron (pronoun), det
 //   (determiner), conj (conjunction), num (number), name (a proper noun),
@@ -27,17 +27,18 @@
 //   macOS and Windows would treat them as one file.
 // - No two pages may share an "id", and no page id may equal an English
 //   row's id.
-// - A page has one reading, in its "jyutping", compared exactly as stored.
-//   Two pages may not have the same characters, part of speech and reading;
-//   they would be the same page twice.
+// - A page has one reading, in its "jyutping", compared exactly as stored, and
+//   one meaning. Two pages may not have the same characters, part of speech,
+//   reading and meaning; they would be the same page twice. A second meaning
+//   of the same word is a second page file.
 // - pages-by-id.json (the link lookup) is required once any page file
 //   exists, and must match schema/pages-by-id.schema.json. Every English row
 //   id must have an entry; every value must be an existing page id; every
 //   page id must map to itself.
-// - The note and example rules below also apply inside a page's boxes (a
-//   note is judged against all of the box's English words; an English
-//   entry's own note is judged against that entry's word and meaning).
-// - A box lists its English words as entries ({ "word": ..., and optionally
+// - The note and example rules below also apply on a page (its note is judged
+//   against all of the page's English words; an English entry's own note is
+//   judged against that entry's word and meaning).
+// - A page lists its English words as entries ({ "word": ..., and optionally
 //   "id", "meaning", "note", "register" }). No two entries may share an "id",
 //   no entry id may equal a page id, and every entry id must be a key in
 //   pages-by-id.json that maps to the page holding the entry.
@@ -192,22 +193,18 @@ interface CheckedPage {
 
 /** English words of entries in a parsed page, ignoring anything of the wrong shape (the schema reports those). */
 function rawEntryWords(json: unknown): string[] {
-  if (!isObject(json) || !Array.isArray(json.boxes)) return []
+  if (!isObject(json) || !Array.isArray(json.english)) return []
   const words: string[] = []
-  for (const box of json.boxes)
-    if (isObject(box) && Array.isArray(box.english))
-      for (const entry of box.english) if (isObject(entry) && isFilled(entry.word)) words.push(entry.word)
+  for (const entry of json.english) if (isObject(entry) && isFilled(entry.word)) words.push(entry.word)
   return words
 }
 
 /** Ids of English entries in a parsed page, ignoring anything of the wrong shape (the schema reports those). */
 function rawEntryIds(json: unknown): string[] {
-  if (!isObject(json) || !Array.isArray(json.boxes)) return []
+  if (!isObject(json) || !Array.isArray(json.english)) return []
   const ids: string[] = []
-  for (const box of json.boxes)
-    if (isObject(box) && Array.isArray(box.english))
-      for (const entry of box.english)
-        if (isObject(entry) && typeof entry.id === 'string' && ID_PATTERN.test(entry.id)) ids.push(entry.id)
+  for (const entry of json.english)
+    if (isObject(entry) && typeof entry.id === 'string' && ID_PATTERN.test(entry.id)) ids.push(entry.id)
   return ids
 }
 
@@ -279,18 +276,18 @@ function checkPages(root: string, errors: string[]): CheckedPage[] {
 }
 
 /**
- * No two pages are the same word, part of speech and reading. Only pages that passed the schema are judged. Readings are
+ * No two pages are the same word, part of speech, reading and meaning. Only pages that passed the schema are judged. Readings are
  * compared exactly as stored.
  */
 function checkPageReadings(pages: CheckedPage[], errors: string[]): void {
   const firstPath = new Map<string, string>()
   for (const { path, file } of pages) {
     if (!file) continue
-    const key = JSON.stringify([file.traditional, file.partOfSpeech, file.jyutping])
+    const key = JSON.stringify([file.traditional, file.partOfSpeech, file.jyutping, file.meaning])
     const earlier = firstPath.get(key)
     if (earlier)
       errors.push(
-        `${path}: same word, part of speech and reading (${file.traditional} ${file.partOfSpeech} ${file.jyutping}) as ${earlier}`,
+        `${path}: same word, part of speech, reading and meaning (${file.traditional} ${file.partOfSpeech} ${file.jyutping} ${file.meaning}) as ${earlier}`,
       )
     else firstPath.set(key, path)
   }
@@ -446,20 +443,17 @@ function checkShownText(words: CheckedWord[], errors: string[]): void {
 function checkPageShownText(pages: CheckedPage[], errors: string[]): void {
   for (const { path, valid, file } of pages) {
     if (!valid || !file) continue
-    file.boxes.forEach((box, boxIndex) => {
-      const where = `${path}: box ${boxIndex + 1}`
-      if (box.note !== undefined)
-        for (const problem of noteProblems(box.note, box.english.map(entry => entry.word).join(' '), box.meaning))
-          errors.push(`${where} ${problem}`)
-      for (const entry of box.english)
-        if (entry.note !== undefined)
-          for (const problem of noteProblems(entry.note, entry.word, entry.meaning ?? box.meaning))
-            errors.push(`${where} English entry "${entry.word}" ${problem}`)
-      box.examples.forEach((example, exampleIndex) => {
-        const letters = placeholderLetters(example.english)
-        if (letters.length)
-          errors.push(`${where} example ${exampleIndex + 1} english has a placeholder letter (${letters.join(', ')})`)
-      })
+    if (file.note !== undefined)
+      for (const problem of noteProblems(file.note, file.english.map(entry => entry.word).join(' '), file.meaning))
+        errors.push(`${path}: ${problem}`)
+    for (const entry of file.english)
+      if (entry.note !== undefined)
+        for (const problem of noteProblems(entry.note, entry.word, entry.meaning ?? file.meaning))
+          errors.push(`${path}: English entry "${entry.word}" ${problem}`)
+    file.examples.forEach((example, exampleIndex) => {
+      const letters = placeholderLetters(example.english)
+      if (letters.length)
+        errors.push(`${path}: example ${exampleIndex + 1} english has a placeholder letter (${letters.join(', ')})`)
     })
   }
 }

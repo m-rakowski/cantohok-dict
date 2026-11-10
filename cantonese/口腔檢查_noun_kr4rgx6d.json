@@ -1,28 +1,24 @@
 {
   "id": "kr4rgx6d",
   "partOfSpeech": "noun",
+  "meaning": "mouth exam",
+  "english": [
+    {
+      "id": "65lmboag",
+      "word": "oral",
+      "meaning": "mouth exam",
+      "register": "formal",
+      "note": "Use this specifically for a medical examination of the mouth, not a spoken test."
+    }
+  ],
   "traditional": "口腔檢查",
   "jyutping": "hau2 hong1 gim2 caa4",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "mouth exam",
-      "english": [
-        {
-          "id": "65lmboag",
-          "word": "oral",
-          "meaning": "mouth exam",
-          "register": "formal",
-          "note": "Use this specifically for a medical examination of the mouth, not a spoken test."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The dentist said I need an oral examination.",
-          "traditional": "牙醫話我要做口腔檢查。",
-          "jyutping": "ngaa4 ji1 waa6 ngo5 jiu3 zou6 hau2 hong1 gim2 caa4"
-        }
-      ]
+      "english": "The dentist said I need an oral examination.",
+      "traditional": "牙醫話我要做口腔檢查。",
+      "jyutping": "ngaa4 ji1 waa6 ngo5 jiu3 zou6 hau2 hong1 gim2 caa4"
     }
   ]
 }

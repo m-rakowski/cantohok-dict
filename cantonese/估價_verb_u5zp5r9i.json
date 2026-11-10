@@ -1,37 +1,33 @@
 {
   "id": "u5zp5r9i",
   "partOfSpeech": "verb",
+  "meaning": "estimate the value or price",
+  "english": [
+    {
+      "id": "rysso60e",
+      "word": "value",
+      "meaning": "estimate value",
+      "note": "Use this when determining or estimating the monetary value of an object, especially in an appraisal."
+    },
+    {
+      "id": "1oz92urt",
+      "word": "estimate",
+      "meaning": "judge / assess roughly",
+      "note": "Use this specifically when judging or determining the approximate value or price of something."
+    }
+  ],
   "traditional": "估價",
   "jyutping": "gu2 gaa3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "estimate the value or price",
-      "english": [
-        {
-          "id": "rysso60e",
-          "word": "value",
-          "meaning": "estimate value",
-          "note": "Use this when determining or estimating the monetary value of an object, especially in an appraisal."
-        },
-        {
-          "id": "1oz92urt",
-          "word": "estimate",
-          "meaning": "judge / assess roughly",
-          "note": "Use this specifically when judging or determining the approximate value or price of something."
-        }
-      ],
-      "examples": [
-        {
-          "english": "We need an expert to value this antique.",
-          "traditional": "呢隻古董要搵專家估價。",
-          "jyutping": "ni1 zek3 gu2 dung2 jiu3 wan2 zyun1 gaa1 gu2 gaa3"
-        },
-        {
-          "english": "We estimate this flat is worth around five million dollars.",
-          "traditional": "我哋估價呢間屋值五百萬左右。",
-          "jyutping": "ngo5 dei6 gu2 gaa3 ni1 gaan1 uk1 zik6 ng5 baak3 maan6 zo2 jau6"
-        }
-      ]
+      "english": "We need an expert to value this antique.",
+      "traditional": "呢隻古董要搵專家估價。",
+      "jyutping": "ni1 zek3 gu2 dung2 jiu3 wan2 zyun1 gaa1 gu2 gaa3"
+    },
+    {
+      "english": "We estimate this flat is worth around five million dollars.",
+      "traditional": "我哋估價呢間屋值五百萬左右。",
+      "jyutping": "ngo5 dei6 gu2 gaa3 ni1 gaan1 uk1 zik6 ng5 baak3 maan6 zo2 jau6"
     }
   ]
 }

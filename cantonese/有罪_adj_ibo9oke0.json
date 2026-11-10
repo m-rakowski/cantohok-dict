@@ -1,38 +1,34 @@
 {
   "id": "ibo9oke0",
   "partOfSpeech": "adj",
+  "meaning": "guilty",
+  "english": [
+    {
+      "id": "mq18bxx4",
+      "word": "guilty",
+      "meaning": "responsible for wrongdoing",
+      "register": "formal",
+      "note": "Use this as the all-purpose choice when someone is responsible for wrongdoing or has been found guilty in court."
+    },
+    {
+      "id": "oirtpzn1",
+      "word": "criminal",
+      "meaning": "guilty of a crime",
+      "note": "Use this when a person is guilty or morally culpable, rather than when an act is merely illegal."
+    }
+  ],
   "traditional": "有罪",
   "jyutping": "jau5 zeoi6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "guilty",
-      "english": [
-        {
-          "id": "mq18bxx4",
-          "word": "guilty",
-          "meaning": "responsible for wrongdoing",
-          "register": "formal",
-          "note": "Use this as the all-purpose choice when someone is responsible for wrongdoing or has been found guilty in court."
-        },
-        {
-          "id": "oirtpzn1",
-          "word": "criminal",
-          "meaning": "guilty of a crime",
-          "note": "Use this when a person is guilty or morally culpable, rather than when an act is merely illegal."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The court ultimately found the defendant guilty.",
-          "traditional": "法庭最後裁定被告有罪。",
-          "jyutping": "faat3 ting4 zeoi3 hau6 coi4 ding6 bei6 gou3 jau5 zeoi6"
-        },
-        {
-          "english": "The court ruled that they were criminal.",
-          "traditional": "法庭判佢哋有罪㗎。",
-          "jyutping": "faat3 ting4 pun3 keoi5 dei6 jau5 zeoi6 gaa3"
-        }
-      ]
+      "english": "The court ultimately found the defendant guilty.",
+      "traditional": "法庭最後裁定被告有罪。",
+      "jyutping": "faat3 ting4 zeoi3 hau6 coi4 ding6 bei6 gou3 jau5 zeoi6"
+    },
+    {
+      "english": "The court ruled that they were criminal.",
+      "traditional": "法庭判佢哋有罪㗎。",
+      "jyutping": "faat3 ting4 pun3 keoi5 dei6 jau5 zeoi6 gaa3"
     }
   ]
 }

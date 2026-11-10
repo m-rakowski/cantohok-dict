@@ -1,48 +1,44 @@
 {
   "id": "tyq8j3o8",
   "partOfSpeech": "noun",
+  "meaning": "stage, phase",
+  "english": [
+    {
+      "id": "3rfbn0y7",
+      "word": "stage",
+      "meaning": "phase",
+      "note": "This is the all-purpose choice for a phase or point in a process."
+    },
+    {
+      "id": "9vb7gqw7",
+      "word": "phase",
+      "meaning": "stage in a cycle",
+      "note": "Use 階段 as the all-purpose choice for a phase understood as a stage in a process or cycle."
+    },
+    {
+      "id": "te41hyyy",
+      "word": "step",
+      "meaning": "stage or phase",
+      "note": "Use this for a distinct stage or phase in a process; it is the all-purpose choice for this sense."
+    }
+  ],
   "traditional": "階段",
   "jyutping": "gaai1 dyun6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "stage, phase",
-      "english": [
-        {
-          "id": "3rfbn0y7",
-          "word": "stage",
-          "meaning": "phase",
-          "note": "This is the all-purpose choice for a phase or point in a process."
-        },
-        {
-          "id": "9vb7gqw7",
-          "word": "phase",
-          "meaning": "stage in a cycle",
-          "note": "Use 階段 as the all-purpose choice for a phase understood as a stage in a process or cycle."
-        },
-        {
-          "id": "te41hyyy",
-          "word": "step",
-          "meaning": "stage or phase",
-          "note": "Use this for a distinct stage or phase in a process; it is the all-purpose choice for this sense."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This project is now entering its second stage.",
-          "traditional": "呢個計劃而家進入第二階段。",
-          "jyutping": "ni1 go3 gai3 waak6 ji4 gaa1 zeon3 jap6 dai6 ji6 gaai1 dyun6"
-        },
-        {
-          "english": "The project has now reached its final phase.",
-          "traditional": "呢個計劃而家去到最後階段喇。",
-          "jyutping": "ni1 go3 gai3 waak6 ji4 gaa1 heoi3 dou3 zeoi3 hau6 gaai1 dyun6 laa3"
-        },
-        {
-          "english": "This is a step in the reform.",
-          "traditional": "呢個係改革嘅階段。",
-          "jyutping": "ni1 go3 hai6 goi2 gaak3 ge3 gaai1 dyun6"
-        }
-      ]
+      "english": "This project is now entering its second stage.",
+      "traditional": "呢個計劃而家進入第二階段。",
+      "jyutping": "ni1 go3 gai3 waak6 ji4 gaa1 zeon3 jap6 dai6 ji6 gaai1 dyun6"
+    },
+    {
+      "english": "The project has now reached its final phase.",
+      "traditional": "呢個計劃而家去到最後階段喇。",
+      "jyutping": "ni1 go3 gai3 waak6 ji4 gaa1 heoi3 dou3 zeoi3 hau6 gaai1 dyun6 laa3"
+    },
+    {
+      "english": "This is a step in the reform.",
+      "traditional": "呢個係改革嘅階段。",
+      "jyutping": "ni1 go3 hai6 goi2 gaak3 ge3 gaai1 dyun6"
     }
   ]
 }

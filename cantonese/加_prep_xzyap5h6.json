@@ -1,26 +1,22 @@
 {
   "id": "xzyap5h6",
   "partOfSpeech": "prep",
+  "meaning": "addition / plus sign",
+  "english": [
+    {
+      "id": "bjwlkhdm",
+      "word": "plus",
+      "meaning": "addition / plus sign",
+      "note": "This is the all-purpose choice in mathematical expressions such as 二加二等於四."
+    }
+  ],
   "traditional": "加",
   "jyutping": "gaa1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "addition / plus sign",
-      "english": [
-        {
-          "id": "bjwlkhdm",
-          "word": "plus",
-          "meaning": "addition / plus sign",
-          "note": "This is the all-purpose choice in mathematical expressions such as 二加二等於四."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Two plus two equals four.",
-          "traditional": "二加二等於四。",
-          "jyutping": "ji6 gaa1 ji6 dang2 jyu1 sei3"
-        }
-      ]
+      "english": "Two plus two equals four.",
+      "traditional": "二加二等於四。",
+      "jyutping": "ji6 gaa1 ji6 dang2 jyu1 sei3"
     }
   ]
 }

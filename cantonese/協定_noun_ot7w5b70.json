@@ -1,28 +1,24 @@
 {
   "id": "ot7w5b70",
   "partOfSpeech": "noun",
+  "meaning": "formal international agreement",
+  "english": [
+    {
+      "id": "0w45inz2",
+      "word": "treaty",
+      "meaning": "formal international agreement",
+      "register": "formal",
+      "note": "Use this when emphasizing a formal agreement between particular countries or organizations rather than the treaty as a legal instrument."
+    }
+  ],
   "traditional": "協定",
   "jyutping": "hip3 ding6",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "formal international agreement",
-      "english": [
-        {
-          "id": "0w45inz2",
-          "word": "treaty",
-          "meaning": "formal international agreement",
-          "register": "formal",
-          "note": "Use this when emphasizing a formal agreement between particular countries or organizations rather than the treaty as a legal instrument."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The two countries signed a treaty on fisheries cooperation.",
-          "traditional": "兩國就漁業合作簽署協定。",
-          "jyutping": "loeng5 gwok3 zau6 jyu4 jip6 hap6 zok3 cim1 cyu5 hip3 ding6"
-        }
-      ]
+      "english": "The two countries signed a treaty on fisheries cooperation.",
+      "traditional": "兩國就漁業合作簽署協定。",
+      "jyutping": "loeng5 gwok3 zau6 jyu4 jip6 hap6 zok3 cim1 cyu5 hip3 ding6"
     }
   ]
 }

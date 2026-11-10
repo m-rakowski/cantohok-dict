@@ -1,40 +1,36 @@
 {
   "id": "yxk3vb2g",
   "partOfSpeech": "noun",
+  "meaning": "whole lifetime, a very long time",
+  "english": [
+    {
+      "id": "b52f4tbv",
+      "word": "eternity",
+      "meaning": "very long time",
+      "register": "colloquial",
+      "note": "Use this colloquial expression for a whole lifetime or a hyperbolically long time, especially when saying that something has taken ages."
+    },
+    {
+      "id": "qqv3aqlb",
+      "word": "lifetime",
+      "meaning": "life duration",
+      "register": "colloquial",
+      "note": "Use this for a person's whole lifetime or emphatically for a very long time, as in waiting ages."
+    }
+  ],
   "traditional": "成世",
   "jyutping": "seng4 sai3",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "whole lifetime, a very long time",
-      "english": [
-        {
-          "id": "b52f4tbv",
-          "word": "eternity",
-          "meaning": "very long time",
-          "register": "colloquial",
-          "note": "Use this colloquial expression for a whole lifetime or a hyperbolically long time, especially when saying that something has taken ages."
-        },
-        {
-          "id": "qqv3aqlb",
-          "word": "lifetime",
-          "meaning": "life duration",
-          "register": "colloquial",
-          "note": "Use this for a person's whole lifetime or emphatically for a very long time, as in waiting ages."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "You’ve been at it for eternity and still haven’t submitted the report?",
-          "traditional": "你搞咗成世，份報告仲未交？",
-          "jyutping": "nei5 gaau2 zo2 seng4 sai3 fan6 bou3 gou3 zung6 mei6 gaau1"
-        },
-        {
-          "english": "I've never eaten anything this spicy in my lifetime.",
-          "traditional": "我成世都未試過食咁辣嘅嘢。",
-          "jyutping": "ngo5 seng4 sai3 dou1 mei6 si3 gwo3 sik6 gam3 laat6 ge3 je5"
-        }
-      ]
+      "english": "You’ve been at it for eternity and still haven’t submitted the report?",
+      "traditional": "你搞咗成世，份報告仲未交？",
+      "jyutping": "nei5 gaau2 zo2 seng4 sai3 fan6 bou3 gou3 zung6 mei6 gaau1"
+    },
+    {
+      "english": "I've never eaten anything this spicy in my lifetime.",
+      "traditional": "我成世都未試過食咁辣嘅嘢。",
+      "jyutping": "ngo5 seng4 sai3 dou1 mei6 si3 gwo3 sik6 gam3 laat6 ge3 je5"
     }
   ]
 }

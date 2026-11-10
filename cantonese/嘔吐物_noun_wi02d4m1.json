@@ -1,28 +1,24 @@
 {
   "id": "wi02d4m1",
   "partOfSpeech": "noun",
+  "meaning": "vomited matter",
+  "english": [
+    {
+      "id": "skzl3m0q",
+      "word": "vomit",
+      "meaning": "vomited matter",
+      "register": "formal",
+      "note": "Use this specifically for the material that has been vomited, rather than the act itself."
+    }
+  ],
   "traditional": "嘔吐物",
   "jyutping": "au2 tou3 mat6",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "vomited matter",
-      "english": [
-        {
-          "id": "skzl3m0q",
-          "word": "vomit",
-          "meaning": "vomited matter",
-          "register": "formal",
-          "note": "Use this specifically for the material that has been vomited, rather than the act itself."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The medical staff examined the vomit first and then worked out what the patient had eaten.",
-          "traditional": "醫護人員先檢查嘔吐物，再判斷病人食過乜嘢。",
-          "jyutping": "ji1 wu6 jan4 jyun4 sin1 gim2 caa4 au2 tou3 mat6 zoi3 pun3 dyun3 beng6 jan4 sik6 gwo3 mat1 je5"
-        }
-      ]
+      "english": "The medical staff examined the vomit first and then worked out what the patient had eaten.",
+      "traditional": "醫護人員先檢查嘔吐物，再判斷病人食過乜嘢。",
+      "jyutping": "ji1 wu6 jan4 jyun4 sin1 gim2 caa4 au2 tou3 mat6 zoi3 pun3 dyun3 beng6 jan4 sik6 gwo3 mat1 je5"
     }
   ]
 }

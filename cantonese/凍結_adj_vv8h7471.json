@@ -1,28 +1,24 @@
 {
   "id": "vv8h7471",
   "partOfSpeech": "adj",
+  "meaning": "account or funds frozen",
+  "english": [
+    {
+      "id": "rb9282h1",
+      "word": "frozen",
+      "meaning": "account or funds frozen",
+      "register": "formal",
+      "note": "Use this in financial or administrative contexts when an account or funds cannot be used for transactions."
+    }
+  ],
   "traditional": "凍結",
   "jyutping": "dung3 git3",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "account or funds frozen",
-      "english": [
-        {
-          "id": "rb9282h1",
-          "word": "frozen",
-          "meaning": "account or funds frozen",
-          "register": "formal",
-          "note": "Use this in financial or administrative contexts when an account or funds cannot be used for transactions."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The bank has frozen my account.",
-          "traditional": "銀行凍結咗我個戶口。",
-          "jyutping": "ngan4 hong4 dung3 git3 zo2 ngo5 go3 wu6 hau2"
-        }
-      ]
+      "english": "The bank has frozen my account.",
+      "traditional": "銀行凍結咗我個戶口。",
+      "jyutping": "ngan4 hong4 dung3 git3 zo2 ngo5 go3 wu6 hau2"
     }
   ]
 }

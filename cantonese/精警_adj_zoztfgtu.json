@@ -1,28 +1,24 @@
 {
   "id": "zoztfgtu",
   "partOfSpeech": "adj",
+  "meaning": "smart, witty",
+  "english": [
+    {
+      "id": "7ea4rmfz",
+      "word": "clever",
+      "meaning": "smart, witty",
+      "register": "formal",
+      "note": "Use this for the witty, sharp, or ingenious quality of a remark or piece of writing."
+    }
+  ],
   "traditional": "精警",
   "jyutping": "zing1 ging2",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "smart, witty",
-      "english": [
-        {
-          "id": "7ea4rmfz",
-          "word": "clever",
-          "meaning": "smart, witty",
-          "register": "formal",
-          "note": "Use this for the witty, sharp, or ingenious quality of a remark or piece of writing."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "This article is written in a clever and forceful style.",
-          "traditional": "呢篇文章寫得精警有力。",
-          "jyutping": "ni1 pin1 man4 zoeng1 se2 dak1 zing1 ging2 jau5 lik6"
-        }
-      ]
+      "english": "This article is written in a clever and forceful style.",
+      "traditional": "呢篇文章寫得精警有力。",
+      "jyutping": "ni1 pin1 man4 zoeng1 se2 dak1 zing1 ging2 jau5 lik6"
     }
   ]
 }

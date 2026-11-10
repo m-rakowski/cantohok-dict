@@ -1,28 +1,24 @@
 {
   "id": "ofsoetoi",
   "partOfSpeech": "verb",
+  "meaning": "draw liquid in",
+  "english": [
+    {
+      "id": "iqgabt2f",
+      "word": "suck",
+      "meaning": "draw liquid in",
+      "register": "colloquial",
+      "note": "This is the all-purpose choice for drawing milk or another substance into the mouth, including sucking an object."
+    }
+  ],
   "traditional": "啜",
   "jyutping": "zyut3",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "draw liquid in",
-      "english": [
-        {
-          "id": "iqgabt2f",
-          "word": "suck",
-          "meaning": "draw liquid in",
-          "register": "colloquial",
-          "note": "This is the all-purpose choice for drawing milk or another substance into the mouth, including sucking an object."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "The baby likes to suck milk from the bottle.",
-          "traditional": "個嬰兒啜緊奶樽入面嘅奶。",
-          "jyutping": "go3 jing1 ji4 zyut3 gan2 naai5 zeon1 jap6 min6 ge3 naai5"
-        }
-      ]
+      "english": "The baby likes to suck milk from the bottle.",
+      "traditional": "個嬰兒啜緊奶樽入面嘅奶。",
+      "jyutping": "go3 jing1 ji4 zyut3 gan2 naai5 zeon1 jap6 min6 ge3 naai5"
     }
   ]
 }

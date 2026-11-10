@@ -1,28 +1,24 @@
 {
   "id": "xb3i78li",
   "partOfSpeech": "noun",
+  "meaning": "small stone",
+  "english": [
+    {
+      "id": "tj94swfs",
+      "word": "pebble",
+      "meaning": "small stone",
+      "register": "written",
+      "note": "Use this for a pebble specifically described as rounded by water, especially in technical or descriptive contexts."
+    }
+  ],
   "traditional": "卵石",
   "jyutping": "leon2 sek6",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "small stone",
-      "english": [
-        {
-          "id": "tj94swfs",
-          "word": "pebble",
-          "meaning": "small stone",
-          "register": "written",
-          "note": "Use this for a pebble specifically described as rounded by water, especially in technical or descriptive contexts."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "There is a pebble on the riverbed rounded by flowing water.",
-          "traditional": "河床上有一粒畀流水磨圓嘅卵石。",
-          "jyutping": "ho4 cong4 soeng6 jau5 jat1 lap1 bei2 lau4 seoi2 mo4 jyun4 ge3 leon2 sek6"
-        }
-      ]
+      "english": "There is a pebble on the riverbed rounded by flowing water.",
+      "traditional": "河床上有一粒畀流水磨圓嘅卵石。",
+      "jyutping": "ho4 cong4 soeng6 jau5 jat1 lap1 bei2 lau4 seoi2 mo4 jyun4 ge3 leon2 sek6"
     }
   ]
 }

@@ -1,37 +1,33 @@
 {
   "id": "4i2rpfpe",
   "partOfSpeech": "noun",
+  "meaning": "bookshop",
+  "english": [
+    {
+      "id": "estqmiax",
+      "word": "bookstore",
+      "meaning": "bookshop",
+      "note": "This is the all-purpose Cantonese word for a store where books are bought and sold."
+    },
+    {
+      "id": "6fyn1c3a",
+      "word": "bookshop",
+      "meaning": "shop that sells books",
+      "note": "This is the all-purpose everyday word for a shop that sells books."
+    }
+  ],
   "traditional": "書店",
   "jyutping": "syu1 dim3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "bookshop",
-      "english": [
-        {
-          "id": "estqmiax",
-          "word": "bookstore",
-          "meaning": "bookshop",
-          "note": "This is the all-purpose Cantonese word for a store where books are bought and sold."
-        },
-        {
-          "id": "6fyn1c3a",
-          "word": "bookshop",
-          "meaning": "shop that sells books",
-          "note": "This is the all-purpose everyday word for a shop that sells books."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This bookstore has lots of comics.",
-          "traditional": "呢間書店有好多漫畫。",
-          "jyutping": "ni1 gaan1 syu1 dim3 jau5 hou2 do1 maan4 waa2"
-        },
-        {
-          "english": "I went to the bookshop to buy a novel.",
-          "traditional": "我去書店買本小說。",
-          "jyutping": "ngo5 heoi3 syu1 dim3 maai5 bun2 siu2 syut3"
-        }
-      ]
+      "english": "This bookstore has lots of comics.",
+      "traditional": "呢間書店有好多漫畫。",
+      "jyutping": "ni1 gaan1 syu1 dim3 jau5 hou2 do1 maan4 waa2"
+    },
+    {
+      "english": "I went to the bookshop to buy a novel.",
+      "traditional": "我去書店買本小說。",
+      "jyutping": "ngo5 heoi3 syu1 dim3 maai5 bun2 siu2 syut3"
     }
   ]
 }

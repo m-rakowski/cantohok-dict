@@ -1,50 +1,46 @@
 {
   "id": "1h8svw84",
   "partOfSpeech": "adv",
+  "meaning": "generally, widely",
+  "english": [
+    {
+      "id": "yex9kicc",
+      "word": "widely",
+      "meaning": "generally; to a large extent",
+      "note": "Use this when something is common or generally true across people or cases, rather than as a discourse opener."
+    },
+    {
+      "id": "n6xrt14l",
+      "word": "commonly",
+      "meaning": "usually; as a rule",
+      "register": "written",
+      "note": "Use this mainly when ‘commonly’ means generally or widely shared, rather than habitually usually."
+    },
+    {
+      "id": "uz7axpml",
+      "word": "generally",
+      "meaning": "widely known",
+      "register": "written",
+      "note": "Use 普遍 mainly before verbs such as 認為 to say that a view or fact is widely held or known."
+    }
+  ],
   "traditional": "普遍",
   "jyutping": "pou2 pin3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "generally, widely",
-      "english": [
-        {
-          "id": "yex9kicc",
-          "word": "widely",
-          "meaning": "generally; to a large extent",
-          "note": "Use this when something is common or generally true across people or cases, rather than as a discourse opener."
-        },
-        {
-          "id": "n6xrt14l",
-          "word": "commonly",
-          "meaning": "usually; as a rule",
-          "register": "written",
-          "note": "Use this mainly when ‘commonly’ means generally or widely shared, rather than habitually usually."
-        },
-        {
-          "id": "uz7axpml",
-          "word": "generally",
-          "meaning": "widely known",
-          "register": "written",
-          "note": "Use 普遍 mainly before verbs such as 認為 to say that a view or fact is widely held or known."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This illness is widely found among older people.",
-          "traditional": "呢種病喺老人家之間好普遍。",
-          "jyutping": "ni1 zung2 beng6 hai2 lou5 jan4 gaa1 zi1 gaan1 hou2 pou2 pin3"
-        },
-        {
-          "english": "This practice is commonly seen in the industry.",
-          "traditional": "呢種做法喺業界好普遍。",
-          "jyutping": "ni1 zung2 zou6 faat3 hai2 jip6 gaai3 hou2 pou2 pin3"
-        },
-        {
-          "english": "This film is generally considered quite good.",
-          "traditional": "普遍認為呢套戲幾好睇。",
-          "jyutping": "pou2 pin3 jan6 wai4 ni1 tou3 hei3 gei2 hou2 tai2"
-        }
-      ]
+      "english": "This illness is widely found among older people.",
+      "traditional": "呢種病喺老人家之間好普遍。",
+      "jyutping": "ni1 zung2 beng6 hai2 lou5 jan4 gaa1 zi1 gaan1 hou2 pou2 pin3"
+    },
+    {
+      "english": "This practice is commonly seen in the industry.",
+      "traditional": "呢種做法喺業界好普遍。",
+      "jyutping": "ni1 zung2 zou6 faat3 hai2 jip6 gaai3 hou2 pou2 pin3"
+    },
+    {
+      "english": "This film is generally considered quite good.",
+      "traditional": "普遍認為呢套戲幾好睇。",
+      "jyutping": "pou2 pin3 jan6 wai4 ni1 tou3 hei3 gei2 hou2 tai2"
     }
   ]
 }

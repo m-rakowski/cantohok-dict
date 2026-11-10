@@ -1,46 +1,22 @@
 {
   "id": "gx2l2nm2",
   "partOfSpeech": "verb",
+  "meaning": "to read",
+  "english": [
+    {
+      "id": "u5y8srzu",
+      "word": "read",
+      "meaning": "read text",
+      "note": "This is the all-purpose choice for reading text, including text read in a particular direction and technical signals when the context is clear."
+    }
+  ],
   "traditional": "讀",
   "jyutping": "duk6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "to read",
-      "english": [
-        {
-          "id": "u5y8srzu",
-          "word": "read",
-          "meaning": "read text",
-          "note": "This is the all-purpose choice for reading text, including text read in a particular direction and technical signals when the context is clear."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I read the newspaper every day.",
-          "traditional": "我每日都讀報紙。",
-          "jyutping": "ngo5 mui5 jat6 dou1 duk6 bou3 zi2"
-        }
-      ]
-    },
-    {
-      "meaning": "to study a subject",
-      "english": [
-        {
-          "id": "zfijjopi",
-          "word": "study",
-          "meaning": "learn a subject",
-          "register": "colloquial",
-          "note": "Use 讀 for taking or being enrolled in an academic subject, including studying a subject as an academic course."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "I study psychology at university.",
-          "traditional": "我喺大學讀心理學。",
-          "jyutping": "ngo5 hai2 daai6 hok6 duk6 sam1 lei5 hok6"
-        }
-      ]
+      "english": "I read the newspaper every day.",
+      "traditional": "我每日都讀報紙。",
+      "jyutping": "ngo5 mui5 jat6 dou1 duk6 bou3 zi2"
     }
   ]
 }

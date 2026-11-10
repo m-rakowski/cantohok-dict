@@ -1,28 +1,24 @@
 {
   "id": "cqk3cwos",
   "partOfSpeech": "noun",
+  "meaning": "combat weapon",
+  "english": [
+    {
+      "id": "11vzqx1h",
+      "word": "weapon",
+      "meaning": "combat weapon",
+      "register": "formal",
+      "note": "Use this formal term for military weapons, rather than the everyday all-purpose term 武器."
+    }
+  ],
   "traditional": "兵器",
   "jyutping": "bing1 hei3",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "combat weapon",
-      "english": [
-        {
-          "id": "11vzqx1h",
-          "word": "weapon",
-          "meaning": "combat weapon",
-          "register": "formal",
-          "note": "Use this formal term for military weapons, rather than the everyday all-purpose term 武器."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "This military weapon will be displayed at the military parade.",
-          "traditional": "呢種兵器會喺閱兵儀式上展示。",
-          "jyutping": "ni1 zung2 bing1 hei3 wui5 hai2 jyut6 bing1 ji4 sik1 soeng6 zin2 si6"
-        }
-      ]
+      "english": "This military weapon will be displayed at the military parade.",
+      "traditional": "呢種兵器會喺閱兵儀式上展示。",
+      "jyutping": "ni1 zung2 bing1 hei3 wui5 hai2 jyut6 bing1 ji4 sik1 soeng6 zin2 si6"
     }
   ]
 }

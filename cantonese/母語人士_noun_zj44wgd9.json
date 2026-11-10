@@ -1,28 +1,24 @@
 {
   "id": "zj44wgd9",
   "partOfSpeech": "noun",
+  "meaning": "person with mother tongue",
+  "english": [
+    {
+      "id": "o4agcep2",
+      "word": "native speaker",
+      "meaning": "person with mother tongue",
+      "register": "formal",
+      "note": "Choose this concise term in education, work, or other relatively formal contexts, especially before or after a language name."
+    }
+  ],
   "traditional": "母語人士",
   "jyutping": "mou5 jyu5 jan4 si6",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "person with mother tongue",
-      "english": [
-        {
-          "id": "o4agcep2",
-          "word": "native speaker",
-          "meaning": "person with mother tongue",
-          "register": "formal",
-          "note": "Choose this concise term in education, work, or other relatively formal contexts, especially before or after a language name."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The course requires each group to include at least one English native speaker.",
-          "traditional": "課程要求每組至少有一位英文母語人士。",
-          "jyutping": "fo3 cing4 jiu1 kau4 mui5 zou2 zi3 siu2 jau5 jat1 wai6 jing1 man2 mou5 jyu5 jan4 si6"
-        }
-      ]
+      "english": "The course requires each group to include at least one English native speaker.",
+      "traditional": "課程要求每組至少有一位英文母語人士。",
+      "jyutping": "fo3 cing4 jiu1 kau4 mui5 zou2 zi3 siu2 jau5 jat1 wai6 jing1 man2 mou5 jyu5 jan4 si6"
     }
   ]
 }

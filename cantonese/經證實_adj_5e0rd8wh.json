@@ -1,28 +1,24 @@
 {
   "id": "5e0rd8wh",
   "partOfSpeech": "adj",
+  "meaning": "proved true/valuable",
+  "english": [
+    {
+      "id": "56mijzlh",
+      "word": "proven",
+      "meaning": "proved true/valuable",
+      "register": "formal",
+      "note": "Use this more formal or written phrasing when stating that a claim or fact has been verified."
+    }
+  ],
   "traditional": "經證實",
   "jyutping": "ging1 zing3 sat6",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "proved true/valuable",
-      "english": [
-        {
-          "id": "56mijzlh",
-          "word": "proven",
-          "meaning": "proved true/valuable",
-          "register": "formal",
-          "note": "Use this more formal or written phrasing when stating that a claim or fact has been verified."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "It has been proven that this news report is untrue.",
-          "traditional": "經證實，呢宗消息並不屬實。",
-          "jyutping": "ging1 zing3 sat6 ne1 zung1 siu1 sik1 bing6 bat1 suk6 sat6"
-        }
-      ]
+      "english": "It has been proven that this news report is untrue.",
+      "traditional": "經證實，呢宗消息並不屬實。",
+      "jyutping": "ging1 zing3 sat6 ne1 zung1 siu1 sik1 bing6 bat1 suk6 sat6"
     }
   ]
 }

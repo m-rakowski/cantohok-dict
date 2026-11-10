@@ -1,49 +1,45 @@
 {
   "id": "et576bj4",
   "partOfSpeech": "adj",
+  "meaning": "nauseated, feeling sick",
+  "english": [
+    {
+      "id": "1p2vmcra",
+      "word": "disgusting",
+      "meaning": "repulsive; causing disgust",
+      "register": "colloquial",
+      "note": "Use this when the disgusting thing is nauseating or makes you feel physically sick."
+    },
+    {
+      "id": "pn9k12u0",
+      "word": "sick",
+      "meaning": "nauseated, wanting to vomit",
+      "note": "Use this for the physical feeling of nausea or wanting to vomit."
+    },
+    {
+      "id": "y9zr5ask",
+      "word": "ill",
+      "meaning": "nauseated",
+      "note": "Use this when someone feels nauseated or has an urge to vomit rather than simply being sick."
+    }
+  ],
   "traditional": "反胃",
   "jyutping": "faan2 wai6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "nauseated, feeling sick",
-      "english": [
-        {
-          "id": "1p2vmcra",
-          "word": "disgusting",
-          "meaning": "repulsive; causing disgust",
-          "register": "colloquial",
-          "note": "Use this when the disgusting thing is nauseating or makes you feel physically sick."
-        },
-        {
-          "id": "pn9k12u0",
-          "word": "sick",
-          "meaning": "nauseated, wanting to vomit",
-          "note": "Use this for the physical feeling of nausea or wanting to vomit."
-        },
-        {
-          "id": "y9zr5ask",
-          "word": "ill",
-          "meaning": "nauseated",
-          "note": "Use this when someone feels nauseated or has an urge to vomit rather than simply being sick."
-        }
-      ],
-      "examples": [
-        {
-          "english": "That stinky tofu is really disgusting.",
-          "traditional": "嗰啲臭豆腐真係反胃。",
-          "jyutping": "go2 di1 cau3 dau6 fu6 zan1 hai6 faan2 wai6"
-        },
-        {
-          "english": "I feel sick as soon as I smell that.",
-          "traditional": "一聞到陣味我就反胃。",
-          "jyutping": "jat1 man4 dou2 zan6 mei6 ngo5 zau6 faan2 wai6"
-        },
-        {
-          "english": "After eating this dish, I feel ill and nauseated.",
-          "traditional": "食完呢碟嘢，我有啲反胃。",
-          "jyutping": "sik6 jyun4 ni1 dip6 je5 ngo5 jau5 di1 faan2 wai6"
-        }
-      ]
+      "english": "That stinky tofu is really disgusting.",
+      "traditional": "嗰啲臭豆腐真係反胃。",
+      "jyutping": "go2 di1 cau3 dau6 fu6 zan1 hai6 faan2 wai6"
+    },
+    {
+      "english": "I feel sick as soon as I smell that.",
+      "traditional": "一聞到陣味我就反胃。",
+      "jyutping": "jat1 man4 dou2 zan6 mei6 ngo5 zau6 faan2 wai6"
+    },
+    {
+      "english": "After eating this dish, I feel ill and nauseated.",
+      "traditional": "食完呢碟嘢，我有啲反胃。",
+      "jyutping": "sik6 jyun4 ni1 dip6 je5 ngo5 jau5 di1 faan2 wai6"
     }
   ]
 }

@@ -1,28 +1,24 @@
 {
   "id": "ycss4hag",
   "partOfSpeech": "verb",
+  "meaning": "make a priest or minister",
+  "english": [
+    {
+      "id": "xt5ajegj",
+      "word": "ordain",
+      "meaning": "make a priest or minister",
+      "register": "formal",
+      "note": "Use this for formally ordaining a Christian or Jewish religious official, such as a priest, bishop, minister, or rabbi."
+    }
+  ],
   "traditional": "按立",
   "jyutping": "on3 laap6",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "make a priest or minister",
-      "english": [
-        {
-          "id": "xt5ajegj",
-          "word": "ordain",
-          "meaning": "make a priest or minister",
-          "register": "formal",
-          "note": "Use this for formally ordaining a Christian or Jewish religious official, such as a priest, bishop, minister, or rabbi."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The church formally chose to ordain Pastor Lee as a bishop today.",
-          "traditional": "教會今日正式按立李牧師做主教。",
-          "jyutping": "gaau3 wui2 gam1 jat6 zing3 sik1 on3 laap6 lei5 muk6 si1 zou6 zyu2 gaau3"
-        }
-      ]
+      "english": "The church formally chose to ordain Pastor Lee as a bishop today.",
+      "traditional": "教會今日正式按立李牧師做主教。",
+      "jyutping": "gaau3 wui2 gam1 jat6 zing3 sik1 on3 laap6 lei5 muk6 si1 zou6 zyu2 gaau3"
     }
   ]
 }

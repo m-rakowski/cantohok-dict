@@ -1,26 +1,22 @@
 {
   "id": "tmfwxm61",
   "partOfSpeech": "noun",
+  "meaning": "time/event date",
+  "english": [
+    {
+      "id": "ranl5v3n",
+      "word": "date",
+      "meaning": "time/event date",
+      "note": "This is the all-purpose choice for a calendar date or the date written on a document."
+    }
+  ],
   "traditional": "日期",
   "jyutping": "jat6 kei4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "time/event date",
-      "english": [
-        {
-          "id": "ranl5v3n",
-          "word": "date",
-          "meaning": "time/event date",
-          "note": "This is the all-purpose choice for a calendar date or the date written on a document."
-        }
-      ],
-      "examples": [
-        {
-          "english": "You need to fill in the date on this form.",
-          "traditional": "呢份表格要填返日期。",
-          "jyutping": "ni1 fan6 biu2 gaak3 jiu3 tin4 faan1 jat6 kei4"
-        }
-      ]
+      "english": "You need to fill in the date on this form.",
+      "traditional": "呢份表格要填返日期。",
+      "jyutping": "ni1 fan6 biu2 gaak3 jiu3 tin4 faan1 jat6 kei4"
     }
   ]
 }

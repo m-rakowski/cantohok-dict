@@ -1,28 +1,24 @@
 {
   "id": "s3go7rbh",
   "partOfSpeech": "noun",
+  "meaning": "light gentle wind",
+  "english": [
+    {
+      "id": "9it3z8w0",
+      "word": "breeze",
+      "meaning": "light gentle wind",
+      "register": "written",
+      "note": "Use this for a gentle breeze when its softness matters rather than the brief gust-like occurrence expressed by 一陣風."
+    }
+  ],
   "traditional": "微風",
   "jyutping": "mei4 fung1",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "light gentle wind",
-      "english": [
-        {
-          "id": "9it3z8w0",
-          "word": "breeze",
-          "meaning": "light gentle wind",
-          "register": "written",
-          "note": "Use this for a gentle breeze when its softness matters rather than the brief gust-like occurrence expressed by 一陣風."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "A gentle breeze drifts across the sea.",
-          "traditional": "微風輕輕吹過海面。",
-          "jyutping": "mei4 fung1 hing1 hing1 ceoi1 gwo3 hoi2 min6"
-        }
-      ]
+      "english": "A gentle breeze drifts across the sea.",
+      "traditional": "微風輕輕吹過海面。",
+      "jyutping": "mei4 fung1 hing1 hing1 ceoi1 gwo3 hoi2 min6"
     }
   ]
 }

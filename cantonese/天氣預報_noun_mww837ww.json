@@ -1,37 +1,33 @@
 {
   "id": "mww837ww",
   "partOfSpeech": "noun",
+  "meaning": "weather forecast",
+  "english": [
+    {
+      "id": "8h6gxs0s",
+      "word": "forecast",
+      "meaning": "weather forecast",
+      "note": "Use this specifically for a forecast of the weather."
+    },
+    {
+      "id": "w9kafr9n",
+      "word": "weather forecast",
+      "meaning": "prediction of future weather",
+      "note": "This is the all-purpose Cantonese term for a prediction of future weather."
+    }
+  ],
   "traditional": "天氣預報",
   "jyutping": "tin1 hei3 jyu6 bou3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "weather forecast",
-      "english": [
-        {
-          "id": "8h6gxs0s",
-          "word": "forecast",
-          "meaning": "weather forecast",
-          "note": "Use this specifically for a forecast of the weather."
-        },
-        {
-          "id": "w9kafr9n",
-          "word": "weather forecast",
-          "meaning": "prediction of future weather",
-          "note": "This is the all-purpose Cantonese term for a prediction of future weather."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Today's weather forecast says it will rain tomorrow.",
-          "traditional": "今日天氣預報話聽日會落雨。",
-          "jyutping": "gam1 jat6 tin1 hei3 jyu6 bou3 waa6 ting1 jat6 wui5 lok6 jyu5"
-        },
-        {
-          "english": "The weather forecast says it will rain in Hong Kong tonight, so remember to check it.",
-          "traditional": "香港今晚會落雨，記得睇天氣預報。",
-          "jyutping": "hoeng1 gong2 gam1 maan5 wui2 lok6 jyu5 gei3 dak1 tai2 tin1 hei3 jyu6 bou3"
-        }
-      ]
+      "english": "Today's weather forecast says it will rain tomorrow.",
+      "traditional": "今日天氣預報話聽日會落雨。",
+      "jyutping": "gam1 jat6 tin1 hei3 jyu6 bou3 waa6 ting1 jat6 wui5 lok6 jyu5"
+    },
+    {
+      "english": "The weather forecast says it will rain in Hong Kong tonight, so remember to check it.",
+      "traditional": "香港今晚會落雨，記得睇天氣預報。",
+      "jyutping": "hoeng1 gong2 gam1 maan5 wui2 lok6 jyu5 gei3 dak1 tai2 tin1 hei3 jyu6 bou3"
     }
   ]
 }

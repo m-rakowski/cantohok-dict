@@ -1,40 +1,36 @@
 {
   "id": "r5rr29xn",
   "partOfSpeech": "noun",
+  "meaning": "child, kid",
+  "english": [
+    {
+      "id": "zkz875cb",
+      "word": "child",
+      "meaning": "young person",
+      "register": "colloquial",
+      "note": "This is the all-purpose colloquial noun for a child or other person who has not reached adulthood."
+    },
+    {
+      "id": "kosdpzx4",
+      "word": "kid",
+      "meaning": "child; young person",
+      "register": "colloquial",
+      "note": "This is the all-purpose colloquial word for a child or young person."
+    }
+  ],
   "traditional": "細路仔",
   "jyutping": "sai3 lou6 zai2",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "child, kid",
-      "english": [
-        {
-          "id": "zkz875cb",
-          "word": "child",
-          "meaning": "young person",
-          "register": "colloquial",
-          "note": "This is the all-purpose colloquial noun for a child or other person who has not reached adulthood."
-        },
-        {
-          "id": "kosdpzx4",
-          "word": "kid",
-          "meaning": "child; young person",
-          "register": "colloquial",
-          "note": "This is the all-purpose colloquial word for a child or young person."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "The child is playing in the park.",
-          "traditional": "個細路仔喺公園度玩緊。",
-          "jyutping": "go3 sai3 lou6 zai2 hai2 gung1 jyun4 dou6 waan2 gan2"
-        },
-        {
-          "english": "That kid is always playing football in the park.",
-          "traditional": "嗰個細路仔成日喺公園踢波。",
-          "jyutping": "go2 go3 sai3 lou6 zai2 seng4 jat6 hai2 gung1 jyun2 tek3 bo1"
-        }
-      ]
+      "english": "The child is playing in the park.",
+      "traditional": "個細路仔喺公園度玩緊。",
+      "jyutping": "go3 sai3 lou6 zai2 hai2 gung1 jyun4 dou6 waan2 gan2"
+    },
+    {
+      "english": "That kid is always playing football in the park.",
+      "traditional": "嗰個細路仔成日喺公園踢波。",
+      "jyutping": "go2 go3 sai3 lou6 zai2 seng4 jat6 hai2 gung1 jyun2 tek3 bo1"
     }
   ]
 }

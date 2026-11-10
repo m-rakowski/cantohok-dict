@@ -1,26 +1,22 @@
 {
   "id": "5rs0v5i5",
   "partOfSpeech": "num",
+  "meaning": "1,000,000,000",
+  "english": [
+    {
+      "id": "bpx95llr",
+      "word": "billion",
+      "meaning": "1,000,000,000",
+      "note": "This is the all-purpose Cantonese rendering for one billion (1,000,000,000)."
+    }
+  ],
   "traditional": "十億",
   "jyutping": "sap6 jik1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "1,000,000,000",
-      "english": [
-        {
-          "id": "bpx95llr",
-          "word": "billion",
-          "meaning": "1,000,000,000",
-          "note": "This is the all-purpose Cantonese rendering for one billion (1,000,000,000)."
-        }
-      ],
-      "examples": [
-        {
-          "english": "We need to raise a billion dollars to build a new hospital.",
-          "traditional": "我哋要籌十億蚊起間新醫院。",
-          "jyutping": "ngo5 dei6 jiu3 cau4 sap6 jik1 man1 hei2 gaan1 san1 ji1 jyun2"
-        }
-      ]
+      "english": "We need to raise a billion dollars to build a new hospital.",
+      "traditional": "我哋要籌十億蚊起間新醫院。",
+      "jyutping": "ngo5 dei6 jiu3 cau4 sap6 jik1 man1 hei2 gaan1 san1 ji1 jyun2"
     }
   ]
 }

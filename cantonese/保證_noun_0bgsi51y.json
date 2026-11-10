@@ -1,70 +1,66 @@
 {
   "id": "0bgsi51y",
   "partOfSpeech": "noun",
+  "meaning": "guarantee, assurance",
+  "english": [
+    {
+      "id": "2zeuld9n",
+      "word": "guarantee",
+      "meaning": "assurance of outcome",
+      "note": "This is the all-purpose noun for an assurance that something will happen or be true."
+    },
+    {
+      "id": "q1l557w5",
+      "word": "assurance",
+      "meaning": "confidence-giving statement",
+      "note": "This is the all-purpose noun for an outward assurance, promise, or guarantee intended to reassure someone."
+    },
+    {
+      "id": "w1wkk40u",
+      "word": "warranty",
+      "meaning": "legal warranty",
+      "note": "Use this for a legal or contractual warranty that guarantees the condition or quality of goods or property."
+    },
+    {
+      "id": "91f9u8de",
+      "word": "reassurance",
+      "meaning": "act of reassuring someone",
+      "note": "Use this when the reassurance is an explicit assurance, promise, or confirmation from someone."
+    },
+    {
+      "id": "u2ykz07p",
+      "word": "security",
+      "meaning": "guarantee, collateral",
+      "note": "Use this when security means a guarantee securing an obligation, rather than physical collateral."
+    }
+  ],
   "traditional": "保證",
   "jyutping": "bou2 zing3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "guarantee, assurance",
-      "english": [
-        {
-          "id": "2zeuld9n",
-          "word": "guarantee",
-          "meaning": "assurance of outcome",
-          "note": "This is the all-purpose noun for an assurance that something will happen or be true."
-        },
-        {
-          "id": "q1l557w5",
-          "word": "assurance",
-          "meaning": "confidence-giving statement",
-          "note": "This is the all-purpose noun for an outward assurance, promise, or guarantee intended to reassure someone."
-        },
-        {
-          "id": "w1wkk40u",
-          "word": "warranty",
-          "meaning": "legal warranty",
-          "note": "Use this for a legal or contractual warranty that guarantees the condition or quality of goods or property."
-        },
-        {
-          "id": "91f9u8de",
-          "word": "reassurance",
-          "meaning": "act of reassuring someone",
-          "note": "Use this when the reassurance is an explicit assurance, promise, or confirmation from someone."
-        },
-        {
-          "id": "u2ykz07p",
-          "word": "security",
-          "meaning": "guarantee, collateral",
-          "note": "Use this when security means a guarantee securing an obligation, rather than physical collateral."
-        }
-      ],
-      "examples": [
-        {
-          "english": "There’s no guarantee this offer won’t be cancelled at any time.",
-          "traditional": "呢個優惠冇保證，可能隨時取消。",
-          "jyutping": "ni1 go3 jau1 wai6 mou5 bou2 zing3 ho2 nang4 ceoi4 si4 ceoi2 siu1"
-        },
-        {
-          "english": "I give you assurance that I’ll pay you back tomorrow.",
-          "traditional": "我保證聽日一定還錢。",
-          "jyutping": "ngo5 bou2 zing3 teng1 jat6 jat1 ding6 waan4 cin2"
-        },
-        {
-          "english": "This sales contract provides a warranty that the property will have no structural problems at handover.",
-          "traditional": "呢份買賣合約保證間屋交樓時冇結構問題。",
-          "jyutping": "nei1 fan6 maai5 maai6 hap6 joek3 bou2 zing3 gaan1 uk1 gaau1 lau4 si4 mou5 git3 kau3 man6 tai4"
-        },
-        {
-          "english": "Your reassurance that you would definitely save me a place put me at ease.",
-          "traditional": "保證",
-          "jyutping": "bou2 zing3"
-        },
-        {
-          "english": "This receipt gives you security that you will get your money back.",
-          "traditional": "呢張收據係你攞得返錢嘅保證。",
-          "jyutping": "ni1 zoeng1 sau1 geoi3 hai6 nei5 lo2 dak1 faan1 cin2 ge3 bou2 zing3"
-        }
-      ]
+      "english": "There’s no guarantee this offer won’t be cancelled at any time.",
+      "traditional": "呢個優惠冇保證，可能隨時取消。",
+      "jyutping": "ni1 go3 jau1 wai6 mou5 bou2 zing3 ho2 nang4 ceoi4 si4 ceoi2 siu1"
+    },
+    {
+      "english": "I give you assurance that I’ll pay you back tomorrow.",
+      "traditional": "我保證聽日一定還錢。",
+      "jyutping": "ngo5 bou2 zing3 teng1 jat6 jat1 ding6 waan4 cin2"
+    },
+    {
+      "english": "This sales contract provides a warranty that the property will have no structural problems at handover.",
+      "traditional": "呢份買賣合約保證間屋交樓時冇結構問題。",
+      "jyutping": "nei1 fan6 maai5 maai6 hap6 joek3 bou2 zing3 gaan1 uk1 gaau1 lau4 si4 mou5 git3 kau3 man6 tai4"
+    },
+    {
+      "english": "Your reassurance that you would definitely save me a place put me at ease.",
+      "traditional": "保證",
+      "jyutping": "bou2 zing3"
+    },
+    {
+      "english": "This receipt gives you security that you will get your money back.",
+      "traditional": "呢張收據係你攞得返錢嘅保證。",
+      "jyutping": "ni1 zoeng1 sau1 geoi3 hai6 nei5 lo2 dak1 faan1 cin2 ge3 bou2 zing3"
     }
   ]
 }

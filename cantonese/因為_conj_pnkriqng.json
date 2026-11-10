@@ -1,59 +1,55 @@
 {
   "id": "pnkriqng",
   "partOfSpeech": "conj",
+  "meaning": "because",
+  "english": [
+    {
+      "id": "0r5d5z6d",
+      "word": "for",
+      "meaning": "because",
+      "note": "This is the all-purpose spoken Cantonese equivalent of “because.”"
+    },
+    {
+      "id": "74kpiowa",
+      "word": "because",
+      "meaning": "cause/reason",
+      "note": "This is the all-purpose spoken choice for giving a cause or reason."
+    },
+    {
+      "id": "3up05quz",
+      "word": "since",
+      "meaning": "because",
+      "note": "Use this as the all-purpose causal equivalent of “since” meaning “because.”"
+    },
+    {
+      "id": "cv05t83p",
+      "word": "as",
+      "meaning": "because / since",
+      "note": "This is the all-purpose spoken connector for giving a reason or cause."
+    }
+  ],
   "traditional": "因為",
   "jyutping": "jan1 wai6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "because",
-      "english": [
-        {
-          "id": "0r5d5z6d",
-          "word": "for",
-          "meaning": "because",
-          "note": "This is the all-purpose spoken Cantonese equivalent of “because.”"
-        },
-        {
-          "id": "74kpiowa",
-          "word": "because",
-          "meaning": "cause/reason",
-          "note": "This is the all-purpose spoken choice for giving a cause or reason."
-        },
-        {
-          "id": "3up05quz",
-          "word": "since",
-          "meaning": "because",
-          "note": "Use this as the all-purpose causal equivalent of “since” meaning “because.”"
-        },
-        {
-          "id": "cv05t83p",
-          "word": "as",
-          "meaning": "because / since",
-          "note": "This is the all-purpose spoken connector for giving a reason or cause."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I didn't go out, for it was raining.",
-          "traditional": "我冇出街，因為落緊雨。",
-          "jyutping": "ngo5 mou5 ceot1 gaai1 jan1 wai6 lok6 gan2 jyu5"
-        },
-        {
-          "english": "I'm not going running today because it's raining.",
-          "traditional": "我今日唔去跑步，因為落緊雨。",
-          "jyutping": "ngo5 gam1 jat6 m4 heoi3 paau2 bou6 jan1 wai6 lok6 gan2 jyu5"
-        },
-        {
-          "english": "Since it's raining today, we cancelled the picnic.",
-          "traditional": "因為今日落雨，我哋取消個野餐啦。",
-          "jyutping": "jan1 wai6 gam1 jat6 lok6 jyu5 ngo5 dei6 ceoi2 siu1 go3 je5 caan1 laa1"
-        },
-        {
-          "english": "We’re not going hiking as it’s raining today.",
-          "traditional": "我哋唔去行山，因為今日落雨。",
-          "jyutping": "ngo5 dei6 m4 heoi3 haang4 saan1 jan1 wai6 gam1 jat6 lok6 jyu5"
-        }
-      ]
+      "english": "I didn't go out, for it was raining.",
+      "traditional": "我冇出街，因為落緊雨。",
+      "jyutping": "ngo5 mou5 ceot1 gaai1 jan1 wai6 lok6 gan2 jyu5"
+    },
+    {
+      "english": "I'm not going running today because it's raining.",
+      "traditional": "我今日唔去跑步，因為落緊雨。",
+      "jyutping": "ngo5 gam1 jat6 m4 heoi3 paau2 bou6 jan1 wai6 lok6 gan2 jyu5"
+    },
+    {
+      "english": "Since it's raining today, we cancelled the picnic.",
+      "traditional": "因為今日落雨，我哋取消個野餐啦。",
+      "jyutping": "jan1 wai6 gam1 jat6 lok6 jyu5 ngo5 dei6 ceoi2 siu1 go3 je5 caan1 laa1"
+    },
+    {
+      "english": "We’re not going hiking as it’s raining today.",
+      "traditional": "我哋唔去行山，因為今日落雨。",
+      "jyutping": "ngo5 dei6 m4 heoi3 haang4 saan1 jan1 wai6 gam1 jat6 lok6 jyu5"
     }
   ]
 }

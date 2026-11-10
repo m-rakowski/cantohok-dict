@@ -1,59 +1,55 @@
 {
   "id": "9ppbr5eb",
   "partOfSpeech": "adj",
+  "meaning": "strict, rigorous",
+  "english": [
+    {
+      "id": "qd120ie3",
+      "word": "strict",
+      "meaning": "severe, rule-enforcing",
+      "note": "This is the all-purpose choice for enforcing rules and for a narrowly or exactly limited interpretation."
+    },
+    {
+      "id": "2o9uyi22",
+      "word": "stringent",
+      "meaning": "strict, severe requirements",
+      "note": "Use this as the all-purpose choice for strict rules, standards, or requirements."
+    },
+    {
+      "id": "4pvx8tnt",
+      "word": "severe",
+      "meaning": "strict or harsh",
+      "note": "Use this for a person, rule, or standard that is strict rather than especially harsh."
+    },
+    {
+      "id": "et3eiaq3",
+      "word": "exact",
+      "meaning": "strict, precise",
+      "note": "Use this for the strict aspect of an exact command, rule, or requirement."
+    }
+  ],
   "traditional": "嚴格",
   "jyutping": "jim4 gaak3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "strict, rigorous",
-      "english": [
-        {
-          "id": "qd120ie3",
-          "word": "strict",
-          "meaning": "severe, rule-enforcing",
-          "note": "This is the all-purpose choice for enforcing rules and for a narrowly or exactly limited interpretation."
-        },
-        {
-          "id": "2o9uyi22",
-          "word": "stringent",
-          "meaning": "strict, severe requirements",
-          "note": "Use this as the all-purpose choice for strict rules, standards, or requirements."
-        },
-        {
-          "id": "4pvx8tnt",
-          "word": "severe",
-          "meaning": "strict or harsh",
-          "note": "Use this for a person, rule, or standard that is strict rather than especially harsh."
-        },
-        {
-          "id": "et3eiaq3",
-          "word": "exact",
-          "meaning": "strict, precise",
-          "note": "Use this for the strict aspect of an exact command, rule, or requirement."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The company's rules about being late are very strict.",
-          "traditional": "公司對遲到嘅規定好嚴格。",
-          "jyutping": "gung1 si1 deoi3 ci4 dou3 ge3 gwai1 ding6 hou2 jim4 gaak3"
-        },
-        {
-          "english": "The company's confidentiality requirements are stringent.",
-          "traditional": "公司對員工嘅保密要求好嚴格。",
-          "jyutping": "gung1 si1 deoi3 jyun4 gung1 ge3 bou2 mat6 jiu1 kau4 hou2 jim4 gaak3"
-        },
-        {
-          "english": "The teacher has very severe requirements for homework.",
-          "traditional": "老師對功課嘅要求好嚴格。",
-          "jyutping": "lou5 si1 deoi3 gung1 fo3 ge3 jiu1 kau4 hou2 jim4 gaak3"
-        },
-        {
-          "english": "This is an exact, strict rule: even being one minute late is not allowed.",
-          "traditional": "呢條規定好嚴格，遲到一分鐘都唔得。",
-          "jyutping": "ni1 tiu4 gwai1 ding6 hou2 jim4 gaak3 ci4 dou3 jat1 fan1 zung1 dou1 m4 dak1"
-        }
-      ]
+      "english": "The company's rules about being late are very strict.",
+      "traditional": "公司對遲到嘅規定好嚴格。",
+      "jyutping": "gung1 si1 deoi3 ci4 dou3 ge3 gwai1 ding6 hou2 jim4 gaak3"
+    },
+    {
+      "english": "The company's confidentiality requirements are stringent.",
+      "traditional": "公司對員工嘅保密要求好嚴格。",
+      "jyutping": "gung1 si1 deoi3 jyun4 gung1 ge3 bou2 mat6 jiu1 kau4 hou2 jim4 gaak3"
+    },
+    {
+      "english": "The teacher has very severe requirements for homework.",
+      "traditional": "老師對功課嘅要求好嚴格。",
+      "jyutping": "lou5 si1 deoi3 gung1 fo3 ge3 jiu1 kau4 hou2 jim4 gaak3"
+    },
+    {
+      "english": "This is an exact, strict rule: even being one minute late is not allowed.",
+      "traditional": "呢條規定好嚴格，遲到一分鐘都唔得。",
+      "jyutping": "ni1 tiu4 gwai1 ding6 hou2 jim4 gaak3 ci4 dou3 jat1 fan1 zung1 dou1 m4 dak1"
     }
   ]
 }

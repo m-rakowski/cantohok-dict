@@ -1,37 +1,33 @@
 {
   "id": "amd0id24",
   "partOfSpeech": "adj",
+  "meaning": "not here, not present",
+  "english": [
+    {
+      "id": "i5xwctvx",
+      "word": "absent",
+      "meaning": "away; not present",
+      "note": "This is the all-purpose spoken choice for a person or thing not being present."
+    },
+    {
+      "id": "r8jh6p1l",
+      "word": "missing",
+      "meaning": "not present; absent",
+      "note": "Use this when the emphasis is that something is not present where it should be."
+    }
+  ],
   "traditional": "唔喺度",
   "jyutping": "m4 hai2 dou6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "not here, not present",
-      "english": [
-        {
-          "id": "i5xwctvx",
-          "word": "absent",
-          "meaning": "away; not present",
-          "note": "This is the all-purpose spoken choice for a person or thing not being present."
-        },
-        {
-          "id": "r8jh6p1l",
-          "word": "missing",
-          "meaning": "not present; absent",
-          "note": "Use this when the emphasis is that something is not present where it should be."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Ming is absent today, so call back tomorrow.",
-          "traditional": "阿明今日唔喺度，你聽日再打嚟啦。",
-          "jyutping": "aa3 ming4 gam1 jat6 m4 hai2 dou6 nei5 ting1 jat6 zoi3 daa2 lei4 laa1"
-        },
-        {
-          "english": "One person is missing; Ming isn't here.",
-          "traditional": "少咗一個人，阿明唔喺度。",
-          "jyutping": "siu2 zo2 jat1 go3 jan4 aa3 ming4 m4 hai2 dou6"
-        }
-      ]
+      "english": "Ming is absent today, so call back tomorrow.",
+      "traditional": "阿明今日唔喺度，你聽日再打嚟啦。",
+      "jyutping": "aa3 ming4 gam1 jat6 m4 hai2 dou6 nei5 ting1 jat6 zoi3 daa2 lei4 laa1"
+    },
+    {
+      "english": "One person is missing; Ming isn't here.",
+      "traditional": "少咗一個人，阿明唔喺度。",
+      "jyutping": "siu2 zo2 jat1 go3 jan4 aa3 ming4 m4 hai2 dou6"
     }
   ]
 }

@@ -1,48 +1,44 @@
 {
   "id": "i9a00j91",
   "partOfSpeech": "noun",
+  "meaning": "humankind",
+  "english": [
+    {
+      "id": "a2897ezi",
+      "word": "humanity",
+      "meaning": "humankind",
+      "note": "This is the all-purpose choice for humanity as humankind or the human species."
+    },
+    {
+      "id": "qa5v4b5e",
+      "word": "mankind",
+      "meaning": "humanity, human race",
+      "note": "This is the all-purpose rendering for the human race as a whole."
+    },
+    {
+      "id": "p0p1n4wx",
+      "word": "human",
+      "meaning": "a human being",
+      "note": "Use this when referring to humans collectively as a species or to humanity."
+    }
+  ],
   "traditional": "人類",
   "jyutping": "jan4 leoi6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "humankind",
-      "english": [
-        {
-          "id": "a2897ezi",
-          "word": "humanity",
-          "meaning": "humankind",
-          "note": "This is the all-purpose choice for humanity as humankind or the human species."
-        },
-        {
-          "id": "qa5v4b5e",
-          "word": "mankind",
-          "meaning": "humanity, human race",
-          "note": "This is the all-purpose rendering for the human race as a whole."
-        },
-        {
-          "id": "p0p1n4wx",
-          "word": "human",
-          "meaning": "a human being",
-          "note": "Use this when referring to humans collectively as a species or to humanity."
-        }
-      ],
-      "examples": [
-        {
-          "english": "All of humanity has always worked hard to explore space.",
-          "traditional": "人類一直努力探索宇宙。",
-          "jyutping": "jan4 leoi6 jat1 zik6 nou5 lik6 taam3 sok3 jyu5 zau6"
-        },
-        {
-          "english": "Mankind should protect the Earth.",
-          "traditional": "人類應該保護地球。",
-          "jyutping": "jan4 leoi6 jing1 goi1 bou2 wu6 dei6 kau4"
-        },
-        {
-          "english": "The human species still hasn't found alien life.",
-          "traditional": "人類仲未搵到外星生命。",
-          "jyutping": "jan4 leoi6 zung6 mei6 wan2 dou2 ngoi6 sing1 sang1 meng6"
-        }
-      ]
+      "english": "All of humanity has always worked hard to explore space.",
+      "traditional": "人類一直努力探索宇宙。",
+      "jyutping": "jan4 leoi6 jat1 zik6 nou5 lik6 taam3 sok3 jyu5 zau6"
+    },
+    {
+      "english": "Mankind should protect the Earth.",
+      "traditional": "人類應該保護地球。",
+      "jyutping": "jan4 leoi6 jing1 goi1 bou2 wu6 dei6 kau4"
+    },
+    {
+      "english": "The human species still hasn't found alien life.",
+      "traditional": "人類仲未搵到外星生命。",
+      "jyutping": "jan4 leoi6 zung6 mei6 wan2 dou2 ngoi6 sing1 sang1 meng6"
     }
   ]
 }

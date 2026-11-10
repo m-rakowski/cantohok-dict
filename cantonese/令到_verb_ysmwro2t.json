@@ -1,48 +1,44 @@
 {
   "id": "ysmwro2t",
   "partOfSpeech": "verb",
+  "meaning": "cause, bring about",
+  "english": [
+    {
+      "id": "48v07fie",
+      "word": "result",
+      "meaning": "cause; bring about",
+      "note": "This is the all-purpose colloquial choice for saying that something brings about a consequence."
+    },
+    {
+      "id": "bbjan4n2",
+      "word": "induce",
+      "meaning": "cause; bring about",
+      "note": "Use this as the all-purpose spoken verb for causing or bringing about a result."
+    },
+    {
+      "id": "707yia33",
+      "word": "cause",
+      "meaning": "cause; make happen",
+      "note": "Use this as the all-purpose way to say that someone or something makes a result happen."
+    }
+  ],
   "traditional": "令到",
   "jyutping": "ling6 dou3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "cause, bring about",
-      "english": [
-        {
-          "id": "48v07fie",
-          "word": "result",
-          "meaning": "cause; bring about",
-          "note": "This is the all-purpose colloquial choice for saying that something brings about a consequence."
-        },
-        {
-          "id": "bbjan4n2",
-          "word": "induce",
-          "meaning": "cause; bring about",
-          "note": "Use this as the all-purpose spoken verb for causing or bringing about a result."
-        },
-        {
-          "id": "707yia33",
-          "word": "cause",
-          "meaning": "cause; make happen",
-          "note": "Use this as the all-purpose way to say that someone or something makes a result happen."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Heavy rain can result in many flight delays.",
-          "traditional": "呢場大雨令到好多航班延誤。",
-          "jyutping": "ni1 coeng4 daai6 jyu5 ling6 dou3 hou2 do1 hong4 baan1 jin4 ng6"
-        },
-        {
-          "english": "This heavy rain can induce flooding all along the street.",
-          "traditional": "呢場大雨令到成條街水浸。",
-          "jyutping": "ni1 coeng4 daai6 jyu5 ling6 dou3 sing4 tiu4 gaai1 seoi2 zam3"
-        },
-        {
-          "english": "Continuous rain can cause the venue to get completely wet.",
-          "traditional": "連續落雨令到場地濕晒。",
-          "jyutping": "lin4 zuk6 lok6 jyu5 ling6 dou3 coeng4 dei6 sap1 saai3"
-        }
-      ]
+      "english": "Heavy rain can result in many flight delays.",
+      "traditional": "呢場大雨令到好多航班延誤。",
+      "jyutping": "ni1 coeng4 daai6 jyu5 ling6 dou3 hou2 do1 hong4 baan1 jin4 ng6"
+    },
+    {
+      "english": "This heavy rain can induce flooding all along the street.",
+      "traditional": "呢場大雨令到成條街水浸。",
+      "jyutping": "ni1 coeng4 daai6 jyu5 ling6 dou3 sing4 tiu4 gaai1 seoi2 zam3"
+    },
+    {
+      "english": "Continuous rain can cause the venue to get completely wet.",
+      "traditional": "連續落雨令到場地濕晒。",
+      "jyutping": "lin4 zuk6 lok6 jyu5 ling6 dou3 coeng4 dei6 sap1 saai3"
     }
   ]
 }

@@ -1,37 +1,33 @@
 {
   "id": "xktyslxx",
   "partOfSpeech": "noun",
+  "meaning": "improvement",
+  "english": [
+    {
+      "id": "qly5727c",
+      "word": "improvement",
+      "meaning": "improvement, progress",
+      "note": "This is the all-purpose noun for general improvement or betterment."
+    },
+    {
+      "id": "mm3zkn7m",
+      "word": "upgrade",
+      "meaning": "improvement",
+      "note": "Use this for a general improvement in a situation, condition, or result rather than for an upgraded product."
+    }
+  ],
   "traditional": "改善",
   "jyutping": "goi2 sin6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "improvement",
-      "english": [
-        {
-          "id": "qly5727c",
-          "word": "improvement",
-          "meaning": "improvement, progress",
-          "note": "This is the all-purpose noun for general improvement or betterment."
-        },
-        {
-          "id": "mm3zkn7m",
-          "word": "upgrade",
-          "meaning": "improvement",
-          "note": "Use this for a general improvement in a situation, condition, or result rather than for an upgraded product."
-        }
-      ],
-      "examples": [
-        {
-          "english": "There has been improvement in this arrangement.",
-          "traditional": "呢個安排有改善。",
-          "jyutping": "ni1 go3 on1 paai4 jau5 goi2 sin6"
-        },
-        {
-          "english": "After changing the approach, the results showed a noticeable upgrade.",
-          "traditional": "改咗個做法之後，成績有明顯改善。",
-          "jyutping": "goi2 zo2 go3 zou6 faat3 zi1 hau6 sing4 zik1 jau5 ming4 hin2 goi2 sin6"
-        }
-      ]
+      "english": "There has been improvement in this arrangement.",
+      "traditional": "呢個安排有改善。",
+      "jyutping": "ni1 go3 on1 paai4 jau5 goi2 sin6"
+    },
+    {
+      "english": "After changing the approach, the results showed a noticeable upgrade.",
+      "traditional": "改咗個做法之後，成績有明顯改善。",
+      "jyutping": "goi2 zo2 go3 zou6 faat3 zi1 hau6 sing4 zik1 jau5 ming4 hin2 goi2 sin6"
     }
   ]
 }

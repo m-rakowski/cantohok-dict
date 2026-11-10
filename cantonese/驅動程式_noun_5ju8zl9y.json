@@ -1,28 +1,24 @@
 {
   "id": "5ju8zl9y",
   "partOfSpeech": "noun",
+  "meaning": "computer driver",
+  "english": [
+    {
+      "id": "nutdts3w",
+      "word": "driver",
+      "meaning": "computer driver",
+      "register": "written",
+      "note": "Use this technical term for software that lets an application communicate with hardware."
+    }
+  ],
   "traditional": "驅動程式",
   "jyutping": "keoi1 dung6 cing4 sik1",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "computer driver",
-      "english": [
-        {
-          "id": "nutdts3w",
-          "word": "driver",
-          "meaning": "computer driver",
-          "register": "written",
-          "note": "Use this technical term for software that lets an application communicate with hardware."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "Once you install a new driver on your computer, the printer works normally.",
-          "traditional": "你部電腦裝咗個新驅動程式，部打印機就正常喇。",
-          "jyutping": "nei5 bou6 din6 nou5 zong1 zo2 go3 san1 keoi1 dung6 cing4 sik1 bou6 daa2 jan3 gei1 zau6 zing3 soeng4 laa3"
-        }
-      ]
+      "english": "Once you install a new driver on your computer, the printer works normally.",
+      "traditional": "你部電腦裝咗個新驅動程式，部打印機就正常喇。",
+      "jyutping": "nei5 bou6 din6 nou5 zong1 zo2 go3 san1 keoi1 dung6 cing4 sik1 bou6 daa2 jan3 gei1 zau6 zing3 soeng4 laa3"
     }
   ]
 }

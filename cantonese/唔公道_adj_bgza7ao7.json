@@ -1,40 +1,36 @@
 {
   "id": "bgza7ao7",
   "partOfSpeech": "adj",
+  "meaning": "unfair",
+  "english": [
+    {
+      "id": "njw79k2y",
+      "word": "unfair",
+      "meaning": "not fair, unjust",
+      "register": "colloquial",
+      "note": "Pick this especially when judging unfair treatment, a deal, or someone’s conduct as unjust."
+    },
+    {
+      "id": "kctlee4i",
+      "word": "partial",
+      "meaning": "biased, unfair",
+      "register": "colloquial",
+      "note": "Use this for an unfair decision, judgment, or treatment when the emphasis is on lack of fairness rather than personal favoritism."
+    }
+  ],
   "traditional": "唔公道",
   "jyutping": "m4 gung1 dou6",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "unfair",
-      "english": [
-        {
-          "id": "njw79k2y",
-          "word": "unfair",
-          "meaning": "not fair, unjust",
-          "register": "colloquial",
-          "note": "Pick this especially when judging unfair treatment, a deal, or someone’s conduct as unjust."
-        },
-        {
-          "id": "kctlee4i",
-          "word": "partial",
-          "meaning": "biased, unfair",
-          "register": "colloquial",
-          "note": "Use this for an unfair decision, judgment, or treatment when the emphasis is on lack of fairness rather than personal favoritism."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "The way you treat the newcomer is really unfair.",
-          "traditional": "你咁樣對個新人，真係唔公道。",
-          "jyutping": "nei5 gam2 joeng2 deoi3 go3 san1 jan4 zan1 hai6 m4 gung1 dou6"
-        },
-        {
-          "english": "This verdict is partial and unfair to him.",
-          "traditional": "呢個判決對佢唔公道。",
-          "jyutping": "ni1 go3 pun3 kyut3 deoi3 keoi5 m4 gung1 dou6"
-        }
-      ]
+      "english": "The way you treat the newcomer is really unfair.",
+      "traditional": "你咁樣對個新人，真係唔公道。",
+      "jyutping": "nei5 gam2 joeng2 deoi3 go3 san1 jan4 zan1 hai6 m4 gung1 dou6"
+    },
+    {
+      "english": "This verdict is partial and unfair to him.",
+      "traditional": "呢個判決對佢唔公道。",
+      "jyutping": "ni1 go3 pun3 kyut3 deoi3 keoi5 m4 gung1 dou6"
     }
   ]
 }

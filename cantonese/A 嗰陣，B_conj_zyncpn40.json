@@ -1,38 +1,34 @@
 {
   "id": "zyncpn40",
   "partOfSpeech": "conj",
+  "meaning": "when / while A happens",
+  "english": [
+    {
+      "id": "5jrzt3oz",
+      "word": "while",
+      "meaning": "at the same time",
+      "register": "colloquial",
+      "note": "This is the all-purpose spoken construction for saying that B happens during the time of A."
+    },
+    {
+      "id": "e2mha73l",
+      "word": "as",
+      "meaning": "when",
+      "note": "Use this when one event happens or continues during the time of another event."
+    }
+  ],
   "traditional": "A 嗰陣，B",
   "jyutping": "A go2 zan6 B",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "when / while A happens",
-      "english": [
-        {
-          "id": "5jrzt3oz",
-          "word": "while",
-          "meaning": "at the same time",
-          "register": "colloquial",
-          "note": "This is the all-purpose spoken construction for saying that B happens during the time of A."
-        },
-        {
-          "id": "e2mha73l",
-          "word": "as",
-          "meaning": "when",
-          "note": "Use this when one event happens or continues during the time of another event."
-        }
-      ],
-      "examples": [
-        {
-          "english": "While I’m at work, help me look after the kid.",
-          "traditional": "我返工嗰陣，你幫我睇住個仔。",
-          "jyutping": "ngo5 faan1 gung1 go2 zan6 nei5 bong1 ngo5 tai2 zyu6 go3 zai2"
-        },
-        {
-          "english": "Mum had just finished cooking as I got home.",
-          "traditional": "我返到屋企嗰陣，阿媽啱啱煮好飯。",
-          "jyutping": "ngo5 faan1 dou3 uk1 kei2 go2 zan6 aa3 maa1 ngaam1 ngaam1 zyu2 hou2 faan6"
-        }
-      ]
+      "english": "While I’m at work, help me look after the kid.",
+      "traditional": "我返工嗰陣，你幫我睇住個仔。",
+      "jyutping": "ngo5 faan1 gung1 go2 zan6 nei5 bong1 ngo5 tai2 zyu6 go3 zai2"
+    },
+    {
+      "english": "Mum had just finished cooking as I got home.",
+      "traditional": "我返到屋企嗰陣，阿媽啱啱煮好飯。",
+      "jyutping": "ngo5 faan1 dou3 uk1 kei2 go2 zan6 aa3 maa1 ngaam1 ngaam1 zyu2 hou2 faan6"
     }
   ]
 }

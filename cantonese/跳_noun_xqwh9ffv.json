@@ -1,28 +1,24 @@
 {
   "id": "xqwh9ffv",
   "partOfSpeech": "noun",
+  "meaning": "jumping movement",
+  "english": [
+    {
+      "id": "q9jebgrt",
+      "word": "leap",
+      "meaning": "jumping movement",
+      "register": "colloquial",
+      "note": "This is the colloquial all-purpose noun for a jumping movement."
+    }
+  ],
   "traditional": "跳",
   "jyutping": "tiu3",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "jumping movement",
-      "english": [
-        {
-          "id": "q9jebgrt",
-          "word": "leap",
-          "meaning": "jumping movement",
-          "register": "colloquial",
-          "note": "This is the colloquial all-purpose noun for a jumping movement."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "He got onto the table with one leap.",
-          "traditional": "佢一個跳就跳咗上張枱。",
-          "jyutping": "keoi5 jat1 go3 tiu3 zau6 tiu3 zo2 soeng5 zoeng1 toi4"
-        }
-      ]
+      "english": "He got onto the table with one leap.",
+      "traditional": "佢一個跳就跳咗上張枱。",
+      "jyutping": "keoi5 jat1 go3 tiu3 zau6 tiu3 zo2 soeng5 zoeng1 toi4"
     }
   ]
 }

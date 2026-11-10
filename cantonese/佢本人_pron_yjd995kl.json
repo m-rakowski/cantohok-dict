@@ -1,28 +1,24 @@
 {
   "id": "yjd995kl",
   "partOfSpeech": "pron",
+  "meaning": "emphatic feminine pronoun",
+  "english": [
+    {
+      "id": "emylcjkx",
+      "word": "herself",
+      "meaning": "emphatic feminine pronoun",
+      "register": "formal",
+      "note": "Use this for deliberate or formal emphasis on her personal involvement or identity, rather than for an ordinary reflexive object."
+    }
+  ],
   "traditional": "佢本人",
   "jyutping": "keoi5 bun2 jan4",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "emphatic feminine pronoun",
-      "english": [
-        {
-          "id": "emylcjkx",
-          "word": "herself",
-          "meaning": "emphatic feminine pronoun",
-          "register": "formal",
-          "note": "Use this for deliberate or formal emphasis on her personal involvement or identity, rather than for an ordinary reflexive object."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "This statement was issued by herself personally.",
-          "traditional": "呢份聲明係佢本人親自發表嘅。",
-          "jyutping": "ni1 fan6 sing1 ming4 hai6 keoi5 bun2 jan4 can1 zi6 faat3 biu2 ge3"
-        }
-      ]
+      "english": "This statement was issued by herself personally.",
+      "traditional": "呢份聲明係佢本人親自發表嘅。",
+      "jyutping": "ni1 fan6 sing1 ming4 hai6 keoi5 bun2 jan4 can1 zi6 faat3 biu2 ge3"
     }
   ]
 }

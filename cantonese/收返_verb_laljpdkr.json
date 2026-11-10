@@ -1,38 +1,34 @@
 {
   "id": "laljpdkr",
   "partOfSpeech": "verb",
+  "meaning": "take back",
+  "english": [
+    {
+      "id": "1say23ka",
+      "word": "withdraw",
+      "meaning": "take back / retract",
+      "register": "colloquial",
+      "note": "Use 收返 as the all-purpose choice when physically pulling something back or taking back something previously given or allowed."
+    },
+    {
+      "id": "3tt15f49",
+      "word": "recall",
+      "meaning": "retract words",
+      "note": "Use this when withdrawing words or taking back an order in ordinary speech."
+    }
+  ],
   "traditional": "收返",
   "jyutping": "sau1 faan1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "take back",
-      "english": [
-        {
-          "id": "1say23ka",
-          "word": "withdraw",
-          "meaning": "take back / retract",
-          "register": "colloquial",
-          "note": "Use 收返 as the all-purpose choice when physically pulling something back or taking back something previously given or allowed."
-        },
-        {
-          "id": "3tt15f49",
-          "word": "recall",
-          "meaning": "retract words",
-          "note": "Use this when withdrawing words or taking back an order in ordinary speech."
-        }
-      ],
-      "examples": [
-        {
-          "english": "When a car comes too close, I immediately withdraw my foot.",
-          "traditional": "架車埋到嚟，我就即刻收返隻腳。",
-          "jyutping": "gaa3 ce1 maai4 dou3 lai4 ngo5 zau6 zik1 hak1 sau1 faan1 zek3 goek3"
-        },
-        {
-          "english": "I recall what I just said.",
-          "traditional": "我收返頭先嗰句說話。",
-          "jyutping": "ngo5 sau1 faan1 tau4 sin1 go2 geoi3 syut3 waa6"
-        }
-      ]
+      "english": "When a car comes too close, I immediately withdraw my foot.",
+      "traditional": "架車埋到嚟，我就即刻收返隻腳。",
+      "jyutping": "gaa3 ce1 maai4 dou3 lai4 ngo5 zau6 zik1 hak1 sau1 faan1 zek3 goek3"
+    },
+    {
+      "english": "I recall what I just said.",
+      "traditional": "我收返頭先嗰句說話。",
+      "jyutping": "ngo5 sau1 faan1 tau4 sin1 go2 geoi3 syut3 waa6"
     }
   ]
 }

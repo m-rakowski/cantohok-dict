@@ -1,28 +1,24 @@
 {
   "id": "ggkir2g3",
   "partOfSpeech": "adj",
+  "meaning": "completely without money",
+  "english": [
+    {
+      "id": "wnt52isf",
+      "word": "penniless",
+      "meaning": "completely without money",
+      "register": "written",
+      "note": "Use this when you want to stress that the person has not even the smallest amount of money."
+    }
+  ],
   "traditional": "身無分文",
   "jyutping": "san1 mou4 fan1 man4",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "completely without money",
-      "english": [
-        {
-          "id": "wnt52isf",
-          "word": "penniless",
-          "meaning": "completely without money",
-          "register": "written",
-          "note": "Use this when you want to stress that the person has not even the smallest amount of money."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "They left that city penniless.",
-          "traditional": "佢離開嗰個城市時，身無分文。",
-          "jyutping": "keoi5 lei4 hoi1 go2 go3 sing4 si5 si4 san1 mou4 fan1 man4"
-        }
-      ]
+      "english": "They left that city penniless.",
+      "traditional": "佢離開嗰個城市時，身無分文。",
+      "jyutping": "keoi5 lei4 hoi1 go2 go3 sing4 si5 si4 san1 mou4 fan1 man4"
     }
   ]
 }

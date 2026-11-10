@@ -1,28 +1,24 @@
 {
   "id": "1i64t7rj",
   "partOfSpeech": "verb",
+  "meaning": "still stands",
+  "english": [
+    {
+      "id": "181l41xc",
+      "word": "stand",
+      "meaning": "still stands",
+      "register": "colloquial",
+      "note": "Use this for a promise, statement, rule, or decision that still counts or remains binding."
+    }
+  ],
   "traditional": "仲算數",
   "jyutping": "zung6 syun3 sou3",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "still stands",
-      "english": [
-        {
-          "id": "181l41xc",
-          "word": "stand",
-          "meaning": "still stands",
-          "register": "colloquial",
-          "note": "Use this for a promise, statement, rule, or decision that still counts or remains binding."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "This agreement continues to stand.",
-          "traditional": "呢個約定到而家仲算數",
-          "jyutping": "ni1 go3 joek3 ding6 dou3 ji4 gaa1 zung6 syun3 sou3"
-        }
-      ]
+      "english": "This agreement continues to stand.",
+      "traditional": "呢個約定到而家仲算數",
+      "jyutping": "ni1 go3 joek3 ding6 dou3 ji4 gaa1 zung6 syun3 sou3"
     }
   ]
 }

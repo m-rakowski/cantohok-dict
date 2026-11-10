@@ -1,28 +1,24 @@
 {
   "id": "66qty78s",
   "partOfSpeech": "noun",
+  "meaning": "group of buildings",
+  "english": [
+    {
+      "id": "wnz2t28w",
+      "word": "compound",
+      "meaning": "group of buildings",
+      "register": "formal",
+      "note": "Use this for a close group of buildings such as a school or office complex."
+    }
+  ],
   "traditional": "建築群",
   "jyutping": "gin3 zuk1 kwan4",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "group of buildings",
-      "english": [
-        {
-          "id": "wnz2t28w",
-          "word": "compound",
-          "meaning": "group of buildings",
-          "register": "formal",
-          "note": "Use this for a close group of buildings such as a school or office complex."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "This building compound includes a school and a library.",
-          "traditional": "呢個建築群包括學校同圖書館。",
-          "jyutping": "ni1 go3 gin3 zuk1 kwan4 baau1 kut3 hok6 haau6 tung4 tou4 syu1 gun2"
-        }
-      ]
+      "english": "This building compound includes a school and a library.",
+      "traditional": "呢個建築群包括學校同圖書館。",
+      "jyutping": "ni1 go3 gin3 zuk1 kwan4 baau1 kut3 hok6 haau6 tung4 tou4 syu1 gun2"
     }
   ]
 }

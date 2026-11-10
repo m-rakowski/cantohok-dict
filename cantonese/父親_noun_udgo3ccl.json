@@ -1,28 +1,24 @@
 {
   "id": "udgo3ccl",
   "partOfSpeech": "noun",
+  "meaning": "male parent",
+  "english": [
+    {
+      "id": "0ihlgfcw",
+      "word": "father",
+      "meaning": "male parent",
+      "register": "formal",
+      "note": "Use 父親 in formal or written contexts rather than everyday 爸爸."
+    }
+  ],
   "traditional": "父親",
   "jyutping": "fu6 can1",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "male parent",
-      "english": [
-        {
-          "id": "0ihlgfcw",
-          "word": "father",
-          "meaning": "male parent",
-          "register": "formal",
-          "note": "Use 父親 in formal or written contexts rather than everyday 爸爸."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The father must sign the application form.",
-          "traditional": "申請表要由父親簽名。",
-          "jyutping": "san1 cing2 biu2 jiu3 jau4 fu6 can1 cim1 meng4"
-        }
-      ]
+      "english": "The father must sign the application form.",
+      "traditional": "申請表要由父親簽名。",
+      "jyutping": "san1 cing2 biu2 jiu3 jau4 fu6 can1 cim1 meng4"
     }
   ]
 }

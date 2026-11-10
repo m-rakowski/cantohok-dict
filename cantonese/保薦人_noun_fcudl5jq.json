@@ -1,28 +1,24 @@
 {
   "id": "fcudl5jq",
   "partOfSpeech": "noun",
+  "meaning": "supporter / guarantor",
+  "english": [
+    {
+      "id": "o64u3170",
+      "word": "sponsor",
+      "meaning": "supporter / guarantor",
+      "register": "formal",
+      "note": "Use this for someone who recommends or formally backs an applicant, such as for membership or an application, rather than someone funding an event."
+    }
+  ],
   "traditional": "保薦人",
   "jyutping": "bou2 zin3 jan4",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "supporter / guarantor",
-      "english": [
-        {
-          "id": "o64u3170",
-          "word": "sponsor",
-          "meaning": "supporter / guarantor",
-          "register": "formal",
-          "note": "Use this for someone who recommends or formally backs an applicant, such as for membership or an application, rather than someone funding an event."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "A sponsor must sign this application form.",
-          "traditional": "呢份申請書要有保薦人簽署。",
-          "jyutping": "ni1 fan6 san1 cing2 syu1 jiu3 jau5 bou2 zin3 jan4 cim1 cyu5"
-        }
-      ]
+      "english": "A sponsor must sign this application form.",
+      "traditional": "呢份申請書要有保薦人簽署。",
+      "jyutping": "ni1 fan6 san1 cing2 syu1 jiu3 jau5 bou2 zin3 jan4 cim1 cyu5"
     }
   ]
 }

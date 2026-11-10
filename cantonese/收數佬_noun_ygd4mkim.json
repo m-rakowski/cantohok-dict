@@ -1,28 +1,24 @@
 {
   "id": "ygd4mkim",
   "partOfSpeech": "noun",
+  "meaning": "payment collector",
+  "english": [
+    {
+      "id": "rfhwedg9",
+      "word": "collector",
+      "meaning": "payment collector",
+      "register": "colloquial",
+      "note": "Use this colloquial term specifically for someone collecting debts or overdue money."
+    }
+  ],
   "traditional": "收數佬",
   "jyutping": "sau1 sou3 lou2",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "payment collector",
-      "english": [
-        {
-          "id": "rfhwedg9",
-          "word": "collector",
-          "meaning": "payment collector",
-          "register": "colloquial",
-          "note": "Use this colloquial term specifically for someone collecting debts or overdue money."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "The collector called again to chase the overdue money.",
-          "traditional": "收數佬又打電話嚟催錢。",
-          "jyutping": "sau1 sou3 lou2 jau6 daa2 din6 waa2 lei4 ceoi1 cin2"
-        }
-      ]
+      "english": "The collector called again to chase the overdue money.",
+      "traditional": "收數佬又打電話嚟催錢。",
+      "jyutping": "sau1 sou3 lou2 jau6 daa2 din6 waa2 lei4 ceoi1 cin2"
     }
   ]
 }

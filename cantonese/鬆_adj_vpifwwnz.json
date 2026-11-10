@@ -1,37 +1,33 @@
 {
   "id": "vpifwwnz",
   "partOfSpeech": "adj",
+  "meaning": "loose",
+  "english": [
+    {
+      "id": "zq4z77pm",
+      "word": "loose",
+      "meaning": "not fixed firmly",
+      "note": "This is the all-purpose choice for something that is not firmly fixed, not tight-fitting, or loose in texture."
+    },
+    {
+      "id": "r5qe4fgo",
+      "word": "slack",
+      "meaning": "not tight",
+      "note": "Use this as the all-purpose choice when something physical is loose, lax, or not pulled tight."
+    }
+  ],
   "traditional": "鬆",
   "jyutping": "sung1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "loose",
-      "english": [
-        {
-          "id": "zq4z77pm",
-          "word": "loose",
-          "meaning": "not fixed firmly",
-          "note": "This is the all-purpose choice for something that is not firmly fixed, not tight-fitting, or loose in texture."
-        },
-        {
-          "id": "r5qe4fgo",
-          "word": "slack",
-          "meaning": "not tight",
-          "note": "Use this as the all-purpose choice when something physical is loose, lax, or not pulled tight."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This shirt is too loose.",
-          "traditional": "呢件衫太鬆喇。",
-          "jyutping": "ni1 gin6 saam1 taai3 sung1 laa3"
-        },
-        {
-          "english": "This rope is not pulled tight; it is still slack.",
-          "traditional": "呢條繩未拉實，仲有啲鬆。",
-          "jyutping": "ni1 tiu4 sing4 mei6 laai1 sat6 zung6 jau5 di1 sung1"
-        }
-      ]
+      "english": "This shirt is too loose.",
+      "traditional": "呢件衫太鬆喇。",
+      "jyutping": "ni1 gin6 saam1 taai3 sung1 laa3"
+    },
+    {
+      "english": "This rope is not pulled tight; it is still slack.",
+      "traditional": "呢條繩未拉實，仲有啲鬆。",
+      "jyutping": "ni1 tiu4 sing4 mei6 laai1 sat6 zung6 jau5 di1 sung1"
     }
   ]
 }

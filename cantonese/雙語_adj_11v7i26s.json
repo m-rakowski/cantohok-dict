@@ -1,28 +1,24 @@
 {
   "id": "11v7i26s",
   "partOfSpeech": "adj",
+  "meaning": "in two languages",
+  "english": [
+    {
+      "id": "p18hmyl5",
+      "word": "bilingual",
+      "meaning": "in two languages",
+      "register": "written",
+      "note": "Use this concise term for things presented or conducted in two languages."
+    }
+  ],
   "traditional": "雙語",
   "jyutping": "soeng1 jyu5",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "in two languages",
-      "english": [
-        {
-          "id": "p18hmyl5",
-          "word": "bilingual",
-          "meaning": "in two languages",
-          "register": "written",
-          "note": "Use this concise term for things presented or conducted in two languages."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "The station provides bilingual service to make things easier for tourists.",
-          "traditional": "車站提供雙語服務，方便遊客。",
-          "jyutping": "ce1 zaam6 tai4 gung1 soeng1 jyu5 fuk6 mou6 fong1 bin6 jau4 haak3"
-        }
-      ]
+      "english": "The station provides bilingual service to make things easier for tourists.",
+      "traditional": "車站提供雙語服務，方便遊客。",
+      "jyutping": "ce1 zaam6 tai4 gung1 soeng1 jyu5 fuk6 mou6 fong1 bin6 jau4 haak3"
     }
   ]
 }

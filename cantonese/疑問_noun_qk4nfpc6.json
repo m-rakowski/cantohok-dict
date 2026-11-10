@@ -1,48 +1,44 @@
 {
   "id": "qk4nfpc6",
   "partOfSpeech": "noun",
+  "meaning": "doubt, question",
+  "english": [
+    {
+      "id": "wlcsl8iw",
+      "word": "uncertainty",
+      "meaning": "doubt; lack of conviction",
+      "note": "This is the all-purpose noun for having doubts or lacking conviction about something."
+    },
+    {
+      "id": "86pvdpoc",
+      "word": "question",
+      "meaning": "asking sentence / interrogative",
+      "note": "Use 疑問 when emphasizing an unresolved doubt or a question someone still has, rather than a general issue."
+    },
+    {
+      "id": "b339p703",
+      "word": "doubt",
+      "meaning": "uncertainty; doubts",
+      "note": "Use this when the doubt is an unresolved question or uncertainty about an issue."
+    }
+  ],
   "traditional": "疑問",
   "jyutping": "ji4 man6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "doubt, question",
-      "english": [
-        {
-          "id": "wlcsl8iw",
-          "word": "uncertainty",
-          "meaning": "doubt; lack of conviction",
-          "note": "This is the all-purpose noun for having doubts or lacking conviction about something."
-        },
-        {
-          "id": "86pvdpoc",
-          "word": "question",
-          "meaning": "asking sentence / interrogative",
-          "note": "Use 疑問 when emphasizing an unresolved doubt or a question someone still has, rather than a general issue."
-        },
-        {
-          "id": "b339p703",
-          "word": "doubt",
-          "meaning": "uncertainty; doubts",
-          "note": "Use this when the doubt is an unresolved question or uncertainty about an issue."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I still have uncertainty about this decision.",
-          "traditional": "我對呢個決定仲有疑問。",
-          "jyutping": "ngo5 deoi3 ni1 go3 kyut3 ding6 zung6 jau5 ji4 man6"
-        },
-        {
-          "english": "This answer still leaves me with a question.",
-          "traditional": "呢個答案令我仲有疑問。",
-          "jyutping": "ni1 go3 daap3 on3 ling6 ngo5 zung6 jau5 ji4 man6"
-        },
-        {
-          "english": "I still have a doubt about this matter.",
-          "traditional": "呢件事我仲有疑問。",
-          "jyutping": "ni1 gin6 si6 ngo5 zung6 jau5 ji4 man6"
-        }
-      ]
+      "english": "I still have uncertainty about this decision.",
+      "traditional": "我對呢個決定仲有疑問。",
+      "jyutping": "ngo5 deoi3 ni1 go3 kyut3 ding6 zung6 jau5 ji4 man6"
+    },
+    {
+      "english": "This answer still leaves me with a question.",
+      "traditional": "呢個答案令我仲有疑問。",
+      "jyutping": "ni1 go3 daap3 on3 ling6 ngo5 zung6 jau5 ji4 man6"
+    },
+    {
+      "english": "I still have a doubt about this matter.",
+      "traditional": "呢件事我仲有疑問。",
+      "jyutping": "ni1 gin6 si6 ngo5 zung6 jau5 ji4 man6"
     }
   ]
 }

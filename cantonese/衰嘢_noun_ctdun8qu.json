@@ -1,40 +1,36 @@
 {
   "id": "ctdun8qu",
   "partOfSpeech": "noun",
+  "meaning": "bad or wicked deed",
+  "english": [
+    {
+      "id": "ghf9zkk1",
+      "word": "outrage",
+      "meaning": "offensive or immoral act",
+      "register": "colloquial",
+      "note": "Use this colloquially for an offensive, immoral, or otherwise bad act."
+    },
+    {
+      "id": "vz85ogtq",
+      "word": "evil",
+      "meaning": "evil, wickedness",
+      "register": "colloquial",
+      "note": "Use this colloquial noun for a particular wicked act, bad thing, or piece of wrongdoing rather than abstract moral evil."
+    }
+  ],
   "traditional": "衰嘢",
   "jyutping": "seoi1 je5",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "bad or wicked deed",
-      "english": [
-        {
-          "id": "ghf9zkk1",
-          "word": "outrage",
-          "meaning": "offensive or immoral act",
-          "register": "colloquial",
-          "note": "Use this colloquially for an offensive, immoral, or otherwise bad act."
-        },
-        {
-          "id": "vz85ogtq",
-          "word": "evil",
-          "meaning": "evil, wickedness",
-          "register": "colloquial",
-          "note": "Use this colloquial noun for a particular wicked act, bad thing, or piece of wrongdoing rather than abstract moral evil."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "Stealing an old person's money is a really bad act and causes outrage.",
-          "traditional": "你偷老人家啲錢，真係衰嘢。",
-          "jyutping": "nei5 tau1 lou5 jan4 gaa1 di1 cin4 zan1 hai6 seoi1 je5"
-        },
-        {
-          "english": "Stealing money is evil; you can't do it again.",
-          "traditional": "偷錢呢啲衰嘢，你唔可以再做喇。",
-          "jyutping": "tau1 cin2 ni1 di1 seoi1 je5 nei5 m4 ho2 ji5 zoi3 zou6 laa3"
-        }
-      ]
+      "english": "Stealing an old person's money is a really bad act and causes outrage.",
+      "traditional": "你偷老人家啲錢，真係衰嘢。",
+      "jyutping": "nei5 tau1 lou5 jan4 gaa1 di1 cin4 zan1 hai6 seoi1 je5"
+    },
+    {
+      "english": "Stealing money is evil; you can't do it again.",
+      "traditional": "偷錢呢啲衰嘢，你唔可以再做喇。",
+      "jyutping": "tau1 cin2 ni1 di1 seoi1 je5 nei5 m4 ho2 ji5 zoi3 zou6 laa3"
     }
   ]
 }

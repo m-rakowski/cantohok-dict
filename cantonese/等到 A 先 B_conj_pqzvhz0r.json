@@ -1,26 +1,22 @@
 {
   "id": "pqzvhz0r",
   "partOfSpeech": "conj",
+  "meaning": "up to time that",
+  "english": [
+    {
+      "id": "wreskdd4",
+      "word": "until",
+      "meaning": "up to time that",
+      "note": "Use this when the main action is deliberately delayed while waiting for A."
+    }
+  ],
   "traditional": "等到 A 先 B",
   "jyutping": "dang2 dou3 A sin1 B",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "up to time that",
-      "english": [
-        {
-          "id": "wreskdd4",
-          "word": "until",
-          "meaning": "up to time that",
-          "note": "Use this when the main action is deliberately delayed while waiting for A."
-        }
-      ],
-      "examples": [
-        {
-          "english": "We'll wait until the rain stops before going out.",
-          "traditional": "等到雨停先出街。",
-          "jyutping": "dang2 dou3 jyu5 ting4 sin1 ceot1 gaai1"
-        }
-      ]
+      "english": "We'll wait until the rain stops before going out.",
+      "traditional": "等到雨停先出街。",
+      "jyutping": "dang2 dou3 jyu5 ting4 sin1 ceot1 gaai1"
     }
   ]
 }

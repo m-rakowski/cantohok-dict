@@ -1,28 +1,24 @@
 {
   "id": "16mib20v",
   "partOfSpeech": "noun",
+  "meaning": "medical prescription",
+  "english": [
+    {
+      "id": "e7wi4mox",
+      "word": "prescription",
+      "meaning": "medical prescription",
+      "register": "formal",
+      "note": "Use this instead of 藥單 in formal or clinical language for the written medical order, including an eyeglass prescription."
+    }
+  ],
   "traditional": "處方",
   "jyutping": "cyu2 fong1",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "medical prescription",
-      "english": [
-        {
-          "id": "e7wi4mox",
-          "word": "prescription",
-          "meaning": "medical prescription",
-          "register": "formal",
-          "note": "Use this instead of 藥單 in formal or clinical language for the written medical order, including an eyeglass prescription."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The optometrist has made the glasses according to the prescription.",
-          "traditional": "驗眼師已經按照處方配好副眼鏡。",
-          "jyutping": "jim6 ngaan5 si1 ji5 ging1 on3 ziu3 cyu2 fong1 pui3 hou2 fu3 ngaan5 geng2"
-        }
-      ]
+      "english": "The optometrist has made the glasses according to the prescription.",
+      "traditional": "驗眼師已經按照處方配好副眼鏡。",
+      "jyutping": "jim6 ngaan5 si1 ji5 ging1 on3 ziu3 cyu2 fong1 pui3 hou2 fu3 ngaan5 geng2"
     }
   ]
 }

@@ -1,38 +1,34 @@
 {
   "id": "lnbzayfz",
   "partOfSpeech": "adj",
+  "meaning": "dizzy",
+  "english": [
+    {
+      "id": "4tt1rqkr",
+      "word": "dizzy",
+      "meaning": "feeling lightheaded",
+      "register": "colloquial",
+      "note": "Use this shorter form when the context is clear, sometimes suggesting stronger dizziness or that you may faint."
+    },
+    {
+      "id": "4cj7h9br",
+      "word": "stunning",
+      "meaning": "causing stun",
+      "note": "Use this for an effect that makes someone dizzy or stunned, rather than for something attractive or excellent."
+    }
+  ],
   "traditional": "暈",
   "jyutping": "wan4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "dizzy",
-      "english": [
-        {
-          "id": "4tt1rqkr",
-          "word": "dizzy",
-          "meaning": "feeling lightheaded",
-          "register": "colloquial",
-          "note": "Use this shorter form when the context is clear, sometimes suggesting stronger dizziness or that you may faint."
-        },
-        {
-          "id": "4cj7h9br",
-          "word": "stunning",
-          "meaning": "causing stun",
-          "note": "Use this for an effect that makes someone dizzy or stunned, rather than for something attractive or excellent."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I'm so dizzy I can hardly stand.",
-          "traditional": "暈到企唔穩喇。",
-          "jyutping": "wan4 dou3 kei5 m4 wan2 laa3"
-        },
-        {
-          "english": "The flashing light is stunning me.",
-          "traditional": "呢盞燈閃到我暈晒。",
-          "jyutping": "ni1 zaan2 dang1 sim2 dou3 ngo5 wan4 saai3"
-        }
-      ]
+      "english": "I'm so dizzy I can hardly stand.",
+      "traditional": "暈到企唔穩喇。",
+      "jyutping": "wan4 dou3 kei5 m4 wan2 laa3"
+    },
+    {
+      "english": "The flashing light is stunning me.",
+      "traditional": "呢盞燈閃到我暈晒。",
+      "jyutping": "ni1 zaan2 dang1 sim2 dou3 ngo5 wan4 saai3"
     }
   ]
 }

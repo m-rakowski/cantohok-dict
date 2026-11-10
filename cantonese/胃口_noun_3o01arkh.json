@@ -1,37 +1,33 @@
 {
   "id": "3o01arkh",
   "partOfSpeech": "noun",
+  "meaning": "appetite",
+  "english": [
+    {
+      "id": "vfuqfco4",
+      "word": "appetite",
+      "meaning": "desire to eat",
+      "note": "This is the all-purpose everyday Cantonese noun for a desire to eat or drink."
+    },
+    {
+      "id": "2qkw6md5",
+      "word": "stomach",
+      "meaning": "appetite / inclination",
+      "note": "Use this for appetite or a taste for food and, by extension, other things."
+    }
+  ],
   "traditional": "胃口",
   "jyutping": "wai6 hau2",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "appetite",
-      "english": [
-        {
-          "id": "vfuqfco4",
-          "word": "appetite",
-          "meaning": "desire to eat",
-          "note": "This is the all-purpose everyday Cantonese noun for a desire to eat or drink."
-        },
-        {
-          "id": "2qkw6md5",
-          "word": "stomach",
-          "meaning": "appetite / inclination",
-          "note": "Use this for appetite or a taste for food and, by extension, other things."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I don't have much appetite today.",
-          "traditional": "我今日冇乜胃口。",
-          "jyutping": "ngo5 gam1 jat6 mou5 mat1 wai6 hau2"
-        },
-        {
-          "english": "I don't have much stomach for food today.",
-          "traditional": "今日太熱，我冇乜胃口。",
-          "jyutping": "gam1 jat6 taai3 jit6 ngo5 mou5 mat1 wai6 hau2"
-        }
-      ]
+      "english": "I don't have much appetite today.",
+      "traditional": "我今日冇乜胃口。",
+      "jyutping": "ngo5 gam1 jat6 mou5 mat1 wai6 hau2"
+    },
+    {
+      "english": "I don't have much stomach for food today.",
+      "traditional": "今日太熱，我冇乜胃口。",
+      "jyutping": "gam1 jat6 taai3 jit6 ngo5 mou5 mat1 wai6 hau2"
     }
   ]
 }

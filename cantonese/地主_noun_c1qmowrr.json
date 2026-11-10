@@ -1,26 +1,22 @@
 {
   "id": "c1qmowrr",
   "partOfSpeech": "noun",
+  "meaning": "property owner/renter",
+  "english": [
+    {
+      "id": "rn54pugm",
+      "word": "landlord",
+      "meaning": "property owner/renter",
+      "note": "Use this for a landowner or traditional landlord associated with land or an estate, rather than the usual landlord of a rented flat."
+    }
+  ],
   "traditional": "地主",
   "jyutping": "dei6 zyu2",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "property owner/renter",
-      "english": [
-        {
-          "id": "rn54pugm",
-          "word": "landlord",
-          "meaning": "property owner/renter",
-          "note": "Use this for a landowner or traditional landlord associated with land or an estate, rather than the usual landlord of a rented flat."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The landlord used to own this whole tract of land.",
-          "traditional": "以前成幅地都係個地主嘅。",
-          "jyutping": "ji5 cin4 seng4 fuk1 dei6 dou1 hai6 go3 dei6 zyu2 ge3"
-        }
-      ]
+      "english": "The landlord used to own this whole tract of land.",
+      "traditional": "以前成幅地都係個地主嘅。",
+      "jyutping": "ji5 cin4 seng4 fuk1 dei6 dou1 hai6 go3 dei6 zyu2 ge3"
     }
   ]
 }

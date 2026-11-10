@@ -1,28 +1,24 @@
 {
   "id": "hnrg90qz",
   "partOfSpeech": "adj",
+  "meaning": "away; not present",
+  "english": [
+    {
+      "id": "mwgerqqd",
+      "word": "absent",
+      "meaning": "away; not present",
+      "register": "formal",
+      "note": "Use this for absence from a meeting, class, event, or other official attendance context."
+    }
+  ],
   "traditional": "缺席",
   "jyutping": "kyut3 zik6",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "away; not present",
-      "english": [
-        {
-          "id": "mwgerqqd",
-          "word": "absent",
-          "meaning": "away; not present",
-          "register": "formal",
-          "note": "Use this for absence from a meeting, class, event, or other official attendance context."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "They were absent from the meeting today because of illness.",
-          "traditional": "佢今日因病缺席會議。",
-          "jyutping": "keoi5 gam1 jat6 jan1 beng6 kyut3 zik6 wui6 ji5"
-        }
-      ]
+      "english": "They were absent from the meeting today because of illness.",
+      "traditional": "佢今日因病缺席會議。",
+      "jyutping": "keoi5 gam1 jat6 jan1 beng6 kyut3 zik6 wui6 ji5"
     }
   ]
 }

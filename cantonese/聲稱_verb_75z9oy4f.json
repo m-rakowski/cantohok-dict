@@ -1,74 +1,70 @@
 {
   "id": "75z9oy4f",
   "partOfSpeech": "verb",
+  "meaning": "claim, assert",
+  "english": [
+    {
+      "id": "abxq1ngf",
+      "word": "allege",
+      "meaning": "claim without proof",
+      "register": "formal",
+      "note": "Choose this when you want to explicitly present a claim as an allegation rather than an established fact."
+    },
+    {
+      "id": "7kzy170b",
+      "word": "profess",
+      "meaning": "declare, assert",
+      "register": "formal",
+      "note": "Use this as the all-purpose, formal-leaning verb for declaring or asserting a belief, opinion, or fact."
+    },
+    {
+      "id": "207oaivi",
+      "word": "claim",
+      "meaning": "state without proof",
+      "note": "Use this as the all-purpose verb for stating something as true without proving it."
+    },
+    {
+      "id": "ak7zvkm0",
+      "word": "assert",
+      "meaning": "state firmly",
+      "register": "written",
+      "note": "This is the all-purpose choice for neutrally reporting that someone states a claim or position."
+    },
+    {
+      "id": "9hncat3q",
+      "word": "maintain",
+      "meaning": "assert, claim",
+      "register": "formal",
+      "note": "Use this in more formal contexts when someone asserts or claims that a statement is true."
+    }
+  ],
   "traditional": "聲稱",
   "jyutping": "sing1 cing1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "claim, assert",
-      "english": [
-        {
-          "id": "abxq1ngf",
-          "word": "allege",
-          "meaning": "claim without proof",
-          "register": "formal",
-          "note": "Choose this when you want to explicitly present a claim as an allegation rather than an established fact."
-        },
-        {
-          "id": "7kzy170b",
-          "word": "profess",
-          "meaning": "declare, assert",
-          "register": "formal",
-          "note": "Use this as the all-purpose, formal-leaning verb for declaring or asserting a belief, opinion, or fact."
-        },
-        {
-          "id": "207oaivi",
-          "word": "claim",
-          "meaning": "state without proof",
-          "note": "Use this as the all-purpose verb for stating something as true without proving it."
-        },
-        {
-          "id": "ak7zvkm0",
-          "word": "assert",
-          "meaning": "state firmly",
-          "register": "written",
-          "note": "This is the all-purpose choice for neutrally reporting that someone states a claim or position."
-        },
-        {
-          "id": "9hncat3q",
-          "word": "maintain",
-          "meaning": "assert, claim",
-          "register": "formal",
-          "note": "Use this in more formal contexts when someone asserts or claims that a statement is true."
-        }
-      ],
-      "examples": [
-        {
-          "english": "They allege that they were at home throughout the night of the incident, but they cannot provide any evidence.",
-          "traditional": "被告聲稱案發當晚一直留喺屋企，但未能提出任何證據。",
-          "jyutping": "bei6 gou3 sing1 cing1 on3 faat3 dong1 maan5 jat1 zik6 lau4 hai2 uk1 kei2 daan6 mei6 nang4 tai4 ceot1 jam6 ho4 zing3 geoi3"
-        },
-        {
-          "english": "They profess that they never received that money at the press conference.",
-          "traditional": "佢喺記者會上聲稱自己冇收過嗰筆錢。",
-          "jyutping": "keoi5 hai2 gei3 ze2 wui2 soeng5 sing1 cing1 zi6 gei2 mou5 sau1 gwo3 go2 bat1 cin4"
-        },
-        {
-          "english": "I claim this news is true.",
-          "traditional": "我聲稱呢個消息係真嘅。",
-          "jyutping": "ngo5 sing1 cing1 ni1 go3 siu1 sik1 hai6 zan1 ge3"
-        },
-        {
-          "english": "They assert at the press conference that they did not do it.",
-          "traditional": "佢喺記者會上聲稱自己冇做過呢件事。",
-          "jyutping": "keoi5 hai2 gei3 ze2 wui2 soeng6 sing1 cing1 zi6 gei2 mou5 zou6 gwo3 ni1 gin6 si6"
-        },
-        {
-          "english": "They maintain that the new system can maintain service stability.",
-          "traditional": "佢哋聲稱新系統可以維持服務穩定。",
-          "jyutping": "keoi5 dei6 sing1 cing1 san1 hai6 tung2 ho2 ji5 wai4 ci4 fuk6 mou6 wan2 ding6"
-        }
-      ]
+      "english": "They allege that they were at home throughout the night of the incident, but they cannot provide any evidence.",
+      "traditional": "被告聲稱案發當晚一直留喺屋企，但未能提出任何證據。",
+      "jyutping": "bei6 gou3 sing1 cing1 on3 faat3 dong1 maan5 jat1 zik6 lau4 hai2 uk1 kei2 daan6 mei6 nang4 tai4 ceot1 jam6 ho4 zing3 geoi3"
+    },
+    {
+      "english": "They profess that they never received that money at the press conference.",
+      "traditional": "佢喺記者會上聲稱自己冇收過嗰筆錢。",
+      "jyutping": "keoi5 hai2 gei3 ze2 wui2 soeng5 sing1 cing1 zi6 gei2 mou5 sau1 gwo3 go2 bat1 cin4"
+    },
+    {
+      "english": "I claim this news is true.",
+      "traditional": "我聲稱呢個消息係真嘅。",
+      "jyutping": "ngo5 sing1 cing1 ni1 go3 siu1 sik1 hai6 zan1 ge3"
+    },
+    {
+      "english": "They assert at the press conference that they did not do it.",
+      "traditional": "佢喺記者會上聲稱自己冇做過呢件事。",
+      "jyutping": "keoi5 hai2 gei3 ze2 wui2 soeng6 sing1 cing1 zi6 gei2 mou5 zou6 gwo3 ni1 gin6 si6"
+    },
+    {
+      "english": "They maintain that the new system can maintain service stability.",
+      "traditional": "佢哋聲稱新系統可以維持服務穩定。",
+      "jyutping": "keoi5 dei6 sing1 cing1 san1 hai6 tung2 ho2 ji5 wai4 ci4 fuk6 mou6 wan2 ding6"
     }
   ]
 }

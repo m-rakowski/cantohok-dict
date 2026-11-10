@@ -1,38 +1,34 @@
 {
   "id": "h5i1ip7k",
   "partOfSpeech": "adj",
+  "meaning": "unlucky, bad omen",
+  "english": [
+    {
+      "id": "godxace6",
+      "word": "disastrous",
+      "meaning": "ill-omened; foreboding disaster",
+      "register": "colloquial",
+      "note": "Use this when something is regarded as an ill omen or as foreboding bad luck."
+    },
+    {
+      "id": "i746v880",
+      "word": "unlucky",
+      "meaning": "bringing bad luck",
+      "note": "Use this when an object, event, or action is regarded as bringing bad luck or being an unlucky omen."
+    }
+  ],
   "traditional": "唔吉利",
   "jyutping": "m4 gat1 lei6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "unlucky, bad omen",
-      "english": [
-        {
-          "id": "godxace6",
-          "word": "disastrous",
-          "meaning": "ill-omened; foreboding disaster",
-          "register": "colloquial",
-          "note": "Use this when something is regarded as an ill omen or as foreboding bad luck."
-        },
-        {
-          "id": "i746v880",
-          "word": "unlucky",
-          "meaning": "bringing bad luck",
-          "note": "Use this when an object, event, or action is regarded as bringing bad luck or being an unlucky omen."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Breaking a vase before the wedding is a disastrous omen.",
-          "traditional": "婚禮前打爛個花樽，真係唔吉利。",
-          "jyutping": "fan1 lai5 cin4 daa2 laan6 go3 faa1 zeon1 zan1 hai6 m4 gat1 lei6"
-        },
-        {
-          "english": "Saying the word “death” at a wedding is unlucky.",
-          "traditional": "喺婚禮度講個死字好唔吉利。",
-          "jyutping": "hai2 fan1 lai5 dou6 gong2 go3 sei2 zi6 hou2 m4 gat1 lei6"
-        }
-      ]
+      "english": "Breaking a vase before the wedding is a disastrous omen.",
+      "traditional": "婚禮前打爛個花樽，真係唔吉利。",
+      "jyutping": "fan1 lai5 cin4 daa2 laan6 go3 faa1 zeon1 zan1 hai6 m4 gat1 lei6"
+    },
+    {
+      "english": "Saying the word “death” at a wedding is unlucky.",
+      "traditional": "喺婚禮度講個死字好唔吉利。",
+      "jyutping": "hai2 fan1 lai5 dou6 gong2 go3 sei2 zi6 hou2 m4 gat1 lei6"
     }
   ]
 }

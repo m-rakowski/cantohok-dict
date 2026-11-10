@@ -1,28 +1,24 @@
 {
   "id": "dz18oyim",
   "partOfSpeech": "noun",
+  "meaning": "intellectual, philosopher",
+  "english": [
+    {
+      "id": "qw3nfn92",
+      "word": "thinker",
+      "meaning": "intellectual, philosopher",
+      "register": "formal",
+      "note": "Use this for a recognised intellectual or philosopher rather than merely someone who thinks a lot."
+    }
+  ],
   "traditional": "思想家",
   "jyutping": "si1 soeng2 gaa1",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "intellectual, philosopher",
-      "english": [
-        {
-          "id": "qw3nfn92",
-          "word": "thinker",
-          "meaning": "intellectual, philosopher",
-          "register": "formal",
-          "note": "Use this for a recognised intellectual or philosopher rather than merely someone who thinks a lot."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "This thinker has many original views on freedom.",
-          "traditional": "呢位思想家對自由有好多獨到見解。",
-          "jyutping": "ni1 wai6 si1 soeng2 gaa1 deoi3 zi6 jau4 jau5 hou2 do1 duk6 dou3 gin3 gaai2"
-        }
-      ]
+      "english": "This thinker has many original views on freedom.",
+      "traditional": "呢位思想家對自由有好多獨到見解。",
+      "jyutping": "ni1 wai6 si1 soeng2 gaa1 deoi3 zi6 jau4 jau5 hou2 do1 duk6 dou3 gin3 gaai2"
     }
   ]
 }

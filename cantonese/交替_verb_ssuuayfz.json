@@ -1,28 +1,24 @@
 {
   "id": "ssuuayfz",
   "partOfSpeech": "verb",
+  "meaning": "vary by turns",
+  "english": [
+    {
+      "id": "dxt9nr0b",
+      "word": "alternate",
+      "meaning": "vary by turns",
+      "register": "formal",
+      "note": "Use this when events, states, or physical features replace one another in succession rather than when people simply take turns."
+    }
+  ],
   "traditional": "交替",
   "jyutping": "gaau1 tai3",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "vary by turns",
-      "english": [
-        {
-          "id": "dxt9nr0b",
-          "word": "alternate",
-          "meaning": "vary by turns",
-          "register": "formal",
-          "note": "Use this when events, states, or physical features replace one another in succession rather than when people simply take turns."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "Day and night alternate, and the seasons cycle.",
-          "traditional": "晝夜交替，四季循環。",
-          "jyutping": "zau3 je6 gaau1 tai3 sei3 gwai3 ceon4 waan4"
-        }
-      ]
+      "english": "Day and night alternate, and the seasons cycle.",
+      "traditional": "晝夜交替，四季循環。",
+      "jyutping": "zau3 je6 gaau1 tai3 sei3 gwai3 ceon4 waan4"
     }
   ]
 }

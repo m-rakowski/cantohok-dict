@@ -1,28 +1,24 @@
 {
   "id": "kp3uz1nj",
   "partOfSpeech": "verb",
+  "meaning": "drill / bore a hole",
+  "english": [
+    {
+      "id": "i0s8hal4",
+      "word": "bore",
+      "meaning": "drill / bore a hole",
+      "register": "formal",
+      "note": "Use this more technical term when emphasizing the drilling operation itself, such as drilling for water or oil."
+    }
+  ],
   "traditional": "鑽孔",
   "jyutping": "zyun3 hung2",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "drill / bore a hole",
-      "english": [
-        {
-          "id": "i0s8hal4",
-          "word": "bore",
-          "meaning": "drill / bore a hole",
-          "register": "formal",
-          "note": "Use this more technical term when emphasizing the drilling operation itself, such as drilling for water or oil."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The engineers need to bore first before they can extract oil.",
-          "traditional": "工程師要先鑽孔，先可以抽石油。",
-          "jyutping": "gung1 cing4 si1 jiu3 sin1 zyun3 hung2 sin1 ho2 ji5 cau1 sek6 jau4"
-        }
-      ]
+      "english": "The engineers need to bore first before they can extract oil.",
+      "traditional": "工程師要先鑽孔，先可以抽石油。",
+      "jyutping": "gung1 cing4 si1 jiu3 sin1 zyun3 hung2 sin1 ho2 ji5 cau1 sek6 jau4"
     }
   ]
 }

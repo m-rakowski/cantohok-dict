@@ -1,28 +1,24 @@
 {
   "id": "68hh3it1",
   "partOfSpeech": "noun",
+  "meaning": "street gang member",
+  "english": [
+    {
+      "id": "41pswget",
+      "word": "gangster",
+      "meaning": "street gang member",
+      "register": "colloquial",
+      "note": "This is the all-purpose colloquial choice for a street or criminal-gang member, including a lower-level gangster."
+    }
+  ],
   "traditional": "古惑仔",
   "jyutping": "gu2 waak6 zai2",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "street gang member",
-      "english": [
-        {
-          "id": "41pswget",
-          "word": "gangster",
-          "meaning": "street gang member",
-          "register": "colloquial",
-          "note": "This is the all-purpose colloquial choice for a street or criminal-gang member, including a lower-level gangster."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "That gangster is always collecting protection money in the back alley.",
-          "traditional": "嗰個古惑仔成日喺後巷收保護費。",
-          "jyutping": "go2 go3 gu2 waak6 zai2 seng4 jat6 hai2 hau6 hong2 sau1 bou2 wu6 fai3"
-        }
-      ]
+      "english": "That gangster is always collecting protection money in the back alley.",
+      "traditional": "嗰個古惑仔成日喺後巷收保護費。",
+      "jyutping": "go2 go3 gu2 waak6 zai2 seng4 jat6 hai2 hau6 hong2 sau1 bou2 wu6 fai3"
     }
   ]
 }

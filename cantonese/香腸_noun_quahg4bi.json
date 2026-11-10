@@ -1,37 +1,33 @@
 {
   "id": "quahg4bi",
   "partOfSpeech": "noun",
+  "meaning": "sausage",
+  "english": [
+    {
+      "id": "hr3ey6k4",
+      "word": "sausage",
+      "meaning": "food sausage",
+      "note": "This is the all-purpose term for sausage as food, including a single item."
+    },
+    {
+      "id": "czclljyv",
+      "word": "link",
+      "meaning": "sausage",
+      "note": "Use this for the ordinary sausage-shaped food rather than a patty."
+    }
+  ],
   "traditional": "香腸",
   "jyutping": "hoeng1 coeng2",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "sausage",
-      "english": [
-        {
-          "id": "hr3ey6k4",
-          "word": "sausage",
-          "meaning": "food sausage",
-          "note": "This is the all-purpose term for sausage as food, including a single item."
-        },
-        {
-          "id": "czclljyv",
-          "word": "link",
-          "meaning": "sausage",
-          "note": "Use this for the ordinary sausage-shaped food rather than a patty."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I had sausage for breakfast.",
-          "traditional": "我早餐食香腸。",
-          "jyutping": "ngo5 zou2 caan1 sik6 hoeng1 coeng2"
-        },
-        {
-          "english": "This sausage link smells great.",
-          "traditional": "呢條香腸好香。",
-          "jyutping": "ni1 tiu4 hoeng1 coeng2 hou2 hoeng1"
-        }
-      ]
+      "english": "I had sausage for breakfast.",
+      "traditional": "我早餐食香腸。",
+      "jyutping": "ngo5 zou2 caan1 sik6 hoeng1 coeng2"
+    },
+    {
+      "english": "This sausage link smells great.",
+      "traditional": "呢條香腸好香。",
+      "jyutping": "ni1 tiu4 hoeng1 coeng2 hou2 hoeng1"
     }
   ]
 }

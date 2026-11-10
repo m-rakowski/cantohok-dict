@@ -1,28 +1,24 @@
 {
   "id": "2rg6tfmb",
   "partOfSpeech": "noun",
+  "meaning": "sound change",
+  "english": [
+    {
+      "id": "fksm1ns2",
+      "word": "assimilation",
+      "meaning": "sound change",
+      "register": "formal",
+      "note": "Use this specifically for a sound change in which one speech sound becomes more like another."
+    }
+  ],
   "traditional": "語音同化",
   "jyutping": "jyu5 jam1 tung4 faa3",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "sound change",
-      "english": [
-        {
-          "id": "fksm1ns2",
-          "word": "assimilation",
-          "meaning": "sound change",
-          "register": "formal",
-          "note": "Use this specifically for a sound change in which one speech sound becomes more like another."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "This sound change can be explained by assimilation.",
-          "traditional": "呢個音變現象可以用語音同化解釋。",
-          "jyutping": "ne1 go3 jam1 bin3 jin6 zoeng6 ho2 ji5 jung6 jyu5 jam1 tung4 faa3 gaai2 sik1"
-        }
-      ]
+      "english": "This sound change can be explained by assimilation.",
+      "traditional": "呢個音變現象可以用語音同化解釋。",
+      "jyutping": "ne1 go3 jam1 bin3 jin6 zoeng6 ho2 ji5 jung6 jyu5 jam1 tung4 faa3 gaai2 sik1"
     }
   ]
 }

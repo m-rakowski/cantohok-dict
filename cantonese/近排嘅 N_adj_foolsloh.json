@@ -1,28 +1,24 @@
 {
   "id": "foolsloh",
   "partOfSpeech": "adj",
+  "meaning": "happened a short while ago",
+  "english": [
+    {
+      "id": "pkeppkpt",
+      "word": "recent",
+      "meaning": "happened a short while ago",
+      "register": "colloquial",
+      "note": "Use this for a conversational “in the recent period” framing, especially for events or developments."
+    }
+  ],
   "traditional": "近排嘅 N",
   "jyutping": "gan6 paai4 ge3 N",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "happened a short while ago",
-      "english": [
-        {
-          "id": "pkeppkpt",
-          "word": "recent",
-          "meaning": "happened a short while ago",
-          "register": "colloquial",
-          "note": "Use this for a conversational “in the recent period” framing, especially for events or developments."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "Housing prices have risen quickly in recent times.",
-          "traditional": "近排嘅樓價升得好快。",
-          "jyutping": "gan6 paai4 ge3 lau4 gaa3 sing1 dak1 hou2 faai3"
-        }
-      ]
+      "english": "Housing prices have risen quickly in recent times.",
+      "traditional": "近排嘅樓價升得好快。",
+      "jyutping": "gan6 paai4 ge3 lau4 gaa3 sing1 dak1 hou2 faai3"
     }
   ]
 }

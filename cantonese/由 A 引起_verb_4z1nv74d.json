@@ -1,37 +1,33 @@
 {
   "id": "4z1nv74d",
   "partOfSpeech": "verb",
+  "meaning": "be caused by A",
+  "english": [
+    {
+      "id": "dn8jveyl",
+      "word": "stem",
+      "meaning": "originate, come from",
+      "note": "Use this as the all-purpose spoken way to say that something is caused by A."
+    },
+    {
+      "id": "c2532s7k",
+      "word": "result",
+      "meaning": "follow as a consequence",
+      "note": "Use this when stating that an outcome arises from a particular fact, circumstance, or action."
+    }
+  ],
   "traditional": "由 A 引起",
   "jyutping": "jau4 A jan5 hei2",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "be caused by A",
-      "english": [
-        {
-          "id": "dn8jveyl",
-          "word": "stem",
-          "meaning": "originate, come from",
-          "note": "Use this as the all-purpose spoken way to say that something is caused by A."
-        },
-        {
-          "id": "c2532s7k",
-          "word": "result",
-          "meaning": "follow as a consequence",
-          "note": "Use this when stating that an outcome arises from a particular fact, circumstance, or action."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This fire may stem from a short circuit.",
-          "traditional": "呢場火災可能係由電線短路引起嘅。",
-          "jyutping": "ni1 coeng4 fo2 zoi1 ho2 nang4 hai6 jau4 din6 sin3 dyun2 lou6 jan5 hei2 ge3"
-        },
-        {
-          "english": "This power outage did result from a thunderstorm.",
-          "traditional": "呢次停電係由雷暴引起嘅。",
-          "jyutping": "ni1 ci3 ting4 din6 hai6 jau4 leoi4 bou6 jan5 hei2 ge3"
-        }
-      ]
+      "english": "This fire may stem from a short circuit.",
+      "traditional": "呢場火災可能係由電線短路引起嘅。",
+      "jyutping": "ni1 coeng4 fo2 zoi1 ho2 nang4 hai6 jau4 din6 sin3 dyun2 lou6 jan5 hei2 ge3"
+    },
+    {
+      "english": "This power outage did result from a thunderstorm.",
+      "traditional": "呢次停電係由雷暴引起嘅。",
+      "jyutping": "ni1 ci3 ting4 din6 hai6 jau4 leoi4 bou6 jan5 hei2 ge3"
     }
   ]
 }

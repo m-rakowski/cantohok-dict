@@ -1,26 +1,22 @@
 {
   "id": "beg6qblv",
   "partOfSpeech": "noun",
+  "meaning": "compass direction",
+  "english": [
+    {
+      "id": "2leicycd",
+      "word": "east",
+      "meaning": "compass direction",
+      "note": "This is the all-purpose noun for the compass direction east."
+    }
+  ],
   "traditional": "東",
   "jyutping": "dung1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "compass direction",
-      "english": [
-        {
-          "id": "2leicycd",
-          "word": "east",
-          "meaning": "compass direction",
-          "note": "This is the all-purpose noun for the compass direction east."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The sun rises in the east.",
-          "traditional": "太陽喺東邊升起。",
-          "jyutping": "taai3 joeng4 hai2 dung1 bin1 sing1 hei2"
-        }
-      ]
+      "english": "The sun rises in the east.",
+      "traditional": "太陽喺東邊升起。",
+      "jyutping": "taai3 joeng4 hai2 dung1 bin1 sing1 hei2"
     }
   ]
 }

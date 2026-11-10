@@ -1,28 +1,24 @@
 {
   "id": "bptmzo4w",
   "partOfSpeech": "adj",
+  "meaning": "made of concrete",
+  "english": [
+    {
+      "id": "ic3sluuu",
+      "word": "concrete",
+      "meaning": "made of concrete",
+      "register": "colloquial",
+      "note": "Use this colloquial noun-modifying construction for something made of concrete, such as a concrete building or floor."
+    }
+  ],
   "traditional": "石屎 + N",
   "jyutping": "sek6 si2 N",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "made of concrete",
-      "english": [
-        {
-          "id": "ic3sluuu",
-          "word": "concrete",
-          "meaning": "made of concrete",
-          "register": "colloquial",
-          "note": "Use this colloquial noun-modifying construction for something made of concrete, such as a concrete building or floor."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "This concrete building can last for decades.",
-          "traditional": "呢幢石屎樓起碼可以捱幾十年。",
-          "jyutping": "ni1 zong6 sek6 si2 lau4 hei2 maa5 ho2 ji5 ngaai4 gei2 sap6 nin4"
-        }
-      ]
+      "english": "This concrete building can last for decades.",
+      "traditional": "呢幢石屎樓起碼可以捱幾十年。",
+      "jyutping": "ni1 zong6 sek6 si2 lau4 hei2 maa5 ho2 ji5 ngaai4 gei2 sap6 nin4"
     }
   ]
 }

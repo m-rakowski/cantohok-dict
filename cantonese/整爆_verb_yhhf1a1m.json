@@ -1,40 +1,36 @@
 {
   "id": "yhhf1a1m",
   "partOfSpeech": "verb",
+  "meaning": "make something burst",
+  "english": [
+    {
+      "id": "vho6rluk",
+      "word": "burst",
+      "meaning": "cause to burst",
+      "register": "colloquial",
+      "note": "Use this when someone causes an object such as a balloon to burst."
+    },
+    {
+      "id": "khx3jenn",
+      "word": "pop",
+      "meaning": "burst; explode",
+      "register": "colloquial",
+      "note": "Use 整爆 when deliberately causing something such as a balloon to burst."
+    }
+  ],
   "traditional": "整爆",
   "jyutping": "zing2 baau3",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "make something burst",
-      "english": [
-        {
-          "id": "vho6rluk",
-          "word": "burst",
-          "meaning": "cause to burst",
-          "register": "colloquial",
-          "note": "Use this when someone causes an object such as a balloon to burst."
-        },
-        {
-          "id": "khx3jenn",
-          "word": "pop",
-          "meaning": "burst; explode",
-          "register": "colloquial",
-          "note": "Use 整爆 when deliberately causing something such as a balloon to burst."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "Don't burst the balloon.",
-          "traditional": "你唔好整爆個氣球呀。",
-          "jyutping": "nei5 m4 hou2 zing2 baau3 go3 hei3 kau4 aa3"
-        },
-        {
-          "english": "They used a needle to pop the balloon.",
-          "traditional": "佢用針整爆個氣球。",
-          "jyutping": "keoi5 jung6 zam1 zing2 baau3 go3 hei3 kau4"
-        }
-      ]
+      "english": "Don't burst the balloon.",
+      "traditional": "你唔好整爆個氣球呀。",
+      "jyutping": "nei5 m4 hou2 zing2 baau3 go3 hei3 kau4 aa3"
+    },
+    {
+      "english": "They used a needle to pop the balloon.",
+      "traditional": "佢用針整爆個氣球。",
+      "jyutping": "keoi5 jung6 zam1 zing2 baau3 go3 hei3 kau4"
     }
   ]
 }

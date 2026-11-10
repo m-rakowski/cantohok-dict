@@ -1,28 +1,24 @@
 {
   "id": "4hi1c0g9",
   "partOfSpeech": "verb",
+  "meaning": "become smaller",
+  "english": [
+    {
+      "id": "ad5enip0",
+      "word": "decrease",
+      "meaning": "become smaller",
+      "register": "colloquial",
+      "note": "Use this when a measured figure, level, price, or count has fallen rather than simply being reduced."
+    }
+  ],
   "traditional": "跌咗",
   "jyutping": "dit3 zo2",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "become smaller",
-      "english": [
-        {
-          "id": "ad5enip0",
-          "word": "decrease",
-          "meaning": "become smaller",
-          "register": "colloquial",
-          "note": "Use this when a measured figure, level, price, or count has fallen rather than simply being reduced."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "I saw vegetable prices decrease today.",
-          "traditional": "我今日見到菜價跌咗。",
-          "jyutping": "ngo5 gam1 jat6 gin3 dou2 coi3 gaa3 dit3 zo2"
-        }
-      ]
+      "english": "I saw vegetable prices decrease today.",
+      "traditional": "我今日見到菜價跌咗。",
+      "jyutping": "ngo5 gam1 jat6 gin3 dou2 coi3 gaa3 dit3 zo2"
     }
   ]
 }

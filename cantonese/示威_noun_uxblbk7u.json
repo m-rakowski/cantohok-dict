@@ -1,37 +1,33 @@
 {
   "id": "uxblbk7u",
   "partOfSpeech": "noun",
+  "meaning": "protest, demonstration",
+  "english": [
+    {
+      "id": "i2t3xblo",
+      "word": "demo",
+      "meaning": "political demonstration",
+      "note": "Use this specifically for a political protest march or gathering."
+    },
+    {
+      "id": "otsk50f2",
+      "word": "demonstration",
+      "meaning": "public protest",
+      "note": "Use this for a public protest or march rather than a practical demonstration."
+    }
+  ],
   "traditional": "示威",
   "jyutping": "si6 wai1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "protest, demonstration",
-      "english": [
-        {
-          "id": "i2t3xblo",
-          "word": "demo",
-          "meaning": "political demonstration",
-          "note": "Use this specifically for a political protest march or gathering."
-        },
-        {
-          "id": "otsk50f2",
-          "word": "demonstration",
-          "meaning": "public protest",
-          "note": "Use this for a public protest or march rather than a practical demonstration."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Many people joined the demo this time, demanding that the government withdraw that decision.",
-          "traditional": "今次示威有好多人參加，要求政府撤回嗰項決定。",
-          "jyutping": "gam1 ci3 si6 wai1 jau5 hou2 do1 jan4 caam1 gaa1 jiu1 kau4 zing3 fu2 cit3 wui4 go2 hong6 kyut3 ding6"
-        },
-        {
-          "english": "The union held a demonstration in Central today.",
-          "traditional": "工會今日喺中環舉行示威。",
-          "jyutping": "gung1 wui6 gam1 jat6 hai2 zung1 waan4 geoi2 hang4 si6 wai1"
-        }
-      ]
+      "english": "Many people joined the demo this time, demanding that the government withdraw that decision.",
+      "traditional": "今次示威有好多人參加，要求政府撤回嗰項決定。",
+      "jyutping": "gam1 ci3 si6 wai1 jau5 hou2 do1 jan4 caam1 gaa1 jiu1 kau4 zing3 fu2 cit3 wui4 go2 hong6 kyut3 ding6"
+    },
+    {
+      "english": "The union held a demonstration in Central today.",
+      "traditional": "工會今日喺中環舉行示威。",
+      "jyutping": "gung1 wui6 gam1 jat6 hai2 zung1 waan4 geoi2 hang4 si6 wai1"
     }
   ]
 }

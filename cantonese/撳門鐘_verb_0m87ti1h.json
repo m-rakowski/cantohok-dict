@@ -1,28 +1,24 @@
 {
   "id": "0m87ti1h",
   "partOfSpeech": "verb",
+  "meaning": "ring a bell",
+  "english": [
+    {
+      "id": "i31p8pem",
+      "word": "ring",
+      "meaning": "ring a bell",
+      "register": "colloquial",
+      "note": "Use this for the common doorbell situation, when someone presses the bell to make it ring."
+    }
+  ],
   "traditional": "撳門鐘",
   "jyutping": "gam6 mun4 zung1",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "ring a bell",
-      "english": [
-        {
-          "id": "i31p8pem",
-          "word": "ring",
-          "meaning": "ring a bell",
-          "register": "colloquial",
-          "note": "Use this for the common doorbell situation, when someone presses the bell to make it ring."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "Ring the doorbell and I’ll open the door.",
-          "traditional": "你撳門鐘，我去開門。",
-          "jyutping": "nei5 gam6 mun4 zung1 ngo5 heoi3 hoi1 mun4"
-        }
-      ]
+      "english": "Ring the doorbell and I’ll open the door.",
+      "traditional": "你撳門鐘，我去開門。",
+      "jyutping": "nei5 gam6 mun4 zung1 ngo5 heoi3 hoi1 mun4"
     }
   ]
 }

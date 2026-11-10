@@ -1,28 +1,24 @@
 {
   "id": "hixo1mi6",
   "partOfSpeech": "verb",
+  "meaning": "help!",
+  "english": [
+    {
+      "id": "p5jiq0qn",
+      "word": "help",
+      "meaning": "help!",
+      "register": "colloquial",
+      "note": "Use 救命 as an urgent cry for help in an emergency, not for an ordinary offer of assistance."
+    }
+  ],
   "traditional": "救命",
   "jyutping": "gau3 meng6",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "help!",
-      "english": [
-        {
-          "id": "p5jiq0qn",
-          "word": "help",
-          "meaning": "help!",
-          "register": "colloquial",
-          "note": "Use 救命 as an urgent cry for help in an emergency, not for an ordinary offer of assistance."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "Help! Someone has fallen into the sea!",
-          "traditional": "救命！有人跌咗落海呀！",
-          "jyutping": "gau3 meng6 jau5 jan4 dit3 zo2 lok6 hoi2 aa3"
-        }
-      ]
+      "english": "Help! Someone has fallen into the sea!",
+      "traditional": "救命！有人跌咗落海呀！",
+      "jyutping": "gau3 meng6 jau5 jan4 dit3 zo2 lok6 hoi2 aa3"
     }
   ]
 }

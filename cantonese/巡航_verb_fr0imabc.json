@@ -1,28 +1,24 @@
 {
   "id": "fr0imabc",
   "partOfSpeech": "verb",
+  "meaning": "fly at cruising speed",
+  "english": [
+    {
+      "id": "jv93o9c2",
+      "word": "cruise",
+      "meaning": "fly at cruising speed",
+      "register": "formal",
+      "note": "Use this for an aircraft or ship travelling at an efficient, steady cruising speed."
+    }
+  ],
   "traditional": "巡航",
   "jyutping": "ceon4 hong4",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "fly at cruising speed",
-      "english": [
-        {
-          "id": "jv93o9c2",
-          "word": "cruise",
-          "meaning": "fly at cruising speed",
-          "register": "formal",
-          "note": "Use this for an aircraft or ship travelling at an efficient, steady cruising speed."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The passenger plane will cruise at a constant speed.",
-          "traditional": "客機會以恆定速度巡航。",
-          "jyutping": "haak3 gei1 wui5 ji5 hang4 ding6 cuk1 dou6 ceon4 hong4"
-        }
-      ]
+      "english": "The passenger plane will cruise at a constant speed.",
+      "traditional": "客機會以恆定速度巡航。",
+      "jyutping": "haak3 gei1 wui5 ji5 hang4 ding6 cuk1 dou6 ceon4 hong4"
     }
   ]
 }

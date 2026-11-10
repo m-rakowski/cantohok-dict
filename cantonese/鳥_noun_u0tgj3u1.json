@@ -1,28 +1,24 @@
 {
   "id": "u0tgj3u1",
   "partOfSpeech": "noun",
+  "meaning": "animal (bird)",
+  "english": [
+    {
+      "id": "pd8wx1j4",
+      "word": "bird",
+      "meaning": "animal (bird)",
+      "register": "written",
+      "note": "This is the formal or written general term for an animal bird rather than the usual casual choice."
+    }
+  ],
   "traditional": "鳥",
   "jyutping": "niu5",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "animal (bird)",
-      "english": [
-        {
-          "id": "pd8wx1j4",
-          "word": "bird",
-          "meaning": "animal (bird)",
-          "register": "written",
-          "note": "This is the formal or written general term for an animal bird rather than the usual casual choice."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "This kind of bird mainly eats insects.",
-          "traditional": "呢種鳥主要食昆蟲。",
-          "jyutping": "ni1 zung2 niu5 zyu2 jiu3 sik6 kwan1 cung4"
-        }
-      ]
+      "english": "This kind of bird mainly eats insects.",
+      "traditional": "呢種鳥主要食昆蟲。",
+      "jyutping": "ni1 zung2 niu5 zyu2 jiu3 sik6 kwan1 cung4"
     }
   ]
 }

@@ -1,37 +1,33 @@
 {
   "id": "r04oy6i1",
   "partOfSpeech": "noun",
+  "meaning": "output, amount produced",
+  "english": [
+    {
+      "id": "fffzvc5g",
+      "word": "output",
+      "meaning": "production; quantity produced",
+      "note": "Use 產量 for how much a factory or other producer makes, rather than for computer data or a terminal."
+    },
+    {
+      "id": "yockmw2d",
+      "word": "production",
+      "meaning": "amount produced",
+      "note": "Use 產量 when production means the total quantity or output produced."
+    }
+  ],
   "traditional": "產量",
   "jyutping": "caan2 loeng6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "output, amount produced",
-      "english": [
-        {
-          "id": "fffzvc5g",
-          "word": "output",
-          "meaning": "production; quantity produced",
-          "note": "Use 產量 for how much a factory or other producer makes, rather than for computer data or a terminal."
-        },
-        {
-          "id": "yockmw2d",
-          "word": "production",
-          "meaning": "amount produced",
-          "note": "Use 產量 when production means the total quantity or output produced."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This factory's output is higher than last year's.",
-          "traditional": "呢間廠今年嘅產量比上年多咗。",
-          "jyutping": "nei1 gaan1 cong2 gam1 nin4 ge3 caan2 loeng6 bei2 soeng6 nin2 do1 zo2"
-        },
-        {
-          "english": "This year's production is higher than last year's.",
-          "traditional": "今年嘅產量比上年高。",
-          "jyutping": "gam1 nin4 ge3 caan2 loeng6 bei2 soeng6 nin4 gou1"
-        }
-      ]
+      "english": "This factory's output is higher than last year's.",
+      "traditional": "呢間廠今年嘅產量比上年多咗。",
+      "jyutping": "nei1 gaan1 cong2 gam1 nin4 ge3 caan2 loeng6 bei2 soeng6 nin2 do1 zo2"
+    },
+    {
+      "english": "This year's production is higher than last year's.",
+      "traditional": "今年嘅產量比上年高。",
+      "jyutping": "gam1 nin4 ge3 caan2 loeng6 bei2 soeng6 nin4 gou1"
     }
   ]
 }

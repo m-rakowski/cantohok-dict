@@ -1,28 +1,24 @@
 {
   "id": "3vafwq1z",
   "partOfSpeech": "noun",
+  "meaning": "demand ownership",
+  "english": [
+    {
+      "id": "ibejoxf1",
+      "word": "claim",
+      "meaning": "demand ownership",
+      "register": "formal",
+      "note": "Use this formal legal phrase for a demand asserting ownership of something."
+    }
+  ],
   "traditional": "所有權申索",
   "jyutping": "so2 jau5 kyun4 san1 sok3",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "demand ownership",
-      "english": [
-        {
-          "id": "ibejoxf1",
-          "word": "claim",
-          "meaning": "demand ownership",
-          "register": "formal",
-          "note": "Use this formal legal phrase for a demand asserting ownership of something."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "They filed a claim of ownership with the court.",
-          "traditional": "佢哋向法院提出所有權申索。",
-          "jyutping": "keoi5 dei6 hoeng3 faat3 jyun2 tai4 ceot1 so2 jau5 kyun4 san1 sok3"
-        }
-      ]
+      "english": "They filed a claim of ownership with the court.",
+      "traditional": "佢哋向法院提出所有權申索。",
+      "jyutping": "keoi5 dei6 hoeng3 faat3 jyun2 tai4 ceot1 so2 jau5 kyun4 san1 sok3"
     }
   ]
 }

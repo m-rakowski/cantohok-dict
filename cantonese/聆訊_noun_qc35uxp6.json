@@ -1,28 +1,24 @@
 {
   "id": "qc35uxp6",
   "partOfSpeech": "noun",
+  "meaning": "court hearing",
+  "english": [
+    {
+      "id": "z3oaid2i",
+      "word": "hearing",
+      "meaning": "court hearing",
+      "register": "formal",
+      "note": "Use this for a court hearing before a judge, rather than a general public meeting."
+    }
+  ],
   "traditional": "聆訊",
   "jyutping": "ling4 seon3",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "court hearing",
-      "english": [
-        {
-          "id": "z3oaid2i",
-          "word": "hearing",
-          "meaning": "court hearing",
-          "register": "formal",
-          "note": "Use this for a court hearing before a judge, rather than a general public meeting."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The defendant attended the court hearing today.",
-          "traditional": "被告今日出席聆訊。",
-          "jyutping": "bei6 gou3 gam1 jat6 ceot1 zik6 ling4 seon3"
-        }
-      ]
+      "english": "The defendant attended the court hearing today.",
+      "traditional": "被告今日出席聆訊。",
+      "jyutping": "bei6 gou3 gam1 jat6 ceot1 zik6 ling4 seon3"
     }
   ]
 }

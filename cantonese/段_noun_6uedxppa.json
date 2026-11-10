@@ -1,56 +1,34 @@
 {
   "id": "6uedxppa",
   "partOfSpeech": "noun",
-  "traditional": "段",
-  "jyutping": "dyun6",
-  "boxes": [
+  "meaning": "section of a poem, text or music",
+  "english": [
     {
-      "meaning": "section of a poem, text or music",
-      "english": [
-        {
-          "id": "01xy43vz",
-          "word": "stanza",
-          "meaning": "poem stanza",
-          "register": "colloquial",
-          "note": "Use this colloquial general term when the context clearly shows that the section is a stanza of a poem."
-        },
-        {
-          "id": "bmzcwj6w",
-          "word": "passage",
-          "meaning": "text or music section",
-          "note": "Use this for a meaningful section of written text or music, such as a passage of scripture."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I like the last stanza of this poem best.",
-          "traditional": "我最鍾意呢首詩最後嗰段。",
-          "jyutping": "ngo5 zeoi3 zung1 ji3 ne1 sau2 si1 zeoi3 hau6 go2 dyun6"
-        },
-        {
-          "english": "This passage of scripture is about how to forgive people.",
-          "traditional": "呢段經文講緊點樣原諒人。",
-          "jyutping": "ni1 dyun6 ging1 man4 gong2 gan2 dim2 joeng2 jyun4 loeng6 jan4"
-        }
-      ]
+      "id": "01xy43vz",
+      "word": "stanza",
+      "meaning": "poem stanza",
+      "register": "colloquial",
+      "note": "Use this colloquial general term when the context clearly shows that the section is a stanza of a poem."
     },
     {
-      "meaning": "length or piece cut from something",
-      "english": [
-        {
-          "id": "1qh1samu",
-          "word": "segment",
-          "meaning": "part, section",
-          "note": "Use this for a length or section cut from a continuous object, and sometimes for a linear section of a larger whole."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This segment of wire is too short to connect.",
-          "traditional": "呢段電線太短，駁唔到。",
-          "jyutping": "ne1 dyun6 din6 sin3 taai3 dyun2 bok3 m4 dou3"
-        }
-      ]
+      "id": "bmzcwj6w",
+      "word": "passage",
+      "meaning": "text or music section",
+      "note": "Use this for a meaningful section of written text or music, such as a passage of scripture."
+    }
+  ],
+  "traditional": "段",
+  "jyutping": "dyun6",
+  "examples": [
+    {
+      "english": "I like the last stanza of this poem best.",
+      "traditional": "我最鍾意呢首詩最後嗰段。",
+      "jyutping": "ngo5 zeoi3 zung1 ji3 ne1 sau2 si1 zeoi3 hau6 go2 dyun6"
+    },
+    {
+      "english": "This passage of scripture is about how to forgive people.",
+      "traditional": "呢段經文講緊點樣原諒人。",
+      "jyutping": "ni1 dyun6 ging1 man4 gong2 gan2 dim2 joeng2 jyun4 loeng6 jan4"
     }
   ]
 }

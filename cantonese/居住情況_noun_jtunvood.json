@@ -1,28 +1,24 @@
 {
   "id": "jtunvood",
   "partOfSpeech": "noun",
+  "meaning": "dwelling state",
+  "english": [
+    {
+      "id": "4332010l",
+      "word": "habitation",
+      "meaning": "dwelling state",
+      "register": "formal",
+      "note": "Use this in formal or descriptive contexts for a person's state or circumstances of living, not for the dwelling itself."
+    }
+  ],
   "traditional": "居住情況",
   "jyutping": "geoi1 zyu6 cing4 fong3",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "dwelling state",
-      "english": [
-        {
-          "id": "4332010l",
-          "word": "habitation",
-          "meaning": "dwelling state",
-          "register": "formal",
-          "note": "Use this in formal or descriptive contexts for a person's state or circumstances of living, not for the dwelling itself."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The report says that the habitation conditions of elderly people in the district need improvement.",
-          "traditional": "居住情況",
-          "jyutping": "geoi1 zyu6 cing4 fong3"
-        }
-      ]
+      "english": "The report says that the habitation conditions of elderly people in the district need improvement.",
+      "traditional": "居住情況",
+      "jyutping": "geoi1 zyu6 cing4 fong3"
     }
   ]
 }

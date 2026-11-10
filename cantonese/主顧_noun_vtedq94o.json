@@ -1,28 +1,24 @@
 {
   "id": "vtedq94o",
   "partOfSpeech": "noun",
+  "meaning": "buyer / client",
+  "english": [
+    {
+      "id": "lgpmwuif",
+      "word": "customer",
+      "meaning": "buyer / client",
+      "register": "formal",
+      "note": "Use this mainly in formal or written contexts for a patron or established customer of a business."
+    }
+  ],
   "traditional": "主顧",
   "jyutping": "zyu2 gu3",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "buyer / client",
-      "english": [
-        {
-          "id": "lgpmwuif",
-          "word": "customer",
-          "meaning": "buyer / client",
-          "register": "formal",
-          "note": "Use this mainly in formal or written contexts for a patron or established customer of a business."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "This shop has always valued each customer.",
-          "traditional": "本店一向重視每位主顧。",
-          "jyutping": "bun2 dim3 jat1 hoeng3 zung6 si6 mui5 wai2 zyu2 gu3"
-        }
-      ]
+      "english": "This shop has always valued each customer.",
+      "traditional": "本店一向重視每位主顧。",
+      "jyutping": "bun2 dim3 jat1 hoeng3 zung6 si6 mui5 wai2 zyu2 gu3"
     }
   ]
 }

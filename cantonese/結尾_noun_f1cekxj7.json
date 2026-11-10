@@ -1,48 +1,44 @@
 {
   "id": "f1cekxj7",
   "partOfSpeech": "noun",
+  "meaning": "ending, final part",
+  "english": [
+    {
+      "id": "io8xjmcz",
+      "word": "finish",
+      "meaning": "end; conclusion",
+      "note": "This is the all-purpose noun for the end or conclusion of something."
+    },
+    {
+      "id": "pxm6jr8t",
+      "word": "ending",
+      "meaning": "final part; story ending",
+      "note": "Use this for the final part of a story, book, film, or other thing."
+    },
+    {
+      "id": "ggz3p5qe",
+      "word": "conclusion",
+      "meaning": "end; finish",
+      "note": "Use this for the ending or final part of an event, story, or activity."
+    }
+  ],
   "traditional": "結尾",
   "jyutping": "git3 mei5",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "ending, final part",
-      "english": [
-        {
-          "id": "io8xjmcz",
-          "word": "finish",
-          "meaning": "end; conclusion",
-          "note": "This is the all-purpose noun for the end or conclusion of something."
-        },
-        {
-          "id": "pxm6jr8t",
-          "word": "ending",
-          "meaning": "final part; story ending",
-          "note": "Use this for the final part of a story, book, film, or other thing."
-        },
-        {
-          "id": "ggz3p5qe",
-          "word": "conclusion",
-          "meaning": "end; finish",
-          "note": "Use this for the ending or final part of an event, story, or activity."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The finish of this movie is quite moving.",
-          "traditional": "呢套戲嘅結尾幾感人。",
-          "jyutping": "ni1 tou3 hei3 ge3 git3 mei5 gei2 gam2 jan4"
-        },
-        {
-          "english": "The book's ending is very moving.",
-          "traditional": "本書嘅結尾寫得好感人。",
-          "jyutping": "bun2 syu1 ge3 git3 mei5 se2 dak1 hou2 gam2 jan4"
-        },
-        {
-          "english": "The conclusion of the movie was quite moving.",
-          "traditional": "套戲個結尾幾感人。",
-          "jyutping": "tou3 hei3 go3 git3 mei5 gei2 gam2 jan4"
-        }
-      ]
+      "english": "The finish of this movie is quite moving.",
+      "traditional": "呢套戲嘅結尾幾感人。",
+      "jyutping": "ni1 tou3 hei3 ge3 git3 mei5 gei2 gam2 jan4"
+    },
+    {
+      "english": "The book's ending is very moving.",
+      "traditional": "本書嘅結尾寫得好感人。",
+      "jyutping": "bun2 syu1 ge3 git3 mei5 se2 dak1 hou2 gam2 jan4"
+    },
+    {
+      "english": "The conclusion of the movie was quite moving.",
+      "traditional": "套戲個結尾幾感人。",
+      "jyutping": "tou3 hei3 go3 git3 mei5 gei2 gam2 jan4"
     }
   ]
 }

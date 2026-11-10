@@ -1,26 +1,22 @@
 {
   "id": "bp41hp2d",
   "partOfSpeech": "det",
+  "meaning": "immediately previous",
+  "english": [
+    {
+      "id": "wx5siwxt",
+      "word": "last",
+      "meaning": "immediately previous",
+      "note": "This is the all-purpose calendar-time pattern, as in 上年, 上個月, or 上個星期二; 個 is included where natural."
+    }
+  ],
   "traditional": "上 + TIME",
   "jyutping": "soeng6 TIME",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "immediately previous",
-      "english": [
-        {
-          "id": "wx5siwxt",
-          "word": "last",
-          "meaning": "immediately previous",
-          "note": "This is the all-purpose calendar-time pattern, as in 上年, 上個月, or 上個星期二; 個 is included where natural."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I last saw him on Tuesday.",
-          "traditional": "我上個星期二先見過佢。",
-          "jyutping": "ngo5 soeng6 go3 sing1 kei4 ji6 sin1 gin3 gwo3 keoi5"
-        }
-      ]
+      "english": "I last saw him on Tuesday.",
+      "traditional": "我上個星期二先見過佢。",
+      "jyutping": "ngo5 soeng6 go3 sing1 kei4 ji6 sin1 gin3 gwo3 keoi5"
     }
   ]
 }

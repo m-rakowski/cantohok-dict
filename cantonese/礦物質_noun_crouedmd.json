@@ -1,26 +1,22 @@
 {
   "id": "crouedmd",
   "partOfSpeech": "noun",
+  "meaning": "dietary mineral",
+  "english": [
+    {
+      "id": "v7l57kun",
+      "word": "mineral",
+      "meaning": "dietary mineral",
+      "note": "Use this specifically for an inorganic nutrient needed by the body, such as iron or calcium."
+    }
+  ],
   "traditional": "礦物質",
   "jyutping": "kwong3 mat6 zat1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "dietary mineral",
-      "english": [
-        {
-          "id": "v7l57kun",
-          "word": "mineral",
-          "meaning": "dietary mineral",
-          "note": "Use this specifically for an inorganic nutrient needed by the body, such as iron or calcium."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Milk contains plenty of mineral nutrients.",
-          "traditional": "牛奶含有豐富礦物質。",
-          "jyutping": "ngau4 naai5 ham4 jau5 fung1 fu3 kwong3 mat6 zat1"
-        }
-      ]
+      "english": "Milk contains plenty of mineral nutrients.",
+      "traditional": "牛奶含有豐富礦物質。",
+      "jyutping": "ngau4 naai5 ham4 jau5 fung1 fu3 kwong3 mat6 zat1"
     }
   ]
 }

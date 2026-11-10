@@ -1,38 +1,34 @@
 {
   "id": "gldd0s42",
   "partOfSpeech": "verb",
+  "meaning": "to keep, retain",
+  "english": [
+    {
+      "id": "ina9qdd7",
+      "word": "retain",
+      "meaning": "preserve",
+      "register": "formal",
+      "note": "Use this when preserving an item, arrangement, policy, or right instead of removing or abolishing it."
+    },
+    {
+      "id": "tboig23d",
+      "word": "reserve",
+      "meaning": "keep back, retain",
+      "note": "Use this for retaining or withholding something, including in expressions such as reserving the right to do something."
+    }
+  ],
   "traditional": "保留",
   "jyutping": "bou2 lau4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "to keep, retain",
-      "english": [
-        {
-          "id": "ina9qdd7",
-          "word": "retain",
-          "meaning": "preserve",
-          "register": "formal",
-          "note": "Use this when preserving an item, arrangement, policy, or right instead of removing or abolishing it."
-        },
-        {
-          "id": "tboig23d",
-          "word": "reserve",
-          "meaning": "keep back, retain",
-          "note": "Use this for retaining or withholding something, including in expressions such as reserving the right to do something."
-        }
-      ],
-      "examples": [
-        {
-          "english": "We will retain the current arrangement.",
-          "traditional": "我哋會保留現行安排。",
-          "jyutping": "ngo5 dei6 wui5 bou2 lau4 jin6 haang4 on1 paai4"
-        },
-        {
-          "english": "We reserve the right to pursue responsibility.",
-          "traditional": "我哋保留追究責任嘅權利。",
-          "jyutping": "ngo5 dei6 bou2 lau4 zeoi1 gau3 zaak3 jam6 ge3 kyun4 lei6"
-        }
-      ]
+      "english": "We will retain the current arrangement.",
+      "traditional": "我哋會保留現行安排。",
+      "jyutping": "ngo5 dei6 wui5 bou2 lau4 jin6 haang4 on1 paai4"
+    },
+    {
+      "english": "We reserve the right to pursue responsibility.",
+      "traditional": "我哋保留追究責任嘅權利。",
+      "jyutping": "ngo5 dei6 bou2 lau4 zeoi1 gau3 zaak3 jam6 ge3 kyun4 lei6"
     }
   ]
 }

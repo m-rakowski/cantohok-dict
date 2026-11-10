@@ -1,37 +1,33 @@
 {
   "id": "tnoip8d0",
   "partOfSpeech": "verb",
+  "meaning": "be enough",
+  "english": [
+    {
+      "id": "f3j0sx9p",
+      "word": "satisfy",
+      "meaning": "be enough for",
+      "note": "Use 夠 as the everyday way to say that something is enough to meet a requirement."
+    },
+    {
+      "id": "5ljmi6xj",
+      "word": "suffice",
+      "meaning": "be enough",
+      "note": "Use this as the all-purpose everyday equivalent of “be enough” or “suffice.”"
+    }
+  ],
   "traditional": "夠",
   "jyutping": "gau3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "be enough",
-      "english": [
-        {
-          "id": "f3j0sx9p",
-          "word": "satisfy",
-          "meaning": "be enough for",
-          "note": "Use 夠 as the everyday way to say that something is enough to meet a requirement."
-        },
-        {
-          "id": "5ljmi6xj",
-          "word": "suffice",
-          "meaning": "be enough",
-          "note": "Use this as the all-purpose everyday equivalent of “be enough” or “suffice.”"
-        }
-      ],
-      "examples": [
-        {
-          "english": "This money is enough to satisfy the rent requirement.",
-          "traditional": "呢啲錢夠交租。",
-          "jyutping": "ni1 di1 cin4 gau3 gaau1 zou1"
-        },
-        {
-          "english": "Will this food suffice?",
-          "traditional": "呢啲食物夠唔夠呀？",
-          "jyutping": "ni1 di1 sik6 mat6 gau3 m4 gau3 aa3"
-        }
-      ]
+      "english": "This money is enough to satisfy the rent requirement.",
+      "traditional": "呢啲錢夠交租。",
+      "jyutping": "ni1 di1 cin4 gau3 gaau1 zou1"
+    },
+    {
+      "english": "Will this food suffice?",
+      "traditional": "呢啲食物夠唔夠呀？",
+      "jyutping": "ni1 di1 sik6 mat6 gau3 m4 gau3 aa3"
     }
   ]
 }

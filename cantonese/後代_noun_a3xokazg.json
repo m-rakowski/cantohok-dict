@@ -1,37 +1,33 @@
 {
   "id": "a3xokazg",
   "partOfSpeech": "noun",
+  "meaning": "descendants, future generations",
+  "english": [
+    {
+      "id": "fe0qsqx4",
+      "word": "posterity",
+      "meaning": "future generations; descendants",
+      "note": "Use this as the all-purpose term for future generations, including a person's descendants."
+    },
+    {
+      "id": "ng5h2dvk",
+      "word": "offspring",
+      "meaning": "descendants",
+      "note": "Use this for descendants in general and especially for the progeny of animals or plants rather than a person's immediate children."
+    }
+  ],
   "traditional": "後代",
   "jyutping": "hau6 doi6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "descendants, future generations",
-      "english": [
-        {
-          "id": "fe0qsqx4",
-          "word": "posterity",
-          "meaning": "future generations; descendants",
-          "note": "Use this as the all-purpose term for future generations, including a person's descendants."
-        },
-        {
-          "id": "ng5h2dvk",
-          "word": "offspring",
-          "meaning": "descendants",
-          "note": "Use this for descendants in general and especially for the progeny of animals or plants rather than a person's immediate children."
-        }
-      ],
-      "examples": [
-        {
-          "english": "These historic sites should be preserved for posterity to enjoy.",
-          "traditional": "呢啲古蹟要好好保存，留畀後代欣賞。",
-          "jyutping": "ni1 di1 gu2 zik1 jiu3 hou2 hou2 bou2 cyun4 lau4 bei2 hau6 doi6 jan1 soeng2"
-        },
-        {
-          "english": "The offspring of this old tree are spread all over the hillside.",
-          "traditional": "後代",
-          "jyutping": "hau6 doi6"
-        }
-      ]
+      "english": "These historic sites should be preserved for posterity to enjoy.",
+      "traditional": "呢啲古蹟要好好保存，留畀後代欣賞。",
+      "jyutping": "ni1 di1 gu2 zik1 jiu3 hou2 hou2 bou2 cyun4 lau4 bei2 hau6 doi6 jan1 soeng2"
+    },
+    {
+      "english": "The offspring of this old tree are spread all over the hillside.",
+      "traditional": "後代",
+      "jyutping": "hau6 doi6"
     }
   ]
 }

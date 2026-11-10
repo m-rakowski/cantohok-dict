@@ -1,26 +1,22 @@
 {
   "id": "nboewb2d",
   "partOfSpeech": "verb",
+  "meaning": "make accounts match",
+  "english": [
+    {
+      "id": "po631wpw",
+      "word": "balance",
+      "meaning": "make accounts match",
+      "note": "Use this for reconciling accounts so that the credits and debits match."
+    }
+  ],
   "traditional": "對數",
   "jyutping": "deoi3 sou3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "make accounts match",
-      "english": [
-        {
-          "id": "po631wpw",
-          "word": "balance",
-          "meaning": "make accounts match",
-          "note": "Use this for reconciling accounts so that the credits and debits match."
-        }
-      ],
-      "examples": [
-        {
-          "english": "We have to balance the accounts every day after work.",
-          "traditional": "我哋每日收工都要對數。",
-          "jyutping": "ngo5 dei6 mui5 jat6 sau1 gung1 dou1 jiu3 deoi3 sou3"
-        }
-      ]
+      "english": "We have to balance the accounts every day after work.",
+      "traditional": "我哋每日收工都要對數。",
+      "jyutping": "ngo5 dei6 mui5 jat6 sau1 gung1 dou1 jiu3 deoi3 sou3"
     }
   ]
 }

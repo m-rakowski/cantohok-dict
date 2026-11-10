@@ -1,37 +1,33 @@
 {
   "id": "gn287pn5",
   "partOfSpeech": "adj",
+  "meaning": "popular, in fashion",
+  "english": [
+    {
+      "id": "zow1pdgc",
+      "word": "fashionable",
+      "meaning": "in fashion; stylish",
+      "note": "Use 流行 when something is widely popular or current, including a style, idea, or philosophy."
+    },
+    {
+      "id": "s5li43ex",
+      "word": "current",
+      "meaning": "current; in circulation",
+      "note": "Pick this when “current” means popular or prevalent at the moment."
+    }
+  ],
   "traditional": "流行",
   "jyutping": "lau4 hang4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "popular, in fashion",
-      "english": [
-        {
-          "id": "zow1pdgc",
-          "word": "fashionable",
-          "meaning": "in fashion; stylish",
-          "note": "Use 流行 when something is widely popular or current, including a style, idea, or philosophy."
-        },
-        {
-          "id": "s5li43ex",
-          "word": "current",
-          "meaning": "current; in circulation",
-          "note": "Pick this when “current” means popular or prevalent at the moment."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Eating plant-based meat is fashionable now.",
-          "traditional": "而家流行食植物肉。",
-          "jyutping": "ji4 gaa1 lau4 hang4 sik6 zik6 mat6 juk6"
-        },
-        {
-          "english": "This style is very current this year.",
-          "traditional": "呢種穿搭今年好流行。",
-          "jyutping": "ni1 zung2 cyun1 daap3 gam1 nin4 hou2 lau4 hang4"
-        }
-      ]
+      "english": "Eating plant-based meat is fashionable now.",
+      "traditional": "而家流行食植物肉。",
+      "jyutping": "ji4 gaa1 lau4 hang4 sik6 zik6 mat6 juk6"
+    },
+    {
+      "english": "This style is very current this year.",
+      "traditional": "呢種穿搭今年好流行。",
+      "jyutping": "ni1 zung2 cyun1 daap3 gam1 nin4 hou2 lau4 hang4"
     }
   ]
 }

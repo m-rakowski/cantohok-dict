@@ -1,28 +1,24 @@
 {
   "id": "6rs8khbp",
   "partOfSpeech": "noun",
+  "meaning": "seller’s bill",
+  "english": [
+    {
+      "id": "7jetjeyt",
+      "word": "invoice",
+      "meaning": "seller’s bill",
+      "register": "formal",
+      "note": "Use this for the formal business document specifying the goods or services and amount due."
+    }
+  ],
   "traditional": "發票",
   "jyutping": "faat3 piu3",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "seller’s bill",
-      "english": [
-        {
-          "id": "7jetjeyt",
-          "word": "invoice",
-          "meaning": "seller’s bill",
-          "register": "formal",
-          "note": "Use this for the formal business document specifying the goods or services and amount due."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The supplier will send us the formal invoice at the end of the month.",
-          "traditional": "供應商會喺月底寄正式發票畀我哋。",
-          "jyutping": "gung1 jing3 soeng1 wui5 hai2 jyut6 dai2 gei3 zing3 sik1 faat3 piu3 bei2 ngo5 dei6"
-        }
-      ]
+      "english": "The supplier will send us the formal invoice at the end of the month.",
+      "traditional": "供應商會喺月底寄正式發票畀我哋。",
+      "jyutping": "gung1 jing3 soeng1 wui5 hai2 jyut6 dai2 gei3 zing3 sik1 faat3 piu3 bei2 ngo5 dei6"
     }
   ]
 }

@@ -1,37 +1,33 @@
 {
   "id": "foosktrm",
   "partOfSpeech": "noun",
+  "meaning": "compliment, flattery",
+  "english": [
+    {
+      "id": "zk5z2vw2",
+      "word": "compliment",
+      "meaning": "praise or praise remark",
+      "note": "Use this when the compliment sounds flattering or ingratiating rather than straightforward praise."
+    },
+    {
+      "id": "e3xzmz6f",
+      "word": "flattery",
+      "meaning": "insincere praise",
+      "note": "Use this when the flattery is phrased as polite praise, though it can also be sincere rather than insincere."
+    }
+  ],
   "traditional": "恭維",
   "jyutping": "gung1 wai4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "compliment, flattery",
-      "english": [
-        {
-          "id": "zk5z2vw2",
-          "word": "compliment",
-          "meaning": "praise or praise remark",
-          "note": "Use this when the compliment sounds flattering or ingratiating rather than straightforward praise."
-        },
-        {
-          "id": "e3xzmz6f",
-          "word": "flattery",
-          "meaning": "insincere praise",
-          "note": "Use this when the flattery is phrased as polite praise, though it can also be sincere rather than insincere."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Their compliment to the client was clearly meant to get something in return.",
-          "traditional": "佢成日恭維個客，好明顯係想攞着數。",
-          "jyutping": "keoi5 seng4 jat6 gung1 wai4 go3 haak3 hou2 ming4 hin2 hai6 soeng2 lo2 zoek6 sou3"
-        },
-        {
-          "english": "Thanks for the flattery, but I’m really not as good as you say.",
-          "traditional": "多謝你嘅恭維，不過我真係冇你講得咁叻。",
-          "jyutping": "do1 ze6 nei5 ge3 gung1 wai4 bat1 gwo3 ngo5 zan1 hai6 mou5 nei5 gong2 dak1 gam3 lek1"
-        }
-      ]
+      "english": "Their compliment to the client was clearly meant to get something in return.",
+      "traditional": "佢成日恭維個客，好明顯係想攞着數。",
+      "jyutping": "keoi5 seng4 jat6 gung1 wai4 go3 haak3 hou2 ming4 hin2 hai6 soeng2 lo2 zoek6 sou3"
+    },
+    {
+      "english": "Thanks for the flattery, but I’m really not as good as you say.",
+      "traditional": "多謝你嘅恭維，不過我真係冇你講得咁叻。",
+      "jyutping": "do1 ze6 nei5 ge3 gung1 wai4 bat1 gwo3 ngo5 zan1 hai6 mou5 nei5 gong2 dak1 gam3 lek1"
     }
   ]
 }

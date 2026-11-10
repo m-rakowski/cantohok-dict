@@ -1,28 +1,24 @@
 {
   "id": "lzegvk6i",
   "partOfSpeech": "noun",
+  "meaning": "jade green color",
+  "english": [
+    {
+      "id": "3bjbk4p9",
+      "word": "jade",
+      "meaning": "jade green color",
+      "register": "written",
+      "note": "Use this specifically for the characteristic green colour of jade rather than for the stone itself."
+    }
+  ],
   "traditional": "玉色",
   "jyutping": "juk6 sik1",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "jade green color",
-      "english": [
-        {
-          "id": "3bjbk4p9",
-          "word": "jade",
-          "meaning": "jade green color",
-          "register": "written",
-          "note": "Use this specifically for the characteristic green colour of jade rather than for the stone itself."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "This cup is jade in colour and quite pretty.",
-          "traditional": "呢隻杯係玉色，幾靚喎。",
-          "jyutping": "ni1 zek3 bui1 hai6 juk6 sik1 gei2 leng3 wo3"
-        }
-      ]
+      "english": "This cup is jade in colour and quite pretty.",
+      "traditional": "呢隻杯係玉色，幾靚喎。",
+      "jyutping": "ni1 zek3 bui1 hai6 juk6 sik1 gei2 leng3 wo3"
     }
   ]
 }

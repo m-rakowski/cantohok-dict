@@ -1,26 +1,22 @@
 {
   "id": "muaogeyq",
   "partOfSpeech": "noun",
+  "meaning": "person from a country",
+  "english": [
+    {
+      "id": "w86i87lw",
+      "word": "countryman",
+      "meaning": "person from a country",
+      "note": "Use this as the all-purpose choice when identifying someone by nationality, replacing X with a country name."
+    }
+  ],
   "traditional": "X國人",
   "jyutping": "X gwok3 jan4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "person from a country",
-      "english": [
-        {
-          "id": "w86i87lw",
-          "word": "countryman",
-          "meaning": "person from a country",
-          "note": "Use this as the all-purpose choice when identifying someone by nationality, replacing X with a country name."
-        }
-      ],
-      "examples": [
-        {
-          "english": "They are a British countryman.",
-          "traditional": "佢係英國人。",
-          "jyutping": "keoi5 hai6 jing1 gwok3 jan4"
-        }
-      ]
+      "english": "They are a British countryman.",
+      "traditional": "佢係英國人。",
+      "jyutping": "keoi5 hai6 jing1 gwok3 jan4"
     }
   ]
 }

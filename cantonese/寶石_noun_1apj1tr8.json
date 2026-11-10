@@ -1,48 +1,44 @@
 {
   "id": "1apj1tr8",
   "partOfSpeech": "noun",
+  "meaning": "gemstone",
+  "english": [
+    {
+      "id": "hacsfq6i",
+      "word": "jewel",
+      "meaning": "gemstone",
+      "note": "This is the all-purpose choice for a precious or semi-precious gemstone."
+    },
+    {
+      "id": "ykfhey6w",
+      "word": "gem",
+      "meaning": "precious stone",
+      "note": "This is the all-purpose noun for a literal precious stone, rather than a valued person or thing."
+    },
+    {
+      "id": "0ywjhqdm",
+      "word": "stone",
+      "meaning": "gemstone",
+      "note": "Use this for a gemstone or precious stone in general, rather than specifically a diamond."
+    }
+  ],
   "traditional": "寶石",
   "jyutping": "bou2 sek6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "gemstone",
-      "english": [
-        {
-          "id": "hacsfq6i",
-          "word": "jewel",
-          "meaning": "gemstone",
-          "note": "This is the all-purpose choice for a precious or semi-precious gemstone."
-        },
-        {
-          "id": "ykfhey6w",
-          "word": "gem",
-          "meaning": "precious stone",
-          "note": "This is the all-purpose noun for a literal precious stone, rather than a valued person or thing."
-        },
-        {
-          "id": "0ywjhqdm",
-          "word": "stone",
-          "meaning": "gemstone",
-          "note": "Use this for a gemstone or precious stone in general, rather than specifically a diamond."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This jewel is very rare.",
-          "traditional": "呢粒寶石好罕有。",
-          "jyutping": "ni1 lap1 bou2 sek6 hou2 hon2 jau5"
-        },
-        {
-          "english": "This gem sparkles as if it has a light inside.",
-          "traditional": "呢粒寶石閃到好似有燈咁。",
-          "jyutping": "ne1 nap1 bou2 sek6 sim2 dou3 hou2 ci5 jau5 dang1 gam3"
-        },
-        {
-          "english": "This precious stone is beautiful.",
-          "traditional": "呢粒寶石好靚。",
-          "jyutping": "ni1 nap1 bou2 sek6 hou2 leng3"
-        }
-      ]
+      "english": "This jewel is very rare.",
+      "traditional": "呢粒寶石好罕有。",
+      "jyutping": "ni1 lap1 bou2 sek6 hou2 hon2 jau5"
+    },
+    {
+      "english": "This gem sparkles as if it has a light inside.",
+      "traditional": "呢粒寶石閃到好似有燈咁。",
+      "jyutping": "ne1 nap1 bou2 sek6 sim2 dou3 hou2 ci5 jau5 dang1 gam3"
+    },
+    {
+      "english": "This precious stone is beautiful.",
+      "traditional": "呢粒寶石好靚。",
+      "jyutping": "ni1 nap1 bou2 sek6 hou2 leng3"
     }
   ]
 }

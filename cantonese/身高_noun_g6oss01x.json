@@ -1,26 +1,22 @@
 {
   "id": "g6oss01x",
   "partOfSpeech": "noun",
+  "meaning": "person's height",
+  "english": [
+    {
+      "id": "6isvjedm",
+      "word": "height",
+      "meaning": "person's height",
+      "note": "Use this specifically for a person's or animal's height, especially when giving a measurement."
+    }
+  ],
   "traditional": "身高",
   "jyutping": "san1 gou1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "person's height",
-      "english": [
-        {
-          "id": "6isvjedm",
-          "word": "height",
-          "meaning": "person's height",
-          "note": "Use this specifically for a person's or animal's height, especially when giving a measurement."
-        }
-      ],
-      "examples": [
-        {
-          "english": "What is your height?",
-          "traditional": "你身高幾多？",
-          "jyutping": "nei5 san1 gou1 gei2 do1"
-        }
-      ]
+      "english": "What is your height?",
+      "traditional": "你身高幾多？",
+      "jyutping": "nei5 san1 gou1 gei2 do1"
     }
   ]
 }

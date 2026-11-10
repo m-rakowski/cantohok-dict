@@ -1,26 +1,22 @@
 {
   "id": "pvkg76m1",
   "partOfSpeech": "verb",
+  "meaning": "declare goods or income",
+  "english": [
+    {
+      "id": "i49etz7t",
+      "word": "declare",
+      "meaning": "declare goods or income",
+      "note": "Use this specifically when declaring imported or exported goods to customs."
+    }
+  ],
   "traditional": "報關",
   "jyutping": "bou3 gwaan1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "declare goods or income",
-      "english": [
-        {
-          "id": "i49etz7t",
-          "word": "declare",
-          "meaning": "declare goods or income",
-          "note": "Use this specifically when declaring imported or exported goods to customs."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This shipment has arrived in Hong Kong, so we need to declare it to customs first.",
-          "traditional": "呢批貨到咗香港，要先報關。",
-          "jyutping": "ni1 pai1 fo3 dou3 zo2 hoeng1 gong2 jiu3 sin1 bou3 gwaan1"
-        }
-      ]
+      "english": "This shipment has arrived in Hong Kong, so we need to declare it to customs first.",
+      "traditional": "呢批貨到咗香港，要先報關。",
+      "jyutping": "ni1 pai1 fo3 dou3 zo2 hoeng1 gong2 jiu3 sin1 bou3 gwaan1"
     }
   ]
 }

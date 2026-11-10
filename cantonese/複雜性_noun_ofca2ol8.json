@@ -1,28 +1,24 @@
 {
   "id": "ofca2ol8",
   "partOfSpeech": "noun",
+  "meaning": "state of being complex",
+  "english": [
+    {
+      "id": "eqj3abi0",
+      "word": "complexity",
+      "meaning": "state of being complex",
+      "register": "formal",
+      "note": "Use this more formal noun when discussing complexity as an abstract property, especially in writing."
+    }
+  ],
   "traditional": "複雜性",
   "jyutping": "fuk1 zaap6 sing3",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "state of being complex",
-      "english": [
-        {
-          "id": "eqj3abi0",
-          "word": "complexity",
-          "meaning": "state of being complex",
-          "register": "formal",
-          "note": "Use this more formal noun when discussing complexity as an abstract property, especially in writing."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The complexity of this system is quite high.",
-          "traditional": "呢個系統嘅複雜性相當高。",
-          "jyutping": "ni1 go3 hai6 tung2 ge3 fuk1 zaap6 sing3 soeng1 dong1 gou1"
-        }
-      ]
+      "english": "The complexity of this system is quite high.",
+      "traditional": "呢個系統嘅複雜性相當高。",
+      "jyutping": "ni1 go3 hai6 tung2 ge3 fuk1 zaap6 sing3 soeng1 dong1 gou1"
     }
   ]
 }

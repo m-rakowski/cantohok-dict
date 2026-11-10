@@ -1,37 +1,33 @@
 {
   "id": "0hzmlx7h",
   "partOfSpeech": "adj",
+  "meaning": "small, little",
+  "english": [
+    {
+      "id": "3k4cz7kb",
+      "word": "small",
+      "meaning": "not large",
+      "note": "This is the all-purpose choice for physical size and for describing someone as young, as in 細個；it does not mean a small quantity."
+    },
+    {
+      "id": "1ftjb227",
+      "word": "little",
+      "meaning": "small / not large",
+      "note": "This is the all-purpose choice for something physically small or for a young child, as in 細路仔."
+    }
+  ],
   "traditional": "細",
   "jyutping": "sai3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "small, little",
-      "english": [
-        {
-          "id": "3k4cz7kb",
-          "word": "small",
-          "meaning": "not large",
-          "note": "This is the all-purpose choice for physical size and for describing someone as young, as in 細個；it does not mean a small quantity."
-        },
-        {
-          "id": "1ftjb227",
-          "word": "little",
-          "meaning": "small / not large",
-          "note": "This is the all-purpose choice for something physically small or for a young child, as in 細路仔."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Their daughter is still small.",
-          "traditional": "佢個女仲好細個。",
-          "jyutping": "keoi5 go3 neoi5 zung6 hou2 sai3 go3"
-        },
-        {
-          "english": "This little dog is adorable.",
-          "traditional": "呢隻細狗好得意。",
-          "jyutping": "ni1 zek3 sai3 gau2 hou2 dak1 ji3"
-        }
-      ]
+      "english": "Their daughter is still small.",
+      "traditional": "佢個女仲好細個。",
+      "jyutping": "keoi5 go3 neoi5 zung6 hou2 sai3 go3"
+    },
+    {
+      "english": "This little dog is adorable.",
+      "traditional": "呢隻細狗好得意。",
+      "jyutping": "ni1 zek3 sai3 gau2 hou2 dak1 ji3"
     }
   ]
 }

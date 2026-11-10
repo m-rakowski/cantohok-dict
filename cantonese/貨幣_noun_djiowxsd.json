@@ -1,28 +1,24 @@
 {
   "id": "djiowxsd",
   "partOfSpeech": "noun",
+  "meaning": "money used for transactions",
+  "english": [
+    {
+      "id": "u5lf0pzq",
+      "word": "currency",
+      "meaning": "money used for transactions",
+      "register": "formal",
+      "note": "Use this for a named currency or monetary system, especially in economic contexts rather than everyday talk about money."
+    }
+  ],
   "traditional": "貨幣",
   "jyutping": "fo3 bai6",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "money used for transactions",
-      "english": [
-        {
-          "id": "u5lf0pzq",
-          "word": "currency",
-          "meaning": "money used for transactions",
-          "register": "formal",
-          "note": "Use this for a named currency or monetary system, especially in economic contexts rather than everyday talk about money."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "What is this country's currency?",
-          "traditional": "呢個國家嘅貨幣係咩？",
-          "jyutping": "ni1 go3 gwok3 gaa1 ge3 fo3 bai6 hai6 me1"
-        }
-      ]
+      "english": "What is this country's currency?",
+      "traditional": "呢個國家嘅貨幣係咩？",
+      "jyutping": "ni1 go3 gwok3 gaa1 ge3 fo3 bai6 hai6 me1"
     }
   ]
 }

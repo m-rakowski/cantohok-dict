@@ -1,26 +1,22 @@
 {
   "id": "o3xkqswo",
   "partOfSpeech": "adj",
+  "meaning": "relating to sound",
+  "english": [
+    {
+      "id": "3wd28t8u",
+      "word": "audio",
+      "meaning": "relating to sound",
+      "note": "Use this when explicitly contrasting hearing or sound with sight, especially in sensory or technical contexts."
+    }
+  ],
   "traditional": "聽覺",
   "jyutping": "ting3 gok3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "relating to sound",
-      "english": [
-        {
-          "id": "3wd28t8u",
-          "word": "audio",
-          "meaning": "relating to sound",
-          "note": "Use this when explicitly contrasting hearing or sound with sight, especially in sensory or technical contexts."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This test compares audio and visual responses.",
-          "traditional": "呢個測試係比較聽覺同視覺嘅反應。",
-          "jyutping": "ni1 go3 cak1 si3 hai6 bei2 gaau3 ting3 gok3 tung4 si6 gok3 ge3 faan2 jing3"
-        }
-      ]
+      "english": "This test compares audio and visual responses.",
+      "traditional": "呢個測試係比較聽覺同視覺嘅反應。",
+      "jyutping": "ni1 go3 cak1 si3 hai6 bei2 gaau3 ting3 gok3 tung4 si6 gok3 ge3 faan2 jing3"
     }
   ]
 }

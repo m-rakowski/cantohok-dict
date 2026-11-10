@@ -1,28 +1,24 @@
 {
   "id": "l61ob455",
   "partOfSpeech": "adj",
+  "meaning": "shut, blocked",
+  "english": [
+    {
+      "id": "vo2ybypj",
+      "word": "closed",
+      "meaning": "shut, blocked",
+      "register": "colloquial",
+      "note": "Use this for a door or similar physical barrier that is shut and blocking passage."
+    }
+  ],
   "traditional": "閂埋",
   "jyutping": "saan1 maai4",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "shut, blocked",
-      "english": [
-        {
-          "id": "vo2ybypj",
-          "word": "closed",
-          "meaning": "shut, blocked",
-          "register": "colloquial",
-          "note": "Use this for a door or similar physical barrier that is shut and blocking passage."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "The door is closed, so we can't get in.",
-          "traditional": "道門閂埋咗，入唔到去。",
-          "jyutping": "dou6 mun4 saan1 maai4 zo2 jap6 m4 dou2 heoi3"
-        }
-      ]
+      "english": "The door is closed, so we can't get in.",
+      "traditional": "道門閂埋咗，入唔到去。",
+      "jyutping": "dou6 mun4 saan1 maai4 zo2 jap6 m4 dou2 heoi3"
     }
   ]
 }

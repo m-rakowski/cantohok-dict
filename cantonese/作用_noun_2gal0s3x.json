@@ -1,37 +1,33 @@
 {
   "id": "2gal0s3x",
   "partOfSpeech": "noun",
+  "meaning": "function, effect",
+  "english": [
+    {
+      "id": "vc0rvys0",
+      "word": "role",
+      "meaning": "function or purpose",
+      "note": "Use this for the function, purpose, or practical effect of something."
+    },
+    {
+      "id": "fdu6bhqq",
+      "word": "purpose",
+      "meaning": "function; role",
+      "note": "Use 作用 for the function or role that something performs, rather than its intended use."
+    }
+  ],
   "traditional": "作用",
   "jyutping": "zok3 jung6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "function, effect",
-      "english": [
-        {
-          "id": "vc0rvys0",
-          "word": "role",
-          "meaning": "function or purpose",
-          "note": "Use this for the function, purpose, or practical effect of something."
-        },
-        {
-          "id": "fdu6bhqq",
-          "word": "purpose",
-          "meaning": "function; role",
-          "note": "Use 作用 for the function or role that something performs, rather than its intended use."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This function plays a useful role in saving electricity.",
-          "traditional": "呢個功能喺慳電方面好有作用。",
-          "jyutping": "ni1 go3 gung1 nang4 hai2 haan1 din6 fong1 min6 hou2 jau5 zok3 jung6"
-        },
-        {
-          "english": "What purpose does this button serve?",
-          "traditional": "呢個按鈕有咩作用？",
-          "jyutping": "ni1 go3 on3 nau2 jau5 me1 zok3 jung6"
-        }
-      ]
+      "english": "This function plays a useful role in saving electricity.",
+      "traditional": "呢個功能喺慳電方面好有作用。",
+      "jyutping": "ni1 go3 gung1 nang4 hai2 haan1 din6 fong1 min6 hou2 jau5 zok3 jung6"
+    },
+    {
+      "english": "What purpose does this button serve?",
+      "traditional": "呢個按鈕有咩作用？",
+      "jyutping": "ni1 go3 on3 nau2 jau5 me1 zok3 jung6"
     }
   ]
 }

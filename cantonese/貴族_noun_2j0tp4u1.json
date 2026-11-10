@@ -1,59 +1,55 @@
 {
   "id": "2j0tp4u1",
   "partOfSpeech": "noun",
+  "meaning": "noble, aristocrat",
+  "english": [
+    {
+      "id": "elmtnuma",
+      "word": "aristocracy",
+      "meaning": "nobility; ruling class",
+      "note": "This is the all-purpose choice for hereditary nobles or the noble class."
+    },
+    {
+      "id": "wr6kddyi",
+      "word": "nobility",
+      "meaning": "noble class, aristocracy",
+      "note": "This is the all-purpose choice for the hereditary or privileged noble class."
+    },
+    {
+      "id": "mh6n6o5l",
+      "word": "nobleman",
+      "meaning": "aristocrat, peer",
+      "note": "This is the all-purpose Cantonese noun for an aristocrat or member of the nobility, including a male nobleman."
+    },
+    {
+      "id": "r9nbde7o",
+      "word": "peer",
+      "meaning": "noble peer",
+      "note": "Use this for a titled noble in a peerage or a comparable historical noble context, rather than for an ordinary equal or contemporary."
+    }
+  ],
   "traditional": "貴族",
   "jyutping": "gwai3 zuk6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "noble, aristocrat",
-      "english": [
-        {
-          "id": "elmtnuma",
-          "word": "aristocracy",
-          "meaning": "nobility; ruling class",
-          "note": "This is the all-purpose choice for hereditary nobles or the noble class."
-        },
-        {
-          "id": "wr6kddyi",
-          "word": "nobility",
-          "meaning": "noble class, aristocracy",
-          "note": "This is the all-purpose choice for the hereditary or privileged noble class."
-        },
-        {
-          "id": "mh6n6o5l",
-          "word": "nobleman",
-          "meaning": "aristocrat, peer",
-          "note": "This is the all-purpose Cantonese noun for an aristocrat or member of the nobility, including a male nobleman."
-        },
-        {
-          "id": "r9nbde7o",
-          "word": "peer",
-          "meaning": "noble peer",
-          "note": "Use this for a titled noble in a peerage or a comparable historical noble context, rather than for an ordinary equal or contemporary."
-        }
-      ],
-      "examples": [
-        {
-          "english": "That painting shows a group from the aristocracy.",
-          "traditional": "嗰幅畫畫住一班貴族。",
-          "jyutping": "go2 fuk1 waa6 waa2 zyu6 jat1 baan1 gwai3 zuk6"
-        },
-        {
-          "english": "In the past, the nobility lived in castles, and ordinary people had to bow when they saw them.",
-          "traditional": "以前啲貴族住喺城堡入面，普通人見到都要行禮。",
-          "jyutping": "ji5 cin4 di1 gwai3 zuk6 zyu6 hai2 sing4 bou2 jap6 min6 pou2 tung1 jan4 gin3 dou2 dou1 jiu3 haang4 lai5"
-        },
-        {
-          "english": "That nobleman used to live near the palace.",
-          "traditional": "嗰位貴族以前住喺皇宮附近。",
-          "jyutping": "go2 wai6 gwai3 zuk6 ji5 cin4 zyu6 hai2 wong4 gung1 fu6 gan6"
-        },
-        {
-          "english": "That peer once enjoyed privileges that commoners did not.",
-          "traditional": "嗰位貴族以前享有平民冇嘅特權。",
-          "jyutping": "go2 wai6 gwai3 zuk6 ji5 cin4 hoeng2 jau5 ping4 man4 mou5 ge3 dak6 kyun4"
-        }
-      ]
+      "english": "That painting shows a group from the aristocracy.",
+      "traditional": "嗰幅畫畫住一班貴族。",
+      "jyutping": "go2 fuk1 waa6 waa2 zyu6 jat1 baan1 gwai3 zuk6"
+    },
+    {
+      "english": "In the past, the nobility lived in castles, and ordinary people had to bow when they saw them.",
+      "traditional": "以前啲貴族住喺城堡入面，普通人見到都要行禮。",
+      "jyutping": "ji5 cin4 di1 gwai3 zuk6 zyu6 hai2 sing4 bou2 jap6 min6 pou2 tung1 jan4 gin3 dou2 dou1 jiu3 haang4 lai5"
+    },
+    {
+      "english": "That nobleman used to live near the palace.",
+      "traditional": "嗰位貴族以前住喺皇宮附近。",
+      "jyutping": "go2 wai6 gwai3 zuk6 ji5 cin4 zyu6 hai2 wong4 gung1 fu6 gan6"
+    },
+    {
+      "english": "That peer once enjoyed privileges that commoners did not.",
+      "traditional": "嗰位貴族以前享有平民冇嘅特權。",
+      "jyutping": "go2 wai6 gwai3 zuk6 ji5 cin4 hoeng2 jau5 ping4 man4 mou5 ge3 dak6 kyun4"
     }
   ]
 }

@@ -1,38 +1,34 @@
 {
   "id": "m285w25u",
   "partOfSpeech": "verb",
+  "meaning": "repeat",
+  "english": [
+    {
+      "id": "xh3yd67f",
+      "word": "echo",
+      "meaning": "repeat someone's words",
+      "note": "This is the all-purpose choice for repeating someone's words or stated view."
+    },
+    {
+      "id": "oqktw5pj",
+      "word": "repeat",
+      "meaning": "say or do again",
+      "register": "formal",
+      "note": "Use this when explicitly repeating an action or restating someone's words, particularly in careful or formal speech."
+    }
+  ],
   "traditional": "重複",
   "jyutping": "cung4 fuk1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "repeat",
-      "english": [
-        {
-          "id": "xh3yd67f",
-          "word": "echo",
-          "meaning": "repeat someone's words",
-          "note": "This is the all-purpose choice for repeating someone's words or stated view."
-        },
-        {
-          "id": "oqktw5pj",
-          "word": "repeat",
-          "meaning": "say or do again",
-          "register": "formal",
-          "note": "Use this when explicitly repeating an action or restating someone's words, particularly in careful or formal speech."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I completely echo what you said.",
-          "traditional": "你講嗰番說話，我完全重複你嘅講法。",
-          "jyutping": "nei5 gong2 go2 faan1 syut3 waa6 ngo5 jyun4 cyun4 cung4 fuk1 nei5 ge3 gong2 faat3"
-        },
-        {
-          "english": "Please repeat what you just said.",
-          "traditional": "請你重複一次頭先嗰句。",
-          "jyutping": "cing2 nei5 cung4 fuk1 jat1 ci3 tau4 sin1 go2 geoi3"
-        }
-      ]
+      "english": "I completely echo what you said.",
+      "traditional": "你講嗰番說話，我完全重複你嘅講法。",
+      "jyutping": "nei5 gong2 go2 faan1 syut3 waa6 ngo5 jyun4 cyun4 cung4 fuk1 nei5 ge3 gong2 faat3"
+    },
+    {
+      "english": "Please repeat what you just said.",
+      "traditional": "請你重複一次頭先嗰句。",
+      "jyutping": "cing2 nei5 cung4 fuk1 jat1 ci3 tau4 sin1 go2 geoi3"
     }
   ]
 }

@@ -1,37 +1,33 @@
 {
   "id": "ixicitdv",
   "partOfSpeech": "adj",
+  "meaning": "improvised, unplanned",
+  "english": [
+    {
+      "id": "sj113zgl",
+      "word": "improvisational",
+      "meaning": "done as improvisation",
+      "note": "This is the all-purpose choice for something created or performed through improvisation."
+    },
+    {
+      "id": "ia672sul",
+      "word": "spontaneous",
+      "meaning": "done without planning",
+      "note": "Use 即興 when something is done or said without preparation, especially an improvised speech, performance, or remark."
+    }
+  ],
   "traditional": "即興",
   "jyutping": "zik1 hing3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "improvised, unplanned",
-      "english": [
-        {
-          "id": "sj113zgl",
-          "word": "improvisational",
-          "meaning": "done as improvisation",
-          "note": "This is the all-purpose choice for something created or performed through improvisation."
-        },
-        {
-          "id": "ia672sul",
-          "word": "spontaneous",
-          "meaning": "done without planning",
-          "note": "Use 即興 when something is done or said without preparation, especially an improvised speech, performance, or remark."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This improvisational performance is full of sparks.",
-          "traditional": "呢場即興演出好有火花。",
-          "jyutping": "ni1 coeng4 zik1 hing3 jin2 ceot1 hou2 jau5 fo2 faa1"
-        },
-        {
-          "english": "The host suddenly asked me to go onstage, so I made a few spontaneous remarks.",
-          "traditional": "主持突然叫我上台，我即興講咗幾句。",
-          "jyutping": "zyu2 ci4 dat6 jin4 giu3 ngo5 soeng5 toi1 ngo5 zik1 hing3 gong2 zo2 gei2 geoi3"
-        }
-      ]
+      "english": "This improvisational performance is full of sparks.",
+      "traditional": "呢場即興演出好有火花。",
+      "jyutping": "ni1 coeng4 zik1 hing3 jin2 ceot1 hou2 jau5 fo2 faa1"
+    },
+    {
+      "english": "The host suddenly asked me to go onstage, so I made a few spontaneous remarks.",
+      "traditional": "主持突然叫我上台，我即興講咗幾句。",
+      "jyutping": "zyu2 ci4 dat6 jin4 giu3 ngo5 soeng5 toi1 ngo5 zik1 hing3 gong2 zo2 gei2 geoi3"
     }
   ]
 }

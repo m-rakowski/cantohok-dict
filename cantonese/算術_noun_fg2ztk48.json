@@ -1,28 +1,24 @@
 {
   "id": "fg2ztk48",
   "partOfSpeech": "noun",
+  "meaning": "basic number calculations",
+  "english": [
+    {
+      "id": "ktsc7qj4",
+      "word": "arithmetic",
+      "meaning": "basic number calculations",
+      "register": "formal",
+      "note": "This is the all-purpose noun for arithmetic as the branch of mathematics dealing with basic number operations."
+    }
+  ],
   "traditional": "算術",
   "jyutping": "syun3 seot6",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "basic number calculations",
-      "english": [
-        {
-          "id": "ktsc7qj4",
-          "word": "arithmetic",
-          "meaning": "basic number calculations",
-          "register": "formal",
-          "note": "This is the all-purpose noun for arithmetic as the branch of mathematics dealing with basic number operations."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "Arithmetic is the foundation of mathematics.",
-          "traditional": "算術係數學嘅基礎。",
-          "jyutping": "syun3 seot6 hai6 sou3 hok6 ge3 gei1 co2"
-        }
-      ]
+      "english": "Arithmetic is the foundation of mathematics.",
+      "traditional": "算術係數學嘅基礎。",
+      "jyutping": "syun3 seot6 hai6 sou3 hok6 ge3 gei1 co2"
     }
   ]
 }

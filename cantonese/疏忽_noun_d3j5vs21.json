@@ -1,38 +1,34 @@
 {
   "id": "d3j5vs21",
   "partOfSpeech": "noun",
+  "meaning": "carelessness, negligence",
+  "english": [
+    {
+      "id": "3de5z7mn",
+      "word": "carelessness",
+      "meaning": "lack of care; negligence",
+      "register": "formal",
+      "note": "This is the all-purpose noun for lack of care or negligence, especially when describing what caused a mistake or accident."
+    },
+    {
+      "id": "o1x2roh7",
+      "word": "neglect",
+      "meaning": "neglecting; failure to attend",
+      "note": "This is the all-purpose choice for an act or habitual pattern of failing to give proper care or attention."
+    }
+  ],
   "traditional": "疏忽",
   "jyutping": "so1 fat1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "carelessness, negligence",
-      "english": [
-        {
-          "id": "3de5z7mn",
-          "word": "carelessness",
-          "meaning": "lack of care; negligence",
-          "register": "formal",
-          "note": "This is the all-purpose noun for lack of care or negligence, especially when describing what caused a mistake or accident."
-        },
-        {
-          "id": "o1x2roh7",
-          "word": "neglect",
-          "meaning": "neglecting; failure to attend",
-          "note": "This is the all-purpose choice for an act or habitual pattern of failing to give proper care or attention."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This accident was caused by the staff's carelessness.",
-          "traditional": "今次意外係由於工作人員疏忽造成嘅。",
-          "jyutping": "gam1 ci3 ji3 ngoi6 hai6 jau4 jyu1 gung1 zok3 jan4 jyun4 so1 fat1 zou6 sing4 ge3"
-        },
-        {
-          "english": "Their neglect of the elderly caused a lot of trouble.",
-          "traditional": "疏忽",
-          "jyutping": "so1 fat1"
-        }
-      ]
+      "english": "This accident was caused by the staff's carelessness.",
+      "traditional": "今次意外係由於工作人員疏忽造成嘅。",
+      "jyutping": "gam1 ci3 ji3 ngoi6 hai6 jau4 jyu1 gung1 zok3 jan4 jyun4 so1 fat1 zou6 sing4 ge3"
+    },
+    {
+      "english": "Their neglect of the elderly caused a lot of trouble.",
+      "traditional": "疏忽",
+      "jyutping": "so1 fat1"
     }
   ]
 }

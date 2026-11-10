@@ -1,37 +1,33 @@
 {
   "id": "0sombt1b",
   "partOfSpeech": "adv",
+  "meaning": "voluntarily",
+  "english": [
+    {
+      "id": "0bz21gpi",
+      "word": "willingly",
+      "meaning": "of one’s own free will",
+      "note": "This is the all-purpose choice when someone does something of their own free will rather than under pressure."
+    },
+    {
+      "id": "iqf6dv21",
+      "word": "voluntarily",
+      "meaning": "of own free will",
+      "note": "Use this especially when describing voluntary participation, consent, or enrollment."
+    }
+  ],
   "traditional": "自願",
   "jyutping": "zi6 jyun6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "voluntarily",
-      "english": [
-        {
-          "id": "0bz21gpi",
-          "word": "willingly",
-          "meaning": "of one’s own free will",
-          "note": "This is the all-purpose choice when someone does something of their own free will rather than under pressure."
-        },
-        {
-          "id": "iqf6dv21",
-          "word": "voluntarily",
-          "meaning": "of own free will",
-          "note": "Use this especially when describing voluntary participation, consent, or enrollment."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I willingly signed up for this volunteer activity.",
-          "traditional": "我係自願報名參加呢個義工活動嘅。",
-          "jyutping": "ngo5 hai6 zi6 jyun6 bou3 meng2 caam1 gaa1 ni1 go3 ji6 gung1 wut6 dung6 ge3"
-        },
-        {
-          "english": "They voluntarily took part in this volunteer activity.",
-          "traditional": "佢哋自願參加今次義工活動。",
-          "jyutping": "keoi5 dei6 zi6 jyun6 caam1 gaa1 gam1 ci3 ji6 gung1 wut6 dung6"
-        }
-      ]
+      "english": "I willingly signed up for this volunteer activity.",
+      "traditional": "我係自願報名參加呢個義工活動嘅。",
+      "jyutping": "ngo5 hai6 zi6 jyun6 bou3 meng2 caam1 gaa1 ni1 go3 ji6 gung1 wut6 dung6 ge3"
+    },
+    {
+      "english": "They voluntarily took part in this volunteer activity.",
+      "traditional": "佢哋自願參加今次義工活動。",
+      "jyutping": "keoi5 dei6 zi6 jyun6 caam1 gaa1 gam1 ci3 ji6 gung1 wut6 dung6"
     }
   ]
 }

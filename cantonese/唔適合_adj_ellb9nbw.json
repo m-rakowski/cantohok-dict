@@ -1,37 +1,33 @@
 {
   "id": "ellb9nbw",
   "partOfSpeech": "adj",
+  "meaning": "not suitable",
+  "english": [
+    {
+      "id": "btcuxr9c",
+      "word": "unfit",
+      "meaning": "not qualified / not suitable",
+      "note": "This is the all-purpose choice when a person or thing is unsuitable for a team, situation, or purpose."
+    },
+    {
+      "id": "n1q5y54w",
+      "word": "unsuitable",
+      "meaning": "not suitable",
+      "note": "Use this when you want to state explicitly that a person, thing, or activity is unsuitable for a particular purpose or situation."
+    }
+  ],
   "traditional": "唔適合",
   "jyutping": "m4 sik1 hap6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "not suitable",
-      "english": [
-        {
-          "id": "btcuxr9c",
-          "word": "unfit",
-          "meaning": "not qualified / not suitable",
-          "note": "This is the all-purpose choice when a person or thing is unsuitable for a team, situation, or purpose."
-        },
-        {
-          "id": "n1q5y54w",
-          "word": "unsuitable",
-          "meaning": "not suitable",
-          "note": "Use this when you want to state explicitly that a person, thing, or activity is unsuitable for a particular purpose or situation."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This job is unfit for you.",
-          "traditional": "呢份工唔適合你。",
-          "jyutping": "ni1 fan6 gung1 m4 sik1 hap6 nei5"
-        },
-        {
-          "english": "This course is unsuitable for beginners.",
-          "traditional": "呢個課程唔適合初學者。",
-          "jyutping": "ni1 go3 fo3 cing4 m4 sik1 hap6 co1 hok6 ze2"
-        }
-      ]
+      "english": "This job is unfit for you.",
+      "traditional": "呢份工唔適合你。",
+      "jyutping": "ni1 fan6 gung1 m4 sik1 hap6 nei5"
+    },
+    {
+      "english": "This course is unsuitable for beginners.",
+      "traditional": "呢個課程唔適合初學者。",
+      "jyutping": "ni1 go3 fo3 cing4 m4 sik1 hap6 co1 hok6 ze2"
     }
   ]
 }

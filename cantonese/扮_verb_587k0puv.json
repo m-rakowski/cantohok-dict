@@ -1,113 +1,68 @@
 {
   "id": "587k0puv",
   "partOfSpeech": "verb",
-  "traditional": "扮",
-  "jyutping": "baan6",
-  "boxes": [
+  "meaning": "pretend, put on an act",
+  "english": [
     {
-      "meaning": "pretend, put on an act",
-      "english": [
-        {
-          "id": "padjdyi2",
-          "word": "pretend",
-          "meaning": "act falsely; fake",
-          "note": "This is the all-purpose spoken choice for pretending, including acting falsely, make-believe, and feigning a state."
-        },
-        {
-          "id": "gwjd9b3e",
-          "word": "feign",
-          "meaning": "pretend; fake",
-          "note": "This is the all-purpose colloquial choice for pretending to have a condition or showing a false appearance, such as 扮病."
-        },
-        {
-          "id": "fnzg2prl",
-          "word": "dissemble",
-          "meaning": "disguise or conceal",
-          "register": "colloquial",
-          "note": "Use this when the dissembling involves pretending to be different or pretending not to feel or think something."
-        },
-        {
-          "id": "j17d5ofv",
-          "word": "act",
-          "meaning": "seem; appear",
-          "note": "Use 扮 when someone deliberately puts on an appearance or feigns a feeling, rather than genuinely seeming that way."
-        },
-        {
-          "id": "chsirpjc",
-          "word": "assume",
-          "meaning": "pretend quality",
-          "register": "colloquial",
-          "note": "Use this for adopting a feigned manner or quality, such as acting indifferent."
-        }
-      ],
-      "examples": [
-        {
-          "english": "They always pretend they know everything.",
-          "traditional": "佢成日扮到自己乜都識咁。",
-          "jyutping": "keoi5 seng4 jat6 baan6 dou3 zi6 gei2 mat1 dou1 sik1 gam2"
-        },
-        {
-          "english": "They feign illness so they do not have to go to work.",
-          "traditional": "佢成日扮病，唔使返工。",
-          "jyutping": "keoi5 seng4 jat6 baan6 beng6 m4 sai2 faan1 gung1"
-        },
-        {
-          "english": "They dissemble by pretending to be completely unfazed even though they are clearly nervous.",
-          "traditional": "佢明明好緊張，仲要扮到若無其事。",
-          "jyutping": "keoi5 ming4 ming4 hou2 gan2 zoeng1 zung6 jiu3 baan6 dou3 joek6 mou4 kei4 si6"
-        },
-        {
-          "english": "Don't act pitiful; I know you're fine.",
-          "traditional": "你唔使扮可憐，我知你冇事。",
-          "jyutping": "nei5 m4 sai2 baan6 ho2 lin4 ngo5 zi1 nei5 mou5 si6"
-        },
-        {
-          "english": "You don't need to assume an indifferent attitude.",
-          "traditional": "你唔使扮唔在乎。",
-          "jyutping": "nei5 m4 sai2 baan6 m4 zoi6 fu1"
-        }
-      ]
+      "id": "padjdyi2",
+      "word": "pretend",
+      "meaning": "act falsely; fake",
+      "note": "This is the all-purpose spoken choice for pretending, including acting falsely, make-believe, and feigning a state."
     },
     {
-      "meaning": "dress up as, imitate someone",
-      "english": [
-        {
-          "id": "to1q8s6i",
-          "word": "disguise",
-          "meaning": "to make look different",
-          "register": "colloquial",
-          "note": "Use 扮 in casual speech when someone changes their appearance or acts as another person, especially by taking on a role or identity."
-        },
-        {
-          "id": "u3t6ck5h",
-          "word": "impersonate",
-          "meaning": "pretend to be someone",
-          "note": "This is the all-purpose colloquial choice for pretending to be another person, especially without stressing fraud."
-        },
-        {
-          "id": "cc6wlkwk",
-          "word": "imitate",
-          "meaning": "copy; follow as a model",
-          "note": "Use this when imitating a person's manner, voice, or behavior, often with a playful or mocking implication."
-        }
-      ],
-      "examples": [
-        {
-          "english": "They disguise themselves as students to get into the venue.",
-          "traditional": "佢扮學生混入會場。",
-          "jyutping": "keoi5 baan6 hok6 saang1 wan6 jap6 wui6 coeng4"
-        },
-        {
-          "english": "They always impersonate the teacher, making the whole class laugh.",
-          "traditional": "佢成日扮老師，搞到全班笑晒。",
-          "jyutping": "keoi5 seng4 jat6 baan6 lou5 si1 gaau2 dou3 cyun4 baan1 siu3 saai3"
-        },
-        {
-          "english": "You always imitate the way I talk!",
-          "traditional": "你成日扮我講嘢㗎喎！",
-          "jyutping": "nei5 sing4 jat6 baan6 ngo5 gong2 je5 gaa3 wo3"
-        }
-      ]
+      "id": "gwjd9b3e",
+      "word": "feign",
+      "meaning": "pretend; fake",
+      "note": "This is the all-purpose colloquial choice for pretending to have a condition or showing a false appearance, such as 扮病."
+    },
+    {
+      "id": "fnzg2prl",
+      "word": "dissemble",
+      "meaning": "disguise or conceal",
+      "register": "colloquial",
+      "note": "Use this when the dissembling involves pretending to be different or pretending not to feel or think something."
+    },
+    {
+      "id": "j17d5ofv",
+      "word": "act",
+      "meaning": "seem; appear",
+      "note": "Use 扮 when someone deliberately puts on an appearance or feigns a feeling, rather than genuinely seeming that way."
+    },
+    {
+      "id": "chsirpjc",
+      "word": "assume",
+      "meaning": "pretend quality",
+      "register": "colloquial",
+      "note": "Use this for adopting a feigned manner or quality, such as acting indifferent."
+    }
+  ],
+  "traditional": "扮",
+  "jyutping": "baan6",
+  "examples": [
+    {
+      "english": "They always pretend they know everything.",
+      "traditional": "佢成日扮到自己乜都識咁。",
+      "jyutping": "keoi5 seng4 jat6 baan6 dou3 zi6 gei2 mat1 dou1 sik1 gam2"
+    },
+    {
+      "english": "They feign illness so they do not have to go to work.",
+      "traditional": "佢成日扮病，唔使返工。",
+      "jyutping": "keoi5 seng4 jat6 baan6 beng6 m4 sai2 faan1 gung1"
+    },
+    {
+      "english": "They dissemble by pretending to be completely unfazed even though they are clearly nervous.",
+      "traditional": "佢明明好緊張，仲要扮到若無其事。",
+      "jyutping": "keoi5 ming4 ming4 hou2 gan2 zoeng1 zung6 jiu3 baan6 dou3 joek6 mou4 kei4 si6"
+    },
+    {
+      "english": "Don't act pitiful; I know you're fine.",
+      "traditional": "你唔使扮可憐，我知你冇事。",
+      "jyutping": "nei5 m4 sai2 baan6 ho2 lin4 ngo5 zi1 nei5 mou5 si6"
+    },
+    {
+      "english": "You don't need to assume an indifferent attitude.",
+      "traditional": "你唔使扮唔在乎。",
+      "jyutping": "nei5 m4 sai2 baan6 m4 zoi6 fu1"
     }
   ]
 }

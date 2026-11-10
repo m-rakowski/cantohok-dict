@@ -1,28 +1,24 @@
 {
   "id": "me5f8atf",
   "partOfSpeech": "noun",
+  "meaning": "spreadsheet program",
+  "english": [
+    {
+      "id": "12br9vqu",
+      "word": "spreadsheet",
+      "meaning": "spreadsheet program",
+      "register": "written",
+      "note": "Use this generic term when the brand is irrelevant or in technical and written contexts; it can refer to either the program or the file."
+    }
+  ],
   "traditional": "試算表",
   "jyutping": "si3 syun3 biu2",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "spreadsheet program",
-      "english": [
-        {
-          "id": "12br9vqu",
-          "word": "spreadsheet",
-          "meaning": "spreadsheet program",
-          "register": "written",
-          "note": "Use this generic term when the brand is irrelevant or in technical and written contexts; it can refer to either the program or the file."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "This spreadsheet automatically calculates the monthly expenses.",
-          "traditional": "呢份試算表會自動計算每月開支。",
-          "jyutping": "ni1 fan6 si3 syun3 biu2 wui6 zi6 dung6 gai3 syun3 mui5 jyut6 hoi1 zi1"
-        }
-      ]
+      "english": "This spreadsheet automatically calculates the monthly expenses.",
+      "traditional": "呢份試算表會自動計算每月開支。",
+      "jyutping": "ni1 fan6 si3 syun3 biu2 wui6 zi6 dung6 gai3 syun3 mui5 jyut6 hoi1 zi1"
     }
   ]
 }

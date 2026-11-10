@@ -1,28 +1,24 @@
 {
   "id": "85wok0qk",
   "partOfSpeech": "adj",
+  "meaning": "having a center",
+  "english": [
+    {
+      "id": "fyxi0rqh",
+      "word": "central",
+      "meaning": "having a center",
+      "register": "formal",
+      "note": "Use this for a central position or area, especially in more formal or institutional descriptions."
+    }
+  ],
   "traditional": "中央",
   "jyutping": "zung1 joeng1",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "having a center",
-      "english": [
-        {
-          "id": "fyxi0rqh",
-          "word": "central",
-          "meaning": "having a center",
-          "register": "formal",
-          "note": "Use this for a central position or area, especially in more formal or institutional descriptions."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "A statue was placed in the central area of the hall.",
-          "traditional": "大堂中央擺咗一座雕像。",
-          "jyutping": "daai6 tong4 zung1 joeng1 baai2 zo2 jat1 zo6 diu1 zoeng6"
-        }
-      ]
+      "english": "A statue was placed in the central area of the hall.",
+      "traditional": "大堂中央擺咗一座雕像。",
+      "jyutping": "daai6 tong4 zung1 joeng1 baai2 zo2 jat1 zo6 diu1 zoeng6"
     }
   ]
 }

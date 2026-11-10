@@ -1,40 +1,36 @@
 {
   "id": "j0vanyj0",
   "partOfSpeech": "verb",
+  "meaning": "draw, tie",
+  "english": [
+    {
+      "id": "jenh9ow8",
+      "word": "tie",
+      "meaning": "be tied; draw",
+      "register": "colloquial",
+      "note": "Use this for teams or competitors ending with the same score, especially in a match."
+    },
+    {
+      "id": "gpkozq6o",
+      "word": "draw",
+      "meaning": "end in a tie",
+      "register": "colloquial",
+      "note": "Use this specifically when a game or match ends with neither side winning."
+    }
+  ],
   "traditional": "打和",
   "jyutping": "daa2 wo4",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "draw, tie",
-      "english": [
-        {
-          "id": "jenh9ow8",
-          "word": "tie",
-          "meaning": "be tied; draw",
-          "register": "colloquial",
-          "note": "Use this for teams or competitors ending with the same score, especially in a match."
-        },
-        {
-          "id": "gpkozq6o",
-          "word": "draw",
-          "meaning": "end in a tie",
-          "register": "colloquial",
-          "note": "Use this specifically when a game or match ends with neither side winning."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "The two teams tie in this match.",
-          "traditional": "兩隊今場波打和。",
-          "jyutping": "loeng5 deoi6 gam1 coeng4 bo1 daa2 wo4"
-        },
-        {
-          "english": "Last night’s match ended in a draw.",
-          "traditional": "噚晚場波打和。",
-          "jyutping": "cam4 maan5 coeng4 bo1 daa2 wo4"
-        }
-      ]
+      "english": "The two teams tie in this match.",
+      "traditional": "兩隊今場波打和。",
+      "jyutping": "loeng5 deoi6 gam1 coeng4 bo1 daa2 wo4"
+    },
+    {
+      "english": "Last night’s match ended in a draw.",
+      "traditional": "噚晚場波打和。",
+      "jyutping": "cam4 maan5 coeng4 bo1 daa2 wo4"
     }
   ]
 }

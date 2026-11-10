@@ -1,37 +1,33 @@
 {
   "id": "iebhfwhp",
   "partOfSpeech": "adj",
+  "meaning": "unselfish",
+  "english": [
+    {
+      "id": "1utuy3kx",
+      "word": "selfless",
+      "meaning": "unselfish; concerned for others",
+      "note": "This is the everyday all-purpose way to say that someone puts others before themselves."
+    },
+    {
+      "id": "gpz9qv93",
+      "word": "unselfish",
+      "meaning": "not selfish; generous",
+      "note": "This is the all-purpose colloquial choice for saying someone is not selfish."
+    }
+  ],
   "traditional": "唔自私",
   "jyutping": "m4 zi6 si1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "unselfish",
-      "english": [
-        {
-          "id": "1utuy3kx",
-          "word": "selfless",
-          "meaning": "unselfish; concerned for others",
-          "note": "This is the everyday all-purpose way to say that someone puts others before themselves."
-        },
-        {
-          "id": "gpz9qv93",
-          "word": "unselfish",
-          "meaning": "not selfish; generous",
-          "note": "This is the all-purpose colloquial choice for saying someone is not selfish."
-        }
-      ],
-      "examples": [
-        {
-          "english": "They always think of others first; they are truly selfless.",
-          "traditional": "佢成日先諗人哋，真係唔自私。",
-          "jyutping": "keoi5 seng4 jat6 sin1 nam2 jan4 dei6 zan1 hai6 m4 zi6 si1"
-        },
-        {
-          "english": "They are unselfish and always share good things with others.",
-          "traditional": "佢做人唔自私，有好嘢一定同人分享。",
-          "jyutping": "keoi5 zou6 jan4 m4 zi6 si1 jau5 hou2 je5 jat1 ding6 tung4 jan4 fan1 hoeng2"
-        }
-      ]
+      "english": "They always think of others first; they are truly selfless.",
+      "traditional": "佢成日先諗人哋，真係唔自私。",
+      "jyutping": "keoi5 seng4 jat6 sin1 nam2 jan4 dei6 zan1 hai6 m4 zi6 si1"
+    },
+    {
+      "english": "They are unselfish and always share good things with others.",
+      "traditional": "佢做人唔自私，有好嘢一定同人分享。",
+      "jyutping": "keoi5 zou6 jan4 m4 zi6 si1 jau5 hou2 je5 jat1 ding6 tung4 jan4 fan1 hoeng2"
     }
   ]
 }

@@ -1,28 +1,24 @@
 {
   "id": "zk8ful4d",
   "partOfSpeech": "verb",
+  "meaning": "move under gravity",
+  "english": [
+    {
+      "id": "xiw7pv94",
+      "word": "gravitate",
+      "meaning": "move under gravity",
+      "register": "colloquial",
+      "note": "Use this for a physical object moving downward or falling under gravity, rather than being drawn toward a target."
+    }
+  ],
   "traditional": "跌落去",
   "jyutping": "dit3 lok6 heoi3",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "move under gravity",
-      "english": [
-        {
-          "id": "xiw7pv94",
-          "word": "gravitate",
-          "meaning": "move under gravity",
-          "register": "colloquial",
-          "note": "Use this for a physical object moving downward or falling under gravity, rather than being drawn toward a target."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "Once the apple comes off the branch, it will gravitate downward.",
-          "traditional": "個蘋果一離開樹枝就跌落去喇。",
-          "jyutping": "go3 ping4 gwo2 jat1 lei4 hoi1 syu6 zi1 zau6 dit3 lok6 heoi3 laa3"
-        }
-      ]
+      "english": "Once the apple comes off the branch, it will gravitate downward.",
+      "traditional": "個蘋果一離開樹枝就跌落去喇。",
+      "jyutping": "go3 ping4 gwo2 jat1 lei4 hoi1 syu6 zi1 zau6 dit3 lok6 heoi3 laa3"
     }
   ]
 }

@@ -1,28 +1,24 @@
 {
   "id": "74nr2f4j",
   "partOfSpeech": "noun",
+  "meaning": "vertical distance below surface",
+  "english": [
+    {
+      "id": "t0gyai2o",
+      "word": "depth",
+      "meaning": "vertical distance below surface",
+      "register": "colloquial",
+      "note": "This is the colloquial choice for how deep something is, especially water or a hole, rather than a measured specification."
+    }
+  ],
   "traditional": "深淺",
   "jyutping": "sam1 cin2",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "vertical distance below surface",
-      "english": [
-        {
-          "id": "t0gyai2o",
-          "word": "depth",
-          "meaning": "vertical distance below surface",
-          "register": "colloquial",
-          "note": "This is the colloquial choice for how deep something is, especially water or a hole, rather than a measured specification."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "We don't know the depth of this puddle, so don't go so close.",
-          "traditional": "呢個水氹唔知深淺，你唔好行咁埋。",
-          "jyutping": "ni1 go3 seoi2 tam5 m4 zi1 sam1 cin2 nei5 m4 hou2 haang4 gam3 maai4"
-        }
-      ]
+      "english": "We don't know the depth of this puddle, so don't go so close.",
+      "traditional": "呢個水氹唔知深淺，你唔好行咁埋。",
+      "jyutping": "ni1 go3 seoi2 tam5 m4 zi1 sam1 cin2 nei5 m4 hou2 haang4 gam3 maai4"
     }
   ]
 }

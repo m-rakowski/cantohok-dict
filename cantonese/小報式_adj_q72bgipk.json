@@ -1,28 +1,24 @@
 {
   "id": "q72bgipk",
   "partOfSpeech": "adj",
+  "meaning": "sensational journalism style",
+  "english": [
+    {
+      "id": "sz3h2ozv",
+      "word": "tabloid",
+      "meaning": "sensational journalism style",
+      "register": "written",
+      "note": "Use this when explicitly describing something as having the style associated with a tabloid newspaper."
+    }
+  ],
   "traditional": "小報式",
   "jyutping": "siu2 bou3 sik1",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "sensational journalism style",
-      "english": [
-        {
-          "id": "sz3h2ozv",
-          "word": "tabloid",
-          "meaning": "sensational journalism style",
-          "register": "written",
-          "note": "Use this when explicitly describing something as having the style associated with a tabloid newspaper."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "The paper covered the accident in a tabloid manner.",
-          "traditional": "該報以小報式手法處理事故報道。",
-          "jyutping": "goi1 bou3 ji5 siu2 bou3 sik1 sau2 faat3 cyu2 lei5 si6 gu3 bou3 dou6"
-        }
-      ]
+      "english": "The paper covered the accident in a tabloid manner.",
+      "traditional": "該報以小報式手法處理事故報道。",
+      "jyutping": "goi1 bou3 ji5 siu2 bou3 sik1 sau2 faat3 cyu2 lei5 si6 gu3 bou3 dou6"
     }
   ]
 }

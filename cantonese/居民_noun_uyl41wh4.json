@@ -1,37 +1,33 @@
 {
   "id": "uyl41wh4",
   "partOfSpeech": "noun",
+  "meaning": "resident, inhabitant",
+  "english": [
+    {
+      "id": "c8kg4vbt",
+      "word": "resident",
+      "meaning": "person living somewhere",
+      "note": "This is the all-purpose choice for a person who lives in a particular place or area."
+    },
+    {
+      "id": "2r27094r",
+      "word": "inhabitant",
+      "meaning": "person/thing living in a place",
+      "note": "Use this concise noun for inhabitants of an area, community, or habitat, including non-human inhabitants in suitable contexts."
+    }
+  ],
   "traditional": "居民",
   "jyutping": "geoi1 man4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "resident, inhabitant",
-      "english": [
-        {
-          "id": "c8kg4vbt",
-          "word": "resident",
-          "meaning": "person living somewhere",
-          "note": "This is the all-purpose choice for a person who lives in a particular place or area."
-        },
-        {
-          "id": "2r27094r",
-          "word": "inhabitant",
-          "meaning": "person/thing living in a place",
-          "note": "Use this concise noun for inhabitants of an area, community, or habitat, including non-human inhabitants in suitable contexts."
-        }
-      ],
-      "examples": [
-        {
-          "english": "A resident in this area said it was too noisy downstairs.",
-          "traditional": "呢區有個居民話樓下太嘈。",
-          "jyutping": "ni1 keoi1 jau5 go3 geoi1 man4 waa6 lau4 haa6 taai3 cou4"
-        },
-        {
-          "english": "Each inhabitant of this village is very helpful.",
-          "traditional": "呢條村嘅居民個個都好熱心。",
-          "jyutping": "ni1 tiu4 cyun1 ge3 geoi1 man4 go3 go3 dou1 hou2 jit6 sam1"
-        }
-      ]
+      "english": "A resident in this area said it was too noisy downstairs.",
+      "traditional": "呢區有個居民話樓下太嘈。",
+      "jyutping": "ni1 keoi1 jau5 go3 geoi1 man4 waa6 lau4 haa6 taai3 cou4"
+    },
+    {
+      "english": "Each inhabitant of this village is very helpful.",
+      "traditional": "呢條村嘅居民個個都好熱心。",
+      "jyutping": "ni1 tiu4 cyun1 ge3 geoi1 man4 go3 go3 dou1 hou2 jit6 sam1"
     }
   ]
 }

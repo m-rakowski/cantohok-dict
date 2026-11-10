@@ -1,28 +1,24 @@
 {
   "id": "f1soarys",
   "partOfSpeech": "noun",
+  "meaning": "probability; chance",
+  "english": [
+    {
+      "id": "5v1ghqrn",
+      "word": "likelihood",
+      "meaning": "probability; chance",
+      "register": "formal",
+      "note": "Use this for a numerical or technical probability rather than an everyday conversational estimate."
+    }
+  ],
   "traditional": "機率",
   "jyutping": "gei1 leot2",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "probability; chance",
-      "english": [
-        {
-          "id": "5v1ghqrn",
-          "word": "likelihood",
-          "meaning": "probability; chance",
-          "register": "formal",
-          "note": "Use this for a numerical or technical probability rather than an everyday conversational estimate."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "According to the statistics, the likelihood of this illness recurring is ten percent.",
-          "traditional": "按照統計，呢種病復發嘅機率係百分之十。",
-          "jyutping": "on3 ziu3 tung2 gai3 ne1 zung2 beng6 fuk6 faat3 ge3 gei1 leot2 hai6 baak3 fan6 zi1 sap6"
-        }
-      ]
+      "english": "According to the statistics, the likelihood of this illness recurring is ten percent.",
+      "traditional": "按照統計，呢種病復發嘅機率係百分之十。",
+      "jyutping": "on3 ziu3 tung2 gai3 ne1 zung2 beng6 fuk6 faat3 ge3 gei1 leot2 hai6 baak3 fan6 zi1 sap6"
     }
   ]
 }

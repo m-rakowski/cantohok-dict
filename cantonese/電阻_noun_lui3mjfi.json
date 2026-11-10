@@ -1,26 +1,22 @@
 {
   "id": "lui3mjfi",
   "partOfSpeech": "noun",
+  "meaning": "electrical resistance",
+  "english": [
+    {
+      "id": "vrn9gbp6",
+      "word": "resistance",
+      "meaning": "electrical resistance",
+      "note": "Use 電阻 specifically for resistance in an electrical circuit."
+    }
+  ],
   "traditional": "電阻",
   "jyutping": "din6 zo2",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "electrical resistance",
-      "english": [
-        {
-          "id": "vrn9gbp6",
-          "word": "resistance",
-          "meaning": "electrical resistance",
-          "note": "Use 電阻 specifically for resistance in an electrical circuit."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The resistance of this wire is too high, so the machine won't turn on.",
-          "traditional": "呢條電線嘅電阻太大，部機開唔着。",
-          "jyutping": "ni1 tiu4 din6 sin3 ge3 din6 zo2 taai3 daai6 bou6 gei1 hoi1 m4 zoek6"
-        }
-      ]
+      "english": "The resistance of this wire is too high, so the machine won't turn on.",
+      "traditional": "呢條電線嘅電阻太大，部機開唔着。",
+      "jyutping": "ni1 tiu4 din6 sin3 ge3 din6 zo2 taai3 daai6 bou6 gei1 hoi1 m4 zoek6"
     }
   ]
 }

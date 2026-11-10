@@ -1,28 +1,24 @@
 {
   "id": "ax14kbkw",
   "partOfSpeech": "verb",
+  "meaning": "finish successfully",
+  "english": [
+    {
+      "id": "d721fwuz",
+      "word": "accomplish",
+      "meaning": "finish successfully",
+      "register": "colloquial",
+      "note": "Use this colloquial choice when stressing that a task has been successfully got done."
+    }
+  ],
   "traditional": "搞掂",
   "jyutping": "gaau2 dim6",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "finish successfully",
-      "english": [
-        {
-          "id": "d721fwuz",
-          "word": "accomplish",
-          "meaning": "finish successfully",
-          "register": "colloquial",
-          "note": "Use this colloquial choice when stressing that a task has been successfully got done."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "I finally accomplish this task.",
-          "traditional": "我終於搞掂呢個任務喇。",
-          "jyutping": "ngo5 zung1 jyu1 gaau2 dim6 ni1 go3 jam6 mou6 laa3"
-        }
-      ]
+      "english": "I finally accomplish this task.",
+      "traditional": "我終於搞掂呢個任務喇。",
+      "jyutping": "ngo5 zung1 jyu1 gaau2 dim6 ni1 go3 jam6 mou6 laa3"
     }
   ]
 }

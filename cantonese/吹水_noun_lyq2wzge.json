@@ -1,28 +1,24 @@
 {
   "id": "lyq2wzge",
   "partOfSpeech": "noun",
+  "meaning": "an exaggeration",
+  "english": [
+    {
+      "id": "udx01l1x",
+      "word": "hyperbole",
+      "meaning": "an exaggeration",
+      "register": "colloquial",
+      "note": "Use this colloquial, dismissive word when the exaggeration is being treated as boastful or untrue rather than described neutrally."
+    }
+  ],
   "traditional": "吹水",
   "jyutping": "ceoi1 seoi2",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "an exaggeration",
-      "english": [
-        {
-          "id": "udx01l1x",
-          "word": "hyperbole",
-          "meaning": "an exaggeration",
-          "register": "colloquial",
-          "note": "Use this colloquial, dismissive word when the exaggeration is being treated as boastful or untrue rather than described neutrally."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "His claim that he can finish all the food at a banquet by himself is pure hyperbole.",
-          "traditional": "佢話自己一個人食得晒成圍菜，完全係吹水。",
-          "jyutping": "keoi5 waa6 zi6 gei2 jat1 go3 jan4 sik6 dak1 saai3 sing4 wai4 coi3 jyun4 cyun4 hai6 ceoi1 seoi2"
-        }
-      ]
+      "english": "His claim that he can finish all the food at a banquet by himself is pure hyperbole.",
+      "traditional": "佢話自己一個人食得晒成圍菜，完全係吹水。",
+      "jyutping": "keoi5 waa6 zi6 gei2 jat1 go3 jan4 sik6 dak1 saai3 sing4 wai4 coi3 jyun4 cyun4 hai6 ceoi1 seoi2"
     }
   ]
 }

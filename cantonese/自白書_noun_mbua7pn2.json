@@ -1,28 +1,24 @@
 {
   "id": "mbua7pn2",
   "partOfSpeech": "noun",
+  "meaning": "written confession",
+  "english": [
+    {
+      "id": "bf9ao7wq",
+      "word": "confession",
+      "meaning": "written confession",
+      "register": "formal",
+      "note": "Use 自白書 when the confession is a formal written document that someone signs or submits."
+    }
+  ],
   "traditional": "自白書",
   "jyutping": "zi6 baak6 syu1",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "written confession",
-      "english": [
-        {
-          "id": "bf9ao7wq",
-          "word": "confession",
-          "meaning": "written confession",
-          "register": "formal",
-          "note": "Use 自白書 when the confession is a formal written document that someone signs or submits."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The lawyer told me to sign a confession first.",
-          "traditional": "律師叫我簽咗份自白書先。",
-          "jyutping": "leot6 si1 giu3 ngo5 cim1 zo2 fan6 zi6 baak6 syu1 sin1"
-        }
-      ]
+      "english": "The lawyer told me to sign a confession first.",
+      "traditional": "律師叫我簽咗份自白書先。",
+      "jyutping": "leot6 si1 giu3 ngo5 cim1 zo2 fan6 zi6 baak6 syu1 sin1"
     }
   ]
 }

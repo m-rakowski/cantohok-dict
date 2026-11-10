@@ -1,37 +1,33 @@
 {
   "id": "c9dvymjt",
   "partOfSpeech": "noun",
+  "meaning": "badge, pin",
+  "english": [
+    {
+      "id": "onshroix",
+      "word": "badge",
+      "meaning": "uniform insignia",
+      "note": "Use 襟章 for a physical badge or pin worn on a uniform or item of clothing."
+    },
+    {
+      "id": "fprqdewe",
+      "word": "button",
+      "meaning": "badge button",
+      "note": "Use this specifically for a badge-style button pinned to clothing."
+    }
+  ],
   "traditional": "襟章",
   "jyutping": "gam1 zoeng1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "badge, pin",
-      "english": [
-        {
-          "id": "onshroix",
-          "word": "badge",
-          "meaning": "uniform insignia",
-          "note": "Use 襟章 for a physical badge or pin worn on a uniform or item of clothing."
-        },
-        {
-          "id": "fprqdewe",
-          "word": "button",
-          "meaning": "badge button",
-          "note": "Use this specifically for a badge-style button pinned to clothing."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The company requires me to wear a badge at work.",
-          "traditional": "公司要求我返工一定要戴襟章。",
-          "jyutping": "gung1 si1 jiu1 kau4 ngo5 faan1 gung1 jat1 ding6 jiu3 daai3 gam1 zoeng1"
-        },
-        {
-          "english": "They pinned a button badge to their school uniform.",
-          "traditional": "佢件校服釘咗個襟章。",
-          "jyutping": "keoi5 gin6 haau6 fuk6 ding1 zo2 go3 gam1 zoeng1"
-        }
-      ]
+      "english": "The company requires me to wear a badge at work.",
+      "traditional": "公司要求我返工一定要戴襟章。",
+      "jyutping": "gung1 si1 jiu1 kau4 ngo5 faan1 gung1 jat1 ding6 jiu3 daai3 gam1 zoeng1"
+    },
+    {
+      "english": "They pinned a button badge to their school uniform.",
+      "traditional": "佢件校服釘咗個襟章。",
+      "jyutping": "keoi5 gin6 haau6 fuk6 ding1 zo2 go3 gam1 zoeng1"
     }
   ]
 }

@@ -1,38 +1,34 @@
 {
   "id": "1qsnyvp1",
   "partOfSpeech": "verb",
+  "meaning": "to belittle, put down",
+  "english": [
+    {
+      "id": "rdusedyk",
+      "word": "degrade",
+      "meaning": "lower in status",
+      "note": "Use this when someone deliberately lowers another person's—or their own—value, status, or dignity."
+    },
+    {
+      "id": "n2jsa9f5",
+      "word": "disparage",
+      "meaning": "speak slightingly of",
+      "register": "formal",
+      "note": "Use this when deliberately lowering someone's status, value, or estimation, especially in more formal discussion."
+    }
+  ],
   "traditional": "貶低",
   "jyutping": "bin2 dai1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "to belittle, put down",
-      "english": [
-        {
-          "id": "rdusedyk",
-          "word": "degrade",
-          "meaning": "lower in status",
-          "note": "Use this when someone deliberately lowers another person's—or their own—value, status, or dignity."
-        },
-        {
-          "id": "n2jsa9f5",
-          "word": "disparage",
-          "meaning": "speak slightingly of",
-          "register": "formal",
-          "note": "Use this when deliberately lowering someone's status, value, or estimation, especially in more formal discussion."
-        }
-      ],
-      "examples": [
-        {
-          "english": "You shouldn't degrade yourself just to please others.",
-          "traditional": "你唔應該為咗討好人而貶低自己。",
-          "jyutping": "nei5 m4 jing1 goi1 wai6 zo2 tou2 hou2 jan4 ji4 bin2 dai1 zi6 gei2"
-        },
-        {
-          "english": "We should not disparage the contributions of frontline employees in the report.",
-          "traditional": "喺份報告入面，唔應該貶低基層員工嘅貢獻。",
-          "jyutping": "hai2 fan6 bou3 gou3 jap6 min6 m4 jing1 goi1 bin2 dai1 gei1 cang4 jyun4 gung1 ge3 gung3 hin3"
-        }
-      ]
+      "english": "You shouldn't degrade yourself just to please others.",
+      "traditional": "你唔應該為咗討好人而貶低自己。",
+      "jyutping": "nei5 m4 jing1 goi1 wai6 zo2 tou2 hou2 jan4 ji4 bin2 dai1 zi6 gei2"
+    },
+    {
+      "english": "We should not disparage the contributions of frontline employees in the report.",
+      "traditional": "喺份報告入面，唔應該貶低基層員工嘅貢獻。",
+      "jyutping": "hai2 fan6 bou3 gou3 jap6 min6 m4 jing1 goi1 bin2 dai1 gei1 cang4 jyun4 gung1 ge3 gung3 hin3"
     }
   ]
 }

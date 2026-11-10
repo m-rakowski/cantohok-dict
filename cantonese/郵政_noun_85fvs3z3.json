@@ -1,38 +1,34 @@
 {
   "id": "85fvs3z3",
   "partOfSpeech": "noun",
+  "meaning": "postal service",
+  "english": [
+    {
+      "id": "wwrsy20l",
+      "word": "post",
+      "meaning": "mail service",
+      "note": "Use this for the postal organisation or the mail service rather than an individual delivery."
+    },
+    {
+      "id": "ezbwg15r",
+      "word": "mail",
+      "meaning": "postal service",
+      "register": "formal",
+      "note": "Use this for the postal service or postal system as an institution."
+    }
+  ],
   "traditional": "郵政",
   "jyutping": "jau4 zing3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "postal service",
-      "english": [
-        {
-          "id": "wwrsy20l",
-          "word": "post",
-          "meaning": "mail service",
-          "note": "Use this for the postal organisation or the mail service rather than an individual delivery."
-        },
-        {
-          "id": "ezbwg15r",
-          "word": "mail",
-          "meaning": "postal service",
-          "register": "formal",
-          "note": "Use this for the postal service or postal system as an institution."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The post service now charges more to send parcels.",
-          "traditional": "郵政而家寄包裹要加價。",
-          "jyutping": "jau4 zing3 ji4 gaa1 gei3 baau1 gwo2 jiu3 gaa1 gaa3"
-        },
-        {
-          "english": "The mail service has improved its delivery service.",
-          "traditional": "郵政署已經改善派信服務。",
-          "jyutping": "jau4 zing3 syu5 ji5 ging1 goi2 sin6 paai3 seon3 fuk6 mou6"
-        }
-      ]
+      "english": "The post service now charges more to send parcels.",
+      "traditional": "郵政而家寄包裹要加價。",
+      "jyutping": "jau4 zing3 ji4 gaa1 gei3 baau1 gwo2 jiu3 gaa1 gaa3"
+    },
+    {
+      "english": "The mail service has improved its delivery service.",
+      "traditional": "郵政署已經改善派信服務。",
+      "jyutping": "jau4 zing3 syu5 ji5 ging1 goi2 sin6 paai3 seon3 fuk6 mou6"
     }
   ]
 }

@@ -1,37 +1,33 @@
 {
   "id": "qik8b2oq",
   "partOfSpeech": "noun",
+  "meaning": "failure",
+  "english": [
+    {
+      "id": "lcwlfplz",
+      "word": "failure",
+      "meaning": "lack of success",
+      "note": "This is the all-purpose noun for a lack of success or an unsuccessful outcome."
+    },
+    {
+      "id": "m5bljo7r",
+      "word": "defeat",
+      "meaning": "loss in a contest",
+      "note": "Use 失敗 as the all-purpose noun for a defeat or loss when no narrower contest wording is needed."
+    }
+  ],
   "traditional": "失敗",
   "jyutping": "sat1 baai6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "failure",
-      "english": [
-        {
-          "id": "lcwlfplz",
-          "word": "failure",
-          "meaning": "lack of success",
-          "note": "This is the all-purpose noun for a lack of success or an unsuccessful outcome."
-        },
-        {
-          "id": "m5bljo7r",
-          "word": "defeat",
-          "meaning": "loss in a contest",
-          "note": "Use 失敗 as the all-purpose noun for a defeat or loss when no narrower contest wording is needed."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This exam was another failure for me.",
-          "traditional": "今次考試係我又一次嘅失敗。",
-          "jyutping": "gam1 ci3 haau2 si3 hai6 ngo5 jau6 jat1 ci3 ge3 sat1 baai6"
-        },
-        {
-          "english": "This defeat in the exam left me really disappointed.",
-          "traditional": "今次考試嘅失敗，搞到我好失望。",
-          "jyutping": "gam1 ci3 haau2 si2 ge3 sat1 baai6 gaau2 dou3 ngo5 hou2 sat1 mong6"
-        }
-      ]
+      "english": "This exam was another failure for me.",
+      "traditional": "今次考試係我又一次嘅失敗。",
+      "jyutping": "gam1 ci3 haau2 si3 hai6 ngo5 jau6 jat1 ci3 ge3 sat1 baai6"
+    },
+    {
+      "english": "This defeat in the exam left me really disappointed.",
+      "traditional": "今次考試嘅失敗，搞到我好失望。",
+      "jyutping": "gam1 ci3 haau2 si2 ge3 sat1 baai6 gaau2 dou3 ngo5 hou2 sat1 mong6"
     }
   ]
 }

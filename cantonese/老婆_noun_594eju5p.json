@@ -1,28 +1,24 @@
 {
   "id": "594eju5p",
   "partOfSpeech": "noun",
+  "meaning": "married woman",
+  "english": [
+    {
+      "id": "32ykun4k",
+      "word": "wife",
+      "meaning": "married woman",
+      "register": "colloquial",
+      "note": "Use 老婆 as the all-purpose colloquial word for “wife.”"
+    }
+  ],
   "traditional": "老婆",
   "jyutping": "lou5 po4",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "married woman",
-      "english": [
-        {
-          "id": "32ykun4k",
-          "word": "wife",
-          "meaning": "married woman",
-          "register": "colloquial",
-          "note": "Use 老婆 as the all-purpose colloquial word for “wife.”"
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "My wife cooked curry chicken tonight.",
-          "traditional": "我老婆今晚煮咗咖喱雞。",
-          "jyutping": "ngo5 lou5 po4 gam1 maan5 zyu2 zo2 gaa3 lei1 gai1"
-        }
-      ]
+      "english": "My wife cooked curry chicken tonight.",
+      "traditional": "我老婆今晚煮咗咖喱雞。",
+      "jyutping": "ngo5 lou5 po4 gam1 maan5 zyu2 zo2 gaa3 lei1 gai1"
     }
   ]
 }

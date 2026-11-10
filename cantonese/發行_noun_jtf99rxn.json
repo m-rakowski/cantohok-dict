@@ -1,28 +1,24 @@
 {
   "id": "jtf99rxn",
   "partOfSpeech": "noun",
+  "meaning": "official release",
+  "english": [
+    {
+      "id": "fbmypeal",
+      "word": "issue",
+      "meaning": "official release",
+      "register": "written",
+      "note": "Use this for the official production or release of currency or another item for general use."
+    }
+  ],
   "traditional": "發行",
   "jyutping": "faat3 hang4",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "official release",
-      "english": [
-        {
-          "id": "fbmypeal",
-          "word": "issue",
-          "meaning": "official release",
-          "register": "written",
-          "note": "Use this for the official production or release of currency or another item for general use."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "The government will issue new banknotes next month.",
-          "traditional": "政府下個月會發行新鈔。",
-          "jyutping": "zing3 fu2 haa6 go3 jyut6 wui5 faat3 hang4 san1 caau1"
-        }
-      ]
+      "english": "The government will issue new banknotes next month.",
+      "traditional": "政府下個月會發行新鈔。",
+      "jyutping": "zing3 fu2 haa6 go3 jyut6 wui5 faat3 hang4 san1 caau1"
     }
   ]
 }

@@ -1,37 +1,33 @@
 {
   "id": "oai5o7eh",
   "partOfSpeech": "verb",
+  "meaning": "transport, carry goods",
+  "english": [
+    {
+      "id": "mf5mjpdo",
+      "word": "transport",
+      "meaning": "carry from place to place",
+      "note": "Use this as the all-purpose verb for carrying people or goods from one place to another."
+    },
+    {
+      "id": "zwj9dul6",
+      "word": "convey",
+      "meaning": "carry/transport",
+      "note": "Use 運送 for physically transporting an object, substance, or load from one place to another."
+    }
+  ],
   "traditional": "運送",
   "jyutping": "wan6 sung3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "transport, carry goods",
-      "english": [
-        {
-          "id": "mf5mjpdo",
-          "word": "transport",
-          "meaning": "carry from place to place",
-          "note": "Use this as the all-purpose verb for carrying people or goods from one place to another."
-        },
-        {
-          "id": "zwj9dul6",
-          "word": "convey",
-          "meaning": "carry/transport",
-          "note": "Use 運送 for physically transporting an object, substance, or load from one place to another."
-        }
-      ],
-      "examples": [
-        {
-          "english": "We will transport the goods to the pier tomorrow.",
-          "traditional": "我哋聽日運送啲貨去碼頭。",
-          "jyutping": "ngo5 dei6 ting1 jat6 wan6 sung3 di1 fo3 heoi3 maa5 tau4"
-        },
-        {
-          "english": "The truck will convey this shipment to the New Territories tomorrow.",
-          "traditional": "架貨車聽日會運送呢批貨去新界。",
-          "jyutping": "gaa3 fo3 ce1 ting1 jat6 wui5 wan6 sung3 ni1 pai1 fo3 heoi3 san1 gaai3"
-        }
-      ]
+      "english": "We will transport the goods to the pier tomorrow.",
+      "traditional": "我哋聽日運送啲貨去碼頭。",
+      "jyutping": "ngo5 dei6 ting1 jat6 wan6 sung3 di1 fo3 heoi3 maa5 tau4"
+    },
+    {
+      "english": "The truck will convey this shipment to the New Territories tomorrow.",
+      "traditional": "架貨車聽日會運送呢批貨去新界。",
+      "jyutping": "gaa3 fo3 ce1 ting1 jat6 wui5 wan6 sung3 ni1 pai1 fo3 heoi3 san1 gaai3"
     }
   ]
 }

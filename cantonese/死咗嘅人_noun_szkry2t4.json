@@ -1,28 +1,24 @@
 {
   "id": "szkry2t4",
   "partOfSpeech": "noun",
+  "meaning": "person killed",
+  "english": [
+    {
+      "id": "ac7vtf0l",
+      "word": "fatality",
+      "meaning": "person killed",
+      "register": "colloquial",
+      "note": "Use this for the person who was killed or died, rather than for the accident itself."
+    }
+  ],
   "traditional": "死咗嘅人",
   "jyutping": "sei2 zo2 ge3 jan4",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "person killed",
-      "english": [
-        {
-          "id": "ac7vtf0l",
-          "word": "fatality",
-          "meaning": "person killed",
-          "register": "colloquial",
-          "note": "Use this for the person who was killed or died, rather than for the accident itself."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "The report said there was one fatality after the crash.",
-          "traditional": "車禍之後，報道話有一個死咗嘅人。",
-          "jyutping": "ce1 wo6 zi1 hau6 bou3 dou6 waa6 jau5 jat1 go3 sei2 zo2 ge3 jan4"
-        }
-      ]
+      "english": "The report said there was one fatality after the crash.",
+      "traditional": "車禍之後，報道話有一個死咗嘅人。",
+      "jyutping": "ce1 wo6 zi1 hau6 bou3 dou6 waa6 jau5 jat1 go3 sei2 zo2 ge3 jan4"
     }
   ]
 }

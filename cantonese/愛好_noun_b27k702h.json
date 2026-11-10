@@ -1,38 +1,34 @@
 {
   "id": "b27k702h",
   "partOfSpeech": "noun",
+  "meaning": "hobby, liking",
+  "english": [
+    {
+      "id": "1hyaa2w7",
+      "word": "fondness",
+      "meaning": "liking; affection",
+      "note": "Use this for fondness for a subject, activity, or kind of thing, often with the sense of an interest or preference."
+    },
+    {
+      "id": "ag0up9vm",
+      "word": "love",
+      "meaning": "love of something",
+      "register": "written",
+      "note": "Use this written noun for a particular hobby, liking, or enthusiasm."
+    }
+  ],
   "traditional": "愛好",
   "jyutping": "oi3 hou3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "hobby, liking",
-      "english": [
-        {
-          "id": "1hyaa2w7",
-          "word": "fondness",
-          "meaning": "liking; affection",
-          "note": "Use this for fondness for a subject, activity, or kind of thing, often with the sense of an interest or preference."
-        },
-        {
-          "id": "ag0up9vm",
-          "word": "love",
-          "meaning": "love of something",
-          "register": "written",
-          "note": "Use this written noun for a particular hobby, liking, or enthusiasm."
-        }
-      ],
-      "examples": [
-        {
-          "english": "My fondness is for cooking.",
-          "traditional": "我嘅愛好係煮飯。",
-          "jyutping": "ngo5 ge3 oi3 hou3 hai6 zyu2 faan6"
-        },
-        {
-          "english": "My love of photography has never changed.",
-          "traditional": "我對攝影嘅愛好一直冇變。",
-          "jyutping": "ngo5 deoi3 sip3 jing2 ge3 oi3 hou3 jat1 zik6 mou5 bin3"
-        }
-      ]
+      "english": "My fondness is for cooking.",
+      "traditional": "我嘅愛好係煮飯。",
+      "jyutping": "ngo5 ge3 oi3 hou3 hai6 zyu2 faan6"
+    },
+    {
+      "english": "My love of photography has never changed.",
+      "traditional": "我對攝影嘅愛好一直冇變。",
+      "jyutping": "ngo5 deoi3 sip3 jing2 ge3 oi3 hou3 jat1 zik6 mou5 bin3"
     }
   ]
 }

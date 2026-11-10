@@ -1,28 +1,24 @@
 {
   "id": "h7l10nr2",
   "partOfSpeech": "verb",
+  "meaning": "quote, take out",
+  "english": [
+    {
+      "id": "toft4x90",
+      "word": "extract",
+      "meaning": "quote, take out",
+      "register": "written",
+      "note": "Use this mainly in writing for reproducing a selected passage or snippet from a text."
+    }
+  ],
   "traditional": "節錄",
   "jyutping": "zit3 luk6",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "quote, take out",
-      "english": [
-        {
-          "id": "toft4x90",
-          "word": "extract",
-          "meaning": "quote, take out",
-          "register": "written",
-          "note": "Use this mainly in writing for reproducing a selected passage or snippet from a text."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "The editor decided to extract a passage from the report.",
-          "traditional": "編輯決定節錄報告入面一段。",
-          "jyutping": "pin1 cap1 kyut3 ding6 zit3 luk6 bou3 gou3 jap6 min6 jat1 dyun6"
-        }
-      ]
+      "english": "The editor decided to extract a passage from the report.",
+      "traditional": "編輯決定節錄報告入面一段。",
+      "jyutping": "pin1 cap1 kyut3 ding6 zit3 luk6 bou3 gou3 jap6 min6 jat1 dyun6"
     }
   ]
 }

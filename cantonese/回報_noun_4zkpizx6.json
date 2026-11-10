@@ -1,37 +1,33 @@
 {
   "id": "4zkpizx6",
   "partOfSpeech": "noun",
+  "meaning": "investment return",
+  "english": [
+    {
+      "id": "gdru1stg",
+      "word": "return",
+      "meaning": "financial return",
+      "note": "Use this for the gain or loss produced by an investment, as in 投資回報."
+    },
+    {
+      "id": "f8e1fscs",
+      "word": "earnings",
+      "meaning": "investment returns",
+      "note": "Use 回報 for money gained as a return on an investment."
+    }
+  ],
   "traditional": "回報",
   "jyutping": "wui4 bou3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "investment return",
-      "english": [
-        {
-          "id": "gdru1stg",
-          "word": "return",
-          "meaning": "financial return",
-          "note": "Use this for the gain or loss produced by an investment, as in 投資回報."
-        },
-        {
-          "id": "f8e1fscs",
-          "word": "earnings",
-          "meaning": "investment returns",
-          "note": "Use 回報 for money gained as a return on an investment."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The return on this investment is pretty good.",
-          "traditional": "呢項投資嘅回報唔錯。",
-          "jyutping": "ni1 hong6 tau4 zi1 ge3 wui4 bou3 m4 co3"
-        },
-        {
-          "english": "The earnings from this investment are pretty good.",
-          "traditional": "呢項投資嘅回報唔錯。",
-          "jyutping": "ni1 hong6 tau4 zi1 ge3 wui4 bou3 m4 co3"
-        }
-      ]
+      "english": "The return on this investment is pretty good.",
+      "traditional": "呢項投資嘅回報唔錯。",
+      "jyutping": "ni1 hong6 tau4 zi1 ge3 wui4 bou3 m4 co3"
+    },
+    {
+      "english": "The earnings from this investment are pretty good.",
+      "traditional": "呢項投資嘅回報唔錯。",
+      "jyutping": "ni1 hong6 tau4 zi1 ge3 wui4 bou3 m4 co3"
     }
   ]
 }

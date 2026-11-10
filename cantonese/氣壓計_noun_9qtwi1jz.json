@@ -1,26 +1,22 @@
 {
   "id": "9qtwi1jz",
   "partOfSpeech": "noun",
+  "meaning": "pressure-measuring instrument",
+  "english": [
+    {
+      "id": "66uy73sq",
+      "word": "barometer",
+      "meaning": "pressure-measuring instrument",
+      "note": "Use this for the actual instrument that measures atmospheric pressure."
+    }
+  ],
   "traditional": "氣壓計",
   "jyutping": "hei3 aat3 gai3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "pressure-measuring instrument",
-      "english": [
-        {
-          "id": "66uy73sq",
-          "word": "barometer",
-          "meaning": "pressure-measuring instrument",
-          "note": "Use this for the actual instrument that measures atmospheric pressure."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This barometer measures atmospheric pressure.",
-          "traditional": "呢支氣壓計用嚟量度大氣壓力。",
-          "jyutping": "nei1 zi1 hei3 aat3 gai3 jung6 lei4 loeng4 dou6 daai6 hei3 aat3 lik6"
-        }
-      ]
+      "english": "This barometer measures atmospheric pressure.",
+      "traditional": "呢支氣壓計用嚟量度大氣壓力。",
+      "jyutping": "nei1 zi1 hei3 aat3 gai3 jung6 lei4 loeng4 dou6 daai6 hei3 aat3 lik6"
     }
   ]
 }

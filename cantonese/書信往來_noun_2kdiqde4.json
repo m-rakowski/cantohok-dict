@@ -1,28 +1,24 @@
 {
   "id": "2kdiqde4",
   "partOfSpeech": "noun",
+  "meaning": "letter exchange",
+  "english": [
+    {
+      "id": "sdtu6m10",
+      "word": "correspondence",
+      "meaning": "letter exchange",
+      "register": "written",
+      "note": "Use this for an ongoing exchange of letters between people rather than for the individual letters themselves."
+    }
+  ],
   "traditional": "書信往來",
   "jyutping": "syu1 seon3 wong5 loi4",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "letter exchange",
-      "english": [
-        {
-          "id": "sdtu6m10",
-          "word": "correspondence",
-          "meaning": "letter exchange",
-          "register": "written",
-          "note": "Use this for an ongoing exchange of letters between people rather than for the individual letters themselves."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "They have maintained correspondence by letter for many years.",
-          "traditional": "佢哋多年嚟都有書信往來。",
-          "jyutping": "keoi5 dei6 do1 nin4 lei4 dou1 jau5 syu1 seon3 wong5 loi4"
-        }
-      ]
+      "english": "They have maintained correspondence by letter for many years.",
+      "traditional": "佢哋多年嚟都有書信往來。",
+      "jyutping": "keoi5 dei6 do1 nin4 lei4 dou1 jau5 syu1 seon3 wong5 loi4"
     }
   ]
 }

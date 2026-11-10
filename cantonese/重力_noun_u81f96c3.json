@@ -1,37 +1,33 @@
 {
   "id": "u81f96c3",
   "partOfSpeech": "noun",
+  "meaning": "gravity",
+  "english": [
+    {
+      "id": "mvpv4rrc",
+      "word": "gravitation",
+      "meaning": "force of gravity",
+      "note": "Use this as the all-purpose Cantonese term for gravitational force."
+    },
+    {
+      "id": "h3oou2xv",
+      "word": "weight",
+      "meaning": "force of gravity",
+      "note": "Use this scientific noun for the downward force caused by gravity."
+    }
+  ],
   "traditional": "重力",
   "jyutping": "cung5 lik6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "gravity",
-      "english": [
-        {
-          "id": "mvpv4rrc",
-          "word": "gravitation",
-          "meaning": "force of gravity",
-          "note": "Use this as the all-purpose Cantonese term for gravitational force."
-        },
-        {
-          "id": "h3oou2xv",
-          "word": "weight",
-          "meaning": "force of gravity",
-          "note": "Use this scientific noun for the downward force caused by gravity."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Astronauts feel that gravitation is much weaker when walking on the moon.",
-          "traditional": "太空人喺月球上面行路，感覺到重力細好多。",
-          "jyutping": "taai3 hung1 jan4 hai2 jyut6 kau4 soeng6 min6 haang4 lou6 gam2 gok3 dou3 cung5 lik6 sai3 hou2 do1"
-        },
-        {
-          "english": "Gravity makes objects fall downward and gives us weight.",
-          "traditional": "重力令物件向下跌，亦令我哋有重量。",
-          "jyutping": "cung5 lik6 ling6 mat6 gin6 hoeng3 haa6 dit3 jik6 ling6 ngo5 dei6 jau5 cung5 loeng6"
-        }
-      ]
+      "english": "Astronauts feel that gravitation is much weaker when walking on the moon.",
+      "traditional": "太空人喺月球上面行路，感覺到重力細好多。",
+      "jyutping": "taai3 hung1 jan4 hai2 jyut6 kau4 soeng6 min6 haang4 lou6 gam2 gok3 dou3 cung5 lik6 sai3 hou2 do1"
+    },
+    {
+      "english": "Gravity makes objects fall downward and gives us weight.",
+      "traditional": "重力令物件向下跌，亦令我哋有重量。",
+      "jyutping": "cung5 lik6 ling6 mat6 gin6 hoeng3 haa6 dit3 jik6 ling6 ngo5 dei6 jau5 cung5 loeng6"
     }
   ]
 }

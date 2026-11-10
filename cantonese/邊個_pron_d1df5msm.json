@@ -1,70 +1,66 @@
 {
   "id": "d1df5msm",
   "partOfSpeech": "pron",
+  "meaning": "who, which person",
+  "english": [
+    {
+      "id": "din0az4r",
+      "word": "who",
+      "meaning": "interrogative pronoun",
+      "note": "This is the all-purpose everyday choice for asking who someone is, in a direct or indirect question."
+    },
+    {
+      "id": "oovh6qvt",
+      "word": "which",
+      "meaning": "interrogative pronoun",
+      "note": "Use this as the default bare question for which person or which one."
+    },
+    {
+      "id": "vc164d57",
+      "word": "anybody",
+      "meaning": "any person; anyone",
+      "note": "Use this as the all-purpose colloquial choice for any person, especially in questions or free-choice statements."
+    },
+    {
+      "id": "xuclf66j",
+      "word": "whom",
+      "meaning": "interrogative after preposition",
+      "note": "This is the all-purpose spoken choice for an object question, including after a Cantonese preposition such as 同, 對, or 向."
+    },
+    {
+      "id": "xj0mrv0o",
+      "word": "whoever",
+      "meaning": "emphatic who",
+      "note": "Use this for an emphatic spoken question such as “Who ever thought of that?”"
+    }
+  ],
   "traditional": "邊個",
   "jyutping": "bin1 go3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "who, which person",
-      "english": [
-        {
-          "id": "din0az4r",
-          "word": "who",
-          "meaning": "interrogative pronoun",
-          "note": "This is the all-purpose everyday choice for asking who someone is, in a direct or indirect question."
-        },
-        {
-          "id": "oovh6qvt",
-          "word": "which",
-          "meaning": "interrogative pronoun",
-          "note": "Use this as the default bare question for which person or which one."
-        },
-        {
-          "id": "vc164d57",
-          "word": "anybody",
-          "meaning": "any person; anyone",
-          "note": "Use this as the all-purpose colloquial choice for any person, especially in questions or free-choice statements."
-        },
-        {
-          "id": "xuclf66j",
-          "word": "whom",
-          "meaning": "interrogative after preposition",
-          "note": "This is the all-purpose spoken choice for an object question, including after a Cantonese preposition such as 同, 對, or 向."
-        },
-        {
-          "id": "xj0mrv0o",
-          "word": "whoever",
-          "meaning": "emphatic who",
-          "note": "Use this for an emphatic spoken question such as “Who ever thought of that?”"
-        }
-      ],
-      "examples": [
-        {
-          "english": "Who is calling?",
-          "traditional": "邊個打嚟？",
-          "jyutping": "bin1 go3 daa2 lei4"
-        },
-        {
-          "english": "Which person do you want to invite to dinner?",
-          "traditional": "你想請邊個食飯？",
-          "jyutping": "nei5 soeng2 ceng2 bin1 go3 sik6 faan6"
-        },
-        {
-          "english": "Does anybody want dessert?",
-          "traditional": "邊個想食糖水？",
-          "jyutping": "bin1 go3 soeng2 sik6 tong4 seoi2"
-        },
-        {
-          "english": "Whom do you want to have dinner with?",
-          "traditional": "你想同邊個食飯？",
-          "jyutping": "nei5 soeng2 tung4 bin1 go3 sik6 faan6"
-        },
-        {
-          "english": "Whoever thought of that?",
-          "traditional": "邊個諗到㗎？",
-          "jyutping": "bin1 go3 nam2 dou2 gaa3"
-        }
-      ]
+      "english": "Who is calling?",
+      "traditional": "邊個打嚟？",
+      "jyutping": "bin1 go3 daa2 lei4"
+    },
+    {
+      "english": "Which person do you want to invite to dinner?",
+      "traditional": "你想請邊個食飯？",
+      "jyutping": "nei5 soeng2 ceng2 bin1 go3 sik6 faan6"
+    },
+    {
+      "english": "Does anybody want dessert?",
+      "traditional": "邊個想食糖水？",
+      "jyutping": "bin1 go3 soeng2 sik6 tong4 seoi2"
+    },
+    {
+      "english": "Whom do you want to have dinner with?",
+      "traditional": "你想同邊個食飯？",
+      "jyutping": "nei5 soeng2 tung4 bin1 go3 sik6 faan6"
+    },
+    {
+      "english": "Whoever thought of that?",
+      "traditional": "邊個諗到㗎？",
+      "jyutping": "bin1 go3 nam2 dou2 gaa3"
     }
   ]
 }

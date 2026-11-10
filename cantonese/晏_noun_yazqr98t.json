@@ -1,28 +1,24 @@
 {
   "id": "yazqr98t",
   "partOfSpeech": "noun",
+  "meaning": "midday meal",
+  "english": [
+    {
+      "id": "4q5yad7p",
+      "word": "lunch",
+      "meaning": "midday meal",
+      "register": "colloquial",
+      "note": "This is the all-purpose colloquial noun for the midday meal, especially in expressions such as 食晏未呀."
+    }
+  ],
   "traditional": "晏",
   "jyutping": "aan3",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "midday meal",
-      "english": [
-        {
-          "id": "4q5yad7p",
-          "word": "lunch",
-          "meaning": "midday meal",
-          "register": "colloquial",
-          "note": "This is the all-purpose colloquial noun for the midday meal, especially in expressions such as 食晏未呀."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "Have you had lunch yet?",
-          "traditional": "你食晏未呀？",
-          "jyutping": "nei5 sik6 aan3 mei6 aa3"
-        }
-      ]
+      "english": "Have you had lunch yet?",
+      "traditional": "你食晏未呀？",
+      "jyutping": "nei5 sik6 aan3 mei6 aa3"
     }
   ]
 }

@@ -1,37 +1,33 @@
 {
   "id": "t8yj0wcb",
   "partOfSpeech": "adj",
+  "meaning": "dark, dim",
+  "english": [
+    {
+      "id": "8i7ulvus",
+      "word": "dark",
+      "meaning": "lacking light",
+      "note": "This is the all-purpose choice for a room, place, or time having little light."
+    },
+    {
+      "id": "7gqd3ogt",
+      "word": "dim",
+      "meaning": "not bright",
+      "note": "This is the all-purpose choice for something that gives off too little light."
+    }
+  ],
   "traditional": "暗",
   "jyutping": "am3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "dark, dim",
-      "english": [
-        {
-          "id": "8i7ulvus",
-          "word": "dark",
-          "meaning": "lacking light",
-          "note": "This is the all-purpose choice for a room, place, or time having little light."
-        },
-        {
-          "id": "7gqd3ogt",
-          "word": "dim",
-          "meaning": "not bright",
-          "note": "This is the all-purpose choice for something that gives off too little light."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The room is too dark.",
-          "traditional": "間房太暗喇。",
-          "jyutping": "gaan1 fong2 taai3 am3 laa3"
-        },
-        {
-          "english": "The room is very dim.",
-          "traditional": "間房好暗。",
-          "jyutping": "gaan1 fong4 hou2 am3"
-        }
-      ]
+      "english": "The room is too dark.",
+      "traditional": "間房太暗喇。",
+      "jyutping": "gaan1 fong2 taai3 am3 laa3"
+    },
+    {
+      "english": "The room is very dim.",
+      "traditional": "間房好暗。",
+      "jyutping": "gaan1 fong4 hou2 am3"
     }
   ]
 }

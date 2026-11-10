@@ -1,28 +1,24 @@
 {
   "id": "sdfnyrvg",
   "partOfSpeech": "noun",
+  "meaning": "person who tells stories",
+  "english": [
+    {
+      "id": "kg0iv0h6",
+      "word": "storyteller",
+      "meaning": "person who tells stories",
+      "register": "colloquial",
+      "note": "This is the all-purpose colloquial noun for someone who tells stories to an audience."
+    }
+  ],
   "traditional": "講故佬",
   "jyutping": "gong2 gu2 lou2",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "person who tells stories",
-      "english": [
-        {
-          "id": "kg0iv0h6",
-          "word": "storyteller",
-          "meaning": "person who tells stories",
-          "register": "colloquial",
-          "note": "This is the all-purpose colloquial noun for someone who tells stories to an audience."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "This storyteller tells stories at the cha chaan teng all the time, and all the neighbours love listening.",
-          "traditional": "呢個講故佬成日喺茶記講古，街坊個個都鍾意聽。",
-          "jyutping": "ni1 go3 gong2 gu2 lou2 seng4 jat6 hai2 caa4 gei3 gong2 gu2 gaai1 fong1 go3 go3 dou1 zung1 ji3 teng1"
-        }
-      ]
+      "english": "This storyteller tells stories at the cha chaan teng all the time, and all the neighbours love listening.",
+      "traditional": "呢個講故佬成日喺茶記講古，街坊個個都鍾意聽。",
+      "jyutping": "ni1 go3 gong2 gu2 lou2 seng4 jat6 hai2 caa4 gei3 gong2 gu2 gaai1 fong1 go3 go3 dou1 zung1 ji3 teng1"
     }
   ]
 }

@@ -1,38 +1,34 @@
 {
   "id": "mfn3sbo9",
   "partOfSpeech": "noun",
+  "meaning": "abuse, misuse",
+  "english": [
+    {
+      "id": "b24ha5i0",
+      "word": "abuse",
+      "meaning": "wrongful treatment",
+      "note": "Use this as the all-purpose noun for improper or harmful use of power, rights, or something else."
+    },
+    {
+      "id": "7vtfk3vw",
+      "word": "exploitation",
+      "meaning": "abusive use for gain",
+      "register": "written",
+      "note": "Use this for the improper or selfish use of something, especially in compounds such as 權力濫用."
+    }
+  ],
   "traditional": "濫用",
   "jyutping": "laam6 jung6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "abuse, misuse",
-      "english": [
-        {
-          "id": "b24ha5i0",
-          "word": "abuse",
-          "meaning": "wrongful treatment",
-          "note": "Use this as the all-purpose noun for improper or harmful use of power, rights, or something else."
-        },
-        {
-          "id": "7vtfk3vw",
-          "word": "exploitation",
-          "meaning": "abusive use for gain",
-          "register": "written",
-          "note": "Use this for the improper or selfish use of something, especially in compounds such as 權力濫用."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The abuse of public power can harm citizens' rights.",
-          "traditional": "濫用公權力會傷害市民嘅權利。",
-          "jyutping": "laam6 jung6 gung1 kyun4 lik6 wui5 soeng1 hoi6 si5 man4 ge3 kyun4 lei6"
-        },
-        {
-          "english": "This case highlights the problem of exploitation through abuse of power.",
-          "traditional": "呢宗案件反映出權力濫用嘅問題。",
-          "jyutping": "nei1 zung1 on3 gin6 faan2 jing2 ceot1 kyun4 lik6 laam6 jung6 ge3 man6 tai4"
-        }
-      ]
+      "english": "The abuse of public power can harm citizens' rights.",
+      "traditional": "濫用公權力會傷害市民嘅權利。",
+      "jyutping": "laam6 jung6 gung1 kyun4 lik6 wui5 soeng1 hoi6 si5 man4 ge3 kyun4 lei6"
+    },
+    {
+      "english": "This case highlights the problem of exploitation through abuse of power.",
+      "traditional": "呢宗案件反映出權力濫用嘅問題。",
+      "jyutping": "nei1 zung1 on3 gin6 faan2 jing2 ceot1 kyun4 lik6 laam6 jung6 ge3 man6 tai4"
     }
   ]
 }

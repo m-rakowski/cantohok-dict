@@ -1,28 +1,24 @@
 {
   "id": "yw1qwr3l",
   "partOfSpeech": "noun",
+  "meaning": "young dog",
+  "english": [
+    {
+      "id": "4y9kiypu",
+      "word": "puppy",
+      "meaning": "young dog",
+      "register": "colloquial",
+      "note": "This is the all-purpose Cantonese noun for a young dog."
+    }
+  ],
   "traditional": "狗仔",
   "jyutping": "gau2 zai2",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "young dog",
-      "english": [
-        {
-          "id": "4y9kiypu",
-          "word": "puppy",
-          "meaning": "young dog",
-          "register": "colloquial",
-          "note": "This is the all-purpose Cantonese noun for a young dog."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "My friend’s puppy isn’t even a year old.",
-          "traditional": "我朋友隻狗仔仲未夠一歲。",
-          "jyutping": "ngo5 pang4 jau5 zek3 gau2 zai2 zung6 mei6 gau3 jat1 seoi3"
-        }
-      ]
+      "english": "My friend’s puppy isn’t even a year old.",
+      "traditional": "我朋友隻狗仔仲未夠一歲。",
+      "jyutping": "ngo5 pang4 jau5 zek3 gau2 zai2 zung6 mei6 gau3 jat1 seoi3"
     }
   ]
 }

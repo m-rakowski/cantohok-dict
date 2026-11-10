@@ -1,37 +1,33 @@
 {
   "id": "ic5m91r7",
   "partOfSpeech": "noun",
+  "meaning": "salary, pay",
+  "english": [
+    {
+      "id": "v86iets7",
+      "word": "salary",
+      "meaning": "fixed pay",
+      "note": "A speaker uses this as a more neutral or formal alternative when referring to salary as fixed employment income."
+    },
+    {
+      "id": "ycy8dn4l",
+      "word": "wage",
+      "meaning": "worker pay",
+      "note": "Use this when talking about someone’s regular pay in a salary-like context rather than specifically an hourly rate."
+    }
+  ],
   "traditional": "薪水",
   "jyutping": "san1 seoi2",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "salary, pay",
-      "english": [
-        {
-          "id": "v86iets7",
-          "word": "salary",
-          "meaning": "fixed pay",
-          "note": "A speaker uses this as a more neutral or formal alternative when referring to salary as fixed employment income."
-        },
-        {
-          "id": "ycy8dn4l",
-          "word": "wage",
-          "meaning": "worker pay",
-          "note": "Use this when talking about someone’s regular pay in a salary-like context rather than specifically an hourly rate."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The company deposits my salary directly into my bank account on the fifth of every month.",
-          "traditional": "公司會喺每月五號將薪水直接過入戶口。",
-          "jyutping": "gung1 si1 wui2 hai2 mui5 jyut6 ng5 hou6 zoeng1 san1 seoi2 zik6 zip3 gwo3 jap6 wu6 hau2"
-        },
-        {
-          "english": "The job is busy, but the wage is steady, so it is worth doing.",
-          "traditional": "份工雖然忙，但薪水穩定，值得做。",
-          "jyutping": "fan2 gung1 seoi1 jin4 mong4 daan6 san1 seoi2 wan2 ding6 zik6 dak1 zou6"
-        }
-      ]
+      "english": "The company deposits my salary directly into my bank account on the fifth of every month.",
+      "traditional": "公司會喺每月五號將薪水直接過入戶口。",
+      "jyutping": "gung1 si1 wui2 hai2 mui5 jyut6 ng5 hou6 zoeng1 san1 seoi2 zik6 zip3 gwo3 jap6 wu6 hau2"
+    },
+    {
+      "english": "The job is busy, but the wage is steady, so it is worth doing.",
+      "traditional": "份工雖然忙，但薪水穩定，值得做。",
+      "jyutping": "fan2 gung1 seoi1 jin4 mong4 daan6 san1 seoi2 wan2 ding6 zik6 dak1 zou6"
     }
   ]
 }

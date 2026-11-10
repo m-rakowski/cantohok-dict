@@ -1,28 +1,24 @@
 {
   "id": "s54zf2d3",
   "partOfSpeech": "noun",
+  "meaning": "person or thing that makes",
+  "english": [
+    {
+      "id": "gmgow1kb",
+      "word": "maker",
+      "meaning": "person or thing that makes",
+      "register": "colloquial",
+      "note": "Use this as the everyday choice when the maker is a particular person who made something."
+    }
+  ],
   "traditional": "整 + N + 嗰個人",
   "jyutping": "zing2 N go2 go3 jan4",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "person or thing that makes",
-      "english": [
-        {
-          "id": "gmgow1kb",
-          "word": "maker",
-          "meaning": "person or thing that makes",
-          "register": "colloquial",
-          "note": "Use this as the everyday choice when the maker is a particular person who made something."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "The cake maker is my older brother.",
-          "traditional": "整蛋糕嗰個人係我哥哥。",
-          "jyutping": "zing2 daan6 gou1 go2 go3 jan4 hai6 ngo5 go1 go1"
-        }
-      ]
+      "english": "The cake maker is my older brother.",
+      "traditional": "整蛋糕嗰個人係我哥哥。",
+      "jyutping": "zing2 daan6 gou1 go2 go3 jan4 hai6 ngo5 go1 go1"
     }
   ]
 }

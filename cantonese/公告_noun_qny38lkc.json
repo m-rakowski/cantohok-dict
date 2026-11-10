@@ -1,28 +1,24 @@
 {
   "id": "qny38lkc",
   "partOfSpeech": "noun",
+  "meaning": "notice / official announcement",
+  "english": [
+    {
+      "id": "v0wif2y8",
+      "word": "announcement",
+      "meaning": "notice / official announcement",
+      "register": "formal",
+      "note": "Use this for an official public announcement, especially one issued by an organization or authority."
+    }
+  ],
   "traditional": "公告",
   "jyutping": "gung1 gou3",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "notice / official announcement",
-      "english": [
-        {
-          "id": "v0wif2y8",
-          "word": "announcement",
-          "meaning": "notice / official announcement",
-          "register": "formal",
-          "note": "Use this for an official public announcement, especially one issued by an organization or authority."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The government issued an official announcement about the new measures.",
-          "traditional": "政府就新措施發出公告。",
-          "jyutping": "zing3 fu2 zau6 san1 cou3 si1 faat3 ceot1 gung1 gou3"
-        }
-      ]
+      "english": "The government issued an official announcement about the new measures.",
+      "traditional": "政府就新措施發出公告。",
+      "jyutping": "zing3 fu2 zau6 san1 cou3 si1 faat3 ceot1 gung1 gou3"
     }
   ]
 }

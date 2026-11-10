@@ -1,37 +1,33 @@
 {
   "id": "ytpihz8n",
   "partOfSpeech": "adj",
+  "meaning": "free of charge",
+  "english": [
+    {
+      "id": "b1h6jvml",
+      "word": "complimentary",
+      "meaning": "free of charge",
+      "note": "This is the all-purpose choice for something provided at no charge."
+    },
+    {
+      "id": "demvz9vw",
+      "word": "free",
+      "meaning": "free of charge",
+      "note": "This is the default choice for something obtainable without payment."
+    }
+  ],
   "traditional": "免費",
   "jyutping": "min5 fai3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "free of charge",
-      "english": [
-        {
-          "id": "b1h6jvml",
-          "word": "complimentary",
-          "meaning": "free of charge",
-          "note": "This is the all-purpose choice for something provided at no charge."
-        },
-        {
-          "id": "demvz9vw",
-          "word": "free",
-          "meaning": "free of charge",
-          "note": "This is the default choice for something obtainable without payment."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This coffee is complimentary.",
-          "traditional": "呢杯咖啡係免費嘅。",
-          "jyutping": "ne1 bui1 gaa3 fe1 hai6 min5 fai3 ge3"
-        },
-        {
-          "english": "Entry to this exhibition is free.",
-          "traditional": "呢個展覽免費入場㗎。",
-          "jyutping": "nei1 go3 zin2 laam5 min5 fai3 jap6 coeng4 gaa3"
-        }
-      ]
+      "english": "This coffee is complimentary.",
+      "traditional": "呢杯咖啡係免費嘅。",
+      "jyutping": "ne1 bui1 gaa3 fe1 hai6 min5 fai3 ge3"
+    },
+    {
+      "english": "Entry to this exhibition is free.",
+      "traditional": "呢個展覽免費入場㗎。",
+      "jyutping": "nei1 go3 zin2 laam5 min5 fai3 jap6 coeng4 gaa3"
     }
   ]
 }

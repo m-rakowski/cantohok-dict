@@ -1,48 +1,44 @@
 {
   "id": "y6tnoffr",
   "partOfSpeech": "adj",
+  "meaning": "flat, level",
+  "english": [
+    {
+      "id": "8w5uvhr1",
+      "word": "level",
+      "meaning": "flat, even",
+      "note": "Use 平 for a flat or even surface; it is the all-purpose choice for this sense."
+    },
+    {
+      "id": "fquxut33",
+      "word": "even",
+      "meaning": "flat and level",
+      "note": "This is the all-purpose choice for a surface or object being flat and level."
+    },
+    {
+      "id": "55xpr135",
+      "word": "flat",
+      "meaning": "level ground",
+      "note": "This is the all-purpose choice for level ground and a smooth, even surface."
+    }
+  ],
   "traditional": "平",
   "jyutping": "ping4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "flat, level",
-      "english": [
-        {
-          "id": "8w5uvhr1",
-          "word": "level",
-          "meaning": "flat, even",
-          "note": "Use 平 for a flat or even surface; it is the all-purpose choice for this sense."
-        },
-        {
-          "id": "fquxut33",
-          "word": "even",
-          "meaning": "flat and level",
-          "note": "This is the all-purpose choice for a surface or object being flat and level."
-        },
-        {
-          "id": "55xpr135",
-          "word": "flat",
-          "meaning": "level ground",
-          "note": "This is the all-purpose choice for level ground and a smooth, even surface."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The table is level, so a glass of water won't move.",
-          "traditional": "張枱夠平，擺杯水都唔會郁。",
-          "jyutping": "zoeng1 toi2 gau3 ping4 baai2 bui1 seoi2 dou1 m4 wui5 juk1"
-        },
-        {
-          "english": "This tabletop isn't even, so the glass of water wobbles.",
-          "traditional": "呢張枱唔平，擺杯水會搖。",
-          "jyutping": "ni1 zoeng1 toi2 m4 ping4 baai2 bui1 seoi2 wui5 jiu4"
-        },
-        {
-          "english": "This table is flat.",
-          "traditional": "張枱好平。",
-          "jyutping": "zoeng1 toi2 hou2 ping4"
-        }
-      ]
+      "english": "The table is level, so a glass of water won't move.",
+      "traditional": "張枱夠平，擺杯水都唔會郁。",
+      "jyutping": "zoeng1 toi2 gau3 ping4 baai2 bui1 seoi2 dou1 m4 wui5 juk1"
+    },
+    {
+      "english": "This tabletop isn't even, so the glass of water wobbles.",
+      "traditional": "呢張枱唔平，擺杯水會搖。",
+      "jyutping": "ni1 zoeng1 toi2 m4 ping4 baai2 bui1 seoi2 wui5 jiu4"
+    },
+    {
+      "english": "This table is flat.",
+      "traditional": "張枱好平。",
+      "jyutping": "zoeng1 toi2 hou2 ping4"
     }
   ]
 }

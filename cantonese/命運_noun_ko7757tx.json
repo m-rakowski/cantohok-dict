@@ -1,59 +1,55 @@
 {
   "id": "ko7757tx",
   "partOfSpeech": "noun",
+  "meaning": "fate, destiny",
+  "english": [
+    {
+      "id": "9xi3kb92",
+      "word": "destiny",
+      "meaning": "predetermined fate",
+      "note": "This is the all-purpose noun for a person's or thing's predetermined destiny."
+    },
+    {
+      "id": "wgvo5eqh",
+      "word": "fate",
+      "meaning": "destiny / predetermining force",
+      "note": "This is the all-purpose choice for a person's or situation's predetermined fate."
+    },
+    {
+      "id": "um9sm44j",
+      "word": "fortune",
+      "meaning": "destiny; fate",
+      "note": "Use this for fate or the course of someone's life, rather than simply a lucky outcome."
+    },
+    {
+      "id": "pstozpoz",
+      "word": "future",
+      "meaning": "prospects; fate",
+      "note": "Use this for the fate or destiny awaiting someone or something."
+    }
+  ],
   "traditional": "命運",
   "jyutping": "ming6 wan6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "fate, destiny",
-      "english": [
-        {
-          "id": "9xi3kb92",
-          "word": "destiny",
-          "meaning": "predetermined fate",
-          "note": "This is the all-purpose noun for a person's or thing's predetermined destiny."
-        },
-        {
-          "id": "wgvo5eqh",
-          "word": "fate",
-          "meaning": "destiny / predetermining force",
-          "note": "This is the all-purpose choice for a person's or situation's predetermined fate."
-        },
-        {
-          "id": "um9sm44j",
-          "word": "fortune",
-          "meaning": "destiny; fate",
-          "note": "Use this for fate or the course of someone's life, rather than simply a lucky outcome."
-        },
-        {
-          "id": "pstozpoz",
-          "word": "future",
-          "meaning": "prospects; fate",
-          "note": "Use this for the fate or destiny awaiting someone or something."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Some people think destiny was decided long ago.",
-          "traditional": "有啲人覺得，命運一早已經注定。",
-          "jyutping": "jau5 di1 jan4 gok3 dak1 ming6 wan6 jat1 zou2 ji5 ging1 zyu3 ding6"
-        },
-        {
-          "english": "I don’t know what my fate will be.",
-          "traditional": "我都唔知自己嘅命運會點。",
-          "jyutping": "ngo5 dou1 m4 zi1 zi6 gei2 ge3 ming6 wan6 wui5 dim2"
-        },
-        {
-          "english": "Nobody can predict their own fortune.",
-          "traditional": "冇人可以預測自己嘅命運。",
-          "jyutping": "mou5 jan4 ho2 ji5 jyu6 cak1 zi6 gei2 ge3 ming6 wan6"
-        },
-        {
-          "english": "No one knows what future destiny awaits us.",
-          "traditional": "冇人知我哋嘅命運會點。",
-          "jyutping": "mou5 jan4 zi1 ngo5 dei6 ge3 ming6 wan6 wui5 dim2"
-        }
-      ]
+      "english": "Some people think destiny was decided long ago.",
+      "traditional": "有啲人覺得，命運一早已經注定。",
+      "jyutping": "jau5 di1 jan4 gok3 dak1 ming6 wan6 jat1 zou2 ji5 ging1 zyu3 ding6"
+    },
+    {
+      "english": "I don’t know what my fate will be.",
+      "traditional": "我都唔知自己嘅命運會點。",
+      "jyutping": "ngo5 dou1 m4 zi1 zi6 gei2 ge3 ming6 wan6 wui5 dim2"
+    },
+    {
+      "english": "Nobody can predict their own fortune.",
+      "traditional": "冇人可以預測自己嘅命運。",
+      "jyutping": "mou5 jan4 ho2 ji5 jyu6 cak1 zi6 gei2 ge3 ming6 wan6"
+    },
+    {
+      "english": "No one knows what future destiny awaits us.",
+      "traditional": "冇人知我哋嘅命運會點。",
+      "jyutping": "mou5 jan4 zi1 ngo5 dei6 ge3 ming6 wan6 wui5 dim2"
     }
   ]
 }

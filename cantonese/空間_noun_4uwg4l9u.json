@@ -1,37 +1,33 @@
 {
   "id": "4uwg4l9u",
   "partOfSpeech": "noun",
+  "meaning": "space, room",
+  "english": [
+    {
+      "id": "g8ipqd9s",
+      "word": "space",
+      "meaning": "room / physical space",
+      "note": "This is the all-purpose choice for physical room or area and for the personal room someone needs."
+    },
+    {
+      "id": "nrxciwgb",
+      "word": "room",
+      "meaning": "room to do something",
+      "note": "Use 空間 for available space or scope to do something rather than for a physical room."
+    }
+  ],
   "traditional": "空間",
   "jyutping": "hung1 gaan1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "space, room",
-      "english": [
-        {
-          "id": "g8ipqd9s",
-          "word": "space",
-          "meaning": "room / physical space",
-          "note": "This is the all-purpose choice for physical room or area and for the personal room someone needs."
-        },
-        {
-          "id": "nrxciwgb",
-          "word": "room",
-          "meaning": "room to do something",
-          "note": "Use 空間 for available space or scope to do something rather than for a physical room."
-        }
-      ],
-      "examples": [
-        {
-          "english": "There's enough space in this room for a large table.",
-          "traditional": "呢間房嘅空間夠擺張大枱。",
-          "jyutping": "ni1 gaan1 fong2 ge3 hung1 gaan1 gau3 baai2 zoeng1 daai6 toi4"
-        },
-        {
-          "english": "There is no room here to put a table.",
-          "traditional": "呢度冇空間擺張枱。",
-          "jyutping": "ni1 dou6 mou5 hung1 gaan1 baai2 zoeng1 toi2"
-        }
-      ]
+      "english": "There's enough space in this room for a large table.",
+      "traditional": "呢間房嘅空間夠擺張大枱。",
+      "jyutping": "ni1 gaan1 fong2 ge3 hung1 gaan1 gau3 baai2 zoeng1 daai6 toi4"
+    },
+    {
+      "english": "There is no room here to put a table.",
+      "traditional": "呢度冇空間擺張枱。",
+      "jyutping": "ni1 dou6 mou5 hung1 gaan1 baai2 zoeng1 toi2"
     }
   ]
 }

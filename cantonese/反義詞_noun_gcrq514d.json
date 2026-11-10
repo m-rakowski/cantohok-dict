@@ -1,38 +1,34 @@
 {
   "id": "gcrq514d",
   "partOfSpeech": "noun",
+  "meaning": "antonym",
+  "english": [
+    {
+      "id": "vgbolz7s",
+      "word": "antonym",
+      "meaning": "opposite-meaning word",
+      "register": "formal",
+      "note": "This is the all-purpose term for a word with the opposite meaning of another word."
+    },
+    {
+      "id": "unk2oyk3",
+      "word": "opposite",
+      "meaning": "antonym",
+      "note": "Use this specifically for a word with the opposite meaning, such as “up” versus “down.”"
+    }
+  ],
   "traditional": "反義詞",
   "jyutping": "faan2 ji6 ci4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "antonym",
-      "english": [
-        {
-          "id": "vgbolz7s",
-          "word": "antonym",
-          "meaning": "opposite-meaning word",
-          "register": "formal",
-          "note": "This is the all-purpose term for a word with the opposite meaning of another word."
-        },
-        {
-          "id": "unk2oyk3",
-          "word": "opposite",
-          "meaning": "antonym",
-          "note": "Use this specifically for a word with the opposite meaning, such as “up” versus “down.”"
-        }
-      ],
-      "examples": [
-        {
-          "english": "The antonym of “high” is “low”.",
-          "traditional": "「高」嘅反義詞係「低」。",
-          "jyutping": "gou1 ge3 faan2 ji6 ci4 hai6 dai1"
-        },
-        {
-          "english": "The opposite of “up” is “down.”",
-          "traditional": "「上」嘅反義詞係「落」。",
-          "jyutping": "soeng6 ge3 faan2 ji6 ci4 hai6 lok6"
-        }
-      ]
+      "english": "The antonym of “high” is “low”.",
+      "traditional": "「高」嘅反義詞係「低」。",
+      "jyutping": "gou1 ge3 faan2 ji6 ci4 hai6 dai1"
+    },
+    {
+      "english": "The opposite of “up” is “down.”",
+      "traditional": "「上」嘅反義詞係「落」。",
+      "jyutping": "soeng6 ge3 faan2 ji6 ci4 hai6 lok6"
     }
   ]
 }

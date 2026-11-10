@@ -1,28 +1,24 @@
 {
   "id": "8odm5xlb",
   "partOfSpeech": "adj",
+  "meaning": "scenic, pretty",
+  "english": [
+    {
+      "id": "goxpfmkr",
+      "word": "picturesque",
+      "meaning": "scenic, pretty",
+      "register": "written",
+      "note": "Use this when emphasizing that a landscape is so beautiful it looks like a painting rather than merely saying it is pretty."
+    }
+  ],
   "traditional": "風景如畫",
   "jyutping": "fung1 ging2 jyu4 waak6",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "scenic, pretty",
-      "english": [
-        {
-          "id": "goxpfmkr",
-          "word": "picturesque",
-          "meaning": "scenic, pretty",
-          "register": "written",
-          "note": "Use this when emphasizing that a landscape is so beautiful it looks like a painting rather than merely saying it is pretty."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "The scenery below the mountain is picturesque, like a painting.",
-          "traditional": "山下湖光山色，風景如畫。",
-          "jyutping": "saan1 haa6 wu4 gwong1 saan1 sik1 fung1 ging2 jyu4 waak6"
-        }
-      ]
+      "english": "The scenery below the mountain is picturesque, like a painting.",
+      "traditional": "山下湖光山色，風景如畫。",
+      "jyutping": "saan1 haa6 wu4 gwong1 saan1 sik1 fung1 ging2 jyu4 waak6"
     }
   ]
 }

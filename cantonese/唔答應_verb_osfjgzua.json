@@ -1,26 +1,22 @@
 {
   "id": "osfjgzua",
   "partOfSpeech": "verb",
+  "meaning": "decline a request",
+  "english": [
+    {
+      "id": "h17ero1w",
+      "word": "refuse",
+      "meaning": "decline a request",
+      "note": "Use this when someone does not agree to or accept a request or demand."
+    }
+  ],
   "traditional": "唔答應",
   "jyutping": "m4 daap3 jing3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "decline a request",
-      "english": [
-        {
-          "id": "h17ero1w",
-          "word": "refuse",
-          "meaning": "decline a request",
-          "note": "Use this when someone does not agree to or accept a request or demand."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I asked them if they could reschedule, but they refuse.",
-          "traditional": "我問佢可唔可以改期，但佢唔答應。",
-          "jyutping": "ngo5 man6 keoi5 ho2 m4 ho2 ji5 goi2 kei4 daan6 keoi5 m4 daap3 jing3"
-        }
-      ]
+      "english": "I asked them if they could reschedule, but they refuse.",
+      "traditional": "我問佢可唔可以改期，但佢唔答應。",
+      "jyutping": "ngo5 man6 keoi5 ho2 m4 ho2 ji5 goi2 kei4 daan6 keoi5 m4 daap3 jing3"
     }
   ]
 }

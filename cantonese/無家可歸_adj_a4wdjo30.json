@@ -1,28 +1,24 @@
 {
   "id": "a4wdjo30",
   "partOfSpeech": "adj",
+  "meaning": "without a home",
+  "english": [
+    {
+      "id": "vzaz1gm6",
+      "word": "homeless",
+      "meaning": "without a home",
+      "register": "formal",
+      "note": "This is the standard all-purpose adjective for someone lacking a permanent home."
+    }
+  ],
   "traditional": "無家可歸",
   "jyutping": "mou4 gaa1 ho2 gwai1",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "without a home",
-      "english": [
-        {
-          "id": "vzaz1gm6",
-          "word": "homeless",
-          "meaning": "without a home",
-          "register": "formal",
-          "note": "This is the standard all-purpose adjective for someone lacking a permanent home."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "This fire left many residents homeless.",
-          "traditional": "呢場火災令唔少居民無家可歸。",
-          "jyutping": "ni1 coeng4 fo2 zoi1 ling6 m4 siu2 geoi1 man4 mou4 gaa1 ho2 gwai1"
-        }
-      ]
+      "english": "This fire left many residents homeless.",
+      "traditional": "呢場火災令唔少居民無家可歸。",
+      "jyutping": "ni1 coeng4 fo2 zoi1 ling6 m4 siu2 geoi1 man4 mou4 gaa1 ho2 gwai1"
     }
   ]
 }

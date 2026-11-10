@@ -1,28 +1,24 @@
 {
   "id": "xmtuoy40",
   "partOfSpeech": "verb",
+  "meaning": "release; set free",
+  "english": [
+    {
+      "id": "4yb7pgdd",
+      "word": "free",
+      "meaning": "release; set free",
+      "register": "colloquial",
+      "note": "Use this when releasing a particular person, especially someone detained or being held."
+    }
+  ],
   "traditional": "放人",
   "jyutping": "fong3 jan4",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "release; set free",
-      "english": [
-        {
-          "id": "4yb7pgdd",
-          "word": "free",
-          "meaning": "release; set free",
-          "register": "colloquial",
-          "note": "Use this when releasing a particular person, especially someone detained or being held."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "The police finally decided to free him.",
-          "traditional": "警方最後決定放人。",
-          "jyutping": "ging2 fong1 zeoi3 hau6 kyut3 ding6 fong3 jan4"
-        }
-      ]
+      "english": "The police finally decided to free him.",
+      "traditional": "警方最後決定放人。",
+      "jyutping": "ging2 fong1 zeoi3 hau6 kyut3 ding6 fong3 jan4"
     }
   ]
 }

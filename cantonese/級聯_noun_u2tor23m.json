@@ -1,28 +1,24 @@
 {
   "id": "u2tor23m",
   "partOfSpeech": "noun",
+  "meaning": "electrical cascade",
+  "english": [
+    {
+      "id": "3vwa4p80",
+      "word": "cascade",
+      "meaning": "electrical cascade",
+      "register": "written",
+      "note": "Use this technical term for components or stages connected so that each output feeds the next input."
+    }
+  ],
   "traditional": "級聯",
   "jyutping": "kap1 lyun4",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "electrical cascade",
-      "english": [
-        {
-          "id": "3vwa4p80",
-          "word": "cascade",
-          "meaning": "electrical cascade",
-          "register": "written",
-          "note": "Use this technical term for components or stages connected so that each output feeds the next input."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "This circuit uses a cascade design, with each stage's output connected to the next stage's input.",
-          "traditional": "呢個電路採用級聯設計，前一級嘅輸出會接駁到下一級嘅輸入。",
-          "jyutping": "ni1 go3 din6 lou6 coi2 jung6 kap1 lyun4 cit3 gai3 cin4 jat1 kap1 ge3 syu1 ceot1 wui5 zip3 bok3 dou3 haa6 jat1 kap1 ge3 syu1 jap6"
-        }
-      ]
+      "english": "This circuit uses a cascade design, with each stage's output connected to the next stage's input.",
+      "traditional": "呢個電路採用級聯設計，前一級嘅輸出會接駁到下一級嘅輸入。",
+      "jyutping": "ni1 go3 din6 lou6 coi2 jung6 kap1 lyun4 cit3 gai3 cin4 jat1 kap1 ge3 syu1 ceot1 wui5 zip3 bok3 dou3 haa6 jat1 kap1 ge3 syu1 jap6"
     }
   ]
 }

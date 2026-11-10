@@ -1,28 +1,24 @@
 {
   "id": "yqe3oxcm",
   "partOfSpeech": "adj",
+  "meaning": "electrically neutral",
+  "english": [
+    {
+      "id": "icgybnmk",
+      "word": "neutral",
+      "meaning": "electrically neutral",
+      "register": "colloquial",
+      "note": "Use this for an object or particle with no electric charge, rather than for a neutral opinion or attitude."
+    }
+  ],
   "traditional": "唔帶電",
   "jyutping": "m4 daai3 din6",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "electrically neutral",
-      "english": [
-        {
-          "id": "icgybnmk",
-          "word": "neutral",
-          "meaning": "electrically neutral",
-          "register": "colloquial",
-          "note": "Use this for an object or particle with no electric charge, rather than for a neutral opinion or attitude."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "This wire carries no electric charge, so it is neutral and safe to touch.",
-          "traditional": "呢條電線唔帶電，你可以放心掂。",
-          "jyutping": "ni1 tiu4 din6 sin3 m4 daai3 din6 nei5 ho2 ji5 fong3 sam1 dim3"
-        }
-      ]
+      "english": "This wire carries no electric charge, so it is neutral and safe to touch.",
+      "traditional": "呢條電線唔帶電，你可以放心掂。",
+      "jyutping": "ni1 tiu4 din6 sin3 m4 daai3 din6 nei5 ho2 ji5 fong3 sam1 dim3"
     }
   ]
 }

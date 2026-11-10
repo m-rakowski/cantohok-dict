@@ -1,48 +1,44 @@
 {
   "id": "6a4e4mwm",
   "partOfSpeech": "noun",
+  "meaning": "means, tactic",
+  "english": [
+    {
+      "id": "px9tov5a",
+      "word": "means",
+      "meaning": "method / way to achieve",
+      "note": "Use this when the means is a tactic, instrument, or sometimes a morally questionable way of achieving an end."
+    },
+    {
+      "id": "le8hypi9",
+      "word": "weapon",
+      "meaning": "means of harm/control",
+      "note": "Use this for a figurative weapon understood as a method or means of harming, pressuring, or controlling someone."
+    },
+    {
+      "id": "55klwbia",
+      "word": "tool",
+      "meaning": "means or instrument",
+      "note": "Use this for a means or tactic that helps achieve an aim rather than for a physical implement."
+    }
+  ],
   "traditional": "手段",
   "jyutping": "sau2 dyun6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "means, tactic",
-      "english": [
-        {
-          "id": "px9tov5a",
-          "word": "means",
-          "meaning": "method / way to achieve",
-          "note": "Use this when the means is a tactic, instrument, or sometimes a morally questionable way of achieving an end."
-        },
-        {
-          "id": "le8hypi9",
-          "word": "weapon",
-          "meaning": "means of harm/control",
-          "note": "Use this for a figurative weapon understood as a method or means of harming, pressuring, or controlling someone."
-        },
-        {
-          "id": "55klwbia",
-          "word": "tool",
-          "meaning": "means or instrument",
-          "note": "Use this for a means or tactic that helps achieve an aim rather than for a physical implement."
-        }
-      ],
-      "examples": [
-        {
-          "english": "They used improper means to force people to submit.",
-          "traditional": "佢用不正當手段逼人就範。",
-          "jyutping": "keoi5 jung6 bat1 zing3 dong1 sau2 dyun6 bik1 jan4 zau6 faan6"
-        },
-        {
-          "english": "They use this kind of weapon to force people to submit.",
-          "traditional": "佢用呢種手段逼人就範。",
-          "jyutping": "keoi5 jung6 ni1 zung2 sau2 dyun6 bik1 jan4 zau6 faan6"
-        },
-        {
-          "english": "This is the tool we use to persuade clients.",
-          "traditional": "呢個係我哋說服客戶嘅手段。",
-          "jyutping": "ni1 go3 hai6 ngo5 dei6 syut3 fuk6 haak3 wu6 ge3 sau2 dyun6"
-        }
-      ]
+      "english": "They used improper means to force people to submit.",
+      "traditional": "佢用不正當手段逼人就範。",
+      "jyutping": "keoi5 jung6 bat1 zing3 dong1 sau2 dyun6 bik1 jan4 zau6 faan6"
+    },
+    {
+      "english": "They use this kind of weapon to force people to submit.",
+      "traditional": "佢用呢種手段逼人就範。",
+      "jyutping": "keoi5 jung6 ni1 zung2 sau2 dyun6 bik1 jan4 zau6 faan6"
+    },
+    {
+      "english": "This is the tool we use to persuade clients.",
+      "traditional": "呢個係我哋說服客戶嘅手段。",
+      "jyutping": "ni1 go3 hai6 ngo5 dei6 syut3 fuk6 haak3 wu6 ge3 sau2 dyun6"
     }
   ]
 }

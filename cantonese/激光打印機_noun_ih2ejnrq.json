@@ -1,26 +1,22 @@
 {
   "id": "ih2ejnrq",
   "partOfSpeech": "noun",
+  "meaning": "laser printer",
+  "english": [
+    {
+      "id": "zh3huqij",
+      "word": "laser",
+      "meaning": "laser printer",
+      "note": "Use this specifically for a laser printer rather than the laser technology or beam by itself."
+    }
+  ],
   "traditional": "激光打印機",
   "jyutping": "gik1 gwong1 daa2 jan3 gei1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "laser printer",
-      "english": [
-        {
-          "id": "zh3huqij",
-          "word": "laser",
-          "meaning": "laser printer",
-          "note": "Use this specifically for a laser printer rather than the laser technology or beam by itself."
-        }
-      ],
-      "examples": [
-        {
-          "english": "My laser printer is out of ink, so it cannot print the document.",
-          "traditional": "我部激光打印機冇晒墨，印唔到份文件。",
-          "jyutping": "ngo5 bou6 gik1 gwong1 daa2 jan3 gei1 mou5 saai3 mak6 jan3 m4 dou2 fan6 man4 gin2"
-        }
-      ]
+      "english": "My laser printer is out of ink, so it cannot print the document.",
+      "traditional": "我部激光打印機冇晒墨，印唔到份文件。",
+      "jyutping": "ngo5 bou6 gik1 gwong1 daa2 jan3 gei1 mou5 saai3 mak6 jan3 m4 dou2 fan6 man4 gin2"
     }
   ]
 }

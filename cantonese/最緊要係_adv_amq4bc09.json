@@ -1,28 +1,24 @@
 {
   "id": "amq4bc09",
   "partOfSpeech": "adv",
+  "meaning": "as an emphasis marker",
+  "english": [
+    {
+      "id": "cgtobuu7",
+      "word": "importantly",
+      "meaning": "as an emphasis marker",
+      "register": "colloquial",
+      "note": "Use this as the all-purpose colloquial way to introduce the point that matters most."
+    }
+  ],
   "traditional": "最緊要係",
   "jyutping": "zeoi3 gan2 jiu3 hai6",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "as an emphasis marker",
-      "english": [
-        {
-          "id": "cgtobuu7",
-          "word": "importantly",
-          "meaning": "as an emphasis marker",
-          "register": "colloquial",
-          "note": "Use this as the all-purpose colloquial way to introduce the point that matters most."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "The thing that matters most is, importantly, that you like it yourself.",
-          "traditional": "最緊要係你自己鍾意。",
-          "jyutping": "zeoi3 gan2 jiu3 hai6 nei5 zi6 gei2 zung1 ji3"
-        }
-      ]
+      "english": "The thing that matters most is, importantly, that you like it yourself.",
+      "traditional": "最緊要係你自己鍾意。",
+      "jyutping": "zeoi3 gan2 jiu3 hai6 nei5 zi6 gei2 zung1 ji3"
     }
   ]
 }

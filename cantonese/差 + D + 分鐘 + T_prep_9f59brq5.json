@@ -1,28 +1,24 @@
 {
   "id": "9f59brq5",
   "partOfSpeech": "prep",
+  "meaning": "before a time",
+  "english": [
+    {
+      "id": "9zey2st0",
+      "word": "till",
+      "meaning": "before a time",
+      "register": "colloquial",
+      "note": "Use this construction for clock times such as “twenty till two.”"
+    }
+  ],
   "traditional": "差 + D + 分鐘 + T",
   "jyutping": "caa1 D fan1 zung1 T",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "before a time",
-      "english": [
-        {
-          "id": "9zey2st0",
-          "word": "till",
-          "meaning": "before a time",
-          "register": "colloquial",
-          "note": "Use this construction for clock times such as “twenty till two.”"
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "It's five till two now.",
-          "traditional": "而家差五分鐘兩點喇。",
-          "jyutping": "ji4 gaa1 caa1 ng5 fan1 zung1 loeng5 dim2 laa3"
-        }
-      ]
+      "english": "It's five till two now.",
+      "traditional": "而家差五分鐘兩點喇。",
+      "jyutping": "ji4 gaa1 caa1 ng5 fan1 zung1 loeng5 dim2 laa3"
     }
   ]
 }

@@ -1,28 +1,24 @@
 {
   "id": "3kapk1mc",
   "partOfSpeech": "verb",
+  "meaning": "assume without proof",
+  "english": [
+    {
+      "id": "ggu1w4ot",
+      "word": "presuppose",
+      "meaning": "assume without proof",
+      "register": "formal",
+      "note": "Use this mainly in technical or formal contexts when the assumption is built into the discussion from the outset."
+    }
+  ],
   "traditional": "預設",
   "jyutping": "jyu6 cit3",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "assume without proof",
-      "english": [
-        {
-          "id": "ggu1w4ot",
-          "word": "presuppose",
-          "meaning": "assume without proof",
-          "register": "formal",
-          "note": "Use this mainly in technical or formal contexts when the assumption is built into the discussion from the outset."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "These calculations presuppose that all participants arrive on time.",
-          "traditional": "呢啲推算預設所有參加者都準時到達。",
-          "jyutping": "ni1 di1 teoi1 syun3 jyu6 cit3 so2 jau5 caam1 gaa1 ze2 dou1 zeon2 si4 dou3 daat6"
-        }
-      ]
+      "english": "These calculations presuppose that all participants arrive on time.",
+      "traditional": "呢啲推算預設所有參加者都準時到達。",
+      "jyutping": "ni1 di1 teoi1 syun3 jyu6 cit3 so2 jau5 caam1 gaa1 ze2 dou1 zeon2 si4 dou3 daat6"
     }
   ]
 }

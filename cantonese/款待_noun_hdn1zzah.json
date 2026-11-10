@@ -1,38 +1,34 @@
 {
   "id": "hdn1zzah",
   "partOfSpeech": "noun",
+  "meaning": "hospitality, treating guests",
+  "english": [
+    {
+      "id": "4jb61d3i",
+      "word": "hospitality",
+      "meaning": "welcoming guests",
+      "note": "This is the all-purpose noun for the hospitality a host provides, including treating guests to food, drink, or entertainment."
+    },
+    {
+      "id": "wetp5nc2",
+      "word": "treat",
+      "meaning": "a treat",
+      "register": "formal",
+      "note": "Use this when the treat is hospitality or an outing, meal, or other enjoyment provided by someone for others."
+    }
+  ],
   "traditional": "款待",
   "jyutping": "fun2 doi6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "hospitality, treating guests",
-      "english": [
-        {
-          "id": "4jb61d3i",
-          "word": "hospitality",
-          "meaning": "welcoming guests",
-          "note": "This is the all-purpose noun for the hospitality a host provides, including treating guests to food, drink, or entertainment."
-        },
-        {
-          "id": "wetp5nc2",
-          "word": "treat",
-          "meaning": "a treat",
-          "register": "formal",
-          "note": "Use this when the treat is hospitality or an outing, meal, or other enjoyment provided by someone for others."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Thank you for your warm hospitality and for arranging so many activities.",
-          "traditional": "多謝你咁熱情款待我哋，仲安排埋咁多節目。",
-          "jyutping": "do1 ze6 nei5 gam3 jit6 cing4 fun2 doi6 ngo5 dei6 zung6 on1 paai4 maai4 gam3 do1 zit3 muk6"
-        },
-        {
-          "english": "The company is hosting a dinner as a treat for foreign guests.",
-          "traditional": "公司今晚設宴款待外國客人。",
-          "jyutping": "gung1 si1 gam1 maan5 cit3 jin3 fun2 doi6 ngoi6 gwok3 haak3 jan4"
-        }
-      ]
+      "english": "Thank you for your warm hospitality and for arranging so many activities.",
+      "traditional": "多謝你咁熱情款待我哋，仲安排埋咁多節目。",
+      "jyutping": "do1 ze6 nei5 gam3 jit6 cing4 fun2 doi6 ngo5 dei6 zung6 on1 paai4 maai4 gam3 do1 zit3 muk6"
+    },
+    {
+      "english": "The company is hosting a dinner as a treat for foreign guests.",
+      "traditional": "公司今晚設宴款待外國客人。",
+      "jyutping": "gung1 si1 gam1 maan5 cit3 jin3 fun2 doi6 ngoi6 gwok3 haak3 jan4"
     }
   ]
 }

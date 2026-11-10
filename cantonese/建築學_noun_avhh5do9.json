@@ -1,28 +1,24 @@
 {
   "id": "avhh5do9",
   "partOfSpeech": "noun",
+  "meaning": "building design",
+  "english": [
+    {
+      "id": "jy2hwcqr",
+      "word": "architecture",
+      "meaning": "building design",
+      "register": "formal",
+      "note": "Use this for architecture as an academic discipline or field of study."
+    }
+  ],
   "traditional": "建築學",
   "jyutping": "gin3 zuk1 hok6",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "building design",
-      "english": [
-        {
-          "id": "jy2hwcqr",
-          "word": "architecture",
-          "meaning": "building design",
-          "register": "formal",
-          "note": "Use this for architecture as an academic discipline or field of study."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "They study architecture at university.",
-          "traditional": "佢大學讀建築學。",
-          "jyutping": "keoi5 daai6 hok6 duk6 gin3 zuk1 hok6"
-        }
-      ]
+      "english": "They study architecture at university.",
+      "traditional": "佢大學讀建築學。",
+      "jyutping": "keoi5 daai6 hok6 duk6 gin3 zuk1 hok6"
     }
   ]
 }

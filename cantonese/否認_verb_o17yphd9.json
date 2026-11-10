@@ -1,38 +1,34 @@
 {
   "id": "o17yphd9",
   "partOfSpeech": "verb",
+  "meaning": "to deny",
+  "english": [
+    {
+      "id": "si53nyw3",
+      "word": "contradict",
+      "meaning": "deny a statement",
+      "note": "Use this as the all-purpose verb for denying that a statement is true or valid."
+    },
+    {
+      "id": "oh7puwyh",
+      "word": "deny",
+      "meaning": "say not true",
+      "register": "formal",
+      "note": "Use this for formally or publicly stating that a rumour, allegation, or claim is untrue."
+    }
+  ],
   "traditional": "否認",
   "jyutping": "fau2 jing6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "to deny",
-      "english": [
-        {
-          "id": "si53nyw3",
-          "word": "contradict",
-          "meaning": "deny a statement",
-          "note": "Use this as the all-purpose verb for denying that a statement is true or valid."
-        },
-        {
-          "id": "oh7puwyh",
-          "word": "deny",
-          "meaning": "say not true",
-          "register": "formal",
-          "note": "Use this for formally or publicly stating that a rumour, allegation, or claim is untrue."
-        }
-      ],
-      "examples": [
-        {
-          "english": "They contradict the report's claim.",
-          "traditional": "佢否認嗰篇報道嘅講法。",
-          "jyutping": "keoi5 fau2 jing6 go2 pin1 bou3 dou6 ge3 gong2 faat3"
-        },
-        {
-          "english": "The police publicly deny this rumour.",
-          "traditional": "警方公開否認呢個傳聞。",
-          "jyutping": "ging2 fong1 gung1 hoi1 fau2 jing6 ni1 go3 cyun4 man4"
-        }
-      ]
+      "english": "They contradict the report's claim.",
+      "traditional": "佢否認嗰篇報道嘅講法。",
+      "jyutping": "keoi5 fau2 jing6 go2 pin1 bou3 dou6 ge3 gong2 faat3"
+    },
+    {
+      "english": "The police publicly deny this rumour.",
+      "traditional": "警方公開否認呢個傳聞。",
+      "jyutping": "ging2 fong1 gung1 hoi1 fau2 jing6 ni1 go3 cyun4 man4"
     }
   ]
 }

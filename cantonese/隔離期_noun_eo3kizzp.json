@@ -1,26 +1,22 @@
 {
   "id": "eo3kizzp",
   "partOfSpeech": "noun",
+  "meaning": "disease isolation",
+  "english": [
+    {
+      "id": "b69kca0o",
+      "word": "quarantine",
+      "meaning": "disease isolation",
+      "note": "Use this specifically when quarantine means the period of isolation rather than the measure or state generally."
+    }
+  ],
   "traditional": "隔離期",
   "jyutping": "gaak3 lei4 kei4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "disease isolation",
-      "english": [
-        {
-          "id": "b69kca0o",
-          "word": "quarantine",
-          "meaning": "disease isolation",
-          "note": "Use this specifically when quarantine means the period of isolation rather than the measure or state generally."
-        }
-      ],
-      "examples": [
-        {
-          "english": "My quarantine period is over, so I can finally return to work.",
-          "traditional": "隔離期",
-          "jyutping": "gaak3 lei4 kei4"
-        }
-      ]
+      "english": "My quarantine period is over, so I can finally return to work.",
+      "traditional": "隔離期",
+      "jyutping": "gaak3 lei4 kei4"
     }
   ]
 }

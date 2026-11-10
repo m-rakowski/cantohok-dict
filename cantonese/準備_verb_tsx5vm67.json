@@ -1,48 +1,44 @@
 {
   "id": "tsx5vm67",
   "partOfSpeech": "verb",
+  "meaning": "prepare, get ready",
+  "english": [
+    {
+      "id": "v0dwln3l",
+      "word": "prepare",
+      "meaning": "get oneself ready",
+      "note": "Use this as the all-purpose verb for making something or oneself ready in advance."
+    },
+    {
+      "id": "keu3gmns",
+      "word": "dress",
+      "meaning": "prepare / get ready",
+      "note": "Use 準備 when dress means to prepare something for use or get it ready."
+    },
+    {
+      "id": "mzik94cd",
+      "word": "arrange",
+      "meaning": "make plans; set up",
+      "note": "Use this when arranging means preparing something in advance, rather than making the overall arrangements."
+    }
+  ],
   "traditional": "準備",
   "jyutping": "zeon2 bei6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "prepare, get ready",
-      "english": [
-        {
-          "id": "v0dwln3l",
-          "word": "prepare",
-          "meaning": "get oneself ready",
-          "note": "Use this as the all-purpose verb for making something or oneself ready in advance."
-        },
-        {
-          "id": "keu3gmns",
-          "word": "dress",
-          "meaning": "prepare / get ready",
-          "note": "Use 準備 when dress means to prepare something for use or get it ready."
-        },
-        {
-          "id": "mzik94cd",
-          "word": "arrange",
-          "meaning": "make plans; set up",
-          "note": "Use this when arranging means preparing something in advance, rather than making the overall arrangements."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Remember to prepare the presentation for tomorrow.",
-          "traditional": "記住準備聽日要用嘅簡報。",
-          "jyutping": "gei3 zyu6 zeon2 bei6 ting1 jat6 jiu3 jung6 ge3 gaan2 bou3"
-        },
-        {
-          "english": "I usually dress the salad just before we eat.",
-          "traditional": "我通常食之前先準備個沙律。",
-          "jyutping": "ngo5 tung1 soeng4 sik6 zi1 cin4 sin1 zeon2 bei6 go3 saa1 leot6"
-        },
-        {
-          "english": "Prepare the report so we can arrange the meeting.",
-          "traditional": "你準備好份報告，我哋先可以安排開會。",
-          "jyutping": "nei5 zeon2 bei6 hou2 fan6 bou3 gou3 ngo5 dei6 sin1 ho2 ji5 on1 paai4 hoi1 wui2"
-        }
-      ]
+      "english": "Remember to prepare the presentation for tomorrow.",
+      "traditional": "記住準備聽日要用嘅簡報。",
+      "jyutping": "gei3 zyu6 zeon2 bei6 ting1 jat6 jiu3 jung6 ge3 gaan2 bou3"
+    },
+    {
+      "english": "I usually dress the salad just before we eat.",
+      "traditional": "我通常食之前先準備個沙律。",
+      "jyutping": "ngo5 tung1 soeng4 sik6 zi1 cin4 sin1 zeon2 bei6 go3 saa1 leot6"
+    },
+    {
+      "english": "Prepare the report so we can arrange the meeting.",
+      "traditional": "你準備好份報告，我哋先可以安排開會。",
+      "jyutping": "nei5 zeon2 bei6 hou2 fan6 bou3 gou3 ngo5 dei6 sin1 ho2 ji5 on1 paai4 hoi1 wui2"
     }
   ]
 }

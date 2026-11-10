@@ -1,28 +1,24 @@
 {
   "id": "20mty4af",
   "partOfSpeech": "noun",
+  "meaning": "freedom from error",
+  "english": [
+    {
+      "id": "xg9qnyzs",
+      "word": "correctness",
+      "meaning": "freedom from error",
+      "register": "written",
+      "note": "This is the all-purpose noun for general correctness, especially of an answer, method, or procedure."
+    }
+  ],
   "traditional": "正確性",
   "jyutping": "zing3 kok3 sing3",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "freedom from error",
-      "english": [
-        {
-          "id": "xg9qnyzs",
-          "word": "correctness",
-          "meaning": "freedom from error",
-          "register": "written",
-          "note": "This is the all-purpose noun for general correctness, especially of an answer, method, or procedure."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "The correctness of this answer is very important.",
-          "traditional": "呢個答案嘅正確性好重要。",
-          "jyutping": "ni1 go3 daap3 on3 ge3 zing3 kok3 sing3 hou2 zung6 jiu3"
-        }
-      ]
+      "english": "The correctness of this answer is very important.",
+      "traditional": "呢個答案嘅正確性好重要。",
+      "jyutping": "ni1 go3 daap3 on3 ge3 zing3 kok3 sing3 hou2 zung6 jiu3"
     }
   ]
 }

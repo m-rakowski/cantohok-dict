@@ -1,28 +1,24 @@
 {
   "id": "zwnkcvqb",
   "partOfSpeech": "verb",
+  "meaning": "reduce a sentence",
+  "english": [
+    {
+      "id": "g85ykahx",
+      "word": "commute",
+      "meaning": "reduce a sentence",
+      "register": "formal",
+      "note": "Use this in legal contexts when a criminal sentence is reduced."
+    }
+  ],
   "traditional": "減刑",
   "jyutping": "gaam2 jing4",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "reduce a sentence",
-      "english": [
-        {
-          "id": "g85ykahx",
-          "word": "commute",
-          "meaning": "reduce a sentence",
-          "register": "formal",
-          "note": "Use this in legal contexts when a criminal sentence is reduced."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The court decided to commute his sentence in the end.",
-          "traditional": "法庭最後決定幫佢減刑。",
-          "jyutping": "faat3 ting4 zeoi3 hau6 kyut3 ding6 bong1 keoi5 gaam2 jing4"
-        }
-      ]
+      "english": "The court decided to commute his sentence in the end.",
+      "traditional": "法庭最後決定幫佢減刑。",
+      "jyutping": "faat3 ting4 zeoi3 hau6 kyut3 ding6 bong1 keoi5 gaam2 jing4"
     }
   ]
 }

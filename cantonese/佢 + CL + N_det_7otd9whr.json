@@ -1,28 +1,24 @@
 {
   "id": "7otd9whr",
   "partOfSpeech": "det",
+  "meaning": "possessive determiner",
+  "english": [
+    {
+      "id": "259f6dxt",
+      "word": "his",
+      "meaning": "possessive determiner",
+      "register": "colloquial",
+      "note": "Use this colloquial pattern when the noun naturally takes a classifier, such as 佢個袋 for “his bag.”"
+    }
+  ],
   "traditional": "佢 + CL + N",
   "jyutping": "keoi5 CL N",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "possessive determiner",
-      "english": [
-        {
-          "id": "259f6dxt",
-          "word": "his",
-          "meaning": "possessive determiner",
-          "register": "colloquial",
-          "note": "Use this colloquial pattern when the noun naturally takes a classifier, such as 佢個袋 for “his bag.”"
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "His bag is on the floor.",
-          "traditional": "佢個袋喺地下。",
-          "jyutping": "keoi5 go3 doi6 hai2 dei6 haa6"
-        }
-      ]
+      "english": "His bag is on the floor.",
+      "traditional": "佢個袋喺地下。",
+      "jyutping": "keoi5 go3 doi6 hai2 dei6 haa6"
     }
   ]
 }

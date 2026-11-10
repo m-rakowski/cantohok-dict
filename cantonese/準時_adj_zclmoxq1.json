@@ -1,48 +1,44 @@
 {
   "id": "zclmoxq1",
   "partOfSpeech": "adj",
+  "meaning": "on time",
+  "english": [
+    {
+      "id": "txxtkr76",
+      "word": "timely",
+      "meaning": "prompt; on time",
+      "note": "Use this all-purpose spoken choice for something completed or happening on schedule and not late."
+    },
+    {
+      "id": "aju3u36o",
+      "word": "prompt",
+      "meaning": "punctual; on time",
+      "note": "Use this specifically when someone arrives or does something at the scheduled time."
+    },
+    {
+      "id": "7lksj8oa",
+      "word": "punctual",
+      "meaning": "on time (person)",
+      "note": "This is the all-purpose choice for an event happening on time or a person arriving or acting on time."
+    }
+  ],
   "traditional": "準時",
   "jyutping": "zeon2 si4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "on time",
-      "english": [
-        {
-          "id": "txxtkr76",
-          "word": "timely",
-          "meaning": "prompt; on time",
-          "note": "Use this all-purpose spoken choice for something completed or happening on schedule and not late."
-        },
-        {
-          "id": "aju3u36o",
-          "word": "prompt",
-          "meaning": "punctual; on time",
-          "note": "Use this specifically when someone arrives or does something at the scheduled time."
-        },
-        {
-          "id": "7lksj8oa",
-          "word": "punctual",
-          "meaning": "on time (person)",
-          "note": "This is the all-purpose choice for an event happening on time or a person arriving or acting on time."
-        }
-      ],
-      "examples": [
-        {
-          "english": "We started the meeting at eight, which was timely.",
-          "traditional": "我哋準時八點開會。",
-          "jyutping": "ngo5 dei6 zeon2 si4 baat3 dim2 hoi1 wui2"
-        },
-        {
-          "english": "They are always prompt and never make anyone wait.",
-          "traditional": "佢次次都準時到，從來唔使人等。",
-          "jyutping": "keoi5 ci3 ci3 dou1 zeon2 si4 dou3 cung4 loi4 m4 sai2 jan4 dang2"
-        },
-        {
-          "english": "The train is punctual and leaves at seven.",
-          "traditional": "班火車準時七點開出。",
-          "jyutping": "baan1 fo2 ce1 zeon2 si4 cat1 dim2 hoi1 ceot1"
-        }
-      ]
+      "english": "We started the meeting at eight, which was timely.",
+      "traditional": "我哋準時八點開會。",
+      "jyutping": "ngo5 dei6 zeon2 si4 baat3 dim2 hoi1 wui2"
+    },
+    {
+      "english": "They are always prompt and never make anyone wait.",
+      "traditional": "佢次次都準時到，從來唔使人等。",
+      "jyutping": "keoi5 ci3 ci3 dou1 zeon2 si4 dou3 cung4 loi4 m4 sai2 jan4 dang2"
+    },
+    {
+      "english": "The train is punctual and leaves at seven.",
+      "traditional": "班火車準時七點開出。",
+      "jyutping": "baan1 fo2 ce1 zeon2 si4 cat1 dim2 hoi1 ceot1"
     }
   ]
 }

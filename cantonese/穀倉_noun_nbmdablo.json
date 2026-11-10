@@ -1,27 +1,23 @@
 {
   "id": "nbmdablo",
   "partOfSpeech": "noun",
+  "meaning": "granary, grain store",
+  "english": [
+    {
+      "id": "v0u4n900",
+      "word": "barn",
+      "meaning": "farm building",
+      "register": "written",
+      "note": "Use this when the barn is specifically a farm building for storing grain or other harvested crops."
+    }
+  ],
   "traditional": "穀倉",
   "jyutping": "guk1 cong1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "granary, grain store",
-      "english": [
-        {
-          "id": "v0u4n900",
-          "word": "barn",
-          "meaning": "farm building",
-          "register": "written",
-          "note": "Use this when the barn is specifically a farm building for storing grain or other harvested crops."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This barn is used to store harvested grain.",
-          "traditional": "呢座穀倉用嚟儲存收割返嚟嘅穀物。",
-          "jyutping": "ni1 zo6 guk1 cong1 jung6 lai4 cyu5 cyun4 sau1 got3 faan1 lei4 ge3 guk1 mat6"
-        }
-      ]
+      "english": "This barn is used to store harvested grain.",
+      "traditional": "呢座穀倉用嚟儲存收割返嚟嘅穀物。",
+      "jyutping": "ni1 zo6 guk1 cong1 jung6 lai4 cyu5 cyun4 sau1 got3 faan1 lei4 ge3 guk1 mat6"
     }
   ]
 }

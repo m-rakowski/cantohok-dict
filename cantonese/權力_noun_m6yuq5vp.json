@@ -1,37 +1,33 @@
 {
   "id": "m6yuq5vp",
   "partOfSpeech": "noun",
+  "meaning": "power, authority",
+  "english": [
+    {
+      "id": "g4w7cnhb",
+      "word": "authority",
+      "meaning": "power or right to command",
+      "note": "This is the all-purpose choice for the power or right to command, make rules, or impose obligations."
+    },
+    {
+      "id": "53aaw0bq",
+      "word": "power",
+      "meaning": "political authority",
+      "note": "Use 權力 for the ability to control or influence people, including formal political, legal, or business authority."
+    }
+  ],
   "traditional": "權力",
   "jyutping": "kyun4 lik6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "power, authority",
-      "english": [
-        {
-          "id": "g4w7cnhb",
-          "word": "authority",
-          "meaning": "power or right to command",
-          "note": "This is the all-purpose choice for the power or right to command, make rules, or impose obligations."
-        },
-        {
-          "id": "53aaw0bq",
-          "word": "power",
-          "meaning": "political authority",
-          "note": "Use 權力 for the ability to control or influence people, including formal political, legal, or business authority."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The boss has the authority to decide this.",
-          "traditional": "老闆有權力決定呢件事。",
-          "jyutping": "lou5 baan2 jau5 kyun4 lik6 kyut3 ding6 ni1 gin6 si6"
-        },
-        {
-          "english": "People with power shouldn't abuse it.",
-          "traditional": "有權力嘅人唔應該亂咁用權。",
-          "jyutping": "jau5 kyun4 lik6 ge3 jan4 m4 jing1 goi1 lyun6 gam3 jung6 kyun4"
-        }
-      ]
+      "english": "The boss has the authority to decide this.",
+      "traditional": "老闆有權力決定呢件事。",
+      "jyutping": "lou5 baan2 jau5 kyun4 lik6 kyut3 ding6 ni1 gin6 si6"
+    },
+    {
+      "english": "People with power shouldn't abuse it.",
+      "traditional": "有權力嘅人唔應該亂咁用權。",
+      "jyutping": "jau5 kyun4 lik6 ge3 jan4 m4 jing1 goi1 lyun6 gam3 jung6 kyun4"
     }
   ]
 }

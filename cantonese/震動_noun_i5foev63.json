@@ -1,70 +1,66 @@
 {
   "id": "i5foev63",
   "partOfSpeech": "noun",
+  "meaning": "vibration, shaking",
+  "english": [
+    {
+      "id": "3rkvypra",
+      "word": "vibration",
+      "meaning": "periodic motion",
+      "note": "This is the all-purpose choice for physical vibration or repeated movement."
+    },
+    {
+      "id": "1w1hn0iu",
+      "word": "shake",
+      "meaning": "a shake; shaking",
+      "note": "This is the all-purpose noun for physical shaking, vibration, or a back-and-forth movement."
+    },
+    {
+      "id": "dgai8rop",
+      "word": "tremor",
+      "meaning": "shake, quiver",
+      "note": "Use this for a general physical shaking or vibration, including an internal tremor."
+    },
+    {
+      "id": "6olng9ae",
+      "word": "jar",
+      "meaning": "jolt; shaking impact",
+      "note": "Use this for the shaking or jolting movement or sensation itself."
+    },
+    {
+      "id": "1rvp93wh",
+      "word": "quake",
+      "meaning": "trembling, shaking",
+      "note": "Use this for a physical trembling or vibration, rather than an earthquake."
+    }
+  ],
   "traditional": "震動",
   "jyutping": "zan3 dung6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "vibration, shaking",
-      "english": [
-        {
-          "id": "3rkvypra",
-          "word": "vibration",
-          "meaning": "periodic motion",
-          "note": "This is the all-purpose choice for physical vibration or repeated movement."
-        },
-        {
-          "id": "1w1hn0iu",
-          "word": "shake",
-          "meaning": "a shake; shaking",
-          "note": "This is the all-purpose noun for physical shaking, vibration, or a back-and-forth movement."
-        },
-        {
-          "id": "dgai8rop",
-          "word": "tremor",
-          "meaning": "shake, quiver",
-          "note": "Use this for a general physical shaking or vibration, including an internal tremor."
-        },
-        {
-          "id": "6olng9ae",
-          "word": "jar",
-          "meaning": "jolt; shaking impact",
-          "note": "Use this for the shaking or jolting movement or sensation itself."
-        },
-        {
-          "id": "1rvp93wh",
-          "word": "quake",
-          "meaning": "trembling, shaking",
-          "note": "Use this for a physical trembling or vibration, rather than an earthquake."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The machine's vibration is so strong that the whole table is moving.",
-          "traditional": "部機震動得好勁，成張枱都郁緊。",
-          "jyutping": "bou6 gei1 zan3 dung6 dak1 hou2 ging6 sing4 zoeng1 ci4 dou1 juk1 gan2"
-        },
-        {
-          "english": "As soon as the machine starts, the table begins to shake.",
-          "traditional": "部機一開，張枱就震動起嚟。",
-          "jyutping": "bou6 gei1 jat1 hoi1 zoeng1 toi4 zau6 zan3 dung6 hei2 lei4"
-        },
-        {
-          "english": "The tremor from the washing machine shakes the whole flat.",
-          "traditional": "部洗衣機一開，成間屋都震動。",
-          "jyutping": "bou6 sai2 ji1 gei1 jat1 hoi1 sing4 gaan1 uk1 dou1 zan3 dung6"
-        },
-        {
-          "english": "The glass jar is vibrating on top of the washing machine.",
-          "traditional": "個玻璃樽喺洗衣機上面震動緊。",
-          "jyutping": "go3 bo1 lei4 zeon1 hai2 sai2 ji1 gei1 soeng6 min6 zan3 dung6 gan2"
-        },
-        {
-          "english": "The washing machine's vibration was so violent, the whole flat shook like a quake.",
-          "traditional": "部洗衣機震動得好犀利，成間屋都郁晒。",
-          "jyutping": "bou6 sai2 ji1 gei1 zan3 dung6 dak1 hou2 sai1 lei6 sing4 gaan1 uk1 dou1 juk1 saai3"
-        }
-      ]
+      "english": "The machine's vibration is so strong that the whole table is moving.",
+      "traditional": "部機震動得好勁，成張枱都郁緊。",
+      "jyutping": "bou6 gei1 zan3 dung6 dak1 hou2 ging6 sing4 zoeng1 ci4 dou1 juk1 gan2"
+    },
+    {
+      "english": "As soon as the machine starts, the table begins to shake.",
+      "traditional": "部機一開，張枱就震動起嚟。",
+      "jyutping": "bou6 gei1 jat1 hoi1 zoeng1 toi4 zau6 zan3 dung6 hei2 lei4"
+    },
+    {
+      "english": "The tremor from the washing machine shakes the whole flat.",
+      "traditional": "部洗衣機一開，成間屋都震動。",
+      "jyutping": "bou6 sai2 ji1 gei1 jat1 hoi1 sing4 gaan1 uk1 dou1 zan3 dung6"
+    },
+    {
+      "english": "The glass jar is vibrating on top of the washing machine.",
+      "traditional": "個玻璃樽喺洗衣機上面震動緊。",
+      "jyutping": "go3 bo1 lei4 zeon1 hai2 sai2 ji1 gei1 soeng6 min6 zan3 dung6 gan2"
+    },
+    {
+      "english": "The washing machine's vibration was so violent, the whole flat shook like a quake.",
+      "traditional": "部洗衣機震動得好犀利，成間屋都郁晒。",
+      "jyutping": "bou6 sai2 ji1 gei1 zan3 dung6 dak1 hou2 sai1 lei6 sing4 gaan1 uk1 dou1 juk1 saai3"
     }
   ]
 }

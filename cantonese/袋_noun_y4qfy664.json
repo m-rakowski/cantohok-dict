@@ -1,44 +1,22 @@
 {
   "id": "y4qfy664",
   "partOfSpeech": "noun",
+  "meaning": "pocket",
+  "english": [
+    {
+      "id": "mk0oebpt",
+      "word": "pocket",
+      "meaning": "clothing pocket",
+      "note": "This is the all-purpose spoken term for a clothing pocket when the context makes clear that it is not a bag."
+    }
+  ],
   "traditional": "袋",
   "jyutping": "doi2",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "pocket",
-      "english": [
-        {
-          "id": "mk0oebpt",
-          "word": "pocket",
-          "meaning": "clothing pocket",
-          "note": "This is the all-purpose spoken term for a clothing pocket when the context makes clear that it is not a bag."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I put the keys in my trouser pocket.",
-          "traditional": "我將鎖匙放咗入褲袋。",
-          "jyutping": "ngo5 zoeng1 so2 si4 fong3 zo2 jap6 fu3 doi2"
-        }
-      ]
-    },
-    {
-      "meaning": "bag, packet",
-      "english": [
-        {
-          "id": "hzgzqznj",
-          "word": "packet",
-          "meaning": "small package",
-          "note": "Use this when the packet is specifically a flexible bag, such as a crisp packet."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Don't throw the crisp packet around after eating.",
-          "traditional": "食完薯片唔好亂掉個袋。",
-          "jyutping": "sik6 jyun4 syu4 pin2 m4 hou2 lyun6 diu6 go3 doi2"
-        }
-      ]
+      "english": "I put the keys in my trouser pocket.",
+      "traditional": "我將鎖匙放咗入褲袋。",
+      "jyutping": "ngo5 zoeng1 so2 si4 fong3 zo2 jap6 fu3 doi2"
     }
   ]
 }

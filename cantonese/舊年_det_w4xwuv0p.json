@@ -1,28 +1,24 @@
 {
   "id": "w4xwuv0p",
   "partOfSpeech": "det",
+  "meaning": "immediately previous",
+  "english": [
+    {
+      "id": "ogndbo75",
+      "word": "last",
+      "meaning": "immediately previous",
+      "register": "colloquial",
+      "note": "Use this colloquial Hong Kong expression specifically for the immediately preceding year."
+    }
+  ],
   "traditional": "舊年",
   "jyutping": "gau6 nin4",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "immediately previous",
-      "english": [
-        {
-          "id": "ogndbo75",
-          "word": "last",
-          "meaning": "immediately previous",
-          "register": "colloquial",
-          "note": "Use this colloquial Hong Kong expression specifically for the immediately preceding year."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "I moved house last year.",
-          "traditional": "舊年我搬咗屋。",
-          "jyutping": "gau6 nin4 ngo5 bun1 zo2 uk1"
-        }
-      ]
+      "english": "I moved house last year.",
+      "traditional": "舊年我搬咗屋。",
+      "jyutping": "gau6 nin4 ngo5 bun1 zo2 uk1"
     }
   ]
 }

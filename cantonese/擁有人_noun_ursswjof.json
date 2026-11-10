@@ -1,28 +1,24 @@
 {
   "id": "ursswjof",
   "partOfSpeech": "noun",
+  "meaning": "person who owns something",
+  "english": [
+    {
+      "id": "ycacyxt5",
+      "word": "owner",
+      "meaning": "person who owns something",
+      "register": "formal",
+      "note": "This is the all-purpose term for the person who owns something, especially in formal contexts."
+    }
+  ],
   "traditional": "擁有人",
   "jyutping": "jung2 jau5 jan4",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "person who owns something",
-      "english": [
-        {
-          "id": "ycacyxt5",
-          "word": "owner",
-          "meaning": "person who owns something",
-          "register": "formal",
-          "note": "This is the all-purpose term for the person who owns something, especially in formal contexts."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "The owner of this document must sign it.",
-          "traditional": "呢份文件要由擁有人簽名。",
-          "jyutping": "ni1 fan6 man4 gin6 jiu3 jau4 jung2 jau5 jan4 cim1 ming4"
-        }
-      ]
+      "english": "The owner of this document must sign it.",
+      "traditional": "呢份文件要由擁有人簽名。",
+      "jyutping": "ni1 fan6 man4 gin6 jiu3 jau4 jung2 jau5 jan4 cim1 ming4"
     }
   ]
 }

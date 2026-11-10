@@ -1,37 +1,33 @@
 {
   "id": "3303lzvz",
   "partOfSpeech": "noun",
+  "meaning": "booking, reservation",
+  "english": [
+    {
+      "id": "l7cenned",
+      "word": "booking",
+      "meaning": "reservation",
+      "note": "Use 預訂 as the all-purpose noun for arranging a service in advance, including travel or accommodation."
+    },
+    {
+      "id": "hpgxhsc7",
+      "word": "reservation",
+      "meaning": "booking",
+      "note": "Use this broad booking term for an advance hotel, ticket, or transport arrangement when the exact type is not being emphasized."
+    }
+  ],
   "traditional": "預訂",
   "jyutping": "jyu6 deng6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "booking, reservation",
-      "english": [
-        {
-          "id": "l7cenned",
-          "word": "booking",
-          "meaning": "reservation",
-          "note": "Use 預訂 as the all-purpose noun for arranging a service in advance, including travel or accommodation."
-        },
-        {
-          "id": "hpgxhsc7",
-          "word": "reservation",
-          "meaning": "booking",
-          "note": "Use this broad booking term for an advance hotel, ticket, or transport arrangement when the exact type is not being emphasized."
-        }
-      ],
-      "examples": [
-        {
-          "english": "My hotel booking has already been confirmed.",
-          "traditional": "我嘅酒店預訂已經確認喇。",
-          "jyutping": "ngo5 ge3 zau2 dim3 jyu6 deng6 ji5 ging1 kok3 jan6 laa3"
-        },
-        {
-          "english": "I made a reservation for my flight to Tokyo.",
-          "traditional": "我已經預訂咗去東京嘅機票。",
-          "jyutping": "ngo5 ji5 ging1 jyu6 deng6 zo2 heoi3 dung1 ging1 ge3 gei1 piu3"
-        }
-      ]
+      "english": "My hotel booking has already been confirmed.",
+      "traditional": "我嘅酒店預訂已經確認喇。",
+      "jyutping": "ngo5 ge3 zau2 dim3 jyu6 deng6 ji5 ging1 kok3 jan6 laa3"
+    },
+    {
+      "english": "I made a reservation for my flight to Tokyo.",
+      "traditional": "我已經預訂咗去東京嘅機票。",
+      "jyutping": "ngo5 ji5 ging1 jyu6 deng6 zo2 heoi3 dung1 ging1 ge3 gei1 piu3"
     }
   ]
 }

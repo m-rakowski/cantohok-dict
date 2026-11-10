@@ -1,37 +1,33 @@
 {
   "id": "mpy1njjv",
   "partOfSpeech": "noun",
+  "meaning": "progress of a task",
+  "english": [
+    {
+      "id": "p4ubugld",
+      "word": "progress",
+      "meaning": "advance, movement forward",
+      "note": "Use this for the amount or stage of progress made on a task, project, or journey."
+    },
+    {
+      "id": "p4n214iv",
+      "word": "advancement",
+      "meaning": "degree of advancement",
+      "note": "Use 進度 for how far a project, process, or piece of work has advanced."
+    }
+  ],
   "traditional": "進度",
   "jyutping": "zeon3 dou6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "progress of a task",
-      "english": [
-        {
-          "id": "p4ubugld",
-          "word": "progress",
-          "meaning": "advance, movement forward",
-          "note": "Use this for the amount or stage of progress made on a task, project, or journey."
-        },
-        {
-          "id": "p4n214iv",
-          "word": "advancement",
-          "meaning": "degree of advancement",
-          "note": "Use 進度 for how far a project, process, or piece of work has advanced."
-        }
-      ],
-      "examples": [
-        {
-          "english": "How far along is this project in terms of progress?",
-          "traditional": "呢個工程進度去到邊？",
-          "jyutping": "ni1 go3 gung1 cing4 zeon3 dou6 heoi3 dou3 bin1"
-        },
-        {
-          "english": "The advancement of this project is a bit slow.",
-          "traditional": "呢個工程進度有啲慢。",
-          "jyutping": "ni1 go3 gung1 cing4 zeon3 dou6 jau5 di1 maan6"
-        }
-      ]
+      "english": "How far along is this project in terms of progress?",
+      "traditional": "呢個工程進度去到邊？",
+      "jyutping": "ni1 go3 gung1 cing4 zeon3 dou6 heoi3 dou3 bin1"
+    },
+    {
+      "english": "The advancement of this project is a bit slow.",
+      "traditional": "呢個工程進度有啲慢。",
+      "jyutping": "ni1 go3 gung1 cing4 zeon3 dou6 jau5 di1 maan6"
     }
   ]
 }

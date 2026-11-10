@@ -1,28 +1,24 @@
 {
   "id": "1bmpqdsi",
   "partOfSpeech": "verb",
+  "meaning": "reach a place",
+  "english": [
+    {
+      "id": "ps2zujzx",
+      "word": "arrive",
+      "meaning": "reach a place",
+      "register": "colloquial",
+      "note": "Use this when highlighting getting to or reaching the destination, often with a sense of movement toward it."
+    }
+  ],
   "traditional": "去到",
   "jyutping": "heoi3 dou3",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "reach a place",
-      "english": [
-        {
-          "id": "ps2zujzx",
-          "word": "arrive",
-          "meaning": "reach a place",
-          "register": "colloquial",
-          "note": "Use this when highlighting getting to or reaching the destination, often with a sense of movement toward it."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "I only arrive at the beach after walking for an hour.",
-          "traditional": "我行咗成個鐘先去到海灘。",
-          "jyutping": "ngo5 haang4 zo2 sing4 go3 zung1 sin1 heoi3 dou3 hoi2 taan1"
-        }
-      ]
+      "english": "I only arrive at the beach after walking for an hour.",
+      "traditional": "我行咗成個鐘先去到海灘。",
+      "jyutping": "ngo5 haang4 zo2 sing4 go3 zung1 sin1 heoi3 dou3 hoi2 taan1"
     }
   ]
 }

@@ -1,28 +1,24 @@
 {
   "id": "jjh0ryx2",
   "partOfSpeech": "noun",
+  "meaning": "exit a session",
+  "english": [
+    {
+      "id": "15kynuoq",
+      "word": "bye",
+      "meaning": "exit a session",
+      "register": "colloquial",
+      "note": "This is the all-purpose casual choice for a farewell or command to leave."
+    }
+  ],
   "traditional": "拜拜",
   "jyutping": "baai3 baai3",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "exit a session",
-      "english": [
-        {
-          "id": "15kynuoq",
-          "word": "bye",
-          "meaning": "exit a session",
-          "register": "colloquial",
-          "note": "This is the all-purpose casual choice for a farewell or command to leave."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "That’s it for today’s meeting, bye.",
-          "traditional": "今日開會到呢度，拜拜！",
-          "jyutping": "gam1 jat6 hoi1 wui2 dou3 ni1 dou6 baai3 baai3"
-        }
-      ]
+      "english": "That’s it for today’s meeting, bye.",
+      "traditional": "今日開會到呢度，拜拜！",
+      "jyutping": "gam1 jat6 hoi1 wui2 dou3 ni1 dou6 baai3 baai3"
     }
   ]
 }

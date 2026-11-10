@@ -1,37 +1,33 @@
 {
   "id": "l26fh7y3",
   "partOfSpeech": "noun",
+  "meaning": "goalkeeper",
+  "english": [
+    {
+      "id": "im29x052",
+      "word": "goalkeeper",
+      "meaning": "soccer/football goalkeeper",
+      "note": "This is the all-purpose noun for a soccer or football goalkeeper."
+    },
+    {
+      "id": "7gayxo7p",
+      "word": "keeper",
+      "meaning": "goalkeeper",
+      "note": "Use this for the player protecting a goal or wicket, rather than for a caretaker or something worth keeping."
+    }
+  ],
   "traditional": "守門員",
   "jyutping": "sau2 mun4 jyun4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "goalkeeper",
-      "english": [
-        {
-          "id": "im29x052",
-          "word": "goalkeeper",
-          "meaning": "soccer/football goalkeeper",
-          "note": "This is the all-purpose noun for a soccer or football goalkeeper."
-        },
-        {
-          "id": "7gayxo7p",
-          "word": "keeper",
-          "meaning": "goalkeeper",
-          "note": "Use this for the player protecting a goal or wicket, rather than for a caretaker or something worth keeping."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The goalkeeper saved several dangerous shots in this match.",
-          "traditional": "今場波個守門員救咗幾球險波。",
-          "jyutping": "gam1 coeng4 bo1 go3 sau2 mun4 jyun4 gau3 zo2 gei2 kau4 him2 bo1"
-        },
-        {
-          "english": "The keeper saved several certain goals in this match.",
-          "traditional": "今場波個守門員救咗幾球必入波。",
-          "jyutping": "gam1 coeng4 bo1 go3 sau2 mun4 jyun4 gau3 zo2 gei2 kau4 bit1 jap6 bo1"
-        }
-      ]
+      "english": "The goalkeeper saved several dangerous shots in this match.",
+      "traditional": "今場波個守門員救咗幾球險波。",
+      "jyutping": "gam1 coeng4 bo1 go3 sau2 mun4 jyun4 gau3 zo2 gei2 kau4 him2 bo1"
+    },
+    {
+      "english": "The keeper saved several certain goals in this match.",
+      "traditional": "今場波個守門員救咗幾球必入波。",
+      "jyutping": "gam1 coeng4 bo1 go3 sau2 mun4 jyun4 gau3 zo2 gei2 kau4 bit1 jap6 bo1"
     }
   ]
 }

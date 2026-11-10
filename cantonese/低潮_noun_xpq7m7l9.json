@@ -1,37 +1,33 @@
 {
   "id": "xpq7m7l9",
   "partOfSpeech": "noun",
+  "meaning": "slump, low period",
+  "english": [
+    {
+      "id": "nwb5gldq",
+      "word": "drought",
+      "meaning": "dry spell in success",
+      "note": "Use this for a team or person going through a prolonged slump without success."
+    },
+    {
+      "id": "hbo18no5",
+      "word": "funk",
+      "meaning": "depression, low mood",
+      "note": "Use this for a period when someone is emotionally low or stuck in a slump, rather than for clinical depression."
+    }
+  ],
   "traditional": "低潮",
   "jyutping": "dai1 ciu4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "slump, low period",
-      "english": [
-        {
-          "id": "nwb5gldq",
-          "word": "drought",
-          "meaning": "dry spell in success",
-          "note": "Use this for a team or person going through a prolonged slump without success."
-        },
-        {
-          "id": "hbo18no5",
-          "word": "funk",
-          "meaning": "depression, low mood",
-          "note": "Use this for a period when someone is emotionally low or stuck in a slump, rather than for clinical depression."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Our team has been losing a lot lately and is still in a drought.",
-          "traditional": "我哋隊波近排成日輸，仲喺低潮。",
-          "jyutping": "ngo5 dei6 deoi6 bo1 gan6 paai4 seng4 jat6 syu1 zung6 hai2 dai1 ciu4"
-        },
-        {
-          "english": "I’ve been in a funk lately and don’t feel like doing anything.",
-          "traditional": "我近排有啲低潮，乜都唔想做。",
-          "jyutping": "ngo5 gan6 paai4 jau5 di1 dai1 ciu4 mat1 dou1 m4 soeng2 zou6"
-        }
-      ]
+      "english": "Our team has been losing a lot lately and is still in a drought.",
+      "traditional": "我哋隊波近排成日輸，仲喺低潮。",
+      "jyutping": "ngo5 dei6 deoi6 bo1 gan6 paai4 seng4 jat6 syu1 zung6 hai2 dai1 ciu4"
+    },
+    {
+      "english": "I’ve been in a funk lately and don’t feel like doing anything.",
+      "traditional": "我近排有啲低潮，乜都唔想做。",
+      "jyutping": "ngo5 gan6 paai4 jau5 di1 dai1 ciu4 mat1 dou1 m4 soeng2 zou6"
     }
   ]
 }

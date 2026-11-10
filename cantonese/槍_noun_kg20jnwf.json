@@ -1,48 +1,44 @@
 {
   "id": "kg20jnwf",
   "partOfSpeech": "noun",
+  "meaning": "gun",
+  "english": [
+    {
+      "id": "55fsuecj",
+      "word": "gun",
+      "meaning": "firearm",
+      "note": "This is the all-purpose choice for a firearm or other tube-fired projectile weapon when the specific type is not important."
+    },
+    {
+      "id": "9m43bfdx",
+      "word": "firearm",
+      "meaning": "gun, firearm",
+      "note": "This is the all-purpose everyday word for a firearm, especially an individual gun."
+    },
+    {
+      "id": "vnj3qz34",
+      "word": "strap",
+      "meaning": "gun, slang",
+      "note": "Use this for the firearm slang sense; Cantonese normally uses the ordinary word 槍 rather than a special slang equivalent."
+    }
+  ],
   "traditional": "槍",
   "jyutping": "coeng1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "gun",
-      "english": [
-        {
-          "id": "55fsuecj",
-          "word": "gun",
-          "meaning": "firearm",
-          "note": "This is the all-purpose choice for a firearm or other tube-fired projectile weapon when the specific type is not important."
-        },
-        {
-          "id": "9m43bfdx",
-          "word": "firearm",
-          "meaning": "gun, firearm",
-          "note": "This is the all-purpose everyday word for a firearm, especially an individual gun."
-        },
-        {
-          "id": "vnj3qz34",
-          "word": "strap",
-          "meaning": "gun, slang",
-          "note": "Use this for the firearm slang sense; Cantonese normally uses the ordinary word 槍 rather than a special slang equivalent."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The police found a gun at the scene.",
-          "traditional": "警察喺現場搵到一支槍。",
-          "jyutping": "ging2 caat3 hai2 jin6 coeng4 wan2 dou2 jat1 zi1 coeng1"
-        },
-        {
-          "english": "Someone saw a firearm near his home, so the whole street was sealed off.",
-          "traditional": "佢屋企附近有人見到一支槍，搞到成條街都封咗。",
-          "jyutping": "keoi5 uk1 kei2 fu6 gan6 jau5 jan4 gin3 dou2 jat1 zi1 coeng1 gaau2 dou3 sing4 tiu4 gaai1 dou1 fung1 zo2"
-        },
-        {
-          "english": "They heard that guy was carrying a strap, so everyone took off.",
-          "traditional": "聽講嗰條友身上有槍，大家即刻散水。",
-          "jyutping": "teng1 gong2 go2 tiu4 jau2 san1 soeng6 jau5 coeng1 daai6 gaa1 zik1 hak1 saan3 seoi2"
-        }
-      ]
+      "english": "The police found a gun at the scene.",
+      "traditional": "警察喺現場搵到一支槍。",
+      "jyutping": "ging2 caat3 hai2 jin6 coeng4 wan2 dou2 jat1 zi1 coeng1"
+    },
+    {
+      "english": "Someone saw a firearm near his home, so the whole street was sealed off.",
+      "traditional": "佢屋企附近有人見到一支槍，搞到成條街都封咗。",
+      "jyutping": "keoi5 uk1 kei2 fu6 gan6 jau5 jan4 gin3 dou2 jat1 zi1 coeng1 gaau2 dou3 sing4 tiu4 gaai1 dou1 fung1 zo2"
+    },
+    {
+      "english": "They heard that guy was carrying a strap, so everyone took off.",
+      "traditional": "聽講嗰條友身上有槍，大家即刻散水。",
+      "jyutping": "teng1 gong2 go2 tiu4 jau2 san1 soeng6 jau5 coeng1 daai6 gaa1 zik1 hak1 saan3 seoi2"
     }
   ]
 }

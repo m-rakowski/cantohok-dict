@@ -1,26 +1,22 @@
 {
   "id": "a0408r2y",
   "partOfSpeech": "det",
+  "meaning": "immediately previous",
+  "english": [
+    {
+      "id": "luh5grpx",
+      "word": "last",
+      "meaning": "immediately previous",
+      "note": "Use this for the one immediately preceding the current one, especially an item, turn, or example, rather than an occasion or date."
+    }
+  ],
   "traditional": "上一個",
   "jyutping": "soeng6 jat1 go3",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "immediately previous",
-      "english": [
-        {
-          "id": "luh5grpx",
-          "word": "last",
-          "meaning": "immediately previous",
-          "note": "Use this for the one immediately preceding the current one, especially an item, turn, or example, rather than an occasion or date."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The last example was simpler.",
-          "traditional": "上一個例子比較簡單。",
-          "jyutping": "soeng6 jat1 go3 lai6 zi2 bei2 gaau3 gaan2 daan1"
-        }
-      ]
+      "english": "The last example was simpler.",
+      "traditional": "上一個例子比較簡單。",
+      "jyutping": "soeng6 jat1 go3 lai6 zi2 bei2 gaau3 gaan2 daan1"
     }
   ]
 }

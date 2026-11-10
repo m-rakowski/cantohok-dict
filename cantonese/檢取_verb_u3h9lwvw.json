@@ -1,28 +1,24 @@
 {
   "id": "u3h9lwvw",
   "partOfSpeech": "verb",
+  "meaning": "take by force or law",
+  "english": [
+    {
+      "id": "eysspy0v",
+      "word": "seize",
+      "meaning": "take by force or law",
+      "register": "written",
+      "note": "Use this for authorities taking possession of goods or property under legal or official powers."
+    }
+  ],
   "traditional": "檢取",
   "jyutping": "gim2 ceoi2",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "take by force or law",
-      "english": [
-        {
-          "id": "eysspy0v",
-          "word": "seize",
-          "meaning": "take by force or law",
-          "register": "written",
-          "note": "Use this for authorities taking possession of goods or property under legal or official powers."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "Customs seize a shipment of counterfeit goods.",
-          "traditional": "海關檢取咗一批冒牌貨。",
-          "jyutping": "hoi2 gwaan1 gim2 ceoi2 zo2 jat1 pai1 mou6 paai4 fo3"
-        }
-      ]
+      "english": "Customs seize a shipment of counterfeit goods.",
+      "traditional": "海關檢取咗一批冒牌貨。",
+      "jyutping": "hoi2 gwaan1 gim2 ceoi2 zo2 jat1 pai1 mou6 paai4 fo3"
     }
   ]
 }

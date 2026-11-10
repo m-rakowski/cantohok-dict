@@ -1,28 +1,24 @@
 {
   "id": "fh9exy35",
   "partOfSpeech": "noun",
+  "meaning": "electric charge",
+  "english": [
+    {
+      "id": "e1x1mc8u",
+      "word": "charge",
+      "meaning": "electric charge",
+      "register": "formal",
+      "note": "Use this specifically for electric charge in a scientific or technical context."
+    }
+  ],
   "traditional": "電荷",
   "jyutping": "din6 ho6",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "electric charge",
-      "english": [
-        {
-          "id": "e1x1mc8u",
-          "word": "charge",
-          "meaning": "electric charge",
-          "register": "formal",
-          "note": "Use this specifically for electric charge in a scientific or technical context."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "This particle carries a positive charge.",
-          "traditional": "呢個粒子帶有正電荷。",
-          "jyutping": "ni1 go3 nap1 zi2 daai3 jau5 zing3 din6 ho6"
-        }
-      ]
+      "english": "This particle carries a positive charge.",
+      "traditional": "呢個粒子帶有正電荷。",
+      "jyutping": "ni1 go3 nap1 zi2 daai3 jau5 zing3 din6 ho6"
     }
   ]
 }

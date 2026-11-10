@@ -1,37 +1,33 @@
 {
   "id": "nt5drl1k",
   "partOfSpeech": "adj",
+  "meaning": "certain, confirmed",
+  "english": [
+    {
+      "id": "v6j8h6kt",
+      "word": "definite",
+      "meaning": "certain; without doubt",
+      "note": "Use this for a fact, answer, or matter that is settled or confirmed beyond doubt."
+    },
+    {
+      "id": "mp5ebztg",
+      "word": "certain",
+      "meaning": "certain, established",
+      "note": "Use this when a fact, result, or conclusion has been established rather than merely believed."
+    }
+  ],
   "traditional": "確定",
   "jyutping": "kok3 ding6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "certain, confirmed",
-      "english": [
-        {
-          "id": "v6j8h6kt",
-          "word": "definite",
-          "meaning": "certain; without doubt",
-          "note": "Use this for a fact, answer, or matter that is settled or confirmed beyond doubt."
-        },
-        {
-          "id": "mp5ebztg",
-          "word": "certain",
-          "meaning": "certain, established",
-          "note": "Use this when a fact, result, or conclusion has been established rather than merely believed."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The answer is definite now, so there is no need to guess anymore.",
-          "traditional": "個答案已經確定，唔使再估。",
-          "jyutping": "go3 daap3 on3 ji5 ging1 kok3 ding6 m4 sai2 zoi3 gu2"
-        },
-        {
-          "english": "It is now certain that the flight is delayed.",
-          "traditional": "而家已經確定班機延遲。",
-          "jyutping": "ji4 gaa1 ji5 ging1 kok3 ding6 baan1 gei1 jin4 ci4"
-        }
-      ]
+      "english": "The answer is definite now, so there is no need to guess anymore.",
+      "traditional": "個答案已經確定，唔使再估。",
+      "jyutping": "go3 daap3 on3 ji5 ging1 kok3 ding6 m4 sai2 zoi3 gu2"
+    },
+    {
+      "english": "It is now certain that the flight is delayed.",
+      "traditional": "而家已經確定班機延遲。",
+      "jyutping": "ji4 gaa1 ji5 ging1 kok3 ding6 baan1 gei1 jin4 ci4"
     }
   ]
 }

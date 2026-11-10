@@ -1,28 +1,24 @@
 {
   "id": "20v0fm2s",
   "partOfSpeech": "adj",
+  "meaning": "preceding, predictive",
+  "english": [
+    {
+      "id": "9c8edb3q",
+      "word": "leading",
+      "meaning": "preceding, predictive",
+      "register": "written",
+      "note": "Use this written and technical term when something occurs earlier and helps predict a later development, as in 先行指標."
+    }
+  ],
   "traditional": "先行",
   "jyutping": "sin1 haang4",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "preceding, predictive",
-      "english": [
-        {
-          "id": "9c8edb3q",
-          "word": "leading",
-          "meaning": "preceding, predictive",
-          "register": "written",
-          "note": "Use this written and technical term when something occurs earlier and helps predict a later development, as in 先行指標."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "The leading indicator shows that the property market may worsen.",
-          "traditional": "先行指標顯示樓市可能轉差。",
-          "jyutping": "sin1 haang4 zi2 biu1 hin2 si6 lau4 si5 ho2 nang4 zyun2 caa1"
-        }
-      ]
+      "english": "The leading indicator shows that the property market may worsen.",
+      "traditional": "先行指標顯示樓市可能轉差。",
+      "jyutping": "sin1 haang4 zi2 biu1 hin2 si6 lau4 si5 ho2 nang4 zyun2 caa1"
     }
   ]
 }

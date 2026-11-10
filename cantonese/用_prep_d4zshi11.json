@@ -1,37 +1,33 @@
 {
   "id": "d4zshi11",
   "partOfSpeech": "prep",
+  "meaning": "using, by means of",
+  "english": [
+    {
+      "id": "ai3ybwny",
+      "word": "with",
+      "meaning": "using; by means of",
+      "note": "Use 用 as the all-purpose equivalent when something is used as an instrument or means."
+    },
+    {
+      "id": "4y0hprqv",
+      "word": "via",
+      "meaning": "by means of, using",
+      "note": "This is the all-purpose colloquial choice when via means using a tool, service, or channel."
+    }
+  ],
   "traditional": "用",
   "jyutping": "jung6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "using, by means of",
-      "english": [
-        {
-          "id": "ai3ybwny",
-          "word": "with",
-          "meaning": "using; by means of",
-          "note": "Use 用 as the all-purpose equivalent when something is used as an instrument or means."
-        },
-        {
-          "id": "4y0hprqv",
-          "word": "via",
-          "meaning": "by means of, using",
-          "note": "This is the all-purpose colloquial choice when via means using a tool, service, or channel."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I eat rice with chopsticks.",
-          "traditional": "我用筷子食飯。",
-          "jyutping": "ngo5 jung6 faai3 zi2 sik6 faan6"
-        },
-        {
-          "english": "I’ll tell you via phone.",
-          "traditional": "我用電話同你講。",
-          "jyutping": "ngo5 jung6 din6 waa2 tung4 nei5 gong2"
-        }
-      ]
+      "english": "I eat rice with chopsticks.",
+      "traditional": "我用筷子食飯。",
+      "jyutping": "ngo5 jung6 faai3 zi2 sik6 faan6"
+    },
+    {
+      "english": "I’ll tell you via phone.",
+      "traditional": "我用電話同你講。",
+      "jyutping": "ngo5 jung6 din6 waa2 tung4 nei5 gong2"
     }
   ]
 }

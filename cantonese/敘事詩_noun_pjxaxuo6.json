@@ -1,28 +1,24 @@
 {
   "id": "pjxaxuo6",
   "partOfSpeech": "noun",
+  "meaning": "narrative poem",
+  "english": [
+    {
+      "id": "td8mo85r",
+      "word": "ballad",
+      "meaning": "narrative poem",
+      "register": "formal",
+      "note": "Use this for a ballad understood primarily as a narrative poem rather than a popular song."
+    }
+  ],
   "traditional": "敘事詩",
   "jyutping": "zeoi6 si6 si1",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "narrative poem",
-      "english": [
-        {
-          "id": "td8mo85r",
-          "word": "ballad",
-          "meaning": "narrative poem",
-          "register": "formal",
-          "note": "Use this for a ballad understood primarily as a narrative poem rather than a popular song."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "This ballad recounts the life of an ordinary hero.",
-          "traditional": "呢首敘事詩講述一個平民英雄嘅一生。",
-          "jyutping": "ni1 sau2 zeoi6 si6 si1 gong2 seot6 jat1 go3 ping4 man4 jing1 hung4 ge3 jat1 saang1"
-        }
-      ]
+      "english": "This ballad recounts the life of an ordinary hero.",
+      "traditional": "呢首敘事詩講述一個平民英雄嘅一生。",
+      "jyutping": "ni1 sau2 zeoi6 si6 si1 gong2 seot6 jat1 go3 ping4 man4 jing1 hung4 ge3 jat1 saang1"
     }
   ]
 }

@@ -1,28 +1,24 @@
 {
   "id": "ti2w96wt",
   "partOfSpeech": "name",
+  "meaning": "the Sun (our star)",
+  "english": [
+    {
+      "id": "1wknyh8p",
+      "word": "sun",
+      "meaning": "the Sun (our star)",
+      "register": "colloquial",
+      "note": "Use this colloquial form for the visible sun in everyday talk, especially its heat or position."
+    }
+  ],
   "traditional": "日頭",
   "jyutping": "jat6 tau4",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "the Sun (our star)",
-      "english": [
-        {
-          "id": "1wknyh8p",
-          "word": "sun",
-          "meaning": "the Sun (our star)",
-          "register": "colloquial",
-          "note": "Use this colloquial form for the visible sun in everyday talk, especially its heat or position."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "The sun is really strong today.",
-          "traditional": "今日個日頭好猛。",
-          "jyutping": "gam1 jat6 go3 jat6 tau4 hou2 maang5"
-        }
-      ]
+      "english": "The sun is really strong today.",
+      "traditional": "今日個日頭好猛。",
+      "jyutping": "gam1 jat6 go3 jat6 tau4 hou2 maang5"
     }
   ]
 }

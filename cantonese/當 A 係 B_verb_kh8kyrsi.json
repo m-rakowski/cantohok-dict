@@ -1,37 +1,33 @@
 {
   "id": "kh8kyrsi",
   "partOfSpeech": "verb",
+  "meaning": "treat A as B",
+  "english": [
+    {
+      "id": "rhgz94z9",
+      "word": "consider",
+      "meaning": "regard as",
+      "note": "Use this construction when assigning A the quality or status of B."
+    },
+    {
+      "id": "3487h7qk",
+      "word": "think",
+      "meaning": "conceive of, think of as",
+      "note": "Use this when explicitly regarding A as or treating A as B."
+    }
+  ],
   "traditional": "當 A 係 B",
   "jyutping": "dong3 A hai6 B",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "treat A as B",
-      "english": [
-        {
-          "id": "rhgz94z9",
-          "word": "consider",
-          "meaning": "regard as",
-          "note": "Use this construction when assigning A the quality or status of B."
-        },
-        {
-          "id": "3487h7qk",
-          "word": "think",
-          "meaning": "conceive of, think of as",
-          "note": "Use this when explicitly regarding A as or treating A as B."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I consider him one of us.",
-          "traditional": "我當佢係自己人。",
-          "jyutping": "ngo5 dong3 keoi5 hai6 zi6 gei2 jan4"
-        },
-        {
-          "english": "We think of this place as our own home.",
-          "traditional": "我哋當呢度係自己屋企。",
-          "jyutping": "ngo5 dei6 dong3 ni1 dou6 hai6 zi6 gei2 uk1 kei2"
-        }
-      ]
+      "english": "I consider him one of us.",
+      "traditional": "我當佢係自己人。",
+      "jyutping": "ngo5 dong3 keoi5 hai6 zi6 gei2 jan4"
+    },
+    {
+      "english": "We think of this place as our own home.",
+      "traditional": "我哋當呢度係自己屋企。",
+      "jyutping": "ngo5 dei6 dong3 ni1 dou6 hai6 zi6 gei2 uk1 kei2"
     }
   ]
 }

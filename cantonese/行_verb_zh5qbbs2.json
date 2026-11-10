@@ -1,48 +1,44 @@
 {
   "id": "zh5qbbs2",
   "partOfSpeech": "verb",
+  "meaning": "walk, move along",
+  "english": [
+    {
+      "id": "7v4adneh",
+      "word": "walk",
+      "meaning": "move on foot",
+      "note": "This is the all-purpose choice for ordinary walking or moving along on foot."
+    },
+    {
+      "id": "bpl67vk9",
+      "word": "step",
+      "meaning": "move on foot",
+      "note": "This is the all-purpose verb for moving or walking on foot, including going a short distance."
+    },
+    {
+      "id": "6v3pjvau",
+      "word": "travel",
+      "meaning": "move or pass through",
+      "note": "Use this for a person, vehicle, or other physical thing moving from place to place."
+    }
+  ],
   "traditional": "行",
   "jyutping": "haang4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "walk, move along",
-      "english": [
-        {
-          "id": "7v4adneh",
-          "word": "walk",
-          "meaning": "move on foot",
-          "note": "This is the all-purpose choice for ordinary walking or moving along on foot."
-        },
-        {
-          "id": "bpl67vk9",
-          "word": "step",
-          "meaning": "move on foot",
-          "note": "This is the all-purpose verb for moving or walking on foot, including going a short distance."
-        },
-        {
-          "id": "6v3pjvau",
-          "word": "travel",
-          "meaning": "move or pass through",
-          "note": "Use this for a person, vehicle, or other physical thing moving from place to place."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Let's walk to the MTR station.",
-          "traditional": "我哋行去地鐵站啦。",
-          "jyutping": "ngo5 dei6 haang4 heoi3 dei6 tit3 zaam6 laa1"
-        },
-        {
-          "english": "Step forward a little; I can't see.",
-          "traditional": "你行前少少，我睇唔到。",
-          "jyutping": "nei5 haang4 cin4 siu2 siu2 ngo5 tai2 m4 dou2"
-        },
-        {
-          "english": "The car can travel very slowly and is always stuck in traffic.",
-          "traditional": "架車行得好慢，成日塞車。",
-          "jyutping": "gaa3 ce1 haang4 dak1 hou2 maan6 seng4 jat6 sak1 ce1"
-        }
-      ]
+      "english": "Let's walk to the MTR station.",
+      "traditional": "我哋行去地鐵站啦。",
+      "jyutping": "ngo5 dei6 haang4 heoi3 dei6 tit3 zaam6 laa1"
+    },
+    {
+      "english": "Step forward a little; I can't see.",
+      "traditional": "你行前少少，我睇唔到。",
+      "jyutping": "nei5 haang4 cin4 siu2 siu2 ngo5 tai2 m4 dou2"
+    },
+    {
+      "english": "The car can travel very slowly and is always stuck in traffic.",
+      "traditional": "架車行得好慢，成日塞車。",
+      "jyutping": "gaa3 ce1 haang4 dak1 hou2 maan6 seng4 jat6 sak1 ce1"
     }
   ]
 }

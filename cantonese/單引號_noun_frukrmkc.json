@@ -1,26 +1,22 @@
 {
   "id": "frukrmkc",
   "partOfSpeech": "noun",
+  "meaning": "quotation mark",
+  "english": [
+    {
+      "id": "q51ajbqm",
+      "word": "inverted comma",
+      "meaning": "quotation mark",
+      "note": "Use this when the quotation marks are specifically single marks such as ‘ ’."
+    }
+  ],
   "traditional": "單引號",
   "jyutping": "daan1 jan5 hou2",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "quotation mark",
-      "english": [
-        {
-          "id": "q51ajbqm",
-          "word": "inverted comma",
-          "meaning": "quotation mark",
-          "note": "Use this when the quotation marks are specifically single marks such as ‘ ’."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This quotation should use single quotation marks, not double ones; each mark is an inverted comma.",
-          "traditional": "呢段引文要用單引號，唔好用雙引號。",
-          "jyutping": "ni1 dyun6 jan5 man4 jiu3 jung6 daan1 jan5 hou2 m4 hou2 jung6 soeng1 jan5 hou2"
-        }
-      ]
+      "english": "This quotation should use single quotation marks, not double ones; each mark is an inverted comma.",
+      "traditional": "呢段引文要用單引號，唔好用雙引號。",
+      "jyutping": "ni1 dyun6 jan5 man4 jiu3 jung6 daan1 jan5 hou2 m4 hou2 jung6 soeng1 jan5 hou2"
     }
   ]
 }

@@ -1,48 +1,44 @@
 {
   "id": "qnk7bl4q",
   "partOfSpeech": "verb",
+  "meaning": "equals",
+  "english": [
+    {
+      "id": "xxhy8b7y",
+      "word": "equal",
+      "meaning": "equals, is the same as",
+      "note": "Use 等於 as the all-purpose verb when something has the same value or amounts to the same consequence."
+    },
+    {
+      "id": "8o304q9k",
+      "word": "correspond",
+      "meaning": "be equivalent/similar",
+      "note": "Use 等於 when one thing is exactly equivalent to or has the same value as another."
+    },
+    {
+      "id": "0aofkub7",
+      "word": "make",
+      "meaning": "add up to",
+      "note": "Use this for arithmetic or other statements that one quantity adds up to or amounts to another."
+    }
+  ],
   "traditional": "等於",
   "jyutping": "dang2 jyu1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "equals",
-      "english": [
-        {
-          "id": "xxhy8b7y",
-          "word": "equal",
-          "meaning": "equals, is the same as",
-          "note": "Use 等於 as the all-purpose verb when something has the same value or amounts to the same consequence."
-        },
-        {
-          "id": "8o304q9k",
-          "word": "correspond",
-          "meaning": "be equivalent/similar",
-          "note": "Use 等於 when one thing is exactly equivalent to or has the same value as another."
-        },
-        {
-          "id": "0aofkub7",
-          "word": "make",
-          "meaning": "add up to",
-          "note": "Use this for arithmetic or other statements that one quantity adds up to or amounts to another."
-        }
-      ],
-      "examples": [
-        {
-          "english": "Five kilograms equal five thousand grams.",
-          "traditional": "五公斤等於五千克。",
-          "jyutping": "ng5 gung1 gan1 dang2 jyu1 ng5 cin1 hak1"
-        },
-        {
-          "english": "Ten ten-dollar bills correspond to one hundred dollars.",
-          "traditional": "十張十蚊紙等於一百蚊。",
-          "jyutping": "sap6 zoeng1 sap6 man1 zi2 dang2 jyu1 jat1 baak3 man1"
-        },
-        {
-          "english": "Three plus two make a total of five.",
-          "traditional": "三加二等於五。",
-          "jyutping": "saam1 gaa1 ji6 dang2 jyu1 ng5"
-        }
-      ]
+      "english": "Five kilograms equal five thousand grams.",
+      "traditional": "五公斤等於五千克。",
+      "jyutping": "ng5 gung1 gan1 dang2 jyu1 ng5 cin1 hak1"
+    },
+    {
+      "english": "Ten ten-dollar bills correspond to one hundred dollars.",
+      "traditional": "十張十蚊紙等於一百蚊。",
+      "jyutping": "sap6 zoeng1 sap6 man1 zi2 dang2 jyu1 jat1 baak3 man1"
+    },
+    {
+      "english": "Three plus two make a total of five.",
+      "traditional": "三加二等於五。",
+      "jyutping": "saam1 gaa1 ji6 dang2 jyu1 ng5"
     }
   ]
 }

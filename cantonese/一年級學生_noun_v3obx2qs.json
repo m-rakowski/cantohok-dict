@@ -1,26 +1,22 @@
 {
   "id": "v3obx2qs",
   "partOfSpeech": "noun",
+  "meaning": "first-year student",
+  "english": [
+    {
+      "id": "aoievu1v",
+      "word": "freshman",
+      "meaning": "first-year student",
+      "note": "Use this when you want to state explicitly that the person is in the institution's first year rather than simply being new."
+    }
+  ],
   "traditional": "一年級學生",
   "jyutping": "jat1 nin4 kap1 hok6 saang1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "first-year student",
-      "english": [
-        {
-          "id": "aoievu1v",
-          "word": "freshman",
-          "meaning": "first-year student",
-          "note": "Use this when you want to state explicitly that the person is in the institution's first year rather than simply being new."
-        }
-      ],
-      "examples": [
-        {
-          "english": "They are a freshman, not a transfer student.",
-          "traditional": "佢係一年級學生，唔係插班生。",
-          "jyutping": "keoi5 hai6 jat1 nin4 kap1 hok6 saang1 m4 hai6 caap3 baan1 saang1"
-        }
-      ]
+      "english": "They are a freshman, not a transfer student.",
+      "traditional": "佢係一年級學生，唔係插班生。",
+      "jyutping": "keoi5 hai6 jat1 nin4 kap1 hok6 saang1 m4 hai6 caap3 baan1 saang1"
     }
   ]
 }

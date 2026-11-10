@@ -1,26 +1,22 @@
 {
   "id": "8paf93ee",
   "partOfSpeech": "noun",
+  "meaning": "bus driver",
+  "english": [
+    {
+      "id": "ar6g9xet",
+      "word": "operator",
+      "meaning": "bus driver",
+      "note": "Use this specifically when the operator is the person driving a bus."
+    }
+  ],
   "traditional": "巴士司機",
   "jyutping": "baa1 si2 si1 gei1",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "bus driver",
-      "english": [
-        {
-          "id": "ar6g9xet",
-          "word": "operator",
-          "meaning": "bus driver",
-          "note": "Use this specifically when the operator is the person driving a bus."
-        }
-      ],
-      "examples": [
-        {
-          "english": "The bus operator saw someone running for the bus and waited for them.",
-          "traditional": "個巴士司機見到有人追車，特登等埋佢。",
-          "jyutping": "go3 baa1 si2 si1 gei1 gin3 dou2 jau5 jan4 zeoi1 ce1 dak6 dang1 dang2 maai4 keoi5"
-        }
-      ]
+      "english": "The bus operator saw someone running for the bus and waited for them.",
+      "traditional": "個巴士司機見到有人追車，特登等埋佢。",
+      "jyutping": "go3 baa1 si2 si1 gei1 gin3 dou2 jau5 jan4 zeoi1 ce1 dak6 dang1 dang2 maai4 keoi5"
     }
   ]
 }

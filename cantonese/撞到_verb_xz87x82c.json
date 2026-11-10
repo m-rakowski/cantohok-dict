@@ -1,40 +1,36 @@
 {
   "id": "xz87x82c",
   "partOfSpeech": "verb",
+  "meaning": "run into someone by chance",
+  "english": [
+    {
+      "id": "pyp2sj69",
+      "word": "encounter",
+      "meaning": "meet unexpectedly",
+      "register": "colloquial",
+      "note": "Use this colloquial choice for unexpectedly bumping into a person or coming across something by chance."
+    },
+    {
+      "id": "5ibgyogv",
+      "word": "meet",
+      "meaning": "encounter by chance",
+      "register": "colloquial",
+      "note": "Use this for accidentally running into someone or hitting something while moving."
+    }
+  ],
   "traditional": "撞到",
   "jyutping": "zong6 dou2",
-  "boxes": [
+  "register": "colloquial",
+  "examples": [
     {
-      "meaning": "run into someone by chance",
-      "english": [
-        {
-          "id": "pyp2sj69",
-          "word": "encounter",
-          "meaning": "meet unexpectedly",
-          "register": "colloquial",
-          "note": "Use this colloquial choice for unexpectedly bumping into a person or coming across something by chance."
-        },
-        {
-          "id": "5ibgyogv",
-          "word": "meet",
-          "meaning": "encounter by chance",
-          "register": "colloquial",
-          "note": "Use this for accidentally running into someone or hitting something while moving."
-        }
-      ],
-      "register": "colloquial",
-      "examples": [
-        {
-          "english": "I sometimes encounter a former colleague on the bus.",
-          "traditional": "我有時搭巴士會撞到以前個同事。",
-          "jyutping": "ngo5 jau5 si4 daap3 baa1 si2 wui5 zong6 dou2 ji5 cin4 go3 tung4 si6"
-        },
-        {
-          "english": "I happened to meet Ming on the street yesterday.",
-          "traditional": "我尋日喺街撞到阿明。",
-          "jyutping": "ngo5 cam4 jat6 hai2 gaai1 zong6 dou2 aa3 ming4"
-        }
-      ]
+      "english": "I sometimes encounter a former colleague on the bus.",
+      "traditional": "我有時搭巴士會撞到以前個同事。",
+      "jyutping": "ngo5 jau5 si4 daap3 baa1 si2 wui5 zong6 dou2 ji5 cin4 go3 tung4 si6"
+    },
+    {
+      "english": "I happened to meet Ming on the street yesterday.",
+      "traditional": "我尋日喺街撞到阿明。",
+      "jyutping": "ngo5 cam4 jat6 hai2 gaai1 zong6 dou2 aa3 ming4"
     }
   ]
 }

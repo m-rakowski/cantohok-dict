@@ -1,37 +1,33 @@
 {
   "id": "bqxhdww3",
   "partOfSpeech": "noun",
+  "meaning": "stomach as an organ",
+  "english": [
+    {
+      "id": "m02z5rv9",
+      "word": "stomach",
+      "meaning": "digestive organ",
+      "note": "Use this specifically for the digestive organ rather than the whole belly area."
+    },
+    {
+      "id": "mf6l3g6r",
+      "word": "belly",
+      "meaning": "stomach (organ)",
+      "note": "Use 胃 when you mean the stomach specifically as a digestive organ rather than the general belly area."
+    }
+  ],
   "traditional": "胃",
   "jyutping": "wai6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "stomach as an organ",
-      "english": [
-        {
-          "id": "m02z5rv9",
-          "word": "stomach",
-          "meaning": "digestive organ",
-          "note": "Use this specifically for the digestive organ rather than the whole belly area."
-        },
-        {
-          "id": "mf6l3g6r",
-          "word": "belly",
-          "meaning": "stomach (organ)",
-          "note": "Use 胃 when you mean the stomach specifically as a digestive organ rather than the general belly area."
-        }
-      ],
-      "examples": [
-        {
-          "english": "My stomach feels uncomfortable.",
-          "traditional": "我個胃唔舒服。",
-          "jyutping": "ngo5 go3 wai6 m4 syu1 fuk6"
-        },
-        {
-          "english": "After eating so much spicy food, my belly can't take it.",
-          "traditional": "食咁多辣嘢，我個胃頂唔順。",
-          "jyutping": "sik6 gam3 do1 laat6 je5 ngo5 go3 wai6 ding2 m4 seon6"
-        }
-      ]
+      "english": "My stomach feels uncomfortable.",
+      "traditional": "我個胃唔舒服。",
+      "jyutping": "ngo5 go3 wai6 m4 syu1 fuk6"
+    },
+    {
+      "english": "After eating so much spicy food, my belly can't take it.",
+      "traditional": "食咁多辣嘢，我個胃頂唔順。",
+      "jyutping": "sik6 gam3 do1 laat6 je5 ngo5 go3 wai6 ding2 m4 seon6"
     }
   ]
 }

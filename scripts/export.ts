@@ -37,7 +37,7 @@ export function loadValidRepo(root: string): Repo {
 interface ExportRow extends Row {
   term: string
   pageId: string
-  /** The entry's running place on its page (box order, then position in the box), the last tie-break. */
+  /** The entry's running place on its page (position in the page's English list), the last tie-break. */
   sequence: number
 }
 
@@ -65,22 +65,21 @@ const byText = (a: string, b: string): number => (a < b ? -1 : a > b ? 1 : 0)
 function eachRow(repo: Repo): ExportRow[] {
   const rows: ExportRow[] = []
   for (const page of repo.pages) {
-    // The running place on the page: box order, then position in the box.
-    const entries = page.boxes.flatMap(box => box.english.map((entry, position) => ({ box, entry, position })))
-    entries.forEach(({ box, entry, position }, sequence) => {
+    // The running place on the page is the entry's position in its English list.
+    page.english.forEach((entry, position) => {
       const row: ExportRow = {
         id: entry.id ?? `${page.id}:${entry.word}`,
         term: entry.word,
         pageId: page.id,
-        sequence,
+        sequence: position,
         partOfSpeech: page.partOfSpeech,
-        meaning: entry.meaning ?? box.meaning,
+        meaning: entry.meaning ?? page.meaning,
         traditional: page.traditional,
         jyutping: page.jyutping,
         note: entry.note ?? '',
       }
       if (entry.register !== undefined) row.register = entry.register
-      const example = chooseExample(box.examples, position, entry.word)
+      const example = chooseExample(page.examples, position, entry.word)
       if (example) row.example = example
       rows.push(row)
     })

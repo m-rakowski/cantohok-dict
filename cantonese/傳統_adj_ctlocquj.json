@@ -1,37 +1,33 @@
 {
   "id": "ctlocquj",
   "partOfSpeech": "adj",
+  "meaning": "traditional",
+  "english": [
+    {
+      "id": "vh69131z",
+      "word": "traditional",
+      "meaning": "based on tradition",
+      "note": "This is the all-purpose choice for things based on tradition and for neutral traditional values or practices."
+    },
+    {
+      "id": "jfi0lovl",
+      "word": "classic",
+      "meaning": "original, standard version",
+      "note": "Use 傳統 for the original or conventional version, especially in labels such as 傳統模式."
+    }
+  ],
   "traditional": "傳統",
   "jyutping": "cyun4 tung2",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "traditional",
-      "english": [
-        {
-          "id": "vh69131z",
-          "word": "traditional",
-          "meaning": "based on tradition",
-          "note": "This is the all-purpose choice for things based on tradition and for neutral traditional values or practices."
-        },
-        {
-          "id": "jfi0lovl",
-          "word": "classic",
-          "meaning": "original, standard version",
-          "note": "Use 傳統 for the original or conventional version, especially in labels such as 傳統模式."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This festival still preserves many traditional customs.",
-          "traditional": "呢個節日仲保留住好多傳統習俗。",
-          "jyutping": "ni1 go3 zit3 jat6 zung6 bou2 lau4 zyu6 hou2 do1 cyun4 tung2 zaap6 zuk6"
-        },
-        {
-          "english": "We’re making mooncakes the classic way this time.",
-          "traditional": "我哋今次用傳統方法整月餅。",
-          "jyutping": "ngo5 dei6 gam1 ci3 jung6 cyun4 tung2 fong1 faat3 zing2 jyut6 beng2"
-        }
-      ]
+      "english": "This festival still preserves many traditional customs.",
+      "traditional": "呢個節日仲保留住好多傳統習俗。",
+      "jyutping": "ni1 go3 zit3 jat6 zung6 bou2 lau4 zyu6 hou2 do1 cyun4 tung2 zaap6 zuk6"
+    },
+    {
+      "english": "We’re making mooncakes the classic way this time.",
+      "traditional": "我哋今次用傳統方法整月餅。",
+      "jyutping": "ngo5 dei6 gam1 ci3 jung6 cyun4 tung2 fong1 faat3 zing2 jyut6 beng2"
     }
   ]
 }

@@ -1,28 +1,24 @@
 {
   "id": "7sgy4eum",
   "partOfSpeech": "adj",
+  "meaning": "cannot be predicted",
+  "english": [
+    {
+      "id": "mvwahz92",
+      "word": "unpredictable",
+      "meaning": "cannot be predicted",
+      "register": "formal",
+      "note": "Use this more formal phrasing when discussing forecasts, results, or other things that cannot be predicted."
+    }
+  ],
   "traditional": "難以預測",
   "jyutping": "naan4 ji5 jyu6 cak1",
-  "boxes": [
+  "register": "formal",
+  "examples": [
     {
-      "meaning": "cannot be predicted",
-      "english": [
-        {
-          "id": "mvwahz92",
-          "word": "unpredictable",
-          "meaning": "cannot be predicted",
-          "register": "formal",
-          "note": "Use this more formal phrasing when discussing forecasts, results, or other things that cannot be predicted."
-        }
-      ],
-      "register": "formal",
-      "examples": [
-        {
-          "english": "This result is unpredictable.",
-          "traditional": "呢個結果難以預測。",
-          "jyutping": "ni1 go3 git3 gwo2 naan4 ji5 jyu6 cak1"
-        }
-      ]
+      "english": "This result is unpredictable.",
+      "traditional": "呢個結果難以預測。",
+      "jyutping": "ni1 go3 git3 gwo2 naan4 ji5 jyu6 cak1"
     }
   ]
 }

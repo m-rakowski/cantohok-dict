@@ -1,37 +1,33 @@
 {
   "id": "4cuuisz4",
   "partOfSpeech": "adj",
+  "meaning": "suitable",
+  "english": [
+    {
+      "id": "uihy0mj3",
+      "word": "suitable",
+      "meaning": "appropriate / fit for purpose",
+      "note": "Use this when explicitly saying that something suits a particular person, purpose, or task."
+    },
+    {
+      "id": "s3s3zfxq",
+      "word": "fit",
+      "meaning": "suited to purpose",
+      "note": "Use 適合 when something is well suited to a particular purpose, role, or environment rather than merely proper in general."
+    }
+  ],
   "traditional": "適合",
   "jyutping": "sik1 hap6",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "suitable",
-      "english": [
-        {
-          "id": "uihy0mj3",
-          "word": "suitable",
-          "meaning": "appropriate / fit for purpose",
-          "note": "Use this when explicitly saying that something suits a particular person, purpose, or task."
-        },
-        {
-          "id": "s3s3zfxq",
-          "word": "fit",
-          "meaning": "suited to purpose",
-          "note": "Use 適合 when something is well suited to a particular purpose, role, or environment rather than merely proper in general."
-        }
-      ],
-      "examples": [
-        {
-          "english": "This job is suitable for you.",
-          "traditional": "呢份工適合你。",
-          "jyutping": "ni1 fan6 gung1 sik1 hap6 nei5"
-        },
-        {
-          "english": "These shoes fit the bill for hiking.",
-          "traditional": "呢對鞋適合行山。",
-          "jyutping": "ni1 deoi3 haai4 sik1 hap6 haang4 saan1"
-        }
-      ]
+      "english": "This job is suitable for you.",
+      "traditional": "呢份工適合你。",
+      "jyutping": "ni1 fan6 gung1 sik1 hap6 nei5"
+    },
+    {
+      "english": "These shoes fit the bill for hiking.",
+      "traditional": "呢對鞋適合行山。",
+      "jyutping": "ni1 deoi3 haai4 sik1 hap6 haang4 saan1"
     }
   ]
 }

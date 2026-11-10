@@ -1,28 +1,24 @@
 {
   "id": "75edbuga",
   "partOfSpeech": "noun",
+  "meaning": "wording used in text",
+  "english": [
+    {
+      "id": "vwqid9l5",
+      "word": "language",
+      "meaning": "wording used in text",
+      "register": "written",
+      "note": "Use this when language means the choice, style, or manner of words in a text or statement."
+    }
+  ],
   "traditional": "措辭",
   "jyutping": "cou3 ci4",
-  "boxes": [
+  "register": "written",
+  "examples": [
     {
-      "meaning": "wording used in text",
-      "english": [
-        {
-          "id": "vwqid9l5",
-          "word": "language",
-          "meaning": "wording used in text",
-          "register": "written",
-          "note": "Use this when language means the choice, style, or manner of words in a text or statement."
-        }
-      ],
-      "register": "written",
-      "examples": [
-        {
-          "english": "The language in this contract is too vague.",
-          "traditional": "呢份合約嘅措辭太含糊。",
-          "jyutping": "ni1 fan6 hap6 joek3 ge3 cou3 ci4 taai3 ham4 wu4"
-        }
-      ]
+      "english": "The language in this contract is too vague.",
+      "traditional": "呢份合約嘅措辭太含糊。",
+      "jyutping": "ni1 fan6 hap6 joek3 ge3 cou3 ci4 taai3 ham4 wu4"
     }
   ]
 }

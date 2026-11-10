@@ -1,37 +1,33 @@
 {
   "id": "bdmsenbu",
   "partOfSpeech": "verb",
+  "meaning": "promise",
+  "english": [
+    {
+      "id": "yxf710v5",
+      "word": "promise",
+      "meaning": "promise, commit",
+      "note": "This is the all-purpose choice for committing to do something or assuring someone that you will do it."
+    },
+    {
+      "id": "8q8fhfjh",
+      "word": "give",
+      "meaning": "pledge, promise",
+      "note": "Use this when give means to promise or commit yourself to doing something for someone."
+    }
+  ],
   "traditional": "應承",
   "jyutping": "jing1 sing4",
-  "boxes": [
+  "examples": [
     {
-      "meaning": "promise",
-      "english": [
-        {
-          "id": "yxf710v5",
-          "word": "promise",
-          "meaning": "promise, commit",
-          "note": "This is the all-purpose choice for committing to do something or assuring someone that you will do it."
-        },
-        {
-          "id": "8q8fhfjh",
-          "word": "give",
-          "meaning": "pledge, promise",
-          "note": "Use this when give means to promise or commit yourself to doing something for someone."
-        }
-      ],
-      "examples": [
-        {
-          "english": "I promise you I’ll definitely help you move tomorrow.",
-          "traditional": "我應承你聽日一定幫你搬屋。",
-          "jyutping": "ngo5 jing1 sing4 nei5 ting1 jat6 jat1 ding6 bong1 nei5 bun1 uk1"
-        },
-        {
-          "english": "When you give me your word, you have to keep it.",
-          "traditional": "你應承我，就一定要做到。",
-          "jyutping": "nei5 jing1 sing4 ngo5 zau6 jat1 ding6 jiu3 zou6 dou3"
-        }
-      ]
+      "english": "I promise you I’ll definitely help you move tomorrow.",
+      "traditional": "我應承你聽日一定幫你搬屋。",
+      "jyutping": "ngo5 jing1 sing4 nei5 ting1 jat6 jat1 ding6 bong1 nei5 bun1 uk1"
+    },
+    {
+      "english": "When you give me your word, you have to keep it.",
+      "traditional": "你應承我，就一定要做到。",
+      "jyutping": "nei5 jing1 sing4 ngo5 zau6 jat1 ding6 jiu3 zou6 dou3"
     }
   ]
 }
