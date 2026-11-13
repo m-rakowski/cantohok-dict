@@ -35,8 +35,10 @@ test('collectTakenIds: page ids, English entry ids and pages-by-id.json keys; no
       partOfSpeech: 'noun',
       jyutping: 'dik1 si2',
       meaning: 'taxi',
-      english: [{ id: 'aaaaaaa1', word: 'cab' }, { word: 'taxi' }],
-      examples: [],
+      english: [
+        { id: 'aaaaaaa1', word: 'cab', exampleSentences: [] },
+        { word: 'taxi', exampleSentences: [] },
+      ],
     }),
     'pages-by-id.json': JSON.stringify({ aaaaaaa1: 'cccccccc', cccccccc: 'cccccccc', dddddddd: 'cccccccc' }),
   })

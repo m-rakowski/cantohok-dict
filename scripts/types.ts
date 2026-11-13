@@ -25,11 +25,9 @@ export interface WordFile {
   rows: Row[]
 }
 
-/** One Cantonese word page's example sentence; the same shape as a row's `example`. */
-export type PageExample = Example
-
 /**
- * One English word on a page. An entry with an `id` is the page's copy of that
+ * One English word on a page. `exampleSentences` are the sentences shown with
+ * this word (always present, possibly empty). An entry with an `id` is the page's copy of that
  * row in words/ (and `meaning`, `note` and `register` repeat the row's); an
  * entry with only a `word` is one an editor added.
  */
@@ -39,6 +37,7 @@ export interface EnglishEntry {
   meaning?: string
   note?: string
   register?: string
+  exampleSentences: Example[]
 }
 
 /**
@@ -52,7 +51,6 @@ export interface PageFile {
   jyutping: string
   meaning: string
   english: EnglishEntry[]
-  examples: PageExample[]
   note?: string
   register?: string
 }

@@ -13,7 +13,7 @@ import { join } from 'node:path'
 import { stringify } from 'csv-stringify/sync'
 import { checkRepo } from './check.ts'
 import { listPageFiles } from './repo.ts'
-import type { AliasesFile, Example, FrequencyFile, PageFile, Row } from './types.ts'
+import type { AliasesFile, FrequencyFile, PageFile, Row } from './types.ts'
 
 export interface Repo {
   pages: PageFile[]
@@ -41,21 +41,6 @@ interface ExportRow extends Row {
   sequence: number
 }
 
-const escapeRegExp = (text: string): string => text.replace(/[.*+?^${}()|[\]\\]/gu, '\\$&')
-
-/**
- * The sentence shown with an English entry: the one at the entry's own
- * position if its English contains the word (case-insensitive, whole word),
- * else the first sentence that does, else the one at its own position (which
- * may not exist).
- */
-function chooseExample(examples: Example[], position: number, word: string): Example | undefined {
-  const contains = new RegExp(`(^|[^\\p{L}])${escapeRegExp(word)}([^\\p{L}]|$)`, 'iu')
-  const own = examples[position]
-  if (own && contains.test(own.english)) return own
-  return examples.find(example => contains.test(example.english)) ?? own
-}
-
 /** A word's rank in frequency.json, or undefined when it has none (those words sort after every ranked one). */
 const rankOf = (repo: Repo, term: string): number | undefined =>
   Object.hasOwn(repo.frequency.words, term) ? repo.frequency.words[term] : undefined
@@ -79,8 +64,7 @@ function eachRow(repo: Repo): ExportRow[] {
         note: entry.note ?? '',
       }
       if (entry.register !== undefined) row.register = entry.register
-      const example = chooseExample(page.examples, position, entry.word)
-      if (example) row.example = example
+      if (entry.exampleSentences[0]) row.example = entry.exampleSentences[0]
       rows.push(row)
     })
   }

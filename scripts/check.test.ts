@@ -52,7 +52,7 @@ function editCab(edit: (cab: any) => void): (files: Record<string, string>) => v
         entry.word = cab.term
         entry.meaning = row.meaning
         entry.note = row.note
-        if (row.example) page.examples[page.english.indexOf(entry)] = row.example
+        if (row.example) entry.exampleSentences = [row.example]
         if (row.register === undefined) delete entry.register
         else entry.register = row.register
       }
@@ -97,7 +97,7 @@ function mapRowToPage(files: Record<string, string>, id: string): void {
   )!
   const word = JSON.parse(files[path])
   const row = word.rows.find((candidate: any) => candidate.id === id)
-  const entry: any = { id, word: word.term, meaning: row.meaning }
+  const entry: any = { id, word: word.term, meaning: row.meaning, exampleSentences: [] }
   if (row.register !== undefined) entry.register = row.register
   entry.note = row.note
   const traditional = pageForm(row.traditional)
@@ -117,7 +117,6 @@ function mapRowToPage(files: Record<string, string>, id: string): void {
         jyutping,
         meaning: row.meaning,
         english: [],
-        examples: [],
       }
   page.english.push(entry)
   files[existing ?? pagePath(traditional, partOfSpeech, page.id)] = JSON.stringify(page, null, 2) + '\n'
@@ -616,7 +615,7 @@ test('English example with a placeholder letter', () => {
     ),
     [
       `${CAB}: row "aaaaaaa1" example.english has a placeholder letter (A, B)`,
-      `${CAB_PAGE}: example 1 english has a placeholder letter (A, B)`,
+      `${CAB_PAGE}: English entry "cab" sentence 1 english has a placeholder letter (A, B)`,
     ],
   )
 })
@@ -732,7 +731,7 @@ test('placeholder letters that look like part of a word', () => {
       ),
       [
         `${CAB}: row "aaaaaaa1" example.english has a placeholder letter (${letter})`,
-        `${CAB_PAGE}: example 1 english has a placeholder letter (${letter})`,
+        `${CAB_PAGE}: English entry "cab" sentence 1 english has a placeholder letter (${letter})`,
       ],
       english,
     )
@@ -973,7 +972,7 @@ test('a page whose characters end in "..." is a valid file name', () => {
     checkWith(files => {
       files[path] = cabPageCopy(files)
         .replace('ppppppp1', 'ppppppp4')
-        .replace('的士', '啱啱 + V + 就...')
+        .replace('"traditional": "的士"', '"traditional": "啱啱 + V + 就..."')
         .replace('"noun"', '"phrase"')
       editLookup(lookup => {
         lookup.ppppppp4 = 'ppppppp4'
@@ -1278,7 +1277,7 @@ test('note rule sees every English word on the page', () => {
   assert.deepEqual(
     checkWith(
       editPage(CAB_PAGE, page => {
-        page.english.push({ word: 'cab' }, { word: 'slice' })
+        page.english.push({ word: 'cab', exampleSentences: [] }, { word: 'slice', exampleSentences: [] })
         page.note = 'Say it for a slice of the fare.'
       }),
     ),
@@ -1290,10 +1289,10 @@ test('placeholder letter in a page example', () => {
   assert.deepEqual(
     checkWith(
       editPage(CAB_PAGE, page => {
-        page.examples[0].english = 'A met B at the airport.'
+        page.english[0].exampleSentences[0].english = 'A met B at the airport.'
       }),
     ),
-    [`${CAB_PAGE}: example 1 english has a placeholder letter (B)`],
+    [`${CAB_PAGE}: English entry "cab" sentence 1 english has a placeholder letter (B)`],
   )
 })
 
@@ -1302,10 +1301,10 @@ test('placeholder letter in a page example', () => {
 test('English entry ids are unique across pages', () => {
   const errors = checkWith(files => {
     editPage(CAB_PAGE, page => {
-      page.english.push({ word: 'taxi', id: 'ddddddd1' })
+      page.english.push({ word: 'taxi', exampleSentences: [], id: 'ddddddd1' })
     })(files)
     editPage(THURSDAY_PAGE, page => {
-      page.english.push({ word: 'taxi', id: 'ddddddd1' })
+      page.english.push({ word: 'taxi', exampleSentences: [], id: 'ddddddd1' })
     })(files)
     editLookup(lookup => {
       lookup.ddddddd1 = 'ppppppp1'
@@ -1321,7 +1320,7 @@ test('English entry id equal to a page id', () => {
   assert.deepEqual(
     checkWith(
       editPage(CAB_PAGE, page => {
-        page.english.push({ word: 'taxi', id: 'ppppppp2' })
+        page.english.push({ word: 'taxi', exampleSentences: [], id: 'ppppppp2' })
       }),
     ),
     [
@@ -1360,7 +1359,7 @@ test('an entry with only a word sits beside a full entry', () => {
   assert.deepEqual(
     checkWith(
       editPage(CAB_PAGE, page => {
-        page.english.push({ word: 'taxi' })
+        page.english.push({ word: 'taxi', exampleSentences: [] })
       }),
     ),
     [],
@@ -1390,7 +1389,7 @@ test('an English entry note is held to the note rules', () => {
   assert.deepEqual(
     checkWith(
       editPage(CAB_PAGE, page => {
-        page.english.push({ word: 'taxi', note: 'See sense 2.' })
+        page.english.push({ word: 'taxi', exampleSentences: [], note: 'See sense 2.' })
       }),
     ),
     [`${CAB_PAGE}: English entry "taxi" note points at a numbered sense ("sense 2")`],
@@ -1401,7 +1400,7 @@ test('an English entry with an unknown field is refused by the schema', () => {
   assert.deepEqual(
     checkWith(
       editPage(THURSDAY_PAGE, page => {
-        page.english.push({ word: 'Thu', color: 'red' })
+        page.english.push({ word: 'Thu', color: 'red', exampleSentences: [] })
       }),
     ),
     [`${THURSDAY_PAGE}: /english/1 must NOT have additional properties "color"`],
@@ -1423,8 +1422,7 @@ test('a page may drop one of its entries while the row stays in words/', () => {
   assert.deepEqual(
     checkWith(
       editPage(CAB_PAGE, page => {
-        page.english = [{ word: 'taxi' }]
-        page.examples = []
+        page.english = [{ word: 'taxi', exampleSentences: [] }]
       }),
     ),
     [],
@@ -1440,6 +1438,7 @@ test('a page-only word needs no word file: its entry id, rank and alias are acce
         word: 'Friday',
         meaning: 'day of the week',
         note: 'This is the all-purpose word for Friday.',
+        exampleSentences: [],
       })
       files['cantonese/星期四_noun_ppppppp3.json'] = JSON.stringify(page, null, 2) + '\n'
       const lookup = JSON.parse(files['pages-by-id.json'])

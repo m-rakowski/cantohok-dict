@@ -8,17 +8,17 @@
       "word": "checkpoint",
       "meaning": "database restore point",
       "register": "formal",
-      "note": "Use this technical term for a database state that can be restored after a failure."
+      "note": "Use this technical term for a database state that can be restored after a failure.",
+      "exampleSentences": [
+        {
+          "english": "After a failure, the system can be restored to the database checkpoint.",
+          "traditional": "故障後可以回復到資料庫檢查點。",
+          "jyutping": "gu3 zoeng3 hau6 ho2 ji5 wui4 fuk6 dou3 zi1 liu2 fu3 gim2 caa4 dim2"
+        }
+      ]
     }
   ],
   "traditional": "資料庫檢查點",
   "jyutping": "zi1 liu2 fu3 gim2 caa4 dim2",
-  "register": "formal",
-  "examples": [
-    {
-      "english": "After a failure, the system can be restored to the database checkpoint.",
-      "traditional": "故障後可以回復到資料庫檢查點。",
-      "jyutping": "gu3 zoeng3 hau6 ho2 ji5 wui4 fuk6 dou3 zi1 liu2 fu3 gim2 caa4 dim2"
-    }
-  ]
+  "register": "formal"
 }

@@ -446,15 +446,18 @@ function checkPageShownText(pages: CheckedPage[], errors: string[]): void {
     if (file.note !== undefined)
       for (const problem of noteProblems(file.note, file.english.map(entry => entry.word).join(' '), file.meaning))
         errors.push(`${path}: ${problem}`)
-    for (const entry of file.english)
+    for (const entry of file.english) {
       if (entry.note !== undefined)
         for (const problem of noteProblems(entry.note, entry.word, entry.meaning ?? file.meaning))
           errors.push(`${path}: English entry "${entry.word}" ${problem}`)
-    file.examples.forEach((example, exampleIndex) => {
-      const letters = placeholderLetters(example.english)
-      if (letters.length)
-        errors.push(`${path}: example ${exampleIndex + 1} english has a placeholder letter (${letters.join(', ')})`)
-    })
+      entry.exampleSentences.forEach((example, exampleIndex) => {
+        const letters = placeholderLetters(example.english)
+        if (letters.length)
+          errors.push(
+            `${path}: English entry "${entry.word}" sentence ${exampleIndex + 1} english has a placeholder letter (${letters.join(', ')})`,
+          )
+      })
+    }
   }
 }
 
