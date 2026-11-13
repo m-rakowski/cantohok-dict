@@ -72,18 +72,18 @@ export function validFixture(): Record<string, string> {
       "id": "aaaaaaa1",
       "word": "cab",
       "meaning": "taxi",
-      "note": "This is the all-purpose Cantonese noun for a taxi or cab."
+      "note": "This is the all-purpose Cantonese noun for a taxi or cab.",
+      "exampleSentences": [
+        {
+          "english": "We called a cab to the airport.",
+          "traditional": "我哋叫咗部的士去機場。",
+          "jyutping": "ngo5 dei6 giu3 zo2 bou6 dik1 si2 heoi3 gei1 coeng4"
+        }
+      ]
     }
   ],
   "traditional": "的士",
-  "jyutping": "dik1 si2",
-  "examples": [
-    {
-      "english": "We called a cab to the airport.",
-      "traditional": "我哋叫咗部的士去機場。",
-      "jyutping": "ngo5 dei6 giu3 zo2 bou6 dik1 si2 heoi3 gei1 coeng4"
-    }
-  ]
+  "jyutping": "dik1 si2"
 }
 `,
     'cantonese/車頭_noun_ppppppp2.json': `{
@@ -96,13 +96,13 @@ export function validFixture(): Record<string, string> {
       "word": "cab",
       "meaning": "taxi",
       "register": "colloquial",
-      "note": "Use this colloquial term for the cab or front section of a truck."
+      "note": "Use this colloquial term for the cab or front section of a truck.",
+      "exampleSentences": []
     }
   ],
   "traditional": "車頭",
   "jyutping": "ce1 tau4",
-  "register": "colloquial",
-  "examples": []
+  "register": "colloquial"
 }
 `,
     'cantonese/星期四_noun_ppppppp3.json': `{
@@ -114,12 +114,12 @@ export function validFixture(): Record<string, string> {
       "id": "bbbbbbb1",
       "word": "Thursday",
       "meaning": "day of the week",
-      "note": "This is the all-purpose word for Thursday."
+      "note": "This is the all-purpose word for Thursday.",
+      "exampleSentences": []
     }
   ],
   "traditional": "星期四",
-  "jyutping": "sing1 kei4 sei3",
-  "examples": []
+  "jyutping": "sing1 kei4 sei3"
 }
 `,
     'pages-by-id.json': `{

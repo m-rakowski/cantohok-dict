@@ -7,7 +7,7 @@ For thousands of English words, it gives you:
 - the Cantonese words people in Hong Kong actually use
 - Jyutping, so you know how to say them
 - a short note on when to use each one
-- an example sentence
+- example sentences, kept inside the English word they show (`exampleSentences`)
 
 It was made with AI and hasn't been checked word by word yet, so expect mistakes, especially in the Jyutping. Fixes are very welcome.
 

@@ -17,9 +17,13 @@
         "word": { "$ref": "#/$defs/nonEmptyString" },
         "meaning": { "$ref": "#/$defs/nonEmptyString" },
         "register": { "$ref": "#/$defs/nonEmptyString" },
-        "note": { "$ref": "#/$defs/nonEmptyString" }
+        "note": { "$ref": "#/$defs/nonEmptyString" },
+        "exampleSentences": {
+          "items": { "$ref": "#/$defs/example" },
+          "type": "array"
+        }
       },
-      "required": ["word"],
+      "required": ["word", "exampleSentences"],
       "type": "object"
     },
     "nonEmptyString": {
@@ -44,12 +48,8 @@
     "traditional": { "$ref": "#/$defs/nonEmptyString" },
     "jyutping": { "$ref": "#/$defs/nonEmptyString" },
     "register": { "$ref": "#/$defs/nonEmptyString" },
-    "note": { "$ref": "#/$defs/nonEmptyString" },
-    "examples": {
-      "items": { "$ref": "#/$defs/example" },
-      "type": "array"
-    }
+    "note": { "$ref": "#/$defs/nonEmptyString" }
   },
-  "required": ["id", "traditional", "partOfSpeech", "jyutping", "meaning", "english", "examples"],
+  "required": ["id", "traditional", "partOfSpeech", "jyutping", "meaning", "english"],
   "type": "object"
 }

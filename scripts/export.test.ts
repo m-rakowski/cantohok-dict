@@ -143,7 +143,7 @@ function pagesFixture(): Record<string, string> {
   const files = validFixture()
   const write = (path: string, value: unknown) => (files[path] = JSON.stringify(value, null, 2) + '\n')
   const thursday = JSON.parse(files['cantonese/星期四_noun_ppppppp3.json'])
-  thursday.examples = [ex('See you on Thursday.', '星期四見。', 'sing1 kei4 sei3 gin3')]
+  thursday.english[0].exampleSentences = [ex('See you on Thursday.', '星期四見。', 'sing1 kei4 sei3 gin3')]
   write('cantonese/星期四_noun_ppppppp3.json', thursday)
   write('cantonese/星期四_noun_ppppppp4.json', {
     id: 'ppppppp4',
@@ -152,10 +152,19 @@ function pagesFixture(): Record<string, string> {
     jyutping: 'sing1 kei4 sei3',
     meaning: 'weekday name',
     register: 'formal',
-    english: [{ word: 'Thurs', register: 'abbreviation', note: 'Short for Thursday.' }, { word: 'Thursday' }],
-    examples: [
-      ex('Thurs and Thursday are the same day.', '星期四就係週四。', 'sing1 kei4 sei3 zau6 hai6 zau1 sei3'),
-      ex('Thursday is busy.', '星期四好忙。', 'sing1 kei4 sei3 hou2 mong4'),
+    english: [
+      {
+        word: 'Thurs',
+        register: 'abbreviation',
+        note: 'Short for Thursday.',
+        exampleSentences: [
+          ex('Thurs and Thursday are the same day.', '星期四就係週四。', 'sing1 kei4 sei3 zau6 hai6 zau1 sei3'),
+        ],
+      },
+      {
+        word: 'Thursday',
+        exampleSentences: [ex('Thursday is busy.', '星期四好忙。', 'sing1 kei4 sei3 hou2 mong4')],
+      },
     ],
   })
   write('cantonese/週四_noun_ppppppp0.json', {
@@ -164,8 +173,7 @@ function pagesFixture(): Record<string, string> {
     traditional: '週四',
     jyutping: 'zau1 sei3',
     meaning: 'fourth weekday',
-    english: [{ word: 'Thursday', note: 'Used in writing.' }],
-    examples: [],
+    english: [{ word: 'Thursday', note: 'Used in writing.', exampleSentences: [] }],
   })
   const lookup = JSON.parse(files['pages-by-id.json'])
   lookup.ppppppp0 = 'ppppppp0'
@@ -291,19 +299,19 @@ test('toPleco: an id-less entry is a line like any other', () => {
   assert.match(lines[1], /^Thursday\t\u{EAB2}週四\u{EAB3}  zau¹ sei³  \u{EAB4}n\.\u{EAB5}\u{EAB1}Used in writing\.$/u)
 })
 
-test('toCsv picks the example by the search rule: own position if it names the word, else the first that does', () => {
+test('toCsv shows the first sentence of the entry, and none for an entry with none', () => {
   const files = validFixture()
   const path = 'cantonese/的士_noun_ppppppp1.json'
   const page = JSON.parse(files[path])
-  const [first] = page.examples
+  const [first] = page.english[0].exampleSentences
   const other = { english: 'The Cabbage was cheap.', traditional: '椰菜好平。', jyutping: 'je4 coi3 hou2 peng4' }
-  page.examples = [other, first]
+  page.english[0].exampleSentences = [first, other]
+  page.english.push({ word: 'off', exampleSentences: [] })
   files[path] = JSON.stringify(page, null, 2) + '\n'
   const rows = toCsv(loadValidRepo(writeTree(files))).split('\n')
   const cab = rows.find(line => line.startsWith('aaaaaaa1,'))
-  assert.ok(
-    cab?.includes('We called a cab to the airport.'),
-    'own sentence lacks the word, so the first that has it is used',
-  )
+  assert.ok(cab?.includes('We called a cab to the airport.'))
   assert.ok(!cab?.includes('Cabbage'))
+  const off = rows.find(line => line.startsWith('ppppppp1:off,'))
+  assert.ok(off?.endsWith(',,,'), 'the off row has no example columns')
 })

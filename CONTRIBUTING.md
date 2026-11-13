@@ -110,31 +110,31 @@ part of speech, one reading and one meaning. Here is
       "id": "i0dcd0tv",
       "word": "wave",
       "meaning": "wave your hand hello/goodbye",
-      "note": "This is the all-purpose choice for waving your hand in greeting or goodbye, including a farewell signal."
+      "note": "This is the all-purpose choice for waving your hand in greeting or goodbye, including a farewell signal.",
+      "exampleSentences": [
+        {
+          "english": "I wave to him when I leave.",
+          "traditional": "我走嗰陣同佢揮手。",
+          "jyutping": "ngo5 zau2 go2 zan6 tung4 keoi5 fai1 sau2"
+        }
+      ]
     }
   ],
   "traditional": "揮手",
-  "jyutping": "fai1 sau2",
-  "examples": [
-    {
-      "english": "I wave to him when I leave.",
-      "traditional": "我走嗰陣同佢揮手。",
-      "jyutping": "ngo5 zau2 go2 zan6 tung4 keoi5 fai1 sau2"
-    }
-  ]
+  "jyutping": "fai1 sau2"
 }
 ```
 
 - A page has an `id` (8 lowercase letters or digits), the `traditional`
   characters, a `partOfSpeech`, the reading in `jyutping`, a short `meaning`,
-  a list of `english` entries (at least one), and a list of `examples` (it may
-  be empty). `note` and `register` are optional. There is no `boxes` list: a
+  and a list of `english` entries (at least one). `note` and `register` are optional. There is no `boxes` list: a
   page with one is refused. `partOfSpeech` is one of: `noun`, `verb`, `adj`
   (adjective), `adv` (adverb), `prep` (preposition), `pron` (pronoun), `det`
   (determiner), `conj` (conjunction), `num` (number), `name` (a proper noun),
   `intj` (interjection), `phrase`, `postp` (postposition). Any other value
   fails `pnpm run check`.
-- An English entry is an object. Only `word` is required; `id`, `meaning`,
+- An English entry is an object. `word` and `exampleSentences` (the sentences
+  shown with that word; it may be empty) are required; `id`, `meaning`,
   `note` and `register` are optional. The page files are what the site shows
   and can be edited freely: an entry's `id`, `meaning` and `note` came from the
   English files, and you may edit them on the page. An entry's `note` must read
@@ -157,7 +157,7 @@ part of speech, one reading and one meaning. Here is
 - The file name is made from the characters, the part of speech and the `id`,
   so the characters and the part of speech cannot hold `\ : * ? " < > |`. For a `/` in the characters, write `／` (U+FF0F, the fullwidth slash).
 - You can add, remove, merge and reorder English entries, and put several
-  examples on a page.
+  example sentences to an English entry.
 - A `note` is held to the same rules as a note on a row (it must read on its
   own), and an English example must name real people and things rather than
   placeholder letters.
