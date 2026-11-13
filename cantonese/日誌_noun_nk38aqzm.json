@@ -8,29 +8,31 @@
       "word": "log",
       "meaning": "record or log file",
       "register": "written",
-      "note": "Use this for a vessel's logbook or a chronological computer and activity log."
+      "note": "Use this for a vessel's logbook or a chronological computer and activity log.",
+      "exampleSentences": [
+        {
+          "english": "The captain has to fill in the ship's log every day.",
+          "traditional": "船長每日都要填寫航海日誌。",
+          "jyutping": "syun4 zoeng2 mui5 jat6 dou1 jiu3 tin4 se2 hong4 hoi2 jat6 zi3"
+        }
+      ]
     },
     {
       "id": "jnevvl64",
       "word": "journal",
       "meaning": "diary / daily record",
       "register": "written",
-      "note": "Use this for an organizational, work, vessel, or other log rather than a personal diary."
+      "note": "Use this for an organizational, work, vessel, or other log rather than a personal diary.",
+      "exampleSentences": [
+        {
+          "english": "The department has to update the journal every day.",
+          "traditional": "部門每日都要更新日誌。",
+          "jyutping": "bou6 mun4 mui5 jat6 dou1 jiu3 gang1 san1 jat6 zi3"
+        }
+      ]
     }
   ],
   "traditional": "日誌",
   "jyutping": "jat6 zi3",
-  "register": "written",
-  "examples": [
-    {
-      "english": "The captain has to fill in the ship's log every day.",
-      "traditional": "船長每日都要填寫航海日誌。",
-      "jyutping": "syun4 zoeng2 mui5 jat6 dou1 jiu3 tin4 se2 hong4 hoi2 jat6 zi3"
-    },
-    {
-      "english": "The department has to update the journal every day.",
-      "traditional": "部門每日都要更新日誌。",
-      "jyutping": "bou6 mun4 mui5 jat6 dou1 jiu3 gang1 san1 jat6 zi3"
-    }
-  ]
+  "register": "written"
 }
