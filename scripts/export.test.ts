@@ -310,8 +310,10 @@ test('toCsv shows the first sentence of the entry, and none for an entry with no
   files[path] = JSON.stringify(page, null, 2) + '\n'
   const rows = toCsv(loadValidRepo(writeTree(files))).split('\n')
   const cab = rows.find(line => line.startsWith('aaaaaaa1,'))
-  assert.ok(cab?.includes('We called a cab to the airport.'))
-  assert.ok(!cab?.includes('Cabbage'))
+  assert.equal(
+    cab,
+    'aaaaaaa1,cab,noun,taxi,的士,dik1 si2,,This is the all-purpose Cantonese noun for a taxi or cab.,We called a cab to the airport.,我哋叫咗部的士去機場。,ngo5 dei6 giu3 zo2 bou6 dik1 si2 heoi3 gei1 coeng4',
+  )
   const off = rows.find(line => line.startsWith('ppppppp1:off,'))
-  assert.ok(off?.endsWith(',,,'), 'the off row has no example columns')
+  assert.equal(off, 'ppppppp1:off,off,noun,taxi,的士,dik1 si2,,,,,')
 })
