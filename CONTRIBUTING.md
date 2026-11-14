@@ -134,8 +134,10 @@ part of speech, one reading and one meaning. Here is
   `num` (number), `name` (a proper noun), `intj` (interjection), `phrase`,
   `postp` (postposition). Any other value fails `pnpm run check`.
 - An English entry is an object. `word` and `exampleSentences` (the sentences
-  shown with that word; it may be empty) are required; `id`, `meaning`,
-  `note` and `register` are optional. The page files are what the site shows
+  shown with that word; it may be empty) are required; `meaning`, `note` and
+  `register` are optional. Every entry carries an `id` from `pnpm run new-id`
+  and a `pages-by-id.json` line pointing it at its page; `id` stays optional in
+  the schema only so an older reviewed suggestion still passes `check`. The page files are what the site shows
   and can be edited freely: an entry's `id`, `meaning` and `note` came from the
   English files, and you may edit them on the page. An entry's `note` must read
   on its own, like a row's. Entry ids are unique across all pages, are never a
@@ -189,8 +191,9 @@ part of speech, one reading and one meaning. Here is
 1. Run `pnpm install` once, if you haven't already.
 2. Edit the page's file under `cantonese/`.
 3. If you added a new page, mint its `id` with `pnpm run new-id`, and add a
-   line in `pages-by-id.json` mapping that `id` to itself. If you gave an
-   entry an `id`, add a line pointing it at the page.
+   line in `pages-by-id.json` mapping that `id` to itself. Give every new
+   English entry an `id` from `pnpm run new-id` too, and add a line pointing it
+   at the page.
 4. If you added a brand-new word, also add it to `frequency.json`'s `words`.
 5. Run `pnpm run format` to auto-format your changes, then `pnpm run check`
    to validate everything against the schema. If you changed a file in
@@ -226,7 +229,7 @@ remember the rule — just let `check` tell you if you got a filename wrong.
   Pleco: Manage Dictionaries → Add User → Create New → language English →
   open it → Import Entries → pick this file → UTF-8.
 
-In these files an English entry added in the editor has no `id` yet, so its
+In these files an entry from an older reviewed suggestion may have no `id`, so its
 `id` is composite, `<page id>:<English word>`, and its shares are 0.
 
 You don't need to run this yourself to contribute a fix — it only matters if
