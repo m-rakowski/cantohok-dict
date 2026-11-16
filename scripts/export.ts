@@ -58,7 +58,7 @@ function eachRow(repo: Repo): ExportRow[] {
         pageId: page.id,
         sequence: position,
         partOfSpeech: page.partOfSpeech,
-        meaning: entry.meaning ?? '',
+        meaning: entry.meaning,
         traditional: page.traditional,
         jyutping: page.jyutping,
         note: entry.note ?? '',

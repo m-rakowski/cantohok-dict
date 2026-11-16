@@ -970,12 +970,26 @@ test('two pages with the same word, part of speech and reading but different Eng
   )
 })
 
-test('two pages with the same word, part of speech, reading and English words, in any order', () => {
+test('a second sense that uses the same English word with another meaning passes', () => {
+  assert.deepEqual(
+    checkWith(files => {
+      files['cantonese/的士_noun_wxyz5678.json'] = cabPageCopy(files)
+        .replace('ppppppp1', 'wxyz5678')
+        .replace('"meaning": "taxi"', '"meaning": "driver of a taxi"')
+      editLookup(lookup => {
+        lookup.wxyz5678 = 'wxyz5678'
+      })(files)
+    }),
+    [],
+  )
+})
+
+test('two pages with the same word, part of speech, reading and English words and meanings, in any order', () => {
   const copy = 'cantonese/的士_noun_wxyz5678.json'
   assert.deepEqual(
     checkWith(files => {
       editPage(CAB_PAGE, page => {
-        page.english.push({ word: 'taxi', exampleSentences: [] })
+        page.english.push({ word: 'taxi', meaning: 'taxi', exampleSentences: [] })
       })(files)
       const copied = JSON.parse(cabPageCopy(files).replace('ppppppp1', 'wxyz5678'))
       copied.english.reverse()
@@ -984,7 +998,20 @@ test('two pages with the same word, part of speech, reading and English words, i
         lookup.wxyz5678 = 'wxyz5678'
       })(files)
     }),
-    [`${copy}: same word, part of speech, reading and English words (的士 noun dik1 si2 cab · taxi) as ${CAB_PAGE}`],
+    [
+      `${copy}: same word, part of speech, reading, English words and meanings (的士 noun dik1 si2 cab: taxi · taxi: taxi) as ${CAB_PAGE}`,
+    ],
+  )
+})
+
+test('an English entry with no meaning is refused', () => {
+  assert.deepEqual(
+    checkWith(
+      editPage(CAB_PAGE, page => {
+        delete page.english[0].meaning
+      }),
+    ),
+    [`${CAB_PAGE}: /english/0 must have required property 'meaning'`],
   )
 })
 
@@ -1395,10 +1422,10 @@ test('placeholder letter in a page example', () => {
 test('English entry ids are unique across pages', () => {
   const errors = checkWith(files => {
     editPage(CAB_PAGE, page => {
-      page.english.push({ word: 'taxi', exampleSentences: [], id: 'ddddddd1' })
+      page.english.push({ word: 'taxi', meaning: 'taxi', exampleSentences: [], id: 'ddddddd1' })
     })(files)
     editPage(THURSDAY_PAGE, page => {
-      page.english.push({ word: 'taxi', exampleSentences: [], id: 'ddddddd1' })
+      page.english.push({ word: 'taxi', meaning: 'taxi', exampleSentences: [], id: 'ddddddd1' })
     })(files)
     editLookup(lookup => {
       lookup.ddddddd1 = 'ppppppp1'
@@ -1414,7 +1441,7 @@ test('English entry id equal to a page id', () => {
   assert.deepEqual(
     checkWith(
       editPage(CAB_PAGE, page => {
-        page.english.push({ word: 'taxi', exampleSentences: [], id: 'ppppppp2' })
+        page.english.push({ word: 'taxi', meaning: 'taxi', exampleSentences: [], id: 'ppppppp2' })
       }),
     ),
     [
@@ -1453,7 +1480,7 @@ test('an entry with only a word sits beside a full entry', () => {
   assert.deepEqual(
     checkWith(
       editPage(CAB_PAGE, page => {
-        page.english.push({ word: 'taxi', exampleSentences: [] })
+        page.english.push({ word: 'taxi', meaning: 'taxi', exampleSentences: [] })
       }),
     ),
     [],
@@ -1483,7 +1510,7 @@ test('an English entry note is held to the note rules', () => {
   assert.deepEqual(
     checkWith(
       editPage(CAB_PAGE, page => {
-        page.english.push({ word: 'taxi', exampleSentences: [], note: 'See sense 2.' })
+        page.english.push({ word: 'taxi', meaning: 'taxi', exampleSentences: [], note: 'See sense 2.' })
       }),
     ),
     [`${CAB_PAGE}: English entry "taxi" note points at a numbered sense ("sense 2")`],
@@ -1494,7 +1521,7 @@ test('an English entry with an unknown field is refused by the schema', () => {
   assert.deepEqual(
     checkWith(
       editPage(THURSDAY_PAGE, page => {
-        page.english.push({ word: 'Thu', color: 'red', exampleSentences: [] })
+        page.english.push({ word: 'Thu', meaning: 'day of the week', color: 'red', exampleSentences: [] })
       }),
     ),
     [`${THURSDAY_PAGE}: /english/1 must NOT have additional properties "color"`],
@@ -1516,7 +1543,7 @@ test('a page may drop one of its entries while the row stays in words/', () => {
   assert.deepEqual(
     checkWith(
       editPage(CAB_PAGE, page => {
-        page.english = [{ word: 'taxi', exampleSentences: [] }]
+        page.english = [{ word: 'taxi', meaning: 'taxi', exampleSentences: [] }]
       }),
     ),
     [],

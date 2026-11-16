@@ -23,7 +23,7 @@
           "type": "array"
         }
       },
-      "required": ["word", "exampleSentences"],
+      "required": ["word", "meaning", "exampleSentences"],
       "type": "object"
     },
     "nonEmptyString": {

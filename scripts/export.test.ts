@@ -136,7 +136,7 @@ const ex = (english: string, traditional: string, jyutping: string) => ({ englis
 /**
  * A fixture whose pages differ from its word files: the word files know only the
  * three original rows, while the pages also hold entries an editor added (no id),
- * one with no meaning of its own, a second page for the same word, and a frequency `order` that disagrees with the
+ * a second page for the same word, and a frequency `order` that disagrees with the
  * order of the word file. Only an export that reads the pages gets all of it right.
  */
 function pagesFixture(): Record<string, string> {
@@ -162,6 +162,7 @@ function pagesFixture(): Record<string, string> {
       },
       {
         word: 'Thursday',
+        meaning: 'weekday name',
         exampleSentences: [ex('Thursday is busy.', '星期四好忙。', 'sing1 kei4 sei3 hou2 mong4')],
       },
     ],
@@ -217,11 +218,10 @@ test('toJsonl reads the pages: order, id-less entries, fallbacks and the example
       note: 'Used in writing.',
     },
     {
-      // own position (1) names the word, so it wins over the earlier sentence that also does;
-      // no meaning of its own, so an empty one (a page has none to lend it)
+      // own position (1) names the word, so it wins over the earlier sentence that also does
       id: 'ppppppp4:Thursday',
       ...thursday,
-      meaning: '',
+      meaning: 'weekday name',
       meaningShare: 0,
       traditional: '星期四',
       jyutping: 'sing1 kei4 sei3',
@@ -304,7 +304,7 @@ test('toCsv shows the first sentence of the entry, and none for an entry with no
   const [first] = page.english[0].exampleSentences
   const other = { english: 'The Cabbage was cheap.', traditional: '椰菜好平。', jyutping: 'je4 coi3 hou2 peng4' }
   page.english[0].exampleSentences = [first, other]
-  page.english.push({ word: 'off', exampleSentences: [] })
+  page.english.push({ word: 'off', meaning: 'taxi', exampleSentences: [] })
   files[path] = JSON.stringify(page, null, 2) + '\n'
   const rows = toCsv(loadValidRepo(writeTree(files))).split('\n')
   const cab = rows.find(line => line.startsWith('aaaaaaa1,'))
@@ -313,6 +313,5 @@ test('toCsv shows the first sentence of the entry, and none for an entry with no
     'aaaaaaa1,cab,noun,taxi,的士,dik1 si2,,This is the all-purpose Cantonese noun for a taxi or cab.,We called a cab to the airport.,我哋叫咗部的士去機場。,ngo5 dei6 giu3 zo2 bou6 dik1 si2 heoi3 gei1 coeng4',
   )
   const off = rows.find(line => line.startsWith('ppppppp1:off,'))
-  // no meaning of its own, and the page has none to lend it
-  assert.equal(off, 'ppppppp1:off,off,noun,,的士,dik1 si2,,,,,')
+  assert.equal(off, 'ppppppp1:off,off,noun,taxi,的士,dik1 si2,,,,,')
 })

@@ -143,9 +143,9 @@ part of speech, one reading and one sense. Here is
   (preposition), `pron` (pronoun), `det` (determiner), `conj` (conjunction),
   `num` (number), `name` (a proper noun), `intj` (interjection), `phrase`,
   `postp` (postposition). Any other value fails `pnpm run check`.
-- An English entry is an object. `word` and `exampleSentences` (the sentences
-  shown with that word; it may be empty) are required; `meaning`, `note` and
-  `register` are optional. Every entry carries an `id` from `pnpm run new-id`
+- An English entry is an object. `word`, its `meaning` and `exampleSentences`
+  (the sentences shown with that word; it may be empty) are required; `note`
+  and `register` are optional. Every entry carries an `id` from `pnpm run new-id`
   and a `pages-by-id.json` line pointing it at its page; `id` stays optional in
   the schema only so an older reviewed suggestion still passes `check`. The page files are what the site shows
   and can be edited freely: an entry's `id`, `meaning` and `note` came from the
@@ -158,10 +158,11 @@ part of speech, one reading and one sense. Here is
   second sense of the same word, part of speech and reading is a second page
   file with its own `id` (from `pnpm run new-id`) and a line mapping that `id`
   to itself in `pages-by-id.json`. Two pages may not have the same characters,
-  part of speech, reading and English words (in any order).
+  part of speech, reading, and English words with the same meanings (in any
+  order).
 - To correct a reading, change the page's `jyutping`. If a page with the right
-  reading and the same English words already exists for the same characters
-  and part of speech, the check refuses the change as a duplicate: move the English
+  reading and the same English words and meanings already exists for the same
+  characters and part of speech, the check refuses the change as a duplicate: move the English
   entries to that page instead, and in `pages-by-id.json` point the rows those
   entries show at it. If you delete a page, keep its line in
   `pages-by-id.json`, pointing its `id` at the page that took its entries, so

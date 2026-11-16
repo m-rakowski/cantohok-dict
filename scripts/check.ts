@@ -30,16 +30,17 @@
 //   row's id.
 // - A page has one reading, in its "jyutping", compared exactly as stored, and
 //   one sense. Two pages may not have the same characters, part of speech,
-//   reading and English words (in any order); they would be the same page
-//   twice. A second sense of the same word is a second page file.
+//   reading, and English words with the same meanings (in any order); they
+//   would be the same page twice. A second sense of the same word is a second
+//   page file.
 // - pages-by-id.json (the link lookup) is required once any page file
 //   exists, and must match schema/pages-by-id.schema.json. Every English row
 //   id must have an entry; every value must be an existing page id; every
 //   page id must map to itself.
 // - The note and example rules below also apply on a page (an English
 //   entry's note is judged against that entry's word and meaning).
-// - A page lists its English words as entries ({ "word": ..., and optionally
-//   "id", "meaning", "note", "register" }). No two entries may share an "id",
+// - A page lists its English words as entries ({ "word": ..., "meaning": ...,
+//   and optionally "id", "note", "register" }). No two entries may share an "id",
 //   no entry id may equal a page id, and every entry id must be a key in
 //   pages-by-id.json that maps to the page holding the entry.
 // - frequency.json and aliases.json must exist.
@@ -286,19 +287,19 @@ function checkPages(root: string, errors: string[]): CheckedPage[] {
 }
 
 /**
- * No two pages are the same word, part of speech, reading and English words (in any order). Only pages that passed the
- * schema are judged. Readings are compared exactly as stored.
+ * No two pages are the same word, part of speech, reading, and English words with their meanings (in any order). Only
+ * pages that passed the schema are judged. Readings are compared exactly as stored.
  */
 function checkPageReadings(pages: CheckedPage[], errors: string[]): void {
   const firstPath = new Map<string, string>()
   for (const { path, file } of pages) {
     if (!file) continue
-    const words = file.english.map(entry => entry.word).sort()
-    const key = JSON.stringify([file.traditional, file.partOfSpeech, file.jyutping, words])
+    const senses = file.english.map(entry => `${entry.word}: ${entry.meaning}`).sort()
+    const key = JSON.stringify([file.traditional, file.partOfSpeech, file.jyutping, senses])
     const earlier = firstPath.get(key)
     if (earlier)
       errors.push(
-        `${path}: same word, part of speech, reading and English words (${file.traditional} ${file.partOfSpeech} ${file.jyutping} ${words.join(' · ')}) as ${earlier}`,
+        `${path}: same word, part of speech, reading, English words and meanings (${file.traditional} ${file.partOfSpeech} ${file.jyutping} ${senses.join(' · ')}) as ${earlier}`,
       )
     else firstPath.set(key, path)
   }
@@ -476,7 +477,7 @@ function checkPageShownText(pages: CheckedPage[], errors: string[]): void {
     if (!valid || !file) continue
     for (const entry of file.english) {
       if (entry.note !== undefined)
-        for (const problem of noteProblems(entry.note, entry.word, entry.meaning ?? ''))
+        for (const problem of noteProblems(entry.note, entry.word, entry.meaning))
           errors.push(`${path}: English entry "${entry.word}" ${problem}`)
       entry.exampleSentences.forEach((example, exampleIndex) => {
         const letters = placeholderLetters(example.english)
