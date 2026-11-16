@@ -41,18 +41,16 @@ export interface EnglishEntry {
 }
 
 /**
- * A Cantonese word page: cantonese/<traditional>_<partOfSpeech>_<id>.json. It has one reading and exactly one
- * meaning; a second meaning of the same word is a second page file.
+ * A Cantonese word page: cantonese/<traditional>_<partOfSpeech>_<id>.json. It has one reading and one sense; a second
+ * sense of the same word is a second page file. The page has no meaning, note or register of its own: each English
+ * entry carries its own.
  */
 export interface PageFile {
   id: string
   traditional: string
   partOfSpeech: string
   jyutping: string
-  meaning: string
   english: EnglishEntry[]
-  note?: string
-  register?: string
 }
 
 /** The link lookup (pages-by-id.json): every English row id and every page id, mapped to a page id. */

@@ -39,17 +39,14 @@
     "partOfSpeech": {
       "enum": ["noun", "verb", "adj", "adv", "prep", "pron", "det", "conj", "num", "name", "intj", "phrase", "postp"]
     },
-    "meaning": { "$ref": "#/$defs/nonEmptyString" },
     "english": {
       "items": { "$ref": "#/$defs/englishEntry" },
       "minItems": 1,
       "type": "array"
     },
     "traditional": { "$ref": "#/$defs/nonEmptyString" },
-    "jyutping": { "$ref": "#/$defs/nonEmptyString" },
-    "register": { "$ref": "#/$defs/nonEmptyString" },
-    "note": { "$ref": "#/$defs/nonEmptyString" }
+    "jyutping": { "$ref": "#/$defs/nonEmptyString" }
   },
-  "required": ["id", "traditional", "partOfSpeech", "jyutping", "meaning", "english"],
+  "required": ["id", "traditional", "partOfSpeech", "jyutping", "english"],
   "type": "object"
 }

@@ -10,10 +10,11 @@ files are laid out and the steps to change them.
   reference only (`words/README.md`). Edit the page files in `cantonese/`.
 - `cantonese/<characters>_<part of speech>_<id>.json` — one file per Cantonese
   word page, such as `cantonese/揮手_verb_vonj8c12.json`. A page has one
-  reading, in `jyutping` beside `traditional`, and exactly one meaning. It holds
-  exactly what the site shows for that word and meaning: one or more English
-  words that mean the same thing, a short meaning, its examples, and an
-  optional `note`.
+  reading, in `jyutping` beside `traditional`, and one sense. It holds
+  exactly what the site shows for that word and sense: one or more English
+  words that mean the same thing, each with its own short meaning, examples
+  and optional `note`. The page itself has no meaning or note: they belong to
+  the English words.
   Add a note only to warn about something the examples cannot show. The
   page's `id` never changes: if you rename the file (say, to fix the
   characters), keep the `id` as it is. Every file must be named after the
@@ -106,14 +107,13 @@ What each field means:
 ## What one page looks like
 
 A page file holds everything the site shows for one Cantonese word with one
-part of speech, one reading and one meaning. Here is
+part of speech, one reading and one sense. Here is
 `cantonese/揮手_verb_vonj8c12.json`:
 
 ```json
 {
   "id": "vonj8c12",
   "partOfSpeech": "verb",
-  "meaning": "wave your hand hello/goodbye",
   "english": [
     {
       "id": "i0dcd0tv",
@@ -135,9 +135,10 @@ part of speech, one reading and one meaning. Here is
 ```
 
 - A page has an `id` (8 lowercase letters or digits), the `traditional`
-  characters, a `partOfSpeech`, the reading in `jyutping`, a short `meaning`,
-  and a list of `english` entries (at least one). `note` and `register` are
-  optional. There is no `boxes` list: a page with one is refused. `partOfSpeech`
+  characters, a `partOfSpeech`, the reading in `jyutping`, and a list of
+  `english` entries (at least one). A page has no `meaning`, `note` or
+  `register` of its own (each English entry carries its own), and no `boxes`
+  list: a page with any of these is refused. `partOfSpeech`
   is one of: `noun`, `verb`, `adj` (adjective), `adv` (adverb), `prep`
   (preposition), `pron` (pronoun), `det` (determiner), `conj` (conjunction),
   `num` (number), `name` (a proper noun), `intj` (interjection), `phrase`,
@@ -153,14 +154,14 @@ part of speech, one reading and one meaning. Here is
   page's `id`, and each maps to its page in `pages-by-id.json`.
 - Different parts of speech are different pages: 建議 as a verb and 建議 as
   a noun are two files. So are different readings: 片 read `pin3` and 片 read
-  `pin2` are two files, each with its own `id`. So are different meanings: a
-  second meaning of the same word, part of speech and reading is a second page
+  `pin2` are two files, each with its own `id`. So are different senses: a
+  second sense of the same word, part of speech and reading is a second page
   file with its own `id` (from `pnpm run new-id`) and a line mapping that `id`
   to itself in `pages-by-id.json`. Two pages may not have the same characters,
-  part of speech, reading and meaning.
+  part of speech, reading and English words (in any order).
 - To correct a reading, change the page's `jyutping`. If a page with the right
-  reading and the same meaning already exists for the same characters and part
-  of speech, the check refuses the change as a duplicate: move the English
+  reading and the same English words already exists for the same characters
+  and part of speech, the check refuses the change as a duplicate: move the English
   entries to that page instead, and in `pages-by-id.json` point the rows those
   entries show at it. If you delete a page, keep its line in
   `pages-by-id.json`, pointing its `id` at the page that took its entries, so
@@ -169,8 +170,8 @@ part of speech, one reading and one meaning. Here is
   so the characters and the part of speech cannot hold `\ : * ? " < > |`. For a `/` in the characters, write `／` (U+FF0F, the fullwidth slash).
 - You can add, remove, merge and reorder English entries, and add several
   example sentences to an English entry.
-- A `note` is held to the same rules as a note on a row (it must read on its
-  own), and an English example must name real people and things rather than
+- An English entry's `note` is held to the same rules as a note on a row (it
+  must read on its own), and an English example must name real people and things rather than
   placeholder letters.
 
 ## Rules to follow when you edit a row
