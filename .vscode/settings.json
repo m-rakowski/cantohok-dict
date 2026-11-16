@@ -19,6 +19,10 @@
     {
       "fileMatch": ["aliases.json"],
       "url": "./schema/aliases.schema.json"
+    },
+    {
+      "fileMatch": ["pictures.json"],
+      "url": "./schema/pictures.schema.json"
     }
   ]
 }

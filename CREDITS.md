@@ -33,6 +33,14 @@ were chosen and graded using:
 None of their text is in these files — they were used only to pick and order
 the words.
 
+## Photos
+
+`pictures.json` names photos from [Wikimedia Commons](https://commons.wikimedia.org)
+that show some of the words. Each photo belongs to its author and is under its
+own license, both listed beside it in `pictures.json`; this dictionary's
+license does not cover them. The repo holds only each photo's Commons id and
+its credit, not the photo itself.
+
 ## License
 
 The dictionary data is CC BY-SA 4.0 (`LICENSE`); the scripts are MIT

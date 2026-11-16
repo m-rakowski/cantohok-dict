@@ -43,6 +43,15 @@ files are laid out and the steps to change them.
 - `aliases.json` — other spellings or forms of a word that should lead to it,
   for example `"child": ["children"]`. Only words that have another form
   listed here appear in this file.
+- `pictures.json` — photos picked by hand from
+  [Wikimedia Commons](https://commons.wikimedia.org) to show a page's word,
+  keyed by the page's `id`, in the order they are shown. Each photo is the
+  Commons file's page id (the number in
+  `https://commons.wikimedia.org/?curid=<id>`), its license and its author,
+  copied from the file's Commons page. Only free licenses are accepted (the
+  list is in `schema/pictures.schema.json`), and every "CC BY" license needs
+  the author's name. The photos themselves are not in this repo: only the ids
+  and the credits are.
 - `schema/` — a set of rules (JSON Schema) that every file above must follow.
   If your editor is set up (see below), it warns you the moment a field is
   missing or misspelled, before you even save.
@@ -51,7 +60,7 @@ files are laid out and the steps to change them.
 
 If you use VS Code, you don't need to install anything. `.vscode/settings.json`
 already tells VS Code to check `words/**/*.json`, `cantonese/*.json`,
-`pages-by-id.json`, `frequency.json` and `aliases.json` against the rules in
+`pages-by-id.json`, `frequency.json`, `aliases.json` and `pictures.json` against the rules in
 `schema/`. Open any of those files and
 mistakes are underlined as you type.
 
@@ -231,6 +240,8 @@ remember the rule — just let `check` tell you if you got a filename wrong.
 
 In these files an entry from an older reviewed suggestion may have no `id`, so its
 `id` is composite, `<page id>:<English word>`, and its shares are 0.
+
+`pictures.json` is not in the release files: it stays in the repo.
 
 You don't need to run this yourself to contribute a fix — it only matters if
 you're preparing a release.

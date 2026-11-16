@@ -52,6 +52,13 @@
 //   file's term.
 // - Every term used as a key in aliases.json must likewise be some page
 //   entry's word or a legacy word file's term.
+// - pictures.json (hand-picked Wikimedia Commons photos) must exist and match
+//   schema/pictures.schema.json: each key is a page id, each value the page's
+//   photos in display order, each photo a Commons file id, its license (one of
+//   the free licenses the schema lists) and its author, which every "CC BY"
+//   license requires. Every key must be a page file's own id (an old id that
+//   pages-by-id.json maps to a page is not enough), and no page may list the
+//   same Commons file twice.
 // - Rows in the same word's file that share the same partOfSpeech and
 //   meaning (so, the same sense of the word) must all list the same
 //   meaningShare number in frequency.json.
@@ -63,7 +70,7 @@
 // The shape of each file on its own — which fields are required, that text
 // fields can't be empty, that an id is 8 lowercase letters/digits, and so on
 // — is checked separately, against the rules in schema/ (word.schema.json,
-// page.schema.json, pages-by-id.schema.json, frequency.schema.json, aliases.schema.json). This file loads those schemas
+// page.schema.json, pages-by-id.schema.json, frequency.schema.json, aliases.schema.json, pictures.schema.json). This file loads those schemas
 // and reports whatever they flag, on top of the checks above that only make
 // sense by comparing files to each other.
 import { existsSync, readFileSync } from 'node:fs'
@@ -81,6 +88,7 @@ import {
   type FrequencyFile,
   type PageFile,
   type PageLookup,
+  type PicturesFile,
   type WordFile,
 } from './types.ts'
 import wordSchema from '../schema/word.schema.json' with { type: 'json' }
@@ -88,6 +96,7 @@ import pageSchema from '../schema/page.schema.json' with { type: 'json' }
 import frequencySchema from '../schema/frequency.schema.json' with { type: 'json' }
 import aliasesSchema from '../schema/aliases.schema.json' with { type: 'json' }
 import pageLookupSchema from '../schema/pages-by-id.schema.json' with { type: 'json' }
+import picturesSchema from '../schema/pictures.schema.json' with { type: 'json' }
 
 const ajv = new Ajv2020({ allErrors: true })
 const validateWord = ajv.compile(wordSchema)
@@ -97,6 +106,7 @@ const ALLOWED_PARTS_OF_SPEECH: readonly string[] = pageSchema.properties.partOfS
 const validateFrequency = ajv.compile(frequencySchema)
 const validateAliases = ajv.compile(aliasesSchema)
 const validatePageLookup = ajv.compile(pageLookupSchema)
+const validatePictures = ajv.compile(picturesSchema)
 
 const isObject = (v: unknown): v is Record<string, unknown> => typeof v === 'object' && v !== null && !Array.isArray(v)
 const isFilled = (v: unknown): v is string => typeof v === 'string' && v.trim() !== ''
@@ -409,6 +419,26 @@ function checkAliases(root: string, words: CheckedWord[], pages: CheckedPage[], 
     if (!terms.has(term)) errors.push(`aliases.json: "${term}" is no page entry's word and has no word file`)
 }
 
+/**
+ * Every pictures.json key is a page file's own id, and no page lists one Commons file twice. As in
+ * checkPageLookup, while a page without a usable id exists (already reported) the "not a page id"
+ * rule stays quiet, since that page's id cannot be known.
+ */
+function checkPictures(root: string, pages: CheckedPage[], errors: string[]): void {
+  const json = readTopLevelFile(root, 'pictures.json', validatePictures, errors) as PicturesFile | null
+  if (!json) return
+  const pageIds = new Set(pages.flatMap(({ id }) => (id === null ? [] : [id])))
+  const someIdUnknown = pages.some(({ id }) => id === null)
+  for (const [pageId, photos] of Object.entries(json)) {
+    if (!someIdUnknown && !pageIds.has(pageId)) errors.push(`pictures.json: "${pageId}" is not a page id`)
+    const seen = new Set<number>()
+    for (const { commons } of photos) {
+      if (seen.has(commons)) errors.push(`pictures.json: page "${pageId}" lists Commons file ${commons} twice`)
+      seen.add(commons)
+    }
+  }
+}
+
 function checkMeaningShare(words: CheckedWord[], frequency: FrequencyFile | null, errors: string[]): void {
   if (!frequency) return
   for (const { path, valid, file } of words) {
@@ -474,6 +504,7 @@ export function checkRepo(root: string): string[] {
   const frequency = checkFrequency(root, words, pages, errors)
   const frequencyClean = errors.length === beforeFrequency
   checkAliases(root, words, pages, errors)
+  checkPictures(root, pages, errors)
   // meaningShare compares rows via the ids frequency.json maps them by, so it
   // only runs once that map is known complete (no missing/orphaned entries) —
   // otherwise a row whose id has no frequency.json entry, or a duplicate id

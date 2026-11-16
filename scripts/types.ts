@@ -65,6 +65,16 @@ export interface FrequencyFile {
 
 export type AliasesFile = Record<string, string[]>
 
+/** One hand-picked Wikimedia Commons photo: the file's page id (https://commons.wikimedia.org/?curid=<commons>), its license and its author. */
+export interface PicturePhoto {
+  commons: number
+  author?: string
+  license: string
+}
+
+/** pictures.json: a page id → that page's photos, in display order. */
+export type PicturesFile = Record<string, PicturePhoto[]>
+
 export const ID_PATTERN = /^[a-z0-9]{8}$/
 
 // Windows device names: Git for Windows refuses to check out a file whose

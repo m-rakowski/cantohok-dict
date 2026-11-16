@@ -42,4 +42,4 @@ This dictionary powers [CantoHok](https://cantohok.com), an app for learning Can
 
 ## License
 
-The dictionary is free to use and share under [CC BY-SA 4.0](LICENSE). It builds on Wiktionary, CC-Canto and other open sources, all listed in [CREDITS.md](CREDITS.md). The scripts are MIT ([LICENSE-CODE](LICENSE-CODE)).
+The dictionary is free to use and share under [CC BY-SA 4.0](LICENSE). It builds on Wiktionary, CC-Canto and other open sources, all listed in [CREDITS.md](CREDITS.md). The Wikimedia Commons photos named in `pictures.json` keep their own authors and licenses, listed beside each one. The scripts are MIT ([LICENSE-CODE](LICENSE-CODE)).
