@@ -1,0 +1,57 @@
+{
+  "$id": "https://cantohok-dict/schema/pictures.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "additionalProperties": {
+    "items": {
+      "additionalProperties": false,
+      "if": {
+        "properties": {
+          "license": {
+            "pattern": "^CC BY",
+            "type": "string"
+          }
+        }
+      },
+      "properties": {
+        "author": {
+          "pattern": "\\S",
+          "type": "string"
+        },
+        "commons": {
+          "maximum": 999999999999999,
+          "minimum": 1,
+          "type": "integer"
+        },
+        "license": {
+          "enum": [
+            "CC0",
+            "Public domain",
+            "No restrictions",
+            "Copyrighted free use",
+            "CC BY 2.0",
+            "CC BY 2.5",
+            "CC BY 3.0",
+            "CC BY 4.0",
+            "CC BY-SA 2.0",
+            "CC BY-SA 2.5",
+            "CC BY-SA 3.0",
+            "CC BY-SA 4.0",
+            "CC BY-SA 2.0 de",
+            "CC BY 2.5 cn"
+          ]
+        }
+      },
+      "required": ["commons", "license"],
+      "then": {
+        "required": ["author"]
+      },
+      "type": "object"
+    },
+    "minItems": 1,
+    "type": "array"
+  },
+  "propertyNames": {
+    "pattern": "^[a-z0-9]{8}$"
+  },
+  "type": "object"
+}

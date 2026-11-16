@@ -142,5 +142,13 @@ export function validFixture(): Record<string, string> {
 `,
     'aliases.json': `{ "Thursday": ["thursdays"] }
 `,
+    // Two photos in display order, the larger id first, so a formatter that sorted arrays would show here.
+    'pictures.json': `{
+  "ppppppp1": [
+    { "author": "Jane Doe", "commons": 67890, "license": "CC BY-SA 4.0" },
+    { "commons": 12345, "license": "CC0" }
+  ]
+}
+`,
   }
 }

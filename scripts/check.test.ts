@@ -455,6 +455,117 @@ test('empty aliases array', () => {
   )
 })
 
+/** Runs the check with `change` applied to the fixture's parsed pictures.json. */
+function checkPictures(change: (pictures: Record<string, unknown[]>, files: Record<string, string>) => void): string[] {
+  return checkWith(files => {
+    const pictures = JSON.parse(files['pictures.json'])
+    change(pictures, files)
+    files['pictures.json'] = JSON.stringify(pictures, null, 2) + '\n'
+  })
+}
+
+test('missing pictures.json', () => {
+  assert.deepEqual(
+    checkWith(files => {
+      delete files['pictures.json']
+    }),
+    ['pictures.json: missing'],
+  )
+})
+
+test('pictures.json key that is no page id', () => {
+  assert.deepEqual(
+    checkPictures(pictures => {
+      pictures.zzzzzzz9 = [{ commons: 1, license: 'CC0' }]
+    }),
+    ['pictures.json: "zzzzzzz9" is not a page id'],
+  )
+})
+
+// pages-by-id.json keeps old ids pointing at the page they were merged into; photos belong to the page itself.
+test('pictures.json key that is only an old id in pages-by-id.json', () => {
+  assert.deepEqual(
+    checkPictures((pictures, files) => {
+      const lookup = JSON.parse(files['pages-by-id.json'])
+      lookup.qqqqqqq1 = 'ppppppp1'
+      files['pages-by-id.json'] = JSON.stringify(lookup, null, 2) + '\n'
+      pictures.qqqqqqq1 = [{ commons: 1, license: 'CC0' }]
+    }),
+    ['pictures.json: "qqqqqqq1" is not a page id'],
+  )
+})
+
+test('pictures.json key of the wrong shape', () => {
+  assert.deepEqual(
+    checkPictures(pictures => {
+      pictures.Bad = [{ commons: 1, license: 'CC0' }]
+    }),
+    ['pictures.json: (root) must match pattern "^[a-z0-9]{8}$"', 'pictures.json: (root) property name must be valid'],
+  )
+})
+
+test('pictures.json photo with a license that is not on the free list', () => {
+  assert.deepEqual(
+    checkPictures(pictures => {
+      pictures.ppppppp1 = [{ author: 'Jane Doe', commons: 1, license: 'CC BY-NC 4.0' }]
+    }),
+    [
+      'pictures.json: /ppppppp1/0/license must be equal to one of the allowed values: CC0, Public domain, No restrictions, Copyrighted free use, CC BY 2.0, CC BY 2.5, CC BY 3.0, CC BY 4.0, CC BY-SA 2.0, CC BY-SA 2.5, CC BY-SA 3.0, CC BY-SA 4.0, CC BY-SA 2.0 de, CC BY 2.5 cn',
+    ],
+  )
+})
+
+test('pictures.json "CC BY" photo with no author', () => {
+  assert.deepEqual(
+    checkPictures(pictures => {
+      pictures.ppppppp1 = [{ commons: 1, license: 'CC BY 2.0' }]
+    }),
+    [
+      "pictures.json: /ppppppp1/0 must have required property 'author'",
+      'pictures.json: /ppppppp1/0 must match "then" schema',
+    ],
+  )
+})
+
+test('pictures.json photo with a blank author', () => {
+  assert.deepEqual(
+    checkPictures(pictures => {
+      pictures.ppppppp1 = [{ author: ' ', commons: 1, license: 'CC0' }]
+    }),
+    ['pictures.json: /ppppppp1/0/author must match pattern "\\S"'],
+  )
+})
+
+test('pictures.json photo with an unknown field', () => {
+  assert.deepEqual(
+    checkPictures(pictures => {
+      pictures.ppppppp1 = [{ commons: 1, license: 'CC0', url: 'https://example.com/a.jpg' }]
+    }),
+    ['pictures.json: /ppppppp1/0 must NOT have additional properties "url"'],
+  )
+})
+
+test('pictures.json page with no photos', () => {
+  assert.deepEqual(
+    checkPictures(pictures => {
+      pictures.ppppppp1 = []
+    }),
+    ['pictures.json: /ppppppp1 must NOT have fewer than 1 items'],
+  )
+})
+
+test('pictures.json page listing one Commons file twice', () => {
+  assert.deepEqual(
+    checkPictures(pictures => {
+      pictures.ppppppp1 = [
+        { commons: 12345, license: 'CC0' },
+        { commons: 12345, license: 'CC0' },
+      ]
+    }),
+    ['pictures.json: page "ppppppp1" lists Commons file 12345 twice'],
+  )
+})
+
 // "constructor" is an inherited property of every plain object, so `term in
 // frequency.json.words` sees it even with no own entry. Object.hasOwn is what makes this fail.
 test('missing frequency.json rank for a word named after a built-in property', () => {
@@ -1176,6 +1287,7 @@ test('no pages and no lookup', () => {
     checkWith(files => {
       delete files['pages-by-id.json']
       for (const path of [CAB_PAGE, 'cantonese/車頭_noun_ppppppp2.json', THURSDAY_PAGE]) delete files[path]
+      files['pictures.json'] = '{}\n'
     }),
     [],
   )
