@@ -1,5 +1,5 @@
-// Mints a fresh 8-character id for a brand-new English entry or page, one that no
-// entry or page in the repo already uses. (Two people working on separate branches could still,
+// Mints a fresh 8-character id for a brand-new English entry, example sentence or page, one that no
+// entry, sentence or page in the repo already uses. (Two people working on separate branches could still,
 // very rarely, pick the same one; `pnpm run check` catches that.) Run it with `pnpm run new-id`; it prints one id
 // to the terminal.
 import { randomInt } from 'node:crypto'
@@ -25,8 +25,8 @@ export function newId(taken: Set<string>, random: (max: number) => number = rand
 }
 
 /**
- * Every id already used in `root`: each page id, each English entry id on a
- * page, and each key of pages-by-id.json, because a page id must never equal
+ * Every id already used in `root`: each page id, each English entry id and
+ * each example sentence id on a page, and each key of pages-by-id.json, because a page id must never equal
  * an entry id. A page file that is not valid JSON, or has no string `id`, is
  * skipped here; `pnpm run check` reports it. Word files in the legacy words/
  * folder do not count.
@@ -50,8 +50,11 @@ export function collectTakenIds(root: string): Set<string> {
     }
     if (typeof page !== 'object' || page === null) continue
     if (typeof page.id === 'string') taken.add(page.id)
-    for (const entry of Array.isArray(page.english) ? page.english : [])
+    for (const entry of Array.isArray(page.english) ? page.english : []) {
       if (typeof entry?.id === 'string') taken.add(entry.id)
+      for (const sentence of Array.isArray(entry?.exampleSentences) ? entry.exampleSentences : [])
+        if (typeof sentence?.id === 'string') taken.add(sentence.id)
+    }
   }
   return taken
 }

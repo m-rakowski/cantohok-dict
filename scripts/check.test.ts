@@ -52,7 +52,8 @@ function editCab(edit: (cab: any) => void): (files: Record<string, string>) => v
         entry.word = cab.term
         entry.meaning = row.meaning
         entry.note = row.note
-        if (row.example) entry.exampleSentences = [row.example]
+        // The page's sentence keeps its id when the row's text is copied over it.
+        if (row.example) entry.exampleSentences = [{ id: entry.exampleSentences[0]?.id ?? 'sssssss1', ...row.example }]
         if (row.register === undefined) delete entry.register
         else entry.register = row.register
       }
@@ -1573,4 +1574,46 @@ test('a page-only word needs no word file: its entry id, rank and alias are acce
     }),
     [],
   )
+})
+
+/** Parses the cab page, lets `edit` change its first English entry's sentences, writes it back. */
+function editCabPageSentences(edit: (sentences: any[]) => void): (files: Record<string, string>) => void {
+  return files => {
+    const page = JSON.parse(files[CAB_PAGE])
+    edit(page.english[0].exampleSentences)
+    files[CAB_PAGE] = JSON.stringify(page, null, 2) + '\n'
+  }
+}
+
+test('an example sentence with no id', () => {
+  const errors = checkWith(editCabPageSentences(sentences => delete sentences[0].id))
+  assert.deepEqual(errors, [`${CAB_PAGE}: /english/0/exampleSentences/0 must have required property 'id'`])
+})
+
+test('an example sentence id of the wrong shape', () => {
+  const errors = checkWith(editCabPageSentences(sentences => (sentences[0].id = 'BAD')))
+  assert.deepEqual(errors, [`${CAB_PAGE}: /english/0/exampleSentences/0/id must match pattern "^[a-z0-9]{8}$"`])
+})
+
+test('two example sentences with one id on a page', () => {
+  const errors = checkWith(
+    editCabPageSentences(sentences =>
+      sentences.push({ id: 'sssssss1', english: 'The cab is late.', traditional: '架的士遲咗。', jyutping: 'gaa3 dik1 si2 ci4 zo2' }),
+    ),
+  )
+  assert.deepEqual(errors, [`${CAB_PAGE}: example sentence id "sssssss1" is used twice on this page`])
+})
+
+test('the same example sentence id on two pages passes', () => {
+  const errors = checkWith(files => {
+    const page = JSON.parse(files[THURSDAY_PAGE])
+    page.english[0].exampleSentences.push({
+      id: 'sssssss1',
+      english: 'See you on Thursday.',
+      traditional: '星期四見。',
+      jyutping: 'sing1 kei4 sei3 gin3',
+    })
+    files[THURSDAY_PAGE] = JSON.stringify(page, null, 2) + '\n'
+  })
+  assert.deepEqual(errors, [])
 })

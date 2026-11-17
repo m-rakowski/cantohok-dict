@@ -122,6 +122,7 @@ part of speech, one reading and one sense. Here is
       "note": "This is the all-purpose choice for waving your hand in greeting or goodbye, including a farewell signal.",
       "exampleSentences": [
         {
+          "id": "k3m9x2pq",
           "english": "I wave to him when I leave.",
           "traditional": "我走嗰陣同佢揮手。",
           "jyutping": "ngo5 zau2 go2 zan6 tung4 keoi5 fai1 sau2"
@@ -171,6 +172,13 @@ part of speech, one reading and one sense. Here is
   so the characters and the part of speech cannot hold `\ : * ? " < > |`. For a `/` in the characters, write `／` (U+FF0F, the fullwidth slash).
 - You can add, remove, merge and reorder English entries, and add several
   example sentences to an English entry.
+- Every example sentence has an `id` (8 lowercase letters or digits, from
+  `pnpm run new-id`), unique on its page. It names that sentence for good, so
+  an app can remember a sentence someone picked even after its text is
+  corrected: when you fix a sentence's words, keep its `id`; when you move it
+  to another English entry on the same page, keep its `id`; a new sentence
+  gets a new one. Sentence ids are not in `pages-by-id.json`, and the exports
+  leave them out.
 - An English entry's `note` is held to the same rules as a note on a row (it
   must read on its own), and an English example must name real people and things rather than
   placeholder letters.
@@ -204,7 +212,8 @@ part of speech, one reading and one sense. Here is
 3. If you added a new page, mint its `id` with `pnpm run new-id`, and add a
    line in `pages-by-id.json` mapping that `id` to itself. Give every new
    English entry an `id` from `pnpm run new-id` too, and add a line pointing it
-   at the page.
+   at the page. Give every new example sentence an `id` from
+   `pnpm run new-id` (no `pages-by-id.json` line for a sentence).
 4. If you added a brand-new word, also add it to `frequency.json`'s `words`.
 5. Run `pnpm run format` to auto-format your changes, then `pnpm run check`
    to validate everything against the schema. If you changed a file in

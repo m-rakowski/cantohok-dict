@@ -3,11 +3,12 @@
     "example": {
       "additionalProperties": false,
       "properties": {
+        "id": { "pattern": "^[a-z0-9]{8}$", "type": "string" },
         "english": { "$ref": "#/$defs/nonEmptyString" },
         "traditional": { "$ref": "#/$defs/nonEmptyString" },
         "jyutping": { "$ref": "#/$defs/nonEmptyString" }
       },
-      "required": ["english", "traditional", "jyutping"],
+      "required": ["id", "english", "traditional", "jyutping"],
       "type": "object"
     },
     "englishEntry": {

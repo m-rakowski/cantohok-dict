@@ -64,7 +64,9 @@ function eachRow(repo: Repo): ExportRow[] {
         note: entry.note ?? '',
       }
       if (entry.register !== undefined) row.register = entry.register
-      if (entry.exampleSentences[0]) row.example = entry.exampleSentences[0]
+      // A sentence's id names it inside the repo only; the exports carry its text.
+      const first = entry.exampleSentences[0]
+      if (first) row.example = { english: first.english, traditional: first.traditional, jyutping: first.jyutping }
       rows.push(row)
     })
   }

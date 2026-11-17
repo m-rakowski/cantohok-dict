@@ -4,6 +4,8 @@
 // it ever runs. There's no command to run this file by itself — the other
 // scripts import from it.
 export interface Example {
+  /** A page sentence's permanent name, unique on its page (page.schema.json requires it). Legacy word rows have none. */
+  id?: string
   english: string
   traditional: string
   jyutping: string

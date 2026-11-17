@@ -74,6 +74,7 @@ export function validFixture(): Record<string, string> {
       "note": "This is the all-purpose Cantonese noun for a taxi or cab.",
       "exampleSentences": [
         {
+          "id": "sssssss1",
           "english": "We called a cab to the airport.",
           "traditional": "我哋叫咗部的士去機場。",
           "jyutping": "ngo5 dei6 giu3 zo2 bou6 dik1 si2 heoi3 gei1 coeng4"

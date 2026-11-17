@@ -26,7 +26,7 @@ test('newId re-rolls when the injected random source produces a taken id first',
   assert.equal(i, sequence.length)
 })
 
-test('collectTakenIds: page ids, English entry ids and pages-by-id.json keys; not word files', () => {
+test('collectTakenIds: page ids, English entry ids, sentence ids and pages-by-id.json keys; not word files', () => {
   const root = writeTree({
     'words/c/cab.json': JSON.stringify({ term: 'cab', rows: [{ id: 'wwwwwww1' }] }),
     'cantonese/的士_noun_cccccccc.json': JSON.stringify({
@@ -36,13 +36,13 @@ test('collectTakenIds: page ids, English entry ids and pages-by-id.json keys; no
       jyutping: 'dik1 si2',
       meaning: 'taxi',
       english: [
-        { id: 'aaaaaaa1', word: 'cab', exampleSentences: [] },
+        { id: 'aaaaaaa1', word: 'cab', exampleSentences: [{ id: 'sssssss1', english: 'e', traditional: 't', jyutping: 'j' }] },
         { word: 'taxi', exampleSentences: [] },
       ],
     }),
     'pages-by-id.json': JSON.stringify({ aaaaaaa1: 'cccccccc', cccccccc: 'cccccccc', dddddddd: 'cccccccc' }),
   })
-  assert.deepEqual(collectTakenIds(root), new Set(['aaaaaaa1', 'cccccccc', 'dddddddd']))
+  assert.deepEqual(collectTakenIds(root), new Set(['aaaaaaa1', 'cccccccc', 'dddddddd', 'sssssss1']))
 })
 
 test('collectTakenIds skips a page file that is not valid JSON, or has no string id', () => {
