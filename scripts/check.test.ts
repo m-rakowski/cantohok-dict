@@ -65,7 +65,11 @@ function editCab(edit: (cab: any) => void): (files: Record<string, string>) => v
 /** The text of the first cab page with its English entries' ids removed, for tests that make a second page like it. */
 function cabPageCopy(files: Record<string, string>): string {
   const page = JSON.parse(files[CAB_PAGE])
-  for (const entry of page.english) delete entry.id
+  for (const entry of page.english) {
+    delete entry.id
+    // A copy is a new sentence: it gets its own id (sentence ids are unique across the repo).
+    for (const sentence of entry.exampleSentences) sentence.id = 'copy' + sentence.id.slice(4)
+  }
   return JSON.stringify(page, null, 2) + '\n'
 }
 
@@ -1606,10 +1610,10 @@ test('two example sentences with one id on a page', () => {
       }),
     ),
   )
-  assert.deepEqual(errors, [`${CAB_PAGE}: example sentence id "sssssss1" is used twice on this page`])
+  assert.deepEqual(errors, [`${CAB_PAGE}: example sentence id "sssssss1" is already used in ${CAB_PAGE}`])
 })
 
-test('the same example sentence id on two pages passes', () => {
+test('the same example sentence id on two pages', () => {
   const errors = checkWith(files => {
     const page = JSON.parse(files[THURSDAY_PAGE])
     page.english[0].exampleSentences.push({
@@ -1620,5 +1624,6 @@ test('the same example sentence id on two pages passes', () => {
     })
     files[THURSDAY_PAGE] = JSON.stringify(page, null, 2) + '\n'
   })
-  assert.deepEqual(errors, [])
+  // Pages are checked in path order, and 星期四 sorts before 的士.
+  assert.deepEqual(errors, [`${CAB_PAGE}: example sentence id "sssssss1" is already used in ${THURSDAY_PAGE}`])
 })

@@ -173,12 +173,14 @@ part of speech, one reading and one sense. Here is
 - You can add, remove, merge and reorder English entries, and add several
   example sentences to an English entry.
 - Every example sentence has an `id` (8 lowercase letters or digits, from
-  `pnpm run new-id`), unique on its page. It names that sentence for good, so
-  an app can remember a sentence someone picked even after its text is
-  corrected: when you fix a sentence's words, keep its `id`; when you move it
-  to another English entry on the same page, keep its `id`; a new sentence
-  gets a new one. Sentence ids are not in `pages-by-id.json`, and the exports
-  leave them out.
+  `pnpm run new-id`), used by no other sentence in the repo. It names that
+  sentence for good, so an app can remember a sentence someone picked even
+  after its text is corrected. A sentence keeps its `id` wherever it goes:
+  when you fix its words, when you move it to another English entry, and when
+  you move it to another page (merging or splitting pages included). Only a
+  brand-new sentence gets a new `id`, and so does a copy: if a sentence is kept
+  in two places, the second one gets its own. Sentence ids are not in
+  `pages-by-id.json`, and the exports leave them out.
 - An English entry's `note` is held to the same rules as a note on a row (it
   must read on its own), and an English example must name real people and things rather than
   placeholder letters.
