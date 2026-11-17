@@ -220,6 +220,26 @@ function rawEntryIds(json: unknown): string[] {
 }
 
 /**
+ * One message per sentence id used a second time anywhere in the repo, naming the page that used it
+ * first. Pages that failed the schema are skipped (a missing or malformed id is reported there). Ids
+ * are unique across all pages, not just one: a deleted page's id is redirected to another page, so a
+ * sentence picked on the old page must never find an unrelated sentence holding the same id there.
+ */
+function checkSentenceIds(pages: CheckedPage[], errors: string[]): void {
+  const firstSeen = new Map<string, string>()
+  for (const page of pages) {
+    if (!page.file) continue
+    for (const entry of page.file.english)
+      for (const sentence of entry.exampleSentences) {
+        if (sentence.id === undefined) continue
+        const earlier = firstSeen.get(sentence.id)
+        if (earlier === undefined) firstSeen.set(sentence.id, page.path)
+        else errors.push(`${page.path}: example sentence id "${sentence.id}" is already used in ${earlier}`)
+      }
+  }
+}
+
+/**
  * One message per page path that differs only in letter case from an earlier
  * one (macOS and Windows would treat them as one file). A page that already
  * failed the file-name rule (`nameOk` false) is left out, so one wrong name is
@@ -498,6 +518,7 @@ export function checkRepo(root: string): string[] {
   const pages = checkPages(root, errors)
   checkPageIds(pages, words, errors)
   checkPageReadings(pages, errors)
+  checkSentenceIds(pages, errors)
   checkPageLookup(root, pages, words, errors)
   const beforeFrequency = errors.length
   const frequency = checkFrequency(root, words, pages, errors)

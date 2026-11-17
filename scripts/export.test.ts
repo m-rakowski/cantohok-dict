@@ -131,7 +131,16 @@ test('toPleco flattens a tab inside a note to a space', () => {
   assert.match(thursdayLine, /This is the all-purpose word for Thursday\./)
 })
 
-const ex = (english: string, traditional: string, jyutping: string) => ({ english, traditional, jyutping })
+let sentenceCount = 0
+/** A page sentence; each gets its own id (`ex00001`, …), which the exports must leave out. */
+const ex = (english: string, traditional: string, jyutping: string) => ({
+  id: `ex${String(++sentenceCount).padStart(6, '0')}`,
+  english,
+  traditional,
+  jyutping,
+})
+/** A sentence as the exports print it: its text, never its id. */
+const shown = (english: string, traditional: string, jyutping: string) => ({ english, traditional, jyutping })
 
 /**
  * A fixture whose pages differ from its word files: the word files know only the
@@ -204,7 +213,7 @@ test('toJsonl reads the pages: order, id-less entries, fallbacks and the example
       jyutping: 'sing1 kei4 sei3',
       share: 100,
       note: 'This is the all-purpose word for Thursday.',
-      example: ex('See you on Thursday.', '星期四見。', 'sing1 kei4 sei3 gin3'),
+      example: shown('See you on Thursday.', '星期四見。', 'sing1 kei4 sei3 gin3'),
     },
     {
       // no order: sorted by page id (ppppppp0 before ppppppp3); composite id, zero shares
@@ -227,7 +236,7 @@ test('toJsonl reads the pages: order, id-less entries, fallbacks and the example
       jyutping: 'sing1 kei4 sei3',
       share: 0,
       note: '',
-      example: ex('Thursday is busy.', '星期四好忙。', 'sing1 kei4 sei3 hou2 mong4'),
+      example: shown('Thursday is busy.', '星期四好忙。', 'sing1 kei4 sei3 hou2 mong4'),
     },
     {
       id: 'aaaaaaa2',
@@ -253,7 +262,7 @@ test('toJsonl reads the pages: order, id-less entries, fallbacks and the example
       jyutping: 'dik1 si2',
       share: 70,
       note: 'This is the all-purpose Cantonese noun for a taxi or cab.',
-      example: ex(
+      example: shown(
         'We called a cab to the airport.',
         '我哋叫咗部的士去機場。',
         'ngo5 dei6 giu3 zo2 bou6 dik1 si2 heoi3 gei1 coeng4',
@@ -271,7 +280,7 @@ test('toJsonl reads the pages: order, id-less entries, fallbacks and the example
       share: 0,
       register: 'abbreviation',
       note: 'Short for Thursday.',
-      example: ex('Thurs and Thursday are the same day.', '星期四就係週四。', 'sing1 kei4 sei3 zau6 hai6 zau1 sei3'),
+      example: shown('Thurs and Thursday are the same day.', '星期四就係週四。', 'sing1 kei4 sei3 zau6 hai6 zau1 sei3'),
     },
   ])
 })
@@ -302,7 +311,12 @@ test('toCsv shows the first sentence of the entry, and none for an entry with no
   const path = 'cantonese/的士_noun_ppppppp1.json'
   const page = JSON.parse(files[path])
   const [first] = page.english[0].exampleSentences
-  const other = { english: 'The Cabbage was cheap.', traditional: '椰菜好平。', jyutping: 'je4 coi3 hou2 peng4' }
+  const other = {
+    id: 'sssssss2',
+    english: 'The Cabbage was cheap.',
+    traditional: '椰菜好平。',
+    jyutping: 'je4 coi3 hou2 peng4',
+  }
   page.english[0].exampleSentences = [first, other]
   page.english.push({ word: 'off', meaning: 'taxi', exampleSentences: [] })
   files[path] = JSON.stringify(page, null, 2) + '\n'
