@@ -1598,7 +1598,12 @@ test('an example sentence id of the wrong shape', () => {
 test('two example sentences with one id on a page', () => {
   const errors = checkWith(
     editCabPageSentences(sentences =>
-      sentences.push({ id: 'sssssss1', english: 'The cab is late.', traditional: '架的士遲咗。', jyutping: 'gaa3 dik1 si2 ci4 zo2' }),
+      sentences.push({
+        id: 'sssssss1',
+        english: 'The cab is late.',
+        traditional: '架的士遲咗。',
+        jyutping: 'gaa3 dik1 si2 ci4 zo2',
+      }),
     ),
   )
   assert.deepEqual(errors, [`${CAB_PAGE}: example sentence id "sssssss1" is used twice on this page`])

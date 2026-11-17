@@ -36,7 +36,11 @@ test('collectTakenIds: page ids, English entry ids, sentence ids and pages-by-id
       jyutping: 'dik1 si2',
       meaning: 'taxi',
       english: [
-        { id: 'aaaaaaa1', word: 'cab', exampleSentences: [{ id: 'sssssss1', english: 'e', traditional: 't', jyutping: 'j' }] },
+        {
+          id: 'aaaaaaa1',
+          word: 'cab',
+          exampleSentences: [{ id: 'sssssss1', english: 'e', traditional: 't', jyutping: 'j' }],
+        },
         { word: 'taxi', exampleSentences: [] },
       ],
     }),

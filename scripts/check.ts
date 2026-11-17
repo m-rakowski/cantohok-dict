@@ -231,7 +231,8 @@ function checkSentenceIds(pages: CheckedPage[], errors: string[]): void {
     for (const entry of page.file.english)
       for (const sentence of entry.exampleSentences) {
         if (sentence.id === undefined) continue
-        if (seen.has(sentence.id)) errors.push(`${page.path}: example sentence id "${sentence.id}" is used twice on this page`)
+        if (seen.has(sentence.id))
+          errors.push(`${page.path}: example sentence id "${sentence.id}" is used twice on this page`)
         seen.add(sentence.id)
       }
   }

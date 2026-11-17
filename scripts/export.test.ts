@@ -311,7 +311,12 @@ test('toCsv shows the first sentence of the entry, and none for an entry with no
   const path = 'cantonese/的士_noun_ppppppp1.json'
   const page = JSON.parse(files[path])
   const [first] = page.english[0].exampleSentences
-  const other = { id: 'sssssss2', english: 'The Cabbage was cheap.', traditional: '椰菜好平。', jyutping: 'je4 coi3 hou2 peng4' }
+  const other = {
+    id: 'sssssss2',
+    english: 'The Cabbage was cheap.',
+    traditional: '椰菜好平。',
+    jyutping: 'je4 coi3 hou2 peng4',
+  }
   page.english[0].exampleSentences = [first, other]
   page.english.push({ word: 'off', meaning: 'taxi', exampleSentences: [] })
   files[path] = JSON.stringify(page, null, 2) + '\n'
