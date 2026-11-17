@@ -136,7 +136,7 @@ const ex = (english: string, traditional: string, jyutping: string) => ({ englis
 /**
  * A fixture whose pages differ from its word files: the word files know only the
  * three original rows, while the pages also hold entries an editor added (no id),
- * a second page for the same word, a page register, and a frequency `order` that disagrees with the
+ * a second page for the same word, and a frequency `order` that disagrees with the
  * order of the word file. Only an export that reads the pages gets all of it right.
  */
 function pagesFixture(): Record<string, string> {
@@ -150,11 +150,10 @@ function pagesFixture(): Record<string, string> {
     partOfSpeech: 'noun',
     traditional: '星期四',
     jyutping: 'sing1 kei4 sei3',
-    meaning: 'weekday name',
-    register: 'formal',
     english: [
       {
         word: 'Thurs',
+        meaning: 'weekday name',
         register: 'abbreviation',
         note: 'Short for Thursday.',
         exampleSentences: [
@@ -163,6 +162,7 @@ function pagesFixture(): Record<string, string> {
       },
       {
         word: 'Thursday',
+        meaning: 'weekday name',
         exampleSentences: [ex('Thursday is busy.', '星期四好忙。', 'sing1 kei4 sei3 hou2 mong4')],
       },
     ],
@@ -172,8 +172,7 @@ function pagesFixture(): Record<string, string> {
     partOfSpeech: 'noun',
     traditional: '週四',
     jyutping: 'zau1 sei3',
-    meaning: 'fourth weekday',
-    english: [{ word: 'Thursday', note: 'Used in writing.', exampleSentences: [] }],
+    english: [{ word: 'Thursday', meaning: 'fourth weekday', note: 'Used in writing.', exampleSentences: [] }],
   })
   const lookup = JSON.parse(files['pages-by-id.json'])
   lookup.ppppppp0 = 'ppppppp0'
@@ -208,8 +207,7 @@ test('toJsonl reads the pages: order, id-less entries, fallbacks and the example
       example: ex('See you on Thursday.', '星期四見。', 'sing1 kei4 sei3 gin3'),
     },
     {
-      // no order: sorted by page id (ppppppp0 before ppppppp3); composite id, zero shares,
-      // meaning from the page, no register (the page's "formal" is not the entry's)
+      // no order: sorted by page id (ppppppp0 before ppppppp3); composite id, zero shares
       id: 'ppppppp0:Thursday',
       ...thursday,
       meaning: 'fourth weekday',
@@ -306,7 +304,7 @@ test('toCsv shows the first sentence of the entry, and none for an entry with no
   const [first] = page.english[0].exampleSentences
   const other = { english: 'The Cabbage was cheap.', traditional: '椰菜好平。', jyutping: 'je4 coi3 hou2 peng4' }
   page.english[0].exampleSentences = [first, other]
-  page.english.push({ word: 'off', exampleSentences: [] })
+  page.english.push({ word: 'off', meaning: 'taxi', exampleSentences: [] })
   files[path] = JSON.stringify(page, null, 2) + '\n'
   const rows = toCsv(loadValidRepo(writeTree(files))).split('\n')
   const cab = rows.find(line => line.startsWith('aaaaaaa1,'))

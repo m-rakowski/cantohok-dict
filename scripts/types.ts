@@ -26,33 +26,31 @@ export interface WordFile {
 }
 
 /**
- * One English word on a page. `exampleSentences` are the sentences shown with
+ * One English word on a page, with its own meaning. `exampleSentences` are the sentences shown with
  * this word (always present, possibly empty). An entry with an `id` is the page's copy of that
  * row in words/ (and `meaning`, `note` and `register` repeat the row's); an
- * entry with only a `word` is one an editor added.
+ * entry without an `id` is one an editor added.
  */
 export interface EnglishEntry {
   word: string
   id?: string
-  meaning?: string
+  meaning: string
   note?: string
   register?: string
   exampleSentences: Example[]
 }
 
 /**
- * A Cantonese word page: cantonese/<traditional>_<partOfSpeech>_<id>.json. It has one reading and exactly one
- * meaning; a second meaning of the same word is a second page file.
+ * A Cantonese word page: cantonese/<traditional>_<partOfSpeech>_<id>.json. It has one reading and one sense; a second
+ * sense of the same word is a second page file. The page has no meaning, note or register of its own: each English
+ * entry carries its own.
  */
 export interface PageFile {
   id: string
   traditional: string
   partOfSpeech: string
   jyutping: string
-  meaning: string
   english: EnglishEntry[]
-  note?: string
-  register?: string
 }
 
 /** The link lookup (pages-by-id.json): every English row id and every page id, mapped to a page id. */

@@ -115,7 +115,6 @@ function mapRowToPage(files: Record<string, string>, id: string): void {
         partOfSpeech,
         traditional,
         jyutping,
-        meaning: row.meaning,
         english: [],
       }
   page.english.push(entry)
@@ -877,17 +876,6 @@ test('a page with a boxes key fails the schema', () => {
   )
 })
 
-test('a page with no meaning fails the schema', () => {
-  assert.deepEqual(
-    checkWith(
-      editPage(CAB_PAGE, page => {
-        delete page.meaning
-      }),
-    ),
-    [`${CAB_PAGE}: (root) must have required property 'meaning'`],
-  )
-})
-
 test('page with no English word', () => {
   assert.deepEqual(
     checkWith(
@@ -968,12 +956,12 @@ test('a page with a blank jyutping is refused by the schema', () => {
   )
 })
 
-test('two pages with the same word, part of speech and reading but different meanings pass', () => {
+test('two pages with the same word, part of speech and reading but different English words pass', () => {
   assert.deepEqual(
     checkWith(files => {
       files['cantonese/的士_noun_wxyz5678.json'] = cabPageCopy(files)
         .replace('ppppppp1', 'wxyz5678')
-        .replace('"meaning": "taxi",\n  "english"', '"meaning": "taxi stand",\n  "english"')
+        .replace('"word": "cab"', '"word": "taxi"')
       editLookup(lookup => {
         lookup.wxyz5678 = 'wxyz5678'
       })(files)
@@ -982,16 +970,48 @@ test('two pages with the same word, part of speech and reading but different mea
   )
 })
 
-test('two pages with the same word, part of speech, reading and meaning', () => {
-  const copy = 'cantonese/的士_noun_wxyz5678.json'
+test('a second sense that uses the same English word with another meaning passes', () => {
   assert.deepEqual(
     checkWith(files => {
-      files[copy] = cabPageCopy(files).replace('ppppppp1', 'wxyz5678')
+      files['cantonese/的士_noun_wxyz5678.json'] = cabPageCopy(files)
+        .replace('ppppppp1', 'wxyz5678')
+        .replace('"meaning": "taxi"', '"meaning": "driver of a taxi"')
       editLookup(lookup => {
         lookup.wxyz5678 = 'wxyz5678'
       })(files)
     }),
-    [`${copy}: same word, part of speech, reading and meaning (的士 noun dik1 si2 taxi) as ${CAB_PAGE}`],
+    [],
+  )
+})
+
+test('two pages with the same word, part of speech, reading and English words and meanings, in any order', () => {
+  const copy = 'cantonese/的士_noun_wxyz5678.json'
+  assert.deepEqual(
+    checkWith(files => {
+      editPage(CAB_PAGE, page => {
+        page.english.push({ word: 'taxi', meaning: 'taxi', exampleSentences: [] })
+      })(files)
+      const copied = JSON.parse(cabPageCopy(files).replace('ppppppp1', 'wxyz5678'))
+      copied.english.reverse()
+      files[copy] = JSON.stringify(copied, null, 2) + '\n'
+      editLookup(lookup => {
+        lookup.wxyz5678 = 'wxyz5678'
+      })(files)
+    }),
+    [
+      `${copy}: same word, part of speech, reading, English words and meanings (的士 noun dik1 si2 cab: taxi · taxi: taxi) as ${CAB_PAGE}`,
+    ],
+  )
+})
+
+test('an English entry with no meaning is refused', () => {
+  assert.deepEqual(
+    checkWith(
+      editPage(CAB_PAGE, page => {
+        delete page.english[0].meaning
+      }),
+    ),
+    [`${CAB_PAGE}: /english/0 must have required property 'meaning'`],
   )
 })
 
@@ -1374,28 +1394,17 @@ test('a page file that fails its schema reports once', () => {
   )
 })
 
-test('note rules apply on the page', () => {
-  assert.deepEqual(
-    checkWith(
-      editPage(THURSDAY_PAGE, page => {
-        page.note = 'See sense 2.'
-      }),
-    ),
-    ['cantonese/星期四_noun_ppppppp3.json: note points at a numbered sense ("sense 2")'],
-  )
-})
-
-test('note rule sees every English word on the page', () => {
-  assert.deepEqual(
-    checkWith(
-      editPage(CAB_PAGE, page => {
-        page.english.push({ word: 'cab', exampleSentences: [] }, { word: 'slice', exampleSentences: [] })
-        page.note = 'Say it for a slice of the fare.'
-      }),
-    ),
-    [],
-  )
-})
+for (const field of ['meaning', 'note', 'register'])
+  test(`a page with a ${field} of its own is refused (each English entry carries its own)`, () => {
+    assert.deepEqual(
+      checkWith(
+        editPage(THURSDAY_PAGE, page => {
+          page[field] = 'day of the week'
+        }),
+      ),
+      [`${THURSDAY_PAGE}: (root) must NOT have additional properties "${field}"`],
+    )
+  })
 
 test('placeholder letter in a page example', () => {
   assert.deepEqual(
@@ -1413,10 +1422,10 @@ test('placeholder letter in a page example', () => {
 test('English entry ids are unique across pages', () => {
   const errors = checkWith(files => {
     editPage(CAB_PAGE, page => {
-      page.english.push({ word: 'taxi', exampleSentences: [], id: 'ddddddd1' })
+      page.english.push({ word: 'taxi', meaning: 'taxi', exampleSentences: [], id: 'ddddddd1' })
     })(files)
     editPage(THURSDAY_PAGE, page => {
-      page.english.push({ word: 'taxi', exampleSentences: [], id: 'ddddddd1' })
+      page.english.push({ word: 'taxi', meaning: 'taxi', exampleSentences: [], id: 'ddddddd1' })
     })(files)
     editLookup(lookup => {
       lookup.ddddddd1 = 'ppppppp1'
@@ -1432,7 +1441,7 @@ test('English entry id equal to a page id', () => {
   assert.deepEqual(
     checkWith(
       editPage(CAB_PAGE, page => {
-        page.english.push({ word: 'taxi', exampleSentences: [], id: 'ppppppp2' })
+        page.english.push({ word: 'taxi', meaning: 'taxi', exampleSentences: [], id: 'ppppppp2' })
       }),
     ),
     [
@@ -1471,7 +1480,7 @@ test('an entry with only a word sits beside a full entry', () => {
   assert.deepEqual(
     checkWith(
       editPage(CAB_PAGE, page => {
-        page.english.push({ word: 'taxi', exampleSentences: [] })
+        page.english.push({ word: 'taxi', meaning: 'taxi', exampleSentences: [] })
       }),
     ),
     [],
@@ -1501,7 +1510,7 @@ test('an English entry note is held to the note rules', () => {
   assert.deepEqual(
     checkWith(
       editPage(CAB_PAGE, page => {
-        page.english.push({ word: 'taxi', exampleSentences: [], note: 'See sense 2.' })
+        page.english.push({ word: 'taxi', meaning: 'taxi', exampleSentences: [], note: 'See sense 2.' })
       }),
     ),
     [`${CAB_PAGE}: English entry "taxi" note points at a numbered sense ("sense 2")`],
@@ -1512,7 +1521,7 @@ test('an English entry with an unknown field is refused by the schema', () => {
   assert.deepEqual(
     checkWith(
       editPage(THURSDAY_PAGE, page => {
-        page.english.push({ word: 'Thu', color: 'red', exampleSentences: [] })
+        page.english.push({ word: 'Thu', meaning: 'day of the week', color: 'red', exampleSentences: [] })
       }),
     ),
     [`${THURSDAY_PAGE}: /english/1 must NOT have additional properties "color"`],
@@ -1534,7 +1543,7 @@ test('a page may drop one of its entries while the row stays in words/', () => {
   assert.deepEqual(
     checkWith(
       editPage(CAB_PAGE, page => {
-        page.english = [{ word: 'taxi', exampleSentences: [] }]
+        page.english = [{ word: 'taxi', meaning: 'taxi', exampleSentences: [] }]
       }),
     ),
     [],

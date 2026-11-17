@@ -66,7 +66,6 @@ export function validFixture(): Record<string, string> {
     'cantonese/的士_noun_ppppppp1.json': `{
   "id": "ppppppp1",
   "partOfSpeech": "noun",
-  "meaning": "taxi",
   "english": [
     {
       "id": "aaaaaaa1",
@@ -89,7 +88,6 @@ export function validFixture(): Record<string, string> {
     'cantonese/車頭_noun_ppppppp2.json': `{
   "id": "ppppppp2",
   "partOfSpeech": "noun",
-  "meaning": "taxi",
   "english": [
     {
       "id": "aaaaaaa2",
@@ -101,14 +99,12 @@ export function validFixture(): Record<string, string> {
     }
   ],
   "traditional": "車頭",
-  "jyutping": "ce1 tau4",
-  "register": "colloquial"
+  "jyutping": "ce1 tau4"
 }
 `,
     'cantonese/星期四_noun_ppppppp3.json': `{
   "id": "ppppppp3",
   "partOfSpeech": "noun",
-  "meaning": "day of the week",
   "english": [
     {
       "id": "bbbbbbb1",
