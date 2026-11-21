@@ -515,6 +515,7 @@ test('pictures.json photo with a license that is not on the free list', () => {
     }),
     [
       'pictures.json: /ppppppp1/0/license must be equal to one of the allowed values: CC0, Public domain, No restrictions, Copyrighted free use, CC BY 2.0, CC BY 2.5, CC BY 3.0, CC BY 4.0, CC BY-SA 2.0, CC BY-SA 2.5, CC BY-SA 3.0, CC BY-SA 4.0, CC BY-SA 2.0 de, CC BY 2.5 cn',
+      'pictures.json: /ppppppp1/0 must match "then" schema',
     ],
   )
 })
@@ -527,6 +528,7 @@ test('pictures.json "CC BY" photo with no author', () => {
     [
       "pictures.json: /ppppppp1/0 must have required property 'author'",
       'pictures.json: /ppppppp1/0 must match "then" schema',
+      'pictures.json: /ppppppp1/0 must match "then" schema',
     ],
   )
 })
@@ -536,7 +538,10 @@ test('pictures.json photo with a blank author', () => {
     checkPictures(pictures => {
       pictures.ppppppp1 = [{ author: ' ', commons: 1, license: 'CC0' }]
     }),
-    ['pictures.json: /ppppppp1/0/author must match pattern "\\S"'],
+    [
+      'pictures.json: /ppppppp1/0/author must match pattern "\\S"',
+      'pictures.json: /ppppppp1/0 must match "then" schema',
+    ],
   )
 })
 
@@ -545,7 +550,10 @@ test('pictures.json photo with an unknown field', () => {
     checkPictures(pictures => {
       pictures.ppppppp1 = [{ commons: 1, license: 'CC0', url: 'https://example.com/a.jpg' }]
     }),
-    ['pictures.json: /ppppppp1/0 must NOT have additional properties "url"'],
+    [
+      'pictures.json: /ppppppp1/0 must NOT have additional properties "url"',
+      'pictures.json: /ppppppp1/0 must match "then" schema',
+    ],
   )
 })
 
@@ -567,6 +575,92 @@ test('pictures.json page listing one Commons file twice', () => {
       ]
     }),
     ['pictures.json: page "ppppppp1" lists Commons file 12345 twice'],
+  )
+})
+
+const PEXELS_PHOTO = { author: 'Pixabay', file: 'beer-ale-bitter-fermented-52994.jpeg', pexels: 52994 }
+
+test('pictures.json Pexels photo, alone and beside a Commons photo with the same number', () => {
+  assert.deepEqual(
+    checkPictures(pictures => {
+      pictures.ppppppp1 = [PEXELS_PHOTO, { commons: 52994, license: 'CC0' }]
+    }),
+    [],
+  )
+})
+
+test('pictures.json Pexels photo with no author', () => {
+  assert.deepEqual(
+    checkPictures(pictures => {
+      pictures.ppppppp1 = [{ file: PEXELS_PHOTO.file, pexels: PEXELS_PHOTO.pexels }]
+    }),
+    [
+      "pictures.json: /ppppppp1/0 must have required property 'author'",
+      'pictures.json: /ppppppp1/0 must match "else" schema',
+    ],
+  )
+})
+
+test('pictures.json Pexels photo with no file', () => {
+  assert.deepEqual(
+    checkPictures(pictures => {
+      pictures.ppppppp1 = [{ author: 'Pixabay', pexels: 52994 }]
+    }),
+    [
+      "pictures.json: /ppppppp1/0 must have required property 'file'",
+      'pictures.json: /ppppppp1/0 must match "else" schema',
+    ],
+  )
+})
+
+test('pictures.json Pexels photo whose file is a path or not an image', () => {
+  assert.deepEqual(
+    checkPictures(pictures => {
+      pictures.ppppppp1 = [
+        { ...PEXELS_PHOTO, file: '../52994.jpeg' },
+        { ...PEXELS_PHOTO, pexels: 7, file: 'a-7.gif' },
+      ]
+    }),
+    [
+      'pictures.json: /ppppppp1/0/file must match pattern "^[A-Za-z0-9][A-Za-z0-9._-]*\\.(jpeg|jpg|png)$"',
+      'pictures.json: /ppppppp1/0 must match "else" schema',
+      'pictures.json: /ppppppp1/1/file must match pattern "^[A-Za-z0-9][A-Za-z0-9._-]*\\.(jpeg|jpg|png)$"',
+      'pictures.json: /ppppppp1/1 must match "else" schema',
+    ],
+  )
+})
+
+test('pictures.json photo naming both a Commons and a Pexels photo', () => {
+  assert.deepEqual(
+    checkPictures(pictures => {
+      pictures.ppppppp1 = [{ ...PEXELS_PHOTO, commons: 1, license: 'CC0' }]
+    }),
+    [
+      'pictures.json: /ppppppp1/0 must NOT have additional properties "file"',
+      'pictures.json: /ppppppp1/0 must NOT have additional properties "pexels"',
+      'pictures.json: /ppppppp1/0 must match "then" schema',
+    ],
+  )
+})
+
+test('pictures.json Pexels photo with a license', () => {
+  assert.deepEqual(
+    checkPictures(pictures => {
+      pictures.ppppppp1 = [{ ...PEXELS_PHOTO, license: 'CC0' }]
+    }),
+    [
+      'pictures.json: /ppppppp1/0 must NOT have additional properties "license"',
+      'pictures.json: /ppppppp1/0 must match "else" schema',
+    ],
+  )
+})
+
+test('pictures.json page listing one Pexels photo twice', () => {
+  assert.deepEqual(
+    checkPictures(pictures => {
+      pictures.ppppppp1 = [PEXELS_PHOTO, PEXELS_PHOTO]
+    }),
+    ['pictures.json: page "ppppppp1" lists Pexels photo 52994 twice'],
   )
 })
 

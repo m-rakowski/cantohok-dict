@@ -44,15 +44,23 @@ files are laid out and the steps to change them.
 - `aliases.json` — other spellings or forms of a word that should lead to it,
   for example `"child": ["children"]`. Only words that have another form
   listed here appear in this file.
-- `pictures.json` — photos picked by hand from
-  [Wikimedia Commons](https://commons.wikimedia.org) to show a page's word,
-  keyed by the page's `id`, in the order they are shown. Each photo is the
-  Commons file's page id (the number in
-  `https://commons.wikimedia.org/?curid=<id>`), its license and its author,
-  copied from the file's Commons page. Only free licenses are accepted (the
-  list is in `schema/pictures.schema.json`), and every "CC BY" license needs
-  the author's name. The photos themselves are not in this repo: only the ids
-  and the credits are.
+- `pictures.json` — photos that show a page's word, keyed by the page's `id`,
+  in the order they are shown. A photo comes from one of two places:
+  - [Wikimedia Commons](https://commons.wikimedia.org), for things that look
+    different in Hong Kong or Macau: `commons` is the file's page id (the
+    number in `https://commons.wikimedia.org/?curid=<id>`), with its `license`
+    and `author` copied from the file's Commons page. Only free licenses are
+    accepted (the list is in `schema/pictures.schema.json`), and every
+    "CC BY" license needs the author's name.
+  - [Pexels](https://www.pexels.com), for everyday things: `pexels` is the
+    photo's id (the number in `https://www.pexels.com/photo/<id>/`), `file`
+    its file name under `https://images.pexels.com/photos/<id>/`, and
+    `author` the photographer. Every Pexels photo is under the
+    [Pexels License](https://www.pexels.com/license/).
+
+  The photos themselves are not in this repo: only the ids and the credits
+  are.
+
 - `schema/` — a set of rules (JSON Schema) that every file above must follow.
   If your editor is set up (see below), it warns you the moment a field is
   missing or misspelled, before you even save.

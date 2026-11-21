@@ -36,10 +36,11 @@ the words.
 ## Photos
 
 `pictures.json` names photos from [Wikimedia Commons](https://commons.wikimedia.org)
-that show some of the words. Each photo belongs to its author and is under its
-own license, both listed beside it in `pictures.json`; this dictionary's
-license does not cover them. The repo holds only each photo's Commons id and
-its credit, not the photo itself.
+and [Pexels](https://www.pexels.com) that show some of the words. Each photo
+belongs to its author. A Commons photo is under its own license, listed beside
+it; a Pexels photo is under the [Pexels License](https://www.pexels.com/license/).
+This dictionary's license does not cover them. The repo holds only each photo's
+id and its credit, not the photo itself.
 
 ## License
 

@@ -53,13 +53,14 @@
 //   file's term.
 // - Every term used as a key in aliases.json must likewise be some page
 //   entry's word or a legacy word file's term.
-// - pictures.json (hand-picked Wikimedia Commons photos) must exist and match
+// - pictures.json (hand-picked photos) must exist and match
 //   schema/pictures.schema.json: each key is a page id, each value the page's
-//   photos in display order, each photo a Commons file id, its license (one of
-//   the free licenses the schema lists) and its author, which every "CC BY"
-//   license requires. Every key must be a page file's own id (an old id that
-//   pages-by-id.json maps to a page is not enough), and no page may list the
-//   same Commons file twice.
+//   photos in display order. A photo is either a Wikimedia Commons file (its
+//   id, its license, one of the free licenses the schema lists, and its author,
+//   which every "CC BY" license requires) or a Pexels photo (its id, its file
+//   name on images.pexels.com and its photographer). Every key must be a page
+//   file's own id (an old id that pages-by-id.json maps to a page is not
+//   enough), and no page may list the same photo twice.
 // - Rows in the same word's file that share the same partOfSpeech and
 //   meaning (so, the same sense of the word) must all list the same
 //   meaningShare number in frequency.json.
@@ -442,7 +443,7 @@ function checkAliases(root: string, words: CheckedWord[], pages: CheckedPage[], 
 }
 
 /**
- * Every pictures.json key is a page file's own id, and no page lists one Commons file twice. As in
+ * Every pictures.json key is a page file's own id, and no page lists one photo twice. As in
  * checkPageLookup, while a page without a usable id exists (already reported) the "not a page id"
  * rule stays quiet, since that page's id cannot be known.
  */
@@ -453,10 +454,11 @@ function checkPictures(root: string, pages: CheckedPage[], errors: string[]): vo
   const someIdUnknown = pages.some(({ id }) => id === null)
   for (const [pageId, photos] of Object.entries(json)) {
     if (!someIdUnknown && !pageIds.has(pageId)) errors.push(`pictures.json: "${pageId}" is not a page id`)
-    const seen = new Set<number>()
-    for (const { commons } of photos) {
-      if (seen.has(commons)) errors.push(`pictures.json: page "${pageId}" lists Commons file ${commons} twice`)
-      seen.add(commons)
+    const seen = new Set<string>()
+    for (const photo of photos) {
+      const name = 'commons' in photo ? `Commons file ${photo.commons}` : `Pexels photo ${photo.pexels}`
+      if (seen.has(name)) errors.push(`pictures.json: page "${pageId}" lists ${name} twice`)
+      seen.add(name)
     }
   }
 }
