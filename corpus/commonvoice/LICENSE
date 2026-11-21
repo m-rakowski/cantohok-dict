@@ -1,0 +1,9 @@
+The sentences in this folder come from Mozilla Common Voice, Cantonese (yue), and are
+dedicated to the public domain under CC0 1.0: https://creativecommons.org/publicdomain/zero/1.0/
+
+Source: https://commonvoice.mozilla.org/yue and https://github.com/common-voice/common-voice.
+Each line is named by its Common Voice clip.
+
+The `jyutping` and `english` fields are not part of Common Voice. They were added by this
+repository (the reading by ToJyutping, the English by machine translation) and are covered
+by its license, CC BY-SA 4.0 (see ../README.md).

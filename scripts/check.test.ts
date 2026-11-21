@@ -154,6 +154,8 @@ test('the valid fixture passes', () => {
 test("every fixture file is already in Prettier's canonical layout", async () => {
   const files = validFixture()
   for (const [path, contents] of Object.entries(files)) {
+    // Prettier reads neither a LICENSE nor .jsonl; scripts/corpus.ts owns those lines' form.
+    if (path.startsWith('corpus/')) continue
     const formatted = await format(contents, { ...prettierConfig, filepath: path })
     assert.equal(formatted, contents, path)
   }

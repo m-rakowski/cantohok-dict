@@ -1,0 +1,43 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "additionalProperties": false,
+  "description": "One sentence of Mozilla Common Voice, Cantonese (CC0 1.0), named by its clip, with the reading generated for it and a machine translation into English.",
+  "properties": {
+    "id": {
+      "pattern": "^common_voice_yue_[0-9]+$",
+      "type": "string"
+    },
+    "english": {
+      "items": {
+        "additionalProperties": false,
+        "properties": {
+          "by": {
+            "const": "machine"
+          },
+          "text": {
+            "minLength": 1,
+            "type": "string"
+          }
+        },
+        "required": ["by", "text"],
+        "type": "object"
+      },
+      "minItems": 1,
+      "type": "array"
+    },
+    "jyutping": {
+      "minLength": 1,
+      "type": "string"
+    },
+    "jyutpingBy": {
+      "const": "tojyutping"
+    },
+    "text": {
+      "minLength": 1,
+      "type": "string"
+    }
+  },
+  "required": ["english", "id", "jyutping", "jyutpingBy", "text"],
+  "title": "corpus/commonvoice line",
+  "type": "object"
+}

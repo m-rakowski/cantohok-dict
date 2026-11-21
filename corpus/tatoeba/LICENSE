@@ -1,0 +1,10 @@
+The sentences in this folder, and the English translations linked to them, come from
+Tatoeba (https://tatoeba.org) and are licensed under Creative Commons Attribution 2.0
+France (CC BY 2.0 FR): https://creativecommons.org/licenses/by/2.0/fr/
+
+Each sentence and each translation is credited to the Tatoeba user who wrote it, in
+`author` and `english[].by`. Where Tatoeba records no username, the field is null and the
+credit is "Tatoeba contributors". A sentence's page is https://tatoeba.org/en/sentences/show/<id>.
+
+The `jyutping` field is not part of Tatoeba. It is covered by this repository's license,
+CC BY-SA 4.0 (see ../README.md).
