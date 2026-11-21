@@ -66,11 +66,23 @@ export interface FrequencyFile {
 export type AliasesFile = Record<string, string[]>
 
 /** One hand-picked Wikimedia Commons photo: the file's page id (https://commons.wikimedia.org/?curid=<commons>), its license and its author. */
-export interface PicturePhoto {
+export interface CommonsPhoto {
   commons: number
   author?: string
   license: string
 }
+
+/**
+ * One Pexels photo (https://www.pexels.com/photo/<pexels>/), under the Pexels License: its id, its
+ * file name on https://images.pexels.com/photos/<pexels>/ and its photographer.
+ */
+export interface PexelsPhoto {
+  pexels: number
+  file: string
+  author: string
+}
+
+export type PicturePhoto = CommonsPhoto | PexelsPhoto
 
 /** pictures.json: a page id → that page's photos, in display order. */
 export type PicturesFile = Record<string, PicturePhoto[]>
