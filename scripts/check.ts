@@ -78,8 +78,9 @@
 import { existsSync, readFileSync } from 'node:fs'
 import { join } from 'node:path'
 import { Ajv2020 } from 'ajv/dist/2020.js'
-import type { ErrorObject, ValidateFunction } from 'ajv'
+import type { ValidateFunction } from 'ajv'
 import { checkCorpus } from './corpus.ts'
+import { formatSchemaError } from './schema-errors.ts'
 import { listPageFiles, listWordFiles } from './repo.ts'
 import { noteProblems, placeholderLetters } from './shown-text.ts'
 import {
@@ -113,18 +114,6 @@ const validatePictures = ajv.compile(picturesSchema)
 
 const isObject = (v: unknown): v is Record<string, unknown> => typeof v === 'object' && v !== null && !Array.isArray(v)
 const isFilled = (v: unknown): v is string => typeof v === 'string' && v.trim() !== ''
-
-/** Formats one Ajv error the way every schema failure is reported: `<path>: <instancePath or "(root)"> <message>`, plus the offending field name for `additionalProperties`. */
-function formatSchemaError(path: string, error: ErrorObject): string {
-  const where = error.instancePath === '' ? '(root)' : error.instancePath
-  const extra =
-    error.keyword === 'additionalProperties'
-      ? ` "${(error.params as { additionalProperty: string }).additionalProperty}"`
-      : error.keyword === 'enum'
-        ? `: ${(error.params as { allowedValues: string[] }).allowedValues.join(', ')}`
-        : ''
-  return `${path}: ${where} ${error.message}${extra}`
-}
 
 function runSchema(path: string, json: unknown, validate: ValidateFunction, errors: string[]): boolean {
   if (validate(json)) return true

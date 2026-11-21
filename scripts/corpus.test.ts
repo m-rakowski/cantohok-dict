@@ -129,3 +129,59 @@ test('a missing LICENSE, a stray file, and a file without its last newline', () 
     ],
   )
 })
+
+test('keys out of order are refused even with no spaces', () => {
+  assert.deepEqual(
+    checkWith(files => {
+      const { id, text, ...rest } = parse(files, TATOEBA)
+      files[TATOEBA] = `${JSON.stringify({ text, id, ...rest })}\n`
+    }),
+    ['corpus/tatoeba/08.jsonl:1: not in canonical form (keys sorted, no spaces)'],
+  )
+})
+
+test('Tatoeba ids sort numerically: 9 before 10 passes, 10 before 9 does not', () => {
+  const two = (first: string, second: string) =>
+    checkWith(files => {
+      const value = parse(files, TATOEBA)
+      delete files[TATOEBA]
+      files['corpus/tatoeba/aa.jsonl'] = `${line({ ...value, id: first })}${line({ ...value, id: second })}`
+    }).filter(error => !error.includes('belongs in'))
+  assert.deepEqual(two('9', '10'), [])
+  assert.deepEqual(two('10', '9'), ['corpus/tatoeba/aa.jsonl:2: id 9 is out of order after 10'])
+})
+
+test('a corpus reading cannot be emptied to null', () => {
+  assert.deepEqual(
+    checkWith(files => {
+      files[HKCANCOR] = line({ ...parse(files, HKCANCOR), jyutping: null })
+    }),
+    ['corpus/hkcancor/49.jsonl:1: /jyutping must be string'],
+  )
+})
+
+test('an uppercase syllable is not counted as one', () => {
+  assert.deepEqual(
+    checkWith(files => {
+      files[TATOEBA] = line({ ...parse(files, TATOEBA), jyutping: 'NGO5 DI1 LUNG4 HAI2 BIN1 DOU6 AA3？' })
+    }),
+    [
+      'corpus/tatoeba/08.jsonl:1: jyutping has 0 syllables for 7 (one per Han character, plus each toned Latin run in the text)',
+    ],
+  )
+})
+
+test('an unknown folder under corpus/, a folder inside a source, and an empty English list', () => {
+  assert.deepEqual(
+    checkWith(files => {
+      files['corpus/wiki/00.jsonl'] = 'garbage\n'
+      files['corpus/tatoeba/0b.jsonl/x'] = 'x'
+      files[TATOEBA] = line({ ...parse(files, TATOEBA), english: [] })
+    }),
+    [
+      'corpus/wiki: not a corpus source (expected README.md or one of tatoeba, hkcancor, hambaanglaang, commonvoice)',
+      'corpus/tatoeba/08.jsonl:1: /english must NOT have fewer than 1 items',
+      'corpus/tatoeba/0b.jsonl: not a corpus file (expected <two hex digits>.jsonl)',
+    ],
+  )
+})

@@ -40,11 +40,12 @@
         "required": ["by", "text"],
         "type": "object"
       },
+      "minItems": 1,
       "type": "array"
     },
     "jyutping": {
       "minLength": 1,
-      "type": ["string", "null"]
+      "type": "string"
     },
     "author": {
       "minLength": 1,

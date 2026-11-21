@@ -22,6 +22,7 @@
         "required": ["by", "text"],
         "type": "object"
       },
+      "minItems": 1,
       "type": "array"
     },
     "jyutping": {
