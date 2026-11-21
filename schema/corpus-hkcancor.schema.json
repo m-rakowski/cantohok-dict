@@ -1,0 +1,63 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "additionalProperties": false,
+  "description": "One sentence of the Hong Kong Cantonese Corpus (CC BY 4.0, Luke and Wong 2015), with the corpus's own words, readings and part-of-speech tags, and a machine translation into English.",
+  "properties": {
+    "words": {
+      "items": {
+        "additionalProperties": false,
+        "properties": {
+          "jyutping": {
+            "type": "string"
+          },
+          "pos": {
+            "type": "string"
+          },
+          "text": {
+            "minLength": 1,
+            "type": "string"
+          }
+        },
+        "required": ["jyutping", "pos", "text"],
+        "type": "object"
+      },
+      "minItems": 1,
+      "type": "array"
+    },
+    "id": {
+      "pattern": "^[0-9a-f]{16}$",
+      "type": "string"
+    },
+    "english": {
+      "items": {
+        "additionalProperties": false,
+        "properties": {
+          "by": {
+            "const": "machine"
+          },
+          "text": {
+            "minLength": 1,
+            "type": "string"
+          }
+        },
+        "required": ["by", "text"],
+        "type": "object"
+      },
+      "type": "array"
+    },
+    "jyutping": {
+      "minLength": 1,
+      "type": ["string", "null"]
+    },
+    "jyutpingBy": {
+      "const": "corpus"
+    },
+    "text": {
+      "minLength": 1,
+      "type": "string"
+    }
+  },
+  "required": ["english", "id", "jyutping", "jyutpingBy", "text", "words"],
+  "title": "corpus/hkcancor line",
+  "type": "object"
+}

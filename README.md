@@ -8,6 +8,7 @@ For thousands of English words, it gives you:
 - Jyutping, so you know how to say them
 - a short note on when to use each one
 - example sentences, kept inside the English word they show (`exampleSentences`)
+- about 35,000 real Cantonese sentences from open corpora, each with Jyutping and English ([corpus/](corpus/README.md))
 
 It was made with AI and hasn't been checked word by word yet, so expect mistakes, especially in the Jyutping. Fixes are very welcome.
 
@@ -34,6 +35,8 @@ Each release has:
 
 The dictionary has two trees: `cantonese/` has one page per Cantonese word, reading and meaning, which is what the site shows and what you edit. `words/` is **legacy**, organized by English word: the rows the pages were built from, kept for reference only, no longer used or edited (see [words/README.md](words/README.md)). They may group meanings differently, and that is expected.
 
+A wrong reading or translation in a real sentence? Find the sentence's line under `corpus/` (search for its text) and fix it there.
+
 Adding a new word or meaning? See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Where it comes from
@@ -42,4 +45,4 @@ This dictionary powers [CantoHok](https://cantohok.com), an app for learning Can
 
 ## License
 
-The dictionary is free to use and share under [CC BY-SA 4.0](LICENSE). It builds on Wiktionary, CC-Canto and other open sources, all listed in [CREDITS.md](CREDITS.md). The photos named in `pictures.json` keep their own authors and licenses: each Wikimedia Commons photo's license is listed beside it, and every Pexels photo is under the [Pexels License](https://www.pexels.com/license/). The scripts are MIT ([LICENSE-CODE](LICENSE-CODE)).
+The dictionary is free to use and share under [CC BY-SA 4.0](LICENSE). It builds on Wiktionary, CC-Canto and other open sources, all listed in [CREDITS.md](CREDITS.md). The sentences in `corpus/` keep their sources' licenses (CC BY 2.0 FR, CC BY 4.0, CC0 1.0), one `LICENSE` per folder; [corpus/README.md](corpus/README.md) says which license covers which field. The photos named in `pictures.json` keep their own authors and licenses: each Wikimedia Commons photo's license is listed beside it, and every Pexels photo is under the [Pexels License](https://www.pexels.com/license/). The scripts are MIT ([LICENSE-CODE](LICENSE-CODE)).

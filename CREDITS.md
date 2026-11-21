@@ -33,6 +33,22 @@ were chosen and graded using:
 None of their text is in these files — they were used only to pick and order
 the words.
 
+## Example sentences from open corpora
+
+The sentences in `corpus/` come from, and keep the licenses of:
+
+- [Tatoeba](https://tatoeba.org) (CC BY 2.0 FR), each sentence and translation credited to
+  its Tatoeba user
+- the Hong Kong Cantonese Corpus, K. K. Luke and May L. Y. Wong (2015), "The Hong Kong
+  Cantonese Corpus: Design and Uses" (CC BY 4.0), via https://github.com/fcbond/hkcancor
+- the [Hambaanglaang 冚唪唥粵文讀本](https://hambaanglaang.hk) graded readers (CC BY 4.0),
+  via https://github.com/hblhk/stories
+- [Mozilla Common Voice](https://commonvoice.mozilla.org/yue), Cantonese (CC0 1.0)
+
+Readings added to Tatoeba and Common Voice sentences were written by ToJyutping or chosen
+from the Jyutping sources above. [corpus/README.md](corpus/README.md) says which license
+covers which field.
+
 ## Photos
 
 `pictures.json` names photos from [Wikimedia Commons](https://commons.wikimedia.org)

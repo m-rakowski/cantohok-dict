@@ -1,0 +1,72 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "additionalProperties": false,
+  "description": "One sentence of a Hambaanglaang graded reader (CC BY 4.0): the story it comes from, the reader's own words and readings, and the reader's word-by-word English gloss.",
+  "properties": {
+    "words": {
+      "items": {
+        "additionalProperties": false,
+        "properties": {
+          "jyutping": {
+            "type": "string"
+          },
+          "text": {
+            "minLength": 1,
+            "type": "string"
+          }
+        },
+        "required": ["jyutping", "text"],
+        "type": "object"
+      },
+      "minItems": 1,
+      "type": "array"
+    },
+    "id": {
+      "pattern": "^[0-9A-Za-z]+#[0-9]{4}$",
+      "type": "string"
+    },
+    "english": {
+      "items": {
+        "additionalProperties": false,
+        "properties": {
+          "by": {
+            "const": "word by word"
+          },
+          "text": {
+            "minLength": 1,
+            "type": "string"
+          }
+        },
+        "required": ["by", "text"],
+        "type": "object"
+      },
+      "type": "array"
+    },
+    "jyutping": {
+      "minLength": 1,
+      "type": ["string", "null"]
+    },
+    "author": {
+      "minLength": 1,
+      "type": ["string", "null"]
+    },
+    "jyutpingBy": {
+      "const": "corpus"
+    },
+    "text": {
+      "minLength": 1,
+      "type": "string"
+    },
+    "title": {
+      "minLength": 1,
+      "type": "string"
+    },
+    "url": {
+      "pattern": "^https://",
+      "type": "string"
+    }
+  },
+  "required": ["author", "english", "id", "jyutping", "jyutpingBy", "text", "title", "url", "words"],
+  "title": "corpus/hambaanglaang line",
+  "type": "object"
+}

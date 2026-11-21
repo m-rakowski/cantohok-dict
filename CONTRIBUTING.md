@@ -61,6 +61,13 @@ files are laid out and the steps to change them.
   The photos themselves are not in this repo: only the ids and the credits
   are.
 
+- `corpus/<source>/<hh>.jsonl` — real sentences from four open corpora, one
+  sentence per line, each with its Jyutping and English. To fix a reading or a
+  translation, edit that line in place and keep it on one line, with the keys
+  in the same (sorted) order: `pnpm run check` refuses any other form. The
+  sentence's own text is the corpus's, so leave `text` as it is.
+  [corpus/README.md](corpus/README.md) has the line format and the licenses.
+
 - `schema/` — a set of rules (JSON Schema) that every file above must follow.
   If your editor is set up (see below), it warns you the moment a field is
   missing or misspelled, before you even save.

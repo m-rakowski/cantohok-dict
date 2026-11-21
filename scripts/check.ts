@@ -79,6 +79,7 @@ import { existsSync, readFileSync } from 'node:fs'
 import { join } from 'node:path'
 import { Ajv2020 } from 'ajv/dist/2020.js'
 import type { ErrorObject, ValidateFunction } from 'ajv'
+import { checkCorpus } from './corpus.ts'
 import { listPageFiles, listWordFiles } from './repo.ts'
 import { noteProblems, placeholderLetters } from './shown-text.ts'
 import {
@@ -535,6 +536,7 @@ export function checkRepo(root: string): string[] {
   checkMeaningShare(words, frequencyClean ? frequency : null, errors)
   checkShownText(words, errors)
   checkPageShownText(pages, errors)
+  errors.push(...checkCorpus(root))
   return errors
 }
 

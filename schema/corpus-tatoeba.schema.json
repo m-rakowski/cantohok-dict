@@ -1,0 +1,51 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "additionalProperties": false,
+  "description": "One Tatoeba sentence (CC BY 2.0 FR): its id on tatoeba.org, its text and contributor, the reading generated for it, and the English translations linked to it on Tatoeba with their own ids and contributors. A null author or translator means Tatoeba records no username.",
+  "properties": {
+    "id": {
+      "pattern": "^[1-9][0-9]*$",
+      "type": "string"
+    },
+    "english": {
+      "items": {
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "minimum": 1,
+            "type": "integer"
+          },
+          "by": {
+            "minLength": 1,
+            "type": ["string", "null"]
+          },
+          "text": {
+            "minLength": 1,
+            "type": "string"
+          }
+        },
+        "required": ["by", "id", "text"],
+        "type": "object"
+      },
+      "type": "array"
+    },
+    "jyutping": {
+      "minLength": 1,
+      "type": ["string", "null"]
+    },
+    "author": {
+      "minLength": 1,
+      "type": ["string", "null"]
+    },
+    "jyutpingBy": {
+      "enum": ["picker", "tojyutping"]
+    },
+    "text": {
+      "minLength": 1,
+      "type": "string"
+    }
+  },
+  "required": ["author", "english", "id", "jyutping", "jyutpingBy", "text"],
+  "title": "corpus/tatoeba line",
+  "type": "object"
+}
