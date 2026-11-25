@@ -12,11 +12,12 @@
 //   Windows (like "con" -> con_.json).
 // - No two words may have the same term, even if the capitalization differs.
 // - No two rows, anywhere in the dictionary, may share the same "id".
-// - Every Cantonese page file (cantonese/<traditional>_<partOfSpeech>_<id>.json)
+// - Every Cantonese page file (cantonese/<traditional>_<partOfSpeech>_<id>.json, or
+//   cantonese/<traditional>_<id>.json for a page with no English word)
 //   must be valid JSON and match schema/page.schema.json: at least one
 //   English word, no "boxes" key, and no meaning, note or register of the
 //   page's own (each English entry carries its own).
-// - A page's "partOfSpeech" must be one of 13 values: noun, verb, adj
+// - A page's "partOfSpeech" must be null (no English word) or one of 13 values: noun, verb, adj
 //   (adjective), adv (adverb), prep (preposition), pron (pronoun), det
 //   (determiner), conj (conjunction), num (number), name (a proper noun),
 //   intj (interjection), phrase, postp (postposition). It is the English word's
@@ -304,6 +305,9 @@ function checkPages(root: string, errors: string[]): CheckedPage[] {
         errors.push(
           `${path}: partOfSpeech is the English word's, so it must be null exactly when no English entry has a word`,
         )
+      // A page is one meaning; with no English word nothing labels a second entry, so a second meaning is a page of its own.
+      else if (json.partOfSpeech === null && json.english.length > 1)
+        errors.push(`${path}: a page with no English word has one entry; give each other meaning a page of its own`)
     }
     // A spelling the page already is would make search find the page twice by one word.
     if (isObject(json) && Array.isArray(json.variants) && json.variants.includes(json.traditional))
@@ -330,12 +334,14 @@ function checkPageReadings(pages: CheckedPage[], errors: string[]): void {
   const firstPath = new Map<string, string>()
   for (const { path, file } of pages) {
     if (!file) continue
-    const senses = file.english.map(entry => `${entry.word}: ${entry.meaning}`).sort()
+    const senses = file.english
+      .map(entry => (entry.word === null ? entry.meaning : `${entry.word}: ${entry.meaning}`))
+      .sort()
     const key = JSON.stringify([file.traditional, file.partOfSpeech, file.jyutping, senses])
     const earlier = firstPath.get(key)
     if (earlier)
       errors.push(
-        `${path}: same word, part of speech, reading, English words and meanings (${file.traditional} ${file.partOfSpeech} ${file.jyutping} ${senses.join(' · ')}) as ${earlier}`,
+        `${path}: same word, part of speech, reading, English words and meanings (${[file.traditional, file.partOfSpeech, file.jyutping].filter(part => part !== null).join(' ')} ${senses.join(' · ')}) as ${earlier}`,
       )
     else firstPath.set(key, path)
   }

@@ -44,7 +44,8 @@ export interface EnglishEntry {
 }
 
 /**
- * A Cantonese word page: cantonese/<traditional>_<partOfSpeech>_<id>.json. It has one reading and one sense; a second
+ * A Cantonese word page: cantonese/<traditional>_<partOfSpeech>_<id>.json (or <traditional>_<id>.json with no English
+ * word). It has one reading and one sense; a second
  * sense of the same word is a second page file. The page has no meaning, note or register of its own: each English
  * entry carries its own.
  */

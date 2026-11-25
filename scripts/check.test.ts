@@ -1841,3 +1841,12 @@ test('a page with no English part of speech named with one', () => {
 test('pagePath leaves the part of speech out of a page that has none', () => {
   assert.equal(pagePath('啊', null, 'ppppppp9'), AA_PAGE)
 })
+
+test('a page with no English word and two meanings', () => {
+  assert.deepEqual(
+    checkWith(
+      withNoEnglishPage(page => page.english.push({ word: null, meaning: 'friendly tone', exampleSentences: [] })),
+    ),
+    [`${AA_PAGE}: a page with no English word has one entry; give each other meaning a page of its own`],
+  )
+})

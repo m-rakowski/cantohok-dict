@@ -173,8 +173,10 @@ part of speech, one reading and one sense. Here is
   啊, most measure words, fillers. Their entries have `"word": null` and a
   `meaning` that says what the word does ("softens a question"), and the
   page's `partOfSpeech` is `null`. A page is either all English words or none:
-  `partOfSpeech` is null exactly when no entry has a word. The English exports
-  (`pnpm run export`) leave these entries out, since nothing English finds them.
+  `partOfSpeech` is null exactly when no entry has a word. Such a page has one
+  entry; another meaning of the word is a page of its own. The English exports
+  (`pnpm run export`) leave these entries out, since they have no English
+  headword to be listed under.
 - `variants` (optional) lists other spellings of the same word, such as an
   older spelling, so a search for them finds this page. None may be the page's
   own `traditional`.
