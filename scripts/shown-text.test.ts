@@ -46,6 +46,12 @@ test('a sentence-initial article "A" is not a placeholder', () => {
   assert.deepStrictEqual(placeholderLetters('A dog barked.'), [])
 })
 
+test('a letter before a word that follows one is not a placeholder', () => {
+  assert.deepStrictEqual(placeholderLetters('So besides red chips and H shares, what else is there?'), [])
+  assert.deepStrictEqual(placeholderLetters('What’s an H share?'), [])
+  assert.deepStrictEqual(placeholderLetters('Ask H to share it.'), ['H'])
+})
+
 test('a letter after a word that takes one is not a placeholder', () => {
   assert.deepStrictEqual(placeholderLetters('I like plan B.'), [])
 })
