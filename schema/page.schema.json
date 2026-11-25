@@ -15,7 +15,7 @@
       "additionalProperties": false,
       "properties": {
         "id": { "pattern": "^[a-z0-9]{8}$", "type": "string" },
-        "word": { "$ref": "#/$defs/nonEmptyString" },
+        "word": { "pattern": "\\S", "type": ["string", "null"] },
         "meaning": { "$ref": "#/$defs/nonEmptyString" },
         "register": { "$ref": "#/$defs/nonEmptyString" },
         "note": { "$ref": "#/$defs/nonEmptyString" },
@@ -38,7 +38,22 @@
   "properties": {
     "id": { "pattern": "^[a-z0-9]{8}$", "type": "string" },
     "partOfSpeech": {
-      "enum": ["noun", "verb", "adj", "adv", "prep", "pron", "det", "conj", "num", "name", "intj", "phrase", "postp"]
+      "enum": [
+        "noun",
+        "verb",
+        "adj",
+        "adv",
+        "prep",
+        "pron",
+        "det",
+        "conj",
+        "num",
+        "name",
+        "intj",
+        "phrase",
+        "postp",
+        null
+      ]
     },
     "english": {
       "items": { "$ref": "#/$defs/englishEntry" },

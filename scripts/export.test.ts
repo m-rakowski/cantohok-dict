@@ -329,3 +329,26 @@ test('toCsv shows the first sentence of the entry, and none for an entry with no
   const off = rows.find(line => line.startsWith('ppppppp1:off,'))
   assert.equal(off, 'ppppppp1:off,off,noun,taxi,的士,dik1 si2,,,,,')
 })
+
+test('the English exports leave out an entry with no English word', () => {
+  const files = validFixture()
+  files['cantonese/啊_ppppppp9.json'] =
+    JSON.stringify(
+      {
+        id: 'ppppppp9',
+        traditional: '啊',
+        partOfSpeech: null,
+        jyutping: 'aa3',
+        english: [{ word: null, meaning: 'softens a question', exampleSentences: [] }],
+      },
+      null,
+      2,
+    ) + '\n'
+  const lookup = JSON.parse(files['pages-by-id.json'])
+  lookup.ppppppp9 = 'ppppppp9'
+  files['pages-by-id.json'] = JSON.stringify(lookup, null, 2) + '\n'
+  const withPage = loadValidRepo(writeTree(files))
+  assert.equal(toCsv(withPage), toCsv(repo()))
+  assert.equal(toJsonl(withPage), toJsonl(repo()))
+  assert.equal(toPleco(withPage), toPleco(repo()))
+})

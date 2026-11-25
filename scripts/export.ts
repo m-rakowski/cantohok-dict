@@ -52,6 +52,9 @@ function eachRow(repo: Repo): ExportRow[] {
   for (const page of repo.pages) {
     // The running place on the page is the entry's position in its English list.
     page.english.forEach((entry, position) => {
+      // The exports are English → Cantonese: an entry English has no word for (啊) has no line to be found under.
+      // A page holding one has no English type either (check.ts), so neither is null below.
+      if (entry.word === null || page.partOfSpeech === null) return
       const row: ExportRow = {
         id: entry.id ?? `${page.id}:${entry.word}`,
         term: entry.word,
