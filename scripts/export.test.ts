@@ -362,3 +362,17 @@ test('toCsv shows the first sentence of the entry, and none for an entry with no
   const off = rows.find(line => line.startsWith('ppppppp1:off,'))
   assert.equal(off, 'ppppppp1:off,off,noun,taxi,的士,dik1 si2,,,,,')
 })
+
+test('toPleco bolds the first run that sounds like the word when characters and syllables do not line up', () => {
+  const B = (s: string) => `\u{EAB2}${s}\u{EAB3}`
+  const files = validFixture()
+  const path = 'cantonese/的士_noun_ppppppp1.json'
+  const page = JSON.parse(files[path])
+  // "Uber" is read as two syllables: 4 Chinese characters, 6 syllables, so positions cannot be lined up.
+  page.english[0].exampleSentences = [ex('I took an Uber taxi.', '我搭Uber的士。', 'ngo5 daap3 juu1 baa4 dik1 si2')]
+  files[path] = JSON.stringify(page, null, 2) + '\n'
+  const cab = toPleco(loadValidRepo(writeTree(files)))
+    .split('\n')
+    .find(line => line.startsWith(`cab\t${B('的士')}`))
+  assert.ok(cab?.includes(`我搭Uber${B('的士')}。\u{EAB1}ngo⁵ daap³ juu¹ baa⁴ ${B('dik¹ si²')}\u{EAB1}`), cab)
+})
