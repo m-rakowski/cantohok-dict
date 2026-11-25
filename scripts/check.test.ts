@@ -1723,3 +1723,58 @@ test('the same example sentence id on two pages', () => {
   // Pages are checked in path order, and 星期四 sorts before 的士.
   assert.deepEqual(errors, [`${CAB_PAGE}: example sentence id "sssssss1" is already used in ${THURSDAY_PAGE}`])
 })
+
+/** Parses CAB_PAGE_2, lets `edit` change it, and writes it back. */
+function editPage2(edit: (page: any) => void): (files: Record<string, string>) => void {
+  return files => {
+    const page = JSON.parse(files[CAB_PAGE_2])
+    edit(page)
+    files[CAB_PAGE_2] = JSON.stringify(page, null, 2) + '\n'
+  }
+}
+
+test('a page with a Cantonese part of speech and variants', () => {
+  assert.deepEqual(
+    checkWith(
+      editPage2(page => {
+        page.cantonesePartOfSpeech = 'noun'
+        page.variants = ['車頭X']
+      }),
+    ),
+    [],
+  )
+})
+
+test('a page with a Cantonese part of speech outside the allowed list', () => {
+  assert.deepEqual(checkWith(editPage2(page => (page.cantonesePartOfSpeech = 't'))), [
+    `${CAB_PAGE_2}: /cantonesePartOfSpeech must be equal to one of the allowed values: noun, verb, adjective, adverb, pronoun, conjunction, preposition, measure word, particle, sentence-final particle, interjection, sound word, time word, place word, direction word, numeral, idiom, fixed expression, non-predicate adjective, descriptive word, prefix, suffix, abbreviation, name`,
+  ])
+})
+
+test('a page with a repeated variant', () => {
+  // Ajv names the two positions in an order that depends on how the schema is written, so only that is left open.
+  const errors = checkWith(editPage2(page => (page.variants = ['車頭X', '車頭X'])))
+  assert.equal(errors.length, 1)
+  assert.match(
+    errors[0]!,
+    /^cantonese\/車頭_noun_ppppppp2\.json: \/variants must NOT have duplicate items \(items ## [01] and [01] are identical\)$/u,
+  )
+})
+
+test('a page with an empty variants list', () => {
+  assert.deepEqual(checkWith(editPage2(page => (page.variants = []))), [
+    `${CAB_PAGE_2}: /variants must NOT have fewer than 1 items`,
+  ])
+})
+
+test('a page whose variant is its own word', () => {
+  assert.deepEqual(checkWith(editPage2(page => (page.variants = ['車頭']))), [
+    `${CAB_PAGE_2}: variant "車頭" is the page's own word`,
+  ])
+})
+
+test('a page whose variant has spaces around it', () => {
+  assert.deepEqual(checkWith(editPage2(page => (page.variants = [' 車頭']))), [
+    `${CAB_PAGE_2}: /variants/0 must match pattern "^\\S(?:.*\\S)?$"`,
+  ])
+})

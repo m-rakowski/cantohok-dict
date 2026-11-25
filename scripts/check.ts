@@ -20,6 +20,11 @@
 //   (adjective), adv (adverb), prep (preposition), pron (pronoun), det
 //   (determiner), conj (conjunction), num (number), name (a proper noun),
 //   intj (interjection), phrase, postp (postposition).
+// - A page may say what kind of word it is in Cantonese, "cantonesePartOfSpeech",
+//   one of the names in the schema (noun, time word, measure word,
+//   sentence-final particle...). Its "partOfSpeech" stays the English word's.
+// - A page may list other spellings of its word, "variants" (an older corpus
+//   spelling, say), each once and none equal to the page's own "traditional".
 // - A page file's name must match its "traditional", "partOfSpeech" and "id"
 //   (cantonese/的士_noun_abcd1234.json); characters that cannot appear in a file name are reported
 //   instead of being turned into a path.
@@ -283,6 +288,9 @@ function checkPages(root: string, errors: string[]): CheckedPage[] {
         )
       nameOk = !problem && id !== null && pagePath(traditional, partOfSpeech, id) === path
     }
+    // A spelling the page already is would make search find the page twice by one word.
+    if (isObject(json) && Array.isArray(json.variants) && json.variants.includes(json.traditional))
+      errors.push(`${path}: variant "${json.traditional}" is the page's own word`)
     names.push({ path, nameOk })
     pages.push({
       path,

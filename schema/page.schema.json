@@ -46,7 +46,41 @@
       "type": "array"
     },
     "traditional": { "$ref": "#/$defs/nonEmptyString" },
-    "jyutping": { "$ref": "#/$defs/nonEmptyString" }
+    "jyutping": { "$ref": "#/$defs/nonEmptyString" },
+    "cantonesePartOfSpeech": {
+      "enum": [
+        "noun",
+        "verb",
+        "adjective",
+        "adverb",
+        "pronoun",
+        "conjunction",
+        "preposition",
+        "measure word",
+        "particle",
+        "sentence-final particle",
+        "interjection",
+        "sound word",
+        "time word",
+        "place word",
+        "direction word",
+        "numeral",
+        "idiom",
+        "fixed expression",
+        "non-predicate adjective",
+        "descriptive word",
+        "prefix",
+        "suffix",
+        "abbreviation",
+        "name"
+      ]
+    },
+    "variants": {
+      "items": { "pattern": "^\\S(?:.*\\S)?$", "type": "string" },
+      "minItems": 1,
+      "type": "array",
+      "uniqueItems": true
+    }
   },
   "required": ["id", "traditional", "partOfSpeech", "jyutping", "english"],
   "type": "object"
