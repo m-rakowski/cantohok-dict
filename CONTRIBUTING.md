@@ -161,6 +161,16 @@ part of speech, one reading and one sense. Here is
   (preposition), `pron` (pronoun), `det` (determiner), `conj` (conjunction),
   `num` (number), `name` (a proper noun), `intj` (interjection), `phrase`,
   `postp` (postposition). Any other value fails `pnpm run check`.
+- `partOfSpeech` is the type of the English word (`"now"` is an adverb).
+  `cantonesePartOfSpeech` says what kind of word the Cantonese is (而家 is a
+  `time word`), using the word classes of the Hong Kong Cantonese Corpus; the
+  schema lists all 24 (`noun`, `measure word`, `sentence-final particle`, …).
+  Every page has one. They were first set by a language model that saw each
+  page's English, meaning and sentence, checked against the corpus's own tags,
+  so a wrong one is a welcome fix.
+- `variants` (optional) lists other spellings of the same word, such as an
+  older spelling, so a search for them finds this page. None may be the page's
+  own `traditional`.
 - An English entry is an object. `word`, its `meaning` and `exampleSentences`
   (the sentences shown with that word; it may be empty) are required; `note`
   and `register` are optional. Every entry carries an `id` from `pnpm run new-id`
