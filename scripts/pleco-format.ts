@@ -80,10 +80,11 @@ function boldReading(example: PlecoSentence, at: number, word: string, reading: 
   return example.jyutping.slice(0, from) + BOLD(example.jyutping.slice(from, to)) + example.jyutping.slice(to)
 }
 
-/** The first line of an entry: the word in bold, its reading with tone marks, and its part of speech (and register) in italics. */
+/** The first line of an entry: the word in bold, its reading with tone marks, and its part of speech (and register) in italics.
+ *  "neutral" is the ordinary register, so it is left out: it tells the reader nothing. */
 export function plecoHeader(traditional: string, jyutping: string, partOfSpeech: string, register?: string): string {
   const pos = POS_ABBREVIATION[partOfSpeech] ?? partOfSpeech
-  const label = register ? `${pos}, ${register}` : pos
+  const label = register && register !== 'neutral' ? `${pos}, ${register}` : pos
   return `${BOLD(flat(traditional))}  ${toneMarks(flat(jyutping))}  ${ITALIC(label)}`
 }
 
