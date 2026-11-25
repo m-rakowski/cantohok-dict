@@ -13,7 +13,7 @@ import { join } from 'node:path'
 import { stringify } from 'csv-stringify/sync'
 import { checkRepo } from './check.ts'
 import { listPageFiles } from './repo.ts'
-import type { AliasesFile, FrequencyFile, PageFile, Row } from './types.ts'
+import type { AliasesFile, FrequencyFile, PageFile, Row, SentenceSource } from './types.ts'
 
 export interface Repo {
   pages: PageFile[]
@@ -67,9 +67,15 @@ function eachRow(repo: Repo): ExportRow[] {
         note: entry.note ?? '',
       }
       if (entry.register !== undefined) row.register = entry.register
-      // A sentence's id names it inside the repo only; the exports carry its text.
+      // A sentence's id names it inside the repo only; the exports carry its text and where it came from.
       const first = entry.exampleSentences[0]
-      if (first) row.example = { english: first.english, traditional: first.traditional, jyutping: first.jyutping }
+      if (first)
+        row.example = {
+          english: first.english,
+          traditional: first.traditional,
+          jyutping: first.jyutping,
+          ...(first.source ? { source: first.source } : {}),
+        }
       rows.push(row)
     })
   }
@@ -97,7 +103,15 @@ const CSV_COLUMNS = [
   'exampleEnglish',
   'exampleTraditional',
   'exampleJyutping',
+  'exampleSource',
 ]
+
+/** A sentence's source as one CSV cell: its writer, or `<corpus> <line>`, plus who wrote the English when that is not the corpus. */
+function sourceText(source: SentenceSource | undefined): string {
+  if (!source) return ''
+  if ('by' in source) return source.by
+  return `${source.corpus} ${source.line}${source.englishBy ? `; English by ${source.englishBy}` : ''}`
+}
 
 /**
  * Builds the dictionary.csv contents: one row per Cantonese word, ordered by each word's rank in frequency.json, then alphabetically.
@@ -116,6 +130,7 @@ export function toCsv(repo: Repo): string {
     exampleEnglish: row.example?.english ?? '',
     exampleTraditional: row.example?.traditional ?? '',
     exampleJyutping: row.example?.jyutping ?? '',
+    exampleSource: sourceText(row.example?.source),
   }))
   return stringify(records, { bom: true, header: true, columns: CSV_COLUMNS, record_delimiter: '\n' })
 }

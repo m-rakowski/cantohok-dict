@@ -7,7 +7,7 @@ For thousands of English words, it gives you:
 - the Cantonese words people in Hong Kong actually use
 - Jyutping, so you know how to say them
 - a short note on when to use each one
-- example sentences, kept inside the English word they show (`exampleSentences`)
+- example sentences, kept inside the English word they show (`exampleSentences`), each saying who wrote it or which corpus line it was copied from (`source`)
 - about 35,000 real Cantonese sentences from open corpora, each with Jyutping and English ([corpus/](corpus/README.md))
 
 It was made with AI and hasn't been checked word by word yet, so expect mistakes, especially in the Jyutping. Fixes are very welcome.

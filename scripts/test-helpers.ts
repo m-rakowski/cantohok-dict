@@ -77,7 +77,8 @@ export function validFixture(): Record<string, string> {
           "id": "sssssss1",
           "english": "We called a cab to the airport.",
           "traditional": "我哋叫咗部的士去機場。",
-          "jyutping": "ngo5 dei6 giu3 zo2 bou6 dik1 si2 heoi3 gei1 coeng4"
+          "jyutping": "ngo5 dei6 giu3 zo2 bou6 dik1 si2 heoi3 gei1 coeng4",
+          "source": { "by": "gpt-5.6-luna" }
         }
       ]
     }

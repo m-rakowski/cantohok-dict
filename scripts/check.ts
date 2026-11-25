@@ -89,7 +89,7 @@ import { existsSync, readFileSync } from 'node:fs'
 import { join } from 'node:path'
 import { Ajv2020 } from 'ajv/dist/2020.js'
 import type { ValidateFunction } from 'ajv'
-import { checkCorpus } from './corpus.ts'
+import { checkCorpus, CORPUS_SOURCES, type CorpusSource, lineFile } from './corpus.ts'
 import { formatSchemaError } from './schema-errors.ts'
 import { listPageFiles, listWordFiles } from './repo.ts'
 import { noteProblems, placeholderLetters } from './shown-text.ts'
@@ -239,6 +239,43 @@ function checkSentenceIds(pages: CheckedPage[], errors: string[]): void {
         const earlier = firstSeen.get(sentence.id)
         if (earlier === undefined) firstSeen.set(sentence.id, page.path)
         else errors.push(`${page.path}: example sentence id "${sentence.id}" is already used in ${earlier}`)
+      }
+  }
+}
+
+/**
+ * One message per sentence copied from a corpus line that is not there, or whose text is not the sentence's
+ * Chinese: a copy names its line so anyone can find the original and its license, so the line must be it.
+ * Pages that failed the schema are skipped; a source naming no known corpus is reported there.
+ */
+function checkSentenceSources(root: string, pages: CheckedPage[], errors: string[]): void {
+  const files = new Map<string, Map<string, string>>() // corpus file -> line id -> text
+  const lineText = (corpus: CorpusSource, line: string): string | undefined => {
+    const file = lineFile(corpus, line)
+    if (!files.has(file)) {
+      const path = join(root, 'corpus', file)
+      const lines = new Map<string, string>()
+      if (existsSync(path))
+        for (const json of readFileSync(path, 'utf8').split('\n'))
+          if (json) {
+            const value = JSON.parse(json) as { id: string; text: string }
+            lines.set(value.id, value.text)
+          }
+      files.set(file, lines)
+    }
+    return files.get(file)!.get(line)
+  }
+  for (const page of pages) {
+    if (!page.file) continue
+    for (const entry of page.file.english)
+      for (const sentence of entry.exampleSentences) {
+        const source = sentence.source
+        if (!source || !('corpus' in source) || !(CORPUS_SOURCES as readonly string[]).includes(source.corpus)) continue
+        const said = `sentence "${sentence.id}" says it is corpus/${source.corpus} line "${source.line}"`
+        const text = lineText(source.corpus as CorpusSource, source.line)
+        if (text === undefined) errors.push(`${page.path}: ${said}, and corpus/${source.corpus} has no such line`)
+        else if (text !== sentence.traditional)
+          errors.push(`${page.path}: ${said}, whose text is "${text}", not "${sentence.traditional}"`)
       }
   }
 }
@@ -542,6 +579,7 @@ export function checkRepo(root: string): string[] {
   checkPageIds(pages, words, errors)
   checkPageReadings(pages, errors)
   checkSentenceIds(pages, errors)
+  checkSentenceSources(root, pages, errors)
   checkPageLookup(root, pages, words, errors)
   const beforeFrequency = errors.length
   const frequency = checkFrequency(root, words, pages, errors)

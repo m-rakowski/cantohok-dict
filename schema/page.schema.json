@@ -6,9 +6,10 @@
         "id": { "pattern": "^[a-z0-9]{8}$", "type": "string" },
         "english": { "$ref": "#/$defs/nonEmptyString" },
         "traditional": { "$ref": "#/$defs/nonEmptyString" },
-        "jyutping": { "$ref": "#/$defs/nonEmptyString" }
+        "jyutping": { "$ref": "#/$defs/nonEmptyString" },
+        "source": { "$ref": "#/$defs/sentenceSource" }
       },
-      "required": ["id", "english", "traditional", "jyutping"],
+      "required": ["id", "english", "traditional", "jyutping", "source"],
       "type": "object"
     },
     "englishEntry": {
@@ -30,6 +31,31 @@
     "nonEmptyString": {
       "pattern": "\\S",
       "type": "string"
+    },
+    "sentenceSource": {
+      "description": "Where the sentence came from: written for the dictionary (by), or copied from a line of corpus/ (corpus and line, plus englishBy when its English was written here rather than taken from the corpus).",
+      "oneOf": [
+        {
+          "additionalProperties": false,
+          "properties": { "by": { "$ref": "#/$defs/writer" } },
+          "required": ["by"],
+          "type": "object"
+        },
+        {
+          "additionalProperties": false,
+          "properties": {
+            "corpus": { "enum": ["tatoeba", "hkcancor", "hambaanglaang", "commonvoice"] },
+            "englishBy": { "$ref": "#/$defs/writer" },
+            "line": { "$ref": "#/$defs/nonEmptyString" }
+          },
+          "required": ["corpus", "line"],
+          "type": "object"
+        }
+      ]
+    },
+    "writer": {
+      "description": "Who wrote a sentence or its English: a model by its name, \"claude\" for a Claude model whose name was not recorded, \"contributor\" for a reader who suggested it.",
+      "enum": ["gpt-5.6-luna", "cantonesellm-v2.0-30b", "claude-opus-5.5", "claude", "contributor"]
     }
   },
   "$id": "https://cantohok-dict/schema/page.schema.json",

@@ -24,10 +24,10 @@ test('toCsv: BOM, header, rank order, quoting', () => {
   assert.equal(
     toCsv(repo()),
     [
-      '\u{FEFF}id,term,partOfSpeech,meaning,traditional,jyutping,register,note,exampleEnglish,exampleTraditional,exampleJyutping',
-      'bbbbbbb1,Thursday,noun,day of the week,星期四,sing1 kei4 sei3,,This is the all-purpose word for Thursday.,,,',
-      'aaaaaaa1,cab,noun,taxi,的士,dik1 si2,,This is the all-purpose Cantonese noun for a taxi or cab.,We called a cab to the airport.,我哋叫咗部的士去機場。,ngo5 dei6 giu3 zo2 bou6 dik1 si2 heoi3 gei1 coeng4',
-      'aaaaaaa2,cab,noun,taxi,車頭,ce1 tau4,colloquial,Use this colloquial term for the cab or front section of a truck.,,,',
+      '\u{FEFF}id,term,partOfSpeech,meaning,traditional,jyutping,register,note,exampleEnglish,exampleTraditional,exampleJyutping,exampleSource',
+      'bbbbbbb1,Thursday,noun,day of the week,星期四,sing1 kei4 sei3,,This is the all-purpose word for Thursday.,,,,',
+      'aaaaaaa1,cab,noun,taxi,的士,dik1 si2,,This is the all-purpose Cantonese noun for a taxi or cab.,We called a cab to the airport.,我哋叫咗部的士去機場。,ngo5 dei6 giu3 zo2 bou6 dik1 si2 heoi3 gei1 coeng4,gpt-5.6-luna',
+      'aaaaaaa2,cab,noun,taxi,車頭,ce1 tau4,colloquial,Use this colloquial term for the cab or front section of a truck.,,,,',
       '',
     ].join('\n'),
   )
@@ -80,6 +80,7 @@ test('toJsonl: one object per row with term, rank and shares', () => {
         english: 'We called a cab to the airport.',
         traditional: '我哋叫咗部的士去機場。',
         jyutping: 'ngo5 dei6 giu3 zo2 bou6 dik1 si2 heoi3 gei1 coeng4',
+        source: { by: 'gpt-5.6-luna' },
       },
     },
     {
@@ -138,9 +139,15 @@ const ex = (english: string, traditional: string, jyutping: string) => ({
   english,
   traditional,
   jyutping,
+  source: { by: 'gpt-5.6-luna' },
 })
 /** A sentence as the exports print it: its text, never its id. */
-const shown = (english: string, traditional: string, jyutping: string) => ({ english, traditional, jyutping })
+const shown = (english: string, traditional: string, jyutping: string) => ({
+  english,
+  traditional,
+  jyutping,
+  source: { by: 'gpt-5.6-luna' },
+})
 
 /**
  * A fixture whose pages differ from its word files: the word files know only the
@@ -316,6 +323,7 @@ test('toCsv shows the first sentence of the entry, and none for an entry with no
     english: 'The Cabbage was cheap.',
     traditional: '椰菜好平。',
     jyutping: 'je4 coi3 hou2 peng4',
+    source: { by: 'contributor' },
   }
   page.english[0].exampleSentences = [first, other]
   page.english.push({ word: 'off', meaning: 'taxi', exampleSentences: [] })
@@ -324,10 +332,30 @@ test('toCsv shows the first sentence of the entry, and none for an entry with no
   const cab = rows.find(line => line.startsWith('aaaaaaa1,'))
   assert.equal(
     cab,
-    'aaaaaaa1,cab,noun,taxi,的士,dik1 si2,,This is the all-purpose Cantonese noun for a taxi or cab.,We called a cab to the airport.,我哋叫咗部的士去機場。,ngo5 dei6 giu3 zo2 bou6 dik1 si2 heoi3 gei1 coeng4',
+    'aaaaaaa1,cab,noun,taxi,的士,dik1 si2,,This is the all-purpose Cantonese noun for a taxi or cab.,We called a cab to the airport.,我哋叫咗部的士去機場。,ngo5 dei6 giu3 zo2 bou6 dik1 si2 heoi3 gei1 coeng4,gpt-5.6-luna',
   )
   const off = rows.find(line => line.startsWith('ppppppp1:off,'))
-  assert.equal(off, 'ppppppp1:off,off,noun,taxi,的士,dik1 si2,,,,,')
+  assert.equal(off, 'ppppppp1:off,off,noun,taxi,的士,dik1 si2,,,,,,')
+})
+
+test("the exports name a copied sentence's corpus line, and who wrote its English", () => {
+  const files = validFixture()
+  const path = 'cantonese/的士_noun_ppppppp1.json'
+  const page = JSON.parse(files[path])
+  const sentence = page.english[0].exampleSentences[0]
+  sentence.traditional = '但係個，你個唇膏比較淺色，深et1et1少少，我覺得可以。'
+  sentence.source = { corpus: 'hkcancor', line: '5a5bd02187dbff6a', englishBy: 'gpt-5.6-luna' }
+  files[path] = JSON.stringify(page, null, 2) + '\n'
+  const repo = loadValidRepo(writeTree(files))
+  const cab = toCsv(repo)
+    .split('\n')
+    .find(line => line.startsWith('aaaaaaa1,'))
+  assert.ok(cab?.endsWith(',hkcancor 5a5bd02187dbff6a; English by gpt-5.6-luna'), cab)
+  const row = toJsonl(repo)
+    .split('\n')
+    .map(line => (line ? JSON.parse(line) : null))
+    .find(line => line?.id === 'aaaaaaa1')
+  assert.deepEqual(row.example.source, { corpus: 'hkcancor', line: '5a5bd02187dbff6a', englishBy: 'gpt-5.6-luna' })
 })
 
 test('the English exports leave out an entry with no English word', () => {
