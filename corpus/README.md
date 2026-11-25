@@ -46,8 +46,10 @@ that does not fit:
   square written `c5` stays `c5`). The check counts syllables; it does not know which is right.
 - a corpus reading (`"corpus"`) is its `words` readings in order (for Hambaanglaang with each
   `-` turned into a space and lowercased), with everything the sentence has between them copied
-  in place: a punctuation mark flush against its neighbors (`lok6，keoi5`), a run of letters or
-  digits no word reads as a word of its own (`lin4 pantry dou1`). Marks inside a word's own text
+  in place: a punctuation mark flush against its neighbors (`lok6，keoi5`) unless the sentence
+  has a space before it, a run of letters or digits no word reads as a word of its own
+  (`lin4 pantry dou1`). A mark at the edge of a word's own text (`打波：`) is copied too, unless
+  the word's reading speaks it (`15%` is `sap6 ng5 percent`); marks inside a word's text
   (`7-11`) are left to that word's reading.
 
 ## Fixing a sentence

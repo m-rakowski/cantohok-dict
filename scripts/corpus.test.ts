@@ -149,12 +149,51 @@ test("marks at the edges of a word's own text are copied too; marks inside it ar
       const value = parse(files, HAMBAANGLAANG)
       files[HAMBAANGLAANG] = line({
         ...value,
-        text: '打波：「7-11前。」',
-        jyutping: 'daa2 bo1：「caat1 sap6 jat1 cin4。」',
+        text: '打波：「好7-11前。」',
+        jyutping: 'daa2 bo1：「hou2 caat1 sap6 jat1 cin4。」',
         words: [
           { jyutping: 'daa2-bo1', text: '打波：' },
-          { jyutping: 'caat1-sap6-jat1', text: '「7-11' },
+          { jyutping: 'hou2', text: '「好' },
+          { jyutping: 'caat1-sap6-jat1', text: '7-11' },
           { jyutping: 'cin4', text: '前。」' },
+        ],
+      })
+    }),
+    [],
+  )
+})
+
+test("a mark at a word's edge that its reading speaks is not copied again", () => {
+  assert.deepEqual(
+    checkWith(files => {
+      const value = parse(files, HAMBAANGLAANG)
+      files[HAMBAANGLAANG] = line({
+        ...value,
+        text: '放少15%嘅(An鴨)。',
+        jyutping: 'fong3 siu2 sap6 ng5 percent ge3(en1 aap2)。',
+        words: [
+          { jyutping: 'fong3-siu2', text: '放少' },
+          { jyutping: 'sap6-ng5-percent', text: '15%' },
+          { jyutping: 'ge3', text: '嘅' },
+          { jyutping: 'En1-aap2', text: '(An鴨)' },
+        ],
+      })
+    }),
+    [],
+  )
+})
+
+test('a mark after whitespace in the sentence keeps a space before it, as Tatoeba readings do', () => {
+  assert.deepEqual(
+    checkWith(files => {
+      const value = parse(files, HAMBAANGLAANG)
+      files[HAMBAANGLAANG] = line({
+        ...value,
+        text: '張相 ──我。',
+        jyutping: 'zoeng1 soeng2 ──ngo5。',
+        words: [
+          { jyutping: 'zoeng1-soeng2', text: '張相' },
+          { jyutping: 'ngo5', text: '我' },
         ],
       })
     }),

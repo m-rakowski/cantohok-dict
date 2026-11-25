@@ -8,6 +8,6 @@ Uses", Journal of Chinese Linguistics. Source: https://github.com/fcbond/hkcanco
 The `english` field is a machine translation added by this repository, and is covered by
 its license, CC BY-SA 4.0 (see ../README.md).
 
-Changes: the top-level `jyutping` of each line has the sentence's punctuation copied in
-between the source's syllables; readings may have been corrected in this repository, and each
-line's git history shows what changed. See ../README.md, "Changes made here".
+Changes: the top-level `jyutping` of each line is the words' own readings with the
+sentence's punctuation copied in between them; readings may have been corrected in this
+repository, and each line's git history shows what changed. See ../README.md, "Changes made here".
