@@ -76,7 +76,7 @@
       ]
     },
     "variants": {
-      "items": { "$ref": "#/$defs/nonEmptyString" },
+      "items": { "pattern": "^\\S(?:.*\\S)?$", "type": "string" },
       "minItems": 1,
       "type": "array",
       "uniqueItems": true

@@ -1752,9 +1752,13 @@ test('a page with a Cantonese part of speech outside the allowed list', () => {
 })
 
 test('a page with a repeated variant', () => {
-  assert.deepEqual(checkWith(editPage2(page => (page.variants = ['車頭X', '車頭X']))), [
-    `${CAB_PAGE_2}: /variants must NOT have duplicate items (items ## 0 and 1 are identical)`,
-  ])
+  // Ajv names the two positions in an order that depends on how the schema is written, so only that is left open.
+  const errors = checkWith(editPage2(page => (page.variants = ['車頭X', '車頭X'])))
+  assert.equal(errors.length, 1)
+  assert.match(
+    errors[0]!,
+    /^cantonese\/車頭_noun_ppppppp2\.json: \/variants must NOT have duplicate items \(items ## [01] and [01] are identical\)$/u,
+  )
 })
 
 test('a page with an empty variants list', () => {
@@ -1766,5 +1770,11 @@ test('a page with an empty variants list', () => {
 test('a page whose variant is its own word', () => {
   assert.deepEqual(checkWith(editPage2(page => (page.variants = ['車頭']))), [
     `${CAB_PAGE_2}: variant "車頭" is the page's own word`,
+  ])
+})
+
+test('a page whose variant has spaces around it', () => {
+  assert.deepEqual(checkWith(editPage2(page => (page.variants = [' 車頭']))), [
+    `${CAB_PAGE_2}: /variants/0 must match pattern "^\\S(?:.*\\S)?$"`,
   ])
 })
