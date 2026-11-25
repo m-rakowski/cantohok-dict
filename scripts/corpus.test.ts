@@ -185,3 +185,32 @@ test('an unknown folder under corpus/, a folder inside a source, and an empty En
     ],
   )
 })
+
+test('a Hambaanglaang line keeps its gloss and may add one machine translation, and nothing else', () => {
+  const withEnglish = (english: { by: string; text: string }[]) => (files: Record<string, string>) => {
+    files[HAMBAANGLAANG] = line({ ...parse(files, HAMBAANGLAANG), english })
+  }
+  const gloss = { by: 'word by word', text: "twelve / o'clock / before / check / out / (particle)" }
+  const machine = { by: 'machine', text: "Check out before twelve o'clock." }
+  assert.deepEqual(
+    [
+      checkWith(withEnglish([gloss, machine])),
+      checkWith(withEnglish([gloss, { by: 'sadhen', text: 'Check out by noon.' }])),
+      checkWith(withEnglish([machine])),
+      checkWith(withEnglish([gloss, machine, machine])),
+    ],
+    [
+      [],
+      [
+        'corpus/hambaanglaang/0a.jsonl:1: /english/1/by must be equal to constant',
+        'corpus/hambaanglaang/0a.jsonl:1: /english/1/by must be equal to constant',
+        'corpus/hambaanglaang/0a.jsonl:1: /english/1 must match exactly one schema in oneOf',
+      ],
+      [
+        'corpus/hambaanglaang/0a.jsonl:1: /english/0/by must be equal to constant',
+        'corpus/hambaanglaang/0a.jsonl:1: /english must contain at least 1 and no more than 1 valid item(s)',
+      ],
+      ['corpus/hambaanglaang/0a.jsonl:1: /english must NOT have more than 2 items'],
+    ],
+  )
+})

@@ -14,7 +14,8 @@ source keeps its own license, in the `LICENSE` file of its folder.
 
 - `text`, `author`, `title`, `url` and `words`: the source's own, under the source's license.
 - `english`: the source's own for Tatoeba (its users' translations) and Hambaanglaang (the
-  readers' word-by-word gloss); a machine translation added here for HKCanCor and Common Voice.
+  readers' word-by-word gloss, `"by": "word by word"`); a machine translation added here
+  (`"by": "machine"`) for HKCanCor, Common Voice and, next to its gloss, Hambaanglaang.
 - `jyutping`: the source's own for HKCanCor and Hambaanglaang (`"jyutpingBy": "corpus"`).
   For Tatoeba and Common Voice it was added here: by ToJyutping (`"tojyutping"`), or chosen
   word by word from Wiktionary, CC-Canto and CC-CEDICT readings (`"picker"`), so it carries
@@ -50,7 +51,7 @@ that does not fit:
 - **A Tatoeba or Common Voice reading**: edit `jyutping`, one syllable per character.
 - **An HKCanCor or Hambaanglaang reading**: edit the word's own reading in `words`, then the
   top-level `jyutping` to match (the check compares the two).
-- **An English translation we added** (HKCanCor, Common Voice): edit its `text`.
+- **An English translation we added** (`"by": "machine"`: HKCanCor, Common Voice, Hambaanglaang): edit its `text`.
 - Leave `text`, `author` and Tatoeba's own English as the source wrote them.
 
 ## Changes made here
