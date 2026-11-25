@@ -6,5 +6,9 @@ Source: https://github.com/hblhk/stories and https://hambaanglaang.hk. Each line
 story in `title`, the story's page in `url`, and the story's author in `author` where the
 readers list one.
 
+Each line's second `english` entry, `"by": "machine"`, is a machine translation of the whole
+sentence added by this repository, and is covered by its license, CC BY-SA 4.0
+(../../LICENSE). The word-by-word gloss (`"by": "word by word"`) stays the readers'.
+
 Changes: readings (and, for HKCanCor, the English) may have been corrected in this
 repository; each line's git history shows what changed. See ../README.md, "Changes made here".
