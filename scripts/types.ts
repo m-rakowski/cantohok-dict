@@ -53,6 +53,10 @@ export interface PageFile {
   partOfSpeech: string
   jyutping: string
   english: EnglishEntry[]
+  /** What kind of word it is in Cantonese ("time word"); `partOfSpeech` is the English word's. */
+  cantonesePartOfSpeech?: string
+  /** Other spellings of the word, none equal to `traditional`. */
+  variants?: string[]
 }
 
 /** The link lookup (pages-by-id.json): every English row id and every page id, mapped to a page id. */
