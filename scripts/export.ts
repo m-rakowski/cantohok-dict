@@ -13,6 +13,7 @@ import { join } from 'node:path'
 import { stringify } from 'csv-stringify/sync'
 import { checkRepo } from './check.ts'
 import { listPageFiles } from './repo.ts'
+import { BOM, flat, plecoEntry, plecoHeader, plecoSentence } from './pleco-format.ts'
 import type { AliasesFile, Example, FrequencyFile, PageFile, Row } from './types.ts'
 
 export interface Repo {
@@ -161,97 +162,15 @@ export function toAliasesCsv(repo: Repo): string {
   return stringify(pairs, { bom: true, header: true, columns: ['alias', 'term'], record_delimiter: '\n' })
 }
 
-// Pleco's private-use formatting characters. Only the line break is documented by
-// Pleco; bold and italic come from its forum and were verified on an iPhone on 2026-09-27.
-const NL = '\u{EAB1}'
-const BOLD = (text: string) => `\u{EAB2}${text}\u{EAB3}`
-const ITALIC = (text: string) => `\u{EAB4}${text}\u{EAB5}`
-const BOM = '\u{FEFF}'
-const POS_ABBREVIATION: Record<string, string> = {
-  noun: 'n.',
-  verb: 'v.',
-  adj: 'adj.',
-  adv: 'adv.',
-  prep: 'prep.',
-  conj: 'conj.',
-  pron: 'pron.',
-  det: 'det.',
-  intj: 'interj.',
-  num: 'num.',
-  particle: 'part.',
-  article: 'art.',
-  postp: 'postp.',
-  name: 'name',
-}
-const SUPERSCRIPT: Record<string, string> = { 1: '¹', 2: '²', 3: '³', 4: '⁴', 5: '⁵', 6: '⁶' }
-const toneMarks = (jyutping: string): string =>
-  jyutping.replace(/([a-z])([1-6])\b/gu, (_, letter: string, tone: string) => letter + SUPERSCRIPT[tone])
-// A tab or newline inside a value would end the Pleco field or entry.
-const flat = (value: string): string => value.replace(/[\t\r\n]+/gu, ' ').trim()
-
-/**
- * A sentence with the entry's word in bold, in its text and in its reading, the way the
- * CantoHok card shows it. The reading is bolded only when the text contains the word, so a
- * sentence that merely has the same sounds (的死 for 的士) stays plain. Only the first copy is
- * bolded: nothing says which copy is the word (in 呢套戲好好睇 only the first 好 means "very").
- */
-function boldWord(example: Example, word: string, reading: string): Example {
-  const at = example.traditional.indexOf(word)
-  if (word === '' || at === -1) return example
-  return {
-    english: example.english,
-    traditional: example.traditional.slice(0, at) + BOLD(word) + example.traditional.slice(at + word.length),
-    jyutping: boldReading(example, at, word, reading),
-  }
-}
-
-const hanCount = (text: string): number => [...text].filter(char => /\p{Script=Han}/u.test(char)).length
-const SYLLABLE = /[a-z]+[1-6]/gu
-
-/**
- * The sentence's reading with the word's syllables in bold. When every Chinese character has
- * exactly one syllable, the syllables at the word's own position are bolded, so a homophone
- * earlier in the sentence (汽 before 氣, both hei3) stays plain. Otherwise the positions cannot
- * be lined up, and the first run of syllables that sounds like the word is bolded.
- */
-function boldReading(example: Example, at: number, word: string, reading: string): string {
-  const sentence = [...example.jyutping.matchAll(SYLLABLE)]
-  const own = reading.match(SYLLABLE) ?? []
-  if (own.length === 0) return example.jyutping
-  let first: number
-  if (sentence.length === hanCount(example.traditional) && own.length === hanCount(word)) {
-    first = hanCount(example.traditional.slice(0, at))
-  } else {
-    first = sentence.findIndex((_, i) => own.every((syllable, k) => sentence[i + k]?.[0] === syllable))
-    if (first === -1) return example.jyutping
-  }
-  const from = sentence[first].index
-  const last = sentence[first + own.length - 1]
-  const to = last.index + last[0].length
-  return example.jyutping.slice(0, from) + BOLD(example.jyutping.slice(from, to)) + example.jyutping.slice(to)
-}
-
 /** Builds the cantohok-en-yue.txt contents: the whole dictionary formatted for the Pleco app to import as a user dictionary. */
 export function toPleco(repo: Repo): string {
-  const lines = eachRow(repo).map(row => {
-    const pos = POS_ABBREVIATION[row.partOfSpeech] ?? row.partOfSpeech
-    const label = row.register ? `${pos}, ${row.register}` : pos
-    const parts = [
-      `${BOLD(flat(row.traditional))}  ${toneMarks(flat(row.jyutping))}  ${ITALIC(label)}`,
-      flat(row.meaning),
-    ]
-    if (row.note) parts.push(flat(row.note))
-    for (const example of row.examples) {
-      const shown = boldWord(
-        { english: flat(example.english), traditional: flat(example.traditional), jyutping: flat(example.jyutping) },
-        flat(row.traditional),
-        flat(row.jyutping),
-      )
-      parts.push('', shown.traditional, toneMarks(shown.jyutping), ITALIC(shown.english))
-    }
-    return `${flat(row.term)}\t${parts.join(NL)}`
+  const entries = eachRow(repo).map(row => {
+    const lines = [plecoHeader(row.traditional, row.jyutping, row.partOfSpeech, row.register), flat(row.meaning)]
+    if (row.note) lines.push(flat(row.note))
+    for (const example of row.examples) lines.push('', ...plecoSentence(example, row.traditional, row.jyutping))
+    return plecoEntry(row.term, lines)
   })
-  return BOM + lines.join('\n') + '\n'
+  return BOM + entries.join('\n') + '\n'
 }
 
 if (import.meta.main) {
