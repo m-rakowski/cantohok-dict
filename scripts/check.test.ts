@@ -1262,7 +1262,7 @@ test('a page with partOfSpeech outside the allowed list', () => {
       files[CAB_PAGE_2] = files[CAB_PAGE_2].replace('"noun"', '"particle"')
     }),
     [
-      `${CAB_PAGE_2}: /partOfSpeech must be equal to one of the allowed values: noun, verb, adj, adv, prep, pron, det, conj, num, name, intj, phrase, postp`,
+      `${CAB_PAGE_2}: /partOfSpeech must be equal to one of the allowed values: noun, verb, adj, adv, prep, pron, det, conj, num, name, intj, phrase, postp, null`,
     ],
   )
 })
@@ -1777,4 +1777,76 @@ test('a page whose variant has spaces around it', () => {
   assert.deepEqual(checkWith(editPage2(page => (page.variants = [' 車頭']))), [
     `${CAB_PAGE_2}: /variants/0 must match pattern "^\\S(?:.*\\S)?$"`,
   ])
+})
+
+const AA_PAGE = 'cantonese/啊_ppppppp9.json'
+
+/** The valid fixture plus a page with no English word (啊 aa3), with `edit` applied to it and its lookup line added. */
+function withNoEnglishPage(
+  edit: (page: any) => void = () => {},
+  path = AA_PAGE,
+): (files: Record<string, string>) => void {
+  return files => {
+    const page = {
+      id: 'ppppppp9',
+      traditional: '啊',
+      partOfSpeech: null,
+      jyutping: 'aa3',
+      cantonesePartOfSpeech: 'sentence-final particle',
+      english: [{ word: null, meaning: 'softens a question', exampleSentences: [] }],
+    }
+    edit(page)
+    files[path] = JSON.stringify(page, null, 2) + '\n'
+    const lookup = JSON.parse(files['pages-by-id.json'])
+    lookup.ppppppp9 = 'ppppppp9'
+    files['pages-by-id.json'] = JSON.stringify(lookup, null, 2) + '\n'
+  }
+}
+
+test('a page with no English word and no English part of speech, named without one', () => {
+  assert.deepEqual(checkWith(withNoEnglishPage()), [])
+})
+
+test('a page with no English word but an English part of speech', () => {
+  assert.deepEqual(
+    checkWith(withNoEnglishPage(page => (page.partOfSpeech = 'intj'), 'cantonese/啊_intj_ppppppp9.json')),
+    [
+      `cantonese/啊_intj_ppppppp9.json: partOfSpeech is the English word's, so it must be null exactly when no English entry has a word`,
+    ],
+  )
+})
+
+test('a page with an English word but no English part of speech', () => {
+  assert.deepEqual(checkWith(withNoEnglishPage(page => (page.english[0].word = 'ah'))), [
+    `${AA_PAGE}: partOfSpeech is the English word's, so it must be null exactly when no English entry has a word`,
+  ])
+})
+
+test('a page mixing an English word and an entry with none', () => {
+  const mixed = withNoEnglishPage(page => {
+    page.partOfSpeech = 'intj'
+    page.english.push({ word: 'ah', meaning: 'an exclamation', exampleSentences: [] })
+  }, 'cantonese/啊_intj_ppppppp9.json')
+  assert.deepEqual(checkWith(mixed), [
+    `cantonese/啊_intj_ppppppp9.json: partOfSpeech is the English word's, so it must be null exactly when no English entry has a word`,
+  ])
+})
+
+test('a page with no English part of speech named with one', () => {
+  assert.deepEqual(checkWith(withNoEnglishPage(() => {}, 'cantonese/啊_null_ppppppp9.json')), [
+    `cantonese/啊_null_ppppppp9.json: file name does not match 啊 ppppppp9 (expected ${AA_PAGE})`,
+  ])
+})
+
+test('pagePath leaves the part of speech out of a page that has none', () => {
+  assert.equal(pagePath('啊', null, 'ppppppp9'), AA_PAGE)
+})
+
+test('a page with no English word and two meanings', () => {
+  assert.deepEqual(
+    checkWith(
+      withNoEnglishPage(page => page.english.push({ word: null, meaning: 'friendly tone', exampleSentences: [] })),
+    ),
+    [`${AA_PAGE}: a page with no English word has one entry; give each other meaning a page of its own`],
+  )
 })

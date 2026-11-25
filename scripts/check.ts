@@ -12,21 +12,26 @@
 //   Windows (like "con" -> con_.json).
 // - No two words may have the same term, even if the capitalization differs.
 // - No two rows, anywhere in the dictionary, may share the same "id".
-// - Every Cantonese page file (cantonese/<traditional>_<partOfSpeech>_<id>.json)
+// - Every Cantonese page file (cantonese/<traditional>_<partOfSpeech>_<id>.json, or
+//   cantonese/<traditional>_<id>.json for a page with no English word)
 //   must be valid JSON and match schema/page.schema.json: at least one
 //   English word, no "boxes" key, and no meaning, note or register of the
 //   page's own (each English entry carries its own).
-// - A page's "partOfSpeech" must be one of 13 values: noun, verb, adj
+// - A page's "partOfSpeech" must be null (no English word) or one of 13 values: noun, verb, adj
 //   (adjective), adv (adverb), prep (preposition), pron (pronoun), det
 //   (determiner), conj (conjunction), num (number), name (a proper noun),
-//   intj (interjection), phrase, postp (postposition).
+//   intj (interjection), phrase, postp (postposition). It is the English word's
+//   type, so it is null exactly when no English entry has a word: a word English
+//   has no word for (the sentence-final particle 啊) is a page whose entries have
+//   "word": null and a "meaning" saying what it does.
 // - A page may say what kind of word it is in Cantonese, "cantonesePartOfSpeech",
 //   one of the names in the schema (noun, time word, measure word,
 //   sentence-final particle...). Its "partOfSpeech" stays the English word's.
 // - A page may list other spellings of its word, "variants" (an older corpus
 //   spelling, say), each once and none equal to the page's own "traditional".
 // - A page file's name must match its "traditional", "partOfSpeech" and "id"
-//   (cantonese/的士_noun_abcd1234.json); characters that cannot appear in a file name are reported
+//   (cantonese/的士_noun_abcd1234.json; cantonese/啊_abcd1234.json for a page
+//   with no English type); characters that cannot appear in a file name are reported
 //   instead of being turned into a path.
 // - Page files live directly in cantonese/ (a file in a subfolder is
 //   refused), and no two page paths may differ only in letter case, because
@@ -111,7 +116,10 @@ const ajv = new Ajv2020({ allErrors: true })
 const validateWord = ajv.compile(wordSchema)
 const validatePage = ajv.compile(pageSchema)
 /** The allowed `partOfSpeech` values, read from the page schema so the list lives in one place. */
-const ALLOWED_PARTS_OF_SPEECH: readonly string[] = pageSchema.properties.partOfSpeech.enum
+// The schema's list also holds null (a page with no English word), which is no part of speech.
+const ALLOWED_PARTS_OF_SPEECH: readonly string[] = pageSchema.properties.partOfSpeech.enum.filter(
+  value => value !== null,
+)
 const validateFrequency = ajv.compile(frequencySchema)
 const validateAliases = ajv.compile(aliasesSchema)
 const validatePageLookup = ajv.compile(pageLookupSchema)
@@ -276,17 +284,30 @@ function checkPages(root: string, errors: string[]): CheckedPage[] {
     if (
       isObject(json) &&
       isFilled(json.traditional) &&
-      isFilled(json.partOfSpeech) &&
-      ALLOWED_PARTS_OF_SPEECH.includes(json.partOfSpeech)
+      (json.partOfSpeech === null ||
+        (isFilled(json.partOfSpeech) && ALLOWED_PARTS_OF_SPEECH.includes(json.partOfSpeech)))
     ) {
-      const { traditional, partOfSpeech } = json
+      const traditional = json.traditional
+      const partOfSpeech = json.partOfSpeech as string | null
       const problem = pageNameProblem(traditional, partOfSpeech)
+      const named = [traditional, partOfSpeech, id].filter(part => part !== null).join(' ')
       if (problem) errors.push(`${path}: ${problem}`)
       else if (id !== null && pagePath(traditional, partOfSpeech, id) !== path)
-        errors.push(
-          `${path}: file name does not match ${traditional} ${partOfSpeech} ${id} (expected ${pagePath(traditional, partOfSpeech, id)})`,
-        )
+        errors.push(`${path}: file name does not match ${named} (expected ${pagePath(traditional, partOfSpeech, id)})`)
       nameOk = !problem && id !== null && pagePath(traditional, partOfSpeech, id) === path
+    }
+    // A page's English type is its English word's: none exactly when no entry has a word, so a page is never half
+    // English (one word and one entry without).
+    if (isObject(json) && Array.isArray(json.english) && json.english.length > 0 && json.english.every(isObject)) {
+      const wordless = json.english.filter(entry => entry.word === null).length
+      const consistent = json.partOfSpeech === null ? wordless === json.english.length : wordless === 0
+      if (!consistent)
+        errors.push(
+          `${path}: partOfSpeech is the English word's, so it must be null exactly when no English entry has a word`,
+        )
+      // A page is one meaning; with no English word nothing labels a second entry, so a second meaning is a page of its own.
+      else if (json.partOfSpeech === null && json.english.length > 1)
+        errors.push(`${path}: a page with no English word has one entry; give each other meaning a page of its own`)
     }
     // A spelling the page already is would make search find the page twice by one word.
     if (isObject(json) && Array.isArray(json.variants) && json.variants.includes(json.traditional))
@@ -313,12 +334,14 @@ function checkPageReadings(pages: CheckedPage[], errors: string[]): void {
   const firstPath = new Map<string, string>()
   for (const { path, file } of pages) {
     if (!file) continue
-    const senses = file.english.map(entry => `${entry.word}: ${entry.meaning}`).sort()
+    const senses = file.english
+      .map(entry => (entry.word === null ? entry.meaning : `${entry.word}: ${entry.meaning}`))
+      .sort()
     const key = JSON.stringify([file.traditional, file.partOfSpeech, file.jyutping, senses])
     const earlier = firstPath.get(key)
     if (earlier)
       errors.push(
-        `${path}: same word, part of speech, reading, English words and meanings (${file.traditional} ${file.partOfSpeech} ${file.jyutping} ${senses.join(' · ')}) as ${earlier}`,
+        `${path}: same word, part of speech, reading, English words and meanings (${[file.traditional, file.partOfSpeech, file.jyutping].filter(part => part !== null).join(' ')} ${senses.join(' · ')}) as ${earlier}`,
       )
     else firstPath.set(key, path)
   }
@@ -497,13 +520,13 @@ function checkPageShownText(pages: CheckedPage[], errors: string[]): void {
     if (!valid || !file) continue
     for (const entry of file.english) {
       if (entry.note !== undefined)
-        for (const problem of noteProblems(entry.note, entry.word, entry.meaning))
-          errors.push(`${path}: English entry "${entry.word}" ${problem}`)
+        for (const problem of noteProblems(entry.note, entry.word ?? '', entry.meaning))
+          errors.push(`${path}: English entry "${entry.word ?? entry.meaning}" ${problem}`)
       entry.exampleSentences.forEach((example, exampleIndex) => {
         const letters = placeholderLetters(example.english)
         if (letters.length)
           errors.push(
-            `${path}: English entry "${entry.word}" sentence ${exampleIndex + 1} english has a placeholder letter (${letters.join(', ')})`,
+            `${path}: English entry "${entry.word ?? entry.meaning}" sentence ${exampleIndex + 1} english has a placeholder letter (${letters.join(', ')})`,
           )
       })
     }

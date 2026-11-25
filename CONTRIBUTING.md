@@ -18,7 +18,8 @@ files are laid out and the steps to change them.
   Add a note only to warn about something the examples cannot show. The
   page's `id` never changes: if you rename the file (say, to fix the
   characters), keep the `id` as it is. Every file must be named after the
-  `traditional`, `partOfSpeech` and `id` inside it; `pnpm run check` tells you
+  `traditional`, `partOfSpeech` and `id` inside it (just `traditional` and `id`
+  when `partOfSpeech` is null, `啊_abcd1234.json`); `pnpm run check` tells you
   the expected name. Page files sit directly in `cantonese/`, not in subfolders.
 - `pages-by-id.json` — a lookup from every English row `id` and every page
   `id` to the page it belongs to, so an old link to a row still finds its
@@ -168,6 +169,14 @@ part of speech, one reading and one sense. Here is
   Every page has one. They were first set by a language model that saw each
   page's English, meaning and sentence, checked against the corpus's own tags,
   so a wrong one is a welcome fix.
+- Some Cantonese words have no English word: sentence-final particles like
+  啊, most measure words, fillers. Their entries have `"word": null` and a
+  `meaning` that says what the word does ("softens a question"), and the
+  page's `partOfSpeech` is `null`. A page is either all English words or none:
+  `partOfSpeech` is null exactly when no entry has a word. Such a page has one
+  entry; another meaning of the word is a page of its own. The English exports
+  (`pnpm run export`) leave these entries out, since they have no English
+  headword to be listed under.
 - `variants` (optional) lists other spellings of the same word, such as an
   older spelling, so a search for them finds this page. None may be the page's
   own `traditional`.
