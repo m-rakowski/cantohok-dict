@@ -110,9 +110,9 @@ test('toPleco: BOM, one entry per row, Pleco line breaks and formatting', () => 
     toPleco(repo()),
     '\u{FEFF}' +
       [
-        `Thursday\t${B('星期四')}  sing¹ kei⁴ sei³  ${I('n.')}${NL}This is the all-purpose word for Thursday.`,
-        `cab\t${B('的士')}  dik¹ si²  ${I('n.')}${NL}This is the all-purpose Cantonese noun for a taxi or cab.${NL}${NL}我哋叫咗部的士去機場。${NL}ngo⁵ dei⁶ giu³ zo² bou⁶ dik¹ si² heoi³ gei¹ coeng⁴${NL}${I('We called a cab to the airport.')}`,
-        `cab\t${B('車頭')}  ce¹ tau⁴  ${I('n., colloquial')}${NL}Use this colloquial term for the cab or front section of a truck.`,
+        `Thursday\t${B('星期四')}  sing¹ kei⁴ sei³  ${I('n.')}${NL}day of the week${NL}This is the all-purpose word for Thursday.`,
+        `cab\t${B('的士')}  dik¹ si²  ${I('n.')}${NL}taxi${NL}This is the all-purpose Cantonese noun for a taxi or cab.${NL}${NL}我哋叫咗部${B('的士')}去機場。${NL}ngo⁵ dei⁶ giu³ zo² bou⁶ ${B('dik¹ si²')} heoi³ gei¹ coeng⁴${NL}${I('We called a cab to the airport.')}`,
+        `cab\t${B('車頭')}  ce¹ tau⁴  ${I('n., colloquial')}${NL}taxi${NL}Use this colloquial term for the cab or front section of a truck.`,
         '',
       ].join('\n'),
   )
@@ -303,7 +303,40 @@ test('toCsv: id-less entries get composite ids, and the rows come out in the sam
 test('toPleco: an id-less entry is a line like any other', () => {
   const lines = toPleco(pagesRepo()).split('\n')
   assert.equal(lines.length, 7)
-  assert.match(lines[1], /^Thursday\t\u{EAB2}週四\u{EAB3}  zau¹ sei³  \u{EAB4}n\.\u{EAB5}\u{EAB1}Used in writing\.$/u)
+  assert.match(
+    lines[1],
+    /^Thursday\t\u{EAB2}週四\u{EAB3}  zau¹ sei³  \u{EAB4}n\.\u{EAB5}\u{EAB1}fourth weekday\u{EAB1}Used in writing\.$/u,
+  )
+})
+
+test('toPleco shows every sentence of the entry, bolding the word only where the sentence contains it', () => {
+  const NL = '\u{EAB1}'
+  const B = (s: string) => `\u{EAB2}${s}\u{EAB3}`
+  const I = (s: string) => `\u{EAB4}${s}\u{EAB5}`
+  const files = validFixture()
+  const path = 'cantonese/的士_noun_ppppppp1.json'
+  const page = JSON.parse(files[path])
+  page.english[0].exampleSentences.push(
+    // 的士 twice: only the first is bolded, in the text and in the reading. Nothing says which
+    // copy is the word (in 呢套戲好好睇 only the first 好 means "very"), and the first usually is.
+    ex('Cab after cab went by.', '的士一架架的士過。', 'dik1 si2 jat1 gaa3 gaa3 dik1 si2 gwo3'),
+    // The same sounds as 的士 but not the word: nothing is bolded.
+    ex('He just died.', '佢啱啱的死咗。', 'keoi5 ngaam1 ngaam1 dik1 si2 zo2'),
+    // The same sounds come first, the word second: the reading is bolded where the word is.
+    ex('After he died, a cab came.', '的死咗之後嚟咗架的士。', 'dik1 si2 zo2 zi1 hau6 lai4 zo2 gaa3 dik1 si2'),
+  )
+  files[path] = JSON.stringify(page, null, 2) + '\n'
+  const cab = toPleco(loadValidRepo(writeTree(files)))
+    .split('\n')
+    .find(line => line.startsWith(`cab\t${B('的士')}`))
+  assert.equal(
+    cab,
+    `cab\t${B('的士')}  dik¹ si²  ${I('n.')}${NL}taxi${NL}This is the all-purpose Cantonese noun for a taxi or cab.` +
+      `${NL}${NL}我哋叫咗部${B('的士')}去機場。${NL}ngo⁵ dei⁶ giu³ zo² bou⁶ ${B('dik¹ si²')} heoi³ gei¹ coeng⁴${NL}${I('We called a cab to the airport.')}` +
+      `${NL}${NL}${B('的士')}一架架的士過。${NL}${B('dik¹ si²')} jat¹ gaa³ gaa³ dik¹ si² gwo³${NL}${I('Cab after cab went by.')}` +
+      `${NL}${NL}佢啱啱的死咗。${NL}keoi⁵ ngaam¹ ngaam¹ dik¹ si² zo²${NL}${I('He just died.')}` +
+      `${NL}${NL}的死咗之後嚟咗架${B('的士')}。${NL}dik¹ si² zo² zi¹ hau⁶ lai⁴ zo² gaa³ ${B('dik¹ si²')}${NL}${I('After he died, a cab came.')}`,
+  )
 })
 
 test('toCsv shows the first sentence of the entry, and none for an entry with none', () => {

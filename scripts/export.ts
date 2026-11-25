@@ -13,7 +13,7 @@ import { join } from 'node:path'
 import { stringify } from 'csv-stringify/sync'
 import { checkRepo } from './check.ts'
 import { listPageFiles } from './repo.ts'
-import type { AliasesFile, FrequencyFile, PageFile, Row } from './types.ts'
+import type { AliasesFile, Example, FrequencyFile, PageFile, Row } from './types.ts'
 
 export interface Repo {
   pages: PageFile[]
@@ -39,6 +39,8 @@ interface ExportRow extends Row {
   pageId: string
   /** The entry's running place on its page (position in the page's English list), the last tie-break. */
   sequence: number
+  /** Every sentence of the entry, in page order. CSV and JSONL show only the first (`example`); Pleco shows all. */
+  examples: Example[]
 }
 
 /** A word's rank in frequency.json, or undefined when it has none (those words sort after every ranked one). */
@@ -52,6 +54,12 @@ function eachRow(repo: Repo): ExportRow[] {
   for (const page of repo.pages) {
     // The running place on the page is the entry's position in its English list.
     page.english.forEach((entry, position) => {
+      // A sentence's id names it inside the repo only; the exports carry its text.
+      const examples = entry.exampleSentences.map(({ english, traditional, jyutping }) => ({
+        english,
+        traditional,
+        jyutping,
+      }))
       const row: ExportRow = {
         id: entry.id ?? `${page.id}:${entry.word}`,
         term: entry.word,
@@ -62,11 +70,10 @@ function eachRow(repo: Repo): ExportRow[] {
         traditional: page.traditional,
         jyutping: page.jyutping,
         note: entry.note ?? '',
+        examples,
       }
       if (entry.register !== undefined) row.register = entry.register
-      // A sentence's id names it inside the repo only; the exports carry its text.
-      const first = entry.exampleSentences[0]
-      if (first) row.example = { english: first.english, traditional: first.traditional, jyutping: first.jyutping }
+      if (examples[0]) row.example = examples[0]
       rows.push(row)
     })
   }
@@ -182,19 +189,65 @@ const toneMarks = (jyutping: string): string =>
 // A tab or newline inside a value would end the Pleco field or entry.
 const flat = (value: string): string => value.replace(/[\t\r\n]+/gu, ' ').trim()
 
+/**
+ * A sentence with the entry's word in bold, in its text and in its reading, the way the
+ * CantoHok card shows it. The reading is bolded only when the text contains the word, so a
+ * sentence that merely has the same sounds (的死 for 的士) stays plain. Only the first copy is
+ * bolded: nothing says which copy is the word (in 呢套戲好好睇 only the first 好 means "very").
+ */
+function boldWord(example: Example, word: string, reading: string): Example {
+  const at = example.traditional.indexOf(word)
+  if (word === '' || at === -1) return example
+  return {
+    english: example.english,
+    traditional: example.traditional.slice(0, at) + BOLD(word) + example.traditional.slice(at + word.length),
+    jyutping: boldReading(example, at, word, reading),
+  }
+}
+
+const hanCount = (text: string): number => [...text].filter(char => /\p{Script=Han}/u.test(char)).length
+const SYLLABLE = /[a-z]+[1-6]/gu
+
+/**
+ * The sentence's reading with the word's syllables in bold. When every Chinese character has
+ * exactly one syllable, the syllables at the word's own position are bolded, so a homophone
+ * earlier in the sentence (汽 before 氣, both hei3) stays plain. Otherwise the positions cannot
+ * be lined up, and the first run of syllables that sounds like the word is bolded.
+ */
+function boldReading(example: Example, at: number, word: string, reading: string): string {
+  const sentence = [...example.jyutping.matchAll(SYLLABLE)]
+  const own = reading.match(SYLLABLE) ?? []
+  if (own.length === 0) return example.jyutping
+  let first: number
+  if (sentence.length === hanCount(example.traditional) && own.length === hanCount(word)) {
+    first = hanCount(example.traditional.slice(0, at))
+  } else {
+    first = sentence.findIndex((_, i) => own.every((syllable, k) => sentence[i + k]?.[0] === syllable))
+    if (first === -1) return example.jyutping
+  }
+  const from = sentence[first].index
+  const last = sentence[first + own.length - 1]
+  const to = last.index + last[0].length
+  return example.jyutping.slice(0, from) + BOLD(example.jyutping.slice(from, to)) + example.jyutping.slice(to)
+}
+
 /** Builds the cantohok-en-yue.txt contents: the whole dictionary formatted for the Pleco app to import as a user dictionary. */
 export function toPleco(repo: Repo): string {
   const lines = eachRow(repo).map(row => {
     const pos = POS_ABBREVIATION[row.partOfSpeech] ?? row.partOfSpeech
     const label = row.register ? `${pos}, ${row.register}` : pos
-    const parts = [`${BOLD(flat(row.traditional))}  ${toneMarks(flat(row.jyutping))}  ${ITALIC(label)}`, flat(row.note)]
-    if (row.example) {
-      parts.push(
-        '',
-        flat(row.example.traditional),
-        toneMarks(flat(row.example.jyutping)),
-        ITALIC(flat(row.example.english)),
+    const parts = [
+      `${BOLD(flat(row.traditional))}  ${toneMarks(flat(row.jyutping))}  ${ITALIC(label)}`,
+      flat(row.meaning),
+    ]
+    if (row.note) parts.push(flat(row.note))
+    for (const example of row.examples) {
+      const shown = boldWord(
+        { english: flat(example.english), traditional: flat(example.traditional), jyutping: flat(example.jyutping) },
+        flat(row.traditional),
+        flat(row.jyutping),
       )
+      parts.push('', shown.traditional, toneMarks(shown.jyutping), ITALIC(shown.english))
     }
     return `${flat(row.term)}\t${parts.join(NL)}`
   })
