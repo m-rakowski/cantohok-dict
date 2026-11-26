@@ -53,7 +53,12 @@ function editCab(edit: (cab: any) => void): (files: Record<string, string>) => v
         entry.meaning = row.meaning
         entry.note = row.note
         // The page's sentence keeps its id when the row's text is copied over it.
-        if (row.example) entry.exampleSentences = [{ id: entry.exampleSentences[0]?.id ?? 'sssssss1', ...row.example }]
+        if (row.example) {
+          const [first] = entry.exampleSentences
+          entry.exampleSentences = [
+            { id: first?.id ?? 'sssssss1', ...row.example, source: first?.source ?? { by: 'gpt-5.6-luna' } },
+          ]
+        }
         if (row.register === undefined) delete entry.register
         else entry.register = row.register
       }
@@ -1703,6 +1708,7 @@ test('two example sentences with one id on a page', () => {
         english: 'The cab is late.',
         traditional: '架的士遲咗。',
         jyutping: 'gaa3 dik1 si2 ci4 zo2',
+        source: { by: 'gpt-5.6-luna' },
       }),
     ),
   )
@@ -1717,6 +1723,7 @@ test('the same example sentence id on two pages', () => {
       english: 'See you on Thursday.',
       traditional: '星期四見。',
       jyutping: 'sing1 kei4 sei3 gin3',
+      source: { by: 'gpt-5.6-luna' },
     })
     files[THURSDAY_PAGE] = JSON.stringify(page, null, 2) + '\n'
   })
@@ -1849,4 +1856,94 @@ test('a page with no English word and two meanings', () => {
     ),
     [`${AA_PAGE}: a page with no English word has one entry; give each other meaning a page of its own`],
   )
+})
+
+// A sentence's source: who wrote it, or which corpus line it was copied from.
+const HKCANCOR_LINE = '5a5bd02187dbff6a'
+const HKCANCOR_TEXT = '但係個，你個唇膏比較淺色，深et1et1少少，我覺得可以。'
+const setCabSentence = (edit: (sentence: any) => void) =>
+  editPage(CAB_PAGE, page => edit(page.english[0].exampleSentences[0]))
+
+test('a sentence copied from a corpus line, with the English written here, passes', () => {
+  assert.deepEqual(
+    checkWith(
+      setCabSentence(sentence => {
+        sentence.traditional = HKCANCOR_TEXT
+        sentence.source = { corpus: 'hkcancor', line: HKCANCOR_LINE, englishBy: 'gpt-5.6-luna' }
+      }),
+    ),
+    [],
+  )
+})
+
+test('a sentence without a source is refused', () => {
+  assert.deepEqual(checkWith(setCabSentence(sentence => delete sentence.source)), [
+    `${CAB_PAGE}: /english/0/exampleSentences/0 must have required property 'source'`,
+  ])
+})
+
+test('a writer not in the list is refused', () => {
+  const errors = checkWith(setCabSentence(sentence => (sentence.source = { by: 'gpt-4' })))
+  assert.ok(
+    errors.length > 0 && errors.every(error => error.startsWith(`${CAB_PAGE}: /english/0/exampleSentences/0/source`)),
+    errors.join('\n'),
+  )
+})
+
+test('a source with both a writer and a corpus line is refused', () => {
+  const errors = checkWith(
+    setCabSentence(sentence => (sentence.source = { by: 'gpt-5.6-luna', corpus: 'hkcancor', line: HKCANCOR_LINE })),
+  )
+  assert.ok(
+    errors.length > 0 && errors.every(error => error.startsWith(`${CAB_PAGE}: /english/0/exampleSentences/0/source`)),
+    errors.join('\n'),
+  )
+})
+
+test('a sentence copied from a corpus line that does not exist is refused', () => {
+  assert.deepEqual(checkWith(setCabSentence(sentence => (sentence.source = { corpus: 'hkcancor', line: 'nope' }))), [
+    `${CAB_PAGE}: sentence "sssssss1" says it is corpus/hkcancor line "nope", and corpus/hkcancor has no such line`,
+  ])
+})
+
+test('a sentence whose Chinese differs from the corpus line it names is refused', () => {
+  assert.deepEqual(
+    checkWith(setCabSentence(sentence => (sentence.source = { corpus: 'hkcancor', line: HKCANCOR_LINE }))),
+    [
+      `${CAB_PAGE}: sentence "sssssss1" says it is corpus/hkcancor line "${HKCANCOR_LINE}", whose text is "${HKCANCOR_TEXT}", not "我哋叫咗部的士去機場。"`,
+    ],
+  )
+})
+
+test("a copied sentence without englishBy must carry the corpus line's own English", () => {
+  assert.deepEqual(
+    checkWith(
+      setCabSentence(sentence => {
+        sentence.traditional = HKCANCOR_TEXT
+        sentence.source = { corpus: 'hkcancor', line: HKCANCOR_LINE }
+      }),
+    ),
+    [
+      `${CAB_PAGE}: sentence "sssssss1" says its English is corpus/hkcancor line "${HKCANCOR_LINE}"'s own, and that line has no such English by a person: name who wrote it in englishBy`,
+    ],
+  )
+})
+
+test("a copied Tatoeba sentence with its translator's English needs no englishBy", () => {
+  assert.deepEqual(
+    checkWith(
+      setCabSentence(sentence => {
+        sentence.english = 'Where are my dragons?'
+        sentence.traditional = '我啲龍喺邊度呀？'
+        sentence.source = { corpus: 'tatoeba', line: '1792543' }
+      }),
+    ),
+    [],
+  )
+})
+
+test('a sentence that says it was written here but is a corpus line word for word is refused', () => {
+  assert.deepEqual(checkWith(setCabSentence(sentence => (sentence.traditional = '我啲龍喺邊度呀？'))), [
+    `${CAB_PAGE}: sentence "sssssss1" says it was written by gpt-5.6-luna, but it is corpus/tatoeba line "1792543" word for word: give it that line as its source`,
+  ])
 })

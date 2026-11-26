@@ -9,7 +9,12 @@ export interface Example {
   english: string
   traditional: string
   jyutping: string
+  /** Where a page sentence came from (page.schema.json requires it). Legacy word rows have none. */
+  source?: SentenceSource
 }
+
+/** Who wrote a sentence (`by`), or the corpus line it was copied from; `englishBy` names who wrote its English when someone else did. */
+export type SentenceSource = { by: string; englishBy?: string } | { corpus: string; line: string; englishBy?: string }
 
 export interface Row {
   id: string

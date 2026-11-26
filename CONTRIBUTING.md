@@ -143,7 +143,8 @@ part of speech, one reading and one sense. Here is
           "id": "k3m9x2pq",
           "english": "I wave to him when I leave.",
           "traditional": "我走嗰陣同佢揮手。",
-          "jyutping": "ngo5 zau2 go2 zan6 tung4 keoi5 fai1 sau2"
+          "jyutping": "ngo5 zau2 go2 zan6 tung4 keoi5 fai1 sau2",
+          "source": { "by": "gpt-5.6-luna" }
         }
       ]
     }
@@ -217,6 +218,25 @@ part of speech, one reading and one sense. Here is
   brand-new sentence gets a new `id`, and so does a copy: if a sentence is kept
   in two places, the second one gets its own. Sentence ids are not in
   `pages-by-id.json`, and the exports leave them out.
+- Every example sentence says where it came from, in `source`. A sentence
+  written for the dictionary names its writer: `{ "by": "gpt-5.6-luna" }` (the
+  model most sentences were written with), or `cantonesellm-v2.0-30b`,
+  `claude-opus-5.5`, `claude` (a Claude model whose name was not recorded), or
+  `contributor` (a person: a reader who suggested it, or the maintainer). A
+  sentence copied from a line of `corpus/` names that line instead, so anyone
+  can find the original and its license: `{ "corpus": "hkcancor", "line":
+"bb6fb93ff6fa85b7", "englishBy": "gpt-5.6-luna" }`. `englishBy` names who
+  wrote the English when that is not the sentence's writer (a written sentence)
+  or not the corpus's own translator (a copied one); a Tatoeba sentence with its
+  translator's English has none. The check refuses a sentence without a source,
+  a writer not in the schema's list, a line that is not in `corpus/`, a line
+  whose text is not the sentence's Chinese, a copied sentence without
+  `englishBy` whose English is not the line's own by a person, and a sentence
+  said to be written here that is a corpus line word for word (it is a copy: give
+  it that line). Rewriting a sentence's Chinese makes you its writer, and
+  rewriting only its English makes you its `englishBy`: change the `source` to
+  say so. A new writer is added to the schema's `writer` list on purpose, in the
+  change that first uses it.
 - An English entry's `note` is held to the same rules as a note on a row (it
   must read on its own), and an English example must name real people and things rather than
   placeholder letters.

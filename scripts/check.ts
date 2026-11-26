@@ -85,11 +85,11 @@
 // page.schema.json, pages-by-id.schema.json, frequency.schema.json, aliases.schema.json, pictures.schema.json). This file loads those schemas
 // and reports whatever they flag, on top of the checks above that only make
 // sense by comparing files to each other.
-import { existsSync, readFileSync } from 'node:fs'
+import { existsSync, readdirSync, readFileSync } from 'node:fs'
 import { join } from 'node:path'
 import { Ajv2020 } from 'ajv/dist/2020.js'
 import type { ValidateFunction } from 'ajv'
-import { checkCorpus } from './corpus.ts'
+import { checkCorpus, CORPUS_SOURCES, type CorpusSource } from './corpus.ts'
 import { formatSchemaError } from './schema-errors.ts'
 import { listPageFiles, listWordFiles } from './repo.ts'
 import { noteProblems, placeholderLetters } from './shown-text.ts'
@@ -239,6 +239,95 @@ function checkSentenceIds(pages: CheckedPage[], errors: string[]): void {
         const earlier = firstSeen.get(sentence.id)
         if (earlier === undefined) firstSeen.set(sentence.id, page.path)
         else errors.push(`${page.path}: example sentence id "${sentence.id}" is already used in ${earlier}`)
+      }
+  }
+}
+
+// Sentences written for the dictionary that happen to be a corpus line word for word: short, everyday sentences the
+// writer produced before corpus/ existed, not copies. Any other written sentence that equals a corpus line is refused.
+const WRITTEN_LIKE_A_CORPUS_LINE = new Set([
+  'imgcu1of', // 呢本書係我嘅。
+  'ejfzzwh2', // 呢本書係我嘅。
+  '00oxjxpn', // 冇錯！
+  'd89pbhir', // 我踩單車返工。
+  '4ha5l3t8', // 今日好凍。
+  'irmrs626', // 我好掛住你。
+  'p1pxw0vr', // 我會永遠記住你。
+  'id90k37e', // 我永遠都唔會忘記你。
+  '7qtdw74u', // 今日天氣好熱。
+  'l7gnh6pb', // 聽日係我生日。
+  'aswozosk', // 你隻錶而家幾點呀？
+  'cl0f3zok', // 我部電腦壞咗。
+])
+
+interface CorpusLine {
+  corpus: CorpusSource
+  id: string
+  text: string
+  english: { by: string; text: string }[]
+}
+
+/** Every corpus line, by `<corpus>\t<id>` and by its text. */
+function readCorpusLines(root: string): { byId: Map<string, CorpusLine>; byText: Map<string, CorpusLine> } {
+  const byId = new Map<string, CorpusLine>()
+  const byText = new Map<string, CorpusLine>()
+  for (const corpus of CORPUS_SOURCES) {
+    const dir = join(root, 'corpus', corpus)
+    if (!existsSync(dir)) continue
+    for (const name of readdirSync(dir))
+      if (name.endsWith('.jsonl'))
+        for (const json of readFileSync(join(dir, name), 'utf8').split('\n')) {
+          if (!json) continue
+          let value: { id: string; text: string; english?: { by: string; text: string }[] }
+          try {
+            value = JSON.parse(json)
+          } catch {
+            continue // reported by checkCorpus
+          }
+          const line = { corpus, id: value.id, text: value.text, english: value.english ?? [] }
+          byId.set(`${corpus}\t${line.id}`, line)
+          if (!byText.has(line.text)) byText.set(line.text, line)
+        }
+  }
+  return { byId, byText }
+}
+
+/**
+ * One message per sentence whose source does not hold. A copied sentence names its corpus line so anyone can find
+ * the original and its license, so the line must be there, its text must be the sentence's Chinese, and without
+ * englishBy its English must be that line's own English by a person. A written sentence must not be a corpus line
+ * word for word: that is an unlabeled copy (WRITTEN_LIKE_A_CORPUS_LINE lists the few that are not). Pages that
+ * failed the schema are skipped; a malformed source is reported there.
+ */
+function checkSentenceSources(root: string, pages: CheckedPage[], errors: string[]): void {
+  let lines: ReturnType<typeof readCorpusLines> | null = null
+  for (const page of pages) {
+    if (!page.file) continue
+    for (const entry of page.file.english)
+      for (const sentence of entry.exampleSentences) {
+        const source = sentence.source
+        if (!source) continue
+        lines ??= readCorpusLines(root)
+        if ('by' in source) {
+          const line = lines.byText.get(sentence.traditional)
+          if (line && !WRITTEN_LIKE_A_CORPUS_LINE.has(sentence.id ?? ''))
+            errors.push(
+              `${page.path}: sentence "${sentence.id}" says it was written by ${source.by}, but it is corpus/${line.corpus} line "${line.id}" word for word: give it that line as its source`,
+            )
+          continue
+        }
+        const said = `sentence "${sentence.id}" says it is corpus/${source.corpus} line "${source.line}"`
+        const line = lines.byId.get(`${source.corpus}\t${source.line}`)
+        if (!line) errors.push(`${page.path}: ${said}, and corpus/${source.corpus} has no such line`)
+        else if (line.text !== sentence.traditional)
+          errors.push(`${page.path}: ${said}, whose text is "${line.text}", not "${sentence.traditional}"`)
+        else if (
+          source.englishBy === undefined &&
+          !line.english.some(english => english.by !== 'machine' && english.text === sentence.english)
+        )
+          errors.push(
+            `${page.path}: sentence "${sentence.id}" says its English is corpus/${source.corpus} line "${source.line}"'s own, and that line has no such English by a person: name who wrote it in englishBy`,
+          )
       }
   }
 }
@@ -542,6 +631,7 @@ export function checkRepo(root: string): string[] {
   checkPageIds(pages, words, errors)
   checkPageReadings(pages, errors)
   checkSentenceIds(pages, errors)
+  checkSentenceSources(root, pages, errors)
   checkPageLookup(root, pages, words, errors)
   const beforeFrequency = errors.length
   const frequency = checkFrequency(root, words, pages, errors)
