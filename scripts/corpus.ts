@@ -73,9 +73,9 @@ function compareIds(source: CorpusSource, a: string, b: string): number {
   return a < b ? -1 : a > b ? 1 : 0
 }
 
-const HAN = /\p{Script=Han}/gu
+export const HAN = /\p{Script=Han}/gu
 // Lowercase only: a syllable is written in lowercase, and an uppercase run (C5) is Latin left as is.
-const TONED = /[a-z]+[1-6]/gu
+export const TONED = /[a-z]+[1-6]/gu
 
 /** Why a line's reading is wrong, or null. */
 export function readingProblem(source: CorpusSource, line: Line): string | null {

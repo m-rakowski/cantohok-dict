@@ -85,6 +85,7 @@
 // page.schema.json, pages-by-id.schema.json, frequency.schema.json, aliases.schema.json, pictures.schema.json). This file loads those schemas
 // and reports whatever they flag, on top of the checks above that only make
 // sense by comparing files to each other.
+import { patternProblem } from './pattern.ts'
 import { existsSync, readdirSync, readFileSync } from 'node:fs'
 import { join } from 'node:path'
 import { Ajv2020 } from 'ajv/dist/2020.js'
@@ -384,6 +385,8 @@ function checkPages(root: string, errors: string[]): CheckedPage[] {
       else if (id !== null && pagePath(traditional, partOfSpeech, id) !== path)
         errors.push(`${path}: file name does not match ${named} (expected ${pagePath(traditional, partOfSpeech, id)})`)
       nameOk = !problem && id !== null && pagePath(traditional, partOfSpeech, id) === path
+      const shape = isFilled(json.jyutping) ? patternProblem(traditional, json.jyutping) : null
+      if (shape) errors.push(`${path}: ${shape}`)
     }
     // A page's English type is its English word's: none exactly when no entry has a word, so a page is never half
     // English (one word and one entry without).
