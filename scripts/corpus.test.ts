@@ -96,14 +96,14 @@ test('a null reading is allowed', () => {
   )
 })
 
-test("a corpus reading that is not its words' readings joined", () => {
+test("a corpus reading that is not its words' readings with the sentence's marks", () => {
   assert.deepEqual(
     checkWith(files => {
       const value = parse(files, HKCANCOR)
       files[HKCANCOR] = line({ ...value, jyutping: value.jyutping.replace('daan6 hai6', 'daan6 hai2') })
     }),
     [
-      'corpus/hkcancor/49.jsonl:1: jyutping is not its words\' readings joined ("daan6 hai6 go3 nei5 go3 seon4 gou1 bei2 gaau3 cin2 sik1 sam1 et1 et1 siu2 siu2 ngo5 gok3 dak1 ho2 ji5")',
+      'corpus/hkcancor/49.jsonl:1: jyutping is not its words\' readings with the sentence\'s marks ("daan6 hai6 go3，nei5 go3 seon4 gou1 bei2 gaau3 cin2 sik1，sam1 et1 et1 siu2 siu2，ngo5 gok3 dak1 ho2 ji5。")',
     ],
   )
   assert.deepEqual(
@@ -111,7 +111,93 @@ test("a corpus reading that is not its words' readings joined", () => {
       const value = parse(files, HAMBAANGLAANG)
       files[HAMBAANGLAANG] = line({ ...value, words: value.words.slice(1) })
     }),
-    ['corpus/hambaanglaang/0a.jsonl:1: jyutping is not its words\' readings joined ("dim2 zung1 cin4 cek1 au1 gaa3")'],
+    ["corpus/hambaanglaang/0a.jsonl:1: words do not cover the text's Han characters, in order"],
+  )
+})
+
+test("a corpus reading without the sentence's marks, as the source wrote it, is refused", () => {
+  assert.deepEqual(
+    checkWith(files => {
+      files[HAMBAANGLAANG] = line({
+        ...parse(files, HAMBAANGLAANG),
+        jyutping: 'sap6 ji6 dim2 zung1 cin4 cek1 au1 gaa3',
+      })
+    }),
+    [
+      'corpus/hambaanglaang/0a.jsonl:1: jyutping is not its words\' readings with the sentence\'s marks ("sap6 ji6 dim2 zung1 cin4 cek1 au1 gaa3。")',
+    ],
+  )
+})
+
+test('a mark between two words sits flush; a Latin run no word reads is copied as a word', () => {
+  assert.deepEqual(
+    checkWith(files => {
+      const value = parse(files, HAMBAANGLAANG)
+      files[HAMBAANGLAANG] = line({
+        ...value,
+        text: '（十二）點鐘BB前checkout㗎！',
+        jyutping: '（sap6 ji6）dim2 zung1 BB cin4 cek1 au1 gaa3！',
+      })
+    }),
+    [],
+  )
+})
+
+test("marks at the edges of a word's own text are copied too; marks inside it are the word's reading", () => {
+  assert.deepEqual(
+    checkWith(files => {
+      const value = parse(files, HAMBAANGLAANG)
+      files[HAMBAANGLAANG] = line({
+        ...value,
+        text: '打波：「好7-11前。」',
+        jyutping: 'daa2 bo1：「hou2 caat1 sap6 jat1 cin4。」',
+        words: [
+          { jyutping: 'daa2-bo1', text: '打波：' },
+          { jyutping: 'hou2', text: '「好' },
+          { jyutping: 'caat1-sap6-jat1', text: '7-11' },
+          { jyutping: 'cin4', text: '前。」' },
+        ],
+      })
+    }),
+    [],
+  )
+})
+
+test("a mark at a word's edge that its reading speaks is not copied again", () => {
+  assert.deepEqual(
+    checkWith(files => {
+      const value = parse(files, HAMBAANGLAANG)
+      files[HAMBAANGLAANG] = line({
+        ...value,
+        text: '放少15%嘅(An鴨)。',
+        jyutping: 'fong3 siu2 sap6 ng5 percent ge3(en1 aap2)。',
+        words: [
+          { jyutping: 'fong3-siu2', text: '放少' },
+          { jyutping: 'sap6-ng5-percent', text: '15%' },
+          { jyutping: 'ge3', text: '嘅' },
+          { jyutping: 'En1-aap2', text: '(An鴨)' },
+        ],
+      })
+    }),
+    [],
+  )
+})
+
+test('a mark after whitespace in the sentence keeps a space before it, as Tatoeba readings do', () => {
+  assert.deepEqual(
+    checkWith(files => {
+      const value = parse(files, HAMBAANGLAANG)
+      files[HAMBAANGLAANG] = line({
+        ...value,
+        text: '張相 ──我。',
+        jyutping: 'zoeng1 soeng2 ──ngo5。',
+        words: [
+          { jyutping: 'zoeng1-soeng2', text: '張相' },
+          { jyutping: 'ngo5', text: '我' },
+        ],
+      })
+    }),
+    [],
   )
 })
 

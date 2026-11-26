@@ -10,5 +10,7 @@ Each line's second `english` entry, `"by": "machine"`, is a machine translation 
 sentence added by this repository, and is covered by its license, CC BY-SA 4.0
 (../../LICENSE). The word-by-word gloss (`"by": "word by word"`) stays the readers'.
 
-Changes: readings (and, for HKCanCor, the English) may have been corrected in this
-repository; each line's git history shows what changed. See ../README.md, "Changes made here".
+Changes: the top-level `jyutping` of each line is the words' own readings, lowercased with
+each `-` turned into a space, with the sentence's punctuation, and any Latin text no word reads,
+copied in between them; the gloss is joined with `/`; readings may have been corrected in this
+repository, and each line's git history shows what changed. See ../README.md, "Changes made here".

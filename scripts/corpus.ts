@@ -9,14 +9,16 @@
 // - An id appears once per source.
 // - A generated reading (jyutpingBy "picker" or "tojyutping") has one syllable per Han character
 //   in the text, plus one for each lowercase letter-and-tone run the text itself contains (a
-//   chess square written c5 stays c5). It counts; it does not check which syllable is which. A corpus reading ("corpus") is the corpus's own words' readings joined,
-//   because these corpora read digits and Latin letters aloud too (323 is saam1 ji6 saam1).
+//   chess square written c5 stays c5). It counts; it does not check which syllable is which. A corpus reading ("corpus") is the corpus's own words' readings
+//   with the sentence's marks copied in between (corpusReading), because these corpora read
+//   digits and Latin letters aloud too (323 is saam1 ji6 saam1).
 // - Each source folder has a LICENSE file, and corpus/ holds nothing but README.md and the
 //   four source folders.
 import { createHash } from 'node:crypto'
 import { existsSync, readdirSync, readFileSync, statSync } from 'node:fs'
 import { join } from 'node:path'
 import { Ajv2020 } from 'ajv/dist/2020.js'
+import { corpusReading } from './corpus-reading.ts'
 import { formatSchemaError } from './schema-errors.ts'
 import tatoebaSchema from '../schema/corpus-tatoeba.schema.json' with { type: 'json' }
 import hkcancorSchema from '../schema/corpus-hkcancor.schema.json' with { type: 'json' }
@@ -79,15 +81,11 @@ const TONED = /[a-z]+[1-6]/gu
 export function readingProblem(source: CorpusSource, line: Line): string | null {
   if (line.jyutping === null) return null
   if (line.jyutpingBy === 'corpus') {
-    const words = line.words ?? []
-    const joined =
-      source === 'hambaanglaang'
-        ? words
-            .map(word => word.jyutping.replaceAll('-', ' '))
-            .join(' ')
-            .toLowerCase()
-        : words.map(word => word.jyutping).join(' ')
-    return joined === line.jyutping ? null : `jyutping is not its words' readings joined ("${joined}")`
+    const expected = corpusReading(source, line)
+    if (expected === null) return "words do not cover the text's Han characters, in order"
+    return expected === line.jyutping
+      ? null
+      : `jyutping is not its words' readings with the sentence's marks ("${expected}")`
   }
   const expected = (line.text.match(HAN) ?? []).length + (line.text.match(TONED) ?? []).length
   const found = (line.jyutping.match(TONED) ?? []).length
