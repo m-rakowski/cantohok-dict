@@ -178,6 +178,13 @@ part of speech, one reading and one sense. Here is
   entry; another meaning of the word is a page of its own. The English exports
   (`pnpm run export`) leave these entries out, since they have no English
   headword to be listed under.
+- A pattern, a phrase with a slot someone fills, writes the slot as `…`
+  (U+2026, one character): 同…作對 "to go against someone", 直到…先 "not
+  until". The reading has a `…` token in the same place (`tung4 … zok3
+deoi3`). A slot at the start or end is left out (百分之 "percent", not
+  百分之…), and the headword has no `+`, no `...` and no spaces.
+  `pnpm run check` refuses each of these. It cannot tell a slot letter from a
+  real one (A貨, 卡拉OK), so never write a slot as a letter (`A`, `N`, `V`).
 - `variants` (optional) lists other spellings of the same word, such as an
   older spelling, so a search for them finds this page. None may be the page's
   own `traditional`.

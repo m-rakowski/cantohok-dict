@@ -1203,13 +1203,14 @@ test('a name ending in a dot or a space is fine; a control character is not', ()
   assert.equal(pageNameProblem('的士', 'noun'), null)
 })
 
-test('a page whose characters end in "..." is a valid file name', () => {
-  const path = 'cantonese/啱啱 + V + 就..._phrase_ppppppp4.json'
+test('a page whose characters end in a dot is a valid file name', () => {
+  // Was 啱啱 + V + 就..., until pattern.ts refused "+" and "..." in a headword: the dot is what this is about.
+  const path = 'cantonese/的士._phrase_ppppppp4.json'
   assert.deepEqual(
     checkWith(files => {
       files[path] = cabPageCopy(files)
         .replace('ppppppp1', 'ppppppp4')
-        .replace('"traditional": "的士"', '"traditional": "啱啱 + V + 就..."')
+        .replace('"traditional": "的士"', '"traditional": "的士."')
         .replace('"noun"', '"phrase"')
       editLookup(lookup => {
         lookup.ppppppp4 = 'ppppppp4'
@@ -1946,4 +1947,21 @@ test('a sentence that says it was written here but is a corpus line word for wor
   assert.deepEqual(checkWith(setCabSentence(sentence => (sentence.traditional = '我啲龍喺邊度呀？'))), [
     `${CAB_PAGE}: sentence "sssssss1" says it was written by gpt-5.6-luna, but it is corpus/tatoeba line "1792543" word for word: give it that line as its source`,
   ])
+})
+
+// pattern.ts: a page's headword with a slot is checked on every page, at the file-name check.
+test('a page with a "+" or an edge "…" in its headword is refused', () => {
+  const rewrite = (traditional: string, jyutping: string) => (files: Record<string, string>) => {
+    const page = JSON.parse(files[CAB_PAGE])
+    delete files[CAB_PAGE]
+    files[`cantonese/${traditional}_noun_ppppppp1.json`] =
+      JSON.stringify({ ...page, traditional, jyutping }, null, 2) + '\n'
+  }
+  assert.deepEqual(checkWith(rewrite('的士 + N', 'dik1 si2 N')), [
+    'cantonese/的士 + N_noun_ppppppp1.json: a "+" in the headword: write a slot as "…" and join the rest (同…作對)',
+  ])
+  assert.deepEqual(checkWith(rewrite('的士…', 'dik1 si2 …')), [
+    'cantonese/的士…_noun_ppppppp1.json: a "…" at the start or end of the headword: leave an edge slot out (百分之, not 百分之…)',
+  ])
+  assert.deepEqual(checkWith(rewrite('的…士', 'dik1 … si2')), [])
 })
