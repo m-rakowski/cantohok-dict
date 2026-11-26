@@ -9,12 +9,13 @@
       "exampleSentences": [
         {
           "id": "e18w0a9b",
-          "english": "Root beer is considered a classic American carbonated soft drink.",
-          "traditional": "麥根沙士可算係一種經典嘅美式碳酸飲品。",
-          "jyutping": "mak6 gan1 saa1 si2 ho2 syun3 hai6 jat1 zung2 ging1 din2 ge3 mei5 sik1 taan3 syun1 jam2 ban2。",
+          "english": "Ugh, I’m sleepy. I’ll have a coffee first.",
+          "traditional": "唉，眼瞓，飲支咖啡飲品先",
+          "jyutping": "ai1，ngaan5 fan3，jam2 zi1 gaa3 fe1 jam2 ban2 sin1",
           "source": {
-            "corpus": "tatoeba",
-            "line": "1531626"
+            "corpus": "commonvoice",
+            "englishBy": "gpt-5.6-luna",
+            "line": "common_voice_yue_32768281"
           }
         }
       ]
