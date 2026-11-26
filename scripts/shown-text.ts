@@ -43,6 +43,8 @@ const LONE_CAPITAL = /(?<![\p{L}\p{N}]|[\p{L}\p{N}][&.'’-])\p{Lu}(?![\p{L}\p{N
 const SENTENCE_START = /(?:^|(?<!\b(?:Mr|Mrs|Ms|Dr|Prof|St))[.!?]\s+|:\s+|[—–]\s*|["“‘'(]\s*)$/
 // Words that are normally followed by a single letter.
 const TAKES_A_LETTER = /\b(?:plan|vitamin|grade|type|class)\s$/i
+// Words that normally follow a single letter: Hong Kong's "H shares" (and A, B shares).
+const FOLLOWS_A_LETTER = /^\s(?:shares?)\b/i
 
 /** What is wrong with a row's `note`, as phrases that complete "row <id> ..." (empty means the note is fine). `term` and `meaning` are the row's own, which decide whether "slice" is allowed. */
 export function noteProblems(note: string, term: string, meaning: string): string[] {
@@ -67,7 +69,7 @@ export function placeholderLetters(english: string): string[] {
     const before = english.slice(0, match.index)
     const after = english.slice(match.index + 1)
     if (letter === 'A' && SENTENCE_START.test(before) && /^ [\p{L}\p{N}]/u.test(after)) continue
-    if (TAKES_A_LETTER.test(before)) continue
+    if (TAKES_A_LETTER.test(before) || FOLLOWS_A_LETTER.test(after)) continue
     found.push(letter)
   }
   return found
