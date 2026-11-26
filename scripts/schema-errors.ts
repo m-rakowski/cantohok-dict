@@ -8,7 +8,7 @@ export function formatSchemaError(path: string, error: ErrorObject): string {
     error.keyword === 'additionalProperties'
       ? ` "${(error.params as { additionalProperty: string }).additionalProperty}"`
       : error.keyword === 'enum'
-        ? `: ${(error.params as { allowedValues: string[] }).allowedValues.join(', ')}`
+        ? `: ${(error.params as { allowedValues: unknown[] }).allowedValues.map(String).join(', ')}`
         : ''
   return `${path}: ${where} ${error.message}${extra}`
 }

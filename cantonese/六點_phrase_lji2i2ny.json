@@ -1,0 +1,39 @@
+{
+  "id": "lji2i2ny",
+  "partOfSpeech": "phrase",
+  "english": [
+    {
+      "id": "lypzemnx",
+      "word": "six o'clock",
+      "meaning": "the hour of six",
+      "note": "六點幾 means a bit after six.",
+      "exampleSentences": [
+        {
+          "id": "ef8islif",
+          "english": "So does that mean we won’t be out until around six or seven that day too?",
+          "traditional": "噉即係係唔係即係嗰日都會成六點幾七點先出來囖？",
+          "jyutping": "gam2 zik1 hai6 hai6 m4 hai6 zik1 hai6 go2 jat6 dou1 wui5 seng4 luk6 dim2 gei2 cat1 dim2 sin1 ceot1 lai4 lo1",
+          "source": {
+            "corpus": "hkcancor",
+            "englishBy": "gpt-5.6-luna",
+            "line": "67efaf24adb0d2fa"
+          }
+        },
+        {
+          "id": "769gp6l5",
+          "english": "I've been getting home around six after work all week.",
+          "traditional": "我啊，而家連續啊，成個禮拜啊，六點幾返到屋企嚹收工之後。",
+          "jyutping": "ngo5 aa3 ji4 gaa1 lin4 zuk6 aa3 seng4 go3 lai5 baai3 aa3 luk6 dim2 gei2 faan1 dou3 uk1 kei2 laa3 sau1 gung1 zi1 hau6",
+          "source": {
+            "corpus": "hkcancor",
+            "englishBy": "gpt-5.6-luna",
+            "line": "19e0e7daf6c0a011"
+          }
+        }
+      ]
+    }
+  ],
+  "traditional": "六點",
+  "jyutping": "luk6 dim2",
+  "cantonesePartOfSpeech": "time word"
+}

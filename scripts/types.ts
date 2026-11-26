@@ -9,7 +9,12 @@ export interface Example {
   english: string
   traditional: string
   jyutping: string
+  /** Where a page sentence came from (page.schema.json requires it). Legacy word rows have none. */
+  source?: SentenceSource
 }
+
+/** Who wrote a sentence (`by`), or the corpus line it was copied from; `englishBy` names who wrote its English when someone else did. */
+export type SentenceSource = { by: string; englishBy?: string } | { corpus: string; line: string; englishBy?: string }
 
 export interface Row {
   id: string
@@ -34,7 +39,8 @@ export interface WordFile {
  * entry without an `id` is one an editor added.
  */
 export interface EnglishEntry {
-  word: string
+  /** Null when English has no word for it (a sentence-final particle like 啊); `meaning` then says what it does. */
+  word: string | null
   id?: string
   meaning: string
   note?: string
@@ -43,14 +49,16 @@ export interface EnglishEntry {
 }
 
 /**
- * A Cantonese word page: cantonese/<traditional>_<partOfSpeech>_<id>.json. It has one reading and one sense; a second
+ * A Cantonese word page: cantonese/<traditional>_<partOfSpeech>_<id>.json (or <traditional>_<id>.json with no English
+ * word). It has one reading and one sense; a second
  * sense of the same word is a second page file. The page has no meaning, note or register of its own: each English
  * entry carries its own.
  */
 export interface PageFile {
   id: string
   traditional: string
-  partOfSpeech: string
+  /** The English word's type; null exactly when no entry has an English word. */
+  partOfSpeech: string | null
   jyutping: string
   english: EnglishEntry[]
   /** What kind of word it is in Cantonese ("time word"); `partOfSpeech` is the English word's. */
@@ -104,9 +112,11 @@ export function wordPath(term: string): string {
   return `words/${term[0].toLowerCase()}/${term}${suffix}.json`
 }
 
-/** Where a Cantonese page's file lives, relative to the repo root. */
-export function pagePath(traditional: string, partOfSpeech: string, id: string): string {
-  return `cantonese/${traditional}_${partOfSpeech}_${id}.json`
+/** Where a Cantonese page's file lives, relative to the repo root. A page with no English type leaves it out (啊_<id>.json). */
+export function pagePath(traditional: string, partOfSpeech: string | null, id: string): string {
+  return partOfSpeech === null
+    ? `cantonese/${traditional}_${id}.json`
+    : `cantonese/${traditional}_${partOfSpeech}_${id}.json`
 }
 
 // Characters no file name may hold on Windows (and "/" on any system).
@@ -129,6 +139,9 @@ function textProblem(label: string, text: string): string | null {
 }
 
 /** Null when a page's characters and part of speech can make a file name; otherwise a message naming what cannot. */
-export function pageNameProblem(traditional: string, partOfSpeech: string): string | null {
-  return textProblem('characters', traditional) ?? textProblem('part of speech', partOfSpeech)
+export function pageNameProblem(traditional: string, partOfSpeech: string | null): string | null {
+  return (
+    textProblem('characters', traditional) ??
+    (partOfSpeech === null ? null : textProblem('part of speech', partOfSpeech))
+  )
 }
