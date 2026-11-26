@@ -106,11 +106,11 @@ const CSV_COLUMNS = [
   'exampleSource',
 ]
 
-/** A sentence's source as one CSV cell: its writer, or `<corpus> <line>`, plus who wrote the English when that is not the corpus. */
+/** A sentence's source as one CSV cell: its writer or `<corpus> <line>`, then who wrote the English when someone else did. */
 function sourceText(source: SentenceSource | undefined): string {
   if (!source) return ''
-  if ('by' in source) return source.by
-  return `${source.corpus} ${source.line}${source.englishBy ? `; English by ${source.englishBy}` : ''}`
+  const from = 'by' in source ? source.by : `${source.corpus} ${source.line}`
+  return source.englishBy ? `${from}; English by ${source.englishBy}` : from
 }
 
 /**

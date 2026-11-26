@@ -358,6 +358,18 @@ test("the exports name a copied sentence's corpus line, and who wrote its Englis
   assert.deepEqual(row.example.source, { corpus: 'hkcancor', line: '5a5bd02187dbff6a', englishBy: 'gpt-5.6-luna' })
 })
 
+test("the csv names who rewrote a written sentence's English", () => {
+  const files = validFixture()
+  const path = 'cantonese/的士_noun_ppppppp1.json'
+  const page = JSON.parse(files[path])
+  page.english[0].exampleSentences[0].source = { by: 'gpt-5.6-luna', englishBy: 'claude-opus-5.5' }
+  files[path] = JSON.stringify(page, null, 2) + '\n'
+  const cab = toCsv(loadValidRepo(writeTree(files)))
+    .split('\n')
+    .find(line => line.startsWith('aaaaaaa1,'))
+  assert.ok(cab?.endsWith(',gpt-5.6-luna; English by claude-opus-5.5'), cab)
+})
+
 test('the English exports leave out an entry with no English word', () => {
   const files = validFixture()
   files['cantonese/啊_ppppppp9.json'] =

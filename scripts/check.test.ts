@@ -1914,3 +1914,36 @@ test('a sentence whose Chinese differs from the corpus line it names is refused'
     ],
   )
 })
+
+test("a copied sentence without englishBy must carry the corpus line's own English", () => {
+  assert.deepEqual(
+    checkWith(
+      setCabSentence(sentence => {
+        sentence.traditional = HKCANCOR_TEXT
+        sentence.source = { corpus: 'hkcancor', line: HKCANCOR_LINE }
+      }),
+    ),
+    [
+      `${CAB_PAGE}: sentence "sssssss1" says its English is corpus/hkcancor line "${HKCANCOR_LINE}"'s own, and that line has no such English by a person: name who wrote it in englishBy`,
+    ],
+  )
+})
+
+test("a copied Tatoeba sentence with its translator's English needs no englishBy", () => {
+  assert.deepEqual(
+    checkWith(
+      setCabSentence(sentence => {
+        sentence.english = 'Where are my dragons?'
+        sentence.traditional = '我啲龍喺邊度呀？'
+        sentence.source = { corpus: 'tatoeba', line: '1792543' }
+      }),
+    ),
+    [],
+  )
+})
+
+test('a sentence that says it was written here but is a corpus line word for word is refused', () => {
+  assert.deepEqual(checkWith(setCabSentence(sentence => (sentence.traditional = '我啲龍喺邊度呀？'))), [
+    `${CAB_PAGE}: sentence "sssssss1" says it was written by gpt-5.6-luna, but it is corpus/tatoeba line "1792543" word for word: give it that line as its source`,
+  ])
+})
