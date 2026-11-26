@@ -45,6 +45,9 @@ The sentences in `corpus/` come from, and keep the licenses of:
   via https://github.com/hblhk/stories
 - [Mozilla Common Voice](https://commonvoice.mozilla.org/yue), Cantonese (CC0 1.0)
 
+A page sentence copied from one of these corpora names its line in its `source`, and keeps that
+corpus's license.
+
 Readings added to Tatoeba and Common Voice sentences were written by ToJyutping or chosen
 from the Jyutping sources above. [corpus/README.md](corpus/README.md) says which license
 covers which field.

@@ -77,7 +77,8 @@ export function validFixture(): Record<string, string> {
           "id": "sssssss1",
           "english": "We called a cab to the airport.",
           "traditional": "我哋叫咗部的士去機場。",
-          "jyutping": "ngo5 dei6 giu3 zo2 bou6 dik1 si2 heoi3 gei1 coeng4"
+          "jyutping": "ngo5 dei6 giu3 zo2 bou6 dik1 si2 heoi3 gei1 coeng4",
+          "source": { "by": "gpt-5.6-luna" }
         }
       ]
     }
@@ -152,10 +153,10 @@ export function validFixture(): Record<string, string> {
       '{"author":null,"english":[{"by":"sadhen","id":1787898,"text":"Where are my dragons?"}],"id":"1792543","jyutping":"ngo5 di1 lung4 hai2 bin1 dou6 aa3？","jyutpingBy":"picker","text":"我啲龍喺邊度呀？"}\n',
     'corpus/hkcancor/LICENSE': 'license text\n',
     'corpus/hkcancor/49.jsonl':
-      '{"english":[{"by":"machine","text":"But your lipstick is a bit light; slightly darker would be fine."}],"id":"5a5bd02187dbff6a","jyutping":"daan6 hai6 go3 nei5 go3 seon4 gou1 bei2 gaau3 cin2 sik1 sam1 et1 et1 siu2 siu2 ngo5 gok3 dak1 ho2 ji5","jyutpingBy":"corpus","text":"但係個，你個唇膏比較淺色，深et1et1少少，我覺得可以。","words":[{"jyutping":"daan6 hai6","pos":"c","text":"但係"},{"jyutping":"go3","pos":"q","text":"個"},{"jyutping":"nei5","pos":"r","text":"你"},{"jyutping":"go3","pos":"q","text":"個"},{"jyutping":"seon4 gou1","pos":"n","text":"唇膏"},{"jyutping":"bei2 gaau3","pos":"v","text":"比較"},{"jyutping":"cin2 sik1","pos":"a","text":"淺色"},{"jyutping":"sam1","pos":"a","text":"深"},{"jyutping":"et1 et1","pos":"z","text":"et1et1"},{"jyutping":"siu2 siu2","pos":"m","text":"少少"},{"jyutping":"ngo5","pos":"r","text":"我"},{"jyutping":"gok3 dak1","pos":"v","text":"覺得"},{"jyutping":"ho2 ji5","pos":"vu","text":"可以"}]}\n',
+      '{"english":[{"by":"machine","text":"But your lipstick is a bit light; slightly darker would be fine."}],"id":"5a5bd02187dbff6a","jyutping":"daan6 hai6 go3，nei5 go3 seon4 gou1 bei2 gaau3 cin2 sik1，sam1 et1 et1 siu2 siu2，ngo5 gok3 dak1 ho2 ji5。","jyutpingBy":"corpus","text":"但係個，你個唇膏比較淺色，深et1et1少少，我覺得可以。","words":[{"jyutping":"daan6 hai6","pos":"c","text":"但係"},{"jyutping":"go3","pos":"q","text":"個"},{"jyutping":"nei5","pos":"r","text":"你"},{"jyutping":"go3","pos":"q","text":"個"},{"jyutping":"seon4 gou1","pos":"n","text":"唇膏"},{"jyutping":"bei2 gaau3","pos":"v","text":"比較"},{"jyutping":"cin2 sik1","pos":"a","text":"淺色"},{"jyutping":"sam1","pos":"a","text":"深"},{"jyutping":"et1 et1","pos":"z","text":"et1et1"},{"jyutping":"siu2 siu2","pos":"m","text":"少少"},{"jyutping":"ngo5","pos":"r","text":"我"},{"jyutping":"gok3 dak1","pos":"v","text":"覺得"},{"jyutping":"ho2 ji5","pos":"vu","text":"可以"}]}\n',
     'corpus/hambaanglaang/LICENSE': 'license text\n',
     'corpus/hambaanglaang/0a.jsonl':
-      '{"author":"939","english":[{"by":"word by word","text":"twelve / o\'clock / before / check / out / (particle)"}],"id":"00057#0000","jyutping":"sap6 ji6 dim2 zung1 cin4 cek1 au1 gaa3","jyutpingBy":"corpus","text":"十二點鐘前checkout㗎。","title":"Lv1《生活謊言》","url":"https://hambaanglaang.hk/all-levels/","words":[{"jyutping":"sap6-ji6","text":"十二"},{"jyutping":"dim2-zung1","text":"點鐘"},{"jyutping":"cin4","text":"前"},{"jyutping":"cek1","text":"check"},{"jyutping":"au1","text":"out"},{"jyutping":"gaa3","text":"㗎"}]}\n',
+      '{"author":"939","english":[{"by":"word by word","text":"twelve / o\'clock / before / check / out / (particle)"}],"id":"00057#0000","jyutping":"sap6 ji6 dim2 zung1 cin4 cek1 au1 gaa3。","jyutpingBy":"corpus","text":"十二點鐘前checkout㗎。","title":"Lv1《生活謊言》","url":"https://hambaanglaang.hk/all-levels/","words":[{"jyutping":"sap6-ji6","text":"十二"},{"jyutping":"dim2-zung1","text":"點鐘"},{"jyutping":"cin4","text":"前"},{"jyutping":"cek1","text":"check"},{"jyutping":"au1","text":"out"},{"jyutping":"gaa3","text":"㗎"}]}\n',
     'corpus/commonvoice/LICENSE': 'license text\n',
     'corpus/commonvoice/08.jsonl':
       '{"english":[{"by":"machine","text":"Actually, repeating it a few more times will make them change."}],"id":"common_voice_yue_31865749","jyutping":"kei4 sat6 gong2 do1 gei2 ci3，zau6 wui5 ling6 dou3 deoi3 fong1 goi2 bin3","jyutpingBy":"tojyutping","text":"其實講多幾次，就會令到對方改變"}\n',

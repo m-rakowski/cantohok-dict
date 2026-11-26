@@ -18,7 +18,8 @@ files are laid out and the steps to change them.
   Add a note only to warn about something the examples cannot show. The
   page's `id` never changes: if you rename the file (say, to fix the
   characters), keep the `id` as it is. Every file must be named after the
-  `traditional`, `partOfSpeech` and `id` inside it; `pnpm run check` tells you
+  `traditional`, `partOfSpeech` and `id` inside it (just `traditional` and `id`
+  when `partOfSpeech` is null, `啊_abcd1234.json`); `pnpm run check` tells you
   the expected name. Page files sit directly in `cantonese/`, not in subfolders.
 - `pages-by-id.json` — a lookup from every English row `id` and every page
   `id` to the page it belongs to, so an old link to a row still finds its
@@ -142,7 +143,8 @@ part of speech, one reading and one sense. Here is
           "id": "k3m9x2pq",
           "english": "I wave to him when I leave.",
           "traditional": "我走嗰陣同佢揮手。",
-          "jyutping": "ngo5 zau2 go2 zan6 tung4 keoi5 fai1 sau2"
+          "jyutping": "ngo5 zau2 go2 zan6 tung4 keoi5 fai1 sau2",
+          "source": { "by": "gpt-5.6-luna" }
         }
       ]
     }
@@ -161,6 +163,24 @@ part of speech, one reading and one sense. Here is
   (preposition), `pron` (pronoun), `det` (determiner), `conj` (conjunction),
   `num` (number), `name` (a proper noun), `intj` (interjection), `phrase`,
   `postp` (postposition). Any other value fails `pnpm run check`.
+- `partOfSpeech` is the type of the English word (`"now"` is an adverb).
+  `cantonesePartOfSpeech` says what kind of word the Cantonese is (而家 is a
+  `time word`), using the word classes of the Hong Kong Cantonese Corpus; the
+  schema lists all 24 (`noun`, `measure word`, `sentence-final particle`, …).
+  Every page has one. They were first set by a language model that saw each
+  page's English, meaning and sentence, checked against the corpus's own tags,
+  so a wrong one is a welcome fix.
+- Some Cantonese words have no English word: sentence-final particles like
+  啊, most measure words, fillers. Their entries have `"word": null` and a
+  `meaning` that says what the word does ("softens a question"), and the
+  page's `partOfSpeech` is `null`. A page is either all English words or none:
+  `partOfSpeech` is null exactly when no entry has a word. Such a page has one
+  entry; another meaning of the word is a page of its own. The English exports
+  (`pnpm run export`) leave these entries out, since they have no English
+  headword to be listed under.
+- `variants` (optional) lists other spellings of the same word, such as an
+  older spelling, so a search for them finds this page. None may be the page's
+  own `traditional`.
 - An English entry is an object. `word`, its `meaning` and `exampleSentences`
   (the sentences shown with that word; it may be empty) are required; `note`
   and `register` are optional. Every entry carries an `id` from `pnpm run new-id`
@@ -198,6 +218,25 @@ part of speech, one reading and one sense. Here is
   brand-new sentence gets a new `id`, and so does a copy: if a sentence is kept
   in two places, the second one gets its own. Sentence ids are not in
   `pages-by-id.json`, and the exports leave them out.
+- Every example sentence says where it came from, in `source`. A sentence
+  written for the dictionary names its writer: `{ "by": "gpt-5.6-luna" }` (the
+  model most sentences were written with), or `cantonesellm-v2.0-30b`,
+  `claude-opus-5.5`, `claude` (a Claude model whose name was not recorded), or
+  `contributor` (a person: a reader who suggested it, or the maintainer). A
+  sentence copied from a line of `corpus/` names that line instead, so anyone
+  can find the original and its license: `{ "corpus": "hkcancor", "line":
+"bb6fb93ff6fa85b7", "englishBy": "gpt-5.6-luna" }`. `englishBy` names who
+  wrote the English when that is not the sentence's writer (a written sentence)
+  or not the corpus's own translator (a copied one); a Tatoeba sentence with its
+  translator's English has none. The check refuses a sentence without a source,
+  a writer not in the schema's list, a line that is not in `corpus/`, a line
+  whose text is not the sentence's Chinese, a copied sentence without
+  `englishBy` whose English is not the line's own by a person, and a sentence
+  said to be written here that is a corpus line word for word (it is a copy: give
+  it that line). Rewriting a sentence's Chinese makes you its writer, and
+  rewriting only its English makes you its `englishBy`: change the `source` to
+  say so. A new writer is added to the schema's `writer` list on purpose, in the
+  change that first uses it.
 - An English entry's `note` is held to the same rules as a note on a row (it
   must read on its own), and an English example must name real people and things rather than
   placeholder letters.

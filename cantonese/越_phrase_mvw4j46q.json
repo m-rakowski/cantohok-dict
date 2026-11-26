@@ -1,0 +1,39 @@
+{
+  "id": "mvw4j46q",
+  "partOfSpeech": "phrase",
+  "english": [
+    {
+      "id": "v647uaxj",
+      "word": "the more",
+      "meaning": "in the pattern 越…越…, 'the more ... the more ...'",
+      "note": "越大越好 'the bigger the better'.",
+      "exampleSentences": [
+        {
+          "id": "e9id8142",
+          "english": "I want to run, but I’m worried my legs will get thicker. Will they?",
+          "traditional": "我想跑步啊，但係呢我驚呢越跑越粗啊對腳，會唔會𡃉？",
+          "jyutping": "ngo5 soeng2 paau2 bou6 aa3 daan6 hai6 ne1 ngo5 geng1 ne1 jyut6 paau2 jyut6 cou1 aa3 deoi3 goek3 wui5 m4 wui5 gaa3",
+          "source": {
+            "corpus": "hkcancor",
+            "englishBy": "gpt-5.6-luna",
+            "line": "3c71818756ea6ba3"
+          }
+        },
+        {
+          "id": "xo615c38",
+          "english": "Is a bigger TV better for watching things?",
+          "traditional": "我想問吓電視係唔係越大越好𡃉？睇嘢或者。",
+          "jyutping": "ngo5 soeng2 man6 haa5 din6 si6 hai6 m4 hai6 jyut6 daai6 jyut6 hou2 gaa3 tai2 je5 waak6 ze2",
+          "source": {
+            "corpus": "hkcancor",
+            "englishBy": "gpt-5.6-luna",
+            "line": "48a3681883507cb4"
+          }
+        }
+      ]
+    }
+  ],
+  "traditional": "越",
+  "jyutping": "jyut6",
+  "cantonesePartOfSpeech": "adverb"
+}

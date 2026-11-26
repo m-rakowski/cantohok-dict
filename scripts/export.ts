@@ -14,7 +14,7 @@ import { stringify } from 'csv-stringify/sync'
 import { checkRepo } from './check.ts'
 import { listPageFiles } from './repo.ts'
 import { BOM, flat, plecoEntry, plecoHeader, plecoSentence } from './pleco-format.ts'
-import type { AliasesFile, Example, FrequencyFile, PageFile, Row } from './types.ts'
+import type { AliasesFile, Example, FrequencyFile, PageFile, Row, SentenceSource } from './types.ts'
 
 export interface Repo {
   pages: PageFile[]
@@ -55,11 +55,15 @@ function eachRow(repo: Repo): ExportRow[] {
   for (const page of repo.pages) {
     // The running place on the page is the entry's position in its English list.
     page.english.forEach((entry, position) => {
-      // A sentence's id names it inside the repo only; the exports carry its text.
-      const examples = entry.exampleSentences.map(({ english, traditional, jyutping }) => ({
+      // The exports are English → Cantonese: an entry English has no word for (啊) has no line to be found under.
+      // A page holding one has no English type either (check.ts), so neither is null below.
+      if (entry.word === null || page.partOfSpeech === null) return
+      // A sentence's id names it inside the repo only; the exports carry its text and where it came from.
+      const examples = entry.exampleSentences.map(({ english, traditional, jyutping, source }) => ({
         english,
         traditional,
         jyutping,
+        ...(source ? { source } : {}),
       }))
       const row: ExportRow = {
         id: entry.id ?? `${page.id}:${entry.word}`,
@@ -102,7 +106,15 @@ const CSV_COLUMNS = [
   'exampleEnglish',
   'exampleTraditional',
   'exampleJyutping',
+  'exampleSource',
 ]
+
+/** A sentence's source as one CSV cell: its writer or `<corpus> <line>`, then who wrote the English when someone else did. */
+function sourceText(source: SentenceSource | undefined): string {
+  if (!source) return ''
+  const from = 'by' in source ? source.by : `${source.corpus} ${source.line}`
+  return source.englishBy ? `${from}; English by ${source.englishBy}` : from
+}
 
 /**
  * Builds the dictionary.csv contents: one row per Cantonese word, ordered by each word's rank in frequency.json, then alphabetically.
@@ -121,6 +133,7 @@ export function toCsv(repo: Repo): string {
     exampleEnglish: row.example?.english ?? '',
     exampleTraditional: row.example?.traditional ?? '',
     exampleJyutping: row.example?.jyutping ?? '',
+    exampleSource: sourceText(row.example?.source),
   }))
   return stringify(records, { bom: true, header: true, columns: CSV_COLUMNS, record_delimiter: '\n' })
 }

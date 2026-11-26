@@ -14,8 +14,10 @@ source keeps its own license, in the `LICENSE` file of its folder.
 
 - `text`, `author`, `title`, `url` and `words`: the source's own, under the source's license.
 - `english`: the source's own for Tatoeba (its users' translations) and Hambaanglaang (the
-  readers' word-by-word gloss); a machine translation added here for HKCanCor and Common Voice.
-- `jyutping`: the source's own for HKCanCor and Hambaanglaang (`"jyutpingBy": "corpus"`).
+  readers' word-by-word gloss, `"by": "word by word"`); a machine translation added here
+  (`"by": "machine"`) for HKCanCor, Common Voice and, next to its gloss, Hambaanglaang.
+- `jyutping`: the source's own syllables for HKCanCor and Hambaanglaang (`"jyutpingBy": "corpus"`),
+  with the sentence's punctuation copied in between them here.
   For Tatoeba and Common Voice it was added here: by ToJyutping (`"tojyutping"`), or chosen
   word by word from Wiktionary, CC-Canto and CC-CEDICT readings (`"picker"`), so it carries
   those sources' share-alike terms.
@@ -42,20 +44,26 @@ that does not fit:
 - a generated reading (`"picker"`, `"tojyutping"`) has one lowercase syllable per Han
   character, plus one for each lowercase letter-and-tone run the text itself contains (a chess
   square written `c5` stays `c5`). The check counts syllables; it does not know which is right.
-- a corpus reading (`"corpus"`) is its `words` readings joined: for HKCanCor with spaces, for
-  Hambaanglaang with each `-` turned into a space and lowercased.
+- a corpus reading (`"corpus"`) is its `words` readings in order (for Hambaanglaang with each
+  `-` turned into a space and lowercased), with everything the sentence has between them copied
+  in place: a punctuation mark flush against its neighbors (`lok6，keoi5`) unless the sentence
+  has a space before it, a run of letters or digits no word reads as a word of its own
+  (`lin4 pantry dou1`). A mark at the edge of a word's own text (`打波：`) is copied too, unless
+  the word's reading speaks it (`15%` is `sap6 ng5 percent`); marks inside a word's text
+  (`7-11`) are left to that word's reading.
 
 ## Fixing a sentence
 
 - **A Tatoeba or Common Voice reading**: edit `jyutping`, one syllable per character.
 - **An HKCanCor or Hambaanglaang reading**: edit the word's own reading in `words`, then the
   top-level `jyutping` to match (the check compares the two).
-- **An English translation we added** (HKCanCor, Common Voice): edit its `text`.
+- **An English translation we added** (`"by": "machine"`: HKCanCor, Common Voice, Hambaanglaang): edit its `text`.
 - Leave `text`, `author` and Tatoeba's own English as the source wrote them.
 
 ## Changes made here
 
 The sources' material is used with changes, as their licenses ask us to say: readings and
 translations may have been corrected in this repository (each line's git history shows what
-changed and when), and Hambaanglaang's sentence reading is stored lowercased with its `-`
-turned into spaces, its gloss joined with `/`.
+changed and when), HKCanCor's and Hambaanglaang's sentence readings have the sentence's own punctuation (and any
+Latin text the source left unread) copied in between the source's syllables, Hambaanglaang's
+is stored lowercased with its `-` turned into spaces, and its gloss is joined with `/`.

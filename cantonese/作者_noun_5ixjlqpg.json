@@ -12,7 +12,10 @@
           "id": "12o9sjgb",
           "english": "Who is the author of this book?",
           "traditional": "呢本書嘅作者係邊個呀？",
-          "jyutping": "ni1 bun2 syu1 ge3 zok3 ze2 hai6 bin1 go3 aa3"
+          "jyutping": "ni1 bun2 syu1 ge3 zok3 ze2 hai6 bin1 go3 aa3",
+          "source": {
+            "by": "gpt-5.6-luna"
+          }
         }
       ]
     },
@@ -27,11 +30,15 @@
           "id": "odssvc8v",
           "english": "The writer of this book is from Hong Kong.",
           "traditional": "呢本書嘅作者係一位香港人。",
-          "jyutping": "ni1 bun2 syu1 ge3 zok3 ze2 hai6 jat1 wai2 hoeng1 gong2 jan4"
+          "jyutping": "ni1 bun2 syu1 ge3 zok3 ze2 hai6 jat1 wai2 hoeng1 gong2 jan4",
+          "source": {
+            "by": "gpt-5.6-luna"
+          }
         }
       ]
     }
   ],
   "traditional": "作者",
-  "jyutping": "zok3 ze2"
+  "jyutping": "zok3 ze2",
+  "cantonesePartOfSpeech": "noun"
 }
