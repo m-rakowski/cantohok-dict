@@ -222,16 +222,21 @@ part of speech, one reading and one sense. Here is
   written for the dictionary names its writer: `{ "by": "gpt-5.6-luna" }` (the
   model most sentences were written with), or `cantonesellm-v2.0-30b`,
   `claude-opus-5.5`, `claude` (a Claude model whose name was not recorded), or
-  `contributor` (a reader who suggested it). A sentence copied from a line of
-  `corpus/` names that line instead, so anyone can find the original and its
-  license: `{ "corpus": "hkcancor", "line": "bb6fb93ff6fa85b7", "englishBy":
-"gpt-5.6-luna" }`. `englishBy` says who wrote its English when that was done
-  here rather than taken from the corpus; a Tatoeba sentence's English is its
-  translator's, so it has none. The check refuses a sentence without a source,
-  a writer not in the schema's list, a line that is not in `corpus/`, and a
-  line whose text is not the sentence's Chinese. Rewriting a sentence's Chinese
-  makes you its writer: change its `source` to say so. A new writer is added to
-  the schema's `writer` list on purpose, in the change that first uses it.
+  `contributor` (a person: a reader who suggested it, or the maintainer). A
+  sentence copied from a line of `corpus/` names that line instead, so anyone
+  can find the original and its license: `{ "corpus": "hkcancor", "line":
+"bb6fb93ff6fa85b7", "englishBy": "gpt-5.6-luna" }`. `englishBy` names who
+  wrote the English when that is not the sentence's writer (a written sentence)
+  or not the corpus's own translator (a copied one); a Tatoeba sentence with its
+  translator's English has none. The check refuses a sentence without a source,
+  a writer not in the schema's list, a line that is not in `corpus/`, a line
+  whose text is not the sentence's Chinese, a copied sentence without
+  `englishBy` whose English is not the line's own by a person, and a sentence
+  said to be written here that is a corpus line word for word (it is a copy: give
+  it that line). Rewriting a sentence's Chinese makes you its writer, and
+  rewriting only its English makes you its `englishBy`: change the `source` to
+  say so. A new writer is added to the schema's `writer` list on purpose, in the
+  change that first uses it.
 - An English entry's `note` is held to the same rules as a note on a row (it
   must read on its own), and an English example must name real people and things rather than
   placeholder letters.
