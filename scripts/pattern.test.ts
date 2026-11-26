@@ -7,7 +7,7 @@ const PLUS = 'a "+" in the headword: write a slot as "…" and join the rest (�
 const DOTS = '"..." in the headword or reading: write a slot as one "…" (U+2026)'
 const EDGE = 'a "…" at the start or end of the headword: leave an edge slot out (百分之, not 百分之…)'
 const DOUBLE = 'two "…" in a row: one "…" is one slot'
-const SPACE = 'a space in a headword with a "…": join its pieces (同…作對)'
+const SPACE = 'a space in the headword: join its pieces (同…作對)'
 
 test('every shape a pattern headword must not have is refused', () => {
   const cases: [string, string, string][] = [
@@ -19,6 +19,7 @@ test('every shape a pattern headword must not have is refused', () => {
     ['直到…', 'zik6 dou3 …', EDGE],
     ['直到……先', 'zik6 dou3 … … sin1', DOUBLE],
     ['直到 …先', 'zik6 dou3 … sin1', SPACE],
+    ['的士 嘅', 'dik1 si2 ge3', SPACE],
     [
       '直到…先',
       'zik6 dou3 sin1',

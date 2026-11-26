@@ -17,6 +17,7 @@ export function patternProblem(traditional: string, jyutping: string): string | 
   if (/[+＋]/u.test(traditional)) return 'a "+" in the headword: write a slot as "…" and join the rest (同…作對)'
   if (traditional.includes('...') || jyutping.includes('...'))
     return '"..." in the headword or reading: write a slot as one "…" (U+2026)'
+  if (/\s/u.test(traditional)) return 'a space in the headword: join its pieces (同…作對)'
   const tokens = jyutping.trim().split(/\s+/u)
   const headwordGaps = count(traditional, /…/gu)
   const readingGaps = tokens.filter(token => token === GAP).length
@@ -24,7 +25,6 @@ export function patternProblem(traditional: string, jyutping: string): string | 
   if (traditional.startsWith(GAP) || traditional.endsWith(GAP))
     return 'a "…" at the start or end of the headword: leave an edge slot out (百分之, not 百分之…)'
   if (traditional.includes(GAP + GAP)) return 'two "…" in a row: one "…" is one slot'
-  if (/\s/u.test(traditional)) return 'a space in a headword with a "…": join its pieces (同…作對)'
   if (headwordGaps !== readingGaps)
     return `the reading has ${readingGaps} "…" and the headword ${headwordGaps}: put one in the reading where the headword has it`
 
