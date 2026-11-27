@@ -20,6 +20,23 @@
       ]
     },
     {
+      "id": "uf79ysx4",
+      "word": "medication",
+      "meaning": "medicine; prescribed drugs",
+      "note": "This is the all-purpose everyday word for medicine or the medicines a patient regularly takes.",
+      "exampleSentences": [
+        {
+          "id": "2riv7u5g",
+          "english": "I have to take medication every day.",
+          "traditional": "我每日都要食藥。",
+          "jyutping": "ngo5 mui5 jat6 dou1 jiu3 sik6 joek6",
+          "source": {
+            "by": "gpt-5.6-luna"
+          }
+        }
+      ]
+    },
+    {
       "id": "4pbsxygr",
       "word": "drug",
       "meaning": "medicine, medication",
@@ -54,16 +71,16 @@
       ]
     },
     {
-      "id": "uf79ysx4",
-      "word": "medication",
-      "meaning": "medicine; prescribed drugs",
-      "note": "This is the all-purpose everyday word for medicine or the medicines a patient regularly takes.",
+      "id": "nse2n99y",
+      "word": "prescription",
+      "meaning": "prescribed medicine",
+      "note": "Use this when the context makes it clear that the medicine being collected or taken is the prescribed medicine.",
       "exampleSentences": [
         {
-          "id": "2riv7u5g",
-          "english": "I have to take medication every day.",
-          "traditional": "我每日都要食藥。",
-          "jyutping": "ngo5 mui5 jat6 dou1 jiu3 sik6 joek6",
+          "id": "wx9yzp2u",
+          "english": "I’ll take this prescription medicine when I get home.",
+          "traditional": "我返到屋企先食呢啲藥。",
+          "jyutping": "ngo5 faan1 dou3 uk1 kei2 sin1 sik6 ni1 di1 joek6",
           "source": {
             "by": "gpt-5.6-luna"
           }
@@ -81,23 +98,6 @@
           "english": "This medicine is the cure the doctor prescribed for me.",
           "traditional": "呢隻藥係醫生開畀我嘅。",
           "jyutping": "ni1 zek3 joek6 hai6 ji1 sang1 hoi1 bei2 ngo5 ge3",
-          "source": {
-            "by": "gpt-5.6-luna"
-          }
-        }
-      ]
-    },
-    {
-      "id": "nse2n99y",
-      "word": "prescription",
-      "meaning": "prescribed medicine",
-      "note": "Use this when the context makes it clear that the medicine being collected or taken is the prescribed medicine.",
-      "exampleSentences": [
-        {
-          "id": "wx9yzp2u",
-          "english": "I’ll take this prescription medicine when I get home.",
-          "traditional": "我返到屋企先食呢啲藥。",
-          "jyutping": "ngo5 faan1 dou3 uk1 kei2 sin1 sik6 ni1 di1 joek6",
           "source": {
             "by": "gpt-5.6-luna"
           }

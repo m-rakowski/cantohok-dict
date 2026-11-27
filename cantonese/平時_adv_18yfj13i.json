@@ -3,6 +3,23 @@
   "partOfSpeech": "adv",
   "english": [
     {
+      "id": "xmfcklgd",
+      "word": "usually",
+      "meaning": "under normal conditions",
+      "note": "Use this for what happens in ordinary circumstances or as part of someone's normal routine, rather than for a precise frequency estimate.",
+      "exampleSentences": [
+        {
+          "id": "pqbu85np",
+          "english": "I usually take the bus home after work.",
+          "traditional": "平時我收工返屋企都搭巴士。",
+          "jyutping": "ping4 si4 ngo5 sau1 gung1 faan1 uk1 kei2 dou1 daap3 baa1 si2",
+          "source": {
+            "by": "gpt-5.6-luna"
+          }
+        }
+      ]
+    },
+    {
       "id": "kytdblag",
       "word": "normally",
       "meaning": "usually; most of the time",
@@ -48,23 +65,6 @@
           "english": "I typically go running after work.",
           "traditional": "平時我收工之後會去跑步。",
           "jyutping": "ping4 si4 ngo5 sau1 gung1 zi1 hau6 wui5 heoi3 paau2 bou6",
-          "source": {
-            "by": "gpt-5.6-luna"
-          }
-        }
-      ]
-    },
-    {
-      "id": "xmfcklgd",
-      "word": "usually",
-      "meaning": "under normal conditions",
-      "note": "Use this for what happens in ordinary circumstances or as part of someone's normal routine, rather than for a precise frequency estimate.",
-      "exampleSentences": [
-        {
-          "id": "pqbu85np",
-          "english": "I usually take the bus home after work.",
-          "traditional": "平時我收工返屋企都搭巴士。",
-          "jyutping": "ping4 si4 ngo5 sau1 gung1 faan1 uk1 kei2 dou1 daap3 baa1 si2",
           "source": {
             "by": "gpt-5.6-luna"
           }

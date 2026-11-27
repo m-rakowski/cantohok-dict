@@ -37,24 +37,6 @@
       ]
     },
     {
-      "id": "5jlic2uz",
-      "word": "bounce",
-      "meaning": "leave, go",
-      "register": "colloquial",
-      "note": "Use 走 as the all-purpose casual verb when someone is leaving or going away.",
-      "exampleSentences": [
-        {
-          "id": "cpgkghd8",
-          "english": "It's getting late; let's bounce.",
-          "traditional": "時間唔早喇，我哋走喇。",
-          "jyutping": "si4 gaan1 m4 zou2 laa3 ngo5 dei6 zau2 laa3",
-          "source": {
-            "by": "gpt-5.6-luna"
-          }
-        }
-      ]
-    },
-    {
       "id": "3ye3cwe4",
       "word": "run",
       "meaning": "move quickly; hurry",
@@ -72,17 +54,17 @@
       ]
     },
     {
-      "id": "9mo63cvz",
-      "word": "shoot",
-      "meaning": "leave quickly",
+      "id": "xwgqv9vq",
+      "word": "split",
+      "meaning": "leave, go away",
       "register": "colloquial",
-      "note": "Use this colloquial verb when “shoot” means leave quickly.",
+      "note": "Use this colloquially when “split” means to leave or go away.",
       "exampleSentences": [
         {
-          "id": "xwmr2wuy",
-          "english": "We need to shoot off now.",
-          "traditional": "我哋而家要走啦。",
-          "jyutping": "ngo5 dei6 ji4 gaa1 jiu3 zau2 laa1",
+          "id": "ce4nxcxy",
+          "english": "It’s so late; let’s split.",
+          "traditional": "咁夜喇，我哋走喇。",
+          "jyutping": "gam3 je6 laa3 ngo5 dei6 zau2 laa3",
           "source": {
             "by": "gpt-5.6-luna"
           }
@@ -108,17 +90,35 @@
       ]
     },
     {
-      "id": "xwgqv9vq",
-      "word": "split",
-      "meaning": "leave, go away",
+      "id": "5jlic2uz",
+      "word": "bounce",
+      "meaning": "leave, go",
       "register": "colloquial",
-      "note": "Use this colloquially when “split” means to leave or go away.",
+      "note": "Use 走 as the all-purpose casual verb when someone is leaving or going away.",
       "exampleSentences": [
         {
-          "id": "ce4nxcxy",
-          "english": "It’s so late; let’s split.",
-          "traditional": "咁夜喇，我哋走喇。",
-          "jyutping": "gam3 je6 laa3 ngo5 dei6 zau2 laa3",
+          "id": "cpgkghd8",
+          "english": "It's getting late; let's bounce.",
+          "traditional": "時間唔早喇，我哋走喇。",
+          "jyutping": "si4 gaan1 m4 zou2 laa3 ngo5 dei6 zau2 laa3",
+          "source": {
+            "by": "gpt-5.6-luna"
+          }
+        }
+      ]
+    },
+    {
+      "id": "9mo63cvz",
+      "word": "shoot",
+      "meaning": "leave quickly",
+      "register": "colloquial",
+      "note": "Use this colloquial verb when “shoot” means leave quickly.",
+      "exampleSentences": [
+        {
+          "id": "xwmr2wuy",
+          "english": "We need to shoot off now.",
+          "traditional": "我哋而家要走啦。",
+          "jyutping": "ngo5 dei6 ji4 gaa1 jiu3 zau2 laa1",
           "source": {
             "by": "gpt-5.6-luna"
           }

@@ -3,23 +3,6 @@
   "partOfSpeech": "noun",
   "english": [
     {
-      "id": "rlrl2zph",
-      "word": "duration",
-      "meaning": "length of time",
-      "note": "Use this as the all-purpose choice for an amount of time or the time span of a situation.",
-      "exampleSentences": [
-        {
-          "id": "gxsasec8",
-          "english": "The duration of this film is not very long.",
-          "traditional": "呢套戲嘅時間唔算長。",
-          "jyutping": "ne1 tou3 hei3 ge3 si4 gaan3 m4 syun3 coeng4",
-          "source": {
-            "by": "gpt-5.6-luna"
-          }
-        }
-      ]
-    },
-    {
       "id": "v4w205ni",
       "word": "time",
       "meaning": "inevitable passing of events",
@@ -30,6 +13,23 @@
           "english": "The time really goes by quickly.",
           "traditional": "時間真係過得好快。",
           "jyutping": "si4 gaan3 zan1 hai6 gwo3 dak1 hou2 faai3",
+          "source": {
+            "by": "gpt-5.6-luna"
+          }
+        }
+      ]
+    },
+    {
+      "id": "rlrl2zph",
+      "word": "duration",
+      "meaning": "length of time",
+      "note": "Use this as the all-purpose choice for an amount of time or the time span of a situation.",
+      "exampleSentences": [
+        {
+          "id": "gxsasec8",
+          "english": "The duration of this film is not very long.",
+          "traditional": "呢套戲嘅時間唔算長。",
+          "jyutping": "ne1 tou3 hei3 ge3 si4 gaan3 m4 syun3 coeng4",
           "source": {
             "by": "gpt-5.6-luna"
           }

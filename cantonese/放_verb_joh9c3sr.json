@@ -3,23 +3,6 @@
   "partOfSpeech": "verb",
   "english": [
     {
-      "id": "7jl7fws0",
-      "word": "place",
-      "meaning": "put; position",
-      "note": "Use this as the all-purpose verb for putting someone or something in a specific location.",
-      "exampleSentences": [
-        {
-          "id": "bxr1z2mk",
-          "english": "Please place the book on the table for me.",
-          "traditional": "你幫我放本書喺枱面。",
-          "jyutping": "nei5 bong1 ngo5 fong3 bun2 syu1 hai2 toi2 min6",
-          "source": {
-            "by": "gpt-5.6-luna"
-          }
-        }
-      ]
-    },
-    {
       "id": "2yc0wdlq",
       "word": "put",
       "meaning": "place physically",
@@ -37,16 +20,16 @@
       ]
     },
     {
-      "id": "bck00jof",
-      "word": "deposit",
-      "meaning": "put down, place",
-      "note": "Use 放 as the all-purpose verb for placing something somewhere, including ordinary storage; use 收埋 when putting it away for safekeeping is emphasized.",
+      "id": "7jl7fws0",
+      "word": "place",
+      "meaning": "put; position",
+      "note": "Use this as the all-purpose verb for putting someone or something in a specific location.",
       "exampleSentences": [
         {
-          "id": "pmwruyud",
-          "english": "You can deposit the book on the table for now.",
-          "traditional": "你可以將本書放喺張枱度先。",
-          "jyutping": "nei5 ho2 ji5 zoeng1 bun2 syu1 fong3 hai2 zoeng1 toi2 dou6 sin1",
+          "id": "bxr1z2mk",
+          "english": "Please place the book on the table for me.",
+          "traditional": "你幫我放本書喺枱面。",
+          "jyutping": "nei5 bong1 ngo5 fong3 bun2 syu1 hai2 toi2 min6",
           "source": {
             "by": "gpt-5.6-luna"
           }
@@ -64,6 +47,23 @@
           "english": "I’ll leave the documents at the reception desk; you can pick them up later.",
           "traditional": "我放份文件喺前台，你得閒自己攞。",
           "jyutping": "ngo5 fong3 fan6 man4 gin6 hai2 cin4 toi4 nei5 dak1 haan4 zi6 gei2 lo2",
+          "source": {
+            "by": "gpt-5.6-luna"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bck00jof",
+      "word": "deposit",
+      "meaning": "put down, place",
+      "note": "Use 放 as the all-purpose verb for placing something somewhere, including ordinary storage; use 收埋 when putting it away for safekeeping is emphasized.",
+      "exampleSentences": [
+        {
+          "id": "pmwruyud",
+          "english": "You can deposit the book on the table for now.",
+          "traditional": "你可以將本書放喺張枱度先。",
+          "jyutping": "nei5 ho2 ji5 zoeng1 bun2 syu1 fong3 hai2 zoeng1 toi2 dou6 sin1",
           "source": {
             "by": "gpt-5.6-luna"
           }

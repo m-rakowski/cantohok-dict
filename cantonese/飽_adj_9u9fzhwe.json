@@ -3,23 +3,6 @@
   "partOfSpeech": "adj",
   "english": [
     {
-      "id": "8040qu79",
-      "word": "stuffed",
-      "meaning": "full after eating",
-      "note": "Use this when someone is full because they have eaten.",
-      "exampleSentences": [
-        {
-          "id": "125u3omg",
-          "english": "I’m stuffed after eating the burger.",
-          "traditional": "我食完個漢堡好飽。",
-          "jyutping": "ngo5 sik6 jyun4 go3 hon3 bou2 hou2 baau2",
-          "source": {
-            "by": "gpt-5.6-luna"
-          }
-        }
-      ]
-    },
-    {
       "id": "m7viehlc",
       "word": "full",
       "meaning": "having eaten enough",
@@ -30,6 +13,23 @@
           "english": "I'm full now.",
           "traditional": "我食飽喇。",
           "jyutping": "ngo5 sik6 baau2 laa3",
+          "source": {
+            "by": "gpt-5.6-luna"
+          }
+        }
+      ]
+    },
+    {
+      "id": "8040qu79",
+      "word": "stuffed",
+      "meaning": "full after eating",
+      "note": "Use this when someone is full because they have eaten.",
+      "exampleSentences": [
+        {
+          "id": "125u3omg",
+          "english": "I’m stuffed after eating the burger.",
+          "traditional": "我食完個漢堡好飽。",
+          "jyutping": "ngo5 sik6 jyun4 go3 hon3 bou2 hou2 baau2",
           "source": {
             "by": "gpt-5.6-luna"
           }

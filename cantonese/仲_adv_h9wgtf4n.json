@@ -3,23 +3,6 @@
   "partOfSpeech": "adv",
   "english": [
     {
-      "id": "sp1acwhh",
-      "word": "more",
-      "meaning": "comparative marker",
-      "note": "Use this when “more” has an emphatic or “even more” sense, usually in an explicit comparison.",
-      "exampleSentences": [
-        {
-          "id": "zrhvv0ux",
-          "english": "Today is even more chilly than yesterday.",
-          "traditional": "今日仲凍過琴日。",
-          "jyutping": "gam1 jat6 zung6 dung3 gwo3 kam4 jat6",
-          "source": {
-            "by": "gpt-5.6-luna"
-          }
-        }
-      ]
-    },
-    {
       "id": "bf8bc9cj",
       "word": "even",
       "meaning": "even more",
@@ -31,6 +14,23 @@
           "english": "It is already very cold today, and tomorrow will be even colder.",
           "traditional": "今日已經好凍，聽日仲凍。",
           "jyutping": "gam1 jat6 ji5 ging1 hou2 dung3 ting1 jat6 zung6 dung3",
+          "source": {
+            "by": "gpt-5.6-luna"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sp1acwhh",
+      "word": "more",
+      "meaning": "comparative marker",
+      "note": "Use this when “more” has an emphatic or “even more” sense, usually in an explicit comparison.",
+      "exampleSentences": [
+        {
+          "id": "zrhvv0ux",
+          "english": "Today is even more chilly than yesterday.",
+          "traditional": "今日仲凍過琴日。",
+          "jyutping": "gam1 jat6 zung6 dung3 gwo3 kam4 jat6",
           "source": {
             "by": "gpt-5.6-luna"
           }

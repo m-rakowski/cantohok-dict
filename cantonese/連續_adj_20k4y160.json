@@ -3,23 +3,6 @@
   "partOfSpeech": "adj",
   "english": [
     {
-      "id": "wtvytkdf",
-      "word": "continuous",
-      "meaning": "unbroken line/sequence",
-      "note": "Use this for an unbroken line, run, or sequence with no intervening space or gap.",
-      "exampleSentences": [
-        {
-          "id": "0pxoziyj",
-          "english": "It rained for three continuous days, so I didn't even want to go out.",
-          "traditional": "連續三日落雨，搞到我都唔想出街。",
-          "jyutping": "lin4 zuk6 saam1 jat6 lok6 jyu5 gaau2 dou3 ngo5 dou1 m4 soeng2 ceot1 gaai1",
-          "source": {
-            "by": "gpt-5.6-luna"
-          }
-        }
-      ]
-    },
-    {
       "id": "8xfxyvrt",
       "word": "successive",
       "meaning": "one after another",
@@ -47,6 +30,23 @@
           "english": "They went to work three days straight.",
           "traditional": "佢連續三日都返工。",
           "jyutping": "keoi5 lin4 zuk6 saam1 jat6 dou1 faan1 gung1",
+          "source": {
+            "by": "gpt-5.6-luna"
+          }
+        }
+      ]
+    },
+    {
+      "id": "wtvytkdf",
+      "word": "continuous",
+      "meaning": "unbroken line/sequence",
+      "note": "Use this for an unbroken line, run, or sequence with no intervening space or gap.",
+      "exampleSentences": [
+        {
+          "id": "0pxoziyj",
+          "english": "It rained for three continuous days, so I didn't even want to go out.",
+          "traditional": "連續三日落雨，搞到我都唔想出街。",
+          "jyutping": "lin4 zuk6 saam1 jat6 lok6 jyu5 gaau2 dou3 ngo5 dou1 m4 soeng2 ceot1 gaai1",
           "source": {
             "by": "gpt-5.6-luna"
           }

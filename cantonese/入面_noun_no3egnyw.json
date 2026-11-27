@@ -3,23 +3,6 @@
   "partOfSpeech": "noun",
   "english": [
     {
-      "id": "o4qabf64",
-      "word": "interior",
-      "meaning": "inside of a place",
-      "note": "This is the all-purpose spoken choice for the inside of a building, container, or other enclosed place.",
-      "exampleSentences": [
-        {
-          "id": "oc3uf99m",
-          "english": "The interior of the cinema is quite nice, with lots of comfortable seats.",
-          "traditional": "間戲院嘅入面幾靚，仲有好多舒服嘅座位。",
-          "jyutping": "gaan1 hei3 jyun2 ge3 jap6 min6 gei2 leng3 zung6 jau5 hou2 do1 syu1 fuk6 ge3 zo6 wai2",
-          "source": {
-            "by": "gpt-5.6-luna"
-          }
-        }
-      ]
-    },
-    {
       "id": "a4x0b5o8",
       "word": "inside",
       "meaning": "inner part",
@@ -30,6 +13,23 @@
           "english": "There’s a piece of paper inside the box.",
           "traditional": "個盒入面有張紙。",
           "jyutping": "go3 hap6 jap6 min6 jau5 zoeng1 zi2",
+          "source": {
+            "by": "gpt-5.6-luna"
+          }
+        }
+      ]
+    },
+    {
+      "id": "o4qabf64",
+      "word": "interior",
+      "meaning": "inside of a place",
+      "note": "This is the all-purpose spoken choice for the inside of a building, container, or other enclosed place.",
+      "exampleSentences": [
+        {
+          "id": "oc3uf99m",
+          "english": "The interior of the cinema is quite nice, with lots of comfortable seats.",
+          "traditional": "間戲院嘅入面幾靚，仲有好多舒服嘅座位。",
+          "jyutping": "gaan1 hei3 jyun2 ge3 jap6 min6 gei2 leng3 zung6 jau5 hou2 do1 syu1 fuk6 ge3 zo6 wai2",
           "source": {
             "by": "gpt-5.6-luna"
           }

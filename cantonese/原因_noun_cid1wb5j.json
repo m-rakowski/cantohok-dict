@@ -3,6 +3,23 @@
   "partOfSpeech": "noun",
   "english": [
     {
+      "id": "gtf7wmqu",
+      "word": "reason",
+      "meaning": "cause",
+      "note": "Use this for the cause that produces an event or situation, rather than someone's justification.",
+      "exampleSentences": [
+        {
+          "id": "5ozppz9k",
+          "english": "Traffic is the reason for being late.",
+          "traditional": "塞車係遲到嘅原因。",
+          "jyutping": "sak1 ce1 hai6 ci4 dou3 ge3 jyun4 jan1",
+          "source": {
+            "by": "gpt-5.6-luna"
+          }
+        }
+      ]
+    },
+    {
       "id": "8bb1clcx",
       "word": "cause",
       "meaning": "reason; source",
@@ -30,23 +47,6 @@
           "english": "There must be a motive behind what you did.",
           "traditional": "你咁做一定有原因。",
           "jyutping": "nei5 gam2 zou6 jat1 ding6 jau5 jyun4 jan1",
-          "source": {
-            "by": "gpt-5.6-luna"
-          }
-        }
-      ]
-    },
-    {
-      "id": "gtf7wmqu",
-      "word": "reason",
-      "meaning": "cause",
-      "note": "Use this for the cause that produces an event or situation, rather than someone's justification.",
-      "exampleSentences": [
-        {
-          "id": "5ozppz9k",
-          "english": "Traffic is the reason for being late.",
-          "traditional": "塞車係遲到嘅原因。",
-          "jyutping": "sak1 ce1 hai6 ci4 dou3 ge3 jyun4 jan1",
           "source": {
             "by": "gpt-5.6-luna"
           }

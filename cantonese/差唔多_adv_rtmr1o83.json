@@ -3,23 +3,6 @@
   "partOfSpeech": "adv",
   "english": [
     {
-      "id": "at5dx1vu",
-      "word": "about",
-      "meaning": "approximately",
-      "note": "Use this as the all-purpose colloquial choice for “about,” especially for approximate degree or comparison such as “about as cold.”",
-      "exampleSentences": [
-        {
-          "id": "lkwxccfe",
-          "english": "The two rooms are about equally cold.",
-          "traditional": "兩間房差唔多咁凍。",
-          "jyutping": "loeng5 gaan1 fong2 caa1 m4 do1 gam3 dung3",
-          "source": {
-            "by": "gpt-5.6-luna"
-          }
-        }
-      ]
-    },
-    {
       "id": "slaqc281",
       "word": "almost",
       "meaning": "nearly; not quite",
@@ -54,50 +37,16 @@
       ]
     },
     {
-      "id": "s3xqhp9h",
-      "word": "practically",
-      "meaning": "almost completely",
-      "note": "Use this for “almost completely,” especially when describing extent or quantity.",
+      "id": "at5dx1vu",
+      "word": "about",
+      "meaning": "approximately",
+      "note": "Use this as the all-purpose colloquial choice for “about,” especially for approximate degree or comparison such as “about as cold.”",
       "exampleSentences": [
         {
-          "id": "l56va8zy",
-          "english": "The whole house is practically all tidied up.",
-          "traditional": "間屋差唔多執好晒喇。",
-          "jyutping": "gaan1 uk1 caa1 m4 do1 zap1 hou2 saai3 laa3",
-          "source": {
-            "by": "gpt-5.6-luna"
-          }
-        }
-      ]
-    },
-    {
-      "id": "4xqhulcs",
-      "word": "nigh",
-      "meaning": "almost; nearly",
-      "note": "This is the all-purpose choice for “almost” or “nearly,” including approximate amounts such as nearly two hours.",
-      "exampleSentences": [
-        {
-          "id": "63k7d8jl",
-          "english": "I've been waiting for nigh two hours.",
-          "traditional": "我等咗差唔多兩個鐘喇。",
-          "jyutping": "ngo5 dang2 zo2 caa1 m4 do1 loeng5 go3 zung1 laa3",
-          "source": {
-            "by": "gpt-5.6-luna"
-          }
-        }
-      ]
-    },
-    {
-      "id": "8qqx4pp6",
-      "word": "near",
-      "meaning": "nearly; almost",
-      "note": "This is the all-purpose spoken choice for “nearly” or “almost,” including “almost unconscious.”",
-      "exampleSentences": [
-        {
-          "id": "duin2x4b",
-          "english": "I was near passing out.",
-          "traditional": "我差唔多暈低喇。",
-          "jyutping": "ngo5 caa1 m4 do1 wan4 dai1 laa3",
+          "id": "lkwxccfe",
+          "english": "The two rooms are about equally cold.",
+          "traditional": "兩間房差唔多咁凍。",
+          "jyutping": "loeng5 gaan1 fong2 caa1 m4 do1 gam3 dung3",
           "source": {
             "by": "gpt-5.6-luna"
           }
@@ -123,16 +72,16 @@
       ]
     },
     {
-      "id": "f9xxdwqq",
-      "word": "half",
-      "meaning": "almost; nearly",
-      "note": "Use 差唔多 as the all-purpose spoken choice for “almost” or “nearly.”",
+      "id": "s3xqhp9h",
+      "word": "practically",
+      "meaning": "almost completely",
+      "note": "Use this for “almost completely,” especially when describing extent or quantity.",
       "exampleSentences": [
         {
-          "id": "mq92npyf",
-          "english": "Almost half the people have arrived.",
-          "traditional": "差唔多一半人到咗。",
-          "jyutping": "caa1 m4 do1 jat1 bun3 jan4 dou3 zo2",
+          "id": "l56va8zy",
+          "english": "The whole house is practically all tidied up.",
+          "traditional": "間屋差唔多執好晒喇。",
+          "jyutping": "gaan1 uk1 caa1 m4 do1 zap1 hou2 saai3 laa3",
           "source": {
             "by": "gpt-5.6-luna"
           }
@@ -150,6 +99,57 @@
           "english": "We’ve basically eaten everything.",
           "traditional": "啲嘢差唔多食晒喇。",
           "jyutping": "di1 je5 caa1 m4 do1 sik6 saai3 laa3",
+          "source": {
+            "by": "gpt-5.6-luna"
+          }
+        }
+      ]
+    },
+    {
+      "id": "8qqx4pp6",
+      "word": "near",
+      "meaning": "nearly; almost",
+      "note": "This is the all-purpose spoken choice for “nearly” or “almost,” including “almost unconscious.”",
+      "exampleSentences": [
+        {
+          "id": "duin2x4b",
+          "english": "I was near passing out.",
+          "traditional": "我差唔多暈低喇。",
+          "jyutping": "ngo5 caa1 m4 do1 wan4 dai1 laa3",
+          "source": {
+            "by": "gpt-5.6-luna"
+          }
+        }
+      ]
+    },
+    {
+      "id": "4xqhulcs",
+      "word": "nigh",
+      "meaning": "almost; nearly",
+      "note": "This is the all-purpose choice for “almost” or “nearly,” including approximate amounts such as nearly two hours.",
+      "exampleSentences": [
+        {
+          "id": "63k7d8jl",
+          "english": "I've been waiting for nigh two hours.",
+          "traditional": "我等咗差唔多兩個鐘喇。",
+          "jyutping": "ngo5 dang2 zo2 caa1 m4 do1 loeng5 go3 zung1 laa3",
+          "source": {
+            "by": "gpt-5.6-luna"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f9xxdwqq",
+      "word": "half",
+      "meaning": "almost; nearly",
+      "note": "Use 差唔多 as the all-purpose spoken choice for “almost” or “nearly.”",
+      "exampleSentences": [
+        {
+          "id": "mq92npyf",
+          "english": "Almost half the people have arrived.",
+          "traditional": "差唔多一半人到咗。",
+          "jyutping": "caa1 m4 do1 jat1 bun3 jan4 dou3 zo2",
           "source": {
             "by": "gpt-5.6-luna"
           }

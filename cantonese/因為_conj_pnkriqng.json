@@ -3,23 +3,6 @@
   "partOfSpeech": "conj",
   "english": [
     {
-      "id": "0r5d5z6d",
-      "word": "for",
-      "meaning": "because",
-      "note": "This is the all-purpose spoken Cantonese equivalent of “because.”",
-      "exampleSentences": [
-        {
-          "id": "91bw4qyt",
-          "english": "I didn't go out, for it was raining.",
-          "traditional": "我冇出街，因為落緊雨。",
-          "jyutping": "ngo5 mou5 ceot1 gaai1 jan1 wai6 lok6 gan2 jyu5",
-          "source": {
-            "by": "gpt-5.6-luna"
-          }
-        }
-      ]
-    },
-    {
       "id": "74kpiowa",
       "word": "because",
       "meaning": "cause/reason",
@@ -64,6 +47,23 @@
           "english": "We’re not going hiking as it’s raining today.",
           "traditional": "我哋唔去行山，因為今日落雨。",
           "jyutping": "ngo5 dei6 m4 heoi3 haang4 saan1 jan1 wai6 gam1 jat6 lok6 jyu5",
+          "source": {
+            "by": "gpt-5.6-luna"
+          }
+        }
+      ]
+    },
+    {
+      "id": "0r5d5z6d",
+      "word": "for",
+      "meaning": "because",
+      "note": "This is the all-purpose spoken Cantonese equivalent of “because.”",
+      "exampleSentences": [
+        {
+          "id": "91bw4qyt",
+          "english": "I didn't go out, for it was raining.",
+          "traditional": "我冇出街，因為落緊雨。",
+          "jyutping": "ngo5 mou5 ceot1 gaai1 jan1 wai6 lok6 gan2 jyu5",
           "source": {
             "by": "gpt-5.6-luna"
           }

@@ -3,23 +3,6 @@
   "partOfSpeech": "noun",
   "english": [
     {
-      "id": "20l9etl9",
-      "word": "pond",
-      "meaning": "small body of standing water",
-      "note": "This is the all-purpose choice for an ordinary pond, especially a larger outdoor or reservoir-like one.",
-      "exampleSentences": [
-        {
-          "id": "s78ep8p3",
-          "english": "This pond used to be used by villagers to irrigate the fields.",
-          "traditional": "呢個水塘以前係村民用嚟灌溉農田嘅。",
-          "jyutping": "ni1 go3 seoi2 tong4 ji5 cin4 hai6 cyun1 man4 jung6 lai4 gun3 koi3 nung4 tin4 ge3",
-          "source": {
-            "by": "gpt-5.6-luna"
-          }
-        }
-      ]
-    },
-    {
       "id": "l996xes1",
       "word": "dam",
       "meaning": "reservoir behind dam",
@@ -47,6 +30,23 @@
           "english": "This pool supplies drinking water to nearby villagers.",
           "traditional": "呢個水塘供應附近村民嘅食水。",
           "jyutping": "ni1 go3 seoi2 tong4 gung1 jing3 fu6 gan6 cyun1 man4 ge3 sik6 seoi2",
+          "source": {
+            "by": "gpt-5.6-luna"
+          }
+        }
+      ]
+    },
+    {
+      "id": "20l9etl9",
+      "word": "pond",
+      "meaning": "small body of standing water",
+      "note": "This is the all-purpose choice for an ordinary pond, especially a larger outdoor or reservoir-like one.",
+      "exampleSentences": [
+        {
+          "id": "s78ep8p3",
+          "english": "This pond used to be used by villagers to irrigate the fields.",
+          "traditional": "呢個水塘以前係村民用嚟灌溉農田嘅。",
+          "jyutping": "ni1 go3 seoi2 tong4 ji5 cin4 hai6 cyun1 man4 jung6 lai4 gun3 koi3 nung4 tin4 ge3",
           "source": {
             "by": "gpt-5.6-luna"
           }
