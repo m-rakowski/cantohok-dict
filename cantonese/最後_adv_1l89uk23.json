@@ -3,6 +3,23 @@
   "partOfSpeech": "adv",
   "english": [
     {
+      "id": "j0reutyp",
+      "word": "finally",
+      "meaning": "at last; in the end",
+      "note": "Use this for the eventual outcome or for the last item or action, rather than the sense of relief in 終於.",
+      "exampleSentences": [
+        {
+          "id": "v3eo70x3",
+          "english": "We finally decided to take a taxi.",
+          "traditional": "我哋最後決定搭的士。",
+          "jyutping": "ngo5 dei6 zeoi3 hau6 kyut3 ding6 daap3 dik1 si2",
+          "source": {
+            "by": "gpt-5.6-luna"
+          }
+        }
+      ]
+    },
+    {
       "id": "fjrqr641",
       "word": "eventually",
       "meaning": "in the end, after delay",
@@ -47,23 +64,6 @@
           "english": "I understood at last that I was the one who had made a mistake.",
           "traditional": "我最後先明白原來係我搞錯。",
           "jyutping": "ngo5 zeoi3 hau6 sin1 ming4 baak6 jyun4 loi4 hai6 ngo5 gaau2 co3",
-          "source": {
-            "by": "gpt-5.6-luna"
-          }
-        }
-      ]
-    },
-    {
-      "id": "j0reutyp",
-      "word": "finally",
-      "meaning": "at last; in the end",
-      "note": "Use this for the eventual outcome or for the last item or action, rather than the sense of relief in 終於.",
-      "exampleSentences": [
-        {
-          "id": "v3eo70x3",
-          "english": "We finally decided to take a taxi.",
-          "traditional": "我哋最後決定搭的士。",
-          "jyutping": "ngo5 dei6 zeoi3 hau6 kyut3 ding6 daap3 dik1 si2",
           "source": {
             "by": "gpt-5.6-luna"
           }

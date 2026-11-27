@@ -20,6 +20,23 @@
       ]
     },
     {
+      "id": "ht919w8n",
+      "word": "would",
+      "meaning": "polite / tentative would",
+      "note": "Use 想 when would makes a request or statement sound tentative, indirect, or polite rather than firm.",
+      "exampleSentences": [
+        {
+          "id": "5wgi96nt",
+          "english": "I would like to buy this book.",
+          "traditional": "我想買呢本書。",
+          "jyutping": "ngo5 soeng2 maai5 ni1 bun2 syu1",
+          "source": {
+            "by": "gpt-5.6-luna"
+          }
+        }
+      ]
+    },
+    {
       "id": "qxzs3ru6",
       "word": "wish",
       "meaning": "want; desire",
@@ -30,6 +47,23 @@
           "english": "I wish to eat a bowl of wonton noodles.",
           "traditional": "我想食碗雲吞麵。",
           "jyutping": "ngo5 soeng2 sik6 wun2 wan4 tan1 min6",
+          "source": {
+            "by": "gpt-5.6-luna"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bnqo8jb1",
+      "word": "care",
+      "meaning": "want; would like",
+      "note": "Use this for wanting or being willing to have or do something, including polite offers such as wanting another piece.",
+      "exampleSentences": [
+        {
+          "id": "cpk1t3ye",
+          "english": "Would you care for another slice of cake?",
+          "traditional": "你想唔想再食件蛋糕呀？",
+          "jyutping": "nei5 soeng2 m4 soeng2 zoi3 sik6 gin6 daan6 gou1 aa3",
           "source": {
             "by": "gpt-5.6-luna"
           }
@@ -71,24 +105,6 @@
       ]
     },
     {
-      "id": "3dwc8du4",
-      "word": "aspire",
-      "meaning": "have ambition; aim for",
-      "register": "colloquial",
-      "note": "This is the all-purpose casual choice, especially in 想 + goal or 想 + verb when the ambition is clear from context.",
-      "exampleSentences": [
-        {
-          "id": "ywgr3aav",
-          "english": "I aspire to get into medical school.",
-          "traditional": "我想考入醫學院。",
-          "jyutping": "ngo5 soeng2 haau2 jap6 ji1 hok6 jyun2",
-          "source": {
-            "by": "gpt-5.6-luna"
-          }
-        }
-      ]
-    },
-    {
       "id": "3k9vzeeo",
       "word": "dream",
       "meaning": "hope, wish",
@@ -106,33 +122,17 @@
       ]
     },
     {
-      "id": "ht919w8n",
-      "word": "would",
-      "meaning": "polite / tentative would",
-      "note": "Use 想 when would makes a request or statement sound tentative, indirect, or polite rather than firm.",
+      "id": "3dwc8du4",
+      "word": "aspire",
+      "meaning": "have ambition; aim for",
+      "register": "colloquial",
+      "note": "This is the all-purpose casual choice, especially in 想 + goal or 想 + verb when the ambition is clear from context.",
       "exampleSentences": [
         {
-          "id": "5wgi96nt",
-          "english": "I would like to buy this book.",
-          "traditional": "我想買呢本書。",
-          "jyutping": "ngo5 soeng2 maai5 ni1 bun2 syu1",
-          "source": {
-            "by": "gpt-5.6-luna"
-          }
-        }
-      ]
-    },
-    {
-      "id": "bnqo8jb1",
-      "word": "care",
-      "meaning": "want; would like",
-      "note": "Use this for wanting or being willing to have or do something, including polite offers such as wanting another piece.",
-      "exampleSentences": [
-        {
-          "id": "cpk1t3ye",
-          "english": "Would you care for another slice of cake?",
-          "traditional": "你想唔想再食件蛋糕呀？",
-          "jyutping": "nei5 soeng2 m4 soeng2 zoi3 sik6 gin6 daan6 gou1 aa3",
+          "id": "ywgr3aav",
+          "english": "I aspire to get into medical school.",
+          "traditional": "我想考入醫學院。",
+          "jyutping": "ngo5 soeng2 haau2 jap6 ji1 hok6 jyun2",
           "source": {
             "by": "gpt-5.6-luna"
           }

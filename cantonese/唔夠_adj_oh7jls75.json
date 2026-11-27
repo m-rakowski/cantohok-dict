@@ -3,23 +3,6 @@
   "partOfSpeech": "adj",
   "english": [
     {
-      "id": "z881uy09",
-      "word": "inadequate",
-      "meaning": "insufficient; not enough",
-      "note": "This is the all-purpose choice when something is insufficient in amount, quality, or suitability for a purpose.",
-      "exampleSentences": [
-        {
-          "id": "lncoucnl",
-          "english": "This information is inadequate for making a decision.",
-          "traditional": "呢份資料唔夠用嚟做決定。",
-          "jyutping": "ne1 fan6 zi1 liu6 m4 gau3 jung6 lai4 zou6 kyut3 ding6",
-          "source": {
-            "by": "gpt-5.6-luna"
-          }
-        }
-      ]
-    },
-    {
       "id": "rd8fzaor",
       "word": "insufficient",
       "meaning": "not enough; inadequate",
@@ -37,16 +20,16 @@
       ]
     },
     {
-      "id": "pchcw2zx",
-      "word": "deficient",
-      "meaning": "insufficient / inadequate",
-      "note": "Use this for an amount, level, or quality that falls short; it is the usual spoken choice for insufficiency.",
+      "id": "z881uy09",
+      "word": "inadequate",
+      "meaning": "insufficient; not enough",
+      "note": "This is the all-purpose choice when something is insufficient in amount, quality, or suitability for a purpose.",
       "exampleSentences": [
         {
-          "id": "wapyv1dl",
-          "english": "The lighting in this room is deficient, so it’s hard to work at night.",
-          "traditional": "呢間房嘅光線唔夠，夜晚做嘢好辛苦。",
-          "jyutping": "ni1 gaan1 fong4 ge3 gwong1 sin3 m4 gau3 je6 maan5 zou6 je5 hou2 san1 fu2",
+          "id": "lncoucnl",
+          "english": "This information is inadequate for making a decision.",
+          "traditional": "呢份資料唔夠用嚟做決定。",
+          "jyutping": "ne1 fan6 zi1 liu6 m4 gau3 jung6 lai4 zou6 kyut3 ding6",
           "source": {
             "by": "gpt-5.6-luna"
           }
@@ -64,6 +47,23 @@
           "english": "This information is short on detail.",
           "traditional": "呢份資料唔夠詳細。",
           "jyutping": "ni1 fan6 zi1 liu6 m4 gau3 coeng4 sai3",
+          "source": {
+            "by": "gpt-5.6-luna"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pchcw2zx",
+      "word": "deficient",
+      "meaning": "insufficient / inadequate",
+      "note": "Use this for an amount, level, or quality that falls short; it is the usual spoken choice for insufficiency.",
+      "exampleSentences": [
+        {
+          "id": "wapyv1dl",
+          "english": "The lighting in this room is deficient, so it’s hard to work at night.",
+          "traditional": "呢間房嘅光線唔夠，夜晚做嘢好辛苦。",
+          "jyutping": "ni1 gaan1 fong4 ge3 gwong1 sin3 m4 gau3 je6 maan5 zou6 je5 hou2 san1 fu2",
           "source": {
             "by": "gpt-5.6-luna"
           }

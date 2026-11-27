@@ -3,16 +3,16 @@
   "partOfSpeech": "noun",
   "english": [
     {
-      "id": "jutafmk4",
-      "word": "match",
-      "meaning": "sporting event",
-      "note": "Use 比賽 as the all-purpose noun for a competitive sporting event.",
+      "id": "7ofy6mej",
+      "word": "competition",
+      "meaning": "contest for a prize",
+      "note": "Use 比賽 for an organized contest in which someone can win a prize or award.",
       "exampleSentences": [
         {
-          "id": "j9pqictt",
-          "english": "The football match is being held in Mong Kok tomorrow.",
-          "traditional": "聽日場足球比賽喺旺角舉行。",
-          "jyutping": "teng1 jat6 coeng4 zuk1 kau4 bei2 coi3 hai2 wong6 gok3 geoi2 hang4",
+          "id": "z6e83i9k",
+          "english": "The winner of this competition can get prize money.",
+          "traditional": "呢個比賽嘅冠軍可以攞到獎金。",
+          "jyutping": "ni1 go3 bei2 coi3 ge3 gun3 gwan1 ho2 ji5 lo2 dou2 zoeng2 gam1",
           "source": {
             "by": "gpt-5.6-luna"
           }
@@ -37,16 +37,16 @@
       ]
     },
     {
-      "id": "7ofy6mej",
-      "word": "competition",
-      "meaning": "contest for a prize",
-      "note": "Use 比賽 for an organized contest in which someone can win a prize or award.",
+      "id": "jutafmk4",
+      "word": "match",
+      "meaning": "sporting event",
+      "note": "Use 比賽 as the all-purpose noun for a competitive sporting event.",
       "exampleSentences": [
         {
-          "id": "z6e83i9k",
-          "english": "The winner of this competition can get prize money.",
-          "traditional": "呢個比賽嘅冠軍可以攞到獎金。",
-          "jyutping": "ni1 go3 bei2 coi3 ge3 gun3 gwan1 ho2 ji5 lo2 dou2 zoeng2 gam1",
+          "id": "j9pqictt",
+          "english": "The football match is being held in Mong Kok tomorrow.",
+          "traditional": "聽日場足球比賽喺旺角舉行。",
+          "jyutping": "teng1 jat6 coeng4 zuk1 kau4 bei2 coi3 hai2 wong6 gok3 geoi2 hang4",
           "source": {
             "by": "gpt-5.6-luna"
           }
@@ -105,23 +105,6 @@
       ]
     },
     {
-      "id": "lbbl0i0n",
-      "word": "play",
-      "meaning": "game in progress",
-      "note": "Use 比賽 for the course or progress of a competitive game or match.",
-      "exampleSentences": [
-        {
-          "id": "6syobaoy",
-          "english": "The play was only decided in the final minute.",
-          "traditional": "場比賽打到最後一分鐘先分勝負。",
-          "jyutping": "coeng4 bei2 coi3 daa2 dou3 zeoi3 hau6 jat1 fan1 zung1 sin1 fan1 sing1 fu6",
-          "source": {
-            "by": "gpt-5.6-luna"
-          }
-        }
-      ]
-    },
-    {
       "id": "qhz8smha",
       "word": "bee",
       "meaning": "contest",
@@ -132,6 +115,23 @@
           "english": "There is an English spelling bee tomorrow, so remember to arrive early.",
           "traditional": "聽日有個英文串字比賽，記得早啲到。",
           "jyutping": "ting1 jat6 jau5 go3 jing1 man4 cyun3 zi6 bei2 coi3 gei3 dak1 zou2 di1 dou3",
+          "source": {
+            "by": "gpt-5.6-luna"
+          }
+        }
+      ]
+    },
+    {
+      "id": "lbbl0i0n",
+      "word": "play",
+      "meaning": "game in progress",
+      "note": "Use 比賽 for the course or progress of a competitive game or match.",
+      "exampleSentences": [
+        {
+          "id": "6syobaoy",
+          "english": "The play was only decided in the final minute.",
+          "traditional": "場比賽打到最後一分鐘先分勝負。",
+          "jyutping": "coeng4 bei2 coi3 daa2 dou3 zeoi3 hau6 jat1 fan1 zung1 sin1 fan1 sing1 fu6",
           "source": {
             "by": "gpt-5.6-luna"
           }

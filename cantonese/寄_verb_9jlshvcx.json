@@ -3,40 +3,6 @@
   "partOfSpeech": "verb",
   "english": [
     {
-      "id": "yv0csnfp",
-      "word": "mail",
-      "meaning": "send by post",
-      "note": "This is the all-purpose verb for sending a letter or parcel through the post.",
-      "exampleSentences": [
-        {
-          "id": "5t0hualm",
-          "english": "I’ll mail a document to you tomorrow.",
-          "traditional": "我聽日寄份文件畀你。",
-          "jyutping": "ngo5 ting1 jat6 gei3 fan6 man4 gin6 bei2 nei5",
-          "source": {
-            "by": "gpt-5.6-luna"
-          }
-        }
-      ]
-    },
-    {
-      "id": "i54vkbg5",
-      "word": "ship",
-      "meaning": "send by post",
-      "note": "This is the all-purpose everyday verb for sending a parcel to someone, usually by post or courier.",
-      "exampleSentences": [
-        {
-          "id": "ugs26wf5",
-          "english": "I’ll ship the parcel to you tomorrow.",
-          "traditional": "我聽日寄個包裹畀你。",
-          "jyutping": "ngo5 teng1 jat6 gei3 go3 baau1 gwo2 bei2 nei5",
-          "source": {
-            "by": "gpt-5.6-luna"
-          }
-        }
-      ]
-    },
-    {
       "id": "0peu2xpa",
       "word": "send",
       "meaning": "send something somewhere",
@@ -54,6 +20,23 @@
       ]
     },
     {
+      "id": "yv0csnfp",
+      "word": "mail",
+      "meaning": "send by post",
+      "note": "This is the all-purpose verb for sending a letter or parcel through the post.",
+      "exampleSentences": [
+        {
+          "id": "5t0hualm",
+          "english": "I’ll mail a document to you tomorrow.",
+          "traditional": "我聽日寄份文件畀你。",
+          "jyutping": "ngo5 ting1 jat6 gei3 fan6 man4 gin6 bei2 nei5",
+          "source": {
+            "by": "gpt-5.6-luna"
+          }
+        }
+      ]
+    },
+    {
       "id": "volv5ytg",
       "word": "post",
       "meaning": "send by mail",
@@ -64,6 +47,23 @@
           "english": "I’ll post a letter to you tomorrow.",
           "traditional": "我聽日寄封信畀你。",
           "jyutping": "ngo5 ting1 jat6 gei3 fung1 seon3 bei2 nei5",
+          "source": {
+            "by": "gpt-5.6-luna"
+          }
+        }
+      ]
+    },
+    {
+      "id": "i54vkbg5",
+      "word": "ship",
+      "meaning": "send by post",
+      "note": "This is the all-purpose everyday verb for sending a parcel to someone, usually by post or courier.",
+      "exampleSentences": [
+        {
+          "id": "ugs26wf5",
+          "english": "I’ll ship the parcel to you tomorrow.",
+          "traditional": "我聽日寄個包裹畀你。",
+          "jyutping": "ngo5 teng1 jat6 gei3 go3 baau1 gwo2 bei2 nei5",
           "source": {
             "by": "gpt-5.6-luna"
           }

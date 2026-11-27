@@ -20,16 +20,51 @@
       ]
     },
     {
-      "id": "1zu5vbp6",
-      "word": "real",
-      "meaning": "really; very",
-      "note": "This is the all-purpose choice for saying that something is really or genuinely so.",
+      "id": "hpyu4vqv",
+      "word": "truly",
+      "meaning": "really; genuinely",
+      "note": "This is the all-purpose everyday choice for saying that something is really or genuinely the case.",
       "exampleSentences": [
         {
-          "id": "7ygeaz3g",
-          "english": "You’re real thoughtful.",
-          "traditional": "你真係好有心喎。",
-          "jyutping": "nei5 zan1 hai6 hou2 jau5 sam1 wo3",
+          "id": "soevydow",
+          "english": "The egg tarts at this shop are truly delicious.",
+          "traditional": "呢間舖嘅蛋撻真係好食。",
+          "jyutping": "ni1 gaan1 pou3 ge3 daan6 taat1 zan1 hai6 hou2 sik6",
+          "source": {
+            "by": "gpt-5.6-luna"
+          }
+        }
+      ]
+    },
+    {
+      "id": "b6tyaqfr",
+      "word": "actually",
+      "meaning": "really; in fact",
+      "register": "colloquial",
+      "note": "Use this when “actually” means “really” and adds emphasis rather than simply correcting the listener.",
+      "exampleSentences": [
+        {
+          "id": "oyvwogjn",
+          "english": "It’s actually unbearably hot today.",
+          "traditional": "真係今日熱到頂唔順。",
+          "jyutping": "zan1 hai6 gam1 jat6 jit6 dou3 deng2 m4 seon6",
+          "source": {
+            "by": "gpt-5.6-luna"
+          }
+        }
+      ]
+    },
+    {
+      "id": "0te3hd3i",
+      "word": "genuinely",
+      "meaning": "truly; sincerely",
+      "note": "This is the all-purpose colloquial choice for saying that something is genuinely or truly the case.",
+      "exampleSentences": [
+        {
+          "id": "gxvbeo6b",
+          "english": "The milk tea at this cha chaan teng is genuinely good.",
+          "traditional": "呢間茶記啲奶茶真係好飲。",
+          "jyutping": "ne1 gaan1 caa4 gei3 di1 naai5 caa4 zan1 hai6 hou2 jam2",
           "source": {
             "by": "gpt-5.6-luna"
           }
@@ -54,23 +89,6 @@
       ]
     },
     {
-      "id": "hpyu4vqv",
-      "word": "truly",
-      "meaning": "really; genuinely",
-      "note": "This is the all-purpose everyday choice for saying that something is really or genuinely the case.",
-      "exampleSentences": [
-        {
-          "id": "soevydow",
-          "english": "The egg tarts at this shop are truly delicious.",
-          "traditional": "呢間舖嘅蛋撻真係好食。",
-          "jyutping": "ni1 gaan1 pou3 ge3 daan6 taat1 zan1 hai6 hou2 sik6",
-          "source": {
-            "by": "gpt-5.6-luna"
-          }
-        }
-      ]
-    },
-    {
       "id": "hch78gj1",
       "word": "indeed",
       "meaning": "actually; truly",
@@ -82,6 +100,23 @@
           "english": "You are indeed very capable.",
           "traditional": "你真係好叻喎。",
           "jyutping": "nei5 zan1 hai6 hou2 lek1 wo3",
+          "source": {
+            "by": "gpt-5.6-luna"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1zu5vbp6",
+      "word": "real",
+      "meaning": "really; very",
+      "note": "This is the all-purpose choice for saying that something is really or genuinely so.",
+      "exampleSentences": [
+        {
+          "id": "7ygeaz3g",
+          "english": "You’re real thoughtful.",
+          "traditional": "你真係好有心喎。",
+          "jyutping": "nei5 zan1 hai6 hou2 jau5 sam1 wo3",
           "source": {
             "by": "gpt-5.6-luna"
           }
@@ -123,93 +158,6 @@
       ]
     },
     {
-      "id": "0te3hd3i",
-      "word": "genuinely",
-      "meaning": "truly; sincerely",
-      "note": "This is the all-purpose colloquial choice for saying that something is genuinely or truly the case.",
-      "exampleSentences": [
-        {
-          "id": "gxvbeo6b",
-          "english": "The milk tea at this cha chaan teng is genuinely good.",
-          "traditional": "呢間茶記啲奶茶真係好飲。",
-          "jyutping": "ne1 gaan1 caa4 gei3 di1 naai5 caa4 zan1 hai6 hou2 jam2",
-          "source": {
-            "by": "gpt-5.6-luna"
-          }
-        }
-      ]
-    },
-    {
-      "id": "54xi3b36",
-      "word": "all right",
-      "meaning": "definitely; certainly",
-      "note": "Use 真係 when “all right” emphatically confirms that something really happened or is certainly true.",
-      "exampleSentences": [
-        {
-          "id": "5roumtp8",
-          "english": "Ming really did come first in the exam, all right.",
-          "traditional": "阿明真係考到第一名。",
-          "jyutping": "aa3 ming4 zan1 hai6 haau2 dou3 dai6 jat1 ming4",
-          "source": {
-            "by": "gpt-5.6-luna"
-          }
-        }
-      ]
-    },
-    {
-      "id": "zmza0xzv",
-      "word": "bloody",
-      "meaning": "expletive adverb",
-      "note": "Use this for emphatic or incredulous force when the English expletive does not need to sound vulgar.",
-      "exampleSentences": [
-        {
-          "id": "wp0szq3h",
-          "english": "Bloody hell, that’s actually allowed?",
-          "traditional": "真係咁都得㗎？",
-          "jyutping": "zan1 hai6 gam3 dou1 dak1 gaa3",
-          "source": {
-            "by": "gpt-5.6-luna"
-          }
-        }
-      ]
-    },
-    {
-      "id": "b6tyaqfr",
-      "word": "actually",
-      "meaning": "really; in fact",
-      "register": "colloquial",
-      "note": "Use this when “actually” means “really” and adds emphasis rather than simply correcting the listener.",
-      "exampleSentences": [
-        {
-          "id": "oyvwogjn",
-          "english": "It’s actually unbearably hot today.",
-          "traditional": "真係今日熱到頂唔順。",
-          "jyutping": "zan1 hai6 gam1 jat6 jit6 dou3 deng2 m4 seon6",
-          "source": {
-            "by": "gpt-5.6-luna"
-          }
-        }
-      ]
-    },
-    {
-      "id": "n9l9mybx",
-      "word": "right",
-      "meaning": "actually; really",
-      "register": "colloquial",
-      "note": "For the actually or really sense, 真係 is the all-purpose spoken choice.",
-      "exampleSentences": [
-        {
-          "id": "v4g5kbg8",
-          "english": "This shop really is a good buy, right?",
-          "traditional": "呢間舖真係抵買㗎喎。",
-          "jyutping": "ni1 gaan1 pou3 zan1 hai6 dai2 maai5 gaa3 wo3",
-          "source": {
-            "by": "gpt-5.6-luna"
-          }
-        }
-      ]
-    },
-    {
       "id": "fbcr8o36",
       "word": "properly",
       "meaning": "really; thoroughly",
@@ -220,42 +168,6 @@
           "english": "I am properly exhausted today and do not want to move.",
           "traditional": "我今日真係攰到唔想郁。",
           "jyutping": "ngo5 gam1 jat6 zan1 hai6 gui6 dou3 m4 soeng2 juk1",
-          "source": {
-            "by": "gpt-5.6-luna"
-          }
-        }
-      ]
-    },
-    {
-      "id": "utvh80m0",
-      "word": "altogether",
-      "meaning": "intensifier: quite; really",
-      "register": "colloquial",
-      "note": "Use 真係 before an adjective or evaluation when altogether means really or clearly, rather than completely.",
-      "exampleSentences": [
-        {
-          "id": "4xk3kyk2",
-          "english": "This film is altogether fantastic.",
-          "traditional": "呢套戲真係好睇。",
-          "jyutping": "ni1 tou3 hei3 zan1 hai6 hou2 tai2",
-          "source": {
-            "by": "gpt-5.6-luna"
-          }
-        }
-      ]
-    },
-    {
-      "id": "e9izdium",
-      "word": "though",
-      "meaning": "emphatic tag question",
-      "register": "colloquial",
-      "note": "Use this when the emphatic sense is “indeed” or “really,” rather than a rhetorical tag such as “係咪先.”",
-      "exampleSentences": [
-        {
-          "id": "oa3rzhy4",
-          "english": "It really is cold, though.",
-          "traditional": "今日真係凍喎。",
-          "jyutping": "gam1 jat6 zan1 hai6 dung3 wo3",
           "source": {
             "by": "gpt-5.6-luna"
           }
@@ -281,6 +193,59 @@
       ]
     },
     {
+      "id": "utvh80m0",
+      "word": "altogether",
+      "meaning": "intensifier: quite; really",
+      "register": "colloquial",
+      "note": "Use 真係 before an adjective or evaluation when altogether means really or clearly, rather than completely.",
+      "exampleSentences": [
+        {
+          "id": "4xk3kyk2",
+          "english": "This film is altogether fantastic.",
+          "traditional": "呢套戲真係好睇。",
+          "jyutping": "ni1 tou3 hei3 zan1 hai6 hou2 tai2",
+          "source": {
+            "by": "gpt-5.6-luna"
+          }
+        }
+      ]
+    },
+    {
+      "id": "54xi3b36",
+      "word": "all right",
+      "meaning": "definitely; certainly",
+      "note": "Use 真係 when “all right” emphatically confirms that something really happened or is certainly true.",
+      "exampleSentences": [
+        {
+          "id": "5roumtp8",
+          "english": "Ming really did come first in the exam, all right.",
+          "traditional": "阿明真係考到第一名。",
+          "jyutping": "aa3 ming4 zan1 hai6 haau2 dou3 dai6 jat1 ming4",
+          "source": {
+            "by": "gpt-5.6-luna"
+          }
+        }
+      ]
+    },
+    {
+      "id": "n9l9mybx",
+      "word": "right",
+      "meaning": "actually; really",
+      "register": "colloquial",
+      "note": "For the actually or really sense, 真係 is the all-purpose spoken choice.",
+      "exampleSentences": [
+        {
+          "id": "v4g5kbg8",
+          "english": "This shop really is a good buy, right?",
+          "traditional": "呢間舖真係抵買㗎喎。",
+          "jyutping": "ni1 gaan1 pou3 zan1 hai6 dai2 maai5 gaa3 wo3",
+          "source": {
+            "by": "gpt-5.6-luna"
+          }
+        }
+      ]
+    },
+    {
       "id": "tzypgw80",
       "word": "ever",
       "meaning": "emphatic intensifier",
@@ -292,6 +257,41 @@
           "english": "Who would ever do that?",
           "traditional": "邊個真係會咁樣做㗎？",
           "jyutping": "bin1 go3 zan1 hai6 wui5 gam2 joeng2 zou6 gaa3",
+          "source": {
+            "by": "gpt-5.6-luna"
+          }
+        }
+      ]
+    },
+    {
+      "id": "e9izdium",
+      "word": "though",
+      "meaning": "emphatic tag question",
+      "register": "colloquial",
+      "note": "Use this when the emphatic sense is “indeed” or “really,” rather than a rhetorical tag such as “係咪先.”",
+      "exampleSentences": [
+        {
+          "id": "oa3rzhy4",
+          "english": "It really is cold, though.",
+          "traditional": "今日真係凍喎。",
+          "jyutping": "gam1 jat6 zan1 hai6 dung3 wo3",
+          "source": {
+            "by": "gpt-5.6-luna"
+          }
+        }
+      ]
+    },
+    {
+      "id": "zmza0xzv",
+      "word": "bloody",
+      "meaning": "expletive adverb",
+      "note": "Use this for emphatic or incredulous force when the English expletive does not need to sound vulgar.",
+      "exampleSentences": [
+        {
+          "id": "wp0szq3h",
+          "english": "Bloody hell, that’s actually allowed?",
+          "traditional": "真係咁都得㗎？",
+          "jyutping": "zan1 hai6 gam3 dou1 dak1 gaa3",
           "source": {
             "by": "gpt-5.6-luna"
           }

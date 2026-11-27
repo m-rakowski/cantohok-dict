@@ -3,6 +3,23 @@
   "partOfSpeech": "verb",
   "english": [
     {
+      "id": "1xujox6a",
+      "word": "say",
+      "meaning": "tell / say",
+      "note": "Use 話 when reporting what someone says or introducing a rumour or commonly repeated statement.",
+      "exampleSentences": [
+        {
+          "id": "kqryl1h5",
+          "english": "People say the shop will close next month.",
+          "traditional": "聽人話間舖下個月結業。",
+          "jyutping": "ting1 jan4 waa6 gaan1 pou3 haa6 go3 jyut6 git3 jip6",
+          "source": {
+            "by": "gpt-5.6-luna"
+          }
+        }
+      ]
+    },
+    {
       "id": "2k7vv8k6",
       "word": "remark",
       "meaning": "state; say",
@@ -13,24 +30,6 @@
           "english": "I want to remark that today's wind is really strong.",
           "traditional": "我想話，今日啲風真係大。",
           "jyutping": "ngo5 soeng2 waa6 gam1 jat6 di1 fung1 zan1 hai6 daai6",
-          "source": {
-            "by": "gpt-5.6-luna"
-          }
-        }
-      ]
-    },
-    {
-      "id": "k4rw7dqr",
-      "word": "allege",
-      "meaning": "claim without proof",
-      "register": "colloquial",
-      "note": "Use this as the everyday all-purpose way to report that someone claims something, especially when the context makes clear it is unproven.",
-      "exampleSentences": [
-        {
-          "id": "d90icryz",
-          "english": "They allege that the shop sells counterfeit goods, but we still need evidence.",
-          "traditional": "佢話間舖頭賣假貨，我哋仲要搵證據先。",
-          "jyutping": "keoi5 waa6 gaan1 pou3 tau2 maai6 gaa2 fo3 ngo5 dei6 zung6 jiu3 wan2 zing3 geoi3 sin1",
           "source": {
             "by": "gpt-5.6-luna"
           }
@@ -55,16 +54,17 @@
       ]
     },
     {
-      "id": "1xujox6a",
-      "word": "say",
-      "meaning": "tell / say",
-      "note": "Use 話 when reporting what someone says or introducing a rumour or commonly repeated statement.",
+      "id": "k4rw7dqr",
+      "word": "allege",
+      "meaning": "claim without proof",
+      "register": "colloquial",
+      "note": "Use this as the everyday all-purpose way to report that someone claims something, especially when the context makes clear it is unproven.",
       "exampleSentences": [
         {
-          "id": "kqryl1h5",
-          "english": "People say the shop will close next month.",
-          "traditional": "聽人話間舖下個月結業。",
-          "jyutping": "ting1 jan4 waa6 gaan1 pou3 haa6 go3 jyut6 git3 jip6",
+          "id": "d90icryz",
+          "english": "They allege that the shop sells counterfeit goods, but we still need evidence.",
+          "traditional": "佢話間舖頭賣假貨，我哋仲要搵證據先。",
+          "jyutping": "keoi5 waa6 gaan1 pou3 tau2 maai6 gaa2 fo3 ngo5 dei6 zung6 jiu3 wan2 zing3 geoi3 sin1",
           "source": {
             "by": "gpt-5.6-luna"
           }

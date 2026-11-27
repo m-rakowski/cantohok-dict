@@ -3,6 +3,41 @@
   "partOfSpeech": "verb",
   "english": [
     {
+      "id": "0hfrll6m",
+      "word": "request",
+      "meaning": "ask for something",
+      "register": "formal",
+      "note": "Use this for a formal or firm request for something or for someone to do something.",
+      "exampleSentences": [
+        {
+          "id": "pk5t7q2w",
+          "english": "The company makes a formal request for us to submit all the documents within seven days.",
+          "traditional": "公司要求我哋七日內交齊文件。",
+          "jyutping": "gung1 si1 jiu1 kau4 ngo5 dei6 cat1 jat6 noi6 gaau1 cai4 man4 gin6",
+          "source": {
+            "by": "gpt-5.6-luna"
+          }
+        }
+      ]
+    },
+    {
+      "id": "rwi3p048",
+      "word": "require",
+      "meaning": "make necessary / oblige",
+      "note": "Use this when a person or authority demands something or insists that someone do it, rather than merely stating that it is necessary.",
+      "exampleSentences": [
+        {
+          "id": "3vq6snho",
+          "english": "The boss does require me to hand in the report today.",
+          "traditional": "老闆要求我今日交報告。",
+          "jyutping": "lou5 baan2 jiu1 kau4 ngo5 gam1 jat6 gaau1 bou3 gou3",
+          "source": {
+            "by": "gpt-5.6-luna"
+          }
+        }
+      ]
+    },
+    {
       "id": "39w2jkrj",
       "word": "demand",
       "meaning": "demand forcefully",
@@ -47,41 +82,6 @@
           "english": "I desire you to hand in the report tomorrow.",
           "traditional": "我要求你聽日交份報告畀我。",
           "jyutping": "ngo5 jiu1 kau4 nei5 ting1 jat6 gaau1 fan6 bou3 gou3 bei2 ngo5",
-          "source": {
-            "by": "gpt-5.6-luna"
-          }
-        }
-      ]
-    },
-    {
-      "id": "0hfrll6m",
-      "word": "request",
-      "meaning": "ask for something",
-      "register": "formal",
-      "note": "Use this for a formal or firm request for something or for someone to do something.",
-      "exampleSentences": [
-        {
-          "id": "pk5t7q2w",
-          "english": "The company makes a formal request for us to submit all the documents within seven days.",
-          "traditional": "公司要求我哋七日內交齊文件。",
-          "jyutping": "gung1 si1 jiu1 kau4 ngo5 dei6 cat1 jat6 noi6 gaau1 cai4 man4 gin6",
-          "source": {
-            "by": "gpt-5.6-luna"
-          }
-        }
-      ]
-    },
-    {
-      "id": "rwi3p048",
-      "word": "require",
-      "meaning": "make necessary / oblige",
-      "note": "Use this when a person or authority demands something or insists that someone do it, rather than merely stating that it is necessary.",
-      "exampleSentences": [
-        {
-          "id": "3vq6snho",
-          "english": "The boss does require me to hand in the report today.",
-          "traditional": "老闆要求我今日交報告。",
-          "jyutping": "lou5 baan2 jiu1 kau4 ngo5 gam1 jat6 gaau1 bou3 gou3",
           "source": {
             "by": "gpt-5.6-luna"
           }
